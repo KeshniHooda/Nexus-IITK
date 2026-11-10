@@ -1,0 +1,134 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course
+
+1.  Course No: MSE6XX
+
+2.  Course Title: Design and Reliability Aspects of Semiconductor Packaging
+
+3.  Per Week Lectures:  (L), Tutorial: 3 (T), Laboratory: 0  (P), Additional Hours [0-
+
+2]: 0 (A), Credits (3*L+2*T+P+A): 9         Duration of Course: Full Semester
+
+4.  Proposing Department/IDP: MSE
+
+5.  Other Departments/IDPs which may be interested in the proposed course: EE, ME, CHE
+
+6.  Other faculty members interested in teaching the proposed course:
+
+7.  Proposing Instructor(s): Nilesh Badwe
+
+8.  Course Description:
+
+A) Objectives: Upon successful completion of the course, students will be able to:
+•  Explain semiconductor packaging hierarchies, package architectures, materials, and
+emerging technology trends.
+•  Identify the  electrical, thermal, and mechanical  factors governing semiconductor
+package performance.
+•  Analyze  the  effects  of  material  properties,  thermal  expansion  mismatch,  and
+thermomechanical stresses on package reliability.
+•  Understand finite element-based modeling approaches for evaluating package stresses
+and predicting solder joint fatigue life.
+•  Apply  statistical methods, including Weibull analysis and lifetime  distributions, to
+interpret reliability data and estimate component lifetime.
+•  Evaluate  design  challenges and  reliability  considerations  in advanced  packaging
+technologies, including 2.5D/3D integration, chiplets, and hybrid bonding.
+
+B) Contents (preferably in the form of 5 to 10 broad titles):
+
+No. of
+S. No       Broad Title                            Topics
+Lectures
+
+[PAGE 2]
+Introduction to        Packaging hierarchy, package architectures,
+1     Semiconductor       Moore’s law for packaging, heterogeneous           4
+Packaging              integration, industry trends
+
+Passives, Die-prep processing, IC Assembly,
+Anatomy of a
+2                             Substrates, Encapsulants and Sealants, PCB          10
+Package
+assembly/SMT, Test
+
+Signal and power integrity, parasitic resistance
+and inductance, high-speed interconnects,
+Electrical Design
+3                              crosstalk and electromagnetic interference,           3
+Aspects of Packaging
+electrical testing and characterization techniques,
+Substrate and PCB design
+
+Heat transfer fundamentals, thermal resistance
+and junction temperature, package thermal
+Thermal Design
+4                             design, thermal interface materials and heat sinks,     3
+Aspects of Packaging
+cooling techniques, thermal modeling and
+simulation, thermal characterization
+
+Coefficient of thermal expansion mismatch,
+package warpage, residual stresses, mechanical
+Mechanical Design
+5                                   reliability of interconnects, solder joint fatigue,        5
+Aspects of Packaging
+creep, interface delamination and cracking,
+reliability techniques
+
+Mechanical modeling using finite element analysis
+techniques to identify stresses generated in a
+solder joint, material properties critical to
+6      Reliability modeling    mechanical modeling, different models to            6
+estimate strain energy density generated during
+thermomechanical simulations, solder joint
+fatigue life prediction
+
+Probability distributions for failure analysis,
+Weibull analysis, failure rate and MTBF, reliability
+7      Reliability Statistics    and hazard functions, statistical life data analysis,      4
+confidence intervals, Bayesian methods,
+accelerated life test data analysis
+
+Advanced Packaging   2.5D/3D integration, chiplets, hybrid bonding,
+8                                                                     5
+Case Studies         power packages, package-level design challenges
+
+Total                       40
+
+[PAGE 3]
+C) Pre-requisites, if any: None
+
+D) Short summary for including in the Courses of Study Booklet: This course provides an
+overview of semiconductor packaging architectures, materials, and design principles,
+with emphasis on  electrical, thermal, and mechanical performance.  It introduces
+package-level   reliability  mechanisms,  finite  element-based   reliability  modeling,
+statistical life data analysis, and emerging advanced packaging technologies. Through
+engineering concepts and case studies, students will develop an understanding of the
+relationship between package design, material properties, performance, and long-term
+reliability.
+
+E) Recommended books:
+
+•  Rao  R. Tummala, Eugene   J.  Rymaszewski, and  Alan  G.  Klopfenstein  (Editors),
+Microelectronics Packaging Handbook
+•  Rao R. Tummala, Fundamentals of Microsystems Packaging
+•  John H. Lau, Solder Joint  Reliability of BGA, CSP,  Flip Chip, and Fine Pitch SMT
+Assemblies
+•  John H. Lau, Thermal Stress and Strain in Microelectronics Packaging
+•  William Q. Meeker and Luis A. Escobar, Statistical Methods for Reliability Data
+•  Mohammad Modarres, Mark Kaminskiy, and Vasiliy Krivtsov, Reliability Engineering and
+Risk Analysis: A Practical Guide
+
+9.  Any other
+remarks:
+
+Dated:               Proposer:
+
+Dated:            DUGC/DPGC Convener:
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC
+
+Dated:

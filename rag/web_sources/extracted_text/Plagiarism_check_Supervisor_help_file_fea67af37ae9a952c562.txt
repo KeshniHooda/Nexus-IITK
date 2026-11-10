@@ -1,0 +1,169 @@
+[Page 1]
+Plagiarism Help File
+For Supervisor / Co-Supervisor
+1
+
+[Page 2]
+Contents
+• Plagiarism Module 
+Process Flow
+• Supervisor / Co-
+Supervisor 
+Responsibilities
+• Approval for 
+Submission by 
+Supervisor or Co-
+Supervisor
+Page 3
+Page 5
+Page 6
+• Declaration 
+Submission
+• Plagiarism Module 
+Workflow (detailed)
+Page 15
+Page 20
+2
+
+[Page 3]
+Plagiarism module process flow
+Two stage process
+• Approval for submission of thesis
+• Declaration Submission
+3
+Student 
+(Thesis Submit)
+Supervisor / Co-
+Supervisor
+Thesis 
+Processing Cell 
+(Plagiarism Check)
+Thesis Processing 
+Cell 
+(Declaration Initiation)
+Student
+Supervisor / Co-
+Supervisor
+Thesis Processing 
+Cell 
+(Forwarding for Approval 
+to ADAA / DOAA)
+
+[Page 4]
+In this module
+• The module also provides an option to upload the Similarity Report.
+• The report can be uploaded either by the student or the supervisor/co-
+supervisor.
+• Uploading the Similarity Report is optional for both student and
+supervisor – it is not mandatory.
+• If the report is uploaded, theThesis Processing Cell will cross-verify it.
+4
+
+[Page 5]
+Supervisor / Co-Supervisor Responsibilities
+• Check that the student’s thesis, form details and uploaded documents are
+correct.
+• Verify the Similarity Report if it has been uploaded (when required).
+• Approve the thesis submission on time to avoid delays in the student’s
+submission process.
+• Provide the declaration on time once the plagiarism check is within the
+permissible limit (as confirmed by the PPD).
+5
+
+[Page 6]
+Approval for Submission
+By Supervisor 
+or 
+Co-Supervisor
+6
+
+[Page 7]
+Step 1: Navigate to path: Plagiarism > Thesis Processing Cell > PPD Processing 
+Form Approval
+7
+
+[Page 8]
+Step 2: Select the Form Status as “Submitted” from the dropdown 
+then click on “Show” button
+8
+
+[Page 9]
+Step 3: Click on “View” button, to view the uploaded documents by students. 
+It will be displayed in a form-view style.
+9
+
+[Page 10]
+10
+Form-view style
+Click on buttons against to view the uploads by students.
+
+[Page 11]
+Step 4: First select the entry, then click on the button
+“+Approval for Submission / Declaration”
+11
+
+[Page 12]
+Step 5: You may upload the revised thesis, other enclosures, or the Similarity Report (if needed).
+Any new upload will replace the files earlier uploaded by the student. These uploads are
+optional. Before clicking the Submit button, you must check the box as shown in the figure
+below.
+Please Note: The Thesis file must be in PDF format and under 99 MB, while all other uploaded
+documents should also be in PDF format.
+12
+
+[Page 13]
+Note: If you uploaded an incorrect file, click on the Remove button to delete it.
+13
+
+[Page 14]
+Step 6: Once submitted, it is forwarded to Plagiarism Prevention Desk (PPD). 
+And the status will be changed to “Forwarded to PPD”
+14
+
+[Page 15]
+Declaration Submission
+By Supervisor 
+or 
+Co-Supervisor
+15
+
+[Page 16]
+Step 1: Navigate to path: Plagiarism > Thesis Processing Cell > PPD Processing 
+Form Approval
+16
+
+[Page 17]
+Step 2: Select the Form Status as “Declaration forwarded to Supervisor” from
+the dropdown then click on “Show” button
+17
+
+[Page 18]
+Step 3: Tick the check-box and click on the “Submit” button. After submission, the application
+will move to the Plagiarism Prevention Desk (PPD) for processing.
+18
+
+[Page 19]
+At this stage of process
+• Declaration Submission Only: In this stage, you are allowed to submit only
+the declaration. No other actions are permitted.
+• No Document Changes: Document cannot be modified, replaced, or
+removed during this process.
+• No Form Edits: The form becomes non-editable at this stage. You will not
+be able to make any corrections or updates to the details already entered.
+19
+
+[Page 20]
+Plagiarism Module Workflow
+20
+
+[Page 21]
+Conclusion
+• Supervisors and Co-Supervisors are responsible for endorsing students' plagiarism 
+reports and ensuring compliance with academic integrity policies. By following the 
+outlined process, they contribute to maintaining the quality and credibility of research 
+submissions. 
+• For any issues, supervisors can contact the PPD Cell (ppd_doaa@iitk.ac.in) for 
+assistance. 
+• For technical issues, supervisors can contact Pingala Support (pingala@iitk.ac.in) for 
+assistance.
+21

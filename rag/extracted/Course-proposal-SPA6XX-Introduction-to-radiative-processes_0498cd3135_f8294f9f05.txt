@@ -1,0 +1,35 @@
+[PAGE 1]
+Proposal for a new modular course
+
+1. Modular Course No: SPA 6xx
+2. Modular Course Name: Introduction to radiative processes
+3. Class strategy: Lectures per week: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional hours: (0-2): 0
+(A), Duration of Course: half semester, Module credit: 5 (3-0-0-0)
+4. Proposing department: SPASE
+5. Proposing Instructor: Kartick Sarkar
+6. Course Description:
+A. Objective: Studying the universe is mostly done via understanding the electromagnetic radiation that
+each source emits. The nature of the spectrum indicates the underlying physical processes. This course in-
+tends to teach the processes that generate electromagnetic radiation.
+B. Content:
+i. Ionization processes (3 L): Basic quantum mechanics concepts (energy levels, wave-particle du-
+ality), Collisional ionization, photo-ionization, recombination, ionization equilibrium, HII regions (Strom-
+gren sphere), Saha ionization
+ii. Emission and absorption of thermal plasma (5 L): Bound-Bound transitions, Spontaneous/stim-
+ulated transitions, Einstein’s coefficient, emission/absorption lines, emissivity and absorption coefficient,
+doppler/Lorentz broadening, Free-Free emission, Thompson scattering, example of a spectrum and its
+features
+iii. Heating and Cooling (2L): Photo-heating, cooling curve, thermal equilibrium, thermal instability,
+multiphase gas (interstellar medium)
+iv. Radiative Transfer (6 L): Radiative transfer equation, thermal radiation (Kirchhoff’s law, black-
+body radiation, Rayleigh-Jeans law), brightness temperature, Scattering and diffusion, radiation as a fluid
+(Eddington approximation), gray atmosphere, green house effect
+v. Non-Thermal Radiation (4 L): Synchrotron Radiation, beaming effect, polarization, Compton/in-
+verse-Compton Scattering
+
+C. Prerequisites: None
+D. Short summary for including in the course study booklet: Ionization states of a plasma, emission
+and absorption processes, heating and cooling, radiative transfer
+7. Books and references:
+1.  Physics of the Interstellar and Intergalactic Medium: Bruce Draine
+2.  Radiative Processes in Astrophysics: Rybicki & Lightman

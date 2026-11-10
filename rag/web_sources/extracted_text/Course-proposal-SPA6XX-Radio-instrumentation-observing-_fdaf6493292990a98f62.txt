@@ -1,0 +1,52 @@
+[Page 1]
+Proposal for a new modular course 
+ 
+1. Modular Course No: SPA 6xx 
+2. Modular Course Name: Radio instrumentation, observing techniques and data 
+analyses 
+3. Class strategy: Lectures per week: 0 (L), Tutorial: 2 (T), Laboratory: 1 (P), Additional 
+hours: (0-2): 0 (A), Duration of Course: Full semester, Credit: 5 (3-0-0-0) 
+4. Proposing department: SPASE 
+5. Proposing Instructor: Amitesh Omar/ Avinash Deshpande 
+6. Course Description: 
+ A. Objective: This course aims to provide comprehensive knowledge on 
+instrumentation, observing techniques, and data analyses related to radio astronomy via 
+tutorials and lab experiments. This course will be in the basket of compulsory courses for 
+the PhD students and MTech students. 
+ B. Content: 
+Tutorials: Each tutorial will be 50 minutes 
+1. Basics of Radio Astronomy Receivers: Antenna design, Receiver chain, Heterodyning, 
+sampling (3) 
+2. Signal Processing: Correlation, convolution, Fast Fourier Transform, dynamic 
+spectrum (3) 
+3. Signal Properties: Noise, coherence, interferometry, complex visibility (3) 
+4. Radio observations, calibration and data analyses techniques (4) 
+Lab Component: 
+The first part of the lab will be devoted to setting up an analog receiver chain and suitable 
+digital backend for data collection, and characterising its performance. 
+ 
+This set up will be used to attempt the following: 
+ 
+1. Spectral-line observation, using HI Horn antenna and employing various 
+calibration techniques (including frequency/load/position switchings, etc) 
+2. Noise source simulator and cross correlation, to develop hands-on understanding 
+towards interferometry.
+
+[Page 2]
+3. Two-element/multi-element interferometer, and continuum observations of a sky 
+region and/or specific sources (e.g., Sun). 
+4. Radio frequency interference detection and mitigation techniques 
+5. Radio data analyses and estimation of source properties. 
+In addition, students will be explicitly encouraged to go beyond the above agenda and 
+explore the radio sky. 
+ 
+ C. Prerequisites: None 
+ 
+ D. Short summary for including in the course study booklet: Radio Astronomy 
+Concepts and Techniques, Receiver systems, Signal Processing, Observations and 
+Calibration. 
+ 
+7. Books and references: 
+1. Radio Astronomy: Kraus 
+2. Interferometry and Synthesis in Radio Astronomy: Thompson, Moran and 
+Swenson

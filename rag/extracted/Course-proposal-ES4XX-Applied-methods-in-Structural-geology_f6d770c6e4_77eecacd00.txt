@@ -1,0 +1,56 @@
+[PAGE 1]
+Department of Earth Sciences
+Indian Institute of Technology Kanpur
+
+1.  Course Title:   Applied methods in structural geology
+2.  Course Number: ES4XX
+3.  Department: Earth Sciences
+4.  Proposing Instructor(s): Amar Agarwal
+5.  Units: [Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours [0-2]: 0(A)], Credits
+(3*L+0*T+0*P+0*A): 9
+6.  Course Type: Departmental Elective (UG)
+7.  Prerequisite: none
+8.  Other Interested Faculty: none
+9.  Course Description:
+a) Objectives: Introduce students with structural geological techniques having industrial applications.
+b) Contents (preferably in the form of 5 to 10 broad titles):
+
+No. of
+S. No.        Broad Title                                     Topics
+Lectures
+1            Introduction         • Introduction to structural discontinuities (SD) at outcrop scale      5
+2   Mapping and representation  • Stereographic projections and structural maps                  7
+• Characterizing SD from point cloud data using open-source
+Characterization and analysis
+3                                 software                                                7
+of SD
+• Kinematic analysis
+• Nomenclature
+Understanding natural
+4                              • Characteristics and dimension                               6
+fractures
+• Mechanics of extension and shear fractures
+Measurement and analysis of • Measuring and analysing fracture data in cores and hand
+5                                                                                     5
+fractures            samples
+• Effects of fracture system
+Effects of natural fractures on
+6                              • Volumetrics                                              5
+reservoirs
+• Interactions between natural and hydraulic fractures
+• Spectroscopic (XRD, Raman)
+Techniques for damage and
+7                              • Rock magnetic                                            5
+fatigue quantification
+• Acoustic
+Total                             40
+10. Recommended books:
+1. Applied concepts in fractured reservoirs. J.C. Lorenz and S.C. Cooper.
+
+Proposers: __Amar Agarwal__                                  Date: 03/October/2024
+
+This course is APPROVED/NOT APPROVED                  Convener, DUGC, ES
+
+This course is APPROVED/NOT APPROVED                 Chairman, SUGC
+
+Page 1 of 1

@@ -1,0 +1,1052 @@
+[Page 1]
+Report of Core Curriculum Committee 
+Second (II) Semester of the Year 2019-20 
+ 
+1. Guidelines for Drawing Instructors and Tutors from Various Departments 
+ 
+1.1 List of Core Courses and respective Departments handling them as per MA Committee and/or agreements between/among departments when 
+Instructors are drawn from Multiple Departments 
+ 
+Course No. and Title 
+Department 
+ 
+2018-19 & 2019-20 
+2020-21 & 2021-22 
+2022-23 & 2023-24 
+2024-25 & 2025-26 
+TA101(Engineering Graphics) 
+CE 
+ME 
+CE 
+AE 
+ESO201(Thermodynamics) 
+AE 
+CHE 
+ME 
+CHE 
+ESO202(Solid Mechanics) 
+ME 
+CE 
+AE 
+CE 
+ESO204(Fluid Mechanics) 
+CHE 
+AE 
+CHE 
+ME 
+HSO201(Applied Probability & Statistics) 
+CE & ECO 
+ECO& CE 
+ECO 
+CE & ECO 
+HSS-1 
+HSS/ECO 
+HSS/ECO 
+HSS/ECO 
+HSS/ECO 
+HSS-2 
+HSS/ECO 
+HSS/ECO 
+HSS/ECO 
+HSS/ECO 
+ 
+1.2 List of Core Courses and respective Departments handling them as per MA Committee When Instructors are drawn from a Fixed Department 
+ 
+Department 
+Course(s) 
+BSBE 
+LIF101, ESO206 
+CHM 
+CHM101, CHM102, CHM102R, CSO201, CSO203 
+CE 
+ESO208, HSO201 
+CSE 
+ESC101, ESO207 
+EE 
+ESC201, ESO203 
+ES 
+ESO213 
+HSS 
+COM200 
+ME 
+TA202, ESO209 
+MSE 
+TA201, ESO205 
+MTH 
+MTH101, MTH101R, MTH102, MTH102R, MSO201, MSO202a, MSO203b 
+PHY 
+PHY101, PHY102, PHY103, PSO201 
+ECO 
+HSO201
+
+[Page 2]
+1.3 List of Core Courses and Respective Departments that will provide Theory and Lab Tutors / Instructors 
+
+Course no. 
+Course Name 
+Departments That Provide Tutors / Lab Instructors 
+CHM101 
+Chemistry Lab 
+CHM 
+CHM102A 
+General Chemistry 
+CHM 
+MTH101 
+Mathematics-I 
+MTH 
+MTH101 
+Mathematics-II 
+MTH 
+PHY101 
+Physics Lab 
+PHY 
+PHY102 
+Physics-I 
+PHY 
+PHY103 
+Physics-II 
+PHY 
+ESC101 
+Intro to Computing 
+CSE 
+LIF101 
+Life Science 
+BSBE 
+TA101 
+Engineering Graphics 
+AE, CE, ME 
+HSS-I 
+Humanities-I 
+HSS 
+ESC201 
+Electronics 
+EE 
+TA201 
+Manufacturing Lab 
+MSE 
+TA202 
+Mechanical Lab 
+ME 
+COM200 
+Communication 
+CE, IME, HSS, ES 
+ESO201 
+Thermodynamics 
+AE, CHE, ME 
+ESO202 
+Mechanics of Solids 
+AE, CE, ME 
+ESO203 
+Intro Electrical Engg. 
+EE 
+ESO207 
+Data Structures 
+CSE 
+MSO201A 
+Probability and Statistics 
+MTH, EE 
+PSO201A 
+Quantum Physics 
+PHY 
+HSO201A 
+Applied Probability and Statistics 
+ECO, CE 
+CSO201A 
+Organic Chemistry: Fundamentals and Applications 
+CHM 
+CSO203A 
+Inorganic Molecules, Materials & Medicine 
+CHM 
+
+Note: Table constructed using data from previous years.
+
+[Page 3]
+2. Estimate of Number of Students in Core Courses in Second (II) Semester during the Year 2019-20 
+ 
+Course 
+Group 
+Course No. 
+Course Name 
+Estimated Number of 
+New Students 
+No. of Students 
+Failed in 2018-19(II) 
+No. of Students 
+Registered in 2018-19(II) 
+Final Estimate for 
+2019-20 – Sem. II 
+Second 
+Semester 
+Courses 
+CHM101 
+CHM102 
+MTH102 
+PHY101 
+PHY102 
+PHY103 
+ESC101 
+LIF101 
+TA101 
+Chemistry Lab 
+Gen. Chemistry 
+Mathematics-II 
+Physics Lab 
+Physics-I 
+Physics-II 
+Computing 
+Life Sciences 
+Engineering Graphics 
+500 
+1000 
+1000 
+500 
+500 
+500 
+500 
+500 
+500 
+02 
+12 
+52 
+06 
+07 
+78 
+05 
+79 
+16 
+457 
+897 
+854 
+430 
+443 
+460 
+481 
+436 
+433 
+502 
+1012 
+1052 
+506 
+507 
+575 
+505 
+580 
+513 
+Fourth 
+Semester 
+Courses 
+ESC201 
+TA201 
+TA202 
+COM200 
+Electronics 
+Manufacturing Lab 
+Mechanical Lab 
+Communication Skill 
+450 
+450 
+450 
+350 
+56 
+14 
+14 
+02 
+435 
+397 
+467 
+275 
+510 
+465 
+465 
+350 
+Engineering 
+Science 
+options 
+ESO201 
+ESO202 
+ESO203 
+ESO207 
+Thermodynamics Mechanics 
+of Solids 
+Intro Elect. Engineering 
+Data Structures 
+150 
+210 
+250 
+250 
+14 
+09 
+06 
+09 
+157 
+203 
+253 
+133 
+150 
+210 
+250 
+250 
+Science 
+options 
+MSO201 
+PSO201 
+CSO201 
+CSO203 
+
+HSO201 
+Probability & Statistics 
+Quantum Physics 
+Organic Chemistry: 
+Inorganic Molecules, 
+Materials & Medicine 
+Applied Probability and 
+Statistics 
+350 
+150 
+210 
+210 
+ 
+150 
+04 
+11 
+0 
+0 
+ 
+05 
+ 
+284 
+139 
+0 
+196 
+ 
+155 
+350 
+150 
+210 
+210 
+ 
+210 
+Repeat 
+MTH101 
+Mathematics-I 
+75 
+08 
+57 
+100 
+HSS Courses 
+HSS-I 
+Humanities-I 
+500 
+
+500 
+HSS-II 
+Humanities-II 
+1450 
+
+1450
+
+[Page 4]
+3. Teaching Support Requirement 
+ 
+Course No. 
+Course Name 
+Units 
+No. of Students 
+(Estimate) 
+Student per 
+Section (Appx) 
+Number of tutors required 
+Total Units (Inst.+tut/lab) 
+ 
+Theory Tutors 
+Lab. Tutors Instruction Units 
+Total Units 
+CHM101A 
+Chemistry lab 
+0-0-3[3] 
+510 
+35 
+ 
+14 
+1 
+14+1=15 
+CHM102A 
+Gen. Chemistry 
+2-1-0[8] 
+1010 
+38 
+26 
+ 
+3 
+26+3=29 
+MTH102A 
+Mathematics-II 
+3-1-0[11] 
+1010 
+100 
+10 
+ 
+4 
+10+4=14 
+PHY101A 
+Physics Lab 
+0-0-3[3] 
+510 
+35 
+ 
+14 
+1 
+14+1=15 
+PHY102A 
+Physics-I 
+3-1-0[11] 
+510 
+100 
+6 
+ 
+2 
+6+2=8 
+PHY103A 
+Physics-II 
+3-1-0[11] 
+580 
+100 
+6 
+ 
+2 
+6+2=8 
+ESC101A 
+Computing 
+3-1-3[14] 
+510 
+35 
+14 
+14 
+2 
+14+2=16 
+LIF101A 
+Life Science 
+2-0-0[6] 
+510 
+35 
+
+1.5 
+0+1.5=1.5 
+TA101A 
+Engineering Graphics 
+2-0-3[9] 
+510 
+35 
+ 
+14 
+1.5 
+14+1.5=15.5 
+ESC201A 
+Electronics 
+3-1-3[14] 
+510 
+35 
+15 
+15 
+2 
+15+2=17 
+TA201A 
+Manufacturing Lab 
+1-0-3[6] 
+465 
+90 
+ 
+5 
+1 
+5+1=6 
+TA202A 
+Mechanical Lab 
+1-0-3[6] 
+465 
+90 
+ 
+5 
+1 
+5+1=6 
+COM200 
+Communication Skill 
+1-0-2[5] 
+350 
+35 
+ 
+10 
+1 
+10+1=11 
+ESO201A 
+Thermodynamics 
+3-1-0[11] 
+150 
+35 
+4 
+ 
+2 
+4+2=6 
+ESO202A 
+Mechanics of Solids 
+3-1-0[11] 
+210 
+35 
+6 
+ 
+2 
+6+2=8 
+ESO203A 
+Intro Elect. Engineering 
+3-1-2[13] 
+250 
+35 
+7 
+7 
+2 
+7+2=9 
+ESO207A 
+Data Structure 
+3-0-0[09] 
+250 
+
+ 
+2 
+0+2=2 
+MSO201A 
+Probability and Statist 
+3-1-0[11] 
+310 
+100 
+3 
+ 
+2 
+3+2=5 
+PSO201A 
+Quantum Mechanics 
+2-1-0[8] 
+150 
+35 
+4 
+ 
+1.5 
+4+1.5=5.5 
+CSO201A 
+Basic Org. Chem. 
+3-1-0[11] 
+210 
+35 
+6 
+ 
+2 
+6+2=8 
+CSO203A 
+Inorg. Molecules, Mat. & 
+Medicine 
+3-1-0[11] 
+210 
+35 
+6 
+ 
+2 
+6+2=8 
+HSO201A 
+Applied Prob. & Stat. 
+3-1-0[11] 
+210 
+70 
+3 
+ 
+2 
+3+2=5 
+MTH101R 
+Mathematics-I 
+3-1-0[11] 
+75 
+100 
+1 
+ 
+1.5 
+1+1.5=2.5 
+HSS-I (1) 
+Humanities-I 
+3-1-0-[11] 
+500 
+40 
+12 
+ 
+2 
+12+2=14 
+HSS-II 
+Humanities-II 
+3-0-0-[09] 
+1450 
+
+ 
+4 
+4 
+ 
+Note 
+1. When a course has tutorials and lab, then the tutor is supposed to take care of both. 
+ 2. Instruction units: Only lab course: 1.0; Lecture Course (class size < 60): 1.0; 
+Lecture Course (60 _class size < 150): 1.5; Lecture Course (150 _class size < 600): 2.0 (3 lec/wk), 1.5 (2 lec/wk), 1.0 (1 lec/wk); 
+Lecture Course (600 _class size): 4.0 (3 lec/wk), 3.0 (2 lec/wk), 2.0 (1 lec/wk); Tutorials: 1.0 
+3. TA201 lab capacity is 90 and it is split into 3 sections. One instructor handles all the 3 sections simultaneously. 
+ In all other courses the section size may be increased by at most 5.
+
+[Page 5]
+4. Department/IDP-wise Breakup of Instructor’s and/or Tutors for Core Courses in Second (II) Semester during the Year 2019-20 
+ 
+Course No. 
+Course Name 
+Units 
+Reqd 
+AE 
+BSBE 
+CHE 
+CE 
+CSE 
+EE 
+IME 
+ME 
+MSE 
+CHM 
+MTH 
+PHY 
+HSS 
+ 
+ECO 
+ES 
+TOTAL 
+CHM 101 
+Chemistry Lab 
+15 
+
+ 
+
+ 
+
+ 
+14 + 1 
+
+ 
+
+13+1=15 
+CHM 102 
+Gen Chemistry 
+29 
+
+ 
+
+ 
+
+ 
+26 + 3 
+
+ 
+
+26+3=29 
+MTH 102 
+Mathematics-II 
+14 
+
+ 
+
+ 
+
+ 
+ 
+10+4 
+
+ 
+ 
+10+4=14 
+PHY101 
+Physics Lab 
+15 
+
+ 
+
+ 
+
+ 
+
+14 +1 
+
+ 
+14+1=15 
+PHY102 
+Physics-I 
+8 
+
+ 
+
+ 
+
+ 
+
+6+2 
+
+ 
+6+2=8 
+PHY103 
+Physics -II 
+8 
+
+ 
+
+ 
+
+ 
+
+6+2 
+
+ 
+6+2=8 
+ESC101 
+Fund. of Computing 
+16 
+
+ 
+ 
+14+2 
+
+ 
+
+ 
+
+ 
+ 
+14+2=16 
+LIF101 
+Life Sciences 
+1.5 
+ 
+0+1.5 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+0+1.5=1.5 
+TA101 
+Engineering Graphics 
+15.5 
+5+0 
+
+4+1.5 
+
+ 
+5+0 
+
+ 
+
+ 
+ 
+14+1.5=15.5 
+ESC201 
+Electronics 
+17 
+
+ 
+
+15+2 
+
+ 
+
+ 
+
+ 
+15+2=17 
+TA201 
+Manufact. Proc. (MSE) 
+6 
+
+ 
+
+ 
+
+5+1 
+
+ 
+
+ 
+5+1=6 
+TA202 
+Manufact. Proc. (ME) 
+6 
+
+ 
+
+ 
+ 
+5+1 
+
+ 
+
+ 
+ 
+5+1=6 
+COM200 
+Communication Skills 
+11 
+
+ 
+2+0 
+
+6+0 
+
+ 
+
+2+1 
+
+10+1=11 
+ESO201 
+Thermodynamics 
+6 
+0+2 
+ 
+1+0 
+
+ 
+ 
+3+0 
+
+ 
+
+ 
+ 
+4+2=6 
+ESO202 
+Mechanics of Solids 
+8 
+1+0 
+
+3+0 
+
+ 
+1+2 
+1+0 
+
+ 
+
+ 
+6+2=8 
+ESO203 
+Intro. Electrical Engg. 
+9 
+
+ 
+
+7+2 
+
+ 
+
+ 
+
+ 
+7+2=9 
+ESO207 
+Data Structures 
+2 
+
+ 
+ 
+0+2 
+
+ 
+
+ 
+
+ 
+ 
+0+2=2 
+MSO201 
+Probability & Statistics 
+5 
+
+ 
+
+2+0 
+
+ 
+ 
+1+2 
+
+ 
+ 
+3+2=5 
+PSO201 
+Quantum Mechanics 
+5.5 
+
+ 
+
+ 
+
+2+0 
+
+2+1.5 
+
+ 
+4+1.5=5.5 
+CSO201 
+Basic Org. Chem. 
+8 
+
+ 
+
+ 
+
+ 
+6+2 
+
+ 
+
+6+2=8 
+CSO203 
+Inorg. Molecules, Mat. 
+8 
+
+ 
+
+ 
+
+ 
+6+2 
+
+ 
+
+6+2=8 
+HSO201 
+Applied Prob. & Stat. 
+5 
+
+ 
+0+2 
+
+ 
+
+ 
+
+ 
+2+1 
+ 
+2+3=5 
+MTH101R 
+Mathematics-I 
+2.5 
+
+ 
+
+ 
+
+ 
+ 
+1+1.5 
+
+ 
+ 
+1+1.5=2.5 
+HSS-I 
+Humanities-I (*) 
+14 
+
+ 
+
+ 
+
+ 
+
+ 
+1+12 
+1+0 
+ 
+2+12=14 
+HSS-II 
+Humanities-II (*) 
+4 
+
+ 
+
+ 
+
+ 
+
+ 
+3+0 
+1+0 
+ 
+4+0 
+Total Load Assigned 
+8 
+1.5 
+1 
+12.5 
+18 
+28 
+6 
+17 
+9 
+60 
+19.5 
+34.5 
+19 
+5 
+ 
+239 
+Approximate Faculty Strength 
+28 
+17 
+22 
+37 
+32 
+44 
+17 
+41 
+25 
+35 
+45 
+41 
+28 
+13 
+14 
+ 
+Ratio of Load assigned : Faculty 
+0.28 
+0.08 
+0.04 
+0.33 
+0.56 
+0.64 
+0.35 
+0.41 
+0.36 
+1.71 
+0.43 
+0.84 
+0.67 
+0.39 
+
+ 
+● Units are assigned as ‘m + n’, where ‘m’ indicate instructor units and ‘n’ indicates tutor units. 
+● $ The unit assigned is halved for half semester courses 
+● Economic Sciences shall offer one HSS I and one HSS II each semester.
+
+[Page 6]
+Appendix 
+ 
+A.1: Important Information Regarding Individual Section Sizes for Various Courses and Work Load 
+1. Tutorial section sizes have been fixed based on last year’s SCCC data/report and with inputs from respective HODs. 
+2. One tutor will be assigned per section (normally 35 students) for PHY101 and CHM101 laboratory sessions. 
+3. One tutor will be assigned per day (i.e., per three sections, i.e., ~ 90 students) for TA201 and TA202 labs. 
+4. Tutors assigned for ESC101, ESC201, ESO203 and ESO205 tutorials will also take care of the laboratory sessions of the same sections. 
+5. Increasing the number of sections in any course is undesirable. 
+6. Student number in each section may be increased slightly, i.e., up to 40 in sections normally having 35 students and up to 110 in sections normally having 100 
+students to prevent increase in the number of sections. 
+7. The total registration in some courses has to be restricted considering seating capacity of the lecture hall assigned for the course. 
+8. The number of sections in some ESO/SO courses may be reduced in certain cases after registration, in case the number of students registered is less than expected. 
+9. It is noted that although the total Instruction Units for CHM101 is 15.0, CHM slots these labs four days a week with slightly increased involvement of Tutors.

@@ -1,0 +1,87 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course
+
+1.  Course No: PHY6XX is requested
+2.  Course Title: Introduction to Plasma Astrophysics
+3.  No. of Lectures per week: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours[0-2]: 0 (A),
+Credits (3*L+2*T+P+A): 09                    Duration of Course: Full Semester
+4.  Proposing Department/IDP : PHY.
+Other Departments/IDPs which may be interested in the proposed course: SPASE, Earth Sciences
+Other faculty members interested in teaching the course: Prof. Sagar Chakraborty, Prof. Sudeep
+Bhattacharjee
+5.  Proposing Instructor: Supratik Banerjee and Gopal Hazra (PHY)
+6.  Course Description:
+
+A) Objectives: Astrophysical phenomena, from the majestic glowing of stars to the enigmatic dynamics of galaxies,
+are intricately woven from the fabric of natural plasmas. Delving into these wonders requires a profound grasp of
+plasma physics—an indispensable tool for unravelling the mysteries of the universe. This course offers an
+enthralling journey through the intricate tapestry of astrophysical plasma physics.
+Starting with the definition, basic properties and systematic classification of plasmas, an encouraging discussion will
+be dedicated to various plasma sources and important examples of astrophysical plasmas. Along with a meticulous
+exploration of single particle motion within plasmas, this course will voyage through the kinetic theory and the fluid
+models of plasma. In the framework of single fluid model magnetohydrodynamics (MHD), several aspects of solar
+plasma i.e. the sunspot, solar flare, CMEs, solar wind turbulence will be discussed.
+Besides theory, this course also provides an opportunity for hands-on exploration of astrophysical data analysis.
+Starting from deciphering numerical simulations to unravelling the mysteries hidden within in-situ spacecraft data,
+students will gain invaluable insight into the tools of modern astrophysics thus aiming at a brilliant career in the
+understanding of the cosmos.
+
+B) Contents:
+
+S. No.  Broad Title                                    Topics                           No. of Lectures
+
+1.      Introduction        Basic properties, characteristic length scales and times scales of        5
+plasmas, classification of plasmas, plasma sources, examples of
+space and astrophysical plasmas
+
+2.      Single particle     Motion of single charged particle in electromagnetic fields, ExB        6
+dynamics             drift, gradient drift and curvature drifts, adiabatic invariants, van-
+Allen belt, auroras
+
+3.      Kinetic and fluid    Kinetic model of a plasma, introduction to Vlasov’s equation and        9
+descriptions of     derivation  of  multi-fluid models;  derivation  of equations  in
+plasma             ordinary magnetohydrodynamics (MHD), extension to Hall and
+electron MHD models
+4.   MHD plasma       Properties of MHD fluids, magnetic tension and pressure, ideal        12
+conservation,    linear   wave   modes,    linear    instability,
+incompressible MHD and Elsasser variables, reconnection, MHD
+turbulence, MHD dynamos
+
+[PAGE 2]
+5.      Solar plasma as    Study of solar plasma; sunspot, solar flare, CME, solar wind              8
+an MHD fluid       turbulence, solar dynamo etc.
+
+Total number of lectures:        40
+
+C) Pre-requisites: None
+
+D) Short summary for including in the Courses of Study Booklet: definition and classification of plasmas, motion of a
+single charged particle in a plasma, kinetic theory of plasma, derivation of the multi-fluid equations, reduction to
+the simplest single fluid magnetohydrodynamics (MHD) model, properties of an MHD plasma, ideal invariants of
+MHD, linear modes and linear instabilities of MHD, case study with solar plasma as an MHD fluid: sunspot, solar
+flare, CME, solar wind turbulence, solar dynamo etc., hands-on exploration of astrophysical data analysis
+
+7.  Recommended books:
+(i) Basic Space Plasma Physics, Wolfgang Baumjohann and Rudolf A. Treumann (World Scientific Publishing,
+1996)
+(ii) The Physics of Fluids and Plasmas, Arnab Rai Chaudhuri (Cambridge University Press, 1998)
+(iii) Plasma physics for astrophysicists, Russell M. Kulsrud (Princeton University Press, 2004)
+(iv) Compressible turbulence in space and astrophysical plasmas  : Analytical approach and in-situ data
+analysis for the solar wind, Supratik Banerjee (Ph. D. Thesis, 2014)
+___________________________________________________________________________________________
+
+Dated: 15 March, 2024.
+
+Proposer: Supratik Banerjee and Gopal Hazra
+
+Dated: _______________15/03/2024     DPGC Convener (PHY):___________________
+
+The course is approved / not approved
+
+____________________________________
+
+Chairman, SPGC
+
+Dated:______________________________

@@ -1,0 +1,116 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+Proposal for a New Course
+
+1.  Course Number: CE XXX
+
+2.  Course Title: Computational Fluid Mechanics for Civil Engineering Applications
+
+3.  Per Week Lectures: 3 (L), Tutorial: 0 (T), Lab: 0 (P), Additional Hours: 0; Credits: 3 × L + T + P + A = 9.
+
+4.  Duration of Course: Full Semester
+
+5.  Proposing Department: Department of Civil Engineering
+
+Other Departments/IDPs which may be interested in the proposed course: Mechanical Engineering,
+Chemical Engineering, Aerospace Engineering, Earth Sciences, Sustainable Energy Engineering.
+
+6.  Proposing Instructor: Subhadip Das (Hydraulics and water resources, Civil Engineering)
+
+7.  Overview of the Course: This course provides an introduction to the computational modelling techniques
+for hydrodynamic data acquisition from the flow field. The computational modelling covers the basic
+concepts of the Partial Differential Equations (PDEs), different types of PDEs, conservative and non-
+conservative forms, characteristics analysis/solution for 1st order and 2nd order linear and quasi-linear PDEs,
+harmonic functions and mean value theorem, Eulerian and Lagrangian approaches, fundamentals of
+numerical modelling, numerical stability, consistency and convergence criteria, finite difference and finite
+volume methods (FDM and FVM), Taylor series and discretization, solution techniques and numerical
+schemes for different types of PDEs, first and second order discretization techniques, numerical algorithms
+(SIMPLE, PIMPLE, PISO), numerical stability and convergence, matrix factorization and inversion
+techniques, tri-diagonal and penta-diagonal matrices, Kolmogorov’s theory, turbulence modelling, steady
+and unsteady Reynolds Averaged Navier Stokes (RANS) equations, turbulence closure models (k-ɛ, k-ω,
+RST), Large Eddy Simulation (LES), Smagorinsky model, Direct Numerical Simulation (DNS), structured
+and  unstructured meshing, boundary  conditions, development  of  computational framework  using
+MATLAB and OpenFOAM, implementation of CFD in various Civil Engineering applications. This course
+briefly covers the basic post-processing algorithms of acquired data from computational studies including
+time-averaging of data, Reynolds stress and shear velocity estimation, frequency response analysis.
+
+8.  Applications in Civil Engineering: Hydraulics and water resources engineering (river hydraulics, sediment
+transport, spillway flows, flood modeling, dam-break analysis), structural engineering (wind loading on
+structures, fluid–structure interaction, aerodynamic analysis of bridges and tall buildings), geotechnical
+engineering (seepage through porous media, groundwater flow,  soil erosion and piping  analysis),
+transportation engineering (vehicular aerodynamics, tunnel ventilation, pollutant dispersion in urban
+streets), environmental engineering (air and water pollution dispersion, thermal comfort, wastewater
+treatment, atmospheric boundary layer flows).
+
+9.  Objectives: The primary objective of this course is to provide students with a foundational understanding
+of computational fluid mechanics and modern numerical techniques for solving fluid flow problems. The
+course is designed to be interdisciplinary and will be applicable to students from different backgrounds,
+especially from different specializations in Civil Engineering. A major component of the course will involve
+a computational project in which students will apply CFD tools or develop a CFD code to investigate a
+problem related to their own specialization or research interest. Through this project, students will also get
+familiarized with the full workflow of a research project including literature review, computational
+modelling, data acquisition, post-processing, validation using literature, and technical report preparation.
+
+10. Pre-requisites: Basic understanding of hydraulics and fluid mechanics is required. Students should have
+some experience of computer programming using Python or C.
+1
+
+[PAGE 2]
+11. Short summary for inclusion in the Courses of Study Booklet: This course provides foundational
+understanding to the computational modelling for fluid dynamic research studies. The computational
+modelling covers the fundamentals of the Partial Differential Equations (PDEs), Eulerian and Lagrangian
+approaches, finite difference and finite volume methods, numerical algorithms (SIMPLE, PIMPLE, PISO),
+numerical stability and convergence, RANS equation and turbulence closure models, LES and Smagorinsky
+model, DNS. This course briefly covers the basic post-processing algorithms of acquired data from
+computational studies including time-averaging of data, velocity fluctuation, Reynolds  stress, shear
+velocity estimation, frequency response analysis.
+
+12. Recommended books:
+
+•   Computational Fluid Dynamics by John D. Anderson, Jr. McGraw-Hill, Inc.
+•   An Introduction to Computational Fluid Dynamics: The Finite Volume Method by H. K. Versteeg, W.
+Malalasekera. Pearson Education.
+•   Computational Fluid Dynamics by Klaus A. Hoffmann, Steve T. Chiang. Engg. Education System.Fluid
+Mechanics and Fluid Machines by S.K. Som and G. Biswas. Tata McGraw–Hill.
+•   The Finite Volume Method in Computational Fluid Dynamics by F. Moukalled, L. Mangani, M. Darwish.
+Springer.
+•   Fluid Mechanics. P. K. Kundu and I. M. Cohen. Academic press.
+•   Viscous Fluid Flow by Frank M. White. McGraw-Hill, Inc.
+
+13. Course content and tentative lecture plan (40hrs)
+
+Hours of
+Sl No.   Topics                                       Details
+lectures
+Classification of PDEs, conservative and non-conservative
+forms,   linear  and  quasi-linear  PDEs,  Eulerian  and
+1    PDEs                                                                   7
+Lagrangian  approaches,   derivation   of  Navier-Stokes
+Equation.
+Taylor  series  and  discretization  algorithm,  numerical
+2    FDM, FVM        stability  analysis,  first and second  order  discretization        6
+schemes, numerical stability and convergence.
+Numerical  algorithms (SIMPLE, PIMPLE,  PISO),  tri-
+Numerical
+3                       diagonal and penta-diagonal matrices, matrix factorization        8
+techniques
+and inversion techniques.
+Reynolds  Averaged  Navier  Stokes  (RANS)  equation,
+4     Turbulence                                                              8
+turbulence closure models, basics of LES and DNS.
+Development of computational framework using MATLAB
+5   CFD modelling                                                           6
+and OpenFOAM.
+Post-processing algorithms of acquired data: time-averaging,
+6     Data analysis      velocity fluctuations, Reynolds stresses, Quadrant analysis,        5
+shear velocity estimation, frequency response analysis.
+
+Dated: May 28, 2026                                       Proposer: Subhadip Das
+
+Dated:                                  DPGC Convener:
+
+The course is approved / not approved
+Chairman, SPGC
+Dated:
+
+2

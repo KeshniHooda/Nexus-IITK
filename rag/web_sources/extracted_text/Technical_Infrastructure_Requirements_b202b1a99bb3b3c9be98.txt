@@ -1,0 +1,27 @@
+[Page 1]
+Dean, Academic Affairs 
+Indian Institute of Technology Kanpur 
+ 
+Page 1 of 1 
+21 Dec 2021 
+Technical Infrastructure Requirements for Students 
+for Remote Learning in 2021-22-I/II 
+ 
+1. Lectures/Tutorials/Labs/Discussions Hours for the 2021-22-I/II Semester will be 
+conducted remotely in the online mode. 
+2. Most of the instructors will be using the online course delivery platform HelloIITK. 
+Students have to use their IITK Email-ID/Password to login to the platform when made 
+available. 
+3. A Broadband or a 4G connection is required for attending live lectures/discussions, 
+and for streaming lecture videos. 
+4. It would be better to have a Laptop/Tablet than a mobile phone. Webcam would also 
+be required. 
+5. Download and Install the required apps for attending lectures and accessing lecture 
+materials as recommended by the instructor. Adobe Scan or similar Apps can help in 
+scanning documents using mobile phones. 
+6. Install SSL-VPN (IIT Kanpur) for remote access to IITK intranet. See here. 
+7. Get access to Office 365, licensed by IIT Kanpur. See here. 
+8. Install the videoconferencing app for live interactive sessions that your instructor 
+recommends. Most of the instructors may be using Zoom. Create a Login on Zoom 
+using IIT Kanpur E-mail ID when made available. 
+9. Have sufficient storage in your device for downloading lecture video/audio contents.

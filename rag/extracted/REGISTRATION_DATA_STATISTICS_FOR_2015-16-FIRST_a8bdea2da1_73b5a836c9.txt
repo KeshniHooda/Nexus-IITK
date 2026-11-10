@@ -1,0 +1,112 @@
+[PAGE 1]
+REGISTRATION DATA STATISTICS FOR 2015-16/FIRST
+
+TOTAL NUMBER OF COURSES BEING OFFERED                                    435
+
+EXCLUDE THE THESIS COURSE, SEMINAR, PROJECT, BTP, SUMMER TRAINING,
+404 PRESENTATION
+
+MAXIMUM CLASS SIZE (MTH101A)                                                852
+
+MINIMUM CLASS SIZE (AT PRESENT THERE ARE 404 COURSES)                      1
+
+AVERAGE CLASS SIZE (OF ALL 404 COURSES)                                          57.36
+
+NUMBER OF COURSES WITH 5 STUDENTS OR LESS                                 38
+
+NUMBER OF COURSES WITH 100 STUDENTS OR MORE                              56
+
+AVERAGE CLASS SIZE OF COURSES THAT HAVE >5 AND LESS THAN 100 STUDENTS     35.77
+
+THE FOLLWING IS THE NUMBER OF COURSES WITH VARIOUS CLASS
+STRENGTHS
+
+No. of    No. of
+Students  Courses
+1        8
+2        8
+3        8
+4        6
+5        8
+06:10      46
+11:15      34
+16-20      38
+21-25      21
+26-30      22
+31-50      73
+51-75      46
+76-100     32
+>100      54
+Total     404
+
+Page 1 of 3
+
+[PAGE 2]
+2015-16 FIRST SEMESTER
+LIST OF COURSES IN WHICH <=5 STUDENTS REGISTERED
+
+Sl. No. Course           Instructor -1                              Title                   No. of
+No                                                                            Students
+1                                 PROCESS DYNAMICS AND CONTROL      CHE381  V SHANKAR                                                             1
+2   ECO311  ARSHAD RAHMAN       ECONOMETRIC METHODS                     1
+METHODOLOGY OF TEACHING AND
+3
+ENG715A G NEELAKANTAN        RESEARCH IN LITERATURE                    1
+4   ENG742A SAYAN CHATTOPADHYAY RESPONSBILE DISSENT                        1
+5   ENG753A  MINI CHANDRAN        TRANSLATION STUDIES                       1
+6   MTH754A DEBASIS KUNDU         PROBABILITY THEORY                        1
+7   PHY647A A H KELKAR            ELECTRONICS                                1
+HEALTH AND ILLNESS: [SYCHO-SOCIAL
+8
+PSY720A  SHIKHA DIXIT           PERSPECTIVES                                1
+9   CHE684A R SINGH             AN INTRODUCTION TO SYSTEMS BIOLOGY     2
+10  CS720A   AJAI JAIN                VLSI TESTING AND FAULT TOLERANCE         2
+11  ECO732A ARSHAD RAHMAN       ECONOMETRICS                              2
+12  ECO737A SARANI SAHA          ADVANCES IN MICROECONOMIC THEORY      2
+13  ECO750A WASIM AHMAD         ADVANCED MACROECONOMICS               2
+14  EE480A  Y N SINGH              ELECTRICAL ENGINEERING LAB I              2
+15                           KALMAN FILTERING & APPLICATIONS       EE698J   N NAIK                                                                 2
+NON - LINEAR FINIT METHODS IN SOLID
+16
+ME676A  SUMIT BASU           MECHANICS                                  2
+17  AE647A  MANGAL KOTHARI       FLIGHT DYNAMICS                           3
+18  CE610A   RICHA OJHA           ADVANCED HYDROLOGY                     3
+19  CE611A  SHIVAM TRIPATHI        ENGINEERING HYDRAULICS                   3
+20  CHM102A S MANOGARAN         GENERAL CHEMISTRY                        3
+21  MTH424A B V R KUMAR            PARTIAL DIFFERENTIAL EQUATIONS           3
+INTRODUCTION TO COMPUTERIZED
+22
+NT641A   P MUNSHI            TOMOGRAPHY                                3
+23   PHI774A  VINEET SAHU            SOCIAL AND POLITICAL PHILOSPHY            3
+24  PHY601A R PRASHAD            REVIEW OF CLASSICAL MACHANICS           3
+25  CE614A  ASHU JAIN              STOCHASTIC HYDROLOGY                    4
+ELECTRICAL INSULATION IN POWER
+26
+EE634A  N GUPTA              APPARATUS AND SYSTEMS                    4
+27  ME721A  SOVAN L DAS          THEORY OF PLASTICITY                       4
+28   PHI758A  A V R SHARMA         CONTEMPORARY EPISTEMOLOGY              4
+29   PHI782A  PRASHANT BAGAD        EXISTENTIALISM                             4
+30  SOC751A A K SHARMA           METHODS OF SOCIOLOGICAL RESEARCH       4
+HELICOPTER THEORY : DYNAMICS AND
+31
+AE686A  C VENKATESAN          AEROELASTICITY                             5
+STATISTICAL MECHANICS & ITS APPL. TO
+32
+CHM650A M RANGANATHAN       CHEMISTRY                                  5
+Page 2 of 3
+
+[PAGE 3]
+POWER SECTOR REFORM & REFORM AND
+33
+MBA683A ANOOP SINGH          REGULATION                                 5
+INTRODUCTION TO TURBULENT FLUID
+34
+ME647A  A K SAHA              MECHANICS                                  5
+35  ME725A  ANURAG GUPTA         MICRO-MECHANICS                           5
+36  ME769A  B DASGUPTA          ADVANCED TOPICS IN ROBOTICS              5
+NANOSTRUCTURES AND
+37                                NANOMATERIALS: CHARACTERIZATION
+MSE694A ANANDH SUBRAMANIAM  AND PROPERTIES                             5
+38  MTH701A MOHUA BANERJEE      MODAL LOGIC                                5
+
+Page 3 of 3

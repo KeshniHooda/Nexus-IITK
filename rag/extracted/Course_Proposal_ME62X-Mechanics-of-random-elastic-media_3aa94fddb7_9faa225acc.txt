@@ -1,0 +1,128 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+Proposal for a New Course
+
+1. Course No: ME62X
+
+2. Course Title: Mechanics of random elastic media
+
+3. Per Week Lectures: 3(L), Tutorial: 0(T), Laboratory: 0(P), Additional Hours [0–2]: 0(A),
+Credits (3*L+2*T+P+A): 9, Duration of Course: Semester
+
+4. Proposing Department/IDP: ME
+Departments/IDPs which may be interested in the proposed course in the future: MSE, CHE, AE,
+CE, Mathematics, Statistics and Data Science.
+
+5. Proposing Instructor(s): Basant Lal Sharma
+
+6. Course Description: Elective for Ph.D., Masters, and senior UG students in mechanical engineering, and other
+students interested in mechanics, applied mathematics, materials science, and related areas.
+
+(A) Objectives:
+
+Real elastic solids are rarely perfectly homogeneous. Their mass density, elastic moduli, microstructure, geometry,
+defects, and interfaces exhibit spatial variability. When this variability is modeled probabilistically, the equations
+of elasticity become stochastic, leading to a mechanics of random elastic media. Such models arise in composites,
+porous and heterogeneous materials, polycrystals, metamaterials, granular media, damaged solids, and materials
+with uncertain microstructure.
+
+• To introduce the role of randomness and uncertainty in mechanical systems and to distinguish deterministic
+mechanics from stochastic mechanics and random-media models.
+
+• To introduce random mechanical structures, including random walks, graphs, lattices, point processes, random
+fields, random tensors, random matrices, and random interfaces.
+
+• To connect microscopic structural randomness and material heterogeneity with macroscopic mechanical response
+through equilibrium, wave propagation, homogenization, instability, fracture, and reliability concepts.
+
+• To introduce computational and data-driven tools for stochastic mechanics, including Monte Carlo simulation,
+random-field representations, and physics-informed/data-driven modelling.
+
+The proposed course develops mechanics starting from the equations of elasticity and uses random media as the
+central theme.  This connects probability with elastic equilibrium, wave propagation, homogenization, effective
+constitutive laws, scattering, localization, and computational mechanics.
+
+(B) Course Content: 40 Lectures
+
+S.   Broad Title               Topics                                                 No.
+No.                                                                                           Lec-
+tures*
+
+1    Introduction to Random       Deterministic versus random elastic media; sources of randomness.        3
+Elastic Media
+2   Random Fields and Mi-      Random variables and spatial random fields; mean, covariance and cor-    6
+crostructure                      relation; stationarity, ergodicity, homogeneity and isotropy; Gaussian
+fields and correlation lengths; random inclusions, interfaces, porous
+media and two-phase microstructures.
+3   Random Elasticity          Random stiffness and compliance tensors; material symmetry and pos-     6
+itive definiteness; isotropic and anisotropic random elasticity; elastic
+boundary-value problems with random coefficients; statistics of dis-
+placement, strain and stress; ensemble averages and fluctuations.
+4     Effective Elasticity and Ho-   Volume averaging; effective stiffness and compliance; Voigt, Reuss and     7
+mogenization                Hashin–Shtrikman bounds; RVE and scale separation; periodic and
+stochastic homogenization; effective constitutive equations and size
+effects.
+5    Waves in Random Elastic     Random mass–spring chains and discrete elastic media; wave propaga-     7
+Media                            tion, dispersion and scattering; reflection, transmission and attenua-
+tion; coherent and incoherent waves; localization; effective wave equa-
+tions and long-wave limits.
+
+1
+
+[PAGE 2]
+S.   Broad Title               Topics                                                 No.
+No.                                                                                           Lec-
+tures*
+
+6   Random Lattices, Defects    Random lattices and elastic networks; defects, disorder and stress con-     6
+and Failure                     centrations; fluctuations and finite-size effects; damage, fracture and
+fatigue; reliability and weakest-link effects.
+7    Computational Random      Monte Carlo simulation; random microstructure generation; random-      5
+Elasticity, Advanced Topics     field discretization; computational homogenization; Random compos-
+and Applications                  ites, porous and cellular solids, and polycrystals; inverse characteriza-
+tion; Bayesian and data-driven constitutive modeling.
+
+*50-minute lecture each week; the above syllabus is delivered as a block of 40 lecture units.
+
+#No separate tutorial hours are proposed. Worked examples, computational demonstrations, and problem-solving
+activities are integrated into the lectures.
+
+(C) Prerequisites, if any: Instructor consent; familiarity with basic mechanics, multivariable calculus, differential
+equations, linear algebra, and elementary probability is desirable.
+
+(D) Short summary for inclusion in the Courses of Study Booklet:
+
+This course develops the mechanics of elastic media with random microstructure, geometry, material properties,
+or loading. It introduces random fields and correlations and studies their effects on elasticity, waves, and effective
+properties through homogenization. Topics include random lattices, scattering, localization, fluctuations, defects,
+and fracture, with computational tools.
+
+7. Recommended Textbooks/References
+
+(a) Torquato, S. (2002). Random Heterogeneous Materials: Microstructure and Macroscopic Properties, Springer.
+
+(b) Beran, M. J. (1965). Statistical Continuum Theories, Interscience/Wiley.
+
+(c) Mura, Toshio. Micromechanics of defects in solids. Springer Science & Business Media, 2013.
+
+(d) Treloar, L. R. G. (1975). The Physics of Rubber Elasticity, 3rd Edition, Oxford University Press.
+
+(e) Selected recent literature on random lattices, wave scattering, stochastic elasticity, Bayesian methods, and
+data-driven methods will be provided by the instructor. Example: Effective dynamics in lattices with random
+mass perturbations, arXiv:2309.03090.
+
+8. Any other remarks:
+
+The course is interdisciplinary. It is designed to serve as a common platform connecting solid mechanics, materials,
+lattice dynamics, computational mechanics, and data-driven modelling. The content can be adapted for a more
+mathematical or more engineering-oriented offering depending on the background of the enrolled students.
+
+Dated: 19th September 2026                       Proposer: Basant Lal Sharma
+
+Dated:                            DPGC Convener:
+
+The course is approved/not approved.
+
+Chairman, SUGC/SPGC
+
+2

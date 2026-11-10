@@ -1,0 +1,85 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course
+
+1.  Course No: A 600 level elective number requested.
+2.  Course Title: Coherence and Quantum Entanglement
+3.  No. of Lectures per week: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours[0]: 0 (A),
+
+Credits (3*L+T+P+A): 09               Duration of Course: Full Semester
+
+4.  Proposing Department/IDP : PHY.
+
+Other Departments/IDPs which may be interested in the proposed course: EE, MTH, CSE, CELP.
+
+Other faculty members interested in teaching the course: Prof. Harshawardhan Wanare (PHY); Prof. Saikat
+
+Ghosh (PHY).
+
+5.  Proposing Instructor: Anand Kumar Jha (PHY)
+6.  Course Description:
+
+A) Objectives: This course is for PhD and advanced undergraduate students who want to gain a solid
+understanding of the concept of coherence as well as its applications in modern quantum optics. The
+course will have two main parts. The first part will discuss the concept of coherence; the remaining part
+of the course will focus on Quantum Entanglement.
+
+B) Contents:
+
+S. No.  Broad Title                                    Topics                           No. of Lectures
+
+1.      Introduction        Introduction, Spectral properties of stationary random processes,        8
+Wiener-Khintchine theory, Angular spectrum representation of
+wavefields, Correlation functions in classical optics
+2.      Classical            Introduction to the second-order coherence theory: temporal,           8
+Correlation          spatial, angular and polarization. Propagation of coherence, The
+van Cittert-Zernike theorem, Coherent mode representation of
+sources and fields
+3.    Quantum         Review of quantum mechanics, quantum mechanical correlation         8
+correlations        function, EPR paradox, hidden variable interpretation of quantum
+mechanics, Bell inequalities.
+
+4.     Two-photon        Basics of nonlinear optics, entangled two-photon states produced        8
+coherence and     by parametric down-conversion. Two-photon coherence and
+entanglement      interference effects, entanglement verification and quantification
+
+5.      Applications of     Introduction to Quantum Information: Quantum Cryptography,          8
+quantum        Quantum Dense Coding, Quantum Teleportation, Quantum
+entanglement     Imaging
+
+Total number of lectures:        40
+
+[PAGE 2]
+C) Pre-requisites: Basic quantum mechanics and optics courses.
+
+D) Short summary for including in the Courses of Study Booklet: Spectral properties of stationary random
+processes, introduction to the second-order coherence theory, propagation of coherence, coherent mode
+representation of sources and fields, basics of nonlinear optics, two-photon ﬁeld produced by parametric down-
+conversion, EPR paradox, Bell inequalities and  its experimental violations, quantum theory of higher-order
+correlations, two-photon coherence and interference effects, two-photon entanglement, introduction to quantum
+information, and applications of quantum entanglement such as quantum cryptography, quantum teleportation,
+quantum imaging.
+
+7.  Recommended books:
+(i)     L. Mandel and E. Wolf, Optical Coherence and Quantum Optics (Cambridge university press, New York,
+1995).
+(ii)    R. W. Boyd, Nonlinear Optics, 3rd ed. (Academic Press, New York, 2008).
+(iii)     J. W. Goodman, Statistical Optics, (John Wiley and Sons, 2000)
+(iv)   R. Loudon, The Quantum Theory of Light, 3rd ed. (Oxford University Press, New York, USA, 2000).
+(v)   M. Born and E. Wolf, Principles of Optics, 7th expanded ed. (Cambridge University Press, Cambridge,
+1999).
+
+___________________________________________________________________________________________
+
+Dated: 07 March, 2024. Proposer: Anand Kumar Jha (                                                   ).
+
+8/3/24Dated: _______________ DPGC Convener (PHY):___________________
+
+The course is approved / not approved
+
+____________________________________
+
+Chairman, SPGC
+
+Dated:______________________________

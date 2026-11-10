@@ -1,0 +1,101 @@
+[Page 1]
+Proposal for a new course: Department of Physics
+1. Course Number: 6XX
+2. Course Title: Function Spaces for the Formalism of Quantum Mechanics
+3. Number of Lectures Per Week and Total Number of Classes: 3 Lectures [Tuto-
+rial:0 ,Laboratory:0 ,Additional Hours:0], 39
+4. Credit: 09
+5. Duration of Course: Full Semester
+6. Proposing Department and Type of Course: Physics, Departmental Elective
+7. Other Members Interested in Teaching The Course:
+Diptarka Das , Nilay
+Kundu , Apratim Kaviraj
+8. Proposing Instructor: Kaushik Bhattacharya
+9. Course Outline
+(a) Introduction [7 Lectures]
+Basic axioms of linear vector spaces and the axioms of quantum mechanics (QM)
+Basic properties of functions and establishing the functions as vectors in inﬁnite
+dimensional linear vector space, connection to bras and kets in QM
+Sequence of functions and convergence criterion of the sequence and the concept
+of a metric
+Theory of generalized functions, generally used in QM, with a special emphasize
+on Dirac-delta distribution
+The Dirac notation and the reasons why it works
+Matrix elements and expectation values
+(b) Basic theory of integration of functions [3 Lectures]
+Normalization of wavefunctions in QM and Riemann integrable functions
+Failure of Riemann integrability
+Introduction to integration measure theory in general
+Brief introduction to path integral measure in QM
+(c) Brief introduction to Lebesgue measure and Lebesgue integration [4]
+Introduction to Lebesgue integration theory and its application
+Properties of Lebesgue integrals and their relationship with Riemann integrals
+(d) Hilbert space [7 Lectures]
+Deﬁnition of an inner product in a function space and its obvious connection
+with QM
+Introduction to Hilbert spaces, in particular L2[R]
+Distinction between the Banach space L1[R] and L2[R]
+The contents of Lp normed spaces in brief
+1
+
+[Page 2]
+Norm induced by the inner products and the concept of orthonormal basis used
+in QM
+The concept of the dual vector space and their relationship with ’bra’ vectors of
+Dirac
+The various basic inequalities as: Minkowski inequality, Cauchy-Schwarz in-
+equality and Holder’s inequality
+(e) Fourier series and Fourier transforms [3 Lectures]
+Deﬁnition of a generalized Fourier series and Fourier transform and their con-
+nection with the basics of QM
+Discussion on the convergence properties of the Fourier series and Fourier trans-
+forms and their connection with Bessel’s inequality and Parseval relation
+Norm preserving Fourier transforms and L2 spaces and the relationship between
+the position and momentum basis in quantum mechanics
+Fourier transforms and wave packets in QM
+(f) Linear operators in function space [7 Lectures]
+Bounded operators in function spaces
+Diﬃculties with unbounded operators in quantum mechanics
+The position and momentum operators as unbounded operators
+Self-adjoint bounded operators in QM
+Diﬃculty with self-adjoint unbounded operators and Stone-von Neumann theo-
+rem and application in basics of QM
+The Hellinger-Toeplitz theorem on symmetric operators and its huge implication
+in QM
+Self-adjoint extension of symmetric operators in quantum mechanics
+(g) Eigenvalue spectrum of Hermitian operators [8 Lectures]
+The eigenvalues and eigenfunctions of linear operators in function spaces and in
+particular their relevance in QM
+The spectral theorem for bounded linear operators
+Some remarks on the spectral theorem for unbounded operators and their im-
+plications in QM and other branches of physics
+10. Prerequisites: Mathematical Method I, Quantum Mechanics I
+11. Short summary for the course of study booklet: While teaching quantum mechan-
+ics or Mathematical methods one does not get enough time to emphasize on the particular
+diﬃculties one faces when problems purely related to functional spaces arise. These prob-
+lems are not at all esoteric in nature, the problems are there right in the ﬁrst postulates
+of quantum mechanics where one assumes a fundamental commutation relation between
+unbounded operators. The problems again come when one has to deﬁne self-adjointness
+of unbounded operators in quantum mechanics. In quantum mechanics most of the sim-
+ple operators as position, momentum or even the Hamiltonian turn out to be unbounded
+operators. To have a proper understanding of these operators and the Hilbert space on
+which they act, one must have to have some introductory understanding of functional
+space. This course is aimed to infuse some of these ideas which are very important for a
+physicist who wants to have a holistic grasp on quantum mechanics/quantum ﬁeld theory.
+2
+
+[Page 3]
+12. Recommended books:
+’Mathematics for Physics and Physicists’ by Walter Appel
+‘Introductory Functional Analysis With Applications’ by Erwin Kreyszig
+‘Principles of Quantum Mechanics’ by R. Shankar
+‘Modern Quantum Mechanics’ by J. J. Sakurai
+‘A Physicist’s Introduction to Algebraic Structures’ by Palash B. Pal
+Date: 23rd May 2025
+Proposer: Kaushik Bhattacharya
+DPGC Convener(PHY): Sagar Chakraborty
+The course is approved/not approved
+——————————————————————————
+Chairman, SPGC
+Date:
+3

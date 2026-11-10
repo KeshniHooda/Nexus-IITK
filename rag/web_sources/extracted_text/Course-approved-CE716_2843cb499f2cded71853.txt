@@ -1,0 +1,370 @@
+[Page 1]
+O 
+Q 
+1. Course No: CEXXX 
+Indian Institute of Technology, Kanpur 
+New Course Proposal 
+-1/4 
+Z. Course Title: Project Management and Control 
+3. Per Week: Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours: 0 
+Credits: (3*L+0*T+P+A): 9 credits 
+Duration of Course: Full Semester Course 
+4. Proposing Department: Civil Engineering 
+5. Proposing instructor: Chirag Kothari 
+Level of the course (students who can take this course): PhD, Masters, and UG 3`a or 4`s year. 
+6. Course Description 
+(A) Objectives: 
+A construction project requires significant investment in terms of time, money, and resources. This 
+necessitates a need for effective construction project management skills that facilitate completing 
+the projects within the stipulated time and budget limits while adhering to safety and quality 
+standards. This course aims to equip students with the skills required for planning, scheduling, 
+budgeting, coordinating, and supervising large-scale projects. Specific objectives include: 
+• 
+To introduce students to basic project management concepts with a focus on applications 
+in Civil engineering. 
+• 
+To expose students to complexities involved in managing large-scale construction 
+projects and provide them with the right tools and methods to manage these complexities. 
+• 
+To provide students with a platform to sharpen the skills learned by applying these 
+concepts on a real-life construction project. 
+(B) Course contents 
+Sr. No. 
+Broad Title 
+Topics 
+No. of Lectures* 
+1 
+Introduction to Project 
+Management 
+What is a project? 
+How are projects organized? 
+Project life cycle and 
+stakeholders 
+Types of project plans —
+time/schedule, cost, material, 
+plant and machinery, money 
+3
+
+[Page 2]
+O 
+Q 
+2 
+Project scheduling — 
+Time management 
+Time management — Overview 
+Activities, durations, and work 
+breakdown structure 
+Quantity estimation 
+Network diagrams 
+Fundamentals of scheduling 
+Development of baseline 
+schedules, Gantt chart, Critical 
+path method, Precedence 
+diagram method, Earned value 
+method 
+12 
+3 
+Cost management 
+Preparing cost estimates 
+Determining the working 
+capital required for a project 
+Project financing plan 
+4
+3 
+Resource management 
+Material plan, 
+Plant & machinery (P&M) plan, 
+Workforce plan 
+Resource scheduling, resource 
+levelling, and schedule 
+crashing 
+Impact of levelling & crashing 
+on direct and indirect costs; 
+Time-cost trade-off 
+10 
+4 
+Project monitoring and 
+control 
+Progress monitoring basics, 
+daily progress reports, 
+standard progress reports, data 
+requirements 
+2
+5 
+Updating and revising 
+project schedules 
+Need for revising project plans, 
+Revising project plans. 
+2
+6 
+Uncertainty in project 
+schedules 
+Concept of uncertainty 
+Program Evaluation and 
+Review Technique (PERT) 
+2 
+7 
+Construction contract 
+evaluation with respect 
+to Project Controls - 
+Identifying construction 
+claims 
+Delay analysis. 
+Identifying construction claims. 
+Delay Quantification Methods 
+& Techniques 
+4
+*50-minute lecture each, total of 39 lectures
+
+[Page 3]
+(C) Prerequisites, if any: Instructor consent 
+(D) Short summary for including in the Courses of Study Booklet: 
+O 
+The course starts with an overview of project management discussing what is a project, who are 
+the project stakeholders, the role of the project manager, the planning stages, and organizational 
+structure. With this background and emphasis on construction projects, the course dives into 
+introducing Construction project management, fundamentals of project planning and scheduling —
+Work breakdown structure (WBS), Network diagrams, Critical path method (CPM), Program 
+evaluation and review technique (PERT), Precedence diagramming method (PDM), Earned Value 
+Method (EVM) are discussed. Other aspects of project management such as cost management, 
+resource management, quality management, and stakeholder management are also covered. 
+Resource management on construction projects is discussed in detail (includes resource planning, 
+resource allocation, resource levelling, and crashing of networks). Further, the importance of 
+monitoring and control on construction projects is discussed including progress reporting 
+requirements and methods for revising project plans. Lastly, construction contracts are reviewed 
+through a project controls lens to learn how to perform delay analysis and identify construction 
+claims. 
+7) Recommended textbooks/references 
+• James O'Brien and Fredric L. Plotnick, "CPMin Construction Management", 8w 
+edition, McGraw Hill 
+• 
+Jha K.N., "Construction Project Management- theory and practice", 2nd edition 
+• 
+Srinath L.S., "PERT and CPM, Principles and applications", 3rd edition 
+• 
+Saleh Mubarak, "Construction project scheduling and control", 2nd edition 
+8) Other remarks: This full course will replace the existing modular course offered by the Civil 
+engineering department - CE64la: Project Management) 
+Dated: 17t April 2024 
+Proposer: Chirag Kothari 
+DPGC Convener: Chinmoy Kolay 
+The course is approved/not approved. 
+Chairman, SPGC 
+Dated:
+
+[Page 4]
+- PGI4k-IITK-DOHA 
+From: 
+DPGC, CE <dpgcce@iitk.ac.in> 
+Sent: 
+22 May 2024 09:06 
+To: 
+spgc@iitk.ac.in 
+Cc: 
+pgdesk@iitk.ac.in;'Chirag Kothari' 
+Subject: 
+FW: New course - Project Management and Control from CE 
+Dear Prof. Mohapatra: 
+The proposalfor a new course on Project Management and Control from CE was circulated to acadstaff on 28 
+April. We have not received any comments to date. Therefore, I request you to consider the proposal for further 
+processing. 
+Thank you, 
+Chinmoy 
+From: Chirag Kothari <ckothari@iitk.ac.in> 
+Sent: Wednesday, May 22, 2024 8:18 AM 
+So: DPGC, CE <dpgcce@iitk.ac.in> 
+Subject: Re: New course - Project Management and Control from CE 
+Dear DPGC, 
+I have not received any comments/feedback on this course request. Can you please take it forward. 
+Best regards, 
+Chirag Kothari 
+From: DPGC, CE <dpgcce(liitk.ac.in> 
+Sent: Sunday, April 28, 2024 4:35:56 PM 
+To: ;3 cadstaffCTlists.iitk.ac.irlc cadstaffelists.iitk.ac ire 
+Cc: Chirag Kothari <ckothari@iitk.ac.in>; courses@iitk ac in <courses@iitk.ac.in>; pgdesk@iitk.ac.in 
+<pgdeskCaiitk.ac.irp;'Kjit'<Ejit( iitk.ac.in> 
+•ubject: New course- Project Management and Control from CE 
+Dear All: 
+A proposal for a new course on Project Management and Control from the CE Dept. is available at 
+https: //I itk.ac. in/doaa/data/NewCou rses/Cou rse-proposal-CEXXX-Proiect-management-a nd-control. pdf. 
+Please send your comments, if any, by 20 May 2024 to ckotharit iitk.ac.inwith a copy to dpgcceeiitk.ac.in.
+Thankyou, 
+Chinmoy 
+Chinmoy Kolay, Ph.D. 
+Assistant Professor & Convener, DPGC 
+Department of Civil Engineering 
+Indian Institute of Technology Kanpur 
+Kanpur 20&016, India 
+Email: ckolay@iitk.ac.in
+1
+
+[Page 5]
+3C c~ 
+off, o b s3~ 
+INDIAN INSTITUTE OF TECHNOLOGY KANPUR 
+POSTGRADUATE OFFICE 
+No. A(P)/IITK/course approval/ 
+June 5, 2024 
+The Convener, DPGC 
+Departments of CE/SEE/PHY 
+ITT Kanpur 
+I am directed to communicate the concurrence of the SPGC (2023-24) in its 9ti' meeting held 
+on 28/05/2024 for the approval of new PG course proposal. After detailed discussion the 
+following courses were approved. 
+Course No Title 
+Credits 
+Instructor 
+SPGC 
+/Decision 
+CE716 
+Project Management and Control 
+3-0-0-0-9 
+Dr. Chirag Kothari 
+Approved 
+CE718 
+Water resources systems analysis 
+3-0-0-0-9 
+Dr. Tushar Apury 
+Approved 
+CE719 
+Hydrometeorology 
+3-0-0-0-9 
+Dr. Tushar Apury 
+Approved 
+SEE631 
+Sustainable Forest Management 
+3-0-0-0-9 
+Dr. Ashish Garg 
+Approved 
+PHY685 
+Introduction To Quantum Field Theory 
+3-0-0-0-11 
+Dr. Arjun Bagchi 
+Approved 
+Joint Registrar 
+Academic Affairs 
+CC: OARS (DOAA Office) For necessary action
+
+[Page 6]
+L 
+MINUTES 
+FOR THE 9s' MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2023-24) TO 
+BE HELD ON May 28, 2024 (TUESDAY) AT 02:OOP.M. 
+DOAA CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING 
+Members present 
+Prof(s): P M Mohite (AE), Vishal Agarwal (CHE), Chinmoy Koley (CE), Ark Verma (CGS), Abheejeet 
+Mohapatra (EE), T H Syed (ES), Feroz Hassan (HSS), Amit Shukia (DOMS), Santanu De (ME), Niraj 
+Chawake in place of Sudhanshu S Singh (MSE), Subhajit Dutta (MATH), Laltu Chandra (SEE), Sager 
+Chakrabarty (PRY), Sharvari Nadkarni Ghosh (SPASE), Piyush Rai (CSE). 
+Members Absent: Prof(s), Suresh Kumar (BSBE), Ashis Kumar Patra (CHM), J Ramkumar (DES), Shilpi 
+Gupta (PSE), Vasudha Jain (ECO), Sri Sivakumar (MSP), Pankaj Wahi (NET) 
+Student representative: 
+Parthadhwaj Konduparty (22106009), Shivam Nigam (19112264), Harsha Prasad (21106270), Kartik 
+Rout(20218267), 
+Item requiring SPGC Approval: 
+a) Conversion from MSRIMTech to PhD Program: 
+S.N 
+o 
+Roll No 
+Name 
+Dept 
+Prog 
+Supervisor and 
+DPGC 
+Recommendation 
+SPGC 
+RecommendationlDecis 
+ion 
+01- 
+22101403 
+Anil S Karthik 
+AE 
+MSR 
+Recommended 
+Approved to be reported 
+to Senate 
+02- 
+22104065 
+Nilesh Pandey 
+EE 
+MTech Recommended 
+Approved to be reported 
+to Senate 
+03- 
+22118003 
+Aditya Gautam 
+BSBE 
+MTech Recommended 
+Approved to be reported 
+to Senate 
+04- 
+22101058 
+Sal Rohith Thaviti 
+AE 
+MTech Recommended 
+Approved to be reported 
+to Senate 
+*Students has completed course and CPI requirement as per clause 4.6 of PG Manual 
+b) New course approval:-
+Course No Title 
+Credits 
+Instructor 
+SPGC /Decision 
+CE716 
+Project Management and Control 
+3-0-0-0-9 
+Dr. Chirag Kothari Approved 
+CE718 
+Water resources systems analysis 
+3-0-0-0-9 
+Dr. Tushar Apury 
+Approved 
+CE719 
+Hydrometeorology 
+3-0-0-0-9 
+Dr. Tushar Apury 
+Approved 
+SEE631 
+Sustainable Forest Management 
+3-0-0-0-9 
+Dr. Ashish Garg 
+Approved 
+PHY685 
+Introduction To Quantum Field Theory 
+3-0-0-0-11 
+Dr. Arjun Bagchi 
+Approved 
+Items requiring SPGC recommendation for Senate considerations: 
+a 
+Conversion Programme Full Time to Part Time-recommended 
+S.No 
+Roll No 
+Name 
+Dept 
+Prog 
+Supervisor and DPGC 
+Recommendation 
+SPGC Recommendation 
+/Decision 
+1 
+20227263 Soumyajit Bhunia 
+ECO 
+PhD 
+Recommended 
+Recommended 
+2 
+19104275 Rahul Bapusaheb Kodag 
+EE 
+PhD 
+Recommended 
+Recommended 
+3 
+17214263 Sanjeev Newar 
+DoMS PhD 
+Recommended 
+Recommended subject to 
+submission of a proper thesis 
+plan by student, duly 
+approved by the thesis 
+supervisor and DPGC 
+Page 1 of 6

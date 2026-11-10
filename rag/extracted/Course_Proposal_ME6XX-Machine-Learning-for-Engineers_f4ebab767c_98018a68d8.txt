@@ -1,0 +1,86 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course Revision
+
+1.  Course No: ME644
+
+2.  Course Title: Machine Learning for Engineers
+
+3.  Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours: 0 (A), Credits
+
+(3*L+2*T+P+A): 9         Duration of Course: Full Semester / Modular
+
+4.  Proposing Department/IDP: Mechanical Engineering
+
+Other Departments/IDPs which may be interested in the proposed course: AE
+
+Other faculty members interested in teaching the proposed course:
+
+5.  Proposing Instructor(s): Malay K. Das, Dipayan Mukherjee, Siddhartha Mukherjee
+6.  Course Description:
+
+A) Objectives:
+The course covers fundamental machine learning techniques and their applications in engineering
+problem-solving. Successful completion of this course will help students to solve various problems of
+mechanical engineering using data-driven techniques.
+
+B) Contents (preferably in the form of 5 to 10 broad titles): 39 lectures
+
+S. No      Broad Title                             Topics                       No. of Lectures
+
+1     Overview of           Supervised Learning: Linear and nonlinear regressions, 6
+Various ML Models     regularization, k-nearest neighbor, logistic regression,
+ensemble learning
+
+2                                Probabilistic Models: Introductory probability, MLE,   4
+MAP, Naïve-Bayes
+3                          Unsupervised Learning: Clustering, Dimensionality    2
+Reduction
+4      Neural Networks and   Single- and multi-layered Perceptrons              6
+Deep Learning
+5                              Convolutional, Recurrent, and Graph Neural Networks 6
+
+6                           Autoencoders, Generative Adversarial Networks,     4
+Mixture Models
+
+7     Machine Learning in    Physics-informed neural network: applications in     6
+Engineering: Hands-on  direct and inverse problems in mechanics
+Exercises
+
+8                            Surrogate models, and reduced-order models in     5
+mechanics
+
+C) Pre-requisites, if any (examples: a- PSO201A,or b- PSO201A or equivalent): NIL
+
+D) Short summary for including in the Courses of Study Booklet
+
+[PAGE 2]
+Regression, Classification, Clustering, Dimensionality reduction; Neural networks, CNN, RNN, GNN;
+Direct and inverse problems in mechanics, surrogate models, reduced-order models
+
+7.  Recommended books:
+Textbooks: Goodfellow et al., Deep Learning, MIT Press
+
+Reference Books:
+1. C. M. Bishop, Deep Learning, Springer
+2. Yagawa and Oishi, Computational Mechanics with Deep Learning, Springer
+3. Kollmansberger, Deep Learning in Computational Mechanics, Springer
+4. K. Garikipati, Data-driven Modeling and Scientific ML in Continuum Physics, Springer
+5. S. L. Brunton and J. L. Kutz, Data-driven Science and Engineering, CUP
+6. C. M. Bishop, Pattern Recognition and Machine Learning, Springer
+7. R. G. McClarren, Machine Learning for Engineers, Springer
+8. G. James et al., Introduction to Statistical Learning, Springer
+9.  J. Watt et al., Machine Learning Refined, 2nd ed., CUP
+
+8.  Any other remarks: nil
+
+03.11.2026                                   Malay DasDated:                  Proposer:
+
+Dated:              DUGC/DPGC Convener:                  _
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC
+
+Dated:

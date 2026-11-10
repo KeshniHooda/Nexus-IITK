@@ -1,0 +1,151 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+Proposal for a New Course
+1. Course No: SPA***A  (, 2-8/h
+2. Course Title: Introduction to Planetary Remote Sensingfrom Space Missions
+3. Lectures per week: L=2, Tutorial: T=O, Laboratory: P=3, Additional hours: (0-2) =0 (A),
+Credits (3 *L+2*T+1*P+A) = 5
+Duration of Course: Half Semester
+4. Proposing Department: Space, Planetary and Astronomical Sciences and Engineering
+5. Proposing Instructor: DPGC Convener, SPA SE
+6. Other Instructors who may teach this course:
+7. Course Description
+(A) Objectives: The course.
+(B) Contents:
+1. Planetary surface properties and Radiation Interactions [5 lectures[
+The character ofplanetary surfaces, differentiated and undifferentiated planetary bodies,
+solar system processes and interactions. Planetary regolith, megaregolith.
+2. Optical Image interpretation of planetary surfaces [3 lectures]
+Elements of image interpretation, concept ofspatial resolution, viewing geometry,
+Application in identifying active surface processes (vi, wind, water, ice)
+3. IJV-Vis-NH2 Multi-Spectral and Hyperspectral Remote Sensing of planetary surfaces
+[5 lectures]
+Spectrometer basics, Concept of Radiance, Reflectance, spectral resolution, basic spectral
+classification techniques (spectral parameters), and representation ofspectral data (RGB
+composites), Application in mineral and elemental mapping
+4. Topographic Data Analysis [4 lecturesl
+Laser ranging basics, Image-based Topographic analysis, Topographic data and products
+(topographic profile, digital elevation model), 2D interpolation techniques.
+5. Radar Remote Sensing [3 lectures]
+Radar remote sensing basics, Dielectric properties of materials, Monostatic and Bistatic
+modes, Circular polarization ratio (CPR). Application to compositional and textural
+mapping.
+
+[PAGE 2]
+(C) Pre-requisites, if any: Course on introductory geology, remote sensing or with the
+permission of the instructor.
+(D) Short summary for including in the Courses of Study Booklet:
+
+This course would provide an overview ofvarious types of remote sensing ofplanetary bodies
+carried out by space missions through time using various techniques. The student will be
+introduced to the analysis of remote sensing datasetsfrom missions.
+
+7. Recommended Books:
+
+R. P. Gupta / Remote Sensing Geology / Third Edition (2018) / Springer Verlag Publisher /
+ISBN-10 : 3662558742, ISBN-13 : 978-3662558744 / 428 pages
+Thomas Lillesand, Ralph W. Kiefer, Jonathan Chipman/ Remote Sensing and Image
+Interpretation/ 7th Edition (2015)/ ISBN: 978-1-118-34328-9 / 736 pages
+Bruce A Campbell / Radar Remote Sensing of Planetary Surfaces /2002/ CambridgeS
+University Press! 9780521583084, 052158308X! 331 pages
+8. Any other remarks:
+
+Dated: Proposer:
+
+Dated: DUGC/DPGC Convener:
+
+The course is approved/not approved
+
+Chairman, SUGC/SPGC
+
+Dated:
+
+Q
+
+[PAGE 3]
+INDIAN INSTITUTE OF TECHNOLOGY KANPUR
+POSTGRADUATE OFFICE
+
+No. A(P)/IITK/course approval/
+August 27, 2024
+
+The Convener, DPGC
+Departments of SPASE
+ITT Kanpur
+
+I am directed to communicate the concurrence of the SPGC (2023-24) in its 11 t'' meeting held
+on 01/08/2024 for the approval of new PG course proposal. After detailed discussion the
+following courses were approved.
+
+Course No    Title                                 Credits    Instructor         SPGC
+Decision
+SPA627M     Introduction  to  fluid mechanics  in   3-0-0-0-(5)   Dr. Kartick Sarkar      Approved
+space                                                Dr. Ishan Sharma
+SPA628M     Introduction  to  Planetary Remote   3-0-0-0-(5)  DPGC     Convener,  Approved
+Sensing from Space Missions                SPASE
+SPA629M     Introduction to Geology: Measuring   3-0-0-0-(5)  DPGC     Convener,  Approved
+the Heartbeat of a Planetary Body             SPASE
+
+Assistant Registrar
+Academic Affairs
+
+CC: OARS (DOAA Office) For necessary action
+
+[PAGE 4]
+£
+
+MINUTES
+FOR THE 11`" MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2023-24) TO
+BE HELD ON August 1, 2024 (Thursday) AT 03:00 P.M.
+
+Over Zoom (online)
+
+Members present
+Prof(s): P M Mohite (AE), Vishal AgaRval (CHE), GNnmoy Kolay (CE), Abheejeet Mohapatra (EE), T H Syed
+(ES), Sukumar Vellakkal in place of Vasudha Jain (ECO), Feroz Hassn (HSS), Amit Shukla (DoMS), Malay
+Das in place of Santanu De (ME),Sudhanshu S Singh (MSE), Sudhansu Shekhar in place of Subhajit Dutta
+(MATH), Sharvari Nadkarni (SPASE), t_altu Chandra (SEE). Sagar Chakrabarty (PHY) (SPASE)
+
+Members Absent:  Prof(s), Suresh Kumar (BSBE), Ark Verna (CGS), Ashis Kumar  Patra (OHM), J
+Ramkumar (DES), Shilpi Gupta(PSE), Piyush Rai (CSE). Sri Sivakumar (MSP). Pankaj Wahi (NET)
+
+Student representative:
+Shivamm Nigam (19112264), Harsha Prasad (21106270). Nachiket (18102278)
+
+Item requiring SPGC Approval:
+a)  Conversion from MSR/MTech to PhD Program:
+
+S.No  Roll No    Name                 Dept   Prog   1 Supervisor and  SPGC
+DPGC          Recommendation
+Recommendati   /Decision
+on
+01-   231180016  Sivani Biswal          BSBE   MTech  Recommended   Recommended
+02-   231230006  Mo Zaid                              i ES     MTech  [ Recommended  J Recommended                                                                 .-....       . _._
+`Students has completed course and CPI requirement as per clause 4.6 of PG Manual
+
+b) New course approval:-
+nurse No            I Title                                 Credits    Instructor         SPGC
+Recommend
+i ation
+lD e c i sion
+SPA627M      Introduction  to  fluid mechanics  in   3-0-0-0-(5)   Dr. Kartick Sarkar      Approved
+space                                                    Dr. Ishan Sharma
+SPA628M      Introduction  to  Planetary  Remote   3-0-0-0-(5)  DPGC     Convener.  Approved
+Sensing from Space Missions                          j          SPASE
+SPA629M     Introduction to Geology: Measuring   3-0-0-0-(5)  DPGC     Convener;  Approved                                                                            U                     the Heartbeat of a Planetary Body         i   _       SPASE
+
+Items requiring SPGC recommendation for Senate considerations:
+
+a)  Conversion of Programme Full Time to Part Time
+
+S.No    Roll No    Name                        Dept    Prog     Supervisor and   SPGC Recommendation
+I                        i DPGC             /Decision
+Recommendation
+1        i 19101268  Shiv Kumar             AE    PhD      ! Recommended   Recommended
+2     21104030  Gedala Sai Praveen        EE    MTech  Recommended   Recommended
+
+b)  Termination (under clause 8.6)
+S.No    ~ Name                                                  Roll Na     Dept      1                                                                                   Prog.iii:'__                                                                                                                                                                        '     01    Harshita Greta   —                              22127266 ;ECO    _! PhD
+Sr.No. 1 Three times comprehensive exam failed.
+
+b                                               Page 1 of 5

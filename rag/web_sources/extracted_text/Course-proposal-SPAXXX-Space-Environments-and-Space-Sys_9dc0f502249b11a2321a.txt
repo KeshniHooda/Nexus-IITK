@@ -1,0 +1,162 @@
+[Page 1]
+Indian Institute of Technology, Kanpur
+Proposal for a New Course for Postgraduate studies
+1.
+Course No:
+2.
+Course Title: Space Environments and Space Systems
+3.
+Per Week Lectures: 3(L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours[0-2]:0 (A), Credits 
+(3*L+2*T+P+A): 9, Duration of Course: Full Semester 
+4.
+Proposing Department/IDP : Space, Planetary & Astronomical Sciences & Engineering (SPASE) 
+5.
+Proposing Instructor(s): Rohit Sharma and Soumyabrata Chakrabarty
+ Other faculty members interested in teaching the proposed course: 
+6.
+Course Description:
+A. Objectives: This course aims to provide the students the exposure to understand different 
+aspects of the space environment, including space weather, space climate, space debris and 
+how these impact on spacecraft design, terrestrial infrastructure systems and will enable 
+students to explore particular topics at a deeper level. 
+B.
+Contents (preferably in the form of 5 to 10 broad titles):
+S 
+No.
+Broad Title
+Topics
+No. of
+lectures
+1
+Introduction
+Space weather definition; solar activity, solar wind, 
+solar flare, coronal mass ejection, effects of solar 
+activity on our earth, magnetosphere, magnetic storm 
+and magnetic substorm, spacecraft systems and its 
+orbits, classification of space environments for a 
+spacecraft. 
+5
+2
+Neutral particles 
+environment
+Neutral gas flow around a spacecraft, earth’s 
+atmosphere, pressure variation with altitude, 
+planetary atmospheres, aerodynamic force; 
+contamination, erosion by atomic oxygen, glow, 
+particle impacts on spacecraft, scattering of EM 
+di ti
+f
+ti l
+5
+
+[Page 2]
+C.
+Pre-requisites: Not Applicable.
+D. Short summary for including in the Courses of Study Booklet: The hazardous interactions 
+between the space environment and the orbiting spacecraft may lead to the degradation of 
+spacecraft and its subsystem performance and possibly even may lead to the loss of the 
+spacecraft itself. This course aims to provide the students with the introduction to the 
+understanding of different aspects of the space environment, including space weather, space 
+climate, space debris and how these impact on spacecraft design, human and robotic 
+spaceflight, terrestrial infrastructure systems and will enable students to explore a particular 
+topic at a deeper level. Emphasis is laid on problem solving techniques and design guidelines 
+3
+Plasma 
+Environment
+The geomagnetic field, the external and disturbance 
+fields; low earth orbit, polar orbits, the 
+geosynchronous plasma environment; spacecraft-
+plasma interactions, spacecraft surface charging and 
+current collection, current sources to a spacecraft, 
+spacecraft-plasma interactions, spacecraft surface 
+charging and current collection, current sources to a 
+spacecraft, current from the ambient plasma, 
+photoelectric currents, backscattered and secondary 
+electrons, effect of magnetic fields on current 
+collection, artificial current and charge sources; 
+general probe theory: the thin-sheath limit the thick-
+sheath limit, spacecraft potentials, barrier potentials, 
+potentials, anomalies, and arcing on geo-spacecraft.
+8
+4
+Macroscopic 
+particle 
+environment
+The physics of macroscopic particles, 
+ cometary 
+meteoroids, asteroidal meteors, space debris.
+3
+5
+Radiation 
+Environment:
+Electromagnetic radiation, electromagnetic radiation at 
+radio frequencies, visible and infrared, UV, EUV, and X-
+rays; energetic particle radiation; trapped radiation, 
+cosmic rays, solar proton events, radiation interactions 
+with matter, single-particle interactions, photon 
+interactions, charged-particle interactions, neutron 
+interactions.
+6
+6
+Spacecraft 
+induced 
+Environments
+Spacecraft outgassing; chemical thrusters; plasma 
+thrusters; the space radiation environment; solar-array 
+degradation.
+3
+7
+Spacecraft 
+operations
+Spacecraft charging; single event upsets; spacecraft 
+drag; space radiation, radiation hazards to satellite 
+electronic systems; radiation due to heavy ions, 
+radiation charging of dielectric materials; particulate 
+interactions: particle impacts on spacecraft scattering 
+of EM radiation from particles, environmental effects 
+of space systems.
+7
+8
+Mission Planning 
+and Safety
+Coupling, victim, spacecraft radiation hardening, test 
+and evaluation, design guidelines, material selection, 
+wiring and cable shields and their bonding
+3
+
+[Page 3]
+that will provide the student with an understanding of how space environment effects may 
+be minimized through proactive spacecraft design. 
+7.
+Recommended books:
+Textbooks:
+-
+Hastings, D., & Garrett, H. ‘Spacecraft-Environment Interactions’, (Cambridge Atmospheric 
+and Space Science Series). Cambridge: Cambridge University Press, 1996.
+-
+Vincent L. Pisacane, ‘The Space Environment and Its Effects on Space Systems’, Second 
+Edition, American Institute of Aeronautics and Astronautics, Inc, 2008.
+-
+Alan C. Tribble, ’The Space Environment: Implications for Spacecraft Design’, Princeton 
+University Press, Princeton New Jersey, 2003.
+-
+Thomas F Tascione, ‘Introduction to the Space Environment’, 2nd Edition, Krieger Publishing, 
+Florida, 1994.
+-
+Shu T. Lai, ‘Fundamentals of Spacecraft Charging: Spacecraft Interactions with Space Plasmas’ 
+Princeton University Press, 2012. 
+Reference Books:
+-
+Volker Bothmer, Ioannis A. Daglis, ‘Space Weather: Physics and Effects’, Springer Berlin, 
+Heidelberg, 2007
+-
+Yohsuke Kamide Abraham C.-L. Chian, ‘Handbook of the Solar-Terrestrial Environment’, 
+Springer Berlin Heidelberg New York, 2007
+-
+George V. Khazanov, ‘Space Weather Fundamentals’, CRC Press Taylor & Francis Group, 2006.
+8. Any other remarks:
+Dated:25.12.2023 Proposer: Soumyabrata Chakrabarty
+Dated:_______________ DUGC/DPGC Convener:___________________
+The course is approved / not approved
+Chairman, SUGC/SPGC
+Dated:______________________________

@@ -1,0 +1,179 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+Proposal for a New Course
+
+1. Course Number: CSXXX
+
+2. Course Title: Programming Language Aspects of Quantum Computing
+
+3. Course Structure: Per Week Lectures (L): 3 hrs, Tutorial (T): None, Laboratory (P): None,
+Additional Hours (A): None
+
+Credits (3L + 2T + P + A): 9
+
+Duration of Course: Full Semester
+
+4. Proposing Department / IDP: Computer Science and Engineering
+
+Other Departments / IDPs interested: EE, PHY
+
+Other faculty members interested in teaching:
+
+5. Proposing Instructor(s): Subhajit Roy
+
+6. Course Description
+
+A) Objectives
+
+• Understand quantum computation models (qubits, gates, circuits)
+
+• Gain a programming languages-centric view of quantum computing
+
+• Explain quantum circuit compilation pipelines
+
+• Design abstractions for quantum programming languages
+
+• Reason about correctness using quantum program verification techniques
+
+• Connect PL concepts (types, semantics) to quantum computation
+
+B) Contents
+
+Module 1: Introduction to Quantum Computing [10 lectures]
+
+• Classical vs quantum computation
+
+• Popular physics experiments that demonstrate quantum phenomenon
+
+• Mathematics for quantum computing, Dirac Notation
+
+• Quantum gates (Pauli, Hadamard, CNOT)
+
+• Measurement and probabilistic behavior
+
+• Quantum circuits as a computational model
+
+1
+
+[PAGE 2]
+• Quantum Algorithms: Deutsch–Jozsa, Grover’s search algorithm, Shor’s factoring algo-
+rithm, Quantum advantage and complexity class BQP
+
+Module 2: Quantum Circuit Compilation [10 lectures]
+
+• Overview of quantum computer hardware
+
+• Comparison with classical compiler pipelines
+
+• Circuit model vs alternative models
+
+• Circuit representations (DAGs, gate lists)
+
+• Quantum IRs (e.g., QASM, MLIR extensions)
+
+• Gate decomposition and universal gate sets
+
+• Optimization passes (cancellation, commutation, circuit rewrite synthesis)
+
+• Hardware mapping (qubit mapping and routing, optimized SWAP insertion)
+
+• Noise-aware compilation
+
+Module 3: Quantum Circuit Simulation [6 lectures]
+
+• Feynman’s algorithm for path integral formulation based simulation
+
+• State vector simulation
+
+• Hybrid simulation
+
+• Density matrix simulation
+
+• Tensor network methods
+
+• Stabilizer simulation (Clifford circuits)
+
+Module 4: Quantum Programming Languages [7 lectures]
+
+• Overview of low-level and high-level quantum languages
+
+• Embedded vs standalone languages
+
+• Linear types and no-cloning constraints
+
+• Control flow in quantum programs
+
+• Classical-quantum interaction
+
+• Semantics of Quantum Programs: operational semantics, denotational semantics (su-
+peroperators), axiomatic semantics (Quantum Hoare Logic)
+
+• Type Systems for Quantum Computing: linear type systems, resource tracking, effect
+systems for measurement, ensuring reversibility (ancilla bits and uncomputation)
+
+Module 5: Quantum Program Verification [7 lectures]
+
+• Deductive Verification using Hoare logic for quantum programs
+
+• Abstract Interpretation for quantum programs
+
+• Dataflow analysis for safety and correctness of quantum programs
+
+• Model checking approaches for quantum programs
+
+• Program equivalence
+
+2
+
+[PAGE 3]
+C) Pre-requisites (e.g., course codes or equivalent background)
+
+• Discrete Mathematics
+• Linear Algebra
+• Basic Probability Theory
+• Programming Languages/Compilers (recommended)
+
+The course will involve programming assignments/projects, and hence, students should be
+capable of programming in languages like Python or C.
+
+D) Short Summary (For inclusion in Courses of Study booklet)
+
+This course explores quantum computing from a programming languages (PL) perspective.
+It introduces the mathematical and computational foundations of quantum computing, fol-
+lowed by a deep dive into quantum program representation, compilation, simulation, language
+design, and verification.
+
+7. Recommended Books
+
+Textbooks:
+
+There is no textbook for the course. The material will primarily be drawn from current
+literature.
+
+Reference Books:
+
+• Nielsen and Chuang, Quantum Computation and Quantum Information.  Cambridge
+University Press.
+
+• Mermin, Quantum Computer Science: An Introduction. Cambridge University Press.
+
+• R. Shankar. Principles of Quantum Mechanics. Springer.
+
+• Noson S. Yanofsky, Mirco A. Mannucci. Quantum Computing for Computer Scientists.
+Cambridge University Press.
+
+• Chuck Easttom. Quantum Computing Fundamentals. Pearson Education.
+
+8. Any Other Remarks: None
+
+Dated:                                   Proposer:
+
+Dated:                       DUGC/DPGC Convener:
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC
+
+Dated:
+
+3

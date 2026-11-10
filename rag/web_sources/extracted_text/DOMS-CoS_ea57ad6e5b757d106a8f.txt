@@ -1,0 +1,2127 @@
+[Page 1]
+Indian Institute of Technology Kanpur 
+COURSES OF STUDY 
+2024 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Indian Institute of Technology Kanpur 
+KANPUR-208016
+
+[Page 2]
+DEPARTMENT OF MANAGEMENT SCIENCES
+
+[Page 3]
+DEPARTMENT OF MANAGEMENT SCIENCES 
+Course ID 
+Course Title 
+Credit 
+L-T-P-D[C] 
+Content 
+DMS201 
+INTRODUCTION TO 
+MANAGEMENT 
+3-0-0-0[9] 
+Module-1: Basic features of an organization, Organizational purpose and 
+performance, structures and systems, activities and processes, Evolution 
+of OB/HRM, Leadership and other critical human attributes, Key HR 
+processes, Emerging work arrangements, Evolution of marketing, 
+Strategic marketing (STP) and marketing mix, Consumer behaviour and 
+marketing intelligence, value communication, Marketing in a digital 
+world 
+Module-2: Introduction to microeconomics: Demand and supply 
+analysis, Introduction to macroeconomics: GDP, inflation, real vs. 
+nominal variables, Inter-linkage between economic concepts and 
+financial market: Fiscal and monetary policies, Introduction to financial 
+markets and institutions, Characteristics of equity and debt instruments, 
+Financing an enterprise: Banking and capital markets, Time value of 
+money, Discounted cash flow approach to valuation of securities, 
+Introduction to financial statement analysis 
+Module-3: Introduction to Operations Management, Capacity planning 
+and process analysis, Aggregate production planning, Materials 
+requirement planning, Sequencing and scheduling, Production of 
+services, Inventory control for deterministic demand, Stochastic demand 
+and safety stock, Supply chain network design, Logistics management, 
+Operations research modelling, Linear models and their solution, 
+Modelling with integer variables 
+DMS602 
+PROBABILITY AND 
+STATISTICS 
+3-0-0-0[9] 
+Axioms of probability; Conditional probability; Discrete and continuous 
+random variables; Functions of random variables; Moments of random 
+variables; Generating functions; Limit theorems; Jointly distributed 
+random variables; Sufficiency and completeness; Descriptive and 
+inferential Statistics; Sampling theory and sampling distributions, 
+Method for statistical inference; Theory of point estimation and 
+estimation of parameters; Theory of interval estimation; Theory of 
+hypotheses testing; Analysis of variance; Multivariate Analysis; Linear 
+and multiple linear regression; Introduction to statistical Packages 
+DMS603 
+INTRODUCTION TO 
+COMPUTING 
+3-0-0-0[9] 
+Computer Organization, Data Representation, Data Structures such as 
+Arrays, Stacks, Queues and Trees, Algorithms for Searching and Sorting, 
+Complexity, File Processing, Structured Programming, Lab exercises on 
+Data Structure, Algorithms and File Management using an appropriate 
+programming language. 
+DMS605 
+OPERATIONS 
+RESEARCH FOR 
+MANAGEMENT 
+3-0-0-0[9] 
+Introduction, 
+Mathematical 
+modeling, 
+Linear 
+programming 
+formulations, Graphical method, Theory of simplex, Computations in 
+simplex, Sensitivity analysis, Duality theory, Transportation problem, 
+Assignment problem, Integer programming formulations, Branch and 
+bound technique, Network models, Shortest path problem, Maximum 
+flow problem, Min-cost flow problem. 
+DMS609 
+ENERGY, 
+ENVIRONMENT 
+AND CLIMATE: 
+3-0-0-0[10] 
+The Energy System and Its Environmental Footprint, International 
+Climate Policy Developments, Energy Supply Chain, Primary and 
+Secondary Energy, Types of energy sources and their usage, Energy Data
+
+[Page 4]
+ECONOMICS AND 
+POLICY 
+MODELLING FOR 
+CLEAN ENERGY 
+Source, Sankey Diagram, Cost Concepts, Welfare, consumer and 
+producer surplus, Markets, impact of taxes and quotas, Abatement Cost 
+Curve, Market failure and externalities, Economics of Energy and 
+Exhaustible Resources, Pigouvian taxes and subsidies, Pareto efficiency 
+/ optimality, Coase theorem, Environmental Kuznets Hypothesis, Price 
+and Quantity Based Instruments, Emission Tax, Quota, Cap & Trade, 
+Contingent Valuation, Production, consumption, trade and energy flow 
+in economic modelling, Integrated environmental and economic 
+accounting. Top down and bottom-up models., Understanding General 
+Algaebric Modelling System (GAMS), Setting up policy models in 
+GAMS and other Environment, LEAP, MARKAL, IMAGE, 
+MESSAGEix, AIM/GCE, GCAM etc., Design of Market of RECs, 
+relevance, experience so far and further development, Perform, Achieve 
+and Trade (PAT) Mechanism, Market for EScerts, Clean Development 
+Mechanism, Emission Trading System: International Experience and 
+Indian Developments, International market for carbon and RECs, Setting 
+up of a small Energy-Economy-Environmental Policy Model using 
+GAMS. 
+DMS611 
+FINANCIAL 
+ENGINEERING 
+3-0-0-0[9] 
+Basic Elements of Financial Systems and Financial Management, Fixed 
+Income Markets: Valuation and risk management, Equity Markets: 
+Mechanics of Portfolio Theory, Performance Evaluation of Mutual 
+Funds, Pricing Models, Mathematical Background: Introduction to 
+Stochastic Calculus, Numerical procedures, Options and Futures 
+Markets: Valuation and Trading Strategies, Greek letters: Definitions and 
+how they are used. 
+DMS612 
+INTERACTIVE 
+DECISIONS AND 
+BUSINESS 
+STRATEGIES 
+3-0-0-0[9] 
+Business strategy is the study of plans, actions, and proposition to help 
+the decision makers achieve the goals of the organization. The ideas 
+employed can be from the domains of economics, management science 
+(marketing, finance, operations research, organization behaviour), human 
+psychology, game theory, war strategy, etc. The aim of the course is to 
+use the fundamental techniques and ideas of game theory, war strategy 
+and different areas of management science to gain an insight into business 
+strategy. War, as we know, is conflict between human beings, races, 
+countries, ethnicity, etc., where one set of individuals want to impose 
+their hegemony, based on culture, history, religion, economic dominance, 
+territorial dominance, etc., over other group of people. Game theory on 
+the other hand is study of quantitative models based on which individuals 
+or organizations interact as rational agents. Finally, management science 
+is an umbrella of different concepts based on which problem solving is 
+undertaken for decision making in different spheres of an organization. 
+This course aims to utilize the body of knowledge from these different 
+domains to help the students make better decisions. Both theoretical as 
+well as practical concepts (with real life examples) will be dealt with, 
+which will ensure a good balance as well as rationale development among 
+students to appreciate the relevance of this field in an ever-changing 
+business environment.
+
+[Page 5]
+DMS621 
+THEORY AND 
+APPLICATIONS OF 
+MULTI CRITERIA 
+DECISION MAKING 
+3-0-0-0[9] 
+In all domain of multiple levels decision making considering numerous 
+alternatives and conflicting criteria, it becomes imperative for the 
+decision maker (DM)/set of decision makers (DMs) to come up with the 
+best solution. Ideas of Multi Criteria decision making (MCDM) 
+(comprising of multi objective optimization (MOO) and multi attributive 
+decision making (MADM)) help DMs to make rational as well 
+mathematical well-grounded decision to solve these set of problems. In 
+many cases when stakes are high, and one has non-commensurable units 
+of measurement as well multiple conflicting objectives, MCDM 
+definitely aids better decision making. This course will benefit students 
+in their masters and doctoral programs and working in a variety of areas 
+like engineering (electrical, mechanical, civil, chemical, etc.), 
+mathematics & statistics (Multiple Bayesian Decision making), 
+economics, management (SCM, quantitative finance, etc.) to tackle and 
+solve interesting problems both from theoretical as well as practical 
+viewpoints. 
+DMS624 
+COMPUTER AIDED 
+DECISION 
+SYSTEMS 
+3-0-0-0[9] 
+System Analysis: Information System Analysis and Design, Decision 
+Support System, Database Management Systems, Query Languages, 
+Emerging Areas like communication network distributed systems and 
+knowledge based systems, Simulation; Methodology Approaches 
+Programming Considerations, Languages and Data Structures, Statistical 
+Considerations, Validation, Simulation Languages, Applications. 
+DMS625 
+INDRODUCTION 
+TO STOCHASTIC 
+PROCESSES AND 
+THEIR 
+APPLICATIONS 
+3-0-0-0[9] 
+Introduction to Stochastic Processes; Markov Chain: Transition 
+probabilities, Branching chains, Stationary and limiting distributions; 
+Poisson Process: Inter-event and waiting times, Thinning and 
+superposition, Renewal phenomena, Elementary renewal theorem; 
+Continuous-time Markov Chain: Transition rates, Birth and death 
+processes, Balance equations; Introduction to Random walks, Brownian 
+motion, Markov processes, Stationary processes, Martingales, etc. 
+Applications of stochastic processes in Inventory control, Queueing 
+theory, Finance, Marketing, etc. 
+DMS631 
+MARKETING 
+MODELS 
+3-0-0-0[9] 
+Review of optimization – calculus, linear programming, multi-objective 
+optimization; Review of probability and statistical models – estimation, 
+regression, risk; Decision support system for risk; Basic concepts in 
+marketing; Modeling consumer behavior – purchase incidence, 
+perceptual evaluation, attitude and preference; Modeling organizational 
+behavior – Sheth, Webster-Wind, Choffray-Lilien, bargaining, 
+negotiation; Modeling prices – microeconomic models; Decision models 
+for product; Modeling of advertising and promotion – selection, 
+scheduling; Modeling distribution system – network and logistics; 
+Marketing planning and strategy decisions – product life cycle, 
+marketing-mix analysis, competition
+
+[Page 6]
+DMS634 
+MANAGEMENT 
+DECISION 
+ANALYSIS 
+3-0-0-0[9] 
+Basic concepts of Linear Programming (LP), Non-Linear Programming 
+(NLP), Quadratic Programming (QP), Reliability Optimization, Robust 
+Optimization, etc; Multiple Objective Decision Making (MODM), 
+Multiple Criteria Decision Making (MCDM); Decisions under 
+uncertainty; Multivariate Data Analysis, Multiple regression models, 
+Principle Component Analysis (PCA), Factor Analysis, Multivariate 
+Analysis of Variance (MANOVA), Conjoint Analysis, Canonical 
+Correlation, Cluster Analysis, Multidimensional Scaling, Structural 
+Equation Modelling, etc. Non-parameter techniques like Data 
+Envelopment Analysis (DEA), Analytical Hierarchy Process (AHP); 
+Statistical Decision Trees; Utility analysis and its significance to MCDM 
+and MODM; Concepts of heuristic approaches with introduction to 
+variety of examples of heuristics methods 
+DMS636 
+INTRODUCTION TO 
+GAME THEORY 
+3-0-0-0[9] 
+Description of Game Theory, Representation of games in extensive form 
+and Normal form, Concept of preferences and utility, Introduction to 
+solution concepts for normal and extensive form games, Description of 
+different solution concepts: Dominance, Nash equilibrium, mixed 
+strategy Nash equilibrium, applications; Static model of oligopoly, two-
+player zero sum games, extensive form games of perfect information, 
+subgame perfect equilibrium, finite and infinite horizon, alternating 
+bargaining models, games with incomplete information; Bayesian games, 
+Bayes Nash equilibrium as a solution concept, finitely and infinitely 
+repeated game; Trigger strategies, cooperative game theory; Nash 
+bargaining solution, Coalition form game; Shapley value, Core, 
+mechanism design, Properties of mechanism and implementation. 
+DMS637 
+ADVANCED 
+DECISION MODELS 
+3-0-0-0[9] 
+Review of linear and integer linear programming. Multistage decision 
+models: Dynamic programming. Network flow problems: Shortest path, 
+maximum flow, and minimum cost flow problems; Network 
+optimization. Multi-objective decision models: Analytic hierarchy and 
+network 
+processes. 
+Data 
+Envelopment 
+Analysis. 
+Nonlinear 
+programming: Unconstrained optimization; Lagrangian relaxation and 
+KKT conditions; Convex optimization; Search, gradient and penalty-
+based methods; Quadratic programming. Metaheuristics and their 
+applications to combinatorial optimization problems such as scheduling 
+and allocation problems. Stochastic decision models: Markov chains; 
+Queues and queuing networks. 
+DMS638 
+STOCHASTIC 
+MODELS AND 
+SIMULATION 
+3-0-0-0[9] 
+Review of Probability: Events and probability; Random variables; 
+Conditional distribution; Sum of random variables. Markov Chain: 
+Transition 
+probability 
+matrix; 
+Chapman-Kolmogorov 
+equation; 
+Classification of states; Long-run behavior. Poisson Process: Poisson 
+process; Inter-arrival and waiting times; Poisson combining and splitting. 
+Continuous-time Markov Chain: Kolmogorov forward and backward 
+equations; Birth & death process; Long-run behavior. Queueing Models: 
+Markovian queues; Little's law; Network of queues; General and priority 
+queues. Stochastic Optimization: Robust optimization; Markov decision 
+process. Simulation: Generating random numbers and variables; 
+Simulation of queues, production systems, supply chains, etc; Monte 
+Carlo methods; Agent-based modelling; Model verification and 
+validation.
+
+[Page 7]
+DMS639 
+ANALYTICS IN 
+TRANSPORT AND 
+TELECOM 
+3-0-0-0[9] 
+Introduction, Commonality in modeling problems across Transport and 
+Telecom, Introduction to graph Theory, Review of linear and integer 
+linear programming, Minimum Spanning Tree Problem, Steiner Tree 
+Problem, Shortest Path Problem, Dijkstra’s algorithm, Bellman Ford 
+Algorithm, All Shortest Paths, Floyds algorithm, Applications, 
+Introduction to complexity theory and NP completeness, Network Flow 
+Models, Max Flow Min Cut Problem, Minimum Cost Flows Knapsack 
+Problem and applications, Bin Packing and applications, Traveling 
+Salesman Problem with Applications, Vehicle Routing Problem, Large 
+Scale Optimization, Column Generation, Hands on with CPLEX, Set 
+Covering/Partitioning/Packing Models and Applications, Fixed Charge 
+Transportation Problem, Telecom Network Design, Access Networks, 
+Backbone Networks, Design of Survivable Networks, Graph Coloring 
+Model and applications, Chinese Postman Problem with applications 
+DMS640 
+INFORMATION 
+SYSTEMS THEORY 
+3-0-0-0[9] 
+Introduction: Information and its characteristics including entropy, 
+System and its characteristics. IS Cycle Theories: Delone and McLean’s 
+Success Model, Technology Acceptance Model, Unified Theory of 
+Acceptance and Use of Technology, User Resistance Theories, Task 
+Technology Fit Theory, Process Virtualization Theory, Theory of 
+Deferred Action. Strategic and Economic Theories: Resource based 
+view, Theory of Slack Resources, Portfolio Theory, Theory of Lemon 
+Markets, Technology Organization Environment Framework, Porter’s 
+Competitive Forces Model, Business Value of IT, Diffusion of 
+Innovations, Institutional Theory, A Multilevel Social Network 
+Perspective, Agency Theory. Socio-Psychological Theories: Actor 
+network theory, Theory of Planned Behaviour, Structuration Theory. 
+DMS641 
+PRODUCTION 
+MANAGEMENT 
+3-0-0-0[9] 
+Overview of production systems. Product decisions: New product 
+development; Reliability, warranty and maintenance; Product lifecycle 
+management. Process decisions: Process selection, Process analysis; 
+Capacity planning; Line balancing. Plant layout & location: Plant layout; 
+Facilities location models; Plant location. Production planning: 
+Forecasting; Aggregate planning; MPS, MRP and JIT. Scheduling: 
+Single-machine scheduling; Flow-shop scheduling; Job-shop scheduling; 
+Project scheduling. 
+DMS642 
+OPERATIONS 
+MANAGEMENT 
+3-0-0-0[9] 
+Introduction. 
+Inventory 
+control: 
+Inventory 
+management 
+under 
+deterministic demand, Single and multi-period problems with stochastic 
+demand, Multi-echelon models, Risk pooling, centralization, and 
+postponement. Supply chain management: Concepts and design, 
+Bullwhip effect and information sharing, Contracts and coordination, 
+Disruption and supply chain resilience, Reverse logistics. Service 
+operations management: New service development, Service process 
+design, Analysis of waiting lines, Revenue management. Quality control: 
+Measurable quality, Control charts, Process capability, Acceptance 
+sampling, TQM, Service quality. Contemporary topics. 
+DMS643 
+FRONTIERS IN 
+OPERATIONS 
+MANAGEMENT 
+3-0-0-0[9] 
+Modelling the competing agents in the operations management setting, 
+Impact of horizontal and vertical competitions on the performance, 
+Supply chain network design, Analysis of policies and regulations on 
+supply chain performance, The role of financing in supply chain 
+performance, Impact of competition in supply chains, Analysis of 
+contracts in financially constrained supply chains, Reverse logistics
+
+[Page 8]
+network design, Impact of environmental and social aspects on supply 
+chain performance, multi-objective optimization models in sustainable 
+supply chain management. Closed loop supply chain management. 
+Introduction to system dynamics modeling, Modeling the complex 
+ecosystem interactions for understanding the dynamics of behavior of the 
+supply chain system and the agents, Healthcare operations and supply 
+chain management, Vaccine supply chain management, Network design 
+in supply chain management, Contracts for the healthcare supply chain. 
+Scheduling in healthcare operations, Deviation of operations decisions 
+from normative models, Decision bias in operations management, 
+Behavioral models in operations management, Prospect theory and other 
+theoretical frameworks and heuristics in describing the behavior in 
+operations management. 
+DMS645 
+PROBABILITY AND 
+RANDOM 
+PROCESSES 
+3-0-0-0[9] 
+Review of Probability: Events and probability; Random variables; 
+Conditional distribution; Sum of random variables. Markov Chain: 
+Transition 
+probability 
+matrix; 
+Chapman-Kolmogorov 
+equation; 
+Classification of states; Long-run behavior. Poisson Process: Poisson 
+process; Inter-arrival and waiting times; Poisson combining and splitting. 
+Continuous-time Markov Chain: Kolmogorov forward and backward 
+equations; Birth & death process; Long-run behavior. Queueing Models: 
+Markovian queues; Little's law; Network of queues; General and priority 
+queues. Stochastic Optimization: Robust optimization; Markov decision 
+process. Simulation: Generating random numbers and variables; 
+Simulation of queues, production systems, supply chains, etc; Monte 
+Carlo methods; Agent-based modelling; Model verification and 
+validation. 
+DMS661 
+STATISTICAL 
+METHODS FOR 
+MANAGEMENT 
+RESEARCH 
+3-0-0-0[9] 
+Random 
+experiment 
+and 
+probability, 
+Conditional 
+probability, 
+Independence Probability mass function, probability density function, 
+distribution function, standard distributions, mean, variance and quantiles 
+Joint distribution, Correlation and independence, Limit theorems 
+Sampling distribution, Maximum likelihood method, Confidence 
+intervals Simple hypothesis testing, Composite hypothesis testing, 
+Standard tests Simple linear regression, Multiple linear regression, 
+Logistic regression Analysis of variance. 
+DMS662 
+PRODUCTIVITY 
+AND EFFICIENCY 
+ANALYSIS: 
+THEORY AND 
+BENCHMARKING 
+APPLICATIONS 
+3-0-0-0[10] 
+Setting efficiency targets and benchmarks remains one of the key 
+questions faces by the industry, 
+regulators as well as policy makers. This course would provide 
+understanding of fundamentals to 
+efficiency and productivity analysis, non-parametric and parametric 
+methods, and their applications. The course would primarily cover 
+production and cost economics, data envelopment analysis and its 
+variations and stochastic frontier analysis. The course would include 
+hands on applications of the theory through mini project(s). Concepts of 
+Production and Cost Functions, Concepts of Efficiency and Productivity, 
+Index Numbers and Productivity Measurement, Laspeyres, Passche, 
+Fisher, Tornqvist Index, Total Factor Productivity (TFP) Measurement, 
+Data Envelopment Analyses (DEA), Advance Topics on Data 
+Envelopment Analyses (DEA), Parametric methods for efficiency 
+analysis, introduction to Stochastic Frontier Analyses (SFA), 
+Benchmarking Applications: Setting performance targets and regulatory
+
+[Page 9]
+applications (particularly in electricity, energy and infrastructure 
+sectors), Mini Project(s) 
+ 
+DMS671 
+SOFTWARE 
+PROJECT 
+MANAGEMENT 
+3-0-0-0[10] 
+This course will cover the techniques for managing software projects. It 
+is intended to give the students both knowledge about, and practical 
+experience in, the design and development of production quality 
+software. The techniques taught in the class will be applied to a 
+substantial team project. Course’s topics will be as follows: Software 
+Process; Software Configuration Management, CMM Levels, Software 
+Project Planning and Costing; Requirements Engineering; Software 
+Project Design; Testing; Software Metrics; Quality, Software Project 
+Management; Human Factor. 
+DMS672 
+DATA MINING AND 
+KNOWLEDGE 
+DISCOVERY 
+3-0-0-0[9] 
+Introduction to data mining, knowledge discovery, machine learning, big 
+data, data mining tasks and applications, Data preparation for knowledge 
+discovery - data understanding, data cleaning, data transformation, 
+discretization, feature reduction, learning with unbalanced data, 
+Classification - decision trees, choosing the splitting attribute, 
+information gain and gain ratio, handling numeric attributes (finding best 
+split), pruning (pre-pruning, post-pruning, estimating error rates), from 
+trees to rules, Classification - naive Bayes classifier, neural networks, 
+support vector machines, Evaluation and Credibility - classification with 
+train, test, and validation sets (handling unbalanced data), parameter 
+tuning, predicting performance, Evaluation on "small data" - cross-
+validation, bootstrap, comparing data mining schemes, Clustering - 
+introduction, partitioned, hierarchical, density based, Associations Rule 
+Mining/ Market Basket Analysis - transactions, frequent item sets, 
+association rules, apriori algorithm, applications 
+DMS673 
+APPLIED MACHINE 
+LEARNING 
+3-0-0-0[9] 
+Introduction, Supervised Learning: Rationale and Basics, Linear 
+Regression, Logistic Regression for Classification Tasks, Support Vector 
+Machine, Neural Networks, Decision Tree. 
+DMS692 
+ADVANCED 
+STATISTICAL 
+METHODS FOR 
+BUSINESS 
+ANALYTICS 
+3-0-0-0[9] 
+The course is designed to train students on understanding research 
+problems and situations requiring multivariate and Bayesian approaches, 
+selecting appropriate multivariate techniques of data analysis, 
+interpreting the results of analysis, and applying the techniques to 
+business and research problems. The course includes topics dealing with 
+multiple non-interdependence techniques (such as Factor Analysis, 
+Cluster Analysis, Multidimensional Scaling), multiple dependence 
+techniques (such as Multiple Regression Analysis, Discriminant 
+Analysis, Ensemble Techniques), and recent advances in statistics and 
+machine learning research. 
+DMS700 
+RESEARCH 
+METHODOLOGY 
+3-0-0-0[9] 
+Introduction to Social Science Research Perspective, Different 
+Approaches to Social Research, Approaches to Theory Building, How to 
+Read an Article, Literature Review vs. Annotated Bibliography, 
+Sampling, Measurement Issues & Scale construction, Research Design, 
+Qualitative Research, Experimental Research, Survey Research, 
+Quantitative Data Analysis Techniques, Research Writing and 
+Presentation, Research Evaluation and Critique, Issues in Current 
+Research Practice
+
+[Page 10]
+DMS697 
+INDUSTRIAL 
+PROJECT 
+0 
+A 6 to 8 weeks industrial project for M.Tech. students during the period 
+intervening the II and III semesters on a problem of practical relevance 
+completed in an industrial or service organization. The student will study, 
+analyze and then solve the problem and prepare its implementation 
+details, under the supervision and guidance of an officer/executive of the 
+host organization. On completion of the summer project the student will 
+submit a written report and give a seminar to the IME Department. 
+DMS698 
+RESEARCH 
+SEMINAR 
+0 
+Seminar 
+DMS699 
+M TECH THESIS 
+0 
+M. Tech. Thesis 
+DMS799 
+PHD THESIS 
+0 
+Ph. D. Thesis 
+MBA601 
+ACCOUNTING AND 
+FINANCE 
+3-0-0-0[10] 
+Financial Accounting: Accounting Principles, Accounting Mechanics, 
+Accounting Standards & Financial Statement Analysis; Management 
+Accounting: Cost Volume Profit (CVP) Analysis, Costing SystemsTools 
+& Techniques, Activity Based Costing (ABC), Corporate finance: The 
+Time Value of Money, Stock and Bond Valuation 
+MBA606 
+ECONOMIC 
+ANALYSIS FOR 
+MANAGEMENT 
+3-0-0-1[10] 
+Introduction - the scope of Economic Analysis; Demand and Supply 
+analysis; Consumer Theory; Producer Theory - Cost Function, Profit 
+Maximization, 
+Perfect 
+Competition, 
+Monopoly, 
+Oligopolistic 
+Competition, Oligopoly, Price Discrimination, Multi Product Decision 
+making, Multiple production facility decionmaking; Game Theory, 
+Information Economics, Public Economics 
+MBA607 
+FINANCIAL 
+MANAGEMENT 
+3-0-0-1[10] 
+Concept of Time Value of Money, NPV, IRR, MIRR, CBR, Discount 
+Rate, Fund and Cost Flow Analysis, Free Cash Flow to Equity and Firm, 
+Break Even Analysis, Working capital management, Investment 
+Analysis, Cost of Capital, Capital asset pricing models, Leverage, 
+Determination of optimal capital structure, Debt Management, Dividend 
+Policy, Concept of Financial Strategy, Course will be based on case study 
+and journal articles. 
+MBA608 
+MACROECONOMIC 
+ANALYSIS FOR 
+MANAGEMENT 
+3-0-0-1[10] 
+Nature 
+of 
+Macroeconomics, 
+Major 
+schools 
+of 
+thoughts 
+in 
+Macroeconomics, National income accounting, consumption function, 
+investment and saving, IS curve and its components, The money market 
+– determinants of money supply and money demand, The bond market, 
+LM Curve and its components, Bringing the goods and financial markets 
+together: the IS-LM model, Derivation of Aggregate demand curve, The 
+labour market, Putting all markets together: The Aggregate Supply-
+Aggregate Demand model, Causes and cures of inflation, Link between 
+goods market, money market and fiscal deficit, and inflation, Link 
+between employment and inflation – the Phillips curve, Openness in 
+goods and financial Markets, The concepts of exchange Rate, The 
+Mundell-Fleming Model, Introduction to International Trade, Fiscal 
+Policy, Monetary Policy, Exchange rate Policy, Facts of Economic 
+Growth, The Solow Growth Model, Policies for economic growth, Role 
+of expectations in Macroeconomics, Current developments in 
+Macroeconomics. 
+MBA610 
+INVESTMENT 
+VALUATION AND 
+REAL OPTIONS 
+3-0-0-1[10] 
+Introduction to Valuation methods, Investment Valuation, Estimating 
+Cost of Equity and Cost of Capital, Derivatives, Option Pricing Theory, 
+Option Pricing Applications ain Valuation, Real Options in Managerial
+
+[Page 11]
+Decision Making, Binomial Tree Method for Valuing Real Options, 
+Option to Delay, Option to Expand, Option to Abandon, Valuing Natural 
+Resources Using Real Options, Mini Project Identifying Real Options in 
+Practice, Appraising Projects with Real Options. 
+MBA611 
+ORGANIZATION 
+STRUCTURE AND 
+DESIGN 
+3-0-0-1[10] 
+Introduction to Organizations, Work motivation and Organization Goals, 
+Organizations and Markets, Organization Structures and Systems, 
+Strategy, Structure & Technology, Organization Environment and 
+Culture, Various Design Options, Power and Politics, Organization 
+Conflict, Change and Restructuring, Growth and Evolution, Employee 
+empowerment, Learning Organizations and organization Effectiveness, 
+Service Organizations, Organizations as Networks 
+MBA616 
+HUMAN 
+RESOURCE 
+MANAGEMENT 
+3-0-0-1[10] 
+Meaning of Work and Humans as Resource, Human Resource Planning 
+and Selection, Motivation and Compensation Management, Performance 
+Appraisal, Career Management, Training and HRD, Group Dynamics 
+and Leadership, Trade Unions and Industrial Disputes, Public Policy and 
+Collective Bargaining, Due Process, Empowerment and Participation, 
+Technology & HRM, Japanese HRM 
+MBA617 
+SOCIO-POLITICAL 
+AND ETHICAL 
+ASPECTS OF 
+BUSINESS 
+3-0-0-0[10] 
+Industrial revolution and industrialization, Political economy of under 
+development, Sociology of development, Indian rural and urban society, 
+Influence of religion and karma, Multiplicity of languages, cultures, 
+castes, Feudalism, Work ethic, Constitution of India, Party system, 
+Fundamental rights, Local self government, Directive principles of state 
+policy, Welfare state and Civil society, Social stratification, 
+Environmental issues and legislation, and social movements, Corporate 
+social responsibility and business ethics, Judicial system, Businesslaw, 
+Contract act, Arbitration, Companies Act, Sale of goods act, 
+partnershipact, 
+negotiable 
+instruments 
+act, 
+Income 
+tax 
+Act, 
+Environmental legislation. 
+MBA618 
+UNIVERSAL 
+HUMAN VALUES 
+AND ETHICS 
+3-0-0-0[10] 
+Human being as a co-existence of the Self and the Body, Harmony of the 
+Self with the Body, Values in Human-to-Human Relationship, Trust – the 
+Foundational Value in Relationship, Respect – as the Right Evaluation, 
+Understanding Harmony in the Nature, Definitiveness of (Ethical) 
+Human Conduct, Self-exploration will be used as a process for this 
+course. 
+MBA621 
+MANAGERIAL 
+COMMUNICATION 
+3-0-0-0[10] 
+The Manager, Interpersonal Communication, Ongoing Communication 
+Process and flow, Organizational Managerial Communication, Personal 
+Language, use and Communication System, The Media and Tools of 
+Communication Climate, Low Structure: One to One Communication, 
+High Structure: One to One Communication, Meetings and Conferences, 
+Interactional Presentation, Keys to Functional Writings, Formats for 
+Business letters and Memos, Exposure to e-Communication, Planning 
+and Producing Effective Business Reports, Business and Managerial 
+Communication Research. There will be at least one case/exercise in each 
+class 
+MBA622 
+MANUFACTURING 
+STRATEGY 
+3-0-0-0[9] 
+Product and factory life cycle, strategic dimensions of technology, 
+characteristics of job shops and flow shops, learning curve effects, 
+economies of scale, resolution of conflicts between manufacturing and 
+marketing, concept of PWP, design of organization structure of 
+manufacturing divisions, interactions of design department with
+
+[Page 12]
+manufacturing, marketing, service and purchasing. Concept of aligning 
+of manufacturing and the corporate strategy. Manufacturing strategy 
+making process & green manufacturing. How to evaluate manufacturing? 
+Term paper on advanced topics and case studies. 
+MBA623 
+STRATEGIC 
+MANAGEMENT 
+3-0-0-0[10] 
+General Management Function, Introduction to the corporate strategy, 
+concept of organizational purpose, environmental scanning and 
+formulation of objectives, strategy for growth such as concentric growth 
+and diversification, role of values in strategy formulation and evaluation, 
+managing diversity and growth, choice of organizational structure and 
+designing control systems to support the implementation of the strategy. 
+Role of implementation issues in strategy formulation. Impact of 
+organizational culture, structure, systems in strategy implementation and 
+Merger and Acquisitions: Conglomerates and Diversified Majors & 
+Horizontal Strategy and Horizontal Structure. Culture as impediment to 
+success of M&A. Term paper on advanced topics. 
+MBA626 
+MANAGEMENT OF 
+TECHNOLOGY 
+3-0-0-0[9] 
+Policy Technology Choice: Linkage; National Technology Policies; 
+Technology, Competition and Industrial Structure; formulating the 
+technology strategy, Technology Development and Acquisition process; 
+Managing Technologies, Technology in Indian Industries, Strategic R&D 
+management and Technological Consortia; Licensing and joint Ventures, 
+Managing Technology Spillovers; Justification of new technology; 
+management accounting and technology; Integration of New with Old 
+technology, Assimilation of Technology; Intellectual Property Rights and 
+their Implications for Industry Policy and Technology Management. 
+MBA629 
+ECONOMICS OF 
+COMPETITIVE 
+STRATEGY 
+3-0-0-0[10] 
+Economic Concepts for Strategy; Review of Economics Principles – 
+Demand curve, price elasticity of demand, marginal revenue, cost 
+function; Fundamentals of non-cooperative games; Economics of Scale 
+and Economics of Scope; Horizontal and Vertical Boundaries of the Firm; 
+Vertical Integration; Competitors and Competition; Static Pricing; 
+Strategic Commitment; Dynamic Pricing; Entry and Exit; Strategic 
+Positioning; Value Creation and sustaining competitive advantage 
+MBA630 
+ECONOMICS OF 
+BUSINESS POLICY 
+3-0-0-0[9] 
+Introduction - The scope of Economics of Business Policy; Review of 
+Market structures - Perfect competition, Monopoly, Monopsony, Product 
+Differentiation and Monopolistic Competition; Pricing Strategies; 
+Collusion, Entry Barriers and Entry Strategies; Vertical Integration; 
+Internationalization; Requirements for Long term Success, Government 
+Policies and their effects. 
+MBA631 
+MARKETING 
+MANAGEMENT 
+3-0-0-1[10] 
+Marketing Environment, Company analysis (strength, weaknesses, 
+opportunities and threats), the concept of marketing mix., four Ps of 
+marketing, and the concept of marketing strategy. The concept of market 
+segmentation and differentiation, product positioning and its applications 
+in demand forecasting, Consumer Behaviour and Marketing Research, 
+International marketing, Marketing economy and public policy issues, E-
+marketing. In this course concepts will be elaborated by the use of cases 
+and research papers, Brand Management, Marketing matrix, Assignment 
+based on business databases (quantitative as well as qualitative), Student 
+Project (Field research & Data Interpretation based term projects) 
+MBA632 
+RETAIL 
+MANAGEMENT 
+3-0-0-0[10] 
+Retail sector in India provides employment to 8% of its total population 
+(1.3 billion approx.) and contributes to 10% of its GDP. It is expected to
+
+[Page 13]
+grow at the rate of 15 to 20% per year (PWC 2012). In a rapidly growing 
+retail environment, Retail Managers are required to engage in the 
+location, format, environment, product assortment, service design, sales 
+force management, pricing promotion, and a variety of other decisions. 
+In this context, this course will provide the participants an opportunity to 
+understand and deliberate on concepts in retailing. 
+MBA633 
+MARKETING 
+RESEARCH 
+3-0-0-1[10] 
+Nature and scope of Marketing research: a. The marketing research 
+process, b. Research design and Implementation. Data collection: a. 
+Secondary sources of marketing data, b. Standardized sources, c. 
+Information collection: qualitative and observational methods, d. 
+Information 
+from 
+respondents, 
+e. 
+Attitude 
+measurement, 
+f. 
+Experimentation, g. Sampling fundamentals. Data Analysis: a. 
+Hypothesis testing: Basic concepts and tests of associations, b. 
+Correlation regression analysis, c. Discriminant and Canonical analysis, 
+d. Factor and cluster analysis, e. Multidimensional scaling and conjoint 
+analysis, f. Presenting the results. Recent Trends: a. Social media for 
+market research b. Bayesian methods for marketing research c. Agent 
+based modeling. 
+MBA634 
+CONSUMER 
+BEHAVIOUR 
+3-0-0-0[10] 
+Consumers in the Market place: a. An introduction to Consumer 
+Behaviour, Consumers as individuals: a. Perception, b. Learning and 
+Memory, c. Motivation, Values and Involvement, d. Attitudes, e. Attitude 
+change and Persuasive Communication, f. Self, Consumers as decision 
+Markers: a. Individual decision Making, b. The Purchase Situation, 
+Postpurchase Evaluation and Product Disposal, c. Group Influence, 
+Opinion Leadership, d. Organizational and Household Decision Making, 
+Consumers and Sub Cultures: a. Income and Social Class, b. Ethic, Ratial 
+and Religious Subcultures, Consumers and Cultures: a. Cultural 
+Influences on Consumer Behaviour, b. Lifestyles and Global Culture, c. 
+Sacred and Profane Consumption. 
+MBA635 
+MARKETING OF 
+SERVICES 
+3-0-0-1[10] 
+Introduction, Managing on line and on demand multi tasking 
+multiplexities, Comtemporary research findings, Strategic Marketing of 
+Services, Comtemporary issues, understanding Customer Requirements, 
+expectations and complexities of Customer Behaiour in the service 
+domain, Extended Marketing Mix and creating the Service Value 
+Proportion Segmentation and Targeting of Services Positioning and 
+Relationship Marketing. Service Delivery and Service Recovery, Service 
+scapes, Service Quality, aligning Service Design and Standards, Service 
+Pricing, Yield Management. KanoQFD and other models, Service 
+dominant Logic and energing customer roles in multilayer networks of 
+Services delivery. 
+MBA636 
+BRAND 
+MANAGEMENT 
+3-0-0-0[10] 
+Transcendence of marketing: from product to brands, Basics of brand 
+management, Customer based brand equity (CBBE), Creating Mental 
+Maps (Associated network memory model), Brand equity Building 
+Blocks, Brand Positioning model, Brand Resonance model, Brand value 
+chain model, Choosing brand elements to build strong brands; Designing 
+Marketing program to build brand equity (product, pricing and channel 
+strategies), 
+Integrated 
+Marketing 
+Communications, 
+Leveraging 
+secondary associations to build brand equity; Developing a Brand Equity 
+Measurement and Management System: Indirect and Direct Measures of 
+Brand Equity (Qualitative methods, Exploratory Research, Quantitative
+
+[Page 14]
+methods, Tracking Research, Experimental Approaches), Measuring 
+Sources of Brand Equity: Capturing Customer Mind-Set, Measuring 
+Outcomes of Brand Equity: Capturing Market Performance; Corporate 
+Branding Strategy, Brand Hierarchy, Brand Portfolio Management, 
+Brand Extensions: Line Extensions, Category Extensions, Pros and cons 
+of Brand extensions, Managing brands over time: Reinforcing Brands & 
+Revitalizing Brands; Managing Brands Over Geographic Boundaries and 
+Market Segments. 
+MBA637 
+BUSINESS TO 
+BUSINESS 
+MARKETING 
+3-0-0-0[10] 
+Business to Business Marketing encompasses those management 
+activities that enable a supplier firm to understand, create, and deliver 
+value to other businesses, governments, and/or institutional customers. In 
+the years past, the topical area applied largely to industrial manufacturing 
+firms. Today, business to business marketing provides practical 
+frameworks, concepts, and tools for organizations as diverse as 
+management consulting firms, investment banks, software solutions 
+providers, and integrated supply management operations, among many 
+other leading-edge technology and service companies. As business to 
+business marketing expands its scope and stature, this course aims at 
+reinvigorating training in marketing beyond the tired old, 4Ps plus 
+industrial examples format. This course will emphasize the 
+interrelatedness of concepts such as multifunctional teams, strategic 
+alliance 
+environmental 
+sensitivity, 
+interorganizational 
+trust, 
+organizational learning and adherence to ethical principles. Furthermore, 
+with the advent of relationship and network theories, this course 
+emphasises that business marketer must learn not only to create value, 
+but also to equitably share value with customer firms. Understanding of 
+business buying and marketing behaviour within the context of 
+relationship/network theories is the central learning from this proposed 
+elective. 
+MBA639 
+STRATEGIC 
+MARKETING: 
+CONTEMPORARY 
+ISSUES 
+3-0-0-0[9] 
+Successful Marketing in highly competitive global markets of today 
+needs breakthrough concepts, socially responsible and innovative 
+execution and mastering that blend entails participatory, immersive 
+learning. This practice-oriented course will be based on integrative and 
+investigative projects to consolidate the learning from foundations 
+courses. Course Plan and Modules as follows: 1) Market opportunity 
+recognition and evaluation 2) Generating business models 3) Green and 
+sustainable marketing scenarios 4) Contextual strategies for products, 
+services & brands 5) Emerging perspectives on marketing practices and 
+corporate reputation. 
+MBA640 
+INTELLECTUAL 
+PROPERTY 
+MANAGEMENT, 
+VALUE CREATION 
+AND VALUE 
+CAPTURE 
+3-0-0-1[10] 
+ModuleI: Intellectual Property Management. Market Capitalization, 
+Intellectual Capital (IC), Components of Intellectual Capital, Tangible 
+and Intangible Assets of Firms, Goodwill, Linkage between IC, 
+Corporate Strategy, and Profits, Relationship between Intellectual Capital 
+and Intellectual Property, Knowledge Economy and the need for 
+Intellectual Property Management, Various Types of Intellectual Property 
+trademarks, Copyrights, Patents, Trade Secrets, and Industrial Design, 
+International IP Treaties/Agreements on IP Rights, Types of Patents, 
+Patenting Advantage, Offensive and Defensive IP Strategies, Global
+
+[Page 15]
+Innovation Indexs and IP Management, Intellectual Property Strategies 
+in Indian Context Universities, CSIR and Commercial Firms Module II: 
+The Dynamics of Value Creation and Value Capture. Module III: Patent 
+Mapping. 
+MBA641 
+COMPUTING FOR 
+MANAGEMENT 
+3-0-0-0[9] 
+Computers and Management Function, Introduction to an appropriate 
+high-level language, Introduction to Data Structures, Computer 
+Organization, System Configuration, Introduction to data base 
+management, management information systems, decision support 
+systems and simulation 
+MBA643 
+SIMULATION OF 
+BUSINESS 
+SYSTEMS 
+3-0-0-0[10] 
+Simulation Philosophy and Methodologies, Applied Probability and 
+Statistics, Random number Generation, System Modeling, Simulation 
+Languages and Data Structures, Model Verification and Validation, 
+Animation, Input and Output Data Analysis, Non-parametric Statistics, 
+Design and Execution of Simulation Experiments, Applications: 
+Production System Inventories, Project Planning, Logistics System, 
+Queues, Single Machine, Flowshop, Jobshop, Production Scheduling, 
+Continuous Manufacturing, Process Re-engineering. 
+MBA645 
+MANAGEMENT 
+INFORMATION 
+SYSTEMS 
+3-0-0-1[10] 
+Foundation Concepts: Basic information systems concepts about the 
+components and the operations, managerial, and strategic roles of 
+information systems; Technology: Major concepts, developments, and 
+managerial implications involved in computer hardware, software, 
+telecommunications 
+and 
+database 
+management: 
+technologies; 
+Applications: How the Internet, intranets, extranets and other information 
+technologies are used in modern information systems to support 
+electronic commerce, enterprise collaboration, business operations, 
+managerial decision making, and strategic advantage; Development: 
+Developing information system solutions to business problems using a 
+systems approach to problem solving and variety of business application 
+development methodologies; Management: The challenges of managing 
+information systems technologies, resources, and strategies, including 
+global IT management, strategic IS planning and implementation, and 
+security and ethical challenges. This course also includes case 
+presentations/discussions along with a final term paper. 
+MBA646 
+ENTERPRISE 
+INTEGRATION 
+WITH IT 
+3-0-0-0[9] 
+Need for integration, Evolution of ERP, Components of ERP, Enterprise 
+evaluation, Business process mapping, Business Process Reengineering, 
+Understanding and evaluating ERP packages, Technology evaluation, 
+Networking issues, ERP implementation, Human resource issues and 
+change management, SAP system, Project on SAP system, Case studies 
+MBA647 
+BUSINESS 
+PROCESS 
+MANAGEMENT 
+3-0-0-1[10] 
+Introduction to Business Process Management (BPM); History; 
+Importance of improving business processes; Drivers and triggers of 
+BPM; Stakeholders; Importance of organizational strategy and process 
+architecture; Selling BPM technology; Critical success factors in a BPM 
+project. Critical implementation aspects for a BPM solution; Importance 
+of a structured approach to implementing BPM; The BPM 
+implementation framework: Organizational strategy phase, process 
+architecture phase, Launch pad phase, Understand phase, Innovate phase, 
+People phase, Develop phase, Implement phase, Realize phase, 
+Sustainable performance phase; Project management; People change 
+management; Leadership. BPM maturity; Embedding BPM within the 
+organization; Methods, tools and techniques of business process
+
+[Page 16]
+modelling, analysis and design. BPM Process Patterns: Basic control 
+patterns, Advanced branching and synchronization patterns, Structural 
+patterns, Multiple instance patterns, State based patterns, cancellation 
+patterns; Business Process Languages. Best practices in BPM; BPM in 
+eBusiness, eCommerce and eGovernment; BPM case studies. 
+MBA649 
+E-COMMERCE 
+3-0-0-0[9] 
+eBusiness Models, Building; ecommerce infrastructure, eBusiness 
+challenges, Supply chain, Data exchange standards, Returns, Customer 
+Service, ePayments, security and frauds, Outsourcing, Laws pertaining to 
+ecommerce 
+MBA651 
+QUANTITATIVE 
+METHODS FOR 
+DECISION MAKING 
+3-0-0-1[10] 
+Introduction to probability theory - sample space, events, axioms of 
+probability, conditional probability, Bayes' Theorem, independent events, 
+Random variables - density and distribution functions, expected values 
+and descriptive statistics, moment generating functions, functions of 
+random variables, jointly distributed random variables, Chebychev 
+Inequality, Central Limit Theorem, Standard distributions - Bernoulli, 
+Binomial, Poisson, Geometric, Hypergeometric, Uniform, Exponential 
+and Normal, Statistical Inference - estimation, properties of estimators, 
+maximum likelihood, method of moments, least squares (simple linear 
+regression as an application), confidence intervals, Hypothesis Testing - 
+simple hypothesis, goodness of fit, contingency tables, Introduction to 
+Operations Research - mathematical modeling and optimization in 
+management, Linear and Integer programming - formulation, solution 
+procedures, duality and sensitivity analysis, Transportation and 
+Assignment problems, Network models - Max-flow, min-cost flow, and 
+shortest path problems, Decision making under uncertainty. 
+MBA652 
+STATISTICAL 
+MODELLING FOR 
+BUSINESS 
+ANALYTICS 
+3-0-0-1[10] 
+This is an applied econometrics course. Students taking this course will 
+gain skills and experience in data analysis, economic modeling and 
+interpretation of results. Emphasis is on the ability to set up the model 
+correctly and interpret the results of the models. The topics include the 
+following: Economic questions and data, Review of probability, Review 
+of statistics, Hypothesis testing and ANOVA, Linear regression with one 
+regressor, Hypothesis tests and confidence intervals for simple 
+regression, Linear regression with multiple regressors, Hypothesis tests 
+and confidence intervals in multiple regression, Nonlinear regression 
+functions, Regression with binary dependent variable, Regression with 
+panel data, Assessment of Regression Models. 
+MBA653 
+SOCIAL MEDIA 
+ANALYTICS 
+3-0-0-0[9] 
+Social media and social networks: Different sources of social media data, 
+and challenges related to social data collection. Basics of Network 
+analysis: Graph representation, adjacency matrix, network visualization. 
+Social Network metrics: Degree, Betweenness Centrality, PageRank, 
+Eigenvector, Clustering and community detection in networks. Network 
+generation algorithms: random networks, scale-free networks, simulation 
+models, viral marketing. Recent trends: Topic modeling, Online 
+experimentation, and Personalized recommendation 
+MBA654 
+INNOVATION FOR 
+SUSTAINABLE 
+BUSINESS 
+ADVANTAGE 
+3-0-0-0[9] 
+Module I: Innovation Concepts and Principles. Historical Perspectives, 
+Innovation Myths and Realities, Challenges, Triggers and Sources for 
+Creativity and Innovation, Innovation by individuals, communities and 
+Corporations, Innovators Profile, Innovation Cycle, Phases of Innovation
+
+[Page 17]
+Cycle, Differences between Structured and Unstructured Innovation, 
+Link between Corporate Vision, Strategy and Innovation, Components of 
+Strategic 
+Innovation, 
+Organizational Architecture 
+for 
+Strategic 
+Innovation, The Role of Government Policy in Innovation, The Roles of 
+Venture Capitalists and Business Angels in Innovation, Eight Barriers to 
+Innovation, Twelve Principles for Breaking Innovation Barriers, 
+Innovation Principles for Sustainable Competitive Advantage and 
+Generation of Wealth and Value Module II: Innovation Approaches and 
+Frameworks. Incremental, Break through and Disruptive Innovation, 
+Design based Innovation, Open vs. Closed Innovation; Kotlers Four 
+Levels of Innovation: Business Model Innovation, Process Innovation, 
+Market Innovation and Product/Service Innovation; Innovation 
+Frameworks: Hansen Birkinshaw, Tracy Wiersema, Sawhney Wolcott; 
+Reverse Innovation, Essential Principles and Practice of Reverse 
+Innovation, Changing the Mind and the Management Model; Jugad 
+Innovation, Essential Principles and Practice of Jugad Innovation, Jugad 
+Innovations Future for Emerging Markets, Illustrative commercial 
+examples for Innovation Module III: Innovation Project. A practical 
+project that illustrates the Innovation principles 
+MBA661 
+PRODUCTION AND 
+OPERATIONS 
+MANAGEMENT 
+3-0-0-1[10] 
+Introduction to Operations Management-operations strategy, product 
+design; Process Decisions-process selection, process analysis, capacity 
+planning, line balancing; Plant Decisions-plant location, plant layout, 
+facility location; Production Planning & Control-forecasting, aggregate 
+planning, inventory control, push and pull systems, scheduling; 
+Variability-sources of variability and their impact on process 
+performance; Quality Control-control charts, process capability, 
+acceptance sampling; Supply Chain Management-concept, design, 
+information sharing; Service Operations Management- design of service 
+operations, measurement of performance of services. 
+MBA662 
+PUBLIC 
+ADMINISTRATION 
+AND 
+MANAGEMENT 
+3-0-0-0[10] 
+Introduction to the course; the basic problem of public administration, 
+democracy, bureaucracy, and public administration, theorizing about 
+public administration, theories of bureaucracy, theories of public 
+organizations, conflicting forces in public organizations, chaos and 
+inertia in public management, functioning of government, measuring, 
+evaluating, and improving public organizations, public budgeting, 
+flexible and deregulated government, policymaking, public management 
+rhetoric, privatization and PPPs, intergovernmental relations, public 
+sector ethics 
+MBA663 
+TOTAL QUALITY 
+MANAGEMENT 
+3-0-0-1[10] 
+Total 
+Quality Management, 
+quality 
+management 
+Philosophies, 
+Leadership, Employee involvement and customer Value Evaluation, 
+Kaizin, Problem Solving and Quality Management, problem solving 
+Fundamentals, Problem Identification, Definition, Diagnosis, Alternative 
+Generation and Evaluation, Elementry concepts related to 7 Old and 7 
+New Tools for quality Assurance, Basic Statistical Concepts, Controlof 
+Accuracy and Precision, Process Capability, SPC, Process Control 
+Charts, Acceptance Sampling, MILSTD105D. Quality Management 
+Systems, 
+ISO 
+9000, 
+Quality 
+Engineering, 
+Quality 
+Function 
+Development, Introduction to Design of Experiments, Process 
+Optimization and Robust Product Design, Steps to Six Sigma, 
+Management of Service Quality, SERVQUAL, Management of Software
+
+[Page 18]
+Quality, Course will include live industry projects and industry case 
+studies. 
+MBA664 
+SUPPLY CHAIN 
+MANAGEMENT 
+3-0-0-0[10] 
+Supply chain strategy: drivers of supply chain, performance measures, 
+achieving strategic fit; Supply chain network design: network design and 
+operation; Inventory management in a supply chain: managing 
+economies of scale and uncertainty; Risk mitigation in supply chains: risk 
+pooling, postponement, and quick response strategies; Supply chain 
+disruption: preparing the supply chain against disruptions, supply chain 
+resilience; Information sharing in supply chains: strategies to mitigate 
+information distortion and bull-whip effect; Supply chain coordination: 
+achieving coordination through buyback and revenue sharing contracts; 
+Sourcing in supply chains: make or buy decisions, supplier selection; 
+Pricing and revenue management: perishable asset management, 
+handling multiple customer segments; Information technology in a 
+supply chain: role of IT in a supply chain, supply chain IT in practice; 
+Sustainable supply chain management 
+MBA665 
+MANUFACTURING 
+PLANNING AND 
+CONTROL 
+3-0-0-0[9] 
+Lot Sizing Models, including some state of art models, scheduling, JIT, 
+MRP, MRP-2, FMS, TOC and OPT, Aggregate and Disaggregate 
+Production Planning, Facility Layout and Location Problems, 
+PERT/CPM, Term Paper on advanced topics, case studies. 
+MBA666 
+PROJECT 
+MANAGEMENT 
+3-0-0-1[10] 
+Introduction and Characteristics of Projects, Work breakdown, Project 
+management Risk and methods of mitigating the risk, GANTT charts, 
+Decision Tree Analysis, Forward and Backward Scheduling, Precedence 
+Diagram and its concepts, Utility Analysis, Other evaluation techniques 
+for projects like AHP, DEA, Cost Benefit Analysis, Valuation, Cash Flow 
+Problems, Credit Risk in Project Finance , Precedence relationship, 
+Project Planning, PERT, CPM, Slack, Critical paths, Sensitivity Analysis, 
+GERT, Q-GERT, Critical Chain, Theory of Constraints, Activity Network 
+diagram, Budgeting, Resource Management, Crashing of Jobs, Resource 
+leveling, Life Cycle of Projects and Costing, Termination of Projects 
+MBA667 
+INTRODUCTION TO 
+CLIMATE CHANGE 
+ECONOMICS AND 
+POLICY 
+3-0-0-1[10] 
+Climate change, emissions, trajectories and targets; Climate change 
+mitigation economics and policy instruments; Climate change mitigation 
+policy and practice; Climate change adaptation principles and policy; 
+Climate change and development, climate change finance; Decision-
+making on climate change policy 
+MBA669 
+INTRODUCTION TO 
+POLICY MAKING 
+3-0-0-0[10] 
+What is public policy? Concepts and wicked problems, institutions, how 
+do institutions structure political decision making, actors and interests; 
+governmental actors, nongovernmental actors, ideas and ideologies, how 
+do ideas shape policy framing? Policy stability and policy change, agenda 
+setting and issue framing; venue shifting, policy instruments, policy 
+formulation: voice of experts or citizens? Evidence based policy 
+decisions, decision making, are policy makers rational actors? How are 
+policies implemented? Policy evaluation, democracy and accountability; 
+accountability measures and processes 
+MBA671 
+MANAGING 
+SERVICE 
+OPERATIONS 
+3-0-0-0[10] 
+Introduction, service vs products, role of services in an economy, 
+significance, nature, scope of managing service operations, decisions; 
+Distinctive characteristics of services, service package, service process 
+matrix, taxonomy of services, challenges in the management of services; 
+Strategic service vision, competitive service strategy, winning customers
+
+[Page 19]
+in the market place, stages in service firm competitiveness; New Service 
+development, Designing and managing service processes, principles and 
+tools of service design, service automation; Location decisions and 
+models, subjective and objective factors, types of layouts and their 
+significance; Quality dimensions, service quality gap model, 
+conformance to the design requirements for a budget hotel, quality 
+service by design, service recovery; Job and work design in services, 
+factors affecting job design, safety and physical environment; Strategies 
+for managing demand and capacity for services; Queuing systems, 
+queuing models, psychology of waiting. 
+MBA675 
+INFRASTRUCTURE 
+REGULATION, 
+POLICY & 
+FINANCE 
+3-0-0-0[9] 
+Role of Infrastructure in Economic Development, Natural Monopoly and 
+Economics of Infrastructure Regulation, Rate of Return Regulation, 
+Performance Based Regulation, Pricing for Infrastructure Sector, Role of 
+Subsidies, Reforms in the Infrastructure Sector (Power, Telecom, Roads, 
+Ports, Urban Services) Restructuring and Privatisation in Infrastructure 
+Sector, Reform Acts, Competition in Infrastructure Sector (Bulk Power, 
+Telecom, Transportation), Issues in Infrastructure Finance, Modes of 
+Project Financing, Risks in Infrastructure Sector, Development of 
+Infrastructure Projects BOO, BOOT, BOLT etc. 
+MBA676 
+SECURITY 
+ANALYSIS, 
+DERIVATIVES & 
+PORTFOLIO 
+MANAGEMENT 
+3-0-0-0[9] 
+Financial Markets, Investment Alternatives, Risk and Return, Portfolio 
+Theory and Capital Asset Pricing, Capital Asset Pricing Theory and 
+Arbitrate Pricing Theory, Efficient Market Hypothesis, Security Analysis 
+and Valuation, Valuation of equity and Fixed income securities, 
+Fundamental Analysis, Technical Analysis, Investment Strategies, 
+Derivatives, Options, Futures, Swaps, Black Scholesmodel, Value at risk, 
+Estimating, volatility and correlations, Hedging and Portfolio 
+Management. 
+MBA677 
+PROJECT 
+FINANCING & 
+MANAGEMENT 
+3-0-0-0[10] 
+Generation and Screening of Project Ideas, Project Appraisal and 
+Evaluation, Financial Projections, Investment Criteria, Cost Benefit 
+Analysis, Project Finance, Evaluating Free Cash Flow to Firm and Free 
+Cashflow to Equity, Debt Security, Debt Service Reserve Fund, 
+Financing Infrastructure Projects, Sources of Finance, Multilateral 
+Project Financing, Consortium Financing, Loan Syndication, Venture 
+Capital, Risk Analysis, Project Life Cycle, XXX-(Techniques for Project 
+Management), Multiple Case Studies. 
+MBA678 
+MANAGEMENT OF 
+RISK IN 
+FINANCIAL 
+SYSTEM 
+3-0-0-0[9] 
+Introduction and concept of Risk, Return, Different types of Risks (e.g., 
+Systematic Risk, Interest Rate Risk, Liquidity Risk, Operational Risk, 
+Regulatory Risk, Market Risk, Foreign Exchange Risk, Commodity Price 
+Risk, Industry Concentration Risk, Environmental Risk, Counter party 
+Risk, Credit Risk, Legal Risk, Regulatory Risk etc.), How financial 
+products are used for hedging, Interest rate risk, volatility, Correlation 
+and Copulas, Methods of identifying and measuring different types of 
+risks. Use of Risk Models. Methods of Risk control and Management, 
+i.e., requirement of active Risk Management techniques through use of 
+VaR model; CVaR, ER, EL, market risk, credit risk, credit risk losses and 
+credit VaR, credit derivatives, operational risk, model and liquidity risk, 
+monitoring of ALM (Asset Liability Management); use of derivatives 
+like currency swaps, interest rate futures, forward rate agreements etc.
+
+[Page 20]
+Special emphasis will be placed on a) Credit Risk Management: 
+Introduction of Credit Risk, Credit Rating Analysis, Credit Risk Models, 
+Corporate Risk Models etc. Credit Derivatives. b) Interest Rate Risk 
+Management: Introduction of Interest Rate Risk, Valuation Model, 
+Interest Rate Futures, Hedging, Options on Interest Rate Futures, Interest 
+Rate Swaps, etc. c) Foreign Exchange Risk Management: Introduction of 
+Foreign Exchange Risk, Translation Risk, Transaction Risk, Economic 
+Risk etc. Spot Market, Forward Currency Market, Currency Swap, 
+Foreign Currency Futures etc. 
+MBA679 
+COMMERCIAL 
+BANKING, RISK 
+MODELING AND 
+RISK 
+MANAGEMENT 
+3-0-0-0[10] 
+The course will deal with the theory, tools and techniques necessary for 
+efficient modeling and management of risk in financial services with 
+emphasis on commercial banking. At the macro level emphasis is placed 
+on the effect of regulatory and country specific factors on the functioning 
+and the adherent risk in the operation of a commercial bank. At the micro 
+level various facets of risk management which include interest rate, credit 
+and market risk are covered in sufficient depth. The course also covers 
+related topics in derivative pricing and hedging and application of option 
+valuation models in modeling and managing the above risk. 
+MBA681 
+ENERGY AND 
+CARBON 
+MARKETS: 
+ECONOMICS, 
+POLICY AND 
+REGULATION 
+3-0-0-1[10] 
+Energy and Economic Development: National and International 
+Perspective, Structure of Energy Demand and Supply,, Energy Value 
+Chain and Energy Accounting, India Energy Scenario 2047, Economics 
+of Energy and Exhaustible Resources , Energy Security, Energy Policy 
+and Planning, Modelling for Energy Markets: Applications in General 
+Algaebric Modelling System (GAMS), International Markets for Energy: 
+Oil, Coal, Natural Gas and Uranium, Indian Energy Markets: Oil & Gas, 
+Coal and Electricity, Private Investment in Energy Sectors: NELP, Coal 
+Policy, Power Policy, Regulation of Indian Energy Sectors Electricity, Oil 
+& Gas and Coal Sectors, Pricing in Energy Markets: Electricity, Coal, Oil 
+and Natural Gas, Functioning of Power Exchange and Commodity 
+Exchanges (Energy), Cross Border Energy Cooperation, Energy and 
+Environment, Climate Change, UNFCC, Kyoto Protocol and beyond, 
+Clean Development Mechanism and its Process, International Carbon 
+Markets and Carbon Finance, National Action Plan on Climate Change, 
+JNN National Solar Mission, Renewable Energy: Technology, 
+Economics and Policy, Market for Renewable Energy Certificates, 
+Energy Conservation, Market for Energy Efficiency: ESCO and Market 
+for Ecerts (White Certificates). One project work on relevant topic. 
+MBA683 
+POWER SECTOR 
+REFORM & 
+REGULATION: 
+THEORY AND 
+PRACTICE 
+3-0-0-1[10] 
+Electricity value chain and economic development. Structure of 
+Electricity Demand and Supply: Power Sector Scenario in India. Theories 
+of Regulation and Economics of Regulation. Power Sector Reform and 
+Regulation: International and Indian Experience. Electricity Act 2003 
+and related policies including National Electricity Policy, National Tariff 
+Policy, Rural Electrification Policy. Regulatory Process: Functions of 
+Electricity Regulatory Commissions and APTEL. Rate of Return 
+Regulation and Performance Based Regulation. Determining Aggregate 
+Revenue Requirement and Tariffs for Regulated Entities. Availability 
+Based Tariff and Multiyear Tariff. Principles of Retail Tariff Design 
+Single Part, Multipart, TOD Tariffs etc. Unbundling, Privatization and 
+Franchisee Development. Power Purchase Agreement. Competitive
+
+[Page 21]
+Bidding Guidelines & Ultra Mega Power Projects. Competition in Power 
+Sector: Open Access and Retail Competition. Functioning of Power 
+Exchanges and Market Monitoring. Distribution Reforms and 
+Performance incl. RAPDRP and RGGVY. Regulatory Approach to 
+Promote Renewable Energy: Renewable Portfolio Obligation, Feed in 
+Tariff and Renewable Energy Certificates. Demand Side Management. 
+Consumer issues in electricity sector. 
+MBA684 
+SALES AND 
+DISTRIBUTION 
+MANAGEMENT 
+3-0-0-0[9] 
+Fundamentals of selling in an open global market, What is a strategic 
+sale? Strategic Analysis, Buying influences, Structuring Key-Win 
+Results, Intra and Inter Company Alliances and Partnerships, 
+Coopetition, Solution Selling, Key Account Management, Sales 
+Forecasting and Sales Information Systems, Introduction to Marketing 
+Channels, Design of Marketing Channels, Channel Implementation, 
+Compensation and Incentive, Channel Institutions, E-Sales and Blended 
+Channels, Emerging Issues in Sales and Distribution. 
+MBA685 
+PRODUCT & 
+BRAND 
+MANAGEMENT 
+3-0-0-0[10] 
+Product strategy: Theoretical foundations; Managing competition and 
+innovation role, Product In theory and buyer behaviour; adoption and 
+diffusion of new products, Product life cycle and product portfolio 
+concepts, New product development models and the factors affecting 
+new products, New product development models strategy; techniques for 
+concept development like conjoint analysis/QFD, Business analysis and 
+product testing, Commercialization and managing growth, Product 
+elimination strategy, Workshop: From Ideation to Rough Prototyping, 
+Introduction to Strategic Brand Management, Customer-based Brand 
+Equity concept and value stages, Identifying and Establishing Brand 
+Positioning, Choosing Brand Elements to build Brand Equity, Brand 
+Marketing Programs for building Brand Equity, Measuring Brand Equity, 
+Corporate Branding Strategy, Brand Hierarchy, Brand Portfolio 
+Management, Brand Extensions: Line Extensions, Category Extensions, 
+Managing brands over time: Reinforcing Brands & Revitalizing Brands, 
+Managing Brands Over Geographic Boundaries and Market Segments, 
+MBA697 
+SUMMER PROJECT 
+3-0-0-0[10] 
+During the summer after first two semesters, each student will take up a 
+summer project in an industrial or service organization for 810 weeks. 
+During this period, the student will work under the guidance of an 
+executive of the host organization, complete the assignment, prepare a 
+written report, and make a presentation during the third semester 
+MBA698 
+MANAGEMENT 
+SEMINAR 
+0 
+Management Seminars 
+MBA701/702/ 
+703/704 
+ 
+CAPSTONE 
+PROJECT I/II/III/IV 
+ 
+3-0-0-0[9] 
+3-0-0-0[9] 
+3-0-0-0[9] 
+3-0-0-0[9] 
+Capstone project is created with the motto: 70% learning comes from 
+hands on the job experience. Industry needs leaders who have an eye on 
+technological developments and can utilize them with business analytical 
+insight in this data driven world. 
+Capstone project is designed keeping these two facts in mind and using 
+this opportunity to solve business problems, help develop new products 
+and services making a collaborative effort towards creating well equipped 
+leaders and delivering business value at the same time. The Capstone 
+Project has been implemented after rigorous feedback from industry, 
+faculty and our alumni. 
+MBA711 
+CHANGE 
+MANAGEMENT 
+3-0-0-0[5] 
+Understanding Organizational Change: Definition and Types, Systems 
+Perspective, Identification and Assessment of Factors Leading to
+
+[Page 22]
+AND 
+ORGANIZATIONAL 
+DEVELOPMENT 
+Change, Change Management Process: An Overview, Resistance to the 
+Process of Change, Reasons and Mitigating Measures, Lewin’s Process, 
+Constructive Destruction, Role of IT in Change Management, Business 
+Process Reengineering, Appreciative Inquiry, Change Management 
+through OD Intervention. 
+MBA712 
+ORGANIZATIONAL 
+STAFFING 
+3-0-0-0[5] 
+Introduction to Organizational Staffing: Steps and Strategic Linkages; 
+Manpower Planning; Job Analysis Techniques; Competency Based 
+Staffing; Models and Mapping Techniques; External and Internal 
+Recruitment Process; External and Internal Selection Process; Concept 
+of Measurement, Reliability and Validity; Selection Methods and Tools: 
+Utility, Relevance and Applicability; Organizational Socialization and 
+Deployment; Succession Planning and Career Progression; Use of IT in 
+Staffing; Other Emerging Issues. 
+MBA713 
+PERFORMANCE 
+MANAGEMENT 
+3-0-0-0[5] 
+Objectives 
+of 
+Performance 
+Management, 
+Historical 
+Account, 
+Performance Planning: Synchronization with Organization’s vision, 
+mission, strategy and goals, Issues and Problems, Defining and 
+Measuring 
+Performance, 
+Methods 
+of 
+Performance 
+Appraisal, 
+Communication of Feedback, 360 degree Performance Feedback, 
+Rewards and Recognition, Career Management, Role of Performance 
+Management in fostering Employee Engagement, Re designing Jobs for 
+better Performance, Key Implications of Performance Management, 
+Legal and Ethical Perspectives. 
+MBA714 
+INTRODUCTION TO 
+BUSINESS 
+MANAGEMENT 
+3-0-0-0[5] 
+Purpose of Business, Value Chain, External Forces (PESTEL 
+Framework), Markets and Demand-Supply Dynamics, Interpretation of 
+Financial Statements, Primary and Secondary Markets, Corporate 
+Governance, HR Planning, HR Development, Employee Engagement, 
+Segmentation, Targeting and Positioning, Market Mix, Branding, Service 
+Marketing, Identification of Business Processes, Business Process 
+Reengineering, Strategic Perspective in Business, Managerial Decision 
+Making 
+MBA715 
+EMPLOYMENT 
+RELATIONS UNDER 
+GLOBALISATION 
+3-0-0-0[5] 
+The basic purpose of the course is to learn about the systemic aspects of 
+management - employee relations in the changing framework of labour 
+laws and global economy, especially with respect to India. The course 
+will attempt to frame the rights and obligations of the employees and 
+management with respect to the labour laws in India and how it is 
+changing under the flexible-global regime in contemporary industry, 
+both manufacturing and services. The course will also attempt to 
+relativise the practices and framework in India in its international context 
+MBA716 
+INTRODUCTION TO 
+CORPORATIONS 
+3-0-0-0[5] 
+1. Introduction: What is a corporation? Decades Later, Toxic Sludge 
+Torments Bhopal, 2.Corporation as a Property of the Shareholders: The 
+Social Responsibility of Business is to Increase Its Profits Revisiting 
+Friedman’s Construct of Corporations, 3.Corporation as an Efficient 
+Governance system: Introduction, The Visible Hand - Chandler Behind 
+the Veil of ‘Corporate Efficiency’, : The Family that Built an Empire of 
+Pain, 4.Corporations as Markets: The Curious Case of Reliance KG 
+Basin Gas Business, 5.Corporations as a Regulatory System: How 
+Reliance Jio’s Entry Tied Regulatory Knots Around India’s Telecom 
+Ecosystem, 6. Summary: Telecom Industry in India: Market Forces or 
+Monopoly Finance Capital? Competition Is Dying, and Taking 
+Capitalism With It.
+
+[Page 23]
+MBA717 
+GOVERNANCE OF 
+GLOBAL VALUE 
+CHAINS 
+3-0-0-0[5] 
+1.Introduction to the Course: What is a GVC? Why study GVC?, Drivers 
+of Variety of GVCs: Knowledge, Access, Nature, Mfg: Apparel, 
+Commodity: Coffee, 2.Value: An introduction: Value And Value Capture, 
+Evolving Ideas of Value: From Mercantilists to Marginalists, 3.Structural 
+Issues in GVC: Value of Labour, Invisible Value in the GVC, FDI vs 
+Outsourcing, 4.Governance Issues in GVC: Global Architecture of GVC 
+Governance, Conclusion: Measuring Value, Financialisation & GVCs. 
+MBA718 
+HUMAN 
+RESOURCE 
+ANALYTICS 
+3-0-0-0[5] 
+HR analytics, an emerging discipline, is about leveraging data-driven 
+insights through quantification, analyses and interpretation of various 
+HR processes within an organization. HR analytics improves an 
+organization's ability to monitor, benchmark and correct HR processes. 
+But perhaps most importantly, it enhances the credibility of HR 
+forecasting and reporting of results. The present course is aimed to 
+achieve all the aforementioned objectives. The participants will learn 
+various methods to diagnose HR-related problems, develop suitable 
+metrics, analyze using statistical tools, and interpret/report results. 
+MBA725 
+SUSTAINABLE 
+DEVELOPMENT 
+FOR BUSINESSES 
+3-0-0-0[5] 
+Introduction to business sustainability; Institutions, regulations, and 
+policy frameworks for business sustainable development; Sustainable 
+business frameworks, models, and tools; Business sustainability in 
+practice 
+MBA731 
+BUSINESS-TO-
+BUSINESS 
+MARKETING 
+3-0-0-0[5] 
+The guiding principles of B2B Marketing, Market Sensing: generating 
+and using Knowledge about the market, Understanding firms as 
+customers, Crafting Marketing Strategy, Managing Market Offerings, 
+New Offering Realization, Business Channel Management, Gaining 
+New Business, Sustaining Reseller Partnerships, Managing Customers 
+MBA732 
+PRODUCT 
+STRATEGY AND 
+MANAGEMENT 
+3-0-0-0[5] 
+Introduction to Product Marketing : Entrepreneurial & Intrapreneurial 
+Opportunities (Case Studies); Product+Service+Business—Dynamic 
+Management; Opportunity Sensing to Concept Innovation; Voice of 
+Customer /Kano Model /QFD – Tools for Concept Shaping; Mapping 
+Product- 
+Market-Design-Value 
+Positioning; 
+Protocepting 
+and 
+Prototyping : Product Architectures & Platforms; Global Cases : 
+Interactive sessions on what makes a product great; Creating the 
+Business Model; Market Launch Planning and Designing Marketing 
+Collaterals 
+MBA733 
+BRAND 
+MANAGEMENT 
+3-0-0-0[5] 
+Introduction to Strategic Brand Management; Customer-base Brand 
+Equity; Identifying and Establishing Brand Positioning; Choosing Brand 
+Elements to build Brand Equity; Brand Marketing Programs for building 
+Brand Equity; Measuring Brand Equity; Brand Life cycle Management; 
+Brand Portfolio Management; Managing brands over time and 
+boundaries 
+MBA734 
+MARKETING OF 
+SERVICES 
+3-0-0-0[5] 
+The course aims to Enhance the understanding of service themed 
+businesses. Moving away from the goods-centric economies, modern 
+economies are built on Service-dominant businesses and it is reflected 
+among the Fortune 500 list or the companies, or start-ups across the 
+globe. At the end of the course the students will be able to perform the 
+following: 1. Design new Services and Services capes using validated 
+frameworks 2. Implement Service Processes and measure their efficacy 
+3. Measure overall Performance of Service Businesses. 
+MBA735 
+STRATEGIC 
+MARKETING 
+3-0-0-0[5] 
+Linkages between Business and Marketing Strategy, Internal and 
+External Analysis, Identifying and building key Marketing Strategy,
+
+[Page 24]
+Segmentation and Targeting Customers using appropriate statistical 
+tools, Positioning via Differentiation with frameworks, Branding with 
+appropriate framework and tools, Differentiation using Marketing Mix 
+elements, New Product Design and Product Management, Strategic 
+aspects of Pricing and price changes, Strategic aspects of Marketing 
+Communication, Strategic aspects of Distribution Channel, Strategic 
+aspects of People, Process, Services capes and Self-service technologies 
+in Service businesses. 
+MBA736 
+STRATEGIC 
+MARKETING 
+COMMUNICATIONS 
+3-0-0-0[5] 
+Orientation of positioning in marketing and business in general: 
+Interlinkages; Share of mind and heart; 6 Cs of positioning (Case 
+studies), PESTEL framework; Social and technological obsolescence; 
+Competitor and customer analysis; Firm’s resource and capabilities 
+Application of tools such as cluster analysis, multi-dimensional analysis 
+(MDS), conjoint analysis, discriminant analysis, factor analysis, using 
+SPSS, Consistency of marketing mix elements; Project work, Impact on 
+firm’s profitability and customer lifetime value (CLV) 
+MBA737 
+MACHINE 
+LEARNING 
+APPLICATIONS IN 
+FINANCE 
+MARKETS 
+3-0-0-0[5] 
+Introduction to Machine Learning Applications in Business and Finance, 
+Supervised and Unsupervised Learning, Bayes' Theorem, inferential 
+statistics, Multi-index models, APT and CAPM, model estimation, 
+residual diagnostics, multicollinearity, heteroscedasticity, Classification 
+applications with Logistic Regression, Linear probability models, Logit 
+functions, Thresholding, Classification matrix, Pseudo-Rsq., ROC 
+Curves, Performance evaluation, and Goodness-of-fit measures, 
+Parameter estimation with MLE; Modelling Unobserved Heterogeneity 
+with Panel Data Algorithms, LSDV and First-Difference models, Fixed 
+vs. Random effects models, model estimation, residual diagnostics, 
+multicollinearity, heteroscedasticity, etc; Non-Linear Modelling with 
+Quantile Regression Algorithm, Time-varying market efficiency, 
+Conditional mean and Conditional quantile based estimation, model 
+estimation, and residual diagnostics; Advanced Time-Series Modelling: 
+ARMA-ARIMA models, Univariate and Bivariate GARCH models, 
+Modelling short-run and long-run relationships, Cointegration and 
+VECM. 
+MBA741 
+INTRODUCTION TO 
+E-COMMERCE 
+3-0-0-0[5] 
+Significant advances in Information and Communication Technologies 
+in the past decade have ushered in a new era of Information Technology 
+(IT)-enabled business opportunities. An important development in this 
+regard has been the advent of Internet and mobile phone technologies. 
+New business opportunities and paradigms have emerge as these 
+technologies are being used by the mass. The objective of this course is 
+to learn complete framework for e-commerce and launch an e-business. 
+e-Business Models, Building an e-commerce presence, e-commerce 
+marketing, Recommendation engine 
+MBA742 
+ERP: A 
+MANAGERIAL 
+PERSPECTIVE 
+3-0-0-0[5] 
+Evolution of ERP systems, Understanding Business Processes, Selecting 
+an ERP solution, Life Cycle of an ERP project, Change Management 
+MBA744 
+BUSINESS 
+PROCESS 
+MODELLING 
+3-0-0-0[5] 
+Stakeholder analysis and modelling, Organizations as systems, Evolution 
+of organization understands of process, BPM maturity model, BPM 
+implementation 
+framework, 
+agile 
+processes, 
+business 
+process 
+integration, change and risk management process, Business process 
+improvement and Business process patterns.
+
+[Page 25]
+MBA745 
+BUSINESS 
+PROCESS 
+PATTERNS 
+3-0-0-0[5] 
+Importance of modelling, processes, process identification, modelling 
+issues, scenario-based BPMN, Activities, Events, Gateways, Swimlanes, 
+Artifacts, Connectors, Qualitative process analysis, Advanced concepts. 
+MBA746 
+E-SUPPLY CHAIN 
+MANAGEMENT 
+3-0-0-0[5] 
+Concepts and Modeling of E-Supply Chain, E-Supply Chain 
+Technologies and Infrastructure, Best Practices and Performance 
+Management 
+MBA747 
+BUSINESS 
+MANAGEMENT 
+USING CLOUD 
+3-0-0-0[5] 
+There is no such thing as Cloud Computing, Welcome to the Human 
+Network, From Information Technology to Business Technology, The 
+Service-Oriented Enterprise in the cloud, Business Process Management 
+in the Cloud, Enterprise cloud computing: The Process, Cloud 
+Computing Use Cases 
+MBA748 
+BIG DATA FOR 
+MANAGEMENT 
+3-0-0-0[5] 
+There are three ways of becoming part of a big data project- one of them 
+is to be a technical person and handle the technology part, the second one 
+is by working with the solution part and the third one is to manage a big 
+data project or initiative. This course is for managing a big data project. 
+After doing this course, a student will know the issues and challenges 
+involved in a big data project. The student will learn to deal with the 
+challenges in a systematic manner. The following topics will be covered. 
+Introduction to big data Characteristics, Evolution, Challenges for 
+Management, Opportunities, Developing a Big Data Strategy, Domains 
+and Industries that will use Big Data, Some sample scenarios, Portfolio 
+& Objectives, Approaches, Manpower, Enabling Technologies for Big 
+Data, Architecture and its components, Components, Ensuring Success 
+of a Big Data project, Data, Enterprise Orientation for big data, 
+Leadership, Objective, Feedback Mechanism etc., Case studies 
+MBA749 
+SOCIAL MEDIA 
+ANALYTICS I 
+3-0-0-0[5] 
+Overview of social media analytics, social networks, applications of 
+social data, basics of network analysis, network visualization, hands on 
+with Gephi, network representation and metrics, strength of weak ties, 
+centrality- degree, diameter, path lengths, prestige, influence metrics, 
+Betweenness, PageRank, Eigenvector, Bonacich, Katz, closeness, 
+characteristics of real-world networks, small world, preferential 
+attachment, community detection. 
+MBA750 
+SOCIAL MEDIA 
+ANALYTICS II 
+3-0-0-0[5] 
+User generated contents, conference calls, regulatory filings, social 
+media, Web scraping, HTML removal, regex expressions, stemming and 
+lemmatization, feature extraction, bag of words, bigrams, POS tagging, 
+context-free grammar, vector space representation, TF-IDF weighting, 
+probability ranking principle, BIM, confusion matrix, precision-recall, F-
+measure, ROC, NDCG, multiclass classification, clustering, latent 
+semantic indexing, topic modelling 
+MBA751 
+MARKETING 
+ANALYTICS 
+3-0-0-0[5] 
+Summarizing marketing data, Pricing, Forecasting, Understanding 
+customer requirement, Customer lifetime value, Market segmentation, 
+Retailing, Advertising 
+MBA752 
+TIME SERIES 
+MODELING FOR 
+BUSINESS 
+ANALYTICS 
+3-0-0-0[5] 
+This is an introductory graduate level course on forecasting and time 
+series modeling. The focus of the course is to understand the specific 
+business applications where each kind of time-series model is useful. The 
+underlying statistical theory will be emphasized to the extent that it helps 
+students set up an appropriate model. Topics covered will include 
+understanding and decomposition of time-series data, unit root and 
+stationarity, moving average and exponential smoothing models, times-
+
+[Page 26]
+series regression models (AR, MA, ARIMA) and dynamic causal 
+regression and volatility modeling (ARCH / GARCH models). 
+MBA753 
+CAUSAL 
+INFERENCE 
+METHODS FOR 
+BUSINESS 
+ANALYTICS 
+3-0-0-1[5] 
+Refresher on multiple regression, Dummy variable regression, 
+Interaction effect, From correlation to causality, True Experiments and 
+Quasi-experiments, Potential Outcomes, Selection bias, ATE, ATT, 
+Difference-in-Differences, Propensity Score Matching, Regression 
+discontinuity, Instrumental variable regression. 
+MBA754 
+FUNDAMENTALS 
+OF MANAGEMENT 
+FOR 
+ENTREPRENEURS 
+(I) 
+3-0-0-0[5] 
+Understanding and Undergoing the Ideation Process, Opportunity 
+recognition & validation fundamentals, Bootstrapping Resource 
+acquisition & Management, Design Thinking fundamentals for Modeling 
+Risk, Validating & Monetising Opportunity 
+MBA755 
+FUNDAMENTALS 
+OF MANAGEMENT 
+FOR 
+ENTREPRENEURS 
+(II) 
+3-0-0-0[5] 
+Modeling Business Growth & Milestone Tracking, Business 
+Development, Marketing Strategies & Legal Constraints, IP Creation, 
+Protection & Management, Introduction to Business Canvas, Creating 
+& Implementing a viable Business Plan 
+MBA761 
+MANUFACTURING 
+PLANNING AND 
+CONTROL I 
+3-0-0-0[5] 
+Lot Sizing Models, including some state of art models, scheduling, JIT, 
+MRP, MRP-2, FMS, TOC and OPT, Aggregate and Disaggregate 
+Production Planning, Term Paper on advanced topics. 
+MBA762 
+MANUFACTURING 
+PLANNING AND 
+CONTROL II 
+3-0-0-0[5] 
+Facility Layout and Location Problems, PERT/CPM, Term Paper on 
+advanced topics, case studies 
+MBA765 
+STRATEGIC ISSUES 
+IN 
+MANUFACTURING 
+I 
+3-0-0-0[5] 
+General Management Function, Introduction to the corporate strategy, 
+concept of organizational purpose, environmental scanning and 
+formulation of objectives, strategy for growth such as concentric growth 
+and diversification, role of values in strategy formulation and evaluation, 
+managing diversity and growth, Term paper on advanced topics. 
+MBA766 
+STRATEGIC ISSUES 
+IN 
+MANUFACTURING 
+II 
+3-0-0-0[5] 
+choice of organizational structure and designing control systems to 
+support the implementation of the strategy. Role of implementation 
+issues in strategy formulation. Impact of organizational culture, 
+structure, systems in strategy implementation and Merger and 
+Acquisitions: Conglomerates and Diversified Majors & Horizontal 
+Strategy and Horizontal Structure. Culture as impediment to success of 
+M&A. Term paper on advanced topics 
+MBA770 
+SECURITY 
+ANALYSIS FOR 
+INVESTMENT 
+3-0-0-0[5] 
+Financial Market Operations, Market infrastructure, money markets and 
+capital markets, instruments and interest rates, Measures of Risk and 
+Return, Financial Market Microstructure, Limit order books and quote-
+driven markets, Market quality, price discovery, and liquidity, 
+Introduction to Fixed Income Securities, Yield-to-maturity computation, 
+valuation of fixed income securities, Term structure of interest rates, 
+introduction to forward contracts 
+MBA771 
+SECURITY 
+ANALYSIS & 
+PORTFOLIO 
+MANAGEMENT 
+3-0-0-0[5] 
+Financial Markets, Investment Alternatives, Risk and Return, Portfolio 
+Theory and Capital Asset Pricing, Capital Asset Pricing Theory and 
+Arbitrate Pricing Theory, Efficient Market Hypothesis, Security Analysis 
+and Valuation, Valuation of equity and Fixed income securities, 
+Fundamental Analysis, Technical Analysis, Investment Strategies 
+MBA772 
+DERIVATIVE 
+CONTRACTS 
+3-0-0-0[5] 
+Introduction to the course, Basics of Derivatives Markets, Forward and 
+Futures Markets, Pricing of forwards and futures, Hedging and Risk 
+management using futures, Margin requirements, Basics of options
+
+[Page 27]
+markets, Trading strategies using options, Risk Management using 
+options, Pricing of options using binomial model and Black-Scholes 
+model, Greeks and option portfolio risk management, Swaps and FRAs 
+MBA773 
+FINANCIAL 
+INTERMEDIATION 
+& COMMERCIAL 
+BANKING 
+3-0-0-0[5] 
+The course deals with the theory in financial intermediation with 
+emphasis on commercial banking. At the macro level emphasis is placed 
+on the effect of regulatory and country specific factors on the functioning 
+and the adherent risk factors in the operation of a commercial bank are 
+identified along with the regulatory prescriptions and their impact for the 
+same. At the micro level various facets of risk management which 
+include interest rate, credit and market risk are introduced 
+MBA774 
+CREDIT RISK 
+MANAGEMENT & 
+MODELLING 
+ 
+3-0-0-0[5] 
+This course looks into the various quantification models available for 
+quantifying and addressing the interest rate, credit, operational and 
+market risk with specific focus on interest rate & credit risk including 
+credit scoring and loan appraisal models. The course also covers related 
+topics in derivative pricing for hedging and managing these risks. 
+MBA775 
+ADVANCED 
+CORPORATE 
+FINANCE 
+3-0-0-0[5] 
+This course focuses on valuation of firms and their key business policy 
+decisions. Course covers DCF Valuation (DDM< FCFE, FCFF), Relative 
+Valuation, Real Option Valuation, Valuation of Start-ups and Valuation 
+of Banks. Course also touches upon investment, financing and payout 
+decisions of firms 
+MBA776 
+MERGERS AND 
+ACQUISITIONS 
+3-0-0-0[5] 
+Theory of M&As, Different types of restructuring in corporate control 
+market, The process of M&A: Identification, Due Diligence, Evaluation 
+of target, Primer on Valuation of M&A deals, Bid and offer pricing 
+models, Synergy gains, Vertical and Horizontal Integration Models, 
+Different tactics of takeover defense, Governance issues in M&A, Cross-
+border M&As, Pitfalls in M&A deal making, 
+Current Regulatory and Taxation norms related to deal-making, 
+Discussion of a few recent ongoing or concluded deals (Indian or global) 
+MBA777 
+ADVANCED 
+VALUATION 
+3-0-0-0[5] 
+Homogeneity and Temporal Independence of return variation, 
+Contagious variation of return and tools for assessing the same, Monte 
+Carlo Simulation and Embedded optionality, Pricing and Valuation 
+MBA778 
+BASIC FINANCIAL 
+MODELLING 
+3-0-0-0[5] 
+This course is aimed at providing the student with the technical 
+knowledge of building financial models in Excel and VBA in corporate 
+finance and investments. The aim is to bridge the gap between financial 
+theory and practice. The course includes capital budgeting, working 
+capital analysis and short term planning, financial planning, valuation of 
+stocks and bonds issued by a firm, derivative pricing models, and 
+portfolio selection. Topics: Excel Preliminaries, Valuation Models using 
+Excel, Building a Basic Valuation Model, Incorporating assumption in 
+Valuation Model using Excel, Capital Budgeting, Working Capital 
+Analysis, Portfolio Models using Excel, Building Basic Portfolio Model, 
+VBA Preliminaries, Portfolio Models using VBA, Derivative Pricing 
+Models using VBA 
+MBA779 
+ADVANCED 
+FINANCIAL 
+MODELING 
+3-0-0-0[5] 
+Pricing and Optimisation Frameworks in Financial Economics, Review 
+of Objective Functions & Search Algorithms, Solution Landscape 
+Contours and global optimum, Heuristics and Optimization 
+MBA780 
+PORTFOLIO 
+MANAGEMENT 
+3-0-0-0[5] 
+Portfolio Optimization in the Mean-Variance Framework, Correlation, 
+covariance, diversification; Region of feasibility, short-sale constraints, 
+efficient frontier description, techniques for computing efficient frontier; 
+Single Index & Arbitrage Pricing Model, Assumptions and derivation of
+
+[Page 28]
+expected return, variance, and covariance, Arbitrage Pricing Theory 
+(APT); Capital Asset Pricing Model and its variants, Mathematical 
+derivation of CAPM and simple graphical approach to understanding 
+CAPM, non-standard versions of CAPM; Mutual Funds and Portfolio 
+Performance Appraisal, Closed-end and open-end funds, index funds, 
+ETFs; Performance measures (Sharpe ratio, Treynor's measure, Jensen's 
+alpha), performance measurement with downside risk, Selection, and 
+timing, Fixed Income Portfolio Management, Duration and convexity, 
+portfolio immunization, active and passive portfolio management. 
+MBA781 
+PUBLIC PRIVATE 
+PARTNERSHIP IN 
+INFRASTRUCTURE 
+3-0-0-0[5] 
+Infrastructure, Economic Development and need for PPP. Definition and 
+scope of infrastructure. Economics of infrastructure Natural Monopoly. 
+Modes of PPP. Policy Framework for Infrastructure Investment in India 
+VGF and its alternatives. Structuring a PPP Project Proposal RPQ & RFP. 
+Selected Case Studies from Power, Roads, WTE, Railways, Metro, Ports, 
+Airports etc. Policy Framework for PPP Across Major Sectors. Global 
+Best Practices for PPP Projects. Dealing with Unsolicited Bids. The, 
+Swiss Challlange. Projects Caselets A Case Analysis of a PPP Project (on 
+mutually agreed topic). 
+MBA782 
+RENEWABLE 
+ENERGY - 
+ECONOMICS, 
+POLICY AND 
+REGULATION 
+3-0-0-0[5] 
+Evolution of Renewable Energy Development, Economics of Renewable 
+Energy, Electricity Act 2003 and other relevant legislations policies, 
+Policy and Regulatory Framework for Renewable Energy Development: 
+RPO, FiT, RECs, Regulated Tariff Determination for Renewable Energy, 
+Competitive Bidding for RE procurement, Developing a Market for 
+Renewable Energy Certificates (RECs), Designing and Implementing a 
+Rooftop SPV Program: Net Metering vs Gross Metering, Solaralisation 
+of Agricultural Pumps, RE Procurement in Practice: GTAM, GDAM and 
+Beyond, Challenges to RE integration, Renewable Energy Scheduling, 
+Forecasting, Dispatch and Deviation Settlement Regulations, PAT 
+Mechanism and ESCerts, Mini Project/Assignment 
+MBA783 
+BEHAVIORAL 
+ECONOMICS IN 
+MANAGEMENT 
+3-0-0-0[5] 
+Economic thought has advanced in recent decades beyond the traditional 
+microeconomic theories that assume that human beings are rational 
+economic agents. The aim of this course is to introduce the concepts of 
+behavioral economics to students who are interested in using these 
+principles in academic research or in understanding human behavior in 
+managerial contexts. Course contents: Introduction to Behavioral 
+Economics, Expected Utility Theory – Utility Maximization, Bounded 
+Rationality, Making Choices Under Risk: Prospect Theory, Intertemporal 
+Choice and Time-Inconsistency, Mental Accounting, Heuristics and 
+Biases, Behavioral Game Theory, Social Preferences, Nudges: 
+Libertarian Paternalism – Policy Making, Neuroeconomics
+
+[Page 29]
+Inter-departmental Courses 
+ 
+Course ID 
+Course Title 
+Credit 
+L-T-P-D[C] 
+Content 
+IDC607 
+(With HSS- 
+Philosophy) 
+DEMYSTIFYING 
+CONSPIRACY 
+THEORIES 
+3-0-0-0[9] 
+Introduction: weird ideas and their popularity, anatomy of a 
+conspiracy theory, salient features, are conspiracy theories 
+necessarily irrational?, climate of misinformation, trust and 
+expertise, echo chambers and epistemic bubbles, political 
+beliefs and misinformation, social media and online 
+misinformation, psychology of false beliefs, perspectives on 
+gullibility, motivated reasoning, blind spot bias, rhetoric and 
+mechanisms of conspiracy theories, social isolation and 
+community disconnection, scientism and the rhetorical 
+claims to expertise, propaganda and dog-whistling, 
+implications for democracy, climate change, health, 
+medicine, and vaccine hesitancy, gender and demography, 
+countering misinformation and conspiracy theories, fact 
+checking: does it work?, media literacy approaches, critical 
+thinking and its limitations.

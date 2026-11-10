@@ -1,0 +1,69 @@
+[Page 1]
+Indian Institute of Technology Kanpur 
+Academic Section 
+OFFICE ORDER 
+No. A/00/SUM-HON/2019/ Oi 
+April 02, 2019 
+The rates of the honorarium for the Summer Term have been revised as under: 
+• 
+Honorarium Component= c1 + (n-1) * c2 
+c1 = minimum amount for a course with one student 
+c2 = amount per student 
+n = number of students (class size) 
+• 
+PDA Component= c3 * (n-35) 
+c3 = amount per student 
+where c1 , c2 and c3 are as defined below: 
+Sl. 
+For class with 
+No. 
+Particulars 
+3 Lecture Hours 
+1 Tutorial Hour 
+3 Lab Hours 
+c1 = ~40000 . 00 
+c1 = ~15000.00 
+c1 = ~15000.00 
+1. 
+Honorarium component 
+c2 = 
+~4 000.00 
+c2 = ~1500 . 00 
+c2 = ~ 1500 . 00 
+2. 
+PDA component 
+c3 = 
+~4000 .0 0 
+Nil 
+Nil 
+_(for class size >35) 
+Above shall be implemented subject to the following : 
+1) Upper limit for the Lecture honorarium component= ~2 , 00 ,0 00 .00 
+2) 
+Upper limit for the Tutorial and/or Lab honorarium component= ~40 , 000.00 
+3) 
+Upper limit for the PDA component= ~2 . 00,000.00 
+4) There is no PDA component for conducting lecture courses with :535 students, and for 
+tutorials and labs. 
+5) For courses with number of lectures/tutorials/lab hours different from the above, the 
+honorarium and PDA will be calculated prop01tionately. 
+6) In case a course is shared bet\veen more than one instructor/tutor, the honorarium and PDA 
+will be split according to their teaching load. 
+7) Tutorials and labs conducted by students will also be compensated according to the criteria 
+and rates proposed here. However, there is no PDA component for student tutors. 
+8) One T A may be allotted for 30 students. TAs wi ll be paid an honorarium of z7000.00 in a 
+course. 
+9) Courses with class size of:SI O would be floated as special cases. 
+10) The above rates of summer course honorarium will be effective from the Summer Term-2019. 
+This is ·issued with approval of the competent authority. 
+~~2))10 
+Dean, Academic Affairs 
+Copy to: 
+1) Director 
+2) 
+Dy. Director 
+3) 
+Registrar 
+4) All Deans 
+5) All HODs 
+6) AR, F&A

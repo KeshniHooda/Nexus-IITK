@@ -1,0 +1,121 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+
+Proposal for a New Course
+
+1. Course No: CSXXX
+2. Course Title: Cryptographic Protocols
+3. Per Week Lectures: 3(L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours [0-2]: 0 (A),
+Credits (3-0-0-0-9):                   Duration of Course: Full semester
+4. Proposing Department: Computer Science and Engineering
+Other Departments/IDPs which may be interested in the proposed course: Mathematics,
+Electrical Engineering
+Other faculty members interested in teaching the proposed course: Nitin Saxena
+5. Proposing Instructor(s): Angshuman Karmakar (angshuman@iitk.ac.in)
+7. Course Description:
+A) Objectives: This course explores the design, analysis, and application of
+cryptographic protocols, which are essential for securing communication,
+authentication, and  privacy  in  computer  networks.  Students  will  study
+fundamental cryptographic concepts such as encryption, digital signatures, hash
+functions, and zero-knowledge proofs, along with advanced protocols like secure
+multi-party computation. This course focuses on the constraints, security
+arguments, hard mathematical problems, and instantiations of cryptographic
+primitives. A student upon taking this course will be able to analyse the security
+of different cryptographic primitives and will also be confident to design new
+cryptographic primitives.
+B) Contents (preferably in the form of 5 to 10 broad titles):
+Lecture-wise break-up (considering the duration of each lecture is 50 minutes)
+Serial      Broad title                     Topics              No of
+lectures
+1       Foundations of            •  Cryptology basics               7
+cryptographic             •  Probability and Number theory
+protocols [1, 2, 3]          •  Randomness and pseudorandom
+generators
+•  Security models: Adversarial
+models & proof techniques
+•  Common attacks on
+cryptographic protocols
+2      Key exchange             •  Diffie-Hellman key exchange &     3
+protocols [3,4,5]               variants
+•  Authenticated key exchange
+3      Commitment             •  Definition and security properties   3
+schemes [2, 5, 6]          •  Pederson commitment
+
+[PAGE 2]
+•  Using cryptographic hash
+functions
+•  Using discrete log setting
+•  Homomorphic commitments
+4        Identification              •  Password based schemes        3
+protocols[2, 5, 6]          •  One-way hash chains
+•  Basic challenge response using
+symmetric/asymmetric schemes
+•   Zero knowledge identification
+protocols
+•  Witness hiding identification
+protocols
+5       Zero-Knowledge           •  Sigma Protocol                 4
+proofs and                •  Compositions of Sigma protocols
+authentication [2, 6]       •  Non-interactive Zero-Knowledge
+6       Threshold                 •  Additive and Shamir secret        4
+cryptography and             sharing
+Secure multi-party        •  Basics of MPC, Brever triplet
+Computation [2, 6]        •   Verifiable secret sharing
+•  Publicly verifiable secret sharing
+•  FROST: threshold signature based
+on Schnorr-style
+7        Digital signature           •  Basic constructions from Full      6
+schemes [3, 4, 5, 6]         Domain Hash paradigm, and
+Identification scheme
+•  Unforgeability property, key only
+attack (KOA)
+•  Designing quantum-safe
+signatures using Multi Party
+Computation-in-the-Head
+(MPCitH) framework
+8       Blind Signatures [4, 5]      •  Security properties              6
+•  Three-pass protocol, Schnorr
+framework for designing BS,
+•  Two-pass protocol, Fischlin’s
+framework
+•  ROS problem, and its applications
+to BS
+9      Advanced Topics in        •  Secure voting protocols          4
+Cryptographic             •  Private information retrieval
+Protocols [2, 6]            •  Anonymous communication
+networks (Tor, Mixnets)
+
+C) Recommended pre-requisites, if any: Mandatory: Discrete mathematics,
+algorithms, theory of computations, programming knowledge
+
+[PAGE 3]
+Desirable: Basic knowledge of cryptography
+D) Short summary for including in the Courses of Study Booklet: Design of
+cryptographic primitives, principles of cryptography design, security in computer
+systems, cryptographic protocols.
+
+7. Recommended text/reference books:
+
+1) A Computational Introduction to Number Theory and Algebra by Victor Shoup,
+Cambridge University Press, 2008.
+2) Handbook of Applied Cryptography by Alfred Menezes, Paul C. van Oorschot,
+and Scott Vanstone, 1997.
+3) Cryptography: Theory and Practice by Douglas Stinson and Maura Paterson, 4th
+edition, CRC Press, 2018.
+4)  Introduction to Modern Cryptography by Jonathan Katz and Yehuda Lindell,
+Chapman & Hall/CRC Press, 2007.
+5) Cryptography: An Introduction by Nigel Smart, McGraw-Hill, 2003.
+6) Modern Cryptography: Theory and Practice by Wenbo Mao, first edition, Pearson
+Education, 2004.
+
+8. Any other remarks: None
+
+Dated: 28/02/2025                            Proposer: Angshuman Karmakar
+
+Dated:                           DPGC Convener:
+
+The course is approved / not approved
+
+Chairman,                                  SUGC
+
+Dated:

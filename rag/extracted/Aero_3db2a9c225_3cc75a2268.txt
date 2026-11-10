@@ -1,0 +1,66 @@
+[PAGE 1]
+2nd meeting of departmental ARC committee held on 20/4/09
+
+Members present:BE,AKU,CSU
+
+With the understanding that the faculty of the department accepts the proposal of the
+current ARC, in principle, the committee has restarted the process of framing the
+department’s undergraduate curriculum – as per the guidelines of the ARC. The group
+discussed the questions posed by ARC to the department. The answers are:
+
+(1) Minors are a good proposition and 3-4 courses per minor is satisfactory.
+
+The group looked at possible options, and came up with some possibilities: (a)
+Turbomachinery (can be offered together with mechanical): propulsion 1,
+thermal  turbo-machinery,  design  of  turbo-machinery;  (b)  Combustion:
+Propulsion 1, applied combustion, theory of combustion, rocket combustion
+design; (c) Turbulence; (d) Viscous flows; (e) Computational mechanics (with
+solids or  fluid  specialization): Numerical  analysis, CFD or  Intro. To FEM,
+Advanced CFD or FEM for fluids or Nonlinear FEM; (f) Stability and control; (g)
+Structural  dynamics: (MOS and dynamics  prereq.)  mechanical  vibration
+(discrete systems), vibration of continuous systems, aeroelasticity/random
+vibrations/nonlinear      vibrations/advanced       structural      dynamics,
+acoustics/dynamics and controls.
+
+More options can be created in future.
+
+(2) For a 2nd major in Aerospace (for students from outside the department), the
+course structure will be given after the department freezes its basic core
+structure – all mandatory professional courses have to be taken
+
+(3) No  special degree  is  required  for good  students. Acknowledgement  of
+performance could be done by giving certificates/ keys type recognition, grade
+of A* in a course, etc.
+
+(4) For weak students exit option is OK. However, the group feels that student
+should have atleast cleared the 3rd year level courses (another alternative is all
+the mandatory departmental core, i.e. what is required for a second major) and
+spent atleast 4 years at IITK. The group could not converge on the appropriate
+name for such a degree – diploma in Aerospace Engg. could be one.
+
+[PAGE 2]
+(5) The ESO courses that the departmental students should take are: ESO204,
+ESO212, ESO202. Optional ESO’s are: ESO216, ESO214, ESO218.
+
+(6) The department likes the idea of stressing upon communication skills in the
+courses. This will be done through presentations and seminars. Lab. Courses
+will have a mandatory (1/2 hr. ) part on report presentation; a seminar course
+in the 6th semester is also mooted (in a 20 hr. module). The student will
+prepare and present on a topic, based on literature review.
+
+More rigour  in design report preparation and presentation + mandatory
+presentation in aeromodelling.
+
+(7) The  group  would  like  1  mid-term  examination  and  1  end-semester
+examination.  It also strongly recommends conducting only one examination
+per day (centrally organized exam. Schedule)
+
+The group also discussed the preliminaries of the curriculum structure: 2 aero.
+Lab. Classes, one 20 hr. lab. Theory module; one 20 hr. flight lab. Module.
+
+It also discussed having 3 courses in aerodynamics+propulsion combined; the
+first course in FM can be made into a 20 hr. module with aeromodelling added
+to it (to make a full course) to be offered in the 4th or 5th semester; a course on
+control theory should be introduced; a course on space mechanics should also
+be added; one compulsory structures course will be offered – rest in specialized
+DE courses.

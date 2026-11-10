@@ -1,0 +1,226 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+Proposal for a new course
+
+Course No.: MTH 6XX/7XX (PG level) - MJ6 E/9
+Course Title: Representation theory of quivers
+Pre-requisites: Instructor's consent. However, knowledge of linear algebra (MTHZ04) and abstract
+algebra (MTH2O1) will be assumed.
+Aims of the course: Around half a century ago, representations of quivers (directed graphs with the
+possibility of loops and parallel arrows) were originally introduced and studied by Gabriel, where he
+completely classified finite dimensional hereditary associative algebras that have only finitely many
+(iso-classes of) indecomposable modules using Dynkin diagrams that were previously used in the
+classification of finite dimensional semisimple Lie algebras. The utility of the quiver-theoretic
+techniques in the representation theory of finite groups was essentially demonstrated by Gel'fand
+and Ponomarev. In/act, representation theory of quivers became a synonym for the representation
+theory of finite-dimensional associative algebras during the development of Auslander-Reiten
+theory. The current century has seen exponential growth in the literature on quivers and related
+topics, especially due to connections with cluster algebras and topological data analysis.
+
+The basic aim of this course is to give a self-contained introduction to this interesting branch of
+representation theory, where the necessary preliminaries from module theory over non-
+commutative rings and homological algebras will be covered. After successful completion of the
+course, the students will be equipped to read recent literature and tackle problems in the field.
+
+Credits: 3-0-0-0 [9]
+Semester: Odd Semester
+Department/IDP: Mathematics and Statistics
+Other departments which may be interested: PHY, CSE
+Instructor: Amit Kuber
+Course contents:
+1.  Quivers.and representations: definitions, examples, category of representations, classification
+problem, special representations: simple, projective and injective [4 lectures]
+2.   Gabriel's theorem: root systems and Weyl groups, Dynkin diagrams, reflection functors,
+quadratic form, Coxeter functors [9 lectures]
+3.  Modules over associative algebras: associative algebras, Jacobson radical, local algebras,
+indecomposability, primitive idempotents, basic and connected algebras [4 lectures]
+4.  Bound quiver algebras: path algebras for quivers, arrow ideal, admissible ideals, bound quiver
+algebras, modules are representations and vice versa [4 lectures]
+5.   Aus[ander-Reiten quivers: ideals in module categories, radical of the module category and its
+powers, irreducible morphisms, A-R quiver examples [3 lectures]-
+6.  Homological algebra: Hom-functors, duality, chain complexes and exact sequences, homology,
+projective and injective modules, resolutions and presentations, global dimension. Ext functor,
+tensor products and Hom-tensor adjunction [7 lectures]
+7.   Auslander-Reiten theory: Nakayama functor, A-ft translate, stable categories, A-ft sequences,
+A-ft formulas, Coxeter transformation [7 lectures]
+8.   Representation types of finite-dimensional algebras [3 lectures]
+
+Recommended texts/references:
+1. Schiffler, Ralf. Quiver representations. (2014). CMS Books in Mathematics, Springer.
+
+[PAGE 2]
+2. Auslander, M., Reiten, I., & Smalo, S. (1995). Representation Theory of Artin Algebras (Cambridge
+Studies in Advanced Mathematics). Cambridge: Cambridge University Press.
+3. Assem, I., Skowronski, A., & Simson, D. (2006). Elements of the Representation Theory of
+Associative Algebras: Techniques of Representation Theory (London Mathematical Society
+Student Texts). Cambridge: Cambridge University Press.
+4. Crawley-Boevey W., Lectures on representations of quivers. Available at https://www.math.uni-
+bielefeld.de/~wcrawley/quivlecs.pdt
+5. Krause, H., Representations of quivers via reflection functors, Lecture notes available at
+https://arxiv. org/abs/0804.1428
+
+Dated: 10/01/2025                           Proposer: Amit Kuber
+
+This course is approved/not approved         Convener, DPGC Maths and Stats
+
+This course is  pprove~/not approved              Chairman, SPGC
+
+[PAGE 3]
+S.
+
+O'
+
+PGDesk-IITK-DOHA
+
+From:                        spgc <spgc@iitk.ac.in>
+Sent:                        22 February 2025 13:09
+To:                          Pgdesk
+Cc:                           Course Related Data; DPGC Math
+Subject:                       Fwd: New Math and Stats PG course proposal: Representation theory of quivers
+
+Follow Up Flag:                Follow up
+Flag Status:                   Flagged
+
+Categories:                  Orange Category, Green Category, Blue Category
+
+@pgdesk: for next SPGC meeting please.
+
+Regards,
+
+Sudhanshu
+Chairperson, SPGC
+
+Original Message
+
+Subject:Fwd: New Math and Stats PG course proposal: Representation theory of quivers
+Date:2025-02-2014:38
+From:"DPGC, Math and Stat" cdpgc_math@iitk.ac.in>
+To:Spgc cspgc@iitk.ac.in>
+Copy:Pgdesk cpgdesk@iitk.ac.in>, Courses ccourses@iitk.ac.in>, AMIT KUBER caskuber@iitk.ac.in>
+
+Dear SPGC Chair,
+
+Could you please put the course proposal below as an agenda item for the next SPGC meeting?
+
+Best,
+Sudhanshu
+
+Office: FB 560
+
+Call: +91-512-XXX-7834
+[XXX could be 259, 333, 679]
+
+Original Message
+
+Subject:New Math and Stats PG course proposal: Representation theory of quivers
+-       1
+
+[PAGE 4]
+A    L
+
+Date:20-01-202521:50
+From:"DPGC, Math and Stat" <dpgc_math@iitk.ac.in>
+To:Acadstaff <acadstaff@tists.iitk.ac.in>
+Copy:askuber@iitk.ac.in
+
+Dear colleagues,
+
+Here is a link to the proposal for a new Math s Stat PG course by Professor Amit Shekhar
+Kuber.
+
+https://iitk.ac.in/doaa/data/NewCourses/Course-proposal-MTH6XX-Representation-theory-of-quivers.pdf
+
+Please provide your feedback to askuberThiitk.ac.in with CC to dpgc math@iitk.ac.in by February 12, 2025.
+
+Best,
+Sudhanshu
+
+Office: FB 560
+
+Call: +91-512-XXX-7834
+[XXX could be 259, 333, 679]
+
+2
+
+[PAGE 5]
+INDIAN INSTITUTE OF TECHNOLOGY KANPUR
+POSTGRADUATE OFFICE
+
+No. A(P)/IITK/course approval/
+March 25, 2025
+
+The Convener, DPGC
+Departments of DOMS/MTH/SEE
+ITT Kanpur
+
+I am directed to communicate the concurrence of the SPGC (2024-25) in its 6th meeting held
+on 27/02/2025 for the approval of new/modification PG course proposal. After detailed
+discussion the following courses were approved.
+
+Course No                       Title                     Credits            Instructor      SPGC Decision
+DMS613     Introduction to Mathematical Finance         3-0-0-0-[9]    Dr. Sourav Majumdar         Approved
+MBA644     Cyber Security and Privacy for Managers    3-0-0-1-[10]   Dr. Sourya Joyee De          Approved
+MBA788M   Monte Carlo Methods in Finance              3-0-0-1-[5]    Dr. Sourav Majumdar         Approved
+MBA789M   Management Sciences                        3-0-0-1-[5]    Dr. Harshal Rajan Mulay       Approved
+Private Equity, Venture Capital and otherMBA790M                                                    3-0-0-1-[5]    Dr. Harshal Rajan Mulay       Approved              Alternative Assets
+MTH619     Representation theory of quivers              3-0-0-0-[9]    Dr. Amit Kuber               Approved
+SEE627       Electric Mobility [Modification]               3-0-0-2-[11]   Dr. Amarendra Edpuganti      Approved
+
+Joint/Assistant Registrar
+Academic Affairs
+
+CC: OARS (DOAA Office) For necessary action
+
+[PAGE 6]
+u.     .f:.3.a.  'S ta:. tS...
+
+MINUTES
+FOR THE 6th MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) HELD
+ON February 27, 2025 (Thursday) AT 11:00 AM
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING
+
+Members Present: Prof(s): D. Chaitanya Kumar Rao on behalf PM Mohite (AE), Suresh Kumar (BSBE), Basker
+Sundararaju (CHM), Ark Verma (CGS), Gourabananda Pahar (CE), Soumik Das on behalf of Dipin S Piliai (CHE),
+J Ramkumar (DES), Sukumar Vellakkal (ECO), imon Mondal (EE), Animesh Mandal (ES), Rajarshi Sengupta
+(HSS), Subhankar Mukherjee (DoMS), Anikesh Pal (ME), Sudhanshu S Singh (MSE), Pritam Chakraborty (MSP),
+Sudhanshu Shekhar (MATH), Sagar Chakrabarty (PHY), Kunal P Mooley (SPASE), Prabodh Bajpal (SEE)
+Members Absent: Prof(s), Piyush Rol (CSE), Pankaj Wahi (NET), Sapam Ranjita Chanu (PSE)
+Senate Nominee : Prof. Abheejeet Mohapatra
+Student representatives. Saurabh Sona Lahamate (231250121
+
+(A) Ratification of minutes of 5`h SPGC meeting held on January 24, 2025
+
+No comments were received. Minutes is confirmed
+
+(B) item requiring SPGC Approval
+
+a) New course approval
+Course No                       Title                     Credits            Instructor             I SPGC Decision
+DMS613     Introduction to Mathematical Finance         3-0-0-0-[9]    Dr. Sourav Majumdar         Approved
+MBA644    Cyber Security and Privacy for Managers    3-0-0-1-[10]   Dr. Sourya Joyee De            i    Approved
+MBA788M,  Monte Carlo Methods in Finance             3-0-0-1-[5]    Dr. Sourav Majumdar         Approved
+MBA789M   Management Sciences                       3-0-0-1-[5]    Dr. Harshal Rajan Mulay       Approved
+Private Equity, Venture Capftai and other                  MBA790M                                                                                        3-0-0-1-[5]    Dr. Harshal Rajan Mulay       Approved                                          Alternative Assets
+MTH619     Representation theory of quivers             3-0-0-0-(9]    Dr. Amit Kuber               Approved
+SEE627       Electric Mobility IModiticaton]               3-0-0-2-[11]   Dr. Amarendra Edpugantl      Approved
+
+b)  Terminatlon under 5.7
+Supervisor & DPGC   SPGC Decision                          S. No   Roll No    Name                       Dept.p     pro                                                                                                g'   Recommendation
+Approved to be                              1.                    Jatln Chaudhary         DOMS  MBA   Recommended                    1241250026                                                                         reported to Senate
+Approved to be                              2.    241010003  Adhikari Thakur Prasad Das  AE      MTech  Recommended                                                                                                                          reported to Senate
+
+c)  Full Time to Part-Time
+Supervisor and DPGC     Remark    SPGC Decision
+S. No   Roll No    Name          De p t     pro g     Recommendation
+CU=78
+TU =54                         1.    231040115   Swati Gupta      EE    MTech     Recommended                          Approved                                                                                                 CPI=9.38
+NOC - attached
+CU=78
+Bingi   Poojari                                                                                                -54                         2.    231040036  Venkatesh       EE    MTech     Recommended                          Approved                                                                                                CPI=9.38
+NOC - attached
+
+Page 1 of 9
+
+'4
+
+""t

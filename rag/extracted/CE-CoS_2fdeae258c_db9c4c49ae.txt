@@ -1,0 +1,2747 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+
+COURSES OF STUDY
+
+2024
+
+Indian Institute of Technology Kanpur
+KANPUR-208016
+
+[PAGE 2]
+CIVIL ENGINEERING
+
+Table 1. BT/BS Template for 3rd to 8th semester
+
+Semester 3              Semester 4         Semester 5            Semester 6              Semester 7        Semester 8
+SCHEME-2 CE212     SCHEME-3      ESO208A [11]     SCHEME          SCHEME      SCHEME
+(9)*                  HSS-I [9-11]       (E/SO)               HSS-II (9)              HSS-II (9)        HSS-II (9)
+ESO202A [11] (E/SO)   ESC201 [14]      CE351 [10] (DC)     CE441M [5] (DC)      DE-5 [9]        DE-8 [9]
+MSO203M [6] (E/SO)   TA212 [3] (E/SO)  CE361 [6] (DC)      DE-2 [9]             DE-6 [9]        OE-4 [9]
+HSO201 [11] (E/SO)    CE272A [9] (DC)   CE331 [8] (DC)      DE-3 [9]             DE-7 [5]        OE-5 [9]
+CE261 [10] (DC)       CE252 [11] (DC)   CE311 [4] (DC)      DE-4 [9]             OE-2 [9]        OE-6 [6]
+CE243 [8] (DC)        CE214 [9] (DC)    CE381 [9] (DC)      OE-1 [9]             OE-3 [9]
+CE341 [2] (DC)                        DE-1 [9]
+TA211 [3] (E/SO)                                       UGP-1 (CE332) Extra                 UGP-4 (CE493) Extra
+Credits (DE) [4]                             Credits (DE) [9]
+60                     55-57             57                 50                   50              42
+MINIMUM CREDIT REQUIREMENT FOR GRADUATION:
+Institute Core (IC)                            :        112 Credits
+Department Compulsory (DC)             :        91 Credits
+Department Elective (DE)                  :        68 Credits
+Open Elective (OE)                          :        51 Credits
+E/SO                                           :        45 Credits
+SCHEME                                      :         54-58 Credits
+Total                                           :         421-425 Credits
+REMARKS:
+1) *All CE student must opt for environment part from the EME basket in semester 3
+2) Students need to ensure that the courses chosen as DE must include
+i) at least one course from CE371 and CE372, and
+ii) at least one course from CE412, CE432, CE462, CE481.
+iii) Total DE credits should be minimum of 68.
+3) The DE basket may also contain departmental PG courses. However, some of the 300 level DE courses are pre-requisite to those PG
+courses
+4) UGP-1 and UGP-4 do not count towards DE/OE credits or minimum graduation requirements.
+5) Courses that are mandatorily offered in DE:
+‒ Odd semester – CE371, CE481.
+‒ Even semester – CE372, CE334, CE362, CE382, CE412, CE462, CE432.
+‒ Other courses – CE491, CE492, CE605, CE606.
+“Eligible and interested students can take CE332 as UGP-I, CE491 as UGP-2, CE492 as UGP-3 and CE493 as UGP-4”.
+
+Table 2. BTH Template for 3rd to 8th
+
+Semester 3              Semester 4            Semester 5          Semester 6               Semester 7      Semester 8
+SCHEME-2 CE212     SCHEME-3        ESO208A [11]    SCHEME           SCHEME    SCHEME
+[9]*                  HSS-I [9-11]         (E/SO)             HSS-II (9)               HSS-II (9)      HSS-II (9)
+ESO202A [11] (E/SO)   ESC201 (14)        CE351 [10] (DC)   CE441M [5] (DC)        DE-5 [9]      DE-9 [9]
+MSO203M [6] (E/SO)   TA212 [3] (E/SO)    CE361 [6] (DC)    DE-2 [9]               DE-6 [9]      OE-4 [9]
+HSO201 [11] (E/SO)    CE272 [9] (DC)      CE331 [8] (DC)    DE-3 [9]               DE-7 [5]      OE-5 [9]
+CE261 [10] (DC)       CE252 [11] (DC)     CE311 [4] (DC)    DE-4 [9]               OE-2 [9]      OE-6 [6]
+CE243 [8] (DC)        CE214 [9] (DC)      CE381 [9] (DC)    OE-1 [9]               OE-3 [9]       DE-10 [9]
+CE341 [2] (DC)                          DE-1 [9]                               DE-8 [9]       DE-11 [9]
+TA211 [3] (E/SO)                                       UGP-1 (CE332) Extra                 UGP-4 (CE493) Extra
+Credits (DE) [4]                             Credits (DE) [9]
+60                     55-57               57               50                     59            60
+REMARKS:
+1)   *All CE student must opt for environment part from the EME in semester 3
+2)   Students need to ensure that the courses chosen as DE must include
+i.  at least one course from CE371 and CE372, and
+ii.  at least one course from CE412, CE432, CE462, CE481;
+iii.  two UGPs (CE491 and CE492); and
+iv. minimum 27 credits of DE (6/7 level) courses.
+v.  Total DE credits should be minimum of 95.
+3)   The DE basket may also contain departmental PG courses. However, some of the 300 level DE courses are pre-requisite to those
+PG courses.
+4)  UGP-1 and UGP-4 do not count towards DE/OE credits or minimum graduation. requirements.
+5)  CPI criteria for BTH: 8.5
+6)   Courses that are mandatorily offered in DE:
+‒ Odd semester – CE371, CE481.
+‒ Even semester – CE372, CE334, CE362, CE382, CE412, CE462, CE432
+‒ Other courses – CE491, CE492, CE605, CE606.
+
+[PAGE 3]
+Table 3. BTM Template for 3rd to 8th semester
+
+Semester 3              Semester 4            Semester 5            Semester 6              Semester 7       Semester 8
+SCHEME-2 CE212     SCHEME-3        ESO208A [11]     SCHEME          SCHEME      SCHEME
+[9]*                  HSS-I [9-11]         (E/SO)               HSS-II [9]              HSS-II [9]        HSS-II [9]
+ESO202 [11] (E/SO)    ESC201 [14]        CE351 [10] (DC)    CE441M [5] (DC)     MTB-1 [9]      MTB-4 [9]
+MSO203M [6] (E/SO)   TA212 [3] (E/SO)    CE361 [6] (DC)      DE-2 [9]            MTB-2 [9]      MTB-5 [9]
+HSO201 [11] (E/SO)    CE272 [9] (DC)      CE331 [8] (DC)      DE-3 [9]             DE-5 [5]       MTB-6 [9]
+CE261 [10] (DC)       CE252 [11] (DC)     CE311 [4] (DC)      DE-4 [9]             OE-2 [9]        OE-4 [6]
+CE243 [8] (DC)        CE214 [9] (DC)      CE381 [9] (DC)      OE-1 [9]            MTB-3 [9]
+CE341 [2] (DC)                          DE-1 [9]
+TA211 [3] (E/SO)                                         UGP-1 (CE332) Extra                 UGP-4 (CE493)
+Credits (DE) [4]                           Extra Credits (DE)
+[9]
+60                     55-57               57                 50                   50             42
+REMARKS:
+1)   *All CE student must opt for environment part from the EME basket in semester 3.
+2)   Students need to ensure that the courses chosen as DE must include
+i.  at least one course from CE371 and CE372, and
+ii.  at least one course from CE412, CE432, CE462, CE481.
+iii.  Total DE credits should be minimum of 41.
+3)   The DE basket may also contain departmental PG courses. However, some of the 300 level DE courses are pre-requisite to those
+PG courses.
+4)    4. UGP-1 and UGP-4 do not count towards DE/OE credits or minimum graduation requirements.
+5)   Courses that are mandatorily offered in DE:
+‒ Odd semester – CE371, CE481.
+‒ Even semester – CE372, CE334, CE362, CE382, CE412, CE462, CE432
+‒ Other courses – CE491, CE492, CE605, CE606
+
+Table 4. BT-MT (PG Part-Category-A) (from the same department)
+SL No.     Specialization                            Compulsory Course Credits     Elective Credits    Thesis Credits
+1.       ENVIRONMENTAL ENGINEERING                None               63 Credits     M.Tech. Thesis [72]
+2.       GEOINFORMATICS                             None               63 Credits     M.Tech. Thesis [72]
+3.       GEOTECHNICAL ENGINEERING                  None               63 Credits     M.Tech. Thesis [72]
+4.       HYDRAULICS AND WATER                      None               63 Credits     M.Tech. Thesis [72]
+RESOURCES
+5.       STRUCTURAL ENGINEERING                    None               63 Credits     M.Tech. Thesis [72]
+6.       TRANSPORTATION ENGINEERING                None               63 Credits     M.Tech. Thesis [72]
+7.       INFRASTRUCTURE ENGINEERING                None               63 Credits     M.Tech. Thesis [72]
+AND MANAGEMENT
+REMARKS:
+1)   All CE student must opt for environment part from the EME basket in semester 3.
+2)  Up to 42 OE and 14 DE credits may be waived from the minimum BT template requirement.
+3)   Students need to ensure that the courses chosen as DE must include
+i) at least one course from CE371 and CE372, and
+ii) at least one course from CE412, CE432, CE462, CE481.
+iii) Total DE credits should be minimum of 54.
+4)  Minimum 63 credits of PG courses and 72 credits of M.Tech thesis is required.
+5)   Students, opting for the dual degree programme within CE, please check the list of mandatory PG courses for the respective
+specialization.
+6)   The DE basket may also contain departmental PG courses. However, some of the 300 level DE courses are pre-requisite to those
+PG courses.
+7)  UGP-1 and UGP-4 do not count towards DE/OE credits or minimum graduation requirements.
+8)   Students opting for the dual degree programme within CE are allowed to take CE491 or CE492 as DEs or as OE
+9)  Maximum semester load is 45 credits in 9th and 10th semester
+10)  Must register for seminar course CE698, preferably in 10th semester.
+
+[PAGE 4]
+Table 5. BT-MT (PG Part-Category-B) 7th to 10th Semester
+SL. No.     Specialization            Eligible BT/BS             Compulsory courses
+Background
+UG Pre-   PG courses             Elective Credits    Thesis
+requisites                                                  credits
+1.       ENVIRONMENTAL    BSBE, CHE, CHM,             CE664              Compulsory +    MTech
+ENGINEERING       ECO, ME, MME,              CE665           PG Elective       Thesis [72]
+MTH, PHY                   CE666                 Credits = 63
+CE667
+CE668
+2.       GEOINFORMATICS   CSE, MTH, PHY     CE331     CE332 (as PG)       Compulsory +    MTech
+CE671           PG Elective       Thesis [72]
+CE677                 Credits = 63
+3.       HYDRAULICS AND   AE, CHE, ME                 CE610              Compulsory +    MTech
+WATER                                        CE611                 Elective Credits    Thesis [72]
+RESOURCES                                    CE612            = 63
+CE613
+4.       TRANSPORTATION   AE, ECO*, MTH*,   ESO202*  Any two from        Compulsory +    MTech
+ENGINEEING        ME, PHY*                   CE603M, CE604M,    Elective Credits    Thesis [72]
+and CE605M        = 63
+
+* For      CE683
+ECO,     CE786
+MTH,     CE787
+PHY      CE780
+REMARKS:
+1)   36 OE credits waived from the BT/BS program of the parent department.
+2)   63 credits PG Electives+ Compulsory course may include 1 UG course taken for PG credits on advice of the thesis supervisor.
+3)   Another UG/PG course (over and above the first 63 PG credits) may also be taken for PG credits on advice of the thesis
+supervisor.
+4)  Maximum semester load is 45 credits in 9th and 10th semester
+5)   Must register for seminar course CE698, preferably in 10th semester.
+
+Table 5. Double Major Template for 7th to 10th semester
+Semester 3 – Semester 6               Semester 7         Semester 8          Semester 9                Semester 10
+CE341 [2] (DC)    CE272 [9] (DC)       CE351 [10] (DC)    CE411M [5] (DC)
+CE243 [8] (DC)    CE252 [11] (DC)      CE361 [6] (DC)         DE-2 [9]    BT/BS Template of Parent Department
+CE331 [8] (DC)    CE214 [9] (DC)       CE381 [9] (DC)         DE-3 [9]
+CE311 [4] (DC)         DE-4 [9]Pre-Requisites
+1) ESO204 or equivalent else CE261 in 7th Sem                                          DE-1 [9]           DE-5 [9]
+2) ESO202                                                     Other Courses from BT template of parent Department
+3) CE212 as part of SCHEME else in 7th Sem
+
+Max 65         Max 65           Max 65           Max 65
+REMARKS:
+1)   Students need to ensure that the courses chosen as DE must include –
+i. at least one course from CE371 and CE372, and
+ii. at least one course from CE412, CE432, CE462, CE481.
+iii. Total DE credits should be minimum of 45.
+2)   The DE basket may also contain departmental PG courses. However, some of the 300 level DE courses are pre-requisite to those
+PG courses.
+3)  UGP-1 and UGP-4 do not count towards DE/OE credits or minimum graduation requirements.
+4)   36 OE credits waived from the BT/BS program of the parent department.
+5)   Courses that are mandatorily offered in DE:
+‒ Odd semester – CE371, CE481.
+‒ Even semester – CE372, CE334, CE362, CE382, CE412, CE462, CE432.
+‒ Other courses – CE491, CE492, CE605, CE606
+
+[PAGE 5]
+DEPARTMENT OF CE
+Credits
+Courses ID      Course Title        L-T-P-D-C                       Content
+Biosphere; essential components for life: energy, carbon,
+water and  nutrients and  their  role  in sustaining  life;
+biomes and ecosystems; Lithosphere; plate tectonics,
+types of rocks, rock and soil formation processes, types
+of rocks, rock cycle; Hydrosphere; water cycle, surface
+and groundwater origin and  its quality, oceans, ocean
+currents, ocean water quality; Atmosphere; components
+of atmosphere; earths energy budget; air quality, winds,
+cloud formation, storms; biogeochemical cycles (water,
+carbon,  nutrient, nitrogen  etc.); Human evolution and
+history of how humans have degraded the environment
+over past 100,000 years; Current state of environment in
+India and world; Underlying reasons (root causes) of
+modern     environmental     degradation      (social,
+psychological, cultural); Global environmental problems
+ENVIRONMENT AND
+CE212                                3-0-0-0-9     (climate   change,    biodiversity    extinction,    land
+SUSTAINABILITY
+degradation, resource scarcity, ecosystem service loss);
+Local and regional scale environmental problems  (air
+pollution,   surface   water  and   marine   pollution,
+groundwater pollution, solid waste); Impact of different
+economic sectors on the environment; Negative impacts
+of environmental degradation on economies and human
+health (e.g., rise in pandemics); Environmental impact
+assessment  (EIA);  Sustainable  Development  Goals
+(SDGs); Life cycle assessment (LCA)  tool; Ecological
+economics  and  payment   for  ecosystem  services
+concepts;  Renewable  energy  and  green  transport;
+Sustainable    agricultural   and    diets;   Sustainable
+construction and smart cities; International policies and
+environmental missions by Indian government, industries
+and NGOs to deal with impacts.
+This   is  an  introductory  course  for  undergraduate
+students.  This  course  provides an  overview  of  the
+different facets of Environmental Engineering, particularly
+the underlying concepts and the intended applications to
+prepare a graduating engineer with the skills needed to
+effectively  intervene   in  the  safeguarding   of  the
+environment, in whatever role they ultimately play in the
+ENVIRONMENTAL
+society. Pollutant mobility,  toxicity, and amenability to
+QUALITY AND
+CE214                                3-0-0-0-9    treatment in the environment depend on the physical and
+PROCESSES
+chemical  reactions  the  pollutant  undergoes  in  the
+THEORY
+environmental   systems.   This   course   introduces
+fundamental principles and processes that govern the
+fate and transport of these chemicals  in pristine and
+polluted    soil,     air,    surface,   and   groundwater
+environments. The course examines the equilibrium and
+kinetics of chemical reactions relevant to environmental
+systems. For each reaction, the fundamental molecular
+
+[PAGE 6]
+interactions affecting the process are first examined. The
+quantitative application of the reaction to environmental
+behaviour is then presented.
+
+Topics  covered  include  acids  and  bases,  mineral
+solubility,  carbonate  chemistry,  chemical  speciation,
+reduction-oxidation (redox) reactions, adsorption and ion
+exchange, and the speciation, mobility, and toxicity of
+metals and organic compounds. Furthermore, the theory
+and application of the physical and chemical processes
+of  coagulation,  flocculation,  sedimentation,  softening,
+filtration, and  disinfection  in  water and  wastewater
+treatment is presented. Principles that can be used in the
+analysis and modeling  of  environmental  engineering
+processes,  including  material and  energy  balances,
+mass transfer, and reaction engineering are elucidated
+
+Properties of material and their evaluation (creep, elastic
+modulus,  fatigue,  impact,  etc.);  test  methods  and
+specifications;   Cement:    Chemical    composition,
+properties  –  setting,  strength,  fineness,  hydration;
+Aggregates:  Sources,  properties,  chemical  reactivity;
+Concrete: Constituents, proportioning, properties of fresh
+CIVIL ENGINEERING               and hardened concrete, characteristic strength, quality
+CE243                                2-0-2-0-8
+MATERIALS                         control (sampling, acceptance, etc.), transportation and
+placing, testing (including NDT), porosity; Admixtures in
+concrete: Chemical and  mineral; Steel: Properties and
+types; Bricks: Manufacture, properties and classification;
+masonry   bonds;   Bitumen:   Source,   composition,
+characterization,  various  forms,  tests  on  bitumen;
+Bituminous mix design.
+Soil classification and composition; Stresses within a soil,
+effective stress principle, stress point, and stress path;
+soil-water systems, capillarity, Darcy’s law, permeability,
+hydraulic heads, piping, quicksand condition, seepage,
+flownets;      compressibility    and     consolidation
+characteristics; shear strength, direct shear and triaxial
+shear test, Mohr-coulomb strength criterion, drained and
+undrained   conditions,   consolidated   drained  and
+undrained tests, unconfined compressive strength test,
+strength of loose and dense sand, NC and OC soils,
+dilation,   pore   pressures,   Skempton’s   coefficient;
+CE252      SOIL MECHANICS      3-0-2-0-11
+Compaction characteristics, water content-dry unit weight
+relationships, OMC, maximum  dry  unit  weight,  field
+compaction control; Slope stability analysis.
+Laboratory  sessions:  Visual  identification  of  soils;
+Specific   gravity  and  Atterberg   limits;  Sieve  and
+Hydrometer  analysis;  California  Bearing  Ratio  test;
+Proctor compaction  test; Permeability Constant head;
+Permeability falling head; In situ filed density of soil (sand
+cone/core cutter); Unconfined compression test; Direct
+shear test; Triaxial (UU); Consolidation tests (loading and
+unloading).
+CE261     FLUID MECHANICS     3-0-1-0-11    Introduction to fluid mechanics, fluid statics, Reynolds
+
+[PAGE 7]
+FOR CIVIL                       Transport Theorem, Navier Stokes Equation, Energy
+ENGINEERS                      Equation, Laminar Flow, Boundary Layer Theory, Drag
+and Lift, Pipe Flow, Open Channel Flow.
+Stability and Determinacy of Structures. Review of shear
+force and bending moment diagrams  in beams and
+frames. Plane trusses: method of joints and method of
+sections. Deflection of trusses: method of virtual work.
+Deflection of beams and frames: momentarea method,
+STRUCTURAL                     conjugate beam  method,  method  of   virtual  work.
+CE272                                3-0-0-0-9
+ANALYSIS                        Influence line diagrams and moving loads. Force and
+stiffness methods of analysis. Plane trusses by using
+method of consistent deformations. Beams and frames:
+method  of  consistent  deformations,  slopedeflection
+equation, moment distribution method. Plane trusses and
+beams by using direct stiffness method.
+This is a follow-up course for CE undergraduate students
+who have previously taken Environmental Quality and
+Processes Theory course. This course provides students
+practical training on pollution monitoring techniques so
+as  to prepare a graduating engineer  with the  skills
+needed to effectively intervene in the safeguarding of the
+ENVIRONMENTAL                   environment, in whatever role they ultimately play in the
+QUALITY AND                        society. The course equips the students with skills to
+CE311                                0-0-4-0-4
+PROCESSES                     perform water and wastewater quality analysis and also
+PRACTICAL                       introduces them to air pollution monitoring equipment like
+ambient air quality samplers and stack monitoring  kit.
+The course also includes demonstration of advanced
+analytical    instruments     like   gas   and     liquid
+chromatography,     organic     carbon     analyzers,
+measurement of metals and other advances instruments
+in the Environmental Engineering laboratory.
+Basic  concepts   of   surveying:   Objectives;   Basic
+measurements, control networks, locating topographic
+details; Units of measurement; Error  in measurement
+and  their types, indices of precision, weight,  outliers;
+Error   sources,   types;   accuracy  and   precision,
+propagation of variance/covariance
+Linear   measurements:   Taping;   Optical   distance
+measurement;   Electronic   distance   measurement,
+classification  and   calibration;   Errors   in   distance
+measurement and precautions
+Vertical  control:  Level  surface;  Levelling  principles,
+PRINCIPLES OF
+CE331                                2-0-2-0-8    determination of height, leveling instruments; Sources of
+GEOINFORMATICS
+error and minimization, curvature and refraction effects;
+closure tolerances; Types of leveling; Characteristics of
+contours; methods of contouring
+Angle measurements: Concept  of  direction, azimuth,
+meridian;  Theodolite,  fundamental  characteristic  of
+theodolite and adjustment, measuring angles, sources of
+error, Total Station surveys
+Adjustments: Adjustment  of  errors  using  observation
+equation and condition equation approach (matrix-based
+solution)
+Control surveys: Traversing, Triangulation, Trilateration,
+
+[PAGE 8]
+and  Triangulateration:  types,  field  procedure,  error
+minimization
+Coordinate systems and datum transformation: Important
+surfaces   in  geodesy:  earth  surface,  geoid,  MSL,
+reference  ellipsoid; Reference systems: 2D and 3D
+coordinate systems and transformations; map projection,
+UTM projection
+Survey Camp: Reconnaissance, control establishment,
+SURVEY CAMP
+CE332                                0-0-0-4-4    topographic  mapping   using   electronic   surveying
+(UGP I)
+techniques, report writing
+Review of principles: Measurements, errors, networks,
+coordinate systems and reference surfaces
+GNSS:  Principles,  errors, DGPS, DOP, GPS survey
+Methods and plans
+Gravimetry: Role of gravity in surveying, principles of
+gravimetry,    terrestrial,   airborne  and   spaceborne
+MODERN METHODS
+CE334                                2-0-2-0-8    gravimetry, gravity networks and their adjustment
+IN GEOINFORMATICS
+Hydrography: Ocean processes and tides, Coastal and
+maritime  zones,  Hydrographic  reference  surfaces,
+Maritime Positioning, Bathymetry, Nautical Charts
+LiDAR & Photogrammetry, GIS
+Applications:  Infrastructure  construction,  Infrastructure
+monitoring, Earth Observation
+Introduction  to  Professional  Communication:  written,
+verbal and non-verbal (tone, posture, body language);
+CIVIL ENGINEERING                  Issues  of  Plagiarism;  Technical   writing:  Planning,
+CE341     COMMUNICATION      0-0-2-0-2    composition and organization of papers, technical reports
+SKILLS                     and proposals; Technical presentation: development of
+content  based  on   target  audience,   organization,
+presentation, use of multi-media.
+Site investigations, methods of drillings, Sampling, in-situ
+test,  SPT,  CPT,  plate  load  and  dynamic   tests,
+groundwater levels; Earth pressure theories, Coulomb
+and Rankine approaches, c-ϕ soils, smooth and rough
+walls, inclined backfill; Bearing capacity, general, local
+and punching shear failures, corrections for size, shape,
+depth,  water   table,   compressibility,   ultimate  and
+allowable  stress,  methods  based  on  in-situ  tests;
+Settlement of foundations, Design of foundation, types of
+FOUNDATION
+CE351                               3-0-1-0-10    foundation-shallow/deep, isolated, combined, mat, etc,
+DESIGN
+contact pressure distributions; Stresses due to applied
+loads,  Stress  distribution  (Boussinesq,  Westergaard,
+Newmark’s   influence   chart)  under   various   load
+conditions; Deep foundations, pile; and Retaining wall
+design.
+Laboratory Session:  Pit Sampling and Auge boring;
+Standard penetration test; Static Cone penetration test
+Dynamic Cone penetration test; Field Permeability; Plate
+load test
+Hydrologic cycle, water budget, world water quantities;
+ENGINEERING                       Precipitation and Abstractions: Forms of  precipitation,
+CE361                                2-0-0-0-6
+HYDROLOGY                     data analysis, rain-gauge networks; Infiltration - process,
+infiltration indices and Horton’s equation; Evaporation
+
+[PAGE 9]
+and  Evapotranspiration – Pan  evaporation,  empirical
+equations     for     estimating    evaporation    and
+evapotranspiration;     Transpiration;    Crop    water
+requirements; Runoff and Hydrographs: Rainfall runoff
+relations, time area concept, flow duration curve, mass
+curve,  flow  hydrograph,  Unit  Hydrograph  (UH),   its
+analysis,  S-curve  hydrograph;  Floods  and  Routing:
+Concepts  of  return  period,  flood frequency  analysis,
+Gumbel’s distribution, Rational method, risk,  reliability,
+and   safety   factor;   Hydrologic   storage   routing;
+Groundwater   Hydrology:  Types   of   aquifers  and
+properties,  Darcy’s  law,  Well  hydraulics,   Irrigation
+methods
+Introduction; Dimensional Analysis; Flow through closed
+conduits: Laminar flow, Turbulent flow, Pipes in Series
+and Parallel, Pipe Networks, Unsteady flow, Design of
+water distribution network; Flow through open channels:
+ENGINEERING
+CE362                                2-1-0-0-8    Uniform flow, Critical flow, Gradually Varied flow, Rapidly
+HYDRAULICS
+Varied flow, Channel Transitions, Spatially Varied flow,
+Unsteady flow, Analysis and design of rigid boundary
+and  mobile boundary  channels; Flow Measurement:
+Pressure, Velocity and Discharge measurements.
+Reinforced concrete (RC) structures, Loadings, analytical
+models for analysis and design of RC structures, Design
+Methodologies: Working Stress Method and Limit State
+Method;  Behavior  of RC  members  under  flexure;
+Working stress design for common flexural members;
+Limit  state design  of beams and one-way slabs  for
+DESIGN OF
+flexure;   Singly  and   doubly   reinforced   sections;
+REINFORCED
+CE371                                3-0-0-0-9    Rectangular and flanged sections; Shear and torsion;
+CONCRETE
+Bond  and  anchorage;  Short  columns  under  axial
+STRUCTURES
+compression, Short columns under axial compression
+with  uni-axial  bending,  Short  columns  under  axial
+compression  with  bi-axial bending; Slender columns;
+Deflection computation for RC beams, Creep strain; Limit
+state design of two-way slabs, Yield line theory; Types of
+footings; design of isolated / combined footing.
+Introduction to steel structural systems and components;
+Properties  of  structural  steel,  Hot  rolled  sections;
+Analysis and  design  methods;  Design  philosophies:
+Working stress design, Ultimate load  (plastic) design,
+and Limit states design; Partial safety factors and load
+combinations; Design of tension members based on net
+section including shear lag effects, staggered holes and
+block shear; Design of Bolts and Welds, Strength under
+DESIGN OF STEEL
+CE372                                3-0-0-0-9    combined  stresses,  Prying  action, Common  simple
+STRUCTURES
+connections;  Design  of  compression  members  for
+flexural and flexural-torsional buckling, Column formula,
+Buckling class, End restraints and effective length factor;
+Role  of  plate  buckling;  Strength  of  compression
+members as affected by local buckling; Classification of
+sections:   plastic,  compact,  semi-compact,  slender;
+Plastic  hinge; Design  strength  of  laterally supported
+beams; Shear buckling strength,  post-critical method;
+
+[PAGE 10]
+Shear-moment interaction; Design strength of laterally
+unsupported beams; Lateral torsional buckling; Effect of
+restraints and effective length; Design of plate girders,
+Tension  field method; Effect  of axial load on flexure
+behaviour; Cross-section yielding and member instability,
+P-M  interaction  and moment  amplification;  Bi-axial
+bending;  Plastic  analysis and  design  of  continuous
+beams and rigid frames; Eccentric bolted and welded
+joints and frame connections; Column bases.
+Introduction,   Transportation   engineering   elements,
+Geometric    design,    Traffic    flow   fundamentals,
+INTRODUCTION TO                   Uninterrupted traffic flow, Interrupted traffic flow, Material
+CE381    TRANSPORTATION      3-0-0-0-9    modeling as an input to pavement analysis, Analysis of
+ENGINEERING                    bituminous  pavement  (load  and  thermal  analysis),
+Analysis  of  concrete  pavement  (load  and  thermal
+analysis)
+Introduction, Basics of Optimization, Static assignment
+problems  and  corresponding   solution   techniques,
+TRANSPORTATION
+CE382                                3-0-0-0-9    Combinatorial  network   optimization  problems  and
+SYSTEMS ANALYSIS
+solution  approaches,  Sequential  decisionmaking   in
+infrastructure management, Additional applications
+Introduction; need for water and wastewater treatment,
+associated  environmental  laws,  drinking  water  and
+wastewater  discharge  standards,  water  reuse  and
+recycling concepts; Water Treatment
+Water sources, Water quantity, process description of
+conventional water treatment; design of individual unit
+processes, water  treatment  plant  layout and  related
+issues;  Water   Distribution  Treated  water  storage
+WATER SUPPLY AND
+structures;  Design   of  water   distribution  systems;
+CE412     WASTEWATER       3-0-2-0-11
+Wastewater  Collection  Description  and  design   of
+DISPOSAL SYSTEMS
+wastewater  collection system; Wastewater Treatment
+Quantity and quality of wastewater, process description
+for  conventional  wastewater  treatment;  design   of
+individual  unit processes, wastewater treatment  plant
+layout and  related  issues;  Rural  water  supply and
+sanitation; Water  sources,  treatment and  distribution
+systems; Rural sanitation, surface drains, septic tank,
+onsite sanitation systems etc.
+Introduction:  What   is  GIS?  Applications  of  GIS,
+Examples  of use cases, Components  of GIS,  Brief
+History of GIS, Elements of GIS: Geospatial data, Data
+acquisition,  data  management,  data  display,  data
+exploration and data analysis; Future of GIS. Geospatial
+data; data types: Spatial and non-Spatial, Vector and
+GEOGRAPHICAL
+Raster data types; Elements of raster and vector data
+CE432      INFORMATION        3-0-2-0-11
+types; vector and  raster data models and encoding;
+SYSTEM (GIS)
+advantages and disadvantages of raster data model;
+advantages and disadvantages of vector data model;
+Integration of raster and vector data models in GIS; Geo-
+referencing;   Transformation  models   using  GCPs;
+accuracy  analysis;  Resampling:  Nearest  Neighbour,
+Bilinear, Bicubic; Advantages and Disadvantages of each
+
+[PAGE 11]
+resampling approach; Map to Image registration, Image
+to Image registration. Geospatial data acquisition: raster
+data and vector data acquisition; Metadata; Importing
+data   in  GIS;  Raster  to  vector  data  conversion
+(digitization):   Manual   approach,   Semi-automatic
+approach, Automatic approach,  Errors  in  digitization:
+Topological errors; rasterization of data; Management of
+attribute data. Coordinate reference systems, Projection
+Systems and  Coordinate  Transformations. Database
+models:    Flat,   Hierarchical,   Network,   Relational,
+Georelational (Shape  file and coverage); Primary and
+Foreign  Key;  Database  Normalization  and   rules;
+Relationships in database: One to one, one to many,
+many to one, many to many; Joins and Relates; Hybrid
+Data model (Geodatabase); SQL: Language structure,
+queries  by  attribute,  queries by  geography.  Spatial
+interpolation:   multi-linear  regression,  density  map,
+Delaunay Triangulation and Theissen polygons, Kriging.
+Vector data operations: Buffering and Overlay, Raster
+data    operations:    Display,    Local    operations,
+Reclassification,  Overlay,  Neighbourhood  operations,
+Zonal operations, Global operations. Least cost path
+analysis, Network analysis, Viewshed and Watershed
+analysis, Geocoding.
+Stakeholders in construction projects – client, consultant,
+contractor, financial institutions, regulators, Private Public
+Partnership,   Environmental   Impact   Assessment;
+Planning and  scheduling (CPM & PERT),  resource
+levelling, crashing; Construction process and life cycle of
+a  project  –  concept,  technical  feasibility,  planning,
+qualification of bidders, award of contract, procurement
+CONSTRUCTION          3-0-0-0-5
+CE441M                                                    (of equipment, etc.), execution, maintenance, monitoring
+MANAGEMENT
+of progress; Contract management – types of contracts,
+contract process, dispute management and arbitration,
+labour laws, Federation Internationale des Ingenieurs
+Counseils   (International  Federation   of   Consulting
+Engineers, FIDIC); provisions for safety and quality in
+contracts;  Construction economics and  finance,  cost
+estimation (clients and contractor versions), depreciation
+Earth and Earth retaining structures: flexible and rigid
+retaining wall, gravity, cantilever, counter fort, reinforced
+earth etc., design and check for stability. Introduction to
+APPLICATION OF                  ground improvement techniques: methods for difficult or
+CE451     GEOTECHNICAL       3-0-0-2-11    problematic  ground  conditions  for  soft  clays,  loose
+ENGINEERING                    sands, expansive or collapsible soils  etc., preloading,
+vertical drains, stone columns, heavy tamping, grouting
+etc., Machine foundation and design. Special topic: (Well
+foundation/Soil nailing/Sheet pile)
+Synthetic design storms & Estimation of peak discharge,
+Urban storm drainage design, Culvert design, Detention
+HYDRAULIC AND
+storage design, Watershed modeling, Flood frequency
+CE462      HYDROLOGIC        2-1.5-0-0-9
+analysis and hydrologic design under uncertainty; Design
+DESIGN
+of  canal  headworks,  distribution  works, and  cross-
+drainage works, Design of gravity dams, spillways, and
+
+[PAGE 12]
+energy dissipators.
+Any two of the three modules listed below will be taught
+in any semester:
+Module 1: Traffic Design: Introduction, freeway and toll
+booths,  intersections/interchanges, signs and  lighting,
+arterials/ weaving section, congestion mitigation.
+TRANSPORTATION
+CE481                               3-0-0-2-11   Module  2:  Pavement  Design:  Introduction,  design
+FACILITIES DESIGN
+parameters, bituminous pavement, concrete pavement,
+composite pavement.
+Module  3:  Geometric  Design:  Introduction,  design
+controls and  criteria, freeway design,  arterial/collector
+design, atgrade intersections, terminals.
+UNDER GRADUATE
+CE491                                0-0-0-0-9
+RESEARCH -II              UNDER GRADUATE RESEARCH II
+UNDER GRADUATE
+CE492                                0-0-0-0-9
+RESEARCH -III              UNDER GRADUATE RESEARCH III
+UNDER GRADUATE
+CE493                                0-0-0-0-9
+RESEARCH -IV              UNDER GRADUATE RESEARCH III
+Linear  Differential  Equations:  Homogeneous  Linear
+Equations    of   Second   Order;   Second   Order
+Homogeneous  Equations  with  Constant  Coefficients;
+Case of Complex Roots, Complex Exponential Function;
+Nonhomogeneous Equations; Solution by Undetermined
+Coefficients; Solution by Variation of Parameters Fourier
+Integrals and  Transforms:  Fourier  Integrals;  Fourier
+Cosine  and  Sine  Transforms;  Fourier  Transform
+andProperties;   Dirac   Delta   Function;   Convolution
+Theorem;  Parseval’s  Theorem;  Fourier  integral  to
+MATHEMATICS FOR
+CE603                                1.5-0-0-0-5   Laplace transform  Partial Deerential Equations: Basic
+CIVIL ENGINEERS
+Concepts; Modeling: Vibrating String, Wave Equation;
+Separation of Variables,Use of Fourier Series; Modeling:
+Membrane,  Two   Dimensional  Wave   Equation;
+Rectangular   Membrane,   Use   ofDouble   Fourier
+SeriesLinear  Algebra:  Rank   of  a   Matrix,  Linear
+Independence,  Vector  Space;  Solutions  of  Linear
+Systems: Existence,Uniqueness, General Form; Vector
+Spaces, Inner Product Spaces, Linear Transformations;
+Eigenvalues,Eigenvectors; Similarity of Matrices, Basis
+of Eigenvectors, Diagonalization
+Introduction; Floating Point operations, Round-off and
+truncation errors, Error Propagation; Solution of Linear
+System of equations: Gauss Elimination, Matrix Inversion
+by Gauss  Jordon, Thomas  Algorithm,  Gauss-Siedel
+iteration, pivoting, equilibration, Ill-Conditioning; Solution
+of  non-linear  equation:  Newton-Raphson,  Bairstow
+NUMERICAL
+method for polynomials, non-linear system of equations;
+CE604   METHODS FOR CIVIL    1.5-0-0-0-5
+Eigenvalues: maximum and minimum  eigenvalue by
+ENGINEERS
+Power and Inverse Power Method; All eigenvalues by
+Fadeev-Leverrier method; Introduction to diagonalization
+and     QRFactorization;    Approximation    Theory:
+Interpolation by Newton’s and Lagrange polynomials;
+Method  of  Least  Squares;  Numerical  Differentiation:
+Finite  difference  formulae; Richadson’s  extrapolation;
+
+[PAGE 13]
+Numerical    Integration:   Newton-Coates   formulae;
+Romberg   integration;   introduction   to   quadrature
+schemes; Ordinary Differential Equations (ODEs): Euler
+Methods; Trapezoidal methods; Runge-Kutta methods;
+application to system of ODEs and higher order ODEs;
+concepts  of  consistency;  stability and  convergence;
+Solution of boundary value problems by shooting method
+and   finite   difference  method;   Partial   Differential
+Equations (PDEs): finite difference methods for Laplace
+equation;  partial  and  direct  discretization  schemes;
+CrankNicholson method for parabolic equation; upwind
+scheme for first order wave equation; direct discretization
+and  time lumping schemes  for second  order wave
+equation.
+Review   of   Basic  Concepts   of   Probability  and
+Distributions;  Review  of  Estimation  and  Hypothesis
+Testing;   Properties   of  good   estimates,   Interval
+estimation, Maximum likelihood estimates, Sample size
+determination, Basic format of hypothesis testing, Type I
+and Type  II errors, One and two tailed tests, Tests on
+mean  and  variance  from  samples  under  different
+assumptions  and  knowledge   of   the   underlying
+distribution;  Regression   Analysis  and  Hypothesis
+Testing; OLS  estimates;  Assumptions and  proof  of
+PROBABILITY AND               BLUE; Detection, effect, and remedy of multi-colinearity;
+1.5-0-0-0-5
+CE605      STATISTICS FOR                     Detection,  effect, and remedy  of  heteroskedasticity;
+CIVIL ENGINEERS                    Detection,  effect, and remedy of autocorrelation; Mis-
+specification  errors  and  regression  model  building;
+Hypothesis testing on OLS estimates; GLS; Comparison
+of  regression  model;  Use  of dummy  independent
+variables;  Robust  regression  and  effect  of  outliers
+Miscellaneous Topics; Fitting theoretical distributions to
+observed frequency distributions and Tests of goodness-
+of-fit   (chi-square   test,  Kolmogorov-Smirnov   test);
+Identification of outliers; Simultaneous equation models;
+Regression with discrete dependent variables; Practical
+applications with (civil) engineering data.
+Introduction   to  the  course  and    its  importance.
+Optimization  methods:  problem  formulation,  solution
+OPTIMIZATION                    techniques  for  linear  and  integer  problems  (both
+CE606M   METHODS FOR CIVIL     3-0-0-0-5    unconstrained  and  constrained),  sensitivity  analysis.
+ENGINEERS                         Brief introduction to nonlinear problems. Introduction to
+nontraditional optimization methods. Case studies from
+Civil Engineering.
+Hydrologic  cycle, systems concept, hydrologic model
+classification; Reynold’s Transport Theorem, continuity,
+momentum,  and   energy   equations;   Atmospheric
+hydrology:atmospheric circulation, water vapor, formation
+ADVANCED                   and forms of precipitation, precipitable water, monsoon
+CE610                                3-0-0-0-9
+HYDROLOGY                        characteristics in India, Thunderstorm Cell model, IDF
+relationships;  factors  affecting evaporation, estimation
+and  measurement  of  evaporation,  energy  balance
+method,aerodynamic method, Priestley Taylor method,
+and pan evaporation; Surface Water:Catchment storage
+
+[PAGE 14]
+concept,  Hortonian  and  saturation  overland   flow,
+streamflow  hydrographs,baseflow  separation,  index,
+ERH & DRH, algorithm for abstraction using Green Ampt
+equation, SCS  method,  overland and  channel  flow
+modeling, time area concepts, and stream networks; Unit
+Hydrograph: General hydrologic system model, response
+functions  of  a  linearhydrologic  systems  and  their
+interrelationships, convolution equation;  definition and
+limitations  of a UH; UH  derivation from  single and
+complex  storms; UH  optimization  using  regression,
+matrix, and LP methods;  Synthetic  unit hydrograph,
+SCurve, IUH; Subsurface Water: Soil moisture, porosity,
+saturated    and    unsaturated     flow;    Richards;
+equation,infiltration, Horton’s, Philip’s, and Green Ampt
+methods, parameter estimation, ponding timeconcepts;
+Groundwater  Hydrology: Occurrence  of  groundwater,
+aquifers &  their  properties,Darcy’s  law,  permeability,
+transmissibility,   stratification,   confined  groundwater
+flow,unconfined   groundwater   flow   under   Dupit’s
+assumptions; Well hydraulics, steady flow intoconfined
+and  unconfined  wells; Unsteady  flow  in a  confined
+aquifer.
+Basics: dimensional  analysis, equations  of  continuity,
+motion, and energy,  irrotational flow, drag and  lift of
+immersed bodies; Pipe flow: laminar flow, turbulent flow,
+ADVANCED                    boundary layer theory, wall turbulent shear flow, free
+CE611                                3-0-0-0-9
+HYDRAULICS                        turbulent shear flow; Open Channel flow: energy depth
+relationships,  uniform   flow,  gradually  varied   flow,
+hydraulic jump, rapidly varied flow, spatially varied flow
+unsteady flow.
+Verification of momentum equation; Friction loss in pipes;
+Rainfall runoff relationship; Flow over sharp crested weir;
+Flow in pipe networks; Bernoulli theorem; Fall velocity of
+FLUID MECHANICS                    objects; Point velocity measurement by ADV; Reynolds
+CE612                                2-0-3-0-9
+LABORATORY                     apparatus; Venturimeter and orifice meter; Energy loss in
+bends; Ground waterflow/  well  abstraction; Hydrogen
+bubble flow  visualization; Hydraulic jump; Flowpast a
+cylinder
+Basic:  Introduction  to  computer  programming  and
+computation with Matlab. (02 lectures) Open channel
+flow: Estimation of normal and critical depth; uniform flow
+computations; computation ofwater surface profile (WSP)
+gradually varied flow estimation using standard step and
+direct  stepmethods, WSP  in  presence  of  hydraulic
+COMPUTATIONAL                     structures;   unsteady   flow   SaintVenant   equation,
+METHODS IN                      kinematic wave routing, diffusion routing, overland flow;
+CE613                                2-0-3-0-9
+HYDRAULICS AND                  steady and unsteady modelling using HECRAS. (07
+HYDROLOGY                        lectures) Closed conduit flow: Steady and unsteady state
+modelling;   pipe   network    analysis;    introduction
+toEPANET/WaterCAD.  (05  lectures)  Surface  water
+hydrology: Estimation of Unit hydrographs; lumped and
+distributed flow routing; hydrologic statistics parameter
+estimation,  time  series  analysis,  frequency  analysis,
+geostatistics; hydrologic modelling using HECHMS. (05
+
+[PAGE 15]
+lectures) Groundwater hydrology: Solving groundwater
+flow equation saturated and unsaturated flow, Richard’s
+equation, GreenAmpt  infiltration model; introduction to
+MODFLOW. (05 lectures) Application of soft computing
+methods and GIS in Hydraulic and Hydrologic modelling.
+(03 lectures) Laboratory: Programming exercises for the
+related topics. (I 0 lab classes)
+Statistical methods in hydrology, probability distribution
+of hydrologic variables, hypothesis testing and goodness
+of   fit,  flood  frequency  analysis,  single and  multiple
+regression   analysis,   classification   of  time   series,
+characteristics  of  hydrologic  time  series,  statistical
+STOCHASTIC
+CE614                                3-0-0-0-9     principles and  techniques  for  hydrologic  time  series
+HYDROLOGY
+modelling, time series modelling of annual and periodic
+hydrologic time series (including AR, ARMA, ARIMA, and
+DARMA models), multivariate modelling  of hydrologic
+time  series,  practical  considerations  in  time  series
+modelling applications.
+Expert Systems (ES): history of ES, basic concepts of
+ES, definition and components of ES, inference engines
+and  reasoning mechanisms  e.g.  forward  reasoning,
+backward reasoning, and mixed reasoning, knowledge
+representation methods and development  of the  rule
+based knowledge base, dealing with uncertainty, and
+selected case studies of ES applications to engineering
+and  sciences;   Artificial  Neural  Networks  (ANNs):
+background and history of ANNs, definitions and basic
+concepts  of  ANNs,  biological  and   artificial  neural
+INTRODUCTION AI
+CE615                                            networks,   feedforward   and   feedback   networks,
+TECHNIQUES         3-0-0-0-9
+supervised and unsupervised learning methodsstandard
+backpropagation  (BP),  conjugate  gradients  BP,  self
+organizing networks, etc., development of ANN models
+for specific problems and selected case studies; Genetic
+Algorithms   (GAs):   fundamentals  and   preliminary
+concepts   of  evolution  and  GA,   preliminaries   of
+optimization, genetic operatorsselection, crossover, and
+mutation, binary and realcoded GAs, constraint handling
+in  GAs,  and  selected  case  studies  involving GA
+applications to engineering.
+Properties  of  sediment,  incipient  motion, bed  load,
+suspended  load,  totalload,  sediment  measurements,
+SEDIMENT                     regime concept, bed form mechanics,  plan formand
+CE616                                3-0-0-0-9
+TRANSPORTATION                 stream bed variations of rivers, reservoir sedimentation,
+erosion  and  deposition,  sediment  control,  sediment
+transport in pipes.
+Review of Governing Equations: Definition of Variables,
+Phase  Equations, Component  Equations,  Initial and
+ADVANCED                    Boundary Conditions, constitutive relationships. Review
+MODELING OF                        of Numerical Methods: Finite Difference Methods, Finite
+CE617                                3-0-0-0-9
+SUBSURFACE FLOW                Element Methods, Other Relevant Methods. Simulation
+AND TRANSPORT                      of  Groundwater  Flow:  Finite  Difference  and  Finite
+Element  Formulations.  Simulation   of  Contaminant
+Transport: Finite Difference and Finite Element methods,
+
+[PAGE 16]
+Improved   Eulerian   Methods,    Fourier    analysis,
+Characteristic Methods. Simulation of Multiphase Flow
+and transport with emphasis on unsaturated flow and
+Transport;   Introduction   to   existing  packages   for
+simulation of subsurface flow and transport The course
+will involve two major modeling and simulation projects,
+one  for flow and other  for combination  of  flow and
+transport. The students will have to make presentations
+of their results.
+The Soil System: Physical properties of soil; soil water
+potentials,  soil water  characteristic curves and pedo-
+transfer functions; spatial variability of soils and scaling
+issues; Water Flow in Soils: Bernoulli's, Poiseuille's and
+Darcy’s Laws; unsaturated hydraulic conductivity models;
+Richards equation and its alternate forms; Solutions of
+Richards   equation:   Analytical,   approximate   and
+numerical  solutions  of Richards equation,  stability  of
+VADOSE ZONE
+CE618                                3-0-0-0-9    numerical  schemes,   numerical   dispersion,   multi-
+HYDROLOGY
+dimensional water flow: spherical and cylindrical sources;
+introduction    to   Hydrus   software    for    solving
+multidimensional  flow  problems;  Solute  Transport  in
+Soils:  Solute  concentrations;  transport  mechanisms;
+transfer  functions  and  stream-tube  models;  mobile-
+immobile systems; Heat Transport in Soils: Soil thermal
+properties;  Fourier’s  law; steady and unsteady  state
+transport equations and boundary conditions
+Introduction:  Origin and scope  of  ecohydrology. (03
+Lectures)   Ecohydrological   processes:   Interactions
+between physical, chemical and biological processesat
+basin scale  soil water dynamics, land surface energy
+budgets;   scales   of   interactions;   ecohydrological
+optimality theory; ecohydrological controls on  nutrient
+cycle; Landscapeconnectivity morphological, ecological
+and hydrological connections. (12 Lectures) Techniques
+in  ecohydrological measurements: Measuring energy
+and water fluxes  in atmosphere,  soil and vegetation;
+atmosphere latent, sensible and C02 fluxes, distribution
+ofwind, temperature and humidity; soil soil moisture, soil
+CE619     ECOHYDROLOGY       3-0-0-0-9
+respiration and soil heat flux; vegetation leaf area index,
+stomatal conductance and transpiration. (08 Lectures)
+Ecohydrological   modelling:   Governing   equations;
+mathematical  models  stochastic  and   deterministic
+models; process based and empirical models; calibration
+and validation ofmodels; scale issues in ecohydrological
+modelling. (10 Lectures) Applications of ecohydrology:
+Use of ecohydrogical principles in paleohydrology and
+climatechange  studies;  ecohydrological  approach  for
+sustainable management of floods anddroughts; case
+studies  from   tropical   river  basins  and  dry  land
+ecosystems. (08 Lectures)
+Loading: nature of dynamic loading, harmonic, random,
+STRUCTURAL                     types  of dynamic  loading; Continuous systems: rods
+CE620                                3-0-0-0-9
+DYNAMICS                           (axial vibrations), beams (shear, axial and axial shear
+flexural vibrations); Discrete mass systems: SDOF (free
+
+[PAGE 17]
+and forced vibrations), MDOF (generalized coordinates,
+eigenvalue  analysis,  matrix and modal  time  history
+analysis); Introduction  of random  vibration: stochastic
+processes,  stochastic  analysis  of  linear  dynamical
+systems to Gaussian inputs, SDOF, MDOF.
+Stress analysis: forces and moments, theory of stress,
+principal  stresses  andstress  invariants,  compatibility
+equations, equilibrium equations; Strain:deformation and
+velocity gradients, Lagrangian and Eulerian description
+andfinite  strain,  small  deformation  theory,  principal
+strains  and  strain  invariants,compatibility  conditions;
+ENGINEERING                   Fundamental   physical   principles:   conservation   of
+CE621
+MECHANICS         3-0-0-0-9    mass,linear  momentum,  angular  momentum,  and
+energy,  second  law  of  thermodynamics;Constitutive
+theory:  St.  Venants  principal,  linear  elasticity  and
+generalized Hooks law, Stokesian and Newtonian fluids,
+NavierStokes  equations,   Bernoulli  equation,   linear
+viscoelasticity,  yield  criteria;  Applications:  Airy  stress
+function,two dimensional elastostatics problems, torsion.
+Criteria for design of structures: stability, strength, and
+stiffness;  Classical  concept  of  stability;  Stability  of
+discrete systems: linear and nonlinear behaviour;Stability
+of continuous systems: stability of columns: axialflexural
+buckling,lateral  bracing  of  columns,  combined  axial
+STABILITY OF                         flexural  torsion  buckling;  Stabilityof  frames: member
+CE622                                3-0-0-0-9
+STRUCTURES                      buckling versus global  buckling, slenderness  ratio  of
+frame  members;   Stability  of  beams:  lateraltorsion
+buckling; Stability of plates: axial flexural buckling, shear
+flexural    buckling,    buckling    under    combined
+loads;Introduction  to  inelastic  buckling and dynamic
+stability.
+Similitude and Structural Models: Dimensional analysis,
+Buckingham’s Pi theorem, Scale factors and dynamic
+similitude; Uses and Applications of Models: Types of
+model investigation, Indirect and direct models, Elastic
+and Inelastic Models (steel, concrete and masonry), size
+effects  Analysis  of  Experimental  Data:  Error  and
+uncertainty   in  experiment,  Measurement  systems,
+Accuracy  in  models  and   reliability  of  results.Test
+Planning, Design and Implementation: Testing sequence
+and  experimental  plan,  Loading  systems,  devices,
+EXPERIMENTAL
+actuators   and    their   control,   etc.Instrumentation:
+METHODS IN
+CE623                                2-0-3-0-9    Mechanical,  electrical,  electronic  system  and  their
+STRUCTURL
+calibration, various types of sensors for displacement,
+ENGINEERING
+velocity,  acceleration,  pressure,  loads,  strains,  etc,
+fullfield measurements, Data  Acquisition System and
+Data Processing: Analog systems, digital systems using
+personal computers, dynamic measurement, numerical
+and  graphical  data  processing  and  archiving  Lab
+Exercises: Experiments to illustrate buckling of structural
+members;  load  deformation  behaviour   of  beams,
+columns, joints, and fiames under various loads; mode
+shapes, natural frequency, damping factors fiom free and
+forced vibrations, shake table tests, etc.
+
+[PAGE 18]
+Introduction to nonlinear structural analysis; Overview,
+Sources of nonlinearities, types of structural analysis (1st
+order elastic, 1st order inelastic, 2nd order elastic, and
+2nd order inelastic), overview of solution strategies for
+nonlinear   structures;   Principles   of   computational
+plasticity; overview, yield criterion, flow rule, hardening
+rule, loading/unloading criterion. Some commonly used
+uniaxial  material  models;   elastic  material,   elastic-
+perfectly  plastic  material,  bilinear  steel  material  with
+kinematic and  isotropic  hardening, Ramberg-Osgood
+steel material model, Giuffre-Menegotto-Pinto model with
+isotropic  strain  hardening,  Kent-Scott-Park  concrete
+material model, Visco-elastic material model, Bouc-Wen
+model;  Member   section   analysis;   fiber   section
+discretization;   moment-curvature   response;   force-
+deformation response; Material nonlinear beam-column
+NONLINEAR
+element formulation; lumpedplasticity models (beam with
+CE624      STRUCTURAL         3-0-0-0-9
+hinges  formulation),  distributed  nonlinearity  models;
+ANALYSIS
+displacement-based  nonlinear beam-column  element;
+force-based    nonlinear    beam-column    element.
+Geometrically nonlinear analysis; simplified 2nd order P-
+Δ analysis, co-rotational formulations of truss and beam
+elements.  Solution strategies for nonlinear system of
+equations;  incremental  single-step  methods;  Euler
+method,    second-order    Runge-Kutta    methods,
+incremental-iterative methods, load control, displacement
+control,  work  control,  arc-length  control;  Nonlinear
+structural dynamic analysis; semi-discrete equations, of
+motion, explicit time integration, implicit time integration,
+dissipative integration algorithms, stability and accuracy.
+Application   to   hybrid   simulation;   overview,  sub-
+structuring in hybrid simulation; application to modeling
+analytical  substructures,  solution  of  time  discretized
+equations of motion.
+Properties  of  constituents:  units burnt  clay, concrete
+blocks, mortar, grout,reinforcement; Masonry bonds and
+properties: patterns, shrinkage,  differential movement,
+masonry properties compression strength  ; Stresses in
+masonrywalls: vertical loads, vertical loads and moments
+eccentricity  &  kern  distance,lateral  loads  inplane,
+outofplane; Behaviour of masonry walls and piers:axial
+and  flexure,  axial  shear and  flexure,  Behaviour  of
+MASONARY                   Masonry   Buildings:unreinforced  masonry   buildings
+CE625
+STRUCTURES        3-0-0-0-9    importance of bands and corner & verticalreinforcement,
+reinforced masonry buildings cyclic loading & ductility of
+masonry  walls;  Behaviour  of masonry  infills  in RC
+frames:  strut  action; Structural design  of masonry  in
+buildings: methods of design WSD, USD, seismic design
+seismic loads, code provisions,  infills, connectors, ties;
+Seismic  evaluation  and  strengthening  of  masonry
+buildings:  methods   insitu,   non-destructive   testing;
+Construction practices and new materials.
+BRIDGE                          Introduction  to  Bridge  Engineering: Components on
+CE626                                3-0-0-0-9
+ENGINEERING AND                   bridge  structures, Planning  of bridges  (traffic, hydro-
+
+[PAGE 19]
+DESIGN                           technical,     geotechnical,     environmental    and
+constructability/economic   feasibility   studies),  Bridge
+types  and   selection    criteria,   Geometric   design
+considerations, Aesthetics, Bearings, Piers, Abutment,
+and Introduction to IRC/IRS bridge design codes; Bridge
+Loads and Design Methods: Highway bridge loads as per
+IRC codes, Load  combinations, Design  philosophies
+(ASD/LSD)  for  various  bridge  types;  Bridge  Deck
+Analysis: Simplified deck analysis and load distribution
+methods  (Pigeaud, Courbon,  Morrice-Little methods),
+Influence functions and girder line analysis, and refined
+analysis  using  grillage and FEM;  Culverts: General
+considerations, hydraulic and structural design; Concrete
+Bridge Design: Behavior and design of RC and pre-
+stressed concrete (PSC) flexural members, Solid slab
+and T-beam, box section and girder bridges; Steel &
+Composite Bridge Design: Behavior and design of steel
+flexural members,  steel  plate  girder and  composite
+bridges; Substructure Design Subsurface investigation
+and design considerations for bridge foundation types,
+design of bridge piers, pile cap, and abutments
+Properties of  steel: mechanical properties, hysteresis,
+ductility;   HotRolled   Sections:   compactness   and
+noncompactness, slenderness, residual stresses; Design
+of steel structures: inelastic bending curvature, plastic
+moments, design criteria stability, strength, drift; Stability
+criteria: stability of beams local buckling of compression
+flange & web,  lateral  torsional  buckling,  stability  of
+ADVANCED DESIGN
+columns slenderness ratio of columns, local buckling of
+CE627       OF STEEL           3-0-0-0-9
+flanges and web, bracing of column about weak axis,
+STRUCTURES
+method of design allowable stress design, plastic design,
+load and  resistance  factor  design;  Strength  Criteria:
+beams   flexure,  shear,   torsion,  columns  moment
+magnification  factor,  effective  length,PM  interaction,
+biaxial bending, joint panel zones; Drift criteria: P effect,
+deformation based design; Connections: types welded,
+bolted, location beamcolumn,column foundation, splices.
+Concrete and the environment: interaction; Overview of
+concrete    deterioration:    alkali-aggregate    reaction,
+corrosion, carbonation; Permeability of concrete and its
+measurement:  penetration   of  carbon  dioxide  and
+chlorides into concrete, corrosion of steel in concrete
+DURABILITY OF                     electrochemistry  of  corrosion,  micro  and  macrocell
+CE628       CONCRETE          3-0-0-0-9     corrosion, corrosion cells and currents, role of concrete,
+STRUCTURES                     prevention of corrosion; Corrosion induced longitudinal
+cracks: nature and  properties  of  corrosion  products;
+Alkali aggregate reaction: reactive minerals, mechanism
+of deterioration, identification and tests; Codal provisions
+for durability; Nondestructive testing; repair/rehabilitation
+of structures.
+EARTHQUAKE                       Characteristics of earthquakes; Earthquake response of
+ANALYSIS AND                       structures; Concept of earthquake resistant design; Code
+CE629
+DESIGN OF          3-0-0-0-9    provisions of design of buildings; Design of liquid storage
+STRUCTURES                      tanks; Liquefaction; Nonengineered construction; Special
+
+[PAGE 20]
+topics: bridges, dams, strengthening of existing buildings.
+Physical properties and classification of intact rock and
+rock masses, rock exploration, engineering properties of
+CE630    ROCK MECHANICS      3-0-0-0-9     rock, stresses in rock near underground openings; Rock
+tunneling, rock slope stability, bolting, blasting, grouting
+and rock foundation design.
+Soil composition and soil structure, Steady State flow, 2D
+and 3D seepage, Transient flow; Compressibility and
+ADVANCED
+Rate of consolidation, One, two, and three-dimensional
+CE631     GEOTECHNICAL       3-0-0-0-9
+consolidation theories; Shear strength and stress strain
+ENGINEERING
+relationships of soils; Stability of slopes, Arching-effects,
+Buried Structures.
+Settlement  and  bearing  capacity;  shallow  spread
+FOUNDATION                        footings,  mats,  and  deep  foundations.  Foundation
+CE632      ANALYSIS AND        3-0-0-0-9    models, contact pressure distribution for footings, Rafts,
+DESIGN                            Piles,  Retaining  Structures;  Soil  structure  interaction
+studies; Case studies.
+Reinforcing materials, Advantage of RE, behaviour of
+Reinforced earth  walls,  Soil reinforcement  interaction
+internal and external stability condition, field application
+REINFORCED EARTH
+CE633                                3-0-0-0-9     of RE. Randomly  reinforced  earth and  analysis  of
+STRUCTURES
+reinforced    soils,   testing   of    soil   reinforcements
+Development,  fabrication, design, and applications  of
+geotextiles, geogrids, geonets, and geomembranes.
+Engineering properties of soft, weak and compressible
+deposits,  principles  of  treatment  loading  (static and
+GROUND                      Dynamic), Accelerated  flow, Reinforcement, Drainage
+CE634      IMPROVEMENT        3-0-0-0-9    and fillers, Injections, Thermal, electrical and Chemical
+TECHNIQUES                  Methods  Preloading, Dynamic  Consolidation,  Vertical
+drains,  Granular  piles,  soil  nailing,  Anchors, Design
+Methods and Case histories.
+Dynamics of elastic systems; Single and multi-degrees of
+freedom   systems;   Empirical   and   semiempirical
+FOUNDATION                   approaches  to  the  theory  of  soil  dynamics;  Elastic
+CE635                                3-0-0-0-9
+DYNAMICS                        theories of soil dynamics; Wave propagation; Dynamic
+soil properties; Design of machine foundations; Vibration
+isolation; Pile dynamics.
+Introduction; Seismic Hazards:  Mitigation  of Seismic
+Hazards, seismology and earthquakes, strong ground
+motion, seismic hazard analysis; Wave propagation in
+GEOTECHNICAL                 unbounded media: in semi-infinite bodies, in layered soils
+CE636      EARTHQUAKE        3-0-0-0-9    and attenuation of stress waves; Dynamic soil properties;
+ENGINEERING                  Ground response analysis; Effect of local site conditions
+on  the  ground  motion;  Liquefaction:  evaluation  of
+liquefaction  hazards,  effects  of  liquefaction;  Case
+studies.
+Role of constitutive modeling; Importance of laboratory
+CONSTITUTIVE                       testing with relation to constitutive modeling; Elasticity:
+MODELING OF                          linear, quasi linear, anisotropic; Plasticity basics: yield
+CE637                                3-0-0-0-9
+FRICTIONAL                             criteria, flow rule, plastic potential, hardening/softening;
+MATERIALS                    Rate Independent Plasticity: Mohr Coulomb, nonlinear
+failure criteria, Drucker Prager, and cap models; Critical
+
+[PAGE 21]
+state  soil mechanics:  critical state concept, cam clay
+models, simulation of single element test using cam clay,
+consolidation drained and undrained triaxial test; Stress
+dilatancy  theory;  Work  hardening  plasticity  theory:
+formulation  and   implementation;   Applications   of
+elastoplastic  models;  Special  Topics:  hypoelasticity
+plasticity, disturbed state concept
+GEOTECHNICAL                   Subsurface exploration planning;  drilling and sampling
+CE638     MEASUREMENTS       2-0-3-0-9    techniques,  field and laboratory  tests, instrumentation
+AND EXPLORATIONS               and monitoring of field data, report preparation
+Finite  difference,  finite element and  other  analytical
+ANALYTICAL AND                 methods of solution to (i) Elasticity and stability problems
+NUMERICAL                           in Geomechanics, (ii) Analysis of response of soil media
+CE639
+METHODS IN         3-0-0-0-9     to  applied  loads,    (iii)  Limiting  equilibrium,  Failure
+GEOMECHANICS                      theories, Method of characteristics,  (iv) Limit analysis,
+etc.
+Basic discussion of concepts of infrastructure assets and
+their management, performance of infrastructure assets,
+stakeholders involved, along with factors affecting the
+demand and supply of public works services; relating
+infrastructure and economic development; Strategies for
+financing  public  works;  performance  indicators  and
+measures; Framework  for Infrastructure Management:
+Design for reliability, maintainability, supportability, and
+INFRASTRUCTURE
+service   life;  Inventory  and  database  management;
+CE640         ASSET            2-0-0-0-6
+Condition  assessment;  Performance  modelling  and
+MANAGEMENT
+failure analysis; Maintenance strategies, Life-cycle cost
+and benefits analysis; Introduction to the basic policies
+and  initiatives  of  the  Government  in  the  area  of
+infrastructure   asset   creation   and   management
+(JNNURM, Smart  cities,  etc.); Case studies including
+Bridge Management Systems, Pavement Management
+System,  Pipeline  management,  Hydro-system  Asset
+Management
+Fundamentals:  Overview   of   project  management,
+project, stakeholders, role of project manager, stages in
+planning a project, developing an objective or goal for the
+project,   project   risk   plan,  work  breakdown   or
+organizational   structure,   scheduling   project  work,
+workable  schedule,  project  control  and  evaluation,
+PROJECT
+CE641M                               3-0-0-0-5    managing the project team
+MANAGEMENT
+Project Management: Scope Management, Integration
+Management, Time Management, Cost Management,
+Quality Management, Human resource Management,
+Communication   Management,   Risk   and   safety
+Management, Procurement Management, Stakeholders
+Management
+Effect of chemical admixtures on properties of mortars,
+LABORATORY
+(i)  Water  reducers;    (ii)  Air-entraining  agents,    (iii)
+COURSE IN
+Accelerators or retarders; Properties of freshly mixed
+CE642    INFRASTRUCTURE
+3-0-0-0-9    concrete,  (i) Slump;  (ii) Bleeding potential;  (iii) Initial &
+ENGINEERING AND
+final setting time; (iv) Air content; (v) Temperature and
+MANAGEMENT
+density;   Properties   of   hardened   concrete,     (i)
+
+[PAGE 22]
+Compressive strength; (ii) Toughness; (iii) Rapid chloride
+ion permeability; Non-destructive  testing,  (i) Rebound
+hammer;   (ii)  Ultra-sonic  pulse  velocity;   (iii) Ground
+penetrating radar; (iv) Electrical Resistivity; (v) Others;
+Bitumen characterization tests like softening point, flash
+point,  float  test,  ductility and bituminous mix design;
+Calibration   of   profilograph  and   its  use   in  the
+determination  of roughness index  of road Sub-grade
+improvement   techniques   for   pavements;   Control
+establishment  and  detailed  mapping  using  Global
+Navigation Satellite System (GNSS) receivers and Total
+station  (TS)  [For  the  use   of  GNSS,  TS  and
+corresponding data processing SW for the preparation of
+digital maps]; Development of geospatial database  in
+Geographic Information System (GIS) environment [For
+the use of GIS SW for creation and analysis of geospatial
+database]
+Overview:  Diverse  nature  of  construction  projects,
+definitions,  stakeholders,  specifications,  compliance,
+acceptance,  relating  quality  of materials, components
+and  system,  factors  influencing  quality and  safety,
+contracts,  inspection,  cost  of  quality  and  safety,
+processes and products, archiving records; Concepts of
+quality  control:  Objectives,  definitions,  systems, ISO
+9000 family of standards, third-party certification, QC in
+construction and large projects (aircraft, ship building);
+BASIC QUALITY AND                 Basic construction safety: Hazards, human factors  in
+SAFETY                         construction safety, introduction to occupational health
+CE645                                1.5-0-0-0-5
+MANAGEMENT IN                 and  safety,  problem  areas  in  construction  safety,
+CONSTRUCTION                  elements of an effective safety program, job-site safety
+assessment, safety planning, safety audit; Legal issues
+in quality and safety: Regulatory framework, labour laws,
+compensation;  Safety  engineering:  Training,   audit,
+management    practices,    safety   planning,   PPE,
+construction accidents: nature, causes, investigation and
+reporting accidents; Case studies and examples: Quality
+and  safety  issues  in  steel  construction,  concrete
+construction    (including    pre-cast,    pre-stressed),
+tunnelling, bridges.
+Mineral Admixtures: Mineral Admixtures (Fly ash, silica
+fume and slag) – Production – Physical and chemical
+properties, Classification, Lab tests, Specifications and
+Acceptance  Criteria. Additives: Gypsum, Air-Entrainer,
+Lime and others.
+Performance and prescriptive specifications; Situations
+demanding special performance; Important features in
+ADVANCEMENTS OF
+CE653M                               3-0-0-0-5    the Development of Special Concretes.
+CONCRETES
+Special  Concretes:  Modified  Portland  and  Blended
+Cement  Concretes  (Using  natural,   artificial  and/or
+processed materials as pozzolans), High Strength, Self-
+Compacting,  Fiber  Reinforced  Concretes, Mass and
+Roller  Compacted  Concrete,  Ultra-High-Performance
+Concretes, Geo-Polymer Concretes, etc.
+Special Cements: Concrete containing special cements
+
+[PAGE 23]
+such  as  Calcium  Aluminate  Cements,  Expansive
+Cements, Fast-Setting Cements, etc.
+Special Concreting Methods:  Shotcreting, Underwater
+concreting, Preplaced Aggregate Concrete, Anti-Wash
+Out Concretes, Precast Concrete, others.
+Deterioration   in  Concrete   Structures:  Causes   of
+deterioration,  construction  defects  (formwork-related,
+placement-related, consolidation-related, etc.); materials
+defects  (improper mix  design,  poor  materials,  etc.);
+design  defects;  over-loading;  foundation  problems;
+loading-related failures; fire-damaged concrete; Types of
+cracks and properties, crack depth, crack width, crack
+diagnosis.
+
+Non-destructive   testing  (NDT):  Load   testing  on
+structures,  buildings,  bridges,  and  towers,  rebound
+REPAIR AND                  hammer, acoustic emission, ultrasonic testing principles
+REHABILITATION OF    1.5-0-0-0-5   and application, holography, advanced NDT methods,
+CE648       CONCRETE                         ultrasonic  pulse  echo,  impact  echo,  impulse  radar
+techniques, GECOR, ground penetrating radar (GPR).
+STRUCTURES
+Methods   for  Repair  and   Rehabilitation:  General
+principles  - design  for  rehabilitation,  relieving  loads,
+strengthening  superstructures,  plating,  post-stressing,
+jacketing,  bonded  overlays,  reinforcement  addition,
+strengthening sub-structures, under-pinning, increasing
+the  load  capacity  of   footing,  seismic   retrofitting,
+strengthening of beams, columns, slab, masonry walls,
+protection  methods  of  structures,  mud-jacking  and
+grouting  for foundation,  micro-piling, sub-grade water
+proofing,  soil  stabilization techniques, epoxy  injection,
+repairing of concrete floors and pavements, case studies.
+
+Introduction   to   Concrete:   Historical   background,
+Concrete  –  A  Three-Phase  System,  Importance,
+Sustainability.  Aggregates:  Production,  Physical and
+Chemical   Properties,    Classification,   Lab   Tests,
+Specifications  and  Acceptance   Criteria.  Cement:
+Production,   Physical   and   Chemical    properties,
+Classification, Lab Tastings and Specifications. Cement
+Hydration:  Hydrated compounds  –  Importance  and
+characteristic  features,  Growth and  Models;  Crystal
+pressures, Pores and voids – Importance, types and size
+CONCRETE SCIENCE
+ranges; Degree of hydration – Volume Relationships,
+CE654M   AND ENGINEERING      3-0-0-0-5
+Porosity and  permeability –  Relationship and  Inter-
+PROPERTIES
+relationship  with  strength,  test methods  for  porosity.
+Concrete Mix Design: Mixture proportioning – IS & ACI
+method;  Mix  design  strategies,  Problems,  Concrete
+Production Operations: Concrete production operations –
+Importance  of Curing; Curing Methods. Properties  of
+Freshly   Mixed   Concrete:   Chemical   Admixtures,
+Workability and Rheology, Setting Time,  Air Content,
+Density, Temperature, etc., Test methods and factors
+affecting properties. Properties of Hardened Concrete:
+Compressive  Strength, Modulus  of  Elasticity, Creep,
+
+[PAGE 24]
+Shrinkage (types) and Porosity and Permeability – Test
+methods and factors affecting properties. Case Studies.
+Introduction:  Continuity and momentum equations  in
+cartesian and cylindrical coordinates, Rotating frame of
+reference, Coriolis effects, Basics of buoyancy driven
+flows, Mixing and transport processes in environmental
+fluid systems.
+Vertical flows: MTT model, turbulent plumes, filling box,
+double-diffusive convection.
+Horizontal flows: Shallow water approximation, single-
+layer hydraulics, gravity currents, particle-laden flows,
+flows on inclined plane, high viscous flow.
+ENVIRONMENTAL
+CE656                                3-0-0-0-9    Flow in porous media: Darcy’s law, Dispersion, Thermal
+FLUID MECHANICS
+and Haline convections, Geothermal Plumes, Gravity
+currents,  Capillary  effects, Flow through cracks and
+faults
+Waves in fluids: Interfacial waves and internal gravity
+waves.
+Hydrodynamic instability: Kelvin-Helmholtz Instability.
+Rayleigh-Taylor instability, Saffman-Taylor instability.
+Geophysical   flows:   Stratification,  The  Richardson
+number, Advective and diffusive mixing, Coastal region
+intrusion, Rotation, Vorticity dynamics.
+The ‘construction economics’ part of the course deals
+with practical applications, problems, and case studies
+pertaining   to  economic  decision-making   in   Civil
+engineering.  Specific  topics  include  -  Introduction  to
+Engineering economics and its applications: Time value
+of money; interest and interest rates; cash flow diagrams,
+evaluation criteria for investment decisions; Break-even
+analysis,   mutually    exclusive,   replacement   and
+independent projects; practical issues in evaluation of
+projects;  concept  of  depreciation  and  amortization;
+Taxation; evaluation  of  profits before and  after Tax;
+Principles of accounting; Financial statements; Balance
+CONSTRUCTION
+sheets; Working capital and accounting ratios.
+ECONOMICS &
+CE657                                3-0-0-0-9     ‘Infrastructure financing’ component addresses the need
+INFRASTRUCTURE
+for Infrastructure, Types of Infrastructure sectors and
+FINANCING
+demand;  role  of  government  and  private  sectors;
+Investments in Infrastructure, Greenfield vs. Brownfield
+investments;  sources   of  revenue  and   financing;
+Infrastructure  charging,  pricing  principles  and  cost
+recovery; Competition and  regulation; Assessment  of
+infrastructure projects; Cost benefit analysis; decision
+making framework. Financing of capital projects: Sources
+of finance; financial securities; financial markets; equity
+and debt financing; Public private partnerships (PPP),
+PPP models and types of PPP; structure of agreements;
+Financial and economic implications of PPP models, risk
+profiles, allocation, and management.
+HUMANS,                   The course starts with introducing the history of human-
+ENVIRONMENT, AND                 environment relation over the past 500,000 years. Next
+CE663                                3-0-0-0-9
+SUSTAINABLE                     the root causes of modern environmental degradation
+DEVELOPMENT                       that need  to be  tackled,  different economic  sectors
+
+[PAGE 25]
+(agriculture,  forestry,  urban,  rural,  industrial,  energy,
+transportation, manufacturing, service sector) and their
+impacts,  and   the   major   global  and   regional
+environmental problems  of  21st  century  are  taught.
+Further, the course explains the concept of sustainable
+development and what  is being done in the fields of
+technology,  policy making and human  behaviour  to
+achieve  it at the international and national (India) level.
+Here the emerging topics such as Ecological economics,
+Payment for ecosystem services, Agricultural and dietary
+sustainability, Sustainable construction and smart cities,
+International   policies  and   national   missions  on
+sustainable development goals (SDGs)  will be taught.
+The students will also learn upcoming quantitative tools
+such as life cycle assessment (LCA) that can be used to
+calculate or compare the impact of  different product,
+process and  activities on  different domains  of  the
+environment such as air, water, land, resources, climate,
+biodiversity etc. Overall, the course will explore how daily
+human  activities  impact  the  environment  and how
+environmental degradation affects human health, society
+and economic growth in return.
+Structure and basic properties of water; their significance
+in   environmental   engineering;  sources   of  water
+impurities; Aquatic chemistry; chemical equilibrium and
+chemical   thermodynamics;    acid-base    equilibria;
+complexation;  solubility  equilibria;  oxidation-reduction
+PHYSICO-CHEMICAL                      equilibria; reaction kinetics, reaction rates and catalysis;
+CE664      PRINCIPLES AND       3-0-0-0-9    surface  and   colloidal   chemistry;   Solid-liquid-gas
+PROCESS                          interactions; mass transfer in solid-liquid and liquid-gas
+systems; transport mechanisms of impurities  in water
+and  air; advection,  diffusion, dispersion; Principles  of
+physicochemical processes; Settling of particles in water;
+coagulation and flocculation; filtration; ion exchange and
+adsorption; membrane processes;
+Ecosystems; biotic and abiotic components; production
+and consumption; trophic levels; productivity and energy
+flow;  food  webs;  cycling  of  elements;  Ecology  of
+population; ecological niche; mortality and survivorship;
+community   interactions;  Changes   in  ecosystems;
+succession; long range changes, long range  stability;
+The   organization   and   dynamics   of   ecological
+ECOLOGICAL AND
+communities. Description and study of typical natural and
+BIOLOGICAL
+CE665                                3-0-0-0-9      artificial ecosystems; Biochemistry; photosynthesis and
+PRINCIPLES AND
+respiration, important biological compounds, enzymes;
+PROCESS
+Microbiological   concepts;   cells,   classification  and
+characteristics  of   living  organisms,  characterization
+techniques, reproduction, metabolism, microbial growth
+kinetics;  Applications  to  environmental  engineering;
+assimilation of wastes, engineered systems, concepts
+and   principles   of  carbon   oxidation,   nitrification,
+denitrification, methanogenesis, etc.
+AIR POLLUTION AND                     Air pollutants, their sources and harmful effects and on
+CE666                                3-0-0-0-9
+ITS CONTROL                      the environment; Meteorology as applied to air pollution
+
+[PAGE 26]
+and dispersion of air pollutants; Air quality and emission
+standards;   Air   pollution   legislation;  Methods   for
+monitoring and control; Selection of control equipments;
+Engineering  control  concepts;  process  change,  fuel
+change; pollutant removal and disposal  of  pollutants;
+Control devices and systems, removal of dry particulate
+matter,  liquid  droplets  and  mist  removal,  gaseous
+pollutants and odor removal; Control of stationary and
+mobile sources; Economics and trends in air pollution
+control.
+Concept   of  Sustainable  Development  and  Clean
+Development  Mechanisms  (CDMs);  Overview   of
+Environmental  Laws  and   International   Treaties;
+Environmental   Impact   Assessment    (EIA)   and
+PRINCIPLES OF
+Environmental Management Plan (EMP) for Industries
+CE667     ENVIROMENTAL       3-0-0-0-9
+and   other   Developmental   Projects;   Life   Cycle
+MANAGEMENT
+Assessment  of  Products,  Processes  and  Services;
+Concepts of Environmental Justice and Environmental
+Ethics;   Environmental   Movements;   Environmental
+Activism;
+General  principles  of  sample  collection  and  data
+analysis; Gravimetric methods for solids analysis in water
+and wastewater; Determination  of  color,  odor,  taste;
+turbidity by nephelometric methods; Titrimetric methods
+for determination  of environmental parameters;  acid-
+base  titrations,  precipitation  titrations, complexometric
+titrations,          oxidation-reduction            titrations.
+ENVIRONMENTAL
+Spectrophotometric  methods   for   determination   of
+QUALITY &
+environmental    parameters;    Atomic    Absorption
+CE668       POLLUTION         2-0-4-0-10
+spectroscopy for determination of metals; Determination
+MONITORING
+of nitrogen, phosphorus and chemical oxygen demand
+TECHNIQUES
+(COD) in sewage; Biochemical oxygen demand (BOD) in
+sewage; MPN test for microbial pollution; plate counts;
+confirmatory tests; Sampling techniques for air pollution
+measurements;  analysis  of  particulates and common
+chemical air pollutants like oxides of nitrogen, oxides of
+sulphur, carbon monoxide, hydrocarbon; Introduction to
+advanced instruments for environmental analysis
+Atmosphere  as  a  Physical  system,  Introduction  to
+Atmospheric   Models:   Simple   Radiative   model,
+Greenhouse   Effect,  Global  Warming;  Atmospheric
+Observations: The mean Temperature and Wind Fields,
+Gravity  Waves,  Rossby  Waves,  Ozone.  Potential
+Temperature, Parcel Concepts, The Available Potential
+Energy, Moisture  in  the Atmosphere, The Saturated
+ATMOSPHERIC
+Adiabatic Lapse Rate, The Tephigram; Cloud Formation;
+CE669       PHYSICS AND         3-0-0-0-9
+Thermodynamics  of  Chemical  Reactions,  Chemical
+CHEMISTRY
+Kinetics,  Bimolecular  Reactions   Photo-dissociation,
+Stratospheric  Ozone, Chapman  Chemistry,  Catalytic
+Cycles, Transport  of Chemicals; the Antarctic Ozone
+Hole;  Aerosol  Dynamics:  Discrete  and  continuous
+aerosol   size    distributions;   Thermodynamics    of
+atmospheric      aerosols;    Homogeneous     and
+heterogeneous nucleation; Coagulation and coagulation
+
+[PAGE 27]
+kernels;  Condensation/evaporation,  saturation  vapor
+pressure corrections; Fluxes  to a  particle population;
+Sedimentation and dry deposition; Chemical equilibria;
+Heterogeneous  reactions  in  aerosol aqueous phase;
+Aerosol-cloud interactions; Aerosol and Global Climate:
+Trends  in  anthropogenic emissions and  troposphere
+composition  Solar and  terrestrial  radiation;  Effect  of
+pollutants  on   Earth's   radiation  budget;  Radiation
+scattering by aerosols and clouds; Models  for global
+warming and cooling.
+The Earth system: Systems approach to studying Earth,
+Climate  and  weather  systems,  Mass   distribution,
+transport and exchange in the Earth system, Impact of
+physical processes on the geometry and gravity of the
+Earth,  Loading  theory and  the sea  level  equation.
+Observation   techniques    in   Geodesy:   Geometric
+techniques – Total stations, Strain meters, Tide gauges,
+Global  Navigation  Satellite  Systems,  Satellite  Laser
+Ranging, Very Long Baseline Interferometry,  Satellite
+altimetry   (radar  and   laser),   Interferometric  SAR;
+Gravimetric techniques – Absolute gravimetry, relative
+gravimetry,   satellite  gravimetry.  Tides:  Gravitational
+interaction of the Sun, Moon and the Earth, Ocean tides
+ENVIRONMENTAL                  Atmospheric tides, Solid earth tides, Doodson numbers.
+CE670                               3-0-2-0-11
+GEODESY                        Hydrological Observables: Water storage change, Soil
+moisture,  River  runoff and  lake  levels, Groundwater
+variability.  Oceanographic  observables: Sea  surface
+topography and the mean sea level, Ocean currents,
+Ocean  mass    redistribution,  Ocean   bathymetry.
+Cryosphere    observables:   Sea    ice    thickness
+observations, Ice mass balance, Glacier thickness and
+drift. Atmospheric observables: Total precipitable water,
+Ionospheric    total   electron   content,   Atmospheric
+circulation  and  mass   redistribution.   Solid   earth
+observables:    Elastic,    viscoelastic   and   episodic
+deformation  and  gravity  responses  to  geodynamic
+processes like plate tectonics, earthquakes and volcanic
+activity.
+Introduction to remote sensing, remote sensing system
+and components; Physics of remote sensing including
+wave equation and EMR propagation through medium,
+EMR  source  characteristics,  Role  of  atmosphere,
+Physics of EMR interaction with objects, BRDF, EMR
+(optical and microwave) interaction with soil, vegetation,
+water, rocks etc. Concept of  digital image and CCD;
+INTRODUCTION TO                 Sensor characteristics: various resolutions, FOV, IFOV,
+CE671                               3-0-2-0-11
+REMOTE SENSING                     point spread function, push broom, whisk broom, side
+looking  sensors, PAN, MS, SLAR; image  recording
+formats; Various operational  satellites and  their data
+products.   Image processing; interpretation elements,
+manual versus  digital  interpretation, image histogram
+and histogram manipulation, image convolution, high and
+low pass  filters, directional and non-directional image
+derivatives;  Image  classification,  unsupervised  and
+
+[PAGE 28]
+supervised-various  methods,  training  data  selection,
+classification  accuracy  measures-error  matrix,  khat
+index. Geometric  distortion  in remotely sensed data,
+parametric and non-parametric methods  of  distortion
+removal, Geo-referencing and GCPs, accuracy indices,
+resampling methods; Atmospheric errors in data, models
+for removal  of  atmospheric  errors.    Satellite  orbits;
+terminology,  characteristics  of  ideal and actual  orbit,
+equations governing satellite orbits, geostationary orbit,
+sun-synchronous orbit, exactly repeating orbits, orbital
+sub-cycles,  examples  of  operational  satellite  orbits.
+Application  of  optical and microwave remote sensing
+techniques in problem solving: Civil Engineering related
+examples/projects.
+DIP system: components and functions, basic imaging
+process, multi-concept in RS data analysis, Elements of
+human and computer assisted interpretation. Formats of
+digital   imagery,   colour   look   up   tables   and
+transformations. Geometric and radiometric distortions
+and their corrections. Image histogram, point operations
+MACHINE                    and look-up tables, contrast enhancements, Spatial and
+PROCESSING OF                   frequency  filtering, Edge detection and enhancement,
+CE672                                3-0-0-0-9
+REMOTELY SENSED                         filters for radar images. Image transformations. Image
+DATA                          Fusion.  Pattern  recognition:  feature  selection  and
+extraction, unsupervised and supervised classifications,
+accuracy   estimation,  Fuzzy   classification.   Spatial
+classification:   Texture,   Contextual.   Object-based
+classification, Other classifiers: ANN, SVM classification,
+Binary   and   hybrid    classification,   Hyperspectral
+classification.
+INSTRUMENTATION,              Use   of  automatic  and   digital   levels,   electronic
+LABORATORY AND                     theodolites, total stations; Control surveys using GPS,
+CE673                                0-0-0-9-9
+FIELD PRACTICES IN                   Total   Station   (adjustment  and   computations   of
+GEOINFORMATICS                    coordinates); topographic mapping and report writing.
+Background  / Revision to Satellite Geodesy, Keplerian
+Laws,  Inertial  Coordinate Systems  etc. Overview  of
+GNSS and Introduction to GPS, GLONASS, GALILEO,
+BIDOU, IRNSS  Satellite  Systems  etc. GPS:  basic
+concepts, signal structure and code modulation, Pseudo
+range measurements and navigation solution. Accuracy
+of navigation position:  UERE and DOP.   Intentional
+degradation of GPS signals: Selective availability (SA)
+GLOBAL NAVIGATION
+and Anti-spoofing (AS), Differential GPS: Space based
+CE674M   SATELLITE SYSTEMS     3-0-2-0-6
+augmentation systems (e.g., GAGAN, WAAS, EGNOS)
+(GNSS)
+and Ground based augmentation systems. GPS Carrier
+Phase  measurements:  Single  Differencing,  Double
+Differencing   and    Triple   Differencing    in  GPS
+measurements.  Ambiguity  resolution,  multi  path and
+other  observational  errors,  Doppler  effect  on GPS
+signals,  Cycle   slip  detection  and   repair.  GNSS
+observation,   Data   downloading,   Processing  and
+Discussion of processed Data.
+CE675M   GLOBAL NAVIGATION     3-0-2-0-6   GNSS Basic Observables: Pseudo Ranges and Carrier
+
+[PAGE 29]
+SATELLITE SYSTEMS               Phase Measurements. GNSS Surveying Techniques:
+(GNSS) FOR                       Point positioning and Differential Positioning, DGPS and
+SURVEYING AND                SBAS. Relative positioning: Static – Rapid Static and
+MAPPING                    Pseudo  Kinematic;  Kinematic   positioning  –  Pure
+Kinematic, Semi Kinematic and Real Time Kinematic
+(RTK) methods  of  observations. Real Time Network
+(VRS)  services.  Planning  and   field  observations,
+Networking, Data Post processing: with Vendor Software
+and Scientific software. CORS, Setting up of Regional
+Geodetic Networks and Development of Regional Geoid
+Models. GNSS  applications  to Global, Regional and
+Local issues. IUGG, IAG, IGS and IERS services.
+Introduction to Photogrammetry; Photogrammetric terms;
+applications; advantages; limitations and a brief history;
+Types  of  cameras:  metric  vs.  non-metric;  types  of
+photogrammetry. Aerial Photogrammetry; Geometry of
+vertical/near-vertical  aerial  photographs:  Orthographic
+vs. perspective projection, Map vs. Photograph, Scale of
+photograph, estimate the scale, Relief displacement and
+its   determination,   Parallax   in   photographs  and
+measurement;  stereoscopy.  Transformation  between
+image and object space, collinearity equations; Interior &
+exterior  orientation; Space  resection; Space  forward
+intersection  and  limitations;  Aerial  triangulation  and
+bundle  block  adjustment.  Ortho-photo  and  DTM
+generation; Terrestrial photogrammetry; computer vision
+approach; DLT;  Epipolar  geometry; Image matching
+methods: SURF, RANSAC etc; Structure from Motion
+LASER SCANNING                  (SfM) (Introduction and brief). LiDAR: Introduction, Laser
+CE676         AND              2-0-3-0-9     characteristics, laser interaction with objects; Types of
+PHOTOGRAMMETRY               LiDAR systems: Terrestrial, airborne, static and dynamic;
+Altimetric LiDAR: topographic and bathymetric, single
+and   multiple   return,    full  waveform   digitization.
+Components  of a LiDAR  system, INS/GNSS/LiDAR
+integration,  system  calibration,  Kalman   filter  (brief);
+LiDAR geo-location; accuracy  of LiDAR components;
+error propagation and error analysis; Airborne LiDAR
+surveys:  Flight Planning, survey execution; Examples
+and applications  of integrated LiDAR systems: MMS,
+Airborne LiDAR systems, UAVs. Integration of LiDAR
+with spectral data (camera); LiDAR data classification
+techniques, raw data to bald earth DEM processing,
+applications  of  return  intensity and  full waveform  in
+information extraction; LiDAR applications: building, tree,
+powerline  extraction.  Integrated systems (UAV,  Car,
+Aircraft  etc).:  Applications and some  case  studies:
+Mining, Exploration, SLAM.
+Introduction to Inertial Sensors: Operating principle of
+inertial   sensors,   Observations  and   types.   Brief
+INTRODUCTION TO
+introduction  of  coordinate  frames  used  by  inertial
+INERTIAL AND MULTI-
+CE677M                               3-0-2-0-6    sensors. Allan variance and performance quantification
+SENSOR
+of  inertial sensors. State space model, Measurement
+NAVIGATION
+model, Smoothing,  Filtering, Estimation  theory: Least
+squares,  Sequential  Least  Squares,  Kalman   filter,
+
+[PAGE 30]
+Extended  Kalman   Filter,  Unscented  Kalman   Filter.
+Introduction to Inertial Navigation, Kinematic Navigation
+Equations, IMU/AHRS/INS, INS errors and propagation.
+INS/GNSS  Integration  approaches:  Loosely  coupled,
+Tightly coupled, Ultra-Tightly coupled Overview of other
+sensors and integration approaches  for navigation  in
+indoor/outdoor  environments:  Ultra-Wide-Band,  Wi-Fi,
+LiDAR.  Brief  overview  of  Centralized  Cooperative
+Localization.
+Introduction: Need to study  gravity,  Historical review,
+Research areas, Applications, Open questions. Potential
+theory: Some vector calculus, Attraction and potential,
+Potential of a solid body, Laplace equation – exterior
+potential field, Poisson Equation – Interior potential field,
+Spherical harmonics, Boundary-value problems. Gravity
+field of the Earth: Gravitation, Gravity, Attraction of a
+point mass, Attraction of a rigid body, Gravity and shape
+of the earth, Level surfaces and plumb lines, Natural
+coordinates.  Normal  gravity:  Superposition  principle,
+Ellipsoid as an approximation of the Earth, The level
+ellipsoid, Series expansion of the normal gravity  field.
+Gravimetry: Functionals of the gravity  field, Terrestrial
+gravimetry – absolute and relative, Airborne gravimetry,
+CE678    PHYSICAL GEODESY    3-0-2-0-11   Spaceborne gravimetry, Gradiometry, Torsion balance,
+Gravity networks. Gravity field modelling: Linear model of
+physical  geodesy,  Disturbing  potential  and  gravity,
+Anomalous  potential and  gravity,  Gravity  reductions.
+Geoid modelling: The Stokes integral, Koch’s formula,
+Vening-Meinesz   formula,   Molodensky’s   approach,
+Practical aspects.  Statistics  of the  gravity  field: The
+power  spectrum,  Kaula’s  rule  of thumb, Covariance
+functions.  Height  systems:  Height  measurements,
+Physical and geometric heights and their relationship,
+Height systems around the world, Geoid as a vertical
+reference frame. Temporal variations of the gravity field:
+Geophysical effects on gravity, Loading theory, Tides,
+Hydrological  loading,  Atmospheric  loading,  Ocean
+loading, Ice-mass loading, Glacial Isostatic Adjustment.
+Harmonic  analysis on  the  line:  Fourier  series and
+transforms  (discrete  and  continuous),  orthogonality
+(discrete and continuous), sampling theorem (uniform
+sampling),   aliasing,  convolution,  window  functions,
+autocovariance/autocorrelation functions, power spectral
+densities,    computational    aspects,    periodogram
+estimation, FFT, Least Squares Spectral Analysis. Global
+SIGNAL
+harmonic  analysis on  the  sphere:  Orthogonal base
+CE679     PROCESSING ON      3-0-2-0-11
+functions on the sphere, Associated Legendre functions,
+THE SPHERE
+Spherical harmonics,  convolution, sampling theorems
+(uniform),                 aliasing,                    filtering,
+autocovariance/autocorrelation functions, power spectral
+density, computational aspects. Localized analysis on
+the sphere: Space  localizing basis  functions  (Radial
+basis  functions, spherical  splines, Band-limited spline
+functions),  computational  aspects.  Slepian  functions:
+
+[PAGE 31]
+Uncertainty  principle  of signal processing, uncertainty
+principle on the sphere, Slepian  functions, Shannon
+number, periodogram estimation, computational aspects.
+Empirical   Orthogonal   Functions:   Spatio-temporal
+datasets, eigenvalue decomposition, significance testing
+of  modes,  signal  reconstruction,  data  compression,
+computational aspects.
+Microscopic and macroscopic traffic parameters; Traffic
+flow models (for both uninterrupted and interrupted flow;
+includes  macroscopic and  microscopic  models; gap
+TRAFFIC                      acceptance analysis, queue and delay analysis,  etc.)
+CE683                                3-0-0-0-9
+ENGINEERING                    Capacity and level of service analysis; Design of traffic
+facilities like un-signalized and signalized intersections,
+interchanges, expressways, traffic signs, parking areas
+etc.; Simulation of traffic streams.
+Urban form, urban transportation and  their evolution;
+Urban  travel  characteristics; Demand  analysis   (trip
+generation, distribution, mode and route choice,  etc.);
+URBAN                       Supply analysis (road network: overview  of the pre-
+CE685M                               3-0-0-0-5
+TRANSPORTATION                     requisite courses); Supply analysis (public transportation:
+route   and   schedule;   development,    fleet   size
+determinations,  etc.); Congestion  mitigation (demand
+modification, private and public transportation solutions).
+STATISTICAL AND                       Statistical inference; linear regression and its extensions;
+ECONOMETRIC                    panel data analysis, ordinal probit, multinomial logit and
+CE687     METHODS FOR       3-0-2-0-11     its extensions, count data modeling (poisson, negative
+TRANSPORTATION                   binomial  regression),  applications   in  road   safety,
+DATA                             infrastructure management, travel demand, etc.
+Each M.Tech student registered for CE697 will give a 30-
+40 minute seminar based on his/her research work.  In
+addition, they  will be expected to attend  all CE697A
+seminars in their specialization scheduled that semester.
+In  addition  to  registered  M.  Tech  students,  other
+researchers from within and outside the Institute may be
+CE697   M TECH SEMINAR I      0-0-0-0-0     invited to give seminars as a part of CE697. Grading for
+CE697A shall be in the S/X mode and based on the
+quality of the seminar presented by the student and
+his/her attendance in other CE697 seminars. CE DPGC
+Convener will be the nominal instructor for the course.
+However, grades will be given in consultation with thesis
+supervisor(s) of the concerned student.
+Each M. Tech. student registered for CE698 will give a
+45-60 minute seminar based on his/her research work.
+In addition, they will be expected to attend  all CE698
+seminars  scheduled  that  semester.    In  addition  to
+registered M. Tech students, other researchers from
+within and outside the Institute may be invited to give
+CE698    M.TECH SEMINAR II      0-0-0-0-0
+seminars as a part of CE698. Grading for CE698 shall be
+in the S/X mode and based on the quality of the seminar
+presented by the student and his/her attendance in other
+CE698  seminars. CE DPGC Convener  will be  the
+nominal instructor for the course.  However, grades will
+be given in consultation with thesis supervisor(s) of the
+
+[PAGE 32]
+concerned student.
+CE699      M. TECH THESIS       0-0-0-9-9    M. Tech. Thesis
+The emphasis of the course is on construction equipment
+and the construction methods relevant for infrastructure
+creation. Initially, the course introduces different types of
+infrastructure  viz,  transportation,  irrigation and water
+supply, power and buildings. Subsequently the course
+delves into various components of infrastructure along
+with  their  specific  requirements   will  be  explained.
+CONSTRUCTION              Common elements across the infrastructure types will be
+CE711M    EQUIPMENT AND       3-0-0-0-5    introduced. Building on the knowledge from the general
+METHODS I                                civil engineering courses, the course focuses on recent
+developments,  equipment,  practices  and  issues  in
+Surveying, Earthwork in Excavation, Slope Stabilization,
+Ground  Improvement,  Earthwork   in  Embankment,
+Concrete – Production, Transportation and Placement,
+and formwork  design.  Besides  the  broad  principles
+involved, specifications and quality requirements, and
+productivity and cost issues will also be addressed.
+The emphasis of the course is on construction equipment
+and the construction methods relevant for infrastructure
+creation. Initially, the course introduces different types of
+infrastructure  viz,  transportation,  irrigation and water
+supply, power, and buildings. Subsequently the course
+delves into various components of infrastructure along
+with  their  specific  requirements   will  be  explained.
+CONSTRUCTION              Common elements across the infrastructure types will be
+CE712M    EQUIPMENT AND       3-0-0-0-5    introduced. Building on the knowledge from the general
+METHODS II                                civil engineering courses, the course focuses on recent
+developments,  equipment,  practices,  and  issues  in
+Tunnelling and Underground Construction, Foundations,
+Highways, Railways, Irrigation structures like dams and
+canals, Pipelines, Airports, Harbours, and Ports. Besides
+the broad principles involved, specifications and quality
+requirements, and productivity and cost issues will also
+be addressed.
+The emphasis  of the course  is on the  construction
+equipment and the construction methods relevant for the
+construction of bridges.  Initially, the course introduces
+different  types  of  infrastructure   viz,  transportation,
+irrigation  and  water  supply,  power,  and  buildings.
+Subsequently the course delves into various components
+of infrastructure along with their specific requirements will
+CONSTRUCTION
+be  explained. The  course  introduces  the  basics  of
+EQUIPMENT AND
+CE713M                               3-0-0-0-5    bridges  in  terms  of  types and  special  design and
+METHODS FOR
+construction requirements. The course touches upon the
+BRIDGES
+specialized equipment and enabling  / temporary works
+that are used in bridge construction. Subsequently the
+course  delves  into  the  construction  of  foundations,
+substructure    viz.,   abutments   and    piers   and
+superstructure. Different methods of superstructure viz.,
+girder  launching,  cantilever  construction,  incremental
+launching and precast concrete segmental construction
+
+[PAGE 33]
+will be dealt with in detail. Besides the broad principles
+involved, specifications and quality requirements, and
+productivity and cost issues will also be addressed.
+Random  processes;  Stochastic  response  of  linear
+structural  systems:  normal  mode  approach;  Level
+RANDOM
+CE721                                3-0-0-0-9    crossing; Peak and envelop statistics; Application to wind
+VIBRATIONS
+and earthquake engineering; Non-stationary processes;
+Non-linear random vibrations.
+Introduction: Course overview; Generation and disposal
+strategies of mine tailings; Challenges in management of
+mine tailings; Possible reusability of mine tailings; Role of
+geotechnical engineering in sustainable management of
+mine tailings; Geotechnical characterisation of tailings:
+Gradational   properties,   specific   gravity;   Plasticity
+properties and mineralogy; Densification  - settlement,
+consolidation,  evaporation,  dewatering;  Drained  and
+undrained strengths; Triaxial testing and analysis; Simple
+shear testing and analysis; Cone penetration  testing;
+Introduction to “state parameter”; Application of critical
+state soil mechanics to interpret test results; Hydraulic
+conductivity;  Water  retention  and  volume  change
+GEOTECHNICS OF
+behaviour;   Testing   methods    for   understanding
+TAILINGS AND
+CE722                                3-0-0-0-9    unsaturated response of the material; Disposal of tailings
+TAILINGS STORAGE
+in  TSFs:  Types  of  components  of  TSFs;  Physical
+FACILITIES
+processes involved in a typical; TSF; Failure mechanism
+of  TSFs;  Health  monitoring   of  TSFs;  Operator
+manual,Trigger ActionResponse Plans (TARPs) ; Global
+Industry Standard on Tailings Management (GISTM);
+Governance   structure   for  management   of  TSFs,
+stakeholder engagement; Case studies and interaction
+with   industry   professionals   Forensics   of   failure:
+Merriespruit, South Africa, 1994; Mount Polley, Canda,
+2014; Cadia, Australia, 2018; Brumadinho, Brazil, 2019;
+Few case studies from India; Invited guest lectures by
+industry  professionals and  academic  colleagues on
+current practice of tailings management; Possible visit to
+a TSF site
+Problem   formulation,  numerical  and  closed  form
+solutions, weak form, collocation, least square, Galerkin
+technique,  derivation   of   finite  element  equations,
+stiffness   matrices,   global   assembly,   coordinate
+transformation, enforcing boundary conditions, solution
+of the systems of equations. Convergence, Stability and
+possible  sources   of   errors;  Formulation   of  one-
+FINITE ELEMENT
+dimensional truss and beam elements. Application to 2D
+METHODS FOR CIVIL
+CE723                                3-0-0-0-9    trusses  and  frames;  Formulation  of 2D  problems
+ENGINEERING
+involving plane stress, plane strain, and axis symmetry.
+APPLICATIONS
+Applications  to  pressure  vessels,  chimneys,  dams,
+embankments, and pavements;  Formulation  of  plate
+bending  elements.  Bending  of  plate, Von Karman
+nonlinear plate theory and formulation; Formulation of
+thin shell elements. Applications to dome, water tank etc;
+6.  Formulation  of  three  dimensional  brick elements.
+Applications   to  stress  analysis   in  dam,  earthen
+
+[PAGE 34]
+embankments, tunnel, etc; Nonlinear static and dynamic
+problems; geometric and material  nonlinearity, Pdelta
+effects   in   tall  buildings,  elastoplastic  analysis  as
+encountered in structures and geotechnical mechanics,
+seismic soil foundation structure interaction problems;.
+Formulation for contact elements, infinite elements and
+crack tip elements; CE applications such as 3D elastic
+problems,   consolidation,   seepage,   transpott  and
+propagation  through  heterogeneous  media;   Finite
+element formulation of fluid flow and transport problems.
+Applications to pipe, open channel flow, contaminant and
+species  transport  with  emphasis  to  hydraulics and
+environmental flow modeling.
+RELIABILITY                 Random  processes;  Stochastic  response  of  linear
+ANALYSIS &                         structural  systems:  normal  mode  approach;  Level
+CE724     RELIABILITY BASED     3-0-0-0-9    crossing; Peak and envelop statistics; Application to wind
+DESIGN OF                   and earthquake engineering; Non-stationary processes;
+STRUCTURE                      Non-linear random vibrations.
+Introduction to Structural Health Monitoring (SHM): NDE
+and SHM;  Structural  health management;  Vibration-
+based techniques for SHM: Basic concepts; Diagnosis
+Levels; Local and global methods; Damage diagnosis as
+an inverse problem; Model-based damage assessment;
+Data-based damage  assessment;  Experimental  and
+analytical examples; Damage  detection  using modal
+parameters: Formulation; Fundamental and higher mode
+shapes and  their  derivatives; Numerical  illustrations;
+Damages at multiple locations; Damage characterization;
+Output-only algorithms for modal parameter extraction:
+Frequency  domain  decomposition  (FDD);   Natural
+VIBRATION BASED
+excitation  technique  (NExT); Eigensystem  realization
+STRUCTURAL
+algorithm;  Random  decrement   technique   (RDT);
+CE725        HEALTH           1.5-0-0-0-5
+Stochastic  subspace  identification  technique  (SSID);
+MONITORING FOR
+Performance under varied signal-tonoise  ratio (SNR);
+CE APPLICATIONS
+Time-domain damage detection methods: Kalman filters;
+Autoregressive model (AR) and AR with exogenous input
+(ARX); Damage  sensitive  features  (DSFs);  Feature
+selection  criteria  -  Feature  versus  metric; Damage
+identification  in non-linear systems; Extended Kalman
+filter; Introduction to Bayesian Model updating: Updating
+of   the    initial  model,  Damage   localization  and
+quantification; SHM System Design: Data Handling: Data
+acquisition and transmission; Processing  of recorded
+data;  Evaluate  sources  of   variability;  Modeling  of
+environmental conditions; Consideration of soil-structure
+interaction; Sensor optimization; Sensitivity analysis.
+Contact pressure distribution, Foundation models, Limit
+analysis of rafts and foundation; soil structure interaction
+SOIL-STRUCTURE
+CE730                                3-0-0-0-9    studies  pertaining  to buried  structures; Analysis and
+INTERACTION
+design of deep foundation; Modern trends in the design
+of earth retaining structures.
+RISK & RELIABILITY      3-0-0-0-9    Sources and  types  of  uncertainties  associated  with
+CE731
+IN GEOTECHNICAL                   geotechnical   analysis,  importance   of   probabilistic
+
+[PAGE 35]
+ENGINEERING                  methods and  reliability based analysis in geotechnical
+engineering Review of probability and statistics: Discrete
+and continuous random variables, parameter estimation,
+testing of hypothesis, regression analysis Fundamentals
+of  reliability  analysis:  First  Order  Second Moment
+(FOSM) method, First Order Reliability Method (FORM),
+Second Order Reliability Method (SORM), Monte Carlo
+simulation Application towards geotechnical problems:
+Characterization of uncertainty  in  field measured and
+laboratory  measured  soil  properties,  uncertainty  in
+interpretation  techniques  Spatial   variability  of   soil
+properties,   scale   of   fluctuations,   estimation   of
+autocorrelation   and   autocovariance    Probabilistic
+groundwater  modeling,   flow  through  earth  dams
+Probabilistic slope  stability  analysis Fundamentals  of
+LRFD design methodology,  reliability based design of
+shallow  and  deep  foundations,  settlement  analysis
+Reliability based liquefaction analysis, lateral spreading
+Development   of   fragility  curves   for  geotechnical
+problems.
+Nature and genesis of unsaturated soils: Introduction to
+phase properties and relations, air-water-solid interface,
+in-situ  stress  state component  profiles,  suction and
+potential  of  soil-water system,  transient  suction and
+moisture  profiles,  compaction;  Soil  suction:  Suction
+component, principle and measurement of total suction,
+matric suction, osmotic suction, capillarity; State of stress
+and  shear  strength:  Stress  state  variables,  material
+variables, effective stress concepts for unsaturated soils,
+representation of net normal stress, matric suction and
+UNSATURATED SOIL     3-0-0-0-9    suction stress tensor, stress control by axis translation.
+CE732
+MECHANICS                    Shear  strength  of  unsaturated  soil, extended Mohr-
+Coulomb  criterion, shear strength and pore pressure
+parameters,   measurements    of   shear    strength
+parameters; Flow of water  in unsaturated  soils:  Soil-
+water characteristic curve (SWCC), hysteresis in SWCC,
+permeability and hydraulic conductivity function, direct
+and  indirect measurements  of SWCC and  hydraulic
+conductivity function. One-dimensional consolidation and
+swelling for unsaturated soils; Applications: Applications
+of unsaturated material properties in geotechnical and
+geo-environmental structures.
+Identification,     characterization    and     regulatory
+requirements for disposal of hazardous, non-hazardous
+and domestic wastes. Waste Management Recycling,
+composting, incineration and various disposal methods.
+GEOTECHNICAL                      Site  selection  and  Geoenvironmental  investigations.
+DESIGN ASPECTS OF     3-0-0-0-9    Natural   attenuation  process  and  mechanism   of
+CE733
+SOLID WASTE                       attenuation. Design practices  of  solid wastes.  Tailing
+MANAGEMENT                dams for disposal of flyash, coal, copper, iron and other
+metal wastes. Single and double lined  landfill design,
+linear material clay, geosynthetics amended soils and
+other  admixtures.  Leachate  collection and  detection
+system. Landfill construction. Construction quality control
+
+[PAGE 36]
+and    performance    monitoring.    Application    of
+geosynthetics in waste disposal design.
+Review  of  basic concepts  of continuum mechanics:
+stresses, strains, compatibility conditions, transformation
+of stresses and strains in rotated co-ordinate system,
+constitutive  relations,  stress  functions,  stress  and
+displacement formulations, plane stress and plane strain
+problems; Theory  of  plasticity:  yield  criterion,  plastic
+potential and  plastic flow  rule,  principle  of maximum
+plastic  work,  strain hardening and  perfect  plasticity,
+isotropic and kinematic hardening, general stressstrain
+relations; Perfect plasticity constitutive relations: elastic
+models, plasticity models for cohesive and frictional soils.
+PLASTIC
+Method  of stress  characteristics or  slip  line method:
+CE734      EQUILIBRIUM IN       3-0-0-0-9
+theorem,   formulation    for   stress    characteristics,
+SOILS
+application to different geotechnical structures such as
+foundation  problem,  retaining  wall  problem,  slope
+stability  etc.;  Limit  analysis: lower and upper bound
+theorem of plastic collapse, lower and upper bound limit
+analysis, lower and upper bound analysis using linear
+programming,  application   to   different  geotechnical
+structures such as foundation problem, retaining wall
+problem,  slope   stability   etc.;  Shakedown  analysis:
+concept and theorems, rolling and sliding line contacts,
+rolling and sliding point contacts, shakedown analysis
+using linear programming etc.
+Introduction: concepts of scale in natural systems, brief
+review  of  the  fate  processes  in  the  environment,
+examples  of  natural  systems,  principles  of  model
+formulation, calibration, validation, error estimation and
+sensitivity  analysis;  Derivation  of  generalized mass
+balance equation  for contaminants  in incompressible
+fluid (water) in the non-inertial frame of reference; River
+Modeling: one dimensional advection-dispersion-reaction
+SURFACE WATER                  model,  river properties and estimation of parameters,
+CE760M                               3-0-0-0-5
+QUALITY MODELING                     different  forcing  situations  (point,  non-point,  aerial
+sources and sinks), sediment water interaction; Estuary
+Modeling: types and properties, flow characterization,
+advection-dispersion models, salt gradient box models;
+Lake Modeling: box models, generalized models, special
+considerations  for  large  lakes, sediment mixing and
+interaction with water column; Wetlands: box models for
+flow, equilibrium and kinetic geochemical models for red-
+ox reactions, transport of heavy metals.
+Groundwater  as  a  resource;  general  problems  of
+chemical contamination  in groundwater; Organic and
+inorganic contaminants; mass balance and concept of
+control volume;  physical  transport  of chemicals-  the
+SUBSURFACE
+advective-dispersive-reaction   equation;   Nature    of
+CE761M    POLLUTANT FATE      3-0-0-0-5
+subsurface  environment;  saturated  and  unsaturated
+AND TRANSPORT
+zones; physics of groundwater movement through these
+zones; modeling flow through a packed soil column; flow
+in  the  unsaturated  zone;  Understanding   fate   of
+contaminants; review of basic environmental chemistry;
+
+[PAGE 37]
+retardation;  redox  processes   in   the   subsurface;
+Groundwater flow and quality modeling
+Introduction:   weather,   climate  and   air   pollution,
+atmospheric processes, scales  of motion, differences
+between weather prediction models and climate models;
+Atmosphere:   pressure,   density  and   composition,
+equations of state, changes pressure and temperature
+with   altitude,  water   in  atmosphere,   first  law   of
+thermodynamics   ;  Continuity  and  Energy  Equation:
+Derivation   of  generalized   continuity  equation   for
+compressible fluid (air) and constituents (gas, particle)
+suspended in a compressible  fluid, examples of wind
+driven  circulation,  thermodynamic  energy  equation;
+Momentum  equation: Coordinate systems and  grids:
+ATMOSPHERIC
+CE762M                               3-0-0-0-5     brief descriptions of Cartesian, spherical, UTM, Mercator
+MODELING
+projection, sterographic projection, Lambert Conformal
+projection;  brief review of Cartesian to spherical Co-
+ordinate transformation; Generalized derivation  of the
+momentum equation in an inertial frame of reference:
+local  acceleration,  coriolis  force,  gravitational  force,
+pressure  gradient  force,  viscous  force,  turbulent-flux
+divergence, Ekman number, Rossby number and Froude
+number; Applications: Geostrophic wind, Surface-layer
+winds, Gradient winds and atmospheric waves; Vertical
+coordinate   conversions,   introduction   to  numerical
+solution   of   the   equations,   brief   introduction   to
+parameterization of the atmospheric processes.
+Municipal Solid Waste (MSW) and Hazardous Wastes
+(HW)   –Introduction  and   Definitions;   Impacts   of
+Unscientific Disposal of MSW and HW; Municipal Solid
+Wastes    (MSW)–Estimation    of    Quantity   and
+Characteristics;  Reduction  of  Generation  at  Source,
+Source Segregation, Collection, Transfer and Transport;
+MSW  Processing –  Segregation  during  Processing,
+Reduction and  Conversion  for Reuse/Recycle  using
+Physical, Chemical and  Biological methods;  Current
+Status   of  MSW  Management   in   India;  MSW
+SOLID AND
+Management  Rules;  Private  Participation   in MSW
+CE763M   HAZARDOUS WASTE     3-0-0-0-5
+Management; Hazardous Waste (HW) – Characterization
+MANAGEMENT
+of HW; Generation; Handling of Hazardous Wastes - the
+“Cradle  to Grave” Concept;  Transport  of Hazardous
+Waste; Incineration for Ultimate Disposal of MSW and
+HW – Incineration; Fundamentals; Types of Incinerators;
+Environmental  Concerns; MSW  Landfills  and HW
+Landfills  –  Planning,   siting  and  permits;   Landfill
+processes, design, operation, post-closure care and use,
+and mining; Financing and Contracting of MSW and HW
+Processing Facilities, Public or Private Ownership and
+Operation, Public-Private Partnership
+Importance of environmental toxicology, dose-response
+ENVIRONMENTAL                      relationship, hazard and risk; Routes of exposure, toxico-
+CE764M    TOXICOLOGY AND      3-0-0-0-5     kinetics,  oral  route,  dermal  route,  inhalation  route,
+RISK ASSESSMENT                      distribution,  elimination, absorption and  bioavailability;
+Mechanism  of  action, endocrine  disruption,  cytotoxic,
+
+[PAGE 38]
+enzyme  inhibition, reproductive  toxicology,  teratology,
+biotransformation and secondary effect; Data sources for
+exposure risk characterization; Toxicology/epidemiology–
+Biomarkers;   Ecology   Trophic   levels,  BCF   (bio
+concentration factor), BCF modeling, indicator species;
+Integrated  exposure  assessment  –  (case  studies);
+Physiological-based Pharmokinetic (PBPK) Models EU;
+Application of statistical and Monte Carlo simulations and
+other techniques for probabilistic exposure assessment;
+Risk  Characterization,  communication  and  decision
+making
+Sources and types of wastes: solid, liquid, and gaseous
+wastes; General Principles of control and removal of
+specific   pollutants  and  management;   Solid  and
+Hazardous    waste:    definitions,    concepts   and
+management aspects; Combustion processes; Point and
+fugitive sources,  their  quantification,  fuel  quality;  Life
+INDUSTRIAL WASTE
+CE765M                               3-0-0-0-5    Cycle Analysis with example; Case studies/process and
+MANAGEMENT
+pollution generation from Dairy, Pulp and paper, Iron and
+Steel, Metal plating, Thermal power plants, Chlor-Alkali,
+Aluminum industry etc.; Environmental audit: Definitions
+and  concepts,  examples;  Environmental  regulations;
+Introduction to ISO and ISO 14000; Preparation and
+implementation of environmental management plans.
+Introduction; Concept of Agricultural cycle, Agricultural
+Productivity, and Food  Security;  Agricultural  activity
+impact  on  environment;  Introduction  to  concept  of
+agriculture  as  a   contributor   to   global  warming;
+Agricultural  Productivity, and Food  Security;  Factors
+impacting agricultural Growth, Yield. Discussion of main
+issues affecting food security; mainly global warming, or
+climate change, and anthropogenic activities; Agriculture
+and  Climate Change;  Influence  of  temperature and
+carbon dioxide on agricultural productivity. Concept of
+carbon  fertilization;  Examination  of  the  relationship
+between  climate change and  agriculture  under  two
+headings;  A.  Contribution  of  agricultural  practices  to
+climate  change;  B.  Impact  of  Climate  change  on
+AGRICULTURAL
+agricultural  productivity; Status  of Food Security and
+CE766    SUSTAINABILITY AND     3-0-0-0-9
+Need  for Sustainable  Agriculture; Current  agricultural
+CLIMATE CHANGE
+production  worldwide;   Variation   in   availability   of
+resources  over  time  and  resulting  food  scarcity;
+Overview  of  reports  on  food  security  and  future
+predictions by International agencies; Concept of IPM
+(Integrated  Pest  Management)  &  the  sustainable
+intensification  of  agriculture;  Adapting  Agriculture  to
+Climate  Change;  Challenges  ahead  and  mitigation
+strategies  being  adopted  to  ensure  food  security.
+Discussion   of   adaptation   options,   with   detailed
+discussion of Low-Emissions Climate-Smart Agriculture;
+Impact  of  Climate  Change  on  Indian  Agriculture:
+Economic perspective; Case study: India and USA; Govt.
+Initiatives  to ensure food security and enhance food
+production; Government policies and initiatives, trends
+
+[PAGE 39]
+over time, current focus, future predictions; International
+treaties   and     Initiatives    worldwide;    Modeling
+Environmental fate and transport of agrochemicals. This
+will involve examination of the Post application behavior
+of agrochemicals; Concept of Point and Nonpoint-source
+pollution (NPSP),  Short and Long Range  Transport
+(LRT) to non target destinations, impacts of changes in
+temperature  and  carbon  dioxide  on  crops  will  be
+investigated
+Review   of   basic   aquatic   chemistry;  Review   of
+thermodynamics and equilibrium of acid-base reactions,
+concept of free energy, ideal and non-ideal systems,
+ionic  strength  and   activity,  equilibrium  speciation,
+complexation reactions, oxidation states, redox chemistry
+and redox scales, chemical kinetics-first order, second
+order,  pseudo-first  order;  Introduction  to  Equilibrium
+Modeling   Software:   Visual  MINTEQ;   Dissolution-
+precipitation;  Oxides  and  hydroxides,  Other  solids,
+Competition between solids, Coexistence of solids and
+phase rule; Modeling kinetics of nucleation-precipitation;
+Sorption-Desorption;  Introduction   to  adsorption  on
+SOLID-WATER                     mineral surfaces and isotherms, Sorption on organic
+CE767M      INTERFACIAL         3-0-0-0-5    matrices;  chemical  partitioning  to  solids  distribution
+PROCESSES                          coefficient; sorption in natural and engineered systems,
+Surface complexation: surfaces and reactions; Surface
+complexation    modeling:    double-layer,    constant
+capacitance,  and   triple-layer  models.  Experimental
+techniques  for  solid-phase  investigations;  Diffraction:
+Principle of XRD, Bragg’s law, Fundamentals of crystal
+structures- unit cells, lattice planes and Miller indices,
+important structure types, phase identification, Scherer
+equation.  Microscopy:  Principles and  applications  of
+SEM, TEM and  associated energy  dispersive  X-ray
+spectroscopy  (EDXS),  Spectroscopy:  Principles  and
+applications of X-ray Fluorescence (XRF), Vibrational (IR
+and Raman), Absorption (XANES, EXAFS).
+This course will introduce students to the fundamental
+concepts  of   plastic  waste  management  and  the
+approaches required to create sustainable solutions for
+communities. The students will be able to 1. understand
+the Magnitude of the problem on a global scale and in
+the  Indian  setting.  2. Comprehend  the  severity  of
+Pollution  from  Plastic  in  the  ocean,  micro-plastic
+formation, and its impact on sea life, human health, and
+PLASTIC WASTE                    the economy 3. Know Current practices of plastic waste
+CE768M                               3-0-0-0-5
+MANAGEMENT                 management and identify the best way to manage plastic
+waste and mitigate the risk. Students will understand the
+trans-disciplinary  approach  to  sustainability,  applied
+science, and social and economic issues. They will learn
+the basic  life cycle assessment (LCA) concepts and
+apply    life   cycle  assessment  methodology  using
+appropriate case studies. The available opportunities and
+challenges  being  faced  in  developing a  sustainable
+model for plastic waste management  in India  will be
+
+[PAGE 40]
+discussed.
+Adjustment         computations:          Introduction,
+Observation/measurements: True value, Most probable
+value (MPV) True error, residual, discrepancy, Types
+and sources of error, Gaussian law of accidental errors,
+Precision and accuracy, Measures  of  precision from
+Gaussian   law,   Expectation   operator,   Variance,
+Covariances,   Correlation,  Weights  and   cofactors,
+Various error measures on 1D, 2D, and 3D standards,
+Propagation   of   errors,   variance,  covariance  and
+cofactors,   Pre-analysis,   Introduction   to   Statistical
+concepts,  Probability  distributions, Hypothesis  testing.
+Geoinformatics  methodology:  Mathematical  model,
+Definition, elements and Types of models: stochastic and
+function,  linear,  non-linear,  over-determined,  under-
+determined,  unique,   explicit,   implicit,   observation,
+condition, combined, Adjustment: Purpose and types,
+Least squares  adjustment:  Principle and  techniques,
+ADJUSTMENT                    Assumptions,  Ordinary,  weighted,  generalized  LS,
+CE770   COMPUTATIONS FOR    1.5-0-1-0-6   Geometrical interpretation. Observation equations: Model
+GEOINFORMATICS-I               and solution strategy, Adjustment of linear and non-linear
+forms, Variance-covariance propagation of adjusted data
+in observations equations method Condition equation:
+Model and solution strategy, Adjustment of linear and
+non-linear  forms,  Variance-covariance propagation  of
+adjusted data in condition equations method. Combined
+method:  Model  and   solution   strategy,  Variance-
+covariance propagation of adjusted data  in combined
+equations method Observation and condition equations
+as simplification of combined method. Post-analysis of
+adjusted data: Absolute and relative error ellipse and
+error  ellipsoid,  Significance  and  use  in  designing
+projects,    outlier/blunder    detection,    redundancy,
+redundancy number, reliability, and sensitivity analysis.
+Applications  of  adjustment  computations:  Traversing,
+Tachometry, EDM, Photogrammetry, GNSS, Network
+adjustment. Introduction to Geostatistics: Geostatistical
+tools: Semivariance, Variogram, various models Kriging.
+Review   of  Least  squares   (LS):  Adjustment   of
+observations  using  observation  equations,  condition
+equations and combined equations form. Variations to
+LS methods: LS with constraints, Bayesian LS, treatment
+of nuisance parameters. Adjustment using Generalized
+LS. Datum Problem and Free Network Adjustment, rank
+ADJUSTMENT
+deficient models. Least squares  collocation. Dynamic
+CE771   COMPUTATIONS FOR    1.5-0-1-0-6
+Mode Filtering and Prediction: Prediction, Filtering, and
+GEOINFORMATICS-II
+Smoothing,   sequential/recursive/phased   adjustment,
+stacking  of normal equations, Helmert-Wolf  blocking,
+Kalman Filtering, comparison of Kalman  filter and LS.
+Similarity  (S)  transformation,  deformation  analysis.
+Applications:  Geodesy,  Photogrammetry, GNSS, 3D
+Network adjustment.
+REFERENCE                        Introduction to Geodesy: Topographic maps, Elements of
+CE772M                               3-0-1-0-6
+FRAMES,                    a map, Map  scale,  Relief  representation, Geodesy
+
+[PAGE 41]
+COORDINATE                          definition, branches, and history. Coordinate systems in
+SYSTEMS AND MAP                Geodesy:  Horizontal  and  vertical  datum:  Important
+PROJECTIONS                     reference surfaces  in Geodesy: Geoid,  Ellipsoid and
+Topographical  surface, Everest, WGS84 and GRS80
+Ellipsoids,  Geoid,  Indian  Mean  Sea  Level,  Level
+Surfaces and plumb line, Deflection of Vertical and Geoid
+Undulations. Geometrical Relationships of an Ellipsoid:
+Geometrical  relationship  of  an   ellipse,  Radius  of
+curvature along the meridian and the prime  vertical
+sections, Mean  radius  of  curvature, Curves on an
+ellipsoid  of  revolution: Normal  section azimuths and
+Geodesics,   Direct/Inverse  problems   in  Geodesy.
+Terrestrial Reference Systems:  Terrestrial  coordinate
+systems  –  Geocentric  and  Topocentric,  Various
+geocentric coordinate systems and reference frames:
+Cartesian, Ellipsoidal, Natural and Geodetic Coordinate
+Systems and their inter-relationships, WGS84, IGS and
+ITRF Reference frames, Polar motion and Earth rotation.
+Map projections: Map projections: Introduction to Map
+Projections, Purpose and methods of map projections
+and their classification, Conformal projections – Special
+reference to Lambert Conformal Conic, Stereographic
+and Transverse Mercator, Equivalent and Equidistant
+projections,  Indian  Grid  System, UTM  Projection,
+Methods of map projection transformations.
+Geodetic  Astronomy:  Celestial  Sphere,  Definition  of
+terms in Astronomy, Solution of Astronomical Triangle
+Celestial   coordinate   systems   and    their    inter-
+transformations  Variation   in   Celestial  Coordinates:
+Precession, Nutation, Polar Motion, Physical effects and
+Proper   motion  Time  Systems:   Solar,   Sidereal,
+Ephemerides, Atomic and  Rotational Time Systems:
+UT0, UT1, UT2 and UTC, Polar Motion CIO, Earth
+GEODETIC
+Rotation, Leap Second, Determination  of Astronomic
+ASTRONOMY AND
+CE773M                               3-0-1-0-6    Azimuth,  Latitude and  Longitude.  Satellite Geodesy:
+INTRODUCTION TO
+Introduction  to  Satellite Geodesy, Keplerian Laws  of
+SATELLITE GEODESY
+satellite  motion, Geometry  of  Ellipse and  Keplerian
+ellipse  in Space, Transformation of Coordinates from
+Keplerian  elements  to  Earth  Centered  Earth  Fixed
+(ECEF) coordinate system, Perturbed satellite motion,
+Lagrangian  and  Gaussian  forms   of   Perturbation
+equations, Gravitational and non-gravitational perturbing
+forces, Introduction to GNSS, SLR, VLBI and Satellite
+altimetry, Geodetic applications of satellite missions.
+
+Depth-Averaging of conservation laws, Approximation of
+Shallow Water  Equation:  Kinematic Wave,  Diffusive
+Wave,  Local  Inertia,  Full Dynamic Models;  Solution
+CE736    FLOOD MODELLING     3-0-0-0-9    Techniques:  Basics  of  Finite  Difference  and  Finite
+Volume Methods, convergence, consistency,  stability,
+implicit and explicit schemes, Method of Characteristics;
+Channel Networks: Distributed Flow Routing; Unsteady
+flows in open channels; Sediment Transport.
+
+[PAGE 42]
+Introduction   to   solute   transport  models,  Laplace
+transform of solute transport models, Fourier transform of
+MOMENT ANALYSIS
+solute transport models, Transfer function approaches,
+FOR CONTAMINANT
+CE737                                3-0-0-0-9    temporal and spatial moment analysis of solute plume
+FATE AND
+behavior,  moment  generating   differential  functions,
+TRANSPORT
+moment analysis for compounds undergoing sequential
+decay
+Introduction   to  measurement  system;  types  and
+characteristics     of     instruments;    measurement
+uncertainties; sensor calibration; principles, instruments
+CE738      HYDROMETRY        2-0-3-0-9
+and methods for measuring hydrological variables; data
+acquisition  systems;  data  processing,  storage  and
+dissemination.
+Introduction   to   irrigation  systems;   soil-plant-water
+relations; estimation  of evaporation and  transpiration;
+IRRIGATION
+CE739                                3-0-0-0-9    crop water requirement;  irrigation water requirement;
+SYSTEMS
+irrigation methods; crop models;  irrigation scheduling;
+irrigation efficiencies; irrigation advisories.
+Overview of road safety analysis; elements of crash data;
+review of concepts of probability and statistics (discrete
+and continuous distribution, law of total variance, Bayes'
+rule,  sample  means/variances,   correlations);   linear
+regression  (estimation,  model  selection,  impact  of
+INTRODUCTION TO
+violations   of   assumptions);   count   data  models
+CE775M     ROAD SAFETY        3-0-0-1-5
+(poisson/negative  binomial   regression,   extensions);
+MODELLING
+hotspot identification methods; analysis; expansion and
+modeling of traffic counts; before-after studies; overview
+of  machine  learning  application  in  safety  analysis;
+surrogate safety assessment; emerging trends in road
+safety analysis.
+Experiments   on   road   surface    characterization;
+Relationship  between   viscosity  and  some   of   its
+measures; Experiments on Bituminous mixes; Sub-grade
+LABORATORY
+improvement techniques for pavements; Experiments on
+COURSE IN
+CE780                                0-0-6-3-9      traffic flow characterization; Computer aided analysis and
+TRANSPORTATION
+design   techniques   in   transportation   engineering;
+ENGINEERING
+Equipment   demonstration/explanation    of   working
+principle  of some  equipments  relevant  to  highway
+industry
+Basics about traffic simulation; Discrete and continuous
+distributions; Random number generators; Generating
+random variants; Creation of a road network; Vehicle
+TRAFFIC
+CE781M                               3-0-2-0-6    placement and  vehicle movement on road  network;
+SIMULATION
+Simulation of single and multi-lane traffic flow; Calibration
+and validation; Simulating disorderly traffic; Applications
+of traffic simulation.
+Analysis of beam on elastic foundation;  infinite, semi-
+ANALYSIS OF                            infinite and finite beams; various types of foundations;
+CE783M      CONCRETE          3-0-0-0-5    analysis  of  plates on  elastic  foundation;  analysis  of
+PAVEMENT                      concrete pavement – load stress and thermal stress;
+dynamic loading analysis
+CE784    MACHINE LEARNING    3-0-0-2-11    Introduction to machine learning and data analytics in
+
+[PAGE 43]
+AND DATA                                 civil    engineering:   fundamentals,    tools,    history
+ANALYTICS FOR                      necessities,   machine   learning    in  modern    civil
+CIVIL ENGINEERING                   engineering; recapitulation of linear regression, logistic
+APPLICATIONS                      regression;  supervised  algorithms such as  k-nearest
+neighbor,  support  vector machines,  neural  networks
+fundamentals  and  backpropagation,  applications  to
+structural damage  detection,  soil  classification,  etc.;
+unsupervised clustering algorithms such as hierarchical
+clustering,  k-means  and DBSCAN,  applications  on
+transportation mode inference, level of service of roads;
+convolutional   neural   networks   introduction   and
+fundamentals, image classification and object detection,
+applications to camera-based classification and object
+detection related to structural health monitoring, vehicle
+detection,  etc.;  recurrent  neural  networks,  long-short
+term memory,  applications  to  traffic  state  prediction
+(speed/volume),  soil strength  prediction,  rainfall-runoff
+modelling,   etc.;  variational  autoencoder,  generative
+adversarial  networks,  applications  to  sensor  data
+generation and imputation such as traffic sensors, fault
+diagnostics  in structural health monitoring,  etc.; map-
+reduce fundamentals (key-value), interface, algorithms
+(matrix multiplication, sorting, etc.), relevant tools such
+as  apache   pig,  hive,  spark  fundamentals,  spark
+streaming, applications to large-scale  traffic  trajectory
+data   analysis,   building   information   modelling   in
+construction industry, etc.; large-scale data visualization
+using Tableau, Power BI; deep learning tools such as
+keras, pytorch. Students will carry out a project applying
+the tools/algorithms covered in the course on a topic of
+their choice of interest.
+Characterization  of pavement  materials; Concepts  of
+bituminous   mixture   design;  Unbound   layers   in
+pavements   –   Material   properties   and   design
+PAVEMENT
+CE785M                               3-0-0-0-5    considerations;  Surface  energy  concepts;  Improving
+MATERIALS
+structural properties of unbound and subgrade layers –
+Soil    stabilization   concepts   and   mix   design
+considerations.
+Mechanical modeling of pavement materials - bound and
+unbound   materials,   stress-dependent  and   time-
+dependent response  (with  reference  to modeling  of
+ANALYSIS AND                    bituminous mix, aggregates and soil). Analysis of elastic
+DESIGN OF                        half-space;  analysis  of  bituminous pavement  -  load
+CE786                                3-0-0-0-9
+BITUMINOUS                       stress  and  thermal  stress.  Introduction  to  design
+PAVEMENTS                      concepts. Structural design of bituminous pavement (as
+new  pavement  and  overlay).  Cost  and   reliability
+considerations.  Distresses  in  bituminous  pavements,
+evaluation, maintenance measures.
+Overview   of   different   computational   tools  and
+COMPUTATIONAL                     applications  in  transportation  engineering,  Integrated
+TOOLS FOR                     Developing Environment (IDE) in R/Python, different data
+CE787                               3-0-2-0-11
+TRANSPORTATION                  types and dataframes in R/Python and their applications
+ENGINEERING                          in  transportation  engineering  (vehicle  counts, mode
+choices,  etc.), Different looping techniques, operators,
+
+[PAGE 44]
+regular expressions, user-defined functions in R/Python,
+Basics of structured data processing in R/Python and
+applications in transportation engineering such as time-
+series data processing, Unstructured data processing
+fundamentals  including images and  geo-spatial  data,
+data visualization techniques and applications such as
+GPS traces, crash locations  visualizations, Basics  of
+linear  modeling,  assumptions,  and  applications   in
+transportation  such  as  crash  rates  modelling,  etc.
+Introduction  to  MATLAB,  matrices  and  operators,
+Combining  and   transforming   matrices,   Arithmetic
+operations in matrix, Introduction to functions, Function
+I/O,  Built-in  functions,  Introduction  to  object-oriented
+programming, Class, Subclass, Objects, Methods and
+attributes and their properties, Encapsulation, Inheritance
+and polymorphism, Data structures (structure array, cell
+array,  linked  list,  trees,  etc.), Algorithmic complexity,
+Error handling.
+Maintenance decision-making; statistical techniques for
+estimating  performance   prediction  models   (linear
+TRANSPORTATION
+regression,  stochastic  duration  models);  facility and
+CE788M    INFRASTRUCTURE      3-0-1-0-5
+network-level optimization for limited resource allocation
+MANAGEMENT
+allocation   (Markov   decision   processes,   dynamic
+programming, linear programming).
+i)  static  traffic assignment  (user  equilibrium, system
+optimal assignment, Braess’ paradox, extensions of user
+equilibrium), ii) dynamic traffic assignment (node and link
+TRANSPORTATION                  models, queue models,  cell transmission model,  link
+CE789                                3-0-0-0-9
+NETWORK ANALYSIS                  transmission model, time-dependent shortest paths),  iii)
+combinatorial  optimization  problems  (shortest  path
+problem, minimum spanning  tree,  traveling salesman
+problem, vehicle routing problem)
+Basics  of  literature  review:  Introduction,  identifying
+appropriate  search  engines  Writing  style:  Styles  of
+citation and referencing Referencing various types  of
+LITERATURE
+sources:   journal   articles,  conference  proceedings,
+CE791      SEARCH AND         0-0-0-5-5
+technical  reports,  online  portals, news paper  articles
+REVIEW
+Ethics in writing review reports: Plagiarism, use of figure
+or data from published report, giving proper credit to
+authors.
+Basics of scientific writing Subjects/Actions, Cohesion,
+Emphasis,  Simplicity;  Parts  of  a  Scientific  papers
+SCIENTIFIC WRITING     0-0-0-5-5     Abstract,      Introduction,     Body,      Conclusion,
+CE792
+SKILLS                      Acknowledgements,    Reference;    Writing     styles:
+Referencing, Citation, Language Making and Handling
+Figures and Tables Ethics in writing.
+Basics of scientific presentation Visuals: choice of type
+and size of fonts, color combination, styles, use of sketch
+SCIENTIFIC                   and pictures Delivering impressive presentation: Usage
+CE793      PRASENTATION       0-0-0-5-5     of language, clarity, simplicity, speed, explaining Figures
+SKILLS                     and  Tables  Parts  of a  Scientific  presentation  Title,
+motivation,   objectives,   body,   findings,  summary,
+acknowledgements Ethics in using contents from other
+
+[PAGE 45]
+sources
+Basics  of  data: Primary  data, secondary  data, data
+sources and reliability Tools for data analysis: Identifying
+SCIENTIFIC DATA                    the  right  tool based on the project requirement  (eg.
+ANALYSIS,                       Matlab, R, MSExcel, Access, ArcGIS, etc) Presentation
+CE794                                0-0-0-5-5
+PRESENTATION AND                    of  data:  Graphical,  tabular, and  descriptive, Use  of
+INTERPRETATION                   graphing  tools  in programs including Matlab, R, and
+MSExcel.  Interpretation:  Interpretation  of  results and
+documenting.
+Each Ph.D. student registered for CE797 will give a 45-
+60 minute seminar based on his/her research work.  In
+addition, they  will be expected  to attend  all CE797
+seminars  scheduled  that  semester.    In  addition  to
+registered Ph.D students, other researchers from within
+and outside the Institute may be invited to give seminars
+CE797     PHD SEMINAR I        0-0-0-0-0    as a part of CE797. Grading for CE797 shall be in the
+S/X mode and based on the  quality  of the seminar
+presented by the student and his/her attendance in other
+CE797  seminars. CE DPGC Convener  will be  the
+nominal instructor for the course.  However, grades will
+be given in consultation with thesis supervisor(s) and
+program committee members of the concerned student.
+Each Ph.D. student registered for CE798 will give a 45-
+60 minute seminar based on his/her research work.  In
+addition, they  will be expected  to attend  all CE798
+seminars  scheduled  that  semester.    In  addition  to
+registered Ph.D students, other researchers from within
+and outside the Institute may be invited to give seminars
+CE798     PHD SEMINAR II       0-0-0-0-0    as a part of CE798. Grading for CE798 shall be in the
+S/X mode and based on the  quality  of the seminar
+presented by the student and his/her attendance in other
+CE798  seminars. CE DPGC Convener  will be  the
+nominal instructor for the course.  However, grades will
+be given in consultation with thesis supervisor(s) and
+program committee members of the concerned student..
+
+CE799      PHD THESIS         0-0-0-9-9
+Ph. D. Thesis
+Each MS (Research) student registered for CE897 will
+give a 45-60 minute seminar based on his/her research
+work.   In addition, they  will be expected to attend  all
+CE897 seminars scheduled that semester. In addition to
+registered MS (Research) students, other researchers
+from within and outside the Institute may be invited to
+MS RESEARCH
+CE897                                0-0-0-0-0    give seminars as a part of CE897. Grading for CE897
+SEMINAR I
+shall be in the S/X mode and based on the quality of the
+seminar presented by the student and his/her attendance
+in other CE897 seminars. CE DPGC Convener will be
+the nominal instructor for the course.  However, grades
+will be given in consultation with thesis supervisor(s) of
+the concerned student.
+MS RESEARCH                 Each MS (Research) student registered for CE898 will
+CE898                                0-0-0-0-0
+SEMINAR II                       give a 45-60 minute seminar based on his/her research
+
+[PAGE 46]
+work.   In addition, they  will be expected to attend  all
+CE898 seminars scheduled that semester. In addition to
+registered MS (Research) students, other researchers
+from within and outside the Institute may be invited to
+give seminars as a part of CE898. Grading for CE898
+shall be in the S/X mode and based on the quality of the
+seminar presented by the student and his/her attendance
+in other CE898 seminars. CE DPGC Convener will be
+the nominal instructor for the course.  However, grades
+will be given in consultation with thesis supervisor(s) of
+the concerned student.
+MS - RESEARCH
+CE899                                0-0-0-9-9
+THESIS                    MS(R) Thesis
+CE999          DIIT Project          0-0-0-9-9    DIIT Project
+This  course  will  provide a  basic  understanding  of
+macroscopic models such as the firstorder and higher-
+order  traffic  flow models, model  characteristics, and
+numerical schemes. Microscopic models such as car-
+Traffic Dynamics and                    following and lane-changing models will be discussed.
+CE714                               3-0-0-0 [9]
+Simulation                     Development  of   traffic  simulation,  calibration,  and
+validation of simulation  will be presented. Finally, the
+course discusses disordered  traffic, macroscopic and
+microscopic  models  for  disordered   traffic,  and   its
+implementation in traffic simulation.
+The course introduces the brief process of execution of
+works and procurement of materials through contracts
+with emphasis on different modes of execution, types of
+bids, parties for the contract and the required ethics.
+
+Present a brief overview of the applicable laws like Indian
+Contract Act, Arbitration and Reconciliation Act etc
+
+Present the  structure and broad content  of the  bid
+CE715M    Contract Management     3-0-0-0 [5]                                             documents in relation with the applicable laws.
+
+Present  the  following  processes  being  followed  by
+various departments with case studies:
+• Bid evaluation
+• Entering into the contract
+• Managing contracts
+• Managing the change requests
+• Dispute resolution

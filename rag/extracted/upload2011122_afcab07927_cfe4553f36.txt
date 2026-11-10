@@ -1,0 +1,103 @@
+[PAGE 1]
+REGISTRATION DATA STATISTICS FOR 2011-12/SECOND
+
+TOTAL NUMBER OF COURSES BEING OFFERED                              442
+
+EXCLUDE THE THESIS COURSE,SEMINAR,PROJECT,BTP,SUMMER                356
+TRAINING,PRESENTATION
+
+MAXIMUM CLASS SIZE (CHM102A)                                       808
+
+MINIMUM CLASS SIZE (AT PRESENT THERE ARE 372 COURSES)                  1
+
+AVERAGE CLASS SIZE (OF ALL 372 COURSES)                                  54.3
+
+NUMBER OF COURSES WITH 5 STUDENTS OR LESS                            32
+
+NUMBER OF COURSES WITH 100 STUDENTS OR MORE                        33
+
+AVERAGE CLASS SIZE OF COURSES THAT HAVE >5 AND LESS THAN 100           36.4
+STUDENTS
+
+THE FOLLWING IS THE NUMBER OF COURSES WITH VARIOUS
+CLASS STRENGTHS
+
+1       9
+
+2       6
+
+3       3
+
+4       3
+
+5       11
+
+6-10    30
+
+11-15   44
+
+16-20   34
+
+21-25   21
+
+26-30   25
+
+31-50   57
+
+51-75   45
+
+76-100  35
+
+>100    33
+
+TOTAL   356
+
+[PAGE 2]
+2011-12 SECOND SEMESTER
+
+LIST OF COURSES IN WHICH <=5 STUDENTS REGISTERED
+
+Course                                                                                No. of
+Sl.No    No          Instructor -1         Instructor-2                                 Title                      Students
+1     ECO735   S SAHU                        DEVELOPMENT ECONOMICS                       1
+2     ECO737  VIMAL KUMAR                  ADVANCES IN MICROECONOMIC THEORY           1
+3      PHI753   A V R SHARMA                MODERN LOGIC                                 1
+4     SOC721  MUNMUN JHA                   SOCIOLOGICAL THEORY                           1
+5     SOC745   B K PATTANAIK                    SOCIAL THEORY IN LATE TWENTIETH CENTURY         1
+6     PSY776   SHIKHA DIXIT                     SEMINAR COURSE IN PSYCHOLOGY                 1
+7      PHI752   PRASHANT BAGAD                PROBLEMS IN PHILOSOPHICAL AESTHETICS            1
+8      PHI753   A V R SHARMA                MODERN LOGIC                                 1
+9     PHY571   PANKAJ JAIN                     THEORETICAL PROJECT II                           1
+10                                          ENVIRONMENTAL ECONOMICS LEGISLATION
+ECO747  P M PRASAD                  AND SOCIAL IMPACT                             1
+11    BSE638    B PRAKASH                       STRUCTURAL BASIS OF PROTEIN FUNCTION            2
+12    PSY794   K RAVI PRIYA                        DISASTER MENTAL HEALTH                          2
+13                                     MANAGEMENT OF ORGANIZATIONAL
+PSY787   A K SINHA                       BEHAVIOUR                                      2
+14    PSY775   BRAJ BHUSHAN                  FUNDAMENTAL OF NEUROPSYCHOLOGY             2
+15     PHI757    VINEET SAHU                  MORAL JUDGEMENT                              2
+16    ECO750  K K SAXENA         SURAJIT SINHA   ADVANCED MICROECONOMICS                   2
+17                                                SPECIAL STUDIES/PROJECT COURSES IN
+DES698   KOUMUDI P PATIL                  DESIGN                                         3
+18    EE628    A BANERJEE                       TOPICS IN CRYPTOGRAPHY AND CODING            3
+19    ME100   N N KISHORE                     INTRODUCTION TO PROFESSION                    3
+20                                               BASES IN LOCALLY CONVEX SPACES AND
+MTH634  M GUPTA                        KOETHE SEQUENCE SPACES                        4
+21    MTH759  N NILAKANTAN                   ALGEBRIC TOPOLOGY II                           4
+22    MTH729   S DUTTA                       ERGODIC THEORY                                4
+23    AE648   A K GHOSH                          FLIGHT STABILITY AND CONTROL                    5
+24    MTH421  D BAHUGUNA                   ORDINARY DIFFERENTIAL EQUATIONS                5
+25                                          SOLAR ENERGY TECHNOLOGIES AND
+MSE681   ASHISH GARG                     MATERIALS                                      5
+26    ME624    B L SHARMA                     CALCULUS OF VARIATIONS                         5
+27                                                SUBLINEAR ALGORITHMS FOR PROCESSING
+CS718    SUMIT GANGULY                   MASSIVE DATA SETS                               5
+28                                 RAJIV SINHA /
+CE648   D PAUL               J N MALIK      LABORATORY PRACTICES IN GEOSCIENCES           5
+29                             PARTHA        ANALYSIS AND DESIGN OF TRANSPORTATION
+CE682    ANIMESH DAS      CHAKROBORTY  INFRASTRUCTURE                                 5
+30                                        THERMODYNAMICS OF FLUIDS AND FLUID
+CHE623   J K SINGH                         MIXTURES                                        5
+31                             PARTHA       LABORATORY COURSE IN TRANSPORTATION
+CE690    ANIMESH DAS      CHAKROBORTY  ENGINEERING                                    5
+32    AE687     S KAMLE                       AEROSPACE STRUC ANALYSIS II                     5

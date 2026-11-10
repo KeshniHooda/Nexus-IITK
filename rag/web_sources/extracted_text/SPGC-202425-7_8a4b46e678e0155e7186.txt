@@ -1,0 +1,2904 @@
+[Page 1]
+MINUTES 
+FOR THE 7"' MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE 
+HELD ON April 2, 2025 (Wednesday) AT 10:30 AM 
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING 
+Members Present: Prof(s): Appu Singh on behalf of Suresh Kumar (BSBE), Basker Sundararaju (CHM), Ark Verma 
+(CGS), Gourabananda Pahar (CE), Soumik Das on behalf of Dipin S Pillai (CHE), Piyush Rai (CSE), J Ramkumar (DES), 
+Sukumar Vellakkal (ECO), Imon Mondal (EE), Animesh Mandal (ES), Rajarshi Sengupta (HSS), Subhankar Mukherjee 
+(DoMS), Anikesh Pal (ME), Sudhanshu S Singh (MSE), Pankaj Wahi (NET), Sudhansu Shekhar (MATH), Sagar 
+Chakrabarty (PHY), Prabodh Bajpai (SEE) 
+Members Absent: Prof(s), P M Mohite (AE), Pritam Chakraborty (MSP), Sapam Ranjita Chanu (PSE), Kunal P Mooley 
+(SPASE), 
+Senate Nominee: Prof(s) Abheejeet Mohapatra, Naveen Tiwari 
+Student representatives: Mr. Kartik Rout, Mr. Anubhav Jain, Mr. Saurabh Sona Lahamate 
+(A) Confirmation of minutes of 6th SPGC meeting held on February 27, 2025 
+The minutes is confirmed 
+(B) Noting of approval/recommendation given: 
+1. 
+Proposed changes in the eligibility criteria for admission in M.Des Programme: SPGC chair had circulated an 
+email to SPGC members on the recommendation of proposed changes in the eligibility criteria for admission in M.Des 
+programme. The proposed changes (recommended by SPGC) is provided in Annexure B.1. This matter is to be sent 
+to Senate. 
+2. Gate paper codes, course template and no. of seats for M. Tech programme in Artificial Intelligence for 
+Sustainability under the Kotak School of Sustainability: SPGC chair had circulated an email to SPGC members 
+on the approval of Gate paper codes and course template. In addition, number of seats for the programme to be 
+recommended. The related document is attached as Annexure B.2. Gate paper codes and course template have been 
+approved by SPGC. In addition, on the query raised by Department of CE on CE663, the school has informed that it 
+can make alternative arrangement on the same line as CE663, if needed. The recommended number of seats to be 
+sent to Senate. 
+3. 
+Termination of students not registered in 2024-25-2: In the 6th SPGC meeting, it was decided to provide final 
+deadline of March 5, 2025 to students for registration (with valid reasons) and after that the students will be terminated 
+from programme based on clause 5.7 of the PG manual. The final list of students terminated under 5.7 is provided in 
+Annexure B.3. 
+(C) Item requiring SPGC Approval: 
+a) Conversion from MSR/MTech to PhD Program: 
+S.No 
+Roll No 
+Name 
+Dept 
+Prog 
+Supervisor & 
+DPGC 
+Recommendation 
+Remark 
+SPGC 
+Recommendation 
+01- 
+231010052 
+Piyush 
+Dewangan 
+AE 
+MTech 
+Recommended 
+CPI=7.38, CU=81 
+Last Qualification-
+BTech -69.79 
+Approved 
+02- 
+241010071 
+Umesh 
+Chandra 
+AE 
+MTech 
+Recommended 
+CPI=9.25, CU=36 
+Last Qualification- 
+BTech-74.34 
+Not 
+Approved as the 
+student does not 
+satisfy either clause 
+4.6.(a) and 4.6.(b) of 
+the PG manual. 
+03- 
+22102038 
+Priyanka 
+Pal 
+CHE 
+MTech 
+Recommended 
+CPI=7.50, CU=54 
+Last Qualification- 
+BTech- 80.96 
+Not 
+Approved as per 
+clause 4.6 of the PG 
+manual, which states 
+that the conversion is 
+allowed in the 
+beginning of 
+2T /3ra/4th/5th semester 
+only 
+Page 1 of 30
+
+[Page 2]
+MINUTES 
+FOR THE 7"' MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE 
+HELD ON April 2, 2025 (Wednesday) AT 10:30 AM 
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING 
+b) New course approval: 
+Course No 
+Title 
+Credits 
+Instructor 
+SPGC 
+Decision 
+CHE601 M 
+Elementary 
+Engineering 
+Mathematics 
+3-0-0-0-(5 } 
+Dr. Naveen Tiwari 
+Dr. V Shankar 
+Approved 
+CHE602M 
+Introduction to Transport Phenomena 
+3-0-0-0-(5) 
+Dr. Naveen Tiwari 
+Dr. V Shankar 
+Approved 
+CHE603M 
+Introduction to Thermodynamics 
+3-0-0-0-(5) 
+Dr. Indranil Saha Dalal 
+Dr. Vishal Agarwal 
+Dr. Soumik Das 
+Dr. Goutam Deo 
+Dr. Salman Ahmad Khan 
+Approved 
+CHE604M 
+Fundamentals of Chemical Reaction 
+Engineering 
+3-(}-0-U-(5) 
+Dr. Indranil Saha Dalal 
+Dr. Vishal Agarwal 
+Dr. Soumik Das 
+Dr. Goutam Deo 
+Dr. Salman Ahmad Khan 
+Approved 
+CHE615 
+Microhydrodynamics 
+and 
+Suspensions 
+3-0-0-0-(9) 
+Dr. Indranil Saha Dalal 
+Approved 
+CHE657 
+Machine 
+Learning 
+in 
+Chemical 
+Engineering 
+3-0-0-0-(9) 
+Dr. Salman Ahmad Khan 
+Approved 
+CHE658 
+Mathematics for Machine Learning 
+3-0-0-0-(9) 
+Dr. Indranil Saha Dalal 
+Approved 
+EE682 
+Real Time Simulation of Electric 
+Power System with Microgrid 
+3-0-0-0-(9) 
+Dr. 
+Gururaj 
+Mirle 
+Vishwanath 
+Approved 
+MBA79IM 
+The Political Economy of Climate 
+Change 
+3-0-0-0-(5) 
+Dr. JothsnaRajan 
+Approved 
+MSE644 
+Computational 
+Materials 
+Thermodynamics 
+3-0-0-0-(9) 
+Dr. Soumya Sridhar 
+Approved 
+c) Termination under 5.7 and 8.6: 
+S.No 
+Roll No 
+Name 
+Dept. 
+Prog. 
+Supervisor & 
+DPGC 
+Recommendation 
+Remark 
+SPGC 
+Decision 
+01 
+241290609 
+Ndungutse Felicien 
+SEE 
+PhD 
+Recommended 
+Termination 
+under 5.7 
+Approved 
+02 
+241290601 
+Abhijeet Singh 
+SEE 
+PhD 
+Recommended 
+Termination 
+under 5.7 
+Approved 
+03 
+22201265 
+Sandeep Kumar 
+Rajput 
+AE 
+PhD 
+Comprehensive 
+exam failed two 
+times 
+Termination 
+under 8.6 
+Approved 
+04 
+22114264 
+Baidurya 
+Mukherjee 
+DOMS 
+PhD 
+Recommended 
+Termination 
+under 5.7 
+Approved 
+Page 2 of 30
+
+[Page 3]
+MINUTES 
+FOR THE 7"' MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE 
+HELD ON April 2, 2025 (Wednesday) AT 10:30 AM 
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING 
+d) Change of registration from full-time to part-time: 
+S.No 
+Roll No 
+Name 
+Dept 
+Prog 
+Supervisor and DPGC 
+Recommendation 
+Remark 
+SPGC 
+Decision 
+1. 
+231050039 
+Joydeep Das 
+ME 
+MTech 
+Recommended 
+CU=72 
+TU=18 
+CPI=7.50 
+NOC-
+provided 
+Approved 
+2. 
+19104277 
+Satish Srivastava 
+EE 
+PhD 
+Recommended 
+CU=36 
+TU=387 
+CPI=7.50 
+NOC -
+provided 
+Approved 
+e) Transfer from M.Tech./ M.Des. to M.Tech./ M. Des. (with project) 
+S.No 
+Roll No 
+Name 
+Dept 
+Prog 
+Supervisor and DPGC 
+Recommendation 
+SPGC Decision 
+1. 
+231020006 
+Athitha 
+Kandan J 
+CHE 
+MTech 
+Recommended 
+Approved. The student will 
+be awarded M. Tech (with 
+Project Degree). 
+2. 
+231020040 
+Shivam 
+Mishra 
+CHE 
+MTech 
+Recommended 
+Approved. The student will 
+be awarded M. Tech (with 
+Project Degree). 
+3. 
+21223265 
+Subhajit 
+Chakraborty 
+ES 
+MTech 
+(PhD 
+Exit 
+option) 
+Recommended 
+Not Approved. MTech 
+(with project) option is not 
+for students exiting PhD 
+programme with an M.Tech 
+degree. 
+4. 
+231040117 
+Tirunagari 
+Rahul 
+EE 
+MTech 
+Recommended 
+Approved subject to 
+confirmation from the 
+student on transfer from M. 
+Tech degree to M. Tech 
+(with project) degree as per 
+clause 7.9 of the PG 
+manual. 
+I) 
+Course Drop Request 
+S.N 
+o 
+Roll No 
+Name 
+Dept 
+Prog 
+Course 
+No 
+Instructor 
+Recommendation 
+DPGC 
+Recommendation 
+SPGC Decision 
+1 
+241010039 
+Mohamed 
+Asleem M 
+AE 
+MTech 
+ME752 
+Not permitted 
+Recommended 
+Approved. To be 
+sent to Senate as a 
+noting item. 
+2 
+241010073 
+Vighnesh 
+Ganesh 
+Nimje 
+AE 
+MTech 
+AE621 
+Not permitted 
+Recommended 
+Approved. To be 
+sent to Senate as a 
+noting item. 
+3 
+231060601 
+Durfishan 
+Mushtaq 
+MSE 
+PhD 
+MSE801 
+MSE799 
+Recommended 
+Recommended 
+Approved 
+4 
+242010001 
+Arjun 
+Gautam 
+AE 
+MTech 
+AE621 
+Not permitted 
+Recommended 
+Approved. To be 
+sent to Senate as a 
+noting item. 
+Page 3 of 30
+
+[Page 4]
+MINUTES 
+FOR THE 7"' MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE 
+HELD ON April 2, 2025 (Wednesday) AT 10:30 AM 
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING 
+For mid-sem drop requests, SPGC chair to also form a sub-committee to recommend changes in the current procedure, if any. 
+g) Request to appoint External Co-Supervisor 
+Requests discussed in 61h SPCC meeting 
+Note: SPGC discussed the matter of addition of external co-supervisor for IIT Kanpur students and decided that NOC from 
+the head of section/organization/institute of external co-supervisor be provided with the application. This is in line with the 
+process of addition of IIT Kanpur faculty as external co-supervisor for students from other institutions. 
+S. 
+No 
+Roll No 
+Name 
+Dept 
+Prog 
+Supervisor and 
+DPGC 
+Recommendation 
+Approval for 
+Co-Supervisor 
+SPGC Recommendation 
+1 
+21203275 
+Ratnesh 
+Kushwaha 
+CE 
+PhD 
+Recommended 
+Prof. Alexander Kehm 
+Prof. Mathis Biobfeld 
+,
+ 
+Germany 
+After due deliberation, SPGC 
+does not recommend two 
+external co-supervisors. This 
+is also 
+m
+ 
+line with clause 
+11.1.4 of PG manual. 
+Moreover, external co-
+supervisor needs to provide 
+NOC from 
+institute/organization 
+2 
+241230608 
+Gayatri 
+Sahoo 
+ES 
+PhD 
+Recommended 
+Prof Arun Kumar Ojha- 
+NGRI, Hyderabad 
+External co-supervisor needs 
+to provide NOC from 
+institute/organization 
+3 
+21203265 
+Apratim 
+Biswas 
+CE 
+PhD 
+Recommended 
+Prof Markus Hollaus 
+Prof. Norbert Pfeifer 
+Vienna 
+University 
+of 
+Technology (TU Wien) 
+Austria 
+After due deliberation, SPGC 
+does not recommend two 
+external co-supervisors. This 
+is also 
+m
+ 
+line with clause 
+11.1.4 of PG manual. 
+Moreover, external co-
+supervisor needs to provide 
+NOC from 
+institute/organization 
+4 
+231120002 
+Akshay 
+Kumar 
+Choudhary 
+MSP 
+MTech 
+Recommended 
+Dr. Ashish 
+(Principal Research 
+Engineer-SAMTEL) 
+Not recommended as clause 
+11.1.3 was not followed. 
+5 
+19112263 
+Puneet 
+Singh 
+Parmar 
+MSP 
+PhD 
+Recommended 
+Dr. Ashish 
+(Principal Research 
+Engineer-SAMTEL) 
+Not recommended as clause 
+11.1.3 was not followed. 
+New requests 
+S. 
+No 
+Roll No 
+Name 
+Dept 
+Prog 
+Supervisor and 
+DPGC 
+Recommendation 
+Approval for 
+Co-Supervisor 
+SPGC Recommendation 
+1 
+241060020 
+Saiful Islam 
+MSE 
+MTech 
+Recommended 
+Dr. Subrata Mukherjee 
+Head, AMCRG, R&D, 
+Tata Steel Ltd 
+External co-supervisor needs 
+to provide NOC from 
+institute/organization 
+Page 4 of 30
+
+[Page 5]
+MINUTES 
+FOR THE 7a' MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE 
+HELD ON April 2, 2025 (Wednesday) AT 10:30 AM 
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING 
+Dr. Anwesha 
+Soumya 
+Khasnobish 
+External co-supervisor needs 
+2 
+231040617 
+Chakravarty 
+EE 
+PhD 
+Recommended 
+Scientist, TCS Research 
+& Innovation Labs, 
+Kolkata, India 
+to provide NOC from 
+institute/organization 
+H) Items requiring SPGC recommendation for Senate/Senate Chairperson considerations: 
+a) Appeal for reinstatement: 
+S. 
+No 
+Roll No 
+Name 
+Dept 
+Prog 
+Supervisor/Course 
+Instructor, 
+Recommendation 
+DPGC 
+Recommendation 
+SPGC 
+Recommendation 
+1 
+231010615 
+Smrutiranjan 
+Nayak 
+AE 
+PhD 
+Recommended 
+Recommended 
+Recommended for
+2025-26-I 
+b) Exit from PhD programme with MTech/MS-Research Degree 
+S. 
+No 
+Roll No 
+Name 
+Dept 
+Prog 
+Supervisor and 
+DPGC 
+Recommendation 
+Remark 
+SPGC 
+Recommendation 
+1 
+20218272 
+Samanwita 
+Mohapatra 
+BSBE 
+PhD 
+Recommended 
+CU=54 
+TU=198 
+CPI=8.67 
+Recommended 
+2 
+19107266 
+Anindya Sarkar 
+CHM 
+PhD 
+Recommended 
+CU=36 
+TU=387 
+CPI- 8.0 
+SPCC recommends 
+waiver of CHM888 for 
+the student and exit with 
+MSR degree 
+c) To consider requests for academic extension for the semester 2024-25-II from those P.G. students who have completed four 
+years (M. Tech/M.Des./MSR), six years (PhD) and seven years (Part-Time/External/enrolled in PhD engineering after 
+BTech/MSc: 
+Sr. 
+No. 
+Roll No. 
+Student's Name 
+Dept 
+Prog. 
+Thesis Supervisor 
+Recommended 
+DPGC 
+Recommendatio
+n 
+SI'CC 
+Recommendation 
+1 
+19204013 
+ASHWANI KUMAR 
+EE 
+MTech 
+Recommended 
+Recommended 
+Recommended 
+M) Any other item with the permission of chair: 
+Page 5 of 30 
+~W 
+S
+
+[Page 6]
+MINUTES 
+FOR THE 7"' MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE 
+HELD ON April 2, 2025 (Wednesday) AT 10:30 AM 
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING 
+Sr. 
+Item Description 
+SPGC Recommendation 
+1 
+Request to continue PhD program remotely: 
+Mr. 
+MOSAB 
+SHAABAN 
+SHAHEEN- 
+17111265-CSE 
+After due deliberations, SPGC does not recommend the request of the 
+student as a registered student must be on leave or in campus 
+2. 
+Semester 
+leave 
+request 
+- 
+SUBHASH 
+DADARWAL-22103071-CE 
+(Thesis 
+supervisors recommendation is negative for 
+Semester leave, CPI=8.58,TC=72, CC=72) 
+Supervisor does not recommend semester leave but DPGC has 
+recommended it. After due deliberations, SPGC approved semester leave 
+request of the student for semester 2024-25-2. 
+3 • 
+Request for thesis submission extension for 
+the six month for medical reason, Anubhuti 
+Saha-15219261-DES- Open Date 04-10-2024 
+Considering the medical condition, SPGC approved the extension request 
+of the student. 
+4. 
+Request 
+for 
+extension 
+to 
+conduct 
+comprehensive examination Ms Apoorva 
+Mishra- 231140601-DOMS 
+Based on the recommendation of DPGC, SPGC approved the request. 
+5• 
+Pending physical document verification for 
+Y24- January Batch (deadline was March 5, 
+2025) 
+SPGC chair presented the status of document verification for which the 
+deadline was March 5, 2025. Three students have not submitted the 
+required documents: 1-Amit Kumar(242040603)-EE,2-Shyam Sundar 
+Thakur(242010604)-AE, 3-Tanzeem Hussain (242070623)-CHM.DPGC 
+convener of Department of Chemistry informed that in spite of contacting 
+the student, he has not responded. In this view, SPGC decided to 
+recommend the cancellation of admission of Tanzeem Hussain 
+(242070623)-CHM. This matter to be sent to Chair, Senate for approval. 
+Based on the requests from other two students and recommendations from 
+DPGC, SPGC decided to provide a final extension till April 23, 2025. 
+After this date, the SPGC will recommend the cancellation of admission 
+of students and same will be sent to Chair Senate for consideration. 
+6
+Correction in Tutorial credit (3 credits) in 
+ANNEXURE-III of PG Manual 
+As tutorial is of 2 credits, SPGC approved this change. 
+Page 6 of 30
+
+[Page 7]
+MINUTES 
+FOR THE 7th MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE 
+HELD ON April 2, 2025 (Wednesday) AT 10:30 AM 
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING 
+7
+Proposal for award of MSR degree with PhD 
+degree to those students who are admitted to 
+PhD program in Sciences directly after a 4- 
+year undergraduate degree 
+There was a proposal from Department of Physics to offer MSR degree 
+with PhD degree to those students who are admitted to PhD program in 
+directly after a 4-year undergraduate programme (Annexure M.7-A). The 
+feedback from the Department were sought on this as well (Annexure M.7-
+B). 
+It is to be noted that the Senate in its meeting held on 28-11-2014 
+had approved MSR degree only for Engineering Departments. However, 
+based on the PGARC report, the Senate has also approved MSR degree as 
+an exit degree for students admitted to PhD program in the Sciences 
+Department (clause 7.8.2 of the PG manual). With this background and for 
+the benefit of the PhD students, SPGC proposed the following: 
+(a) Award of MSR degree with PhD degree to those students who are 
+admitted to PhD program in directly after a 4-year undergraduate. 
+(b) To simplify, clause 11.7.1. and 11.7.2 to be combined, i.e., existing 
+clause 11.7 to be restructured. Also, deletion of clause 3 in Annexure V of 
+PG manual is needed. 
+This proposed modification in the PG manual has been provided in 
+Annexure M.7-C. This matter is to be placed in the Senate for discussion 
+and approval. 
+8. 
+Offering Profession and Communication 
+Skills Course (XYZ888; XYZ is department 
+code) and seminar course (XYX801) in 
+modes other than offline mode 
+The Senate in its 569th meeting did not approve the proposal of SPGC for 
+the waiver of XYZ801 for PhD students who are working professionals 
+(documents attached). It was pointed out that compulsory courses cannot 
+be waived. The Senate had also directed the SPGC to discuss this matter 
+to meet the requirements of the two seminar courses and XYZ888. 
+After due deliberations, SPGC requests the Senate to cancel the approval 
+of waiver given to PhD students, who are working professionals, for 
+XYZ888 in its 564th meeting. In addition, SPGC recommends that 
+Departments/IDPs should be allowed to offer these courses (XYZ801 and 
+XYZ888) in some other modes (such as online) for PhD students who are 
+working professionals and have returned to their parent organization after 
+completion of courses. This matter is to be placed in the Senate for 
+discussion and approval. 
+9. 
+Changes in comprehensive exam timeline 
+Currently, the course credits requirement in Departments/IDPs is 36-54 
+for students admitted with masters degree, whereas it varies between 36-
+72 (for almost all) for students admitted with bachelors degree. Therefore, 
+it is expected that students can complete course work in 1-2 semesters (if 
+no backlogs). 
+Considering the Senate approved 'Open Seminar in 9th Semester or 
+OS9S" policy and recommendations of Academic Practice Committee 
+(APC) (Annexure M.9-A) and related feedback from Departments 
+(Annexure M.9-B), SPGC recommended that students complete their 
+comprehensive exam at the earliest after completion of course work. In 
+this view, the proposed changes in the PG manual has been provided in 
+Annexure M.9-C. 
+This matter is to be placed in the Senate for consideration. 
+10. 
+Extension of DMC report submission 
+deadline for Semester 2024-25-2 
+Based on the requests from faculty members and students, SPGC 
+recommended the extension of DMC report submission deadline by two 
+months, i.e., by 31St May 2025. As pre-registration is approaching, SPGC 
+decided to request Chair, Senate to approve the recommendation of 
+SPGC. 
+Page 7 of 30
+
+[Page 8]
+MINUTES 
+FOR THE 7th MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE 
+HELD ON April 2, 2025 (Wednesday) AT 10:30 AM 
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING 
+11. 
+Permission to proceed to other Academic 
+Institutions as Non-Degree Students" for 
+MSc students 
+Currently, both PG (M.Tech./M.Des./M.S. by Research/Ph.D.) and UG 
+students are permitted to go to other academic institutions as non-degree 
+students as per clause 6.1 (PG manual) and 11.5 (UG manual), 
+respectively. There is no such provision for MSc students in MSc-MSPD 
+manual. The proposal on this matter (Annexure M.11-A) from the SPGC 
+subcommittee along with feedback from Departments/IDPs (Annexure 
+M.11-B) were discussed. After due deliberations, SPGC recommended 
+the subcommittee proposal. The proposed addition in MSc-MSPD 
+manual (as clause 11.5) has been provided in Annexure M.11-C. This 
+matter is to be placed in the Senate meeting for consideration. 
+12. 
+Revised Chapter 10 of MSc-MSPD manual 
+(relevant for MSc-PhD Programme) 
+The proposed revision in Chapter 10 (for MSPD) (Annexure M.12-A) and 
+corresponding feedback from Departments/IDPs (Annexure M.12-B) 
+were discussed. After due deliberation, SPGC recommended the revision 
+of Chapter 10 of MSc-MSPD manual as per Annexure M.12-A. This 
+matter is to be placed in the Senate meeting for discussion and approval. 
+13. 
+Proposal for waiver of JAM Score for 
+Foreign Nationals in M.Sc. program 
+The proposal from Dean of International relations (Annexure M.13-A) 
+and related feedback from Departments/IDPs (Annexure M.13-B) were 
+discussed. After due deliberations, SPGC recommended the waiver of 
+JAM score for Foreign Nationals in MSc programme. This matter is to be 
+placed in the Senate for discussion and approval. 
+14 
+Online teaching mode request for BSE667 in 
+summer term along with increase in number 
+of seats as well as modification of pre- 
+requisite 
+BSE667 course document mentioning the number of lectures in online 
+and offline mode along with other details is provided in Annexure M.14. 
+It was pointed out by DPGC convener (BSBE), about 50% of the content 
+will be covered in clinics and 50% will be at IIT Kanpur. After due 
+deliberation, due to logistics issues, SPGC recommended that BSE667 
+can be offered in summer. Since as per SPGC's understanding this course 
+(a compulsory course of the program) will always run in summer only, it 
+should be treated as a regular course being offered 
+i
+n
+ 
+summer term and 
+not as a typical summer course (i.e., no honorarium is recommended for 
+offering BSE667 in summer term). Furthermore, SPGC does not 
+recommend an increase in the number of seats as well as change in pre-
+requisite as of now. 
+Annexure - B.1 
+Existing 
+Proposed 
+The applicant must have a bachelor's degree in The applicant must have a bachelor's degree in engineering or 
+engineering or a 4-year bachelor's degree in a 4-year bachelor's degree in science / Design (B.Des.) / 
+science, 
+Design 
+or 
+Architecture 
+with Architecture (B.Arch) / Planning (B.Plan) / Pharmacy 
+marks/CPI not below the specified minimum. (B.Pharm) / Fine Arts (BFA) / Visual Arts (BVA) with 
+Candidates holding degrees in Fine Arts or marks/CPI not below the specified minimum or Master's 
+Interior Design are not eligible to apply. 
+degree in science or arts with marks/CPI not below the 
+specified minimum. 
+Page 8 of 30
+
+[Page 9]
+MINUTES 
+FOR THE 7"' MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE 
+HELD ON April 2, 2025 (Wednesday) AT 10:30 AM 
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING 
+Annexure -13.2 
+List of saner codes of GATE exam 
+SN 
+Code 
+Paper name 
+Kotak School of Sustainability 
+1 
+AE 
+Aerospace Engineering 
+2 
+AG 
+Agricultural Engineering 
+3 
+AR 
+Architecture and Planning 
+4 
+BM 
+Biomedical Engineering 
+5 
+BT 
+Biotechnology 
+6 
+CE 
+Civil Engineering 
+Y 
+7 
+CH 
+Chemical Engineering 
+Y 
+8 
+CS 
+Computer Science and Information Technology 
+Y 
+9 
+CY 
+Chemistry 
+10 
+DA 
+Data Science & Artificial Intelligence (NEW) 
+Y 
+11 
+EC 
+Electronics and Communication Engineering 
+Y 
+12 
+EE 
+Electrical Engineering 
+Y 
+13 
+ES 
+Environmental Science & Engineering 
+Y 
+14 
+EY 
+Ecology and Evolution 
+15 
+GE 
+Geomatics Engineering 
+16 
+GG 
+Geology and Geophysics 
+17 
+IN 
+Instrumentation Engineering 
+18 
+MA 
+Mathematics 
+Y 
+19 
+ME 
+Mechanical Engineering 
+Y 
+20 
+MN 
+Mining Engineering 
+21 
+MT 
+Metallurgical Engineering 
+22 
+NM 
+Naval Architecture and Marine Engineering 
+23 
+PE 
+Petroleum engineering 
+24 
+PH 
+Physics 
+Y 
+25 
+PI 
+Production and Industrial Engineering 
+26 
+ST 
+Statistics 
+Y 
+27 
+TF 
+Textile Engineering and Fibre Science 
+28 
+XE 
+Engineering Science 
+Y 
+29 
+XH 
+Humanities and Social Sciences 
+30 
+XL 
+Life Sciences 
+3. No of Seats for the M. Tech Program: 20 (Twenty) 
+Page 9 of 30 
+S~~
+
+[Page 10]
+MINUTES 
+FOR THE 7"' MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE 
+HELD ON April 2, 2025 (Wednesday) AT 10:30 AM 
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING 
+4. Program Structure 
+Minimum Credits Required for Graduation: Course Credits — 72 and Thesis Credits — 72 
+Semester: I. Normal Semester Credit Required:36, Min Credit Required:27, 
+Max Credit Permitted:45 
+Subject Type 
+Subject No. 
+Subject Name 
+L-T-P-D 
+Credit 
+Theory (Core) 
+CE 663 
+Humans, Environment and Sustainable Development 
+3-0-0-0 
+9 
+Theory (Core) 
+KSS 6XX 
+Sustainability of AI 
+3-0-0-0 
+9 
+Theory (Core) 
+KSS 6XX 
+Math & Computation using Python 
+3-0-0-0 
+9 
+Theory (Core) 
+CS771 or
+Equivalent 
+An introductory course on AI/ML 
+3-0-0-0 
+9 
+Total 
+36 
+Semester: 2. Normal Semester Credit Required:36, Min Credit Required:27, 
+Max Credit Permitted:45 
+Lab (Core) 
+KSS 6XX 
+Applications of AI in Sustainability Lab 
+2-0-3-0 
+9 
+Electives 
+(3 Regular 
+Courses, or 6 
+Modular Courses, 
+or a combination) 
+-- 
+Elective - I 
+3-0-0-0 
+5/9 
+-
+-
+ 
+Elective - II 
+3-0-0-0 
+5/9 
+-- 
+Elective — III 
+3-0-0-0 
+5/9 
+-
+-
+ 
+*Elective - IV 
+3-0-0-0 
+5/9 
+-
+-
+ 
+*Elective - V 
+3-0-0-0 
+5/9 
+-- 
+*Elective - VI 
+3-0-0-0 
+5/9 
+Total 
+36-39 
+Semester: 3. Normal Semester Credit Required:36, Min Credit Required:27, 
+Max Credit Permitted:45 
+Seminar 
+KSS 801 
+M. Tech Seminar 
+0-0-0-0 
+0 
+Thesis 
+KSS 699 
+M. Tech Thesis 
+0-0-0-9 
+36 
+Total 
+36 
+Semester: 4. Normal Semester Credit Required:36, Min Credit Required:27, 
+Max Credit Permitted:45 
+Thesis 
+KSS 699 
+M. Tech Thesis 
+0-0-0-9 
+36 
+Total 
+36 
+List of Suggested Electives 
+Course No. 
+Course Name 
+L-T-P-D 
+Credit 
+KSS 6XX 
+Smart Cities-System Dynamics Models 
+3-0-0-0 
+9 
+CE 6XX 
+Smart Water Infrastructure Engineering 
+3-0-0-0 
+9 
+KSS 6XX 
+Water Economics: Policy and Governance [Modular] 
+3-0-0-0 
+5 
+KSS 6XX 
+Technology, Society, and the Future of Urbanization 
+3-0-0-0 
+9 
+KSS 6XX 
+Roadmap to Innovation, Sustainability, and Entrepreneurship 
+3-0-0-0 
+9 
+KSS 6XX 
+Blockchain for Carbon Footprint mapping across Value Chains 
+3-0-0-0 
+9 
+KSS 6XX 
+Sustainable Water Systems with AI and Automation 
+3-0-0-0 
+9 
+KSS 6XX 
+Physics and AI Approaches to Climate Modeling, Resilience & 
+Sustainability 
+3-0-0-0 
+9 
+IDC 606 
+High-performance Computing for Science and Engineering 
+3-0-0-0 
+9 
+CE 669 
+Atmospheric Physics and Chemistry 
+3-0-0-0 
+9 
+CE 762 
+Fundamentals of Atmospheric Modelling 
+3-0-0-0 
+5 
+CE 763 
+Solid and Hazardous Waste Management 
+3-0-0-0 
+5 
+CE766A 
+Agricultural Sustainability and Climate Change 
+3-0-0-0 
+9 
+CE760A 
+Surface Water Quality Modeling 
+3-0-0-0 
+5 
+SEE 622 
+Sustainable Energy — Enabling Net Zero Emissions 
+3-0-0-0 
+9 
+SEE-628 
+Policy Processes and Analytical Methods: Application to Climate 
+Policies 
+3-0-0-9 
+9 
+SEE-629M 
+Ecology, Equity and the Economy 
+3-0-0-5 
+9 
+Page 100130
+
+[Page 11]
+MINUTES 
+FOR THE 7th MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE 
+HELD ON April 2, 2025 (Wednesday) AT 10:30 AM 
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING 
+SEE-618 
+Energy Efficient Building Design 
+3-0-0-9 
+9 
+SEE-615 
+Solar Thermal Engineering 
+3-0-0-9 
+9 
+SEE-626M 
+Ecological Principles and Biodiversity for Sustainability 
+3-0-0-9 
+9 
+SEE-605 
+An Introduction to Sustainable Energy Technologies with Laboratory 
+2-0-3-9 
+9 
+SEE-617 
+Introduction to Sustainable Energy Policy 
+2-0-0-6 
+9 
+SEE-627 
+Electric Vehicles 
+3-0-0-9 
+9 
+SEE-624 
+Design Strategies for Net-Zero Energy Buildings 
+3-0-0-9 
+9 
+CE716 
+Project Management and Controls 
+3-0-0-0 
+9 
+CE648A 
+Repair and Rehabilitation of Concrete Structures 
+3-0-0-0 
+9 
+CE645A 
+Basic Quality and Safety Management in Construction 
+3-0-0-0 
+9 
+CE657 
+Construction Economics and Infrastructure Financing 
+3-0-0-0 
+9 
+ECO501 A 
+Environmental Economics And Policy 
+3-0-0-0 
+9 
+ECO747A 
+Environmental Economics Legislation And Social Impact 
+3-0-0-0 
+9 
+EE708 
+Fundamentals Of Data Science And Machine Intelligence 
+3-0-0-0 
+9 
+CS770A (dual 
+numbered as 
+DIS700A) 
+Fundamentals of Data Engineering 
+3-0-0-0 
+9 
+CS 771 or EE 
+708 (Strongly 
+Recommended) 
+Introduction to Machine Learning or 
+Fundamentals of Data Science and Machine Intelligence 
+3-0-0-0 
+9 
+Note: Existing course details can be found in the IITK website 
+5. Mode of Selection to the Program: Gate Score + Interview 
+Annexu re - B.3 
+PG students who have not completed registration for 2024-25-II 
+Sr 
+Roll No. 
+Student Name 
+Prog. 
+Branch 
+DOAA 
+Status-06- 
+03-2025 
+Department 
+Remark 
+DPGC 
+Recommendation 
+SPGC Decision 
+1. 
+231030062 
+Tarun Kumar 
+M TECH 
+CE 
+Not register 
+The department has 
+repeatedly tried to 
+contact the student 
+(directly and 
+through 
+Supervisor). No 
+response has been 
+received yet. 
+Appropriate action 
+may be initiated 
+Termination under 
+5.7 
+2. 
+231070024 
+Rajesh Kumar 
+Meena
+MSC (2- 
+YR) (PG)
+CHM 
+Not register 
+No response 
+No response and 
+hence it may lead 
+to termination 
+Termination under 
+5.7 
+3. 
+24] 110612 
+Mohd Mohsin 
+Khan 
+Ph.D 
+CSE 
+Not register- 
+DOSA Fee 
+& Biometric 
+pending 
+May be the 
+terminated 
+Student. Please 
+check the status. 
+student has not 
+registered in the 
+current semester 
+and can be 
+terminated as per 
+clause 5.7. 
+Termination under 
+5.7 
+Page 11 of 30 
+Ste`°,
+
+[Page 12]
+MINUTES 
+FOR THE 7"' MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE 
+HELD ON April 2, 2025 (Wednesday) AT 10:30 AM 
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING 
+Sr 
+Roll No. 
+Student Name 
+Prog. 
+Branch 
+DOAA 
+Status-06- 
+03-2025 
+Department 
+Remark
+DPGC 
+Recommendation
+SPGC Decision 
+4. 
+231270023 
+Saswati Paik 
+YR) (PG
+M SC 
+) 
+ECO 
+Not register 
+Made several 
+attempt but No 
+response. 
+May be terminated 
+from the PG 
+program. Very 
+poor performance 
+in the courses, the 
+CPI is very low 
+(around 3.00) and 
+could not clear 
+many courses. 
+5 rmination under 
+5. 
+221041 14 
+T Govardhan 
+M TECH 
+EE 
+Not register 
+No response 
+No response: 
+DPGC 
+recommends 
+termination under 
+5.7 
+Termination under 
+5.7 
+6. 
+231040043 
+Ekadashi 
+Hembram 
+M TECH 
+EE 
+Not register- 
+DOSA Fee 
+& Biometric 
+pending 
+No response 
+No response: 
+DPGC 
+recommends 
+termination under 
+5.7 
+Termination under 
+5.7 
+7. 
+231040108 
+Sonu Kumar 
+M TECH 
+EE 
+Not register- 
+DOSA Fee 
+& Biometric 
+pending 
+Want to convert 
+part-time but course 
+credits has not 
+completed 
+Course credit isn't 
+complete; not 
+present in campus. 
+DPGC 
+recommends 
+termination under 
+5.7 
+Termination under 
+5.7
+8. 
+241040004 
+Aman Kumar 
+Arva 
+M TECH 
+EE 
+Not register 
+No response 
+withdrawn 
+Termination under 
+5.7 
+9. 
+241040043 
+Manish Meena 
+M TECH 
+EE 
+Not register 
+No response 
+No response: 
+DPGC 
+recommends 
+termination under 
+5.7 
+Termination under 
+5.7 
+10. 
+241040058 
+Pradeep Vangeti 
+M TECH 
+EE 
+Not register 
+No response 
+No response: 
+DPGC 
+recommends 
+termination under 
+5.7 
+Termination under 
+5.7 
+1 1 . 
+241040067 
+Ravi Teja 
+Bejawada 
+M TECH 
+EE 
+not register 
+No response 
+No response: 
+DPGC
+recommends 
+termination 
+on under 
+5.7 
+Termination under
+7 
+12. 
+13100068 
+Pujarini Das 
+Ph.D 
+HSS 
+Not register 
+Recommended for 
+Termination 
+For Pujarini Das, 
+her supervisor, 
+Prof. Vineet Sahu 
+has recommended 
+the student's 
+termination. Prof. 
+Sahu won't 
+recommend the 
+reinstatement until 
+the thesis is ready. 
+Termination under 
+5.7 
+13. 
+231050021 
+Asheesh Gautam 
+M TECH 
+ME 
+Not register-
+DOSA Fee 
+& Biometric 
+pending 
+absent without 
+information 
+Invoke 5.7 
+Termination under 
+5.7 
+14. 
+231050063 
+Pramod Kumar 
+M TECH 
+ME 
+Not register 
+absent without 
+information 
+Invoke 5.7 
+Termination under 
+5.7 
+Page 12 of 30 
+a1
+
+[Page 13]
+MINUTES 
+FOR THE 7th MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE 
+HELD ON April 2, 2025 (Wednesday) AT 10:30 AM 
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING 
+Sr 
+Roll No. 
+Student Name 
+Yroh. 
+Branch 
+DOHA 
+Status-06- 
+03-2025 
+Department 
+Remark 
+DPGC 
+Recommendation 
+SPGC Decision 
+15. 
+231050078 
+Sahil Mehra 
+M TECH 
+ME 
+Not register-
+DOSA Fee 
+& Biometric 
+pending 
+absent without 
+information 
+Invoke 5.7 
+Termination under 
+5.7 
+16. 
+241050047 
+Navneet Kumar 
+M TECH 
+ME 
+Not register-
+DOSA Fee 
+& Biometric 
+pending 
+absent without 
+information 
+Invoke 5.7 
+Termination under 
+5.7 
+17. 
+18105263 
+Ashutosh Jena 
+Ph.D 
+ME 
+Not register- 
+Biometric 
+pending 
+5.7 pg manual/ 
+letter 
+SPGC 
+Invoke 5.7 
+communicated 
+to 
+5.7
+Termination under 
+18. 
+231080055 
+Mainak Saha 
+M SC (2- 
+YR)(PG)
+MTH 
+Not register 
+Student wrote an 
+email in Jan 2025 
+informing that he is 
+unwell 
+He was suggested 
+to apply for 
+semester leave. 
+No response came 
+after that. 
+No response from 
+student, program 
+termination is 
+recommended 
+Termination under 
+5.7 
+19. 
+241080020 
+Lalhmangaihsan 
+ea 
+M SC (2- 
+YR)(PG) 
+MTH 
+Not register- 
+DOSA Fee 
+& Biometric 
+pending 
+. 
+No response from 
+student, program 
+termination is 
+recommended 
+Termination under 
+5.7 
+20. 
+241080037 
+Savan Kumar 
+M SC (2- 
+YR)(PG) 
+MTH 
+Not register 
+No response from 
+student, program 
+termination is 
+recommended 
+Termination under 
+5.7 
+21. 
+241290601 
+Abhijeet Singh 
+Ph .D 
+SEE 
+Not register 
+Recommended for 
+Termination 
+DPGC of the SEE 
+department 
+has 
+decided 
+to 
+recommend 
+programme 
+termination. Course 
+Credits/ 
+Thesis 
+credits- 0/0, Last 
+Registration- Odd 
+Sem 
+2024-25, 
+Current 
+semester 
+registration Status- 
+Not 
+registered, 
+Leave Status- Not 
+taken any formal 
+Leave, Status- Not 
+on the campus since 
+September 
+2024. 
+Department 
+has 
+sent 
+mails 
+and 
+reminders but he 
+has not responded 
+Termination 
+under 
+5.7 
+Page 13 of 30
+
+[Page 14]
+MINUTES 
+FOR THE 7th MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE 
+HELD ON April 2, 2025 (Wednesday) AT 10:30 AM 
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING 
+Sr 
+Roll No. 
+Student Name 
+Prog. 
+Branch 
+DOAA 
+Status-06- 
+03-2025 
+Department 
+Remark 
+DPGC 
+Recommendation 
+SPGC Decision 
+22. 
+241290609 
+Ndungutse 
+Felicien 
+Ph .D 
+SEE 
+Not register 
+Recommended for 
+Termination 
+DPGC of the SEE 
+department 
+has 
+decided 
+to 
+recommend 
+programme 
+termination. Course 
+Credits/ 
+Thesis 
+credits- 0/0, Last 
+Registration- Odd 
+Sem 
+2024-25, 
+Current 
+semester 
+registration Status- 
+Not 
+registered, 
+Leave Status- Not 
+taken any formal 
+Leave, Status- Not 
+on the campus since 
+September 
+2024. 
+Department 
+has 
+sent 
+mails 
+and 
+reminders but he 
+has not responded 
+Termination 
+under 
+5.7 
+23. 
+231080046 
+Jahnabi Kachari 
+M SC (2- 
+YR)(PG) 
+STA 
+Not register 
+No response from 
+student, program 
+termination is 
+recommended 
+Termination under 
+5.7 
+24. 
+231080096 
+Suresh 
+M SC (2- 
+YR)(PG) 
+STA 
+Not register- 
+DOSA Fee 
+& Biometric 
+pending 
+No response from 
+student, program 
+termination is 
+recommended 
+Termination under 
+5.7 
+25. 
+241080064 
+Deeptanshu 
+Mishra 
+M SC (2- 
+YR)(PG) 
+STA 
+Not register 
+No response from 
+student, program 
+termination is 
+recommended 
+Termination under 
+5.7 
+Annexure M.7-A 
+Proposal from Physics Department shared with Departments/Il)Ps 
+Clause in P(; manual (strikeouts indicate what's modified in the proposal): 
+11.7.1 Award of MSR degree with PhD degree to those students who are admitted to PhD program in I ngincer ng directly 
+after a B.Tech./BS(4Yr)- 
+rl'34.Y degree: 
+All students who are pursuing the PhD degree directly after B.Tech.BS(4Yr :"\1.S¼.. degree can opt to 
+get the additional MSR degree awarded along with the PhD degree at the time of graduation. This is subject to the following 
+conditions: 
+1. The minimum total credit requirement will be 216 (the same as for PhD after B. Tech/BS/M. Sc). 
+2. The minimum number of thesis credits will be the sum of minimum number of thesis credits of MSR <;..7.2..))..and PhD 
+(72), equalling 144. 
+3. The minimum number of course credits should be the maximum of C1 and C2, where Cl is the course credits required 
+for MSR and C2 is the course credits required for PhD after B.Tech/BS. \1.S?. This number varies between 36 and 
+90 depending on the department. 
+4. Only MSR thesis option will be available to the student and the problem which forms the major content of the MSR thesis 
+ht3u1d be different from the one reported in the PhD thesis. To ensure this, there should be plagiarism check performed 
+between the MSR and the PhD thesis. Also, it is recommended that at least one member of the thesis oral boards should be 
+common across the two boards. 
+5. Student can deliver open seminar after MSR defense without waiting for six months. 
+ADAPTED FOR PHYSICS DEPARTMENT (red fonts indicate modifications incorporated): 
+Page 14 of 30
+
+[Page 15]
+MINUTES 
+FOR THE 7"' MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE 
+HELD ON April 2, 2025 (Wednesday) AT 10:30 AM 
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING 
+Award of MSR degree with PhD degree to those students who are admitted to PhD program in Phy Tics directly after a 
+B.Tech./BS(4Yr) degree: 
+All students who are pursuing the PhD degree directly after B.Tech./BS(4Yr) degree can opt to 
+get the additional MSR degree awarded along with the PhD degree at the time of graduation. This is subject to the following 
+conditions: 
+I. The requestiapplication for additional MSR should he done within 'I months of deliverance of SoTA; a TWP for MSR 
+should he shared 
+ith [)MC al«nt2 with the TWP for the PhD thesis. 
+2. The minimum total credit requirement will be 216 (the same as for PhD after B. TechBS). 
+3. The minimum number of thesis credits will be the sum of minimum number of thesis credits of MSR t 105) and PhD 
+(72), equalling 18s?. 
+4, The minimum number of course credits should be the maximum of Cl and C2, where Cl is the course credits required 
+for MSR and C2 is the course credits required for PhD after B.TechBS. l or Phvsies departrncnt, (. l=36 and ('2=72. 
+Additir~nalh-. PI1Y888. Pl1Y70I. and PIIY702 are compulsory. 
+5. Only MSR thesis option will be available to the student and the problem which forms the major content of the MSR thesis 
+must be different from the one reported in the PhD thesis. To ensure this, there should be plagiarism check performed 
+between the MSR and the PhD thesis. Also, it is recommended that at least one member of the thesis oral boards should 
+be common across the two boards. 
+6. Student can deliver open seminar after MSR defense without waiting for six months. 
+In line with a similar option (clause 11.7.1 in PG manual) already available to the Engineering students, the DPGC 
+(PHY) proposes that following clause may please be adopted in the PG manual for the benefit of the PhD students 
+who enter the PhD program of the Physics Department after BS(4Yr)/B.Tech program: 
+All students who are pursuing the PhD degree directly after B.Tech./ BS(4Yr) degree can opt to get the additional MSR 
+degree awarded along with the PhD degree at the time of graduation. This is subject to the following conditions: 
+1. 
+The requestlapplication for additional MSR should be done within 4 months of deliverance of SoTA; a TWP 
+for MSR should be shared with DMC along with the TWP for the PhD thesis. 
+2. 
+The minimum total credit requirement will be 216 (the same as for PhD after B. Tech/BS). 
+3. 
+The minimum number of thesis credits will be the sum of minimum number of thesis credits of MSR (108) 
+and PhD (72), equalling 180. 
+4. 
+The minimum number of course credits should be the maximum of Cl and C2, where Cl is the course credits 
+required for MSR and C2 is the course credits required for PhD after B.Tech/BS. For Physics department, 
+CI=36 and C2=72. Additionally, PHY888, PHY701, and PHY702 are compulsory. 
+5. 
+Only MSR thesis option will be available to the student and the problem which forms the major content of 
+the MSR thesis must be different from the one reported in the PhD thesis. To ensure this, there should be 
+plagiarism check performed between the MSR and the PhD thesis. Also, it is recommended that at least one 
+member of the thesis oral boards should be common across the two boards. 
+6. 
+Student can deliver open seminar after MSR defense without waiting for six months. 
+Annexure M.7-B 
+Departments/IDPs feedback on the proposal of Department of Physics 
+Department 
+Proposal for additional MSR degree to PhD students from Department of Physics 
+AE 
+Department Response: The members deemed the proposal acceptable. 
+CE 
+The proposal is okay 
+CHM 
+The members agreed to the proposal and also please see the attachment for the chemistry department 
+proposal. 
+EC0 
+This is to update you that we have discussed these items in the faculty meeting, and I did not get any 
+specific feedback. 
+EE 
+EE does not have any specific feedback. 
+ES 
+Department unanimously agreed with the proposal for items 1, 2 & 4 ( as per the appended email). 
+MSE 
+The department agreed with the modified clause related to MSR in the PG manual. 
+Page 15 of 30
+
+[Page 16]
+MINUTES 
+FOR THE 7a' MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE 
+HELD ON April 2, 2025 (Wednesday) AT 10:30 AM 
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING 
+MTH 
+In principle, the department agreed to award MSR degrees with PhD degrees to students joining after 4 
+years of BSBTech. However, a detailed proposal will be communicated to SPGC after due deliberation. 
+PHY
+PSE 
+SEE 
+We are not responding to point 4 as that was PHY's proposal only. 
+No comments. 
+The department suggest that the thesis credits for the PhD program should be at least equal to, or greater 
+than thesis credits for the MSR program. 
+Annexure M.7-C: 
+The following changes are proposed in the PG manual. 
+Existing 
+Modified 
+11.7 Award of M.Tech./M.Des./MSR degree with PhD Degree 
+11.7.1 Award of M.Tech. / M. Des degree with PhD degree to those students 
+who are admitted to PhD program in Engineering directly after a 
+B.Tech./BS(4Yr)/M.Sc. degree or have converted from M.Tech./M. Des 
+degree to PhD degree: 
+All 
+students 
+who 
+are 
+pursuing 
+the 
+PhD 
+degree 
+directly 
+after 
+B.Tech.BS(4Yr)/M.Sc. degree can opt to get the additional M.Tech. / M. Des 
+degree awarded along with the PhD degree at the time of graduation. This is 
+subject to the following conditions: 
+1. The minimum total credit requirement will be 216 (the same as for PhD after 
+B.TechBS/M.Sc). 
+2. The minimum number of thesis credits will be the sum of minimum number of 
+thesis credits of M.Tech.(63) and PhD (72), equaling 135. 
+3. The minimum number of course credits should be the maximum of C 1 and C2, 
+where CI is the course credits required for M. Tech./ M.Des and C2 is the course 
+credits required for PhD after B.Tech/BS/M.Sc. This number varies between 36 
+and 90 depending on the department. Refer Annexure IV for more details. 
+4. The student will have the option to either submit M.Tech./ M.Des thesis or 
+credit an additional number of courses, in consultation with thesis supervisor and 
+on the recommendation of the DPGC of the Department/IDP. The additional 
+number of courses to be done in lieu of M Tech / M.Des thesis would be for a 
+minimum of 63 credits. The minimum number of thesis credits in such cases will 
+be 72 (instead of 135). 
+5. If the M.Tech / M. Des thesis option is exercised, the problem which forms the 
+major content of the M Tech./ M.Des thesis should be different from the one 
+reported in the PhD thesis. To ensure this, there should be plagiarism check 
+performed between the MTech / M.Des and the PhD thesis. Also, it is 
+recommended that at least one member of the thesis oral boards should be 
+common across the two boards. 
+6. Student can deliver open seminar after M. Tech / M.Des defense without 
+waiting for six months. 
+7. For MBA programme kindly refer to Annexure-V. 
+11.7.2 Award of MSR degree with PhD degree to those students who are 
+admitted 
+to 
+PhD 
+program 
+in 
+Engineering 
+directly 
+after 
+a 
+B.Tech./BS(4Yr)/M.Sc. degree or have converted from MSR degree to PhD 
+degree: 
+All 
+students 
+who 
+are 
+pursuing 
+the 
+PhD 
+degree 
+directly 
+after 
+Page 16 of 30 
+11.7 Award of M.Tech./M.Des./M.S. (by 
+Research)/M.B.A. degree 
+with 
+Ph.D. 
+degree 
+All students who are pursuing the Ph.D. 
+degree 
+directly 
+after 
+B.Tech.B.S. 
+(4 
+year)/M.Sc. degree can get an additional 
+M.Tech./M.Des./M.S. (by Research)/M.B.A. 
+degree awarded along with the Ph.D. degree 
+at the time of graduation, provided following 
+conditions are satisfied: 
+1. 
+The minimum total credit requirement 
+will be 216. 
+2. 
+The minimum number of thesis credits 
+will be the sum of specified minimum 
+number 
+of 
+thesis 
+credits 
+for 
+M.Tech./M.Des./M.S. (by Research) 
+and specified minimum number of thesis 
+credits for Ph.D. 
+3. 
+The minimum number of course credits 
+will be the maximum of Cl and C2, 
+where Cl is the course credits required 
+for 
+M.Tech./M.Des./M.S. 
+(by 
+Research)/M.B.A. and C2 is the course 
+credits 
+required 
+for 
+Ph.D. 
+after 
+B.Tech.B.S./M.Sc. 
+in 
+the 
+Department/IDP 
+concerned. 
+Refer 
+Annexure IV for more details. 
+4. 
+Except in the case of M.S. (by Research) 
+where a thesis will be required and 
+M.B.A. where additional number of 
+courses will be required, the student will 
+have the option to either submit a thesis 
+or credit an additional number of courses 
+in consultation with thesis supervisor 
+and on the recommendation of the 
+DPGC of the DepartmentlIDP. The 
+additional coursework would be for a 
+minimum of 63 credits. The minimum
+
+[Page 17]
+MINUTES 
+FOR THE 7"' MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE 
+HELD ON April 2, 2025 (Wednesday) AT 10:30 AM 
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING 
+B.Tech.BS(4Yr)/M.Sc. degree can opt to get the additional MSR degree awarded 
+along with the PhD degree at the time of graduation. This is subject to the 
+following conditions: 
+1. The minimum total credit requirement will be 216 (the same as for PhD after 
+B. Tech/BS/M. Sc). 
+2. The minimum number of thesis credits will be the sum of minimum number of 
+thesis credits of MSR (72) and PhD (72), equalling 144. 
+3. The minimum number of course credits should be the maximum of C l and C2, 
+where Cl is the course credits required for MSR and C2 is the course credits 
+required for PhD after B.Tech/BS/M.Sc. This number varies between 36 and 90 
+depending on the department. Refer Annexure IV for more details. 
+4. Only MSR thesis option will be available to the student and the problem which 
+forms the major content of the MSR thesis should be different from the one 
+reported in the PhD thesis. To ensure this, there should be plagiarism check 
+performed between the MSR and the PhD thesis. Also, it is recommended that at 
+least one member of the thesis oral boards should be common across the two 
+boards. 
+5. Student can deliver open seminar after MSR defense without waiting for six 
+months. 
+number of thesis credits in such cases 
+will be reduced by 63 credits. 
+5. 
+In case a thesis is submitted, the problem 
+which forms the major content of the 
+thesis should be different from that 
+reported in the Ph.D. thesis. To ensure 
+this, 
+plagiarism 
+check 
+should 
+be 
+performed 
+between 
+the 
+M.S. 
+(by 
+Research)/M.Tech./M.Des. thesis and 
+the PhD thesis. Also, it is recommended 
+that at least one member should be 
+common in the two thesis oral boards. 
+6. 
+In case a thesis is submitted, open 
+seminar can be delivered anytime after 
+the thesis defense. 
+Annexure V: 
+3. Provision for direct PhD students earning MBA with the extra course work: We 
+have provision for (i) an MTech student converting to PhD, (ii) a PhD student 
+exiting with MTech, and (iii) a PhD student without masters degree getting PhD 
+as well as MTech degree with some extra work. In a similar vein, if the direct PhD 
+student completes the course requirement of MBA, the student can be considered 
+eligible for MBA degree as well. 
+To be deleted 
+Page 17 of 30
+
+[Page 18]
+MINUTES 
+FOR THE 7° MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE 
+HELD ON April 2, 2025 (Wednesday) AT 10:30 AM 
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING 
+Anneture \'i.9-A: 
+Excerpt from U'C report (highlighted one is related to comprehensive exam) 
+augment the DMC report as recommended above. This report will be cirenistdd among the 
+members of the DMC and woutd he recorded in stud€ni flies both st the deparin 
+t sod at the 
+institcste level. A suggested template for the self-appraisal report Is attached at the End of the 
+report and may be fttrther reviewed air wider diseacsionc in the SPCC. 
+c. In to case of extension of a siodent's PhD program beyond 5 years, the DMCs houId 
+provide a pia of work to students 
+ttiticsF~tnoo ti: 
+Part (a) 
+The committee believes that lengthy extension in PhD programs is a major concern that puts the 
+student under tremendous academic stress. To reduce Phi) titneline, the committee proposes the 
+following measure for all existing as well as future Phi) students: 
+1. The 
+mines recotmmeutta roe revision in omelinti of the Comprehenlre £xnminasioa 
+sod Ststc-of-the-&rt (SOTA) '; he (emprehens yr Fiaminstioa should be comma 
+within three months of cusapkting to minlun.uni credits tttsrungh censrsewtsrk 
+L following he Comprehensive ExaminatioL the State-of-the-Art (SOTA) seminar can be 
+delivered within the nett three to six month. This will speed up the preparatory phase of 
+the Phil programme 
+3. It is n≥ecnnrneodcd that the SOTA must necessarily be completed within four semesters of 
+joining the PhD program. 
+4. The committee also suggests x change for eaprditing the current timeiines of thesis 
+evaluation. 
+a) The deadline for thesis submission after the Open Sear be reduced from sit months 
+to three months. 
+b) The consent sand the appu.*lrnent of the eat 
+sal caan,incar sho id be Initiated within two 
+wed aver the reconameadat
+nr of the DMC that thesis writing Is near completion and a 
+synopsis of the thesis is made ready. The synopsis submission will help identify the 
+exter>tal examhser well in advance prior to thesis submission. 
+c) A consent from the e. 
+nor could nine be sought and specific thndlinea be conveyed to 
+the examiner that the review needs to be completed with four weeks but not Lager than 
+atlas weetta. 
+Parr (b) 
+The committee believes that implementing mea sore. even in Part (a) can effectively reduce the 
+duration of Ph.D programmes. However, upon reviewing the Phi) graduation data frt,m the pest 
+decade, it was observed that approuunately only *bout half of the enrolled Phi? studeets complete 
+their degrees within G years, while nearly 20% require more than ? years to finish, lace the graphic 
+under additional reaolutioaaj 
+Page 18 of 30
+
+[Page 19]
+MINUTES 
+FOR THE 7th MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE 
+HELD ON April 2, 2025 (Wednesday) AT 10:30 AM 
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING 
+Annexure M.9-B: 
+Al' (PG Report) - Comments of the Departments 
+S. 
+No. 
+Dept. 
+Comments 
+I 
+MSE 
+No specific comments on resolution 6 
+2 
+CHM 
+Our department is more or less ok 
+3 
+CE 
+No specific comments on resolution 6 
+4 
+ES 
+No specific comments on resolution 6 
+5 
+DoMS 
+No specific comments on resolution 6 
+6 
+MTH 
+Resolution 6, Part (a), 4(a): The department does not agree — 6 months after Open seminar is a good 
+time to take stock and submit thesis. The department is fine with the other resolutions. 
+7 
+SPASE 
+R6: We welcome this positive move benefitting students, continuing beyond 5 years for PhD 
+students. 
+8 
+EE 
+R6: Part A 
+1. The department recommends to continue the existing practice. 
+9 
+ECON 
+Resolution 6: 3 months is too short a time between the Open Seminar and Thesis submission. A 
+minimum of 6 months is appropriate. 
+No specific comments on resolution 6(1) 
+10 
+CSE 
+None 
+11 
+GSMST 
+None 
+12 
+SEE 
+R6: a-3: Extension upto 1 sem should be given to PhD students admitted directly after BT/MSc-2Y 
+programs. 
+No specific comments on resolution 6(1) 
+13 
+ChE 
+The remaining points are basically counselling/DMC/DPGC related ie cosmetic. 
+14 
+PHY 
+No specific comments on resolution 6 
+15 
+ME 
+No specific comments on resolution 6 
+16 
+HSS 
+The department discussed the report in detail and agrees with most of the resolutions. However, 
+there are a few points of disagreement - While there is agreement regarding the reduction of timeline 
+for Comprehensive Exam, it is proposed that there should be a provision to request for extension up 
+to six months. 
+17 
+BSBE 
+Resolution 6 - Part A. - We feel that the current system of SoTA within 5 semesters should 
+continue. Our experience is that students struggle to give SoTA before that. In fact often students 
+seek extension (as per current norm) for delivering SoTA. 
+18 
+CGS 
+The department is fine with the proposal. However, we do think that providing increased stipend in 
+the 6th year and encouraging students to submit earlier may send conflicting message. 
+Page 19 of 30
+
+[Page 20]
+MINUTES 
+FOR THE 7"' MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE 
+HELD ON April 2, 2025 (Wednesday) AT 10:30 AM 
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING 
+Annexure !1.9-C 
+Proposed changes in clause 8.2 of the PG manual 
+Existing 
+Modified 
+8.2. Students admitted with B.Tech., M.Sc., M.A. or 
+M.Phil. degrees or part-time students with M.Tech. or 
+equivalent degrees may appear in the comprehensive 
+examination earliest at the end of the second semester, but 
+must pass it before the end of the fifth semester after their 
+first registration. Students admitted with M.Tech. or 
+equivalent degrees may appear in the comprehensive 
+examination earliest at the end of the first semester, but 
+must pass it before the end of the fourth semester after their 
+first registration. The above time limits are exclusive of the 
+period of sanctioned leave, if any. 
+8.2. All PhD students must pass the comprehensive examination 
+within four months of completing the minimum credits through 
+coursework. For a well merited case, this period can be extended for 
+two more months by the SPGC on the recommendation of DPGC. 
+However, in no case, the date of passing the comprehensive 
+examination should go beyond four semesters after the first 
+registration. The above time limits are exclusive of the period of 
+sanctioned semester leave, if any. 
+Annexure Mu -A: 
+Proposal 
+Proposal for Permission to proceed to other Academic Institutions as Non-Degree Students 
+In order to help students to broaden their horizons and gain course-work experience, they may be permitted to proceed to other 
+academic institutions in India or abroad as a non-degree student. The following guidelines and procedures apply for this purpose: 
+i. A student who satisfies the minimum eligibility conditions given below may spend up to two semesters an 'or two summer team
+one semester and/or one summer term in any academic institution of repute in India or abroad with prior permission of the SUGC
+SPCIC . 
+ii. The semester spent as a non-degree student will be counted as a part of the time spent in pursuit of the degree. 
+1.1 Eligibility 
+i. Completion of 200 10(1 credits of course work 
+ii. CPI of at least 7.0. 
+1.2 Application Procedure 
+i. The student shall make an application to SUGC SPGC through the concerned DUGC DPGC, giving details of the proposed 
+programme and shall submit a statement of purpose with sufficient information about the Institution where s/he has chosen to spend 
+time as a non-degree student. 
+ii. The DUGC I31'GC shall examine the student's proposal to determine whether the proposed programme is of a nature that the 
+student will benefit from the exposure. 
+iii. On the recommendation of the DUGC, SUGC DPGC. SP(.;C may approve the proposal and grant permission, with leave of 
+absence, to the student to proceed as a non-degree student to the selected Institution. 
+iv. Any application for waiver of credits at IIT Kanpur or transfer of credits from the other Institution shall be decided in accordance 
+with the procedure given in section 1.3. 
+1.3 Transfer of Credits and Waiver in-lieu thereof 
+i. Permission to proceed to another institution as a non-degree student does not imply that the student will automatically get waiver 
+from the academic and other requirements of her/his ongoing undergraduate program MSc programme at the Institute. 
+Page 20 of 30
+
+[Page 21]
+MINUTES 
+FOR THE 7"' MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE 
+HELD ON April 2, 2025 (Wednesday) AT 10:30 AM 
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING 
+ii. On return, s/he may apply for waiver of courses from her/his program template which s/he thinks are equivalent to the courses 
+successfully completed at the visited Institute as a non-degree student. With the application, the student must submit an official 
+transcript of the grades obtained by her/him at the visited Institute as a non-degree student and other documents/material that the 
+concerned DUGC DPGC may require for evaluation. The DUGC f)PGC will determine, by whatever means it deems fit, the 
+equivalent courses (credits) and/or requirements for which the student may be given a waiver in her/his undergraduate programme 
+at IIT Kanpur. 
+iii. On the recommendation of the DUGC, SUGC DPGC. SPEC may allow a student a waiver for a maximum of -1-09 60 credits 
+against the course work completed elsewhere as a non-degree student. 
+iv. Against each course or requirement for which a waiver is granted, symbol "W" would appear on the Grade Report with an 
+explanatory note that it stands for waiver granted due to courses taken and/or work done at the selected Institution elsewhere. All 
+such courses and/or requirements will be deemed to carry zero credits for SPI/CPI calculation. 
+v. Under no conditions will the grades earned at any other Institution appear on the Grade Report. 
+Those students who are selected by the Institute, using the Senate-prescribed rules and procedures, to proceed on any Institutional 
+exchange programme will also be governed by these clauses for the transfer of academic credits, waiver, etc. 
+Annexure M.11-C: 
+Dept. Permission to proceed to other Academic Institutions as Non-Degree Students" for MSc students (By 
+subcommittee of SPGC) 
+ES 
+Department agrees with this proposal. After completion of minimum requirements of credits and CPI, students can 
+proceed to other Academic Institutions as non-degree students. 
+CHM 
+The sub-committee proposal is unanimously approved by the DPGC members. The members also point out that if 
+any student claim their summer stay elsewhere as an intern project, then he has to be registered in the respected 
+university/institute as non- degree student. Valid document needs to be produced for the waiver of the project in the 
+third semester (relevance to chemistry department as they do project both in 3rd and 4th semesters). 
+CHE 
+Our department is in favour of all the three proposals 
+SEE 
+Overall proposal is acceptable. What is the rationale for waiver for a maximum of 60 credits against the course 
+work completed elsewhere? 
+EE 
+Electrical Engineering department does not have any comment on this matter. 
+AE 
+No feedback as we have no MSc program 
+MTH 
+The Department of Mathematics and Statistics agrees with SPGC's proposal and recommends implementation. The 
+department suggests that the credit requirement to be eligible to proceed to other academic institutions as Non-
+Degree students can be set as 90 instead of 100 in the proposed policy 
+MSE 
+The proposal was welcomed. However, the following points should be considered before implementation. 
+•More clarity should be provided on the number of credits and waivers. 
+•Eligibility: minimum CPI should be increased from 7.0 to 8.0 
+Institutions should be chosen based on the NIRF ranking, not just "in any academic institution of repute in India" 
+PHY 
+Physics department is not in favour of adopting this scheme for its students as MSc program is too short to allow such 
+things. 
+Civil 
+Accepted 
+Page 21 of 30
+
+[Page 22]
+MINUTES 
+FOR THE 70' MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE 
+HELD ON April 2, 2025 (Wednesday) AT 10:30 AM 
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING 
+Annexure M. 11-C: 
+Addition of clause 11.5 in MSc-MSPD manual 
+11.5. Permission to proceed to other Academic Institutions as Non-Degree Students 
+In order to help students to broaden their horizons and gain course-work experience, they may be permitted to proceed to other 
+academic institutions in India or abroad as a non-degree student. The following guidelines and procedures apply for this purpose: 
+i. A student who satisfies the minimum eligibility conditions given below may spend up to one semester and/or one summer term 
+in any academic institution of repute in India or abroad with prior permission of the SPGC. 
+ii. The semester spent as a non-degree student will be counted as a part of the time spent in pursuit of the degree. 
+11.5.1. Eligibility 
+i. Completion of 100 credits of course work 
+ii. CPI of at least 7.0. 
+11.5.2. Application Procedure 
+i. The student shall make an application to SPGC through the concerned DPGC, giving details of the proposed programme and 
+shall submit a statement of purpose with sufficient information about the Institution where s/he has chosen to spend time as a non-
+degree student. 
+ii. The DPGC shall examine the student's proposal to determine whether the proposed programme is of a nature that the student 
+will benefit from the exposure. 
+iii. On the recommendation of the DPGC, SPGC may approve the proposal and grant permission, with leave of absence, to the 
+student to proceed as a non-degree student to the selected Institution. 
+iv. Any application for waiver of credits at IIT Kanpur or transfer of credits from the other Institution shall be decided in 
+accordance with the procedure given in section 1.3. 
+11.5.3. Transfer of Credits and Waiver in-lieu thereof 
+i. Permission to proceed to another institution as a non-degree student does not imply that the student will automatically get waiver 
+from the academic and other requirements of her/his ongoing MSc programme at the Institute. 
+ii. On return, s/he may apply for waiver of courses from her/his program template which s/he thinks are equivalent to the courses 
+successfully completed at the visited Institute as a non-degree student. With the application, the student must submit an official 
+transcript of the grades obtained by her/him at the visited Institute as a non-degree student and other documents/material that the 
+concerned DPGC may require for evaluation. The DPGC will determine, by whatever means it deems fit, the equivalent courses 
+(credits) and/or requirements for which the student may be given a waiver in her/his undergraduate programme at IIT Kanpur. 
+iii. On the recommendation of the DPGC, SPGC may allow a student a waiver for a maximum of 60 credits against the course 
+work completed elsewhere as a non-degree student. 
+iv. Against each course or requirement for which a waiver is granted, symbol "W" would appear on the Grade Report with an
+explanatory note that it stands for waiver granted due to courses taken and/or work done at the selected Institution elsewhere. All 
+such courses and/or requirements will be deemed to carry zero credits for SPI/CPI calculation. 
+v. Under no conditions will the grades earned at any other Institution appear on the Grade Report. 
+Those students who are selected by the Institute, using the Senate-prescribed rules and procedures, to proceed on any Institutional 
+exchange programme will also be governed by these clauses for the transfer of academic credits, waiver, etc. 
+Annexure M.12-A: 
+Page 22 of 30
+
+[Page 23]
+MINUTES 
+FOR THE 7"' MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE 
+HELD ON April 2, 2025 (Wednesday) AT 10:30 AM 
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING 
+Revised Chapter 10 of MSc-MSPI) manual 
+Chapter 10 
+Rules Governing Change, Addition in the MSc-PhD (Dual Degree) Programme 
+10.1 Admission and conversion Procedure 
+A) New Students: Admission to the Programme is strictly through the Joint Admission Test for Masters (JAM), according to 
+the All-India Rank (AIR) and the preference given by the candidate. All admission rules are identical to MSc (2-year) 
+programme. 
+B) IITK MSc (2-year) Students: Students admitted in the MSc (2-year) programme may apply for MSPD programme in 
+departments where it is available, subject to fulfilment of eligibility criteria as mentioned below and availability of seats in 
+the programme. 
+(i) Eligibility: CPI of 7.0 or more and no backlogs at the time of applying. 
+(ii) Application Process: Students may apply at the end of their third semester (but before the date of registration for the 
+fourth semester). Students should include two letters of recommendation with the application. At least one of the letters 
+should be from an instructor with whom the student has done a course at IIT Kanpur. Applications shall be considered by a 
+selection committee, to be set up by the head of the department, and approved by the Chairperson, SPGC. The 
+recommendations of the selection committee shall be approved by SPGC. 
+10.2 Academic Roadmap 
+1) From the perspective of whether MSc or PhD rules apply, the time spent in completing the MSPD's first 3 years of approved 
+coursework is split into two parts: 
+A) First two years of coursework: During this period an MSPD student will be governed by the rules meant for MSc (2-year) 
+students (except for the course template, see Annexure I). 
+B) Third year ofcoursework: MSPD students migrate to the PhD part of the programme provided they have cleared all the courses 
+of the first four semesters as per MSPD template with at least 6.0 CPI. Students who have converted from MSc (2-year) to MSPD 
+are allowed to have PHY563 and PHY566 mapped to PHY501 and PHY502. Furthermore, 
+(i) 
+Till a student migrates to PhD part, they will be governed by MSc (2-year) rules (except for the course template). After 
+migration, the student will be governed by the rules meant for the PhD students (except for the course template). 
+(ii) When a student migrates late (after fifth or later semester), then the already done third-year-courses in the template should 
+be counted towards their PhD coursework. 
+2) If a student completes the 3-year coursework but is still unable to migrate (CPI less than 6.0), then the student is allowed to 
+either (a) exit the programme with an MSc (2-year) degree or (b) continue doing extra elective courses to improve the CPI to 6.0. 
+The maximum duration in such cases is (1.5 times of normal duration) 9 semesters. 
+3) MSPD student will get an MSc (2-year) degree after successful completion of the full three-year-course-template of MSPD 
+program. 
+10.3 Summer Term 
+Until MSPD students migrate to the PhD part of the programme, they are expected to spend a minimum period of 8 weeks during 
+every summer term doing a project on campus with a faculty member of the Department of Physics, IIT Kanpur. A co-supervisor 
+from within IITK or outside IITK is allowed. However, if they spend time outside IITK for the project, they will not get funding 
+from two sources. A student who does not do such a project is not eligible to receive any assistantship during the summer term. 
+10.4 Financial Assistance 
+Page 23 of 30 
+s~~
+
+[Page 24]
+MINUTES 
+FOR THE 7"' MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE 
+HELD ON April 2, 2025 (Wednesday) AT 10:30 AM 
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING 
+1) All MSPD students are eligible to get a financial assistantship of Rs.6000/- p.m. in the first semester. For subsequent semesters, 
+they must have a minimum CPI of 6.5 to avail this assistantship. For a student with a CPI of less than 6.5, the assistantship will 
+be discontinued until her CPI rises to 6.5 or above and shall be resumed in the following next semester, provided that they have 
+not converted/migrated as PhD student in the meantime. 
+2) If an MSPD student has not converted/migrated as PhD student at the end of four semesters, due to reasons such as backlogs 
+and semester drops, and the CPI is not less than 6.5, then the assistantship, which had earlier been withheld, may be awarded. The 
+decision will be taken on case-to-case basis, depending on the merit. 
+3) Under no circumstances shall a student receive assistantship for more than a total of four semesters. 
+Annexure I (MSPD course template: 15.2 of MSc-MSPD manual) 
+Sem I 
+Sem II 
+Sem III 
+Sem IV 
+Sem V 
+Sem VI 
+PHY401 [11] 
+PHY412 [11] 
+OE-1 [9/11] 
+PHY502 [9] 
+PHY696 [9] 
+PHY697 [9] 
+PHY421 [11] 
+PHY552 [11] 
+PHY462 [8] 
+OE-2 [9/11] 
+PHY698 [9] 
+PHY699 [9] 
+PHY431 [11] 
+PHY626 [11] 
+PHY501 [9] 
+i------------ - - - --------------- 
+PHY623 [ 11 ] 
+PHY611 [11] 
+PG-OE-1 [9/11] 
+PG-OE-2 [9/11] 
+PHY441 [ 11 ] 
+PHY461 [08] 
+--....__._..... . 
+DE-1 [09/11] 
+PG-DE-1 [9/11] 
+PG-DE-2 [9/11] 
+PHY888 [3] 
+PHY617 [12] 
+PHY612 [11] 
+PHY625 [11] 
+Or 
+PHY692 [12] 
+47 
+53 
+48-50 
+48-54 
+36-40 
+36-40 
+Annexure M.12-B: 
+Dept. 
+Revised Chapter 10 of MSc-MSPD manual (relavant for MSc-PhD Programme) 
+ES 
+Department agrees with this revision and provision for conversion of MSc to PhD programme after suitable 
+minimum requirements as stated in the proposal 
+CHM 
+The DPGC members agreed with the sub- committee's recommendation for MSPD revised proposal. The 
+members also of the opinion that the department can initiate to have this program available for our department as 
+well so that two-year MSc students, if they wish to stay here for the PhD can apply for this program at the end of 
+the third semester. This will then be ratified by the committee setup by the HOD, duly forward by the DPGC for 
+SPGC's recommendation 
+CHE 
+Our department is in favour of all the three proposals 
+SEE 
+Accepted, But Sec. 10.4 Financial Assistance need clarity before and after migration to PhD 
+EE 
+Electrical Engineering department does not have any comment on this matter. 
+AE 
+No feedback as we have no MSc program 
+MTH 
+The department has no comment on it. 
+MSE 
+accepted 
+PHY 
+No comments 
+Civil 
+Accepted 
+Page 24 of 30
+
+[Page 25]
+MINUTES 
+FOR THE 7"' MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE 
+HELD ON April 2, 2025 (Wednesday) AT 10:30 AM 
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING 
+Anneure .M.13-A: 
+Proposal from DoIR 
+Request for waiver of JAM Score for Foreign Nationals in our M.Sc program 
+From 
+f 
+atior 
+Ra t r 
+fiFT r, 
+s 
+Copy 
+O ats 
+2 SO2 27 i2. 
+qty 
+k^^^ 
+mar 
+srtt.
+atpstra, 
+• 
+e th 
+dir l 
+r ~sriti tt. LG t`.rXt 
+to yzx:r o:srntssan 
+a^ izegssr:stt eeattrr sc xrd:ng : 
+r f rez r narst+nalz 
+ice * Esc der: rrcrav rz{t xis°;sr titarss for r$s lekrh. 
+!RSA. ) a 
+PtD pragr'sr~ 
+frr 
+r~resgn s3ti alstt*tfP»i3, rxwted thrc+u t I+Czare ►tip- 
+Gs 
+azz:ze:?t ssssisz, r hs 1r ai Ca 
+t t for uitsral ka3at:oS CC 
+)-
+tt
+rirc1y sssrzxOrrsng t3 xe 
+tatatio 
+'Q r xio 
+ass svor mf GiA*t: scars. As tier tha 
+sst a eixxian guidcli.csss, Fores 
+# atie~sls .re rat r 
+iC1r f+~r 
+. orogrty srsto st a vsT•:d 3*IR s sro. 
+tt1r, f'orex 
+x.i. as1 a plying tffi tint 
+tars rat: 4zsy nat '+.arrc aPgesrsss 
+:r ttse 3AtR cxxrxratkar tz 
+I3.r:ts ;!?tts sE:3Is: 
+t~ 
+f~lf3: S' i.z rtgisareascrt. T 
+f 
+r t*ts
+.Sr.00raea fdr 
+L~:C p]:t acstl: r.sc ysxr ix 
+is. 
+baaoi : 
+sto. of
+cucsgs a
+2sz.arts nR r€.ac. Pseg sra 
+~4rs3~C~tc '*car 
+Ptrt zic z 
+~3~~rarastry 
+}tattcsxa~t.:cs a Ssatxztzr: 
+tat,a~ 
+A 
+3T 
+2+3 
+z3 24 
+2 
+Page 25 of 30
+
+[Page 26]
+MINUTES 
+FOR THE 7"' MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE 
+HELD ON April 2, 2025 (Wednesday) AT 10:30 AM 
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING 
+(?oz.r,..t A wr sszo 
+'st for rS.3c. } scoe'e requ.rtve'rt for font ;rr rs~tian sl: 
+aly r 
+to *".Ss.. p"o ran, si ilAr to tic GA if 2Ccre 
+'er Ctctoe+dcd to 
+Mtth stu3cnts, 
+°s 'S4 ,. .e t eYaiu ' r? ' toe 
+a1..e~nt5 b.3 od 
+t sc. r ~"...idec C ,r 
+~s erspts, 
+letters of r^rcc 
+eMsdatroi. ststewrt of pur o e. 
+rwd 
+'+y otMr° rels'sAnt 
+Cr ter a (oath o or ]fi' jor: 
+2t`rt! 1'Sew) vat 
+prCfvldc 
+te~rpCC 
+t i3ve v3ci 
+of thctr g
+f
+t orx end 
+for 4sics'e: 
+2r ur pre r, . 
+2 
+ttdly resque:t )oter suEoport 
+this "ooc: a.l durir 
+he 
+apcorir 
+Pe( rors 
+Ye ' ar
+t 
+rtd 
+€8S2 +t xrste t'se frasxhtlaty+ of trzss 
+is ct~.arge 
+d it: 
+Iceertotie 
+old DC is~rralu lr. 
+a 
+you f'or corsssdcrirEg tP s request. I look fon rd 'to hCoriEl your
+L 
+t3 or3 ti: 
+irr»tiota'C 
+to fwther 
+P 
+c our M.Sc, p e r~lS: (Ar 
+3etrri torxL stu4ert:. 
+~ tsairt~ t 
+s: Fcgnrds r
+9~.1+il+ilP9`k~8d~P 
+36 dF W.4dS:rt ~A P3i ~3f~~i~+A91P q~k +ti <A®iPi`Bl3~tlR+k9 R~ia 
+/?.rof.. 
+Cus~,r~I~~ 
+;.cec 
+.~ 
+'{ 
+~p (may, 
+of F 1t 
+r~ +~t ~ W^.4~.l 
+~.e 
+M~'L {+~b 
+~ 
+a^ssfrs.c+; of 
+:xsexl 
+cox 3
+;~xcgx
+trirg. 
+Q4fis off. 
+:.::
+s1 
+1t1ar , 
+eeO: 
+y K3rsp r', 
+xs pur 2OSQ. ". 
+. s:ar Pr 
+ptr, lM 3A 
+' c : + 3 t.12 S
+URL:
+R'Y i?l F'R ~.P Y'A b'fI ••il'1F 
+!i'loe c a c e r v ~ >.~ uok 
+x+10 A. ik'YlW Vfbio iY iY $':p' +G'eRApiq 
+Annexure :1.13-B: 
+Dcpt. 
+Proposal for wain-er of JAM Score for Foreign Nationals in \LSc. program: Proposed by Dean of 
+international Relations 
+ES 
+Department agrees with waiver of JAM Score for Foreign Nationals in M.Sc. program 
+CHM 
+The members opined that the foreign national student can be considered for MSc program without JAM, however, 
+it needs to carefully evaluate through various metrics including academic transcripts, letters of recommendation, 
+statement of purpose, and any other relevant criteria (online or in-person interview) by the committee/DPGC 
+before their recruitment in the department for MSc program. 
+CI-LE 
+Our department is in favour of all the three proposals 
+SEE 
+Accepted 
+EE 
+Electrical Engineering department does not have any comment on this matter. 
+AE 
+Waiver is acceptable 
+Page 26 of 30
+
+[Page 27]
+MINUTES 
+FOR THE 7"' MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE 
+HELD ON April 2, 2025 (Wednesday) AT 10:30 AM 
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING 
+MTH 
+The jam requirement may be waived for foreign national candidates. However, the departments should be 
+allowed to have a shortlisting criteria before interviewing the candidates. Given the increasing number of 
+applicants, interviewing all the candidates will not be practical. 
+Per PhD admission guideline 2024-25, interviews for all foreign national PhD candidates are mandatory. 
+It is recommended that this policy be reviewed for PhD applicants, and a similar policy should not be 
+implemented for MSc applicants after the Jam waiver. 
+MSE 
+accepted 
+PHY 
+Department agrees to the proposal in principle but would like the seats to be supernumerary. Also, the department 
+wants clarification about the exact process to be followed to select such students. 
+Civil 
+Accepted 
+Annexure M.14 
+few request about changes in course number BSE667 
+From dpgc_bsbe <dpgc_bsbe)iitk.ac.in> 
+To 
+Spgc <spgcrJletk.ac.ina 
+Copy Pgdesk epgdesk iitk.ac.in> 
+Date 
+2025-03-251 0:43 
+i)ear prof. Singh 
+Prof. ;mitabha 5andyopadhyay from our department had floated a course and It was approved, now he wants the permission to take partial online 
+classes t:he reason can be seen in the "rationale below. We also needs approval to .increase the student strength froe 20 to 45) (point 2 below), 
+third point is about some pre-requisite for LOs {please see below point 3}. 
+1. 855667 - St i.s approved. We need approvalfpens.ission for teaching a few lectures (.LINE. 
+2. .it is approved for a class size of 28. We need it to be approved for a class size of 46. 
+3. lb the approved course description, .it is stated that "Uws must have completed 4 semesters hint not. more than 5 semesters". This needs t.o 
+be replaced by - "tXs must have completed 4 semesters but not more than 6 semc:strrs 
+Page 27 of 30
+
+[Page 28]
+MINUTES 
+FOR THE 7t MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE 
+HELD ON April 2, 2025 (Wednesday) AT 10:30 AM 
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING 
+Fwd: Re: Fwd: ISPGC] Agenda: 7th SPGC(2024-25) Meeting on 02!0412025 (Wednesday) at 10:30 AM 
+From abandopa abandopa
+tkac.wr> 
+To 
+SPCC mail nosh 'spge ttk;acJns 
+Copy Appu Kumar Singh <sirrgtaappu siidtac.in>, DPGC BSSE Kdpgc_bsbe@ittk.acin~ 
+Date 
+2025-04O1 20:51 
+® Healthcare Ventures and-Enter{xises part 7_Caurseapprovetf BSE567_rnarke0.pctf(~b09 KB) 
+Remove aii attachments 
+Dear Sudhanshu, 
+As discussed, please refer to the attachment and the message that I sent to Appu earlier. 
+Regards, 
+entabha 
+Original Mesage 
+SU83ECr: 
+Re: Fwd: (SPC,C) Agenda 
+7th SPGC(?e24.25) seet.ing on @2/84/2015 (Wednesday) at 14:30 Ay 
+DATE: 
+2025-03-31 11:44 
+FROM: 
+abandopa <af,'sncopa itt,a:.1n>
+TO: 
+APpo Euaar Singh c 
+t'a 
+'ii 
+at 
+COPY: 
+dpgc_bsbe c ;gS» 
+„ sstC,actarg>
+Dear Appu, 
+Please refer to the attactr+ent. T have narked the lectures that are to oe delivered off me. Few hours prior to the departure of the students 
+for clinical iamersion' and few hours once they cove back fro/ the clinical iwwersion. 
+As discussed, the design of the course is such that all. lectures cannot be delivered offline. This is why I as seeking Senate's approval for 
+delivering a few lectures in the online code. It is necessary as Senate has eandatei that all lectures moist be offline. 
+Pteesr feel free to ask me for any further clarification. 
+Regards, 
+P itabha 
+Page 28 of 30
+
+[Page 29]
+MINUTES 
+FOR THE 7"' MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE 
+HELD ON April 2, 2025 (Wednesday) AT 10:30 AM 
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING 
+BSEbb7 
+Indian Institute of Technology Kanpur 
+New Course Proposal 
+Course Number. 
+& 
+Course Title: Healthcare Ventures & Enterprises I 
+Per Week Lectures: LecturestTutorialsi abs!Additional hours 
+Course Duration: Fui semester (summer) 
+Proposing Department: BSBE 
+Other DepartmentsfDPs which may be interested in the proposed course: Design Dept 
+Other faculty members interested in teaching the proposed course: Prof. J.Ramkumar, Prof. 
+B.V. Phani and Mr. Snkant Sastri (expected to soon join as a visiting Prof. of Practice) 
+Proposing Instructors: Prof. AmBtabha Bandyopadhyay 
+Lecture Duration: 3 hours (2 x 1.5 hours per week) 
+Class size: 20 (B Techs, M.Techs & PhDs) (UGs must have competed 4 semesters but not 
+more than 5 semesters) 
+Teaching hours: 14 classes"3 hours (42 hours) 
+Course Description: 
+A) Objectives: The course will expose students to the world of healthcare innovation. The 
+emphasis will be on showing how real innovation is made possible by identifying 
+'problem statements' that are derived by working closely with dinirians, and observing 
+customer behaviour. Students will also learn to appreciate how fundamental principles 
+of innovation are universally relevant, whether at a start-up, or as a new unit in a big 
+company. This course is in consonance with the recently-adopted `Student 
+Entrepreneurship Policy'; it prepares students for entrepreneurship through structured 
+learning and bands-on experience. 
+R) 
+e 
+pl: 
+Classy 
+l3r
+J Topic 
+Topics 
+Duration 
+(hours) 
+6 
+1 &2 
+learn formation & 
+Problem Statement 
+Developing relevant problem 
+statements. Lessons from rase 
+studies. Identifying common 
+areas of interest fir groups of 
+students 
+ 
+Secondary Research 
+i i 
+Gaining insights from available 
+secondary literature, and framing 
+initial hypotheses around the 
+problem statements.. Preparing 
+for clinical immersion 
+6 
+Clinical/customer 
+j immersion 
+Work closely with clinicians 
+and/or customers to observe the 
+9 
+Page 29 of 30 
+Offine 
+Pre-
+Depart 
+u re 
+sal ~
+
+[Page 30]
+MINUTES 
+FOR THE 7th MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE 
+HELD ON April 2, 2025 (Wednesday) AT 10:30 AM 
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING 
+'new gaps', and auernpt to 
+validate the initial hypotheses. 
+! 
+Mid-point Immersion 
+review 
+Peer review and learning in the 
+class where early experiences 
+from clinicalkustomer 
+immersion are shared 
+3 
+t
+Clinical/customer 
+immersion 
+Continue to work closely with 
+clinicians and/or customers to 
+observe the 'need gaps', and 
+validate the initial hypotheses 
+9 
+12 
+A 
+E 
+insights & new 
+directions 
+Evolution & modification of 
+original 'problem statement' & 
+idea based on clinical 
+immersion. Structured 
+documentation of market 
+insights, and developing User 
+Personas 
+3 
+i 13 
+Product strategy-Part 
+one 
+Developing a `Value 
+Proposition' & initial set. of 
+features 
+3 
+14 
+MVP Design & 
+prototypinb plan 
+_product 
+Structured "5 -pillar framework 
+for MVP Design. Create a 
+prototyping plan 
+3 
+j 
+, 
+Pre-requisites: Should have an ingest in healthcare innovation (instructor consent based on 
+application & interview). For this year alone, UGs should have completed at least 3 semesters at 
+the time of application (in future years, students will be asked to apply during the 3'd seine ter 
+itself). Registered students must be willing to work in teams of four. Each team. of 4 must 
+comprise a set of people with complementary skill sets. A team must ideally have two persons 
+with strong technical skills, one with business analysis skills, and one person with 
+sales/marketing rnindset. 
+Online, 
+students 
+are at a 
+hospital 
+Lectures to be 
+delivered 
+offline upon 
+return of the 
+students 
+Summary: Healthcare innovation will drive quality and affordable healthcare in the post-Covid 
+world. Rapid technology changes (especially Al & digital health) are enabling dramatic new 
+products and services globally. Modernisation of healthcare infrastructure in India, as also import 
+substitution, is driving medical device innovation in India. Success however ties in developing 
+products and services (whether physical or digital) that arc' based an real clinician and marker 
+insights 
+Reference books: 
+Required Readings: How to be a Founder (Bloomsbury); The Storytellet's Seo'et (Macmillan); 
+The Ventilator Project (Pan Macmillan). 
+Assessment: 
+Assessment,
+ria: One mid-semester (group) presentation; a final presentation & subrnissmn; 
+Class participation 
+Page 30 of 30

@@ -1,0 +1,75 @@
+[PAGE 1]
+1
+
+INDIAN INSTITUTE OF TECHNOLOGY KANPUR
+Department of Management Sciences
+Proposal for New Course
+
+Title: Advanced Stock Valuation
+Course No: MBAXXXM
+Department: Management Sciences
+Proposer: Dr. Harshal Rajan Mulay
+Units: 3-0-0-1[5]
+Duration of the course: First Half of the Even Semester
+Prerequisite Courses: MBA601
+Other interested faculty: NA
+
+Course Objectives:
+
+This course aims to delve deeply into stock valuation, with focus on practical aspects. The course first dives into
+Relative Valuation and DCF Valuation techniques. While exploring these two topics, students will also gain an in
+depth understanding of EIC Analysis, Risk and Return, Asset Pricing Models, Earnings Adjustments and Cashflow
+Projections. The latter part of the course discusses considerations for some special cases of valuations like valuing
+financial firms, start-ups, unlisted firms, distressed firms and M&As. Finally, the course provides a cursory
+overview of other valuation methods like Residual Income method, SOTP method and Real Options method.
+
+Course Contents:
+
+S. No.                                          Topic
+1     Relative Valuation 1 –Procedure
+Valuing firms using Price and Enterprise Value based Multiples
+2     Relative Valuation 2 – Some Applied Concepts
+Cautions to be taken while applying these models, estimating multiples using regression, industry specific multiples
+3    DCF Models  - Overview
+General structure of Discounted Cash Flow Models - Constant Cash Flow, Single Growth, Gordon Growth, Multiple
+Growth and Forecasted Cashflow Models
+4 & 5   Input to DCF Models 1 – Risk, Return and Discount Rates
+Asset Pricing Models, estimating Risk Free Rates and Risk Premium using bond yields, credit ratings, exchange rates,
+inflation difference and CDS spreads. Estimating levered and unlevered beta. Calculation of WACC
+6     Input to DCF Models 2 – Earning Adjustments and Calculating Cashflows
+Adjusting earnings for capital and financial expenses. Estimating FCFE and FCFF
+7     Input to DCF Models 3 – Cashflow Projections
+Projecting income statement, balance sheet and cash flows for future periods.
+8     Input to DCF Models 4 – Estimating Growth
+Estimating growth rates for DDM, FCFE and FCFF models
+9      Probabilistic Approach to Valuation
+10     Special Cases of Valuation 1 – Valuing Financial Firms
+11     Special Cases of Valuation 2 – Valuing Startups and Unlisted Firms for IPOs
+12     Special Cases of Valuation 3 – Valuing Distressed Firms
+13     Special Cases of Valuation 4 – Valuation for M&A
+14    Other Valuation Techniques
+Residual Income Valuation, SOTP Valuation, Real Option Valuation
+
+[PAGE 2]
+2
+
+Short summary for including in the Courses of Study Booklet: Same as Course Objectives mentioned above.
+
+Textbook
+Damodaran, A. (2012), “Investment Valuation”. John Wiley & Sons. 3rd Edition.
+
+Reference Material
+HBS Case Studies, YouTube Videos by Dr Aswath Damodaran, McKensey Primers on Valuation
+
+Any other remarks:
+The course is an advanced PG course, and the course pedagogy involves lectures and discussion of case studies and
+research papers. This course will complement two other courses viz. Investment Banking – Capital Market
+Operations and Mergers & Acquisitions. Students are advised to take all three of them to gain in depth understanding
+of the Investment Banking industry/
+
+Signature of Proposers:
+
+Dr. Harshal Rajan Mulay [Date: 27-Jan-2025]
+
+This course is Approved/ Not Approved                              This course is Approved/ Not Approved
+DPGC Convener, DoMS                                            Chairperson SPGC

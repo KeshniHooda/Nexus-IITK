@@ -1,0 +1,140 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course for Undergraduate studies
+
+1.  Course No:
+
+2.  Course Title: Space Economics, Law, Policy, and Benefits
+
+3.  Per Week Lectures: 3(L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours[0-2]:0 (A), Credits
+(3*L+2*T+P+A): 5, Duration of Course: 6 weeks
+
+4.  Proposing Department/IDP : Space, Planetary & Astronomical Sciences & Engineering (SPASE)
+
+Other Departments/IDPs which may be interested in the proposed course:
+
+Other faculty members interested in teaching the proposed course:
+
+5.  Proposing Instructor(s): Abhay Gupta, Pankaj Jain/Soumyabrata Chakrabarty
+
+6.  Course Description:
+
+A.  Objectives:
+
+By the end of this course, students will:
+
+•  Understand the fundamentals of the global and Indian space economy, emerging
+markets, and commercialization models.
+
+•   Analyze the legal and regulatory frameworks that govern space activities—both
+internationally and nationally.
+
+•   Explore space policy as a strategic and developmental tool—national  security,
+scientific research, disaster management, and digital infrastructure.
+
+•   Evaluate socio-economic and environmental benefits of space programs, especially in
+emerging economies like India.
+
+•   Apply interdisciplinary thinking to emerging space challenges such as space traffic
+management, debris mitigation, PPPs in satellite constellations, and lunar economy.
+
+B.  Contents (preferably in the form of 5 to 10 broad titles):
+S      Module                             Topics                  No of
+No.                                                                         Lectures
+1    Foundations of    Evolution of the global space economy; commercial  2
+Space Economy    vs. public space programs; new space race; Indian
+space ecosystem; case studies from SpaceX, ISRO,
+Pixxel, Skyroot, Piersight and other Indian startup
+companies.
+
+[PAGE 2]
+2    Space Policy and  Role of space in national security, climate resilience,  2
+Strategic Goals     digital infrastructure; Indian space reforms; global
+power competition in LEO, lunar, and deep space
+3     International    UN Treaties (Outer Space Treaty, Moon Agreement),  2
+and Indian       ITU regulations,  liability, sovereignty; Indian Space
+Space Law         Policy  2023,  IN-SPACe  mandate,  licensing  and
+compliance
+4     Private Sector      Satellite services, launch and propulsion markets,  2
+and PPP Models  downstream applications (EO, GNSS, telecom); PPP
+models; public procurement and anchor tenancy
+5    Socio-Economic   Disaster  monitoring,  precision  agriculture, urban  3
+and               planning, communication access,  digital inclusion;
+Developmental   impact evaluation frameworks and public value of
+Benefits         space
+6    Space-enabled    Telecommunications Law and Regulation - Licensing  3
+Communication   Frameworks for services and infrastructure. Policy on
+and Services     Remote Sensing and deep-Space Communication.
+Regulation        International  trade   in   satellite  communication
+services and global mobile personal communication
+services.  Legal  framework  for  GNSS  services,
+International   institutional   context   for  GNSS
+operations
+7   New Frontiers:    Space  traffic management,  orbital  debris,  active  2
+Debris, SSA, and   debris removal (ADR), space weather, SDGs and long-
+Sustainability     term sustainability of space
+8     Financing and     Cost-benefit  of  flagship  missions  (Chandrayaan,  3
+Economics of      Starlink);  ROI  of  EO  data  and  constellations;
+Missions          insurance,   risk-sharing,  revenue  models   (e.g.
+subscription vs. data licensing)
+9     Futures Thinking  Moon and Mars economy, asteroid mining, in-space  3
+and Policy        manufacturing, ethical dilemmas; foresight exercises;
+Design            scenario planning for India’s 2040 space future
+
+C.  Pre-requisites: Not Applicable.
+
+D.  Short summary for including in the Courses of Study Booklet:
+
+“Space Economics, Law, Policy, and Benefits” is a multidisciplinary elective that introduces
+students to the evolving space economy and the associated legal, policy, and socio-economic
+frameworks. It covers strategic objectives of space programs, regulatory mechanisms, private
+sector  participation, and public good applications  like  agriculture, climate  resilience, and
+communication. Case studies from India and the world help students build critical insights into
+how space can be a driver of development, security, and innovation.
+
+7.  Recommended books:
+
+Textbooks:
+•   “Space Economics: From Earth to the Stars” – Joel Greenberg & Henry Hertzfeld
+•   “Introduction to Space Law” – Tanja Masson-Zwaan and Mahulena Hofmann
+
+[PAGE 3]
+•   “Space Law: A Treatise” – Francis Lyall and Paul Larsen
+
+Supplementary / Reference Material:
+
+•   ISRO, IN-SPACe and NSIL policy documents (Indian Space Policy 2023, IN-SPACe Technical
+Centre resources, Earth Observation Consultation Paper 2023)EO-Aug01-93Glimpses-
+Indian-Space-I…IN-SPACe-Technical-Cent…
+•  OECD Reports on the Space Economy
+
+•  World Economic Forum reports on Space for Sustainability and Satellite Services
+•  NASA Economic Impact Reports
+•  Academic papers on SSA, ADR, and debris mitigation
+
+8.  Any other remarks:
+
+As part of the course assessment, students will complete a short essay or project that applies the
+concepts learned to real-world space scenarios. Options include:
+
+•   Writing a policy brief or analytical essay on a topical issue (e.g., regulating private
+spaceports, India's lunar ambitions, space traffic management frameworks).
+•   Preparing a business case or commercialization model for a space technology or service
+(e.g., EO-based crop insurance, satellite IoT platform, debris removal startup).
+•  Mapping the socio-economic impact of a space mission using data from sources like ISRO,
+NASA, or UN SDG indicators.
+•   Designing a foresight scenario for India’s space economy in 2040.
+
+Students may work individually or in teams, and are encouraged to draw from engineering, policy,
+economic, or entrepreneurial perspectives depending on their academic background.
+
+Dated:05-08-2025. Proposer: Abhay Gupta
+
+Dated:_______________ DUGC/DPGC Convener:___________________
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC
+
+Dated:______________________________

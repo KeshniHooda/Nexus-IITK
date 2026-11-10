@@ -1,0 +1,196 @@
+[PAGE 1]
+REGISTRATION DATA STATISTICS FOR 2023-24/FIRST
+
+TOTAL NUMBER OF COURSES BEING OFFERED                    1053
+
+EXCLUDE THE THESIS COURSE, SEMINAR, PROJECT, BTP,
+508SUMMER TRAINING, PRESENTATION
+
+MAXIMUM CLASS SIZE (MTH111M)                               1330
+
+MINIMUM CLASS SIZE                                           1
+(AT PRESENT THERE ARE 508 COURSES : CS662A, ENG705, ENG751,
+ENG754, ME626A, MSE629A, MTH651, MTH761A, PHI768, SEE626M)
+
+AVERAGE CLASS SIZE (OF ALL 508 COURSES)                      76
+
+NUMBER OF COURSES WITH 5 STUDENTS OR LESS                 46
+
+NUMBER OF COURSES WITH 100 STUDENTS OR MORE              100
+
+AVERAGE CLASS SIZE OF COURSES THAT HAVE >5 AND LESS THAN  37
+100 STUDENTS
+
+THE FOLLWING IS THE NUMBER OF COURSES WITH
+VARIOUS CLASS STRENGTHS
+
+No. of Student   No. of Course
+1             10
+2              8
+3             10
+4             14
+5              4
+6-10            44
+11-15           41
+16-20           40
+21-25           31
+26-30           21
+31-50           74
+51-75           81
+76-100           30
+>100           100
+Total           508
+
+Page 1 of 5
+
+[PAGE 2]
+2023-24 FIRST SEMESTER
+LIST OF COURSES IN WHICH ≤5 STUDENTS REGISTERED
+
+Total No.
+S.No. Course No.   Instructor         Name
+of Student
+1.    CS662A      Anil Seth          INTRODUCTION TO LINEAR LOGIC                  1
+2.    ENG705    Muthukumar M      NATION THEORY AND LITERATURE                 1
+3.    ENG751     Sayan Chattopadhyay  CONTEMPORARY CRITICAL THEORIES &             1
+LITERARY PRAXES
+4.    ENG754    Chinmay Dharurkar   HISTORICAL LINGUISTICS                          1
+5.   ME626A     Shakti Singh Gupta    VIBRATION OF CONTINUOUS SYSTEMS              1
+6.   MSE629A   Dipak Mazumdar     PHYSICAL & MATHEMATICAL MODELLING OF       1
+STEELMAKING PROCESSES
+7.   MTH651     Narasimha Bonala    INTRODUCTION TO TORIC VARIETIES                1
+8.   MTH761A   Ajay Singh Ramdin   VECTOR BUNDLES AND CHARACTERISTIC           1
+Thakur            CLASSES
+9.    PHI768    A V Ravishankar    MODAL LOGIC                                     1
+Sarma
+10.   SEE626M   Ankur Awadhiya     ECOLOGICAL PRINCIPLES AND BIODIVERSITY       1
+FOR SUSTAINABILITY
+11.   ECO747    P Murali Prasad     ENVIRONMENTAL ECONOMICS LEGISLATION        2
+AND SOCIAL IMPACT
+12.   ENG709     Usha Udaar         LINGUISTIC ANALYSIS                              2
+13.   ESC101A    Priyanka Bagade     FUNDAMENTAL OF COMPUTING                    2
+14.   ME745      Santanu De        MODELING AND TURBULENT COMBUSTION         2
+15.   MTH656    T Muthukumar      SOBOLEV SPACES AND APPLICATIONS              2
+16.   MTH736    Rama Rawat        FOURIER ANALYSIS-I & DISTRIBUTION THEORY      2
+17.   PHI711      Sushruth Ravish     CONTEMPORARY THEMES IN MORAL                2
+EPISTEMOLOGY
+18.   PHI785      Prashant Bhalchandra  PLATO                                             2
+Bagad
+19.   EE706A     Amit Verma       QUANTUM PHYSICS OF SEMICONDUCTORS          3
+20.   EE798S     Kumar Vaibhav     MICROWAVE REMOTE SENSING SYSTEMS AND      3
+Srivastava          APPLICATIONS
+21.   ENG708     Sudharshana N P     APPLIED LINGUISTICS                              3
+22.   ENG716     Chaithra Puttaswamy  INDIVIDUAL PROJECTS                             3
+23.   ENG755     Lakshmana Pinninti   RESEARCH METHODS IN ENGLISH AS A              3
+SECOND LANGUAGE STUDIES
+24.   ME674      Sachin Y Shinde      FLUID MECHANICS OF FLAPPING FOILS              3
+25.   ME727     P Venkitanarayanan   COMPOSITE MATERIALS                            3
+26.   MTH667A   Santosha Kumar     INTRODUCTION TO ALGEBRAIC GEOMETRY         3
+Pattanayak        AND ALGEBRAIC GROUPS
+27.   PHI774      Vineet Sahu        SOCIAL AND POLITICAL PHILOSPHY                 3
+28.   PHI786       Lalit Saraswat      EVOLUTIONARY THEORIES OF KNOWLEDGE         3
+AND COGNITION
+
+Page 2 of 5
+
+[PAGE 3]
+29.   CS747        Nitin Saxena       RANDOMIZED METHODS IN COMPUTATIONAL       4
+COMPLEXITY
+30.   ECO761     Deep Mukherjee      TOPICS IN APPLIED ECONOMETRICS                 4
+31.   EE634       Nandini Gupta       ELECTRICAL INSULATION IN POWER                4
+APPARATUS AND SYSTEMS
+32.   EE635      Alok Verma       HVDC TRANSMISSION & FLEXIBLE A C              4
+TRANSMISSION SYSTEMS
+33.   EE698D     Baquer Mazhari      SPECIAL TOPICS IN MICROELECTRONICS            4
+34.   EE798I       Rituraj           NANOPHOTONICS                                  4
+35.   ME698B     Ishan Sharma       MECHANICS OF ELECTROMAGNETIC                4
+CONTINUA
+36.   MSE645     Sarang Ingole      ADVANCE CHARACTERIZATION TECHNIQUES        4
+FOR PHOTOVOLTAIC DEVICES AND MATERIALS
+37.  MTH600M  Mohua Banerjee     INTRODUCTION TO PROFESSION AND                4
+COMMUNICATIONS SKILLS (MATHEMATICS)
+38.  MTH702M   Dootika Vats       INTRODUCTION TO PROFESSION AND                4
+COMMUNICATIONS SKILLS (STATISTICS)
+39.   SOC721    Munmun Jha        SOCIOLOGICAL THEORY                            4
+40.   SOC733     Esha Chatterjee      POPULATION PROCESSES                           4
+41.   SOC742    B N Patnaik        SOCIOLOGY OF ENVIRONMENT                     4
+42.   SOC745     Thounaojam        SOCIAL THEORY IN LATE TWENTIETH               4
+Somokanta        CENTURY
+43.   CE451A     Bipin Gupta         APPLICATION OF GEOTECHNICAL                   5
+ENGINEERING
+44.   MTH753      Satyajit Guin        ANALYSIS                                         5
+45.   MTH754     Suprio Bhar         PROBABILITY THEORY                             5
+46.   PHY632     Anjan Kumar Gupta   TRANSPORT IN MESOSCOPIC SYSTEMS              5
+
+Page 3 of 5
+
+[PAGE 4]
+LIST OF COURSES IN WHICH 6-10 STUDENTS REGISTERED
+
+Total No.
+S.No. Course No.   Instructor         Name
+of Student
+1.    CE471A     Chinmoy Kolay      SPECIAL TOPICS IN STRUCTURAL DESIGN            6
+2.    CHE677     Harshwardhan Katkar  INTRODUCTION TO PHYSICS OF POLYMERIC         6
+SYSTEM
+3.    EE616      Yogesh Singh       SEMICONDUCTOR DEVICE MODELLING              6
+Chauhan
+4.    EE664      S P Das          FUNDAMENTALS OF ELECTRIC DRIVES              6
+5.    EE685       Utpal Das         SEMICONDUCTOR OPTICAL COMMUNICATION       6
+DEVICES
+6.   ME251A    Anindya Chatterjee    ENGINEERING DESIGN AND GRAPHICS               6
+7.   MTH114M   Dhirendra Bahuguna  ORDINARY DIFFERENTIAL EQUATIONS              6
+8.   MTH640     Vikramjeet Chandel   SEVERAL COMPLEX VARIABLES                    6
+9.   MTH665    Minerva          ASYMPTOTIC STATISTICS                           6
+Mukhopadhyay
+10.   MTH688A   Sudhanshu Shekhar    TOPICS IN ARITHMATIC                             6
+11.   MTH731     Pooja Singla        INTRODUCTION TO COXETER GROUPS               6
+12.   PSY798      Shikha Dixit       ADVANCED COURSE IN SOCIAL COGNITION          6
+13.   SEE623     Amarendra Edpuganti  FUEL CELL ELECTRICAL ENERGY SYSTEMS          6
+14.   SPA602      Pankaj Jain        MATHEMATICAL METHODS IN SPACE SCIENCES     6
+& ENGINEERING
+15.   CHM698    Sandeep Verma      CHEMISTRY OF DRUG DESIGN AND                  7
+METABOLISM
+16.   CS744       Satyadev Nandakumar PSEUDO-RANDOM GENERATORS                    7
+17.   CS777       Sutanu Gayen        TOPICS IN LEARNING THEORY                      7
+18.   DES635     Koumudi Patil      METHODS FOR DESIGN RESEARCH                  7
+19.   ME698C    Anurag Gupta       ELEMENTS OF SHELL THEORY                      7
+20.   ME756    B Bhattacharya      VIBRATION CONTROL                              7
+21.   MS616      Kamal K Kar       HIGH PERFORMANCE POLYMERS AND               7
+COMPOSITES
+22.   MSE654     Raghupathy Yuvaraj  ADVANCED CORROSION SCIENCE AND              7
+TECHNOLOGY
+23.   MTH755     Sharmishtha Mitra    STATISTICAL INFERENCE                           7
+24.   PSY774     Kumar Ravi Priya    QUALITATIVE RESEARCH : THEORY AND            7
+PRACTICE
+25.   CHM629     Dasari L V K Prasad   PRINCIPLES OF PHYSICAL CHEMISTRY               8
+26.   CS610      Swarnendu Biswas   PROGRAMMING FOR PERFORMANCE                8
+27.   EE683        Shilpi Gupta       QUANTUM AND WAVE PHENOMENA                 8
+28.  MTH113M   Kaushik Bal        LINEAR ALGEBRA                                  8
+29.   MTH612     Sachin Subhash      INTRODUCTION TO COMMUTATIVE ALGEBRA       8
+Sharma
+30.   SEE608     Deepika Swami      INTRODUCTION TO BIOENERGY AND BIOFUELS      8
+31.   BSE655      Jonaki Sen         PHYSIOLOGY                                      9
+32.   BSE658     Arjun Ramakrishnan   STATISTICS FOR MODERN BIOLOGY                 9
+
+Page 4 of 5
+
+[PAGE 5]
+33.   CHE632     Raghavendra Ragipani ANALYSIS AND DESIGN OF MULTIPHASE            9
+REACTORS
+34.   EE480A      Yatindra Nath Singh   ELECTRICAL ENGINEERING LAB I                   9
+35.   ES455A      Debajyoti Paul      ANALYTICAL METHODS IN EARTH SCIENCES        9
+36.   MTH621A   Parasar Mohanty     FOURIER ANALYSIS                                9
+37.   PHY628      Jayanta Bhattacharjee  PHYSICS OF SOFT MATTER AND FLUIDS             9
+38.   PHY670     Sagar Chakraborty    EVOLUTIONARY GAME DYNAMICS                  9
+39.   AE656      Abhishek         AEROMECHANICS OF UNMANNED AERIAL          10
+SYSTEMS
+40.  CHM102A   Vishal           GENERAL CHEMISTRY                             10
+41.   EE798O    Soumya Ranjan Sahoo ADAPTIVE CONTROL THEORY                      10
+42.   ME655      Aditya Saurabh      BUBBLES AND DROPLETS                          10
+43.   ME663       Supratik          METAL FORMING                                  10
+Mukhopadhyay
+44.   PHY683     Navaneeth         TECHNIQUES IN EXPERIMENTAL HIGH ENERGY     10
+Poonthottathil       PHYSICS
+
+Page 5 of 5

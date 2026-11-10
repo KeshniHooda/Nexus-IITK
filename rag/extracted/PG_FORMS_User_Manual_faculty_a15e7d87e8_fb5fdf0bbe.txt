@@ -1,0 +1,816 @@
+[PAGE 1]
+UM | PG-FORMS
+
+USER MANUAL FOR SUPERVISOR/CO-SUPERVISOR,
+DXGC, HOD, SXGC
+
+PG FORMS
+DATE: 23rd FEB 2024, version 1.0
+
+Published by
+
+New Office Automation, IIT Kanpur
+
+1 | P a g e
+
+[PAGE 2]
+UM | PG-FORMS
+
+Contents
+
+1.   Introduction ......................................................................................................................................................... 3
+
+2.   Prerequisites ........................................................................................................................................................ 4
+
+3.   Actors ................................................................................................................................................................... 5
+
+4.   Oral Exam Board Process ..................................................................................................................................... 6
+4.1.    Oral Exam Board created by Supervisor / Co-supervisor ............................................................................................. 6
+
+4.2.    Oral Exam Board Examiner Approval by DXGC (DUGC / DPGC) ................................................................................. 12
+
+4.3.    Oral Exam Board Examiner Approval by HOD ............................................................................................................ 15
+
+4.4.    Oral Exam Board Examiner Approval by PG Office .................................................................................................... 19
+
+4.5.    Oral Exam Board Examiner Approval by SXGC (SUGC / SPGC) ................................................................................... 23
+
+5.      Thesis & Project Report Approval Process ................................................................................................................. 26
+
+5.1.    Thesis & Project Report by Supervisor ....................................................................................................................... 26
+
+5.2.    Thesis & Project Report Approved by Examiners ....................................................................................................... 30
+
+5.3.    Thesis & Project Report Approved by DPGC / DUGC ................................................................................................. 32
+
+5.4.    Thesis & Project Report Approved by SPGC / SUGC .................................................................................................. 34
+
+6.   Student Thesis/Project Extension Process ........................................................................................................ 37
+6.1.    Student Thesis/Project Extension Approval by Supervisor / Co-supervisor .............................................................. 37
+
+6.2.    Student Thesis/Project Extension DPGC / DUGC Approval ....................................................................................... 39
+
+6.3.    Student Thesis/Project Extension SUGC/SPGC Approval ........................................................................................... 41
+
+7.   Frequently Asked Questions (FAQs) .................................................................................................................. 44
+
+8.   Troubleshooting ................................................................................................................................................ 45
+
+2 | P a g e
+
+[PAGE 3]
+UM | PG-FORMS
+
+1. Introduction
+
+The Indian Institute of Technology Kanpur  (IITK) has initiated an ERP project to automate various
+administrative and academic processes across the institution.
+
+This manual serves as a step-by-step guide for processing PG-Forms through the Pingala Portal. It provides
+instructions for Supervisors, DPGC, HOD, PG Office, SPGC Chairperson, Examiners, and Students.
+
+3 | P a g e
+
+[PAGE 4]
+UM | PG-FORMS
+
+2. Prerequisites
+
+Before proceeding with the PG-Forms process, ensure the following:
+•  Students should pass the eligibility criteria specified by the institute (e.g., minimum CPI requirement).
+•  The correct Supervisor is mapped with the student.
+•  PG-Forms process eligibility should be configured in the system.
+•  Users have access to the Pingala Portal credentials (username and password).
+•  In each approval, the mail will be sent to the next approval authority, and a notification will be sent,
+which can be found in the dashboard.
+
+4 | P a g e
+
+[PAGE 5]
+UM | PG-FORMS
+
+3. Actors
+
+Actor                             Description
+DOAA  Admin   /                             • DOAA Admin will be able to maintain Examiner Configuration.
+Office
+• DOAA Admin will be able to maintain the eligibility of students either Branch-Wise
+
+or Student-Wise.
+•  DOAA-Admin will be able to add the oral board for any student.
+
+• DOAA Admin will be able to approve/reject the project type student oral board.
+• DOAA admin will be able to send synopsis and thesis documents to examiners.
+• DOAA Admin will be able to view Oral board status details.
+• DOAA Admin will be able to approve student thesis documents.
+• DOAA Admin will be able to add student details for the Oral Board.
+• DOAA Admin will be able to approve/reject the oral report of the student.
+•  The DOAA admin will be able to view the defence report of the student.
+•  The DOAA admin will be able to send evaluation feedback and revise the thesis to
+the Oral Board examiner.
+Supervisor  /  Co-       •  Will be able to create/update oral board details.
+Supervisor
+•  Will be able to create/update oral exam report.
+
+DXGC (DPGC / DUGC )                             •  DXGC will be able to approve/reject Student Oral Board, Oral Result Report, and
+
+Student extension.
+
+Head           of                             • HOD will be able to approve/reject the student oral board.
+Department (HOD)
+SXGC   (SPGC   /                             •  SXGC will be able to approve/reject the Student Oral Board, Oral Result Report, and
+SUGC )
+Student extension.
+
+Examiner                             •  Examiners will be able to view the student's thesis document.
+•  Examiner will be able to approve the thesis project report
+
+PG Office                             •  User will be able to view the student oral board.
+
+5 | P a g e
+
+[PAGE 6]
+UM | PG-FORMS
+
+4. Oral Exam Board Process
+
+This section covers the user roles (Supervisor/Co-supervisor, DOAA Office/Admin, PG Office, DXGC, SXGC,
+HOD) from the initiation of the oral exam board through its approval process. Also, DOAA Admin will have
+the option to add the student's oral exam board without approval directly.
+
+Note: -
+1) Before setting up the oral board, DOAA will set the Examiner Board-Configuration, based on which the
+minimum number of examiners will be set.
+2) Before setting up the oral board, DOAA will set the branch-wise eligibility/student-wise eligibility, based
+on which the oral exam board will be set.
+
+4.1.     Oral Exam Board created by Supervisor / Co-supervisor
+
+To add the oral exam board of the student by the supervisor/co-supervisor, do the steps that follow:
+
+1. Enter your login credentials.
+
+6 | P a g e
+
+[PAGE 7]
+UM | PG-FORMS
+
+2. On the left panel, click PG Thesis Management > Oral Exam Board > Oral Board Examiner.
+
+3. Select the faculty role.
+
+4. The Oral Board Examiner Listing page will be displayed, showing the currently created Student Oral
+Board Examiner.
+
+Note: You can also filter records using the Filter records search box.
+
+5. Click on the Add button to add a student oral board examiner.
+
+7 | P a g e
+
+[PAGE 8]
+UM | PG-FORMS
+
+6. Enter Roll No. The system will validate the roll no & eligibility criteria as defined in the system.
+
+7. Select Thesis or project from the drop-down menu.
+
+8. Enter the Thesis / Project Title in capital letters.
+
+8 | P a g e
+
+[PAGE 9]
+UM | PG-FORMS
+
+9. Select the Type (Internal / External) in the Name of Examiner section. Based on the selection value in
+the name drop-down will come.
+
+10.       Internal Means IITK faculty & External means the external examiner defined in the master.
+
+11.       Select the Name from the Name drop-down menu. User needs to select at least 3 examiners by
+clicking on the “+” button. To remove the latest added examiner, click on “-” or to remove any examiner,
+click on the Delete button.
+
+9 | P a g e
+
+[PAGE 10]
+UM | PG-FORMS
+
+12.        Click on “Save&Draft” to save the data in draft mode.
+
+13.      To edit the Draft Oral Board Examiner, the user needs to select the row & click on the Edit
+
+button.
+
+10 | P a g e
+
+[PAGE 11]
+UM | PG-FORMS
+
+14.      Update the value in the field that is necessary & click on the submit button to submit for
+
+approval.
+
+15.      Once submitted, data will be listed along with the status of the board created. As per the status
+system will tell where it is pending for approval.
+
+16.        Click   symbol to generate a pdf file of the list.
+
+17.        Click   symbol to print the list.
+
+18.        Click   symbol to filter columns.
+
+19.        Click   symbol to refresh the list.
+
+20.        Click  symbol to export the list to excel.
+
+11 | P a g e
+
+[PAGE 12]
+UM | PG-FORMS
+
+4.2.     Oral Exam Board Examiner Approval by DXGC (DUGC / DPGC)
+
+Once the Oral Exam Board is submitted by the supervisor/co-supervisor & Thesis / Project type is selected
+as Thesis, then the board details will be sent for approval to DXGC (DUGC / DPGC). In case the Thesis /
+Project type is Project, then DOAA will approve first, and then it will be pending at DUGC / DPGC for
+approval. To do the steps that follow:
+
+1. Enter your login credentials.
+
+2. On the left panel, click PG Thesis Management > Oral Exam Board > DPGC and DUGC Approval
+
+3. Select the DUGC or DPGC role as per the role assigned to the login user.
+
+4. DUGC and DPGC Approval listing page will be display having filters selected as All by default.
+Note: You can also filter records using the Filter records search box.
+
+12 | P a g e
+
+[PAGE 13]
+UM | PG-FORMS
+
+5. Click on the View button to approve/reject the board.
+
+6. The user will be able to view the approval logs in the Approval Logs section.
+
+7. The user will enter the remarks before approving or reject the examiner board.
+
+13 | P a g e
+
+[PAGE 14]
+UM | PG-FORMS
+
+8. Click on the Approve button to approve the board & details will be sent to the next approving authority.
+
+9. Click on the Reject button to reject the board & details will be sent to the concerned supervisor/co-
+supervisor to update the examiner board details.
+
+10.      Once approval is obtained, the status of the student examiner board will be updated & it will
+show where it is pending now.
+
+11.        Click   symbol to generate a pdf file of the list.
+12.        Click   symbol to print the list.
+13.        Click   symbol to filter columns.
+14.        Click   symbol to refresh the list.
+15.        Click  symbol to export the list to excel.
+
+14 | P a g e
+
+[PAGE 15]
+UM | PG-FORMS
+
+4.3.     Oral Exam Board Examiner Approval by HOD
+
+Once the Oral Exam Board is approved by the DXGC (DUGC / DPGC), then the oral exam board examiner
+details will be sent to the HOD of the concerned student department. To do the steps that follow:
+
+1. Enter your login credentials.
+
+2. On the left panel, click PG Thesis Management > Oral Exam Board > HOD Approval
+
+3. Select the Head of Department role assigned to the login user.
+
+15 | P a g e
+
+[PAGE 16]
+UM | PG-FORMS
+
+4. The HOD Approval listing page will be displayed, having filters selected as All by default.
+Note: You can also filter records using the Filter records search box.
+
+5. Click on View button to approve / reject the board.
+
+16 | P a g e
+
+[PAGE 17]
+UM | PG-FORMS
+
+6. The user will be able to view the approval logs in the Approval Logs section.
+
+7. The user will enter the remarks before approving or rejecting the examiner board.
+
+17 | P a g e
+
+[PAGE 18]
+UM | PG-FORMS
+
+8. Click on the Approve button to approve the board & details will be sent to the next approving authority.
+
+9. Click on the Reject button to reject the board & details will be sent to the concerned supervisor/co-
+supervisor to update the examiner board details.
+
+10.      Once approval is obtained, the status of the student examiner board will be updated & it will
+show where it is currently pending.
+
+11.        Click   symbol to generate a pdf file of the list.
+12.        Click   symbol to print the list.
+13.        Click   symbol to filter columns.
+14.        Click   symbol to refresh the list.
+15.        Click  symbol to export the list to excel.
+
+18 | P a g e
+
+[PAGE 19]
+UM | PG-FORMS
+
+4.4.     Oral Exam Board Examiner Approval by PG Office
+
+Once the Oral Exam Board is approved by the HOD, then the oral exam board examiner details will be sent
+to the PG Office & SXGC (SUGC / SPGC) in parallel for approval. PG Office approval is not mandatory, but
+the PG office can give its approval if it is pending. Once SXGC approves the oral exam board, then PG Office
+will not be able to approve/reject the oral exam board examiner details. To do the steps that follow:
+
+1. Enter your login credentials.
+
+2. On the left panel, click PG Thesis Management > Oral Exam Board > PG Office Approval
+
+3. Select the Permission Authority role assigned to the login user.
+
+19 | P a g e
+
+[PAGE 20]
+UM | PG-FORMS
+
+4. PG Office Approval listing page will be display having filters selected as All by default.
+Note: You can also filter records using the Filter records search box.
+
+5. Click on the View button to approve/reject the board.
+
+6. The user will be able to view the approval logs in the Approval Logs section.
+
+7. The user will enter the remarks before approving or rejecting the examiner board.
+
+20 | P a g e
+
+[PAGE 21]
+UM | PG-FORMS
+
+8. Click on the Approve button to approve the board & details will be sent to the next approving authority.
+
+9. Click on the Reject button to reject the board & details will be sent to the concerned supervisor/co-
+supervisor to update the examiner board details.
+
+21 | P a g e
+
+[PAGE 22]
+UM | PG-FORMS
+
+10.      Once approval, the status of the student examiner board will be updated & it will show where it
+is currently pending.
+
+11.        Click   symbol to generate a pdf file of the list.
+12.        Click   symbol to print the list.
+13.        Click   symbol to filter columns.
+14.        Click   symbol to refresh the list.
+15.        Click  symbol to export the list to excel.
+
+22 | P a g e
+
+[PAGE 23]
+UM | PG-FORMS
+
+4.5.     Oral Exam Board Examiner Approval by SXGC (SUGC / SPGC)
+
+Once the Oral Exam Board is approved by the HOD, then the oral exam board examiner details will be sent
+to the PG Office & SXGC (SUGC / SPGC) in parallel for approval. Also, if PG Office approves the oral exam
+board, then SXGC will be able to approve the oral exam board details as well. To do the steps that follow:
+
+1. Enter your login credentials.
+
+2. On the left panel, click PG Thesis Management > Oral Exam Board > SUGC and SPGC Approval
+
+3. Select the SPGC or SUGC role assigned to the login user.
+
+23 | P a g e
+
+[PAGE 24]
+UM | PG-FORMS
+
+4. SUGC and SPGC Approval listing page will be display having filters selected as All by default.
+Note: You can also filter records using the Filter records search box.
+
+5. Click on the View button to approve/reject the board.
+
+6. The user will be able to view the approval logs in the Approval Logs section.
+7. The user will enter the remarks before approving or rejecting the examiner board.
+
+24 | P a g e
+
+[PAGE 25]
+UM | PG-FORMS
+
+8. Click on the Approve button to approve the board, it is finally approved & students are allowed to
+submit their thesis document or apply for the extension.
+
+9. Click on the Reject button to reject the board & details will be sent to the concerned supervisor/co-
+supervisor to update the examiner board details.
+
+10.      Once approval is obtained, the status of the student examiner board will be updated.
+
+11.        Click   symbol to generate a pdf file of the list.
+12.        Click   symbol to print the list.
+13.        Click   symbol to filter columns.
+14.        Click   symbol to refresh the list.
+15.        Click  symbol to export the list to excel.
+
+25 | P a g e
+
+[PAGE 26]
+UM | PG-FORMS
+
+5. Thesis & Project Report Approval Process
+
+This section allows the user (Supervisor/faculty, DXGC, SXGC, DOAA) to add the student oral exam report
+and process the approval flow for it.
+
+5.1.     Thesis & Project Report by Supervisor
+
+This section allows users (Supervisor, co-supervisor/faculty) to add the thesis/project report of the student
+whose thesis documents have been approved by the DOAA Office.
+To add, do the steps that follow:
+
+1. Enter your login credentials.
+
+2. On the left panel, click PG Thesis Management > Student Document & Report > Thesis & Project
+Report.
+3. Select the Faculty role.
+
+26 | P a g e
+
+[PAGE 27]
+UM | PG-FORMS
+
+4. Click on the Add button to add the thesis/project report.
+
+5. The Add thesis & Project Report page will be displayed.
+6. Enter the student roll no in Roll No. The system will validate the entered roll no & if the roll no is
+verified & the thesis/project document is approved by the DOAA Office, then the student's basic
+information will be displayed.
+
+27 | P a g e
+
+[PAGE 28]
+UM | PG-FORMS
+
+7. Select the Approval as Manual or Automated. If Manual is selected, then approval of this is first sent to
+DOAA Admin; otherwise, in case of Automate, approval will be sent to DPGC / DUGC.
+
+8. Enter the date of the Oral Examination using the date picker.
+
+9. Select Report of the board as Acceptable or Not Acceptable from drop down menu.
+10.      Upload the signature of the login user.
+
+11.        Click on Save&Draft to save the details in draft mode which can be edited later.
+
+12.       Select the row & click on the Edit button to edit the draft status student details. If any approving
+authority rejects the approval, then the user will be able to edit this by selecting the row & click on the edit
+
+28 | P a g e
+
+[PAGE 29]
+UM | PG-FORMS
+
+button.
+
+13.     Now the user can update the Approval, Report of the thesis board, Date of Oral Examination,
+and upload the signature.
+14.        Click on the Submit button to submit the details for approval. On the click of the Save & Draft
+button, details will be saved as a draft.
+
+15.      Once the thesis & project report are submitted, then details will be listed in the listing page
+along with the status. In the case of Automate, the report details will be sent to the examiners first for
+approval via email.
+
+29 | P a g e
+
+[PAGE 30]
+UM | PG-FORMS
+
+5.2.     Thesis & Project Report Approved by Examiners
+
+This section allows the student's Oral board examiners to approve or reject the student's report via email.
+To do the steps that follow:
+
+1. Check the email that is added to the oral board examiner.
+
+2. Click on the link available in the mail for the approval of the thesis project report uploaded by the
+supervisor.
+
+30 | P a g e
+
+[PAGE 31]
+UM | PG-FORMS
+
+3. The view page will be open, & Examiner needs to enter the Remarks & upload the signature.
+
+4. Click on the Approve or Reject button. If Approve is clicked, then details will be sent to the concerned
+DGPC / DUGC for further approval. In case the Reject details are rejected & supervisor needs to update the
+details again.
+
+31 | P a g e
+
+[PAGE 32]
+UM | PG-FORMS
+
+5.3.      Thesis & Project Report Approved by DPGC / DUGC
+
+This section provides users (DPGC, DUGC) will be able to approve/reject the thesis project report created
+by the supervisor, accepted by the examiner & pending at DPGC / DUGC.
+For approval, do the steps that follow:
+
+1. Enter your login credentials.
+
+2. On the left panel, click PG Thesis Management > Student Document & Report > DPGC and DUGC
+Report Approval
+
+3. Select the DPGC role.
+
+32 | P a g e
+
+[PAGE 33]
+UM | PG-FORMS
+
+4. Click on the Add button to add the thesis/project report.
+
+5. The View Thesis Project Report page will be displayed.
+6. The user will Upload Signature & click on the Approve or Reject Button. If approved, then details will be
+sent to the next approving authority, which is SPGC / SUGC; otherwise, in case of rejection, details will be
+sent back to the supervisor for the update. Users will be able to view the approval logs in the Approval Log
+Section.
+
+33 | P a g e
+
+[PAGE 34]
+UM | PG-FORMS
+
+7. Click   symbol to generate a pdf file of the list.
+8. Click   symbol to print the list.
+9. Click   symbol to filter columns.
+10.        Click   symbol to refresh the list.
+11.        Click  symbol to export the list to excel.
+
+5.4.     Thesis & Project Report Approved by SPGC / SUGC
+
+This section provides users (SPGC, SUGC) will be able to approve/reject the thesis project report created by
+the supervisor, accepted by the examiner, approved by DPGC / DUGC & pending at SPGC / SUGC.
+For approval, do the steps that follow:
+
+1. Enter your login credentials.
+
+2. On the left panel, click PG Thesis Management > Student Document & Report > SUGC and SPGC Report
+Final Approval
+
+3. Select the SPGC or Permission Authority role.
+
+34 | P a g e
+
+[PAGE 35]
+UM | PG-FORMS
+
+4. The listing page will be open & click on the view button to approve/reject the thesis/project report.
+
+5. The View Thesis Project Report page will be displayed.
+
+6. The user will Upload Signature & click on the Approve or Reject Button. If approved, then details will
+finally be approved & the defense report of the same will be generated; else, in case of rejection, details
+will be sent back to the supervisor for the update. Users will be able to view the approval logs in the
+Approval Log Section.
+
+7. Once the thesis project report is approved user will be able to view the Defense Report by clicking on
+the Defense Report button in the listing page.
+
+35 | P a g e
+
+[PAGE 36]
+UM | PG-FORMS
+
+8. Click   symbol to generate a pdf file of the list.
+9. Click   symbol to print the list.
+10.        Click   symbol to filter columns.
+11.        Click   symbol to refresh the list.
+12.        Click  symbol to export the list to excel.
+
+36 | P a g e
+
+[PAGE 37]
+UM | PG-FORMS
+
+6. Student Thesis/Project Extension Process
+
+In the student extension process, students can apply for an extension through their login & it will be sent
+for approval. Once the student's oral exam board is approved, the student can apply for the extension. If a
+student uploads the thesis, they will not be able to apply for an extension.
+
+6.1.     Student Thesis/Project Extension Approval by Supervisor / Co-supervisor
+
+Once a student submits a thesis extension request, the details will be provided to the relevant student
+supervisor/co-supervisor for approval. Do the steps that follow:
+
+1. Enter your login credentials.
+
+2. On the left panel, click PG Thesis Management > Student Thesis Extension > Thesis Extension
+Supervisor Approval.
+3. Select the Faculty role.
+
+37 | P a g e
+
+[PAGE 38]
+UM | PG-FORMS
+
+4. Click on the View button for the approval.
+
+5. The view PG Thesis Extension page will be displayed.
+6. User will be able to view the uploaded documents along with the extension proposed date & remarks
+entered by the student.
+7. Enter the Approval Remarks.
+
+8. Click on Approve to approve the extension & send for next approving authority i.e. DXGC. In case of
+Reject, student extension request is rejected.
+
+9. Once approved, status of the thesis extension will be changed to pending with DPGC / DUGC.
+
+38 | P a g e
+
+[PAGE 39]
+UM | PG-FORMS
+
+10.        Click   symbol to generate a pdf file of the list.
+11.        Click   symbol to print the list.
+12.        Click   symbol to filter columns.
+13.        Click   symbol to refresh the list.
+14.        Click  symbol to export the list to excel.
+
+6.2.      Student Thesis/Project Extension DPGC / DUGC Approval
+
+To approve the extension requested by the student of their concerned department & approved by the
+supervisor, do the steps that follow:
+
+1. Enter your login credentials.
+
+2. On the left panel, click PG Thesis Management > Student Thesis Extension > Thesis Extension
+DPGC/DUGC Approval
+3. Select the DPGC or DUGC role.
+
+39 | P a g e
+
+[PAGE 40]
+UM | PG-FORMS
+
+4. The Thesis Extension DUGC/DPGC Approval listing page will be displayed.
+5. Click on the view button to approve the extension.
+
+6. The View PG Thesis Document page will be open.
+7. View the details submitted by the student.
+8. Enter Approval Remarks.
+
+9. Click on Approve to approve the request & send the details to SPGC / SUGC for further approval. In case
+the Reject button is clicked, the extension request will be rejected.
+
+10.      Once approval, the status of the request will be updated on the listing page & status will be
+Pending with SPGC / SUGC.
+
+40 | P a g e
+
+[PAGE 41]
+UM | PG-FORMS
+
+11.        Click   symbol to generate a pdf file of the list.
+12.        Click   symbol to print the list.
+13.        Click   symbol to filter columns.
+14.        Click   symbol to refresh the list.
+15.        Click  symbol to export the list to Excel.
+
+6.3.     Student Thesis/Project Extension SUGC/SPGC Approval
+
+To approve the extension requested by the student, approved by the supervisor & DPGC / DUGC, do the
+steps that follow:
+
+1. Enter your login credentials.
+
+2. On the left panel, click PG Thesis Management > Student Thesis Extension > Thesis Extension
+SUGC/SPGC Approval
+3. Select the Permission Authority or SPGC or SUGC role.
+
+41 | P a g e
+
+[PAGE 42]
+UM | PG-FORMS
+
+4. The Thesis Extension SUGC/SPGC Approval listing page will be displayed.
+
+5. Click on the view button to approve the extension.
+
+6. The View PG Thesis Document page will be open.
+
+7. View the details submitted by the student.
+
+8. Enter Approval Remarks.
+
+9. Click on Approve to finally approve the request & student will be given the extension for thesis
+
+submission as per propose date. In case the Reject button is clicked, the extension request will be rejected.
+
+42 | P a g e
+
+[PAGE 43]
+UM | PG-FORMS
+
+10.      Once approval, the status of the request will be updated on the listing page & status will be
+
+Approved by SPGC / SUGC.
+
+11.        Click   symbol to generate a pdf file of the list.
+
+12.        Click   symbol to print the list.
+
+13.        Click   symbol to filter columns.
+
+14.        Click   symbol to refresh the list.
+
+15.        Click  symbol to export the list to excel.
+
+43 | P a g e
+
+[PAGE 44]
+UM | PG-FORMS
+
+7. Frequently Asked Questions (FAQs)
+
+Q1: How do I log in to the Pingala Portal?
+A: Use your institute-provided credentials (username and password) to log in at [Pingala Portal Login Page].
+If you encounter login issues, reset your password or contact the IT support team.
+Q2: Where can I find the PG thesis submission section?
+A: After logging in, navigate to the 'PG Thesis Management' tab and select “Student Document Upload”
+from the dropdown menu.
+Q3: How do I upload my thesis document?
+A: Go to the thesis submission section, click on 'Upload Thesis', attach your PDF file, and click 'Submit'.
+Q4: What file formats are accepted for thesis upload?
+A: Only PDF files are accepted. Ensure your document does not exceed the size limit specified on the
+portal.
+Q5: How can I check the status of my thesis approval?
+A: Navigate to the 'Thesis Status' section under the PG Thesis tab to track your thesis status.
+Q6: Can I edit my thesis after submission?
+A: Once submitted, you cannot edit your thesis directly. You only update the document once rejected by
+the DOAA Office or once it is saved in draft mode.
+Q7: What should I do if I miss the thesis submission deadline?
+A: Contact the academic office or your supervisor immediately to request an extension, if applicable.
+
+44 | P a g e
+
+[PAGE 45]
+UM | PG-FORMS
+
+8. Troubleshooting
+
+Issue 1: Unable to Log In
+Ensure your credentials are correct.
+Reset your password using the 'Forgot Password' option.
+If the problem persists, contact IT support.
+
+Issue 2: Thesis Upload Fails
+Verify that your file is in PDF format.
+Check that the file size does not exceed the maximum limit.
+Ensure your internet connection is stable.
+Try clearing your browser cache and retrying.
+
+Issue 3: Submission Status Not Updating
+Refresh the portal page.
+Log out and log back in.
+If the issue continues, report it through the 'Support' tab.
+
+Issue 4: Deadline Extension Request Not Visible
+Check with your supervisor if an extension request has been initiated.
+If not, contact the academic office.
+
+Issue 5: Unable to Access Thesis Feedback
+Ensure you are logged in with the correct student profile.
+Check the ‘PG Thesis Management’ section.
+If unavailable, contact your supervisor.
+
+For any additional issues or unresolved problems, please reach out to the Support Team via the 'Support'
+tab or contact your academic supervisor directly.
+
+********** End of Document **********
+
+45 | P a g e

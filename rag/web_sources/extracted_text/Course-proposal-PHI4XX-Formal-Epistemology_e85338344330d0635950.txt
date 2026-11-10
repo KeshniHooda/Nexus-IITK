@@ -1,0 +1,152 @@
+[Page 1]
+Indian Institute of Technology Kanpur
+ Department of Humanities and Social Sciences
+ Proposal for a New Course 
+Course No: PHI4**
+Course Title: Formal Epistemology
+Per Week Lectures:(L) 3
+Tutorial: 0
+Laboratory:(P) 0
+Additional Hours[0-2]:
+Credits (3*L+2*T+P+A): 3-0-0-0
+Duration of Course: Full Semester
+Proposing Department/IDP : Department of Humanities and Social Sciences
+Other Departments/IDPs which may be interested in the proposed course: 
+Cognitive Science. Computer Science, Economics, Mathematics
+Other faculty members interested in teaching the proposed course:-
+Proposing Instructor(s): A. V. Ravishankar Sarma
+Course Description:
+Formal epistemology is a branch of analytic philosophy that investigates 
+knowledge and reasoning using formal tools from mathematics (probability) and 
+logic. In this course, we will investigate knowledge and reasoning using 
+mathematical and logical techniques such as probability theory and modal logic. 
+The main stream epistemology is the subject matter of formal epistemology. In 
+general, epistemology is organised around two main objectives. One in defining 
+and securing knowledge while combating scepticism and the other in modelling 
+the dynamics of epistemological and doxastic states (beliefs). Although 
+mainstream epistemology has mostly concentrated on the former, formal 
+approaches have largely focused on the latter. 
+Some intriguing topics in mainstream epistemology are handled using formal 
+models based on probability theory and modal logic. These issues include the 
+distinction between internalism and externalism, the problem of justification, 
+induction, and social epistemology. The course is divided into two parts. The first 
+part is concerned with modelling beliefs with probabilities, and the second with 
+analysing knowledge and belief using epistemic logic. Though it has enjoyed a
+
+[Page 2]
+resurgence in interest and use over the past two decades, formal epistemology 
+nevertheless has several significant limitations despite its mathematical elegance.
+This course will additionally illustrate some of the limitations of formal 
+epistemology.
+Objective(s): The primary objective of the course is to emphasise logic and 
+probability theory in addressing standard epistemological problems. This course 
+will provide students with a foundational understanding of formal epistemology's 
+motivation, methods, and relationship to traditional epistemology in order to 
+prepare them for the intriguing world of formal epistemology.
+Contents: Mainstream vs Formal Epistemology, belief and probability, belief and 
+acceptance, pillars of Bayesisnism, justification and probability, three approaches 
+for justification: Foundationalism, coherentism, infinitism, knowledge, certainty 
+and skepticism, Logics of knowledge and belief, Logical omniscience, common 
+knowledge, basics of interactivist epistemology, limitations of formal 
+epistemology.
+Table: lecture wise breakup: 
+S. No Broad Title
+Topics
+Lectures
+1
+Mainstream vs Formal Epistemology
+Introduction and motivation, formal 
+tools: probability and logic, 
+foundations of formal epistemology
+3
+2
+Belief and Probability:
+graded and categorical beliefs, 
+conditional probability and 
+conditional beliefs, degree of belief 
+raising theory of confirmation
+6
+3
+Belief and acceptance
+ The threshold theory, Lottery 
+Paradox, actual and ideal agents
+3
+4
+Pillars of Bayesianism
+Probabilism, Conditionalization, 
+arguments for Conditionalization, 
+objective vs subjective Bayesians
+6
+5
+Justification and Probability
+Justification and Probability & Three
+approaches: Foundationalism, 
+Coherentism, Infinitism, Objections
+4
+6
+Knowledge and probability
+Knowledge, certainty, skepticism, 
+rejection of knowledge requires 
+certainty.
+6
+
+[Page 3]
+S. No Broad Title
+Topics
+Lectures
+7
+Logic of Knowledge and beliefs
+Basic concepts of epistemic logic: 
+syntax and semantics, Common 
+knowledge, awareness, problem of 
+logical omniscience and distinction 
+between explicit vs implicit beliefs.
+6
+8
+Interactive Epistemology
+Agency and interaction,strategies in 
+the interaction, rationality 
+constraints, David Lewis theory of 
+elusive knowledge and convention
+6
+Short summary for including in the Courses of Study Booklet:
+Formal epistemology is a young and vibrant field of research in Analytic 
+philosophy. It mainly addresses problems of mainstream epistemology with the 
+use of logic, probability theory, and other formal logic tools. The field covers 
+concepts like knowledge, belief, certainty, rationality, reasoning, decision, 
+justification, learning, agent interaction, and information processing.
+Recommended books:
+1. Bradley, D. (2015). A critical introduction to formal epistemology. Bloomsbury 
+Publishing.'
+2. Fagin, R., Halpern, J. Y., Moses, Y., Vardi, M. (2004). Reasoning about knowledge.
+MIT press.
+3. Titelbaum 2021, Fundamentals of Bayesian Epistemology, Oxford University 
+Press
+Reference Books:
+1. Arló-Costa, H., Hendricks, V. F., Van Benthem, J., Boensvang, H., Rendsvig, R. K. 
+(2016). Readings in formal epistemology. Springer International Publishing 
+Switzerland.
+2. Glymour, C. Thinking Things Through. Cambridge, MA: MIT Press, 1992.
+ Hendricks, V. F. Mainstream and Formal Epistemology. New York: Cambridge 
+University Press, 2006.
+3. Williamson, T. Knowledge and Its Limits. Oxford: Oxford University Press, 2010.
+
+[Page 4]
+4. Hintikka, J. (1962): Knowledge and Belief: An Introduction to the Logic of
+the Two Notions. Cornell: Cornell University Press.
+5. Adams, E. W. (1998). A Primer of Probability Logic, CSLI Publication.
+6. Stalnaker, R. (2006). On logics of knowledge and belief. Philosophical Studies:
+An International Journal for Philosophy in the Analytic Tradition, 128(1), 169-199.
+7. S. O., Hendricks, V. F., Kjeldahl, E. M. (2018). Introduction to formal philosophy.
+Springer International Publishing AG, part of Springer Nature.
+8. Bovens, L., Hartmann, S. (2004). Bayesian epistemology. OUP Oxford.
+9. Lewis, D. (2008). Convention: A philosophical study. John Wiley Sons.
+10 Halpern, J. Y. (2017). Reasoning about uncertainty. MIT press.
+Any other remarks: --
+Dated: 26-02-2025
+Proposer: A. V. Ravishankar Sarma
+Dated: ………………….
+DUGC/DPGC Convener: ………………...
+The course is approved / not approved
+Chairman, SUGC/SPGC
+03-03-2025

@@ -1,0 +1,124 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+Proposal for a New Course
+
+1. Course No.: (To be assigned)
+
+2. Course Title: Music Technology: Sound Design & Musical Interfaces
+
+3. Per Week:
+
+Lectures: 3 (L) Tutorial: 0 (T) Laboratory: 0 (P) Additional Hours: 0 (A)​
+Credits: (3*L+2*T+P+A): 9  Duration: Full Semester
+
+4. Proposing Department/IDP: Department of Design
+
+Other Departments/IDPs Interested: Department of Electrical Engineering, Cognitive
+Science, and Computer Science & Engineering.
+
+5. Proposing Instructor(s): Gowdham Prabhakar
+
+6. Course Description
+
+A) Objectives
+
+To explore sound as a medium for design, perception, and performance through hands-on
+learning in psychoacoustics, sound design, music production, interaction design, and
+AI-assisted creativity. The course combines music technology, human-computer interaction,
+and performance studies through interdisciplinary projects and a final public showcase.
+
+B) Contents (in 10 Broad Titles)
+
+S.        Broad Title                       Topics                  No. of
+No                                                                 Lectures
+
+1    Psychoacoustics &           Pitch, loudness, timbre, masking, auditory  4
+Auditory Perception         cognition
+
+2   UX & Product Sound         Notifications, branding, auditory icons,     3
+Design                  sound feedback
+
+3    Foley & Film Sound         Foley recording, cue spotting,            3
+synchronization
+
+4    Groove & Synthesis         Subtractive, FM, granular, and           3
+Design                   sample-based synthesis
+
+5    MIDI, OSC & Patch        Max/MSP, signal routing, modular         4
+Programming                synthesis, Arduino MIDI
+
+[PAGE 2]
+6     AI-Assisted Sound Design   Generative patch making, diffusion-based  3
+textures, ML-audio
+
+7     Interactive Systems        Sensor mapping, gestural performance,    4
+data-driven sound
+
+8     Audiovisual Integration      TouchDesigner, audio-reactive visuals,     3
+GEMIDI-like mapping
+
+9     Stagecraft & Live Systems  Soundcheck, redundancy, performance    2
+design
+
+10    Final Performance &        Public concert, reflection, documentation   2
+Critique
+
+Total Contact Hours: ~31-35 lectures (including studio sessions)
+
+C) Pre-requisites:
+
+Students must have a strong interest in sound/music and at least ONE of the following (NOT
+ALL):
+
+●​ Completion of DES638 Human–Machine Interaction
+●​ Music Theory/practice exposure
+●​ Music Production
+●​ Programming experience
+●​  Basic Electronics experience
+
+D) Short Summary (for Courses of Study Booklet)
+
+An interdisciplinary, studio-based course exploring psychoacoustics, sound design, and
+music performance through design and technology. Students learn UX sound, film sound,
+and AI-assisted music production, build interactive systems using MIDI/OSC/Max
+MSP/Arduino, and design new musical interfaces. The course culminates in a public
+performance showcasing original works.
+
+Past works video: https://www.youtube.com/watch?v=QGf6TXCTHuU
+
+7. Recommended References
+
+Textbooks:
+
+●​  Farnell, A. Designing Sound.
+●​ Howard & Angus. Acoustics and Psychoacoustics.
+
+[PAGE 3]
+Conference Proceedings:
+
+●​ NIME (New Interfaces for Musical Expression)
+●​ CHI (ACM Conference on Human Factors in Computing Systems)
+●​ TEI (ACM Conference on Tangible, Embedded and Embodied Interaction)
+●​ MOCO (Movement and Computing Conference)
+●​ SMC (Sound and Music Computing Conference)
+●​ ISMIR (International Society for Music Information Retrieval Conference)
+●​ ICAD (International Conference on Auditory Display)
+
+8. Any Other Remarks
+
+●​ Course includes hands-on use of Logic Pro X/FL Studio, Max/MSP,
+TouchDesigner, and AI tools.
+●​  Students can design Digital Musical Instruments (DMIs), augmented acoustic
+instruments, or AI-based sound systems.
+●​ End-semester public performance based on the projects
+●​  Supports research submissions to NIME, CHI, TEI, and MOCO.
+
+Dated: 30 Nov 2025​
+Proposer: Gowdham Prabhakar
+
+Dated:​
+DUGC/DPGC Convener:
+
+The course is approved / not approved​
+Chairman, SUGC/SPGC:​
+Dated:

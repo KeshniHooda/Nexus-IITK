@@ -1,0 +1,92 @@
+[Page 1]
+Indian Institute of Technology, Kanpur
+Proposal for a New Course
+1. Course No: SPA6XX
+2. Course Title: Introduction to Space Informatics
+3. Lectures per week: 2 (L), Tutorial: 0 (T), Laboratory: 3 (P), Additional hours: (0-2): 0 (A),
+Credits (3*L+2*T+P+A): 9, Duration of Course: Full-Semester
+4. Proposing Department: SPASE
+5. Proposing Instructor: Rohit Sharma
+6. Course Description
+(A) Objectives: The course will introduce data and machine learning applications in space sciences.
+The course will introduce the various sources of space data e.g. satellite- & ground-based obser-
+vatories, telemetry, data-pipelines, etc.. and their respective formats. The course will delve into
+data exploration including application of supervised, unsupervised and deep learning, and conclude
+with an introduction to the Large Language Models (LLMs) and agentic AI usage for the space
+applications.
+(B) Contents (26-28 lectures, 14 lab sessions):
+1. Introduction to Space Informatics (3 lectures, 1 lab)
+– Space Informatics: scope, applications and scientific challenges
+– Space data: images, spectra, time series, telemetry and catalogues
+– Data-intensive space missions and observatories
+– Examples: satellites, space weather missions, planetary missions, radio telescopes and
+astronomical surveys
+2. Space Data and Computational Methods (3 lectures, 1 lab)
+– Scientific data formats, metadata and coordinate systems
+– FITS, HDF5, NetCDF and telemetry data
+– Data calibration, cleaning and preprocessing
+– Astronomical and planetary databases
+– Exploratory data analysis and data visualisation
+3. Statistical Methods for Space Science (3 lectures, 1 lab)
+– Probability distributions and statistical inference
+– Correlation, covariance and hypothesis testing
+– Regression and model fitting
+– Bayesian inference and likelihood
+– Markov Chain Monte Carlo (MCMC)
+4. Data Visualisation and Exploratory Data Analysis (2 lectures, 1 lab)
+– Visualisation of astronomical images, spectra and time series
+– Correlations, distributions, dimensionality reduction and uncertainty
+5. Supervised Learning (3 lectures, 2 lab)
+– Classification and regression
+– Support Vector Machines (SVM), Decision Trees, and Random Forest
+– Probabilistic Random Forest, Artificial Neural Networks
+– Model evaluation and hyperparameter optimisation
+6. Unsupervised Learning and Scientific Discovery (4-5 lectures, 2 labs)
+– Principal Component Analysis (PCA)
+– K-means clustering, Hierarchical clustering
+– t-SNE and UMAP
+– Self-Organizing Maps
+1
+
+[Page 2]
+– Anomaly detection
+7. Deep Learning for Space Applications (3 lectures, 2 labs)
+– Neural networks, backpropagation and optimisation
+– Convolutional Neural Networks for space and astronomical images
+– Autoencoders and representation learning
+– Deep learning for time-series and satellite telemetry
+8. Large Language Models for Space Science (3 lectures, 2 labs)
+– Foundational Models, Transformer architecture and Large Language Models
+– Prompting, embeddings and Retrieval-Augmented Generation
+– LLM-assisted scientific programming and data analysis
+– LLMs for scientific literature and mission documentation
+– LLM-based interfaces for space-data archives
+9. Agentic AI for Space Science (2-3 lectures, 2 labs)
+– AI agents, tools and agent architectures
+– Automated data-analysis pipelines, Automated model selection and hyperparameter op-
+timisation
+– AI-assisted programming
+– Scientific discovery: generating, testing and refining hypotheses
+– Autonomous analysis of astronomical, satellite and planetary data
+(C) Pre-requisites, if any: Mathematical Techniques in Space Sciences & Engineering (SPA622M),
+Numerical Techniques in Space Sciences & Engineering (SPA623M) or equivalent courses/topics.
+(D) Short summary for including in the Courses of Study Booklet:
+7. Recommended Books:
+1. Ivezi´c, ˇZ., Connolly, A. J., VanderPlas, J. T., & Gray, A., Statistics, Data Mining,
+and Machine Learning in Astronomy, Princeton University Press.
+2. Helbert, J., D’Amore, M., Aye, M., & Kerner, H. (eds.), Machine Learning for
+Planetary Science, Elsevier, 2022.
+3. Fortescue, P., Swinerd, G., & Stark, J. (eds.), Spacecraft Systems Engineering, 4th
+Edition, Wiley.
+4. Hassanien, A. E., Darwish, A., & El-Askary, H. (eds.), Machine Learning and Data
+Mining in Aerospace Technology, Springer, 2020.
+5. Hargitai, H. (ed.), Planetary Cartography and GIS, Springer, 2019.
+8. Any other remarks:
+Dated:
+Proposer:
+Dated:
+DUGC/DPGC Convener:
+The course is approved/not approved
+Chairman, SUGC/SPGC
+Dated:
+2

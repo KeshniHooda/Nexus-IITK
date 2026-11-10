@@ -1,0 +1,301 @@
+[Page 1]
+Indian Institute of Technology, Kanpur 
+Proposal for a New Course 
+1. Course No: AE XXX 
+2. Course Title: Space Exploration Mission Formulation 
+3. Per Week Lectures:3(L), Tutorial: 0(T), Laboratory: 0(P), Additional Hours[0-2]: 0(A) 
+4. Credits (3*L+2*T+P+A): 9 
+5. Duration of Course: Full Semester 
+6. Proposing Department: Aerospace Engineering 
+Other Departments/IDPs which may be interested in the proposed course: SPASE 
+7. Proposing Instructor(s): Rachana Agrawal (AE) 
+Faculty members interested in teaching the proposed course: Dipak Kumar Giri (AE) 
+8. Course Description: 
+A space exploration mission is a high-risk high-cost endeavor with little margin for errors. It 
+is also a multi-disciplinary affair and requires various systems to work together. The mission 
+architecture is often arrived at through an iterative design and testing process. If you are 
+eager to learn how a space mission is born and designed, this course is for you! Welcome! 
+In this course, you will learn about the lifecycle of a typical space mission and the design 
+process of constituent systems. By the end of this course, you will be able to design a 
+preliminary concept of a space mission given its objectives and constraints. You will work in 
+teams on a semester-long project to design a mission concept to a planetary destination. 
+The lecture sessions are designed to guide you through the process and will require active 
+participation in class. The teams will be able to receive feedback on their design through 
+regular presentations, finally culminating in a formal Mission Concept Review presentation. 
+The course is meant to provide a holistic understanding of space mission engineering and 
+develop critical design skills. 
+A. Objectives: 
+By the end of this course, students will be able to… 
+• Design a space mission architecture concept for given science objectives through 
+trade study of critical mission parameters. 
+• Generate feasible conceptual designs of the major subsystems based on a feasibility 
+criteria defined at the beginning of the course. 
+• Identify interdependencies between subsystems and iterate the mission design 
+toward a coherent mission concept by working with other subsystem teams. 
+• Practice presentation skills and justify the design as a team to a panel, following a 
+standard Mission Concept Review format used in the space industry. 
+B. Contents: 
+The course is divided into three units: 
+1. Mission formulation (~4 weeks) 
+2. Concept development (~7 weeks) 
+3. Mission and space system operations (~3 weeks)
+
+[Page 2]
+Sub-Units 
+Topics 
+Intended Learning Outcome 
+(Students will be able to …) 
+Lectures 
+(Total 39) 
+Unit 1: Mission Formulation 
+Mission/Project 
+Lifecycle 
+Flight Project lifecycle; 
+Introduction to the 
+mission formulation and 
+objectives; Concept 
+maturity levels; 
+formulation within 
+constraints; 
+1. Describe a typical mission 
+lifecycle and identify key 
+milestones 
+2. Describe the iterative mission 
+formulation and development 
+process. 
+2 
+Science/Mission 
+Requirements 
+Definition 
+Science objectives and 
+instrument; Science 
+Traceability Matrix; 
+System requirements 
+definition; requirement 
+statements 
+1. Identify key elements of a 
+science traceability matrix 
+2. Design a STM based on the given 
+science objectives 
+3. Identify key stakeholders and 
+generate level 1 requirements 
+3 
+Mission trade space 
+study 
+Mission architecture 
+overview; morphological 
+matrix; Key design trades; 
+Design space exploration; 
+pareto evaluation; point 
+design selection; analysis 
+of alternatives; 
+1. Identify key mission parameters 
+and flight systems 
+2. Create a morphological matrix 
+for a trade study 
+3. Develop a probabilistic model 
+for comparison of the missions 
+4. Model a pareto optimization 
+framework and shortlist candidate 
+architectures 
+5 
+Unit 2: Concept Development 
+Systems 
+Engineering/Mission 
+Architecture 
+Systems engineering 
+principles; concept of 
+operations; system 
+development life cycle; 
+sub-system 
+interdependencies; 
+concurrent engineering; 
+1. Recognize the key attributes of a 
+major system development life 
+cycle and the role of the systems 
+engineer in each stage of the life 
+cycle. 
+2. Work in a multi-disciplinary team 
+to communicate system 
+requirements and constraints 
+3. Apply fundamental methods of 
+analysis and evaluation used in 
+designing space systems and 
+selection of the most appropriate 
+system design. 
+4 
+Preliminary 
+Sizing/Technical 
+Budget 
+Contingency and margin; 
+Mass budget; functional 
+analysis and diagrams; 
+1. Create key system-level 
+engineering products and diagrams 
+used in the analysis and definition 
+of space systems and subsystems 
+3
+
+[Page 3]
+technical budgets 
+document; 
+and in the preparation of space 
+mission concepts. 
+Sub-system Sizing 
+DV and propellant budget; 
+Telecommunications link 
+budget; Data volume; 
+GNC sub-system sizing; 
+Power budget and power 
+profiles; thermal modeling 
+and thermal control; sub-
+system alternatives 
+1. Identify critical subsystems 
+2. For each subsystem 
+a. Design functional architecture 
+b. Design a first-order system that 
+meets the identified requirements 
+and constraints 
+c. Work with other subsystems in 
+the team to identify gaps in 
+requirements and revise the design 
+3. Generate mass, power, and data 
+budget tables 
+8 
+Risk and cost 
+analysis 
+Cost estimation; earned 
+value management; risk 
+likelihood and 
+consequence; risk matrix 
+and mitigation; failure 
+modes assessment; 
+1. Generate a statistical mission 
+cost estimation 
+2. Identify key risks and rank them 
+based on likelihood and 
+consequence; identify mitigation 
+strategies 
+3 
+Mission Concept 
+Review I (MCR-I) 
+Team Design Review 
+1. Present preliminary design in a 
+Mission Concept Review format. 
+Be able to explain the trades 
+involved and design choices. 
+3 
+Unit 3: Mission and system operations 
+Baseline design 
+iteration 
+Requirements 
+satisfaction; critical gaps 
+and feasibility 
+assessment; technology 
+readiness level 
+1. Evaluate the quality of the 
+mission concept based on 
+satisfaction of requirements and 
+constraints and feasibility 
+2 
+End-to-end concept 
+of operations and 
+scheduling 
+Mission operations; 
+launch window 
+assessment; Critical 
+events; Project schedule; 
+test and validation 
+planning; 
+1. Generate a detailed concept of 
+operations 
+2. Evaluate primary and backup 
+launch windows 
+3. Create a project schedule along 
+with test/validation plan 
+3 
+Final Mission 
+Concept Review 
+(MCR-II) 
+Final project presentation 
+by the student team(s) 
+1. Synthesize the final design as a 
+team and present to a panel. 
+2. Demonstrate action on feedback 
+from MCR-I and improvement in 
+design and presentation. 
+3. Create a design report following 
+a given format typically used in 
+space sector. 
+3
+
+[Page 4]
+C) Pre-requisites: 
+This course is for senior undergraduate students and post-graduate students. 
+At 
+least 
+two 
+undergrad/grad 
+courses 
+in 
+structures/thermodynamics/attitude 
+dynamics/controls/flight 
+mechanics/propulsion/space 
+dynamics/communication 
+systems/space systems/space environment. 
+D) Short summary for including in the Courses of Study Booklet: 
+This course equips students with practical experience in the formulation and engineering of 
+planetary space missions. Through a semester-long, team-based project, students will 
+conceptualize and design a mission to a planetary destination—starting from broad 
+scientific goals and progressing through the full lifecycle of mission development. Students 
+will gain a comprehensive understanding of mission architecture, including subsystem 
+design, trade studies, and systems integration. Lectures are structured to guide students 
+through each phase of the design process, with active in-class participation and 
+collaborative problem-solving at the core. By the end of the semester, students will be able 
+to develop a preliminary mission concept that meets defined objectives and constraints. 
+This course intends to build a holistic grasp of space mission engineering while cultivating 
+essential skills in teamwork, technical communication, and systems thinking. 
+9. Recommended books: 
+Wertz, J. R., Everett, D. F., & Puschell, J. J. (2011). Space mission engineering: The new SMAD. 
+Microcosm Press. 
+NASA Systems Engineering Handbook. ( Systems Engineering Handbook - NASA) 
+10. Any other remarks: 
+What to expect in this course: This course will be highly interactive and critical engagement 
+in class will be key for students to succeed in achieving the learning goals. Designing and 
+implementing a space mission is a highly interactive endeavor, its success relying on great 
+teamwork. Through these activities, you will not only build confidence in your individual 
+learning, but also in voicing and presenting your ideas to your colleagues and carrying out 
+productive group discussions. In addition, your participation in every class will provide 
+feedback to us and to yourself about the status of your learning . We will also assess your 
+class participation towards 10% of your total grade. Some of the planned activities include 
+polling questions, open-ended questions, brainstorming, and interactive demonstration. 
+To prepare for participating in the class activities, we will provide relevant readings and 
+prompts to think about before each class. We encourage you to make use of these 
+resources for active engagement. Additionally, since this is a team based project course, 
+students are expected to meet with their team members outside of the lecture hours to work 
+together on the design problem. Weekly feedback and consultation sessions will be held 
+between the teams and TAs, outside of the lecture hours. We encourage you to take 
+advantage of these sessions, ask questions, engage in discussions, and obtain critical 
+feedback.
+
+[Page 5]
+Software: Some recommended software will be provided through course website. For some 
+sub-system design problems, students are expected to determine the appropriate software 
+tool, either provided by the university, available as open source, or developed on their 
+own. Selection of the appropriate tools (including software) is an important part of the 
+design process. Links to suggested tools will be provided. Students are expected to have 
+access to and be familiar with the standard software used in engineering, including word 
+processing, spreadsheets, presentation (e.g. PowerPoint) and computation (e.g 
+MATLAB). Students are free to choose the software and operating system that works best for 
+their project team. Teams should set up a common cloud storage area (e.g. OneDrive or 
+Google Drive) to share work among members. 
+
+ 
+Dated:___23/02/2026___ Proposer:___Rachana Agrawal__ 
+ 
+Dated:_______________ DUGC/DPGC Convener:___________________ 
+ 
+The course is approved / not approved 
+ 
+Chairman, SUGC/SPGC 
+Dated:______________________________

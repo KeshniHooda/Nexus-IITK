@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>Courses Offered | Department of Design</title>
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+
+  
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/x-icon" href="assets/img/dod-logo.ico">
+  
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Main CSS File -->
+  <link href="assets/css/main.css" rel="stylesheet"></head>
+
+<body>
+
+  <header id="header" class="header d-flex align-items-center sticky-top">
+    <div class="container-xxl position-relative d-flex align-items-center justify-content-between">
+
+      <a href="index" class="logo d-flex align-items-center me-auto me-xl-0">
+        <!-- Uncomment the line below if you also wish to use an image logo -->
+         <img class="img-fluid" src="assets/img/iitk-logo-r-2.png" alt=""> 
+        <!--<h1 class="sitename">Append</h1><span>.</span>-->
+      </a>
+
+      <nav id="navmenu" class="navmenu">
+        <ul>
+          <!--li><a href="index#home">Home</a></li-->
+          <li><a href="index#about-us">About</a></li>
+		  <li><a href="index#featured-news">News</a></li>
+		  <li class="dropdown"><a href="index#academics"><span>Academics</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+			<ul>
+				<li><a href="courses-offered.php">Courses Offered</a></li>
+				<li><a href="data/Department_Design_M.Des_PhD_Admissions_2026_compressed.pdf" target="_blank">Brochure</a></li>
+				<li><a href="https://www.iitk.ac.in/doaa/pgadmission/" target="_blank">Apply</a></li>
+             </ul>
+		  </li>
+          <!--li><a href="index#academics">Academics</a></li-->
+          <li><a href="hcd-def">HCD Def</a></li>
+          <li><a href="index#facility">Facilities</a></li>
+		  <li class="dropdown"><a href="javascript:void(0)"><span>People</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+            <ul>
+				<li><a href="index#faculty">Faculty</a></li>
+				<li><a href="index#pros-fac">Prospective Fac.</a></li>
+				<li><a href="https://dodiitk26.framer.website/" target="_blank">Students</a></li>
+            </ul>
+		  </li>
+          <li class="dropdown"><a href="javascript:void(0)"><span>@Connect</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+			<ul>
+				<li><a href="index#placements">Placements</a></li>
+				<li><a href="index#alumni-connect">Alumni</a></li>
+             </ul>
+		  </li>		  
+		  <li class="d-xl-block d-none">|</li>
+          <li><a href="https://www.iitk.ac.in/doaa/pgadmission/" target="_blank">Admissions</a></li>	  
+        </ul>
+        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+      </nav>
+    </div>
+  </header>
+  <main class="main">
+    <div class="container mb-3">
+    <!-- Top Header -->
+    <header class="header">
+      <h2>Courses Offered</h2>
+      
+      <!-- Search Box Container -->
+      <div class="search-container">
+        <input type="text" id="searchInput" class="search-input" placeholder="search" oninput="handleSearch()">
+        <span id="clearBtn" class="clear-icon" onclick="clearSearch()">&times;</span>
+      </div>
+    </header>
+
+    <!-- Courses List -->
+    <main class="course-list" id="courseList">
+      
+      <!-- Course 1 -->
+      <article class="course-card">
+        <h2 class="course-title">DES601: Design Theory</h2>
+        <p class="course-description">
+          Examines the principal philosophies behind art and design movements, changing ideas of beauty and aesthetics, and the basic grammar of visual communication, the elements and principles of design. Through a simultaneous act of looking, thinking and doing (including drawing, rendering and printmaking), students sharpen rational thinking and develop the vocabulary to analyse form, function, style and the cultural contexts that shape design practice.
+        </p>
+        <div class="tags-container">
+          <span class="tag">Communication Design</span>
+        </div>
+      </article>
+
+      <!-- Course 2 -->
+      <article class="course-card">
+        <h2 class="course-title">DES630: Fundamentals of Graphics</h2>
+        <p class="course-description">
+          A studio-driven introduction to graphic sensibility: visual style, colour combination, quality of line and visual perception. Students take on poster, brochure, advertisement and package design, learn to translate ideas into images and icons, and build an analytical understanding of art and design movements, design appreciation and criticism.
+        </p>
+        <div class="tags-container">
+          <span class="tag">Fundamentals</span>
+          <span class="tag">Communication Design</span>
+        </div>
+      </article>
+
+      <!-- Course 3 -->
+      <article class="course-card">
+        <h2 class="course-title">DES634: Electronics for Designers</h2>
+        <p class="course-description">
+          A practice-based introduction to the electronics fundamentals designers need to prototype their ideas, and to judge a product's feasibility while it is still being conceived. Participants build a product from scratch across electronics, mechanics, and software, working hands-on with Arduino, Raspberry Pi, and NodeMCU, and covering sensors, signals, systems, data processing and inference, PCB design, and rapid prototyping. Open to students from engineering and non-engineering backgrounds alike. The course ends with a self-designed prototype; the winning team gets to work with state-of-the-art eye-gaze, hand-movement, and full-body motion trackers.
+        </p>
+        <div class="tags-container">
+          <span class="tag">Product Design</span>
+        </div>
+      </article>
+	  
+	  <!-- Course 4 -->
+      <article class="course-card">
+        <h2 class="course-title">DES635: Methods in Design Research</h2>
+        <p class="course-description">
+          Introduces qualitative and quantitative methods of design research, from interviews, observation and ethnographic inquiry to surveys, experiments and statistical analysis, equipping students to plan studies, gather and interpret data, and ground design decisions in evidence.
+        </p>
+        <div class="tags-container">
+          <span class="tag">Fundamentals</span>
+        </div>
+      </article>
+	  
+	  	  <!-- Course  -->
+      <article class="course-card">
+        <h2 class="course-title">DES638: Human Machine Interaction</h2>
+        <p class="course-description">
+          A hands-on course exploring how humans and machines interact through eye tracking, gesture, haptics, XR, sound, and AI-assisted tools. Students prototype and evaluate their own interaction systems, from assistive interfaces to artistic installations, and exhibit them at HMI Horizon, a public showcase. (https://www.youtube.com/watch?v=iyxEQMl1qRI)
+        </p>
+        <div class="tags-container">
+          <span class="tag">Interaction Design</span>
+		   <span class="tag">Experience Design</span>
+        </div>
+      </article>
+	  
+	  	  <!-- Course  -->
+      <article class="course-card">
+        <h2 class="course-title">DES640: Interaction Design in Complex Systems</h2>
+        <p class="course-description">
+          The course introduces students to Interaction design in complex systems.The course covers design processes such as ecological interface design, situation awareness, analysis processes related to task analysis, cognitive work analysis, cognitive human factors, cognitive basis of human factors related design, evaluation methods, along with foundations of interaction design in complex systems. This course lies at the intersection of cognitive human factors, interaction design and design theory for human machine interaction/ human automation interaction in complex systems. Examples include defence, cybersecurity, finance, amongst others.
+        </p>
+        <div class="tags-container">
+          <span class="tag">Interaction Design</span>
+		  <span class="tag">Human Factors</span>
+        </div>
+      </article>
+	  
+	  	  <!-- Course  -->
+      <article class="course-card">
+        <h2 class="course-title">DES644: Entrepreneurship for Designers</h2>
+        <p class="course-description">
+          Equips students to transform creative ideas into viable, sustainable ventures, bridging design thinking and business strategy. Students work with tools such as the Business Model Canvas and Value Proposition Canvas, apply Lean Startup methodology to build and validate MVPs, and learn branding, storytelling and pitching to potential stakeholders.
+        </p>
+        <div class="tags-container">
+          <span class="tag">Entrepreneurship</span>
+        </div>
+      </article>
+	  
+	  	  <!-- Course  -->
+      <article class="course-card">
+        <h2 class="course-title">DES645: Human Centred Design for Systems, Strategies, Services, and Speculations</h2>
+        <p class="course-description">
+          The course will address the human-centered design of systems, services, strategies, and speculations as an interwoven and interdisciplinary approach. The current course is primarily a design course which is builds on human-centered design theory, systems thinking, and futures thinking. This course is meant to be a survey course of these areas: Systems-Oriented Design, Service Design, Strategic Design, and Speculative Design. While the traditional avenues of design have focused on products, interaction, and media, there is an increasing need for design to move beyond this boundary in the realm of complex systems and services. Here, design is not a part of creating tools to satisfy needs and desires; it is about envisioning and providing alternatives for living. This design dimension is sorely needed due to the ongoing transformations that will affect most of humanity. How will the next generation of Indians bring about a better future? What will the role of human-centered design principles be in a sustainable future? What are alternatives when human-centered design plays a leading role?
+        </p>
+        <div class="tags-container">
+          <span class="tag">Systems Design</span>
+		  <span class="tag">Service Design</span>
+		  <span class="tag">Speculative Design</span>
+		  <span class="tag">Strategic Design</span>
+        </div>
+      </article>
+	  
+	  	  <!-- Course  -->
+      <article class="course-card">
+        <h2 class="course-title">DES648: Music Technology: Sound Design & Musical Interfaces</h2>
+        <p class="course-description">
+          "An interdisciplinary, studio-based course exploring psychoacoustics, sound design, and music performance through design and technology. Students learn UX sound, film sound, and AI-assisted music production, build interactive systems using MIDI/OSC/Max MSP/Arduino, and design new musical interfaces. The course culminates in a public performance showcasing original works. <br>
+		  Past works video: https://www.youtube.com/watch?v=QGf6TXCTHuU
+        </p>
+        <div class="tags-container">
+          <span class="tag">Sound Design</span>
+		  <span class="tag">Experience Design</span>
+        </div>
+      </article>
+	  
+<!-- Added Courses -->
+      <article class="course-card">
+        <h2 class="course-title">DES649: Computer Aided Design and Prototyping</h2>
+        <p class="course-description">
+          Develops the ability to translate creative ideas into precise digital representations and tangible prototypes. Students gain practical experience in 2D drafting, 3D modelling and assembly design, rendering and visualisation, and digital fabrication, 3D printing, laser cutting and CNC machining, along with simulation-driven design optimisation, culminating in a CAD-to-prototype project.
+        </p>
+        <div class="tags-container">
+          <span class="tag">Product Design</span>
+        </div>
+      </article>
+
+      <article class="course-card">
+        <h2 class="course-title">DES651M: Sustainable Agrotechnologies for Designers</h2>
+        <p class="course-description">
+          Sustainable technologies for agriculture require translating context-specific solutions designed with local communities to revolutionize food production, water conservation, and soil regeneration. This course introduces students to futuristic agrotechnologies, from precision nutrient delivery and hydroponic modules to bioreactor meat and synthetic soils. This will equip design students with the know-how to design agroecosystem- centric, resilient, and scalable solutions by balancing ecology, economics, and global trade demands to address nutritional security.
+        </p>
+        <div class="tags-container">
+          <span class="tag">Agro-Eco Design</span>
+        </div>
+      </article>
+
+      <article class="course-card">
+        <h2 class="course-title">DES652M: Nature-Inspired Design</h2>
+        <p class="course-description">
+          The course ‘Nature- Inspired Design’ attempts to immerse students in the wondrous world of the oldest designer, ‘Nature.’ The intent is to cultivate a holistic design process that incorporates the basic elements of nature’s design process, embedded with multifunctionality, sustainability, and recyclability.
+        </p>
+        <div class="tags-container">
+          <span class="tag">Agro-Eco Design</span>
+        </div>
+      </article>
+
+      <article class="course-card">
+        <h2 class="course-title">DES653: Design for Life</h2>
+        <p class="course-description">
+          Communication in nature is a complex interplay of engaging various sensory modalities that have evolved over billions of years. Through case studies of olfactory, auditory, visual, electromagnetic, tactile and multimodal communication in plants and animals, from pheromones and the honeybee waggle dance to bioluminescence and echolocation, students explore design directions for products and services that offer an overall immersive experience through cohesive integration of these multiple modalities.
+        </p>
+        <div class="tags-container">
+          <span class="tag">Agro-Eco Design</span>
+        </div>
+      </article>
+
+      <article class="course-card">
+        <h2 class="course-title">DES654: Physical Ergonomics in Product and Facility Design</h2>
+        <p class="course-description">
+          An essential skillset for user-centred design: foundational knowledge of ergonomics, anthropometry, biomechanics, postural risk assessment, and environmental stressors such as noise, vibration, thermal comfort and illumination. Emphasises experiential learning through structured fieldwork, user research and workshop-based prototyping.
+        </p>
+        <div class="tags-container">
+          <span class="tag">Product Design</span>
+        </div>
+      </article>
+
+      <article class="course-card">
+        <h2 class="course-title">DES655: Typography</h2>
+        <p class="course-description">
+          Typography is the art and technique of arranging type for effective communication. Through lectures and studio practice, students study letterform anatomy, type classification (Latin and non-Latin), the history of type and printing technologies, and principles of typographic design applied to posters, signage, books and motion graphics across print and digital media.
+        </p>
+        <div class="tags-container">
+          <span class="tag">Fundamentals</span>
+          <span class="tag">Communication Design</span>
+        </div>
+      </article>
+
+      <article class="course-card">
+        <h2 class="course-title">DES656: Cognitive Ergonomics in Hybrid Physical-Digital Interfaces</h2>
+        <p class="course-description">
+          Equips designers to create usable, safe, and cognitively appropriate interfaces - crucial for product interface design.
+        </p>
+        <div class="tags-container">
+          <span class="tag">Product Design</span>
+        </div>
+      </article>
+
+      <article class="course-card">
+        <h2 class="course-title">DES657: Metaphor as Design Method: Culture, Cognition and Practice</h2>
+        <p class="course-description">
+          Presents metaphor as a practical design tool for understanding and shaping meaning in everyday artefacts and systems. Through observation, guided interpretation, and studio-based exploration, students learn to approach design as a process of meaning-making rather than just form creation. Emphasising how embodied experience and cultural patterns influence interpretation across interaction, product and communication design, students first respond to a design problem intuitively, then revisit it through structured metaphorical reasoning.
+        </p>
+        <div class="tags-container">
+          <span class="tag">Communication Design</span>
+        </div>
+      </article>
+
+      <article class="course-card">
+        <h2 class="course-title">DES658: Cognitive Human Factors and Applied Psychology for Designers</h2>
+        <p class="course-description">
+          The aim of this course is to provide a comprehensive foundation in cognitive human factors and applied psychology for designers, enabling them to understand the scientific basis of human behavior and use these principles to design. The course will introduce the principles of human behavior and its applicability in design problems.
+        </p>
+        <div class="tags-container">
+          <span class="tag">Fundamentals</span>
+          <span class="tag">Interaction Design</span>
+          <span class="tag">Communication Design</span>
+          <span class="tag">Human Factors</span>
+        </div>
+      </article>
+
+      <article class="course-card">
+        <h2 class="course-title">DES661: Product Aesthetics</h2>
+        <p class="course-description">
+          Introduces product aesthetics as a fundamental aspect of how we perceive, select, use, and develop emotional connections with products. Through hands-on exercises, students develop the ability to manipulate aesthetic elements and principles to evoke intended meanings. Starting with freehand sketching, students learn to develop product Form and Colour-Material-Finish (CMF) through mood boarding, sketching, CAD modelling, and physical model making.
+        </p>
+        <div class="tags-container">
+          <span class="tag">Product Design</span>
+        </div>
+      </article>
+
+      <article class="course-card">
+        <h2 class="course-title">DES663: Design of Agricultural Farms and Cropping Systems</h2>
+        <p class="course-description">
+          The agricultural farm is the basic unit of food production, shaped by natural, economic, social and technological factors. Provides a comprehensive, systems-level understanding of farm design and cropping patterns, farm layout, labour, records, farming systems and their economics, training students to design farms as regenerative food-production entities.
+        </p>
+        <div class="tags-container">
+          <span class="tag">Agro-Eco Design</span>
+        </div>
+      </article>
+
+      <article class="course-card">
+        <h2 class="course-title">DES665: Design Project 1 – Product Design</h2>
+        <p class="course-description">
+          An introduction to product (industrial) design as a profession, its history, universal principles and typical process. Students learn to visualise and detail concepts using CAD, then execute a full design project spanning research, design brief formulation, ideation, concept development, prototyping, user testing and documentation.
+        </p>
+        <div class="tags-container">
+          <span class="tag">Product Design</span>
+        </div>
+      </article>
+
+      <article class="course-card">
+        <h2 class="course-title">DES666: Fundamentals of Interaction Design</h2>
+        <p class="course-description">
+          A foundational course on the design of interactive systems: core concepts, interaction models and paradigms, contemporary trends across unimodal and multimodal interfaces, the interaction design process (including the PACT framework), and formative and summative evaluation, equipping early-stage designers to imagine and assess new interactions across distinct contexts.
+        </p>
+        <div class="tags-container">
+          <span class="tag">Fundamentals</span>
+          <span class="tag">Interaction Design</span>
+        </div>
+      </article>
+
+    </main>
+  </div>
+
+
+</body>
+</html>
+
+
+</main>
+
+ <footer id="footer" class="footer position-relative light-background">
+
+<div class="container footer-top">
+  <div class="row gy-4">
+  <div class="col-lg-6 col-md-12 footer-contact text-center text-md-start">
+      <h4 class="mb-0">Contact Us</h4>
+      <p>605H, Department of Design</p>
+      <p>Diamond Jubilee Academic Complex, IIT Kanpur</p>
+      <p>Kalyanpur, Uttar Pradesh, India - 208016</p>
+      <p><span style="color:#ad271c">+91-512-2597509</span></p>
+      <p class="mb-4"><span style="color:#ad271c">head_des@iitk.ac.in</span></p>
+    </div>
+    <div class="col-lg-6 col-6 footer-links">
+      
+      <ul>
+        <li><a href="#about-us">About Us</a></li>
+        <li><a href="https://www.iitk.ac.in/doaa/pgadmission/" target="_blank">Admissions</a></li>
+        <li><a href="#faculty">Faculty</a></li>
+        <li><a href="#pros-fac">Prospective Faculty</a></li>
+        <li><a href="#placements">Placements</a></li>
+      </ul>
+    </div>
+
+    <!-- <div class="col-lg-3 col-6 footer-links">
+      <ul>
+        <li><a href="https://home.iitk.ac.in/~mainakd/mainak/Welcome.html" target="_blank">Bio Design Lab</a></li>
+        <li><a href="https://home.iitk.ac.in/~gowdhampg/" target="_blank">HIVE Lab</a></li>
+        <li><a href="https://home.iitk.ac.in/~amarkb/" target="_blank">SMILE Lab</a></li>
+        <li><a href="https://home.iitk.ac.in/~vkant/" target="_blank">HFSS Studios</a></li>
+        <li><a href="https://www.iitk.ac.in/mtc/" target="_blank">Media Technology Centre</a></li>
+      </ul>
+    </div> -->
+<div class="col-lg-12">
+<p>&copy;<span>Copyright</span> <strong class="sitename" style="color:#ad271c">IIT Kanpur</strong> <span>All Rights Reserved</span>. Designed by Aditi Sharma, Vivek Kant, DoD IITK. Developed and Maintained by Institute Webteam.</p>
+
+</div>
+   <!--<div class="col-lg-5 col-md-12 footer-about">
+      <p>The Department of Design at IIT Kanpur is an interdisciplinary space which educates and conducts research in the area of design, and solves real-world problems.</p>
+      
+    </div> -->
+
+    
+
+  </div>
+</div>
+
+<!--<div class="container-fluid copyright text-center mt-4">
+  <p>&copy;<span>Copyright</span> <strong class="sitename">IIT Kanpur</strong> <span>All Rights Reserved</span></p>
+  <div class="credits">
+    <!-- All the links in the footer should remain intact. -->
+    <!-- You can delete the links only if you've purchased the pro version. -->
+    <!-- Licensing information: https://bootstrapmade.com/license/ -->
+    <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
+    <!--<p class="lead">Developed and maintained by Institute Webteam</p>
+<img src="assets/img/Footer-Logo.png"class="img-fluid footer-logo">
+  </div>
+</div> -->
+
+</footer>
+
+<!-- Scroll Top -->
+<a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+
+
+<!-- Vendor JS Files -->
+<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="assets/vendor/php-email-form/validate.js"></script>
+<script src="assets/vendor/aos/aos.js"></script>
+<script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+<script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+<script src="assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+<script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+<script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+
+<!-- Main JS File -->
+<script src="assets/js/main.js"></script>
+</body>
+
+</html>

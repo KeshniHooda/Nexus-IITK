@@ -1,0 +1,90 @@
+[PAGE 1]
+REGISTRATION DATA STATISTICS FOR 2023-24/SUMMER
+
+TOTAL NUMBER OF COURSES BEING OFFERED                    155
+
+EXCLUDE THE THESIS COURSE, SEMINAR, PROJECT, BTP,
+62SUMMER TRAINING, PRESENTATION
+
+MAXIMUM CLASS SIZE (CHM242)                                 224
+
+MINIMUM CLASS SIZE                                           1
+(AT PRESENT THERE ARE 62 COURSES: CHE453A, CHM202A
+ECO503)
+
+AVERAGE CLASS SIZE (OF ALL 62 COURSES)                       47
+
+NUMBER OF COURSES WITH 5 STUDENTS OR LESS                 8
+
+NUMBER OF COURSES WITH 100 STUDENTS OR MORE              9
+
+AVERAGE CLASS SIZE OF COURSES THAT HAVE >5 AND LESS THAN  33
+100 STUDENTS
+
+THE FOLLWING IS THE NUMBER OF COURSES WITH
+VARIOUS CLASS STRENGTHS
+
+No. of Student   No. of Course
+1              3
+2              2
+3              2
+4              0
+5              1
+6-10            12
+11-15            4
+16-20            6
+21-25            2
+26-30            4
+31-50            6
+51-75            6
+76-100           5
+>100            9
+Total            62
+
+Page 1 of 3
+
+[PAGE 2]
+2023-24 SUMMER SEMESTER
+LIST OF COURSES IN WHICH ≤5 STUDENTS REGISTERED
+
+Total No.
+S.No.  Course No.       Instructor                     Name
+of Student
+1.    CHE453A    Dipin Pillai        CHEMICAL ENGINEERING DESIGN                    1
+2.   CHM202A   Parthasarathi       BASIC ORGANIC CHEMISTRY -II                      1
+Subramanian
+3.    ECO503     Somesh Kumar      SPATIAL ECONOMETRICS                            1
+Mathur
+4.    CE657       Chirag Kothari     CONSTRUCTION ECONOMICS &                      2
+INFRASTRUCTURE FINANCING
+5.   ME461A     Niraj Sinha       MANUFACTURING SYSTEMS                         2
+6.    AE341A     Ashoke De        AIRBREATHING PROPULSION                        3
+7.    PHY102A     Arijit Kundu        PHYSICS-I                                          3
+8.   MTH204     Santosha Kumar    ABSTRACT ALGEBRA                                5
+Pattanayak
+
+Page 2 of 3
+
+[PAGE 3]
+LIST OF COURSES IN WHICH 6-10 STUDENTS REGISTERED
+
+Total No.
+S.No. Course No.   Instructor         Name
+of Student
+1.    AE331A    C S Upadhyay       INTRODUCTION TO AEROSPACE STRUCTURES       6
+2.   CHM402    Manas Kumar Ghorai  ORGANIC CHEMISTRY II                            6
+3.   PHY103A   S Anantha           PHYSICS-II                                         6
+Ramakrishna
+4.   CS203M     Anil Seth         MATHEMATICS FOR COMPUTER SCIENCE -III         7
+5.    EE330       Abheejeet Mohapatra  POWER SYSTEMS                                   7
+6.    MSE664     Shobit Omar        SOLID STATE IONICS                               7
+7.    AE602      Ashoke De        MATHEMATICS FOR AEROSPACE ENGG.             8
+8.    BSE311     Amitabha         MOLECULAR CELL BIOLOGY                        8
+Bandyopadhyay
+9.   CHE331A   Animangsu Ghatak   CHEMICAL REACTION ENGINEERING                8
+10.   DES602      Janakarajan         DESIGN PRACTICE I                                 8
+Ramkumar
+11.   PHY210M    Supratik Banerjee    THERMAL PHYSICS                                 8
+12.   CHE617     Raj Ganesh S Pala    NUCLEAR CHEMICAL ENGINEERING                 9
+
+Page 3 of 3

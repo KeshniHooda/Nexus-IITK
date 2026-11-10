@@ -1,0 +1,63 @@
+[Page 1]
+1 
+ 
+AI/ML for Designers 
+Proposal for a New Course 
+ 
+1. Course Number: DESxxxx 
+2. Course Title: AI/ML for Designers 
+3. Credit system: 3-0-0 Total Credits: 9 
+4. Duration of Course: Full Semester 
+5. Proposing Department/IDP: DES 
+Other Departments/IDPs which may be interested in the proposed course: Not 
+Applicable 
+6. Proposing Instructor(s): Amar Kumar Behera 
+Other faculty members interested in teaching the proposed course: None 
+7. Course Description: 
+(A) Objectives: In this course, students will explore the impact of artificial 
+intelligence (AI) on design. They will learn to use AI to enhance their workflow, 
+tackle real world challenges and use AI as a participant in the design thinking 
+process. It will enable students to position themselves at the forefront of 
+design innovation. 
+ (B) Pre-requisites: None 
+ (C) Contents: 
+1. Introduction to AI – Key terminologies such as Machine Learning, Deep 
+Learning, Generative AI, etc., Impact of AI on design, Why design and AI should 
+join forces – 4 hours 
+2. Role for AI in the design process – Collaborative intelligence, AI as creativity 
+enhancement, AI in idea development, AI in research phase of design, Data 
+mining applications, AI for concept generation (Image generation, Sketching 
+assistant, Model generator, Facilitator, Concept evaluator) – 8 hours
+
+[Page 2]
+2 
+ 
+3. Enhancing design workflow – AI tools for UX research, Problem solving with AI, 
+AI for market analysis, persona interviews and data processing – 6 hours 
+4. Designer’s role in AI-driven solutions – Addressing challenges, analyzing 
+concerns, delivering ethical solutions for real-world design applications – 8 hours 
+5. Working on AI-driven design projects: 12 hours (to be conducted in computer 
+lab settings) 
+Recommended books: 
+1. Fabio Antoni Figoli, Francesca Mattioli, Lucia Rampino, Artificial 
+intelligence in the design process, FrancoAngeli s.r.l., Milano, Italy 
+2. Md Haseen Akhtar, Janakarajan Ramkumar, AI for Designers 
+3. Artificial Intelligence a Modern Approach, 3rd E., by Stuart Russell and 
+Peter Norvig 
+ 
+8. Any other remarks: None 
+ 
+Proposer: A. K. Behera 
+
+ 
+DPGC Convener 
+Dated: 23/5/2024 
+
+ 
+
+Date: 
+ 
+The course is approved / not approved 
+ 
+Chairperson, SPGC 
+Dated:

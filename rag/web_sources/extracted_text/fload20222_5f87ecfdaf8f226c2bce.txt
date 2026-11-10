@@ -1,0 +1,3132 @@
+[Page 1]
+DEAN OF ACADEMIC AFFAIRS OFFICE 
+COURSE LOAD 2021-22/SECOND 
+S.No. 
+Course 
+Number 
+Instructor Name 
+Dept. 
+Registered 
+Student 
+REMARK (I)– 
+INSTRUCTOR 
+(T) – TUTOR 
+1 
+AE322A 
+Dipak Giri 
+AE 
+60 
+I/1 
+2 
+AE341A 
+Rajesh Ranjan 
+AE 
+61 
+I/1 
+3 
+AE462A 
+Gopalakrishna M Kamath 
+AE 
+58 
+I/1 
+4 
+AE604A 
+Ashoke De 
+AE 
+31 
+I/1 
+5 
+AE608A 
+Vaibhav Kumar Arghode 
+AE 
+44 
+I/1 
+6 
+AE612A 
+Mohammed Ibrahim Sugarno 
+AE 
+25 
+I/1 
+7 
+AE617A 
+Navrose 
+AE 
+18 
+I/1 
+8 
+AE618A 
+Sanjay Mittal 
+AE 
+54 
+I/1 
+9 
+AE621A 
+Alakesh Chandra Mandal 
+AE 
+80 
+I/1 
+10 
+AE640A 
+Mangal Kothari 
+AE 
+21 
+I/1 
+11 
+AE641A 
+Ashish Tiwari 
+AE 
+66 
+I/1 
+12 
+AE648A 
+Raghavendra Kukillaya 
+AE 
+15 
+I/1 
+13 
+AE671A 
+Arnab Samanta 
+AE 
+6 
+I/1 
+14 
+AE672A 
+C S Upadhyay 
+AE 
+28 
+I/1 
+15 
+AE675A 
+Pritam Chakraborty 
+AE 
+32 
+I/1 
+16 
+AE681A 
+Tanmoy Mukhopadhyay 
+AE 
+23 
+I/1 
+17 
+AE687A 
+P M Mohite 
+AE 
+14 
+I/1 
+18 
+AE695A 
+Sathesh Mariappan 
+AE 
+11 
+I/1 
+19 
+AE755A 
+Ajay Singh 
+AE 
+5 
+I/1 
+20 
+BSE614A Santosh Misra 
+BSBE 
+11 
+I/1 
+21 
+BSE615A Mainak Das 
+BSBE 
+28 
+I/1 
+22 
+BSE633A Ramasubbu Sankararamakrishnan 
+BSBE 
+15 
+I/1 
+23 
+BSE633A Hamim Zafar 
+BSBE 
+15 
+I/2 
+24 
+LIF101A 
+Amitabha Bandyopadhyay 
+BSBE 
+615 
+I/1 
+25 
+LIF101A 
+Sai Pydi 
+BSBE 
+615 
+I/2 
+26 
+CE242A 
+Sudhir Misra 
+CE 
+155 
+I/1 
+27 
+CE242A 
+Syam Nair 
+CE 
+155 
+I/2 
+28 
+CE242A 
+Gaurav Tiwari 
+CE 
+155 
+I/3 
+29 
+CE262A 
+Chunendra Sahu 
+CE 
+158 
+I/1 
+30 
+CE262A 
+Gourabananda Pahar 
+CE 
+158 
+I/2 
+31 
+CE272A 
+Durgesh C Rai 
+CE 
+128 
+I/1
+
+[Page 2]
+S.No. 
+Course 
+Number 
+Instructor Name 
+Dept. 
+Registered 
+Student 
+REMARK (I)– 
+INSTRUCTOR 
+(T) – TUTOR 
+32 
+CE352A 
+Bipin Gupta 
+CE 
+129 
+I/1 
+33 
+CE372A 
+Suparno Mukhopadhyay 
+CE 
+171 
+I/1 
+34 
+CE382A 
+Pranamesh Chakraborty 
+CE 
+130 
+I/1 
+35 
+CE382A 
+Animesh Das 
+CE 
+130 
+I/2 
+36 
+CE382A 
+Aditya Medury 
+CE 
+130 
+I/3 
+37 
+CE412A 
+Vinod Tare 
+CE 
+90 
+I/1 
+38 
+CE412A 
+Purnendu Bose 
+CE 
+90 
+I/2 
+39 
+CE432A 
+Nagarajan Balasubramanian 
+CE 
+16 
+I/1 
+40 
+CE432A 
+Salil Goel 
+CE 
+16 
+I/2 
+41 
+CE462A 
+Saumyen Guha 
+CE 
+40 
+I/1 
+42 
+CE462A 
+Shivam Tripathi 
+CE 
+40 
+I/2 
+43 
+CE462A 
+Richa Ojha 
+CE 
+40 
+I/3 
+44 
+CE613A 
+Saumyen Guha 
+CE 
+12 
+I/1 
+45 
+CE613A 
+Shivam Tripathi 
+CE 
+12 
+I/2 
+46 
+CE613A 
+Richa Ojha 
+CE 
+12 
+I/3 
+47 
+CE614A 
+Tushar Apurv 
+CE 
+19 
+I/1 
+48 
+CE622A 
+Amar Nath Chowdhury 
+CE 
+9 
+I/1 
+49 
+CE629A 
+Chinmoy Kolay 
+CE 
+7 
+I/1 
+50 
+CE632A 
+Nihar Ranjan Patra 
+CE 
+14 
+I/1 
+51 
+CE635A 
+Priyanka Ghosh 
+CE 
+11 
+I/1 
+52 
+CE637A 
+Jagdish Sahoo 
+CE 
+19 
+I/1 
+53 
+CE637A 
+Arghya Das 
+CE 
+19 
+I/2 
+54 
+CE645A 
+Sudhir Misra 
+CE 
+31 
+I/1 
+55 
+CE663A 
+Abhishek 
+CE 
+70 
+I/1 
+56 
+CE668A 
+Vinod Tare 
+CE 
+13 
+I/1 
+57 
+CE669A 
+Sachchidanand Tripathi 
+CE 
+33 
+I/1 
+58 
+CE669A 
+Tarun Gupta 
+CE 
+33 
+I/2 
+59 
+CE670A 
+Balaji Devaraju 
+CE 
+8 
+I/1 
+60 
+CE672A 
+Onkar Dikshit 
+CE 
+4 
+I/1 
+61 
+CE673A 
+Bharat Lohani 
+CE 
+14 
+I/1 
+62 
+CE674A 
+Nagarajan Balasubramanian 
+CE 
+22 
+I/1 
+63 
+CE675B 
+Nagarajan Balasubramanian 
+CE 
+22 
+I/1 
+64 
+CE676A 
+Bharat Lohani 
+CE 
+11 
+I/1
+
+[Page 3]
+S.No. 
+Course 
+Number 
+Instructor Name 
+Dept. 
+Registered 
+Student 
+REMARK (I)– 
+INSTRUCTOR 
+(T) – TUTOR 
+65 
+CE677B 
+Salil Goel 
+CE 
+5 
+I/1 
+66 
+CE679A 
+Balaji Devaraju 
+CE 
+4 
+I/1 
+67 
+CE721A 
+Vinay Kumar Gupta 
+CE 
+2 
+I/1 
+68 
+CE731A 
+Prishati Raychowdhury 
+CE 
+25 
+I/1 
+69 
+CE731A 
+Gaurav Tiwari 
+CE 
+25 
+I/2 
+70 
+CE732A 
+Rajesh Sathiyamoorthy 
+CE 
+5 
+I/1 
+71 
+CE735A 
+Amarjit Singh Singh 
+CE 
+20 
+I/1 
+72 
+CE735A 
+Sudhir Misra 
+CE 
+20 
+I/2 
+73 
+CE760A 
+Abhas Singh 
+CE 
+9 
+I/1 
+74 
+CE762B 
+Sachchidanand Tripathi 
+CE 
+9 
+I/1 
+75 
+CE763A 
+Purnendu Bose 
+CE 
+22 
+I/1 
+76 
+CE764A 
+Mukesh Sharma 
+CE 
+24 
+I/1 
+77 
+CE765B 
+Mukesh Sharma 
+CE 
+19 
+I/1 
+78 
+CE767B 
+Abhas Singh 
+CE 
+4 
+I/1 
+79 
+CE771A 
+Onkar Dikshit 
+CE 
+15 
+I/1 
+80 
+CE775A 
+Aditya Medury 
+CE 
+21 
+I/1 
+81 
+CE781A 
+Venkatesan Kanagaraj 
+CE 
+9 
+I/1 
+82 
+CE784A 
+Pranamesh Chakraborty 
+CE 
+45 
+I/1 
+83 
+CE788A 
+Aditya Medury 
+CE 
+17 
+I/1 
+84 
+CE789A 
+Hemant Gehlot 
+CE 
+52 
+I/1 
+85 
+CE791A 
+Suparno Mukhopadhyay 
+CE 
+3 
+I/1 
+86 
+CE794A 
+Suparno Mukhopadhyay 
+CE 
+13 
+I/1 
+87 
+ESO202A Sudib Kumar Mishra 
+CE 
+269 
+I/1 
+88 
+ESO202A Sumit Basu 
+CE 
+269 
+T/1 
+89 
+ESO202A Syed Mustafa Kazim 
+CE 
+269 
+T/2 
+90 
+ESO202A Rohan Majumder 
+CE 
+269 
+T/3 
+91 
+ESO202A Manoj Kumar 
+CE 
+269 
+T/4 
+92 
+ESO202A Borchate Sourabh Shivaji 
+CE 
+269 
+T/5 
+93 
+ESO202A Akansha Srivastava 
+CE 
+269 
+T/6 
+94 
+HSO201A Partha Chakroborty 
+CE 
+198 
+I/1 
+95 
+HSO201A Venkatesan Kanagaraj 
+CE 
+198 
+T/1
+
+[Page 4]
+S.No. 
+Course 
+Number 
+Instructor Name 
+Dept. 
+Registered 
+Student 
+REMARK (I)– 
+INSTRUCTOR 
+(T) – TUTOR 
+96 
+HSO201A Vasudha Jain 
+CE 
+198 
+T/2 
+97 
+HSO201A Thirumulanathan Dhayaparan 
+CE 
+198 
+T/3 
+98 
+HSO201A Joydeep Dutta 
+CE 
+198 
+T/4 
+99 
+CGS603A Devpriya Kumar 
+CGS 
+8 
+I/1 
+100 
+CGS621A Ark Verma 
+CGS 
+51 
+I/1 
+101 
+CGS641A Pragathi Balasubramani 
+CGS 
+5 
+I/1 
+102 
+CGS671 
+Devpriya Kumar 
+CGS 
+2 
+I/1 
+103 
+CGS691A Narayanan Srinivasan 
+CGS 
+11 
+I/1 
+104 
+CGS698C Harish Chandra Karnick 
+CGS 
+30 
+I/1 
+105 
+CGS698D Sharika KM 
+CGS 
+1 
+I/1 
+106 
+CHE211A Rahul Mangal 
+CHE 
+111 
+I/1 
+107 
+CHE221A Vishal Agarwal 
+CHE 
+115 
+I/1 
+108 
+CHE261A Sri Sivakumar 
+CHE 
+110 
+I/1 
+109 
+CHE331A Goutam Deo 
+CHE 
+91 
+I/1 
+110 
+CHE381A Nitin Kaistha 
+CHE 
+118 
+I/1 
+111 
+CHE454A Raju Kumar Gupta 
+CHE 
+19 
+I/1 
+112 
+CHE611A Dipin Pillai 
+CHE 
+56 
+I/1 
+113 
+CHE614A Viswanathan Shankar 
+CHE 
+91 
+I/1 
+114 
+CHE621A Indranil Saha Dalal 
+CHE 
+66 
+I/1 
+115 
+CHE622A Jayant K Singh 
+CHE 
+20 
+I/1 
+116 
+CHE636A Himanshu Sharma 
+CHE 
+19 
+I/1 
+117 
+CHE642A Sanjeev Garg 
+CHE 
+33 
+I/1 
+118 
+CHE659A Siddhartha Panda 
+CHE 
+21 
+I/1 
+119 
+CHE663A Nishith Kumar Verma 
+CHE 
+6 
+I/1 
+120 
+CHE672A Harshwardhan Katkar 
+CHE 
+9 
+I/1 
+121 
+CHE678A Animangsu Ghatak 
+CHE 
+7 
+I/1 
+122 
+ESO201A Raj Ganesh S Pala 
+CHE 
+195 
+I/1 
+123 
+ESO201A Varad Jayant Daoo 
+CHE 
+195 
+T/1 
+124 
+ESO201A Shiv Kumar 
+CHE 
+195 
+T/2 
+125 
+ESO201A Yogesh Moreshwar Joshi 
+CHE 
+195 
+T/3 
+126 
+ESO201A Pankaj A Apte 
+CHE 
+195 
+T/4
+
+[Page 5]
+S.No. 
+Course 
+Number 
+Instructor Name 
+Dept. 
+Registered 
+Student 
+REMARK (I)– 
+INSTRUCTOR 
+(T) – TUTOR 
+127 
+ESO201A Madhusree Kole 
+CHE 
+195 
+T/5 
+128 
+ESO201A Izhar Hussain Khan 
+CHE 
+195 
+T/6 
+129 
+CHM102A Madhav V Ranganathan 
+CHM 
+1202 
+I/1 
+130 
+CHM102A Basker Sundararaju 
+CHM 
+1202 
+I/2 
+131 
+CHM102A Srinivas Dharavath 
+CHM 
+1202 
+I/3 
+132 
+CHM102A Devendra Mani 
+CHM 
+1202 
+I/4 
+133 
+CHM222A Vishal Rao 
+CHM 
+24 
+I/1 
+134 
+CHM242A Raja Angamuthu 
+CHM 
+310 
+I/1 
+135 
+CHM322A Keshavamurthy Srihari 
+CHM 
+37 
+I/1 
+136 
+CHM342A Ashis Kumar Patra 
+CHM 
+23 
+I/1 
+137 
+CHM402A Parthasarathi Subramanian 
+CHM 
+53 
+I/1 
+138 
+CHM422A Keshavamurthy Srihari 
+CHM 
+52 
+I/1 
+139 
+CHM442A Ashis Kumar Patra 
+CHM 
+46 
+I/1 
+140 
+CHM481A Dharmaraja Allimuthu 
+CHM 
+60 
+I/1 
+141 
+CHM602A Manas Kumar Ghorai 
+CHM 
+17 
+I/1 
+142 
+CHM609A Vinod K Singh 
+CHM 
+10 
+I/1 
+143 
+CHM616A M L N Rao 
+CHM 
+13 
+I/1 
+144 
+CHM621A Amalendu Chandra 
+CHM 
+8 
+I/1 
+145 
+CHM622A Nagma Parveen 
+CHM 
+87 
+I/1 
+146 
+CHM627A Mainak Sadhukhan 
+CHM 
+9 
+I/1 
+147 
+CHM629A Nisanth N Nair 
+CHM 
+4 
+I/1 
+148 
+CHM631A Prakash Mondal 
+CHM 
+65 
+I/1 
+149 
+CHM631A Anantharaman Ganapathi 
+CHM 
+65 
+I/1 
+150 
+CHM632A R Gurunath 
+CHM 
+7 
+I/1 
+151 
+CHM649A Ritika Gautam 
+CHM 
+3 
+I/1 
+152 
+CHM662A Ramesh Ramapanicker 
+CHM 
+15 
+I/1 
+153 
+CHM667A Arnab Ghosh 
+CHM 
+9 
+I/1 
+154 
+CSO202A Dasari L V K Prasad 
+CHM 
+186 
+I/1 
+155 
+CSO202A Thiruvancheril G Gopakumar 
+CHM 
+186 
+I/2 
+156 
+CSO202A Ritama Kar 
+CHM 
+186 
+T/1 
+157 
+CSO202A Nikhil Gupt 
+CHM 
+186 
+T/2
+
+[Page 6]
+S.No. 
+Course 
+Number 
+Instructor Name 
+Dept. 
+Registered 
+Student 
+REMARK (I)– 
+INSTRUCTOR 
+(T) – TUTOR 
+158 
+CSO202A Gautam Sunny Mahesh Prasad 
+CHM 
+186 
+T/3 
+159 
+CSO202A Farha Naaz 
+CHM 
+186 
+T/4 
+160 
+CSO203A Sankar Prasad Rath 
+CHM 
+266 
+I/1 
+161 
+CSO203A Jitendra Bera 
+CHM 
+266 
+I/2 
+162 
+CSO203A Rakesh 
+CHM 
+266 
+T/1 
+163 
+CSO203A Prabhakar Pandey 
+CHM 
+266 
+T/2 
+164 
+CSO203A Juhi 
+CHM 
+266 
+T/3 
+165 
+CSO203A Deepannita Samanta 
+CHM 
+266 
+T/4 
+166 
+CSO203A Ayushi Awasthi 
+CHM 
+266 
+T/5 
+167 
+CSO203A Saikat Pal 
+CHM 
+266 
+T/6 
+168 
+CGS786A Nisheeth Srivastava 
+CSE 
+48 
+I/1 
+169 
+CS202A 
+Subhajit Roy 
+CSE 
+148 
+I/1 
+170 
+CS203B 
+Rajat Mittal 
+CSE 
+151 
+I/1 
+171 
+CS253A 
+Indranil Saha 
+CSE 
+197 
+I/1 
+172 
+CS315A 
+Sumit Ganguly 
+CSE 
+96 
+I/1 
+173 
+CS335A 
+Amey Karkare 
+CSE 
+142 
+I/1 
+174 
+CS335A 
+Subhajit Roy 
+CSE 
+142 
+I/2 
+175 
+CS345A 
+Anil Seth 
+CSE 
+13 
+I/1 
+176 
+CS425A 
+Amitangshu Pal 
+CSE 
+156 
+I/1 
+177 
+CS433A 
+Mainak Chaudhuri 
+CSE 
+36 
+I/1 
+178 
+CS641A 
+Manindra Agrawal 
+CSE 
+247 
+I/1 
+179 
+CS648A 
+Surender Baswana 
+CSE 
+23 
+I/1 
+180 
+CS657A 
+Arnab Bhattacharya 
+CSE 
+89 
+I/1 
+181 
+CS681A 
+Nitin Saxena 
+CSE 
+13 
+I/1 
+182 
+CS698I 
+Sunil Easaw Simon 
+CSE 
+3 
+I/1 
+183 
+CS730A 
+Debadatta Mishra 
+CSE 
+12 
+I/1 
+184 
+CS743A 
+Sanjeev Saxena 
+CSE 
+5 
+I/1 
+185 
+CS776A 
+Priyanka Bagade 
+CSE 
+49 
+I/1 
+186 
+ESC101A Preeti Malakar 
+CSE 
+596 
+I/1 
+187 
+ESC101A Ashutosh Modi 
+CSE 
+596 
+I/2 
+188 
+ESO207A Raghunath Tewari 
+CSE 
+165 
+I/1
+
+[Page 7]
+S.No. 
+Course 
+Number 
+Instructor Name 
+Dept. 
+Registered 
+Student 
+REMARK (I)– 
+INSTRUCTOR 
+(T) – TUTOR 
+189 
+DES623A Satyaki Roy 
+DES 
+17 
+I/1 
+190 
+DES627A Deepu Philip 
+DES 
+10 
+I/1 
+191 
+DES627A Mainak Das 
+DES 
+10 
+I/2 
+192 
+ECO201A Deep Mukherjee 
+ECO 
+141 
+I/1 
+193 
+ECO221A Surajit Sinha 
+ECO 
+127 
+I/1 
+194 
+ECO261A Vimal Kumar 
+ECO 
+58 
+I/1 
+195 
+ECO311A Debayan Pakrashi 
+ECO 
+51 
+I/1 
+196 
+ECO342A Sounak Thakur 
+ECO 
+54 
+I/1 
+197 
+ECO413A Murali Prasad Panta 
+ECO 
+42 
+I/1 
+198 
+ECO413A Somesh Kumar Mathur 
+ECO 
+42 
+I/2 
+199 
+ECO501A Sarani Saha 
+ECO 
+28 
+I/1 
+200 
+ECO521A Sukumar Vellakkal 
+ECO 
+126 
+I/1 
+201 
+ECO522A Anand Chopra Chopra 
+ECO 
+29 
+I/1 
+202 
+ECO702A Bikramaditya Datta 
+ECO 
+5 
+I/1 
+203 
+ECO703A Joydeep Dutta 
+ECO 
+7 
+I/1 
+204 
+ECO721A Hargungeet Singh 
+ECO 
+1 
+I/1 
+205 
+ECO754A Vasudha Jain 
+ECO 
+19 
+I/1 
+206 
+ECO755A Praveen Kulshreshtha 
+ECO 
+19 
+I/1 
+207 
+ECO758A Sohini Sahu 
+ECO 
+12 
+I/1 
+208 
+ECO761A Somesh Kumar Mathur 
+ECO 
+3 
+I/1 
+209 
+ECO764A Wasim Ahmad 
+ECO 
+326 
+I/1 
+210 
+ECO765A Thirumulanathan Dhayaparan 
+ECO 
+3 
+I/1 
+211 
+EE210A 
+Aloke Kumar Dutta 
+EE 
+217 
+I/1 
+212 
+EE210A 
+Yogesh Singh Chauhan 
+EE 
+217 
+T/1 
+213 
+EE210A 
+S Sundar Kumar Iyer 
+EE 
+217 
+T/2 
+214 
+EE210A 
+Rik Dey 
+EE 
+217 
+T/3 
+215 
+EE210A 
+Ashwin Kumar Ramakrishnan Sivakumar 
+EE 
+217 
+T/4 
+216 
+EE210A 
+Km. Neha Bajpai 
+EE 
+217 
+T/5 
+217 
+EE210A 
+Achintya Priydarshi 
+EE 
+217 
+T/6 
+218 
+EE250A 
+Twinkle Tripathy 
+EE 
+206 
+I/1 
+219 
+EE250A 
+Pankaj Kumar Mishra 
+EE 
+206 
+T/1
+
+[Page 8]
+S.No. 
+Course 
+Number 
+Instructor Name 
+Dept. 
+Registered 
+Student 
+REMARK (I)– 
+INSTRUCTOR 
+(T) – TUTOR 
+220 
+EE250A 
+Archit Kamath 
+EE 
+206 
+T/2 
+221 
+EE301A 
+Naren Naik 
+EE 
+24 
+I/1 
+222 
+EE311A 
+Amit Verma 
+EE 
+55 
+I/1 
+223 
+EE340A 
+Shilpi Gupta 
+EE 
+165 
+I/1 
+224 
+EE340A 
+Vaishnavi Deepak Bhope 
+EE 
+165 
+T/1 
+225 
+EE340A 
+Rahul Kumar Jaiswal 
+EE 
+165 
+T/2 
+226 
+EE340A 
+Apala Banerjee 
+EE 
+165 
+T/3 
+227 
+EE340A 
+Aditi 
+EE 
+165 
+T/4 
+228 
+EE360A 
+Parthasarathi Sensarma 
+EE 
+94 
+I/1 
+229 
+EE600A 
+K S Venkatesh 
+EE 
+7 
+I/1 
+230 
+EE609A 
+Ketan Rajawat 
+EE 
+56 
+I/1 
+231 
+EE613A 
+Imon Mondal 
+EE 
+13 
+I/1 
+232 
+EE615A 
+S Sundar Kumar Iyer 
+EE 
+6 
+I/1 
+233 
+EE619A 
+Rik Dey 
+EE 
+118 
+I/1 
+234 
+EE620A 
+Rajshekhar Gannavarpu 
+EE 
+16 
+I/1 
+235 
+EE623A 
+Aditya K Jagannatham 
+EE 
+50 
+I/1 
+236 
+EE626A 
+Rakesh K Bansal 
+EE 
+3 
+I/1 
+237 
+EE627A 
+Rajesh Mahanand Hegde 
+EE 
+32 
+I/1 
+238 
+EE631A 
+Saikat Chakrabarti 
+EE 
+10 
+I/1 
+239 
+EE632A 
+Gururaj Vishwanath 
+EE 
+10 
+I/1 
+240 
+EE633A 
+S N Singh 
+EE 
+5 
+I/1 
+241 
+EE633A 
+Abheejeet Mohapatra 
+EE 
+5 
+I/2 
+242 
+EE640A 
+A R Harish 
+EE 
+4 
+I/1 
+243 
+EE642A 
+Kumar Vaibhav Srivastava 
+EE 
+14 
+I/1 
+244 
+EE644A 
+Md Jaleel Akhtar 
+EE 
+8 
+I/1 
+245 
+EE648A 
+Animesh Biswas 
+EE 
+10 
+I/1 
+246 
+EE649A 
+Nandini Gupta 
+EE 
+6 
+I/1 
+247 
+EE651A 
+Soumya Ranjan Sahoo 
+EE 
+68 
+I/1 
+248 
+EE654A 
+Ramprasad Potluri 
+EE 
+131 
+I/1 
+249 
+EE656A 
+Nishchal Kumar Verma 
+EE 
+34 
+I/1 
+250 
+EE658A 
+Nishchal Kumar Verma 
+EE 
+81 
+I/1
+
+[Page 9]
+S.No. 
+Course 
+Number 
+Instructor Name 
+Dept. 
+Registered 
+Student 
+REMARK (I)– 
+INSTRUCTOR 
+(T) – TUTOR 
+251 
+EE665A 
+S P Das 
+EE 
+40 
+I/1 
+252 
+EE672A 
+Abhishek Gupta 
+EE 
+16 
+I/1 
+253 
+EE677A 
+Kasturi Vasudevan 
+EE 
+17 
+I/1 
+254 
+EE681A 
+Yogesh Singh Chauhan 
+EE 
+11 
+I/1 
+255 
+EE698B 
+Ankush Sharma 
+EE 
+13 
+I/1 
+256 
+EE698C 
+Yatindra Nath Singh 
+EE 
+16 
+I/1 
+257 
+EE698E 
+Suvendu Samanta 
+EE 
+33 
+I/1 
+258 
+EE698G 
+Chithra 
+EE 
+13 
+I/1 
+259 
+EE698I 
+Ashwin Kumar Ramakrishnan Sivakumar 
+EE 
+23 
+I/1 
+260 
+EE698N 
+Baquer Mazhari 
+EE 
+40 
+I/1 
+261 
+EE698P 
+Shubham Sahay 
+EE 
+25 
+I/1 
+262 
+EE698R 
+Vipul Arora 
+EE 
+42 
+I/1 
+263 
+EE698S 
+Alok Verma 
+EE 
+7 
+I/1 
+264 
+EE698U 
+Abhishek Gupta 
+EE 
+8 
+I/1 
+265 
+EE698V 
+Subrahmanya Peruru 
+EE 
+12 
+I/1 
+266 
+EE798B 
+Vipul Arora 
+EE 
+22 
+I/1 
+267 
+ESC201A Rohit Budhiraja 
+EE 
+586 
+I/1 
+268 
+ESC201A Vishal Kumar 
+EE 
+586 
+T/1 
+269 
+ESC201A Tentu Venkatesh 
+EE 
+586 
+T/2 
+270 
+ESC201A Shraddha Tripathi 
+EE 
+586 
+T/3 
+271 
+ESC201A Shivendra Parihar 
+EE 
+586 
+T/4 
+272 
+ESC201A Saurabh Shukla 
+EE 
+586 
+T/5 
+273 
+ESC201A Ravindra Yadav 
+EE 
+586 
+T/6 
+274 
+ESC201A Rashmi Kushwaha 
+EE 
+586 
+T/7 
+275 
+ESC201A Rahul Bhattacharyya 
+EE 
+586 
+T/8 
+276 
+ESC201A Raghvendra Dangi 
+EE 
+586 
+T/9 
+277 
+ESC201A Panchajanya Sanyal 
+EE 
+586 
+T/10 
+278 
+ESC201A Munagala Rakesh 
+EE 
+586 
+T/11 
+279 
+ESC201A Moon Bordeori 
+EE 
+586 
+T/12 
+280 
+ESC201A Gyanajyoti Routray 
+EE 
+586 
+T/13 
+281 
+ESC201A Govind Kumar 
+EE 
+586 
+T/14
+
+[Page 10]
+S.No. 
+Course 
+Number 
+Instructor Name 
+Dept. 
+Registered 
+Student 
+REMARK (I)– 
+INSTRUCTOR 
+(T) – TUTOR 
+282 
+ESC201A Joshi Gavax Bhawanishanker 
+EE 
+586 
+T/15 
+283 
+ESC201A Deepak Kumar 
+EE 
+586 
+T/16 
+284 
+ESC201A Anupama Rajoriya 
+EE 
+586 
+T/17 
+285 
+ESC201A Ankita Kumari 
+EE 
+586 
+T/18 
+286 
+ESC201A Anjali Sharma 
+EE 
+586 
+T/19 
+287 
+ESC201A Amudala Dheeraj Naidu 
+EE 
+586 
+T/20 
+288 
+ESC201A Allaparthi Vithin 
+EE 
+586 
+T/21 
+289 
+ESC201A Aditya Singh 
+EE 
+586 
+T/22 
+290 
+ESO203A Abheejeet Mohapatra 
+EE 
+327 
+I/1 
+291 
+ESO203A Vineeth V 
+EE 
+327 
+T/1 
+292 
+ESO203A Shreyasi Som 
+EE 
+327 
+T/2 
+293 
+ESO203A Piyush Sharma 
+EE 
+327 
+T/3 
+294 
+ESO203A Pawar Bandopant Bhimrao 
+EE 
+327 
+T/4 
+295 
+ESO203A Kingshuk Chatterjee 
+EE 
+327 
+T/5 
+296 
+ESO203A Hitesh Kumar 
+EE 
+327 
+T/6 
+297 
+ESO203A Himanshu Gupta 
+EE 
+327 
+T/7 
+298 
+ESO203A Gaurav Khare 
+EE 
+327 
+T/8 
+299 
+ESO203A Atul Soni 
+EE 
+327 
+T/9 
+300 
+ESO203A Anamika Tiwari 
+EE 
+327 
+T/10 
+301 
+ESO203A Amrendra Kumar 
+EE 
+327 
+T/11 
+302 
+ESO203A Abhinav Arya 
+EE 
+327 
+T/12 
+303 
+ES312A 
+Anupam Banerjee 
+ES 
+25 
+I/1 
+304 
+ES313A 
+Rajiv Sinha 
+ES 
+25 
+I/1 
+305 
+ES314A 
+Rabiul Biswas 
+ES 
+30 
+I/1 
+306 
+ES314A 
+Animesh Mandal 
+ES 
+30 
+I/2 
+307 
+ES315A 
+Ishwar Cukkemane 
+ES 
+24 
+I/1 
+308 
+ES413A 
+Debajyoti Paul 
+ES 
+20 
+I/1 
+309 
+ES414A 
+Santanu Misra 
+ES 
+20 
+I/1 
+310 
+ES415A 
+Deepak Dhingra 
+ES 
+21 
+I/1 
+311 
+ES416A 
+Animesh Mandal 
+ES 
+20 
+I/1 
+312 
+ES416A 
+Dibakar Ghosal 
+ES 
+20 
+I/2
+
+[Page 11]
+S.No. 
+Course 
+Number 
+Instructor Name 
+Dept. 
+Registered 
+Student 
+REMARK (I)– 
+INSTRUCTOR 
+(T) – TUTOR 
+313 
+ES417A 
+Santanu Misra 
+ES 
+4 
+I/1 
+314 
+ES418A 
+Animesh Mandal 
+ES 
+17 
+I/1 
+315 
+ES419A 
+Tajdarul Syed 
+ES 
+20 
+I/1 
+316 
+ES452A 
+Javed H N Malik 
+ES 
+18 
+I/1 
+317 
+ES454A 
+Indra Sekhar Sen 
+ES 
+15 
+I/1 
+318 
+ES456A 
+Amar Agarwal 
+ES 
+5 
+I/1 
+319 
+ES656A 
+Animesh Mandal 
+ES 
+13 
+I/1 
+320 
+ES656A 
+Dibakar Ghosal 
+ES 
+13 
+I/2 
+321 
+ES663A 
+Anupam Banerjee 
+ES 
+6 
+I/1 
+322 
+ES664A 
+Amar Agarwal 
+ES 
+8 
+I/1 
+323 
+ES666A 
+Tajdarul Syed 
+ES 
+16 
+I/1 
+324 
+ES668A 
+Syed Wajih Ahmad Naqvi 
+ES 
+57 
+I/1 
+325 
+ES680A 
+Javed H N Malik 
+ES 
+21 
+I/1 
+326 
+ES682A 
+Dibakar Ghosal 
+ES 
+10 
+I/1 
+327 
+ART101A Rajarshi Sengupta 
+HSS 
+143 
+I/1 
+328 
+ART105A Satyaki Roy 
+HSS 
+124 
+I/1 
+329 
+ART701A Rajarshi Sengupta 
+HSS 
+2 
+I/1 
+330 
+ART701A Ritwij Bhowmik 
+HSS 
+2 
+I/2 
+331 
+ART706A Satyaki Roy 
+HSS 
+15 
+I/1 
+332 
+ART706A Shatarupa Thakurta Roy 
+HSS 
+15 
+I/2 
+333 
+ENG125A Syed Feroz Hassan 
+HSS 
+116 
+I/1 
+334 
+ENG423A Achla Misri Raina 
+HSS 
+150 
+I/1 
+335 
+ENG423A Chaithra Puttaswamy 
+HSS 
+150 
+I/2 
+336 
+ENG434A Gurumurthy Neelakantan 
+HSS 
+82 
+I/1 
+337 
+ENG435A Mini Chandran 
+HSS 
+92 
+I/1 
+338 
+ENG436A Suchitra Mathur 
+HSS 
+68 
+I/1 
+339 
+ENG445A T Ravichandran 
+HSS 
+68 
+I/1 
+340 
+ENG719A Gurumurthy Neelakantan 
+HSS 
+5 
+I/1 
+341 
+ENG733A Mini Chandran 
+HSS 
+3 
+I/1 
+342 
+ENG735A Sayan Chattopadhyay 
+HSS 
+3 
+I/1 
+343 
+ENG749A T Ravichandran 
+HSS 
+4 
+I/1
+
+[Page 12]
+S.No. 
+Course 
+Number 
+Instructor Name 
+Dept. 
+Registered 
+Student 
+REMARK (I)– 
+INSTRUCTOR 
+(T) – TUTOR 
+344 
+PHI143A 
+Vineet Sahu 
+HSS 
+109 
+I/1 
+345 
+PHI446A 
+A V Ravishankar Sarma 
+HSS 
+164 
+I/1 
+346 
+PHI446A 
+Lalit Saraswat 
+HSS 
+164 
+I/2 
+347 
+PHI753A 
+A V Ravishankar Sarma 
+HSS 
+1 
+I/1 
+348 
+PHI775A 
+Lalit Saraswat 
+HSS 
+2 
+I/1 
+349 
+SOC171A Binay Kumar Pattnaik 
+HSS 
+198 
+I/1 
+350 
+SOC171A Pradip Swarnakar 
+HSS 
+198 
+I/2 
+351 
+SOC171A Trina Das 
+HSS 
+198 
+T/1 
+352 
+SOC171A Apratyasita Tripathy 
+HSS 
+198 
+T/2 
+353 
+SOC171A Debbani Bhattacharya 
+HSS 
+198 
+T/3 
+354 
+SOC473A Munmun Jha 
+HSS 
+78 
+I/1 
+355 
+SOC473B Anindita Chakrabarti 
+HSS 
+64 
+I/1 
+356 
+SOC721A Binay Kumar Pattnaik 
+HSS 
+4 
+I/1 
+357 
+SOC721A Munmun Jha 
+HSS 
+4 
+I/2 
+358 
+SOC721A Jillet Sarah Sam 
+HSS 
+4 
+I/3 
+359 
+IME611A 
+Suman Saurabh 
+IME 
+39 
+I/1 
+360 
+IME611A 
+Shankar Prawesh 
+IME 
+39 
+I/2 
+361 
+IME624A Deepu Philip 
+IME 
+14 
+I/1 
+362 
+IME625A Avijit Khanra 
+IME 
+29 
+I/1 
+363 
+IME634A Raghu Nandan Sengupta 
+IME 
+53 
+I/1 
+364 
+IME637A Sri Vanamalla V 
+IME 
+14 
+I/1 
+365 
+IME639A Faiz Hamid 
+IME 
+20 
+I/1 
+366 
+IME643A Vipin B 
+IME 
+46 
+I/1 
+367 
+IME673A Veena Bansal 
+IME 
+51 
+I/1 
+368 
+IME709A Anoop Singh 
+IME 
+4 
+I/1 
+369 
+MBA607A Suman Saurabh 
+IME 
+29 
+I/1 
+370 
+MBA608A Subhankar Mukherjee 
+IME 
+26 
+I/1 
+371 
+MBA616A Amit Shukla 
+IME 
+24 
+I/1 
+372 
+MBA617A Rahul Varman 
+IME 
+66 
+I/1 
+373 
+MBA630A Jothsna Rajan 
+IME 
+11 
+I/1 
+374 
+MBA634A Jitender Kumar 
+IME 
+42 
+I/1
+
+[Page 13]
+S.No. 
+Course 
+Number 
+Instructor Name 
+Dept. 
+Registered 
+Student 
+REMARK (I)– 
+INSTRUCTOR 
+(T) – TUTOR 
+375 
+MBA636A Jitender Kumar 
+IME 
+22 
+I/1 
+376 
+MBA652A Devlina Chatterjee 
+IME 
+48 
+I/1 
+377 
+MBA661A Vipin B 
+IME 
+34 
+I/1 
+378 
+MBA677A Anoop Singh 
+IME 
+2 
+I/1 
+379 
+MBA716A Rahul Varman 
+IME 
+22 
+I/1 
+380 
+MBA746A Subhas Chandra Misra 
+IME 
+36 
+I/1 
+381 
+MBA747A Subhas Chandra Misra 
+IME 
+50 
+I/1 
+382 
+MBA776A Suman Saurabh 
+IME 
+37 
+I/1 
+383 
+MBA779A B V Phani 
+IME 
+2 
+I/1 
+384 
+ME222A 
+Chandraprakash Chindam 
+ME 
+155 
+I/1 
+385 
+ME231A 
+Sachin Yashavant Shinde 
+ME 
+156 
+I/1 
+386 
+ME341A 
+Gautam Biswas 
+ME 
+126 
+I/1 
+387 
+ME351A 
+P Venkitanarayanan 
+ME 
+127 
+I/1 
+388 
+ME351A 
+P Venkitanarayanan 
+ME 
+127 
+T/1 
+389 
+ME351A 
+Anindya Chatterjee 
+ME 
+127 
+T/2 
+390 
+ME354A 
+Akhilesh Mimani 
+ME 
+117 
+I/1 
+391 
+ME399A 
+Sameer Khandekar 
+ME 
+114 
+I/1 
+392 
+ME461A 
+Janakarajan Ramkumar 
+ME 
+119 
+I/1 
+393 
+ME622A 
+Anurag Gupta 
+ME 
+17 
+I/1 
+394 
+ME623A 
+Ushasi Roy 
+ME 
+49 
+I/1 
+395 
+ME624A 
+Basant Lal Sharma 
+ME 
+5 
+I/1 
+396 
+ME626A 
+Shakti Singh Gupta 
+ME 
+24 
+I/1 
+397 
+ME630A 
+Malay Kumar Das 
+ME 
+33 
+I/1 
+398 
+ME634A 
+Subrata Sarkar 
+ME 
+7 
+I/1 
+399 
+ME642A 
+Umesh Madanan 
+ME 
+65 
+I/1 
+400 
+ME643A 
+Santanu De 
+ME 
+43 
+I/1 
+401 
+ME647A 
+Arun Kumar Saha 
+ME 
+12 
+I/1 
+402 
+ME648A 
+P S Ghoshdastidar 
+ME 
+10 
+I/1 
+403 
+ME660A 
+N S Vyas 
+ME 
+13 
+I/1 
+404 
+ME664A 
+Arvind Kumar 
+ME 
+20 
+I/1 
+405 
+ME666A 
+Pranav Joshi 
+ME 
+11 
+I/1
+
+[Page 14]
+S.No. 
+Course 
+Number 
+Instructor Name 
+Dept. 
+Registered 
+Student 
+REMARK (I)– 
+INSTRUCTOR 
+(T) – TUTOR 
+406 
+ME676A 
+Sumit Basu 
+ME 
+20 
+I/1 
+407 
+ME685A 
+K Muralidhar 
+ME 
+150 
+I/1 
+408 
+ME686A 
+Jishnu Bhattacharya 
+ME 
+25 
+I/1 
+409 
+ME690A 
+Avinash Kumar Agarwal 
+ME 
+10 
+I/1 
+410 
+ME698G 
+Anikesh Pal 
+ME 
+23 
+I/1 
+411 
+ME701A 
+Niraj Sinha 
+ME 
+6 
+I/1 
+412 
+ME730A 
+Mohit Subhash Law 
+ME 
+31 
+I/1 
+413 
+ME751A 
+Bhaskar Dasgupta 
+ME 
+19 
+I/1 
+414 
+ME763A 
+B Bhattacharya 
+ME 
+24 
+I/1 
+415 
+ME766A 
+Ashish Dutta 
+ME 
+53 
+I/1 
+416 
+ME770A 
+Kamal K Kar 
+ME 
+25 
+I/1 
+417 
+ME774A 
+Shantanu Bhattacharya 
+ME 
+95 
+I/1 
+418 
+TA101A 
+Nachiketa Tiwari 
+ME 
+610 
+I/1 
+419 
+TA202A 
+Supratik Mukhopadhyay 
+ME 
+629 
+I/1 
+420 
+TA202A 
+Bibeka Nanda Padhi 
+ME 
+629 
+T/1 
+421 
+TA202A 
+Alok Kumar 
+ME 
+629 
+T/2 
+422 
+TA202A 
+Ushasi Roy 
+ME 
+629 
+T/3 
+423 
+TA202A 
+Shantanu Bhattacharya 
+ME 
+629 
+T/4 
+424 
+TA202A 
+Arvind Kumar 
+ME 
+629 
+T/5 
+425 
+MSE202A Dipak Mazumdar 
+MSE 
+90 
+I/1 
+426 
+MSE203A Sandeep Sangal 
+MSE 
+94 
+I/1 
+427 
+MSE204A Vivek Verma 
+MSE 
+96 
+I/1 
+428 
+MSE304A Amarendra Kumar Singh 
+MSE 
+76 
+I/1 
+429 
+MSE305A Shikhar Krishn Jha 
+MSE 
+91 
+I/1 
+430 
+MSE421A Rahul Sarkar 
+MSE 
+38 
+I/1 
+431 
+MSE604A Monica Katiyar 
+MSE 
+103 
+I/1 
+432 
+MSE608A Rajdip Mukherjee 
+MSE 
+34 
+I/1 
+433 
+MSE616A Anshu Gaur 
+MSE 
+20 
+I/1 
+434 
+MSE617A Kaustubh Narhar Kulkarni 
+MSE 
+41 
+I/1 
+435 
+MSE624A Sarang Ingole 
+MSE 
+39 
+I/1 
+436 
+MSE627A Niraj Chawake 
+MSE 
+24 
+I/1
+
+[Page 15]
+S.No. 
+Course 
+Number 
+Instructor Name 
+Dept. 
+Registered 
+Student 
+REMARK (I)– 
+INSTRUCTOR 
+(T) – TUTOR 
+437 
+MSE631A Tanmoy Maiti 
+MSE 
+9 
+I/1 
+438 
+MSE638A Somnath Bhowmick 
+MSE 
+36 
+I/1 
+439 
+MSE639A Krishanu Biswas 
+MSE 
+37 
+I/1 
+440 
+MSE667A Anish Upadhyaya 
+MSE 
+10 
+I/1 
+441 
+MSE676A Gouthama 
+MSE 
+21 
+I/1 
+442 
+MSE683A Nilesh Prakash Gurao 
+MSE 
+7 
+I/1 
+443 
+MSE684A Nilesh Badwe 
+MSE 
+9 
+I/1 
+444 
+MS605A 
+Raj Ganesh S Pala 
+MSP 
+5 
+I/1 
+445 
+MS605A 
+Siddhartha Panda 
+MSP 
+5 
+I/2 
+446 
+MSO201A Suprio Bhar 
+MTH 
+452 
+I/1 
+447 
+MSO201A Rakesh K Bansal 
+MTH 
+452 
+T/1 
+448 
+MSO201A Ketan Rajawat 
+MTH 
+452 
+T/2 
+449 
+MTH102A Sudhanshu Shekhar 
+MTH 
+1213 
+I/1 
+450 
+MTH102A Satyajit Guin 
+MTH 
+1213 
+I/2 
+451 
+MTH102A Preena Samuel 
+MTH 
+1213 
+I/3 
+452 
+MTH102A Bidyut Sanki 
+MTH 
+1213 
+I/4 
+453 
+MTH204A Santosh Nadimpalli 
+MTH 
+56 
+I/1 
+454 
+MTH204B Nandini Nilakantan 
+MTH 
+45 
+I/1 
+455 
+MTH301A Parasar Mohanty 
+MTH 
+73 
+I/1 
+456 
+MTH304A Aparna Dar 
+MTH 
+86 
+I/1 
+457 
+MTH308B Saktipada Ghorai 
+MTH 
+114 
+I/1 
+458 
+MTH309A Soumyarup Sadhukhan 
+MTH 
+55 
+I/1 
+459 
+MTH404A Ashutosh Kumar 
+MTH 
+43 
+I/1 
+460 
+MTH416A Sharmishtha Mitra 
+MTH 
+52 
+I/1 
+461 
+MTH418A Neeraj Misra 
+MTH 
+52 
+I/1 
+462 
+MTH421A Arijit Ganguly 
+MTH 
+76 
+I/1 
+463 
+MTH513A Shalabh 
+MTH 
+50 
+I/1 
+464 
+MTH514A Minerva Mukhopadhyay 
+MTH 
+51 
+I/1 
+465 
+MTH516A Dootika Vats 
+MTH 
+50 
+I/1 
+466 
+MTH535A Arnab Hazra 
+MTH 
+98 
+I/1 
+467 
+MTH552A Amit Mitra 
+MTH 
+112 
+I/1
+
+[Page 16]
+S.No. 
+Course 
+Number 
+Instructor Name 
+Dept. 
+Registered 
+Student 
+REMARK (I)– 
+INSTRUCTOR 
+(T) – TUTOR 
+468 
+MTH611A Alok Kumar Maloo 
+MTH 
+37 
+I/1 
+469 
+MTH612A Sachin Subhash Sharma 
+MTH 
+14 
+I/1 
+470 
+MTH613A Amit Shekhar Kuber 
+MTH 
+8 
+I/1 
+471 
+MTH624A Ashis Mandal 
+MTH 
+9 
+I/1 
+472 
+MTH633A Abhijit Pal 
+MTH 
+5 
+I/1 
+473 
+MTH635A Sasmita Patnaik 
+MTH 
+7 
+I/1 
+474 
+MTH640A Sameer Laxman Chavan 
+MTH 
+12 
+I/1 
+475 
+MTH648A G Santhanam 
+MTH 
+25 
+I/1 
+476 
+MTH652A Rama Rawat 
+MTH 
+3 
+I/1 
+477 
+MTH655A B V R Kumar 
+MTH 
+14 
+I/1 
+478 
+MTH665A Subhajit Dutta 
+MTH 
+11 
+I/1 
+479 
+MTH668A Saurabh Singh 
+MTH 
+35 
+I/1 
+480 
+MTH673A Subhra Sankar Dhar 
+MTH 
+17 
+I/1 
+481 
+MTH686A Debasis Kundu 
+MTH 
+34 
+I/1 
+482 
+MTH689A Satya Singh 
+MTH 
+11 
+I/1 
+483 
+MTH701A Mohua Banerjee 
+MTH 
+3 
+I/1 
+484 
+MTH720A Akash Anand 
+MTH 
+4 
+I/1 
+485 
+MTH732A Somnath Jha 
+MTH 
+10 
+I/1 
+486 
+MTH751A Pooja Singla 
+MTH 
+12 
+I/1 
+487 
+MTH752A Dhirendra Bahuguna 
+MTH 
+11 
+I/1 
+488 
+MTH770A Malay Banerjee 
+MTH 
+4 
+I/1 
+489 
+IDC606A 
+Mahendra Kumar Verma 
+PHY 
+37 
+I/1 
+490 
+PHY102A Manas Khan 
+PHY 
+598 
+I/1 
+491 
+PHY102A Supratik Banerjee 
+PHY 
+598 
+I/2 
+492 
+PHY103A Joydeep Chakrabortty 
+PHY 
+611 
+I/1 
+493 
+PHY103A Tapobrata Sarkar 
+PHY 
+611 
+I/2 
+494 
+PHY210A M K Harbola 
+PHY 
+53 
+I/1 
+495 
+PHY226B G Sengupta 
+PHY 
+59 
+I/1 
+496 
+PHY312A Sudipta Dubey 
+PHY 
+19 
+I/1 
+497 
+PHY399A Y N Mohapatra 
+PHY 
+30 
+I/1 
+498 
+PHY400A Debashish Chowdhury 
+PHY 
+21 
+I/1
+
+[Page 17]
+S.No. 
+Course 
+Number 
+Instructor Name 
+Dept. 
+Registered 
+Student 
+REMARK (I)– 
+INSTRUCTOR 
+(T) – TUTOR 
+499 
+PHY400A Sivasurender Chandran 
+PHY 
+21 
+I/2 
+500 
+PHY412A Sagar Chakraborty 
+PHY 
+119 
+I/1 
+501 
+PHY422A Arjun Bagchi 
+PHY 
+75 
+I/1 
+502 
+PHY432A Dipankar Chakrabarti 
+PHY 
+71 
+I/1 
+503 
+PHY441A Aditya Hemchandra Kelkar 
+PHY 
+58 
+I/1 
+504 
+PHY441A Krishnacharya 
+PHY 
+58 
+I/2 
+505 
+PHY524A Amit Kumar Agarwal 
+PHY 
+51 
+I/1 
+506 
+PHY526A Pankaj Jain 
+PHY 
+21 
+I/1 
+507 
+PHY553A Nilay Kundu 
+PHY 
+19 
+I/1 
+508 
+PHY590A Tapobrata Sarkar 
+PHY 
+7 
+I/1 
+509 
+PHY616A Sivasurender Chandran 
+PHY 
+41 
+I/1 
+510 
+PHY677A Venkata Jayasurya Yallapragada 
+PHY 
+44 
+I/1 
+511 
+PHY680A Debtosh Chowdhury 
+PHY 
+13 
+I/1 
+512 
+PHY690F Diptarka Das 
+PHY 
+30 
+I/1 
+513 
+PHY690F Saikat Ghosh 
+PHY 
+30 
+I/2 
+514 
+PHY690Q Amit Dutta 
+PHY 
+17 
+I/1 
+515 
+PSO201A Anjan Kumar Gupta 
+PHY 
+157 
+I/1 
+516 
+PSO201A Shikhar Misra 
+PHY 
+157 
+T/1 
+517 
+PSO201A Deepak Gupta 
+PHY 
+157 
+T/2 
+518 
+PSO201A Anjan Kumar Gupta 
+PHY 
+157 
+T/3 
+519 
+PSO201A Chanchal Sow 
+PHY 
+157 
+T/4 
+520 
+PSO201A Arijit Kundu 
+PHY 
+157 
+T/5 
+521 
+PSE604A 
+Utpal Das 
+PSE 
+7 
+I/1 
+522 
+PSE605A 
+Pradipta K Panigrahi 
+PSE 
+13 
+I/1 
+523 
+PSE605A 
+Saurabh Mani Tripathi 
+PSE 
+13 
+I/2 
+524 
+SEE604A 
+Vaibhav Kumar Arghode 
+SEE 
+56 
+I/1 
+525 
+SEE604A 
+Malay Kumar Das 
+SEE 
+56 
+I/2 
+526 
+SEE604A 
+Jishnu Bhattacharya 
+SEE 
+56 
+I/3 
+527 
+SEE612A 
+Kanwar Singh Nalwa 
+SEE 
+39 
+I/1 
+528 
+SEE613A 
+Ashish Garg 
+SEE 
+14 
+I/1 
+529 
+SEE614A 
+Debopam Das 
+SEE 
+28 
+I/1
+
+[Page 18]
+S.No. 
+Course 
+Number 
+Instructor Name 
+Dept. 
+Registered 
+Student 
+REMARK (I)– 
+INSTRUCTOR 
+(T) – TUTOR 
+530 
+SEE614A 
+Ashoke De 
+SEE 
+28 
+I/2 
+531 
+SEE615A 
+Raju Kumar Gupta 
+SEE 
+26 
+I/1 
+532 
+SEE615A 
+Laltu Chandra 
+SEE 
+26 
+I/2 
+533 
+SEE617A 
+Pradip Swarnakar 
+SEE 
+10 
+I/1 
+534 
+SEE617A 
+Deepika Swami 
+SEE 
+10 
+I/2

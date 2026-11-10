@@ -1,0 +1,142 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+
+Proposal For a New Course
+
+1.  Course Number:    PHI XXX
+2.  Title:                Ethics of Artificial Intelligence
+3.  Per Week Lectures:   3(L), Tutorial: 0 (T), Laboratory: 0 (P), Additional
+Hours[0-2]: 0 (A),
+Credits (3*L+2*T+P+A): 9  Duration of Course: Full Semester
+4.  Proposing Department: Humanities and Social Sciences
+Other Departments which may be interested in the proposed course: N/A
+Other faculty members interested in teaching the proposed course: N/A
+5.  Proposing Instructor: Sushruth Ravish
+6.  Course Description: Artificial Intelligence is shaping society in profound ways,
+raising complex ethical dilemmas at both societal and individual levels. This
+course will philosophically explore the issues in the ethics of AI, focusing on
+issues such as fairness, transparency, trust, privacy, accountability, and societal
+impact. Students will learn to critically evaluate ethical frameworks and dilemmas
+in AI across diverse domains, including healthcare, autonomous systems, and
+social media.
+a.  Objectives:
+i.  Demonstrate an understanding of ethics and its application to AI.
+ii.  Analyze ethical dilemmas in AI using tools from normative ethics,
+metaethics, and moral epistemology.
+iii.  Develop a capacity to critically evaluate fairness, transparency, and
+accountability in AI systems.
+iv.  Explore the societal, cultural, and policy implications of AI across
+domains.
+v.  Learn how ethical principles can be integrated into the design of
+AI systems through practical frameworks and methodologies.
+
+b.  Contents:
+
+[PAGE 2]
+Broad Title                                              No. ofS.No                                      Topics                                                                     Lectures
+
+Introduction to AI   Overview of AI, generative AI vs predictive
+and Ethical          AI,  ethical  concerns  in AI  development,  1                                                                3
+Implications:         societal impacts of AI, and ethical decision-
+making frameworks in AI systems.
+
+Foundations of       Understanding generative models like GANs,
+Generative AI      VAEs, and Diffusion models; Key concepts in
+2                         unsupervised   learning,   ethical   issues   in     3
+synthetic  data  generation  (e.g.,  deepfakes,
+authenticity).
+
+Predictive AI         Introduction    to    supervised    learning,
+Models and Their    predictive analytics, algorithmic bias, fairness  3                                                                3
+Implications          in predictive modelling, and consequences of
+biased predictions in decision-making.
+
+Ethics of Data in     Privacy  issues, data ownership, consent  in
+4   AI                   data usage, differential privacy, transparency     4
+in data collection, ethical data handling.
+
+AI and             Black-box       problem,       Algorithmic
+Accountability       accountability,  responsibility  in  decision-
+5                      making by AI, case studies of AI failures     4
+(e.g.,  bias  in  predictive  policing,  hiring
+algorithms).
+
+AI Alignment       Challenges in Embedding values in AI design,  6                                                                4
+Problem              Possibility of moral machines
+
+Ethics of              Ethics of predictive AI in areas like finance,
+Algorithmic          criminal justice, and employment, analysing  7                                                                4
+Decision-Making     fairness, transparency, and the accountability
+of algorithmic decisions.
+
+AI in Autonomous    Ethical  challenges   in   self-driving   cars,
+Systems              drones, and autonomous robots, the  trolley  8                                                                4                           problem,  moral  decision-making   in  AI
+systems, responsibility and accountability in
+
+[PAGE 3]
+autonomous systems.
+
+Studying Specific     In-depth study of specific ethical issues (e.g.,
+AI Issues and      AI  in  military  applications,  surveillance
+9    Controversies        technologies,  AI  in  creative   industries),     5
+regulatory challenges, and developing ethical
+guidelines.
+
+Future Directions    Ethical   implications   of   emerging  AI
+and Governance of   technologies, the role of global governance in
+10   AI               AI regulation, transparency, and the need for     5
+ethical   AI    standards,    interdisciplinary
+collaboration in AI ethics.
+
+c.  Pre-requisites, if any:Basic familiarity with Machine Learning is desirable
+d.  Short summary for including in the Courses of Study Booklet
+
+This course will philosophically explore the issues in the ethics of AI, focusing on issues
+such as fairness, transparency, trust, privacy, accountability, and societal impact. Students
+will learn to critically evaluate ethical frameworks and dilemmas in AI across diverse
+domains, including healthcare, autonomous systems, and social media. Case studies and
+real-world  applications  will be used  to  connect  theoretical  concepts  to  practical
+challenges in AI ethics.
+
+7. Recommended Books:
+Textbooks:
+
+i.   AI Ethics (2023) by Paula Boddington. Springer.
+ii.   The  Ethics  of   Artificial  Intelligence:  Principles,  Challenges,  and
+Opportunities (2023) by Luciano Floridi. OUP
+
+References:
+
+i.   Negnevitsky, M. (2005).  Artificial  Intelligence: A Guide  to  Intelligent
+Systems. Addison Wesley.
+ii.     Kearns, M., & Roth, A. (2019). The Ethical Algorithm: The Science of
+Socially Aware Algorithm Design. Oxford University Press.
+iii.     Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT
+Press.
+iv.      O'Neil, C. (2016). Weapons of Math Destruction: How Big Data Increases
+Inequality and Threatens Democracy. Crown Publishing.
+
+[PAGE 4]
+v.     Anderson,  M., &  Anderson,  S.  L.  (Eds.).  (2011).  Machine  Ethics.
+Cambridge University Press.
+vi.     Coeckelbergh, M. (2020). AI Ethics. MIT Press.
+vii.     Bostrom, N. (2014). Superintelligence: Paths, Dangers, Strategies. Oxford
+University Press.
+viii.      Christian, B. (2020). The Alignment Problem: Machine Learning and
+Human Values. W.W. Norton & Company.
+ix.      Müller, V. C. (Ed.). (2020). Ethics of Artificial Intelligence and Robotics.
+Springer.
+x.    Van Wynsberghe, A. (2021). Ethics in AI: A Practical Guide to Responsible
+AI. Springer.
+
+8. Any other remarks:
+
+Dated: 12/01/2025                        Proposer (Sushruth Ravish)
+
+Dated: 17/01/2025               DUGC Convener
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC
+
+Dated:

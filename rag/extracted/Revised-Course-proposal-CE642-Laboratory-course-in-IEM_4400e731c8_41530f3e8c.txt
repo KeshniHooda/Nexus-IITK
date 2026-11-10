@@ -1,0 +1,99 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+New Course Proposal
+
+1. Course No: CE642*
+
+2. Course Title: Laboratory Course in Infrastructure Engineering and Management
+
+3. Per Week: Lectures: 1.5 (L), Tutorial: 0 (T), Laboratory: 4.5 (P), Additional Hours: 0
+Credits: (3*L+0*T +P+A): 9 credits
+
+Course will be conducted in two 3-hour slots: Slot 1 (1.5hr Lecture + 1.5hr Lab) + Slot 2 (3hrs Lab)
+
+4. Duration of Course: Full Semester Course
+
+5. Proposing Department: Civil Engineering
+
+6. Proposing instructor: Chirag Kothari, Prof. Sudhir Misra
+
+Level of the course (students who can take this course): PhD and Masters
+
+*Note: This proposal aims to revise the content of the existing course titled Laboratory Course in
+Infrastructure Engineering and Management (CE642).
+
+Objective
+
+The objective of this course is to provide hands-on experience for students in the different area of
+Infrastructure Engineering and Management. The laboratory course will focus on four broad areas:
+a) Project Management Software: Computational exercises relevant to project management and
+controls (MSP, Primavera, AutoCAD). b) Quantity Estimation and Planning: Quantity estimation &
+take-off, Bar bending schedule, planning & design of formwork. c) Productivity Measurement and
+Assessment:  Productivity  calculation &  workforce  estimation,  Construction equipment and
+machinery estimation. d) Construction Engineering: Site layout planning, Quality and safety
+planning and relevant tools, Applications and need of Building Information Modelling (BIM) in
+Construction projects, Experiments related to Repair and Rehabilitation of Concrete
+
+Content#
+
+Broad Areas                 Topics             Venue   Lecture   Lab hours
+hours
+
+Quantity          Quantity estimation & take-off,    IEM Lab      3            18
+estimation &      Bar bending schedule             (ESB-1
+planning                                            707)
+
+Productivity       Productivity calculation &       IEM Lab      2            12
+measurement     workforce estimation,             (ESB-1
+and assessment    Introduction to construction          707)
+equipment and machinery; Plant
+& machinery estimation.
+
+[PAGE 2]
+Project             Utilising Project management       Varun       4            24
+Management      software to develop baselines        Lab
+(Software-based)  schedules, preparing financing     (WLE)
+plan, develop resource plan,
+resource levelling and allocation,
+progress reporting, updating and
+revising schedules
+
+Construction       Site layout planning           IEM Lab      4            24
+Engineering                                    (ESB-1
+Planning & design of formwork –     707)
+concept of cycle time etc.
+
+Safety and Quality: Quality tools,
+quality planning, safety
+equipment, PPEs, safety training.
+
+Safety and Quality: Quality tools,
+quality planning, safety
+equipment, PPEs, safety training.
+
+Experiments related to Repair and
+Rehabilitation of Concrete:
+Advanced concrete construction;
+Non-destructive testing & Non-
+destructive examination.
+
+Total        13           78
+Hours
+
+#The above breakdown of lab exercises is indicative. There might be slight deviation depending on
+the availability of resources in the IEM Lab.
+
+References and suggested reading
+
+Instruction in lectures will largely focus on the science and engineering that is in the background of
+a particular laboratory exercise. Appropriate reading material (guides, manuals etc.) will be
+provided to students before they carry out the exercises.
+
+Dated: 27th September 2024                            Proposer: Chirag Kothari & Sudhir Misra
+
+DPGC Convener:
+
+The course is approved/not approved.
+
+Chairman, SPGC
+Dated:

@@ -1,0 +1,130 @@
+[PAGE 1]
+Department of Electrical Engineering
+Summary of Comments on Interim ARC Report
+
+1. Departmental Minors
+
+Minor is a sub-specialization within Electrical Engineering department and will consist of
+27-36 credits (three courses). It should be encouraged in principle. However, minors will
+increase faculty load. Hence some limit on the number of students has to be imposed.
+
+The student opting for minor in Electrical Engineering will have to take EE200 as a
+compulsory course. He can take any other two EE courses subjected to prerequisite
+fulfillment out of which at least one course should be at 300 or higher level.
+
+Some suggested minor courses are give as follows. The figure given here is only for a
+guideline. The student is free to choose two remaining courses from EE courses (other
+than EE200).
+
+Course Structure for Minor in Electrical Engineering
+
+ESC102               EE200
+(Institute Core)          (Compulsory)
+
+EE210         EE311/EE370              Microelectronics/ Digital
+Systems
+
+EE330*            EE360                 Power
+
+Communications & Signal                    EE320           EE301/EE321                                                                             Processing
+
+EE340          EE612/EE642/EE648         RF Engineering and
+Photonics
+
+EE250              EE650                   Controls
+
+* ESO210 is a prerequisite for EE330
+
+[PAGE 2]
+The Minor system cannot be implemented unless the Timetable permits the student to
+take these courses. Timetable is the responsibility of DOAA.  It is advisable to have
+centralized timetable for all courses and the timetable should be fixed for the next five
+years.
+
+Repercussion of fixing the timetable in advance is that the timetable decides the faculty
+courses. This may be unpleasant at times. However, flexibility should be allowed in the
+timetable of PG (600 level) courses.
+
+2. Interdisciplinary Minors
+
+Offering  interdisciplinary  minors   is  not  very  straightforward.  The  background
+(prerequisite) for such minors should be fulfilled.
+There is a need of blending the existing courses of two departments or structuring new
+courses in two different departments to offer these minors.
+
+3. Second B.Tech. degree in Electrical Engineering
+
+Considering that EE Dept. will be offering minor courses, the second degree in Electrical
+Engineering will increase the faculty load. The possibility of second B.Tech. program
+was extensively discussed in the faculty meeting. It was felt that the minor courses should
+be offered and tried successfully before undertaking the second B.Tech. degree. Hence
+the second B.Tech. degree in Electrical Engineering will not be offered by EE Dept.
+
+4. Suggested ESO courses for Electrical Engineering
+
+(max.: 35 credits or 3 courses; min.: 10 credits or one course)
+
+Compulsory:
+ESO210 (Introduction to Electrical Engineering)
+ESO209 (Probability and Statistics)
+One out of three:
+ESO202 (Thermodynamics)
+ESO211 (Data Structures and Algorithms-I)
+ESO214 (Nature and Properties of Materials)
+
+5. Should there be an option for B.Tech. (Honours) degree?
+
+The criteria of awarding a B.Tech. (Honours) degree are not very clear. One option is to
+make the B.Tech. (Honours) degree based on good performance in BTP. However, in the
+proposed ARC report, BTP is optional, and hence performance in BTP cannot be a
+criterion for awarding B.Tech. (Honours) degree. B.Tech. (Honours) degree based on CPI
+does not have much merit. Hence EE Dept. is not in favour of a separate B.Tech.
+(Honours) degree.
+
+[PAGE 3]
+6. Passing CPI of 4.0
+
+Passing CPI of 4.0 will degrade the standard. In major universities, the total passing
+percentage is more than the passing percentage in individual courses.
+It is suggested to retain the passing CPI as 5.0. The structure of WR and AP should be
+maintained.
+
+7. Should there be an exit option for students who consistently under-perform
+during core programme at IIT Kanpur? If so, what form should this exit option
+take?
+
+It is suggested to retain the passing CPI as 5.0. The structure of WR and AP should be
+maintained.
+A student enrolled for a B.Tech./ M.Tech.(dual)/ M.Sc. programme will not be happy
+with a degree less than what he/she has enrolled for. Awarding a Diploma of IIT after
+three years is one of the options discussed as this will ensure some employability to the
+student. However, awarding a Diploma after 3 years will create confusion as IITs are
+known  for awarding B.Tech./ M.Tech.(dual)/ M.Sc. degrees  to JEE  entrants. Any
+certificate from IITK without having some employability will not serve any purpose.
+
+Thus there should be no exit option.
+
+8. In what ways can your department integrate communication skills as necessary
+evaluative criteria in some of your departmental course?
+
+Many EE faculty members offering 600 level courses for final year B.Tech. students
+introduce presentation as a part of the course evaluation. Students opting for BTP will
+have  to present  their work and submit a technical  report of the BTP. Thus, the
+communication skill test is implicitly implemented in many final year courses. Students
+opting for UGR courses will have to present their work before the faculty advisor.
+Hence, no separate communication skill course is required for the students.
+
+9. Switch from two midterms and one end-tem to one midterm and one end-term
+exam.
+
+The two mid-semesters and one end-semester system is better as the students study and
+are evaluated uniformly throughout the semester. The student has better chance to
+recover. In view of increased number of students, more student tutors can be inducted.
+This will help in reducing the load of grading the answer scripts.
+
+10. 80% compulsory attendance
+
+Making 80% attendance is difficult to implement. Issues regarding the students who fall
+marginally below 80% of attendance need to be addressed. It is often difficult to take
+attendance for very large classes.
+----------------------x---------------------

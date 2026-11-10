@@ -1,0 +1,62 @@
+[Page 1]
+COURSE PROPOSAL: LINEAR ALGEBRA
+1. Course Title: Linear Algebra
+2. Course Number: MTH201
+3. Proposing Department: Mathematics and Statistics
+4. Proposed by: Nandini Nilakantan, Preena Samuel.
+5. Units: 3-1-0-0 [11 credits]
+6. Course Description:
+(A) Objectives of the course: Introduction to basic linear algebra.
+(B) Contents (number of lectures mentioned in brackets):
+Vector spaces: Fields, Vector spaces over a ﬁeld, subspaces, Linear independence and
+dependence, existence of basis, coordinates, dimension.
+(3)
+Linear Transformations: Kernel, image and rank of a transformation, Rank Nullity
+Theorem, isomorphism, matrix representation of linear transformation, change of basis,
+similar matrices, linear functional and dual space, dual basis.
+(5)
+Algebra of polynomials over a ﬁeld, (polynomial ideals, prime factorization of polyno-
+mials) permutations and deﬁnition of determinant via permutations, uniqueness and
+other properties of determinant. (Tensor product of vector spaces, Multilinear forms,
+alternating forms, determinant via alternating forms.)
+(5)
+Inner product spaces: Cauchy-Schwarz’s inequality, Gram-Schmidt orthonormalization,
+orthonormal basis, Orthogonal matrices and rotations, matrix exponential.
+(3)
+Orthogonal projection, projection theorem, four fundamental subspaces and their rela-
+tions (relation between null space and row space; relation between null space of the
+transpose and the column space)
+(2)
+Diagonalization: Eigenvalues and eigenvectors, diagonalizability.
+(2)
+Invariant subspaces, adjoint of an operator, normal, unitary and self adjoint operators,
+nilpotent operators, Schur’s unitary triangularisation, diagonalization of normal matri-
+ces, spectral decompositions and spectral theorem, applications of spectral theorem.(4)
+Cayley-Hamilton theorem, minimal polynomials.
+(2)
+Eigenspaces, generalised Eigenspaces, algebraic and geometric multiplicity, Jordan
+canonical form.
+(3)
+Primary decomposition theorem, Rational canonical forms with proofs (semi-simple
+
+[Page 2]
+operators).
+(3)
+Introduction to the theory of Quadratic forms: Bilinear and quadratic forms, Sylvester’s
+law of inertia.
+(3)
+Some applications: Lagrange interpolation, LU,QR and SVD decompositions, least
+square solutions, least square ﬁttings, pseudo inverses.
+(2)
+(C) Pre-requisites: MTH113M
+(D) Short summary: This is a departmental core course for BS(MTH) students.
+7. Books/References:
+(a) Kenneth Hoﬀman and Ray Kunze: Linear Algebra, PHI publication.
+(b) Gilbert Strang: Linear Algebra and Its Applications, 4th edition.
+(c) S. Lang: Algebra, GTM, Springer
+(d) M. Artin: Algebra, PHI publications
+Date: 20 March 2024
+Signature of the Proposer:
+Signature of DUGC Convener Mathematics and Statistics
+This course is approved/not approved
+Chairman, SUGC

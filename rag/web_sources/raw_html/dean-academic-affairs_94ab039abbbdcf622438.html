@@ -1,0 +1,2592 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr" >
+  <head>
+      <base href="https://iitk.ac.in/doaa/dean-academic-affairs" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="author" content="Swati" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>DEAN Academic Affairs</title>
+  <link href="/doaa/templates/iitk/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/doaa/plugins/system/mediabox_ck/mediabox_ck/mediaboxAdvBlack21.css" type="text/css" />
+  <link rel="stylesheet" href="https://iitk.ac.in/doaa/modules/mod_bt_smartsearch/tmpl/css/form.css" type="text/css" />
+  <link rel="stylesheet" href="https://iitk.ac.in/doaa/modules/mod_bt_smartsearch/tmpl/css/chosen.css" type="text/css" />
+  <link rel="stylesheet" href="/doaa/media/com_finder/css/finder.css" type="text/css" />
+  <link rel="stylesheet" href="https://iitk.ac.in/doaa/modules/mod_icemegamenu/themes/default/css/default_icemegamenu.css" type="text/css" />
+  <link rel="stylesheet" href="/doaa/modules/mod_djmultitreemenu/assets/css/djmultitreemenu.css" type="text/css" />
+  <link rel="stylesheet" href="/doaa/modules/mod_djmultitreemenu/assets/css/djmultitreemenu_fx.css" type="text/css" />
+  <style type="text/css">
+
+			#mbCenter {
+	background-color: #fff;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	-webkit-box-shadow: 0px 5px 20px rgba(0,0,0,0.50);
+	-khtml-box-shadow: 0px 5px 20px rgba(0,0,0,0.50);
+	-moz-box-shadow: 0px 5px 20px rgba(0,0,0,0.50);
+	box-shadow: 0px 5px 20px rgba(0,0,0,0.50);
+	/* For IE 8 */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=5, Direction=180, Color='#000000')";
+	/* For IE 5.5 - 7 */
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=5, Direction=180, Color='#000000');
+        behavior: url(https://iitk.ac.in/doaa/plugins/system/mediabox_ck/mediabox_ck/PIE.htc);
+	}
+	
+	#mbOverlay {
+		background-color: #000;
+	}
+	
+	#mbCenter.mbLoading {
+		background-color: #fff;
+	}
+	
+	#mbBottom {
+		color: #999;
+	}
+	
+	#mbTitle, #mbPrevLink, #mbNextLink, #mbCloseLink {
+		color: #fff;
+	}
+		.borderinput{margin-right:63px;} .btnsearch{position:absolute;top: 0px; right: -4px;}
+  </style>
+  <script src="/doaa/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/doaa/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/doaa/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/doaa/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js" type="text/javascript"></script>
+  <script src="/doaa/plugins/system/jqueryeasy/jquerynoconflict.js" type="text/javascript"></script>
+  <script src="/doaa/plugins/system/mediabox_ck/mediabox_ck/mediaboxAdv-1.3.4b.js" type="text/javascript"></script>
+  <script src="/doaa/plugins/system/mediabox_ck/mediabox_ck/quickie.js" type="text/javascript"></script>
+  <script src="/doaa/templates/iitk/javascript/md_stylechanger.js" type="text/javascript" defer="defer"></script>
+  
+  
+  <script src="/doaa/media/com_finder/js/autocompleter.js" type="text/javascript"></script>
+  <script src="https://iitk.ac.in/doaa/modules/mod_icemegamenu/assets/js/icemegamenu.js" type="text/javascript"></script>
+  <script src="/doaa/modules/mod_djmultitreemenu/assets/js/djmultitreemenu.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});
+                    Mediabox.scanPage = function() {
+                        var links = document.getElements("a").filter(function(el) {
+                            return el.rel && el.rel.test(/^lightbox/i);
+                        });
+                        links.mediabox({
+                        overlayOpacity : 	0.7,
+						resizeOpening : 	1,
+						resizeDuration : 	240,
+						resizeTransition : 	0,
+						initialWidth : 		320,
+						initialHeight : 	180,
+						defaultWidth : 		640,
+						defaultHeight : 	360,
+						vertioffset : 		0,
+						horizoffset : 		0,
+						showCaption : 		1,
+						showCounter : 		1,
+						attribType :		'rel',
+                        playerpath: 'https://iitk.ac.in/doaa/plugins/system/mediabox_ck/mediabox_ck/NonverBlaster.swf'
+                        }, null, function(el) {
+                            var rel0 = this.rel.replace(/[[]|]/gi," ");
+                            var relsize = rel0.split(" ");
+                            return (this == el) || ((this.rel.length > 8) && el.rel.match(relsize[1]));
+                        });
+                    };
+                    window.addEvent("domready", Mediabox.scanPage);
+                    	(function($){ // Mootools Safe Mode ON		window.addEvent('domready',function(){		var DJTreeMenusAll = $('dj-mtmenu93').getChildren('li.dj-up');		var wrapper = $('');		DJTreeMenusAll.each(function(djmenu){			if(djmenu.getElement('.dj-drop')) {				DJTreeMenus.include(new DJTreeMenu(djmenu,0,wrapper,{transition: 'cubic:out', duration: 100, delay: 0, submenu_tree: 1,		height_fx: true, width_fx: true, opacity_fx: true, mid: 93 }));			} else {				djmenu.addEvent('mouseenter',function(){					djmenu.addClass('hover');				});				djmenu.addEvent('mouseleave',function(){					djmenu.removeClass('hover');				});			}		});		});		})(document.id);
+  </script>
+
+    <link rel="stylesheet" href="/doaa/templates/system/css/system.css" type="text/css" />
+    <link rel="stylesheet" href="/doaa/templates/iitk/css/position.css" type="text/css" media="screen,projection" />
+    <link rel="stylesheet" href="/doaa/templates/iitk/css/layout.css" type="text/css" media="screen,projection" />
+    <link rel="stylesheet" href="/doaa/templates/iitk/css/print.css" type="text/css" media="Print" />
+    <link rel="stylesheet" href="/doaa/templates/iitk/css/iitk.css" type="text/css" />
+    <link rel="stylesheet" href="/doaa/templates/iitk/css/general.css" type="text/css" />
+        <!--[if lte IE 6]>
+      <link href="/doaa/templates/iitk/css/ieonly.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 7]>
+      <link href="/doaa/templates/iitk/css/ie7only.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+
+    <!--[if IE]>
+      <link href="/doaa/templates/iitk/css/ie-modified.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+
+
+    <script type="text/javascript" src="/doaa/templates/iitk/javascript/hide.js"></script>
+
+    <script type="text/javascript">
+      var big ='72%';
+      var small='53%';
+      var altopen='is open';
+      var altclose='is closed';
+      var bildauf='/doaa/templates/iitk/images/plus.png';
+      var bildzu='/doaa/templates/iitk/images/minus.png';
+      var rightopen='Open info';
+      var rightclose='Close info';
+      var fontSizeTitle='Font size';
+            var bigger='Bigger';
+            var reset='Reset';
+            var smaller='Smaller';
+            var biggerTitle='Increase size';
+            var resetTitle='Revert styles to default';
+            var smallerTitle='Decrease size';
+    </script>
+
+<meta name="google-site-verification" content="idhCedXYpEfEdy3WqZIPtUjX18lnFR8L6JlfgEwp3og" />
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-68172282-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+        
+  <script type="text/javascript" src="https://iitk.ac.in/doaa/plugins/system/mooimageck/mooimageck/mooPuffy_CK.js"></script>
+<script type="text/javascript">
+window.addEvent('domready', function() {new Moopuffy_ck($$('.left'),{mooDuree:500,ratio:1.3});});
+</script>
+<script type="text/javascript" src="https://iitk.ac.in/doaa/plugins/system/mooimageck/mooimageck/mooOpacite_CK.js"></script>
+<script type="text/javascript">
+window.addEvent('domready', function() {new mooOpacite_ck($$('.center'),{mooDuree1:100,mooDuree2:500,opacite:0.5});});
+</script>
+<script type="text/javascript" src="https://iitk.ac.in/doaa/plugins/system/mooimageck/mooimageck/mooShake_CK.js"></script>
+<script type="text/javascript">
+window.addEvent('domready', function() {new MooShake_ck($$('.right'),{mooDuree:100});});
+</script>
+<script type="text/javascript" src="https://iitk.ac.in/doaa/plugins/system/mooimageck/mooimageck/reflection.js"></script>
+</head>
+
+  <body>
+    <div id="top-menu-container">
+    <div id="top-shadow"></div>
+    <div id="top-menu"><ul id="dj-mtmenu93" class="dj-mtmenu"><li class="dj-up itemid315 first"><a href="/doaa/" class="dj-up_a " ><span >Home</span></a></li>
+<li class="dj-up itemid825 separator"><a class="dj-up_a " ><span class="dj-drop" >Time Table</span></a>
+<div class="djsubwrap" style="left:0px;"><div class="cols_2"><div class="sub-bg">
+									<ul class="dj-submenu clearfix" >
+<li class="itemid826 first"><a href="/doaa/core-time-table" class="" >Core Time Table </a></li>
+<li class="itemid927 last"><a href="/doaa/exam-schedule" class=""  target="_blank">Exam Schedule</a></li>
+</ul>
+ </div></div></div></li>
+<li class="dj-up itemid827 separator"><a class="dj-up_a " ><span class="dj-drop" >Services</span></a>
+<div class="djsubwrap" style="left:0px;"><div class="cols_5"><div class="sub-bg">
+									<ul class="dj-submenu clearfix" >
+<li class="itemid828 first"><a href="/doaa/transcripts-and-certificates" class="" >Transcripts</a></li>
+<li class="itemid937"><a href="http://web.iitk.ac.in/lhcbooking/" class=""  target="_blank">Online Lecture Hall Booking</a></li>
+<li class="itemid979"><a href="http://www.iitk.ac.in/bau/" class=""  target="_blank">Biometric Attendance Unit</a></li>
+<li class="itemid997"><a href="http://www.iitk.ac.in/doaa/tpc/" class=""  target="_blank">Thesis Processing Cell</a></li>
+<li class="itemid998 last"><a href="http://www.iitk.ac.in/nadcell/" class=""  target="_blank">National Academic Depository (NAD) Cell, IIT Kanpur</a></li>
+</ul>
+ </div></div></div></li>
+<li class="dj-up itemid848 separator"><a class="dj-up_a " ><span class="dj-drop" >Resources</span></a>
+<div class="djsubwrap" style="left:0px;"><div class="cols_4"><div class="sub-bg">
+									<ul class="dj-submenu clearfix" >
+<li class="itemid815 first"><a href="#" class="dj-more" >Student Resources</a>
+<ul class="dj-submenu2">
+<li class="itemid820 first"><a href="/doaa/data/thesisguide.pdf" class=""  target="_blank">Guidelines for Thesis Preparation</a></li>
+<li class="itemid1005"><a href="https://www.iitk.ac.in/doaa/data/FAQ-2020-21-I.pdf" class=""  target="_blank"><img src="/doaa/images/new11.gif" alt=" FAQs (2020-21-I)" /><span class="image-title"> FAQs (2020-21-I)</span> </a></li>
+<li class="itemid1006"><a href="https://www.iitk.ac.in/doaa/data/Technical_Infrastructure_Requirements.pdf" class=""  target="_blank"><img src="/doaa/images/new11.gif" alt=" Technical Infrastructure for Remote Learning" /><span class="image-title"> Technical Infrastructure for Remote Learning</span> </a></li>
+<li class="itemid1000"><a href="https://oag.iitk.ac.in/studoaiitk/" class=""  target="_blank"><img src="/doaa/images/new11.gif" alt=" Thesis Upload Page" /><span class="image-title"> Thesis Upload Page</span> </a></li>
+<li class="itemid938"><a href="/doaa/data/Procedure_for_PhD_Thesis_Submission.pdf" class=""  target="_blank">Thesis Submission Procedure for PhD students</a></li>
+<li class="itemid994"><a href="/doaa/data/Procedure_for_MTech,_MDes_Thesis_Submission.pdf" class=""  target="_blank">Thesis Submission Procedure for MTech/MDes students</a></li>
+<li class="itemid995"><a href="/doaa/data/Procedure_for_MSR_Thesis_Submission.pdf" class=""  target="_blank">Thesis Submission Procedure for MSR students</a></li>
+<li class="itemid991"><a href="http://etd.iitk.ac.in/" class=""  target="_blank">Thesis upload on Institute Repository</a></li>
+<li class="itemid996"><a href="/doaa/data/Procedure_for_BT-MT_Thesis_Submission.pdf" class=""  target="_blank">Thesis Submission Procedure for BT-MT Dual Degree students</a></li>
+<li class="itemid818"><a href="/doaa/data/Branch_change.pdf" class=""  target="_blank">Branch Change</a></li>
+<li class="itemid834"><a href="http://172.26.131.10/dccourse/" class=""  target="_blank">Registration Details of Current students (as on beginning of semester)</a></li>
+<li class="itemid728"><a href="#" class="dj-more" >NO DUES</a>
+<ul class="dj-submenu3">
+<li class="itemid797 first"><a href="https://oars.iitk.ac.in/noduesiitk/" class=""  target="_blank">Apply for No Dues</a></li>
+</ul>
+</li>
+<li class="itemid816 last"><a href="#" class="dj-more" >Others</a>
+<ul class="dj-submenu3">
+<li class="itemid843 first"><a href="/doaa/forms" class="" >Forms</a></li>
+<li class="itemid886"><a href="/doaa/data/Guidelines-cpi.pdf" class=""  target="_blank">Guidelines for CPI Conversion</a></li>
+<li class="itemid914"><a href="/doaa/courses-of-study" class="" >Courses of study</a></li>
+<li class="itemid932"><a href="/doaa/statistical-report" class="" >Statistical Report</a></li>
+<li class="itemid933"><a href="/doaa/data/summer_internship_form.pdf" class=""  target="_blank">Summer Internship</a></li>
+<li class="itemid959 last"><a href="/doaa/data/ConvocationData.pdf" class="" >Convocation wise Graduation Data</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="itemid821"><a href="#" class="dj-more" >Faculty Resources</a>
+<ul class="dj-submenu2">
+<li class="itemid990 first"><a href="/doaa/academic-review-committee-2020-21" class=""  target="_blank">ARC 2020-21</a></li>
+<li class="itemid985"><a href="http://www.iitk.ac.in/doaa/academic-programme-review-committee-arc" class=""  target="_blank">ARC 2010-11</a></li>
+<li class="itemid817"><a href="http://web.iitk.ac.in/lhcbooking/" class=""  target="_blank">Online Lecture Hall Booking</a></li>
+<li class="itemid952"><a href="/doaa/./data/Guidelines-for-LHC-Booking.pdf" class=""  target="_blank">Guidelines for LHC Booking</a></li>
+<li class="itemid954"><a href="https://web.iitk.ac.in/ccnew/Turnitin.html" class=""  target="_blank">iThenticate and Turnitin (Intranet only)</a></li>
+<li class="itemid961"><a href="/doaa/data/Orientation-academics.pdf" class=""  target="_blank">Academics at IIT Kanpur: Orientation for New Faculty</a></li>
+<li class="itemid999"><a href="https://sites.google.com/view/e-lectures/home?authuser=0" class=""  target="_blank"><img src="/doaa/images/new11.gif" alt="  Guide for Creating E-resources for Lecture Content" /><span class="image-title">  Guide for Creating E-resources for Lecture Content</span> </a></li>
+<li class="itemid1003"><a href="https://www.iitk.ac.in/doaa/remote-teaching/" class="" ><img src="/doaa/images/new11.gif" alt="  Lecture Series: Transitioning to Remote Teaching" /><span class="image-title">  Lecture Series: Transitioning to Remote Teaching</span> </a></li>
+<li class="itemid1004"><a href="https://www.iitk.ac.in/doaa/data/senate_decisions_implementation_2020_21_I.pdf" class=""  target="_blank"><img src="/doaa/images/new11.gif" alt="  Conduct of Courses (2020-21-1)" /><span class="image-title">  Conduct of Courses (2020-21-1)</span> </a></li>
+<li class="itemid1008"><a href="https://oaacad.iitk.ac.in/oagsiitk/" class=""  target="_blank"><img src="/doaa/images/new11.gif" alt="  Online Grade Submission" /><span class="image-title">  Online Grade Submission</span> </a></li>
+<li class="itemid1009 last"><a href="https://moodle.cse.iitk.ac.in/" class=""  target="_blank"><img src="/doaa/images/new11.gif" alt=" Moodle" /><span class="image-title"> Moodle</span> </a></li>
+</ul>
+</li>
+<li class="itemid942"><a href="#" class="" >extra-menu-dont-unpublish</a></li>
+<li class="itemid986 last"><a href="/doaa/" class="dj-more" >Pingala</a>
+<ul class="dj-submenu2">
+<li class="itemid987 first"><a href="https://pingala.iitk.ac.in/IITK-0/login" class=""  target="_blank">Current Registration/Add-Drop</a></li>
+<li class="itemid988 last"><a href="https://pingala.iitk.ac.in/IITK-0/login" class=""  target="_blank">Pre-registraion</a></li>
+</ul>
+</li>
+</ul>
+ </div></div></div></li>
+<li class="dj-up itemid917 separator"><a class="dj-up_a " ><span class="dj-drop" >Rules &amp; Regulations</span></a>
+<div class="djsubwrap" style="left:0px;"><div class="cols_3"><div class="sub-bg">
+									<ul class="dj-submenu clearfix" >
+<li class="itemid970 first"><a href="/doaa/" class="dj-more" >Academic Manuals</a>
+<ul class="dj-submenu2">
+<li class="itemid918 first"><a href="/doaa/data/UG_Manual.pdf" class=""  target="_blank">UG Manual</a></li>
+<li class="itemid919"><a href="/doaa/data/PG-Manual.pdf" class=""  target="_blank">PG Manual (PDF)</a></li>
+<li class="itemid1026"><a href="/doaa/pg-manual" class="" >PG Manual (HTML)</a></li>
+<li class="itemid1045"><a href="/doaa/data/MSc_MSPD-Manual.pdf" class=""  target="_blank"><img src="/doaa/images/new11.gif" alt=" MSc &amp; MSPD Manual (PDF)" /><span class="image-title"> MSc &amp; MSPD Manual (PDF)</span> </a></li>
+<li class="itemid939"><a href="/doaa/data/Senate-Manual.pdf" class=""  target="_blank">Senate Manual</a></li>
+<li class="itemid920 last"><a href="/doaa/data/ordinances_03.pdf" class=""  target="_blank">Ordinance</a></li>
+</ul>
+</li>
+<li class="itemid972"><a href="/doaa/" class="dj-more" >Others</a>
+<ul class="dj-submenu2">
+<li class="itemid819 first"><a href="/doaa/data/Code_of_Conducts_Examinations.pdf" class=""  target="_blank">Code of Conducts for Examinations</a></li>
+</ul>
+</li>
+<li class="itemid971 last"><a href="/doaa/" class="dj-more" >Important Senate Decisions</a>
+<ul class="dj-submenu2">
+<li class="itemid1043 first"><a href="https://web.iitk.ac.in/july14doaan/data/Minutes_of_the_First_Meeting_of_the_Senate.pdf" class=""  target="_blank">Minutes of the First Meeting of the Senate</a></li>
+<li class="itemid973"><a href="https://web.iitk.ac.in/july14doaan/data/Important-Senate-Decisions-2016.pdf" class=""  target="_blank">Senate Decisions 2016</a></li>
+<li class="itemid975"><a href="https://web.iitk.ac.in/july14doaan/data/Important-Senate-Decisions-2017.pdf" class=""  target="_blank">Senate Decisions 2017</a></li>
+<li class="itemid1038"><a href="https://web.iitk.ac.in/july14doaan/data/Important-Senate-Decisions-2017-Contd-2.pdf" class=""  target="_blank">Senate Decisions 2017_Contd..2</a></li>
+<li class="itemid1039"><a href="https://web.iitk.ac.in/july14doaan/data/Important-Senate-Decisions-2018.pdf" class=""  target="_blank">Senate Decisions 2018</a></li>
+<li class="itemid1040"><a href="https://web.iitk.ac.in/july14doaan/data/Important-Senate-Decisions-2019.pdf" class=""  target="_blank">Senate Decisions 2019</a></li>
+<li class="itemid1041"><a href="https://web.iitk.ac.in/july14doaan/data/Important-Senate-Decisions-2020.pdf" class=""  target="_blank">Senate Decisions 2020</a></li>
+<li class="itemid1042"><a href="https://web.iitk.ac.in/july14doaan/data/Important-Senate-Decisions-2021.pdf" class=""  target="_blank">Senate Decisions 2021</a></li>
+<li class="itemid1054"><a href="https://web.iitk.ac.in/july14doaan/data/Important-Senate-Decisions-2021-Contd-2.pdf" class=""  target="_blank">Senate Decisions 2021_Contd.2</a></li>
+<li class="itemid1055"><a href="https://web.iitk.ac.in/july14doaan/data/Important-Senate-Decisions-2022.pdf" class=""  target="_blank">Senate Decisions 2022</a></li>
+<li class="itemid1056"><a href="https://web.iitk.ac.in/july14doaan/data/Important-Senate-Decisions-2023.pdf" class=""  target="_blank">Senate Decisions 2023</a></li>
+<li class="itemid1060"><a href="https://web.iitk.ac.in/july14doaan/data/Important-Senate-Decisions-2024.pdf" class=""  target="_blank">Senate Decisions 2024</a></li>
+<li class="itemid1067"><a href="https://web.iitk.ac.in/july14doaan/data/Important-Senate-Decisions-2025.pdf" class=""  target="_blank">Senate Decisions 2025</a></li>
+<li class="itemid1074 last"><a href="https://web.iitk.ac.in/july14doaan/data/Important-Senate-Decisions-2026.pdf" class=""  target="_blank">Senate Decisions 2026</a></li>
+</ul>
+</li>
+</ul>
+ </div></div></div></li>
+<li class="dj-up itemid940"><a href="/doaa/doaa-archive" class="dj-up_a "  target="_blank"><span >Archive</span></a></li>
+<li class="dj-up itemid118 separator"><a class="dj-up_a " ><span class="dj-drop" >Contact Us</span></a>
+<div class="djsubwrap" style="left:0px;"><div class="cols_1"><div class="sub-bg">
+									<ul class="dj-submenu clearfix" >
+<li class="itemid845 first"><a href="https://www.iitk.ac.in/doaa/dean-academic-affairs" class=""  target="_blank">DOAA Telephone Directory </a></li>
+</ul>
+ </div></div></div></li>
+<li class="dj-up itemid102 separator"><a class="dj-up_a " ><span class="dj-drop" >Quick Links </span></a>
+<div class="djsubwrap" style="left:0px;"><div class="cols_5"><div class="sub-bg">
+									<ul class="dj-submenu clearfix" >
+<li class="itemid924 first"><a href="/doaa/" class="dj-more" >OARS </a>
+<ul class="dj-submenu2">
+<li class="itemid925 first"><a href="https://oaacad.iitk.ac.in/oagsiitk/" class=""  target="_blank"><img src="/doaa/images/new11.gif" alt="  Online Grade Submission" /><span class="image-title">  Online Grade Submission</span> </a></li>
+<li class="itemid1062 last"><a href="https://oars.iitk.ac.in/oasfsiitk/" class=""  target="_blank"><img src="/doaa/images/new11.gif" alt="  Student Feedback System" /><span class="image-title">  Student Feedback System</span> </a></li>
+</ul>
+</li>
+<li class="itemid982"><a href="/doaa/" class="dj-more" >Pingala</a>
+<ul class="dj-submenu2">
+<li class="itemid984 first"><a href="https://pingala.iitk.ac.in/IITK-0/login" class=""  target="_blank">Current Registration/Add-Drop</a></li>
+<li class="itemid983 last"><a href="https://pingala.iitk.ac.in/IITK-0/login" class=""  target="_blank">Pre-registraion</a></li>
+</ul>
+</li>
+<li class="itemid929"><a href="/doaa/" class="dj-more" >NO DUES</a>
+<ul class="dj-submenu2">
+<li class="itemid1012 first"><a href="https://oars.iitk.ac.in/noduesiitk/" class="" > Dues Clearance System</a></li>
+</ul>
+</li>
+<li class="itemid948"><a href="/doaa/" class="dj-more" >Course Templates </a>
+<ul class="dj-submenu2">
+<li class="itemid949 first"><a href="/doaa/data/Course-Template-B.Tech-BS.pdf" class=""  target="_blank">B.Tech/B.S (Y21 and earlier batches)</a></li>
+<li class="itemid1069"><a href="/doaa/course-templates" class=""  target="_blank">B.Tech/B.S (Y22 and onwards batches)</a></li>
+<li class="itemid950 last"><a href="/doaa/data/Course-Template-M.Sc.-and-M.Sc.-Ph.D.pdf" class=""  target="_blank">M.Sc. 2-Year/M.Sc.-PhD</a></li>
+</ul>
+</li>
+<li class="itemid595"><a href="/doaa/" class="dj-more" >Academic Calendars</a>
+<ul class="dj-submenu2">
+<li class="itemid596 first"><a href="http://www.iitk.ac.in/doaa/academic-calendar" class=""  target="_blank">Academic Calendar</a></li>
+<li class="itemid599"><a href="https://www.google.com/calendar/embed?src=5fv2ggkjesmp80nkd6q4f3e1es%40group.calendar.google.com&ctz=Asia/Calcutta" class=""  target="_blank">Google Calendar</a></li>
+<li class="itemid957 last"><a href="http://www.iitk.ac.in/new/institute-holidays-2018" class="" >Institute Holidays</a></li>
+</ul>
+</li>
+</ul><ul class="dj-submenu clearfix"><li class="itemid968"><a href="/doaa/" class="dj-more" >Important Senate Decisions</a>
+<ul class="dj-submenu2">
+<li class="itemid978 first"><a href="https://web.iitk.ac.in/july14doaan/data/Minutes_of_the_First_Meeting_of_the_Senate.pdf" class=""  target="_blank">Minutes of the First Meeting of the Senate</a></li>
+<li class="itemid969"><a href="https://web.iitk.ac.in/july14doaan/data/Important-Senate-Decisions-2016.pdf" class="" >Senate Decisions 2016</a></li>
+<li class="itemid974"><a href="https://web.iitk.ac.in/july14doaan/data/Important-Senate-Decisions-2017.pdf" class=""  target="_blank">Senate Decisions 2017</a></li>
+<li class="itemid1033"><a href="https://web.iitk.ac.in/july14doaan/data/Important-Senate-Decisions-2017-Contd-2.pdf" class=""  target="_blank">Senate Decisions 2017_Contd..2</a></li>
+<li class="itemid1034"><a href="https://web.iitk.ac.in/july14doaan/data/Important-Senate-Decisions-2018.pdf" class=""  target="_blank">Senate Decisions 2018</a></li>
+<li class="itemid1035"><a href="https://web.iitk.ac.in/july14doaan/data/Important-Senate-Decisions-2019.pdf" class=""  target="_blank">Senate Decisions 2019</a></li>
+<li class="itemid1036"><a href="https://web.iitk.ac.in/july14doaan/data/Important-Senate-Decisions-2020.pdf" class=""  target="_blank">Senate Decisions 2020</a></li>
+<li class="itemid1037"><a href="https://web.iitk.ac.in/july14doaan/data/Important-Senate-Decisions-2021.pdf" class=""  target="_blank">Senate Decisions 2021</a></li>
+<li class="itemid1051"><a href="https://web.iitk.ac.in/july14doaan/data/Important-Senate-Decisions-2021-Contd-2.pdf" class=""  target="_blank">Senate Decisions 2021_Contd.2</a></li>
+<li class="itemid1052"><a href="https://web.iitk.ac.in/july14doaan/data/Important-Senate-Decisions-2022.pdf" class=""  target="_blank">Senate Decisions 2022</a></li>
+<li class="itemid1053"><a href="https://web.iitk.ac.in/july14doaan/data/Important-Senate-Decisions-2023.pdf" class=""  target="_blank">Senate Decisions 2023</a></li>
+<li class="itemid1059"><a href="https://web.iitk.ac.in/july14doaan/data/Important-Senate-Decisions-2024.pdf" class=""  target="_blank">Senate Decisions 2024</a></li>
+<li class="itemid1066"><a href="https://web.iitk.ac.in/july14doaan/data/Important-Senate-Decisions-2025.pdf" class=""  target="_blank">Senate Decisions 2025</a></li>
+<li class="itemid1075 last"><a href="https://web.iitk.ac.in/july14doaan/data/Important-Senate-Decisions-2026.pdf" class="" >Senate Decisions 2026</a></li>
+</ul>
+</li>
+<li class="itemid967"><a href="/doaa/" class="dj-more" >Others</a>
+<ul class="dj-submenu2">
+<li class="itemid928 first"><a href="/doaa/exam-schedule" class=""  target="_blank">Exam Schedule</a></li>
+<li class="itemid915"><a href="/doaa/courses-of-study" class="" >Courses of Study</a></li>
+<li class="itemid958"><a href="/doaa/data/minors-at-iitk-updated.pdf" class=""  target="_blank">List of Minor Courses</a></li>
+<li class="itemid966 last"><a href="http://www.iitk.ac.in/doaa/faqs" class=""  target="_blank">Frequently Asked Questions (FAQs)</a></li>
+</ul>
+</li>
+<li class="itemid955 last"><a href="/doaa/" class="dj-more" >Important Resources</a>
+<ul class="dj-submenu2">
+<li class="itemid956 first"><a href="https://web.iitk.ac.in/ccnew/Turnitin.html" class=""  target="_blank">iThenticate and Turnitin (Intranet only)</a></li>
+</ul>
+</li>
+</ul>
+ </div></div></div></li>
+<li class="dj-up itemid754 last"><a href="/doaa/awards-medals" class="dj-up_a " ><span >Awards</span></a></li>
+</ul></div>
+    <div id="bottom-shadow"></div>
+</div>
+<div id="all">
+  <div id="back">
+      <div id="header">
+              
+          <!--[if IE ]>
+      
+           <div class="logoheader">
+           <div id="logoheadingbig">
+           <p>beta</p></div>
+           
+          <h1 id="logo">
+          <a href="http://www.iitk.ac.in/doaa/"><img src="/doaa/images/logo/DOAA.jpg" alt="" /></a>
+          </h1>
+          </div><!-- end logoheader -->
+
+
+    <![endif]-->
+
+    <![if !IE ]>
+
+       <div class="logoheader">
+           <div id="logoheadingbig">
+           <p></p></div>
+
+          <h1 id="logo">
+
+                    <a href="http://www.iitk.ac.in/doaa/"><img src="/doaa/images/logo/DOAA.png" alt="" /></a>
+          
+                    <span class="header1">
+                    </span></h1>
+        </div><!-- end logoheader -->
+
+
+   <![endif]>
+
+                
+            <div id="main-menu"><div class="icemegamenu"><ul id="icemegamenu"><li id="iceMenu_907" class="iceMenuLiLevel_1"><a href="/doaa/dean-academic-affairs" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Our Team</span></a></li><li id="iceMenu_849" class="iceMenuLiLevel_1 parent"><a class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Academics</span></a><ul class="icesubMenu sub_level_1" style="width:280px"><li><div style="float:left;width:280px" class="iceCols"><ul><li id="iceMenu_935" class="iceMenuLiLevel_2"><a href="/doaa/academic-programmes" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Programmes</span></a></li><li id="iceMenu_895" class="iceMenuLiLevel_2"><a href="/doaa/academic-departments" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Academic Departments</span></a></li><li id="iceMenu_896" class="iceMenuLiLevel_2"><a href="/doaa/centres-and-facilities" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Centres &amp; Facilities</span></a></li><li id="iceMenu_897" class="iceMenuLiLevel_2 parent"><a href="/doaa/?Itemid=897" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Academic Calendars</span></a><ul class="icesubMenu sub_level_2" style="width:280px"><li><div style="float:left;width:280px" class="iceCols"><ul><li id="iceMenu_898" class="iceMenuLiLevel_3"><a href="/doaa/data/calendar2016.pdf" target="_blank" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Academic Calendar 2016</span></a></li><li id="iceMenu_899" class="iceMenuLiLevel_3"><a href="/doaa/data/calendar2015.pdf" target="_blank" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Academic Calendar 2015</span></a></li><li id="iceMenu_900" class="iceMenuLiLevel_3"><a href="https://www.google.com/calendar/embed?src=5fv2ggkjesmp80nkd6q4f3e1es%40group.calendar.google.com&amp;ctz=Asia/Calcutta" target="_blank" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Calendar on Google</span></a></li></ul></div></li></ul></li></ul></div></li></ul></li><li id="iceMenu_850" class="iceMenuLiLevel_1 parent"><a class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">UG Students</span></a><ul class="icesubMenu sub_level_1" style="width:280px"><li><div style="float:left;width:280px" class="iceCols"><ul><li id="iceMenu_853" class="iceMenuLiLevel_2"><a href="/doaa/under-graduate-programme" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Programmes</span></a></li><li id="iceMenu_854" class="iceMenuLiLevel_2"><a href="/doaa/admissions-ug" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Admissions</span></a></li><li id="iceMenu_855" class="iceMenuLiLevel_2 parent"><a class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">SUGC</span></a><ul class="icesubMenu sub_level_2" style="width:280px"><li><div style="float:left;width:280px" class="iceCols"><ul><li id="iceMenu_904" class="iceMenuLiLevel_3"><a href="/doaa/admissions-ug" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Functions of SUGC</span></a></li><li id="iceMenu_858" class="iceMenuLiLevel_3"><a href="/doaa/data/sugcmember.pdf" target="_blank" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">SUGC Members</span></a></li><li id="iceMenu_905" class="iceMenuLiLevel_3"><a href="#" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">SUGC Minutes</span></a></li><li id="iceMenu_856" class="iceMenuLiLevel_3"><a href="/doaa/sugc-forms" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">SUGC Forms</span></a></li></ul></div></li></ul></li><li id="iceMenu_861" class="iceMenuLiLevel_2"><a href="/doaa/data/calendar2016.pdf" target="_blank" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Academic Calendar</span></a></li><li id="iceMenu_862" class="iceMenuLiLevel_2"><a href="/doaa/ug-resources" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Resources</span></a></li></ul></div></li></ul></li><li id="iceMenu_851" class="iceMenuLiLevel_1 parent"><a class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">PG Students</span></a><ul class="icesubMenu sub_level_1" style="width:280px"><li><div style="float:left;width:280px" class="iceCols"><ul><li id="iceMenu_863" class="iceMenuLiLevel_2"><a href="/doaa/post-graduate-programme" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Programmes</span></a></li><li id="iceMenu_936" class="iceMenuLiLevel_2"><a href="/doaa/admissions-pg" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Admission Procedure</span></a></li><li id="iceMenu_864" class="iceMenuLiLevel_2 parent"><a class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Admissions</span></a><ul class="icesubMenu sub_level_2" style="width:280px"><li><div style="float:left;width:280px" class="iceCols"><ul><li id="iceMenu_865" class="iceMenuLiLevel_3"><a href="/doaa/post-graduate-admission" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">PG Admission criteria</span></a></li><li id="iceMenu_866" class="iceMenuLiLevel_3"><a href="/doaa/guidelines-for-admission-to-part-time-programme" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Part-Time Students</span></a></li><li id="iceMenu_869" class="iceMenuLiLevel_3"><a href="/doaa/guidelines-for-admission-to-external-registration-programme" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">External Students</span></a></li><li id="iceMenu_868" class="iceMenuLiLevel_3"><a href="/doaa/guidelines-for-admission-of-sponsored-candidates" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Sponsored Students</span></a></li><li id="iceMenu_867" class="iceMenuLiLevel_3"><a href="/doaa/guidelines-for-admission-of-foreign-students" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Foreign Students</span></a></li></ul></div></li></ul></li><li id="iceMenu_871" class="iceMenuLiLevel_2 parent"><a class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">SPGC</span></a><ul class="icesubMenu sub_level_2" style="width:280px"><li><div style="float:left;width:280px" class="iceCols"><ul><li id="iceMenu_906" class="iceMenuLiLevel_3"><a href="/doaa/functions-of-spgc" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Functions of SPGC</span></a></li><li id="iceMenu_873" class="iceMenuLiLevel_3"><a href="/doaa/data/spgcmembers.pdf" target="_blank" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">SPGC Members</span></a></li><li id="iceMenu_874" class="iceMenuLiLevel_3"><a href="/doaa/spgc-minutes-and-agenda" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">SPGC Minutes </span></a></li><li id="iceMenu_872" class="iceMenuLiLevel_3"><a href="/doaa/spgc-forms" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">SPGC Forms </span></a></li></ul></div></li></ul></li><li id="iceMenu_876" class="iceMenuLiLevel_2"><a href="/doaa/academic-calendar" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Academic Calendar</span></a></li><li id="iceMenu_877" class="iceMenuLiLevel_2"><a href="/doaa/pg-resources" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Resources</span></a></li></ul></div></li></ul></li><li id="iceMenu_1014" class="iceMenuLiLevel_1 parent"><a class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">eMasters Students</span></a><ul class="icesubMenu sub_level_1" style="width:280px"><li><div style="float:left;width:280px" class="iceCols"><ul><li id="iceMenu_1015" class="iceMenuLiLevel_2"><a href="/doaa/emasters-programme" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Programme</span></a></li><li id="iceMenu_1017" class="iceMenuLiLevel_2 parent"><a class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">SOPC</span></a><ul class="icesubMenu sub_level_2" style="width:280px"><li><div style="float:left;width:280px" class="iceCols"><ul><li id="iceMenu_1018" class="iceMenuLiLevel_3"><a href="/doaa/data/SOPC_Functions_updated.pdf" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Functions of SOPC</span></a></li><li id="iceMenu_1019" class="iceMenuLiLevel_3"><a href="/doaa/data/SOPC_members.pdf" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">SOPC Members</span></a></li><li id="iceMenu_1020" class="iceMenuLiLevel_3"><a href="/doaa/sopc-minutes" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">SOPC Minutes</span></a></li><li id="iceMenu_1021" class="iceMenuLiLevel_3"><a href="/doaa/sopc-forms" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">SOPC Forms</span></a></li><li id="iceMenu_1022" class="iceMenuLiLevel_3"><a class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">eMasters Manual/ Student Handbook</span></a></li></ul></div></li></ul></li><li id="iceMenu_1023" class="iceMenuLiLevel_2"><a href="/doaa/data/eMasters_Academic_calendars-2022_2023.pdf" target="_blank" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Academic Calendar</span></a></li></ul></div></li></ul></li><li id="iceMenu_921" class="iceMenuLiLevel_1 parent"><a class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Circulars</span></a><ul class="icesubMenu sub_level_1" style="width:280px"><li><div style="float:left;width:280px" class="iceCols"><ul><li id="iceMenu_922" class="iceMenuLiLevel_2"><a href="/doaa/internal-circulars" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Internal circulars</span></a></li><li id="iceMenu_923" class="iceMenuLiLevel_2"><a href="/doaa/external-circulars" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">External circulars</span></a></li></ul></div></li></ul></li></ul></div>  
+<script type="text/javascript">
+    window.addEvent('domready', function() {    
+		if(document.getElementById('icemegamenu')!= null)
+		var myMenu = new MenuMatic({id:'icemegamenu',
+			subMenusContainerId: 'subMenusContainer',
+			effect:'slide &amp; fade',
+			duration:600,
+			physics:Fx.Transitions.Pow.easeOut,
+			hideDelay:1000,
+			opacity:100                                            
+		});
+    });
+</script>
+</div>
+
+          <!--ul class="skiplinks">
+            <li><a href="#main" class="u2">Skip to content</a></li>
+            <li><a href="#nav" class="u2">Jump to main navigation and login</a></li>
+                      </ul>
+          <h2 class="unseen">Nav view search</h2>
+          <h3 class="unseen">Navigation</h3>
+          
+          <!--div id="line">
+          <div id="fontsize"></div>
+          <h3 class="unseen">Search</h3>
+          
+          </div> <!-- end line -->     
+    <div id="header-image">
+      
+          </div>
+     <div id ="hoverlogo"><!--h3>Office of International Relations</h3><p>Indian Institute of Technology Kanpur</p> <img src="/doaa/images/header_img/doaa.png" class="hoveringlogo" /--></div> 
+          </div><!-- end header -->
+        <div id="contentarea">
+          <div id="breadcrumbs">
+                    
+              
+<div class="breadcrumbs">
+<span class="showHere">You are here: </span><a href="/doaa/" class="pathway">Home</a> <img src="/doaa/templates/iitk/images/system/arrow.png" alt=""  /> <span>DEAN Academic Affairs</span></div>
+
+<script type="text/javascript">
+jQuery(document).ready(function(){	
+	jQuery('#btss-advanced').click(function(){
+	if (jQuery(".smartsearch-advanced:first").is(":hidden")) {
+		jQuery(".smartsearch-advanced").css('width','100%');			
+		jQuery("#btss-advanced ").css({'height':'28px','background':'#FFFFFF','border-left':'1px solid #CCCCCC','border-top':'1px solid #CCCCCC','border-right':'1px solid #CCCCCC'});		
+		jQuery(".smartsearch-advanced").slideDown("slow");
+		} else {
+		jQuery(".smartsearch-advanced").slideUp('slow');
+		jQuery("#btss-advanced").css({'border':'1px solid #FFFFFF','height':'18px'});	
+		}
+	});
+	jQuery(".smartsearch-advanced").hide();
+	  jQuery("#btss-advanced").hover(function () {
+		jQuery(this).append('<div class="tooltipsmartseach"><p> Advance search</p></div>');
+		jQuery('.tooltipsmartseach').css('background','#545454');
+		jQuery('.tooltipsmartseach >p').css('margin-left','5px');
+		jQuery('.tooltipsmartseach >p').css('margin-top','3px');
+	  }, function () {
+		jQuery("div.tooltipsmartseach").remove();
+	  });
+	jQuery('.inputboxsmart').data("placeholder","Select Frameworks...").chosen();	
+	
+	jQuery('#mod-bt-smartsearchword').keydown(function (event) {
+		if(jQuery('#mod-bt-smartsearchword').val()!=""){
+		var keypressed = event.keyCode || event.which;
+			if (keypressed == 13) {
+				$(this).closest('form').submit();
+			}
+		}
+	});
+	jQuery('.btnsearch').click(function(){
+		if(jQuery('#mod-bt-smartsearchword').val()!=""){
+			if(jQuery('#mod-bt-smartsearchword').val()!=""){			
+			var keypressed = event.keyCode || event.which;
+				if (keypressed == 13) {
+					$(this).closest('form').submit();
+				}
+			}
+			else{
+				return false;
+			}
+		}
+		else{
+			return false;
+		}
+	});
+	
+
+});
+</script>	
+<script type="text/javascript">
+	window.addEvent('domready', function() {	
+							var url = '/doaa/component/finder/?task=suggestions.display&format=json&tmpl=component';
+			var ModCompleter = new Autocompleter.Request.JSON(document.id('mod-bt-smartsearchword'), url, {'postVar': 'q'});
+		});
+</script>
+<form id="mod-bt-smartsearchform-122" action="/doaa/component/finder/search" method="get">
+	<div class="smartsearch ">
+		<div class="keyword">
+			<div class="borderinput"><input name="q" id="mod-bt-smartsearchword"  class="inputboxsearch" type="text" value=""  onblur="if (this.value=='') this.value='';" onfocus="if (this.value=='') this.value='';" /><a id ="btss-advanced"><img src="https://iitk.ac.in/doaa/modules/mod_bt_smartsearch/tmpl/images/config.jpg"  alt="config"/></a></div><button type="submit" class="btnsearch" >
+					<img src="https://iitk.ac.in/doaa/modules/mod_bt_smartsearch/tmpl/images/button.jpg" width="57" height="27" alt="submit" />
+			   </button>		</div>
+																
+					<div id="mod-smartsearch-advanced" class="smartsearch-advanced  ">
+						<div class="btsmartsearch"><div class="btsmartspace"><select  name="t[]" class="inputboxsmart"><option class="option-results" value="">Search by Category</option></select></div></div>														
+					</div>
+							<input type="hidden" name="Itemid" value="793" />		
+	</div>
+</form>
+
+
+          </div>
+          
+          
+          <div id="mail">
+                   
+             <a href="http://webmail.iitk.ac.in/" target="_blank">Webmail</a> | <a href="http://library.iitk.ac.in/" target="_blank">Library</a> | <a href="http://www.iitk.ac.in/" target="_blank">IITK Home</a> | <a href="http://www.iitk.ac.in/doaaold" target="_blank">Old Website</a>
+
+
+          </div>
+
+          
+          <div id="wrapper2" class="shownocolumns">
+
+            <div id="main">
+             
+              <marquee></marquee>
+
+              
+<div id="system-message-container">
+</div>
+              
+<div class="item-page">
+
+
+
+
+
+
+
+
+
+<h2><span style="color: #6a6a6a; font-family: Arial, Helvetica, sans-serif;">Dean, Academic Affairs</span></h2>
+<div id="contentHolder">
+<div class="column-first" style="opacity: 1;">
+<div class="smallcard" style="width: 260px; height: 280px; margin-bottom: 20px;"><a href="/doaa/dean-academic-affairs"><img class="cardimg" src="/doaa/images/Ashoke-De.jpg" border="0" style="border: 0;" /></a> <a href="/doaa/dean-academic-affairs"><strong>Professor Ashoke De </strong></a><a href="/doaa/dean-academic-affairs">Dean, Academic Affairs </a><a href="/doaa/dean-academic-affairs"> Indian Institute of Technology Kanpur</a><a href="/doaa/dean-academic-affairs"> Kanpur 208016</a><a href="/doaa/dean-academic-affairs"><br />Email: 
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy15676 = 'd&#111;&#97;&#97;' + '&#64;';
+ addy15676 = addy15676 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy15676 + '\'>');
+ document.write(addy15676);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></a></div>
+</div>
+<div class="column-sec" style="opacity: 1;">
+<div class="largecard" style="width: 460px; height: 280px; margin-bottom: 20px;">
+<h2>Functions of DOAA</h2>
+<hr /><a href="/doaa/functions-of-doaa"><img class="lrgcardsmallimg" src="/doaa/images/functions-of-doaa.jpg" border="0" width="112" height="80" style="border: 0;" /></a>
+<p><a href="/doaa/functions-of-doaa"><span style="text-align: justify;">DOAA is responsible for the implementation of the decisions taken on academic matters by the Senate and the Senate Under-Graduate and Post-Graduate Committees (SUGC and SPGC).</span></a></p>
+</div>
+</div>
+<div class="column-third" style="opacity: 1;">
+<div class="smallcard" style="width: 220px; height: 145px; margin-bottom: 20px;">
+<h2>Contact Information</h2>
+<hr />
+<p>Faculty Annex Building (DOAA), Level -4, IIT Kanpur<br /> Phone: +91-512-259/679 7674</p>
+</div>
+<div class="smallcard" style="width: 220px; height: 115px; margin-bottom: 20px;">
+<ul>
+<li><a href="/doaa/former-deans"><strong>Former Deans</strong></a></li>
+</ul>
+</div>
+</div>
+</div>
+<h2><span style="color: #5d5d5d; font-family: Arial, Helvetica, sans-serif;">Associate Dean, Academic Affairs</span></h2>
+<div id="contentHolder">
+<div class="column-first" style="opacity: 1;">
+<div class="smallcard" style="width: 260px; height: 280px; margin-bottom: 20px;"><a href="/doaa/dean-academic-affairs"><img class="cardimg" src="/doaa/images/abheejeet-mohapatra.jpg" border="0" style="border: 0;" /></a> <a href="/doaa/associate-dean-academic-affairs"><strong>Professor Abheejeet Mohapatra </strong></a><a href="/doaa/associate-dean-academic-affairs">Associate Dean, Academic Affairs </a><a href="/doaa/associate-dean-academic-affairs"> Indian Institute of Technology Kanpur</a><a href="/doaa/associate-dean-academic-affairs"> Kanpur 208016</a><a href="/doaa/associate-dean-academic-affairs"><br />Email: 
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy32004 = '&#97;d&#97;&#97;' + '&#64;';
+ addy32004 = addy32004 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy32004 + '\'>');
+ document.write(addy32004);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></a></div>
+</div>
+<div class="column-sec" style="opacity: 1;">
+<div class="largecard" style="width: 460px; height: 280px; margin-bottom: 20px;">
+<h2>Functions of ADAA</h2>
+<hr /><a href="/doaa/functions-of-adaa"><img class="lrgcardsmallimg" src="/doaa/images/functions-of-doaa.jpg" border="0" width="112" height="80" style="border: 0;" /></a>
+<p><a href="/doaa/functions-of-adaa"><span style="text-align: justify;">ADAA is responsible for coordinating the functioning of the various wings of the DOAA Team.</span></a></p>
+</div>
+</div>
+<div class="column-third" style="opacity: 1;">
+<div class="smallcard" style="width: 220px; height: 145px; margin-bottom: 20px;">
+<h2>Contact Information</h2>
+<hr />
+<p>Phone: +91-512-259/679 6559</p>
+</div>
+<div class="smallcard" style="width: 220px; height: 115px; margin-bottom: 20px;">
+<ul>
+<li><a href="/doaa/former-associate-dean"><strong>Former Associate Dean</strong></a></li>
+</ul>
+</div>
+</div>
+</div>
+<h2><span style="color: #5d5d5d; font-family: Arial, Helvetica, sans-serif;">Chairperson, SPGC</span></h2>
+<div id="contentHolder">
+<div class="column-first" style="opacity: 1;">
+<div class="smallcard" style="width: 260px; height: 280px; margin-bottom: 20px;"><a href="https://web.iitk.ac.in/july14doaan/"><img class="cardimg" src="/doaa/images/pritam-chakraborty.jpg" border="0" style="border: 0;" /></a> <a href="https://web.iitk.ac.in/july14doaan/"><strong>Professor Pritam Chakraborty </strong></a><a href="https://web.iitk.ac.in/july14doaan/">Chairperson, SPGC </a><a href="https://web.iitk.ac.in/july14doaan/"> Indian Institute of Technology Kanpur</a><a href="https://web.iitk.ac.in/july14doaan/"> Kanpur 208016</a><a href="https://web.iitk.ac.in/july14doaan/"><br />Email: 
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy32736 = 'spgc' + '&#64;';
+ addy32736 = addy32736 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy32736 + '\'>');
+ document.write(addy32736);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></a></div>
+</div>
+<div class="column-sec" style="opacity: 1;">
+<div class="largecard" style="width: 460px; height: 280px; margin-bottom: 20px;">
+<h2>Functions of SPGC<a href="/doaa/functions-of-spgc"></a></h2>
+<hr /><a href="/doaa/functions-of-spgc"><img class="lrgcardsmallimg" src="/doaa/images/functions-of-doaa.jpg" border="0" width="112" height="80" style="border: 0;" /></a> <!--<p><a href="/doaa/"><span style="text-align: justify;">SPGC is responsible for coordinating the functioning of the various wings of the DOAA Team.</span></a></p> --></div>
+</div>
+<div class="column-third" style="opacity: 1;">
+<div class="smallcard" style="width: 220px; height: 280px; margin-bottom: 20px;">
+<h2>Contact Information</h2>
+<hr /><!-- <a href="/july14doaan/associate-dean-contact-information"><img class="cardimg" src="/july14doaan/images/contact-information.jpg" border="0" width="112" height="80" style="border: 0;"></a><a href="/july14doaan/associate-dean-contact-information"></a> -->
+<p><strong>Phone:</strong> +91-512-259/679 7952</p>
+</div>
+</div>
+</div>
+<h2><span style="color: #5d5d5d; font-family: Arial, Helvetica, sans-serif;">Chairperson, SUGC</span></h2>
+<div id="contentHolder">
+<div class="column-first" style="opacity: 1;">
+<div class="smallcard" style="width: 260px; height: 280px; margin-bottom: 20px;"><a href="https://web.iitk.ac.in/july14doaan/"><img class="cardimg" src="/doaa/images/sagar-chakraborty.jpg" border="0" style="border: 0;" /></a> <a href="https://web.iitk.ac.in/july14doaan/"><strong>Professor Sagar Chakraborty</strong></a><a href="https://web.iitk.ac.in/july14doaan/">Chairperson, SUGC </a><a href="https://web.iitk.ac.in/july14doaan/"> Indian Institute of Technology Kanpur</a><a href="https://web.iitk.ac.in/july14doaan/"> Kanpur 208016</a><a href="https://web.iitk.ac.in/july14doaan/"><br />Email: 
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy12079 = 's&#117;gc' + '&#64;';
+ addy12079 = addy12079 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy12079 + '\'>');
+ document.write(addy12079);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></a></div>
+</div>
+<div class="column-sec" style="opacity: 1;">
+<div class="largecard" style="width: 460px; height: 280px; margin-bottom: 20px;">
+<h2>Functions of SUGC <a href="/doaa/functions-of-sugc"></a></h2>
+<hr /><a href="/doaa/functions-of-sugc"><img class="lrgcardsmallimg" src="/doaa/images/functions-of-doaa.jpg" border="0" width="112" height="80" style="border: 0;" /></a> <!--<p><a href="/doaa/"><span style="text-align: justify;">SUGC is responsible for coordinating the functioning of the various wings of the DOAA Team.</span></a></p> --></div>
+</div>
+<div class="column-third" style="opacity: 1;">
+<div class="smallcard" style="width: 220px; height: 280px; margin-bottom: 20px;">
+<h2>Contact Information</h2>
+<hr /><!-- <a href="/july14doaan/associate-dean-contact-information"><img class="cardimg" src="/july14doaan/images/contact-information.jpg" border="0" width="112" height="80" style="border: 0;"></a><a href="/july14doaan/associate-dean-contact-information"></a> -->
+<p><strong>Phone:</strong> +91-512-259/679 7954</p>
+</div>
+</div>
+</div>
+<h2><span style="color: #5d5d5d; font-family: Arial, Helvetica, sans-serif;">Institute Coordinator, PMRF</span></h2>
+<div id="contentHolder">
+<div class="column-first" style="opacity: 1;">
+<div class="smallcard" style="width: 260px; height: 280px; margin-bottom: 20px;"><a href="/doaa/pmrf/"><img class="cardimg" src="/doaa/images/soumya-ranjan-sahoo.jpg" border="0" style="border: 0;" /></a> <a href="/doaa/pmrf/"><strong>Professor Soumya Ranjan Sahoo </strong></a><a href="/doaa/associate-dean-academic-affairs">Institute Coordinator, PMRF </a><a href="/doaa/pmrf/"> Indian Institute of Technology Kanpur</a><a href="/doaa/pmrf/"> Kanpur 208016</a><a href="/doaa/pmrf/"><br />Email: </a>
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy87992 = 'pmrf' + '&#64;';
+ addy87992 = addy87992 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ var addy_text87992 = 'pmrf' + '&#64;' + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy87992 + '\'>');
+ document.write(addy_text87992);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></div>
+</div>
+<div class="column-sec" style="opacity: 1;">
+<div class="largecard" style="width: 460px; height: 280px; margin-bottom: 20px;">
+<h2>Functions of PMRF Coordinator</h2>
+<hr /><a href="/doaa/pmrf/"><img class="lrgcardsmallimg" src="/doaa/images/functions-of-doaa.jpg" border="0" width="112" height="80" style="border: 0;" /></a>
+<p><a href="/doaa/pmrf/"><span style="text-align: justify;">PMRF coordinator is responsible for ccoordinating various aspects of Prime Minister's Research Fellowship (PMRF). </span></a></p>
+</div>
+</div>
+<div class="column-third" style="opacity: 1;">
+<div class="smallcard" style="width: 220px; height: 280px; margin-bottom: 20px;">
+<h2>Contact Information</h2>
+<hr /><!-- <a href="/july14doaan/associate-dean-contact-information"><img class="cardimg" src="/july14doaan/images/contact-information.jpg" border="0" width="112" height="80" style="border: 0;"></a><a href="/july14doaan/associate-dean-contact-information"></a> -->
+<p><strong>Email:</strong> 
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy76368 = 'pmrf' + '&#64;';
+ addy76368 = addy76368 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy76368 + '\'>');
+ document.write(addy76368);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></p>
+</div>
+</div>
+</div>
+<h2><span style="color: #575757; font-family: Arial, Helvetica, sans-serif;">Other Officials</span></h2>
+<div id="contentHolder">
+<div class="column-first" style="opacity: 1;">
+<div class="smallcard" style="width: 960px; height: 6450px; margin-bottom: 20px;">
+<table width="960px" border="0" cellspacing="2">
+<tbody>
+<tr>
+<td valign="top" width="0"> </td>
+<td colspan="3" valign="top">
+<div class="tabletext"><hr />
+<h3 class="head2">Assistant Registrar</h3>
+</div>
+</td>
+<td valign="top" width="2"> </td>
+<td valign="top" width="227"><!--<div class="tabletext" style="background-color: #fdfdef;"><img class="right-border" src="/doaa/images/faculty-images/fac-right-column-top-border.png" border="0" /></div>--></td>
+</tr>
+<tr>
+<td valign="top" width="1"> </td>
+<td valign="top" width="130">
+<div class="frcard" style="width: 108px; height: 117px; margin-top: 5px;"><img class="smallcardimg" src="/doaa/images/KeertiRaj.jpg" border="0" width="90" height="95" style="border: 0;" /></div>
+</td>
+<td valign="top" width="15"> </td>
+<td valign="top" width="578">
+<div class="tabletext">
+<p>Mr. Keerti Raj<br /><br />Assistant Registrar<br />Faculty Annex Building (DOAA), Level -4,<br /> IIT Kanpur<br /> 
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy55325 = '&#111;ff&#105;c&#101;r1_&#97;c&#97;d' + '&#64;';
+ addy55325 = addy55325 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ var addy_text55325 = '&#111;ff&#105;c&#101;r1_&#97;c&#97;d' + '&#64;' + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy55325 + '\'>');
+ document.write(addy_text55325);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script><br /> Phone: +91-512-259/679 7288 (Off.) </p>
+<p><span style="line-height: 1.3em;"><br />Assists the Dean (Academic Affairs) by coordinating the entire work related to Academic Section. </span></p>
+</div>
+</td>
+<td valign="top" width="10"> </td>
+<td valign="top" width="230"> </td>
+</tr>
+<tr>
+<td valign="top" width="0"> </td>
+<td colspan="3" valign="top">
+<div class="tabletext"><hr />
+<h3 class="head2"><br /> Assistant Registrar</h3>
+</div>
+</td>
+<td valign="top" width="2"> </td>
+<td valign="top" width="227"> </td>
+</tr>
+<tr>
+<td valign="top" width="1"> </td>
+<td valign="top" width="130">
+<div class="frcard" style="width: 108px; height: 117px; margin-top: 5px;"><img class="smallcardimg" src="/doaa/images/Sarang_Shirish_Nandedkar.jpg" border="0" width="90" height="95" style="border: 0;" /> </div>
+</td>
+<td valign="top" width="15"> </td>
+<td valign="top" width="578">
+<div class="tabletext">
+<p>Mr. Sarang Shirish Nandedkar<br /><br /> Assistant Registrar<br />Faculty Annex Building (DOAA), Level -4,<br /> IIT Kanpur<br /> 
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy30373 = '&#111;ff&#105;c&#101;r2_&#97;c&#97;d' + '&#64;';
+ addy30373 = addy30373 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy30373 + '\'>');
+ document.write(addy30373);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script><br /> Phone: +91-512-259/679 2333 (Off.)</p>
+<p><br />Assists the Dean by supervising and monitoring the entire work related to Academic Section.</p>
+</div>
+</td>
+<td valign="top" width="10"> </td>
+<td valign="top" width="230"> </td>
+</tr>
+</tbody>
+</table>
+<hr />
+<div class="tabletext">
+<p><strong>Please contact the following based on the requirement for a speedy resolution.</strong></p>
+<ul>
+<li style="background: none!important;">
+<p>First, contact your department office to know the status of any requests, letters, applications, leave-related queries, rules, procedures, etc. Please contact the DUGC and DPGC conveners of your department for academic-related matters.</p>
+</li>
+<li style="background: none!important;">
+<p>If unresolved, please send an e-mail on following E-mail IDs based on the requirements.</p>
+</li>
+<li style="background: none!important;">
+<p>Please visit DOAA office during 3-5 PM on working days if required.</p>
+</li>
+</ul>
+<center>
+<table style="width: 80%; border-collapse: collapse;" border="1">
+<tbody>
+<tr>
+<td colspan="3">
+<p><strong>PG Related Matters</strong></p>
+</td>
+</tr>
+<tr>
+<td width="400">
+<p><strong>Issue</strong></p>
+</td>
+<td>
+<p><strong>E-mail</strong></p>
+</td>
+<td>
+<p><strong>Phone </strong><br /> (0512-259/679-XXXX)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Issues related to registration</p>
+</td>
+<td>
+<p>
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy61797 = 'pgd&#101;sk' + '&#64;';
+ addy61797 = addy61797 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ var addy_text61797 = 'pgd&#101;sk' + '&#64;' + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy61797 + '\'>');
+ document.write(addy_text61797);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></p>
+</td>
+<td>
+<p>7199</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SPGC related/Academic leave related request</p>
+</td>
+<td>
+<p>
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy78945 = 'pgd&#101;sk' + '&#64;';
+ addy78945 = addy78945 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ var addy_text78945 = 'pgd&#101;sk' + '&#64;' + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy78945 + '\'>');
+ document.write(addy_text78945);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></p>
+</td>
+<td>
+<p>7199</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Travel related/Any other issues</p>
+</td>
+<td>
+<p>
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy71172 = 'pg_&#111;ff&#105;c&#101;' + '&#64;';
+ addy71172 = addy71172 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ var addy_text71172 = 'pg_&#111;ff&#105;c&#101;' + '&#64;' + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy71172 + '\'>');
+ document.write(addy_text71172);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></p>
+</td>
+<td>
+<p>7950</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Plagiarism prevention desk (Thesis Processing Cell)</p>
+</td>
+<td>
+<p>
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy402 = 'ppd_d&#111;&#97;&#97;' + '&#64;';
+ addy402 = addy402 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ var addy_text402 = 'ppd_d&#111;&#97;&#97;' + '&#64;' + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy402 + '\'>');
+ document.write(addy_text402);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></p>
+</td>
+<td>
+<p>2107</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>M.Tech and their Thesis Processing (All departments)including DoAA stamp on thesis certificate page and Authentication form to DOAA office for signature.</p>
+</td>
+<td>
+<p>
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy34112 = 'mt&#101;ch_th&#101;s&#105;s' + '&#64;';
+ addy34112 = addy34112 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy34112 + '\'>');
+ document.write(addy34112);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></p>
+</td>
+<td>
+<p>4877</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>MS-Research / M.Des/ MBA and their Thesis Processing including DoAA stamp on thesis certificate page and Authentication form to DOAA office for signature.</p>
+</td>
+<td>
+<p>
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy15438 = 'mt&#101;ch_th&#101;s&#105;s2' + '&#64;';
+ addy15438 = addy15438 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ var addy_text15438 = 'mt&#101;ch_th&#101;s&#105;s2' + '&#64;' + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy15438 + '\'>');
+ document.write(addy_text15438);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></p>
+</td>
+<td>
+<p>2414</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>MSc &amp; MSc-PhD related issues</p>
+</td>
+<td>
+<p>
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy4548 = 'mscd&#101;sk' + '&#64;';
+ addy4548 = addy4548 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ var addy_text4548 = 'mscd&#101;sk' + '&#64;' + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy4548 + '\'>');
+ document.write(addy_text4548);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></p>
+</td>
+<td>
+<p>2414</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Ph.D Desk-1 </strong></p>
+<p>Thesis Processing and PhD related work of BSBE, CHM, CGS, ECO, HSS, MTH, SDS including DoAA stamp on thesis certificate page and Authentication form to DOAA office for signature.</p>
+</td>
+<td>
+<p><a href="mailto:
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy41261 = 'phd1' + '&#64;';
+ addy41261 = addy41261 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy41261 + '\'>');
+ document.write(addy41261);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script>,%
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy27729 = '20phd2' + '&#64;';
+ addy27729 = addy27729 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy27729 + '\'>');
+ document.write(addy27729);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script>">
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy35342 = 'phd1' + '&#64;';
+ addy35342 = addy35342 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy35342 + '\'>');
+ document.write(addy35342);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script> </a></p>
+</td>
+<td>
+<p>6120</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Ph.D Desk-2 </strong></p>
+<p>Thesis Processing and PhD related work of AE, CHE, CE, CSE, ES, EE, NET including DoAA stamp on thesis certificate page and Authentication form to DOAA office for signature.</p>
+</td>
+<td>
+<p>
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy35388 = 'phd2' + '&#64;';
+ addy35388 = addy35388 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy35388 + '\'>');
+ document.write(addy35388);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></p>
+</td>
+<td>
+<p>6120</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Ph.D Desk-3 </strong></p>
+<p>Thesis Processing and PhD related work of ME, PHY, DES, IME/DoMS, MSE, MSP, PSE, SEE, SPASE, KSS, IS including DoAA stamp on thesis certificate page and Authentication form to DOAA office for signature.</p>
+</td>
+<td>
+<p>
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy2162 = 'phd3' + '&#64;';
+ addy2162 = addy2162 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy2162 + '\'>');
+ document.write(addy2162);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></p>
+</td>
+<td>
+<p>6120</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Leave module related in Pingala portal</p>
+</td>
+<td>
+<p>
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy75607 = 'p&#105;ng&#97;l&#97;' + '&#64;';
+ addy75607 = addy75607 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ var addy_text75607 = 'p&#105;ng&#97;l&#97;' + '&#64;' + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy75607 + '\'>');
+ document.write(addy_text75607);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></p>
+</td>
+<td>
+<p>6803/6805</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Admission/Withdrawal related issues</p>
+</td>
+<td>
+<p>
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy66828 = '&#97;dm&#105;ss&#105;&#111;nd&#101;sk' + '&#64;';
+ addy66828 = addy66828 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ var addy_text66828 = '&#97;dm&#105;ss&#105;&#111;nd&#101;sk' + '&#64;' + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy66828 + '\'>');
+ document.write(addy_text66828);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></p>
+</td>
+<td>
+<p>2403/2414</p>
+</td>
+</tr>
+</tbody>
+</table>
+<br />
+<table style="width: 80%; border-collapse: collapse;" border="1">
+<tbody>
+<tr>
+<td colspan="3">
+<p><strong>FARE Related Matters</strong></p>
+</td>
+</tr>
+<tr>
+<td width="400">
+<p><strong>Issue</strong></p>
+</td>
+<td>
+<p><strong>E-mail</strong></p>
+</td>
+<td>
+<p><strong>Phone </strong><br /> (0512-259/679-XXXX)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>FARE related request</p>
+</td>
+<td>
+<p>
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy37630 = 'f&#97;r&#101;' + '&#64;';
+ addy37630 = addy37630 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ var addy_text37630 = 'f&#97;r&#101;' + '&#64;' + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy37630 + '\'>');
+ document.write(addy_text37630);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></p>
+</td>
+<td>
+<p>2403</p>
+</td>
+</tr>
+</tbody>
+</table>
+<br />
+<table style="width: 80%; border-collapse: collapse;" border="1">
+<tbody>
+<tr>
+<td colspan="3">
+<p><strong>UG Related Matters</strong></p>
+</td>
+</tr>
+<tr>
+<td width="400">
+<p><strong>Concern Person and Issue</strong></p>
+</td>
+<td>
+<p><strong>E-mail</strong></p>
+</td>
+<td>
+<p><strong>Phone </strong><br />(0512-259/679-XXXX)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mr. Gaurav Yadav<br />SUGC related matters, registration and other queries</p>
+</td>
+<td>
+<p>
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy55293 = '&#117;g_&#111;ff&#105;c&#101;' + '&#64;';
+ addy55293 = addy55293 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy55293 + '\'>');
+ document.write(addy55293);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></p>
+</td>
+<td>
+<p>7669</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ms. Veenu Misra<br />Y25 (BT/BS), Non-Degree</p>
+</td>
+<td>
+<p>
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy23379 = '&#117;g5' + '&#64;';
+ addy23379 = addy23379 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy23379 + '\'>');
+ document.write(addy23379);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></p>
+</td>
+<td>
+<p>7235</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mr. Rohit Patel<br />BT/BS (upto Y21) &amp; M.Sc (upto Y22)<br />Y26 (BT/BS/BCy)</p>
+</td>
+<td>
+<p>
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy57486 = '&#117;g1' + '&#64;';
+ addy57486 = addy57486 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy57486 + '\'>');
+ document.write(addy57486);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script><br />
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy17089 = '&#117;g6' + '&#64;';
+ addy17089 = addy17089 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy17089 + '\'>');
+ document.write(addy17089);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></p>
+</td>
+<td>
+<p>7946</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ms. Priya Jaiswal<br />Y23 (BT/BS), SUGC and RTI</p>
+</td>
+<td>
+<p>
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy2324 = '&#117;g3' + '&#64;';
+ addy2324 = addy2324 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy2324 + '\'>');
+ document.write(addy2324);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script>                      
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy28658 = '&#117;g_&#111;ff&#105;c&#101;' + '&#64;';
+ addy28658 = addy28658 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy28658 + '\'>');
+ document.write(addy28658);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></p>
+</td>
+<td>
+<p>7669</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mr. Deepankar Chandra<br />Y22 (BT/BS), SUGC and Dual Degree</p>
+</td>
+<td>
+<p>
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy17491 = '&#117;g2' + '&#64;';
+ addy17491 = addy17491 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy17491 + '\'>');
+ document.write(addy17491);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script><br />
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy17761 = 'd&#117;&#97;ld&#101;gr&#101;&#101;' + '&#64;';
+ addy17761 = addy17761 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy17761 + '\'>');
+ document.write(addy17761);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></p>
+</td>
+<td>
+<p>6864</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mr. Suresh Gupta <br /> Y24 (BT/BS), Degree- Dispatch and No Dues related queries</p>
+</td>
+<td>
+<p>
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy33205 = '&#117;g4' + '&#64;';
+ addy33205 = addy33205 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy33205 + '\'>');
+ document.write(addy33205);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></p>
+</td>
+<td>
+<p>4743</p>
+</td>
+</tr>
+</tbody>
+</table>
+<br />
+<table style="width: 80%; border-collapse: collapse;" border="1">
+<tbody>
+<tr>
+<td colspan="3">
+<p><strong>Certificate Related Matters (UG and PG)</strong></p>
+</td>
+</tr>
+<tr>
+<td width="400">
+<p><strong>Issue</strong></p>
+</td>
+<td>
+<p><strong>E-mail</strong></p>
+</td>
+<td>
+<p><strong>Phone </strong><br /> (0512-259/679-XXXX)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Transcripts, Grade sheets, Winter and Summer NOC, medium of instructions, CPI to percentage conversion, Duplicate grade-sheet, Bona fide certificate, pass out Bonafide certificate, Verification of Degree and/or certificate, Misc. Certificate etc. issuance related requests</p>
+</td>
+<td>
+<p>
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy93097 = 'c&#101;rt&#105;f&#105;c&#97;t&#101;' + '&#64;';
+ addy93097 = addy93097 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy93097 + '\'>');
+ document.write(addy93097);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></p>
+</td>
+<td>
+<p>7044</p>
+</td>
+</tr>
+</tbody>
+</table>
+<br />
+<table style="border-collapse: collapse;" width="80%" border="1">
+<tbody>
+<tr>
+<td colspan="3">
+<p><strong>OARS Related Matters</strong></p>
+</td>
+</tr>
+<tr>
+<td width="400">
+<p><strong>Issue</strong></p>
+</td>
+<td>
+<p><strong>E-mail</strong></p>
+</td>
+<td>
+<p><strong>Phone </strong><br /> (0512-259/679-XXXX)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Course Templates &amp; Timetables- Entry and Verification</p>
+</td>
+<td>
+<p>
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy11538 = 'c&#111;&#117;rs&#101;s' + '&#64;';
+ addy11538 = addy11538 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ var addy_text11538 = 'c&#111;&#117;rs&#101;s' + '&#64;' + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy11538 + '\'>');
+ document.write(addy_text11538);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></p>
+</td>
+<td>
+<p>7020</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Online Academic Registration (Pre-registration &amp; Add-drop)</p>
+</td>
+<td>
+<p>
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy99698 = 'c&#111;&#117;rs&#101;s' + '&#64;';
+ addy99698 = addy99698 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ var addy_text99698 = 'c&#111;&#117;rs&#101;s' + '&#64;' + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy99698 + '\'>');
+ document.write(addy_text99698);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></p>
+</td>
+<td>
+<p>7020/ 6867</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Course Aliases</p>
+</td>
+<td>
+<p>
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy87344 = 'c&#111;&#117;rs&#101;s' + '&#64;';
+ addy87344 = addy87344 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ var addy_text87344 = 'c&#111;&#117;rs&#101;s' + '&#64;' + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy87344 + '\'>');
+ document.write(addy_text87344);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></p>
+</td>
+<td>
+<p>6867/7020</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Student Feedback Survey</p>
+</td>
+<td>
+<p>
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy36458 = 'c&#111;&#117;rs&#101;s' + '&#64;';
+ addy36458 = addy36458 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ var addy_text36458 = 'c&#111;&#117;rs&#101;s' + '&#64;' + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy36458 + '\'>');
+ document.write(addy_text36458);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></p>
+</td>
+<td>
+<p>7020</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Examinations Scheduling (Mid &amp; End Semesters)</p>
+</td>
+<td>
+<p>
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy27491 = '&#111;&#97;rs' + '&#64;';
+ addy27491 = addy27491 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ var addy_text27491 = '&#111;&#97;rs_&#111;ff&#105;c&#101;' + '&#64;' + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy27491 + '\'>');
+ document.write(addy_text27491);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></p>
+</td>
+<td>
+<p>7020/6867</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Grade Portal and Submission of Grades</p>
+</td>
+<td>
+<p>
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy34360 = '&#111;&#97;rs' + '&#64;';
+ addy34360 = addy34360 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ var addy_text34360 = '&#111;&#97;rs_&#111;ff&#105;c&#101;' + '&#64;' + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy34360 + '\'>');
+ document.write(addy_text34360);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></p>
+</td>
+<td>
+<p>6867/7020</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Student’s No-dues Related</p>
+</td>
+<td>
+<p>
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy11587 = 'n&#111;d&#117;&#101;s' + '&#64;';
+ addy11587 = addy11587 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ var addy_text11587 = 'n&#111;d&#117;&#101;s' + '&#64;' + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy11587 + '\'>');
+ document.write(addy_text11587);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></p>
+</td>
+<td>
+<p>7020</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+</center>
+<h3 class="head2" style="padding-left: 15px;"><br /><span style="text-decoration: underline;">PG SECTION</span></h3>
+<p style="text-align: justify;">The goals of the postgraduate programmes at the Indian Institute of Technology Kanpur are: The development of scientific and engineering manpower of the highest quality, to cater to the needs of industry, R &amp; D organizations and educational institutions, a broad grasp of the fundamental principles of the sciences and scientific methods, a deep understanding of the area of specialization, an innovative ability to solve new problems, and a capacity to learn continually and interact with multidisciplinary groups. Above all, the students should have a capacity for free and objective enquiry, courage and integrity, awareness and sensitivity to the needs and aspirations of society. With these goals in view, the postgraduate programmes are designed to include courses of study, seminars and project/thesis through which a student may develop his/her concepts and intellectual skills.</p>
+<p>The procedures and requirements stated in this manual embody the philosophy of the postgraduate education and ensure a high standard of performance at the Institute. Within this general framework, subject to the approval of the Senate Postgraduate Committee (SPGC), the various departments and programmes may impose such additional requirements as will serve their particular academic goals.</p>
+<p><strong>The institute offers various postgraduate programs, including M.TECH, MS, M.Des, MBA, VLFM, DIIT, Ph.D., M.Sc. (2-year), and M.Sc. - Ph.D. Dual Degree. </strong></p>
+<p>Admission to this programme may be made directly based on the GATE scores of the candidates and performance in the qualifying examination, and in addition, some of the candidates may also be called for written tests and/or interviews. The Senate Postgraduate Committee (SPGC), established according to the bylaws of the Senate, operates through the Departmental Postgraduate Committees (DPGCs) to administer all aspects of the above programmes. </p>
+<p>For detailed information about all post-graduate programmes, please refer to PG manual <a href="/doaa/data/PG-Manual.pdf" style="display: inline; padding-left: 0;">(Link)</a></p>
+<p><strong>For any queries related to the above please contact section-in-charge Mr. Radha Saran Satsangi at </strong><a href="mailto:
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy84589 = 'pgd&#101;sk' + '&#64;';
+ addy84589 = addy84589 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy84589 + '\'>');
+ document.write(addy84589);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script>" style="display: inline!important; padding-left: 0!important;"><strong>pgdesk[AT]iitk.ac.in</strong></a></p>
+<table width="85%">
+<tbody>
+<tr>
+<td valign="top" height="133"> </td>
+<td valign="top">
+<div class="frcard" style="width: 108px; height: 117px; margin-top: 5px;"><img class="smallcardimg" src="/doaa/images/radha-saran-satsangi.jpg" border="0" alt="" width="90" height="95" style="border: 0;" /></div>
+</td>
+<td valign="top"> </td>
+<td valign="top">
+<div class="tabletext">
+<h3 class="head3">Mr. Radha Saran Satsangi<br /> (Sr. Superintendent)</h3>
+<p><br /> Phone: 0512-259/679 6516</p>
+</div>
+</td>
+<td valign="top" height="133"> </td>
+<td valign="top">
+<div class="frcard" style="width: 108px; height: 117px; margin-top: 5px;"><img class="smallcardimg" src="/doaa/images/Piyus- Bajaj.jpg" border="0" alt="" width="90" height="95" style="border: 0;" /></div>
+</td>
+<td valign="top"> </td>
+<td valign="top">
+<div class="tabletext">
+<h3 class="head3">Mr. Piyush Bajaj<br /> (Jr. Superintendent)</h3>
+<p><br /> Phone: 0512-259/679 7199</p>
+</div>
+</td>
+</tr>
+<tr>
+<td valign="top" height="133"> </td>
+<td valign="top">
+<div class="frcard" style="width: 108px; height: 117px; margin-top: 5px;"><img class="smallcardimg" src="/doaa/images/Divya-Prakash.jpg" border="0" alt="" width="90" height="95" style="border: 0;" /></div>
+</td>
+<td valign="top"> </td>
+<td valign="top">
+<div class="tabletext">
+<h3 class="head3">Mr. Divya Prakash<br /> (Jr. Assistant)</h3>
+<p><br />Phone: 0512-259/679 4877</p>
+</div>
+</td>
+<td valign="top" height="133"> </td>
+<td valign="top">
+<div class="frcard" style="width: 108px; height: 117px; margin-top: 5px;"><img class="smallcardimg" src="/doaa/images/Utkarsh-Singh.jpg" border="0" alt="" width="90" height="95" style="border: 0;" /></div>
+</td>
+<td valign="top"> </td>
+<td valign="top">
+<div class="tabletext">
+<h3 class="head3">Mr. Utkarsh Singh<br /> (Jr. Assistant)</h3>
+<p><br /> Phone: 0512- 259/679 6120</p>
+</div>
+</td>
+</tr>
+<tr>
+<td valign="top" height="133"> </td>
+<td valign="top">
+<div class="frcard" style="width: 108px; height: 117px; margin-top: 5px;"><img class="smallcardimg" src="/doaa/images/Shubham-Yadav.jpg" border="0" alt="" width="90" height="95" style="border: 0;" /></div>
+</td>
+<td valign="top"> </td>
+<td valign="top">
+<div class="tabletext">
+<h3 class="head3">Mr. Shubham Yadav<br /> (Jr. Assistant)</h3>
+<p><br /> Phone: 0512-259/679 6120</p>
+</div>
+</td>
+<td valign="top" height="133"> </td>
+<td valign="top">
+<div class="frcard" style="width: 108px; height: 117px; margin-top: 5px;"><img class="smallcardimg" src="/doaa/images/Rakesh-Kumar.jpg" border="0" alt="" width="90" height="95" style="border: 0;" /></div>
+</td>
+<td valign="top"> </td>
+<td valign="top">
+<div class="tabletext">
+<h3 class="head3">Mr. Rakesh Kumar<br /> (Jr. Assistant)</h3>
+<p><br /> Phone: 0512-259/679 2107</p>
+</div>
+</td>
+</tr>
+<tr>
+<td valign="top" height="133"> </td>
+<td valign="top">
+<div class="frcard" style="width: 108px; height: 117px; margin-top: 5px;"><img class="smallcardimg" src="/doaa/images/Niraj-Pandey.jpg" border="0" alt="" width="90" height="95" style="border: 0;" /></div>
+</td>
+<td valign="top"> </td>
+<td valign="top">
+<div class="tabletext">
+<h3 class="head3">Mr. Niraj Pandey<br /> (Jr. Assistant)</h3>
+<p><br /> Phone: 0512-259/679 7199</p>
+</div>
+</td>
+<td valign="top" height="133"> </td>
+<td valign="top">
+<div class="frcard" style="width: 108px; height: 117px; margin-top: 5px;"><img class="smallcardimg" src="/doaa/images/Ankit-Upadhyay.jpg" border="0" alt="" width="90" height="95" style="border: 0;" /></div>
+</td>
+<td valign="top"> </td>
+<td valign="top">
+<div class="tabletext">
+<h3 class="head3">Mr. Ankit Upadhyay<br /> (Dy. Proj. Manager)</h3>
+<p><br /> Phone: 0512-259/679 7950</p>
+</div>
+</td>
+</tr>
+<tr>
+<td valign="top" height="133"> </td>
+<td valign="top">
+<div class="frcard" style="width: 108px; height: 117px; margin-top: 5px;"><img class="smallcardimg" src="/doaa/images/Naveen-Kumar.jpg" border="0" alt="" width="90" height="95" style="border: 0;" /></div>
+</td>
+<td valign="top"> </td>
+<td valign="top">
+<div class="tabletext">
+<h3 class="head3">Mr. Naveen Kumar<br /> (Project Assistant)</h3>
+<p><br /> Phone: 0512-259/679 6120</p>
+</div>
+</td>
+<td valign="top" height="133"> </td>
+<td valign="top"><!--<div class="frcard" style="width: 108px; height: 117px; margin-top: 5px;"><img class="smallcardimg" src="/doaa/images/Ankit-Upadhyay.jpg" border="0" alt="" width="90" height="95" style="border: 0;" /></div>
+</td>
+<td valign="top"> </td>
+<td valign="top">
+<div class="tabletext">
+<h3 class="head3">Mr. Ankit Upadhyay<br /> (Dy. Proj. Manager)</h3>
+<p><br /> Phone: 0512-259/679 7950</p>
+</div>--></td>
+</tr>
+</tbody>
+</table>
+<h3 class="head2" style="padding-left: 15px;"><br /><span style="text-decoration: underline;">UG SECTION</span></h3>
+<p>The objectives of the undergraduate programmes are:</p>
+<ul>
+<li style="background: none!important;">
+<p>to provide the highest level of education in technology and science and to produce competent, creative and imaginative engineers and scientists,</p>
+</li>
+<li style="background: none!important;">
+<p>to promote a spirit of free and objective enquiry in different fields of knowledge,</p>
+</li>
+<li style="background: none!important;">
+<p>to make a significant contribution towards the development of skilled technical manpower, and</p>
+</li>
+<li style="background: none!important;">
+<p>to create an intellectual reservoir to meet the growing demands of the nation.</p>
+</li>
+</ul>
+<p>The undergraduate programmes are designed to achieve these objectives and to inculcate in the student concepts and intellectual skills, courage and integrity, awareness of and sensitivity to the needs and aspirations of the society. The institute offers the following under graduate programmes:</p>
+<ul>
+<li style="background: none!important;">
+<p><strong>BACHELOR OF TECHNOLOGY (B.TECH.)</strong></p>
+</li>
+<li style="background: none!important;">
+<p><strong>BACHELOR OF SCIENCE (B.S.)</strong></p>
+</li>
+<li style="background: none!important;">
+<p><strong>MULTIDISCIPLINARY PROGRAMMES: Admission through Branch/Programme Change option by existing enrolled students</strong><strong>BACHELOR OF TECHNOLOGY (B.TECH.)</strong></p>
+</li>
+<li style="background: none!important;">
+<p><strong>DUAL DEGREE PROGRAMMES</strong></p>
+</li>
+<li style="background: none!important;">
+<p><strong>NON-DEGREE PROGRAMMES</strong></p>
+</li>
+</ul>
+<p>For detailed information about all under-graduate programmes, please refer to UG manual <a href="/doaa/data/UG-Manual.pdf" style="display: inline; padding-left: 0px;">(Link)</a></p>
+<p><strong>For any queries related to the above please contact UG Office at </strong><a href="mailto:
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy70835 = '&#117;g_&#111;ff&#105;c&#101;' + '&#64;';
+ addy70835 = addy70835 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy70835 + '\'>');
+ document.write(addy70835);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script>" style="display: inline; padding-left: 0px;"><strong>ug_office[AT]iitk.ac.in </strong></a></p>
+<table width="85%">
+<tbody>
+<tr>
+<td valign="top" height="133"> </td>
+<td valign="top">
+<div class="frcard" style="width: 108px; height: 117px; margin-top: 5px;"><img class="smallcardimg" src="/doaa/images/GauravYadav.png" border="0" alt="" width="92" height="97" style="border: 0;" /></div>
+</td>
+<td valign="top"> </td>
+<td valign="top">
+<div class="tabletext">
+<h3 class="head3">Mr. Gaurav Yadav<br /> (Superintendent)</h3>
+<p><br /> Phone: 0512-259/679 7669</p>
+</div>
+</td>
+<td valign="top" height="133"> </td>
+<td valign="top">
+<div class="frcard" style="width: 108px; height: 117px; margin-top: 5px;"><img class="smallcardimg" src="/doaa/images/Veenu-Mishra.jpg" border="0" alt="" width="90" height="95" style="border: 0;" /></div>
+</td>
+<td valign="top"> </td>
+<td valign="top">
+<div class="tabletext">
+<h3 class="head3">Mrs. Veenu Mishra<br /> (Jr. Superintendent)</h3>
+<p><br />Phone: 0512-259/679 7235</p>
+</div>
+</td>
+</tr>
+<tr>
+<td valign="top" height="133"> </td>
+<td valign="top">
+<div class="frcard" style="width: 108px; height: 117px; margin-top: 5px;"><img class="smallcardimg" src="/doaa/images/Rohit-Kumar-Patel.jpg" border="0" alt="" width="90" height="95" style="border: 0;" /></div>
+</td>
+<td valign="top"> </td>
+<td valign="top">
+<div class="tabletext">
+<h3 class="head3">Mr. Rohit Kumar Patel<br />(Sr. Assistant)</h3>
+<p style="color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: 400;"><br />Phone: 0512-259/679 7946</p>
+</div>
+</td>
+<td valign="top" height="133"> </td>
+<td valign="top">
+<div class="frcard" style="width: 108px; height: 117px; margin-top: 5px;"><img class="smallcardimg" src="/doaa/images/deepankar.jpg" border="0" alt="" width="90" height="95" style="border: 0;" /></div>
+</td>
+<td valign="top"> </td>
+<td valign="top">
+<div class="tabletext">
+<h3 class="head3">Mr. Deepankar Chandra<br /> (Jr. Assistant)</h3>
+<p><br /> Phone: 0512-259/679 6864</p>
+</div>
+</td>
+</tr>
+<tr>
+<td valign="top" height="133"> </td>
+<td valign="top">
+<div class="frcard" style="width: 108px; height: 117px; margin-top: 5px;"><img class="smallcardimg" src="/doaa/images/Priya-Jaiswal.jpg" border="0" alt="" width="90" height="95" style="border: 0;" /></div>
+</td>
+<td valign="top"> </td>
+<td valign="top">
+<div class="tabletext">
+<h3 class="head3">Ms. Priya Jaiswal<br /> (Jr. Assistant)</h3>
+<p><br /> Phone: 0512-259/679 7235</p>
+</div>
+</td>
+<td valign="top" height="133"> </td>
+<td valign="top">
+<div class="frcard" style="width: 108px; height: 117px; margin-top: 5px;"><img class="smallcardimg" src="/doaa/images/Suresh-Kumar-Gupta.jpg" border="0" alt="" width="90" height="95" style="border: 0;" /></div>
+</td>
+<td valign="top"> </td>
+<td valign="top">
+<div class="tabletext">
+<div class="tabletext">
+<h3 class="head3">Mr. Suresh Kumar Gupta<br /> (Jr. Assistant)</h3>
+<p><br /> Phone: 0512-259/679 4743</p>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 class="head2" style="padding-left: 15px;"><br /><span style="text-decoration: underline;">ADMISSION DESK</span></h3>
+<p style="text-align: justify;">The academic session of the Institute is divided into three parts: two regular semesters and a summer term. The first semester will normally commence in the last week of July every year, and the second in the first week of January. The summer term will run from the middle of May to the middle of July.</p>
+<p style="text-align: justify;">The admissions to the M.Tech/M.Des/M.S. by Research and Ph.D. programmes may be made in either or both of the two regular semesters. Admission to the D.IIT. programme may be made once in a year but in either semester. The Head of the Department concerned may take the decision in this regard. Admissions to MBA programme are made once a year in the first semester.</p>
+<p style="text-align: justify;">Admissions to the M.Tech/M.Des/M.S. by Research and Ph.D. programmes are normally made in April-May for the first semester and in November-December for the second semester. Admissions to the MBA program are normally made in March-April. The Dean of Academic Affairs will notify the admission calendar each semester.</p>
+<p style="text-align: justify;">In addition, the department may process applications for admissions to Ph.D. Programmes on a continuous basis and admit students as per the existing procedure. The candidates admitted during the course of a semester, would be required to register for thesis with proportionate reduction in credits.</p>
+<p style="text-align: justify;"><strong>For any queries related to the above please contact section-in-charge Mr. Atul S Kushwaha at </strong><a href="mailto:
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy4634 = '&#97;dm&#105;ss&#105;&#111;nd&#101;sk' + '&#64;';
+ addy4634 = addy4634 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy4634 + '\'>');
+ document.write(addy4634);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script>%20" style="display: inline; padding-left: 0px;"><strong>admissiondesk[AT]iitk.ac.in </strong></a></p>
+<table width="85%">
+<tbody>
+<tr>
+<td valign="top" height="133"> </td>
+<td valign="top">
+<div class="frcard" style="width: 108px; height: 117px; margin-top: 5px;"><img class="smallcardimg" src="/doaa/images/atul-singh-kushwaha.jpg" border="0" alt="" width="90" height="95" style="border: 0;" /></div>
+</td>
+<td valign="top"> </td>
+<td valign="top">
+<div class="tabletext">
+<h3 class="head3">Mr. Atul S Kushwaha<br /> (Sr. Assistant)</h3>
+<p><br />Phone: 0512-259/679 2414</p>
+</div>
+</td>
+<td valign="top" height="133"> </td>
+<td valign="top">
+<div class="frcard" style="width: 108px; height: 117px; margin-top: 5px;"><img class="smallcardimg" src="/doaa/images/Amarnath-Sinha.jpg" border="0" alt="" width="90" height="95" style="border: 0;" /></div>
+</td>
+<td valign="top"> </td>
+<td valign="top">
+<div class="tabletext">
+<h3 class="head3">Mr. Amarnath Sinha<br /> (Jr. Assistant)</h3>
+<p><br />Phone: 0512-259/679 2403</p>
+</div>
+</td>
+</tr>
+<tr>
+<td valign="top" height="133"> </td>
+<td valign="top">
+<div class="frcard" style="width: 108px; height: 117px; margin-top: 5px;"><img class="smallcardimg" src="/doaa/images/mayank_awasthi.jpg" border="0" alt="" width="90" height="95" style="border: 0;" /></div>
+</td>
+<td valign="top"> </td>
+<td valign="top">
+<div class="tabletext">
+<h3 class="head3">Mr. Mayank Awasthi<br /> (Project Assistant)</h3>
+<p><br />Phone: 0512-259/679 2403</p>
+</div>
+</td>
+<td valign="top" height="133"> </td>
+<td valign="top"><!--<div class="frcard" style="width: 108px; height: 117px; margin-top: 5px;"><img class="smallcardimg" src="/doaa/images/Amarnath-Sinha.jpg" border="0" alt="" width="90" height="95" style="border: 0;" /></div>
+</td>
+<td valign="top"> </td>
+<td valign="top">
+<div class="tabletext">
+<h3 class="head3">Mr. Amarnath Sinha<br /> (Jr. Assistant)</h3>
+<p><br />Phone: 0512-259/679 2403</p>
+</div>--></td>
+</tr>
+</tbody>
+</table>
+<h3 class="head2" style="padding-left: 15px;"><br /><span style="text-decoration: underline;">CERTIFICATE DESK</span><span style="text-align: justify; color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; font-size: 12.16px;"> </span></h3>
+<p style="text-align: justify;"><strong>For any queries related to the certificate(s) please contact Ms. Sanno Devi Kushwaha at </strong><a href="mailto:
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy84287 = 'c&#101;rt&#105;f&#105;c&#97;t&#101;' + '&#64;';
+ addy84287 = addy84287 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy84287 + '\'>');
+ document.write(addy84287);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script>%20" style="display: inline; padding-left: 0px;"><strong>certificate[AT]iitk.ac.in </strong></a></p>
+<table width="85%">
+<tbody>
+<tr>
+<td valign="top" height="133"> </td>
+<td valign="top">
+<div class="frcard" style="width: 108px; height: 117px; margin-top: 5px;"><img class="smallcardimg" src="/doaa/images/SannoDevi.png" border="0" alt="" width="90" height="95" style="border: 0;" /></div>
+</td>
+<td valign="top"> </td>
+<td valign="top">
+<div class="tabletext">
+<h3 class="head3">Ms. Sanno Devi Kushwaha<br /> (Sr. Assistant)</h3>
+<p><br /> Phone: 0512-259/679 7044</p>
+</div>
+</td>
+<td valign="top" height="133"> </td>
+<td valign="top">
+<div class="frcard" style="width: 108px; height: 117px; margin-top: 5px;"><img class="smallcardimg" src="/doaa/images/Anshul-Soni.jpg" border="0" alt="" width="90" height="95" style="border: 0;" /></div>
+</td>
+<td valign="top"> </td>
+<td valign="top">
+<div class="tabletext">
+<h3 class="head3">Mr. Anshul Soni <br /> (Sr. Proj. Associate)</h3>
+<p><br />Phone: 0512-259/679 7044</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<h3 class="head2" style="padding-left: 15px;"><br /><span style="text-decoration: underline;">OARS</span></h3>
+<p style="text-align: justify;">OARS stands for Online Academic Registration System. OARS Section helps the DPGC/DUGC conveners, course instructors, students, department staffs and UG &amp; PG Sections at DOAA office to facilitate the following:</p>
+<ul>
+<li style="background: none!important;">
+<p>Maintenance of course templates online</p>
+</li>
+<li style="background: none!important;">
+<p>Timetable scheduling</p>
+</li>
+<li style="background: none!important;">
+<p>Online registration at Pingala/OARS</p>
+</li>
+<li style="background: none!important;">
+<p>Conducting of Student Feedback Survey (SFS), processing and printing of SRS reports</p>
+</li>
+<li style="background: none!important;">
+<p>Examination Scheduling (Mid semester and end semester)</p>
+</li>
+<li style="background: none!important;">
+<p>Submission of grades and announcement of result to students</p>
+</li>
+<li style="background: none!important;">
+<p>Printing of degree certificates, grade sheets, transcripts etc.</p>
+</li>
+<li style="background: none!important;">
+<p>Management of online student dues clearance system</p>
+</li>
+<li style="background: none!important;">
+<p>Coordinating with the different development teams for development &amp; maintenance of online application software at academic office</p>
+</li>
+<li style="background: none!important;">
+<p>Posting of various circulars and notifications at our websites</p>
+</li>
+</ul>
+<p><strong>For any queries related to the above please contact section-in-charge Mr. Amardeep Singh at </strong><a href="mailto:
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy58179 = '&#111;&#97;rs_&#111;ff&#105;c&#101;' + '&#64;';
+ addy58179 = addy58179 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy58179 + '\'>');
+ document.write(addy58179);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script>" style="display: inline; padding-left: 0px;"><strong>oars_office[AT]iitk.ac.in </strong></a></p>
+<table width="85%">
+<tbody>
+<tr>
+<td valign="top" height="133"> </td>
+<td valign="top">
+<div class="frcard" style="width: 108px; height: 117px; margin-top: 5px;"><img class="smallcardimg" src="/doaa/images/Amardeep-Singh.jpg" border="0" alt="" width="90" height="95" style="border: 0;" /></div>
+</td>
+<td valign="top"> </td>
+<td valign="top">
+<div class="tabletext">
+<h3 class="head3">Mr. Amardeep Singh<br /> (Jr. Superintendent)</h3>
+<p><br />Phone: 0512-259/679 6867</p>
+</div>
+</td>
+<td valign="top" height="133"> </td>
+<td valign="top">
+<div class="frcard" style="width: 108px; height: 117px; margin-top: 5px;"><img class="smallcardimg" src="/doaa/images/Pramod-Kumar-Rawat.jpg" border="0" alt="" width="90" height="95" style="border: 0;" /></div>
+</td>
+<td valign="top"> </td>
+<td valign="top">
+<div class="tabletext">
+<h3 class="head3">Mr. Pramod Kumar Rawat<br /> (Proj. Manager)</h3>
+<p><br />Phone: 0512-259/679 7020</p>
+</div>
+</td>
+</tr>
+<tr>
+<td valign="top" height="133"> </td>
+<td valign="top">
+<div class="frcard" style="width: 108px; height: 117px; margin-top: 5px;"><img class="smallcardimg" src="/doaa/images/Saurabh-Gupta.jpg" border="0" alt="" width="90" height="95" style="border: 0;" /></div>
+</td>
+<td valign="top"> </td>
+<td valign="top">
+<div class="tabletext">
+<h3 class="head3">Mr. Saurabh Gupta<br /> (Jr. Assistant)</h3>
+<p><br />Phone: 0512-259/679 7020</p>
+</div>
+</td>
+<td valign="top" height="133"> </td>
+<td valign="top">
+<div class="frcard" style="width: 108px; height: 117px; margin-top: 5px;"><img class="smallcardimg" src="/doaa/images/Shantan_Rishi.jpg" border="0" alt="" width="90" height="95" style="border: 0;" /></div>
+</td>
+<td valign="top"> </td>
+<td valign="top">
+<div class="tabletext">
+<h3 class="head3">Mr. Shantan Rishi<br />(Project Assistant)</h3>
+<p><br />Phone: 0512-259/679 7020</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<h3 class="head2" style="padding-left: 15px;"><br /><span style="text-decoration: underline;">LECTURE HALL COMPLEX (LHC) &amp; DIAMOND JUBILEE ACADEMIC COMPLEX (DJAC) </span></h3>
+<ul>
+<li style="background: none!important;">
+<p>Providing support in the process of allotting the classroom's in LHC.</p>
+</li>
+<li style="background: none!important;">
+<p>Biometric attendance of students as per their course requests and also maintain the attendance records of students.</p>
+</li>
+</ul>
+<p><strong>For any queries related to the above please contact section-in-charge Mr. Alok Katiyar at </strong><a href="mailto:
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy41092 = '&#97;l&#111;k' + '&#64;';
+ addy41092 = addy41092 + '&#105;&#105;tk' + '&#46;' + '&#97;c' + '&#46;' + '&#105;n';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy41092 + '\'>');
+ document.write(addy41092);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script>" style="display: inline; padding-left: 0px;"><strong>alok[AT]iitk.ac.in </strong></a></p>
+<table width="85%">
+<tbody>
+<tr>
+<td valign="top" height="133"> </td>
+<td valign="top">
+<div class="frcard" style="width: 108px; height: 117px; margin-top: 5px;"><img class="smallcardimg" src="/doaa/images/Alok-Katiyar.jpg" border="0" alt="" width="90" height="95" style="border: 0;" /></div>
+</td>
+<td valign="top"> </td>
+<td valign="top">
+<div class="tabletext">
+<h3 class="head3">Mr. Alok Katiyar<br /> (Jr. Superintendent)</h3>
+<p><br />Phone: 0512-259/679 4901</p>
+</div>
+</td>
+<td valign="top" height="133"> </td>
+<td valign="top">
+<div class="frcard" style="width: 108px; height: 117px; margin-top: 5px;"><img class="smallcardimg" src="/doaa/images/Rahul-Mishra.jpg" border="0" alt="" width="90" height="95" style="border: 0;" /></div>
+</td>
+<td valign="top"> </td>
+<td valign="top">
+<div class="tabletext">
+<h3 class="head3">Mr. Rahul Mishra<br /> (Jr. Assistant)</h3>
+<p><br />Phone: 0512-259/679 4902</p>
+</div>
+</td>
+</tr>
+<tr>
+<td valign="top" height="133"> </td>
+<td valign="top">
+<div class="frcard" style="width: 108px; height: 117px; margin-top: 5px;"><img class="smallcardimg" src="/doaa/images/Ashish_awasthi.jpg" border="0" alt="" width="90" height="95" style="border: 0;" /></div>
+</td>
+<td valign="top"> </td>
+<td valign="top">
+<div class="tabletext">
+<h3 class="head3">Mr. Ashish Awasthi<br /> (Sr. Assistant)</h3>
+<p><br />Phone: 0512-259/679 4901</p>
+</div>
+</td>
+<td valign="top" height="133"> </td>
+<td valign="top"><!--<div class="frcard" style="width: 108px; height: 117px; margin-top: 5px;"><img class="smallcardimg" src="/doaa/images/Amarnath-Sinha.jpg" border="0" alt="" width="90" height="95" style="border: 0;" /></div>
+</td>
+<td valign="top"> </td>
+<td valign="top">
+<div class="tabletext">
+<h3 class="head3">Mr. Amarnath Sinha<br /> (Jr. Assistant)</h3>
+<p><br />Phone: 0512-259/679 2403</p>
+</div>--></td>
+</tr>
+</tbody>
+</table>
+<h3 class="head2" style="padding-left: 15px;"><br /><span style="text-decoration: underline;">OFFICE OF OUTREACH ACTIVITIES (eMasters)</span></h3>
+<p>For detailed information about all e-Masters programmes, please refer to website <a href="/doaa/../oa" target="_blank" style="display: inline; padding-left: 0px;">www.iitk.ac.in/oa</a></p>
+</div>
+</div>
+  </div>
+	
+</div>
+
+                            
+                            
+            
+            </div><!-- end main -->
+
+          </div><!-- end wrapper -->
+
+        
+      
+          <div class="wrap"></div>
+
+        </div> <!-- end contentarea -->
+
+      </div><!-- back -->
+
+    </div><!-- all -->
+
+    <div id="footer-outer">
+
+          <div id="footer-inner">
+
+        <div id="bottom">
+                    <div class="box box1"> </div>
+                                 <div class="box box2"> </div>
+                              <div class="box box3"> </div>
+                                        <div class="box box4"> </div>
+                  </div>
+      </div>
+    
+      <div id="footer-sub">
+
+              <div id="footer">
+      
+          
+<ul class="menu">
+<li class="item-272"><a href="http://web.iitk.ac.in/july14doaan/" target="_blank" >Intranet</a></li><li class="item-269"><a href="https://oa.iitk.ac.in/" target="_blank" >Office Automation </a></li><li class="item-270"><a href="#" >Community Radio</a></li><li class="item-271"><a href="#" >Contact Us</a></li></ul>
+
+          
+              </div><!-- end footer -->
+      
+      </div>
+
+    </div>
+    
+  </body>
+</html>

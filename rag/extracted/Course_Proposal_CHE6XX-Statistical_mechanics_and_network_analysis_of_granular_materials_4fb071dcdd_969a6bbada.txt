@@ -1,0 +1,86 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+
+Proposal for a new course
+
+Title: Statistical mechanics and network analysis of granular materials
+
+1.  Course No.: ChE 6xx
+2.  Structure: Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional hours [0-2]: 0 (A), credits (3-0-0-0): 09.
+3.  Duration of course: Full semester
+4.  Prerequisite: None.
+5.  Open to: PG students and third and fourth-year UG students.
+6.  Proposing instructor: K. P. Krishnaraj (email: krishnaraj@iitk.ac.in)
+7.  Proposing department: Department of Chemical Engineering
+8.  Other faculty members interested in teaching the course:
+10. Course description:
+A.  Objectives: This course aims to provide a theoretical understanding of statistical mechanics and network-based
+description of granular materials. It introduces theoretical frameworks for understanding the behavior of
+granular assemblies, emphasizing the limitations of classical equilibrium statistical mechanics and the
+development of athermal statistical frameworks, including the Edwards ensemble and related approaches. The
+course also explores the representation of granular media as complex contact and force networks, enabling the
+characterization of their structural organization, force transmission, and mechanical stability using graph-
+theoretic concepts. By integrating statistical mechanics with network science, the course enables students to
+understand how microscopic organization gives rise to macroscopic behavior in granular systems.
+B.  Content: Lecture-wise break-up (considering the duration of each lecture is 50 minutes)
+S. No.     Title                           Topics                                       No.  of
+lectures
+
+1          Introduction to granular materials    •   Granular solids, liquids and gases              6
+•   Particle interactions
+•   Packing properties of granular assemblies
+•  Jamming and rigidity
+2          Classical statistical mechanics       •   Microstates and macrostates                  8
+•   Phase space
+•   Probability distributions
+•   Classical ensembles
+•   Partition function
+3           Statistical mechanics of  granular  •  Why classical statistical mechanics fails          8
+materials                       •   Edwards ensemble
+•   Stress ensemble
+•   Limitations, validation, and open challenges
+
+1
+
+[PAGE 2]
+4          Introduction to complex networks   •   Graphs                                 4
+•   Directed and weighted graphs
+•   Matrix representations
+•   Structural measures of networks
+5        Network   analysis  of   granular  •   Granular assemblies as networks               9
+materials                       •   Force networks and force chains
+•   Graph-theoretic measures for granular networks
+•   Network topology and mechanical response
+•   Percolation and connectivity
+•   Network evolution and dynamics
+6           Statistical  description  of  force  •   Contact force distributions                   5
+networks                       •  The q-model
+•   Force network ensemble
+•   Limitations and future directions
+Total                                         40
+
+References:
+
+•  Edwards, S. F., & Oakeshott, R. B. S., Theory of Powders. Physica A: Statistical Mechanics and
+its Applications, 157, 1080–1090 (1989).
+•   Jaeger, H. M., Nagel, S. R., & Behringer, R. P., Granular Solids, Liquids, and Gases. Reviews of
+Modern Physics, 68(4), 1259–1273 (1996).
+•   McQuarrie, D. A., Statistical Mechanics. University Science Books, Sausalito, CA (2000).
+•  Newman, M. E. J., Networks: An Introduction. Oxford University Press (2010).
+•   Andreotti, B., Forterre, Y., & Pouliquen, O., Granular Media: Between Fluid and Solid.
+Cambridge University Press (2013).
+•   Bi, D., Henkes, S., Daniels, K. E., & Chakraborty, B., The Statistical Physics of Athermal
+Materials. Annual Review of Condensed Matter Physics, 6, 63–83 (2015).
+•   Barabási, A. L., Network Science. Cambridge University Press (2016).
+•   Papadopoulos, L., Porter, M. A., Daniels, K. E., & Bassett, D. S., Network Analysis of Particles
+and Grains. Journal of Complex Networks, 6, 485–565 (2018).
+
+Dated: July 26, 2026           Proposer: Dr. K. P. Krishnaraj
+Dated: 26 Jul 2026         DUGC/DPGC Convener:
+
+The course is approved/not approved
+
+Chairman, SUGC/SPGC
+Dated:
+
+2

@@ -1,0 +1,165 @@
+[Page 1]
+Course Proposal 
+Department of Electrical Engineering 
+Indian Institute of Technology Kanpur 
+1. Course Number: EE6XX 
+2. Course Title: Nanoelectronics 
+3. Prerequisite: There is no official pre-requisite for the course. 
+4. Course Credits: (3-0-0-0) [9] 
+5. Course Duration: Full Semester 
+6. Proposing Instructor: Dr. Rik Dey, email: rikdey@iitk.ac.in 
+Other faculty members who may be interested in teaching the course: 
+Dr. Amit Verma, Dr. Rituraj, Dr. Arnab Bose 
+7. Other departments who may be interested in the proposed course: Physics, MSE, SEE 
+8. Course Type: PG, 3rd & 4th year UG, Open Elective 
+9. Course Description: The course will provide a comprehensive introduction and basic 
+understanding of the principles, devices, and technologies of nanoelectronics, which is the 
+foundation of modern information processing and next-generation electronic systems. This 
+course will explore the physical concepts that govern electronic transport at the nanoscale, 
+where quantum mechanical behaviour, such as quantum confinement, quantum mechanical 
+transmission and quantum tunneling, dominate over the classical behavior. The topics in 
+this course include scaling limits of conventional devices, low-dimensional systems such 
+as quantum wells, quantum wires and quantum dots, density of states and carrier statistics 
+in such low-dimensional systems, ballistic vs. diffusive transport formalisms, mesoscopic 
+transport and device modeling approaches. The course will explain the fundamentals of 
+nanoelectronics and mesoscopic physics, emphasizing both fundamental physics and 
+practical applications, bridging concepts of quantum mechanics, solid-state physics, and 
+device engineering. By the end of the course, students will gain a strong foundation to 
+analyze, model, and design nanoscale devices, and also will develop insight into ongoing 
+challenges and opportunities in nanoelectronics research and applications. 
+ 
+10. Course Contents: 
+Content Outline of Lectures 
+Lect. 
+Introduction: Importance of the course and relevance to modern electronics 
+1 
+Basics of quantum mechanics: Schrodinger equation, one-dimensional potentials: 
+infinite square well, delta function, finite square well, triangular well 
+4 
+Quantum transmission and tunneling: bound states vs. scattering states, probability 
+conservation, reflection and transmission, tunneling, transmission matrix, scattering 
+matrix, resonance transmission, resonance tunneling, transfer matrix method 
+5 
+Electronic band-structure: Born-Oppenheimer approximation, independent electron 
+approximation and self-consistent field, periodic potential and Bloch theorem, one-
+dimensional Kronig-Penney model, time-independent perturbation theory and nearly 
+free electron model, linear combination of atomic orbitals and tight-binding method, 
+k.p perturbation theory, envelop function and effective mass approximation 
+6
+
+[Page 2]
+Quantum confinement: Heterostructures & superlattices, low-dimensional systems: 
+quantum wells, quantum wires, quantum dots, density of states in low dimensions, 
+carrier statistics in low dimensions, Fermi-Dirac integrals, quantum capacitance 
+4 
+Semiclassical picture of transport: Drude model of transport, scattering as Poisson 
+process, drift-diffusion equation, transport in metals vs. semiconductors, Ohm’s law, 
+generalized Einstein-Smoluchowski relation, local-equilibrium & quasi-Fermi level, 
+Hall effect and different effective masses 
+4 
+Ballistic transport: Ballistic vs. diffusive conductor, new Ohm’s law, conductance 
+quantization, density of modes in low dimensions, current from quasi-Fermi levels 
+and Landauer formula, voltage drop and contact resistance, ideal voltage probe, ideal 
+vs. non-ideal contacts, heat dissipation in the conductor and contacts, Landauer-
+Buttiker formalism for multi-terminal devices 
+6 
+Boltzmann Transport Equation (BTE): Liouville’s theorem to BTE, collision integral 
+in the BTE, microscopic reversibility & principle of detailed balance, relaxation time 
+approximation, analytical solution method of BTE with example, drift-diffusion 
+equation from BTE, diffusive to ballistic limit of BTE 
+5 
+Nanoelectronics Device Modeling: Resonant tunneling diode, quantum confinement 
+in metal-oxide-semiconductor (MOS) capacitor and effect of quantum capacitance, 
+single electron charging and Coulomb blockade, transport in ballistic nano-transistor, 
+smart-contact devices (p-n junction diode, spin-valve, magnetic tunnel junctions) 
+3 
+Course overview and future directions 
+1 
+Total no. of lectures 39 
+ 
+Nanoelectronics Modeling through Simulations: 
+As part of homework and/or project, the student will also learn the applications of theoretical 
+concepts (which they will learn in lectures as mentioned above) through numerical modeling 
+and simulation exercises for each of the above-mentioned topic as outlined below. 
+ 
+Basics of quantum mechanics: Numerical solution of the time-independent Schrodinger 
+equation in one-dimensional system using spatial discretization scheme or shooting method 
+for infinite square well, finite square well, truncated triangular well potentials. 
+Quantum transmission and tunneling: Simulation of reflection and transmission from step 
+and barrier potentials, quasi-bound states and connection to bound states for potential well, 
+resonance transmission and resonance tunneling 
+Electronic band-structure: Self-consistent solution of Schrodinger equation considering self-
+consistent field, numerical solution of one-dimensional Kronig-Penney model for various 
+types of binding potentials, calculation of band structure for 1D and 2D systems, e.g. mono-
+layer and bilayer graphene, carbon nanotubes, transition metal dichalcogenides, etc. 
+Quantum confinement: Simulation of density of states, carrier statistics, and carrier 
+concentrations in metals and semiconductors for various dimensions (0D, 1D, 2D, 3D); 
+simulation and/or numerical modeling of 1D heterostructure, numerical solution of coupled 
+Schrodinger and Poisson equation and consideration of quantum confinement
+
+[Page 3]
+Semiclassical picture of transport: 2D simulation of diffusive transport with scattering, 
+simulation/numerical solution of 1D drift-diffusion equation, minority carrier diffusion, etc. 
+Ballistic transport: Simulation of density of modes in various dimensions, numerical model 
+for Landauer transport and transition from ballistic to diffusive limit, simulation/modeling 
+of conductance quantization, simulation of voltage drops and heat dissipation 
+Boltzmann Transport Equation (BTE): Numerical solution of BTE, solution of BTE in 2D 
+and 3D from the ballistic to diffusive limits, origin of contact resistance in BTE model 
+Nanoelectronics Device Modeling: Numerical modeling/simulation of the devices: resonant 
+tunneling diode, MOS capacitor, ballistic nano-transistor, single electron transistor, spin 
+transport in spin-valve, magnetic tunnel junctions, etc. 
+ 
+11. References: 
+1. The Physics of Low-Dimensional Semiconductors: An Introduction, John H. Davies, 
+Cambridge University Press, 1998. 
+2. Quantum Physics of Semiconductor Materials and Devices, Debdeep Jena, Oxford 
+University Press, 2022. 
+3. Quantum Transport: Atom to Transistor, Supriyo Datta, Cambridge University Press, 
+2005. 
+4. Lessons from Nanoelectronics: A New Perspective on Transport, Supriyo Datta, World 
+Scientific, 2012. 
+5. Electronic Transport in Mesoscopic Systems, Supriyo Datta, Cambridge University Press, 
+1997. 
+6. Fundamentals of Carrier Transport, Mark Lundstrom, 2002. 
+ 
+12. Past Teaching Experience of the Proposing Instructor on Related Topic: 
+The proposing instructor has previously organized two short-term courses as given below: 
+ 
+Organizer 
+Date 
+Course Title 
+Place 
+ATAL Academy Faculty 
+Development Program 
+02-06 August, 
+2021 
+Physics of Nanoelectronics 
+IIT Kanpur 
+(Online) 
+Quality Improvement Program, 
+Center for Continuing Education 
+15-20 March, 
+2021 
+Transport in Nanoelectronics 
+IIT Kanpur 
+(Online) 
+
+ 
+Date: 01/10/2025 
+
+ 
+
+ 
+Signature of the Proposer 
+
+ 
+Convenor, DPGC 
+
+ 
+
+ 
+Chairperson, SPGC 
+Department of Electrical Engineering 
+
+ 
+IIT Kanpur

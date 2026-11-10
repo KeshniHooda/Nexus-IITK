@@ -1,0 +1,99 @@
+[PAGE 1]
+Indian Ins(tute of Technology, Kanpur
+
+Proposal for a New Course
+
+1. Course No: A 600 level elec(ve number requested.
+
+2. Course Title: Advanced General Rela(vity
+
+3. No. of Lectures per week: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P),
+AddiDonal Hours[0-2]: 0 (A),
+
+Credits (3*L+2*T+P+A): 09          DuraDon of Course: Full Semester
+
+4. Proposing Department/IDP : PHY.
+
+Other Departments/IDPs which may be interested in the proposed
+course: SPASE.
+
+Other faculty members interested in teaching the course: G. Sengupta, K.
+Bha[acharya, N. Kundu, D. Das.
+
+5. Proposing Instructor: T. Sarkar (PHY)
+
+6. Course DescripDon:
+
+A) ObjecDves: The objecDve of this course is to familiarise the student
+with advanced aspects of General RelaDvity relevant to current research
+in the topic. The concepts taught in the course will be useful not only for
+theoreDcal research in gravitaDonal physics but also for those who wish to
+specialise in astrophysical phenomena in the strong gravity regime. The
+large amount of observaDonal data expected in the near future should
+boost research on strong gravity and this course will provide the basic
+framework to address this exciDng area.
+
+B) Contents:
+
+S. No.  Broad Title                                 Topics                        No. of Lectures
+
+Introduc(on      Tensors and their derivaDves : covariant diﬀerenDaDon and         8
+and                Lie derivaDves, Killing vectors. Geodesics and geodesic
+fundamentals    deviaDon. Locally ﬂat metrics and Fermi normal coordinates.
+Elementary applicaDons including radial and circular
+trajectories in a Schwarzschild background.
+
+[PAGE 2]
+Geodesic        Energy condiDons and their relevance. Geodesic                 6
+congruence and  congruences for Dmelike and null geodesics and Frobenius
+the             theorem. DerivaDon of the Raychaudhuri equaDon.
+Raychaudhuri     IllustraDons for simple cases including cosmological
+equa(on          signiﬁcance.
+
+Gravita(onal     Hypersurfaces and the induced metric. IntegraDon on             8
+Collapse          hypersurfaces and the Gauss theorem. Intrinsic curvature
+and the Gauss Codazzi equaDons. JuncDon condiDons and
+thin shells. Oppenheimer Snyder collapse and the formaDon
+of black holes.
+
+Lagrangian and   Lagrangian and Hamiltonian formulaDons of General             10
+Hamiltonian      RelaDvity. 3 + 1 decomposiDon. ADM formalism. DeﬁniDons
+formula(on       of mass and angular momentum.
+
+Black Holes       Basic properDes of Schwarzschild, Reissner-Nordstrom and         8
+Kerr black holes. Event horizon, apparent horizon and Killing
+horizon. Penrose diagrams. IntroducDon to the laws of black
+hole thermodynamics.
+
+Total number of lectures:       40
+
+C) Pre-requisites: PHY407.
+
+D) Short summary for including in the Courses of Study Booklet: Tensors and
+their derivaDves, geodesics and Fermi normal coordinates, energy condiDons,
+Raychaudhuri equaDons, hypersurfaces and Gauss theorem, Gauss-Codazzi
+equaDons, juncDon condiDons and thin shells, gravitaDonal collapse, Lagrangian
+and Hamiltonian formulaDons of General RelaDvity, black holes, with charge
+and rotaDon, Penrose diagrams, black hole thermodynamics.
+
+7. Recommended books:
+
+I. A relaDvist's toolkit : the mathemaDcs of black hole mechanics by Eric
+Poisson, Cambridge, 2007.
+II. General RelaDvity by Robert Wald, University of Chicago Press, 1984.
+III. GravitaDon by C. W. Misner, K. S. Thorne, J. A. Wheeler; W. H. Freeman
+and co., 1973.
+IV. Lecture notes by Mathias Blau (available online).
+
+[PAGE 3]
+Dated: 7 March, 2024. Proposer: T. Sarkar.
+
+Dated: _______________8/3/24      DPGC Convener (PHY):___________________
+
+The course is approved / not approved
+
+____________________________________
+
+Chairman, SPGC
+
+Dated:______________________________

@@ -1,0 +1,107 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course
+
+1.  Course No: EE 798L
+
+2.  Course Title: Machine Learning for Wireless Communications
+
+3.  Per Week Lectures: 3
+
+4.   Credits: 9              Duration of Course: Full Semester
+
+5.  Proposing Department/IDP: Electrical
+
+Other Departments/IDPs which may be interested in the proposed course: None
+
+6.  Other faculty members interested in teaching the proposed course:
+Rajesh Hegde, Washim Uddin Mondal
+
+7.  Proposing Instructor(s): Rohit Budhiraja
+
+8.   Course Description:
+Machine learning is now being applied to design sixth generation (6G) wireless communication systems.
+Objective of this course is to bridge the gap between theory of machine learning and its applications to wireless
+systems. To achieve the objective, this course will teach underlying machine learning concepts in the class.
+Students will then design various applications of machine learning for signal processing and wireless systems
+and implement using MATLAB/PYTHON/CUDA programming languages. Course  will therefore  involve
+MATLAB/PYTHON/CUDA coding component, which will also be considered for evaluation.
+At the end of the course, students will be able to understand and appreciate the machine learning model
+requirements specific for wireless communication systems, and design the models accordingly.
+
+A) Contents (preferably in the form of 5 to 10 broad titles):
+
+S. No        Broad Title                                  Topics                            No. of
+Lectures
+1.       Linear Modeling: A Least Linear modeling, Generalization and over fitting, Regularized          3
+Squares Approach        least squares.
+Wireless application - zero-forcing receiver design
+
+2.       Linear Modelling: A       Errors as noise – thinking generatively, Maximum likelihood,          3
+Maximum Likelihood     Bias-variance trade-off, Effect of noise on parameter estimates,
+Approach                                Wireless application – minimum mean squared receiver design
+3.      Bayesian inference       Exact posterior, Marginal likelihood, Hyperparameters,               6
+conjugate and non-conjugate models, exponential family
+distribution, K-means clustering, Gaussian mixture models,
+sparse Bayesian learning
+Wireless application - Massive multiple input multiple output
+(MIMO) channel estimation
+4.      Approximate Bayesian   General Problem, latent variable model, variational learning, and      9
+inference                 variational EM, local variational inference, variational learning as
+optimization, point estimate, Laplace approximation, MH
+sampling
+Wireless application - Variational Bayes for IoT device detection
+
+5.     Deep neural network     Introduction and principles, Idea of bias, different activation          3
+functions, basic of multilayer perceptron and convolutional
+
+[PAGE 2]
+neural network.
+Application: 6G transceiver chain design.
+6.      Transformers            Attention: Transformer processing, self attention, multi-head         6
+attention, Natural language: word embedding, tokenization,
+Transformer language models: decoder transformer, encoder
+transformer.
+Wireless application – 6G channel state information
+compression
+7.      Generative Adversarial   Adversarial training: loss function, GAN training in practice,           2
+Networks (GAN)         Wireless application – 6G channel generation
+8.       Diffusion models        Forward encoder: Diffusion kernel, conditional distribution,           7
+Reverse decoder: Training the decoder, predicting the noise,
+generating new samples.
+Wireless application – 6G channel prediction, direction of
+arrival estimation in 6G integrated sensing and communication
+(ISAC) wireless systems
+
+B) Pre-requisites, if any: Undergraduate/Graduate linear Algebra, probability, and basic programming skills
+
+C) Short summary for including in the Courses of Study Booklet: Course teaches probabilistic and deep machine
+learning architectures to design state-of-the-art wireless Communication systems. Objective of this course is to
+bridge the gap between theory of machine learning and its applications to 6G wireless systems.
+
+▪  Recommended books:
+
+9.  Textbooks:
+•   Pattern Recognition and Machine Learning by Christopher Bishop [PRML]
+
+Christopher Bishop, Springer, 2010.
+
+Reference Books/documents:
+
+•   Probabilistic Machine Learning: by Christopher Bishop [PML]
+
+Kevin P. Murphy, MIT Press 2021.
+
+10. Any other remarks: Taught it thrice already in 2021, 2022, 2023 as EE798L with 200, 100 and 80 students,
+respectively
+
+Dated:                    Proposer: Rohit Budhiraja
+
+Dated:               DUGC/DPGC Convener:                      _
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC
+
+Dated:

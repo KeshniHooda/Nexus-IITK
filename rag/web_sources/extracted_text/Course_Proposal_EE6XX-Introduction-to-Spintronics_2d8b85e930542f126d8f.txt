@@ -1,0 +1,234 @@
+[Page 1]
+1 
+ 
+Indian Institute of Technology, Kanpur 
+Department of Electrical Engineering 
+Proposal for a New Course 
+1. Course No: EE6XX 
+2. Course Title: Introduction to Spintronics 
+3. Per Week Classes: 2 Lectures (L), 0 Tutorial (T), 0 Laboratory (P), 0 Additional Hours (A), 
+ Credits (2L+T+P+A): 9 credits 
+4. Proposing Department: Department of Electrical Engineering 
+Duration of Course: Full Semester 
+Other Departments which may be interested: Physics, MSE. 
+Other faculty members interested in teaching the proposed course: Prof. Rik Dey (EE) 
+Proposing Instructor: Prof. Arnab Bose 
+6. Course Description: 
+A) Objectives: 
+Electron transport has long been central to microelectronics and VLSI. Each electron also carries spin 
+angular momentum, which can be harnessed for data storage and processing. This course introduces 
+the key principles of spin transport in heterostructures, providing students in Electrical Engineering 
+and related disciplines with the foundation needed to pursue research in this area. Beginning with a 
+review of essential quantum mechanics concepts, the course will gradually introduce the properties 
+of quantum materials and devices, including the coupling among charge, spin, and orbital degrees of 
+freedom and their interactions with magnons and phonons. 
+The course is organized into four modules. The first introduces the essential concepts of quantum 
+mechanics that provide the foundation for the course and will span 6–7 lectures. The second covers 
+the fundamentals of nanomagnetism over 6–7 lectures. The third focuses on the core concepts of 
+spintronics, including spin currents, spin torques, and spin-torque-induced magnetization dynamics. 
+Topics include spin-torque ferromagnetic resonance, magnetization switching, and oscillations, 
+covered over 8–9 lectures. The fourth module covers advanced topics, including spin–orbit coupling 
+effects, spintronic devices, and their applications. 
+In addition to standard homework exercises, students will undertake four mini-projects involving 
+macrospin and quantum simulations. These projects will help them connect the theoretical concepts 
+with physical behaviour and develop practical simulation skills. Students will also deliver a seminar 
+and submit a report on assigned research topics. The course is designed for students with limited prior 
+exposure to spintronics, guiding them from its basic principles to advanced concepts and practical 
+applications. 
+B) Contents (preferably in the form of 5 to 10 broad titles): 
+Lect
+ures 
+Topics
+
+[Page 2]
+2 
+ 
+1 
+Mod-1. (Fundamentals of Quantum Mechanics) 
+Mod1.0Introductory class 
+Overview of spin electronic devices. Scope and aim of this course, syllabus. Brief history of quantum 
+mechanics 
+ 
+2 
+Mod1.1 
+Fundamentals of Linear Vector Space 
+Linear vector space continues. Concept of operator. Elements of the operator. Hermitian and anti-
+Hermitian operators. Some examples. Unitary operators. Important identities. 
+Eigenvalue problem. Finding eigenvalues and eigenvectors of Hermitian operators. Diagonalization. 
+Simultaneous diagonalization of two Hermitian operators. 
+ 
+3 
+Mod1.2 
+Postulates of QM beginning with the Schrödinger equation 
+Postulates of QM. Schrödinger equation with time evolution Etc. Time evolution of operators. 
+Practice problems (Normalization of wave functions, Current operator, Ehrenfest theorem). 
+Heisenberg’s uncertainty principle, etc. 
+ 
+4 
+Mod1.3 
+Application of the time-independent Schrödinger equation (TISE) 
+Problem solving. TISE case studies for various V(x). (1) infinite potential well, (2) finite potential 
+barrier→tunneling, (3) free particle → wave packets 
+ 
+5 
+Mod1.3 
+Application of the time-independent Schrödinger equation (TISE) 
+Simple Harmonic Oscillator 
+Mod1.4 
+ Angular momentum 
+ 
+6 
+Mod1.5 
+Solution of SE in 3d spherical system 
+H-atom problem. Concept of orbitals and orbital angular momentum 
+ 
+7 
+MAJOR QUIZ-1 
+Solve the quiz problems 
+ 
+Mod2. Spin and exchange interaction: Emergence of magnetism 
+8 
+Mod2.1: Spin operators, magnetic moment and Larmor precession 
+Spin operators: S2, Sx,y,z, S±, 𝑆𝜃,𝜙 eigenvalues, eigenstates. Pauli’s matrices. HW problems 
+QM description of spin and orbital angular magnetic moment, Bohr magneton 
+Spin in the magnetic field. Zeeman splitting of the energy levels. Expectation values of the different 
+components of spin. 
+Larmor precession. Solution of the coupled equation for magnetization dynamics. 
+ 
+9 
+Mod2.2 
+Addition of spin angular momentum in two spin-1/2 systems. 
+Emergence of singlet/triplet states. Solving problems in class. 
+Beginning the two-particle system 
+ 
+10 
+Mod2.3 
+Two-particle system 
+Two-particle joint wave functions: symmetric and antisymmetric wave functions for Bosons and 
+Fermions. Energies of the 2-particle system → onsite energy, exchange energy. 
+Two case studies. (1) He-atom and (2) H2 molecule 
+(Not a detailed derivation, but rather the essence of various exchange integrals and their signs 
+relevant to FM and AFM ordering.)
+
+[Page 3]
+3 
+
+11 
+Mod.2.4 
+Magnetism basics 
+Atoms to solids, Energy bands, and DOS. Bandwidth, hoping integral, and overall trend of 
+magnetism in 3d, 4d, 5d metals. 
+Environments in solids, crystal field splitting (eg, t2g bands) and orbital quenching. 
+Types of exchange interactions: super-exchange, double exchange, exchange from conduction 
+electrons, RKKY, DMI, etc. Magnetic zoo. 
+Stonner criterion and band magnetism of Fe, Co, Ni 
+ 
+12 
+Mod.2.4 
+Magnetism basics 
+Revision of the last class. 
+Pauli’s paramagnetism. Stoner criterion and band magnetism of Fe, Co, Ni. Spin-split bands and 
+Fermi surfaces and their influence on transport 
+Mod2.5 
+Magnetic energy and anisotropy 
+Dipole moment and energies. Shape anisotropy and associated energies. Coercivity, demagnetization 
+field. Interfacial magnetic anisotropy. Perpendicular magnetic anisotropy (PMA) and its technological 
+application. 
+ 
+13 
+Mod2.6 Field-induced magnetization dynamics 
+Introducing the LLG equation. Stable states by solving the LLG. Solution of LLG for DC magnetic 
+field→magnetization dynamics for switching by the DC magnetic field. Solution of LLG with RF 
+excitation → FMR. Susceptibility tensor. 
+ 
+Mod.3. Spin current, spin transport and magnetization dynamics 
+14 
+Mod3.1 Spin-dependent diffusive transport 
+Spin-dependent conductivity and electrochemical potential. Definition of spin accumulation and spin 
+transport. Valet-Fert Equation. Spin diffusion model. Case-1: Derivation of the GMR effect using the 
+Valet Fert equations. Two-channel resistor model of GMR. 
+ 
+15 
+Mod3.1 Spin-dependent diffusive transport 
+Case-2: Injection of spin current from FM to NM. Conductivity mismatch problem. The essence of 
+high interfacial resistance is the tunnelling mechanism. Charge-to-spin interconversion by explaining 
+non-local spin-valve devices. 
+ 
+16 
+Mod3.2. Spin-dependent tunnelling 
+Recap of basic tunnelling by solving the SE equation. “Transfer Hamiltonian model” (Julier model). 
+Modelling of TMR with DOS. Real TMR devices: Magnetic Tunnel Junctions (MTJs). Experimental 
+aspects of the growth and fabrication of MTJ. Starting with the “free electron model”. 
+ 
+17 
+Mod3.2. Spin-dependent tunnelling 
+Completing the free electron model. Essence of the free electron model: new definition of effective 
+polarization, effect of potential barrier, wave vector matching and spin filtering on TMR. Transfer 
+Hamiltonian model vs the free electron model. 
+Finding spin-polarization in superconductor/tunnel barrier ferromagnet heterostructures 
+ 
+18 
+Mod3.3 Current-induced magnetization dynamics 
+Fundamentals. Concept of spin-transfer torque (STT). STT-induced magnetization dynamics: criteria 
+for Switching, oscillation of in-plane magnet. 
+ 
+19 
+Mod3.3 Current-induced magnetization dynamics 
+Action of RF spin current → ST-FMR, susceptibility tensors for spin 
+Brief discussion on different mechanisms for spin current generation e.g. longitudinal, transverse spin 
+current, spin Hall effect, thermally driven spin current, spin pumping, etc. 
+Technological evolution and the essence of PMA.
+
+[Page 4]
+4 
+ 
+20 
+MAJOR QUIZ 2 
+Solve the quiz problems 
+ 
+21 
+Mod3.3 Current-induced magnetization dynamics 
+JS-induced PMA switching, Spin-torque ferromagnetic resonance (ST-FMR) 
+ 
+Mod.4. Modern Spintronics devices 
+22 
+Mod 4.1-Spin-orbit coupling and its implication in SSD (SHE, REE etc.) 
+Introduction, spin-orbit coupling (SOC) at atomic level, SOC in solids→Rashba, Dresselhaus, etc. 
+Introducing Berry curvature through adiabatic approx. 
+ 
+23 
+Mod4.1. continuing 
+Symmetry arguments for the existence of Berry curvature, band-anti crossing, intrinsic spin Hall 
+effect, AHE. Extrinsic contribution to spin Hall effect 
+ 
+24 
+Mod-4.2. Recent experiments 
+Charge to spin interconversion: various cases, including SHE and ISHE in spin pumping, spin 
+Seebeck experiments, etc. 
+ 
+25 
+Mod-4.2. Recent experiments 
+Introducing the Quantum Hall effect, Josephson Junction, and superconducting qubits. 
+ 
+26 
+Summary, outlook, and doubt clearing/Project-Seminar 
+ 
+C) Pre-requisites: Strong interest in learning new things 
+7. Recommended books 
+• Quantum Mechanics, D. J. Griffiths 
+• Quantum Mechanics, R. Shankar 
+• Introduction to Magnetic Materials, B. D. Cullity and C. D. Graham 
+• Magnetism in Condensed Matter by Stephen Blundell 
+• Nanomagnetism and Spintronics, Teruya Shinjo 
+• Introduction to Spintronics, S. Bandyopadhyay 
+• Spin Current, Sadamichi Maekawa, Sergio O. Valenzuela, Eiji Saitoh, Takashi Kimura 
+• Recent papers and review articles as referred to in the lecture slides. 
+• Reference books: Lessons from Nano Electronics, Quantum Transport, Supriyo Datta and 
+extended class notes 
+ 
+Dated: _______________________ Proposer: ________________________ 
+Dated: _______________________ DUGC/DPGC Convener: ________________________ 
+ 
+This course is approved/not approved 
+Chairman, SUGC/SPGC 
+Dated:______________________________

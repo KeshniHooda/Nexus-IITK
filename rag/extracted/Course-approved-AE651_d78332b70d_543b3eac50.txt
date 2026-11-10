@@ -1,0 +1,149 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+Proposal for New Course
+Department of Aerospace Engineering       6 Sl
+Course Title: System Identification Techniques for Aerial Vehicles
+
+Course Number:
+
+Credits: 3-0-0-0 [9]
+
+Pre-requisite: AE647A or equivalent
+
+Who can take the course: Masters and Ph.D. Students
+
+Proposer & Instructor: Dr. Subrahmanyam Saderla
+Interested Second Instructor: Dr. Raghavendra P Kukillaya
+
+Course Objective: The objective of the course is to familiarize students with existing
+system identification techniques applied to flight vehicles. The focus will be on the
+applicability of various estimation techniques in different flight conditions and the
+quality of sensor data. This course will be beneficial for comprehensive analysis of flight
+vehicle's performance, stability, and control.
+
+Course Content                                     Lecturehours
+1.    Introduction to system identification and its applications to flight vehicles         2
+2.    Mathematical modelling for nonlinear aircraft dynamics                        5
+Aircraft Simulation model with numerical integration techniques, linear
+3'   and nonlinear aerodynamic models, flight envelope bifurcation                  2
+Data Gathering from flight testing, Instrumentation, and optimal input           3
+design
+5.    Filtering and compatibility analysis of flight data                           3
+Cost functions, Gauss-Newton optimization, and automatic gradient                                                                         5    6'   computation with step-size control
+Equation error method, Weighted Least Squares, and Recursive Least            6
+Squares estimation for flight vehicle
+8.   Output error method for aerodynamic characterization of aircraft              6
+
+9.    Filter error method for linear and nonlinear systems                        6
+
+10.   Proof-of-match exercise                                                  2
+Total Lecture Hours                                        4O
+
+[PAGE 2]
+I
+
+References:
+
+•   Nelson, Robert C. Flight Stability and Automatic Control, Vol. 2, WCB/McGraw Hill-1998
+•   Pamadi, Bandu N. Performance, Stability, Dynamics, and Control of Airplanes AIAA-2004
+•   Kimberlin, Ralph D. Flight Testing of Fixed-Wing Aircraft,AIAA-2003
+•   Goodwin, Graham C. Dynamic System Identification: Experiment Design and DataAnalysis-
+1977
+•   Mehra, Raman. Optimal Inputs for Linear System Identification, IEEE Transactions-1974
+•   Draper, Norman R.    Applied Regression Analysis. Vol.326, John Wiley & Sons-1998
+•   Myers, Raymond H.    Classical and Modern Regression with Applications, Vol. 2, Duxbury
+Press-1990
+•    Rossi, Richard;. Mathematical Statistics: An Introduction to Likelihood-Based Inference; John
+Wiley & Sons-2018
+•   Jategaonkar, Ravindra V. Flight Vehicle System Identification: A Time Domain Methodology, Vol.
+216, AIAA Series-2006
+•   Simon, Dan. Optimal State Estimation: Kalman, Ha,, and Nonlinear Approaches, John Wiley &
+Sons-2006
+•   Haykin, Simon. Kalman Filtering and Neural Networks, Vol. 47, John Wiley & Sons-2004
+
+Dated: 20-03-2024
+Proposer: SUBRAHMANYAM SADERLA
+
+Dated:
+DPGC Convener:
+
+This course is approved/not approved.
+Chairperson, SPGC.
+Dated:
+
+1`2
+
+[PAGE 3]
+I
+t
+
+PGI*k-IITK-DOHA
+
+From:                            spgc@iitk.ac.in
+Sent:                       10 July 2024 13:31
+To:                        DPGC, AE
+Cc:                              pgdesk@iitk.ac.in
+Subject:                        Re: Regarding new course proposal
+
+@ Raviji - Please do the needful if everything is in order.
+
+> Dear Sir,
+
+> We did not receive any comments for below these three course proposals.
+> Kindly do the needful for further approval.
+
+https://www.iitk.ac.in/doaa/data/NewCourses/Course-proposal-AEXXX-MDO.pdf
+
+> https://www.iitk.ac.in/doaa/data/NewCourses/Course-proposal-AE6XX-Structural-Vibration-and-Control.pdf
+
+> https://www.iitk.ac.in/doaa/data/NewCourses/Course-proposal-AEXXX-System-Identification-Techniques-for-Aerial-
+Vehicles.pdf
+
+> Regards,
+> Convener, DPGC
+> Aerospace Engineering
+> llT Kanpur
+
+Best,
+MohapatraObheejeet  Chairperson SPGC
+
+1
+
+[PAGE 4]
+~I~                           Sc~~               A             INDIAN INSTITUTE OF TECHNOLOGY KANPUR
+POSTGRADUATE OFFICE
+
+No. A(P)/IITK/course approval/
+August 27, 2024
+
+The Convener, DPGC
+Departments of AE/SEE/CHE/SPASE
+III Kanpur
+
+I am directed to communicate the concurrence of the SPGC (2023-24) in its 10`h meeting held
+on 15/07/2024 for the approval of new PG course proposal. After detailed discussion the
+following courses were approved.
+
+Course   Title                                     Credits    Instructor          SPCC
+No                                                                              Decision
+SPA626  Space Environments and Space Systems   3-0-0-0-(9)   Dr. Rohit Sharma        Approved
+Dr. Soumyabrata
+Chakrabarty
+AE631    Multidisciplinary Design Optimization       2-0-3-0-(9)   Dr. Prabhat Hajela,      Approved
+Dr. Pradeep Moise
+AE632    Structural Vibration and Control            (3-0-0-0-9)  Dr Tanmay Mathur       Approved
+Dr Dipak Girl
+AE651   System  Identification  Techniques  for   3-0-0-0-(9)   Dr.    Subrahmanyam  Approved
+Aerial Vehicles                                      Saderla
+SEE618   Heating, Ventilation, and Air-conditioning   3-0-0-0-(9)   Dr. Aakash Chand Rai    Approved
+of Buildings
+CHE669  "Chemical   Kinetics:   Reaction  Rate   3-0-0-0-(9)   Dr. Vishal Agarwal       Approved
+Theories and Rare-Event Simulations
+
+AssistantRegistrar
+Academic Affairs
+C~
+
+OARS (DOAA Office) For necessary action
+
+.J

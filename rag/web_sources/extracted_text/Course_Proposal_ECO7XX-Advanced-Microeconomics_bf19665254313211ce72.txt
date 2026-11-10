@@ -1,0 +1,103 @@
+[Page 1]
+~ 1 ~ 
+ 
+ Indian Institute of Technology Kanpur 
+Proposal for a New Course 
+ 
+1. Course No: ECO701 
+2. Course Title: Advanced Microeconomics 
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours [0-2]: 0 
+(A), Credits (3*L+0*T+0*P+0*A) = 9 Credits 
+4. Duration of Course: Full Semester 
+5. Proposing Department/IDP: Economic Sciences 
+Other Departments/IDPs which may be interested in the proposed course: No 
+Other faculty members interested in teaching the proposed course: Yes 
+6. Proposing Instructor(s): Faculty members of Economic Sciences 
+7. Course Description: 
+A) Objectives: Microeconomics helps in the understanding of the decision-making process of 
+firms and individuals. The objective of this course is to give a rigorous training to students in 
+fundamentals of microeconomic analysis. 
+B) Contents (preferably in the form of 5 to 10 broad titles): The course will be divided into two 
+main parts. The first part will teach the mathematical economics foundational tools like real 
+analysis and optimization. The second part includes analysis of theory of markets, the theory 
+of consumer behavior, the theory of firms, theory of monopoly, perfect competition and 
+efficiency analysis. 
+S.No. 
+Broad Title 
+Topics 
+No. of 
+Lectures* 
+1 
+Mathematical 
+Foundations: Analysis 
+Logic; Set Theory and Relations; Real Numbers and 
+Sequences; Topology of real line; Continuity and 
+Differentiability 
+8 
+2 
+Mathematical 
+Foundations: 
+Optimization 
+Multivariate Calculus; Implicit Function rule ; Concavity 
+and Convexity; Homogeneity and Homotheticity; 
+Unconstrained and Constrained Optimization; Kuhn-
+Tucker Conditions; Envelope Theorems; Monotone 
+comparative statics 
+7 
+3 
+Theory of Consumer 
+Behavior 
+Preferences and Utility; Consumer Optimization; Indirect 
+Utility and Expenditure Functions; Slutsky Equation; 
+WARP; Choice under Uncertainty and Risk Aversion 
+15 
+4 
+Theory of Producer 
+Behavior 
+Production and Cost Functions; Duality; Profit 
+Maximization 
+3
+
+[Page 2]
+~ 2 ~ 
+ 
+5 
+Partial Equilibrium 
+Analysis 
+Competitive Equilibrium; Deadweight loss; First Welfare 
+Theorem ; Welfare analysis 
+3 
+6 
+Monopoly 
+Monopoly pricing ; Price Discrimination 
+3 
+ 
+*39 lectures of 50 minutes each 
+ 
+C) Pre-requisites, if any: None 
+ 
+D) Short summary for including in the Courses of Study Booklet: Microeconomics helps in 
+the understanding of the decision-making process of firms and individuals. The objective of 
+this course is to give a rigorous training to students in fundamentals of microeconomic 
+analysis. 
+ 
+8. Recommended books: 
+• Microeconomic Theory by Mas-Collel, Whinston and Green. Oxford University 
+Press 
+• Lecture Notes in Microeconomic Theory: The Economic Agent - Second Edition by 
+Ariel Rubinstein. Princeton University Press, 2012 
+• Mathematics for Economists by Simon and Blume, W W Norton, 1994 
+• Advanced Microeconomic Theory by Jehle and Reny, 3rd edition. Prentice Hall, 2011 
+• Microeconomic Analysis by Varian, W W Norton, 1992 
+9. Any other remarks: 
+
+Dated: ____________ Proposer: ___________________ 
+ 
+Dated:____________ DUGC/DPGC Convener: _____________ 
+
+ 
+The course is approved / not approved 
+ 
+Chairman, SUGC/SPGC 
+ 
+Dated: _______________

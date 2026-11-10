@@ -1,0 +1,235 @@
+[Page 1]
+Department of Sustainable Energy Engineering 
+Indian Institute of Technology Kanpur 
+ 
+Proposal for a New Course 
+ 
+Course Title 
+ 
+Critical Material Resources for 
+Clean Energy Transition 
+Number 
+ 
+SEE xxx 
+Credits (L-T-P [C]) 
+ 
+3-0-0-0 [9] 
+Departments proposing the course 
+: Sustainable Energy Engineering 
+Name of the Proposer 
+: Sheo Shankar Rai 
+Offered for 
+
+PG students 
+Prerequisite(s) for the course 
+: None 
+Faculty members interested in teaching 
+: Sheo Shankar Rai, Ashish Garg 
+Other Departments/Programmes of whose the students 
+are expected to take up the course 
+: Geo-Sciences, ME, EE, CE, SPASE 
+ 
+Course Objectives 
+The course on "Critical Material Resources for Clean Energy Transition" aims to provide a comprehensive 
+understanding of the sustainable energy landscape, with a specific focus on critical materials that are needed 
+for clean energy transition. The program will cover topics such as the availability and production of critical 
+minerals for making these materials, mineral and material processing techniques, and their applications in various 
+sustainable energy technologies across various clean energy technologies. This postgraduate-level course will 
+equip students with the essential knowledge and skills to assess the requirements of critical materials for energy 
+transition, identify the sources as well as navigate the technical as well as commercial challenges posed by the 
+requirement of critical material resources. These challenges include managing technological advancements, 
+addressing environmental impacts, dealing with geopolitical pressures, and understanding the regulatory 
+frameworks that govern the sustainable energy sector. 
+ 
+Expected Learning Outcomes 
+ 
+The course will provide a strong and holistic knowledge base and skills to the students on Critical Material 
+Resources required for the development of Clean Energy Technologies. This includes an in-depth understanding 
+of their source and availability, production processes, processing methods, applications in various Sustainable 
+Energy Technologies, Supply Chain, Environmental and Social Impact, and application of AI & ML. The course will 
+provide students with the essential knowledge and skills to navigate the technical and management challenges, 
+technological advancements, environmental issues, geopolitical pressures, and regulatory complexities specific 
+to the Sustainable Energy Sector and Critical Material Resources. 
+Course outline
+
+[Page 2]
+Sr. 
+No. 
+Broad Title 
+Topics 
+No. of 1 h 
+Lectures 
+(Total: 
+~40) 
+1. 
+An introduction to Sustainable 
+Energy Value Chain 
+- Global Energy System and their Economics 
+- Problem of conventional energy 
+- Climate issues 
+- Clean Energy Transition: Global and Indian 
+perspective. 
+- Defining the critical minerals and materials 
+- Clean Energy Value Chain with emphasis on the use of 
+critical materials and minerals 
+- Achieving NetZero. 
+6 
+4. 
+Mineral Requirements for Clean 
+Energy Transition. 
+- Low Carbon Power Generation including photovoltaics 
+(1G to 3G) 
+- Energy Network. 
+- Electric Vehicles and Battery Storage. 
+- Hydrogen: Electrolysers and Fuel cells 
+- Electro and photocatalysis for energy applications 
+- CCUS 
+6 
+2. 
+Sustainable and Responsible 
+Development 
+of 
+Critical 
+Material Resources. (Primary 
+sources) 
+- Role of Critical Mineral in Clean Energy Transition: 
+Global and Indian Perspective 
+- Critical Mineral Value Chain. 
+- Exploration 
+- Planning and Extraction Technology of Critical Minerals 
+- Availability of Critical Minerals 
+• 
+Lithium 
+• 
+Cobalt 
+• 
+Nickel 
+• 
+Mn 
+• 
+Copper 
+• 
+Rare Earth Minerals 
+- Mineral Development and Climate Change. 
+• 
+Sustainable Development of Mineral Resources. 
+- Critical Mineral Resources of Deep Sea. 
+• 
+Key Drivers 
+• 
+Deep-Sea Mineral Extraction Technology. 
+• 
+Challenges associated with the Extraction of Deep-
+Sea Mineral 
+• 
+Environmental Impacts of Deep-Sea Mining 
+• 
+Regulatory Framework of Deep-Sea Mining. 
+- Critical Mineral Resources from Space. 
+• 
+Key Drivers 
+• 
+Potential Space Resources 
+• 
+Potential Resources of Asteroids 
+• 
+Advantages and Dis-advantages of Asteroid 
+Resources 
+• 
+Discovery and Characterization of Asteroid 
+Resources 
+• 
+Mineral Exploration and Extraction Technology for 
+Asteroid Resources. 
+• 
+Challenges associated with the Extraction of 
+Asteroid Resources 
+• 
+Regulatory Framework of Asteroid Mining 
+12
+
+[Page 3]
+3
+ 
+Processing of Critical Material 
+Resources (Primary sources). 
+Introduction to Processing Technology for Critical Materials 
+from the Minerals 
+- Pyrometallurgy 
+- Hydrometallurgy 
+- Bio metallurgy 
+4 
+5. 
+Secondary Sources of Materials: 
+Metal Recycling Technology 
+ 
+- Need of secondary sources 
+- India relevance 
+- Circular Economic Model of Waste Management. 
+- Technologies for Metal Recovery from Waste. 
+3 
+6. 
+Environmental 
+and 
+Social 
+Impact Assessments 
+- Assessment of Environmental Impact 
+- Assessment of Social Impact 
+2 
+7. 
+Supply 
+Chain 
+of 
+Critical 
+Material Resources 
+- 
+Supply Prospects of Critical Materials. 
+- 
+Geo-political Scenarios. 
+- 
+Approaches to Ensure Reliable Supply of Critical 
+material. 
+- Prospects of Recycling in Critical Material Supply 
+Chain. 
+6 
+8. 
+Summary 
+Putting everything together 
+1 
+ 
+Textbooks, reference books, suggested readings and any other references 
+• 
+Sustainable Energy Systems and Applications (Springer) : by Ibrahim Dincer, Calin 
+Zamfirescu (Author). 
+• 
+Asteroid Mining 101 – Wealth for New Space Economy by John S Lewis. 
+• 
+R. Sharma, Deep-sea mining: Economic, technical, technological, and environmental considerations for 
+sustainable development, Mar. Technol. Soc. J. 45 (2011) 28–41. doi:10.4031/MTSJ.45.5.2. 
+• 
+Critical Minerals for India, Report of the Committee on Identification of Critical Minerals, 
+Ministry of Mines, Govt. of India, June 2023. 
+• 
+The Role of Critical Minerals in Clean Energy Transitions, World Energy Outlook Special Report, 
+International Energy Agency (IEA), March 2022. 
+• 
+Critical Minerals Market Review 2023, International Energy Agency (IEA). 
+• 
+Net Zero by 2050 A Roadmap for the Global Energy Sector, International Energy Agency (IEA). 
+• 
+Clean Energy Transitions Programme, Annual Report 2023, International Energy Agency (IEA). 
+• 
+Greening the Renewable Value Chain: China Experience, Briefing Paper, June 2024, World 
+Economic Forum in Collaboration with Boston Consulting Group. 
+• 
+Latest Research Papers on relevant topics. 
+
+Course proposed by 
+Forwarded by 
+This course is approved/not 
+approved 
+ 
+(Sheo Shankar Rai) 
+Convener, DPGC (SEE) 
+ 
+Chairman, SPGC

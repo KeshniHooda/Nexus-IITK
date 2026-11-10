@@ -1,0 +1,63 @@
+[Page 1]
+1/2
+Indian Institute of Technology Kanpur
+Proposal for a New Course
+Course Number: ChE6XX
+Structure: Two Lectures per week each of 1hr 15mins duration. (3-0-0-9)
+Duration of the Course: Full Semester
+Proposing Department: Chemical Engineering
+Other Departments/IDPs which may be interested in the proposed course: Chemistry, Sustainable
+Energy Engineering
+Other Faculties Interested in Teaching this Course: Indranil S. Dalal (CHE), Harshwardhan H.
+Katkar (CHE), Nishanth Nair (CHM)
+Proposer: Vishal Agarwal
+Course Description:
+Objectives: The goal of the course is to acquaint students with the fundamentals of chemical kinet-
+ics, rare-event simulations, and reaction rate theories. The course will thoroughly cover the underlying
+theory and the assumptions made in it, even though the focus will be on applications. This is because
+understanding this material is essential to being an intelligent practitioner.
+Title: “Chemical Kinetics: Reaction Rate Theories and Rare-Event Simulations”
+Course Contents and Lecture-wise Breakup∗:
+Introduction: Stoichiometry and reaction progress variables. (1 lecture)
+Thermodynamics of Chemical Reactions: Chemical potential, equilibrium constant, determination
+of equilibrium composition, effect of reaction conditions on equilibrium yields, statistical mechanics of
+equilibria in ideal gasses. (10 lectures)
+Reaction Path: Concept of potential energy surface, saddle point and minimum energy path (MEP),
+saddle point searching algorithms: coordinate-driving, Cerjan-Miller and Nudged Elastic Band (NEB).
+Tutorials (or project) on saddle-point searches on 2D analytical potentials. (6+2 lectures)
+Reaction Rates: Rate laws, reaction mechanisms, micro-kinetic modelling, degree of reaction control,
+heterogeneous catalysis, ﬂux across a dividing surface, collision theory, RRKM, transition state theory
+(TST), variational and harmonic TST, correlation-ﬂux theories. (12 lectures)
+Rare-Event Simulations: Free-energies, Monte carlo and molecular dynamics, importance sampling,
+umbrella sampling, reactive ﬂux and reaction rates from simulations. Tutorials (or project) on computa-
+tion of rates from rare-event simulations. (6+3 lectures)
+∗Each lecture is assumed to be of 50 minutes duration.
+Pre-requisites: ChE221 or equivalent, CHM102 or equivalent, MTH102 or equivalent and ChE331 or
+equivalent
+Expected Enrolment: ∼10-30
+
+[Page 2]
+2/2
+• Useful References
+– “Chemical Kinetics”, Keith J. Laidler, Pearson Education, 1987, ISBN: 8131709728.
+– “Chemical Dynamics in Condensed Phases: Relaxation, Transfer, and Reactions in Condensed Molecu-
+lar Systems”, by Abraham Nitzan, OUP Oxford, 2013, ISBN: 9780199686681.
+– “Theories of Molecular Reaction Dynamics: The Microscopic Foundation of Chemical Kinetics”, by
+Niels Engholm Henriksen and Flemming Yssing Hansen, Oxford University Press, 2019, ISBN:
+9780198805014.
+– “Introduction to Computational Chemistry”, Frank Jensen, Wiley, 2017, ISBN: 9781118825990.
+– “Introduction to Modern Statistical Mechanics”, David Chandler, Oxford University Press, Sep
+1987. ISBN-10: 0195042778, ISBN-13: 9780195042771.
+– “Statistical Mechanics”, Donald A. McQuarrie, University Science Books, June 2000, 2nd Edi-
+tion, ISBN-13: 978-1-891389-15-3.
+– “Statistical Mechanics: Theory and Molecular Simulation”, by Mark Tuckerman, Oxford University
+Press, 2011, ISBN: 9780198525264.
+– “Chemical Dynamics in Condensed Phases: Relaxation, Transfer, and Reactions in Condensed Molecu-
+lar Systems”, by Abraham Nitzan, OUP Oxford, 2013, ISBN: 9780199686681.
+Dated: June 20, 2024
+Proposer:
+Dated: June 20, 2024
+DPGC Convener:
+The course is approved / not approved
+Chairman, SUGC/SPGC
+Dated:

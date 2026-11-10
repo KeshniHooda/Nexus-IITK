@@ -1,0 +1,105 @@
+[PAGE 1]
+Indian Institute of Technology,
+
+Kanpur Proposal for a New Course
+
+1. Course No: EE698W (Old Course No)
+
+2. Course Title: Analog circuits for signal processing
+
+3. Per Week Lectures: 3 (L), Tutorial: (T), Laboratory: (P), Additional Hours[0-2]: (A),
+
+Credits (3*L+2*T+P+A): 9 Duration of Course: Full Semester
+
+4. Proposing Department/IDP: EE
+5. Proposing Instructor(s): R. S. Ashwin Kumar (ashwinrs@iitk.ac.in)
+Other faculty members interested in teaching the proposed course:
+Imon Mondal (imon@iitk.ac.in), Chithra (chithra@iitk.ac.in), Nagarjuna Nallam
+(nallam@iitk.ac.in)
+6. Course Description:
+
+Objectives: By the end of this course, the students will be able to
+understand and analyse linear periodically time-varying (LPTV) systems and circuits,
+get familiarized to circuit theorems pertaining to LPTV networks, periodic-steady-state
+simulations, noise in LPTV networks, and practically used LPTV circuits, like the N-path
+filters, N-path mixers, multi-phase dc-dc converters, N-path chopping, etc.,
+
+Contents (preferably in the form of 5 to 10 broad titles):
+
+S.     Broad                    Topics                 No.       of
+No.       Title                                             Lectures
+(1.5   hours
+each)
+1.   LPTV circuits  Bandgap reference, basics of linear regulator     3
+used in voltage  and switching regulators.
+regulators
+2.      Practically    Chopping to eliminate flicker noise, variants      3
+useful LPTV   of switched-RC filter.
+circuits using
+switches &
+capactiors
+3.   Basics of linear  Impulse response for LTI and LPTV systems,     3
+time invariant  Zadeh expansion of LPTV systems,
+and periodically modelling LPTV networks using mixers and
+time varying   LTI systems, notion of harmonic transfer
+systems     functions (HTF), periodic steady state
+simulations
+4.   N-path        Reduce aliasing using N-path principle, N-       6
+principle    & path LPTV systems examples: multi-phase
+dc-dc converters, N-path chopping, time-
+
+[PAGE 2]
+practical        interleaved sampling & ADCs, N-path
+examples      switched-RC filters, N-path mixers, mixer-
+first RF receiver.
+5.  Impedance and Impedance and admittance conversion          2
+transfer      matrix, harmonic transfer matrix definitions
+function     with practical examples, conversion matrix
+representation  based analysis of LPTV networks
+in LPTV
+networks
+6.        Circuit      Tellegan’s theorem and its extensions,           3
+theorems for   Thevenin & Norton theorem for LPTV
+LPTV networks  networks, reciprocity, inter-reciprocity, adjoint
+networks
+7.   Inter-reciprocity  Understanding inter-reciprocity using            3
+in LPTV     conversion matrices, inter-reciprocity relation
+networks      in time domain, examples
+8.   Noise in LTI &  Nyquist’s noise theorem, Bode’s noise           3
+LPTV networks  theorem, noise in LPTV networks with
+sampled output, miscellaneous examples.
+Total        26
+Lectures (1.5
+hours each)
+
+A) Pre-requisites: Consent of the Instructors
+
+B) Short summary for including in the Courses of Study Booklet: Linear periodically
+time varying (LPTV) networks, switched-RC filter, impulse response in LTI & LPTV
+networks, Zadeh expansion of LPTV networks, Harmonic transfer functions, N-path
+principle & examples: multi-phase converters, time-interleaved sampling, N-path
+switched RC filters, N-path mixers, mixer-first RF receiver, circuit theorems for LPTV
+networks, adjoint LPTV networks, inter-reciprocity in LPTV networks, noise in LTI &
+LPTV networks with sampled output.
+
+7. Recommended reference: There is no single reference for this.
+It will be based on multiple journal articles that will be shared along with the
+relevant lectures.
+
+8.  Evaluation Policy: Assignments: 40%, Mid-sem: 30%, Endsem: 30%.
+
+9. Course strength last three times:
+
+July 2019: 16; July 2020: 9; July 2022: 7
+
+[PAGE 3]
+Dated: 14/02/2025                                 Proposer: R. S. Ashwin Kumar
+
+Dated:                                   DUGC/DPGC Convener:
+
+The course is approved / not
+approved
+
+Chairman, SUGC/SPGC
+
+Dated:

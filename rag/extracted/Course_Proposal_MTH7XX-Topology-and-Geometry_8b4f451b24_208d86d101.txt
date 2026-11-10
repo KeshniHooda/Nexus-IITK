@@ -1,0 +1,103 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+Proposal for a New Course
+
+Course Information
+
+• Course Number: MTH 7XX (PhD course)
+
+• Course Title: Topology and Geometry
+
+• Per Week Lectures: 2 (L), Tutorial: 0 (T), Lab: 0 (P)
+Credits: 9 credits
+
+• Duration of Course: Full Semester
+
+• Proposing Department: Department of Mathematics and Statistics
+
+• Proposing Instructor: Debasis Sen.
+
+Other faculty members interested in teaching the proposed course:  Prof.  Ashis Mandal, Prof.
+Abhijit Pal, Prof. Ajay Singh Thakur, Prof. Bidyut Sanki.
+
+Course Objectives
+
+This course aims to provide an exposure to PhD students in basic areas of topology and geometry.  It
+reviews fundamental concepts such as topological spaces, compactness, connectedness, and quotient con-
+structions, and develops tools for studying algebraic invariants like the fundamental group and covering
+spaces. The course further explores smooth and Riemannian manifolds, including tangent structures,
+vector ﬁelds, geodesics, and curvature, while also introducing simplicial complexes and homology theory.
+By the end of the course, students will be equipped with tools of topology and geometry and will be
+prepared for research in topology, geometry, and related areas.
+
+Course content:
+
+Total lectures = 26, 1 lecture = 1.15 hours
+
+Review of Basic Topics (3 Lectures)
+
+Topological spaces, Compact spaces, Connected spaces. TychonoﬀTheorem, Lebesgue Lemma, Heine–
+Borel Theorem, Quotient topology, Examples: X/A, Group action quotients, Projective spaces, Grass-
+mannians.
+
+Fundamental Groups and Covering Spaces (10 Lectures)
+
+Fundamental groups, Contractible and simply connected spaces, Covering spaces, Lifting criterion, Uni-
+versal cover, π1(S1), Properly discontinuous actions, Fundamental group of X/G, Seifert–van Kampen
+Theorem, Eﬀect of attaching a cell on the fundamental group, Fundamental group of surfaces, Statement
+of classiﬁcation of surfaces.
+
+1
+
+[PAGE 2]
+Smooth Manifolds (4 Lectures)
+
+Diﬀerentiable manifolds, Tangent spaces and tangent bundle, Diﬀerentiable maps, Vector ﬁelds, Lie
+derivative, Exponential map.
+
+Riemannian Manifolds (6 Lectures)
+
+Riemannian metric, Covariant derivative, Riemannian connection, Geodesics, Curvature, Hopf–Rinow
+Theorem.
+
+Simplicial Complexes and Homology (3 Lectures)
+
+Simplicial complexes, Simplicial homology.
+
+Pre-requisites:
+
+Instructor consent.
+
+Short summary for inclusion in the Courses of Study Booklet:
+
+The couse reviews fundamental concepts such as topological spaces, compactness, connectedness, and
+quotient constructions, and develops tools for studying algebraic invariants like the fundamental group
+and covering spaces. The course further explores smooth and Riemannian manifolds, including tan-
+gent structures, vector ﬁelds, geodesics, and curvature, while also introducing simplicial complexes and
+homology theory.
+
+Recommended books:
+
+• Algebraic Topology — A. Hatcher
+
+• Algebraic Topology — J. Munkres
+
+• An Introduction to Diﬀerentiable Manifolds and Riemannian Geometry — W. Boothby
+
+• Riemannian Geometry — M. do Carmo
+
+• Morse Theory — J. Milnor
+
+Additional Remarks and Approval
+
+8. Any other remarks:
+
+Dated:      28/04/26                                    Proposer:      Debasis Sen
+
+Dated:                                   DUGC/DPGC Convener:
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC                                          Dated:
+
+2

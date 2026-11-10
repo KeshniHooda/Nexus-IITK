@@ -1,0 +1,207 @@
+[PAGE 1]
+DoAA Office                             Course List for Supplementary Examination                                 Exam Date
+June 8-9, 2026                                                   June - 2026
+S. No.     Dept.      Course No.                                         Course Title                                          Lab Course
+1    AE      AE211           INCOMPRESSIBLE AERODYNAMICS                                              No
+2    AE     AE233M         INTRODUCTION TO VIBRATIONS                                                No
+3    AE      AE312          SHEAR FLOWS                                                            No
+4    AE      AE322           AIRCRAFT CONTROL SYSTEMS                                                 No
+5    AE      AE334          AEROSPACE STRUCTURES II                                                   No
+6    AE      AE351          EXPERIMENTS IN AEROSPACE ENGINEERING -II                                                Yes
+7    AE     AE421M         EXPERIMENTS IN FLIGHT MECHANICS                                                                      Partially Lab Course
+8    AE      AE462           AIRCRAFT DESIGN-II                                                                                         Partially Lab Course
+9    AE      TA111          ENGINEERING GRAPHICS                                                                                   Partially Lab Course
+10    BSBE    BSE221          BIOCHEMISTRY                                                           No
+11    BSBE    BSE222          BIOCHEMICAL ENGINEERING                                                  No
+12    BSBE    BSE633          BIOINFORMATICS AND COMPUTATIONAL BIOLOGY                                   No
+13    BSBE    BSE652         DEVELOPMENTAL BIOLOGY                                                   No
+14    BSBE    BSE662          DECISION MAKING AND THE BRAIN                                              No
+15    BSBE    BSE666         COMPUTATIONAL BIOMEDICAL ENGINEERING                                      No
+16    CE      CE214          ENVIRONMENTAL QUALITY AND PROCESSES                                       No
+17    CE      CE243              CIVIL ENGINEERING MATERIALS                                                                            Partially Lab Course
+18    CE      CE252            SOIL MECHANICS                                                                                            Partially Lab Course
+19    CE      CE272          STRUCTURAL ANALYSIS                                                      No
+20    CE      CE362           ENGINEERING HYDRAULICS                                                   No
+21    CE      CE371           DESIGN OF REINFORCED CONCRETE STRUCTURES                                    No
+22    CE      CE372           DESIGN OF STEEL STRUCTURES                                                No
+23    CE      CE382          TRANSPORTATION SYSTEMS ANALYSIS                                           No
+24    CE      CE412         WATER SUPPLY AND WASTEWATER DISPOSAL SYSTEMS                                                  Partially Lab Course
+25    CE      CE441M        CONSTRUCTION MANAGEMENT                                                No
+26    CE      CE462           HYDRAULICS AND HYDROLOGIC DESIGN                                          No
+27    CE      ESO202         MECHANICS OF SOLIDS                                                      No
+28    CHE     CHE212         HEAT TRANSFER                                                                                             Partially Lab Course
+29    CHE     CHE213        MASS TRANSFER AND SEPARATION PROCESSES                                                           Partially Lab Course
+30    CHE     CHE221         CHEMICAL ENGINEERING THERMODYNAMICS                                                             Partially Lab Course
+31    CHE     CHE261         CHEMICAL PROCESS INDUSTRIES                                               No
+32    CHE     CHE352         CHEMICAL PROCESS SYNTHESIS AND DESIGN                                                              Partially Lab Course
+33    CHE     CHE613         THE STRUCTURE & RHEOLOGY OF COMPLEX FLUIDS                                  No
+34    CHE     CHE619        ADVANCED FLUID MECHANICS                                                No
+35    CHE     CHE655         DATA SCIENCE FOR CHEMICAL ENGINEERS                                                                Partially Lab Course
+36    CHE     CHE667          PRINCIPLES OF NON NEWTONIAM FLUID MECHANICS                                 No
+
+Note: Exam date, time and venue will be shared on or after June 4, 2026
+
+[PAGE 2]
+DoAA Office                             Course List for Supplementary Examination                                 Exam Date
+June 8-9, 2026                                                   June - 2026
+S. No.     Dept.      Course No.                                         Course Title                                          Lab Course
+37    CHE     CHE668         BIOPROCESS ENGINEERING                                                   No
+38    CHE     ESC113M       COMPUTER METHODS FOR ENGINEERS                                                                    Partially Lab Course
+39    CHE     ESO201        THERMODYNAMICS                                                        No
+40    CHE     ESO204          FLUID MECHANICS AND RATE PROCESSES                                         No
+41   CHM   CHM112M       GENERAL CHEMISTRY: PHYSICAL CHEMISTRY                                       No
+42   CHM   CHM113M       GENERAL CHEMISTRY: INORGANIC & ORGANIC CHEMISTRY                             No
+43   CHM    CHM202         BASIC ORGANIC CHEMISTRY -II                                                 No
+44   CHM    CHM242         BASIC INORGANIC CHEMISTRY II                                                No
+45   CHM    CHM322         PHYSICAL CHEMISTRY -II                                                     No
+46   CHM    CHM402        ORGANIC CHEMISTRY II                                                     No
+47   CHM    CHM646         BIO-INORGANIC CHEMISTRY                                                  No
+48    CSE     CS203M        MATHEMATICS FOR COMPUTER SCIENCE -III                                       No
+49    CSE     CS220          INTRODUCTION TO COMPUTER ORGANISATION                                                          Partially Lab Course
+50    CSE     CS335          COMPILER DESIGN                                                                                          Partially Lab Course
+51    CSE     CS340          THEORY OF COMPUTATION                                                   No
+52    CSE     CS641         MODERN CRYPTOLOGY                                                     No
+53    CSE     CS714          SECURE COMPUTATION                                                     No
+54    CSE     ESC112M       FUNDAMENTALS OF COMPUTING - II                                                                      Partially Lab Course
+55    CSE     ESO207         DATA STRUCTURE & ALGORITHM                                                                          Partially Lab Course
+56   DOMS   DMS672        DATA MINING AND KNOWLEDGE DISCOVERY                                       No
+57   DOMS   IME201/DMS201  INTRODUCTION TO MANAGEMENT                                             No
+58    ECO     ECO111        ECONOMY, SOCIETY & PUBLIC POLICY                                            No
+59    ECO     ECO211         MICROECONOMICS I                                                        No
+60    ECO     ECO251         ECONOMETRICS I                                                          No
+61    ECO     ECO412A        INTERNATIONAL ECONOMICS AND FINANCE                                       No
+62    ECO     ECO425         INTRODUCTORY TIME SERIES ANALYSIS                                           No
+63    ECO    ECO611M       COMPUTATIONAL METHODS IN ECONOMICS                                   NO
+64    ECO     ECO703         QUANTITATIVE METHODS                                                    No
+65    ECO     ECO713        ADVANCED TOPICS IN MICROECONOMICS                                         No
+66    ECO     ECO714        GAME THEORY APPLICATIONS                                                 No
+67    ECO     ECO722        AN INTRODUCTION TO DERIVATIVES PRICING                                      No
+68    ECO     ECO735        DEVELOPMENT ECONOMICS                                                  No
+69    EE      EE210         ANALOG ELECTRONICS                                                      No
+70    EE      EE250          CONTROL SYSTEMS ANALYSIS                                                 No
+71    EE      EE301            DIGITAL SIGNAL PROCESSING                                                 No
+72    EE      EE320            PRINCIPLES OF COMMUNICATIONS                                             No
+
+Note: Exam date, time and venue will be shared on or after June 4, 2026
+
+[PAGE 3]
+DoAA Office                             Course List for Supplementary Examination                                 Exam Date
+June 8-9, 2026                                                   June - 2026
+S. No.     Dept.      Course No.                                         Course Title                                          Lab Course
+73    EE      EE311           MICROELECTRONICS II                                                      No
+74    EE      EE340          ELECTROMAGNETIC THEORY                                                  No
+75    EE      EE360         POWER ELECTRONICS                                                       No
+76    EE      EE370            DIGITAL ELECTRONICS                                                       No
+77    EE      EE654          ROBUST CONTROL SYSTEMS                                                  No
+78    EE      EE655         COMPUTER VISION AND DEEP LEARNING                                         No
+79    HSS     ART410        AN INTRODUCTION TO THE JAPANESE & KOREAN CINEMATIC ART                         No
+80    HSS     ENG423        CURRENT ISSUES IN LINGUISTICS                                              No
+81    HSS     ENG433       MODERN DRAMA                                                         No
+82    HSS     ENG440          TOPICS IN LITERARY GENRES                                                  No
+83    HSS     ENG450        ACADEMIC WRITING                                                       No
+84    HSS     PHI143          INTRODUCTION TO POLITICAL PHILOSOPHY                                        No
+85    HSS     PHI445          ANCIENT GREEK PHILOSOPHY                                                No
+86    HSS     PHI452         PHILOSOPHY OF COGNITIVE SCIENCE                                           No
+87   ME     ME222         NATURE AND PROPERTIES OF MATERIALS                                         No
+88   ME     ME231           FLUID MECHANICS                                                         No
+89   ME     ME252         THEORY OF MECHANISMS AND MACHINES                                        No
+90   ME     ME334          EXPERIMENTS IN MECHANICAL ENGINEERING II                                                Yes
+91   ME     ME341         HEAT TRANSFER                                                          No
+92   ME     ME351          DESIGN OF MACHINE ELEMENTS                                               No
+93   ME     ME354          VIBRATION & CONTROL                                                     No
+94   ME     ME371         MANUFACTURING SYSTEMS                                                  No
+95   ME     ME626          VIBRATION OF CONTINUOUS SYSTEM                                            No
+96   ME     ME649          EXPERIMENTAL METHODS IN THERMAL SCIENCES                                    No
+97   ME     ME686         ENERGY STORAGE SYSTEMS                                                   No
+98   ME     ME757         DYNAMICS OF ROTATING MACHINERY                                           No
+99   MSE     ESO225         INTRODUCTION TO MATERIALS SCIENCE AND ENGINEERING                            No
+100   MSE    MSE201        THERMODYNAMICS & PHASE EQUILIBRIA                                         No
+101   MSE    MSE202         RATE PROCESSES                                                          No
+102   MSE    MSE203         STRUCTURE & CHARACTERIZATION OF MATERIALS                                   No
+103   MSE    MSE204        COMPUTATIONAL METHODS IN MATERIAL SCIENCE AND ENGINEERING                     No
+104   MSE    MSE205          PHYSICS OF MATERIALS                                                     No
+105   MSE    MSE251          PHYSICAL METALLURGY AND MATERIALS CHARACTERIZATION LABORATORY                       Yes
+106   MSE    MSE301         PHASE TRANSFORMATIONS                                                   No
+107   MSE    MSE302         MECHANICAL BEHAVIOUR OF MATERIALS                                         No
+108   MSE    MSE303         ELECTRONIC & MAGNETIC PROPERTIES OF MATERIALS                                No
+
+Note: Exam date, time and venue will be shared on or after June 4, 2026
+
+[PAGE 4]
+DoAA Office                             Course List for Supplementary Examination                                 Exam Date
+June 8-9, 2026                                                   June - 2026
+S. No.     Dept.      Course No.                                         Course Title                                          Lab Course
+109   MSE    MSE304          PRINCIPLES OF METAL EXTRACTION & REFINING                                     No
+110   MSE    MSE305         MATERIALS PROCESSING                                                    No
+111   MSE    MSE306         IRON MAKING AND STEEL MAKING                                              No
+112   MSE    MSE351         MECHANICAL AND ELECTRONIC PROPERTIES OF MATERIALS LABORATORY                        Yes
+113   MSE    MSE352         PROCESS METALLURGY AND MANUFACTURING LABORATORY                                   Yes
+114   MSE    MSE353         INSTRUMENTATION FOR MATERIALS ENGINEERING LABORATORY                                Yes
+115   MSE    MSE604          SCIENCE AND TECHNOLOGY OF THIN FILMS AND DEVICE FABRICATION                     No
+116   MSE    MSE638        SYMMETRY AND PROPERTIES OF CRYSTALS                                        No
+117   MSE    MSE667         SELECTION AND DESIGNING WITH ENGINEERING MATERIALS                            No
+118   MSE     TA211         MANUFACTURING PROCESSES I                                                              Yes
+119   MTH    MSO201         PROBABILITY AND STATISTICS                                                 No
+120   MTH    MSO202M      COMPLEX VARIABLES                                                       No
+121   MTH    MSO203M        PARTIAL DIFFERENTIAL EQUATIONS                                             No
+122   MTH    MSO205        INTRODUCTION TO PROBABILITY THEORY                                         No
+123   MTH    MTH102A       MATHEMATICS - II                                                         No
+124   MTH    MTH111M        SINGLE VARIABLE CALCULUS                                                  No
+125   MTH    MTH112M       APPLICATION OF SINGLE VARIABLE CALCULUS & SEVERAL VARIABLE CALCULUS               No
+126   MTH    MTH113M        LINEAR ALGEBRA                                                          No
+127   MTH    MTH114M       ORDINARY DIFFERENTIAL EQUATIONS                                            No
+128   MTH    MTH201        A FIRST COURSE IN LINEAR ALGEBRA                                             No
+129   MTH    MTH204         ABSTRACT ALGEBRA                                                        No
+130   MTH    MTH204B        ABSTRACT ALGEBRA                                                        No
+131   MTH    MTH209        DATA SCIENCE LAB 2                                                                                        Partially Lab Course
+132   MTH    MTH210          STATISTICAL COMPUTING                                                                                  Partially Lab Course
+133   MTH    MTH211        THEORY OF STATISTICS                                                      No
+134   MTH    MTH301         ANALYSIS - I                                                             No
+135   MTH    MTH304        TOPOLOGY                                                              No
+136   MTH    MTH305         SEVERAL VARIABLE CALCULUS & DEFFERENTIAL GEOMETRY                             No
+137   MTH    MTH308        NUMERICAL ANALYSIS AND SCIENTIFIC COMPUTING-I                                                    Partially Lab Course
+138   MTH    MTH309         PROBABILITY THEORY                                                       No
+139   MTH    MTH313M       ELEMENTARY STOCHASTIC PROCESSES II                                          No
+140   MTH    MTH314         MULTIVARIATE ANALYSIS                                                                                   Partially Lab Course
+141   MTH    MTH403        COMPLEX ANALYSIS                                                        No
+142   MTH    MTH418         INFERENCE I                                                             No
+143   MTH    MTH421        ORDINARY DIFFERENTIAL EQUATIONS                                            No
+144   MTH    MTH422       AN INTRODUCTION TO BAYESIAN ANALYSIS                                                               Partially Lab Course
+
+Note: Exam date, time and venue will be shared on or after June 4, 2026
+
+[PAGE 5]
+DoAA Office                             Course List for Supplementary Examination                                 Exam Date
+June 8-9, 2026                                                   June - 2026
+S. No.     Dept.      Course No.                                         Course Title                                          Lab Course
+145   MTH    MTH424         PARTIAL DIFFERENTIAL EQUATIONS                                             No
+146   MTH    MTH430        NUMERICAL ANALYSIS & SCIENTIFIC COMPUTING II                                                       Partially Lab Course
+147   MTH    MTH434M      COMPLEX ANALYSIS                                                       No
+148   MTH    MTH656        SOBOLEV SPACES AND APPLICATIONS                                            No
+149   MTH    MTH676        ECONOMETRICS                                                          No
+150   MTH    MTH732         REPRESENTATION THEORY OF FINITE GROUPS                                      No
+151   MTH    MTH761        VECTOR BUNDLES AND CHARACTERISTIC CLASSES                                   No
+152   PHY     PHY112          CLASSICAL DYNAMICS                                                      No
+153   PHY     PHY113         INTRODUCTION TO ELECTROMAGNETISM                                         No
+154   PHY     PHY114        QUANTUM PHYSICS                                                        No
+155   PHY     PHY115          OSCILLATIONS AND WAVES                                                   No
+156   PHY    PHY226M         RELATIVITY                                                              No
+157   PHY     PHY303           PRINCIPLES OF LASERS & THEIR APPLICATIONS                                      No
+158   PHY     PHY313          PHYSICS OF INFORMATION PROCESSING                                          No
+159   PHY     PHY401          CLASSICAL MECHANICS                                                      No
+160   PHY     PHY412           STATISTICAL MECHANICS                                                    No
+161   PHY     PHY552          CLASSICAL ELECTRODYNAMICS I                                                No
+162   PHY     PHY557         BACHELOR OF SCIENCE PROJECT -III                                                           Yes
+163   PHY     PHY563          M.SC. PROJECT I                                                          No
+164   PHY     PHY565          M.SC. PROJECT II                                                                           Yes
+165   PHY     PHY566          M.SC. PROJECT III                                                                          Yes
+166   PHY     PHY568          M.SC. PROJECT IV                                                                          Yes
+167   PHY     PHY617         COMPUTATIONAL PHYSICS                                                                                 Partially Lab Course
+168   PHY     PHY626        QUANTUM MECHANICS II                                                    No
+169   PHY     PHY675         NOVEL PHASES OF QUANTUM MATTER                                           No
+170   PHY     PHY682         CONCEPTS OF PLASMA PHYSICS                                                No
+171   PHY     PHY781         HIGH ENERGY PHYSICS II                                                     No
+172   PHY     PSO201        QUANTUM PHYSICS                                                        No
+173    SEE      SEE211          ENERGY, CLIMATE CHANGE & SUSTAINABILITY                                      No
+
+Note: Exam date, time and venue will be shared on or after June 4, 2026

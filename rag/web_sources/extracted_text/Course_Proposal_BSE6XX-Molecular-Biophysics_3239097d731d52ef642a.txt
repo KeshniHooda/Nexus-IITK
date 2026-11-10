@@ -1,0 +1,130 @@
+[Page 1]
+Course number: BSE6XX 
+Course name: Molecular Biophysics 
+Prerequisite: None 
+Credits: [3-0-0-9] 
+Duration of Course: Full Semester 
+Proposing Department/IDP: Biological Sciences and Bioengineering 
+Proposing Instructor(s): Sai Chaitanya Chiliveri 
+Objectives: 
+The primary objective of this course is to provide postgraduate students with a strong and 
+coherent foundation in molecular biophysics, emphasizing how physical principles govern the 
+structure, stability, interactions, and functional dynamics of biological macromolecules. The 
+course aims to help students view biomolecules such as proteins and nucleic acids not only as 
+chemical entities, but also as dynamic physical systems shaped by thermal fluctuations and 
+noncovalent forces. Through biologically relevant examples, students will gain an understanding 
+of key processes, including protein folding and misfolding, molecular recognition, binding 
+equilibria, cooperativity, and allosteric regulation. The course also aims to train students to 
+interpret and critically evaluate experimental data obtained from widely used biophysical 
+techniques. In addition, students will be introduced to modern computational tools, including 
+molecular docking, molecular dynamics simulations, and AI-based structure-prediction 
+methods, enabling them to appreciate how computational and experimental approaches 
+complement each other in contemporary biomolecular research. Overall, the course is designed 
+to strengthen conceptual understanding, develop quantitative intuition, and prepare students to 
+apply molecular biophysics approaches in interdisciplinary research areas, including biology, 
+biotechnology, medicine, and drug discovery. 
+Contents: 
+ 
+S.No 
+Broad topic 
+Specific topics 
+Lecture 
+(in hr) 
+1 
+Introduction to 
+Molecular 
+Biophysics 
+Scope of molecular biophysics; biological length/time/energy 
+scales; thermal motion and fluctuations; noncovalent forces 
+(electrostatics, hydrogen bonding, van der Waals, hydrophobic 
+effect); concept of free energy and stability; effects of salt, pH 
+and temperature; forces shaping protein and nucleic acids 
+structure; protein folding, misfolding and aggregation. 
+8 
+2 
+Molecular 
+Recognition 
+and Binding 
+Protein–ligand binding; protein–protein interactions; DNA/RNA 
+binding proteins; binding affinity (Kd), binding curves and 
+saturation; cooperativity and Hill model; allostery and 
+6
+
+[Page 2]
+molecular switching; multimerization and formation of 
+macromolecular complexes. 
+3 
+Biomolecular 
+Dynamics and 
+Functional 
+Motions 
+Protein 
+flexibility 
+and 
+motion 
+across 
+time 
+scales; 
+conformational exchange; induced fit vs conformational 
+selection; coupling of structure, motion and function; 
+experimental signatures of dynamics; introduction to NMR 
+spectroscopy for studying biomolecular motions. 
+10 
+4 
+Experimental 
+Tools in 
+Molecular 
+Biophysics 
+Circular dichroism and thermal melting; dynamic light 
+scattering for size and aggregation; SEC-MALS for molecular 
+weight and oligomeric state; SAXS basics for shape and 
+flexibility; Isothermal titration calorimetry; Surface plasmon 
+resonance; Biolayer interferometry. 
+9 
+5 
+Computational 
+and AI tools in 
+Molecular 
+Biophysics 
+Molecular docking; molecular dynamics simulations and 
+trajectory analysis; AI-based structure prediction (AlphaFold & 
+Rosetta); integration of computational predictions with 
+experimental observations. 
+6 
+ 
+References: 
+1. Physical Biology of the Cell by Rob Phillips, Garland Science, 2nd Edition. 
+2. Methods in Molecular Biophysics by Nathan Zeccai, Cambridge University Press, 2nd Edition. 
+3. Introduction to Protein Structure by Carl Branden & John Tooze, Garland Publishing, 2nd 
+Edition. 
+4. Research Papers & Review Articles. 
+ 
+Dated: 
+
+Proposer: 
+
+ 
+ 
+Dated: 
+
+DPGC Convener: 
+
+ 
+
+ 
+
+This course is approved /not approved 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Chairman, SPGC 
+
+ 
+ 
+Dated:

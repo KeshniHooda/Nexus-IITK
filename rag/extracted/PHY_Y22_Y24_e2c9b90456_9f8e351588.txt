@@ -1,0 +1,187 @@
+[PAGE 1]
+Course Template as per New UGARC
+
+Template for 1st year (1st and 2nd semester)
+
+Course template for ﬁrst and second semesters for all BT/BS students
+Group 1                                  Group 2
+Semester 1            Semester 2           Semester 2            Semester 1
+SCHEME-1 [9 credits]    ETH111 [6 credits] **   ETH 111 [3 credits] **   SCHEME-1 [9 credits]
+ELC111/ELC112/ELC113*                                              ELC112/ELC113 *
+MTH 111 [6 credits]    MTH 113 [6 credits]   MTH 111 [6 credits]   MTH 113 [6 credits]
+MTH 112 [6 credits]    MTH 114 [6 credits]   MTH 112 [6 credits]   MTH 114 [6 credits]
+PHY 113 [11 credits]    PHY 112 [11 credits]   PHY 112 [11 credits]   PHY 113 [11 credits]
+PHY 111 [3 credits]    CHM 111 [3 credits]   CHM 111 [3 credits]    PHY 111 [3 credits]
+TA 111 [9 credits]      ESC 111 [7 credits]    ESC 111 [7 credits] $$     TA 111 [9 credits]
+CHM 112 [4 credits]     ESC 112 [7 credits] $$    ESC 112 [7 credits]   CHM 112 [4 credits]
+CHM 113 [4 credits]       LIF 111 [6 credits]       LIF 111 [6 credits]    CHM 113 [4 credits]
+PE 111 [3 credits]       PE 112 [3 credits]      PE 111 [3 credits]      PE 112 [3 credits]
+Total = 55                 Total = 52               Total = 52                Total = 55
+
+*: Please see details I the section of English courses.
+**: UGARC originally proposed this as 0 credit course, however the implementation committee after
+deliberations proposes 3 credits for the course. Please see the section of Practical ethics for details.
+$$: Or any other equivalent computing course offered by other departments.
+
+[PAGE 2]
+20.1   Template for BS program in Physics (For Y22 to Y24)
+
+Template for 3rd to 8th semester for BS program in Physics
+
+Semester 3     Semester 4     Semester 5   Semester 6       Semester 7     Semester 8
+
+SCHEME-2 EME   SCHEME-3 HSS-I   SCHEME-4      SCHEME-5 HSS-II    SCHEME-6
+(9-11)              (9-11)               HSS-II (9)          (9)                    HSS-II (9)
+
+PHY224 (12)      ESC201 (14)      PHY315 (9)     PHY412 (11)       PHY461 (8)       DE-5/UGP-3 (9)
+E/SO-1 (12)      PSO201(8)                      DE-2 (9-12)        DE-3/UGP-2 (9)    DE-6 (9)
+(MSO202M§,                   PHY401^ (11)   (PHY617§)
+MSO203M§)
+
+OE-1 (9)       PHY210M (6)     PHY431 (11)    PHY552 (11)       DE-4 (9)          DE-7 (9)
+
+PHY421^ (11)   PHY226M (6)     DE-1 (9)       OE-2 (9)           OE-3 (9)          OE-5 (9)
+
+E/SO-2 (9-11)    PHY888 (3)     UGP-1 (4)          OE-4 (9)         OE-6 (9)
+(MSO201§)       (S/X)            (Optional)
+
+53-55          52-56         52           49-52           53            45
+
+§  These courses are suggested; however, students can take other courses in the E/SO basket also such that total
+credits including PSO201 is at least 28.
+^ For Y22 and Y23 batches, the semester-wise order of these courses is swapped.
+
+Course type                 Credits in the department template
+Institute Core (IC)          112
+E/SO                    28
+Department requirements  149 (99 DC + 63-65 DE)
+Open electives (OE)         54
+SCHEME                    54-58
+Total for 4-year BT/BS        410-416
+
+20.2   Template for BSH program in Physics
+
+Template for 3rd to 8th semester for BSH program in Physics
+
+Semester 3     Semester 4    Semester 5    Semester 6        Semester 7    Semester 8
+
+SCHEME-2       SCHEME-3       SCHEME-4       SCHEME-5 HSS-II      SCHEME-6
+EME (9-11)         HSS-I (9-11)        HSS-II (9)           (9)                      HSS-II (9)
+
+PHY224 (12)     ESC201 (14)     PHY315 (9)      PHY412 (11)        PHY461 (8)      UGP-3 (9)
+
+E/SO-1 (12)     PSO201 (8)     PHY401^ (11)    DE-2 (9-12)          DE-3 (9)         DE-4 (9)
+(MSO202M§,                                    (PHY617§-
+MSO203M§)                                        old PHY473A)
+
+OE-1 (9)       PHY210M (6)    PHY431 (11)     PHY552 (11)        UGP-2 (9)       DE-5 (9)
+
+PHY421^ (11)   PHY226M (6)    DE-1 (9)         OE-2 (9)            OE-3 (9)        OE-5 (9)
+
+E/SO-2 (9-11)    PHY888 (3)                          OE-4 (9)        OE-6 (9)
+(MSO201§)       (S/X)
+
+[PAGE 3]
+DEH-1 (9-11)        DEH-2 (9-11)    DEH-3 (9-11)
+
+53-55          52-56         52            58-64             62-64         54-56
+
+§  These courses are suggested; however, students can take other courses in the E/SO basket also such that total
+credits including PSO201 is at least 28.
+^ For Y22 and Y23 batches, the semester-wise order of these courses is swapped.
+
+–  DEH from the basket of: PHY626A(432A), PHY625A(422A), PHY611A (PHY526A), PHY612A(524A), PHY623A(543A),
+PHY628A, PHY685 (PHY681A) (Old course numbers in bracket)
+
+–   CPI criteria for BSH: 8.5
+
+20.3   Template for BSM program in Physics
+
+Template for 3rd to 8th semester for BSM program in Physics
+
+Semester 3     Semester 4     Semester 5     Semester 6     Semester 7     Semester 8
+
+SCHEME-2 EME   SCHEME-3 HSS-I   SCHEME-4       SCHEME-5 HSS-II   SCHEME-6 HSS-II
+(9-11)              (9-11)               HSS-II (9)            (9)                   (9)
+
+PHY224 (12)      ESC201 (14)      PHY315 (9)      PHY412 (11)     PHY461 (8)       DE-3 (9-11)
+
+E/SO-1 (12)     PSO201 (8)      PHY401^ (11)     DE-1 (9-11)       DE-2 (9-11)       DE-4 (9-11)
+(MSO202M§,
+MSO203M§)
+
+OE-1 (9)        PHY210M (6)     PHY431 (11)     PHY552 (11)      OE-3 (9)        MTB-4 (9)
+
+PHY421^ (11)    PHY226M (6)     OE-2 (9)        MTB-1 (9)       MTB-2 (9)       MTB-5 (9)
+
+E/SO-2 (9-11)    PHY888 (3)       UGP-1 (4)       MTB-3 (9)       MTB-6 (9)
+(MSO201§)      S/X                (Optional)
+
+53-55          52-56         52            51            53            46
+
+§  These courses are suggested; however, students can take other courses in the E/SO basket also such that total
+credits including PSO201 is at least 28.
+^ For Y22 and Y23 batches, the semester-wise order of these courses is swapped.
+
+–  The MTB courses would be taken from a basket as suggested by DoMS.
+
+20.4   Template for five-year dual-degree program
+
+BS Template for 3rd to 8th semester
+
+Semester 3   Semester 4  Semester 5  Semester 6   Semester 7   Semester 8   Semester 9   Semester 10
+
+SCHEME-2     SCHEME-3    SCHEME- 4    SCHEME- 5      SCHEME- 6                    DEPG-1 [9]     DEPG-2 [9]
+EME (9-11)      HSS-I (9-       HSS-II (9)       HSS-II (9)         HSS-II (9)
+11)
+
+PHY224 (12)    ESC201      PHY315 (9)   PHY412 (11)    PHY461 (8)     DE-5/ UGP-3   OEPG-1 [9]     OEPG-2 [9]
+(14)                                                                 (9)
+
+[PAGE 4]
+BS Template for 3rd to 8th semester
+
+Semester 3   Semester 4  Semester 5  Semester 6   Semester 7   Semester 8   Semester 9   Semester 10
+
+E/SO-1 (12)   PSO201 (8)   PHY401^     DE-2 (9- 12)    DE-3 (9)       DE-6 (9)       PHY563 [9]     PHY566 [9]
+(MSO202M§,                  (11)          (PHY617§-
+MSO203M§)                               old PHY473A)
+
+OE-1 (9)      PHY210M    PHY431      PHY552 (11)    DE-4    /     DE-7 (9)       PHY565 [9]     PHY568
+(6)            (11)                      UGP-2 (9)                                            [9]
+
+PHY421^ (11)  PHY226M    DE-1 (9)      OE-2 (9)       OE-3 (9)       OE-5 (9)
+(6)
+
+E/SO-2 (9-    PHY888 (3)   UGP-1 (4)      OE-4 (9)       OE-6 (9)
+11)           S/X          (Optional)
+(MSO201§)
+53-55        52-56      52         49-52        53          45          40          40
+
+§  These courses are suggested; however, students can take other courses in the E/SO basket also such that total credits
+including PSO201 is at least 28.
+^ For Y22 and Y23 batches, the semester-wise order of these courses is swapped.
+
+BS-MS: UG-requirements: (old course numbers in bracket)
+
+1.  Category A: PHY625A(422A)/PHY692A; PHY626A(432A); PHY462; 1 of the *DE
+
+2.  Category B: PSO201/PHY114; PHY210M (or an equivalent course); PHY226M; PHY401; PHY412; 1 of the *DE; PHY552;
+PHY421 (or an equivalent course); PHY625A(422A)/PHY692A; PHY431; PHY626A(432A); PHY461; PHY462.
+
+3.  *DE courses: PHY611A (PHY526A), PHY612A (PHY524A), PHY623A(543A), PHY628A, PHY681A.
+
+20.5   Template for the double major: second major in Physics
+
+PSO201/PHY114; PHY210M (or an equivalent course); PHY226M; PHY401; PHY412; PHY552; PHY421 (or an equivalent
+course); PHY431; PHY461
+
+20.6   Minors in Physics
+
+1.  Quantum Mechanics: PSO 201/PHY114, PHY210M, PHY226M, PHY431
+
+2.   Statistical Mechanics: PSO 201/PHY114, PHY210M, PHY226M, PHY412
+
+3.  Soft Matter: PHY210M, PHY205M, PHY412, PHY628
+
+4.  Gravity: PSO 201/PHY114, PHY210M, PHY226M, PHY407

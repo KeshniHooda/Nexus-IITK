@@ -1,0 +1,122 @@
+[Page 1]
+M.Tech / M DES / MSR Thesis Submission Procedure – IIT Kanpur
+
+[Page 2]
+M.Tech / M DES / MSR Thesis Submission Procedure – IIT Kanpur 
+Step 1 – Examiner Panel Approval 
+• 
+Supervisor prepares list of Suggested examiners as per PG Manual (11.4.1) on prescribed 
+format: https://www.iitk.ac.in/doaa/data/pgf13.pdf 
+• 
+The list of examiners, after being signed by the thesis supervisor, DPGC and HOD, will be 
+sent to the DOAA office through the Department office for final approval of Chairperson 
+SPGC. 
+ 
+Step 2 – Pre-Submission to Thesis Processing Cell (TPC) 
+• 
+Prepare your thesis draft and fill the Thesis Processing Form. 
+• 
+Email PDF draft + filled PPD form to ppd_doaa@iitk.ac.in (cc: your supervisor). 
+• 
+TPC will: 
+o Check format compliance with IITK thesis guidelines. 
+o Run plagiarism check using Turnitin. 
+• 
+If approved, TPC sends you the validated form for the next step. 
+ 
+Step 3 – Submission of Thesis to Student Thesis Portal 
+• 
+Once the Oral Board is approved by the SPGC, you will receive a notification from our office with the 
+approval date. After this, you can proceed with submitting your thesis via the student thesis portal. 
+• 
+Upload: 
+o Final thesis PDF (with all corrections/Duly signed by Supervisor and Student) 
+o Abstract/Synopsis PDF 
+o Approved Thesis Processing Form PDF 
+o Signed Declaration Form 
+ 
+Step 5- Thesis Defense and Submission of Defense Report to DOAA office 
+• 
+Upon submission of your thesis, your Supervisor will inform you regarding defense date. 
+• 
+After completing Thesis Defense, Report of your Defense duly signed by all examiners, Thesis 
+Supervisor must be submitted to DOAA office for addition of names to final Graduation list. 
+• 
+Format of Defense Report: https://www.iitk.ac.in/doaa/data/pgf16.pdf
+
+[Page 3]
+Step 6 – NO-Dues Procedure 
+• After completing the Defense, apply for No-dues to obtain Degree, Grade sheet. 
+• No Dues portal link: https://oars.iitk.ac.in/noduesiitk/ 
+ 
+ M.Tech. Thesis Submission & Archival at P.K. Kelkar Library (Link) 
+ Login to the Thesis Submission Portal 
+• 
+Registered Users: Log in using your CC User ID. 
+ Login Portal: Click Here 
+• 
+Remote Access: Use VPN authentication if accessing from outside campus. 
+ VPN Details: Click Here 
+• 
+Login Issues? Contact the Library Circulation Desk at ☎ 0512-259-7671 / 7331. 
+ Mandatory Certificate Page Inclusion 
+• 
+The softcopy of the full thesis must include the certificate page signed by the supervisor(s) 
+and bearing the DOAA stamp. 
+ Acceptable File Formats (PDF Only) 
+• 
+Abstract → RollNumber_abstract.pdf 
+• 
+Full Thesis → RollNumber.pdf 
+• 
+Thesis Authentication Form → RollNumber_authentication.pdf 
+ Download Thesis Authentication Form: Click Here 
+• 
+Follow File Naming Convention: RollNumber_authentication 
+ Generating MD5 and SHA512 Hash Values 
+• 
+MD5 & SHA512 hash generation is required for thesis authentication. 
+ Hash Generation Instructions: Click Here 
+ Authentication & Upload Process 
+• 
+Email the filled authentication form to PG Office relevant desk for signature. 
+• 
+Once signed, upload the form in the Theses Repository. 
+ ETD Repository: https://etd.iitk.ac.in 
+ Final Submission Verification 
+✔ A soft copy of the abstract and full thesis (PDF) must be uploaded. 
+✔ Ensure the thesis document is fully formatted with serial page numbering and no encryption. 
+✔ Library staff will verify the submission before moving the thesis to the repository. 
+ Issuance of No Dues Certificate 
+✔ No Dues Certificate will be issued only after the thesis is archived in the repository. 
+ Contact for Assistance
+
+[Page 4]
+☎ Library Circulation Desk: 0512-259 7671 / 7331 
+ Library Homepage: Library Website 
+ No Dues Certificate 
+Issued only after thesis is archived in the repository 
+ For DOAA No-Dues: pg_office@iitk.ac.in 
+ 
+DOAA Stamp Requirement 
+• 
+Mandatory before submitting thesis at P.K. Kelkar Library 
+• 
+Contact relevant desk for DOAA Stamp: 
+Email ID 
+Programme 
+mtech_thesis@iitk.ac.in 
+MTech 
+mtech_thesis2@iitk.ac.in 
+MSR, MDes 
+
+Step 6 – No-Dues Clearance 
+• 
+After library acceptance, 
+• 
+Clear dues from: 
+o Department 
+o Hall of Residence 
+o Accounts 
+o ID Cell (return ID, medical booklet) 
+o Other sections as applicable.

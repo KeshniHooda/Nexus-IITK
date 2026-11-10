@@ -1,0 +1,91 @@
+[Page 1]
+INDIAN INSTITUTE OF TECHNOLOGY KANPUR 
+DEPARTMENT OF MANAGEMENT SCIENCES 
+Proposal for New Course 
+
+1. Course Title: Design and Analysis of Experiments 
+2. Course Number: DMSXXX 
+3. Credits: 3-0-0-1[10] 
+4. Duration of the course: Full semester 
+5. Proposing Instructor: Nivedita Bhaktha & Deepu Philip 
+6. Proposing department: Management Sciences 
+7. Pre-requisite Courses: At least one course on Probability and statistics 
+8. Other Interested Faculty: 
+ 
+Course Description 
+ 
+This comprehensive semester-long course provides introduction to the principles, methods, and 
+applications of Design of Experiments (DOE) and its implementation using R. Students will develop 
+theoretical understanding and hands-on skills to design, analyze, and interpret experimental data across 
+engineering, industrial, and behavioral science contexts. The learning objectives are as follows: 
+• 
+Design and analyze different types of experiments tailored to research or industrial needs. 
+• 
+Apply appropriate statistical models and interpret the results. 
+• 
+Use R effectively to manage, analyze, and visualize experimental data. 
+• 
+Implement DOE for optimization and process improvement. 
+ 
+Course Content 
+ 
+Sl. 
+No. 
+Topics 
+No. of 
+Lectures 
+1. 
+Introduction and philosophy of design of experiments 
+2 
+2. 
+Fundamentals of design of experiments 
+4 
+3. 
+Anova 
+3 
+4. 
+Latin Square, Graeco-Latin Square, Youden Square Designs 
+3 
+5. 
+Randomized control block designs and balanced 
+incomplete block designs 
+6 
+6. 
+Factorial Designs 
+3 
+7. 
+Fractional Factorial Designs 
+4
+
+[Page 2]
+8. 
+Robust Designs 
+3 
+ 
+Textbooks 
+• 
+Montgomery, D. C. (2017). Design and analysis of experiments. John wiley & sons. 
+• 
+Fisher, R. A., & Fisher, R. A. (1971). The design of experiments (8th ed., p. 216). New York: 
+Hafner. 
+• 
+Dean, A., & Voss, D. (Eds.). (1999). Design and analysis of experiments. New York, NY: 
+Springer New York. 
+• 
+Cochran, W. G., & Cox, G. M. (1950). Experimental Designs. Wiley (C1950). 
+• 
+Antony, J. (2023). Design of experiments for engineers and scientists. Elsevier. 
+• Kempthorne, O. (1952). The design and analysis of experiments. 
+• Casella G. (2008). Statistical Design. Springer. 
+Students 
+Mtech and PhD students of DoMS and other departments. Senior undergraduate students interested 
+in understanding DOE. 
+
+Signature of Proposer: 
+ 
+Sd/- Nivedita Bhaktha [Date: 12 August 2025] Sd/- Deepu Philip [Date: 21 Aug 2025] 
+
+ 
+
+This course is Approved/ Not Approve This course is Approved/ Not Approved DPGC 
+Convener, DoMS Chairperson SPGC

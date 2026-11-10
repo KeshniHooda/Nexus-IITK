@@ -1,0 +1,25 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+Kanpur 208 016 Uttar Pradesh (India)
+Academic Section
+
+Student Awards and Honours
+
+Student’s Name: Mr. Ritik Rajput
+
+Programme and Department: PhD/EE
+
+Thesis Supervisor/Mentor: Prof. Ankush Sharma
+
+Award/Honour: Best Paper Award
+
+Host Organization: Penang, Malaysia
+
+Brief Description of the Award/Honour Mr. Ritik Rajput has received the best paper
+award in the 4th International Conference on Power Engineering Applications (ICPEA)
+in Penang, Malaysia held on 4-5th March 2024. The title of his paper is "Enhancing
+Short-Term Load Forecasting: A Hybrid Approach with Prophet and Custom Feature
+Engineering". The paper is coauthored with Ms. Namita Kumari and Professor Ankush
+Sharma.
+
+Date: Apr 13, 2024

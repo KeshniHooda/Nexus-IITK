@@ -1,0 +1,467 @@
+[PAGE 1]
+Website: www.iitk.ac.in/phy
+
+[PAGE 2]
+PHD PROGRAM IN PHYSICS
+
+The Department of Physics offers many subdisciplines in the PhD. program. The
+requirements are prescribed to ensure that the scholars acquire enough professional
+maturity to enable them to deal with a wide range of research problems in their
+respective fields of specialization as written below:
+
+Biological  Fluids, Compartment  Soft  Matters,
+Exoplanet, Fluid Dynamics, Game Theory, Ion
+1. Complex System              Beam, Non-linear Dynamics, Nuclear and Atomic
+Physics, Plasma Physics, Smart Surfaces, Soft
+and Active Matters, Turbulence, etc.
+
+2D and Nano  Materials, Magneto-electronics,
+Magneto-optics,   Opto-spintronics,  Quantum
+Materials, Quantum Devices, Strongly Correlated
+2. Condensed Matter (Expt.)
+Electron Systems, Semiconductor Physics, STM,
+Superconductivity,    Topological     Materials,
+Ultrafast light-Matter Interaction, etc.
+
+Density Functional Theory (DFT), Equilibrium
+and  Non-Equilibrium  Quantum   Transport,
+3. Condensed Matter (Theory)      Materials  Informatics and Machine Learning
+(ML), Superconductivity and Magnetism, Ultra-
+cold Atoms, etc.
+AdS/CFT,  Conformal   Field  Theory   (CFT),
+Cosmology and Astrophysics, Experimental High
+Energy Physics, ML in HEP, Neutrino Physics,
+4. High Energy Physics
+Quantum   Field  Theory   (QFT),  Quantum
+Chromodynamics   (QCD),  SM   and  BSM
+Phenomenology, String Theory, etc.
+
+Biogenic Photonics, Cold Atoms and Quantum
+Metrology with Single Pure state of Cold Atoms
+and Ions, Fiber Optics, Laser Cooling and Trap,
+5. Photonics and Quantum Optics
+Light-Matter   Interaction,  Quantum   Optics,
+Nonlinear Optics, Quantum Computation and
+Simulations with Cold Ions, etc.
+
+[PAGE 3]
+ELECTIVE COURSES
+
+❖  Advanced general relativity and black holes
+❖  Advanced quantum and statistical mechanics
+❖  Advanced quantum mechanics
+❖  Advanced statistical mechanics
+❖  Astrophysics
+❖  Coherence & quantum entanglement
+❖  Coherent optics
+❖  Computational simulation methods in physics
+❖  Concepts of plasma physics
+❖  Condensed matter II
+❖  Condensed matter phenomena in low dimensional materials
+❖  Cooperative phenomena in classical & quantum systems
+❖  Correlated electrons and quantum magnetism
+❖  Cosmology
+❖  Density functional theory
+❖  Dynamical Systems and Chaos
+❖  Electronic structure of materials
+❖  Evolutionary game dynamics
+❖  Gauge theory and renormalization
+❖  General relativity & cosmology
+❖  Green nanotechnologies
+❖  Group theory and its applications to particle physics
+❖  High Energy Physics II
+❖  High Performance Computing with Applications
+❖  Introduction group theory & its application to quantum mech.
+❖  Introduction to astrophysical fluid
+❖  Introduction to biophotonics
+❖  Introduction to conformal field theory
+❖  Introduction to high performance computing and machine learning
+❖  Introduction to high performance computing for scientists and engineers
+❖  Introduction to spintronics
+❖  Introduction to x-ray neutron scattering
+❖ Low temperature physics
+❖  Machine Learning in Particle Physics
+❖  Magnetism in materials
+❖  Mathematical methods II
+❖  Measurement techniques
+❖  Metamaterials & plasmonics
+❖  Non-equlibrium statistical mechanics
+❖  Nonlinear system & dynamics
+❖  Nuclear techniques in solid state studies
+❖  Optical Imagining
+❖  Particle physics
+❖  Photonic devices
+
+[PAGE 4]
+ELECTIVE COURSES
+
+❖  Physics and technology of thin films
+❖  Physics at Hadron Collider
+❖  Physics of life
+❖  Physics of natural nano-machines
+❖  Physics of semiconductor nanostructures
+❖  Physics of turbulence
+❖  Principles of lasers and detectors
+❖  Quantum dynamics, information and computation
+❖  Quantum dynamics: computation & information
+❖  Quantum electronics
+❖  Quantum field theory
+❖  Quantum many body physics
+❖  Quantum optics
+❖  Quantum phases in nano-scale system
+❖  Quantum Technology
+❖  Soft matter physics
+❖  Soft matter: concepts and methods
+❖  Special & general relativity
+❖  Special topics in quantum mechanics
+❖  Stochastic dynamics of cognition
+❖  Superconductivity and applications
+❖  Techniques in Experimental High Energy Physics
+❖  The standard model of fundamental physics
+❖  Theory of random processes and applications
+❖  Thermal physics at nano-scale
+❖  Topics in semiconductor
+❖  Transport in mesoscopic systems
+❖  Turbulence in space plasmas
+❖  Type II superconductors vortices & applications
+❖  Uncertainty, Information, and Classical dynamics
+
+[PAGE 5]
+MAJOR RESEACH FACILITIES
+
+Condensed Matter Physics:
+Nitrogen and Helium Liquefiers, Superconducting magnets (up to 14 Tesla), Closed
+cycle Helium Refrigerators (down to 1.3 K), Experimental Setup for Resistivity, Hall
+Effect and Magnetic Susceptibility, Magnetoresistance, Specific Heat, Thermoelectric
+Power, Tunneling Conductance, Magnetostriction, Ultra high vacuum scanning probe
+microscope, superconducting quantum interference device (SQUID) based Magnetic
+Properties Measurement System (MPMS) with 10-6 emu resolution and 1.7K - 350K
+temperature range and magnetic  field up to 5 Tesla. We also have a Physical
+Properties Measurements System (PPMS) with a 14 tesla superconducting magnet
+and helium–3 fridge with 300 mK base temperature. Scanning electron microscope
+(SEM) with electron beam lithography facilities for nano-scale patterning have been
+installed recently.
+Some homemade facilities like variable temperature (8K - 300K) scanning tunneling
+microscope (STM) with atomic resolution and conductance imaging, magneto-optic
+Kerr effect (MOKE) imaging of magnetic surfaces, Pulsed Excimer Laser ablation
+facility for synthesis of magnetic, superconducting and dielectric superlattices, high
+frequency measurements  of  vortex dynamics  in  superconductors, Raman and
+microRaman Spectroscopy set-up for correlated systems. There are also experimental
+set ups for Dielectric measurement including Ferroelectric hysteresis of bulk and thin
+film materials, Thermal expansion measurement, Broadband FMR spectroscopy of
+ultrathin films, and Inverse Spin Hall Effect measurement.
+Well-equipped  facilities have been setup  for opto-electronic characterization  of
+semiconductor materials and devices. State of the art research facilities for organic
+semiconductors are available. The Department participates in major projects on
+Organic Electronics through Samtel Centre for display Technologies. For micro-
+fluidics, we have contact angle Goniometer, fluorescent microscope and high speed
+(10,000 fps) camera
+
+Condensed Matter Physics:
+
+ND:YAG   lasers,  Excimer  Laser,  Double  Monochromators,  Photon  Counters,
+Spectrofluorimeter, Box Car Averagers, Vibration free tables. Facilities exist for High
+Resolution  Spectroscopy, Micro-Raman  Spectroscopy,  Laser  based pump-probe
+measurements,  Laser-Plasma  Studies  and  Nonlinear  Optics,  Diode  Lasers,
+spectrograph-CCD system, Optical Spectrum Analyzers and Fibre Optics System,
+Optical Lithography Set-up, Atomic Force Microscopy Facility (Park XE 70 machine
+with a 100micron X 100 micron scanner head and a liquid cell). Two new Labs –
+Quantum and Nano-Optics, Quantum Optics and Entanglement Lab. are being set up.
+
+[PAGE 6]
+MAJOR RESEACH FACILITIES
+
+lon Beam and Nuclear Techniques Laboratory:
+
+Mossbauer Spectrometer, Tandem particle accelerator, focused ion beam (FIB) with
+SEM column (Nova Lab 600) for Nano Microfabrication down to nm scales, modern
+1.7 MeV Tandetron accelerator with capabilities of producing ion beams of almost all
+elemental species. The facility is equipped with a nuclear microprobe station for
+science and engineering applications such as proton and heavy ion beam writing, RBS,
+PIXE and ion Channeling E-beam deposition, Positron  Annihilation, Mossbauer
+Studies at Low Temperatures.
+
+Computational Facilities:
+
+Physics cluster (Newton): 396 cores, 1.5 TB memory, Infiband switch. Chaos I: 256
+cores, ½ TB RAM, Gigabit switch. Chaos II: 128 cores, ½ TB RAM, Two K10 GPU cards,
+Infiband switch. Many workstations including 3D capable visualisation stations. Dirac
+cluster for electronic structure calculations, 96 cores, 768 GB RAM. In addition, there
+are the following Institute facilities :hpc Cluster 1: 2994 cores, 100 TB storage, Peak
+rating 34.5 Tflops (Ranked 369 in June 2010 Top500 ranking). hpc Cluster II: 15,360
+cores, 98TB RAM, Peak rating 316 Tflops (Ranked 130 in Nov 2013 Top500 ranking).
+The Department organizes a yearly “JagadishwarMahanty Distinguished Lecture”
+(since the year 2005) by an eminent scientist which provides unique opportunity of
+interaction with faculty and students, and a “Research Scholars Day” involving short
+talks and poster presentations by research scholars in the department apart from the
+weekly colloquium and seminars.
+
+[PAGE 7]
+FACULTY LIST
+
+Adhip Agarwala, Ph.D. Indian Institute of Science, Bengaluru 2018.
+Areas of Interest: Theoretical quantum condensed matter physics
+Aditya Kelkar, Ph.D. Tata Institute of Fundamental Research, 2009.
+Area of research: Experimental atomic collision physics, heavy ions and electron collisions,
+accelerator physics
+Anjan Kumar Gupta, Ph.D. University of Kentucky, 2001
+Area of research: Scanning Tunneling Microscopy, Superconductivity
+Amit Agarwal, Ph.D. Indian Institute of Science, Bangalore, 2009
+Area of research: quantum many-body effects, low-dimensional quantum systems
+Anand Kumar Jha, Ph.D. University of Rochester, 2009
+Area of research: Quantum-optics
+Arjun Bagchi, Ph.D. Harish chandra Research Institute, 2009
+Area of research: Theoretical High Energy Physics, String Theory
+Arijit Kundu, Ph.D. Heinrich-Heine University, Germany, 2012
+Area of research: Equilibrium and non-equilibrium quantum transport. Topological systems
+in condensed matter.
+Apratim Kaviraj, Ph.D, IISc Bangalore, 2017
+Area of research: Theoretical high energy  physics, conformal  field  theories,  critical
+phenomena
+Chanchal Sow, Ph.D. Indian Institute of Science, Bangalore, 2014
+Area of research: Magnetism in Complex Oxides, Interplay between Ferromagnetism and
+Superconductivity, Single Crystal and Thin Film Growth of Novel Quantum Materials, Strongly
+Correlated Electron Systems under Non Equilibrium Steady State (SCESness).
+Chandrima Banerjee, Ph.D. S N Bose Center, 2017
+Area of research: Experimental Condensed Matter Physics, Magneto-Optic Spectroscopy,
+Ultrafast Light Matter Interaction, XUV Spectroscopy
+Debtosh Chowdhury, Ph.D. IISc, Bangalore, 2013
+Area of research: Theoretical Particle Physics, Beyond the Standard Model phenomenology,
+Cosmology andAstroparticle physics
+Dipankar Chakrabarti (HoD), Ph.D. Saha Institute of Nuclear Physics, 2004
+Area of research: Quantum Chromodynamics,  Lattice Gauge Theory, Lightcone Field
+Theories
+Diptarka Das, Ph.D. University of Kentucky, 2014
+Area of research: Conformal field theories, Non-equilibrium physics, String theory
+Gopal Hazra, Ph.D. Indian Institute of Science,Bengaluru 2018
+Areas of Interest: Astrophysical Magnetic fields, Exoplanets, Exoplanetary Atmospheres,
+Solar and Planetary winds, Space weather
+Goutam Das, Ph.D Saha Institute of Nuclear Physics, 2017
+Areas of Interest: Perturbative Quantum Chromodynamics, Effective Theories
+
+[PAGE 8]
+FACULTY LIST
+
+Harshwardhan Wanare, Ph.D. University of Hyderabad, 1998
+Area of research: Non-linear optics, imaging
+Jayita Nayak, Ph.D. DeviAhilyaViswavidyalaya, Indore, 2015
+Area of research: Angle resolved photoemission spectroscopy of topological insulators, high
+Tc superconductors, and hard X-ray photoelectron spectroscopy of quasicrystals and Heusler
+alloys
+Joydeep Chakrabortty, Ph.D. Harishchandra Research Institute, 2011
+Area of research: Particle Physics (Theory and Phenomenology); Main interest: Unification
+of fundamental forces, Supersymmetry, Supergravity
+Kaushik Bhattacharya, Ph.D. Saha Institute of Nuclear Physics, 2005
+Area of research: Cosmology, Particle Physics
+Krishnacharya, Ph.D. Max Planck Institute, 2007
+Area of research: Soft Matter Physics
+Koushik Pal, Ph.D, JNCASR, 2017
+Area of research: Materials theory and simulation, Materials informatics and machine
+learning, Quantum and energy materials
+Mahendra K Verma, Ph.D. University of Maryland, 1994
+Area  of research: Nonlinear  Physics, Turbulence, Nonequilibrium  Statistical  Physics,
+Astrophysics
+Manas Khan, Ph.D. Indian Institute of Science, Bangalore, 2011
+Area of research: Statistical Physics of Soft and Active Matter (Experiment, Modeling and
+Computation), Optical Trapping and Micromanipulation, Brownian dynamics simulation
+Manoj Kumar Harbola, Ph.D. City University of New York, 1989
+Area of research: Atomic and Molecular Physics
+Navaneeth Poonthottathil, Ph.D., Cochin University of Science and Technology (CUSAT) and
+Fermilab, 2017
+Area of research: Experimental High Energy Physics
+Nilay Kundu, Ph.D. Tata Institute of Fundamental Research, 2014
+Area of research: Theoretical High Energy Physics, String Theory
+R Vijaya, Ph.D. IIT Madras, 1991
+Area of research: Fiber optics, Nonlinear optics and Photonic band gap structures
+Rajeev Gupta, Ph.D. Indian Institute of Science, 2001
+Area of research: Optical spectroscopy and phases
+Rohit Medwal, Ph.D., University of Delhi, 2014
+Areas of Interest: Nanomagnetism, Spin transport and high frequency spin dynamics in spin
+devices, Terahertz spintronics
+Sagar Chakraborty, Ph.D. S N Bose National Centre for Basic Sciences, 2009
+Area of research: Nonlinear Dynamics, Evolutionary Game Theory
+
+[PAGE 9]
+FACULTY LIST
+Saikat Ghosh, Ph.D. Cornell University, 2008
+Area of research: Quantum Optics
+Satyajit Banerjee, Ph.D. Tata Institute of Fundamental Research, 2000
+Area of research: Superconductivity, Magneto-optics
+Sivasurendar Chandran, Ph.D. Indian Institute of Science, Bangalore, 2014
+Area of research: Polymer and Soft Matter Physics
+Soumik Mukhopadhyay, Ph.D. Saha Institute of Nuclear Physics, 2009
+Area of research: Spintronics, Nanomagnetism, Physics of complex oxide materials
+Sudeep Bhattacharjee, Ph.D. RIKEN, Japan, 1999
+Area of research: Plasma Physics, Focused ion beams from intense plasmas, Interaction of
+multi-element ion beams with matter, Physics of nano-scale systems
+Sudeep K Ghosh, Ph.D., Indian Institute of Science Bangalore, 2017
+Areas of Interest: Superconductivity and magnetism, Topological order, Ultracold atoms
+Sapam Ranjita Chanu, Ph.D., Indian Institute of Science Bangalore, 2014
+Areas of Interest: Quantum computation and simulations with cold ions, cold atoms and
+quantum metrology with single pure state of cold atoms and ions
+Sabyasachi Chakraborty, Ph.D., IACS, Kolkata, 2016
+Areas of Interest: Theoretical Particle Physics
+Sudipta Dubey, Ph.D. Tata Institute of Fundamental Research, 2015
+Area of research: Opto-electronics, Physics of atomically thin materials, Low-temperature
+electrical transport
+Supratik Banerjee, Ph.D.Universite Paris-Sud, France 2014
+Area of research: Turbulence in fluids, Physics of space and astrophysical plasmas
+Swagata Mukherjee, Ph.D., University of Calcutta, 2016
+Area of research: Experimental High Energy Physics, Collider experiments.
+Sanmay Ganguly, Ph.D, TIFR, Mumbai, 2015
+Area of research: Experimental High Energy Physics, Application of machine learning in HEP
+and other branches of physics
+Subhomoy Haldar, Ph.D, Homi Bhabha National Institute, RRCAT, 2020
+Area of research: Semiconductor Physics, Quantum Devices, Single Photon Detection,
+Magneto-Optical Transport
+Taraknath Mandal, Ph.D., IISc, Bangalore, 2015
+Area of Research: Computational Soft Matter Physics and Biophysics
+Tarun Kanti Ghosh, Ph.D. Institute of Mathematical Sciences, 2003
+Area of research: Utra-cold atomic gases, Nanoscopic physics
+Tapobrata Sarkar, Ph.D. Institute of Mathematical Sciences, 2001
+Area of research: String Theory & Quantum Gravity
+Venkata Jayasurya Yallapragada, Ph.D., TIFR, 2017
+Area of research: Nanophotonics, nanoscale light emitters and scatterers, biogenic photonic
+structures, optical imaging
+Zakir Hossain, Ph.D. Tata Institute of Fundamental Research, 1997
+Area of research: Superconductivity, Strongly-correlated electron systems
+
+[PAGE 10]
+BROAD RESEARCH AREAS
+
+The major research groups and active research areas are listed below:
+Condensed Matter Experiments
+
+❖Broadband FMR spectroscopy, spin pumping
+❖Charge Ordered State of Transition Metal Oxide Thin Films
+❖Defects and Disorder in Semiconductors
+❖Dielectric spectroscopy
+❖Effects of Localized States on Electrical and Optical Properties
+❖Electronic and Magnetic Properties of Transition Metal Oxides
+❖Electronic, Magnetic, Optical Properties of Surfaces using Scanning Probe Microscopy
+❖Hybrid Inorganic/Organic Devices
+❖Intense Laser-Matter Interaction
+❖Interplay between Magnetism and Superconductivity
+❖Low dimensional magnets
+❖Magnetic and Transport behaviour of Heavy Fermion Compounds
+❖Magneto-Optical Imaging
+❖Nanostructures of Superconducting and Magnetic Materials
+❖Non-Equilibrium Transitions in Driven Vortex States of Superconductors
+❖Quantum Devices
+❖Quantum Materials
+❖Printable Electronics, Organic LED and Lighting
+❖Soft Matter Physics
+❖Spin transport, Inverse Spin Hall Effect
+❖Spintronics, Spin-Polarized Tunneling in Transition Metal Oxides
+❖Strongly Correlated Electron Systems in Low Dimensions
+❖Ultrafast light-matter interaction
+
+Condensed Matter Theory
+
+❖Antiferromagnetism, Superconductivity, BE Condensation and Disordered Systems
+❖Applications of Density Functional Theory
+❖Classical and Quantum Phase Transitions in Random Systems
+❖Correlated Electrons and Quantum Magnetism
+❖Electronic Structure of Atoms, Molecules, and Solids
+❖Electronic Structure of Disordered Systems
+❖Low Dimensional Electronic Systems, Graphene, Spintronics
+❖Molecular Dynamics Simulations and Genetic Algorithms
+❖Non-Equilibrium Dynamics of Magnetic and Non-Magnetic Systems
+❖Non-equilibrium Dynamics of Spin Systems
+❖One-Dimensional and Quasi-One Dimensional Spin and Electron Systems
+❖Phase Transitions in Driven Diffusive Systems
+❖Plasmonic Properties of Metallic Structures
+
+[PAGE 11]
+BROAD RESEARCH AREAS
+
+❖Quantum Entanglement and Quantum Computation
+❖Quantum Many Body Effects in Low Dimensional Systems
+❖Spin, Charge, Orbital Correlations in Transition Metal Oxides
+❖Structured Photonic Materials and Negative Refractive Materials
+❖Topological Insulators
+❖Transport Properties of Hybrid Structures
+
+Photonics and Quantum Optics
+❖Bio-Medical Applications
+❖Coherent Control of Light-Matter Interaction
+❖Cold-Atom Systems, Foundations of Quantum Mechanics
+❖Imaging in Complex Media & Biological Tissues
+❖Laser Raman Spectroscopy
+❖Laser-Plasma Studies
+❖Nonlinear Optics, Fiber Optics
+❖Non-Linear Optics, Quantum Optics
+❖Photonic Band Gap Structures
+❖Photonics and Waves in Random Media
+❖Quantum Optics, Quantum Information, Precision Spectroscopy
+❖Using Cold-Atom Systems to Probe Nano-Materials and Molecules.
+
+High-Energy Physics
+❖Astrophysics, Cosmology, Astroparticle Physics
+❖Black Holes Thermodynamics.
+❖Classical and Quantum Gravity,
+❖Experimental High Energy Physics (Neutrino Experiments and Collider Physics
+Experiments)
+❖Hydrodynamics from charged black branes, fluid dynamics and gravity
+❖Machine Learning in Particle Physics
+❖Particle Physics, Beyond Standard Model Phenomenology
+❖Quantum Chromodynamics, Lattice Gauge Theory, Effective Field Theory
+❖Quantum Field Theory
+❖String Theory, AdS-CFT and AdS-Condensed Matter correspondence.
+
+[PAGE 12]
+BROAD RESEARCH AREAS
+
+Plasma Physics and Ion beam Physics
+
+❖Atmospheric pressure low temperature micro-plasmas
+❖Atomically heterogeneous systems created with low energy ion beams
+❖Experimental plasma physics
+❖Ion-Beams for science, engineering and technology
+❖Physics of plasmas confined by a dipole magnet
+❖Plasma based multielement focused ion beams
+❖Research using focused ion beams
+❖Wave Interaction with plasmas confined in multi-cusp magnetic fields
+
+Complex Systems
+❖Analytical theory for different type of turbulent flows
+❖Astrophysics
+❖Biological and Statistical Physics
+❖Biological Fluids
+❖Brownian dynamics simulations
+❖Computational Soft Matter Physics and Biophysics
+❖Evolutionary Game Theory
+❖Exoplanets
+❖Experimental Plasma Physics
+❖Focused Ion Beams
+❖High Performance Computing
+❖Magnetohydrodynamics & Dynamo
+❖Nonequilibrium statistical physics
+❖Nonlinear Dynamics
+❖Optical Tweezers and Micromanipulations
+❖Origin of magnetic fields in the Sun and stars
+❖Physics of Nanoscale Systems
+❖Smart Surfaces with Tuneable Wetting Properties
+❖Soft Condensed Material
+❖Soft Condensed Matter
+❖Star-planet interaction and space weather
+❖Statistical physics of Soft and Active matters
+❖Surfaces and Interfaces
+❖Turbulence and Fluid Dynamics,
+❖Turbulence in living fluids
+
+[PAGE 13]
+CONTACT
+
+Prof. Chanchal Sow
+Email: dpgc_phy@iitk.ac.in
+
+Ms. Meenakshi Mishra
+Email: office_phy@iitk.ac.in
+Phone: 0512-259-7641
+
+Mr. Vijay Kumar Pal
+Email: admissions_phy@iitk.ac.in
+Phone: 0512-259-6998
+
+Webpage: https://www.iitk.ac.in/phy

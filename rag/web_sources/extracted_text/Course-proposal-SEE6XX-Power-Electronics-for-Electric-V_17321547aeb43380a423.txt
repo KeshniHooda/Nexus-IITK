@@ -1,0 +1,97 @@
+[Page 1]
+Indian Institute of Technology, Kanpur 
+Department of Sustainable Energy Engineering 
+Proposal for a New Course 
+
+1. Course Number: SEE6xx 
+2. Course Title: Power Electronics for Electric Vehicles 
+3. Per Week Lectures: 3_(L), Tutorial: _(T), Laboratory: _(P), Additional Hours[0-2]: ___(A) 
+4. Duration of Course: Full Semester 
+5. Proposing Department: SEE 
+Other Departments/IDPs which may be interested: EE 
+Other faculty members interested in teaching: Dr. Suvendu Samanta 
+6. Proposing Instructor: Amarendra Edpuganti 
+7. Course Description: 
+Electric vehicles (EVs) are gradually replacing the conventional vehicles due to climate concerns, shortage 
+of oil resources, and energy security. Power electronics plays an important role in EVs for charging battery 
+from grid and/or renewables, power train, and powering the auxiliary loads. The aim of this course is to 
+give students a deeper understanding of the state-of-the-art power converters used in electric vehicles in 
+terms of operation, analysis, component design, and closed-loop control. Also, the course will cover some 
+of the promising power converters for EVs from the ongoing research. 
+This course consists of four modules starting with the basics of EVs and the role of power electronics for 
+EVs. The second module focuses on analysis, design, and control of power converters for on-board 
+chargers. The third module focuses on different types of front-end converters including solid state 
+transformers, and high power dc-dc converters for off-board charging. Also, this module covers analysis 
+and design of conventional and multiport converters for renewables assisted EV charging and partial power 
+processing converters for EV fast charging. The last module covers the design and control of dc-dc 
+converters for interfacing the battery and control of dc-ac inverters for induction motor, brushless dc motor, 
+and permanent magnet synchronous motor for EVs. 
+8. Learning Objective: At the end of this course, a student should be able to- 
+▪ 
+Understand the role of power electronics in EVs. 
+▪ 
+Analyze, design, and control of different types of power converters for EV charging, motor 
+control, and dc-dc converters for interfacing the battery. 
+▪ 
+Study and analyze the upcoming or promising converters for EVs 
+ 
+9. Contents: 
+S. No 
+Broad Title 
+Topics 
+No. of 
+Lectures 
+1 
+Introduction 
+Basics of EVs, and role of power electronics in EVs 
+3
+
+[Page 2]
+2 
+On-board EV 
+Chargers 
+CCM and DCM based power factor correction converters, dual 
+active bridge converter, and integrated on-board chargers. 
+14 
+2 
+Off-board EV 
+Chargers 
+Front-end converters, solid-state transformers, multilevel 
+converters, conventional and multiport converters for 
+renewables assisted EV charging, and partial power processing 
+converters 
+14 
+3 
+Power Train 
+Dc-dc converters for interfacing battery, control of dc motors, 
+control of induction motors, permanent magnet synchronous 
+motors, and brushless dc motors. 
+11 
+ Total lectures 
+42 
+
+ 
+
+ 
+
+ 
+
+10. Pre-requisites: EE360 (Power electronics) or EE660 (Basics of power electronic converters) or 
+consent of instructor (only for EE/SEE students) 
+11. Textbooks: 
+1. "Fundamentals of Power Electronics", Robert W. Erickson and Dragan Maksimovic, Springer, 
+Third Edition 2020. 
+2. K. T. Chau - Electric Vehicle Machines and Drives: Design, Analysis and Application. Wiley-
+IEEE Press (2015). 
+3. Iqbal Husain, ELECTRIC and HYBRID VEHICLES, Design Fundamentals, CRC Press, 2021. 
+4. “Power Converters for Electric Vehicles”, L. Ashok Kumar and S. Albert Alexander, CRC Press, 
+2020. 
+
+Dated: 6/9/2024 
+
+ 
+Proposer: Amarendra Edpuganti 
+DPGC Convener : ___________________ 
+The course is approved / not approved 
+Chairman, SPGC 
+Dated:_____________________________

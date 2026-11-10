@@ -1,0 +1,158 @@
+Institutional Repository (IR) Electronic Theses and Dissertations (ETD) ( ETD@IITK )
+Welcome to ETD @IIT Kanpur
+Recent Submissions
+Reasoning is central to legal decision-making, yet computational approaches to mod-
+eling legal reasoning remain relatively underexplored in Natural Language Process-
+ing. This thesis examines aspects of legal reasoning through Argumentation Mining,
+focusing on the structure of arguments in judicial decisions. We study four founda-
+tional tasks: Argument Clause Classification, Argument Component Classification,
+Argument Relation Classification, and Joint Argument Component and Relation
+...
+Locating a strip footing near an embankment crest reduces the soil available to confine the footing and provide passive resistance. The present numerical investigation used PLAXIS 2D to evaluate the static and earthquake behaviour of a strip footing supported on a geogrid-reinforced cohesive embankment over soft foundation soil. Validation against a published 1:10 scale model produced bearing capacity ratio (BCR) values that differed by less than 5% from the published numerical values. The su...
+Prostate cancer (PCa) is the second most frequently diagnosed malignancy among men worldwide
+and the fifth leading cause of cancer-related death, with the global burden projected to rise sharply
+over the coming decades. The disease is remarkably heterogeneous at the molecular level, and
+gene fusions occupy a uniquely central position in its pathogenesis, with the androgen-regulated
+TMPRSS2–ERG rearrangement and related ETS-family fusions collectively accounting for nearly
+half of all cas...
+Stealth is an essential aspect for military purposes. For fighter aircraft, radar stealth is paramount. In particular, we need to eliminate or reduce the echo so that it cannot be detected. There are two ways of achieving radar stealth: Deflection and Absorption. This research has the endgame of replacing existing material with radar-absorbing composites, focusing specifically on the load-bearing control surfaces, namely the starboard side flaperon of a fighter aircraft.
+In the present work,...
+This thesis proposes a production-grade, weather-driven, multi-model time series
+forecasting framework for predicting weekly infectious disease case counts at village and ward granularity across Uttar Pradesh, India, covering 16 notifiable diseases including Dengue, Typhoid, and Malaria. Raw surveillance records are aggregated into
+weekly time series and aligned with bilinearly interpolated IMD meteorological co-
+variates on a common anchored week spine. A feature engineering pipeline cons...
+This work presents a performance analysis and secrecy energy efficiency (SEE) maximization framework for time-division duplex (TDD) cell-free (CF) massive multiple-input multiple-output (mMIMO) network in the presence of multiple active eavesdroppers (Eves) and non-ideal calibration. During uplink (UL) training, each user equipment (UE) sends a pilot signal to the AP for the channel estimation, while active Eves send a pilot sequence assigned to a targeted UE, thereby contaminating the corres...
+Autonomous Mobile Robots (AMRs) have gained significant attention in recent years
+due to their wide range of applications in industrial automation, warehouse logistics,
+inspection, healthcare, and hazardous environments. Reliable autonomous navigation in indoor environments requires the integration of perception, localization, path
+planning, obstacle avoidance, and motion control. Developing a robotic system capable of navigating safely and accurately in both static and dynamic environment...
+Refractory high-entropy alloys (RHEAs) based on group-V and group-VI transition metals have attracted significant attention as high-temperature structural materials because of their high melting temperatures, excellent mechanical strength, and thermal stability. However, the widespread use of these alloys, particularly tungsten-containing alloy systems having body-centered cubic (BCC) crystal structure is severely restricted due to their intrinsic brittleness at room and relatively low temper...
+This thesis investigates the structure, spectra and stability of viscoelastic shear
+flows of dilute polymer solutions described by the FENE-P constitutive model, with
+systematic comparisons to the classical Oldroyd-B model. The central objective
+is to understand how finite polymer extensibility modifies steady flow profiles, the
+eigenspectra of the governing linear operators, and the mechanisms responsible for
+elastic and elastoinertial instabilities in both rectilinear and curvilinear g...
+Expansive soils are widely recognized as one of the most problematic geomaterials in geotechnical engineering due to their inherent tendency to undergo significant volume changes with variations in moisture content. The primary reason for this behaviour is the presence of montmorillonite minerals in expansive soil. The montmorillonite crystals have a very strong attraction and affinity to hold water, which eventually causes swelling in the montmorillonite-rich expansive soil. The swelling usu...
+Many industrial processes involving polymeric fluids are susceptible to flow instabil-
+ities driven by elasticity. This thesis investigates the linear stability characteristics
+of the Oldroyd-A (OA) fluid in pipe Poiseuille flow. The governing equations are
+linearized and solved using Chebyshev spectral method. The OA model, unlike
+the kinetic theory-based Oldroyd-B (OB) model, represents sheet or film-like mi-
+crostructures and intrinsically predicts a nonzero second normal stress diffe...
+The growing reliance on software and machine learning models for complex, safety-critical tasks such as autonomous driving, loan approvals, and medical decision support--has created the challenge of building systems that are both reliable and trustworthy. Traditional formal methods provide strong guarantees but often require precise semantics and do not scale well in practice, especially in uncertain environments. Conversely, purely data-driven approaches scale and adapt to the observed behav...
+Developing reliable autonomy for unmanned aerial vehicles (UAVs) in GPS-denied environments is a complex systems-engineering challenge, requiring the seamless integration of low-level flight stabilization and high-level perception. This thesis presents the design, implementation, and incremental validation of an autonomous person search-and-follow system deployed on a quadcopter, utilizing a resilient, dual-layer computational architecture.
+
+The lower layer guarantees stable, GPS-free local...
+Human capital accumulation is central to economic development, with health and nutrition functioning as key inputs in the production of productive capacity (Schultz, 1961; Becker, 1964). Within this framework, maternal health and early childhood nutrition occupy a pivotal role, as they influence both the initial endowment of human capital and its dynamic evolution over the life cycle (Grossman, 1972; Cunha and Heckman, 2007). In low- and middle-income countries, these outcomes are shaped by t...
+Rotating Rayleigh–B´enard convection (RRBC), a fluid layer heated from below and cooled
+from above while rotating about the vertical, closely resembles the rotating, heat-driven
+convection found in oceans, atmospheres and planetary cores. At high rotation rates the
+Coriolis force is balanced by the pressure gradient, so the pressure field is central to the
+dynamics, yet it is rarely measured, because probes are intrusive and give only point data.
+This thesis develops a method to obtain t...
+Spatial Transcriptomics has made it possible to study cell–cell communication in its
+native tissue architecture, but common practice remains focused on single-sample
+analysis. When applied across multiple samples, false discoveries accumulate, and
+there is no robust way to compare communication patterns across conditions to
+identify cell–cell interactions that reliably distinguish disease states.
+To overcome these shortcomings, we developed SPICE, a deep learning based model
+which opera...
+The development of modern turbofan engines demands lightweight, compact, and highly efficient axial-flow compressors operating at high pressure ratios. Although slender compressor blades improve aerodynamic performance, they are also more susceptible to aeroelastic instabilities such as flutter. Under transonic operating conditions, the interaction between passage shock waves, shock–boundary-layer interaction, and blade vibration significantly modifies the unsteady aerodynamic loading and dam...
+Hard milling is an effective finishing process for direct machining of hardened steels,
+offering an alternative to conventional grinding and secondary finishing operations.
+However, severe thermo-mechanical conditions result in elevated cutting forces and
+temperatures and rapid tool degradation. Under finishing conditions, low feed and
+shallow depth of cut increase the influence of cutter geometry and progressive flank wear,
+while intermittent cutter engagement produces cyclic mechanical...
+Hydrodynamic instabilities in porous media are fundamental to governing transport,
+mixing, and heat transfer in a broad spectrum of natural and engineered
+systems. These phenomena play a significant role in various natural and industrial
+processes,such as groundwater flow and enhanced oil recovery to geothermal energy
+extraction, alloy casting, carbon dioxide sequestration and so on. Beyond terrestrial
+applications, intense porous convection is also believed to drive hydrothermal circula...
+Training deep Transformer architectures presents a fundamental optimisation trade-off between stability and final model performance, largely dictated by the placement of layer normalisation. Pre-Layer Normalisation (Pre-Norm) offers highly stable training dynamics and prevents vanishing gradients, making it easier to train from scratch, but its structural bottleneck often limits the model's maximum achievable performance. Conversely, Post-Layer Normalisation (Post-Norm) allows for superior fi...
+This thesis focuses on the development of a comprehensive electro-thermal model for
+a cylindrical 21700 NMC lithium-ion cell operating under abusive conditions. Since
+lithium-ion batteries are widely used in electric vehicles, understanding their ther
+mal behaviour and failure risk is essential for improving safety and control. In this
+work, an integrated modelling framework is established in MATLAB/Simulink by
+combining a temperature-dependent second-order equivalent circuit model for e...
+This thesis presents a comprehensive study of photothermal processes in binary mixtures and nanofluids using femtosecond laser-induced thermal lens spectroscopy (FTLS). The work combines theoretical insight and advanced experimentation to reveal how molecular structure, intermolecular forces, thermos-diffusion, and nanoparticle–solvent interactions affect heat transport and convective processes in complex fluids. By employing the dual-beam Z-scan and time-resolved thermal lens techniques, the...
+Unrestrained consumption of petroleum products and the harmful emissions they generate are of great concern globally. Because of stringent emission regulations, researchers focus on controlling emissions and improving the performance of existing vehicles. The broad objective of the thesis is to investigate the use of CNG in dual-fuel mode in a direct-injection spark-ignition engine. Due to its wide availability, cleaner combustion characteristics, and superior economics, CNG has emerged as an...
+Inequalities in Ageing: A Sociological Study of Health, Mental Wellbeing, and Access to Welfare Schemes among Older Adults in Lucknow City 
+
+Ageing is a universal and heterogeneous phenomenon shaped by life trajectories. In the coming decades, the global ageing population will experience rapid growth. The share of older adults aged 60 and above in India is projected to rise from 10.5% in 2022 to 20.8% in 2050 (IIPS & UNFPA, 2023). Given this increase in the share of older adults, there is a...
+Multilingual Large Language Models (LLMs) can answer questions across many languages,
+but the internal process through which they form these answers remains insufficiently
+understood. This thesis studies multilingual reasoning from a decision-making perspective
+by tracing how LLMs gradually commit to answer choices across transformer layers.
+Using aligned multiple-choice questions from the multilingual MMLU benchmark, the work
+compares model behaviour across languages while keeping the u...
+Useful Links
+PKK Library Home
+Open Archive Initiatives(OAI)
+ProQuest Dissertations & Theses
+OpenThesis
+OpenDOAR
+Submission Guidelines
+Online Tutorial
+Guidelines
+Contact Us
+Authentication Form
+Communities in ETD@IITK
+Choose a community to browse its collections.
+AEROSPACE ENGINEERING 1587
+BIOLOGICAL SCIENCES AND BIOENGINEERING 430
+CENTER FOR LASERS AND PHOTONICS 223
+CHEMICAL ENGINEERING 1871
+CHEMISTRY 1016
+CIVIL ENGINEERING 2793
+COGNITIVE SCIENCE 42
+COMPUTER SCIENCE AND ENGINEERING 2103
+DESIGN PROGRAMME 425
+EARTH SCIENCES 142
+ECONOMIC SCIENCES 76
+ELECTRICAL ENGINEERING 4130
+ENVIRONMENTAL ENGINEERING AND MANAGEMENT PROGRAMME 180
+HUMANITIES AND SOCIAL SCIENCES 383
+MANAGEMENT SCIENCES 784
+MATERIALS SCIENCE AND ENGINEERING 1484
+MATERIALS SCIENCE PROGRAMME 553
+MATHEMATICS 468
+MECHANICAL ENGINEERING 3047
+NUCLEAR ENGINEERING AND TECHNOLOGY PROGRAMME 228
+PHYSICS 594
+SPACE, PLANETARY & ASTRONOMICAL SCIENCES & ENGINEERING (SPASE) 4
+STATISTICS AND DATA SCIENCE 0
+SUSTAINABLE ENERGY ENGINEERING 71
+Index
+199 Singh, Yatindra Nath
+180 Karnick, Harish
+172 Prabhakar, T V
+169 Venkatesh, K S
+155 Bhattacharya, Bishakh
+152 Ramkumar, J
+142 Bhattacharya, Arnab
+135 Mazhari, Baquer
+135 Roy, Satyaki
+134 Gupta, Sumana
+. next >
+485 Machine Learning
+240 Computer Vision
+221 Optimization
+217 Aerodynamics
+194 Deep Learning
+177 Computational Fluid Dynamics
+177 Robotics
+164 CFD
+153 Power Electronics
+151 Wireless Communication
+. next >
+5036 2020 - 2026
+6681 2010 - 2019
+4074 2000 - 2009
+2642 1990 - 1999
+2173 1980 - 1989
+1747 1970 - 1979
+269 1963 - 1969

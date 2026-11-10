@@ -1,0 +1,188 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+
+Proposal for a New Course
+
+1.  Course No:
+
+2.  Course Title: Cognitive Human Factors and Applied Psychology for Designers
+
+3.  Per week Lectures: 3(L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours [0-2]: 0 (A),
+Credits (3*L+2*T+P+A): 9       Duration of Course: Full Semester
+
+4.  Proposing Department/IDP: Department of Design
+Other Departments/IDPs which may be interested in the proposed course: Cognitive Science,
+and other associated departments involved in research involving human interaction with
+technology
+
+Other faculty members interested in teaching the proposed course: None
+
+5.  Proposing Instructor(s): Vivek Kant
+
+6.  Course Description:
+
+The aim of this course is to provide a comprehensive foundation in cognitive human factors and
+applied psychology for designers, enabling them to understand the scientific basis of human
+behavior and use these principles to design. This course is envisioned as supplementing the content
+of other existing courses from a psychological perspective in design, such as communication
+design, interaction design, among others, and is not a replacement for any of these. This course
+should ideally be taken alongside other design courses so that students can understand design
+practice in the context of scientific principles of human behavior. The course will introduce the
+principles of human behavior and its applicability in design problems. The course will present an
+overview of the subject as well as direct students in case they wish to delve deeper into certain
+areas using small design exercises or design projects.
+
+a.  Course Objectives:
+o   At the end of the course, the student will be able to examine and explicate the link
+between psychology and design
+o  Apply  analysis  techniques  to  use  in  various  design  projects  ranging  from
+communication to industrial design.
+o  Use various principles and methods from cognitive human factors and applied
+psychology for design in various application sectors.
+
+b.  Course Content:
+90 mins per session: 18 lecture sessions + 9 studio sessions
+
+[PAGE 2]
+Sessions
+S.No.   Topic and Details                                               (Lectures &
+Studio)
+1          Cognitive and psychological sciences as a basis of design  1
+practice — Foundations I
+- Relation between science and design
+- Design Science as a basis for design
+- Psychology as a basis for design
+- Cognition and its function in ecology
+- Sensation, Perception, Attention, Memory, Language,
+Thinking and Problem Solving, Action
+- Methods of cognitive psychology and their application to
+Design practice and design research
+
+2          Cognitive and psychological sciences as a basis of design  1
+practice — Foundations II
+- Psychological Viewpoints and their implications for design
+- Behaviorist
+- Cognitivist and Information Processing paradigms
+- Alternatives to Cognitivist viewpoints and post-
+cognitivist approaches
+
+3          Psychological Principles in Communication Design and Data  3
+Visualization
+- Sensation and Perception
+- Attention, Selective Attention and Change Blindness and its
+implications for Design
+- Elements of Communication Design and its psychological
+foundations in the Gestalt approach to vision
+- Psychological basis for color
+- Figure ground and Perceptual grouping
+- Applications in design of logos
+- Applications in visual hierarchy
+- Other applications in visual communication
+- Psychology of Art
+
+4         Studio Practice 1,2: Practice examples and                  2
+applications in Communication design and Data Visualization
+
+5          Psychological Principles in Type Design and Interaction Design  3
+- Human Factors challenges and Issues in Type Design
+- Readability on Print and Electronic media
+- Speed Accuracy and Visual Comfort
+- Legibility on Print and Electronic media
+- Size Distance relationships in Screen and Banner design
+- Visual Attention and Decision making using type design in
+Interaction Design
+
+6         Studio Practice 2: Practice examples and                    1
+applications in Interaction Design
+
+[PAGE 3]
+7          Psychological   Principles   in   Interaction  Design  and  3
+industrial/product design I
+- Visual Ergonomics of Displays and Controls
+- Design with limited information
+- Design for complex information
+- Display Design for interaction with products
+- Cognitive basis of design of alarms and feedback
+- Cognitive Workload
+
+8         Studio Practice 3,4: Practice examples and                  1
+applications in Interaction related to products I
+
+9          Psychological   Principles   in   Interaction  Design  and  2
+industrial/product design II
+- Affordances and products
+- Psychological basis of product semantics
+- Emotional Design of products
+- Issues in Text Entry
+- Fitts Law
+- Luminance and Contrast of displays
+- Design and arrangement of displays and controls
+- Principles of Control Room Design
+
+10       Studio Practice 5,6: Practice examples and                   1
+applications in Interaction related to products II
+
+11      Task Analysis Methods for Design I                         2
+- Control Task Analysis
+- Applied Cognitive Task Analysis
+- Hierarchical Task Analysis
+- Other Associated Task Analysis Methods
+
+12       Studio Practice 7,8: Task analysis Methods I                  2
+
+13      Task Analysis Methods for Design II                         2
+- Analysis of Situated Actions
+- Activity analysis
+- Core Task Analysis
+
+14       Studio Practice 9,10: Task analysis Methods II                 2
+
+15       Psychology and Emerging Frontiers in Design:                  1
+- Psychological basis for design of Human-AI interaction and
+other systems
+- Psychological basis for design with non-human entities
+- Other new topics related to design
+
+Total Sessions (Lectures + Studio)                             27 sessions
+Total Hours = 27 * 1.5 hrs                                        40.5 Hrs
+
+[PAGE 4]
+Assignments (studio+ term paper presentation) 60% + final exam 40 %
+
+a.  Pre-requisites, if any: None. (Preference will be given to students who have completed a
+previous course on design)
+
+b.  Short Summary:
+The course will present a detailed understanding of psychological principles and  its
+applicability in design of human-centric systems. It will also provide an overview of cognitive
+human factors and psychological principles in relation to various disciplines of design such
+as interaction design, communication design, industrial design, amongst others.
+
+c.  Books:
+
+•   Stone, N. J., Chaparro, A., Keebler, J. R., Chaparro, B. S., & McConnell, D. S. (2017).
+Introduction to Human Factors: Applying Psychology to Design (1st ed.). Boca Raton:
+CRC Press.
+
+•  Groome, D. & Eysenck, D. (2025). An Introduction to Applied Cognitive Psychology (3rd
+ed.). Psychology Press.
+
+•   Arnheim, R. (1954). Art and visual perception: A psychology of the creative eye. Univ of
+California Press.
+
+•   Goldstein,  E.  B.  (2022).  Sensation and  perception  (11th  ed.).  Belmont,  CA:
+Wadsworth/Cengage.
+
+•  Ware, C. (2012). Information visualization: perception for design. Elsevier.
+
+•  Nemeth, C. P. (2004). Human factors methods for design: Making systems human-
+centered. CRC press.
+
+•  Norman, D. (2007). Emotional design: Why we love (or hate) everyday things. Basic
+books.
+
+•   Journal Papers from the disciplines of Psychology and Human Factors Journals
+
+Dated: 5 April 2026                                          Proposers: Vivek Kant
+
+DPGC Convener:

@@ -1,0 +1,89 @@
+[Page 1]
+Indian Institute of Technology Kanpur 
+Proposal for a new course 
+1. Course No: ME362 
+2. Course Title: Manufacturing Processes 
+3. Per Week Lectures: (L), Tutorial: (T), Laboratory: NA(P), 
+Additional Hours [0-2]: (A), NA 
+4. Credits (3*L+2*T+P+A): (3-0-0-9) 
+5. Pre-requisite: TA211, TA212. 
+6. Duration of Course: Full Semester 
+7. Proposing Department: Mechanical Engineering 
+8. Proposing instructors(s): Dr. A. Kumar, Dr. M. Law, Dr. S. Mukhopadhyay, Dr. V. 
+Kumar, Dr. S. Mishra, Dr. N. Sinha 
+9. Other Departments/IDPs which may be interested in the proposed course: MSE, AE 
+10. Other faculty members interested in teaching the proposed course: Faculty members 
+from MSE, AE 
+11. Course Description: 
+A) 
+Objectives: 
+The main objective of this course is to acquaint students with various manufacturing 
+processes such as casting, joining, bulk deformation, additive manufacturing, machining 
+and metrology. In addition to their classification, this course includes design aspects, 
+physics-based analysis and defects associated with these processes besides measurement 
+techniques used in manufacturing. 
+B) 
+Contents (preferably in the form of 5 to 10 broad titles): 
+Total Number of Lectures: 40 
+1. Introduction to manufacturing and properties of materials (1 lectures) 
+2. Introduction to manufacturing machines (2 lectures) 
+Machines related to primary and secondary manufacturing processes and their 
+operation. 
+3. Casting (6-7 lectures) 
+Overview of casting and solidification of alloys and its mechanism; Estimation of 
+solidification time, analysis of cooling curve; Runner and gating system design; Riser 
+design; Defects and their causes; Industrial casting processes; Crystal growth. 
+4. Joining (3-4 lectures) 
+Overview of joining process; Fusion welding mechanism; Heat flow and material 
+transfer mechanism; Analysis of cooling curve; Microstructure formation; Welding 
+defects and inspection; Industrial joining processes. 
+5. Bulk Deformation (6-7 lectures) 
+Overview of bulk deformation process; Brief review of plastic deformation and yield 
+criteria; Mechanistic analysis of Forging, Rolling, Drawing and Forming processes
+
+[Page 2]
+including defects. 
+6. Additive Manufacturing (3-4 lectures) 
+Overview of additive manufacturing process; Mechanistic analysis of polymers, metals 
+and ceramics based additive manufacturing processes. 
+7. Conventional machining processes (6-7 lectures) 
+Orthogonal cutting mechanics; thermal aspects of machining; tool wear and life 
+analysis; oblique cutting; turning with a nose radius; milling; drilling; grinding. 
+8. Non-traditional machining processes (4-5 lectures) 
+Mechanical, thermal, electrochemical and chemical processes such as abrasive jet 
+machining, ultrasonic machining, electric discharge machining, electrochemical 
+machining, and laser beam machining. 
+9. Metrology (2 lectures) 
+Measurements and measurement equipment; measurement standards; limits, fits and 
+tolerances; testing and calibration. 
+ 
+B) Short summary for including in the Courses of Study Booklet 
+Introduction to manufacturing processes and properties of materials; Machines and 
+their operations: Working of manual and CNC machines and their operations; Casting 
+and solidification of alloys: Mechanism; Analysis of cooling curve; Runner and gating 
+system design; Riser design; Joining processes: Fusion welding mechanism; Heat flow 
+and material transfer mechanism; Microstructure formation; Welding defects and 
+inspection; Bulk deformation processes: Brief review of plastic deformation and yield 
+criteria; Mechanistic analysis of Forging, Rolling, Drawing and Forming processes 
+including defects; Additive manufacturing processes: Mechanistic analysis of 
+polymers, metals and ceramics based additive manufacturing processes; Conventional 
+machining processes: Orthogonal cutting mechanics; tool wear and life analysis; 
+oblique cutting; milling; drilling; grinding; Non-traditional machining processes: AJM, 
+USM, EDM, ECM, and LBM; Metrology: Measurements and measurement equipment; 
+measurement standards; limits, fits and tolerances; testing and calibration. 
+C) Recommended books: 
+• Ghosh, A., Mallik, A.K., Manufacturing Science (2nd edition), EastWest 
+Press. 
+• Groover, M.P., Fundamentals of Modern Manufacturing (2nd edition), John 
+Wiley. 
+• Kalpakjian, S., Schmid, S.C., Manufacturing Engineering and Technology, 
+Pearson Education. 
+• Loper, C.R., Rosenthal, P.C., Heine, R.W., Principles of Metal Casting, 
+McGraw Hill. 
+• Little, R., Welding and Welding Technology, McGraw Hill. 
+• Dieter, G.E., Mechanical Metallurgy, McGraw Hill. 
+• Gibson, I., Rosen, D.W., Stucker, B., Additive Manufacturing Technologies: 
+Rapid Prototyping to Direct Digital Manufacturing, Springer. 
+• Boothroyd, G., Knight, W.A., Fundamentals of Machining and Machine 
+Tools, Taylor & Francis. 
+• Galyer, J.F.W., Shotbolt, C.R., Metrology for Engineers, ELBS.

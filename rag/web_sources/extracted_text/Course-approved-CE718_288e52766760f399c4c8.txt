@@ -1,0 +1,264 @@
+[Page 1]
+Indian Institute of Technology, Kanpur 
+Proposal for a New Course 
+1. Course number: CE 7XX 7,18 
+2. Course title: Water resources systems analysis 
+3. Per week: Lectures - 3(L), Tutorial - 0(T), Laboratory - 0(P), Additional hours: 0(A) 
+Credits: 3-0-0-0 (9) 
+Duration of course: Full semester 
+4. Proposing department/IDP: Civil Engineering 
+Other Departments/IDPs which may be interested in the proposed course: Earth Sciences, 
+School of Sustainability 
+Other faculty members interested in teaching the proposed course: Shivam Tripathi 
+5. Proposing instructor: Tushar Apury 
+6. Course description: PG course/department elective 
+A. Objectives 
+The course introduces optimization and simulation techniques that are used in planning and 
+management of water resources systems. The course will include application of these 
+techniques to problems such as reservoir design and operations, river basin management, water 
+allocation to multiple sectors, decision making under uncertainty and multi-criteria decision 
+making. 
+B. Contents 
+S. No. 
+Broad title 
+Topics 
+No. of 
+lectures 
+1. 
+Introduction 
+Overview of water resources systems analysis 
+and its applications 
+1 
+2. 
+Optimization 
+Optimization techniques in problems of 
+Hydrology and Water Resources 
+15 
+3. 
+Simulation 
+Stochastic streamflow generation models, 
+simulation-based optimization using genetic 
+and evolutionary algorithms 
+9 
+4. 
+Reservoir design and 
+operation 
+Reservoir capacity design, rule curves, 
+optimization of reservoir release, hedging rules 
+5 
+5. 
+River basin 
+management models 
+Setting up a river basin model: representation 
+of river networks, surface and groundwater 
+storages, water users, specification of 
+objective functions and constraints 
+5 
+6. 
+Decision making 
+under uncertainty 
+Scenario generation for climate change impact 
+assessment, performance metrics for water 
+resources systems, multi-criteria decision 
+analysis 
+5 
+Total 
+40
+
+[Page 2]
+_o
+C. Pre-requisites: (CE361 and CE262) or (CE610 and CE611) 
+D. Short summary for including in the Courses of Study Booklet: Linear programming, non-
+linear optimization, constrained optimization, stochastic optimization, dynamic optimization, 
+multi-objective optimization, genetic and evolutionary algorithms, stochastic streamftow 
+generation, reservoir design and operation, river basin management models, decision making 
+under uncertainty, scenario generation for climate change impact assessment. 
+7. Recommended books: 
+Reference books: 
+0 
+Loucks, D. P., & Van Beek, E. (2017). Water resource 
+introduction to methods, models, and applications. 
+Deb, K. (2012). Optimization for engineering design: 
+Ltd. 
+8. Any other remarks: none 
+Proposer: Tushar Apury 
+Dated: 05-04-2024 
+DPGC convener: 
+Dated: 
+The course is approved/not approved. 
+Chairperson, SPCC 
+Dated: 
+systems planning and management: An 
+Springer. 
+Algorithms and examples. PHI Learning Pvt.
+
+[Page 3]
+3C c~ 
+off, o b s3~ 
+INDIAN INSTITUTE OF TECHNOLOGY KANPUR 
+POSTGRADUATE OFFICE 
+No. A(P)/IITK/course approval/ 
+June 5, 2024 
+The Convener, DPGC 
+Departments of CE/SEE/PHY 
+ITT Kanpur 
+I am directed to communicate the concurrence of the SPGC (2023-24) in its 9ti' meeting held 
+on 28/05/2024 for the approval of new PG course proposal. After detailed discussion the 
+following courses were approved. 
+Course No Title 
+Credits 
+Instructor 
+SPGC 
+/Decision 
+CE716 
+Project Management and Control 
+3-0-0-0-9 
+Dr. Chirag Kothari 
+Approved 
+CE718 
+Water resources systems analysis 
+3-0-0-0-9 
+Dr. Tushar Apury 
+Approved 
+CE719 
+Hydrometeorology 
+3-0-0-0-9 
+Dr. Tushar Apury 
+Approved 
+SEE631 
+Sustainable Forest Management 
+3-0-0-0-9 
+Dr. Ashish Garg 
+Approved 
+PHY685 
+Introduction To Quantum Field Theory 
+3-0-0-0-11 
+Dr. Arjun Bagchi 
+Approved 
+Joint Registrar 
+Academic Affairs 
+CC: OARS (DOAA Office) For necessary action
+
+[Page 4]
+L 
+MINUTES 
+FOR THE 9s' MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2023-24) TO 
+BE HELD ON May 28, 2024 (TUESDAY) AT 02:OOP.M. 
+DOAA CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING 
+Members present 
+Prof(s): P M Mohite (AE), Vishal Agarwal (CHE), Chinmoy Koley (CE), Ark Verma (CGS), Abheejeet 
+Mohapatra (EE), T H Syed (ES), Feroz Hassan (HSS), Amit Shukia (DOMS), Santanu De (ME), Niraj 
+Chawake in place of Sudhanshu S Singh (MSE), Subhajit Dutta (MATH), Laltu Chandra (SEE), Sager 
+Chakrabarty (PRY), Sharvari Nadkarni Ghosh (SPASE), Piyush Rai (CSE). 
+Members Absent: Prof(s), Suresh Kumar (BSBE), Ashis Kumar Patra (CHM), J Ramkumar (DES), Shilpi 
+Gupta (PSE), Vasudha Jain (ECO), Sri Sivakumar (MSP), Pankaj Wahi (NET) 
+Student representative: 
+Parthadhwaj Konduparty (22106009), Shivam Nigam (19112264), Harsha Prasad (21106270), Kartik 
+Rout(20218267), 
+Item requiring SPGC Approval: 
+a) Conversion from MSRIMTech to PhD Program: 
+S.N 
+o 
+Roll No 
+Name 
+Dept 
+Prog 
+Supervisor and 
+DPGC 
+Recommendation 
+SPGC 
+RecommendationlDecis 
+ion 
+01- 
+22101403 
+Anil S Karthik 
+AE 
+MSR 
+Recommended 
+Approved to be reported 
+to Senate 
+02- 
+22104065 
+Nilesh Pandey 
+EE 
+MTech Recommended 
+Approved to be reported 
+to Senate 
+03- 
+22118003 
+Aditya Gautam 
+BSBE 
+MTech Recommended 
+Approved to be reported 
+to Senate 
+04- 
+22101058 
+Sal Rohith Thaviti 
+AE 
+MTech Recommended 
+Approved to be reported 
+to Senate 
+*Students has completed course and CPI requirement as per clause 4.6 of PG Manual 
+b) New course approval:-
+Course No Title 
+Credits 
+Instructor 
+SPGC /Decision 
+CE716 
+Project Management and Control 
+3-0-0-0-9 
+Dr. Chirag Kothari Approved 
+CE718 
+Water resources systems analysis 
+3-0-0-0-9 
+Dr. Tushar Apury 
+Approved 
+CE719 
+Hydrometeorology 
+3-0-0-0-9 
+Dr. Tushar Apury 
+Approved 
+SEE631 
+Sustainable Forest Management 
+3-0-0-0-9 
+Dr. Ashish Garg 
+Approved 
+PHY685 
+Introduction To Quantum Field Theory 
+3-0-0-0-11 
+Dr. Arjun Bagchi 
+Approved 
+Items requiring SPGC recommendation for Senate considerations: 
+a 
+Conversion Programme Full Time to Part Time-recommended 
+S.No 
+Roll No 
+Name 
+Dept 
+Prog 
+Supervisor and DPGC 
+Recommendation 
+SPGC Recommendation 
+/Decision 
+1 
+20227263 Soumyajit Bhunia 
+ECO 
+PhD 
+Recommended 
+Recommended 
+2 
+19104275 Rahul Bapusaheb Kodag 
+EE 
+PhD 
+Recommended 
+Recommended 
+3 
+17214263 Sanjeev Newar 
+DoMS PhD 
+Recommended 
+Recommended subject to 
+submission of a proper thesis 
+plan by student, duly 
+approved by the thesis 
+supervisor and DPGC 
+Page 1 of 6

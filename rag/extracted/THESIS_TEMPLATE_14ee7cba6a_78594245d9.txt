@@ -1,0 +1,1168 @@
+[PAGE 1]
+Thesis Title Thesis Title Thesis Title Thesis Title
+Thesis Title
+
+A Thesis Submitted
+In Partial Fulfillment of the Requirements
+for the Degree of Your Program
+
+Your Name
+
+Roll No.: XXYYZZXXYY
+
+to the
+
+Your Department/Inter Disciplinary Programme,
+
+Indian Institute of Technology Kanpur.
+
+Month, Year
+
+[PAGE 3]
+Certificate
+
+It is certified that the work contained in the thesis titled “Thesis Title Thesis
+Title Thesis Title Thesis Title Thesis Title”, by “Your Name” (Roll No.
+XXYYZZXXYY) has been carried out under my supervision and that this work
+has not been submitted elsewhere for a degree.
+
+Prof. Supervisor Name
+Your Department/IPD,
+Month, Year
+Indian Institute of Technology Kanpur.
+
+ii
+
+[PAGE 5]
+Declaration
+
+This is to certify that the thesis titled “Thesis Title Thesis Title Thesis Title
+Thesis Title Thesis Title” has been authored by me.  It presents the research
+conducted by me under the supervision of Prof. Supervisor Name.
+
+To the best of my knowledge,  it is an original work, both in terms of research
+content and narrative, and has not been submitted elsewhere, in part or in full, for
+a degree.  Further, due credit has been attributed to the relevant state-of-the-art
+and collaborations with appropriate citations and acknowledgments, in line with
+established norms and practices.
+
+Your Name
+Roll No. XXYYZZXXYY
+Program
+Your Department/IPD,
+Indian Institute of Technology Kanpur,
+Kanpur, 208016, India.
+
+iii
+
+[PAGE 7]
+Synopsis
+
+Name of the Student: Your Name                Roll No: XXYYZZXXYY
+Degree for which submitted: Program               Department: Dept.
+Thesis Title: Thesis Title Thesis Title Thesis Title Thesis Title Thesis Title
+Thesis Supervisor: Prof. Supervisor Name
+Month and Year of Thesis Submission: Month Year
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibulum
+ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida mauris. Nam arcu
+libero, nonummy eget, consectetuer id, vulputate a, magna. Donec vehicula augue
+eu neque.  Pellentesque habitant morbi tristique senectus et netus et malesuada
+fames ac turpis egestas. Mauris ut leo. Cras viverra metus rhoncus sem. Nulla et
+lectus vestibulum urna fringilla ultrices. Phasellus eu tellus sit amet tortor gravida
+placerat. Integer sapien est, iaculis in, pretium quis, viverra ac, nunc. Praesent eget
+sem vel leo ultrices bibendum. Aenean faucibus. Morbi dolor nulla, malesuada eu,
+pulvinar at, mollis ac, nulla. Curabitur auctor semper nulla. Donec varius orci eget
+risus. Duis nibh mi, congue eu, accumsan eleifend, sagittis quis, diam. Duis eget
+orci sit amet orci dignissim rutrum.
+
+Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem
+non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus. Donec
+aliquet, tortor sed accumsan bibendum, erat ligula aliquet magna, vitae ornare odio
+metus a mi. Morbi ac orci et nisl hendrerit mollis.  Suspendisse ut massa. Cras
+nec ante. Pellentesque a nulla. Cum sociis natoque penatibus et magnis dis partu-
+rient montes, nascetur ridiculus mus. Aliquam tincidunt urna. Nulla ullamcorper
+vestibulum turpis. Pellentesque cursus luctus mauris.
+
+iv
+
+[PAGE 9]
+Acknowledgements
+
+I take this opportunity to acknowledge and express my gratitude to all those who
+
+supported and guided us during our project work. I am grateful to the Almighty for
+
+the abundant grace and blessings bestowed upon us, which enabled us to successfully
+
+complete this project.
+
+Your Name
+
+v
+
+[PAGE 11]
+Contents
+
+Acknowledgements                                           v
+
+List of Figures                                                                      viii
+
+List of Tables                                                              ix
+
+Abbreviations                                               x
+
+Symbols                                                                    xi
+
+List of Publications                                                             xii
+
+1  Introduction                                                 1
+1.1  Introduction  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .   1
+1.2  Problem Statement  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .   2
+1.3  Need of the Study .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .   2
+1.4  Study Objective .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .   3
+1.5  Thesis Organization .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .   4
+1.6  Summary   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .   4
+
+2  Literature Review                                            5
+2.1  Introduction  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .   5
+2.2  Literature Review .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .   5
+2.3  Research Gaps .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .   9
+2.4  Summary   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  11
+
+3  Study Methodology                                         12
+3.1  Introduction  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  12
+3.2  Methodology    .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  12
+3.3  Models and Algorithms .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  13
+3.4  Summary   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  14
+
+vi
+
+[PAGE 12]
+Contents                                                                                       vii
+
+4  Data Collection and Extraction                               15
+4.1  Introduction  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  15
+4.1.1  Survey Site Selection  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  15
+4.1.2  Survey Data Collection  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  16
+4.1.3  Sample Selection   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  16
+4.1.4  Data Extraction and Coding .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  17
+4.2  Summary   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  17
+
+5  Analysis and Results                                        18
+5.1  Introduction  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  18
+5.2  Descriptive Statistics  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  18
+5.3  Model Development .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  19
+5.4  Discussion  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  19
+5.5  Summary   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  20
+
+6  Conclusions and Practical Implications                         21
+6.1  Summary   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  21
+6.2  Study Findings   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  21
+6.3  Research Contribution   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  22
+6.4  Practical Implications .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  23
+6.5  Study Limitations and Scope for Future Work   .  .  .  .  .  .  .  .  .  .  .  .  .  23
+
+A Appendix A Title                                           24
+
+B Appendix B Title                                           25
+
+References                                                    26
+
+[PAGE 13]
+List of Figures
+
+2.1  Plot with a single image (Image by pencil parker from Pixabay)   .  .  .   6
+2.2  Plot with two images in one row .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .   7
+2.3  Plot with three images  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .   8
+2.4  Plot with two by two image grid.   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .   9
+
+3.1  Study methodology. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  13
+
+viii
+
+[PAGE 15]
+List of Tables
+
+2.1  Various empirical study details.   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  10
+
+ix
+
+[PAGE 17]
+Abbreviations
+
+AFT      Accelerated Failure Time
+ANOVA  Analysis of Variance
+BLR      Binary Logistic Regression
+
+x
+
+[PAGE 19]
+Symbols
+
+µ   Location parameter
+λ   Scale parameter
+β0  Null model parameter
+ˆβ   Fitted parameter
+
+xi
+
+[PAGE 21]
+List of Publications
+
+Articles Published in International/National Journals
+
+1. Article item 1
+
+2. Article item 2
+
+Presentations and Proceedings in International/National Conferences
+
+1. Conference item 1
+
+2. Conference item 2
+
+xii
+
+[PAGE 23]
+Dedicated to my beloved parents.
+
+[PAGE 24]
+Chapter 1
+
+Introduction
+
+1.1  Introduction
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibulum
+
+ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida mauris. Nam arcu
+
+libero, nonummy eget, consectetuer id, vulputate a, magna. Donec vehicula augue
+
+eu neque.  Pellentesque habitant morbi tristique senectus et netus et malesuada
+
+fames ac turpis egestas. Mauris ut leo. Cras viverra metus rhoncus sem. Nulla et
+
+lectus vestibulum urna fringilla ultrices. Phasellus eu tellus sit amet tortor gravida
+
+placerat. Integer sapien est, iaculis in, pretium quis, viverra ac, nunc. Praesent eget
+
+sem vel leo ultrices bibendum. Aenean faucibus. Morbi dolor nulla, malesuada eu,
+
+pulvinar at, mollis ac, nulla. Curabitur auctor semper nulla. Donec varius orci eget
+
+risus. Duis nibh mi, congue eu, accumsan eleifend, sagittis quis, diam. Duis eget
+
+orci sit amet orci dignissim rutrum.
+
+1
+
+[PAGE 25]
+Chapter I. Introduction                                                   2
+
+1.2  Problem Statement
+
+Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi.  Morbi auctor
+
+lorem non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus.
+
+Donec aliquet, tortor sed accumsan bibendum, erat ligula aliquet magna, vitae or-
+
+nare odio metus a mi. Morbi ac orci et nisl hendrerit mollis. Suspendisse ut massa.
+
+Cras nec ante. Pellentesque a nulla. Cum sociis natoque penatibus et magnis dis
+
+parturient montes, nascetur ridiculus mus. Aliquam tincidunt urna. Nulla ullam-
+
+corper vestibulum turpis. Pellentesque cursus luctus mauris.
+
+1.3  Need of the Study
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibulum
+
+ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida mauris. Nam arcu
+
+libero, nonummy eget, consectetuer id, vulputate a, magna. Donec vehicula augue
+
+eu neque.  Pellentesque habitant morbi tristique senectus et netus et malesuada
+
+fames ac turpis egestas. Mauris ut leo. Cras viverra metus rhoncus sem. Nulla et
+
+lectus vestibulum urna fringilla ultrices. Phasellus eu tellus sit amet tortor gravida
+
+placerat. Integer sapien est, iaculis in, pretium quis, viverra ac, nunc. Praesent eget
+
+sem vel leo ultrices bibendum. Aenean faucibus. Morbi dolor nulla, malesuada eu,
+
+pulvinar at, mollis ac, nulla. Curabitur auctor semper nulla. Donec varius orci eget
+
+risus. Duis nibh mi, congue eu, accumsan eleifend, sagittis quis, diam. Duis eget
+
+orci sit amet orci dignissim rutrum.
+
+Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi.  Morbi auctor
+
+lorem non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus.
+
+[PAGE 26]
+Chapter I. Introduction                                                   3
+
+Donec aliquet, tortor sed accumsan bibendum, erat ligula aliquet magna, vitae or-
+
+nare odio metus a mi. Morbi ac orci et nisl hendrerit mollis. Suspendisse ut massa.
+
+Cras nec ante. Pellentesque a nulla. Cum sociis natoque penatibus et magnis dis
+
+parturient montes, nascetur ridiculus mus. Aliquam tincidunt urna. Nulla ullam-
+
+corper vestibulum turpis. Pellentesque cursus luctus mauris.
+
+1.4  Study Objective
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibulum
+
+ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida mauris. Nam arcu
+
+libero, nonummy eget, consectetuer id, vulputate a, magna. Donec vehicula augue
+
+eu neque.  Pellentesque habitant morbi tristique senectus et netus et malesuada
+
+fames ac turpis egestas. Mauris ut leo. Cras viverra metus rhoncus sem. Nulla et
+
+lectus vestibulum urna fringilla ultrices. Phasellus eu tellus sit amet tortor gravida
+
+placerat. Integer sapien est, iaculis in, pretium quis, viverra ac, nunc. Praesent eget
+
+sem vel leo ultrices bibendum. Aenean faucibus. Morbi dolor nulla, malesuada eu,
+
+pulvinar at, mollis ac, nulla. Curabitur auctor semper nulla. Donec varius orci eget
+
+risus. Duis nibh mi, congue eu, accumsan eleifend, sagittis quis, diam. Duis eget
+
+orci sit amet orci dignissim rutrum.
+
+• Uum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu-
+
+lus mus.
+
+• Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus
+
+mus.
+
+[PAGE 27]
+Chapter I. Introduction                                                   4
+
+1.5  Thesis Organization
+
+This thesis consists of 6 chapters, including the present chapter (Chapter 1) of
+
+introduction to the research topic. This chapter describes the need for the study, the
+
+problem statement and objectives of the study, and a brief thesis outline. Chapter
+
+2 provides a review of past literature related to . . . . Chapter 3 briefly describes the
+
+methodology adopted to fulfill the current objectives. Chapter 4 describes details
+
+of survey locations, data collection, and data extraction. The  . . . modeling using
+
+regression analysis is discussed in Chapter 5. Chapter 6 summarizes the conclusions
+
+and research contributions of the current work and presents practical implications
+
+. . . .
+
+1.6  Summary
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibulum
+
+ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida mauris. Nam arcu
+
+libero, nonummy eget, consectetuer id, vulputate a, magna. Donec vehicula augue
+
+eu neque. Pellentesque habitant morbi tristique senectus et netus et malesuada fa-
+
+mes ac turpis egestas. Mauris ut leo. Cras viverra metus rhoncus sem. Nulla et
+
+lectus vestibulum urna fringilla ultrices. Phasellus eu tellus sit amet tortor gravida
+
+placerat. Integer sapien est, iaculis in, pretium quis, viverra ac, nunc. Praesent eget
+
+sem vel leo ultrices bibendum. Aenean faucibus. Morbi dolor nulla, malesuada eu,
+
+pulvinar at, mollis ac, nulla. Curabitur auctor semper nulla. Donec varius orci eget
+
+risus. Duis nibh mi, congue eu, accumsan eleifend, sagittis quis, diam. Duis eget
+
+orci sit amet orci dignissim rutrum.
+
+[PAGE 28]
+Chapter 2
+
+Literature Review
+
+2.1  Introduction
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. (1) purus elit, vestibulum
+
+ut, placerat ac, adipiscing vitae, felis. Nam dui ligula, fringilla a, euismod sodales,
+
+sollicitudin vel, wisi. Morbi auctor lorem non justo. Nam lacus libero, pretium at,
+
+lobortis vitae, ultricies et, tellus. Donec aliquet, tortor sed accumsan bibendum,
+
+erat ligula aliquet magna, vitae ornare odio metus a mi.  Morbi ac orci et nisl
+
+hendrerit mollis. Suspendisse ut massa. Cras nec ante. Pellentesque a nulla. Cum
+
+sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Aliquam tincidunt urna. Nulla ullamcorper vestibulum turpis. Pellentesque cursus
+
+luctus mauris.
+
+2.2  Literature Review
+
+Vestibulum ut, placerat ac, adipiscing vitae, felis (2).
+
+5
+
+[PAGE 29]
+Chapter II. Literature Review                                              6
+
+Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem
+
+non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus. Donec
+
+aliquet, tortor sed accumsan bibendum, erat ligula aliquet magna, vitae ornare odio
+
+metus a mi (2; 3).
+
+Here is Figure 2.1.
+
+Figure 2.1: Plot with a single image (Image by pencil parker from Pixabay)
+
+Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem
+
+non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus. Donec
+
+aliquet, tortor sed accumsan bibendum, erat ligula aliquet magna, vitae ornare odio
+
+metus a mi. Morbi ac orci et nisl hendrerit mollis.  Suspendisse ut massa. Cras
+
+nec ante. Pellentesque a nulla. Cum sociis natoque penatibus et magnis dis partu-
+
+rient montes, nascetur ridiculus mus. Aliquam tincidunt urna. Nulla ullamcorper
+
+vestibulum turpis. Pellentesque cursus luctus mauris.
+
+Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem
+
+non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus. Donec
+
+aliquet, tortor sed accumsan bibendum, erat ligula aliquet magna, vitae ornare odio
+
+metus a mi. Morbi ac orci et nisl hendrerit mollis.  Suspendisse ut massa. Cras
+
+[PAGE 30]
+Chapter II. Literature Review                                              7
+
+(a) First Sub-caption.    (b) Second sub-caption.
+
+Figure 2.2: Plot with two images in one row
+
+nec ante. Pellentesque a nulla. Cum sociis natoque penatibus et magnis dis partu-
+
+rient montes, nascetur ridiculus mus. Aliquam tincidunt urna. Nulla ullamcorper
+
+vestibulum turpis. Pellentesque cursus luctus mauris.
+
+Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem
+
+non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus. Donec
+
+aliquet, tortor sed accumsan bibendum, erat ligula aliquet magna, vitae ornare odio
+
+metus a mi. Morbi ac orci et nisl hendrerit mollis.  Suspendisse ut massa. Cras
+
+nec ante. Pellentesque a nulla. Cum sociis natoque penatibus et magnis dis partu-
+
+rient montes, nascetur ridiculus mus. Aliquam tincidunt urna. Nulla ullamcorper
+
+vestibulum turpis. Pellentesque cursus luctus mauris.
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibulum
+
+ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida mauris. Nam arcu
+
+libero, nonummy eget, consectetuer id, vulputate a, magna. Donec vehicula augue
+
+eu neque.  Pellentesque habitant morbi tristique senectus et netus et malesuada
+
+fames ac turpis egestas. Mauris ut leo. Cras viverra metus rhoncus sem. Nulla et
+
+lectus vestibulum urna fringilla ultrices. Phasellus eu tellus sit amet tortor gravida
+
+placerat. Integer sapien est, iaculis in, pretium quis, viverra ac, nunc. Praesent eget
+
+[PAGE 31]
+Chapter II. Literature Review                                              8
+
+(a) Sub-caption 1          (b) Sub-caption 2
+
+(c) Sub-caption 3
+
+Figure 2.3: Plot with three images
+
+sem vel leo ultrices bibendum. Aenean faucibus. Morbi dolor nulla, malesuada eu,
+
+pulvinar at, mollis ac, nulla. Curabitur auctor semper nulla. Donec varius orci eget
+
+risus. Duis nibh mi, congue eu, accumsan eleifend, sagittis quis, diam. Duis eget
+
+orci sit amet orci dignissim rutrum.
+
+Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem
+
+non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus. Donec
+
+aliquet, tortor sed accumsan bibendum, erat ligula aliquet magna, vitae ornare odio
+
+metus a mi. Morbi ac orci et nisl hendrerit mollis.  Suspendisse ut massa. Cras
+
+nec ante. Pellentesque a nulla. Cum sociis natoque penatibus et magnis dis partu-
+
+rient montes, nascetur ridiculus mus. Aliquam tincidunt urna. Nulla ullamcorper
+
+vestibulum turpis. Pellentesque cursus luctus mauris. Here is Table 2.1.
+
+[PAGE 32]
+Chapter II. Literature Review                                              9
+
+(a) Sub-caption 1                    (b) Sub-caption 2
+
+(c) Sub-caption 3                    (d) Sub-caption 4
+
+Figure 2.4: Plot with two by two image grid.
+
+2.3  Research Gaps
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibulum
+
+ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida mauris. Nam arcu
+
+libero, nonummy eget, consectetuer id, vulputate a, magna. Donec vehicula augue
+
+eu neque.  Pellentesque habitant morbi tristique senectus et netus et malesuada
+
+fames ac turpis egestas. Mauris ut leo. Cras viverra metus rhoncus sem. Nulla et
+
+lectus vestibulum urna fringilla ultrices. Phasellus eu tellus sit amet tortor gravida
+
+placerat. Integer sapien est, iaculis in, pretium quis, viverra ac, nunc. Praesent eget
+
+sem vel leo ultrices bibendum. Aenean faucibus. Morbi dolor nulla, malesuada eu,
+
+[PAGE 33]
+Chapter II. Literature Review                                             10
+
+Table 2.1: Various empirical study details.
+
+Authors                                                   Model/
+Type             Study  Sample
+and                                           Variable used        method
+(Number of Sites)  Type   Size
+Country                                                         used
+
+Variable 1, variable 2,
+Author 1,  School zones
+V      567       variable 3, variable 4,      Linear Regression
+Canada    (34)
+and variable 5
+
+Variable 1, variable 2,
+Author 2,  Mid-block section
+Q      120       variable 3, variable 4,      Survival analysis
+France      (4)
+and variable 5
+
+Variable 1, variable 2,
+Author 3,  Mid-block section
+O      1130      variable 3, variable 4,      Soft computing
+Japan      (4)
+and variable 5
+
+Author 4,  Signalized crosswalk                      Variable 1, variable 2,
+E       567                                  Descriptive statistics
+Australia   (4)                                         variable 3, and variable 4
+
+Note: E: Experimental, O: Observational survey, Q: Questionnaire survey, V: Video
+graphic survey.
+
+pulvinar at, mollis ac, nulla. Curabitur auctor semper nulla. Donec varius orci eget
+
+risus. Duis nibh mi, congue eu, accumsan eleifend, sagittis quis, diam. Duis eget
+
+orci sit amet orci dignissim rutrum.
+
+Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem
+
+non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus. Donec
+
+aliquet, tortor sed accumsan bibendum, erat ligula aliquet magna, vitae ornare odio
+
+metus a mi. Morbi ac orci et nisl hendrerit mollis.  Suspendisse ut massa. Cras
+
+nec ante. Pellentesque a nulla. Cum sociis natoque penatibus et magnis dis partu-
+
+rient montes, nascetur ridiculus mus. Aliquam tincidunt urna. Nulla ullamcorper
+
+vestibulum turpis. Pellentesque cursus luctus mauris.
+
+Nulla malesuada porttitor diam. Donec felis erat, congue non, volutpat at, tincidunt
+
+tristique, libero. Vivamus viverra fermentum felis. Donec nonummy pellentesque
+
+ante. Phasellus adipiscing semper elit. Proin fermentum massa ac quam. Sed diam
+
+turpis, molestie vitae, placerat a, molestie nec, leo. Maecenas lacinia. Nam ipsum
+
+ligula, eleifend at, accumsan nec, suscipit a, ipsum. Morbi blandit ligula feugiat
+
+magna. Nunc eleifend consequat lorem. Sed lacinia nulla vitae enim. Pellentesque
+
+[PAGE 34]
+Chapter II. Literature Review                                             11
+
+tincidunt purus vel magna.  Integer non enim.  Praesent euismod nunc eu purus.
+
+Donec bibendum quam in tellus. Nullam cursus pulvinar lectus. Donec et mi. Nam
+
+vulputate metus eu enim. Vestibulum pellentesque felis eu massa.
+
+Quisque ullamcorper placerat ipsum. Cras nibh. Morbi vel justo vitae lacus tin-
+
+cidunt ultrices. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.  In hac
+
+habitasse platea dictumst.  Integer tempus convallis augue. Etiam facilisis. Nunc
+
+elementum fermentum wisi. Aenean placerat. Ut imperdiet, enim sed gravida sollici-
+
+tudin, felis odio placerat quam, ac pulvinar elit purus eget enim. Nunc vitae tortor.
+
+Proin tempus nibh sit amet nisl. Vivamus quis tortor vitae risus porta vehicula.
+
+2.4  Summary
+
+Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem
+
+non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus. Donec
+
+aliquet, tortor sed accumsan bibendum, erat ligula aliquet magna, vitae ornare odio
+
+metus a mi. Morbi ac orci et nisl hendrerit mollis.  Suspendisse ut massa. Cras
+
+nec ante. Pellentesque a nulla. Cum sociis natoque penatibus et magnis dis partu-
+
+rient montes, nascetur ridiculus mus. Aliquam tincidunt urna. Nulla ullamcorper
+
+vestibulum turpis. Pellentesque cursus luctus mauris.
+
+[PAGE 35]
+Chapter 3
+
+Study Methodology
+
+3.1  Introduction
+
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus
+
+mus. Aliquam tincidunt urna. Nulla ullamcorper vestibulum turpis. Pellentesque
+
+cursus luctus mauris.
+
+3.2  Methodology
+
+Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem
+
+non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus. Donec
+
+aliquet, tortor sed accumsan bibendum, erat ligula aliquet magna, vitae ornare odio
+
+metus a mi. Morbi ac orci et nisl hendrerit mollis.  Suspendisse ut massa. Cras
+
+nec ante. Pellentesque a nulla. Cum sociis natoque penatibus et magnis dis partu-
+
+rient montes, nascetur ridiculus mus. Aliquam tincidunt urna. Nulla ullamcorper
+
+vestibulum turpis. Pellentesque cursus luctus mauris.
+
+12
+
+[PAGE 36]
+Chapter III. Study Methodology                                           13
+
+Nulla ullamcorper vestibulum turpis. Pellentesque cursus luctus mauris Figure 3.1.
+
+Step 1
+
+Step 2
+
+Step 3
+
+Step 4
+
+Step 5
+
+Left 1                                  Step 6
+
+Step 7
+Left 2
+
+Step 8
+
+Step 9
+
+Right 1
+
+Step 10
+
+Step 11
+
+Step 12
+
+Figure 3.1: Study methodology.
+
+3.3  Models and Algorithms
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibulum
+
+ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida mauris. Nam arcu
+
+libero, nonummy eget, consectetuer id, vulputate a, magna. Donec vehicula augue
+
+eu neque.  Pellentesque habitant morbi tristique senectus et netus et malesuada
+
+fames ac turpis egestas. Mauris ut leo. Cras viverra metus rhoncus sem. Nulla et
+
+lectus vestibulum urna fringilla ultrices. Phasellus eu tellus sit amet tortor gravida
+
+placerat. Integer sapien est, iaculis in, pretium quis, viverra ac, nunc. Praesent eget
+
+[PAGE 37]
+Chapter III. Study Methodology                                           14
+
+sem vel leo ultrices bibendum. Aenean faucibus. Morbi dolor nulla, malesuada eu,
+
+pulvinar at, mollis ac, nulla. Curabitur auctor semper nulla. Donec varius orci eget
+
+risus. Duis nibh mi, congue eu, accumsan eleifend, sagittis quis, diam. Duis eget
+
+orci sit amet orci dignissim rutrum.
+
+Here is equation 3.1.
+
+1  n
+e = lim  1 +                                   (3.1)
+n→∞     n
+
+x2 −25 = 0
+
+x2 = 25
+
+∴x = 5                                  (3.2)
+
+f(x) = 4xy2 + 3x3 −2xy + 25x3y3 + 3xy −4x6y6 + 3xy2 −2y3
+
++ a3b3c4 + 3x3 −2xy + 25x3y3 + 3xy
+
+−4x6y6 + 3xy2 −2y3 + a3b3c4  (3.3)
+
+3.4  Summary
+
+Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem
+
+non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus. Donec
+
+aliquet, tortor sed accumsan bibendum, erat ligula aliquet magna, vitae ornare odio
+
+metus a mi. Morbi ac orci et nisl hendrerit mollis.  Suspendisse ut massa. Cras
+
+nec ante. Pellentesque a nulla. Cum sociis natoque penatibus et magnis dis partu-
+
+rient montes, nascetur ridiculus mus. Aliquam tincidunt urna. Nulla ullamcorper
+
+vestibulum turpis. Pellentesque cursus luctus mauris.
+
+[PAGE 38]
+Chapter 4
+
+Data Collection and Extraction
+
+4.1  Introduction
+
+This chapter provides an overview of the initial survey, which encompasses survey
+
+site selection, data collection with the help of videography, pedestrian selection, and
+
+the extraction and coding of variables from the collected data.
+
+4.1.1  Survey Site Selection
+
+Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem
+
+non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus. Donec
+
+aliquet, tortor sed accumsan bibendum, erat ligula aliquet magna, vitae ornare odio
+
+metus a mi. Morbi ac orci et nisl hendrerit mollis.  Suspendisse ut massa. Cras
+
+nec ante. Pellentesque a nulla. Cum sociis natoque penatibus et magnis dis partu-
+
+rient montes, nascetur ridiculus mus. Aliquam tincidunt urna. Nulla ullamcorper
+
+vestibulum turpis. Pellentesque cursus luctus mauris.
+
+15
+
+[PAGE 39]
+Chapter IV. Data Collection and Extraction                                16
+
+4.1.2  Survey Data Collection
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibulum
+
+ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida mauris. Nam arcu
+
+libero, nonummy eget, consectetuer id, vulputate a, magna. Donec vehicula augue
+
+eu neque.  Pellentesque habitant morbi tristique senectus et netus et malesuada
+
+fames ac turpis egestas. Mauris ut leo. Cras viverra metus rhoncus sem. Nulla et
+
+lectus vestibulum urna fringilla ultrices. Phasellus eu tellus sit amet tortor gravida
+
+placerat. Integer sapien est, iaculis in, pretium quis, viverra ac, nunc. Praesent eget
+
+sem vel leo ultrices bibendum. Aenean faucibus. Morbi dolor nulla, malesuada eu,
+
+pulvinar at, mollis ac, nulla. Curabitur auctor semper nulla. Donec varius orci eget
+
+risus. Duis nibh mi, congue eu, accumsan eleifend, sagittis quis, diam. Duis eget
+
+orci sit amet orci dignissim rutrum.
+
+4.1.3  Sample Selection
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibulum
+
+ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida mauris. Nam arcu
+
+libero, nonummy eget, consectetuer id, vulputate a, magna. Donec vehicula augue
+
+eu neque.  Pellentesque habitant morbi tristique senectus et netus et malesuada
+
+fames ac turpis egestas. Mauris ut leo. Cras viverra metus rhoncus sem. Nulla et
+
+lectus vestibulum urna fringilla ultrices. Phasellus eu tellus sit amet tortor gravida
+
+placerat. Integer sapien est, iaculis in, pretium quis, viverra ac, nunc. Praesent eget
+
+sem vel leo ultrices bibendum. Aenean faucibus. Morbi dolor nulla, malesuada eu,
+
+pulvinar at, mollis ac, nulla. Curabitur auctor semper nulla. Donec varius orci eget
+
+risus. Duis nibh mi, congue eu, accumsan eleifend, sagittis quis, diam. Duis eget
+
+orci sit amet orci dignissim rutrum.
+
+[PAGE 40]
+Chapter IV. Data Collection and Extraction                                17
+
+Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem
+
+non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus. Donec
+
+aliquet, tortor sed accumsan bibendum, erat ligula aliquet magna, vitae ornare odio
+
+metus a mi. Morbi ac orci et nisl hendrerit mollis.  Suspendisse ut massa. Cras
+
+nec ante. Pellentesque a nulla. Cum sociis natoque penatibus et magnis dis partu-
+
+rient montes, nascetur ridiculus mus. Aliquam tincidunt urna. Nulla ullamcorper
+
+vestibulum turpis. Pellentesque cursus luctus mauris.
+
+4.1.4  Data Extraction and Coding
+
+Aliquam lectus.  Vivamus leo.  Quisque ornare tellus ullamcorper nulla.  Mauris
+
+porttitor pharetra tortor. Sed fringilla justo sed mauris. Mauris tellus. Sed non leo.
+
+Nullam elementum, magna in cursus sodales, augue est scelerisque sapien, venenatis
+
+congue nulla arcu et pede. Ut suscipit enim vel sapien. Donec congue. Maecenas
+
+urna mi, suscipit in, placerat ut, vestibulum ut, massa. Fusce ultrices nulla et nisl.
+
+4.2  Summary
+
+Quisque ullamcorper placerat ipsum. Cras nibh. Morbi vel justo vitae lacus tin-
+
+cidunt ultrices. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.  In hac
+
+habitasse platea dictumst.  Integer tempus convallis augue. Etiam facilisis. Nunc
+
+elementum fermentum wisi. Aenean placerat. Ut imperdiet, enim sed gravida sollici-
+
+tudin, felis odio placerat quam, ac pulvinar elit purus eget enim. Nunc vitae tortor.
+
+Proin tempus nibh sit amet nisl. Vivamus quis tortor vitae risus porta vehicula.
+
+[PAGE 41]
+Chapter 5
+
+Analysis and Results
+
+5.1  Introduction
+
+Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi.  Morbi auctor
+
+lorem non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus.
+
+Donec aliquet, tortor sed accumsan bibendum, erat.
+
+5.2  Descriptive Statistics
+
+Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem
+
+non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus. Donec
+
+aliquet, tortor sed accumsan bibendum, erat ligula aliquet magna, vitae ornare odio
+
+metus a mi. Morbi ac orci et nisl hendrerit mollis.  Suspendisse ut massa. Cras
+
+nec ante. Pellentesque a nulla. Cum sociis natoque penatibus et magnis dis partu-
+
+rient montes, nascetur ridiculus mus. Aliquam tincidunt urna. Nulla ullamcorper
+
+vestibulum turpis. Pellentesque cursus luctus mauris.
+
+18
+
+[PAGE 42]
+Chapter V. Analysis and Results                                          19
+
+5.3  Model Development
+
+Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem
+
+non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus. Donec
+
+aliquet, tortor sed accumsan bibendum, erat ligula aliquet magna, vitae ornare odio
+
+metus a mi. Morbi ac orci et nisl hendrerit mollis.  Suspendisse ut massa. Cras
+
+nec ante. Pellentesque a nulla. Cum sociis natoque penatibus et magnis dis partu-
+
+rient montes, nascetur ridiculus mus. Aliquam tincidunt urna. Nulla ullamcorper
+
+vestibulum turpis. Pellentesque cursus luctus mauris.
+
+5.4  Discussion
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibulum
+
+ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida mauris. Nam arcu
+
+libero, nonummy eget, consectetuer id, vulputate a, magna. Donec vehicula augue
+
+eu neque.  Pellentesque habitant morbi tristique senectus et netus et malesuada
+
+fames ac turpis egestas. Mauris ut leo. Cras viverra metus rhoncus sem. Nulla et
+
+lectus vestibulum urna fringilla ultrices. Phasellus eu tellus sit amet tortor gravida
+
+placerat. Integer sapien est, iaculis in, pretium quis, viverra ac, nunc. Praesent eget
+
+sem vel leo ultrices bibendum. Aenean faucibus. Morbi dolor nulla, malesuada eu,
+
+pulvinar at, mollis ac, nulla. Curabitur auctor semper nulla. Donec varius orci eget
+
+risus. Duis nibh mi, congue eu, accumsan eleifend, sagittis quis, diam. Duis eget
+
+orci sit amet orci dignissim rutrum.
+
+[PAGE 43]
+Chapter V. Analysis and Results                                          20
+
+5.5  Summary
+
+Nulla malesuada porttitor diam. Donec felis erat, congue non, volutpat at, tincidunt
+
+tristique, libero. Vivamus viverra fermentum felis. Donec nonummy pellentesque
+
+ante. Phasellus adipiscing semper elit. Proin fermentum massa ac quam. Sed diam
+
+turpis, molestie vitae, placerat a, molestie nec, leo. Maecenas lacinia. Nam ipsum
+
+ligula, eleifend at, accumsan nec, suscipit a, ipsum. Morbi blandit ligula feugiat
+
+magna. Nunc eleifend consequat lorem. Sed lacinia nulla vitae enim. Pellentesque
+
+tincidunt purus vel magna.  Integer non enim.  Praesent euismod nunc eu purus.
+
+Donec bibendum quam in tellus. Nullam cursus pulvinar lectus. Donec et mi. Nam
+
+vulputate metus eu enim. Vestibulum pellentesque felis eu massa.
+
+[PAGE 44]
+Chapter 6
+
+Conclusions and Practical
+
+Implications
+
+6.1  Summary
+
+This chapter outlines the findings and conclusions of the study, as well as the prac-
+
+tical implications that can be drawn from the results.
+
+6.2  Study Findings
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibulum
+
+ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida mauris. Nam arcu
+
+libero, nonummy eget, consectetuer id, vulputate a, magna. Donec vehicula augue
+
+eu neque.  Pellentesque habitant morbi tristique senectus et netus et malesuada
+
+fames ac turpis egestas. Mauris ut leo. Cras viverra metus rhoncus sem. Nulla et
+
+lectus vestibulum urna fringilla ultrices. Phasellus eu tellus sit amet tortor gravida
+
+21
+
+[PAGE 45]
+Chapter VI. Conclusions and Practical Implications                         22
+
+placerat. Integer sapien est, iaculis in, pretium quis, viverra ac, nunc. Praesent eget
+
+sem vel leo ultrices bibendum. Aenean faucibus. Morbi dolor nulla, malesuada eu,
+
+pulvinar at, mollis ac, nulla. Curabitur auctor semper nulla. Donec varius orci eget
+
+risus. Duis nibh mi, congue eu, accumsan eleifend, sagittis quis, diam. Duis eget
+
+orci sit amet orci dignissim rutrum.
+
+• Urabitur auctor semper nulla. Donec varius orci eget risus.  Duis nibh mi,
+
+congue eu, accumsan eleifend, sagittis quis, diam. Duis eget orci sit amet orci
+
+dignissim rutrum.
+
+• Risus. Duis nibh mi, congue eu, accumsan eleifend, sagittis quis, diam.
+
+6.3  Research Contribution
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibulum
+
+ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida mauris. Nam arcu
+
+libero, nonummy eget, consectetuer id, vulputate a, magna. Donec vehicula augue
+
+eu neque.  Pellentesque habitant morbi tristique senectus et netus et malesuada
+
+fames ac turpis egestas. Mauris ut leo. Cras viverra metus rhoncus sem. Nulla et
+
+lectus vestibulum urna fringilla ultrices. Phasellus eu tellus sit amet tortor gravida
+
+placerat. Integer sapien est, iaculis in, pretium quis, viverra ac, nunc. Praesent eget
+
+sem vel leo ultrices bibendum. Aenean faucibus. Morbi dolor nulla, malesuada eu,
+
+pulvinar at, mollis ac, nulla. Curabitur auctor semper nulla. Donec varius orci eget
+
+risus. Duis nibh mi, congue eu, accumsan eleifend, sagittis quis, diam. Duis eget
+
+orci sit amet orci dignissim rutrum.
+
+[PAGE 46]
+Chapter VI. Conclusions and Practical Implications                         23
+
+6.4  Practical Implications
+
+Nulla malesuada porttitor diam. Donec felis erat, congue non, volutpat at, tincidunt
+
+tristique, libero. Vivamus viverra fermentum felis. Donec nonummy pellentesque
+
+ante. Phasellus adipiscing semper elit. Proin fermentum massa ac quam. Sed diam
+
+turpis, molestie vitae, placerat a, molestie nec, leo. Maecenas lacinia. Nam ipsum
+
+ligula, eleifend at, accumsan nec, suscipit a, ipsum. Morbi blandit ligula feugiat
+
+magna. Nunc eleifend consequat lorem. Sed lacinia nulla vitae enim. Pellentesque
+
+tincidunt purus vel magna.  Integer non enim.  Praesent euismod nunc eu purus.
+
+Donec bibendum quam in tellus. Nullam cursus pulvinar lectus. Donec et mi. Nam
+
+vulputate metus eu enim. Vestibulum pellentesque felis eu massa.
+
+6.5  Study Limitations and Scope for Future Work
+
+Nulla malesuada porttitor diam. Donec felis erat, congue non, volutpat at, tincidunt
+
+tristique, libero. Vivamus viverra fermentum felis. Donec nonummy pellentesque
+
+ante. Phasellus adipiscing semper elit. Proin fermentum massa ac quam. Sed diam
+
+turpis, molestie vitae, placerat a, molestie nec, leo. Maecenas lacinia. Nam ipsum
+
+ligula, eleifend at, accumsan nec, suscipit a, ipsum. Morbi blandit ligula feugiat
+
+magna. Nunc eleifend consequat lorem. Sed lacinia nulla vitae enim. Pellentesque
+
+tincidunt purus vel magna.  Integer non enim.  Praesent euismod nunc eu purus.
+
+Donec bibendum quam in tellus. Nullam cursus pulvinar lectus. Donec et mi. Nam
+
+vulputate metus eu enim. Vestibulum pellentesque felis eu massa.
+
+[PAGE 47]
+Appendix A
+
+Appendix A Title
+
+24
+
+[PAGE 48]
+Appendix B
+
+Appendix B Title
+
+25
+
+[PAGE 49]
+References
+
+[1] L. Rothman, R. Ling, B. E. Hagel, C. Macarthur, A. K. Macpherson, R. Buliung,
+
+P. Fuselli, and A. W. Howard, “Pilot study to evaluate school safety zone built
+
+environment interventions,” Injury prevention, vol. 28, no. 3, pp. 243–248, 2022.
+
+[2] B. Li, J. Friedman, R. Olshen, and C. Stone, “Classification and regression trees
+
+(cart),” Biometrics, vol. 40, no. 3, pp. 358–361, 1984.
+
+[3] World Health Organization, “Global Status Report on Road Safety,” W.H.O,
+
+Tech. Rep., 2018. [Online]. Available: www.who.int
+
+26

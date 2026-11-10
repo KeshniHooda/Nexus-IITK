@@ -1,0 +1,173 @@
+[Page 1]
+Proposal for a New Course
+Title: Computational Aeromechanics and Control of UAVs
+Pre-requisites (desirable): Aeromechanics of Unmanned Aerial Systems
+Per Week: Lectures: 2, Practical :1 Lab (3 hours)
+Credits: 9
+Duration of Course: 1 Semester (39hrs)
+Proposing Department: AE (PG elective: DE/OE)
+Proposing Instructor(s): Dr. C. S. Upadhyay, Dr. Navrose, Dr. M. Damodaran
+Course Description: This course covers key topics related to modelling and
+simulation of Unmanned Aerial Vehicles (UAV). Different aspects of modelling
+and simulation, ranging from flight dynamics, structural mechanics and
+aerodynamic modelling, will be covered. The focus is on understanding the
+application of various popular tools for detailed design and development of UAV.
+Objective: The objective of the course is to enable students of Aerospace
+Engineering to get a comprehensive overview of modelling methods for
+structural, aerodynamic and flight dynamic analysis of UAVs, and a detailed
+exposure to their application. The course will culminate with a project wherein
+the knowledge of the aforementioned methods will be employed in the design of
+a UAV. Use of computational structural mechanics and computational fluid
+dynamics tools would be emphasized. It is expected of the students to write their
+own flight dynamic tools using Aerospace Blockset in MATLAB and Simulink
+(and/or other available software) for their project.
+Contents:
+S. 
+No. 
+Broad Title
+Topics
+Hour
+s
+1.
+Introduction 
+to modelling 
+and 
+simulation
+1. Engineering modelling, idealizations, and 
+fidelity of models; Fixed Wing and Rotary 
+Wing UAS
+2L
+2.
+Structural 
+Modelling 
+1. Introduction of finite element method for 
+structural analysis
+2. Static analysis (strength-based design)
+3. Modal analysis (natural frequency and 
+mode shapes)
+4. Impact modelling and analysis
+6L
+3Lab
+3.
+Aerodynamic
+Flow 
+Modelling 
+1. Introduction of Computational Fluid 
+Dynamics (CFD)
+2. Problem setup, computational domain, 
+initial and boundary conditions
+3. Mesh generation
+4. Overview of turbulence modelling 
+5. 2D and 3D RANS calculations
+6. Convergence and Accuracy of Computed 
+10L
+5Lab
+
+[Page 2]
+Flows
+7. Numerical Flow Visualisation
+8. Introduction to CFD modelling of 
+propellers and rotor blades
+4.
+Flight 
+Dynamics 
+and Control 
+Modelling 
+1. Solving Newton-Euler equations
+2. Realtime simulation
+3. Hardware-in-the-loop simulation (HILS) / 
+Software-in-the-loop simulation (SILS)
+4. Flight Control Models: PID, LQR
+6L 
+3Lab
+5.
+Computation
+al 
+Aeromechani
+cal Model of 
+the UAV
+Integrating all Flight Dynamics, Control, 
+Aerodynamics and Structural Models to form the
+complete Computational Aeromechanical Model 
+to simulate various problems in aeromechanics.
+2L
+2Lab
+Total -- Lectures:26; Lab sessions: 13
+Short Summary for including in course of study booklet: This course
+provides an elaborate introduction and exposure to the usage of various
+methods and tools in aeromechanical application of Unmanned Aerial Vehicles. 
+References:
+Books -
+1. Beard, R., and McLain, T., Small Unmanned Aircraft: Theory and Practice,
+Princeton University Press, 2012.
+2. Witt Robert D. Cook, David S. Malkus, Michael Plesha, Robert J Witt,
+Concepts and Applications of Finite Elements Analysis, Wiley; Fourth
+edition 2007.
+3. S. C. Gupta, Applied Computational Fluid Dynamics, Wiley.
+4. Matko Orsag, Christopher Korpela, Paul Oh, Stjepan Bogdan, Aerial
+Manipulation, Springer 2018.
+5. Pascual Marqués and Andrea Da Ronch, Advanced UAV Aerodynamics,
+Flight Stability and Control: Novel Concepts, Theory and Applications;
+Wiley, 2017.
+6. Yasmina Bestaoui Sebbane, Smart Autonomous Aircraft: Flight Control and
+Planning for UAV, CRC 2016.
+Tools/Softwares -
+The following list of -software is proposed for the Lab assignment and projects.
+These are based on the current state-of-the-art tools that are openly available.
+The list may be revised on a yearly basis.
+1. SHARPY:
+ https://www.imperial.ac.uk/news/195013/new-open-source-
+software-sharpy-launched/ Open Source code available on GitHub and
+Description available at Journal of Open Source Software (JOSS) link
+- https://joss.theoj.org/papers/10.21105/joss.01885
+
+[Page 3]
+2. ASWING https://web.mit.edu/drela/Public/web/aswing/
+ 
+ (From Mark Drela
+(MIT):) 
+ https://web.mit.edu/drela/Public/web/aswing/asw_aiaa.pdf (Paper
+AIAA 99-1394, "Integrated Simulation Model for Preliminary
+Aerodynamic, Structural, and Control-Law Design of Aircraft.") (Free for
+Academic Users)
+3. QPROP:
+ 
+Propeller-Windmill
+ 
+Analysis
+ 
+Program
+https://web.mit.edu/drela/Public/web/qprop/
+Aso from Mark Drela (MIT); Free Open Source.
+4. FEniCS: https://fenicsproject.org/ is an open-source computing platform for
+solving partial differential equations (PDEs) with the finite element method
+(FEM). FEniCS enables users to quickly translate scientific models into
+efficient finite element codes.
+5. FEMCOD: Code accompanying Reference 4. This is also coupled with
+VisualFEA.
+6. CALCULIX: https://www.calculix.de/ is a free open-source Finite Element
+software which can also be coupled with the open source flow solver
+OpenFOAM https://www.openfoam.com/
+7. OPENFOAM:
+ https://www.openfoam.com/ 
+(open-source toolkit for
+Multiphysics
+ 
+CFD/CSD)
+https://www.openfoam.com/documentation/guides/v2206/api/classFoam_1
+_1fv_1_1rotorDiskSource.html#details 
+8. SU2: https://su2code.github.io/ (Open-source toolkit for Multiphysics
+CFD/CSD) https://doi.org/10.1016/j.cam.2020.113340- M.C. Morelli, T.
+Bellosta, A. Guardone Development and Preliminary Assessment of the
+Open-Source CFD Toolkit SU2 for Rotorcraft Flows,
+ Journal of
+Computational and Applied Mathematics, Vol. 389, 2021, 113340.
+9. MATLAB/Simulink Resources and Aerospace Blockset.
+10. Behdad Davoudi, Ehsan Taheri, Karthik Duraisamy, Balaji Jayaraman and
+Ilya Kolmanovsky, “Quad-Rotor Flight Simulation in Realistic Atmospheric
+Conditions” AIAA J., 58(5) May 2020 https://doi.org/10.2514/1.J058327; 
+Codes at https://github.com/behdad2018/FlightSim_QR_AIAA
+Software Tools for Use in Module 2: Tools 1,4,5,6
+Software Tools for Use in Module 3: Tools 1,2,3,7,8,9
+Software Tools for Use in Module 4: Tools 9,10
+Software Tools for Use in Module 5: Tools 2,9,10

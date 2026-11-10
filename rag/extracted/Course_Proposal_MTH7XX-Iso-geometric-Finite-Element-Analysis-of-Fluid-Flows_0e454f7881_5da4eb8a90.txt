@@ -1,0 +1,50 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+Department of Mathematics & Statistics
+Proposal for New Modular Elective Course
+
+Title: Iso-geometric Finite Element Analysis of Fluid Flows
+Course No: MTH 7XX
+Credits: 3-0-0-5 (L-T-P-C)
+Semester: Any, Duration: Half Semester
+Department: Mathematics & Statistics
+Proposer: B.V.R.Kumar
+Prerequisite: MTH-308, MTH-430, MTH-421, MTH 522, MTH523A, MTH738
+No. of Students: ~ 15
+Dept. to which course may be interesting: MATH/PHY/All Engineering Dept.
+
+Course Objective: This course aims to provide a comprehensive understanding of isogeometric
+finite element analysis (IGA) for fluid flow problems. Students will learn how spline-based
+geometric representations such as NURBS and B-splines can be integrated with finite
+element formulations to achieve higher accuracy, smoothness, and geometric fidelity in
+computational fluid dynamics. The course covers mathematical foundations, weak
+formulations of incompressible flow equations, discretization strategies, stability
+considerations, mathematical convergence analysis and efficient numerical implementation.
+Through theoretical study and computational projects, participants will develop the ability to
+model complex fluid phenomena, handle curved geometries, and analyze advanced
+applications in engineering, biomechanics, and multiphysics fluid-structure interaction
+problems.
+
+S.No.                         Item                         No. of Lectures
+1        Recall of IGA Basics –Clissical FEM, NURBS, IGFEA for Linear     5
+Problems, Fluid Mechanics
+
+2      IGFEA in Linear Elasticity                                     2
+3       Time Dependent Problems                                      2
+4       Non-Linear Iso-geometric Analysis                               4
+5        Fluids                                                      4
+6        Fluid structure Interaction                                      3
+
+Reference Books:
+     J. Austrin Cotrell et al., Iso-geometric Analysis 2009, Wiley
+   Annalis Bufa et al., Iso-Geometric Analysis for PDEs, 2011, Springer
+   Cleas Johnson, Numerical Methods for PDEs, Cambridge
+
+
+Date:    23.03.26                                                Signature       of       the      Proposer:
+B.V.R.Kumar
+
+Signature of DPGC Convener:
+
+Course Approved/Not Approved
+Signature of Chairman SUGC

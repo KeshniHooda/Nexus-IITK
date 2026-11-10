@@ -1,0 +1,2640 @@
+[Page 1]
+Page 1 of 15 
+ 
+1 AE322A 
+Mangal Kothari 
+AE 
+54 
+2 AE341A 
+Ashoke De 
+AE 
+67 
+3 AE351A 
+Mohammed Ibrahim Sugarno 
+AE 
+54 I/3 
+4 AE351A 
+Gopalakrishna M Kamath 
+AE 
+54 I/3 
+5 AE351A 
+Ajay Singh 
+AE 
+54 I/3 
+6 AE361A 
+Sudhir Kamle 
+AE 
+52 I/2 
+7 AE361A 
+A K Ghosh 
+AE 
+52 I/2 
+8 AE371A 
+Alakesh Chandra Mandal 
+AE 
+1 
+9 AE421A 
+Subrahmanyam Saderla 
+AE 
+0 
+10 AE441A 
+Ashoke De 
+AE 
+3 
+11 AE462A 
+C S Upadhyay 
+AE 
+46 
+12 AE471A 
+Alakesh Chandra Mandal 
+AE 
+0 
+13 AE472A 
+Alakesh Chandra Mandal 
+AE 
+6 
+14 AE481A 
+Sanjay Mittal 
+AE 
+21 
+15 AE606A 
+Sanjay Kumar 
+AE 
+21 
+16 AE608A 
+Rakesh Kumar 
+AE 
+23 
+17 AE612A 
+Debopam Das 
+AE 
+24 
+18 AE621A 
+Alakesh Chandra Mandal 
+AE 
+36 
+19 AE625A 
+T K Sengupta 
+AE 
+13 
+20 AE641A 
+Dipak Kumar Giri 
+AE 
+87 
+21 AE648A 
+Raghavendra Kukillaya 
+AE 
+10 
+22 AE660A 
+Abhishek 
+AE 
+15 
+23 AE662A 
+D P Mishra 
+AE 
+2 
+24 AE667A 
+Vaibhav Kumar Arghode 
+AE 
+6 
+25 AE672A 
+Pritam Chakraborty 
+AE 
+3 
+26 AE675A 
+P M Mohite 
+AE 
+23 
+27 AE681A 
+Pritam Chakraborty 
+AE 
+19 
+28 AE687A 
+Tanmoy 
+AE 
+12 
+29 AE693A 
+Prakash D Mangalgiri 
+AE 
+6 
+30 AE694A 
+Sathesh Mariappan 
+AE 
+25 
+31 AE698A 
+Kamal Poddar 
+AE 
+22 
+32 AE699 
+Raghavendra Kukillaya 
+AE 
+58 I/2 
+33 AE699 
+Alakesh Chandra Mandal 
+AE 
+58 I/2 
+34 AE707A 
+Rajesh Kitey 
+AE 
+6 
+35 AE778A 
+Ashish Tiwari 
+AE 
+6 
+36 AE799 
+Raghavendra Kukillaya 
+AE 
+100 
+37 AE899 
+Raghavendra Kukillaya 
+AE 
+16 
+38 ESO201A 
+Abhijit Kushari 
+AE 
+0 I/2 
+39 ESO201A 
+Ajay Singh 
+AE 
+0 I/2 
+40 BSE221A 
+Amitabha Bandyopadhyay 
+BSBE 
+45 
+41 BSE222A 
+Ashok Kumar 
+BSBE 
+39 
+42 BSE223A 
+Jayandharan Giridhara Rao 
+BSBE 
+35 
+43 BSE321A 
+Dibyendu Kumar Das 
+BSBE 
+33 
+DEAN OF ACADEMIC AFFAIRS OFFICE 
+COURSE LOAD 2019-20/SECOND 
+SL. 
+NO. 
+COURSE 
+NUMBER 
+INSTRUCTOR NAME 
+DEPT. 
+REGISTERED 
+STUDENTS 
+REMARK
+(T) – TUTOR 
+(I/3)–THREE 
+INSTRUCTORS
+
+[Page 2]
+Page 2 of 15 
+ 
+44 BSE322A 
+Nitin Gupta 
+BSBE 
+53 
+45 BSE399A 
+Ashwani Kumar Thakur 
+BSBE 
+6 
+46 BSE421A 
+Santosh Misra 
+BSBE 
+40 
+47 BSE498A 
+Ashwani Kumar Thakur 
+BSBE 
+1 
+48 BSE499A 
+Ashwani Kumar Thakur 
+BSBE 
+10 
+49 BSE602A 
+Bushra Ateeq 
+BSBE 
+52 
+50 BSE612A 
+Saravanan Matheshwaran 
+BSBE 
+14 
+51 BSE614A 
+Dhirendra S Katti 
+BSBE 
+6 
+52 BSE615A 
+Mainak Das 
+BSBE 
+509 
+53 BSE616A 
+Ashwani Kumar Thakur 
+BSBE 
+37 
+54 BSE633A 
+Ramasubbu S Ramakrishnan 
+BSBE 
+20 
+55 BSE652A 
+Jonaki Sen 
+BSBE 
+8 
+56 BSE653A 
+Bushra Ateeq 
+BSBE 
+6 
+57 BSE654A 
+Subramaniam Ganesh 
+BSBE 
+22 
+58 BSE699 
+Bushra Ateeq 
+BSBE 
+28 I/2 
+59 BSE699 
+Ashwani Kumar Thakur 
+BSBE 
+28 I/2 
+60 BSE701A 
+Bushra Ateeq 
+BSBE 
+27 
+61 BSE702A 
+Bushra Ateeq 
+BSBE 
+28 
+62 BSE799 
+Bushra Ateeq 
+BSBE 
+106 
+63 LIF101A 
+Arun Kumar Shukla 
+BSBE 
+0 I/2 
+64 LIF101A 
+Pradip Sinha 
+BSBE 
+0 I/2 
+65 CE242A 
+Syam Nair 
+CE 
+0 I/3 
+66 CE242A 
+Sudhir Misra 
+CE 
+0 I/2 
+67 CE242A 
+Jagdish Sahoo 
+CE 
+0 I/2 
+68 CE262A 
+Gourabananda Pahar 
+CE 
+0 
+69 CE272A 
+Sudib Kumar Mishra 
+CE 
+132 
+70 CE322A 
+Pingala Desk 
+CE 
+2 
+71 CE332A 
+Onkar Dikshit 
+CE 
+6 I/4 
+72 CE332A 
+Balaji Devaraju 
+CE 
+6 I/4 
+73 CE352A 
+Bipin Gupta 
+CE 
+0 I/4 
+74 CE352A 
+Gaurav 
+CE 
+0 I/4 
+75 CE372A 
+Vinay Kumar Gupta 
+CE 
+96 
+76 CE382A 
+Animesh Das 
+CE 
+104 I/2 
+77 CE382A 
+Venkatesan Kanagaraj 
+CE 
+104 I/2 
+78 CE412A 
+Vinod Tare 
+CE 
+81 
+79 CE432A 
+Salil Goel 
+CE 
+29 I/2 
+80 CE432A 
+Nagarajan Balasubramanian 
+CE 
+29 I/2 
+81 CE462A 
+Shivam Tripathi 
+CE 
+42 
+82 CE491A 
+Anubha Goel 
+CE 
+6 
+83 CE492A 
+Anubha Goel 
+CE 
+10 
+84 CE493A 
+Anubha Goel 
+CE 
+1 
+85 CE612A 
+Rajesh Srivastava 
+CE 
+5 
+86 CE613A 
+Richa Ojha 
+CE 
+10 
+87 CE617A 
+Saumyen Guha 
+CE 
+9 
+88 CE622A 
+Amar Nath Chowdhury 
+CE 
+19
+
+[Page 3]
+Page 3 of 15 
+ 
+89 CE623A 
+Chinmoy Kolay 
+CE 
+21 
+90 CE626A 
+Durgesh C Rai 
+CE 
+14 
+91 CE629A 
+Samit Ray Chaudhuri 
+CE 
+22 
+92 CE632A 
+Nihar Ranjan Patra 
+CE 
+13 
+93 CE636A 
+Prishati Raychowdhury 
+CE 
+21 
+94 CE637A 
+Arghya Das 
+CE 
+17 
+95 CE642A 
+Harish K V 
+CE 
+13 I/3 
+96 CE642A 
+Syam Nair 
+CE 
+13 I/3 
+97 CE642A 
+Nagarajan Balasubramanian 
+CE 
+13 I/3 
+98 CE643B 
+Harish K V 
+CE 
+0 
+99 CE645A 
+Sudhir Misra 
+CE 
+22 
+100 CE647A 
+Sudhir Misra 
+CE 
+24 
+101 CE667A 
+Abhishek 
+CE 
+55 
+102 CE668A 
+Tarun Gupta 
+CE 
+16 I/2 
+103 CE668A 
+Purnendu Bose 
+CE 
+16 I/2 
+104 CE669A 
+Sachchidanand Tripathi 
+CE 
+86 
+105 CE670A 
+Balaji Devaraju 
+CE 
+7 
+106 CE672A 
+Onkar Dikshit 
+CE 
+17 
+107 CE673A 
+Onkar Dikshit 
+CE 
+29 
+108 CE674A 
+Nagarajan Balasubramanian 
+CE 
+32 
+109 CE675B 
+Nagarajan Balasubramanian 
+CE 
+0 
+110 CE677B 
+Salil Goel 
+CE 
+0 
+111 CE679A 
+Balaji Devaraju 
+CE 
+3 
+112 CE684B 
+Syam Nair 
+CE 
+0 
+113 CE685A 
+Partha Chakroborty 
+CE 
+15 
+114 CE697A 
+Partha Chakroborty 
+CE 
+2 
+115 CE698A 
+Partha Chakroborty 
+CE 
+69 I/2 
+116 CE698A 
+Anubha Goel 
+CE 
+69 I/2 
+117 CE699 
+Partha Chakroborty 
+CE 
+78 I/2 
+118 CE699 
+Anubha Goel 
+CE 
+78 I/2 
+119 CE701A 
+Rajesh Sathiyamoorthy 
+CE 
+0 
+120 CE721A 
+Suparno Mukhopadhyay 
+CE 
+20 
+121 CE732A 
+Rajesh Sathiyamoorthy 
+CE 
+9 
+122 CE734A 
+Priyanka Ghosh 
+CE 
+0 
+123 CE760A 
+Abhas Singh 
+CE 
+3 
+124 CE763A 
+Purnendu Bose 
+CE 
+27 
+125 CE764A 
+Tarun Gupta 
+CE 
+10 
+126 CE765B 
+Abhishek 
+CE 
+23 
+127 CE766A 
+Anubha Goel 
+CE 
+146 
+128 CE767B 
+Abhas Singh 
+CE 
+2 
+129 CE771A 
+Onkar Dikshit 
+CE 
+29 
+130 CE780A 
+Pranamesh Chakraborty 
+CE 
+12 I/2 
+131 CE780A 
+Animesh Das 
+CE 
+12 I/2 
+132 CE781A 
+Venkatesan Kanagaraj 
+CE 
+0 
+133 CE791A 
+Partha Chakroborty 
+CE 
+1
+
+[Page 4]
+Page 4 of 15 
+ 
+134 CE792A 
+Partha Chakroborty 
+CE 
+3 
+135 CE793A 
+Partha Chakroborty 
+CE 
+1 
+136 CE794A 
+Partha Chakroborty 
+CE 
+1 
+137 CE797A 
+Partha Chakroborty 
+CE 
+3 
+138 CE798A 
+Partha Chakroborty 
+CE 
+7 
+139 CE799 
+Partha Chakroborty 
+CE 
+117 
+140 CE898A 
+Partha Chakroborty 
+CE 
+0 
+141 CE899 
+Partha Chakroborty 
+CE 
+3 
+142 HSO201A 
+Joydeep Dutta 
+CE 
+218 
+143 TA101A 
+Bharat Lohani 
+CE 
+487 
+144 CGS602A 
+Harish Karnick 
+CGS 
+20 
+145 CGS603A 
+Devpriya Kumar 
+CGS 
+16 
+146 CGS651A 
+Mohua Banerjee 
+CGS 
+24 
+147 CGS698B 
+K M Sharika 
+CGS 
+0 
+148 CGS701A 
+Devpriya Kumar 
+CGS 
+0 
+149 CGS702A 
+Devpriya Kumar 
+CGS 
+3 
+150 CGS799 
+Devpriya Kumar 
+CGS 
+7 
+151 CGS899 
+Devpriya Kumar 
+CGS 
+9 
+152 CHE211A 
+Indranil Saha Dalal 
+CHE 
+87 
+153 CHE221A 
+Vishal Agarwal 
+CHE 
+80 
+154 CHE261A 
+Sri Sivakumar 
+CHE 
+79 
+155 CHE331A 
+Goutam Deo 
+CHE 
+85 
+156 CHE349A 
+Raghvendra Singh 
+CHE 
+1 
+157 CHE362A 
+Sanjeev Garg 
+CHE 
+19 
+158 CHE381A 
+Nitin Kaistha 
+CHE 
+77 
+159 CHE391A 
+Nishith Kumar Verma 
+CHE 
+88 I/2 
+160 CHE391A 
+Himanshu 
+CHE 
+88 I/2 
+161 CHE398A 
+Raghvendra Singh 
+CHE 
+38 
+162 CHE454A 
+Raju Kumar Gupta 
+CHE 
+18 
+163 CHE497A 
+Raghvendra Singh 
+CHE 
+8 
+164 CHE498A 
+Raghvendra Singh 
+CHE 
+1 
+165 CHE611A 
+Anurag Tripathi 
+CHE 
+11 
+166 CHE614A 
+Viswanathan Shankar 
+CHE 
+47 
+167 CHE619A 
+Naveen Tiwari 
+CHE 
+5 
+168 CHE623A 
+Pankaj A Apte 
+CHE 
+11 
+169 CHE642A 
+Nishith Kumar Verma 
+CHE 
+45 
+170 CHE659A 
+Siddhartha Panda 
+CHE 
+34 
+171 CHE672A 
+Harshwardhan Katkar 
+CHE 
+17 
+172 CHE677A 
+Rahul Mangal 
+CHE 
+15 
+173 CHE678A 
+Animangsu Ghatak 
+CHE 
+17 
+174 CHE679A 
+Pingala Desk 
+CHE 
+0 
+175 CHE687A 
+Raj Ganesh S Pala 
+CHE 
+25 
+176 CHE688A 
+Dipin Pillai 
+CHE 
+0 
+177 CHE699 
+Indranil Saha Dalal 
+CHE 
+72 I/2 
+178 CHE699 
+Raghvendra Singh 
+CHE 
+72 I/2
+
+[Page 5]
+Page 5 of 15 
+ 
+179 CHE702A 
+Sri Sivakumar 
+CHE 
+42 
+180 CHE799 
+Indranil Saha Dalal 
+CHE 
+74 
+181 CHE802A 
+Nitin Kaistha 
+CHE 
+0 
+182 CHE899 
+Indranil Saha Dalal 
+CHE 
+4 
+183 CHM101A Jitendra Bera 
+CHM 
+508 I/4 
+184 CHM101A Sabuj Kumar Kundu 
+CHM 
+508 I/4 
+185 CHM101A Debabrata Goswami 
+CHM 
+508 I/4 
+186 CHM101A Manas Kumar Ghorai 
+CHM 
+508 I/4 
+187 CHM102A Dasari L V K Prasad 
+CHM 
+514 I/2 
+188 CHM102A R Gurunath 
+CHM 
+514 I/2 
+189 CHM202A M L N Rao 
+CHM 
+24 
+190 CHM222A Vishal 
+CHM 
+20 
+191 CHM242A Raja Angamuthu 
+CHM 
+22 
+192 CHM322A Thiruvancheril G Gopakumar 
+CHM 
+23 
+193 CHM342A R N Mukherjee 
+CHM 
+23 
+194 CHM344A P K Bharadwaj 
+CHM 
+20 
+195 CHM392A Anand Singh 
+CHM 
+2 
+196 CHM402A Veejendra Kumar Yadav 
+CHM 
+41 
+197 CHM422A Thiruvancheril G Gopakumar 
+CHM 
+39 
+198 CHM442A R N Mukherjee 
+CHM 
+39 
+199 CHM443A Apparao Draksharapu 
+CHM 
+44 
+200 CHM481A Dharmaraja Allimuthu 
+CHM 
+63 
+201 CHM492A Anand Singh 
+CHM 
+1 
+202 CHM599 
+Anand Singh 
+CHM 
+11 
+203 CHM609A Srinivas Dharavath 
+CHM 
+6 
+204 CHM612A Pingala Desk 
+CHM 
+0 
+205 CHM629A Amalendu Chandra 
+CHM 
+2 
+206 CHM631A Jitendra Bera 
+CHM 
+10 I/2 
+207 CHM631A Sabuj Kumar Kundu 
+CHM 
+10 I/2 
+208 CHM636A Manabendra Chandra 
+CHM 
+39 
+209 CHM647A Prakash Mondal 
+CHM 
+33 
+210 CHM649A Ashis Kumar Patra 
+CHM 
+4 
+211 CHM650A Arnab Ghosh 
+CHM 
+10 
+212 CHM655A Basker Sundararaju 
+CHM 
+9 
+213 CHM656A Dattatraya H Dethe 
+CHM 
+47 
+214 CHM662A V K Singh 
+CHM 
+59 
+215 CHM667A Mainak 
+CHM 
+4 
+216 CHM689A Pingala Desk 
+CHM 
+0 
+217 CHM691A Ritika Gautam 
+CHM 
+15 
+218 CHM695A Nisanth N Nair 
+CHM 
+19 
+219 CHM699A Pratik Sen 
+CHM 
+12 
+220 CHM700 
+Anand Singh 
+CHM 
+38 
+221 CHM799 
+Pratik Sen 
+CHM 
+214 
+222 CHM800A Pratik Sen 
+CHM 
+219 
+223 CHM801A Pratik Sen 
+CHM 
+219
+
+[Page 6]
+Page 6 of 15 
+ 
+224 CSO201A 
+Ramesh Ramapanicker 
+CHM 
+179 I/2 
+225 CSO201A 
+Anand Singh 
+CHM 
+179 I/2 
+226 CSO203A 
+Anantharaman Ganapathi 
+CHM 
+109 I/2 
+227 CSO203A 
+Sankar Prasad Rath 
+CHM 
+109 I/2 
+228 COM200 
+Sudharshana N P 
+COM 
+379 
+229 CS202A 
+Anil Seth 
+CSE 
+0 
+230 CS203B 
+Rajat Mittal 
+CSE 
+6 
+231 CS220A 
+Mainak Chaudhuri 
+CSE 
+126 
+232 CS251A 
+Sunil Easaw Simon 
+CSE 
+10 
+233 CS253A 
+Amey Karkare 
+CSE 
+102 
+234 CS315A 
+Arnab Bhattacharya 
+CSE 
+154 
+235 CS335A 
+Swarnendu Biswas 
+CSE 
+120 
+236 CS395A 
+Anil Seth 
+CSE 
+3 
+237 CS396A 
+Anil Seth 
+CSE 
+15 
+238 CS422A 
+Biswabandan Panda 
+CSE 
+14 
+239 CS425A 
+Swaprava Nath 
+CSE 
+96 
+240 CS455A 
+T V Prabhakar 
+CSE 
+60 
+241 CS498A 
+Anil Seth 
+CSE 
+8 
+242 CS499A 
+Anil Seth 
+CSE 
+0 
+243 CS638A 
+Indranil Saha 
+CSE 
+43 
+244 CS641A 
+Manindra Agrawal 
+CSE 
+138 
+245 CS663A 
+Sanjeev Saxena 
+CSE 
+24 
+246 CS673A 
+Ajai Jain 
+CSE 
+45 
+247 CS675A 
+Pramod Subramanyan 
+CSE 
+50 
+248 CS681A 
+Nitin Saxena 
+CSE 
+19 
+249 CS687A 
+Satyadev Nandakumar 
+CSE 
+21 
+250 CS698G 
+Preeti Malakar 
+CSE 
+9 
+251 CS698M 
+Sandeep Kumar Shukla 
+CSE 
+68 
+252 CS698O 
+Ashutosh Modi 
+CSE 
+62 
+253 CS699 
+Mainak Chaudhuri 
+CSE 
+159 I/2 
+254 CS699 
+Anil Seth 
+CSE 
+159 I/2 
+255 CS730A 
+Debadatta Mishra 
+CSE 
+18 
+256 CS771A 
+Purushottam Kar 
+CSE 
+193 
+257 CS797A 
+Mainak Chaudhuri 
+CSE 
+2 
+258 CS799 
+Mainak Chaudhuri 
+CSE 
+67 
+259 CS899 
+Mainak Chaudhuri 
+CSE 
+25 
+260 ESC101A 
+Nisheeth Srivastava 
+CSE 
+510 
+261 ESO207A 
+Raghunath Tewari 
+CSE 
+146 
+262 ECO101A 
+Praveen Kulshreshtha 
+ECO 
+109 
+263 ECO201A 
+Surajit Sinha 
+ECO 
+69 
+264 ECO221A 
+Bikramaditya Datta 
+ECO 
+41 
+265 ECO261A 
+Somesh Kumar Mathur 
+ECO 
+44 
+266 ECO311A 
+Debayan Pakrashi 
+ECO 
+73 
+267 ECO342A 
+Deep Mukherjee 
+ECO 
+47 
+268 ECO399A 
+Deep Mukherjee 
+ECO 
+13
+
+[Page 7]
+Page 7 of 15 
+ 
+269 ECO413A 
+P Murali Prasad 
+ECO 
+37 
+270 ECO498A 
+Deep Mukherjee 
+ECO 
+9 
+271 ECO499A 
+Deep Mukherjee 
+ECO 
+2 
+272 ECO545A 
+Mohammad Arshad Rahman 
+ECO 
+10 
+273 ECO699 
+Deep Mukherjee 
+ECO 
+14 
+274 ECO750A 
+Pingala Desk 
+ECO 
+0 
+275 ECO751A 
+P Murali Prasad 
+ECO 
+0 
+276 ECO753A 
+Sarani Saha 
+ECO 
+31 
+277 ECO758A 
+Sohini Sahu 
+ECO 
+20 
+278 ECO760A 
+Somesh Kumar Mathur 
+ECO 
+17 
+279 ECO761A 
+Deep Mukherjee 
+ECO 
+9 
+280 ECO764A 
+Wasim Ahmad 
+ECO 
+178 
+281 ECO799 
+Praveen Kulshreshtha 
+ECO 
+16 
+282 EE210A 
+Aloke Dutta 
+EE 
+185 
+283 EE250A 
+Ramprasad Potluri 
+EE 
+157 I/2 
+284 EE250A 
+Soumya Ranjan Sahoo 
+EE 
+157 I/2 
+285 EE301A 
+Vipul Arora 
+EE 
+136 
+286 EE311A 
+Amit Verma 
+EE 
+72 
+287 EE321A 
+Adrish Banerjee 
+EE 
+12 I/2 
+288 EE321A 
+Govind Sharma 
+EE 
+12 I/2 
+289 EE340A 
+A R Harish 
+EE 
+154 
+290 EE360A 
+Santanu Kumar Mishra 
+EE 
+106 
+291 EE381A 
+Yatindra Nath Singh 
+EE 
+126 
+292 EE391A 
+Rajshekhar Gannavarpu 
+EE 
+1 
+293 EE392A 
+Rajshekhar Gannavarpu 
+EE 
+19 
+294 EE481A 
+Yatindra Nath Singh 
+EE 
+4 
+295 EE491A 
+Rajshekhar Gannavarpu 
+EE 
+7 
+296 EE492A 
+Rajshekhar Gannavarpu 
+EE 
+1 
+297 EE600A 
+K S Venkatesh 
+EE 
+19 
+298 EE609A 
+Ketan Rajawat 
+EE 
+74 
+299 EE619A 
+Shafi Qureshi 
+EE 
+114 
+300 EE620A 
+Rajshekhar Gannavarpu 
+EE 
+13 
+301 EE623A 
+Kasturi Vasudevan 
+EE 
+64 
+302 EE627A 
+Rajesh Mahanand Hegde 
+EE 
+36 
+303 EE631A 
+Saikat Chakrabarti 
+EE 
+6 
+304 EE633A 
+S C Srivastava 
+EE 
+15 
+305 EE635A 
+Alok 
+EE 
+27 
+306 EE636A 
+Abheejeet Mohapatra 
+EE 
+35 
+307 EE642A 
+Kumar Vaibhav Srivastava 
+EE 
+18 
+308 EE643A 
+Pradip Sircar 
+EE 
+8 
+309 EE644A 
+Md Jaleel Akhtar 
+EE 
+17 
+310 EE648A 
+Kumar Vaibhav Srivastava 
+EE 
+18 I/2 
+311 EE648A 
+Md Jaleel Akhtar 
+EE 
+18 I/2 
+312 EE649A 
+Nandini Gupta 
+EE 
+12 
+313 EE651A 
+Soumya Ranjan Sahoo 
+EE 
+24
+
+[Page 8]
+Page 8 of 15 
+ 
+314 EE658A 
+Nishchal K Verma 
+EE 
+43 
+315 EE659A 
+Naren Naik 
+EE 
+9 
+316 EE665A 
+S P Das 
+EE 
+40 
+317 EE669A 
+Abhishek Gupta 
+EE 
+10 I/2 
+318 EE669A 
+Adrish Banerjee 
+EE 
+10 I/2 
+319 EE678A 
+Pingala Desk 
+EE 
+0 
+320 EE681A 
+Yogesh Singh Chauhan 
+EE 
+29 
+321 EE685A 
+Utpal Das 
+EE 
+14 
+322 EE698A 
+Imon Mondal 
+EE 
+20 
+323 EE698B 
+Ankush Sharma 
+EE 
+18 
+324 EE698C 
+Yatindra Nath Singh 
+EE 
+54 
+325 EE698G 
+Pradeep Kumar K 
+EE 
+7 
+326 EE698H 
+Rohit Budhiraja 
+EE 
+56 
+327 EE698I 
+S Sundar Kumar Iyer 
+EE 
+25 
+328 EE698K 
+Ramprasad Potluri 
+EE 
+7 
+329 EE698N 
+Baquer Mazhari 
+EE 
+56 
+330 EE698O 
+Abhishek Gupta 
+EE 
+11 
+331 EE698Q 
+Aditya K Jagannatham 
+EE 
+41 
+332 EE698Y 
+Shilpi Gupta 
+EE 
+11 
+333 EE699 
+Ankush Sharma 
+EE 
+145 
+334 EE799 
+Ankush Sharma 
+EE 
+217 
+335 EE899 
+Ankush Sharma 
+EE 
+41 
+336 ESC201A 
+Rakesh K Bansal 
+EE 
+470 
+337 ESO203A 
+Parthasarathi Sensarma 
+EE 
+0 
+338 ES312A 
+Ishwar Cukkemane 
+ES 
+15 
+339 ES313A 
+Javed N Malik 
+ES 
+40 
+340 ES314A 
+Animesh Mandal 
+ES 
+29 
+341 ES315A 
+Amar Agarwal 
+ES 
+16 
+342 ES392A 
+Dibakar Ghosal 
+ES 
+3 
+343 ES394A 
+Dibakar Ghosal 
+ES 
+2 
+344 ES413A 
+Indra Sekhar Sen 
+ES 
+19 
+345 ES414A 
+Santanu Misra 
+ES 
+18 
+346 ES415A 
+Ishwar Cukkemane 
+ES 
+18 
+347 ES416A 
+Dibakar Ghosal 
+ES 
+14 
+348 ES418A 
+Animesh Mandal 
+ES 
+18 
+349 ES419A 
+Rajiv Sinha 
+ES 
+19 
+350 ES645A 
+Rajiv Sinha 
+ES 
+30 
+351 ES648A 
+Ishwar Cukkemane 
+ES 
+20 I/4 
+352 ES648A 
+Debajyoti Paul 
+ES 
+20 I/4 
+353 ES648A 
+Deepak Dhingra 
+ES 
+20 I/4 
+354 ES648A 
+Indra Sekhar Sen 
+ES 
+20 I/4 
+355 ES649A 
+Pingala Desk 
+ES 
+0 
+356 ES656A 
+Animesh Mandal 
+ES 
+16 I/2 
+357 ES656A 
+Dibakar Ghosal 
+ES 
+16 I/2 
+358 ES657A 
+Santanu Misra 
+ES 
+35
+
+[Page 9]
+Page 9 of 15 
+ 
+359 ES661A 
+Deepak Dhingra 
+ES 
+26 
+360 ES699 
+Indra Sekhar Sen 
+ES 
+15 I/2 
+361 ES699 
+Dibakar Ghosal 
+ES 
+15 I/2 
+362 ES799 
+Indra Sekhar Sen 
+ES 
+36 
+363 ART105A 
+Satyaki Roy 
+HSS 
+0 
+364 ART401A 
+Ritwij Bhowmik 
+HSS 
+88 
+365 ART410A 
+Pingala Desk 
+HSS 
+0 
+366 ART703A 
+Ritwij Bhowmik 
+HSS 
+12 
+367 ART708A 
+Satyaki Roy 
+HSS 
+6 
+368 ENG123A 
+Sayan Chattopadhyay 
+HSS 
+47 
+369 ENG124A 
+Achla Misri Raina 
+HSS 
+0 
+370 ENG433A 
+G Neelakantan 
+HSS 
+47 
+371 ENG435A 
+Mini Chandran 
+HSS 
+49 
+372 ENG445A 
+T Ravichandran 
+HSS 
+25 
+373 ENG446A 
+Suchitra Mathur 
+HSS 
+35 
+374 ENG448A 
+Chaithra Puttaswamy 
+HSS 
+52 
+375 ENG466A 
+Syed Feroz 
+HSS 
+56 
+376 ENG467A 
+Usha Udaar 
+HSS 
+42 
+377 ENG701A 
+Pingala Desk 
+HSS 
+0 
+378 ENG708A 
+Sudharshana N P 
+HSS 
+3 
+379 ENG716A 
+Achla Misri Raina 
+HSS 
+1 
+380 ENG740A 
+Usha Udaar 
+HSS 
+1 
+381 ENG743A 
+Suchitra Mathur 
+HSS 
+21 
+382 ENG763A 
+Chaithra Puttaswamy 
+HSS 
+2 
+383 ENG799 
+Sudharshana N P 
+HSS 
+28 
+384 FA799 
+Sudharshana N P 
+HSS 
+11 
+385 HSS403A 
+A K Sharma 
+HSS 
+68 
+386 PHI141A 
+Lalit Saraswat 
+HSS 
+49 
+387 PHI450A 
+Prashant Bhalchandra Bagad 
+HSS 
+47 
+388 PHI452A 
+A V Ravishankar Sarma 
+HSS 
+65 
+389 PHI752A 
+Prashant Bhalchandra Bagad 
+HSS 
+2 
+390 PHI758A 
+Lalit Saraswat 
+HSS 
+2 
+391 PHI775A 
+A V Ravishankar Sarma 
+HSS 
+4 
+392 PHI799 
+Sudharshana N P 
+HSS 
+9 
+393 PSY152A 
+Devpriya Kumar 
+HSS 
+56 
+394 PSY451A 
+Braj Bhushan 
+HSS 
+44 
+395 PSY454A 
+Kumar Ravi Priya 
+HSS 
+30 
+396 PSY468A 
+Shikha Dixit 
+HSS 
+65 
+397 PSY499A 
+Ark Verma 
+HSS 
+62 
+398 PSY770A 
+Ark Verma 
+HSS 
+7 
+399 PSY774A 
+Kumar Ravi Priya 
+HSS 
+0 
+400 PSY775A 
+Braj Bhushan 
+HSS 
+2 
+401 PSY776A 
+Shikha Dixit 
+HSS 
+2 
+402 PSY790A 
+Devpriya Kumar 
+HSS 
+8 
+403 PSY799 
+Sudharshana N P 
+HSS 
+19
+
+[Page 10]
+Page 10 of 15 
+ 
+404 SOC173A 
+Anindita Chakrabarti 
+HSS 
+49 
+405 SOC473A 
+Binay Kumar Pattnaik 
+HSS 
+134 
+406 SOC481A 
+Pradip 
+HSS 
+94 
+407 SOC484A 
+Jillet Sarah Sam 
+HSS 
+24 
+408 SOC486A 
+Munmun Jha 
+HSS 
+52 
+409 SOC723A 
+A K Sharma 
+HSS 
+13 
+410 SOC742A 
+Pradip 
+HSS 
+13 
+411 SOC753A 
+Jillet Sarah Sam 
+HSS 
+3 
+412 SOC757A 
+Munmun Jha 
+HSS 
+5 
+413 SOC799 
+Sudharshana N P 
+HSS 
+24 
+414 IME611A 
+Shankar Prawesh 
+IME 
+30 I/2 
+415 IME611A 
+Suman Saurabh 
+IME 
+30 I/2 
+416 IME625A 
+Avijit Khanra 
+IME 
+32 
+417 IME634A 
+Raghu Nandan Sengupta 
+IME 
+65 
+418 IME637A 
+Sri Vanamalla V 
+IME 
+9 
+419 IME639A 
+Faiz Hamid 
+IME 
+23 
+420 IME642A 
+Vipin B 
+IME 
+27 
+421 IME673A 
+Veena Bansal 
+IME 
+54 
+422 IME698A 
+Avijit Khanra 
+IME 
+92 
+423 IME699 
+Avijit Khanra 
+IME 
+27 I/2 
+424 IME699 
+Deepu Philip 
+IME 
+27 I/2 
+425 IME700A 
+Devlina Chatterjee 
+IME 
+18 
+426 IME799 
+Avijit Khanra 
+IME 
+40 
+427 MBA608A Subhankar 
+IME 
+34 
+428 MBA616A Amit Shukla 
+IME 
+32 
+429 MBA617A Rahul Varman 
+IME 
+56 
+430 MBA622A R R K Sharma 
+IME 
+36 
+431 MBA633A Shankar Prawesh 
+IME 
+73 
+432 MBA643A Deepu Philip 
+IME 
+17 
+433 MBA646A Pingala Desk 
+IME 
+0 
+434 MBA652A Devlina Chatterjee 
+IME 
+74 
+435 MBA661A Vipin B 
+IME 
+59 
+436 MBA663A Deepu Philip 
+IME 
+45 
+437 MBA665A R R K Sharma 
+IME 
+21 
+438 MBA677A Anoop Singh 
+IME 
+5 
+439 MBA683A Pingala Desk 
+IME 
+0 
+440 MBA698A Avijit Khanra 
+IME 
+103 
+441 MBA702A Avijit Khanra 
+IME 
+53 
+442 MBA703A Avijit Khanra 
+IME 
+51 
+443 MBA704A Avijit Khanra 
+IME 
+51 
+444 MBA716A Rahul Varman 
+IME 
+24 
+445 MBA731A Subhankar 
+IME 
+18 
+446 MBA732A Raghu Nandan Sengupta 
+IME 
+28 
+447 MBA733A Raghu Nandan Sengupta 
+IME 
+26 
+448 MBA746A Subhas Chandra Misra 
+IME 
+41
+
+[Page 11]
+Page 11 of 15 
+ 
+449 MBA747A Subhas Chandra Misra 
+IME 
+37 
+450 MBA771A Suman Saurabh 
+IME 
+23 
+451 MBA773A B V Phani 
+IME 
+8 
+452 MBA775A Suman Saurabh 
+IME 
+24 
+453 MBA779A B V Phani 
+IME 
+7 
+454 MBA782A Anoop Singh 
+IME 
+4 
+455 DES603A 
+Shantanu Bhattacharya 
+MDES 
+19 
+456 DES623A 
+Satyaki Roy 
+MDES 
+18 
+457 DES627A 
+Deepu Philip 
+MDES 
+16 
+458 DES682A 
+Ritwij Bhowmik 
+MDES 
+23 I/2 
+459 DES682A 
+Tarun Gupta 
+MDES 
+23 I/2 
+460 DES699 
+Ritwij Bhowmik 
+MDES 
+8 I/2 
+461 DES699 
+Ritwij Bhowmik 
+MDES 
+8 I/2 
+462 DES799 
+Ritwij Bhowmik 
+MDES 
+31 
+463 ESO202A 
+Anurag Gupta 
+ME 
+0 
+464 ME222A 
+Kamal K Kar 
+ME 
+0 
+465 ME231A 
+K Muralidhar 
+ME 
+115 
+466 ME341A 
+Sameer Khandekar 
+ME 
+120 I/2 
+467 ME341A 
+Arun Kumar Saha 
+ME 
+120 I/2 
+468 ME351A 
+P Venkitanarayanan 
+ME 
+123 
+469 ME354A 
+N S Vyas 
+ME 
+114 
+470 ME398A 
+Arvind Kumar 
+ME 
+0 
+471 ME452A 
+B Bhattacharya 
+ME 
+97 
+472 ME461A 
+Janakarajan Ramkumar 
+ME 
+110 I/2 
+473 ME461A 
+Shantanu Bhattacharya 
+ME 
+110 I/2 
+474 ME498A 
+Arvind Kumar 
+ME 
+2 
+475 ME617A 
+Subrata Sarkar 
+ME 
+6 
+476 ME622A 
+Shakti Singh Gupta 
+ME 
+10 
+477 ME623A 
+Akhilesh Mimani 
+ME 
+40 
+478 ME624A 
+Basant Lal Sharma 
+ME 
+4 
+479 ME627A 
+Pankaj Wahi 
+ME 
+8 
+480 ME630A 
+Arun Kumar Saha 
+ME 
+39 
+481 ME634A 
+Anikesh Pal 
+ME 
+15 
+482 ME642A 
+Gautam Biswas 
+ME 
+58 
+483 ME643A 
+Aditya Saurabh 
+ME 
+14 
+484 ME647A 
+Santanu De 
+ME 
+12 
+485 ME648A 
+P S Ghoshdastidar 
+ME 
+20 
+486 ME649A 
+Pradipta K Panigrahi 
+ME 
+42 
+487 ME664A 
+Arvind Kumar 
+ME 
+19 
+488 ME666A 
+Pranav Joshi 
+ME 
+9 
+489 ME674A 
+Sachin Y Shinde 
+ME 
+6 
+490 ME685A 
+Malay Kumar Das 
+ME 
+112 
+491 ME691A 
+Avinash Kumar Agarwal 
+ME 
+12 
+492 ME698L 
+Jishnu Bhattacharya 
+ME 
+22 
+493 ME698T 
+Manjesh Singh 
+ME 
+10
+
+[Page 12]
+Page 12 of 15 
+ 
+494 ME698V 
+Supratik Mukhopadhyay 
+ME 
+8 
+495 ME698Y 
+Ishan Sharma 
+ME 
+13 
+496 ME698Z 
+Anurag Gupta 
+ME 
+7 
+497 ME699 
+Anurag Gupta 
+ME 
+91 I/2 
+498 ME699 
+Arvind Kumar 
+ME 
+91 I/2 
+499 ME723A 
+Chandraprakash Chindam 
+ME 
+4 
+500 ME728A 
+Sumit Basu 
+ME 
+18 
+501 ME751A 
+Anupam Saxena 
+ME 
+10 
+502 ME752A 
+Bhaskar Dasgupta 
+ME 
+11 
+503 ME756A 
+B Bhattacharya 
+ME 
+67 
+504 ME761A 
+Janakarajan Ramkumar 
+ME 
+20 
+505 ME763A 
+Ashish Dutta 
+ME 
+65 
+506 ME765A 
+S K Choudhury 
+ME 
+25 
+507 ME774A 
+Shantanu Bhattacharya 
+ME 
+29 
+508 ME778A 
+Nachiketa Tiwari 
+ME 
+15 
+509 ME799 
+Anurag Gupta 
+ME 
+151 
+510 ME850A 
+Anindya Chatterjee 
+ME 
+30 
+511 ME899 
+Anurag Gupta 
+ME 
+24 
+512 TA202A 
+Mohit Subhash Law 
+ME 
+472 
+513 MS604A 
+Rajeev Gupta 
+MS 
+14 
+514 MS605A 
+Sri Sivakumar 
+MS 
+13 I/2 
+515 MS605A 
+Janakarajan Ramkumar 
+MS 
+13 I/2 
+516 MS698A 
+Siddhartha Panda 
+MS 
+46 
+517 MS699 
+Md Jaleel Akhtar 
+MS 
+24 
+518 MS799 
+Md Jaleel Akhtar 
+MS 
+32 
+519 MSE202A 
+Sarang Ingole 
+MSE 
+63 
+520 MSE203A 
+Anandh Subramaniam 
+MSE 
+73 
+521 MSE204A 
+Vivek Verma 
+MSE 
+75 
+522 MSE304A 
+Dipak Mazumdar 
+MSE 
+67 
+523 MSE305A 
+Shashank Shekhar 
+MSE 
+53 
+524 MSE312A 
+Shobit Omar 
+MSE 
+58 
+525 MSE314A 
+Amarendra Kumar Singh 
+MSE 
+58 
+526 MSE315A 
+Anish Upadhyaya 
+MSE 
+47 
+527 MSE349A 
+Kaustubh Narhar Kulkarni 
+MSE 
+1 
+528 MSE398A 
+Kaustubh Narhar Kulkarni 
+MSE 
+12 
+529 MSE421A 
+Amarendra Kumar Singh 
+MSE 
+25 
+530 MSE449A 
+Kaustubh Narhar Kulkarni 
+MSE 
+2 
+531 MSE497A 
+Kaustubh Narhar Kulkarni 
+MSE 
+3 
+532 MSE604A 
+Monica Katiyar 
+MSE 
+81 
+533 MSE616A 
+Rajdip Mukherjee 
+MSE 
+42 
+534 MSE617A 
+Somnath Bhowmick 
+MSE 
+45 
+535 MSE624A 
+Anshu Gaur 
+MSE 
+20 
+536 MSE631A 
+Tanmoy Maiti 
+MSE 
+9 
+537 MSE638A 
+Sandeep Sangal 
+MSE 
+52 
+538 MSE639A 
+Gouthama 
+MSE 
+8
+
+[Page 13]
+Page 13 of 15 
+ 
+539 MSE646A 
+Shikhar Jha 
+MSE 
+36 
+540 MSE648A 
+Kaustubh Narhar Kulkarni 
+MSE 
+40 
+541 MSE661A 
+Sudhanshu Shekhar Singh 
+MSE 
+60 
+542 MSE667A 
+Kantesh Balani 
+MSE 
+9 
+543 MSE676A 
+Gouthama 
+MSE 
+18 
+544 MSE683A 
+Nilesh Prakash Gurao 
+MSE 
+4 
+545 MSE690A 
+Shikhar Jha 
+MSE 
+46 
+546 MSE691A 
+Shikhar Jha 
+MSE 
+30 
+547 MSE699 
+Somnath Bhowmick 
+MSE 
+37 I/2 
+548 MSE699 
+Kaustubh Narhar Kulkarni 
+MSE 
+37 I/2 
+549 MSE799 
+Somnath Bhowmick 
+MSE 
+90 
+550 TA201A 
+Ashish Garg 
+MSE 
+405 
+551 MSO201A Neeraj Misra 
+MTH 
+257 
+552 MTH101A 
+Sachin Subhash Sharma 
+MTH 
+0 
+553 MTH102A 
+Arbind Kumar Lal 
+MTH 
+484 I/2 
+554 MTH102A 
+T Muthukumar 
+MTH 
+484 I/2 
+555 MTH204A 
+Nandini Nilakantan 
+MTH 
+0 
+556 MTH205A 
+Rama Rawat 
+MTH 
+28 
+557 MTH301A 
+Sasmita Patnaik 
+MTH 
+65 
+558 MTH304A 
+Bidyut Sanki 
+MTH 
+31 
+559 MTH305A 
+Kaushik Bal 
+MTH 
+17 
+560 MTH308B 
+Saktipada Ghorai 
+MTH 
+95 
+561 MTH309A 
+Suprio Bhar 
+MTH 
+47 
+562 MTH391A 
+Kaushik Bal 
+MTH 
+1 
+563 MTH392A 
+Kaushik Bal 
+MTH 
+5 
+564 MTH393A 
+Kaushik Bal 
+MTH 
+5 
+565 MTH394A 
+Kaushik Bal 
+MTH 
+0 
+566 MTH404A 
+Parasar Mohanty 
+MTH 
+22 
+567 MTH416A 
+Minerva Mukhopadhyay 
+MTH 
+46 
+568 MTH418A 
+Debraj 
+MTH 
+44 
+569 MTH421A 
+Dhirendra Bahuguna 
+MTH 
+86 I/2 
+570 MTH421A 
+Prosenjit Roy 
+MTH 
+86 I/2 
+571 MTH424A 
+G Santhanam 
+MTH 
+28 
+572 MTH513A 
+Shalabh 
+MTH 
+39 
+573 MTH514A 
+Subhajit Dutta 
+MTH 
+33 
+574 MTH516A 
+Subhra Sankar Dhar 
+MTH 
+33 
+575 MTH535A 
+Debasis Kundu 
+MTH 
+56 
+576 MTH552A 
+Amit Mitra 
+MTH 
+94 
+577 MTH598A 
+Kaushik Bal 
+MTH 
+11 
+578 MTH599A 
+Kaushik Bal 
+MTH 
+3 
+579 MTH611A 
+Alok Kumar Maloo 
+MTH 
+25 
+580 MTH624A 
+S Kumaresan 
+MTH 
+9 
+581 MTH628A 
+Aparna Dar 
+MTH 
+155 
+582 MTH631A 
+Akash Anand 
+MTH 
+19 
+583 MTH633A 
+Abhijit Pal 
+MTH 
+4
+
+[Page 14]
+Page 14 of 15 
+ 
+584 MTH641A 
+Santosha Kumar Pattanayak 
+MTH 
+4 
+585 MTH644A 
+Sameer Laxman Chavan 
+MTH 
+8 
+586 MTH648A 
+Ajay Singh Ramdin Thakur 
+MTH 
+11 
+587 MTH652A 
+P Shunmugaraj 
+MTH 
+6 
+588 MTH666A 
+Amit Shekhar Kuber 
+MTH 
+10 
+589 MTH676A 
+Sharmishtha Mitra 
+MTH 
+0 
+590 MTH683A 
+Subhra Sankar Dhar 
+MTH 
+5 
+591 MTH697A 
+Kaushik Bal 
+MTH 
+1 
+592 MTH698A 
+Kaushik Bal 
+MTH 
+0 
+593 MTH699A 
+Kaushik Bal 
+MTH 
+0 
+594 MTH701A 
+Mohua Banerjee 
+MTH 
+7 
+595 MTH707A 
+Dootika Vats 
+MTH 
+24 
+596 MTH722A 
+Debasis Sen 
+MTH 
+3 
+597 MTH732A 
+Sudhanshu Shekhar 
+MTH 
+9 
+598 MTH734A 
+Satyajit Guin 
+MTH 
+7 
+599 MTH751A 
+Arijit Ganguly 
+MTH 
+19 
+600 MTH752A 
+Malay Banerjee 
+MTH 
+19 
+601 MTH759A 
+Ashis Mandal 
+MTH 
+4 
+602 MTH799 
+Subhra Sankar Dhar 
+MTH 
+31 
+603 NT641A 
+Prabhat Munshi 
+NET 
+13 
+604 NT799 
+Pankaj Wahi 
+NET 
+13 
+605 PHY101A 
+K P Rajeev 
+PHY 
+486 
+606 PHY102A 
+Amit Dutta 
+PHY 
+495 I/2 
+607 PHY102A 
+Arijit Kundu 
+PHY 
+495 I/2 
+608 PHY103A 
+M K Harbola 
+PHY 
+346 I/2 
+609 PHY103A 
+ Arjun Bagchi 
+PHY 
+346 I/2 
+610 PHY210A 
+Supratik Banerjee 
+PHY 
+62 
+611 PHY226B 
+Nilay Kundu 
+PHY 
+0 
+612 PHY303A 
+Harshwardhan Wanare 
+PHY 
+18 
+613 PHY399A 
+Y N Mohapatra 
+PHY 
+32 
+614 PHY402A 
+Sagar Chakraborty 
+PHY 
+9 
+615 PHY412A 
+Debashish Chowdhury 
+PHY 
+76 
+616 PHY422A 
+Diptarka Das 
+PHY 
+43 
+617 PHY432A 
+Dipankar Chakraborti 
+PHY 
+79 
+618 PHY461A 
+Saikat Ghosh 
+PHY 
+0 
+619 PHY462A 
+Saikat Ghosh 
+PHY 
+0 
+620 PHY473A 
+Mahendra Kumar Verma 
+PHY 
+91 
+621 PHY500A 
+Sudeep Bhattacharjee 
+PHY 
+1 
+622 PHY501A 
+Sudeep Bhattacharjee 
+PHY 
+0 
+623 PHY502A 
+Sudeep Bhattacharjee 
+PHY 
+13 
+624 PHY524A 
+Tarun Kanti Ghosh 
+PHY 
+34 
+625 PHY526A 
+Pankaj Jain 
+PHY 
+29 
+626 PHY552A 
+S Anantha Ramakrishna 
+PHY 
+7 
+627 PHY553A 
+S Anantha Ramakrishna 
+PHY 
+9 
+628 PHY557A 
+Anand Kumar Jha 
+PHY 
+9
+
+[Page 15]
+Page 15 of 15 
+ 
+629 PHY558A 
+Anand Kumar Jha 
+PHY 
+2 
+630 PHY566A 
+Rajeev Gupta 
+PHY 
+34 
+631 PHY568A 
+Rajeev Gupta 
+PHY 
+34 
+632 PHY590A 
+Aditya Hemchandra Kelkar 
+PHY 
+0 
+633 PHY597A 
+Krishnacharya 
+PHY 
+2 
+634 PHY599A 
+Krishnacharya 
+PHY 
+0 
+635 PHY602A 
+Tapobrata Sarkar 
+PHY 
+14 
+636 PHY604A 
+Amit Kumar Agarwal 
+PHY 
+11 
+637 PHY606A 
+Manas Khan 
+PHY 
+12 
+638 PHY624A 
+Soumik Mukhopadhyay 
+PHY 
+12 
+639 PHY634A 
+Zakir Hossain 
+PHY 
+12 
+640 PHY660A 
+Kaushik Bhattacharya 
+PHY 
+40 
+641 PHY666A 
+Pragya Shukla 
+PHY 
+8 
+642 PHY680A 
+Joydeep Chakrabortty 
+PHY 
+17 
+643 PHY690M 
+G Sengupta 
+PHY 
+11 
+644 PHY690N 
+Avinash Singh 
+PHY 
+3 
+645 PHY690V 
+Vijaya Ramarao 
+PHY 
+14 
+646 PHY697A 
+Krishnacharya 
+PHY 
+14 
+647 PHY699A 
+Krishnacharya 
+PHY 
+0 
+648 PHY799 
+Dipankar Chakraborti 
+PHY 
+135 
+649 PSO201A 
+Anjan Kumar Gupta 
+PHY 
+147 
+650 PSE604A 
+Saurabh Mani Tripathi 
+PSE 
+10 I/2 
+651 PSE604A 
+Utpal Das 
+PSE 
+10 I/2 
+652 PSE605A 
+Asima Pradhan 
+PSE 
+10 I/2 
+653 PSE605A 
+Pradipta K Panigrahi 
+PSE 
+10 I/2 
+654 PSE606A 
+Harshwardhan Wanare 
+PSE 
+7 
+655 PSE699 
+Saurabh Mani Tripathi 
+PSE 
+8 
+656 PSE799 
+Saurabh Mani Tripathi 
+PSE 
+17 
+657 PSE899 
+Saurabh Mani Tripathi 
+PSE 
+2 
+658 PE102A 
+Syam Nair 
+SPEC 
+996 
+ 
+ ***************************************************

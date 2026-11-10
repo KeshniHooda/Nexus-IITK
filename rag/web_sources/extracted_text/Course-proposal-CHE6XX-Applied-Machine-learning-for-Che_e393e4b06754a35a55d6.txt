@@ -1,0 +1,117 @@
+[Page 1]
+Indian Institute of Technology Kanpur 
+Proposal for a New Course 
+1. Course No: CHE 6XX 
+2. Course Title: Applied Machine learning for Chemical Engineers 
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours[0-2]: 0 (A), 
+Credits (3-0-0-0) 
+
+ 
+
+Duration of Course: Full semester 
+4. Proposing Department: Department of Chemical Engineering 
+ 
+Other Departments/IDPs which may be interested in the proposed course: ME, AE, MSE 
+ 
+Other faculty members interested in teaching the proposed course: Harshwardhan H. Katkar 
+5. Proposing Instructor(s): Indranil Saha Dalal 
+6. Course Description: 
+A) Objectives: The course will attempt to introduce the essential concepts and tools of 
+Machine learning with an emphasis on applications. Frequent computer assignments will 
+further enforce practical learning of the same and show possible usage in engineering, 
+particularly chemical engineering, applications. 
+ 
+B) Contents (preferably in the form of 5 to 10 broad titles): 
+Lecture-wise break-up (considering the duration of each lecture is 50 minutes) 
+S. 
+No. 
+Broad Title 
+Topics 
+No. of 
+Lectures 
+1. 
+Introduction 
+Introduction to Machine learning and basics 
+of python programming 
+3 
+2. 
+Optimization tools 
+Zero order, first and second order 
+optimization techniques 
+7 
+3. 
+Linear learning 
+Linear regression, least squares and least 
+absolute deviations, multi-output regression 5 
+4. 
+Linear two-class 
+classification 
+Logistic regression: Cross Entropy and 
+Softmax cost, Perceptron, Support Vector 
+Machines 
+8 
+5. 
+Linear Multi-Class 
+classification 
+One-versus-all multi-class classification, 
+Multi-class Perceptron 
+4 
+6. 
+Linear Unsupervised 
+learning 
+Spanning sets, orthonormality, projections, 
+Principal component Analysis, 
+Recommender systems, K-means clustering, 
+Matrix Factorization problems 
+6 
+7. 
+Non-linear learning 
+Non-linear regression, non-linear two-class 
+classification, non-linear multi-class 
+classification, non-linear unsupervised 
+learning 
+4 
+8. 
+Fully-connected Neural 
+Networks 
+Basics of Neural Networks 
+3 
+
+ 
+
+C) Recommended pre-requisites, if any (examples: a- PSO201A,or b- PSO201A or 
+equivalent): Basic UG-level programming and numerical methods knowledge
+
+[Page 2]
+D) Short summary for including in the Courses of Study Booklet: 
+Optimization Tools, Linear learning methods, Linear classification methods, Linear 
+unsupervised learning, Non-linear learning, Neural networks 
+
+7. Recommended text/reference books: 
+A) Jeremy Watt, Reza Bohrani, Aggelos K. Kastaggelos, Machine Learning Refined 2nd Ed., 
+Cambridge University Press, 2020. 
+ 
+8. Any other remarks: 
+A) Most of the homework assignments will involve computer programming by the students. 
+Assignments will be given every week. 
+
+ 
+Dated: 12/7/2024 
+
+ 
+ 
+Proposer: Indranil Saha Dalal 
+
+Dated: 
+
+ 
+
+DPGC Convener: 
+
+The course is approved / not approved 
+
+ 
+
+Chairman, SUGC 
+
+Dated: 27/09/2022

@@ -1,0 +1,10 @@
+For assistance regarding the calendar please email: doa.acad2015@iitk.ac.in
+To add this calendar to your personal calendar-
+Calendar Uniform Resource Locators (URL links):
+ICAL: https://calendar.google.com/calendar/ical/5fv2ggkjesmp80nkd6q4f3e1es%40group.calendar.google.com/public/basic.ics
+HTML: https://calendar.google.com/calendar/embed?src=5fv2ggkjesmp80nkd6q4f3e1es%40group.calendar.google.com&ctz=Asia/Calcutta
+For those using google calendar:
+In the google calendar, on the left hand side of the screen, you have an item called "My calendars" and then an item called "Other calendars".
+Next to "Other calendars" there is a drop down menu button. If you click there, you see five options to see other calendars. One of them is "Add by URL" Click on that.
+It will ask for a URL. Please copy and paste following URL (adding to google calendar, this way, requires the ical format):
+https://calendar.google.com/calendar/ical/5fv2ggkjesmp80nkd6q4f3e1es%40group.calendar.google.com/public/basic.ics

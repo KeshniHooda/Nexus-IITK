@@ -1,0 +1,129 @@
+[Page 1]
+Indian Institute of Technology Kanpur
+Proposal for a New Course
+1. Course No: CHE6XX (proposed)
+2. Course Title: Stability Theory for Chemical Engineers
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours[0-2]: 0 (A),
+Credits (3-0-0-0): 9
+Duration of Course: One Semester
+4. Proposing Department: Department of Chemical Engineering
+Other Departments/IDPs which may be interested in the proposed course: NA
+Other faculty members interested in teaching the proposed course: Dr. Naveen Tiwari, Dr. V.
+Shankar
+5. Proposing Instructor(s): Dr. Dipin S. Pillai
+6. Course Description:
+A. Objectives:
+The objective of this course is to familiarize students with the applications of non-
+linear dynamics and stability theory in various aspects of core chemical engineering.
+B. Contents (preferably in the form of 5 to 10 broad titles):
+Lecture-wise break-up (considering the duration of each lecture is 50 minutes)
+S.
+No.
+Broad Title
+Topics
+No.
+of
+Lectures
+1.
+Introduction
+Introduction to nonlinear dynamics and stabil-
+ity theory
+1
+2.
+1D Systems
+Lumped Parameter Systems: ODEs, Flows on
+a line, Bifurcations: Saddle-node, transcritical,
+pitchfork
+4
+3.
+2D Systems
+Fixed points, phase plane, eigenvalues, eigenvec-
+tors, conservative systems, Lotka-Volterra type
+models, conservative systems
+5
+4.
+Limit Cycles
+Hopf bifurcation, index theory, existence of
+closed orbits,
+Poincar´e–Benedixson theorem,
+van der Pol oscillator, method of multiple time
+scales
+6
+8.
+Non-isothermal reactors
+Multiplicity, stability, steady states and limit cy-
+cles in non-isothermal CSTRs with and without
+Frank-Kamenetskii approximation
+4
+5.
+Homotopy
+Continuation,
+MATCONT 7.4
+Bifurcation diagrams using the method of ho-
+motopy continuation, Brief introduction session
+to MATCONT 7.4
+3
+6.
+Multi-component Distillation
+Residue curve maps, stationary points: stability
+of pure component and azeotropic compositions,
+distillation boundary, bifurcations under ﬁnite
+reﬂux
+5
+1
+
+[Page 2]
+7.
+Oscillating Reactions
+Beluosov–Zhabotinsky
+reaction,
+Oregonator
+model and its limit cycles
+3
+9.
+Distributed
+Parameter
+Sys-
+tems
+PDEs as governing equations, introduction to
+modal analysis, dispersion relations, classiﬁca-
+tion of linear instability of a spatially uniform
+state: Type I-III, multiplicity and stability of
+PFRs
+5
+9.
+Reaction-Diﬀusion Systems
+Turing patterns, Spatiotemporal oscillations of
+chemical oscillators
+4
+Total
+40
+C. Recommended pre-requisites, if any: CHE212, CHE213, CHE331
+D. Short summary for including in the Courses of Study Booklet:
+Introduction to stability theory, lumped parameter systems with ODEs, saddle-node,
+transcritical, pitchfork bifurcations, 2D Systems - ﬁxed points, phase plane, eigenval-
+ues, eigenvectors, conservative systems, Lotka-Volterra, limit cycles, non-isothermal
+CSTR, multi-component distillation, residue curve maps, distillation boundary, oscil-
+lating reactions, distributed parameter systems with PDEs, modal analysis, disper-
+sion relations, Turing patterns, stability of PFR, spatiotemporal chemical oscillations
+7. Recommended text/reference books:
+ Strogatz SH. Nonlinear dynamics and chaos: with applications to physics, biology,
+chemistry, and engineering. CRC press; 2018.
+ Perlmutter DD. Stability of Chemical Reactors. Prentice-Hall; 1972.
+ Doherty MF, and Malone MF. Conceptual Design of Distillation Systems. McGraw-
+Hill, 2001.
+ Cross M, Greenside H. Pattern formation and dynamics in nonequilibrium systems.
+Cambridge University Press; 2009.
+ Epstein IR, Pojman JA. An introduction to nonlinear chemical dynamics: oscilla-
+tions, waves, patterns, and chaos. Oxford university press; 1998.
+8. Any other remarks:
+ Computational take-home assignments will be provided to supplement the theoret-
+ical aspects.
+Dated: 09/03/24
+Proposer: Dr. Dipin S. Pillai
+Dated:
+DPGC Convener:
+The course is approved / not approved
+Chairman, SPGC
+Dated:
+2

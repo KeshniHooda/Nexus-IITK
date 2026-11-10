@@ -1,0 +1,549 @@
+[PAGE 1]
+Updated on 30-March-2026
+LIST OF MINORS
+
+1a.   AEROSPACE ENGINEERING                          MINOR                                       Template No.AE
+Old UGARC (Y21 and earlier)
+
+Title   AEROSPACE ENGINEEIRNG
+
+Compulsory Course:
+C                                                                    AE201A [05]                                                        O
+U
+R
+S    Any THREE from:
+E                                                                    AE211A [11]
+S
+AE321A [09]
+AE331A [09]
+AE650A [09] / AE753A [09] / AE341 [11]
+
+32-36
+1b.   AEROSPACE ENGINEERING                          MINOR                                       Template No.AE
+New UGARC (Y22 and later)
+
+Title   AEROSPACE ENGINEEIRNG
+
+Compulsory Course:
+C                                                              AE201M [05]                                                        O
+U
+R
+S    Any THREE from:
+E                                                                     AE211 [9]
+S
+AE321 [9]
+AE333 [09]
+AE341 [11]
+
+32-34
+
+[PAGE 2]
+Updated on 30-March-2026
+LIST OF MINORS
+
+2a.     BIOLOGICAL SCIENCES AND BIO-ENGINEERING       MINOR                                     Template No. BSBE
+Old UGARC (Y21 and earlier)
+Title   TISSUE ENGINEERING
+
+C    BSE211A [09]
+O    BSE411A [11]
+U
+R    BSE421A [11]
+S
+E       -
+S
+
+31
+
+2b.     BIOLOGICAL SCIENCES AND BIO-ENGINEERING       MINOR                                               Template No. BSBE
+New UGARC (Y22 and later)
+Title   TISSUE ENGINEERING             ENGINEERING IN MEDICINE
+Any three courses
+C    BSE211 [9]                      BSE616 [9]
+O    BSE411 [9]                      BSE644 [9]
+U                                   BSE656 [9]
+R    BSE421 [9]                      BSE662 [9]
+S
+E
+S       -
+
+27                                        27
+
+[PAGE 3]
+Updated on 30-March-2026
+LIST OF MINORS
+
+3a.    CHEMICAL ENGINEERING                         MINOR                                      Template No. CHE
+Old UGARC (Y21 and earlier)
+Title   CHEMICAL ENGINEERING
+
+C    CHE251A [09]
+O    CHE261A [09]
+U
+R    CHE313A [09]
+S                                                                  CHE331A [09]                                                                            E
+S       -
+
+36
+
+3b.    CHEMICAL ENGINEERING                         MINOR                                      Template No. CHE
+New UGARC (Y22 and later)
+Title   CHEMICAL ENGINEERING
+Any three courses
+C    CHE251
+O    CHE212
+U    CHE213
+R                                                                    CHE221                                                                               S
+E    CHE311
+S                                                                    CHE331
+CHE381
+CHE352
+
+[PAGE 4]
+Updated on 30-March-2026
+LIST OF MINORS
+
+4.     CHEMISTRY                                    MINOR                                                       Template No. CHM-5
+
+Title      PHYSICAL CHEMISTRY*   INORGANIC CHEMISTRY   ORGANIC CHEMISTRY
+
+Compulsory Courses:     Compulsory Courses:      Compulsory Courses:
+
+CHM321A [09]        CHM345A [09]          CHM201A [09]**
+
+C     CHM322A [09]        CHM342A [09]          CHM202A [09]
+
+CHM303A [09]                                                  O
+Any TWO from:         Any TWO from:
+CHM402A [09]
+U
+CHM621A [09]
+CHM616A [09]               -                                                              CHM622A [09]
+R                       CHM631A [09]                                                              CHM626A [09]
+CHM646A [09]                                                              CHM636A [09]                                                                       S                                                                                 CHM647A [09]                                                              CHM637A [09]
+CHM650A [09]        CHM651A [09]                                                                     E
+CHM664A [09]        CHM654A [09]
+CHM685A [09]        CHM668A [09]                                                                       S
+CHM689A [09]        CHM691A [09]
+CHM695A [09]
+CHM696A [09]
+CHM699A [09]
+
+36                     36                     36
+
+REMARKS:
+1)   *CSO202A is a pre-requisite for Minor in Physical Chemistry
+2)   **EXCEPTION: CHM201A to be done by Y13 and onward batches. Y11 and Y12 batch shall do CHM203A. Course
+title, content and credits are same. Just the course number has been changed.
+
+[PAGE 5]
+Updated on 30-March-2026
+LIST OF MINORS
+
+5.        CIVIL ENGINEERING                       MINOR                                      Template No. CE-5     Remark:
+1. Minor in Infrastructure
+Title    Infrastructure Engineering and Management                      Engineering and Management
+under Civil Engineering department
+C    CE241 [09]                    [odd semester]                has been discontinued.
+O    CE640 [09]                    [odd semester]
+U
+R    CE641A [05]                   [odd semester]
+S                                                           CE643A [05] or CE644A [05]      [even semester]                                                                 E
+S    CE667A [05]                   [even semester]
+
+[PAGE 6]
+Updated on 30-March-2026
+LIST OF MINORS
+
+6.     COMPUTER SCIENCE & ENGINEERING            MINOR                                                                         Template No. CSE-4
+ALGORITHMS      COMPUTER        THEORY OF               ARTIFICIAL         MACHINE
+SYSTEMS          COMPUTING           INTELLIGENCE*1       LEARNING &
+APPLICATIONS %
+
+COMPULSORY      COMPULSORY      COMPULSORY      COMPULSORY      COMPULSORY
+COURSE(S):          COURSE(S):          COURSE(S):          COURSE(S):          COURSE(S):
+CS210A [12]/        CS210A [12]/        CS210A [12]/        CS210A [12/        CS210A [12/
+ESO207A[12]        ESO207A[12]        ESO207A[12]        ESO207A [12]       ESO207A [12]
+CS345A [09]                           CS340A [09]         CS365A [09]         CS771A [09]
+
+And, ONE from:      And, TWO from:      And, ONE from:      And, ONE from:      And, ONE from:
+CS645A [09]         CS220A [12]         CS640A [09]         CS671A [09]         CS365A [09]
+CS646A [09]         CS330A [12]         CS641A [09]         CS672A [09]         CS671A [09]
+CS647A [09]         CS315A [09]         CS642A [09]         CS674A [09]         CS676A [09]
+CS648A [09]         CS335A [12]         CS643A [09]         CS675A [09]         CS678A [09]
+CS663A [09]         CS422A [09]         CS644A [09]         CS676A [09]         CS685A [09]
+% Additional rules to obtain Minor  in Machine Learning and  CS664A [09]         CS425A [09]         CS649A [09]         CS685A [09]          CS698I [09]
+Applications (ML):                                      CS719A [09]         CS433A [09]         CS680A [09]         CS686A [09]        CS698N [09]
+if a student of Y22 and Y23 batch has already done a course
+CS743A [09]         CS455A [09]         CS681A [09]         CS782A [09]         CS698S [09]          (December 19, 2025), equivalent to CS771 course (currently, ten
+courses i.e., AE646, CE784, CHE657, EE656, EE798Z, MSE643, PHY654,                                       CS687A [09]                           CS772A [09]
+DMS673, EE708, ME644.), may claim Minor in Machine Learning and                                       CS740A [09]                           CS773A [09]
+Applications (ML) with the following conditions:
+CS741A [09]                           CS774A [09]                    i.   Mandatory ESO207
+ii.  Two courses from the approved AI/ML course basket (available                                        CS742A [09]                                              -
+in the Minor’s template)                                 Remarks:
+iii.  One course from outside the department that is considered
+1)   For each Minor stream, the minimum total credit requirement is 30.               equivalent to CS771. (Currently, ten courses are identified
+equivalent to CS771 i.e., AE646, CE784, CHE657, EE656, EE798Z,         2)   In each minor stream any related course(s), even if not mentioned in the list of optional courses, may be taken as
+MSE643, PHY654, DMS673, EE708, ME644.)                                  optional with the permission of the CSE DUGC.
+3)  *1 = Only for students graduating till 2017.
+
+[PAGE 7]
+Updated on 30-March-2026
+LIST OF MINORS
+
+7.      ELECTRICAL ENGINEERING                        MINOR                                                                      Template No.EE-4
+Title   MICROELECTRONICS/    POWER     COMMUNICATIONS    CONTROLS        RF &
+DIGITAL SYSTEMS                & SIGNAL                     PHOTONICS       Old UGARC (Y21 and earlier): courses with suffix “A”                                                                                                      PROCESSING
+C    EE200A [11]          EE200A [11]   EE200A [11]          EE200A [11]    EE200A [11]
+O                                                                    EE210A [11]          EE330A [11]   EE320A [11]          EE250A [11]    EE340A [11]
+New UGARC (Y22 and later): courses without suffix “A”     U                                                                  R    EE311A [09]/         EE360A [09]   EE321A [09]/         EE650A [09]    EE612A [09]/
+S    EE370A [11]                       EE301A [09]                        EE642A [09]/
+E                                                                      EE648A [09]
+S
+31/33             31              31               31             31
+
+[PAGE 8]
+Updated on 30-March-2026
+LIST OF MINORS
+
+8.     HUMANITIES & SOCIAL          MINOR                                                                                                   Template No. HSS-1
+SCIENCES                                   Title              LINGUISTICS                              ENGLISH LITERATURE                        PHILOSOPHY
+(New Template)
+Pre-requisite: Completion of a Level-I    Pre-requisite: Completion of any one    Pre-requisite: Completion of
+course in Linguistics with at least a B     Literature course with at least a B grade. any one Philosophy course.
+grade.
+ONE course from following:                 THREE courses from following:
+PHI141
+ENG122A [11]                                                                    ENG123A [11]                       PHI448
+ENG124A [11]                                                                    ENG125A [11]                       PHI147
+ENG431A [09]                       PHI452
+ENG432A [09]                       PHI142
+C                                                                    ENG433A [09]                       PHI455
+and, TWO courses from following:          ENG434A [09]                       PHI143                                 O
+ENG435A [09]                     PHI443M
+U    ENG401 [09]                     ENG436A [09]                       PHI145
+ENG402 [09]                                                                    ENG437A [09]                       PHI757
+R    ENG404 [09]                                                                    ENG438A [09]                       PHI446
+ENG408 [09]                                                S                                  ENG439A [09]                       PHI774
+ENG423 [09]                                                                    ENG440A [09]                       PHI447
+E    ENG443 [09]                                                                    ENG445A [09]                       PHI140
+ENG447 [09]                                                                    ENG446A [09]                       PHI161
+S    ENG448 [09]                                                                    ENG456A [09]                       PHI450
+ENG452 [09]                                                                    ENG457A [09]                       PHI481
+Remarks:                           ENG467 [09]              1.)    If a student has done a course in                                          ENG458A [09]                       PHI453
+English other than those listed above                                       ENG460A [09]                       PHI441
+and wishes to have a Minor in English           Total Required Credits for Minor: 29                                                                    ENG466A [09]                       PHI445                   (Linguistics or English Literature),
+he/she may request the DUGC, HSS,                                          HSS405A [09]
+to approve of the same.                                              ENG719A [09]                        Total minimum Required
+ENG733A [09]                         Credits for Minor: 27            2.)  For Linguistics Minor: The request of
+students claiming minor with ENG7XY                                       ENG743A [09]
+courses may be considered by the                                         ENG744A [09]                      Note: Courses as detailed
+DUGC on the case-to-case basis if a                                        ENG750A [09]                    above with the suffix ‘A’ will                students take, these courses up to
+2024-25-I semester only.                                           ENG 752 [09]                          also be counted for the
+ENG 753 [09]                       minor.
+ENG 764 [09]
+
+Total Required Credits for Minor: 27-31
+
+[PAGE 9]
+Updated on 30-March-2026
+LIST OF MINORS
+
+9.      INDUSTRIAL AND MANAGEMENT ENGINEERING      MINOR                                      Template No. IME-3
+Title   INDUSTRIAL AND MANAGEMENT ENGINEERING
+
+C    DE PG-1
+O    DE PG-2
+U    DE PG-3
+R
+-                                                                               S
+E
+S
+27
+
+REMARKS:
+1)   DE PG may be from IME or MBA courses.
+
+[PAGE 10]
+Updated on 30-March-2026
+LIST OF MINORS
+
+10.    MATERIALS SCIENCE & ENGINEERING               MINOR                                    Template No.MSE-5
+
+Title   FUNCTIONAL MATERIALS
+
+Any THREE from:
+C
+O
+U    MSE604A [09]
+R    MSE624A [09]
+S
+E    MSE628A [09]
+S
+MSE631A [09]
+
+MSE693A [09]
+
+27
+
+[PAGE 11]
+Updated on 30-March-2026
+LIST OF MINORS
+
+11.    MATHEMATICS AND SCIENTIFIC COMPUTING        MINOR                                 Template No. BS-MTH-5   Remark:
+1. Minor in Applied Mathematics
+Title   APPLIED MATHEMATICS                                    under Mathematics and Scientific
+C                                                            Computing department has been
+O   MTH308A [11]                                                   discontinued.
+U
+R    MTH428A [11]
+S                                                             MTH426A [09]
+E
+S
+
+31
+
+[PAGE 12]
+Updated on 30-March-2026
+LIST OF MINORS
+
+12.    MECHANICAL ENGINEERING                       MINOR                                                                    Template No. ME-5
+Title        MANURACTURING SCIENCES         COMPUTATIONAL TECHNIQUES IN MECHANICAL
+ENGINEERING
+Any THREE from:                         Any THREE from:
+Old UGARC (Y21 and earlier): courses with suffix “A”                                                              C
+except ME767 & ME653                                                 O   ME661A [09] (Prerequisite TA202A)         ME623A [09] (Prerequisite ESO202A, MSO203B)
+U   ME662A [09] (Prerequisite TA202A)         ME630A [09] (Prerequisite ESO201A, ESO204A,
+R                                        MSO203B)
+New UGARC (Y22 and later): courses without suffix “A”      S   ME663A [09] (Prerequisite ESO202A,        ME685A [09] (Prerequisite – No backlog in core
+E    MSO203B)                                    courses)
+S   ME664A [09] (Prerequisite TA202A,         ME751A [09] (Prerequisite TA101A)
+ESO204A or Equivalent Heat Transfer Course)
+ME665A [09] (Prerequisite TA202A)        MEXXXA [09] / ME767 [09] (Nonlinear Finite
+Element
+Techniques in Solid Mechanics)
+ME774A [09] (Prerequisite ESO202A,        MEXXXA [09] / ME653 [09] (Atomistic Simulations
+MSO203B)                                         in
+Engineering)
+ME751A [09] (Prerequisite TA101A)                 -
+ME761A [09] (Prerequisite TA202A)
+
+27                                       27
+
+[PAGE 13]
+Updated on 30-March-2026
+LIST OF MINORS
+
+13a.    PHYSICS                                       MINOR                                          Template No. BS-PHY
+
+Old UGARC (Y21 and earlier)                                       Title   STATISTICAL MECHANICS       QUANTUM MECHANICS
+C
+O    PSO201A [08]                 PSO201A [08]
+U
+R    PHY210A [06]                 PHY210A [06]
+S    PHY226B [06]                 PHY226B [06]
+E
+S                                                                  PHY412A [11]                 PHY431A [11]
+
+31                           31
+
+13b.    PHYSICS                     MINOR                                                                                       Template No. BS-PHY
+
+New UGARC (Y22 and later)         Title   STATISTICAL MECHANICS       QUANTUM MECHANICS           GRAVITY                SOFT MATTER
+C
+O    PSO201/PHY114               PSO201/PHY114                 PHY112/PHY113/PHY115  PSO203M
+U
+R    PHY211                      PHY431                      PHY226M               PHY412
+S    PHY412                      PHY302/PHY626/PHY643          PHY407                PHY628
+E
+S
+
+30-33                           28-33                          28                     28
+
+[PAGE 14]
+Updated on 30-March-2026
+LIST OF MINORS
+
+14.  COGNITIVE SCIENCE                               MINOR                                          Template No. CONG.-1  Remark:
+1.Updated  template   of
+Title                       COGNITIVE SCIENCE                       Minor in Cognitive Science
+Compulsory courses:                                         was  approved  by  the
+Senate in its 550th Meeting
+CGS401A [09]                                                          (item No. 6).
+CGS402A [09]
+2. The updated template is                                                              C
+O    and, ONE courses from following list:                                     applicable from July-2022
+onwards.                                                  U
+R    CGS702A [09]**
+3. ** The project course is                                                                     S    CGS621A [09]
+a semester  long  project                                                                   E    CGS622A [09]
+that a student must take                                                                     S    CGS609A [09]
+with any ONE or  Jointly                                                                  CGS698D [09]
+(more than one)  of the
+CGS691A [09]                                                                                                                                                                       faculty     from     the
+CGS671A [09]                                                                                                                                     Department  of  Cognitive
+CGS651A [09]                                                                                                                                                                Science.
+CS786A [09]
+BSE656A [09]
+BSE662A [09]
+
+27
+
+[PAGE 15]
+Updated on 30-March-2026
+LIST OF MINORS
+
+15.  NUCLEAR ENGINEERING TECHNOLOGY                MINOR                                          Template No. BS-NET 2   Remark:
+1. Minor in Nuclear
+Title   NUCLEAR ENGINEERING TECHNOLOGY                                   Engineering Technology has
+been discontinued. Students                                                                     C
+may request for
+O    NT602A [09]                                                               retrospective Minor if they                                                        U
+completed the course                                                                 R    NT611A [09]
+requirements.
+S    NT614A [09]
+E
+S                                                                                                                   -
+
+27
+
+[PAGE 16]
+Updated on 30-March-2026
+LIST OF MINORS
+
+16.     STATISTICS AND DATA SCIENCE                    MINOR                                 Template No. BS-SDS
+
+Title   STATISTICS AND DATA SCIENCE
+C
+O    MSO205A[11] or HSO201A[11] or CS203B[5]
+U
+R    MTH211A[11]
+S                                                                    MTH441A[10]
+E
+S    MTH208A[5]
+
+31-37
+
+[PAGE 17]
+Updated on 30-March-2026
+LIST OF MINORS
+
+17.   Sustainable Energy Engineering                      MINOR                                          Template No. SEE-1     Remark:
+**As per this template, a
+Title          Sustainable Energy Engineering                                 student must take
+One Compulsory course:                                       one  compulsory  course
+and a minimum 2 courses
+SEE605A [09]                                                  from the remaining list in
+which a maximum of one
+And minimum Two Department Elective Courses                       course   is  allowed  from
+MBA courses (MBA681A,
+SEE601 [09]                                               MBA683A, MBA782A). For
+SEE602 [09]                                                       example, a student
+SEE603 [09]                                                      can  take  either  2  SEE
+SEE604 [09]                                                          courses or 1 SEE course
+SEE606 [09]                                                  and 1 MBA course apart
+SEE607 [09]                                                    from   the   compulsory
+SEE608 [09]                                                            course.
+SEE609 [09]
+SEE610 [09]
+SEE611 [09]
+SEE612 [09]
+SEE613 [09]
+SEE614 [09]
+SEE615 [09]
+SEE616 [09]
+SEE617 [09]
+SEE618 [09]
+SEE619 [09]
+SEE620 [09]
+SEE621 [09]
+SEE622 [09]
+SEE623 [09]
+SEE624 [09]
+SEE625 [09]
+SEE626M [09]
+SEE627 [09]
+SEE628 [09]
+At most one of the following courses if taken as PG-DE:**
+MBA681 [09]
+MBA683 [09]
+MBA782 [09]
+
+Total Minimum Credits: 27
+
+[PAGE 18]
+Updated on 09-April-2026
+LIST OF MINORS
+
+18.   Space, Planetary & Astronomical Sciences &           MINOR                                          Template No. SPASE-1   Remark:    All   future
+Engineering (SPASE)                                                                                                           courses    from    the
+Title         Space Science                                          department, except the
+Compulsory course:                                         ones entirely related to
+mathematical methods
+SPA201                                                        or numerical techniques
+will  be  available  as
+C    27 credits worth of courses from Elective courses offered by the SPASE    elective   courses   to                                                                         department                                                O                                                             complete minor.
+U
+SPA401 [09]                                                          R
+SPA402 [09]                                                                     S
+SPA404 [09]                                                                   E
+SPA601 [09]                                                                     S
+SPA603 [09]
+SPA611 [09]
+SPA614M [05]
+SPA616 [09]
+SPA618M [05]
+SPA621 [09]
+SPA627M [05]
+SPA633M [05]
+SPA634 [10]
+SPA636M [05]
+SPA637 [09]
+
+Total minimum credits: 36
+
+[PAGE 19]
+Updated on 30-March-2026
+LIST OF MINORS
+
+19.  Economics (ECO)                                  MINOR                                          Template No. ECO-1    Note: Students should
+also   take   ECO111:
+Title         Economics                                          Economy,  Society, and
+Compulsory courses:                                                Public Policy as part of
+the SCHEME basket or
+HSO201 (11) or MSO201 (11) or MSO205 (11) or CS203 (5)                                                                                                                                         as an Open Elective.                                                                  ECO211 (11)
+C    ECO231 (11)
+O    ECO251 (11)
+U
+R
+S       Minimum 38-44 credits
+E
+S
+
+[PAGE 20]
+Updated on 30-March-2026
+LIST OF MINORS
+
+20.   Joint Minor from the departments:                  MINOR                                  Template No. SPASE and AE-1    Remark:
+1.) Space, Planetary and Astronomical Sciences and                                                                               All        four
+Engineering (SPASE)                                                                                                       courses  cannot  be
+2.) Aerospace Engineering (AE)                                                                                      from   one    single
+Title         Space Technology                                       department.
+courses:                                                          The  credit  of
+the course chosen in
+AE641 (9) or SPA620 (9)                                         the joint minor must
+SPA626 (9)                                                   not be duplicated with
+C    AE642 (9) or AE645 (4) or SPA637 (9)                                  either  AE  minor  or
+O    AE644 (9)                                                                                                                       SPASE minor.
+U    SPA402 (9)                                                                                                                                       Students from                                                          R    SPA601 (9)                                                                                                                                       Space, Planetary and                                                                     S    AE777 (9)
+Astronomical Sciences                                                                   E    SPA615 (9)
+S                                                          and       Engineering
+Minimum 36 credits                                         (SPASE)         and
+Aerospace
+Engineering       (AE)
+departments are not
+eligible to opt minor in
+these departments.
+
+The End

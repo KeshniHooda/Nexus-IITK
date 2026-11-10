@@ -1,0 +1,21 @@
+BABYBOT IITK INGESTION V2 — COVERAGE REPORT
+Run time (UTC): 2026-11-09T21:23:55.490876+00:00
+Seeds: 3
+Max depth: 2
+Processed unique URLs: 60
+Chunks generated: 166
+
+STATUS COUNTS
+downloaded_extracted: 30
+downloaded_needs_ocr: 2
+failed: 4
+html_extracted: 24
+
+CATEGORY COUNTS (processed document manifest)
+doaa_academic: 38
+doaa_curriculum: 8
+dosa_student_life_finance: 6
+official_iitk_other: 8
+
+Review link_inventory.csv for links not fetched (depth limit, assets, external links).
+This crawler records discovered links; it does not guarantee every IITK page is relevant or accessible.

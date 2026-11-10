@@ -1,0 +1,94 @@
+[PAGE 1]
+Indian InsƟtute of Technology, Kanpur
+
+Proposal for a New Course
+
+1. Course No: AEXXX
+
+2. Course Title: MulƟdisciplinary Design OpƟmizaƟon
+
+3. Per Week Lectures: 2 (L), Tutorial: 0 (T), Laboratory: 3 (P), AddiƟonal Hours[0-2]: 0 (A),
+Credits (3*L+2*T+P+A): 9                               DuraƟon of Course: Full Semester
+
+4. Proposing Department/IDP: Aerospace Engineering
+
+Other Departments/IDPs which may be interested in the proposed course: All Departments/IDP
+Other faculty members interested in teaching the proposed course: --
+
+5. Proposing Instructor(s): Prof. Prabhat Hajela, Dr. Pradeep Moise
+
+6. Course DescripƟon:
+
+A) ObjecƟves: The main objecƟve of the course is to introduce students to MulƟdisciplinary Design
+OpƟmizaƟon (MDO) emphasizing  its role in integraƟng mulƟple disciplines for eﬀecƟve design
+soluƟons. It further aims to engage them in hands-on projects to learn concepts and explore MDO
+principles using available soŌware tools in Lab sessions.
+
+B) Contents (preferably in the form of 5 to 10 broad Ɵtles):
+
+S.    Broad Title                   Topics                                   No. of
+No.                                                                              Lectures
+1.    Overview of MulƟdisciplinary        DeﬁniƟon                               1
+Design OpƟmizaƟon                 Historical PerspecƟve
+   ApplicaƟons
+2.    Fundamentals of                   OpƟmizaƟon problem formulaƟon            8
+OpƟmizaƟon                      OpƟmizaƟon algorithms
+   Gradient-based Methods
+  MulƟ-objecƟve OpƟmizaƟon
+   EvoluƟonary Algorithms
+  Other HeurisƟc Search Methods
+3.    MulƟdisciplinary Analysis            Nature of Coupled Analysis                  4
+(MDA)                             Design Structure Matrix (DSM)
+   Ordering of Analysis for
+ComputaƟonal Eﬃciency
+  ApproximaƟons in Analysis –
+Response Surfaces, Kriging, Neural
+Networks
+4.    SensiƟvity Analysis                  SensiƟvity Analysis Methods                 5
+
+[PAGE 2]
+5.    MulƟdisciplinary Design             Overview of MDO Frameworks               4
+OpƟmizaƟon Frameworks           DecomposiƟon Methods for
+OpƟmizaƟon
+   Hierarchical and CollaboraƟve
+OpƟmizaƟon
+7.    Emerging Trends and Future          IntegraƟon of ArƟﬁcial Intelligence           4
+DirecƟons in MDO                 and Machine Learning
+  OpƟmizaƟon under Uncertainty
+   Digital Twins
+Total        26
+
+(C) Pre-requisites: None
+
+(D) Short summary for including in the courses of Study Booklet: The course provides a comprehensive
+exploraƟon of opƟmizaƟon principles applied to complex engineering systems. It begins with an
+introducƟon to the importance and signiﬁcance of MDO, emphasizing its role in integraƟng mulƟple
+disciplines for eﬀecƟve design soluƟons. The course includes a brief overview of opƟmizaƟon
+methods, including important gradient-based methods and non-tradiƟonal/heurisƟc methods for
+opƟmizaƟon such as geneƟc algorithms and parƟcle swarm opƟmizaƟon. The course also examines
+mulƟdisciplinary systems analysis, emphasizing modeling techniques and sensiƟvity analysis to
+understand system behavior. MDO frameworks and algorithms are reviewed, showcasing hierarchical,
+collaboraƟve, and concurrent approaches. Design space exploraƟon  strategies are discussed,
+emphasizing Pareto opƟmizaƟon and decision-making under uncertainty. The role of machine learning
+and arƟﬁcial intelligence in mulƟdisciplinary design opƟmizaƟon will be examined. Students will
+engage in hands-on projects to learn concepts and explore MDO principles using available soŌware
+tools. CompleƟon of a team-based project that examines some aspect of MDO in greater detail will be
+required of all students.
+
+7. Recommended Books:
+1.  Engineering Design OpƟmizaƟon, Joaquim R.R.A. MarƟns, Cambridge University Press, 2022.
+Free PDF version is available: hƩps://mdobook.github.io
+2.  Numerical OpƟmizaƟon  Techniques  for  Engineering  Design: With  ApplicaƟons,  G.N.
+Vanderplaats, VR&D Press.
+
+8. Any other remarks: --
+H
+Dated:____27/5/2024 _ Proposer:_Prof. Prabhat Hajela, Dr. Pradeep Moise
+
+Dated:_______________ DUGC/DPGC Convener:___________________
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC
+
+Dated:______________________________

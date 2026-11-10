@@ -1,0 +1,98 @@
+[PAGE 1]
+Department of Sustainable Energy Engineering
+Indian Institute of Technology Kanpur
+Proposal for Revision of a Course
+
+1. Course Number: SEE612
+2. Course title: Electrochemical Energy Systems: Materials, Design, and Manufacturing
+3.  Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours[0-2]: 0 (A), Credits
+(3*L+2*T+P+A): 9.                   Duration of Course: Full Semester
+4. Proposing Department/IDP: SEE
+Other Departments/IDPs which may be interested in the proposed course: CHE, MSE, ME CHEM
+
+Other faculty members interested in teaching the proposed course: Sudarshan Narayanan, Soumyabrata
+Roy, Raju Gupta
+5. Proposing Instructor(s): Lalit Pant
+6. Course Description:
+A) Objectives: The objective of this course is to familiarize students with the engineering
+principles involved in designing, manufacturing, and deploying electrochemical energy
+systems. The course emphasizes materials processing, component and system design,
+manufacturing  technologies,  quality  control,  reliability,  and  sustainability,  while
+highlighting the practical trade-offs that govern commercial electrochemical devices.
+B) Contents:
+No. of
+Topic              Detailed Contents
+Lectures
+Introduction/        •  Course overview.
+1                                                                        1
+Overview          •  Role and brief history of electrochemical energy systems
+•   Revision of Electrochemistry & electrochemical systems.
+Electrochemistry 2                      •   Basics of electrochemical cell and redox reactions        2     overview
+•  OCV, kinetics, transport, etc.
+•   Slurry/ink-based electrode manufacturing methods: slurry
+making, rheology, pre-processing (ball-
+Basic                                 mill/ultrasonication, etc.)
+manufacturing and 3                      •   Coating methods: tape casting, doctor blade, slot-die,      5
+processing
+spray coating, other advanced methods
+methods
+•   Post-processing, transfer, and assembly
+•   Electrolyte polymer processing
+•   Introduction, operation, types
+•   Basic overview, triple phase boundary, role of different
+layers
+Fuel cells and       •   Polarization curve, losses, efficiency
+4                                                                        10
+electrolyzers        •   Fuel, water, and heat management. System-level
+management
+•   Manufacturing of PEMFC, AEMFC, and SOFC
+•   Manufacturing of PEMWE, AEMWE, SOWE
+•   Introduction, basic structure, capacity, MTSE, cycling
+5   Batteries           •  Primary and secondary batteries, Gibbs phase rule, phase   10
+diagrams. 2-phase and 3-phase systems
+
+[PAGE 2]
+•  Example systems: Zn-carbon, alkaline batteries, Ni-MH,
+Lead-acid, etc.
+•  Li batteries: Design and manufacturing
+•  Emerging battery chemistries, design, and manufacturing
+•   Introduction and working principle
+6   Supercapacitors                                                        3
+•  Types, materials, and manufacturing
+Other
+electrochemical     •  CO2 reduction, photoelectrochemical, NRR
+7                                                                        4
+systems and         •   Electrochemical sensing systems
+applications
+•  Role of critical minerals. Short overview on availability,
+Material aspects                            mining, extraction, refining, and recycling
+8   for electrochemical                                                      4                        •  Carbon and recycling regulations, mandates     systems
+•  Overview of electrochemical material design
+
+C)  Pre-requisites, if any: None
+
+D) Short summary for inclusion in the Courses of Study Booklet:
+
+This course provides an overview of electrochemical energy technologies, including batteries, fuel
+cells, electrolyzers, and supercapacitors, from a systems perspective. Emphasis is placed on
+materials selection, manufacturing processes, design considerations, and emerging technologies.
+Students gain familiarity with practical engineering aspects involved in developing electrochemical
+energy devices.
+7. Recommended books:
+i. J. Bard and L. R. Faulkner, Electrochemical methods: fundamentals and applications, 2nd
+ed. New York: Wiley, 2001.
+ii. J. Newman and K. E. Thomas-Alyea, Electrochemical Systems, 3rd ed. New York, USA:
+Wiley, 2004.
+iii. R. O’Hayre, S. W. Cha, W. Colella, and F. B. Prinz, Fuel Cell Fundamentals, 3rd ed.
+New York, USA: Wiley, 2016.
+iv. R. Huggins. Energy Storage. 2nd ed. Springer International Publishing, 2016.
+
+Dated: _____02/07/2026_________ Proposer: ______________
+
+Dated:_______________ DUGC/DPGC Convener:___________________
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC
+
+Dated:______________________________

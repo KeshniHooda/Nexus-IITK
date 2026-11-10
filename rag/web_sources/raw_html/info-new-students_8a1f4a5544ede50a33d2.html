@@ -1,0 +1,1839 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="icon" type="image/png" href="/counsel/cmhw/images/logo1.png">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Center for Mental Health and Wellbeing, IIT Kanpur">
+    <meta name="color-scheme" content="light only">
+    <meta name="supported-color-schemes" content="light">
+
+    <title>Center for Mental Health and Wellbeing | IIT Kanpur</title>
+
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com">
+
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="/counsel/cmhw/css/style.css?v=1781000911">
+    <link rel="stylesheet" href="/counsel/cmhw/css/navbar.css?v=1781027869">
+    <link rel="stylesheet" href="/counsel/cmhw/css/footer.css?v=1781000911">
+    <style>
+    /* ── Disable text selection site-wide ── */
+    * { -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; }
+    input, textarea, select, [contenteditable="true"] { -webkit-user-select: text; -moz-user-select: text; -ms-user-select: text; user-select: text; }
+    /* ── Force default cursor everywhere ── */
+    html, body, main, section, div, p, h1, h2, h3, h4, h5, h6, span, li, ul, ol, table, td, th, img { cursor: default; }
+    /* ── Force pointer cursor on interactive elements ── */
+    a, button, .nav-link, .dropdown-item, .dropdown-toggle, .btn, .btn-login, .submit-btn, .tab-btn, [role="button"], input[type="submit"], input[type="button"], input[type="checkbox"], input[type="radio"], label { cursor: pointer !important; }
+    /* ── Dropdown section headers ── */
+    .dropdown-section-header { cursor: default !important; pointer-events: none; user-select: none; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; }
+    /* ── Form inputs ── */
+    input[type="text"], input[type="email"], input[type="password"], input[type="tel"], input[type="date"], input[type="time"], textarea { cursor: text !important; -webkit-user-select: text !important; -moz-user-select: text !important; user-select: text !important; }
+    </style>
+</head>
+
+
+<body >
+
+
+    <nav class="navbar navbar-expand-lg sereth-nav fixed-top">
+        <div class="container-fluid px-3 px-lg-4">
+            <a class="navbar-brand" href="/counsel/cmhw/" style="margin-right: 1rem; padding: 4px 0; flex-shrink: 0;">
+                <img src="/counsel/cmhw/images/logo_black.png" alt="CMHW Logo" class="nav-logo" id="nav-logo-img" style="height: 54px; width: auto; display: block;">
+            </a>
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="fas fa-bars toggler-bars"></i>
+                <i class="fas fa-times toggler-times"></i>
+            </button>
+
+
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ml-auto align-items-center">
+
+                    <li class="nav-item"><a class="nav-link" href="/counsel/cmhw/">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/counsel/cmhw/pages/team.php">Team</a></li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle"
+                           href="#"
+                           data-toggle="dropdown"
+                           aria-haspopup="true"
+                           aria-expanded="false">
+                            Services &amp; Activities
+                        </a>
+                        <div class="dropdown-menu border-0 shadow-sm">
+                            <div class="dd-section-header dd-section-first">
+                                <span>Clinical</span>
+                            </div>
+                            <a class="dropdown-item" href="/counsel/cmhw/pages/individual-therapy.php">Individual Therapy</a>
+                            <a class="dropdown-item" href="/counsel/cmhw/pages/psychiatric.php">Psychiatric Consultation</a>
+                            <a class="dropdown-item" href="/counsel/cmhw/pages/de-addiction.php">De-addiction Clinic</a>
+                            <a class="dropdown-item" href="/counsel/cmhw/pages/visit_schedule.php">Counsellor Hall-Visit Schedule</a>
+				<a class="dropdown-item" href="/counsel/cmhw/pages/external-counselling.php">YourDOST / Tele-MANAS</a>
+                            <div class="dd-section-header">
+                                <span>Activities &amp; Events</span>
+                            </div>
+                            <a class="dropdown-item" href="/counsel/cmhw/pages/events.php">Annual Events</a>
+                            <a class="dropdown-item" href="/counsel/cmhw/pages/wellness-mandali.php">Wellness Mandali & Dialogues</a>
+                            <a class="dropdown-item" href="/counsel/cmhw/pages/workshops.php">Workshops</a>
+                            <a class="dropdown-item" href="/counsel/cmhw/pages/sbf.php">Students' Benevolence Fund</a>
+                        </div>
+                    </li>
+
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle"
+                           href="#"
+                           data-toggle="dropdown"
+                           aria-haspopup="true"
+                           aria-expanded="false">
+                            Resources
+                        </a>
+                        <div class="dropdown-menu border-0 shadow-sm">
+                            <div class="dd-section-header dd-section-first">
+                                <span>Academic Resources</span>
+                            </div>
+                            <a class="dropdown-item" href="/counsel/cmhw/pages/info-students.php">Information for Students</a>
+                            <a class="dropdown-item" href="/counsel/cmhw/pages/acad-directory.php">Central Academic Directory</a>
+                            <a class="dropdown-item" href="/counsel/cmhw/pages/nptel-course.php">Wellbeing Course</a>
+                            <div class="dd-section-header">
+                                <span>Mental Health Resources</span>
+                            </div>
+                            <a class="dropdown-item" href="/counsel/cmhw/pages/wellbeing.php">Wellbeing Material</a>
+                            <a class="dropdown-item" href="/counsel/cmhw/pages/self-assessments.php">Self Assessments</a>
+                            <a class="dropdown-item" href="/counsel/cmhw/pages/awareness-materials.php">Awareness Material</a>
+                            <a class="dropdown-item" href="/counsel/cmhw/pages/blog.php">Blogs</a>
+                            <a class="dropdown-item" href="/counsel/cmhw/pages/faq.php">FAQs</a>
+                        </div>
+                    </li>
+
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle"
+                           href="#"
+                           data-toggle="dropdown"
+                           aria-haspopup="true"
+                           aria-expanded="false">
+                            Book Appointment
+                        </a>
+                        <div class="dropdown-menu border-0 shadow-sm">
+                            <div class="dd-section-header dd-section-first">
+                                <span>Counsellors</span>
+                            </div>
+                            <a class="dropdown-item" href="/counsel/cmhw/pages/appointment-self.php">Self (Regular)</a>
+                            <a class="dropdown-item" href="/counsel/cmhw/pages/appointment-sst.php">Single Session Therapy - In Person</a>
+                            <a class="dropdown-item" href="/counsel/cmhw/pages/appointment-sst-online.php">Single Session Therapy - Online</a>
+                            <a class="dropdown-item" href="/counsel/cmhw/pages/referral.php">Referral</a>
+				<a class="dropdown-item" href="/counsel/cmhw/pages/walk-in.php">Email Counsellors / Walk-In</a>
+                            <div class="dd-section-header">
+                                <span>Psychiatric</span>
+                            </div>
+                            <a class="dropdown-item" href="/counsel/cmhw/pages/psychiatric.php">Psychiatric Consultation</a>
+                            <div class="dd-section-header">
+                                <span>Online</span>
+                            </div>
+                            <a class="dropdown-item" href="/counsel/cmhw/pages/external-counselling.php">External Counselling (Available 24x7)</a>
+                        </div>
+                    </li>
+
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="/counsel/cmhw/pages/orientation.php" data-toggle="dropdown">Orientation</a>
+                        <div class="dropdown-menu border-0 shadow-sm">
+                            <a class="dropdown-item" href="/counsel/cmhw/pages/info-new-students.php">Information for New Students</a>
+                            <!-- <a class="dropdown-item" href="/counsel/cmhw/pages/orientation-schedule.php">Orientation Schedule</a> -->
+                            <a class="dropdown-item" href="/counsel/cmhw/pages/orientation-faqs.php">Orientation FAQs</a>
+                            <a class="dropdown-item" href="/counsel/cmhw/pages/gallery.php">Orientation Gallery</a>
+                            <!-- <a class="dropdown-item" href="/counsel/cmhw/pages/family_tree.php">Family Tree</a> -->
+                            <!-- <a class="dropdown-item" href="/counsel/cmhw/pages/archive.php">Archive</a> -->
+
+                        </div>
+                    </li>
+
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="/counsel/cmhw/pages/referral.php">Referral</a>
+                    </li>
+
+                    <li class="nav-item cta-item">
+                        <a class="nav-link btn-nav-cta" href="/counsel/cmhw/pages/emergency.php">Emergency</a>
+                    </li>
+
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+    <!-- Load JavaScript libraries in correct order -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script>
+    // Create a white-tinted favicon from the existing logo without needing a new asset file
+    (function () {
+        var faviconLink = document.querySelector('link[rel="icon"]');
+        if (!faviconLink) return;
+
+        var img = new Image();
+        img.crossOrigin = 'anonymous';
+        img.src = faviconLink.href;
+
+        img.onload = function () {
+            var canvas = document.createElement('canvas');
+            canvas.width = img.width;
+            canvas.height = img.height;
+            var ctx = canvas.getContext('2d');
+
+            ctx.drawImage(img, 0, 0);
+            ctx.globalCompositeOperation = 'source-atop';
+            ctx.fillStyle = '#ffffff';
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+            faviconLink.href = canvas.toDataURL('image/png');
+        };
+    })();
+
+    // Handle Orientation menu - single click to navigate on desktop only, hover shows dropdown
+    document.addEventListener('DOMContentLoaded', function() {
+        var orientationLink = document.querySelector('a.dropdown-toggle[href="/counsel/cmhw/pages/orientation.php"]');
+        if (!orientationLink) return;
+
+        var orientationItem = orientationLink.parentElement;
+
+        orientationLink.addEventListener('click', function(e) {
+            e.preventDefault();
+            if (window.innerWidth >= 992) {
+                window.location.href = '/counsel/cmhw/pages/orientation.php';
+            }
+        });
+
+        orientationItem.addEventListener('mouseenter', function() {
+            if (window.innerWidth >= 992) {
+                $(orientationLink).dropdown('show');
+            }
+        });
+
+        orientationItem.addEventListener('mouseleave', function() {
+            $(orientationLink).dropdown('hide');
+            orientationLink.blur();
+        });
+    });
+
+    // Remove focus state from nav links when hovering elsewhere
+    document.addEventListener('DOMContentLoaded', function() {
+        var navLinks = document.getElementsByClassName('nav-link');
+        for (var i = 0; i < navLinks.length; i++) {
+            navLinks[i].addEventListener('mouseleave', function() {
+                this.blur();
+            });
+        }
+    });
+
+    // Prevent text selection on non-input elements
+    document.addEventListener('selectstart', function(e) {
+        var tag = e.target.tagName.toLowerCase();
+        if (tag === 'input' || tag === 'textarea' || tag === 'select') {
+            return true;
+        }
+        e.preventDefault();
+        return false;
+    });
+</script>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F6HP1JESZK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-F6HP1JESZK');
+</script>
+ <script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "w550rtb7el");
+</script>
+
+
+
+<link rel="stylesheet" href="/counsel/cmhw/css/info-newstudents.css?v=1781000911">
+<link rel="stylesheet" href="/counsel/cmhw/css/orientation-faqs.css">
+
+<style>
+    /* Prevent out-of-bounds horizontal scrolling on mobile */
+    @media screen and (max-width: 768px) {
+        .info-content-wrapper, 
+        .info-content-wrapper p, 
+        .info-content-wrapper li, 
+        .info-content-wrapper a {
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+            word-break: break-word;
+        }
+        
+        /* Stack the Reaching IITK table columns vertically on mobile */
+        #reaching-iitk table, 
+        #reaching-iitk tbody, 
+        #reaching-iitk tr, 
+        #reaching-iitk td,
+        #pg-iitk table, 
+        #pg-iitk tbody, 
+        #pg-iitk tr, 
+        #pg-iitk td {
+            display: block;
+            width: 100% !important;
+        }
+        
+        /* Hide the 10% empty spacer column on mobile */
+        #reaching-iitk td[width="10%"],
+        #pg-iitk td[width="10%"] {
+            display: none;
+        }
+    }
+</style>
+
+<main style="background-color: #FDFCF8;">
+    
+    <section class="hero-centered">
+        <div class="container">
+            <div class="hero-content-wrapper-center">
+                <span style="font-size: 0.8rem; letter-spacing: 2px; text-transform: uppercase; color: #8fb3ff; display: block; margin-bottom: 10px; font-weight: 600;"></span>
+                <h1>Information for New Students</h1>
+            </div>
+        </div>
+        <div class="hero-bg-overlay"></div>
+    </section>
+
+    <div class="team-tabs-wrapper">
+        <div class="container">
+            <div class="team-tabs">
+                <button class="tab-btn active" data-target="new-ug-programmes" data-hash="ug">Information for New UG Students</button>
+		  <button class="tab-btn" data-target="preparatory" data-hash="prep">Information for Preparatory Students</button>
+                <button class="tab-btn" data-target="new-pg-programmes" data-hash="pg">Information for New PG Students</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="info-container">
+            
+            <div id="new-ug-programmes" class="tab-content active" >
+                <div class="info-sidebar" style="padding-right:20px">
+                    <button class="nav-btn active" data-subtarget="important-notification" data-hash="ug-notification">Important Notification</button>
+                    <button class="nav-btn" data-subtarget="document-checklist" data-hash="ug-checklist">Document Checklist</button>
+                    <button class="nav-btn" data-subtarget="ug-faq" data-hash="ug-faq">FAQ</button>
+                    <button class="nav-btn" data-subtarget="fee-structure" data-hash="ug-fee">Fee Structure</button>
+                    <button class="nav-btn" data-subtarget="reaching-iitk" data-hash="ug-reaching">Reaching IITK</button>
+                    <button class="nav-btn" data-subtarget="hall-allocation" data-hash="ug-hall">Hall Allocation</button>
+                    <button class="nav-btn" data-subtarget="map" data-hash="ug-map">Map</button>
+                    <button class="nav-btn" data-subtarget="future-students" data-hash="ug-future">Future Students</button>
+                </div>
+
+                <div class="info-content-wrapper">
+                    <div class="sub-tab-content active" id="important-notification">
+                        <h3 style="text-align: center;">Important Notification</h3>
+                        <div style="margin-bottom: 10px;">
+                          📌  &nbsp;Heartfelt congratulations to all the students who have excelled in JEE Advanced and Olympiads!! 
+                            We are delighted to welcome you as prospective UG'26 candidates for the BS/BT/B.Cyber programmes at IIT Kanpur. 
+                            This page, maintained by the UG team of the Center for Mental Health and Wellbeing, will serve as your central source for all important information. 
+                            <br><b>Please check this page regularly for updated details. Mail to <a href="mailto:ug_cmhw@iitk.ac.in">ug_cmhw@iitk.ac.in</a> for any further queries. Preparatory students may check the "Information for Preparatory Students" tab.</b>
+                        <br>Here is some of the initial information for you and your parents:<br>
+                        </div>      
+                        <ul style="list-style-type: circle; display: block;padding-left:40px; line-height:1.6">
+<li style="list-style: none; margin-bottom: 20px;">
+
+    <div style="
+        background: #fff8e6;
+        border: 1px solid #ffe08a;
+        border-left: 6px solid #d9534f;
+        border-radius: 8px;
+        padding: 18px 20px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    ">
+
+        <span style="
+            display:inline-block;
+            background:#d9534f;
+            color:#fff;
+            font-size:11px;
+            font-weight:700;
+            padding:4px 10px;
+            border-radius:4px;
+            margin-bottom:12px;
+            text-transform:uppercase;
+            letter-spacing:0.5px;
+        ">
+            Announcement
+        </span>
+
+        <div style="line-height:1.8; font-size:15px; color:#333;">
+
+
+	    <b>Some Major Announcements:</b>
+            <ul style="margin:8px 0 16px 20px; padding:0;color:#333;">
+            <li>Welcome mail will be sent to <b>B.Cyber</b> students by <b>Monday, 20th July</b>.</li>
+            <li>All students are <b>strictly recommended</b> to get their parents'/guardian's signature wherever required and also bring <b>blank copies</b> of the same forms.</li>
+    	    </ul> 
+
+            <b>IMPORTANT:</b> After you receive Pingala login details on 18th July (tentative) evening, please fill PI (Personal Information) details accurately and upplaod all documents as mentioned in PI form. In the case of "Self-declaraton of Mental Health Status" and "Student Wellbeing Services - Consent form", please use <b>Roll No</b> instead of Application Number. In addition to the submission of scanned copy in Pingala, please bring hard copy of all forms with you. Visit Document checklist page in CMHW website(<a href = "https://iitk.ac.in/counsel/cmhw/pages/info-new-students.php#ug" target = "_blank">Document Checklist Page</a>)
+            <br><br><b>Note:</b> All dates and timings mentioned above are tentative and may be revised. Students are advised to visit this page regularly for the latest updates and announcements.
+	    <hr style="margin:16px 0; border:none; border-top:1px solid #f2d37b;">
+
+            📌 <b>Tentative (17th July 2026, by 10:00 PM):</b>
+            Students will receive their Roll No, User ID and Institute Email IDs on their email addresses provided in the application. Please check your inbox regularly.
+
+            <br><br>
+
+            📌 <b>Tentative (18th July 2026, by 10:00 AM):</b>
+            Students are required to report any discrepancy in User ID. The actual time will be mentioned in the email you receive.
+
+            <br><br>
+
+            📌 <b>Tentative (18th July 2026, 3:00 PM):</b>
+            Final User ID and Institute Email IDs will be communicated to all UG students.
+
+            <br><br>
+
+            📌 <b>Tentative (18th July 2026, by 6:00 PM):</b>
+            Students will receive a welcome email from the Pingala team with login details and instructions to fill the PI (Personal Information) form.
+
+           
+
+        </div>
+
+    </div>
+
+</li>
+                            <li>
+                              📌   Undergraduate students of the Y26 batch are required to <b>report in person</b> to the institute on <b>July 21st, 2026 (Reporting Day) between 7:00 am and 7:30 pm.</b>Students may arrive at any time within the specified time window. This flexible reporting schedule is intended to accommodate varying travel plans and help reduce rush hour congestion. We expect your cooperation to help us maintain a smooth reporting process during peak hours.  
+                            </li>
+                            <li>
+                              📌   <b>On 21st JULY (Reporting Day)</b>, <b>Boys</b> have to report at <b>HALL 13,</b> and <b>Girls</b> have to report at <b>HALL 4</b>, respectively. Accommodation in the hostels (Halls of Residence) will be provided on the same day upon arrival and reporting.
+                            </li>
+				
+                            <li>
+                               📌   Hostel rooms will be equipped with only <b>basic furniture, including cots, chairs, tables, and cupboards.</b> However, mattresses, pillows, blankets, and other materials will not be provided.
+                            </li>
+                            <li>
+                               📌   We expect rainy weather in Kanpur and highly suggest to bring umbrellas.                          
+                            </li>
+
+                            <li> 
+                             📌  <b>The Parents Orientation Program</b> has been planned for <b>22nd July afternoon.</b> The program will also be streamed online for your convenience.
+                            </li>
+                            <li>
+                                📌  Please download and keep a safe copy of <b>every document provided by JEE Advanced and JoSAA</b> in each round of allotment. They may be used in the admission procedure.
+                            </li>
+                            <li>
+                                📌  <b>The details of Hall Accomodation form, which has to be compulsorily filled and brought on the reporting date will be provided shortly.</b> Two passport-sized photographs must be submitted along with this form. Additionally, the two-page form should be printed on a single sheet, double-sided.
+                            </li>
+                            <li>
+                                📌  Parents/Guardians are welcome to accompany the students; however, please note that <b>we do not provide or arrange accomodation for the Parents/Guardians.</b> They are welcome to spend time with their wards in the halls from 7:00 am to 7:30 pm. <b>Parents/Guardians are requested to leave the halls by 7:30 pm.</b> Parents are suggested to arrange for their own accomodation. The list of hotels at Kanpur can be found here: <a href="/counsel/cmhw/get-pdf.php?file=hotelsupdated" rel="noopener noreferrer" target="_blank">[Hotels]</a>
+                           
+                            </li>
+                            <li>
+                                📌  The detailed schedule for the <b>Orientation Programme, Academic Registration, and related activities, for Y26 batch,</b> will be published and shared closer to the reporting date.
+                            </li>
+                            <li>
+                                📌  The commencemnet of regular classes for the Y26 batch is set for <b>July 30th, 2026.</b>
+                            </li>
+                            <li>📌  All Y26 students must register on the <b>anti-ragging portal</b> at its <a href="https://www.antiragging.in/" target="_blank" rel="noopener noreferrer">official website</a>. The reference ID generated after registration is extremely important and must be noted down, as it will be required for further stages. [<a href="https://www.iitk.ac.in/counsel/resources/Instructions%20to%20register%20in%20antiragging.pdf">Instructions</a>]</li>
+
+                                                        <li>
+                              📌  Please join the IIT Kanpur Y26 Discussion Forum <a href="https://www.facebook.com/share/g/18MXh8EQUN/?mibextid=wwXIfr" target="_blank" style="color:blue">Facebook page</a>, 
+                                <a href="https://whatsapp.com/channel/0029VbDFQsg72WTsW6tyLx0N" target="_blank" style="color:blue">Whatsapp Link for UG(Y26) Fresher's Forum</a>
+                                and follow us on <a href="https://www.instagram.com/cmhw_iitk?igsh=cGJsYjJmNHJtbm10" target="_blank">Instagram</a>
+                            </li>
+                            <li>
+                              📌  Please do visit the <a href="#ug-faq" onclick="document.querySelector('[data-subtarget=\'ug-faq\']').click();" style="color:blue; text-decoration:underline;">FAQ</a> section for further queries.                            </li>
+                            <li>
+                              📌  Stay tuned for further updates. 
+                            </li> 
+                        </ul>
+                    </div>
+
+                    <div class="sub-tab-content" id="document-checklist">
+                        <h3 style="text-align: center;">Document Checklist</h3>
+<i class="fa-solid fa-square-check"></i> Provisional Seat Allotment Letter (downloadable from the JoSAA website; titled System Generated Allotment Letter or System Generated Document Verification-cum-Seat Acceptance Letter and/ or received separately from IIT Kanpur)<br>
+<i class="fa-solid fa-square-check"></i> Receipt of online payment of fees from JoSAA/Pingala or direct payment to Registrar account.<br>
+<i class="fa-solid fa-square-check"></i> Class XII Marksheet<br>
+<i class="fa-solid fa-square-check"></i> Class X (High School) Board Certificate<br>
+<i class="fa-solid fa-square-check"></i> At least 8 passport-size photographs<br>
+<i class="fa-solid fa-square-check"></i> SC/ ST/ DAP Certificates issued by the competent authority, and valid EWS/ OBC-NCL Certificates issued on or after April 01, 2026, as applicable. Typical formats are available at <a href="https://tinyurl.com/29j7ecx4" target="_blank" rel="noopener noreferrer">https://tinyurl.com/29j7ecx4</a>, <a href="https://tinyurl.com/3yees3yc" target="_blank" rel="noopener noreferrer">https://tinyurl.com/3yees3yc</a>, <a href="https://tinyurl.com/2p9jwvhd" target="_blank" rel="noopener noreferrer">https://tinyurl.com/2p9jwvhd</a>, and <a href="https://tinyurl.com/3un72cye" target="_blank" rel="noopener noreferrer">https://tinyurl.com/3un72cye</a>, respectively<br>
+<i class="fa-solid fa-square-check"></i> Medical certificate (<a href="https://tinyurl.com/2s8ktpsa" target="_blank" rel="noopener noreferrer">https://tinyurl.com/2s8ktpsa</a>) (Please note that this format is different from the one submitted during JoSAA counselling)<br>
+<i class="fa-solid fa-square-check"></i> Student Wellbeing Services - Consent form (<a href="https://tinyurl.com/3uspw8yx" target="_blank" rel="noopener noreferrer">https://tinyurl.com/3uspw8yx</a>). The duly filled form is to be submitted in your allocated hall office on reporting day. In the place of "Application No" in the form, write your IITK Roll Number.<br>
+<i class="fa-solid fa-square-check"></i> Self - Declaration of Mental Health Status (<a href="https://tinyurl.com/42pac5y8" target="_blank" rel="noopener noreferrer">https://tinyurl.com/42pac5y8</a>). The duly filled form is to be submitted in the locked box provided in reporting Hall on the reporting day. In the place of "Application No" in the form, write your IITK Roll Number.<br>
+<i class="fa-solid fa-square-check"></i> Hall Registration Form (<a href="https://tinyurl.com/bdfx4kwv" target="_blank" rel="noopener noreferrer">https://tinyurl.com/bdfx4kwv</a>); relevant Hall of Residence details will be notified on the day of reporting to IIT Kanpur. The duly filled form is to be submitted in your allocated hall office on reporting day.<br>
+<i class="fa-solid fa-square-check"></i> Aadhaar Card, Passport with valid India Visa, valid Overseas Citizen of India (OCI) card, as applicable<br>
+<i class="fa-solid fa-square-check"></i> Anti-Ragging Undertaking generated after registration on the Anti-Ragging Portal; relevant details at <a href="https://tinyurl.com/52by2rk9" target="_blank" rel="noopener noreferrer">https://tinyurl.com/52by2rk9</a> (<a href="https://www.iitk.ac.in/dosa/" target="_blank" rel="noopener noreferrer">https://www.iitk.ac.in/dosa/</a> &gt; Antiragging &gt; Instructions-to-register-in-Antiragging-website) using IITK roll number<br>
+<i class="fa-solid fa-square-check"></i> Self-Declaration Undertaking (<a href="https://tinyurl.com/yztwx7fb" target="_blank" rel="noopener noreferrer">https://tinyurl.com/yztwx7fb</a>)<br>
+<i class="fa-solid fa-square-check"></i> Ethical Practices Undertaking (<a href="https://tinyurl.com/yztwx7fb" target="_blank" rel="noopener noreferrer">https://tinyurl.com/yztwx7fb</a>)<br>
+<i class="fa-solid fa-square-check"></i> Fee Remission Documents for UNder Graduate students only (Eligibility Criteria): [<a href="https://www.iitk.ac.in/dosa/data/FAQ_FOR_FEES_AND_DUES_ISSUES-18-07-25.pdf" target="_blank" rel="noopener noreferrer">FAQs FOR FEES & DUES ISSUES</a>]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;a. Copy of Income Tax Returns of parents (Self, father, Mother and Unmarried Siblings)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;b. Tuition Fee Waiver Affidavit on Rs 20 Stamp Paper duly signed by a First Class Magistrate/Public Notary (<a href="https://drive.google.com/drive/folders/192LkUwdc3cr1JlA6rYFlaiROJFQ55kYy" target="_blank" rel="noopener noreferrer">https://drive.google.com/drive/folders/192LkUwdc3cr1JlA6rYFlaiROJFQ55kYy</a>)<br><br>
+<p><b>Note:</b> Duly filled scanned copy of some of the aforementioned forms will be required to submit online while filling PI (Personal Information) details in Pingala. The details of account creation in Pingala will be communicated by Dean of Digital Infrastructure & Automation (DDIA) office before your arrival.</p>                    </div>
+
+                    <div class="sub-tab-content" id="ug-faq">
+                        <h3 style="text-align: center;">FAQs</h3>
+                        
+                        <div class="faq-layout" style="margin-top: 20px;">
+                            <div class="faq-sidebar">
+                                <div class="sidebar-title">Browse Topics</div>
+                                <button class='cat-btn active' data-target='general'>General</button><button class='cat-btn ' data-target='fees-dues-issues'>Fees & Dues Issues</button><button class='cat-btn ' data-target='fee-waiver-faqs'>Fee Waiver FAQs</button><button class='cat-btn ' data-target='scholarship-faqs'>Scholarship FAQs</button>                            </div>
+
+                            <div class="faq-content">
+                                <div id='general' class='category-section active'>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    What if I arrive before 21st July?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        You will have to reside outside IITK as your hostel room will be allotted only on 21st July.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    When should we report to campus?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Please note that the date of reporting to campus is 21st July from 7:00 am- 7:30 pm, and rooms will be allocated on arrival itself. Students are very strongly recommended to reach on 21st July, otherwise, they will miss a part of their Orientation. <!-- However, they will not incur any problems in registration. --> Orientation will be from 22nd July onwards. Parents Orientation is scheduled on 22nd July itself.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    When will I receive IIT Kanpur Email ID and Roll Number?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        You will receive an e-mail containing your Roll Number and IIT Kanpur Email ID before the reporting date.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    What is Pingala Portal?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Pingala is a comprehensive online portal for IIT Kanpur, designed to streamline administrative, academic, and procedural requirements. Avoid <b>logging in</b> before getting credentials, otherwise the account will be locked.The details of account creation in Pingala will be communicated by Dean of Digital Infrastructure & Automation (DDIA) office before your arrival.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    Are parents required in the orientation/registration process?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        No, parents are not required in any step of the orientation/registration process. However, there is a Parents Orientation planned for 22nd July which the parents are encouraged to attend.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    What things to bring to IITK?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Here is a pdf containing a suggestive list of items to bring to IITK: <a href="https://www.iitk.ac.in/counsel/resources/items.pdf" target="_blank">Items to Bring</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    Are Parents allowed to stay on campus?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Parents can visit their ward’s allocated hall. They must vacate the Hall at 7:30 pm at night. They must make arrangements for their lodging themself. It's recommended that parents make arrangements in advance.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    Will Digi-locker Documents work?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Digilocker files will work for online uploading and verification. But for offline on-campus document verification, we require original tangible documents.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    Does any repeater have to upload extra documents?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        No. He has to upload the same files as the rest.
+                                                    </div>
+                                                </div>
+                                            </div></div><div id='fees-dues-issues' class='category-section '>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    From where I can get the details of fees to be paid by me?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Approved fee structure is available at your Pingala web page and <a href="https://www.iitk.ac.in/dosa/" target="_blank">DoSA website</a> under the head 'News and Events' 'For New Students'.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    I had applied for Bank Loan, how I can get the fee structure for the whole course?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Tentative fee certificate for new batch of B.Tech/BS/MSc is available in <a href="https://www.iitk.ac.in/dosa/" target="_blank">DoSA website</a> under the head 'News and Events' 'For New Students'. However, if you require semester wise fee details, please write to dosarecep@iitk.ac.in.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    What kind of fee remissions are allowed?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        The fees waiver are given to the following category of students:
+- MEB: Most Economically Backward families (income < ₹1 lakh) get 100% tuition waiver.
+- OEB: Other Economically Backward families (income ₹1–5 lakh) get 1/3rd tuition fee.
+- SC/ST/PWD: Fully exempted from tuition based on category certificate.
+No waiver for M.Sc./Ph.D/MBA/M.Des/DIIT students except SC/ST/PWD category.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    What is the valid income proof for fee remission/waiver for BS/BT students?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Copy of complete Income Tax Return (ITR) of family (Self, Father, Mother, Unmarried Siblings) and Tuition Fee Waiver Affidavit on Rs. 20/- Stamp paper duly signed by First Class Magistrate/Public Notary as per format available on DoSA website. Submit original affidavit to DoSA office in first semester.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    Whether the EWS certificate can be considered valid for fee remission for BS/BT students?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        No. EWS certificate alone is not considered. Income proof must comply with Para 4(a).
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    If a student fails to submit valid income proof at registration?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        The student shall deposit full fees at registration and excess fees may be claimed on submission of valid income certificate to DoSA office.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    What to do if name mismatch between Institute records and provided income certificate?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Submit Request Letter, Publication of names in Gazette/News Papers for reconsideration of income certificates.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    On what grounds can I get refund of excess fee amounts?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Excess fees can be refunded on submission of valid proof within one year through Pingala Portal.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    What is the procedure to apply for refund of excess fee?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Apply in Pingala Portal in Excess Fee Refund Module.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    I have paid my all fees but Pingala shows 'Not Registered'?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Reasons: a) Scrolling issue on Pingala portal b) Online payment reconciliation c) Payment via RTGS – send UTR to receipts@iitk.ac.in, brsac1@iitk.ac.in, dosaregd@iitk.ac.in. Also check for pending dues and biometric attendance.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    How to claim Fee Waiver/Refund as a newly joined student?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        1. Upload income certificate in Pingala portal after roll allotment.
+2. After DoSA approval, submit excess fee refund form with payment slip through Pingala portal.
+3. Refund sent through Account section or TSA account.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    Who is eligible for fee refund?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        a) Paid fee twice.
+b) Paid excess fee due to missing Income certificate.
+c) Late Day Scholar approval.
+d) State scholarships paid directly.
+e) Any other case-specific excess fees.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    Procedure for education loan fee clearance?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Bank transfers payment to IIT Kanpur SBI account. Collect advise note from bank and send to receipts@iitk.ac.in, brsac1@iitk.ac.in, dosaregd@iitk.ac.in. For tentative fees, write to dosaregd@iitk.ac.in.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    Contact for Fee issues
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        1. Registration: Sapna Gupta, dosaregd@iitk.ac.in, 0512-679-6945
+2. Excess Fee Refund: Sahil Singh Rathour, sdr@iitk.ac.in, 0512-679-6924
+3. Parental Income Declaration & Tuition Fee waiver: Mayuk Das, dosahelp@iitk.ac.in, 0512-679-6924
+                                                    </div>
+                                                </div>
+                                            </div></div><div id='fee-waiver-faqs' class='category-section '>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    What kind of fee remissions are allowed?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        For BS/BTech students: MEB 100% tuition waiver, OEB 1/3rd tuition fee, SC/ST/PWD fully exempted. Income proof includes ITR + Affidavit.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    Will my EWS certificate be applicable for Fee waiver?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        No, EWS certificate is not applicable for fee waiver.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    Do I need to file ITR if I want fee remission and have never filed ITR?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        It is mandatory for parents to submit their ITR. ITR can be filed online. Student or siblings submit if asked.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    If I have income certificate and affidavit, is ITR/AIS still required?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Yes, ITR + AIS from Income Tax Department is mandatory to receive fee remission.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    Is PAN Card compulsory?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        PAN Card is mandatory for filing ITR. If zero income, declare PAN number and zero income. If parents don’t have PAN, they must apply for it.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    What is AIS/TIS?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        AIS (Annual Information Statement) is a detailed statement from Income Tax Department. TIS is condensed version. AIS required along with ITR.
+                                                    </div>
+                                                </div>
+                                            </div></div><div id='scholarship-faqs' class='category-section '>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    What scholarships are available through IITK?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Visit this link: <a href="https://www.iitk.ac.in/sspc/" target="_blank">https://www.iitk.ac.in/sspc/</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    Eligibility criteria for scholarships?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Refer to <a href="https://www.iitk.ac.in/sspc/" target="_blank">https://www.iitk.ac.in/sspc/</a> for eligibility and details.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    How can I apply for eligible scholarships?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Notification sent to students. Submit forms to SSPC Office via email (sspc@iitk.ac.in) or by hand at SSPC Office.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    Process for signature on External Scholarships?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Submit duly signed forms by applicant & parents to SSPC Office either in hardcopy or scanned manner (sspc@iitk.ac.in). Attach fee receipt of 1st semester and grade sheets till 2nd semester of previous academic year.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    When should I apply for scholarships as a first-year student?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        First announcement mail sent after semester starts.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    Are scholarships semester-wise?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        No, all scholarships are yearly.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    Do I need to apply every year if I availed scholarship in first year?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Yes, apply every academic year separately.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    Can I get Bonafide certificate for scholarship from SSPC?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Yes, only for scholarship purposes.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    What kind of no-objection certificates related to scholarships are issued?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Only scholarships related to NOC are issued by SSPC.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    Whom should I contact for scholarship queries?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Call 0512-259-6187 or email sspc@iitk.ac.in
+                                                    </div>
+                                                </div>
+                                            </div></div>                            </div>
+                        </div>
+                    </div>
+
+                    <div class="sub-tab-content" id="fee-structure">
+                        <h3 style="text-align: center;">Fee Structure</h3>
+                            <p>We would like to inform all old students and new students taking admission for the upcoming academic session that the fee structure has been updated by DoSA. For detailed information, please visit <a href="http://www.iitk.ac.in/dosa/" target="_blank"> DoSA </a> website.</p>
+                    </div>
+
+                    <div class="sub-tab-content" id="reaching-iitk">
+                        <h3 style="text-align: center;">Reaching IITK</h3>
+                        <table>
+                            <tr>
+                                <td width="45%" valign="top">
+                                    <h4><i class="fa fa-plane"></i> By Air</h4>
+                                    <p align="justify">The most popular air route to IIT Kanpur is through Lucknow Airport (IATA: LKO | ICAO: VILK). Lucknow is connected by direct flights to and from major cities like Delhi, Mumbai, Kolkata and Bengaluru<br>
+                                    <b>Note:</b> Kanpur airport (Chakeri) is now open to civilian purpose. The Airport is located around 21 Km from IITK and cabs are available to and fro.</p>
+                                </td>
+                                <td width="10%">&nbsp;</td>
+                                <td width="45%" valign="top">
+                                    <h4><i class="fa fa-road"></i> By Road</h4>
+                                    <p align="justify">Kanpur is connected to NH-2 that runs between Amritsar and Kolkata and connecting cities like Delhi, Agra, Allahabad, Patna. Kanpur is also connected to Lucknow on NH25 and is about 91 km from Lucknow. Cabs are available from Lucknow to reach IIT Kanpur.</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td width="45%" valign="top">
+                                    <h4><i class="fa fa-train"></i> By Train</h4>
+                                    <p align="justify">Kanpur is well connected by railway network with nearly every major city. Numerous overnight trains are also present from major cities like New Delhi, Mumbai, Bangalore. IIT Kanpur is about 17 km from the Kanpur Central Railway Station.<br>
+                                    Direct buses to campus front gate are there from Jhakarkati. Tempos and Autos are also available which take about Rs. 200 - Rs. 250 from Station to IITK campus. One can also find shared auto services (commonly known as Vikram) for as low as 40 Rupees from Kanpur Railway Station, outside Platform 9 to campus front gate.<br>
+                                    Metro services are also available from Kanpur Central Metro Station to IIT Kanpur Metro Station from 6am to 10pm daily.</p>
+                                </td>
+                                <td width="10%">&nbsp;</td>
+                                <td width="45%" valign="top">
+                                    <h4><i class="fa fa-bed"></i> Hotels</h4>
+                                    <p align="justify">Please note that the institute does not provide accommodation to parents. Parents are suggested to arrange for their own accommodation. The list of hotels at Kanpur can be found here. <a href="/counsel/cmhw/get-pdf.php?file=hotelsupdated" rel="noopener noreferrer" target="_blank">[Hotels]</a></p>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+
+                    <div class="sub-tab-content" id="hall-allocation">
+                        <h3 style="text-align: center;">Hall Allocation</h3>
+                        <h3>Hall Allocation</h3>
+                        <img src="/counsel/cmhw/images/hawl13.webp" width="100%" /><br><br>
+                        <p>The Hall Allocation for 2026-27 is as following.<br>
+                        <b>Boys:</b> Hall 13<br>
+                        <b>Girls:</b> Hall 4<br>
+                        The reporting help desk numbers will be updated here a night before the reporting.</p>
+                        <p>It is <b>mandatory</b> for all registered students of IIT Kanpur to reside in the halls of residence assigned to them. The halls assigned to the first year boys students is <em>Hall 13</em>. <em>Hall 4</em> is the hall of residence assigned to the first year girl students.</p>
+                        <p>The rooms and roommates in the halls are also assigned randomly to the students by the institute keeping in mind various factors. It is <b>not possible</b> to entertain a request for room/roommate change. It is also <b>compulsory</b> for a student to register in his/her Hall of Residence's mess.</p>
+                    </div>
+
+                    <div class="sub-tab-content" id="map">
+                        <h3>IITK Map</h3>
+                        <img src="/counsel/cmhw/images/IIT KANPUR MAP PG.webp" alt="IITK Map" style="width: 100%; max-width: 100%; height: auto; display: block; border-radius: 8px;">
+                    </div>
+
+                    <div class="sub-tab-content" id="future-students">
+                        <h3 class="sub-title">Related Links</h3>
+                        <p>This section will be updated with some resources and links related to IITK</p>
+                        <ul style="list-style-type: disc; padding-left: 20px; margin-bottom: 20px;">
+                            <li style="margin-bottom: 8px;">
+                                <a href="https://www.iitk.ac.in/information-for-future-students" target="_blank">Future Students</a>
+                            </li>
+                            <li style="margin-bottom: 8px;">
+                                <a href="https://thatsiitk.quora.com/" target="_blank">That's IITK</a>
+                            </li>
+                            <li style="margin-bottom: 8px;">
+                                <a href="https://srijanshetty.quora.com/Why-IIT-Kanpur" target="_blank">Why IIT Kanpur? (Article)</a>
+                            </li>
+                            <li style="margin-bottom: 8px;">
+                                <a href="https://www.youtube.com/watch?v=Yq-vTT-fHtk" target="_blank">Campus Video</a>
+                            </li>
+                        </ul>
+                        <p style="margin-bottom: 15px;">
+                            Go through the following link to know more about different undergraduate programmes at IITK: 
+                            <a href="http://www.iitk.ac.in/information-for-future-students/" target="_blank">Future Students</a>
+                        </p>
+                        <p style="margin-bottom: 15px;">
+                            Unoffical Facebook group that celebrates the people, life and culture of IIT Kanpur: 
+                            <a href="https://www.facebook.com/groups/2157244137858693" target="_blank">This Bit of That IITK</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div id="preparatory" class="tab-content">
+                <div class="info-sidebar">
+                    <button class="nav-btn active" data-subtarget="prep-notification" data-hash="prep-notification">Important Notification</button>
+                    <button class="nav-btn" data-subtarget="prep-checklist" data-hash="prep-checklist">Document Checklist</button>
+		      <button class="nav-btn" data-subtarget="prep-rv" data-hash="prep-rv">Reporting Venue</button>
+                    <button class="nav-btn" data-subtarget="prep-faq" data-hash="prep-faq">FAQ</button>
+                    <button class="nav-btn" data-subtarget="prep-fee" data-hash="prep-fee">Fee Structure</button>
+                    <button class="nav-btn" data-subtarget="prep-reaching" data-hash="prep-reaching">Reaching IITK</button>
+                    <button class="nav-btn" data-subtarget="prep-map" data-hash="prep-map">Map</button>
+                </div>
+
+		<div class="info-content-wrapper">
+               	<div class="sub-tab-content active" id="prep-notification">
+                        <h3>Important Notification</h3>
+                        <p><br style="display: inline-flex; align-items: center; gap: 8px;"><span style="background-color: #d9534f; color: white; font-size: 8px; font-weight: 900; font-family: sans-serif; padding: 3px 6px; border-radius: 3px; letter-spacing: 0.5px; flex-shrink: 0;">IMP</span> NOTE: Preparatory students who have been asked to report at IIT Kanpur based on their rank in JEE Advanced 2026, will have to report
+				on August 7th, 2026(Friday), accomodation to them will be provided to them upon arrival on the reporting date (August 7th, 2026). For any further queries, mail to Mr. Pramod Kumar Rawat : <a href="mailto:rawatkp@iitk.ac.in">rawatkp@iitk.ac.in</a> or <a href="mailto:ug6@iitk.ac.in">ug6@iitk.ac.in</a> or Prof. Akash Anand : <a href="mailto:akasha@iitk.ac.in">akasha@iitk.ac.in</a>. (Students who have been allotted IIT Kanpur based on their rank in JEE Advanced 2025, will have to report on 21st July, 2026.) <br></p>
+                        <ul style="list-style-type: circle; display: block;padding-left:1em;">
+				<li> This pages is only for students who were allotted a preparatory seat in JEE Advanced *2026*. The preparatory students who were allotted a seat based on JEE Advanced *2025* must refer to "Information for New UG Students".</li>
+			</div>
+		 		
+
+		
+			  <div class="sub-tab-content" id="prep-reaching">
+                        <h3 style="text-align: center;">Reaching IITK</h3>
+                        <table>
+                            <tr>
+                                <td width="45%" valign="top">
+                                    <h4><i class="fa fa-plane"></i> By Air</h4>
+                                    <p align="justify">The most popular air route to IIT Kanpur is through Lucknow Airport (IATA: LKO | ICAO: VILK). Lucknow is connected by direct flights to and from major cities like Delhi, Mumbai, Kolkata and Bengaluru<br>
+                                    <b>Note:</b> Kanpur airport (Chakeri) is now open to civilian purpose. The Airport is located around 21 Km from IITK and cabs are available to and fro.</p>
+                                </td>
+                                <td width="10%">&nbsp;</td>
+                                <td width="45%" valign="top">
+                                    <h4><i class="fa fa-road"></i> By Road</h4>
+                                    <p align="justify">Kanpur is connected to NH-2 that runs between Amritsar and Kolkata and connecting cities like Delhi, Agra, Allahabad, Patna. Kanpur is also connected to Lucknow on NH25 and is about 91 km from Lucknow. Cabs are available from Lucknow to reach IIT Kanpur.</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td width="45%" valign="top">
+                                    <h4><i class="fa fa-train"></i> By Train</h4>
+                                    <p align="justify">Kanpur is well connected by railway network with nearly every major city. Numerous overnight trains are also present from major cities like New Delhi, Mumbai, Bangalore. IIT Kanpur is about 17 km from the Kanpur Central Railway Station.<br>
+                                    Direct buses to campus front gate are there from Jhakarkati. Tempos and Autos are also available which take about Rs. 200 - Rs. 250 from Station to IITK campus. One can also find shared auto services (commonly known as Vikram) for as low as 40 Rupees from Kanpur Railway Station, outside Platform 9 to campus front gate.<br>
+                                    Metro services are also available from Kanpur Central Metro Station to IIT Kanpur Metro Station from 6am to 10pm daily.</p>
+                                </td>
+                                <td width="10%">&nbsp;</td>
+                                <td width="45%" valign="top">
+                                    <h4><i class="fa fa-bed"></i> Hotels</h4>
+                                    <p align="justify">Please note that the institute does not provide accommodation to parents. Parents are suggested to arrange for their own accommodation. The list of hotels at Kanpur can be found here. <a href="/counsel/cmhw/get-pdf.php?file=hotelsupdated" rel="noopener noreferrer" target="_blank">[Hotels]</a></p>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+
+<div class="sub-tab-content" id="prep-rv">
+    <h3 style="text-align: center;">Reporting Venue</h3>
+
+    <ul>
+        <li>
+            The reporting venue for the students admitted to the <b>Preparatory Course Programme 2026</b> and allotted IIT Kanpur is as follows:
+            <ul>
+                <li><b>Boys:</b> Hall of Residence XIII</li>
+                <li><b>Girls:</b> Hall of Residence IV</li>
+            </ul>
+        </li>
+        <li><b>Date of Reporting:</b> Friday, August 7, 2026</li>
+    </ul>
+</div>
+
+<div class="sub-tab-content" id="prep-fee">
+    <h3 style="text-align: center;">Fee Structure</h3>
+
+    <p>
+        <a href="/counsel/cmhw/get-pdf.php?file=prep_fee" target="_blank" rel="noopener noreferrer">
+            Fee Structure (PDF)
+        </a>
+    </p>
+</div>
+
+<div class="sub-tab-content" id="prep-checklist">
+    <h3 style="text-align: center;">Document Checklist</h3>
+
+<i class="fa-solid fa-square-check"></i> Provisional Seat Allotment Letter (downloadable from the JoSAA website with title: <b>System Generated Document Verification-cum-Seat Acceptance Letter</b>).<br>
+
+<i class="fa-solid fa-square-check"></i> Class XII Marksheet<br>
+
+<i class="fa-solid fa-square-check"></i> Class X (High School) Marksheet and Certificate<br>
+
+<i class="fa-solid fa-square-check"></i> Aadhaar Card<br>
+
+<i class="fa-solid fa-square-check"></i> At least 8 passport-size photographs<br>
+
+<i class="fa-solid fa-square-check"></i> SC/ST/DAP Certificates issued by the competent authority, and valid EWS/OBC-NCL Certificates issued on or after April 1, 2026, as applicable. Typical formats are available at
+<a href="https://tinyurl.com/29j7ecx4" target="_blank" rel="noopener noreferrer">https://tinyurl.com/29j7ecx4</a>,
+<a href="https://tinyurl.com/3yees3yc" target="_blank" rel="noopener noreferrer">https://tinyurl.com/3yees3yc</a>,
+<a href="https://tinyurl.com/2p9jwvhd" target="_blank" rel="noopener noreferrer">https://tinyurl.com/2p9jwvhd</a>, and
+<a href="https://tinyurl.com/3un72cye" target="_blank" rel="noopener noreferrer">https://tinyurl.com/3un72cye</a>, respectively.<br>
+
+<i class="fa-solid fa-square-check"></i> Medical Certificate (<a href="https://tinyurl.com/2s8ktpsa" target="_blank" rel="noopener noreferrer">https://tinyurl.com/2s8ktpsa</a>) (Please note that this format is different from the one submitted during JoSAA counselling).<br>
+
+<i class="fa-solid fa-square-check"></i> Self-Declaration for Mental Health Status (<a href="https://tinyurl.com/42pac5y8" target="_blank" rel="noopener noreferrer">https://tinyurl.com/42pac5y8</a>). The duly filled form is to be submitted in the locked box provided in the reporting Hall on the reporting day. In place of the application number on the form, please write your IITK Roll Number.<br>
+
+<i class="fa-solid fa-square-check"></i> Student Wellbeing Services Consent Form (<a href="https://tinyurl.com/3uspw8yx" target="_blank" rel="noopener noreferrer">https://tinyurl.com/3uspw8yx</a>). The duly filled form is to be submitted in the locked box provided in the reporting Hall on the reporting day. In place of the application number on the form, please write your IITK Roll Number.<br>
+
+<i class="fa-solid fa-square-check"></i> Hall Registration Form (<a href="https://tinyurl.com/bdfx4kwv" target="_blank" rel="noopener noreferrer">https://tinyurl.com/bdfx4kwv</a>). The duly filled form is to be submitted in your allocated hall office on reporting day.<br>
+
+<i class="fa-solid fa-square-check"></i> Ethical Practices Undertaking (<a href="https://tinyurl.com/yztwx7fb" target="_blank" rel="noopener noreferrer">https://tinyurl.com/yztwx7fb</a>)<br>
+
+<i class="fa-solid fa-square-check"></i> A Copy of the Income Tax Returns of parents (Self, Father, Mother, and Unmarried Siblings).<br>
+
+</div>
+                    <div class="sub-tab-content" id="prep-map">
+                        <h3>IITK Map</h3>
+                        <img src="/counsel/cmhw/images/IIT KANPUR MAP PG.webp" alt="IITK Map" style="width: 100%; max-width: 100%; height: auto; display: block; border-radius: 8px;">
+                    </div>
+
+                    <div class="sub-tab-content" id="prep-faq">
+                        <h3 style="text-align: center;">Frequently Asked Questions</h3>
+                            <p>Will be updated soon.</p>
+                    </div>
+		</div>
+	      </div>
+
+            <div id="new-pg-programmes" class="tab-content">
+                <div class="info-sidebar">
+                    <button class="nav-btn active" data-subtarget="pg-notification" data-hash="pg-notification">Important Notification</button>
+                    <button class="nav-btn" data-subtarget="pg-dates" data-hash="pg-dates">Reporting Dates</button>
+                    <button class="nav-btn" data-subtarget="pg-checklist" data-hash="pg-checklist">Document Checklist</button>
+                    <button class="nav-btn" data-subtarget="pg-faq" data-hash="pg-faq">FAQ</button>
+                    <button class="nav-btn" data-subtarget="pg-iitk" data-hash="pg-reaching">Reaching IITK</button>
+                    <button class="nav-btn" data-subtarget="pg-hall" data-hash="pg-hall">Hall Allocation</button>
+                    <button class="nav-btn" data-subtarget="pg-map" data-hash="pg-map">Map</button>
+                    <button class="nav-btn" data-subtarget="pg-future" data-hash="pg-future">Related links</button>
+                </div>
+
+                <div class="info-content-wrapper">
+                    <div class="sub-tab-content active" id="pg-notification">
+                        <h3>Important Notification</h3>
+                        <p><b>Congratulations on your admission to IIT Kanpur!</b> We are delighted to welcome you to the institute and look forward to having you as a part of the IIT Kanpur community. Please carefully go through the following important instructions regarding your reporting and stay at the institute. Mail to <a href="mailto:pg_cmhw@iitk.ac.in">pg_cmhw@iitk.ac.in</a> for further queries. </p>
+                        <ul style="list-style-type: circle; display: block;padding-left:1em;">
+                                
+                                <!-- Imp Note 1 -->
+                        <li>
+                            <span style="background-color: #d9534f; color: white; font-size: 11px; font-weight: 900; font-family: sans-serif; padding: 3px 6px; border-radius: 3px; letter-spacing: 0.5px; flex-shrink: 0;">Announcement</span>
+                                <br>📌 Directions to Hall 14 and Hall 4 has been updated in the Reporting Dates section.
+                                <br>📌 In the case of "Self-declration of Mental Health Status" and "Student Wellbeing Services - Consent form", please use <b>Roll No</b> instead of Application Number.
+                                <br>📌After you receive Pingala login details on 17th July (tentative), please fill PI (Personal Information) details accurately and upload all documents as mentioned in PI form.
+                                <br>📌In addition to the submission of scanned copy in Pingala, please bring hard copy of all forms with you. Visit Document checklist section in CMHW website.
+                            </li>
+
+                           
+                    <li>PG students of the <b>Y26 batch are required to report in-person to the institute on 23rd July 2026 between 7:00 AM and 7:30 PM</b> (Reporting Day).</li>
+                            <li>On the reporting day, <b>boys are required to report at Hall 14 and girls are required to report at Hall 4</b>.</li>IIT Kanpur has various <b>canteens and mess facilities</b>. Students can access these facilities from <b>23rd July 2026 onwards</b>. IIT Kanpur also has a <b>Health Centre and Pharmacy</b>, both of which operate <b>24/7</b>.
+                            <li>Accommodation in the <b>Halls of Residence (Hostels)</b> will be allotted to students upon reporting.</li>
+                            <li>Parents or guardians are welcome to accompany students. However, please note that the institute does not provide or arrange accommodation for parents/guardians. Parents are suggested to arrange for their own accommodation. The list of hotels at Kanpur can be found here. <a href="/counsel/cmhw/get-pdf.php?file=hotelsupdated" rel="noopener noreferrer" target="_blank">[Hotels]</a>
+ They are welcome to spend time with their wards in the halls from <b>7:00 AM to 7:30 PM</b> <!-- and may have meals in the mess on a payment basis -->. Parents and guardians are requested to leave the halls by <b>7:30 PM</b> and they must leave the campus by <b>10:00 PM</b>. Cars, including Ola and Uber, can enter the campus only with a valid registration number and license.</li>
+                            <!-- <li>Please refer to the <strong>[To be updated]</strong> on the <b>Implementation of Students Medical Health Insurance</b> for details regarding medical insurance facilities.</li>
+                 -->           <li>If a PG student does not wish to avail the hostel facility of IIT Kanpur, they may apply to become a <b>day scholar</b>. More details are available in the <b>"Hall Allocation"</b> tab.</li>
+                            <li>Hostel rooms will be equipped with only basic furniture, including cots, chairs, tables, and cupboards. However, mattresses, pillows, blankets, and other materials will not be provided. <b>Stalls</b> will be present near the halls to buy these items.</li>
+                            <li>The campus has two shopping complexes and food courts, and all halls have their own stationery, photocopy, and other related shops. Students can purchase materials from these shops if they wish to travel light. These shops provide items at reasonable prices. Toilets are equipped with geysers, and several washing machines are available for use in each hall.</li>
+                            <li>IIT Kanpur has various <b>canteens and mess facilities</b>. Students can access these facilities from <b>23rd July 2026 onwards</b>. IIT Kanpur also has a <b>Health Centre and Pharmacy</b>, both of which operate <b>24/7</b>.</li>
+                            <li>After in-person reporting, students are required to stay in their allotted halls or on campus and are <b>not allowed to leave the campus</b>. They must spend the nights only in their allocated halls. This instruction is part of the institute's office order and is strictly enforced.</li>
+                            <li>All Y26 students must register on the <b>anti-ragging portal</b> at its <a href="https://www.antiragging.in/" target="_blank" rel="noopener noreferrer">official website</a>. The reference ID generated after registration is extremely important and must be noted down, as it will be required for further stages. [<a href="https://www.iitk.ac.in/counsel/resources/Instructions%20to%20register%20in%20antiragging.pdf">Instructions</a>]</li>
+                            <li>📌  Please do visit the <a href="#pg-faq" onclick="document.querySelector('[data-subtarget=\'pg-faq\']').click();" style="color:blue; text-decoration:underline;">FAQ</a> section for further queries.</li>
+                        </ul>
+                        <p>Finally, have a safe journey. We are excited to welcome you to IIT Kanpur and hope that your time here will be enriching, memorable, and successful.</p>
+                      
+                        Join the <a href="https://telegram.me/+Oob0sn4e07tiOGU1" target="_blank" rel="noopener noreferrer" style="color: blue;">Telegram Channel</a> and <a href="https://telegram.me/+bmSG8pbc00pkOWY1" target="_blank" rel="noopener noreferrer" style="color: blue;">Discussions Group</a> for more updates. </p>
+                    </div>
+
+                    <div class="sub-tab-content" id="pg-dates">
+                        <h3>Reporting Dates</h3>
+                        <ul style="list-style-type: circle; display: block;padding-left:1em;">
+                            <li><b>Reporting Date:</b> 23rd July 2026</li>
+                            <li><b>Reporting Time:</b> 7:00 AM to 7:30 PM</li>
+                            <li><b>Reporting Venue:</b><br>
+                                <b>Boys:</b> Hall 14<br>
+                                <b>Girls:</b> Hall 4
+                            </li>
+                            <li>Students must report at their respective venues on the reporting day. Hall and room allocation will be done at the reporting location immediately after reporting.</li>
+                        </ul>
+
+                        <h4 style="margin-top: 25px; margin-bottom: 10px;">📍 Directions from IIT Kanpur Main Gate</h4>
+
+                        <div style="margin-bottom: 20px;">
+                            <p style="margin-bottom: 8px;"><b>Boys — Directions to Hall 14:</b> <a href="https://maps.app.goo.gl/1SRJ7GpXY12p1T2Q6" target="_blank" rel="noopener noreferrer" style="color:blue;">[Open in Google Maps]</a></p>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d14280.62115883072!2d80.22576715564426!3d26.515129680973377!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x399c3788b159fefd%3A0x1621805f3edaa33e!2sIIT%20Kanpur%20Main%20Gate%2C%20Krishna%20Market%2C%20Main%20Dr%2C%20Near%20IIT%20Kanpur%2C%20Kalyanpur%2C%20Kanpur%2C%20Uttar%20Pradesh%20208016!3m2!1d26.510831699999997!2d80.24662599999999!4m5!1s0x399c37006c153fa5%3A0x2ed9b88fd87cabb0!2sHall%20of%20Residence%2014%2C%201087%2C%20Kalyanpur%2C%20Kanpur%2C%20Uttar%20Pradesh%20208016!3m2!1d26.511803999999998!2d80.225287!5e0!3m2!1sen!2sin!4v1784098140781!5m2!1sen!2sin" width="100%" height="400" style="border:0; border-radius: 8px; max-width: 100%;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+                        </div>
+
+                        <div style="margin-bottom: 20px;">
+                            <p style="margin-bottom: 8px;"><b>Girls — Directions to Hall 4:</b> <a href="https://maps.app.goo.gl/cg8xMtf4NG8USpEy7" target="_blank" rel="noopener noreferrer" style="color:blue;">[Open in Google Maps]</a></p>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d8610.01408463557!2d80.23342208286311!3d26.51283554890791!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x399c3788b159fefd%3A0x1621805f3edaa33e!2sIIT%20Kanpur%20Main%20Gate%2C%20Krishna%20Market%2C%20Main%20Dr%2C%20Near%20IIT%20Kanpur%2C%20Kalyanpur%2C%20Kanpur%2C%20Uttar%20Pradesh%20208016!3m2!1d26.510831699999997!2d80.24662599999999!4m5!1s0x399c36554f27c443%3A0x77d0759bb0dc806d!2sHall%204%20Canteen%2C%20G64J%2BVJQ%2C%20Sixth%20Ave%2C%20Nankari%2C%20Kalyanpur%2C%20Kanpur%2C%20Uttar%20Pradesh%20208016!3m2!1d26.507201!2d80.23157309999999!5e0!3m2!1sen!2sin!4v1784618848279!5m2!1sen!2sin" width="100%" height="400" style="border:0; border-radius: 8px; max-width: 100%;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+                        </div>
+                    </div>
+
+                    <div class="sub-tab-content" id="pg-checklist">
+                        <h3 style="text-align: center;">Document Checklist</h3>
+                            <i class="fa-solid fa-square-check"></i> Offer Letter received from IIT Kanpur<br>
+                            <i class="fa-solid fa-square-check"></i> Receipt of online payment of fees from JAM/ Pingala/TCS portal or direct payment to Registrar account.<br>
+                            <i class="fa-solid fa-square-check"></i> Class XII Marksheet<br>
+                            <i class="fa-solid fa-square-check"></i> Class X (High School) Board Certificate or DOB Certificate<br>
+                            <i class="fa-solid fa-square-check"></i> At least 8 passport-size photographs<br>
+                            <i class="fa-solid fa-square-check"></i> SC/ ST/ DAP Certificates issued by the competent authority, and valid EWS/ OBC-NCL Certificates issued on or after April 01, 2026, as applicable. Typical formats are available at <a href="https://tinyurl.com/29j7ecx4" target="_blank" rel="noopener noreferrer">https://tinyurl.com/29j7ecx4</a>, <a href="https://tinyurl.com/3yees3yc" target="_blank" rel="noopener noreferrer">https://tinyurl.com/3yees3yc</a>, <a href="https://tinyurl.com/2p9jwvhd" target="_blank" rel="noopener noreferrer">https://tinyurl.com/2p9jwvhd</a>, and <a href="https://tinyurl.com/3un72cye" target="_blank" rel="noopener noreferrer">https://tinyurl.com/3un72cye</a>, respectively<br>
+                            <i class="fa-solid fa-square-check"></i> Medical certificate (<a href="https://tinyurl.com/2z5hcwkm" target="_blank" rel="noopener noreferrer">https://tinyurl.com/2z5hcwkm</a>)<br>
+                            <i class="fa-solid fa-square-check"></i> Student Wellbeing Services – Consent form (<a href="https://tinyurl.com/3uspw8yx" target="_blank" rel="noopener noreferrer">https://tinyurl.com/3uspw8yx</a>). The duly filled form is to be submitted in your allocated hall office on reporting day. <b> In the place of "Application No" in the form, write your IITK Roll Number. </b><br>
+                            <i class="fa-solid fa-square-check"></i> Self – Declaration of Mental Health Status (<a href="https://tinyurl.com/42pac5y8" target="_blank" rel="noopener noreferrer">https://tinyurl.com/42pac5y8</a>). The duly filled form is to be submitted in the locked box provided in reporting Hall on the reporting day. <b> In the place of "Application No" in the form, write your IITK Roll Number. </b><br>
+                            <i class="fa-solid fa-square-check"></i> Hall Registration Form (<a href="https://tinyurl.com/bdfx4kwv" target="_blank" rel="noopener noreferrer">https://tinyurl.com/bdfx4kwv</a>); relevant Hall of Residence details will be notified on the day of reporting to IIT Kanpur. The duly filled form is to be submitted in your allocated hall office on reporting day.<br>
+                            <i class="fa-solid fa-square-check"></i> Aadhaar Card, Passport with valid India Visa, valid Overseas Citizen of India (OCI) card, as applicable<br>
+                            <i class="fa-solid fa-square-check"></i> Anti-Ragging Undertaking generated after registration on the Anti-Ragging Portal; relevant details at <a href="https://tinyurl.com/52by2rk9" target="_blank" rel="noopener noreferrer">https://tinyurl.com/52by2rk9</a> (<a href="https://www.iitk.ac.in/dosa/" target="_blank" rel="noopener noreferrer">https://www.iitk.ac.in/dosa/</a> &gt; Antiragging &gt; Instructions-to-register-in-Antiragging-website) using IITK roll number<br>
+                            <i class="fa-solid fa-square-check"></i> Self-Declaration Undertaking (<a href="https://tinyurl.com/4e3rntu5" target="_blank" rel="noopener noreferrer">https://tinyurl.com/4e3rntu5</a>)<br>
+                            <i class="fa-solid fa-square-check"></i> Ethical Practices Undertaking (<a href="https://tinyurl.com/4e3rntu5" target="_blank" rel="noopener noreferrer">https://tinyurl.com/4e3rntu5</a>)<br>
+                            <i class="fa-solid fa-square-check"></i> Fee Remission Documents / Parental Income Certificate (Eligible Seat Rent, Tuition Fee for SC/ST/PwD Students excluding sponsored and part-time students)<br>
+                            &nbsp;&nbsp;&nbsp;&nbsp;a. Copy of Income tax Returns of parents (Self, Father, Mother and Unmarried Siblings)<br>
+                            <i class="fa-solid fa-square-check"></i> Degree Certificate/Provisional Degree Certificate [Please note that you must fulfil all requirements of your qualifying degree, including any project or thesis defence, prior to joining the Institute. If your final result is pending, your admission at IIT Kanpur is provisional and you must submit the final result or degree certificate by October 05, 2026. Failure to do so may result in immediate cancellation of your admission]<br>
+                            <i class="fa-solid fa-square-check"></i> Mark sheet/Grade card of the qualifying examination. Valid score card (such as Gate, JAM, JRF, NET, etc.) used for admission.<br>
+                            <i class="fa-solid fa-square-check"></i> Sponsored, Part-time, and External candidates must bring a No Objection Certificate (NOC) from their employer in the prescribed format. All other candidates who were employed at the time of application must submit either a No Objection Certificate or a Relieving Certificate from their employer.<br>
+                            <i class="fa-solid fa-square-check"></i> Proof of registration on the Study in India (SII) Portal (Applicable only for foreign nationals students)<br><br>
+                            <p><b>Note:</b> Duly filled scanned copy of some of the aforementioned forms will be required to submit online while filling PI (Personal Information) details in Pingala. The details of account creation in Pingala will be communicated by Dean of Digital Infrastructure & Automation (DDIA) office before your arrival.</p>
+                    </div>
+
+                    <div class="sub-tab-content" id="pg-faq">
+                        <h3 style="text-align: center;">FAQs</h3>
+                        
+                        <div class="faq-layout" style="margin-top: 20px;">
+                            <div class="faq-sidebar">
+                                <div class="sidebar-title">Browse Topics</div>
+                                <button class='cat-btn active' data-target='pg-general'>General</button><button class='cat-btn ' data-target='pg-admission-fee-payment'>Admission & Fee Payment</button><button class='cat-btn ' data-target='pg-documents-required-during-admission'>Documents Required During Admission</button><button class='cat-btn ' data-target='pg-hostel-accommodation'>Hostel & Accommodation</button><button class='cat-btn ' data-target='pg-academic-queries'>Academic Queries</button><button class='cat-btn ' data-target='pg-assistantship-queries'>Assistantship Queries</button><button class='cat-btn ' data-target='pg-miscellaneous'>Miscellaneous</button><button class='cat-btn ' data-target='pg-important-notes-for-new-students'>Important Notes for New Students</button>                            </div>
+
+                            <div class="faq-content">
+                                <div id='pg-general' class='category-section active'>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    What if I arrive before 23rd July?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        You will have to reside outside IITK as your hostel room will be allotted only on 23rd July.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    When should we report to campus?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Please note that the date of reporting to campus is 23rd July from 7:00 am- 7:30 pm, and rooms will be allocated on arrival itself. Students are very strongly recommended to reach on 23rd July, otherwise, they will miss a part of their Orientation.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    When will I receive IIT Kanpur Email ID and Roll Number?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        You will receive an e-mail containing your Roll Number and IIT Kanpur Email ID before the reporting date.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    What is Pingala Portal?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Pingala is a comprehensive online portal for IIT Kanpur, designed to streamline administrative, academic, and procedural requirements. Avoid <b>logging in</b> before getting credentials, otherwise the account will be locked.The details of account creation in Pingala will be communicated by Dean of Digital Infrastructure & Automation (DDIA) office before your arrival.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    What things to bring to IITK?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Here is a pdf containing a suggestive list of items to bring to IITK: <a href="https://www.iitk.ac.in/counsel/resources/items.pdf" target="_blank">Items to Bring</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    Are Parents allowed to stay on campus?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Parents can visit their ward's allocated hall. They must vacate the Hall at 7:30 pm at night. They must make arrangements for their lodging themself. It's recommended that parents make arrangements in advance.
+                                                    </div>
+                                                </div>
+                                            </div></div><div id='pg-admission-fee-payment' class='category-section '>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    After paying the seat booking fee for JAM counselling, how do I pay the remaining admission fees?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        You will receive an email regarding payment of the remaining admission fees at a later date.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    Do tuition and hostel fees get deducted monthly from the stipend?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        No. Tuition fees and hostel fees have to be paid semester-wise.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    Is the Mess Establishment Charge (MEC) a one-time fee or paid every semester?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        MEC has to be paid every semester.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    Is mess food charge included in MEC?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        No. Mess establishment charges and mess food charges are separate.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    What is the average monthly mess food bill for M.Tech students?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        It is approximately ₹3000 per month and may vary.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    Is electricity included in hostel fees?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        No. Electricity charges have to be paid separately every month.
+                                                    </div>
+                                                </div>
+                                            </div></div><div id='pg-documents-required-during-admission' class='category-section '>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    Do we need original documents during admission?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Yes. Original documents mentioned in the offer letter are required during document verification. Students should also bring sufficient photocopy sets.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    Is a gap certificate required after a long gap after B.Tech?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        No. A gap certificate is not required.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    Do SC/ST/Pwd category students need parental income certificate for tuition fee waiver?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Yes. Both parental income certificate and caste certificate are required.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    What income proof is acceptable?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        ITR or a government-issued income certificate is acceptable.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    Are parents' PAN and Aadhaar required?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Yes. PAN card, Aadhaar card of parents are required.
+                                                    </div>
+                                                </div>
+                                            </div></div><div id='pg-hostel-accommodation' class='category-section '>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    Can I get accommodation if I arrive before 23rd?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Hostel rooms will only be allocated on the day of reporting i.e 23rd July. Please book your own accommodation outside of the campus if you're arriving before 23rd.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    Is there any accommodation available for parents?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        No, accommodation will only be given to the student. However, parents are allowed to accompany the student from 7:00 AM to 7:30 PM.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    What facilities will be available in hostel rooms?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Hostel room will have basic furniture i.e. bed/cot, table, chair and cupboard. Students need to arrange their own Mattress, Pillow, Blanket etc. There are two shopping complex at IIT Kanpur – old shopping complex and new shopping complex for students to buy their essential items. Apart from this each hall have their own stationary shop and canteen as well.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    Who is eligible for SBRA accommodation?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Only married candidates are provided accommodation to reside with dependents.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    Can unmarried students with dependent family members apply for SBRA?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        No. For exceptional cases, contact the DoSA office regarding possible options such as HRA.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    SBRA contact details?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Email: dosahelp@iitk.ac.in and dosarecep@iitk.ac.in. Website: <a href="https://www.iitk.ac.in/sbra/" target="_blank" rel="noopener noreferrer">https://www.iitk.ac.in/sbra/</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    Can we opt to not stay at Hostel?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        PG students who want to be day scholars i.e. do not want to stay in the hostels may apply same to headadmin_cmhw@iitk.ac.in, keeping officer2_sa@iitk.ac.in and pg_cmhw@iitk.ac.in in CC.
+                                                    </div>
+                                                </div>
+                                            </div></div><div id='pg-academic-queries' class='category-section '>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    When will course selection procedure and TA/RA duties be explained?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Details regarding assistantship duties, course selection, and additional courses will be explained during the DPGC meeting. Attendance is mandatory.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    Can students take extra courses beyond the prescribed first semester curriculum?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        This will be discussed during the DPGC meeting and depends on department rules.
+                                                    </div>
+                                                </div>
+                                            </div></div><div id='pg-assistantship-queries' class='category-section '>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    What are typical TA/RA duties?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Students receiving institute assistantship may be assigned teaching or research assistance duties as decided by the department/faculty.
+                                                    </div>
+                                                </div>
+                                            </div></div><div id='pg-miscellaneous' class='category-section '>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    Do I need to buy a bicycle for commuting in the campus?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        IIT Kanpur campus is huge so you will need a cycle to commute, there are several bicycle shops in IITK, students can also buy new or second-hand bicycles.
+                                                    </div>
+                                                </div>
+                                            </div></div><div id='pg-important-notes-for-new-students' class='category-section '>
+                                            <div class='accordion-item'>
+                                                <button class='accordion-header'>
+                                                    What should new students keep in mind?
+                                                    <div class='icon-plus'><i class='fas fa-plus'></i></div>
+                                                </button>
+                                                <div class='accordion-body'>
+                                                    <div class='accordion-inner'>
+                                                        Regularly check official IIT Kanpur emails, keep scanned copies of documents, carry originals during reporting, and attend orientation and DPGC meetings.
+                                                    </div>
+                                                </div>
+                                            </div></div>                            </div>
+                        </div>
+                    </div>
+
+                    <div class="sub-tab-content" id="pg-iitk">
+                        <h3 style="text-align: center;">Reaching IITK</h3>
+                        <table>
+                            <tr>
+                                <td width="45%" valign="top">
+                                    <h4><i class="fa fa-plane"></i> By Air</h4>
+                                    <p align="justify">The most popular air route to IIT Kanpur is through Lucknow Airport (IATA: LKO | ICAO: VILK). Lucknow is connected by direct flights to and from major cities like Delhi, Mumbai, Kolkata and Bengaluru<br>
+                                    <b>Note:</b> Kanpur airport (Chakeri) is now open to civilian purpose. The Airport is located around 21 Km from IITK and cabs are available to and fro.</p>
+                                </td>
+                                <td width="10%">&nbsp;</td>
+                                <td width="45%" valign="top">
+                                    <h4><i class="fa fa-road"></i> By Road</h4>
+                                    <p align="justify">Kanpur is connected to NH-2 that runs between Amritsar and Kolkata and connecting cities like Delhi, Agra, Allahabad, Patna. Kanpur is also connected to Lucknow on NH25 and is about 91 km from Lucknow. Cabs are available from Lucknow to reach IIT Kanpur.</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td width="45%" valign="top">
+                                    <h4><i class="fa fa-train"></i> By Train</h4>
+                                    <p align="justify">Kanpur is well connected by railway network with nearly every major city. Numerous overnight trains are also present from major cities like New Delhi, Mumbai, Bangalore. IIT Kanpur is about 17 km from the Kanpur Central Railway Station.<br>
+                                    Direct buses to campus front gate are there from Jhakarkati. Tempos and Autos are also available which take about Rs. 200 - Rs. 250 from Station to IITK campus. One can also find shared auto services (commonly known as Vikram) for as low as 40 Rupees from Kanpur Railway Station, outside Platform 9 to campus front gate.<br>
+                                    Metro services are also available from Kanpur Central Metro Station to IIT Kanpur Metro Station from 6am to 10pm daily.</p>
+                                </td>
+                                <td width="10%">&nbsp;</td>
+                                <td width="45%" valign="top">
+                                    <h4><i class="fa fa-bed"></i> Hotels</h4>
+                                    <p align="justify">Please note that the institute does not provide accommodation to parents. Parents are suggested to arrange for their own accommodation. The list of hotels at Kanpur can be found here. <a href="/counsel/cmhw/get-pdf.php?file=hotelsupdated" rel="noopener noreferrer" target="_blank">[Hotels]</a></p>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+
+                    <div class="sub-tab-content" id="pg-hall">
+                        <h3>Hall Allocation</h3>
+
+                        <p>Accommodation in the <b>Hall of Residences (hostels)</b> will be allocated to students on the reporting day, <b>23rd July 2026</b>, immediately after reporting.<br><br>
+                        On the reporting day, <b>boys are required to report at Hall 14 and girls are required to report at Hall 4</b>. Students will be assigned their respective halls and rooms at the reporting location.<br><br>
+                        *Please bring the <b>Hall Registration Form</b>(see document checklist) pre-filled on the day of reporting.<br><br>
+						<h4>Information related to Day Scholar for New PG Students</h4>
+<ul>
+    <li>Freshers who intend to apply for Day Scholar status from the beginning of their programme must not opt for hostel accommodation at the time of reporting.</li>
+    <li>A refund of hostel fees, wherever applicable, will be processed only after the approval of Day Scholar status for the concerned semester of the Academic Year 2026 - 27. Students may apply separately for the refund of MEC charges, if eligible.</li>
+    <li>
+        The duly completed and signed copy of the Day Scholar application form (after the generation of Roll No) must be submitted to the DOSA Office (Mr. Saurabh Shukla at <a href="mailto:ssac_sa@iitk.ac.in">ssac_sa@iitk.ac.in</a>) with a copy to Mr. D C Mishra (<a href="mailto:officer2_sa@iitk.ac.in">officer2_sa@iitk.ac.in</a>) and <a href="mailto:headadmin_cmhw@iitk.ac.in">headadmin_cmhw@iitk.ac.in</a> by July 20, 2026, for consideration by the competent committee.<br>
+Please mention the following in your email application:<br>
+                        1. Full name<br>
+                        2. Department<br>
+                        3. Degree program<br>
+                        4. IITK Roll No.<br>
+                        5. Must attach the offer letter.<br><br>
+        The Day Scholar application form is available on the DOSA website under Forms (Serial No. 6): <a href="https://www.iitk.ac.in/dosa/" target="_blank" rel="noopener noreferrer">https://www.iitk.ac.in/dosa/</a>
+    </li>
+    <li>Students are required to submit a fresh application for Day Scholar status in every semester.</li>
+</ul>
+                        <br>
+                        Please note: all students still have to report on <b>23rd July 2026 between 7:00 AM to 7:30 PM</b> at their respective reporting venues and attend the orientation program.</p>
+                    </div>
+
+                    <div class="sub-tab-content" id="pg-map">
+                        <h3 style="text-align: center;">Map</h3>
+                        <img src="/counsel/cmhw/images/IIT KANPUR MAP PG.webp" alt="IITK Map" style="width: 100%; max-width: 100%; height: auto; display: block; border-radius: 8px;">
+                    </div>
+
+                    <div class="sub-tab-content" id="pg-future">
+                        <h3 class="sub-title">Related Links</h3>
+                        <p>This section will be updated with some resources and links related to IITK</p>
+                        <ul style="list-style-type: disc; padding-left: 20px; margin-bottom: 20px;">
+                            <li style="margin-bottom: 8px;">
+                                <a href="https://t.me/+Oob0sn4e07tiOGU1" target="_blank" rel="noopener noreferrer">Telegram Channel</a>
+                            </li>
+                            <li style="margin-bottom: 8px;">
+                                <a href="https://t.me/+bmSG8pbc00pkOWY1" target="_blank" rel="noopener noreferrer">Discussions Group</a>
+                            </li>
+                            <li style="margin-bottom: 8px;">
+                                <a href="https://www.iitk.ac.in/information-for-future-students" target="_blank">Future Students</a>
+                            </li>
+                            <li style="margin-bottom: 8px;">
+                                <a href="https://thatsiitk.quora.com/" target="_blank">That's IITK</a>
+                            </li>
+                            <li style="margin-bottom: 8px;">
+                                <a href="https://srijanshetty.quora.com/Why-IIT-Kanpur" target="_blank">Why IIT Kanpur? (Article)</a>
+                            </li>
+                            <li style="margin-bottom: 8px;">
+                                <a href="https://www.youtube.com/watch?v=Yq-vTT-fHtk" target="_blank">Campus Video</a>
+                            </li>
+                        </ul>
+                        <p style="margin-bottom: 15px;">
+                            Go through the following link to know more about different undergraduate programmes at IITK: 
+                            <a href="http://www.iitk.ac.in/futurestudents/" target="_blank">Future Students</a>
+                        </p>
+                        <p style="margin-bottom: 15px;">
+                            Unoffical Facebook group that celebrates the people, life and culture of IIT Kanpur: 
+                            <a href="https://www.facebook.com/groups/2157244137858693" target="_blank">This Bit of That IITK</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</main>
+
+<script>window.cmhwOrientationFaqs = {"General":{"What if I arrive before 21st July?":"You will have to reside outside IITK as your hostel room will be allotted only on 21st July.","When should we report to campus?":"Please note that the date of reporting to campus is 21st July from 7:00 am- 7:30 pm, and rooms will be allocated on arrival itself. Students are very strongly recommended to reach on 21st July, otherwise, they will miss a part of their Orientation. <!-- However, they will not incur any problems in registration. --> Orientation will be from 22nd July onwards. Parents Orientation is scheduled on 22nd July itself.","When will I receive IIT Kanpur Email ID and Roll Number?":"You will receive an e-mail containing your Roll Number and IIT Kanpur Email ID before the reporting date.","What is Pingala Portal?":"Pingala is a comprehensive online portal for IIT Kanpur, designed to streamline administrative, academic, and procedural requirements. Avoid <b>logging in<\/b> before getting credentials, otherwise the account will be locked.The details of account creation in Pingala will be communicated by Dean of Digital Infrastructure & Automation (DDIA) office before your arrival.","Are parents required in the orientation\/registration process?":"No, parents are not required in any step of the orientation\/registration process. However, there is a Parents Orientation planned for 22nd July which the parents are encouraged to attend.","What things to bring to IITK?":"Here is a pdf containing a suggestive list of items to bring to IITK: <a href=\"https:\/\/www.iitk.ac.in\/counsel\/resources\/items.pdf\" target=\"_blank\">Items to Bring<\/a>","Are Parents allowed to stay on campus?":"Parents can visit their ward\u2019s allocated hall. They must vacate the Hall at 7:30 pm at night. They must make arrangements for their lodging themself. It's recommended that parents make arrangements in advance.","Will Digi-locker Documents work?":"Digilocker files will work for online uploading and verification. But for offline on-campus document verification, we require original tangible documents.","Does any repeater have to upload extra documents?":"No. He has to upload the same files as the rest.","Other":"Contact the CMHW student team at: https:\/\/www.iitk.ac.in\/counsel\/team.php"},"Fees & Dues Issues":{"From where I can get the details of fees to be paid by me?":"Approved fee structure is available at your Pingala web page and <a href=\"https:\/\/www.iitk.ac.in\/dosa\/\" target=\"_blank\">DoSA website<\/a> under the head 'News and Events' 'For New Students'.","I had applied for Bank Loan, how I can get the fee structure for the whole course?":"Tentative fee certificate for new batch of B.Tech\/BS\/MSc is available in <a href=\"https:\/\/www.iitk.ac.in\/dosa\/\" target=\"_blank\">DoSA website<\/a> under the head 'News and Events' 'For New Students'. However, if you require semester wise fee details, please write to dosarecep@iitk.ac.in.","What kind of fee remissions are allowed?":"The fees waiver are given to the following category of students:\n- MEB: Most Economically Backward families (income < \u20b91 lakh) get 100% tuition waiver.\n- OEB: Other Economically Backward families (income \u20b91\u20135 lakh) get 1\/3rd tuition fee.\n- SC\/ST\/PWD: Fully exempted from tuition based on category certificate.\nNo waiver for M.Sc.\/Ph.D\/MBA\/M.Des\/DIIT students except SC\/ST\/PWD category.","What is the valid income proof for fee remission\/waiver for BS\/BT students?":"Copy of complete Income Tax Return (ITR) of family (Self, Father, Mother, Unmarried Siblings) and Tuition Fee Waiver Affidavit on Rs. 20\/- Stamp paper duly signed by First Class Magistrate\/Public Notary as per format available on DoSA website. Submit original affidavit to DoSA office in first semester.","Whether the EWS certificate can be considered valid for fee remission for BS\/BT students?":"No. EWS certificate alone is not considered. Income proof must comply with Para 4(a).","If a student fails to submit valid income proof at registration?":"The student shall deposit full fees at registration and excess fees may be claimed on submission of valid income certificate to DoSA office.","What to do if name mismatch between Institute records and provided income certificate?":"Submit Request Letter, Publication of names in Gazette\/News Papers for reconsideration of income certificates.","On what grounds can I get refund of excess fee amounts?":"Excess fees can be refunded on submission of valid proof within one year through Pingala Portal.","What is the procedure to apply for refund of excess fee?":"Apply in Pingala Portal in Excess Fee Refund Module.","I have paid my all fees but Pingala shows 'Not Registered'?":"Reasons: a) Scrolling issue on Pingala portal b) Online payment reconciliation c) Payment via RTGS \u2013 send UTR to receipts@iitk.ac.in, brsac1@iitk.ac.in, dosaregd@iitk.ac.in. Also check for pending dues and biometric attendance.","How to claim Fee Waiver\/Refund as a newly joined student?":"1. Upload income certificate in Pingala portal after roll allotment.\n2. After DoSA approval, submit excess fee refund form with payment slip through Pingala portal.\n3. Refund sent through Account section or TSA account.","Who is eligible for fee refund?":"a) Paid fee twice.\nb) Paid excess fee due to missing Income certificate.\nc) Late Day Scholar approval.\nd) State scholarships paid directly.\ne) Any other case-specific excess fees.","Procedure for education loan fee clearance?":"Bank transfers payment to IIT Kanpur SBI account. Collect advise note from bank and send to receipts@iitk.ac.in, brsac1@iitk.ac.in, dosaregd@iitk.ac.in. For tentative fees, write to dosaregd@iitk.ac.in.","Contact for Fee issues":"1. Registration: Sapna Gupta, dosaregd@iitk.ac.in, 0512-679-6945\n2. Excess Fee Refund: Sahil Singh Rathour, sdr@iitk.ac.in, 0512-679-6924\n3. Parental Income Declaration & Tuition Fee waiver: Mayuk Das, dosahelp@iitk.ac.in, 0512-679-6924","Other":"Contact the CMHW student team at: https:\/\/www.iitk.ac.in\/counsel\/team.php"},"Fee Waiver FAQs":{"What kind of fee remissions are allowed?":"For BS\/BTech students: MEB 100% tuition waiver, OEB 1\/3rd tuition fee, SC\/ST\/PWD fully exempted. Income proof includes ITR + Affidavit.","Will my EWS certificate be applicable for Fee waiver?":"No, EWS certificate is not applicable for fee waiver.","Do I need to file ITR if I want fee remission and have never filed ITR?":"It is mandatory for parents to submit their ITR. ITR can be filed online. Student or siblings submit if asked.","If I have income certificate and affidavit, is ITR\/AIS still required?":"Yes, ITR + AIS from Income Tax Department is mandatory to receive fee remission.","Is PAN Card compulsory?":"PAN Card is mandatory for filing ITR. If zero income, declare PAN number and zero income. If parents don\u2019t have PAN, they must apply for it.","What is AIS\/TIS?":"AIS (Annual Information Statement) is a detailed statement from Income Tax Department. TIS is condensed version. AIS required along with ITR.","Other":"Contact the CMHW student team at: https:\/\/www.iitk.ac.in\/counsel\/team.php"},"Scholarship FAQs":{"What scholarships are available through IITK?":"Visit this link: <a href=\"https:\/\/www.iitk.ac.in\/sspc\/\" target=\"_blank\">https:\/\/www.iitk.ac.in\/sspc\/<\/a>","Eligibility criteria for scholarships?":"Refer to <a href=\"https:\/\/www.iitk.ac.in\/sspc\/\" target=\"_blank\">https:\/\/www.iitk.ac.in\/sspc\/<\/a> for eligibility and details.","How can I apply for eligible scholarships?":"Notification sent to students. Submit forms to SSPC Office via email (sspc@iitk.ac.in) or by hand at SSPC Office.","Process for signature on External Scholarships?":"Submit duly signed forms by applicant & parents to SSPC Office either in hardcopy or scanned manner (sspc@iitk.ac.in). Attach fee receipt of 1st semester and grade sheets till 2nd semester of previous academic year.","When should I apply for scholarships as a first-year student?":"First announcement mail sent after semester starts.","Are scholarships semester-wise?":"No, all scholarships are yearly.","Do I need to apply every year if I availed scholarship in first year?":"Yes, apply every academic year separately.","Can I get Bonafide certificate for scholarship from SSPC?":"Yes, only for scholarship purposes.","What kind of no-objection certificates related to scholarships are issued?":"Only scholarships related to NOC are issued by SSPC.","Whom should I contact for scholarship queries?":"Call 0512-259-6187 or email sspc@iitk.ac.in","Other":"Contact the CMHW student team at: https:\/\/www.iitk.ac.in\/counsel\/team.php"}};</script>
+<script>window.cmhwOrientationFaqsPg = {"General":{"What if I arrive before 23rd July?":"You will have to reside outside IITK as your hostel room will be allotted only on 23rd July.","When should we report to campus?":"Please note that the date of reporting to campus is 23rd July from 7:00 am- 7:30 pm, and rooms will be allocated on arrival itself. Students are very strongly recommended to reach on 23rd July, otherwise, they will miss a part of their Orientation.","When will I receive IIT Kanpur Email ID and Roll Number?":"You will receive an e-mail containing your Roll Number and IIT Kanpur Email ID before the reporting date.","What is Pingala Portal?":"Pingala is a comprehensive online portal for IIT Kanpur, designed to streamline administrative, academic, and procedural requirements. Avoid <b>logging in<\/b> before getting credentials, otherwise the account will be locked.The details of account creation in Pingala will be communicated by Dean of Digital Infrastructure & Automation (DDIA) office before your arrival.","What things to bring to IITK?":"Here is a pdf containing a suggestive list of items to bring to IITK: <a href=\"https:\/\/www.iitk.ac.in\/counsel\/resources\/items.pdf\" target=\"_blank\">Items to Bring<\/a>","Are Parents allowed to stay on campus?":"Parents can visit their ward's allocated hall. They must vacate the Hall at 7:30 pm at night. They must make arrangements for their lodging themself. It's recommended that parents make arrangements in advance.","Other":"Contact the CMHW student team at: https:\/\/www.iitk.ac.in\/counsel\/team.php"},"Admission & Fee Payment":{"After paying the seat booking fee for JAM counselling, how do I pay the remaining admission fees?":"You will receive an email regarding payment of the remaining admission fees at a later date.","Do tuition and hostel fees get deducted monthly from the stipend?":"No. Tuition fees and hostel fees have to be paid semester-wise.","Is the Mess Establishment Charge (MEC) a one-time fee or paid every semester?":"MEC has to be paid every semester.","Is mess food charge included in MEC?":"No. Mess establishment charges and mess food charges are separate.","What is the average monthly mess food bill for M.Tech students?":"It is approximately \u20b93000 per month and may vary.","Is electricity included in hostel fees?":"No. Electricity charges have to be paid separately every month.","Other":"Contact the CMHW student team at: https:\/\/www.iitk.ac.in\/counsel\/team.php"},"Documents Required During Admission":{"Do we need original documents during admission?":"Yes. Original documents mentioned in the offer letter are required during document verification. Students should also bring sufficient photocopy sets.","Is a gap certificate required after a long gap after B.Tech?":"No. A gap certificate is not required.","Do SC\/ST\/Pwd category students need parental income certificate for tuition fee waiver?":"Yes. Both parental income certificate and caste certificate are required.","What income proof is acceptable?":"ITR or a government-issued income certificate is acceptable.","Are parents' PAN and Aadhaar required?":"Yes. PAN card, Aadhaar card of parents are required.","Other":"Contact the CMHW student team at: https:\/\/www.iitk.ac.in\/counsel\/team.php"},"Hostel & Accommodation":{"Can I get accommodation if I arrive before 23rd?":"Hostel rooms will only be allocated on the day of reporting i.e 23rd July. Please book your own accommodation outside of the campus if you're arriving before 23rd.","Is there any accommodation available for parents?":"No, accommodation will only be given to the student. However, parents are allowed to accompany the student from 7:00 AM to 7:30 PM.","What facilities will be available in hostel rooms?":"Hostel room will have basic furniture i.e. bed\/cot, table, chair and cupboard. Students need to arrange their own Mattress, Pillow, Blanket etc. There are two shopping complex at IIT Kanpur \u2013 old shopping complex and new shopping complex for students to buy their essential items. Apart from this each hall have their own stationary shop and canteen as well.","Who is eligible for SBRA accommodation?":"Only married candidates are provided accommodation to reside with dependents.","Can unmarried students with dependent family members apply for SBRA?":"No. For exceptional cases, contact the DoSA office regarding possible options such as HRA.","SBRA contact details?":"Email: dosahelp@iitk.ac.in and dosarecep@iitk.ac.in. Website: <a href=\"https:\/\/www.iitk.ac.in\/sbra\/\" target=\"_blank\" rel=\"noopener noreferrer\">https:\/\/www.iitk.ac.in\/sbra\/<\/a>","Can we opt to not stay at Hostel?":"PG students who want to be day scholars i.e. do not want to stay in the hostels may apply same to headadmin_cmhw@iitk.ac.in, keeping officer2_sa@iitk.ac.in and pg_cmhw@iitk.ac.in in CC.","Other":"Contact the CMHW student team at: https:\/\/www.iitk.ac.in\/counsel\/team.php"},"Academic Queries":{"When will course selection procedure and TA\/RA duties be explained?":"Details regarding assistantship duties, course selection, and additional courses will be explained during the DPGC meeting. Attendance is mandatory.","Can students take extra courses beyond the prescribed first semester curriculum?":"This will be discussed during the DPGC meeting and depends on department rules.","Other":"Contact the CMHW student team at: https:\/\/www.iitk.ac.in\/counsel\/team.php"},"Assistantship Queries":{"What are typical TA\/RA duties?":"Students receiving institute assistantship may be assigned teaching or research assistance duties as decided by the department\/faculty.","Other":"Contact the CMHW student team at: https:\/\/www.iitk.ac.in\/counsel\/team.php"},"Miscellaneous":{"Do I need to buy a bicycle for commuting in the campus?":"IIT Kanpur campus is huge so you will need a cycle to commute, there are several bicycle shops in IITK, students can also buy new or second-hand bicycles.","Other":"Contact the CMHW student team at: https:\/\/www.iitk.ac.in\/counsel\/team.php"},"Important Notes for New Students":{"What should new students keep in mind?":"Regularly check official IIT Kanpur emails, keep scanned copies of documents, carry originals during reporting, and attend orientation and DPGC meetings.","Other":"Contact the CMHW student team at: https:\/\/www.iitk.ac.in\/counsel\/team.php"}};</script>
+<script src="/counsel/cmhw/js/orientation-faqs.js"></script>
+<script src="/counsel/cmhw/js/info-newstudents.js?v=1781000917"></script>
+    
+    
+    <footer class="sereth-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 mb-5 mb-lg-0">
+                    <h5 class="footer-heading">Center for Mental Health and Wellbeing</h5>
+                    <div class="footer-contact-info">
+                        <p class="mb-3">House No. 503, Type V, IIT Kanpur, UP (208016)</p>
+
+                        <div class="mb-3">
+                        <p class="mb-1">
+                                <strong>Contact:</strong> +91-512-679-7784
+                            <p class="mb-1">
+				<p class="mb-1">
+                                <strong>Mon - Fri:</strong> 10:00 AM - 9:00 PM
+                            <p class="mb-1">
+
+                                <strong><br>Head-Admin, CMHW:</strong> <a href="mailto:headadmin_cmhw@iitk.ac.in" class="footer-link">headadmin_cmhw@iitk.ac.in</a>
+                            </p>
+                            <p class="mb-1">
+                                <strong>Head-Clinical, CMHW:</strong> <a href="mailto:headclinical_cmhw@iitk.ac.in" class="footer-link">headclinical_cmhw@iitk.ac.in</a>
+                            </p>
+                            <p class="mb-1">
+                                <strong>Counsellor:</strong> <a href="mailto:counselor@iitk.ac.in" class="footer-link">counselor@iitk.ac.in</a>
+                            </p>
+                            <p class="mb-1">
+                                <strong><br>Student Team:</strong> 
+                            </p>
+
+                            <p class="mb-1">
+                                <strong>UG queries:</strong> <a href="mailto:ug_cmhw@iitk.ac.in" class="footer-link">ug_cmhw@iitk.ac.in</a>
+                            </p>
+                            <p class="mb-1">
+                                <strong>PG queries:</strong> <a href="mailto:pg_cmhw@iitk.ac.in" class="footer-link">pg_cmhw@iitk.ac.in</a>
+                            </p>
+                        </div>
+                        
+                    </div>
+
+                    <div class="social-links mt-4">
+                        <a href="https://www.facebook.com/CMHWiitkanpur" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.instagram.com/cmhw_iitk/" target="_blank"><i class="fab fa-instagram"></i></a>
+                        <a href="https://www.youtube.com/channel/UCRwww9qZ5Ec5jLIiBkaoXvA" target="_blank"><i class="fab fa-youtube"></i></a>
+                        <a href="https://medium.com/@csiitk" target="_blank"><i class="fab fa-medium-m"></i></a>
+                        <a href="https://www.linkedin.com/company/icsiitk/posts/?feedView=all" target="_blank"><i class="fab fa-linkedin"></i></a>
+                    </div>
+
+                    <a href="https://forms.gle/RTZdP9Tw4w4sAnq8A" target="_blank" class="bug-report-link" style="display: inline-flex; align-items: baseline; margin-top: 20px; text-decoration: none; color: #27ae60;">
+                        <i class="fas fa-pen-nib"></i>
+                        <span>Found a Bug? Fill out the form and help us improve!</span>
+                    </a>
+
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-4 mb-lg-0">
+                    <h5 class="footer-heading">Quick Links</h5>
+                    <ul class="footer-list">
+                        <li><a href="/counsel/cmhw/pages/self-assessments.php">Self-Help Tools</a></li>
+                        <li><a href="/counsel/cmhw/pages/awareness-materials.php">Mental Health Resources</a></li>
+                        <li><a href="/counsel/cmhw/pages/faq.php">General FAQs</a></li>
+                        <li><a href="https://forms.gle/8zCD8BnNH1T3FByUA">Contribute to Resource Directory</a></li>
+                        <li><a href="https://linktr.ee/counsellingserviceiitk?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnyBV8jDTxmKY7NMIr2Qhw2I4cOfmviHpQW-e_YpZIXVp7X8qwi5RxC2pQW_w_aem_ZpWXv5kGoGgAyH4Dr3Q07w"> CMHW Link Tree</a></li>
+                    </ul>
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <h5 class="footer-heading">Support</h5>
+                    <ul class="footer-list">
+                        <li><a href="#" onclick="openBookAppointmentDropdown(); return false;" style="color: blue; cursor: pointer;"><strong>Book Appointment</strong></a></li>
+                        <li><a href="/counsel/cmhw/pages/emergency.php" class="alert-link"><strong>Emergency Contacts</strong></a></li>
+                    </ul>
+                    <div class="footer-hours mt-4">
+                        <p><em><strong>Emergency support available 24/7</strong><br>
+                        (In case of any emergency, please reach Health Centre for assistance. On-call counsellor will be made available at Health Centre)</em></p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="footer-bottom">
+                <div class="row">
+                    <div class="col-12 text-center">
+                        <p class="mb-0">&copy; 2026 Center for Mental Health and Wellbeing, IIT Kanpur. All Rights Reserved.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/counsel/cmhw/js/main.js?v=1781000917"></script>
+
+    <script>
+    function openBookAppointmentDropdown() {
+        window.scrollTo(0, 0);
+
+        var isMobile = window.innerWidth < 992;
+
+        if (isMobile) {
+            // On mobile: open the collapsed navbar menu, then expand the Book Appointment item
+            var navCollapse = document.getElementById('navbarNav');
+            var toggler = document.querySelector('.navbar-toggler');
+
+            // Open the navbar if it is not already open
+            if (navCollapse && !navCollapse.classList.contains('show')) {
+                if (toggler) toggler.click();
+            }
+
+            // Wait for the collapse animation to finish, then find and expand Book Appointment
+            setTimeout(function() {
+                var links = document.querySelectorAll('.nav-link.dropdown-toggle');
+                var bookLink = null;
+                for (var i = 0; i < links.length; i++) {
+                    if (links[i].textContent.trim().indexOf('Book Appointment') !== -1) {
+                        bookLink = links[i];
+                        break;
+                    }
+                }
+                if (bookLink && typeof $ !== 'undefined') {
+                    // Expand the dropdown inside the mobile menu
+                    $(bookLink).dropdown('toggle');
+
+                    // Scroll the navbar so Book Appointment is visible
+                    setTimeout(function() {
+                        bookLink.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                    }, 200);
+
+                    // Briefly highlight it
+                    var parentLi = bookLink.parentElement;
+                    if (parentLi) {
+                        parentLi.style.background = 'rgba(42,64,104,0.08)';
+                        setTimeout(function() { parentLi.style.background = ''; }, 1500);
+                    }
+                }
+            }, 400);
+
+        } else {
+            // On desktop: toggle the dropdown directly
+            setTimeout(function() {
+                var links = document.querySelectorAll('.nav-link.dropdown-toggle');
+                var bookLink = null;
+                for (var i = 0; i < links.length; i++) {
+                    if (links[i].textContent.trim().indexOf('Book Appointment') !== -1) {
+                        bookLink = links[i];
+                        break;
+                    }
+                }
+                if (bookLink && typeof $ !== 'undefined') {
+                    $(bookLink).dropdown('toggle');
+                    var parentLi = bookLink.parentElement;
+                    if (parentLi) {
+                        parentLi.style.background = 'rgba(255,255,255,0.15)';
+                        setTimeout(function() { parentLi.style.background = ''; }, 1500);
+                    }
+                }
+            }, 350);
+        }
+    }
+    </script>
+
+</body>
+</html>

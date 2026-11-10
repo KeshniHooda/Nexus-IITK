@@ -1,0 +1,187 @@
+[Page 1]
+Indian Institute of Technology, Kanpur 
+Proposal for a New Course 
+ 
+1. Course No: EE678A (Old Course No) 
+ 
+2. Course Title: Power Management Systems (Old Course Title: Power Management Circuits) 
+ 
+3. Per Week Lectures: 3 (L), Tutorial: 
+(T), Laboratory: _ _(P), Additional Hours[0-2]: 
+(A), 
+Credits (3*L+2*T+P+A): 9 
+Duration of Course: Full Semester 
+4. Proposing Department/IDP: EE 
+Other Departments/IDPs which may be interested in the proposed course: SEE 
+Other faculty members interested in teaching the proposed course: 
+5. Proposing Instructor(s): Dr. Utsab Kundu 
+ 
+6. Course Description: Low-voltage, high-current power converter topologies are adopted in smartphones, 
+laptops, servers, network switches, etc. These power management systems include power circuits, gate drivers, 
+control circuits, and communication protocols. Therefore, a systems engineer in the power semiconductor 
+industry must develop a block-level understanding of complete power management integrated circuits (PMICs). 
+This course will introduce the students to the system specifications and how power electronic circuits and 
+peripherals are designed to meet those requirements. 
+ 
+This course is divided into ten modules and begins with an introduction to different power management 
+system requirements. This is followed by two fundamental modules focusing on synchronous buck and other 
+basic PWM converters. The subsequent two modules cover dynamic modeling and voltage-mode control of 
+PWM converters. The sixth module deals with block-level understanding of PMICs. The seventh module 
+discusses the PMBUS communication protocol. The last three course modules deal with advanced control 
+techniques and converter topologies, including multi-phase synchronous buck. 
+ 
+A) Objectives: By the end of this course, the students will be able to 
+• 
+Understand the specifications and requirements of different power management systems 
+• 
+Develop a block-level understanding of power management integrated circuits (PMICs) 
+• 
+Design closed-loop controlled power management circuits 
+• 
+Develop required skill sets for a systems engineer in the power semiconductor industry 
+ 
+B) Contents (preferably in the form of 5 to 10 broad titles): 
+ 
+S. No. 
+Broad Title 
+Topics 
+No. of Lectures 
+(1.5 hours each) 
+1. 
+Introduction 
+Power delivery network for wearable electronics, 
+smartphones, laptops, servers, and network switches. 
+Requirements: allowable voltage variation, dynamic 
+voltage scaling, load slew rate, and concept of load line. 
+3 
+2. 
+Synchronous Buck 
+Converter 
+Recap of CCM and DCM. FCCM operation. Selection of 
+commercial inductors, input, and output capacitors. Boot-
+strap gate driver. Power loss analysis. ZVS characteristics. 
+3 
+3. 
+Basic PWM 
+Converters 
+Synchronous boost, buck-boost, and non-inverting buck-
+boost converters. Design considerations for common PMIC 
+solutions for buck, boost, and buck-boost operations. 
+2 
+4. 
+Dynamic Modeling 
+Circuit averaging technique. Large-signal and small-signal 
+models. Converter dynamics under CCM and DCM. 
+3 
+5. 
+Analog Voltage 
+Mode Control 
+Type-I, II, and III compensator implementation using 
+analog electronics. Design considerations for finite 
+bandwidth amplifiers. 
+2 
+6. 
+Internal architecture 
+of PMICs 
+LDO, POR, Bandgap reference, DAC, ADC, MUX, PLL, 
+and Non-volatile memory. Soft-start and shut-down 
+sequences. Importance of Enable and Power Good signals 
+5
+
+[Page 2]
+in system design. Fault detection and responses. Typical 
+trimming requirements and procedures for different blocks. 
+7. 
+PMBUS 
+Communication 
+Clock, data, alert. Commands - read/write byte, word. 
+Number formats - Linear11, Ulinear16. PMBUS registers - 
+Voltage commands, Telemetry, Fault/warning Status. 
+SMBAlert signal and Alert response address (ARA). 
+2 
+8. 
+Advanced Control 
+Techniques 
+Recap of current program mode control and analog 
+implementation considerations. Hysteresis and Constant 
+on/off time (COT) control architectures. Current sensing 
+techniques. 
+3 
+9. 
+Multi-phase 
+Synchronous Buck 
+Power circuit component selection. Design considerations 
+for closed-loop control. 
+2 
+10. 
+Advanced Converter 
+Topologies 
+48V Point-of-Load Converters: Two-stage and single-stage 
+configurations, Resonant DCX operation, Switched-
+capacitor, and switched-tank converters. 
+2 
+
+Total Lectures 
+(1.5 hours each) 
+26 
+ 
+C) Pre-requisites: None 
+ 
+D) Short summary for including in the Courses of Study Booklet: Power delivery network: wearable 
+electronics, smartphones, laptops, servers; Synchronous buck and basic PWM converters; Dynamic modeling 
+and voltage mode control; Internal architecture of power management ICs; PMBUS communication protocol; 
+Advanced control techniques and converter topologies for next-generation power management systems. 
+ 
+7. Recommended books: 
+[1] Erickson & Maksimovic, Fundamentals of Power Electronics, 3rd Ed., Springer, 2020. 
+[2] A. S. Sedra and K. C. Smith, Microelectronic circuits, 5th Ed., Oxford University Press, 2004. 
+[3] R. Mancini, “Op Amps for Everyone: Design Reference”, Texas Instruments. 
+[4] V. Ramanarayanan, Switched Mode Power Conversion, 2007. 
+Link: https://ee.iisc.ac.in/wp-content/uploads/2023/01/SMPC_VRamnarayanan.pdf 
+ 
+8. Any other remarks: 
+Preferred lecture schedule: Two slots per week, 1.5 hours each 
+
+ 
+Evaluation Policy: Relative grading will be done after aggregating all course components 
+ 
+Sr. No. 
+Component (Counts) 
+Weightage 
+Comments 
+1 
+Home Assignments (5) 
+20% 
+Analysis and simulation 
+2 
+Attendance (26L) 
+5% 
+Signatures will be collected 
+3 
+Quiz (3) 
+10% 
+Open book (Best of 2) 
+4 
+Midterm Exam (1) 
+25% 
+Open book 
+5 
+Final Exam (1) 
+40% 
+Open book 
+
+ 
+Dated:_03/09/2025 
+Proposer: 
+
+Dated: 
+DUGC/DPGC Convener: 
+_ 
+
+ 
+The course is approved / not approved 
+
+ 
+Chairman, SUGC/SPGC 
+ 
+Dated:

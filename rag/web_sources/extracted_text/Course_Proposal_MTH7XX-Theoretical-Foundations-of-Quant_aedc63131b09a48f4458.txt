@@ -1,0 +1,117 @@
+[Page 1]
+Indian Institute of Technology Kanpur 
+Department of Mathematics 
+Proposal for New Modular Elective Course 
+ 
+Title: Theoretical Foundations of Quantum Computing 
+Course No: MTH 7XX 
+Credits: 3-0-0-5 (L-T-P-C) 
+Semester: Any, Duration: Half Semester 
+Department: Mathematics 
+Proposer: B.V.R.Kumar 
+Prerequisite: MTH-308, MTH 522, MTH523A, MTH 409a, MTH698 
+No. of Students: ~ 15 
+Dept. to which course may be interesting: MATH/PHY/All Engineering Dept. 
+Course Objective: 
+Quantum computing is an emerging paradigm of computation that exploits the principles of quantum mechanics 
+to process information in ways fundamentally different from classical computing. This modular course develops 
+the mathematical and theoretical foundations of quantum computation, beginning with complex vector spaces, 
+Hilbert spaces, tensor products, and linear operators. It introduces qubits, quantum states, unitary evolution, 
+measurement, entanglement, and quantum circuits. Fundamental quantum algorithms, including Deutsch–Jozsa, 
+Grover's search, and the Quantum Fourier Transform, are studied to illustrate quantum parallelism and 
+computational speedup. The course also introduces quantum information, complexity, and the limitations of 
+quantum computation. 
+Theoretical Foundations of Quantum Computing — 22 Hours 
+Module / Lecture 
+Course Content 
+Hours 
+M1: Mathematical 
+Foundations 
+ 
+4 
+1. Mathematical Language 
+Vector spaces, Dirac notation, Hilbert spaces, operators, eigenvalues, 
+unitary matrices 
+2 
+2. Tensor Products 
+Kronecker products, composite systems, multi-qubit states 
+2 
+M2: Quantum States & 
+Operations 
+ 
+5 
+3. Qubits & Evolution 
+Qubits, superposition, Bloch sphere, unitary evolution, Pauli matrices 2 
+4. Measurement 
+Observables, Born's rule, projective measurement, density operators, 
+POVMs 
+2 
+5. Entanglement 
+Bell states, separability, no-cloning, partial trace 
+1 
+M3: Quantum Circuits 
+ 
+4 
+6. Gates & Circuits 
+Single-qubit gates, controlled gates, CNOT, universal gate sets 
+2 
+7. Quantum Protocols 
+Interference, phase kickback, teleportation, superdense coding, 
+quantum channels 
+2 
+M4: Quantum Algorithms 
+ 
+6 
+8. Early Algorithms 
+Deutsch, Deutsch–Jozsa, Bernstein–Vazirani, oracle computation 
+2 
+9. Grover's Algorithm 
+Search, oracle, amplitude amplification, geometric interpretation 
+2 
+10. QFT & Phase Estimation 
+QFT, phase estimation, order finding, Shor's algorithm 
+2 
+M5: Reliability & Complexity 
+3 
+11. Error Correction & 
+Complexity 
+Quantum noise, error-correcting codes, complexity, research 
+directions 
+3 
+Total 
+ 
+22
+
+[Page 2]
+Textbooks and Reference Books 
+A. Textbooks 
+1. Nielsen, M. A., & Chuang, I. L. (2010). Quantum Computation and Quantum Information: 10th 
+Anniversary Edition. Cambridge University Press. 
+2. Rieffel, E. G., & Polak, W. H. (2011). Quantum Computing: A Gentle Introduction. MIT Press. 
+3. Lipton, R. J., & Regan, K. W. (2014). Quantum Algorithms via Linear Algebra. MIT Press. 
+4. Yanofsky, N. S., & Mannucci, M. A. (2008). Quantum Computing for Computer Scientists. Cambridge 
+University Press. 
+B. Reference Books 
+1. Preskill, J. (1998–present). Lecture Notes for Physics 229: Quantum Information and Computation. 
+California Institute of Technology. 
+2. Kaye, P., Laflamme, R., & Mosca, M. (2007). An Introduction to Quantum Computing. Oxford 
+University Press. 
+3. Wilde, M. M. (2017). Quantum Information Theory (2nd ed.). Cambridge University Press. 
+4. Watrous, J. (2018). The Theory of Quantum Information. Cambridge University Press. 
+5. Montanaro, A. (2024). Quantum Algorithms: An Overview. Selected research literature and lecture 
+resources. 
+ 
+Date: 
+18.09.26 
+
+Signature of the Proposer: B.V.R.Kumar 
+
+Signature of DPGC Convener: 
+
+Course Approved/Not Approved 
+
+ 
+
+ 
+ 
+Signature of Chairman SUGC

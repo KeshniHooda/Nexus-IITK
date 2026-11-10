@@ -1,0 +1,39 @@
+Quantitative biomedical imaging is typically possible by either direct (microscopic) or indirect (tomographic) modalities. Tomography (coming from the Greek (tomos = slice) is the science of computationally quantitatively-obtaining ("reconstructing") the internal structure of a medium of interest from the data obtained by interaction of an interrogating signal with the medium. Microscopy in turn allows us to magnify, resolve and quantify spatial organization and dynamic processes in biological systems.
+Conceptual, signal processing and algorithmic foundations needed to set up reconstruction algorithms and systems for tomographic imaging including X-ray CT, fluorescence and photoacoustic frameworks
+Understand the foundations of fluorescence based super-resolution microscopy
+Lending an overview of cutting edge applications in medical imaging
+Foundations of signal processing and algorithms in X-ray-CT and model-based reconstructions, aspects of radiographic and nuclear medicine imaging modalities
+Photoacoustic tomography, fluorescence-based optical and photoacoustic tomography
+Basics of image formation, fluorescence microscopy
+Super-resolution microscopy and its application in biomolecular imaging
+At the end of the course, it is expected that the candidates will be able to (a) understand foundational aspects of tomography and microscopy in biomedical driven imaging, (b) write and execute basic tomographic reconstruction algorithms along with an understanding of the underlying assumptions, as well as the corresponding application areas, and, (c) get exposed to super-resolution microscopy and image analysis
+Lectures
+Invited and Application talks
+Lab‐visits
+Hands‐on sessions
+Dr. Naren Naik
+(Coordinator)
+Dept. of Electrical Engineering, IIT-Kanpur
+Center for Lasers and Photonics, IIT-Kanpur
+Email: nnaik@iitk.ac.in
+Dr. Nitin Mohan
+(Co-coordinator)
+Dept. of BSBE, IIT Kanpur
+The Mehta Family Centre for Engineering in Medicine, IIT-Kanpur
+Email: nitinm@iitk.ac.in
+Registration Procedure
+Category
+Registration Fee (Including GST)
+Bachelor/Masters Students:
+Rs 2500/-
+Ph. D. Scholars:
+Rs 4000/-
+Faculty members/Scientific Professionals:
+Rs 6000/-
+* No Fee Refund Policy
+Accommodation
+All candidates need to pay for their lodging and boarding. On-campus accommodation should be possible to be arranged for most. We will be happy to help facilitate any request and requirement.
+There are 50 seats for the short term course. To be short-listed for the course, interested candidates may fill the Google form
+Google Registration Form: click here to register
+For any Query Please contact to CCE Office
+Phone: 0512-259-7795

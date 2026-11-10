@@ -1,0 +1,147 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course
+
+1.  Course No: ECO 7XX
+
+2.  Course Title: Spatial data analysis: Methods and Applications
+
+3.  Per Week Lectures:  2(L), Tutorial:  0(T), Laboratory: 0 (P), Additional Hours[0-2]: 0
+
+(A), Credits (3*L+2*T+P+A): 9
+
+4.  Duration of Course: Full Semester
+
+5.  Proposing Department: Economic Sciences
+
+Other Departments/IDPs which may be interested in the proposed
+
+course: Other faculty members interested in teaching the proposed
+
+course
+
+6.  Proposing Instructor(s): Malabika Koley
+7.  Course Description:
+
+A) Objectives:
+This is an advanced level course in spatial econometrics. Spatial data is becoming increasingly
+popular in a variety of fields such as economics of crime, regional science and urban
+economics, agricultural economics, health economics, developmental economics, trade and
+finance, just to name a few. Therefore, the aim of this course is to introduce students to the
+various tools and techniques of spatial econometric modeling and data analysis.
+
+B) Contents (preferably in the form of 5 to 10 broad titles):
+
+S. No      Broad Title                             Topics                        No. of
+Lectur
+es
+1.     Introduction         Introduction to spatial data with examples using real data, 2
+spatial dependence and clustering, why spatial modeling
+matters?
+2.     Exploratory spatial   Choropleth maps, Global Moran’s I, Moran’s scatterplot, 2
+data analysis (ESDA) Local Moran’s I, Geary’s C, Tests for spatial dependence
+3.      Spatial Neighborhood Modeling neighborhood structure using weight matrices, 4
+Structure           exogenous and endogenous weight matrices, time varying
+weight matrices, selection of weight matrix; the three
+kinds of spatial spillover effects
+4.      Spatial Econometric  For Conditional Mean:                            4
+Models               Spatial autoregressive model (SAR), conditional
+autoregressive model (CAR), spatial error model (SEM),
+Combination of SAR and SEM (SAC), spatial lag model
+(SLX), spatial Durbin model (SDM), spatial Durbin error
+model (SDEM), general nesting spatial model (GNS),
+matrix exponential spatial specification (MESS);
+interpretation using impact effects, multiplier effect.
+
+[PAGE 2]
+For conditional higher order moments:
+Spatial autoregressive conditional heteroskedasticity
+model (S-ARCH), generalized spatial autoregressive
+conditional heteroskedasticity (S-GARCH) model
+5.     Inference of spatial   Estimation:                                     4
+econometric models Maximum likelihood estimation (MLE), quasi-MLE
+(QMLE), Instrumental variable (IV)/ two-stage least
+squares (2SLS), generalized method of moments (GMM)
+
+Testing:
+Trinity of tests: likelihood ratio (LR), Wald (W), Rao’s
+score test (RS), conditional Rao’s score test (CRS), robust
+Rao’s score test (RS*), Non-nested tests.
+
+6.      Spatial panel data    Fixed and random effects models, static and dynamic   2
+models (SPD)       panel data models, estimation and testing of SPD.
+7.      Spatial quantile      Quantile regression in spatial modeling, applications    2
+regression models
+8.     Challenges and      Modifiable Areal Unit problem (MAUP), sparse weight  2
+Critiques of spatial   matrix
+econometric
+modeling
+9.     Applications of      Applications in economics of crime, housing prices,     4
+spatial econometric   regional science and urban economics, gravity trade
+modeling           model.
+Spatial volatility of housing prices, clustering of health
+services, among others.
+
+C) Pre-requisites: Knowledge of econometrics (Instructor’s consent)
+
+D) Short summary for including in the Courses of Study Booklet:
+
+Spatial dependence and spatial clustering are prevalent not only in the different areas of
+economics, but also in many other fields such as regional science, engineering, biological
+sciences, health sciences, among others. The primary aim of this course is to provide students
+with an in-depth understanding of the distinctive characteristics of spatial data and how to
+analyze such data with the help of spatial econometric modeling. By the end of the course,
+students should be able to identify and formally test the possible presence of spatial
+dependence in their dataset, and model such dependence using the different kinds of
+specifications learnt in class. Spatial econometrics is a rapidly growing area, and thus, there is
+much scope for research, both theoretical and empirical. Although the focus of the course will
+be on the many applications of spatial modeling in economics, it may be of interest to anyone
+who is seeking to learn the different tools and techniques of spatial analysis. Knowledge of
+econometrics and/or statistics will be required for the course.
+
+8. Recommended
+books:
+
+1.  Anselin, Luc. Spatial econometrics: methods and models. Vol. 4. Springer Science &
+Business Media.
+2.  LeSage, James, and Robert Kelley Pace. Introduction to spatial econometrics. Chapman
+and Hall/CRC, 2009.
+
+[PAGE 3]
+3.  Elhorst, J. Paul. Spatial econometrics: from cross-sectional data to spatial panels. Vol.
+479. Heidelberg: Springer, 2014.
+4.  McMillen, Daniel P. Quantile regression for spatial data. Springer Science & Business
+Media, 2012.
+5.  Cressie, Noel. Statistics for spatial data. John Wiley & Sons, 2015.
+
+10.  Recommended Readings:
+
+1.  Anselin, Luc, Anil K. Bera, Raymond Florax, and Mann J. Yoon. "Simple diagnostic tests for
+spatial dependence." Regional Science and Urban Economics 26, no. 1 (1996): 77-104.
+2.  Anselin, Luc, and A. K. Bera. "Spatial dependence in linear regression models with an
+introduction to spatial econometrics, A. Ullah and DEA Giles (eds.), Handbook of Applied
+Economics Statistics." New York: Marcel Dekker 237 (1998): 289.
+3.  Anselin, Luc. "Spatial externalities, spatial multipliers, and spatial
+econometrics." International regional science review 26, no. 2 (2003): 153-166.
+4.  Anselin, Luc. "Thirty years of spatial econometrics." Papers in regional science 89, no. 1
+(2010): 3-26.
+5.  Elhorst, J. Paul. "Applied spatial econometrics: raising the bar." Spatial Economic Analysis 5,
+no. 1 (2010): 9-28.
+6.  Elhorst, J. Paul, and J. Paul Elhorst. "Spatial Panel Data Models." Spatial econometrics: From
+cross-sectional data to spatial panels (2014): 37-93.
+7.  Anselin, Luc. "Spatial econometrics." Handbook of spatial analysis in the social
+sciences (2022): 101-122.
+
+** The above list is not final. There may be some exclusions and additions to the list. Empirical papers
+will be discussed.
+
+Dated: Nov. 26, 2024  Proposer: Malabika Koley
+
+Dated:            DUGC/DPGC Convener:
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC
+
+Dated:

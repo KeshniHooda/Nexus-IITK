@@ -1,0 +1,102 @@
+[Page 1]
+Indian Institute of Technology, Kanpur 
+Proposal for a New Course 
+1. Course No: A 600 level elective number requested. 
+2. Course Title: Cosmology 
+3. No. of Lectures per week: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours [0-2]: 0 (A), 
+Credits (3*L+2*T+P+A): 09 
+
+Duration of Course: Full Semester 
+4. Proposing Department/IDP: PHY. 
+Other Departments/IDPs which may be interested in the proposed course: 
+Other faculty members interested in teaching the course: Kaushik Bhattacharya, Nilay Kundu. 
+5. Proposing Instructor: Debtosh Chowdhury, Sabyasachi Chakraborty. 
+6. Course Description: 
+A) Objectives: Explore the fascinating realm of modern cosmology, delving into the study of the Universe's contents 
+and evolution. Covering topics such as expanding spacetime, the early Universe's thermal history, including 
+nucleosynthesis and the cosmic microwave background, and the inflationary model for cosmic structure origins, this 
+course offers students a comprehensive overview of contemporary cosmology. Beginning with the foundational 
+principles of general relativity, we will develop models of an expanding universe and examine its correlation with the 
+Universe's contents. From there, we will journey through the Universe's evolution, from its fiery beginnings to the 
+synthesis of light elements and the emergence of the cosmic microwave background. Finally, we will explore the 
+evolution of cosmological structures, from the generation of density fluctuations during inflation to the formation of 
+bound halos. 
+ 
+ B) Contents: 
+S. No. 
+Broad Title 
+Topics 
+No. of Lectures 
+1 
+Introduction 
+ 
+Observing the Universe, The expanding universe, timeline of key 
+events, homogeneity & isotropy, units in cosmology 
+2 
+2 
+Hubble Law and 
+Geometry of 
+Space 
+Cosmological redshift, the Hubble law, symmetries of the space, 
+Friedmann-Lemaitre-Robertson-Walker metric, geodesic 
+equation, distances 
+4 
+3 
+Contents of the 
+Universe 
+Perfect fluids, Continuity equation, Friedmann equations, single 
+component universe, multi-component universe, exact solutions 
+6 
+4 
+The Hot Big Bang 
+Early universe thermodynamics, thermal equilibrium, entropy in 
+the universe, neutrinos in cosmology, decoupling of neutrinos, 
+cosmic neutrino background, cosmic microwave background, 
+Boltzmann equation, Big Bang nucleosynthesis, Baryogenesis 
+10 
+5 
+ Cosmological 
+Inflation 
+Problems with the Hot Big Bang, Horizon Problem, Flatness 
+problem, superhorizon correlations, Inflationary solution, physics 
+of inflation, scalar field dynamics, slow-roll inflation, an invitation 
+to reheating 
+8 
+6 
+Large Scale 
+Structure of the 
+Universe 
+Newtonian perturbation theory, growth of matter perturbations, 
+Jeans instability, Linear growth function, Transfer function, Power 
+spectrum, Harrison-Zel'dovich spectrum, structure formation, 
+spherical collapse, Press-Schechter theory 
+10 
+Total number of lectures: 
+40
+
+[Page 2]
+C) Pre-requisites: PHY 432/PHY 626, PHY 412. 
+D) Short summary for including in the Courses of Study Booklet: The Expanding Universe, Dynamics of Spacetime, 
+Cosmological Solutions; The Hot Big Bang, Recombination, Big Bang Nucleosynthesis, Cosmic Neutrino background, 
+Cosmic Microwave Background; Cosmological inflation, Structure Formation, Density Perturbations, Power 
+Spectrum, Large Scale structure of the Universe. 
+ 
+7. Recommended books: 
+I. Cosmology, D. Baumann, Cambridge University Press. 
+II. Modern Cosmology, S. Dodelson & F. Schmidt, 2nd ed., Academic Press. 
+III. The Early Universe, E. W. Kolb and M. S. Turner, Westview Press. 
+IV. Cosmology, S. Weinberg, Cambridge University Press. 
+___________________________________________________________________________________________ 
+
+Dated: March 07, 2024. 
+
+ 
+ Proposer: 
+ 
+Dated: _______________ DPGC Convener (PHY):___________________ 
+
+The course is approved / not approved 
+____________________________________ 
+Chairman, SPGC 
+Dated:______________________________ 
+8/3/24

@@ -1,0 +1,25 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+
+Section schedule for first year courses in even semester
+
+Day         Course No.   Batch  Section
+TA101A (P)    B        B4, B5, B6, B13
+PHY101A (P)   B        B7, B8, B9, B14
+Monday               ESC101A(P)   A       A4, A5, A6, A13
+CHM101A(P)   A       A7, A8, A9, A14
+
+TA101A (P)    B        B1, B2, B3
+PHY101A (P)   B       B10, B11, B12
+Tuesday               ESC101A(P)   A       A1, A2, A3
+CHM101A(P)   A       A10, A11, A12
+
+TA101A (P)    B        B7, B8, B9
+PHY101A (P)   B        B4, B5, B6
+Wednesday               ESC101A(P)   A       A7, A8, A9
+CHM101A(P)   A       A4, A5, A6
+
+TA101A (P)    B       B10, B11, B12, B14
+PHY101A (P)   B        B1, B2, B3, B13
+Thursday               ESC101A(P)   A       A10, A11, A12, A14
+CHM101A(P)   A       A1, A2, A3, A13

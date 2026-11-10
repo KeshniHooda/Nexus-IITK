@@ -1,0 +1,97 @@
+[PAGE 1]
+COURSE PROPOSAL: FIRST COURSE IN LINEAR ALGEBRA
+
+1. Course Title: First Course in Linear Algebra
+
+2. Course Number: MTH2XX
+
+3. Proposing Department: Mathematics and Statistics
+
+4. Proposed by: Nandini Nilakantan, Preena Samuel
+
+5. Units: 3-1-0-0 [11 credits]
+
+6. Course Description:
+
+(A) Objectives of the course: A first course in linear algebra
+
+(B) Content (number of lectures mentioned in brackets):
+
+Review of Matrices: Operations on matrices, Elementary matrices, row reduction,
+
+RREF, expression of row and column operations via elementary matrices, systems of
+
+linear equations, Gauss-Jordan method, invertible matrices, inverse via RREF. Rank of
+
+a matrix, solutions of systems of equations. Permutations and definition of determinant
+
+via permutations, uniqueness and other properties of determinant; Cramer’s Rule. (6)
+
+Vector spaces: Fields, Vector spaces over a field, subspaces, Linear independence and
+
+dependence, existence of basis, coordinates, dimension.                            (3)
+
+Linear Transformations: Kernel, image and rank of a transformation, Rank Nullity
+
+Theorem.                                                                           (2)
+
+Isomorphism, matrix representation of linear transformation, change of basis, similar
+
+matrices, linear functional and dual space, dual basis.                              (3)
+
+Inner product spaces: Cauchy-Schwarz’s inequality, Gram-Schmidt orthonormalization,
+
+orthonormal basis, Orthogonal matrices and rotations, matrix exponential.        (3)
+
+Orthogonal projection, projection theorem, four fundamental subspaces and their rela-
+
+tions (relation between null space and row space; relation between null space of the
+
+transpose and the column space).                                                  (2)
+
+Diagonalization: Eigenvalues and eigenvectors, diagonalizability.                   (2)
+
+Invariant subspaces, adjoint of an operator, normal, unitary and self adjoint operators,
+
+nilpotent operators, Schur’s unitary triangularisation, diagonalization of normal matri-
+
+ces, spectral decompositions and spectral theorem, applications of spectral theorem.(3)
+
+Polynomial rings, Annihilating polynomials for linear transformations, Cayley-Hamilton
+
+theorem, minimal polynomials.                                                     (2)
+
+[PAGE 2]
+Eigenspaces, generalised Eigenspaces, algebraic and geometric multiplicity, Jordan
+
+canonical form.                                                                     (2)
+
+Primary decomposition theorem, Rational canonical forms (with proofs).          (3)
+
+Introduction to the theory of Quadratic forms: Bilinear and quadratic forms, Sylvester’s
+
+law of inertia.                                                                       (4)
+
+Tensor products, symmetric and exterior algebras, determinants via multilinear
+
+forms.                                                                              (3)
+
+(C) Pre-requisites: None
+
+(D) Short summary: This is a compulsory course for MSc (MTH) students
+
+7. Books/References:
+
+(a) Kenneth Hoffman and Ray Kunze: Linear Algebra, PHI publication.
+
+(b) Gilbert Strang: Linear Algebra and Its Applications, 4th edition.
+
+(c) S. Lang: Algebra, GTM, Springer.
+
+(d) M. Artin: Algebra, PHI publication.
+
+Date: 28 March 2024                          Signature of the Proposer:
+
+Signature of DPGC Convener Mathematics and Statistics
+
+This course is approved/not approved                  Chairman, SPGC

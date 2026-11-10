@@ -1,0 +1,139 @@
+[PAGE 1]
+Department of Sustainable Energy Engineering
+Indian Institute of Technology Kanpur
+
+Proposal for a New Course
+
+Course title                                          : Engineering Measurements Laboratory
+Number                                               : SEE4XX
+Credits (L-T-P [C])                              : 2-0-3-0[9]
+Departments proposing the course        : Sustainable Energy Engineering
+Name of the proposer                           : Laltu Chandra, Lalit Pant
+Offered for                                           :  1st year Integrated PhD students of the SEE department taken
+through JAM
+Status of the course                              : UG
+Type of Course                                     : DC
+Prerequisite(s) for the course                : None
+Faculty members interested in              : All SEE Faculty
+teaching
+Other departments/programs whose     : NA
+students are expected to take up the
+course
+
+Course Objectives:
+
+An Engineering Measurements Laboratory is planned for Integrated PhD course at the Department of
+Sustainable Energy Engineering. This multi-disciplinary laboratory aims to offer hands-on training to the
+inducted students, mainly from an undergraduate science background, on some of the engineering
+measurement techniques. The objective is to enable and transform these students to, eventually, undertake
+interdisciplinary research problems, spread across different thematic areas, and meaningfully contribute to
+the same by way of technology development. The experiments may be offered, but not limited to, in the
+following thematic areas:
+
+Theme 1: Build Environment and Fuel Cells
+
+Theme 2: Power Systems/Power Electronics
+
+Theme 3: Materials Characterization
+
+Theme 4: Thermo-Fluid Engineering
+
+Course Outline:
+
+Number of basic (measurement) experiments: 2 per theme (x 4) = 8
+
+Number of applied experiments: 1 per theme (x 4) = 4
+
+Total number of experiments: 12 for a semester
+
+[PAGE 2]
+Theme           Experiments       Objective &              Expected Outcomes
+Build            Impedance       To measure the impedance    Students will learn about which
+Environment and   Analysis on Fuel   of different circuits and      components impact impedance
+Fuel Cells          Cells (B)            create equivalent circuit       in which way and will gain a
+models                      preliminary understanding of
+impedance spectroscopy
+Measurement of   To study the solar angles     Students will learn about solar
+Solar Angles and   and the sun's path at          angles and the Sun path during
+Apperant Sun       different latitudes using a     the different months of the year
+Path (B)           heliodon.                      for different locations on the
+earth
+Galvanic Cell (A)  To study the working         Students will understand redox
+principle of a galvanic cell    reactions, electrode roles, and
+and measure the electrical     the effect of operating
+output generated through     parameters on cell voltage and
+electrochemical reactions.     current, with relevance to
+batteries and fuel cells.
+Power              Calibration and    To calibrate and test the      Understanding of the major
+Systems/Power     testing of single-   given Single phase energy    components and operating
+Electronics        phase energy       meter by direct loading.     mechanism of a single-phase
+meter (B)                                     energy meter used for the
+measurement of energy in
+domestic and industrial AC
+circuits.
+Design and       To study the design and      Students will understand the
+testing of a DC-    operation of DC-DC          relationship between duty cycle,
+DC converter (B)   converters (buck, boost,      input-output voltage, and load
+and buck-boost) and          conditions, and gain practical
+analyze their voltage          insight into DC power
+regulation characteristics.     conversion techniques.
+Performance      To measure the PV          Understanding the PV
+assessment of a    performance curves in the    performance curves and impact
+solar PV-panel      field and compare with the    of ambient irradiance and
+using an analyzer   built-in PV model.          module cell temperature
+kit and grid                                      conditions on it through the PV
+integration (A)                                Analyzer kit.
+Materials            Electrical        To study the electrical        Students will understand charge
+Characterization    property            properties of materials        transport mechanisms in
+measurement of    using Hall effect and four-    materials and analyse parameters
+materials (B)      probe measurement          such as resistivity, carrier
+techniques.                   concentration, mobility, and
+semiconductor type.
+Optical Property   To study the optical          Students will understand light-
+Measurement of    properties of materials        matter interaction and analyse
+Absorber          using UV–Vis and emission   optical parameters such as
+Materials for       spectroscopy techniques.     absorbance, reflectance,
+Solar Cell                                     emission characteristics, and
+Applications (B)                                   optical bandgap relevant to solar
+energy materials.
+
+[PAGE 3]
+Solar cell device   To fabricate a basic solar     Students will understand the
+fabrication and      cell device and evaluate its   device fabrication steps and
+testing (A)           electrical performance        analyse key performance
+under illumination.           parameters such as current-
+voltage characteristics, power
+conversion efficiency, and fill
+factor of solar cells.
+Thermo-Fluid     Flow (air/water)   To study different flow       Students will understand the
+Engineering       measurement and  measurement techniques     working principles of various
+pressure          and perform calibration of    flow meters, learn pressure and
+calibration         flow and pressure              differential pressure
+techniques (B)     measuring devices under     measurement methods, and
+controlled operating          analyse the calibration and
+conditions.                  accuracy of flow measurement
+systems.
+Temperature         (a) Temperature                (a) Hands-on training with some
+measurement and     measurement using           of the widely-utilized
+heat transfer in a        different devices and         temperature measurement
+pipe with                their calibration              devices like k-type
+different fluids      (b) Assessment of thermal       thermocouples, Pt100, etc.,
+with radiation as        efficiency for heat          and their comparative
+heat source (B)         transfer in a straight          assessment.
+pipe                       (b) To understand all the
+different modes of heat
+transfer in an integrated
+system.
+
+Solar            To study the working         Students will understand solar
+Concentrator       principle and thermal         thermal energy concentration,
+performance of a solar        evaluate system efficiency and
+concentrator system under    heat losses, and analyse the
+different operating and        effect of parameters such as
+environmental conditions.     solar insolation, flow rate, and
+ambient conditions on system
+performance.
+
+Course proposed by         Recommended/Not recommended  This course is approved/not approved
+
+(Laltu Chandra / Lalit M. Pant)        Convener, DPGC (SEE)                 Chairman, SPGC

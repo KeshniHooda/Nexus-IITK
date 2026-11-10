@@ -1,0 +1,134 @@
+[PAGE 1]
+Templates for programs Chemical Engineering (CHE)
+
+Template for the BT program in Chemical Engineering
+
+Semester 1             Semester 2       Semester 3      Semester 4     Semester 5   Semester 6   Semester 7  Semester 8
+SCHEME-1 (9)              ETH111 (3) **       SCHEME-2 HSS-I    SCHEME-3 EME   SCHEME-4 HSS-  SCHEME-5 HSS-  SCHEME-6
+ELC111/ELC112/ELC113 *                             (9-11)               (9-11)                     II (9)                     II (9)              HSS-II (9)
+
+MTH 111 (6)            MTH 113 (6)        ESC201 (14)      CHE212 (12)     CHE311 (12)   CHE352 (12)   CHE453 (6)
+MTH 112 (6)            MTH 114 (6)        ESO201 (11)      CHE213 (12)     CHE331 (12)   CHE655 (12)
+/CHE668 (9)
+PHY 112 (11)              PHY 113 (11)       ESO204 (11)      CHE221 (12)     CHE381 (12)    DE-2 (9)        DE-3 (9)      OE-4 (9)
+PHY 111 (3)            CHM 111 (3)        CHE201 (3)       CHE261 (9)      DE-1 (9)       OE-1 (9)       OE-2 (9)      OE-5 (9)
+TA 111 (9)                  ESC 111 (7)         CHE251 (12)      CHE200 (2)                                  OE-3 (9)      OE-6 (9)
+CHM 112 (4)                ESC 113 (7)
+CHM 113 (4)                 LIF111 (6)
+PE111 (3)                  PE112 (3)
+55                  52              60-62           56-58         54          48-51        42         27
+27 credits of DEs and 54 credits of OEs to be taken in the 5th to 8th semester.
+
+Credit table for BT program in Chemical Engineering
+Course type           Recommended Credit     Credit in the department
+Institute Core (IC)        112                   112
+E/SO                   18-45                 22
+Department            144-179                 152-155 (125-128 DC + 27 DE)
+Open electives (OE)       51-57                 54
+SCHEME                 54-58                   54-58
+Total for 4-year BT/BS     391-420                394-401
+
+[PAGE 2]
+Template for the BTH program in Chemical Engineering
+
+Template for 3rd to 8th semester for BTH program in Chemical Engineering
+
+Semester 3    Semester 4    Semester 5    Semester 6    Semester 7    Semester 8
+SCHEME-2 HSS-  SCHEME-3 EME  SCHEME-4 HSS-II  SCHEME-5 HSS-II  SCHEME-6 HSS-II
+I (9-11)           (9-11)              (9)                 (9)                 (9)
+ESC201 (14)    CHE212 (12)    CHE311 (12)    CHE352 (12)    CHE453 (6)
+ESO201 (11)    CHE213 (12)    CHE331 (12)    CHE655 (12)    UGP-2 (9)      OE-4 (9)
+/CHE668 (9)
+ESO204 (11)    CHE221 (12)    CHE381 (12)    UGP-1 (9)      OE-2 (9)        OE-5 (9)
+CHE201 (3)     CHE261 (9)     DE-1 (9)        OE-1 (9)        OE-3 (9)        OE-6 (9)
+CHE251 (12)    CHE200 (2)                   DEH-1 (9)      DEH-2 (9)       DEH-3 (9)
+
+60-62         56-58         54           57-60         51           36
+2 UGPS, ( UGP-1 and UGP-2 in lieu of two DEs in the BT template), 9 credits of DE, 27 credits at
+6/7 level as DEH and 54 credits of OEs to be taken in the 5th to 8th
+
+— CPI criteria for BTH: 8.0
+
+[PAGE 3]
+Template for the BTM program in Chemical Engineering
+
+Template for 3rd to 8th semester for BTM program in Chemical Engineering
+Semester 3    Semester 4    Semester 5    Semester 6    Semester 7    Semester 8
+SCHEME-2 HSS-  SCHEME-3 EME  SCHEME-4 HSS-II  SCHEME-5 HSS-II  SCHEME-6 HSS-II
+I (9-11)           (9-11)              (9)                 (9)                 (9)
+ESC201 (14)    CHE212 (12)    CHE311 (12)    CHE352 (12)    CHE453 (6)
+ESO201 (11)    CHE213 (12)    CHE331 (12)    CHE655 (12)
+/CHE668 (9)
+ESO204 (11)    CHE221 (12)    CHE381 (12)    OE-2 (9)       MTB-1 (9)      MTB-4 (9)
+CHE201 (3)     CHE261 (9)     OE-1 (9)        OE-3 (9)       MTB-2 (9)      MTB-5 (9)
+CHE251 (12)    CHE200 (2)                               MTB-3 (9)      MTB-6 (9)
+
+60-62         56-58         54           48-51         42           27
+27 OE credits and 54 MTB credits in the 5th to 8th semester.
+
+[PAGE 4]
+Template for five year dual-degree program in Chemical Engineering
+
+Template for dual degree program in Chemical Engineering (Category A)
+
+Sem I-VI      Sem VII         Sem VIII       Summer    Sem IX       Sem X
+
+CHE453 (6)
+
+Complete 54 CHE PG  course
+Same as                credits using OE/DE slots.         CHE699 (9)  CHE699 (36)   CHE699 (36)
+BT            Must do any 2  of CHE611,
+Template             CHE621, CHE631 and CHE641 in
+the 54 CHE PG course credits
+
+PG Credits Summary- Thesis: 81; CHE PG Courses: 54
+9 credit of DE and 36 credits of OE may be waived off in the UG
+requirement
+
+Template for dual degree program in Chemical Engineering (Category B)
+
+UG Pre-requisites   Sem VII      Sem VIII    Summer    Sem IX       Sem X
+
+Odd Sem  Even Sem  CHE453 (6)
+
+ESO204   ESO201    Complete 54 CHE PG
+/           /           course credits using
+OE/DE slots.             CHE699 (9)  CHE699 (36)   CHE699 (36)CHE311   CHE221
+Must do CHE611, CHE621
+and CHE631/CHE633         CHE331
+(any one) in the 54 ChE
+
+PG Credits Summary- Thesis: 81; CHE PG Courses: 54
+36 credits of OE may be waived off in the UG requirement
+UG Pre-requisite course is mandatory for the completion of DD-B
+
+[PAGE 5]
+Template for double major: second major in Chemical Engineering
+
+Odd Sem          Even SEM
+
+Pre-requisites
+
+ESO201 (11)
+
+Mandatory CHE courses
+
+CHE251 (12)        CHE212 (12)
+
+CHE311 (12)        CHE213 (12)
+
+CHE331 (12)        CHE221 (12)
+
+CHE381 (12)        CHE352 (12)
+
+Total CHE course credits: 96
+
+36 credits of OE may be waived off in the UG requirement
+Pre-requisite course is mandatory for the completion of DM
+
+[PAGE 6]
+Minor in Chemical Engineering
+
+Student should complete any three of the following courses: CHE251, CHE212, CHE213*, CHE221*, CHE311, CHE331*, CHE381
+
+* Offered in minor slots

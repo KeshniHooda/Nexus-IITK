@@ -1,0 +1,239 @@
+[PAGE 1]
+All MSE Dept. Templates as per new UGARC implemented from Y22 onward
+
+MATERIALS SCIENCE AND ENGINEERING
+
+1.  B.Tech. Template (BT)
+Semester
+
+1st                     2nd                3rd           4th          5th          6th          7th          8th
+
+ETH111 [3]
+SCHEME-1 [9]                         SCHEME-  SCHEME-
+or                                       SCHEME  SCHEME  SCHEME
+ELC111/ELC112/ELC113                    2         3
+SCHEME-1 [9]                                               HSS-II      HSS-II      HSS-II
+or                             EME (9-    HSS-1
+ELC111/ELC112/ELC113                                         (9)         (9)         (9)
+ETH111 [3]                                11)         (9-11)
+
+ESO
+MTH 111 [6] /      MTH 113 [6] /       ESO202   ESC201   MSE301
+Basket    DE-3 (9)   OE-3 (9)
+MTH 113 [6]       MTH 111 [6]           (11)        (14)         (9)
+(6-11)+
+MTH 112 [6] /      MTH 114 [6] /       ESO225   MSE202   MSE302  MSE
+DE-4 (9)   OE-4 (9)
+MTH 114 [6]       MTH 112 [6]            (8)         (11)         (9)       306* (9)
+MSE201   MSE203   MSE303                                                                                              OE-5 (9)      Courses     PHY 114 [11]         PHY 113 [11]                                       DE-1 (9)   OE-1 (9)
+(11)        (11)         (9)
+PHY 111 [3] /       CHM 111 [3] /       MSE204   MSE205   MSE304                     OE-6
+DE-2 (9)   OE-2 (9)
+CHM 111 [3]         PHY 111 [3]             (9)          (8)          (9)                                (6-9)
+
+TA 111 [9] /          ESC 111 [7] /                          MSE305
+ESC 111 [7]          TA 111 [9]                                         (9)
+CHM 112 [4] /        ESC 112 [7] /
+ESC 112 [7]        CHM 112 [4]
+CHM 113 [4] /
+LIF111 [6] /          TA211             MSE351  MSE353
+LIF111 [6]
+CHM 113 [4]            (3)                       (3)         (3)
+
+PE111 [3] /           PE112 [3] /          TA212    MSE251   MSE352  MSE360
+PE112 [3]             PE111[3]                (3)          (3)          (3)         (6)
+
+Credits        55/52              52/55          54-56     56-58      51      51-56      45      42-45
+
+UGP-1 (MSE496) (4 credits) and UGP-4 (MSE499) (4 credits) are optional (over and above the minimum credit
+requirements)
+UGP-2 (MSE497) (9 credits) can be taken in lieu of one DE course
+UGP-3 (MSE498) (9 credits) can be taken in lieu of one OE course
++ESO Basket: ESO207/ MSO201/ HSO201/ MSO203M (One course required)
+▪   Credit required for graduation
+
+Course Type                         Credits to be earned
+
+Institute Core (IC)                112
+
+SCHEME                         54-58
+
+E/SO                            31-36
+
+DC + DE                        158 (122 DC + 36 DE)
+
+Open Electives (OE)               51-54
+
+Total                           406-418
+
+[PAGE 2]
+2.  B.Tech.-Honours (BTH) template
+
+Courses for Semester-1 and 2 are same as in the template for B.Tech. (Template at entry No. 1)
+
+semester
+
+3rd                4th                 5th                6th                 7th                 8th
+
+SCHEME-2    SCHEME-3                 SCHEME      SCHEME      SCHEME
+(9-11)        HSS-1 (9-11)                       HSS-II (9)        HSS-II (9)         HSS-II (9)
+
+ESO Basket
+ESO202 (11)   ESC201 (14)    MSE301 (9)                 UGP-2* (9)     UGP-3* (9)
+(6-11)+
+ESO225 (8)    MSE202(11)    MSE302 (9)    MSE 306 (9)    OE-1 (9)        OE-4 (9)
+
+OE-5 (9)     Courses      MSE201 (11)  MSE203 (11)    MSE303 (9)    DE-1 (9)       OE-2 (9)
+
+MSE204 (9)   MSE205 (8)     MSE304 (9)    DE-2 (9)       OE-3 (6-9)      OE-6 (9)
+
+MSE305 (9)                  DEH-1 (9)      DEH-3 (9)
+
+DEH-2 (9)
+
+TA211 (3)                 MSE351 (3)    MSE353 (3)
+
+TA212 (3)    MSE251 (3)     MSE352 (3)    MSE360 (6)
+
+Credits
+54-56          56-58           51           51-56          60-63          54
+
+CPI Criteria: A student has to earn Minimum CPI of 8.0 for being eligible for B. Tech.-Honours
+
+Remarks:
+
+•   Course taken under DEH-1/2/3 must be taken from those DEs which are 600 level or above
+•   *UGP-2 (MSE497) (9 credits) and UGP-3 (MSE498) (9 credits) are mandatory for BTH program
+•   UGP-1 (MSE496) (4 credits) and UGP-4 (MSE499) are optional (over and above the minimum credit
+requirements)
+•   +ESO Basket: ESO207/ MSO201/ HSO201/ MSO203M (One course required)
+
+[PAGE 3]
+3.  Bachelor of Technology and Management (BTM)
+
+Courses for Semester-1 and 2 are same as in the template for B.Tech. (Template at entry No. 1)
+
+semester
+
+3rd                   4th                5th                6th               7th              8th
+
+SCHEME-2 (9-      SCHEME-3                SCHEME      SCHEME     SCHEME
+11)                HSS-1 (9-11)                     HSS-II (9)        HSS-II (9)      HSS-II (9)
+
+ESO Basket
+ESO202 (11)        ESC201 (14)   MSE301 (9)                 MTB-1 (9)    OE-3 (9)
+(6-11)+
+ESO225 (8)         MSE202(11)   MSE302 (9)    MSE 306 (9)    MTB-2 (9)    MTB-4 (9)
+
+MTB-5 (9)     Courses     MSE201 (11)       MSE203 (11)  MSE303 (9)     DE-1 (9)       MTB-3 (9)
+
+MSE204 (9)        MSE205 (8)   MSE304 (9)    OE-1 (6-9)      OE-2 (9)     MTB-6 (9)
+
+MSE305 (9)
+
+TA211 (3)                     MSE351 (3)    MSE353 (3)
+
+TA212 (3)         MSE251 (3)   MSE352 (3)    MSE360 (6)
+
+Credits  54-56              56-58        51             48-56         45          45
+
+•  MTB-1 to MTB-6 are courses from Management track basket worth 54 credits
+•   UGP-1 (MS496) (4 credits) and UGP-4 (MSE499) are optional (over and above the minimum credit
+requirements)
+•   UGP-2 (MSE497) (9 credits) can be taken in lieu of one DE course
+•   UGP-3 (MSE498) (9 credits) can be taken in lieu of one OE course
+•   +ESO Basket: ESO207/ MSO201/ HSO201/ MSO203M (One course required)
+
+[PAGE 4]
+4.  Double Major program (For a student from another department who is seeking second major from
+the MSE Department)
+
+(as per the BT template)
+
+Odd Semester                       Even Semester
+
+Pre-Requisite
+
+ESO225 (8)
+
+TA211 (3); TA212 (3)
+
+Department Core Requirements
+
+MSE201 (11)                     MSE202 (11)
+
+MSE204 (9)                      MSE203 (11)
+
+MSE301 (9)                      MSE205 (8)
+
+MSE302 (9)                      MSE306 (9)
+
+MSE303 (9)
+
+MSE304 (9)
+
+MSE305 (9)
+
+Laboratory Courses
+
+MSE351 (3)                      MSE251 (3)
+
+MSE352 (3)                      MSE353 (3)
+
+MSE360 (6)
+
+Total credits 71                         Total credits 51
+
+•   Total Mandatory credits for second major: 122
+•   Pre-Requisites: ESO225 (8 credits); TA211 and TA212 (3+3 credits) [a student should have done these
+courses prior to seeking entry into double major]
+
+[PAGE 5]
+5.  Dual Degree (B.Tech. + M.Tech.) template
+
+➢  Category-A: for a student from the MSE department
+
+Template for semester 1st to 6th remains same as that for B.Tech. (Template at entry No. 1)
+
+Semester
+
+7th                8th              Summer                      9th              10th
+
+OE PG-1 (9)  OE PG-3 (9)     MTech Thesis/ DE PG-1/2 (18)  MTech      MTech Thesis
+Thesis (36)     (36)
+(optional)      Courses
+
+OE PG-2 (9)  OE PG-4 (9)                             MSE801 (0)
+
+DE PG-1 (9)*  DE PG-2 (9)*
+
+Credits       27            27                   18                  36            36
+
+•   *Students from within Department can use up to 2 DE UG courses for PG part, that is, they can get up
+to 18 credits of waiver in their PG part in lieu of 2 DE courses taken in their UG part.
+•  MSE801 is compulsory for all students
+
+➢  Category-B: for a student from the department other than MSE
+
+Template for semester 1st to 6th will be as per the template of the parent department of the student
+
+semester
+
+7th                  8th          Summer                   9th                   10th
+
+OE PG-1 (9)     OE PG-3 (9)     MTech Thesis (18)   MTech Thesis (27)   MTech Thesis (27)      Courses
+OE PG-2 (9)     OE PG-4 (9)                     DE PG-1 (09)       DE PG-2 (09)
+
+MSE801 (0)
+
+Credits       18             18              18               36               36
+
+•  MSE801 is compulsory for all students
+
+6.  Minor
+Can be given in any of the three streams if a student completes 18 or more credits in a particular
+stream (Stream names to be revised later, and courses in individual streams would be revise and
+communicated later)
+•   Devices and Bio-Engineering Stream
+•   Structure-Characterization Stream
+•   Metals Processing Stream

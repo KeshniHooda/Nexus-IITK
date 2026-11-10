@@ -1,0 +1,992 @@
+[Page 1]
+Report of the Core Curriculum Committee 
+First (I) Semester of the Year 2021-22 
+1. Guidelines for Drawing Instructors and Tutors from Various Departments
+1.1 List of Core Courses and respective Departments handling them as per MA Committee and/or agreements between/among departments when Instructors are 
+drawn from multiple Departments 
+Course No. and Title 
+Departments 
+2020-21 & 2021-22 
+2022-23 & 2023-24 
+2024-25 & 2025-26 
+2026-27 & 2027-28 
+TA101(Engineering Graphics) 
+ME 
+CE 
+AE 
+CE 
+ESO201(Thermodynamics) 
+CHE 
+ME 
+CHE 
+AE 
+ESO202(Solid Mechanics) 
+CE 
+AE 
+CE 
+ME 
+ESO204(Fluid Mechanics) 
+AE 
+CHE 
+ME 
+CHE 
+HSS-1 
+HSS/ECO 
+HSS/ECO 
+HSS/ECO 
+HSS/ECO 
+HSS-2 
+HSS/ECO 
+HSS/ECO 
+HSS/ECO 
+HSS/ECO 
+1.2 List of Core Courses and respective Departments handling them as per MA Committee when Instructors are drawn from a fixed Department 
+Department 
+Course(s) 
+BSBE 
+LIF101, ESO206 
+CHM 
+CHM101, CHM102R 
+CE 
+ESO208 
+CSE 
+ESC101, ESO207 
+EE 
+ESC201, ESO203 
+ES 
+ESO213 
+HSS 
+ENG112, COM200 
+ME 
+TA202, ESO209 
+MSE 
+TA201, ESO205 
+MTH 
+MTH101, MTH102, MSO201, MSO202a, MSO203b 
+PHY 
+PHY101, PHY102, PHY103, PSO201
+
+[Page 2]
+1.3 List of Core Courses and Respective Departments that will provide Theory and Lab Tutors / Instructors 
+Course no. 
+Course Name 
+Departments That Provide Tutors / Lab Instructors 
+CHM101 
+Chemistry Lab 
+CHM 
+MTH101 
+Mathematics-I 
+MTH 
+PHY101 
+Physics Lab 
+PHY 
+PHY102 
+Physics-I 
+PHY 
+PHY103 
+Physics-II 
+PHY 
+ESC101 
+Fundamentals of Computing 
+CSE 
+LIF101 
+Life Science 
+BSBE 
+TA101 
+Engineering Graphics 
+AE, CE, ME 
+ENG112 
+English Language and Communications Skills 
+HSS 
+HSS-I (1) 
+Humanities-I 
+HSS, ECO 
+ESC201 
+Introduction to Electronics 
+EE 
+TA201 
+Manufacturing Processes I 
+MSE 
+TA202 
+Manufacturing Processes II 
+ME 
+COM200 
+Communication Skills: Composition 
+CE, IME, HSS, ES, ECO 
+HSS-I (2) 
+Humanities-I 
+HSS 
+HSS-II 
+Humanities-II 
+HSS, ECO 
+ESO201 
+Thermodynamics 
+AE, CHE, ME 
+ESO202 
+Mechanics of Solids 
+AE, CE, ME 
+ESO203 
+Introduction to Electrical Engineering 
+EE 
+ESO204 
+Fluid Mechanics and Rate Processes 
+AE, CHE, ME 
+ESO205 
+Nature and Properties of Materials 
+CHE, MSE, 
+ESO206 
+Principles of Biotechnology 
+BSBE 
+ESO207 
+Data Structures and Algorithms 
+CSE 
+ESO208 
+Computational Methods in Engg. 
+CHE, CE, ME 
+ESO209 
+Dynamics 
+AE, ME 
+ESO213 
+Fundamentals of Earth Sciences 
+ES 
+MSO202a 
+Complex Variables 
+ME, MTH, EE, AE 
+MSO203b 
+Partial Differential Equations 
+AE, CE, ME, MSE, MTH, EE 
+MTH102R 
+Mathematics-II 
+MTH 
+Note: Table is constructed largely using data from previous years.
+
+[Page 3]
+2. Estimate of Number of Students in Core Courses in First (I) Semester during the Year 2021-22
+Course Group 
+Course No. 
+Course title 
+Estimated number of 
+New students 
+No. of students 
+having fail backlogs 
+No. of students 
+registered in 
+2020-21-I 
+Final estimate 
+for 2021-22–I 
+First Semester 
+Courses 
+CHM101 
+Chemistry Lab 
+600 
+00 
+00 
+600 
+MTH101 
+Mathematics-I 
+1200 
+100 
+1200 
+1300 
+PHY101 
+Physics Lab 
+600 
+00 
+00 
+600 
+PHY102 
+Physics-I 
+600 
+00 
+590 
+600 
+PHY103 
+Physics-II 
+600 
+00 
+567 
+600 
+ESC101 
+Fundamentals of Computing 
+600 
+00 
+576 
+600 
+LIF101 
+Life Sciences 
+600 
+00 
+590 
+600 
+TA101 
+Engineering Graphics 
+600 
+00 
+594 
+600 
+ENG112 
+English Language and Communication Skills 
+160 
+00 
+119 
+160 
+Third Semester 
+Courses 
+ESC201 
+Introduction to Electronics 
+600 
+12 
+598 
+600 
+TA201 
+Manufacturing Processes I 
+600 
+06 
+945 
+600 
+TA202 
+Manufacturing Processes II 
+600 
+02 
+963 
+600 
+COM200 
+Communication Skills: Composition 
+700 
+01 
+580 
+700 
+HSS Courses 
+HSS-I (1st year) 
+Humanities-I 
+1050 
+- 
+1050 
+1050 
+HSS-I (2nd year) Humanities-I 
+600 
+50 
+- 
+650 
+HSS -II 
+Humanities-II 
+1200 
+- 
+- 
+1200 
+Engineering 
+Science Options 
+ESO201 
+Thermodynamics 
+357 
+28 
+293 
+400 
+ESO202 
+Mechanics of Solids 
+280 
+33 
+220 
+300 
+ESO203 
+Introduction to Electrical Engineering 
+50 
+00 
+27 
+50 
+ESO204 
+Fluid Mechanics and Rate Processes 
+330 
+04 
+316 
+350 
+ESO205 
+Nature and Properties of Materials 
+210 
+01 
+193 
+210 
+ESO206 
+Principles of Biotechnology 
+180 
+04 
+154 
+180 
+ESO207 
+Data Structures and Algorithms 
+250 
+05 
+241 
+250 
+ESO208 
+Computational Methods in Engg. 
+350 
+08 
+304 
+350 
+ESO209 
+Dynamics 
+250 
+46 
+252 
+250 
+ESO213 
+Fundamentals of Earth Sciences 
+180 
+00 
+307 
+180 
+Science Options 
+MSO202a 
+Complex Variables 
+410 
+13 
+375 
+425 
+MSO203b 
+Partial Differential Equations 
+630 
+38 
+671 
+675 
+Repeat 
+MTH102A 
+Mathematics-II 
+- 
+- 
+09 
+09 
+CHM102A 
+General Chemistry 
+- 
+- 
+05 
+05
+
+[Page 4]
+3. Core Course Teaching Support Requirement in First (I) Semester during the Year 2021-22
+Course(s) 
+Course No. 
+Course title 
+Credits 
+Estimated No. 
+of students 
+Students per 
+Section 
+(approx.) 
+No. of 
+sections 
+Theory tutors 
+Lab. tutors 
+Instruction 
+units 
+Total 
+(Instruction and 
+tutorial/lab) units 
+First 
+Semester 
+Courses 
+CHM101 
+Chemistry Lab 
+0-0-3 [03] 
+600 
+38 
+16 
+-- 
+16 
+1.0 
+17.0 
+MTH101 
+Mathematics-I 
+3-1-0 [11] 
+1300 
+100 
+12 
+12 
+-- 
+4.0 
+16.0 
+PHY101 
+Physics Lab 
+0-0-3 [03] 
+600 
+38 
+16 
+-- 
+16 
+1.0 
+17.0 
+PHY102 
+Physics-I 
+3-1-0 [11] 
+600 
+100 
+06 
+06 
+-- 
+4.0 
+10.0 
+PHY103 
+Physics -II 
+3-1-0 [11] 
+600 
+100 
+06 
+06 
+-- 
+4.0 
+10.0 
+ESC101 
+Fund. Of Computing 
+3-1-3 [14] 
+600 
+38 
+16 
+16 
+16 
+4.0 
+20.0 
+LIF101 
+Life Sciences 
+2-0-0 [06] 
+600 
+- 
+-- 
+-- 
+-- 
+3.0 
+03.0 
+TA101 
+Engineering Graphics 
+2-0-3 [09] 
+600 
+38 
+16 
+-- 
+16 
+3.0 
+19.0 
+ENG112 
+English Language and Comm. Skills 
+3-1-0 [11] 
+160 
+40 
+04 
+04 
+-- 
+2.0 
+06.0 
+HSS-I (1) 
+Humanities-I 
+3-1-0-[11] 
+1050 
+41 
+26 
+26 
+-- 
+4.0 
+30.0 
+Third 
+Semester 
+Courses 
+ESC201 
+Introduction to Electronics 
+3-1-3 [14] 
+600 
+30 
+20 
+20 
+20 
+4.0 
+24.0 
+TA201 
+Manufact. Proc. I(MSE) 
+1-0-3 [06] 
+600 
+120 
+05 
+-- 
+05 
+2.0 
+07.0 
+TA202 
+Manufact. Proc. II (ME) 
+1-0-3 [06] 
+600 
+120 
+05 
+-- 
+05 
+2.0 
+07.0 
+COM200 
+Communication Skills: Composition 
+1-0-2 [05] 
+700 
+35 
+20 
+-- 
+20 
+2.0 
+22.0 
+HSS-I (2) 
+Humanities-I 
+3-1-0 [11] 
+650 
+41 
+16 
+16 
+-- 
+4.0 
+20.0 
+HSS-2 
+HSS-II 
+Humanities-II 
+3-0-0 [09] 
+1200 
+- 
+- 
+- 
+-- 
+4.0 
+04.0 
+Engg. 
+Science 
+Options 
+ESO201 
+Thermodynamics 
+3-1-0 [11] 
+400 
+40 
+10 
+10 
+-- 
+2.0 
+12.0 
+ESO202 
+Mechanics of Solids 
+3-1-0 [11] 
+300 
+38 
+08 
+08 
+-- 
+2.0 
+10.0 
+ESO203 
+Intro. Electrical Engg. 
+3-1-2 [13] 
+50 
+35 
+02 
+02 
+02 
+1.0 
+03.0 
+ESO204 
+Fld. Mech. and Rate Proc. 
+3-1-0 [11] 
+350 
+35 
+10 
+10 
+-- 
+2.0 
+12.0 
+ESO205 
+Nat. and Prop. of Mat. 
+3-1-3 [14] 
+210 
+35 
+06 
+06 
+06 
+2.0 
+08.0 
+ESO206 
+Biotechnology 
+3-0-0 [9] 
+180 
+- 
+- 
+-- 
+-- 
+2.0 
+02.0 
+ESO207 
+Data Structures and Algorithms 
+3-0-0 [09] 
+250 
+- 
+- 
+-- 
+-- 
+2.0 
+02.0 
+ESO208 
+Computational Methods in Engg. 
+3-1-0 [11] 
+350 
+40 
+10 
+10 
+-- 
+2.0 
+12.0 
+ESO209 
+Dynamics 
+2-1-0 [08] 
+250 
+42 
+06 
+06 
+-- 
+1.5 
+07.5 
+ESO213 
+Fundamentals of Earth Sciences 
+3-0-0 [09] 
+180 
+-- 
+-- 
+-- 
+2.0 
+02.0 
+Science 
+Options 
+MSO202a 
+Complex Variables 
+3-1-0 [6] 
+425 
+100 
+04 
+04/2=2.0 
+-- 
+ 1.0 
+03.0 
+MSO203b 
+Partial Diff. Equations 
+3-1-0 [6] 
+675 
+100 
+06 
+06/2=3 
+-- 
+2.0 
+05.0 
+Repeat 
+MTH102R 
+Mathematics-II 
+3-1-0 [11] 
+09 
+35 
+01 
+01 
+-- 
+1.0 
+02.0 
+CHM102R 
+General Chemistry 
+2-1-0 [08] 
+05 
+35 
+01 
+01 
+-- 
+1.0 
+02.0 
+Total Units Required =
+Science Units = 
+ Engineering Science Units = 
+ Other Units = 
+Note: 
+1. When a course has tutorials and lab, then the tutor is supposed to take care of both.
+2. Instruction Units:
+Only lab course: 1.0; Lecture Course (class size < 60): 1.0; 
+Lecture Course (60 _class size < 150): 1.5; Lecture Course (150 _class size < 600): 2.0 (3 lec/wk), 1.5 (2 lec/wk), 1.0 (1 lec/wk); 
+Lecture Course (600 _class size): 4.0 (3 lec/wk), 3.0 (2 lec/wk), 2.0 (1 lec/wk); Tutorials: 1.0 
+3. TA201 lab capacity is 120 and it is split into 4 sections. One instructor handles all the 4 sections simultaneously. In all other courses the section size may be increased by at most 5.
+
+[Page 5]
+4.
+Department/IDP-wise Breakup of Instructor’s and/or Tutors for Core Courses in First (I) Semester during the Year 2020-21
+Course No. 
+Course Name 
+Units Req. 
+AE 
+BSBE 
+CHE 
+CE 
+CSE 
+EE 
+IME 
+ME 
+MSE 
+CHM 
+MTH 
+PHY 
+HSS 
+ES 
+ECO 
+TOTAL 
+CHM 101 
+Chemistry Lab 
+17.0 
+1+16 
+1+16 
+MTH 101 
+Mathematics-I 
+16.0 
+4+12 
+4+12 
+PHY101 
+Physics Lab 
+17.0 
+1+16 
+1+16 
+PHY102 
+Physics-I 
+10.0 
+4+6 
+4+6 
+PHY103 
+Physics -II 
+10.0 
+4+6 
+4+6 
+ESC101 
+Fund. Of Computing 
+20.0 
+4+16 
+4+16 
+LIF101 
+Life Sciences 
+03.0 
+3+0 
+3+0 
+TA101 
+Engineering Graphics 
+19.0 
+0+3 
+0+6 
+3+7 
+3+16 
+ENG112 
+English Language 
+06.0 
+2+4 
+2+4 
+HSS-I (1)# 
+Humanities-I (*) 
+30.0 
+3+21 
+1+5 
+4+26 
+HSS-II 
+Humanities-II (*) 
+04.0 
+3+0 
+1+0 
+4+0 
+ESC201 
+Electronics 
+24.0 
+4+20 
+4+20 
+TA201 
+Manufact. Proc. (MSE) 
+07.0 
+2+5 
+2+5 
+TA202 
+Manufact. Proc. (ME) 
+07.0 
+2+5 
+2+5 
+COM200 
+Communication Skills 
+22.0 
+0+15 
+2+3 
+0+1 
+0+1 
+2+20 
+HSS-I (2)# 
+Humanities-I 
+20.0 
+4+16 
+4+16 
+ESO201 
+Thermodynamics 
+12.0 
+0+3 
+2+5 
+0+2 
+2+10 
+ESO202 
+Mechanics of Solids 
+10.0 
+0+2 
+2+4 
+0+2 
+2+8 
+ESO203 
+Intro. Electrical Engg. 
+03.0 
+1+2 
+1+2 
+ESO204 
+Fld. Mech. and Rate 
+12.0 
+2+5 
+0+3 
+0+2 
+2+10 
+ESO205 
+Nat. and Prop. of Mat. 
+08.0 
+0+1 
+2+5 
+2+6 
+ESO206 
+Biotechnology 
+02.0 
+2+0 
+2+0 
+ESO207 
+Data Structures 
+02.0 
+2+0 
+2+0 
+ESO208 
+Numerical Methods 
+12.0 
+0+4 
+2+4 
+0+2 
+2+10 
+ESO209 
+Dynamics 
+07.5 
+0+2 
+1.5+4 
+1.5+6 
+ESO213 
+Fundamentals of ES 
+02.0 
+2+0 
+2+0 
+MSO202a 
+Complex Variables$ 
+3.0 
+0+1 
+(0.5) 
+0+2 
+(1.0) 
+0+1 
+(0.5) 
+1+0 
+1+2 
+MSO203b 
+Partial Diff. Equations$ 
+05.0 
+0+1 
+(0.5) 
+0+1 
+(0.5) 
+0+2 
+(1.0) 
+0+1 
+(0.5) 
+0+1 
+(0.5) 
+2+0 
+2+3 
+MTH102A 
+Mathematics-II 
+02.0 
+1+1 
+1+1 
+CHM102A 
+General Chemistry 
+02.0 
+1+1 
+1+1 
+Total Load Assigned 
+314.5 
+18 
+5 
+15 
+18.5 
+22 
+29 
+15 
+31.5 
+14.5 
+19 
+21 
+37 
+58 
+3 
+8 
+Approximate Faculty Strength 
+- 
+28 
+19 
+23 
+40 
+32 
+46 
+17 
+41 
+26 
+37 
+47 
+41 
+28 
+10 
+13 
+448 
+Ratio of Load Assigned: Faculty 
+0.64 
+0.26 
+0.65 
+0.46 
+0.69 
+0.63 
+0.88 
+0.77 
+0.56 
+0.51 
+0.45 
+0.9 
+2.0 
+0.3 
+0.61 
+භ 
+Units are assigned as ‘m + n’, where ‘m’ indicate instructor units and ‘n’ indicates tutor units. 
+භ 
+$ The unit assigned is halved for half semester courses 
+භ 
+Economic Sciences shall offer one HSS I and one HSS II each semester.
+
+[Page 6]
+Appendix 
+ 
+Important Information Regarding Individual Section Sizes for Various Courses and Work Load 
+1. Tutorial section sizes have been fixed based on last year’s CCC data/report and with inputs from respective HODs. 
+2. One tutor will be assigned per section (normally 38 students) for PHY101 and CHM101 laboratory sessions. 
+3. One tutor will be assigned per day (i.e., per four sections, i.e., ~ 120 students) for TA201 and TA202 labs. 
+4. Tutors assigned for ESC101, ESC201, ESO203 and ESO205 tutorials will also take care of the laboratory sessions of the same sections. 
+5. Increasing the number of sections in any course is undesirable. 
+6. Student number in each section may be increased slightly, i.e., up to 40 in sections normally having 35 students and up to 110 in sections normally having 100 
+students to prevent increase in the number of sections. 
+7. The total registration in some courses has to be restricted considering seating capacity of the lecture hall assigned for the course. 
+8. The number of sections in some ESO/SO courses may be reduced in certain cases after registration, in case the number of students registered is less than expected. 
+
+***** 
+
+ 
+ 
+ (Niraj Sinha) (Abhas Singh) (Rahul Mangal) (Dootika Vats) 
+10.03.21

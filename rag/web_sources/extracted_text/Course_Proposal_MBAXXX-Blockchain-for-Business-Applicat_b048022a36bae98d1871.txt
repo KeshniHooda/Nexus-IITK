@@ -1,0 +1,85 @@
+[Page 1]
+Indian Institute of Technology Kanpur 
+New Course Proposal 
+1. Course Number: MBAxxx 
+2. Course Title: Blockchain for Business Applications 
+3. Credits: 3-0-0-1 [10] 
+Duration of Course: Full Semester 
+4. Proposing Department: Department of Management Sciences 
+Other Department/IDPs which may be interested in the proposed course: 
+Other faculty members interested in teaching the proposed course: 
+5. Proposing Instructor(s): Sourya Joyee De 
+6. Course Description: 
+Blockchain and distributed ledger technologies have the potential to enable a variety of 
+applications that could disrupt a diverse set of industries. It is set to be a major player of 
+the digital economy and can reshape business and society. This course will introduce 
+students to the basics of this complex technology and provide them a roadmap on the role 
+of blockchains for the present and the future of business. Students will learn how business 
+is using blockchain today in finance, supply chain, creative industries, and other domains 
+and how blockchains can fuel innovations. They will also delve into challenges and 
+uncertainties related to blockchains including privacy, security and ethical issues, 
+scalability, interoperability and governance. 
+A. Contents: 
+Sl. 
+No. 
+Topics 
+No. 
+of 
+Lectures 
+1. 
+Internet of Information, Internet of Value, Evolution of Web3, Token 
+Economy, Introduction to Blockchain and Distributed Ledger 
+Technologies, Trust in blockchain 
+4 
+2. 
+Centralized vs. Decentralized Systems, Cryptographic Primitives, 
+consensus models, proof-of-work, proof-of stake 
+4 
+3. 
+Economics of the Blockchain, Types of Blockchains, Crypto-assets, 
+Hyperledger, Smart Contracts and Applications, Best practices in 
+organizations 
+5 
+4. 
+Blockchain-based eMarketplaces, Decentralization of Businesses, 
+DAO, Dapps 
+5 
+5. 
+Blockchain use cases in Healthcare, Finance, Government and Public 
+Sector, Supply Chain Management, Media and Entertainment, 
+blockchain enabled business models 
+5 
+6. 
+Security, privacy and ethical issues, Interoperability, Blockchain 
+Trilemma, Adoption Challenges, Blockchain governance, Blockchain 
+regulations 
+5 
+B. Pre-requisites (if any): None
+
+[Page 2]
+7. References: 
+1. Tapscott, D., & Tapscott, A. (2016). Blockchain revolution: How the technology behind 
+bitcoin is changing money, business, and the world. New York: Penguin. 
+2. Mougayar, W. (2016). The Business Blockchain: Promise, Practice, and Application of 
+the Next Internet Technology. New Jersey: Wiley 
+3. Nakamoto, S. (2008). Bitcoin: A peer-to-peer electronic cash system. 
+4. Saurabh, K., & Saxena, A. (2020). Blockchain Technology: Concepts and Applications. 
+New Delhi: Wiley 
+5. Narayanan, A., Bonneau, J., Felten, E., Miller, A., & Goldfeder, S. (2016). Bitcoin and 
+cryptocurrency technologies: a comprehensive introduction. Princeton University 
+Press. 
+Dated: 27/08/2025 
+Proposer: Sourya Joyee De 
+
+Dated: 
+DUGC/DPGC Convener: 
+
+ 
+
+This course is approved/not approved. 
+
+ 
+Charman, SUGC/SPGC: 
+
+ 
+Dated:

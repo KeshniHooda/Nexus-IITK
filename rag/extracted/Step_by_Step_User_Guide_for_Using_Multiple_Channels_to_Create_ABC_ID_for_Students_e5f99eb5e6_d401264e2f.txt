@@ -1,0 +1,492 @@
+[PAGE 1]
+Step by Step User
+Guide
+
+Using Multiple Channels to Create ABC ID
+
+for Students
+
+Date: 20 September 2023                                  Version 1.0
+
+[PAGE 2]
+Step by Step Guide
+ABC ID Creation
+
+Contents
+
+Contents
+
+Contents .......................................................................... 2
+
+Introduction ..................................................................... 3
+
+Benefits of ABC ID creation via Multiple Channels ....................... 3
+
+Students Mode ................................................................... 4
+
+o ID creation via DigiLocker Portal ..................................... 5
+
+o ID creation via UMANG Portal ....................................... 12
+
+o ID creation via ABC Portal ............................................ 18
+
+Page 2 of 23
+
+[PAGE 3]
+Step by Step Guide
+ABC ID Creation
+
+Introduction
+
+This comprehensive step-by-step guide  is designed to establish a structured
+
+framework for the systematic generation of Academic Bank of Credits (ABC) IDs
+
+across diverse platforms.
+
+This guide encompasses the entire process of generating ABC IDs for students
+
+through a range of channels, including academic institution portals, DigiLocker,
+
+UMANG, the Academic Bank of Credits portal, and the "UIDSE+" mode for bulk ID
+
+creation.
+
+Students are provided with multiple registration channels to establish an ABC ID.
+
+They have the flexibility to select from the available registration avenues, input
+
+their academic information into the designated form, and subsequently generate
+
+an ABC ID accompanied by a shareable PDF document.
+
+Benefits of ABC ID creation
+
+Creating ABC IDs offers numerous benefits, including:
+
+• Unique Student ID: The issuance of ABC IDs assigns a distinct and permanent
+
+identifier to each student, commencing from Class I. This ensures seamless
+
+academic tracking throughout their educational journey.
+• Academic  Progress  Monitoring:  ABC  IDs  facilitate  continuous  and
+
+comprehensive monitoring of students' academic performance from the
+
+outset.
+•  Highlighting Areas for Growth: Educators have the  ability to pinpoint
+
+subject-specific areas where students may benefit from additional support
+
+based on  their academic  data  linked  to ABC  IDs,  enabling  targeted
+
+interventions for improvement.
+
+Page 3 of 23
+
+[PAGE 4]
+Step by Step Guide
+ABC ID Creation
+
+•  Streamlined Record Keeping: The ABC system provides a secure and
+
+organized repository for students' academic records, greatly diminishing the
+
+need  for  cumbersome  paper-based  documentation  and  simplifying
+
+administrative tasks.
+• Enhanced Student Flexibility: The ABC empowers students with the freedom
+
+to multiple entry, multiple exit in their educational program, fostering a
+
+personalized learning journey.
+• Long-Term Credit Storage: Student credits are securely preserved for a
+
+maximum of 7 years, ensuring that their academic achievements remain
+
+accessible and relevant throughout their career.
+•  Streamlined Credit Transfer: The system offers a single-window platform
+
+for the seamless transfer of credits, simplifying the process after the
+
+approval of both the sending and receiving academic institutions.
+•  Verified  Institution  Uploads:  Only  verified academic  institutions  are
+
+authorized to upload credits, maintaining the integrity of the system and
+
+ensuring the credits accumulation.
+
+Students Mode
+
+The step-by-step procedure for students to create their ABC ID is meticulously
+
+outlined below, accompanied by screenshots for enhanced clarity. Before that,
+
+the following overview demonstrates the user-friendliness and simplicity of the
+
+entire process:
+
+UMANG
+DigiLocker        ABC
+
+Register under any               Sign-In to the            Enter Institution         Get yourself an
+of the channels              selected channel         and other details           ABC ID
+
+Page 4 of 23
+
+[PAGE 5]
+Step by Step Guide
+ABC ID Creation
+
+ID creation via DigiLocker Portal
+
+• An ABC ID can be created in DigiLocker using various methods, including the
+
+web portal, mobile app, and the simplest method, QR code scanning
+•  Step 01: Visit the DigiLocker Portal at https://www.digilocker.gov.in/
+
+•  Click on the “Sign in” button on the top corner, if you are a new user → click
+
+on the “Sign up” button
+
+•  Step 02: Fill all the requisite information as asked and set six-digit login PIN
+
+for additional security → hit the submit button
+
+•  Enter the OTP that is sent to the registered mobile and hit the “Submit”
+
+button again → a new account will be created, now Verify you account
+
+through aadhar for accessing Issued Documents
+
+Page 5 of 23
+
+[PAGE 6]
+Step by Step Guide
+ABC ID Creation
+
+•  Step 03: Signout and Sign in to the DigiLocker portal by entering the
+
+registered credentials
+•  Enter the registered mobile number, followed by security PIN → verify OTP
+
+will be prompted → enter the OTP and hit the “Submit” button
+
+•  Step 04: Once logged in, under the home page ->click the “Join Now” button
+
+of the Academic Bank of Credits banner → ABC ID creation window will pop
+
+up
+
+Page 6 of 23
+
+[PAGE 7]
+Step by Step Guide
+ABC ID Creation
+
+•  Step 05: Enter the requisite details and hit the “Get Document” button
+• Name as per Aadhaar, Date of Birth and Gender would be prepopulated, you
+
+will have to enter the Admission Year, Identity Type, and Identity value and
+
+select your academic Institution from the drop-down window.
+
+•  Under “Identify Type”, you have to select “Roll Number”, “Registration
+
+Number”, Enrolment Number or New Admission and enter its value
+
+Page 7 of 23
+
+[PAGE 8]
+Step by Step Guide
+ABC ID Creation
+
+•  Step 06: Scroll and select your Institution Name and hit “Ok”, once you are
+
+satisfied with the entered information → Check the consent statement and
+
+click the “Get Document” button.
+• A confirmation message stating that “ Your request has been submitted” will
+
+be prompted next.
+
+Page 8 of 23
+
+[PAGE 9]
+Step by Step Guide
+ABC ID Creation
+
+• You will be redirected to the “Issued Documents” section immediately,
+
+where your ABC ID gets shown to you as under:
+
+•  Step 07: Hit the download     icon   and a PDF of your ABC ID gets shown
+
+to you as under:
+
+Page 9 of 23
+
+[PAGE 10]
+Step by Step Guide
+ABC ID Creation
+
+ABC ID creation via QR Code scanning:
+
+• ABC ID creation via QR Code scanning is a straightforward approach and the
+
+simplest one.
+•  Step 01: Scan the QR Code → you will be redirected to DigiLocker app →
+
+Once you're logged in, you'll find a form that already contains your Name,
+
+Date of Birth, and Gender prepopulated. Next, choose the Admission year,
+
+your Identity Type, enter your Identity value, and select your Academic
+
+Institution from the provided dropdown list.
+•  Step 2: To complete the process, simply click the "Get Document" button,
+
+and you'll witness your ABC ID being generated or fetched as shown in the
+
+second screenshot.
+
+Page 10 of 23
+
+[PAGE 11]
+Step by Step Guide
+ABC ID Creation
+
+•  Step 3: After the ABC ID is successfully created or fetched, you can locate it
+
+under the "My Issued Documents" section. To view your ABC ID, simply click
+
+on the three dots located on the right side of the entry.
+
+Page 11 of 23
+
+[PAGE 12]
+Step by Step Guide
+ABC ID Creation
+
+ID creation via UMANG Portal
+
+•  Step 01: Visit the UMANG Portal at https://web.umang.gov.in/landing/
+•  Click on the “Login/Register” button on top right corner of the landing page
+
+• UMANG offers two modes of login one directly via the Login page and secondly
+
+using Meri Pehchaan. Login via UMANG is a direct approach where you have
+
+to enter a mobile number and security PIN followed by an OTP verification
+
+and the Meri Pehchaan login is similar to ABC portal login which we have seen
+
+earlier (refer to ID creation via ABC portal)
+•  Here login via UMANG’s default mode is been discussed. If you are an existing
+
+user enter your mobile number and MPIN or you can use the mobile number
+
+and OTP login
+•  Step 02: If you are a new user, click “Register here”, you will be prompted
+
+to the following window.
+
+Page 12 of 23
+
+[PAGE 13]
+Step by Step Guide
+ABC ID Creation
+
+•  Enter your mobile number and hit the “Get OTP” link, an OTP will be sent to
+
+your registered mobile number. Enter the received OTP
+
+•  Step 03: Once you enter the received OTP, you will be directed to the
+
+following page, where it asks for setting of the security PIN
+
+Page 13 of 23
+
+[PAGE 14]
+Step by Step Guide
+ABC ID Creation
+
+•  Following that it asks for setting up of the “Account Recovery options” such
+
+as alternative number, email address and security questions. You can click
+
+the “ask me later “ button
+
+•  Step 04: Click on the login button, it will take you to the Sign in and Sign up
+
+page
+
+The dashboard page has a main banner to login to the ABC page
+
+Page 14 of 23
+
+[PAGE 15]
+Step by Step Guide
+ABC ID Creation
+
+•  Step 05: Provide consent and click the “Allow” button, and you will be taken
+
+to the Issued Document section of your DigiLocker account.
+
+•  Click the + Add button or type “ABC” or “Academic” word you will see
+
+Academic Bank of Credits dropdown option popping up, select that option.
+•  Window with List of Academic Bank of Credits gets shown, click on the “ABC
+
+ID Card”
+
+Page 15 of 23
+
+[PAGE 16]
+Step by Step Guide
+ABC ID Creation
+
+• A window shall pop up like that of the DigiLocker portal
+
+•  Step 06: Enter the Admission Year, Identity Type (i.e, your Roll Number,
+
+Register Number, Enrollment Number or the Admission Number) and Identity
+
+value (selected Identity Types’ value Eg: BE20230146) and select your
+
+academic Institution from the drop-down window and check the consent
+
+language (read thoroughly) and hit the “Get Document” button
+
+Page 16 of 23
+
+[PAGE 17]
+Step by Step Guide
+ABC ID Creation
+
+• You will be redirected to the Issued Documents section, where you can see
+
+the generated ABC ID
+
+•  Step 07: Click on the “ABC ID Card”, you will be redirected to the download
+
+window of the ABC card
+
+•  Step 08: Click the “Download ABC ID” button, and your ABC ID card gets
+
+downloaded, upon double-clicking, you can view the same.
+
+•  Your ABC ID card has been successfully created.
+
+Page 17 of 23
+
+[PAGE 18]
+Step by Step Guide
+ABC ID Creation
+
+ID creation via ABC Portal
+
+•  Step   1:   Visit  the  dedicated   portal   of   the  ABC  website   at
+
+https://www.abc.gov.in/
+
+•  Step 2: Click on the student dropdown option, and you shall be redirected
+
+to the Meri Pehchaan sign-in window.
+• You shall be offered three modes of login option.
+
+o Mobile PIN OTP login
+
+o Username PIN OTP Login
+
+o And Others Login Option
+
+Page 18 of 23
+
+[PAGE 19]
+Step by Step Guide
+ABC ID Creation
+
+Option 01                                     Option 02                                     Option 03
+
+•  Step 3: Select the option which suits you, before that if you are a new user,
+
+register afresh -→ click on the “Sign Up” button.
+• A registration form window will be prompted in which your basic details need
+
+to be entered.
+
+Page 19 of 23
+
+[PAGE 20]
+Step by Step Guide
+ABC ID Creation
+
+•  Enter your ten-digit mobile number → click “Generate OTP” button →
+• Once the OTP is entered, enter the rest of the details such as your full name,
+
+Date of Birth, Gender, Username, and Six-digit PIN → click the consent check
+
+box, before that, read the terms of use conditions thoroughly → click the
+
+“Verify” button → upon successful verification, you shall be prompted to
+
+enter your aadhaar followed by OTP verification
+
+•  If the mobile number already exists, you will be prompted to login as under
+
+Page 20 of 23
+
+[PAGE 21]
+Step by Step Guide
+ABC ID Creation
+
+•  Step 4: Enter your ten-digit number → you choose PIN-less authentication by
+
+clicking the “PIN-less authentication” or you enter the PIN that you have
+
+created at the time of registration
+•  In case you forgot the PIN → Opt for the “Forget Security PIN” clickable link
+
+•  Step 5: Enter all the requisite login information → Upon pressing the “Sign
+
+In”, an OTP shall be sent to your registered mobile number and email address.
+
+• Once the OTP is entered, you shall be directed to the ABC Dashboard
+
+•  Step 6: For a new user, you shall be prompted with a window, asking Name
+
+of your existing Academic Institution, Admission Year, Identity Type (Roll
+
+Number, Registration Number, Admission Number etc) and Identity value
+
+(Identity Type value Eg: Roll No: 636008)
+
+Page 21 of 23
+
+[PAGE 22]
+Step by Step Guide
+ABC ID Creation
+
+• Select and enter all the requisite information, and hit the “Submit” button.
+• Upon clicking the “Submit” button, a new ABC student ID account shall be
+
+generated as under:
+
+228-471-591-220
+
+• Click on the “Go to Dashboard” button → you shall be redirected to the ABC
+
+student Dashboard.
+
+Page 22 of 23
+
+[PAGE 23]
+Step by Step Guide
+ABC ID Creation
+
+•  Here is a sample representation of a student's credit accumulation from their
+
+academic institution against their ABC ID:
+
+Page 23 of 23

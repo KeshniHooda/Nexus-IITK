@@ -1,0 +1,134 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course for Undergraduate studies
+
+1.  Course No: SPA4XX
+2.  Course Title: Introduction to Space Technology
+3.  Per Week Lectures: 3(L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours[0-2]:2 (A), Credits
+(3*L+2*T+P+A): 9, Duration of Course: Full Semester
+
+4.  Proposing Department/IDP : Space, Planetary & Astronomical Sciences & Engineering (SPASE)
+
+Other Departments/IDPs which may be interested in the proposed course:
+
+Other faculty members interested in teaching the proposed course:
+
+5.  Proposing Instructor(s): Soumyabrata Chakrabarty and Pankaj Jain
+
+6.  Course Description:
+
+A.  Objectives: The objective of this course is to introduce the students from interdisciplinary
+Engineering streams to various topics of Space Technology which are imperative for the design,
+development, operation, and application of a spacecraft system.
+
+B.  Contents (preferably in the form of 5 to 10 broad titles):
+S No.    Broad Title                            Topics                       No. of
+lectures
+1      Introduction     Recapitulation of the basic concepts related to Earth’s  2
+atmosphere,  ionosphere,  spacecraft  orbits,  earth’s
+radiation belts etc.
+2      Basics of         Injection  into  orbit with a  conventional  launcher,  5
+launch vehicle   transfer    phase,   Hohmann    transfer     orbit,
+design &       geosynchronous  transfer  orbit,  positioning  phase,
+Missiles          different types of launchers: basic principles, specific
+impulse,  rocket  equation,  Indian  launch  vehicles;
+elements of SLV, ASLV, PSLV, GSLV, SSLV, RLV.
+3      Guidance,      The  fundamental  concepts  of GNC  systems  for  4
+Navigation &     spacecraft,  Analysis  of  spacecraft  trajectories and
+Control (GNC)    attitude, design and evaluation of control laws for
+stability and performance, familiarization with sensors
+and actuators used in GNC systems, practical aspects of
+implementation in space missions
+4      Fundamentals   Coordinate reference frames, space flight mechanics  3
+of mission      and  attitude  dynamics,  Attitude  parameterization
+trajectory        (direction  cosine  matrix,  Euler  axis  and  angles,
+design          quaternions,  Euler  angles),  attitude  rates,  attitude
+determination, Euler equation and attitude dynamics
+5       Different       Space segments, power system, attitude and orbit  4
+segments of     control system, station keeping, thermal control, TT&C
+an artificial      subsystem,   payloads,  propulsion  system;  earth
+satellite        segments; receive-only home TV systems, transmit-
+receive earth stations, large earth stations.
+
+[PAGE 2]
+Materials for    Overview of the space environment, Effects of vacuum,  6
+Spacecrafts      microgravity, radiation, and thermal cycling, atomic
+oxygen and micrometeoroid impacts, Launch and re-
+entry stresses; key material properties: Mechanical:
+strength, stiffness, toughness, Thermal: conductivity,
+expansion, resistance, Electrical: conductivity, dielectric
+strength, Radiation resistance;  Criteria for material
+selection in spacecraft design, mass minimization and
+structural efficiency, Space qualification of spacecraft
+material and tests matrices
+6      Navigational     Introduction to Satellite Navigation, Basic Concepts of  3
+Satellite          Satellite Navigation, Global Navigation Satellite Systems
+System          (GNSS), IRNSS/NavIC, GPS, GLONASS, Galileo, BeiDou
+7       Satellite Data    Fundamentals of  satellite  digital image processing,  4
+and Image      fundamentals     photogrammetry,     cartography,
+Processing      microwave radar imaging system
+8      Basics of         Definition and overview of remote sensing systems:  4
+Satellite Data    Electromagnetic  radiations,  laws  of  radiation, EM
+products and    spectrum,  sources  of EM  Radiation,  interaction
+services       between EM   radiation  and  matter,   reflection,
+absorption and transmission, Interaction between EM
+radiation and  atmosphere,  atmospheric  windows.
+Different platforms types: Airborne and spaceborne:
+satellites for earth observations
+9      Space Laws      Introduction to the need and overview of all aspects of  4
+and Policy      space  laws  and   its  interface  with  international
+conventions and  treaties,  introduction and  basic
+principles of international law, Indian space bill and
+space policy 2022, Space-enabled Communication and
+services regulation, space tourism,
+
+C.  Pre-requisites: Not Applicable.
+
+D.  Short summary for including in the Courses of Study Booklet: The aim of this course is to
+introduce the students from interdisciplinary Engineering departments and centres to the
+fundamentals of the Space Technology topics related to manmade orbital space assets for
+different applications. The students will learn about Satellite orbits, launch vehicles, different
+segments of a satellite system, Navigation and remote sensing satellite systems, image
+processing and data products, space laws and policies. The course  is targeted for  all
+engineering disciplines.
+
+7.  Recommended books:
+
+Textbooks:
+-   Pratap Misra & Per Enge, Global Positioning System: Signals, Measurements, and Performance,
+Ganga-Jamuna Press.
+-   Edberg, D., and Costa, W., Design of Rockets and Space Launch Vehicles, AIAA Education Series,
+2020
+
+[PAGE 3]
+-   Kadam, N. V., Practical Design of Flight Control Systems for Launch Vehicles and Missiles, Allied
+Publishers, 2009
+-    Wiesel, W. E., Spacecraft Dynamics, 2nd ed, McGraw-Hill 1997
+-   Noton, M., Spacecraft Navigation and Guidance, Springer 1998
+-   Charles Elachi, Jakob van Zyl, ‘Introduction to the Physics and Techniques of Remote Sensing’
+John Wiley & Sons, Inc., Hoboken, New Jersey, 2006.
+-  Fawwaz t. Ulaby Richard K. Moore Adrian k. Fung ‘Microwave Remote Sensing: Active and
+passive’, Vol. 1, Artech House, 1981
+-
+
+Reference Books:
+
+-    Iain H. Woodhouse, ‘Introduction to Microwave Remote Sensing’, CRC Press, Taylor & Francis
+Group, 2006.
+-   Alan C. Tribble, ’The Space Environment: Implications for Spacecraft Design’, Princeton
+University Press, Princeton New Jersey, 2003.
+-   Gerard Maral, Michel Bousquet, ‘Satellite Communications Systems, Systems, Techniques
+and Technology’ John Wiley & Sons Ltd, 2009
+
+8. Any other remarks:
+
+Dated: 05.08.2025 Proposer: Soumyabrata Chakrabarty and Pankaj Jain
+
+Dated:_______________ DUGC/DPGC Convener:___________________
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC
+
+Dated:______________________________

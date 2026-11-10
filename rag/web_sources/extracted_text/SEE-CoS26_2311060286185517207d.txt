@@ -1,0 +1,1687 @@
+[Page 1]
+Indian Institute of Technology Kanpur 
+ COURSES OF STUDY 
+ 2026 
+
+ 
+ 
+ Indian Institute of Technology Kanpur 
+ KANPUR-208016
+
+[Page 2]
+SUSTAINABLE ENERGY ENGINEERING
+
+[Page 3]
+Note: SEE888 is compulsory for all the Ph.D. scholars, but not mandatory for comprehensive examination.
+
+[Page 4]
+Department of SEE 
+Course ID 
+Course Title 
+Credits 
+L-T-P-C 
+Content 
+SEE-211 
+ENERGY CLIMATE 
+CHANGE AND 
+SUSTAINABILITY 
+3-0-0-9 
+The objective of this course is to make students understand the 
+importance of energy in the context of human development and 
+its consequences. The course will cover the evolution and types 
+of energy technologies, the role of materials, mining, and 
+manufacturing. It will also teach the issues created by the 
+increasing energy demand coupled with increasing population 
+and changing lifestyles, environmental issues caused by 
+growing energy demand and global warming, carbon cycle, 
+emissions, and sequestration and finally, the possible way 
+forward for a sustainable future. 
+Course References: 
+1. Sustainable Energy – Choosing Among Options. J.W. 
+Tester, E.M. Drake, M.W. Golay, M.J. Driscoll, and W.A. 
+Peters. MIT Press (2005) 
+2. Energy and the Environment, James A. Fay & Dan S. 
+Golomb 
+3. Energy and Civilization: A History, Vaclav Smil, The MIT 
+Press (2017) 
+4. Atmospheric Science, Wallace, and Hobbs 
+5. Earth’s Climate Past and Future, William F Ruddiman 
+6. Understanding Climate Change Feedback, National 
+Research Council 
+7. Climate change and technological options, Konrad and 
+Hurtmud 
+8. Human impacts on weather and climate, William R. 
+Cotton 
+SEE-601 
+THERMO-FLUID 
+ENGINEERING 
+3-0-0-9 
+Fluid Mechanics: Basic concepts, fluid Statics, conservation of 
+mass and momentum and energy in an inertial and non-inertial 
+frame of reference, Dimensional Analysis, inviscid and viscous 
+fluid flow: external and internal, boundary layer theory; Heat 
+Transfer: Basic concepts of conduction, convection, and 
+radiation; one-dimensional steady state and unsteady state 
+conduction; Network circuit analysis; Convective heat transfer; 
+Forced and free convection over flat plate and in pipes; Boiling 
+and condensation; Radiation heat transfer, radiation properties, 
+and shape factors; heat exchange between real surfaces; 
+radiation network for an absorbing and transmitting medium; 
+Basics of solar radiation; Applications: Heat exchanger design. 
+Course References: 
+1. Introduction to Fluid Mechanics -Fox, McDonald, 
+Pritchard 
+2. Fluid Mechanics - F. M. White 
+3. Fundamentals of Heat and Mass Transfer -Bergman, 
+Lavine, 
+4. Incropera, Dewitt 
+5. Heat Transfer – Cengel
+
+[Page 5]
+SEE-602 
+PHYSICS OF ENERGY 
+MATERIALS 
+3-0-0-9 
+Semiconductors: Elements of basic quantum mechanics, 
+reciprocal lattice, band theory, direct and indirect bandgap 
+semiconductors, intrinsic and extrinsic semiconductors and 
+their 
+properties, 
+optical 
+absorption, 
+generation, 
+and 
+recombination in semiconductors. 
+Ionic transport: ionic and electronic conductivity, Nernst 
+equation, transport in ionic media. Thermal Properties: 
+Phonons, Heat capacity, Thermal conductivity. 
+Phase transitions: Phase transitions, phase change materials- 
+fundamentals & applications. Applications: Solar photovoltaics, 
+LEDs, Solar thermal materials, thermoelectrics, batteries. 
+Course References: 
+1. Introduction to Solid State Physics by C. Kittel 
+2. Electronic Properties of Materials by R.E. Hummel 
+3. Solid State Physics by A.J. Dekker 
+4. Semiconductor Device Fundamentals by R. F. Pierret 
+SEE-603 
+BASIC ELECTRICAL 
+ENGINEERING 
+3-0-0-9 
+Introduction, 
+Single-Phase 
+Circuits, 
+Power 
+Calculation; 
+Analysis of 3-Phase Circuits, Mutually Coupled Circuits, 
+Transformers: Magnetic Circuits, Equivalent Circuit and 
+Performance 
+Direct-Current Machines: Construction: Equivalent Circuit, 
+Torque-Speed 
+Characteristics, 
+Applications 
+Induction 
+Machines: Construction, Equivalent Circuit, Torque-speed 
+characteristics, 
+Speed 
+Control, 
+Starting, 
+Applications 
+Synchronous Machines: Construction, Equivalent Circuit, 
+Generator & Motor Operation, Power Angle Characteristics, 
+Hunting, Pull-Out Principles of Industrial Power Distribution 
+Course Reference: 
+1. Fundamentals of Electric Circuits, Alexander, and 
+Sadiku. 
+2. Introductory Circuit Analysis, R. L. Boylestad, 
+3. Electric machinery fundamentals, Stephen J Chapman, 
+4. Electric Machinery, A. E. Fitzgerald, Charles Kingsley 
+Jr., 
+5. Stephen D. Umans, 
+6. Engineering Circuit Analysis, Hayt, Kemmerly and 
+Durbin, 
+7. Principles and applications of electrical engineering, 
+Giorgio 
+8. Rizzoni 
+SEE-604 
+THERMODYNAMICS 
+OF ENERGY 
+SYSTEMS 
+3-0-0-9 
+Open and closed systems, first and second laws, concept of 
+characteristic potential and entropy, control volume analysis, 
+properties of pure substance, chemical potential, phase 
+equilibrium, binary solutions, chemical reaction, Air standard 
+cycles, Rankine cycle, reheat and regenerative Rankine cycles, 
+Vapour compression refrigeration cycle, Heat pump, vapour 
+absorption cycle (qualitative analysis only), properties of moist 
+air, Psychrometric chart, air- conditioning processes, Solar 
+intensity on a tilted plane, flat plate collector, concentration limit, 
+parabolic trough and parabolic dish collector, central receiver 
+tower, thermal storage system, Basics of electrochemistry, 
+equilibrium electrochemistry, kinetics, fundamental; of a battery, 
+fundamentals of a fuel cell 
+Course References:
+
+[Page 6]
+1. Thermodynamics - an engineering approach, Cengel 
+and Boles, 
+2. 7th Edition, Mcgraw Hill Education 
+3. Chemical Engineering Thermodynamics, Smith, Van 
+Ness, and 
+4. Abbott, 7r.h edition, Mcgraw Hill 
+5. Solar Energy - Principles of Thermal Collection and 
+Storage, SP 
+6. Sukhatme, JK Nayak, third edition, 2008, McGraw Hill 
+7. Electrochemical Systems, Newman and Aiyea, Wiley 
+Inter 
+Science 
+8. Fuel Cell Systems Explained, Larminie, Dicks, Second 
+Edition, Wiley 
+SEE-605 
+AN INTRODUCTION 
+TO SUSTAINABLE 
+ENERGY 
+TECHNOLOGIES 
+2-0-3-9 
+Introduction to energy sustainability; Introduction to Sustainable 
+Energy Systems including thermal (Rankine/Brayton cycle) 
+conversion, photovoltaic technologies and their testing, solar 
+thermal engineering including conversion and storage, fuel 
+cells, wind energy systems, batteries, supercapacitors, 
+hydrogen as fuel, its generation and storage, tidal energy. 
+Course References: 
+1. Energy storage, Robert A. Huggins, Springer Science & 
+Business Media, 2010 
+2. The Physics of Solar Cells, Jenny A. Nelson, World 
+Scientific 
+3. Publishing Company 
+4. Fuel Cell Fundamentals, R. O'Hayre, S-W. Cha, W. 
+Colella, F. B. 
+5. Prinz, John Wiley and Sons, USA, 2005 
+6. Advanced Batteries: Materials Science Aspects, Robert 
+Huggins, 
+7. Springer; 2009. 
+8. Power System Analysis, John J. Grainger and William 
+D. 
+9. Stevenson, Jr., Tata McGraw- Hill, 2003. 
+SEE-606 
+ELECTROCHEMICAL 
+ENERGY SYSTEMS 
+3-0-0-9 
+Thermodynamics of electrochemical systems; equilibrium and 
+non-equilibrium phenomena in electrochemical systems; 
+chemical vs electrochemical kinetics; energy devices in 
+electrochemistry: batteries, Supercapacitors, fuel cells, solid 
+oxide fuel cells. 
+Course References: 
+1. Energy storage, Robert A. Huggins, Springer Science & 
+Business Media, 2010., 
+2. Energy storage: A new approach, Ralph Zito, Wiley, 
+2010., 
+3. Electrochemical Engineering Principles, Prentice Hall 
+Publications, 1990., 
+4. Electrochemical Systems, J. Newman and N. P. 
+Balsara, Wiley Publications, 4th Edition, 2021., 
+5. Advanced Batteries: Materials Science Aspects, Robert 
+Huggins, Springer; 2009., 
+6. Electrochemical 
+Supercapacitors: 
+Scientific 
+Fundamentals and Technological, B. E. Conway, 
+Springer; 1999.,
+
+[Page 7]
+7. Supercapacitors: Materials, Systems, and Applications, 
+Max Lu, Francois Beguin, Elzbieta Frackowiak, Wiley, 
+2013. 
+8. Fuel Cell Fundamentals, R. O'Hayre, S-W. Cha, W. 
+Colella, F. B. Prinz, John Wiley and Sons, USA, 2005, 
+9. Fuel Cells: From Fundamental to Applications, S. 
+Srinivas, 
+Springer, USA, 2006., Principles of Fuel Cells, X. Li, 
+CRC Press, USA, 2005., 
+10. Fuel Cells: Principles and Applications, B. Viswanathan 
+and M. A. Scibioh, Universities Press, India, 2006., 
+11. Electrochemical methods, 2nd Ed., A.J. Bard and L.R. 
+Faulkner, 
+12. John Wiley & Sons, Inc., 2001, 13. The CRC Handbook 
+of Solid-State Electrochemistry, Edited by P.J. Gellings 
+and H.J.M. Bouwmeest 
+SEE-607 
+HYDROGEN ENERGY: 
+PRODUCTION, 
+STORAGE AND 
+UTILIZATION 
+3-0-0-9 
+Overview of a hydrogen-based economy and hydrogen energy. 
+Important components of the utilization of hydrogen energy: 
+production, storage, transportation, and conversion to thermal 
+or electrical energy. Methods of hydrogen production: 
+Reforming of Carbonaceous Sources, Pyrolysis of Biomass and 
+reformation of bio- oil and gaseous products, Gasification of 
+Renewable Biomass and its Reformation, Electrolysis of Water, 
+Thermochemical splitting of water, Photo-catalytic and photo-
+electrochemical routes for hydrogen production and Biological 
+Hydrogen Production. Methods of hydrogen storage and 
+associated apparatus. Characterization of hydrogen storage 
+materials. Applications based on hydrogen as a working fluid: 
+Vehicular Applications, Purification, Thermal Energy Storage, 
+backup power, Compressor, Heating and Cooling system, and 
+Reversible gettering. Conversion of hydrogen into thermal and 
+electrical energy. Fuel cell for hydrogen. 
+Course References: 
+1. Hydrogen Energy: Challenges and Solutions for a 
+Cleaner Future, Bahman Zohuri, Pergamon Press, 
+Springer, 2019. 
+2. Handbook of Hydrogen Energy, Eds.: S.A. Sherif, D.YI. 
+Goswami, E.K. Stefanakos, A. Steinfield, CRC Press, 
+2014. 
+3. Compendium 
+of 
+Hydrogen 
+Energy: 
+Hydrogen 
+Production and Purification, edited by Velu Subramani, 
+Angelo Basile, T. Nejat Veziroglu, Elsevier, 2015. 
+SEE-608 
+INTRODUCTION TO 
+BIOENERGY AND 
+BIOFUELS 
+3-0-0-9 
+This course contents include renewable feedstocks, biomass to 
+low-carbon energy systems including biopower, bioheat, and 
+biofuels, including conversion technologies, end products, and 
+their applications. The course encompasses thermochemical 
+energy 
+processes 
+(gasification, 
+pyrolysis, 
+reforming), 
+mechanical and chemical processes (oil extraction and trans-
+esterification), and biochemical processes (fermentation and 
+anaerobic digestion). Characterization of biofuels. Concepts of 
+sustainability, systems thinking, Life Cycle Analysis (LCA), 
+environmental issues, prevailing energy policies, the economics 
+of energy markets, and incorporation of these concepts into 
+bioenergy systems.
+
+[Page 8]
+Course Reference: 
+1. Biofuels and Bioenergy, John Love, John A. Bryant, 
+ISBN: 978-1-118-35056-0, Wiley- Blackwell (2017) 
+2. Biomass for renewable energy, fuels, and chemicals. 
+D.L. Klass, Academic Press. 
+3. Biohydrogen, Ashok Pandey, S. Venkata Mohan, Jo-
+Shu Chang, Patrick C. Hallenbeck, Christian Larroche, 
+ISBN 978-0-444-64203-5, second edition, Elsevier 
+(2019) 
+4. Robert C. Brown, Biorenewablc Resources: Engineering 
+New 
+Products 
+from 
+Agriculture. 
+Wiley-Blackwell 
+Publishing (Second Edition) 
+5. Ycbo Li and Samir Kumar Khanal, Bioenergy: Principles 
+and Applications. Willey Blackwell, ISBN: 10-987-65-
+4321 (2016) 
+6. Sunggyu Lee and Y.T. Shah, Biofuels and Bioenergy 
+Processes and Technologies. CRC Press (2013) 
+7. Sergio C. Capareda, Introduction to Biomass Energy 
+Conversions, CRC Press, ISBN: 978-1-4665-1333-4 
+(2013). 
+SEE-609 
+MATHEMATICAL AND 
+COMPUTATIONAL 
+TOOLS FOR 
+ENGINEERING 
+3-0-0-9 
+At the end of the course, the student should be able to: 
+Solve simple mathematical problems (system of equations, 
+PDEs/ODEs, curve fittings, data analysis) using programming 
+languages like MATLAB/Python. 
+Analyze complex engineering systems (coupled multiphysics 
+mathematical 
+systems) 
+using 
+software 
+tools 
+like 
+COMSOL/ANSYS. 
+Formulate 
+mathematical 
+methods/models 
+for 
+energy 
+engineering problems. 
+Write codes in Python/MATLAB and solve research problems in 
+commercial tools. 
+Perform data analytics on experimental/analytical/numerical 
+data (statistics, processing, curve-fitting, correlation) and 
+perform interpretations (interpolations/extrapolations) 
+Course References: 
+1. S. C. Chapra and R. P. Canale, Numericnethods for 
+engineers, 7th ed, (McGraw-Hill Education, 2015) 
+2. Mahendra K Verma. Practical Numerical Computing 
+Using Python: Scientific & Engineering Applications. 
+(Independently Published, 2021). 
+3. K.E. Atkinson, An Introduction to Numerical Analysis, 
+(Wiley, 1978). 
+4. William H. Press, Saul A. Teukolaky, William T. 
+Vetterling, Brian P. Flannery. Numerical recipes: the art 
+of scientific computing, (Cambridge University Press, 
+2007) 
+5. Krevazig, Advanced Engineering Mathematics, (Wiley, 
+2006) 
+6. RV. Hogg, A. T. Craig, Introduction to mathematical 
+statistics, (Macmillan, 1970) 
+7. N. R. Draper, H. Smith, Applied regression analysis, 
+(Wiley, 1966) 
+SEE-610 
+INTRODUCTION TO 
+MATERIALS 
+3-0-0-9 
+Module 1: Basic Theory. Introduction to molecular modelling; 
+Summary 
+of 
+classical 
+mechanics: 
+conservation 
+laws,
+
+[Page 9]
+MODELING AND 
+SIMULATIONS 
+Hamiltonian and Lagrangian formulation; Failures of classical 
+mechanics, Basic concepts in quantum mechanics: physical 
+observables and operators, expectation values, Schrödinger’s 
+equation, Heisenberg's uncertainty principle; The many-holly 
+Hamiltonian, Born-Oppenheimer approximation, variational 
+principle, the concept of the potential energy surface. 
+Ensembles arid statistical averaging. Simple numerical 
+problems to illustrate some of these concepts. (8 lectures + 2 
+computing sessions) 
+Module 2: Quantum Chemical Calculations. Hartree-Fock 
+(HF), Post Hartree-Fock approaches and DFT; Basis-sets and 
+Pseudo-potential. Applications and hands-on experience with 
+commercial software like Gaussian, VASP or CP2K. (8 lectures 
++ 2 computing sessions) 
+Module 3: Molecular Dynamics and Monte Carlo Simulations. 
+Introduction to Molecular Mechanics; Force-fields; Basics of 
+Molecular Dynamics Simulation; Minimum image convention, 
+Ewald summation, Thermostats and Barostats; Introduction to 
+Monte Carlo Methods. Applications and hands-on experience 
+with commercial software like Lammps or Gromacs. (8 lectures 
++ 2 computing sessions) 
+Module 4: Meso-scale and Rare-Event Simulation methods. 
+Coarse-grained Modeling Methods; Rare-event simulation 
+techniques like meta dynamics and umbrella sampling. 
+Applications and hands-on experience with commercial 
+software. (8 lectures + 2 computing sessions) 
+Course References: 
+1. Jensen, Frank. Introduction to computational chemistry. 
+John Wiley & sons, 2017. 
+2. Cramer, Christopher J. Essentials of computational 
+chemistry: theories and models. John Wiley & Sons, 
+2013. 
+3. Frenkel, Daan, and Berend Smit. Understanding 
+molecular simulation: from algorithms to applications. 
+Vol. 1. Elsevier, 2001. 
+4. Allen, Michael P., and Dominic J. Tildesley. Computer 
+simulation of liquids. Oxford University Press, 2017. 
+SEE-611 
+ENERGY SYSTEMS: 
+MODELLING AND 
+ANALYSIS 
+3-0-0-9 
+Introduction to integrated energy systems (6) 
+Solar PV systems with transmission grid; Solar Thermal 
+Systems for Power Generation (including ORC), heating and 
+cooling applications; wind turbine for power generation and 
+irrigation. Relevant fundamental principles (6) 
+Thermal and Wind-based systems: Class conservation, energy 
+conservation, 
+momentum 
+conservation, 
+equilibrium 
+thermodynamics, mechanics. PV-systems: I-V characteristics 
+anal maximum power point 
+Application of fundamental principles to develop solve 
+sternly/unsteady state models for performance, and design 
+calculations for operations/processes in energy systems (24) 
+Solar Thermal: Heat exchanger (e.g. boiler, feed-water heater, 
+condenser), thermal energy storage, hydro turbine; gas turbine; 
+combined cycles 
+Solar 
+PV: 
+System 
+model, 
+battery 
+(inverter) 
+storage, 
+transmission, and distribution
+
+[Page 10]
+Wind: wind turbine, generator, and system integration. 
+Dynamic analysis and design of integrated renewable energy 
+processes 
+Case study on applications: Power generation (including fuel 
+cell), Process heating, cooling, Hz generation including hybrid 
+systems (4) 
+Course Reference: 
+1. Smith 
+arid 
+Van 
+Ness, 
+Chemical 
+Engineering 
+Thermodynamics 
+2. Marlin, Process Control: Designing Processes and 
+Control Systems for Dynamic Performance 
+3. Handbook of Photovoltaics Science and Technology, 
+Antonio Luque Steven Hegedus 
+4. Handbook of Hydrogen Energy, Eds.: S.A. Sherif, D.Y1. 
+Goswami, E.K. Stefanakos, A. Steinfield, CRC Press, 
+2014. 
+5. Wind 
+Energy 
+Explained: 
+Theory, 
+Design 
+and 
+Applications - J. F. Manwell, J. G. McGowan, A. L. 
+Rogers, Wiley 
+SEE-613 
+SOLAR 
+PHOTOVOLTAICS 
+3-0-0-9 
+Introduction to solar cells: Solar spectrum, concept of airmass, 
+history of solar cells, economics, status, emerging technologies, 
+and recent development. 
+Basics of semiconductors: band theory, direct and indirect 
+bandgap 
+semiconductors, 
+intrinsic 
+and 
+extrinsic 
+semiconductors, and their properties. 
+Optoelectronic processes in solar cells: Optical absorption, 
+generation and recombination in semiconductors, charge 
+transport, charge extraction, contacts, continuity equation 
+P-N junction: Band diagram, Operation of p-n junction in forward 
+and reverse bias, depletion width, drift-diffusion currents, I-V 
+characteristics of P-h' junction in Darts and Light. 
+Device characterization of solar cells: Open circuit voltage, short 
+circuit current, fill factor, efficiency, quantum efficiency, 
+Equivalent circuit of the solar cell, series anal shunt resistance, 
+diffusion length, effect of recombination processes. 
+A brief overview of different types of solar cells: First-generation 
+technologies: 
+Primarily 
+Si-based, 
+Second-generation 
+technologies (low cost) thin films (a-Si, CdTe, CIGS), Third 
+generation (high efficiency and low cost) Organic solar cells, 
+multi-junction, 
+Perovskite 
+solar 
+cells, 
+Comparative 
+Performance, PV Processing with emphasis on migration from 
+solar cells to modules to systems, present status and future 
+outlook. 
+Course Reference: 
+1. Safa O. Kasap, Optoelectronics & Photonics: Principles 
+& Practices: International Edition, Pearson Education 
+Limited 
+2. Robert 
+F. 
+Pierret, 
+Semiconductor 
+Device 
+Fundamentals, Pearson 
+3. Jenny A. Nelson, The Physics of Solar Cells, World 
+ScientificPublishing Company 
+4. Ben G. Streetinan, Solid State Electronic Devices, 
+Prentice Hall India 
+5. Charles Kittel, Introduction to Solid State Physics, Wiley
+
+[Page 11]
+SEE-614 
+WIND ENERGY 
+3-0-0-9 
+Review of basic concepts of fluid mechanics, Introduction to 
+wind energy, Fundamentals of wind power- How wind is 
+generated, overview of wind meteorology, Estimation of wind 
+energy potential, History of wind energy harnessing methods, 
+Wincl turbine technology, Fundamentals of Horizontal axis wind 
+turbine and its design, Vertical axis wind turbine, other wind 
+harnessing. 
+Course Reference: 
+1. Wind Turbine Technology — David A Spera, ASME 
+Press 
+2. Wind Energy Engineering — T M Letcher, Academic 
+Press Wind Energy Explained: Theory, Design and 
+Applications - J. F. Manwell, J. G. McGowan, A. L. 
+Rogers, Wiley 
+3. Fluid Mechanics — F. M. White, Mcgraw-Hi11 Wind 
+Tunnel Designs and Their Diverse Engineering 
+Applications, N A Ahmed (Ed.) InTech 
+4. Small-Scale Wind Power — John Abraham ñ Brian 
+Plourde, Momentum Press 
+SEE-615 
+SOLAR THERMAL 
+ENGINEERING 
+3-0-0-9 
+Solar radiation, the reckoning of time, extraterrestrial radiation, 
+relevant angles, factors influencing intensity, estimation of 
+intensity on a tilted phone, prediction of availability, solar 
+thermal collectors, flat plate collectors, compound parabolic 
+concentrator, parabolic trough and parabolic dish, Fresnel lens 
+based concentrators, central receiver tower, thermal analysis of 
+collectors, the effect of sum tracking, performance tests for 
+collectors, thermal route to solar power, active and 
+passive heating systems, absorption cooling devices, solar 
+dryers, solar desalination systems, solar pond, sensible and 
+latent thermal energy storage systems, economic analysis of 
+solar thermal systems, sustainable habitat 
+Course Reference: 
+1. Solar Energy — Principles of Thermal Collection and 
+Storage, SP Sukhatme, JK Nayak, third edition, 2008, 
+McGraw Hill 
+2. Solar Engineering of Thermal Processes, Duffie and 
+Beckman, fourth edition, 2013, Wiley Publication 
+3. Solar Energy Engineering — Processes and Systems, 
+SA Kalogirou, first edition, 2009, Academic Press 
+4. Solar Energy — Garg and Prakash, McGraw-Hill 
+Education, 1st revised edition, 2019 
+SEE-616 
+ESSENTIAL 
+ELECTRICAL 
+ENGINEERING FOR 
+RENEWABLES 
+INTEGRATION 
+3-0-0-9 
+Introduction to power system structure and power electronics, 
+smart grills, etc. (1 Lecture), Basic circuit principles - three-
+phase circuits, power calculations (2 Lectures), Three phase 
+transformers and per unit analysis (2 Lectures), Synchronous 
+generators - models, reactances, capability curves (3 Lectures), 
+Transmission 
+line 
+parameter 
+calculation 
+(4 
+Lectures), 
+Transmission line model (4 Lectures), Power flow analysis (4 
+Lectures), Power electronic circuit components, features, 
+interconnection rules (1 Lecture), Easic Plc-dc converter 
+structures, steady-state voltage gain in ideal ad non-ideal 
+conditions (3 lectures), CCD\'I and D Chat operation of basic dc-
+dc power converters [5 lectures), DC-DC converter applications 
+in renewable systems (1 lecture), Inverters, structure, common
+
+[Page 12]
+PWM schemes, ripple-filters, steady-state analysis (5 lectures), 
+Inverter applications for interfacing renewable systems, bi-
+directional power flow (3 lectures), Resonant Converters (2 
+lectures) 
+Course Reference: 
+1. Power System Analysis, John J. Grainger and William 
+D. Stevenson, Jr., Tata McGraw-Hill, 2003. 
+2. Power System Analysis, Hadi Saadat, Tata McGraw-
+Hill, 2002. 
+3. Power System Analysis and Design, J. Duncan Glover, 
+hi. Sorma and Thomas J. Overbye, Thomson, 2008 
+4. Power Electronics, Ned Mohan & Tore M. Undeland & 
+William P. Robbins, Wiley 
+5. Power Electronics, M. H. Rashid, Pearson 
+SEE-617 
+INTRODUCTION TO 
+SUSTAINABLE 
+ENERGY POLICY 
+2-0-0-6 
+The course begins with providing an overall context about the 
+relationship between energy and society. Next, it focuses on 
+theoretical approaches to understanding the policy processes. 
+Following this, it traces the historical development of the energy 
+policy in India. The major emphasis of the course will be on the 
+more contemporary development of energy policy in India within 
+the context of global climate change governance and the 
+increasing prominence of sustainable energies within it. The 
+course ends with foregrounding the policy challenges of 
+governing a just sustainability transition towards renewables. 
+Course References: 
+1. Dubash, Navroz K. 2019. India in a Warming World: 
+Integrating Climate Change and Development. Oxford 
+University Press., 
+2. Dubash, Navroz K., Radhika Khosla, Narasimha D. Rao, 
+and Ankit Bhardwaj. 2018. “India’s Energy and 
+Emissions Future: An Interpretive Analysis of Model 
+Scenarios.” 
+Environmental 
+Research 
+Letters 
+13(7):074018. doi: 10.1088/1748-9326/aacc74., 
+3. Goldthau, A. (Ed.). (2016). The handbook of global 
+energy policy. John Wiley & Sons., 
+4. Jasanoff, Sheila. 2018. “Just Transitions: A Humble 
+Approach to Global Energy Futures.” Energy Research 
+& 
+Social 
+Science35:11–14. 
+doi: 
+10.1016/j.erss.2017.11.025., 
+5. Mitra, S. (2019). TEnergizing India: Fuelling a Billion 
+Lives. Rupa Publications., 
+6. Singh, A. (2006). Power sector reform in India: current 
+issues and prospects. Energy policy, 34(16), 2480-
+2490. 
+7. Singh, A. (2008). The economics of the Iran-Pakistan-
+India Natural Gas pipeline. Economic and Political 
+Weekly, 57-65., 
+8. Singh, A. (2009). A market for renewable energy credits 
+in the Indian power sector. Renewable and Sustainable 
+Energy Reviews, 13(3), 643-652., 
+9. Singh, A. (2009). Climate co-benefit policies for the 
+Indian power sector: domestic drivers and North—South 
+cooperation. Climate Policy, 9(5), 529-543.,
+
+[Page 13]
+10. Swarnakar, Pradip. 2019. “Climate Change, Civil 
+Society, and Social Movement in India.” Pp. 253–72 in 
+India in a Warming World. Oxford University Press., 
+11. Urpelainen, Johannes, and Setu Pelz. 2020. Covid-19 
+and a Just Transition in India’s Coal Mining Sector. John 
+Hopkins., 
+12. Vihma, Antto. 2011. “India and the Global Climate 
+Governance: Between Principles and Pragmatism.” 
+13. The Journal of Environment & Development 20(1):69–
+94. doi: 10.1177/1070496510394325., Wu, F. (2018). 
+Energy and climate policies in China and India: A two-
+level comparative study.Cambridge University Press., 
+14. Yenneti, Komali, and Rosie Day. 2015. “Procedural 
+(in)Justice in the Implementation of Solar Energy: The 
+Case of Charanaka Solar Park, Gujarat, India.” Energy 
+Policy 86:664–73. doi: 10.1016/j.enpol.2015.08.019. 
+SEE-618A 
+ENERGY EFFICIENT 
+BUILDING DESIGN 
+3-0-0-9 
+Energy use in buildings: Building sector’s energy usage and 
+associated greenhouse gas emissions. 
+Air-conditioning systems and psychrometry of air-conditioning 
+processes: Common air-conditioning systems, moist air 
+processes and their combinations used for air-conditioning. 
+Thermal comfort, indoor air quality, and indoor infection 
+transmission: 
+Physiological 
+considerations 
+in 
+comfort, 
+environmental comfort indices, comfort conditions, indoor air 
+quality concerns, common air pollutants and their control, 
+airborne 
+infection 
+transmission 
+causes 
+and 
+mitigation 
+techniques. 
+Heating load: Steady-state building heat transfer, indoor and 
+outdoor design conditions, heating load calculation. 
+Solar radiation: Earth’s motion about the sun, time, solar angles, 
+solar irradiation, heat gain through the fenestration. 
+Cooling load: Heat gain, cooling load, heat extraction rate, 
+indoor and outdoor design conditions, cooling load calculation. 
+Energy calculations and building simulation: Degree Day 
+method, weather files, software tools for energy simulation. 
+Implications of climate change on building energy use: Emission 
+trends and drivers, representative concentration pathways, 
+future weather files, climate resilience. 
+Energy-efficient and sustainable building practices: Green 
+buildings, passive solar architecture, sustainable construction 
+practices, case studies. 
+Course References: 
+1. Heating Ventilating and Air Conditioning – Analysis and 
+Design by McQuiston, Parker, and Spitler 
+2. ASHRAE Handbook—Fundamentals 
+3. Buildings. In: Climate Change 2014: Mitigation of 
+Climate Change. Contribution of Working Group III to the 
+Fifth Assessment Report of the Intergovernmental Panel 
+on Climate Change. 
+4. Green 
+Building 
+– 
+Guidebook 
+for 
+Sustainable 
+Architecture by Bauer, Mösle and Schwarz 
+5. Refrigeration and Air-conditioning by C P Arora
+
+[Page 14]
+SEE-619 
+FINITE VOLUME 
+METHODS FOR 
+ENGINEERS 
+3-0-0-9 
+Introduction, Governing equations and general scalar transport 
+equation, 
+Mathematical 
+classification 
+of 
+PDEs, 
+Mesh 
+terminology and types, Discretization methods; Solution of 
+discretization equations, Accuracy, consistency, stability and 
+convergence, 2D steady and unsteady problems, BC; Errors and 
+stability analysis; Diffusion in orthogonal and non-orthogonal 
+meshes, Gradient calculation and discussion, Direct Vs Iterative 
+solvers; Data-structures, TDMA, Jacobi and gauss-seidel 
+methods; General iterative solvers; Multigrid methods, 2D 
+convection-diffusion 
+problems: 
+steady, 
+unsteady, 
+BC; 
+Convection-diffusion in non-orthogonal meshes, Accuracy of 
+discretization schemes Higher order schemes and Discussion, 
+Discretization of governing equations; BC and solution methods; 
+Staggered and collocated formulations, Pressure-velocity 
+coupling: SIMPLE, SIMPLER, Pressure-velocity checker-
+boarding Solution algorithms, Turbulence modelling; Boundary 
+conditions and applications 
+SEE-620 
+HEAT-DRIVEN 
+COOLING SYSTEMS 
+3-0-0-9 
+Absorption refrigeration cycle, thermodynamic properties and 
+processes with mixtures, water/lithium bromide system, 
+ammonia/water system. Principle of adsorption cooling, 
+adsorption phenomena, adsorption refrigeration systems. 
+Operating principle of desiccant evaporative cooling. Solid and 
+liquid desiccant technology. Working principle of ejectors. 
+Ejectors as components of refrigeration systems. 
+Course References: 
+1. Absorption Chillers and Heat Pumps, K. E. Herold, R. 
+Radermacher, S. A. Klein, 2nd Edition, CRC Press, 
+2016. 
+2. Adsorption Refrigeration Technology, R. Wang, L. 
+Wang, J. Wu, Wiley, 2014. 
+3. Desiccant Assisted Cooling, C. E. L. Nobrega, N. C. L. 
+Brum, Springer, 2014. 
+4. Ejectors for Efficient Refrigeration, G. Grazzini, A. 
+Milazzo, F. Mazzelli, Springer, 2018. 
+SEE-621 
+BIOMASS 
+CONVERSION AND 
+BIOREFINERIES 
+3-0-0-9 
+The overarching goal of this course is to focus on renewable 
+feedstocks for the chemical industry. The transition from 
+petroleum-based chemicals to a biomass-based production 
+system will be the central theme with a special focus on 
+carbohydrate-based bio-feedstocks. Contents include 
+an 
+introduction to biomass structure and classification, classical 
+methods of carbohydrate chemical conversions and the 
+evolution of such technologies during the rise (and fall) of oil as 
+an inexpensive commodity. Biorefineries, biochemical and 
+chemical conversions leading to bioethanol, biobutanol and 
+other downstream products. Chemicals from ethanol and 
+ethylene. Valorization of sucrose, oxidation, esterification, 
+sucrose-derived urethanes, polymerizable sucrose derivatives, 
+and conversion to isomaltulose. Valorization of glucose, 
+preparation of sorbitol, citric acid, lactic acid, acetic acid, and 
+alkylpolyglucosides 
+(APG’s). 
+PLA 
+preparation 
+(methods, 
+industrial production). Sugar-derived polyamides and polyesters. 
+LCA and TEA analysis. 
+Course References: 
+1. Valorization of Biomass to Value-Added Commodities:
+
+[Page 15]
+Current 
+2. Trends, Challenges, and Future Prospects (Green 
+Energy and Technology), Michael O. Daramola, 
+Augustine O. Ayeni, Springer 
+3. Biomass for renewable energy, fuels, and chemicals. 
+D.L. Klass, Academic Press. 
+4. Robert C. Brown, Biorenewable Resources: Engineering 
+New 
+Products 
+from 
+Agriculture. 
+Wiley-Blackwell 
+Publishing (Second Edition) 
+5. Industrial Microbiology by Prescott & Dunn 
+6. Shang-Tian Yang (Ed.), Bioprocessing for Value Added 
+Products from Renewable Resources, Elsevier, 2007 
+ 
+SEE-622A 
+SUSTAINABLE 
+ENERGY – ENABLING 
+NET ZERO 
+EMISSIONS 
+3-0-0-9 
+1. Motivation& Introduction Overview in Global and Indian 
+context: Evolution of humankind and the increase in Energy 
+Demand, Rampant use of fossil fuels post-industrial revolution 
+and Greenhouse gas emissions, Efforts on both the demand 
+side and supply side – 
+expected scenarios and Expected GHG trajectory linked to 
+energy use. 
+2. Climate Change: Understanding Climate Change: Science, 
+Impacts and Mitigation Options, Historical evolution of global 
+temperatures and greenhouse gas concentrations, Different 
+GHG and their global warming potential, regional distribution of 
+CO2 and other GHG emissions: total and per capita, Sectoral 
+contributions to GHG emissions, Natural sinks of GHG and 
+Negative Emissions, impacts of global temperature increase, 
+Mitigation options and their economics 
+3. Energy Demand : Importance of demand-side interventions 
+to address climate change: Global and in India, Energy 
+consumption trends: by region and by sector, Need for energy 
+efficiency, Projections of energy demand under BAU and 
+energy efficiency scenarios, 3.1 Industrial : Role of industrial 
+emissions, Major energy-consuming industrial sectors (Steel, 
+cement etc.), Emissions and fuel consumption, Energy 
+efficiency interventions and BEE efforts, Demand projections, 
+the role of technology and policies, 3.2 Transport : Expected 
+growth in the sector, Fossil fuel reliance and geo-political 
+implications, GHG emissions and other pollutants, Mitigation 
+plans for controlling emissions, Role of technologies and 
+standards , 3.3 Buildings & Rural Demand : Why focus on the 
+built environment, Projected expansion in the built environment 
+and appliance penetration: Urban and Rural, Rural demand 
+projections and inefficiencies in energy use, The need for 
+energy efficiency, Initiatives and Schemes by Government and 
+Utilities: Opportunities and Barriers, 
+4. Supply: Major sources of energy generation., LCOE 
+calculations, Carbon emissions from various sources, Expected 
+scenarios – global and India, Role of growing renewables, 
+Challenges 4.1 Solar: Solar as an energy source: various 
+technologies 
+and 
+Relative 
+Costs, 
+Embedded 
+carbon, 
+Development over the year, Global Projections and India’s 
+potential, Expected challenges and barriers 4.2 Wind: Wind 
+energy as an energy source: the potential and relative cost,
+
+[Page 16]
+Embedded carbon, Development over the years, Expected 
+challenges and barriers 4.3 Others: Other major sources of 
+renewable energy and their current status and expected 
+movement:, Hydro, Nuclear, Geothermal, Biofuel, Hydrogen, 
+Role of storage 
+5. Alternate Mitigation Strategies The need for CCUS (carbon 
+capture utilisation and storage), The scale needed to achieve 
+climate 
+targets, 
+Technology 
+and 
+storage 
+options, 
+Implementation examples, Bottlenecks to scale deployment 
+6. Net Zero and Global Climate Discussions What do we 
+mean by Net Zero? Definition as per some standards, Relation 
+of Net zero and COP commitments, Global Climate 
+Negotiations, Social challenges 
+Course Reference: 
+1. Andrews, John, Nicholas Alfred Jelley, and Nick Jelley. 
+Energy science: principles, technologies, and impacts. 
+Oxford University Press, 2022. 
+2. Climate Change 2022: Mitigation of Climate Change. 
+Contribution of Working Group III to the Sixth 
+Assessment Report of the Intergovernmental Panel on 
+Climate Change 
+3. Dubash, Navroz K. An India in a Warming World: 
+Integrating Climate Change and Development. Oxford 
+University Press, 2019 
+4. Emissions Gap Report 2022: The Closing Window — 
+Climate crisis calls for rapid transformation of societies. 
+United Nations Environment Programme, 2022. India 
+Energy Outlook 2021, IEA, 2021. 
+5. Net Zero by 2050, IEA, 2021. 
+6. Tester, Jefferson W., Elisabeth M. Drake, Michael J. 
+Driscoll, Michael W. Golay, and William A. Peters. 
+Sustainable Energy: Choosing Among Options. 2nd 
+edition. MIT Press, 2012 
+7. World Energy Outlook 2022, IEA, 2022. 
+8. More reference material will be prescribed during the 
+course in various forms. 
+SEE-623 
+FUEL CELL 
+ELECTRICAL 
+ENERGY SYSTEMS 
+3-0-0-9 
+This course will equip students with the basics of fuel cells, 
+models and controllers, fuel cell power system 
+architectures, power converter design, and control for a wide 
+variety of fuel cell applications. 
+1. Course 
+Outline: 
+Basics of fuel cells: Introduction, operation, types of fuel 
+cells, and modelling. 
+2. Electrical characteristics of fuel cells: Electrical 
+characteristics and efficiency in steady operation, 
+dynamic 
+operations 
+with 
+and 
+without 
+battery/ultracapacitor. 
+3. Modeling and controllers for fuel cells: Linear and non-
+linear models, dynamic model, linear and non-linear 
+controller design. 
+4. Fuel cell power system architectures: Modular stack 
+architecture, 
+two-stage 
+architectures, 
+three-stage 
+architectures, high-voltage variable DC bus architecture,
+
+[Page 17]
+low-voltage variable DC bus architecture, fixed low-
+voltage variable DC bus architecture, 
+5. Power converters for fuel cell applications: DC to DC, 
+DC 
+to 
+AC, 
+interleaved 
+converters, 
+current-fed 
+converters, and resonant DC-DC converters. 
+6. Transportation 
+applications: 
+configurations 
+of 
+automotive fuel cell systems, power demand and 
+efficiency, hybrid fuel cell vehicles, passenger car drive 
+configuration, heavy-duty vehicle drive configuration, 
+and challenges in automotive fuel cell power systems. 
+7. Aerospace power applications: System performance 
+requirements, 
+operation, 
+and 
+various 
+converter 
+topologies. 
+8. Fuel cell locomotives: System description, converter 
+topologies, and energy management. 
+9. Stationary power applications: Operation and converter 
+topologies for smaller and larger power plants 
+10. State-of-the-art fuel cell electrical energy systems: Case 
+studies, and technical challenges for mass deployment. 
+Course Reference: 
+1. Bei Gou, Woonki Na, and Bill Diong: Dynamic Modeling 
+and Control with Power Electronics Applications, CRC 
+Press, Second Edition, 2020. 
+2. M Venkatesh Naik and Paulson Samuel - “Non-Isolated 
+Power Converters for Fuel Cell Power Sources”, 
+Lambert Academic Publishing, 2021. 
+3. Frano Barbir - “PEM fuel cells – theory and practice”, 
+Academic Press. 2nd edition, 2013. 
+4. Robert W. Erickson and Dragan Maksimovic - 
+"Fundamentals of Power Electronics", Springer, Third 
+Edition 2020. 
+5. Iqbal Husain – “Electric and Hybrid Vehicles”, Design 
+Fundamentals, CRC Press, 3rd editions, 2021. 
+6. M. Ehsani, Y. Gao, S. Gay, and A. Emadi – “Modern 
+Electric, Hybrid Electric, and Fuel Cell Vehicles”, CRC 
+Press, 2005. 
+SEE-624A 
+DESIGN STRATEGIES 
+FOR NET-ZERO 
+ENERGY BUILDINGS 
+3-0-0-9 
+This course will equip students with the knowledge and tools to 
+design net-zero energy buildings. The students will learn basic 
+building design principles, passive heating and cooling 
+techniques, renewable energy integration, lighting principles, 
+and retrofit techniques. 
+Course outline: 
+1. Basic principles and overview of net-zero buildings: 
+Introduction, vernacular architecture, measuring energy 
+use in the built environment (site versus source energy), 
+energy source considerations, energy and carbon, 
+energy use metrics, energy and climate, energy targets 
+and baseline. 
+2. Thermal comfort and indoor air quality considerations: 
+Physiological considerations in comfort, environmental 
+comfort indices, comfort conditions, adaptive comfort, 
+indoor air quality considerations.
+
+[Page 18]
+3. Fundamentals design considerations: Climate and site 
+assessment, building mass and geometry, building type 
+and zone. 
+4. Solar geometry: Sun’s motion around the earth, solar 
+angles and time, sun-path diagrams, sunbeams, and 
+solar heat gains. 
+5. Shading: Exterior shading devices, design of overhangs 
+and fins, egg crate shading devices, glazing as a 
+shading element, interior shading devices, solar heat 
+gain coefficient, roof and wall reflectivity. 
+6. Passive cooling: Ventilation cooling, radiant cooling, 
+evaporative cooling, earth cooling, and desiccant-based 
+cooling. 
+7. Building envelope: Envelope heat transfer, thermal 
+planning, and envelope design considerations. 
+8. Passive solar heating: Design considerations, direct 
+gain systems, Trombe walls, and sunspaces. 
+9. Renewable energy integration: Basic renewable energy 
+systems 
+and 
+design 
+guidelines 
+for 
+integrating 
+photovoltaic systems in buildings. 
+10. Lighting: Basic concepts and design strategies. 
+11. Energy efficiency retrofits for existing buildings and case 
+studies: Techniques for improving the energy efficiency 
+of existing buildings and case studies of net-zero 
+buildings. 
+Course References: 
+1. Heating, 
+Cooling, 
+Lighting: 
+Sustainable 
+Design 
+Strategies towards Net Zero Architecture by Norbert 
+Lechner. 
+2. Net Zero Energy Design by Thomas Hootman. 
+3. Heating Ventilating and Air Conditioning – Analysis and 
+Design by McQuiston, Parker, and Spitler. 
+4. ASHRAE Handbook—Fundamentals. 
+SEE-625 
+STRUCTURAL, 
+MICROSTRUCTURAL 
+AND 
+SPECTROSCOPIC 
+CHARACTERIZATION 
+OF MATERIALS 
+3-0-0-9 
+One of the important aspects of understanding materials and 
+their properties and establishing correlations with processing is 
+the determination of their structure and composition at different 
+length scales. The main objective of this course is to make the 
+students 
+learn 
+different 
+structural 
+and 
+compositional 
+characterization methods, including fundamental principles, 
+how to analyze the data and how to avoid making common 
+mistakes that can lead to erroneous interpretations. 
+Course References: 
+1. Marc de Graef and Michael E. Henry, Structure of 
+Materials, Cambridge University Press 
+2. David Brandon and Wayne D. Kaplan, Microstructural 
+Characterization of Materials, Wiley 
+3. B.D. Cullity, Elements of X-ray Diffraction, Prentice Hall 
+4. Yang Leng, Materials Characterization: Introduction to 
+Microscopic and Spectroscopic Methods, 
+5. Wiley-VCH 
+SEE-626M 
+ECOLOGICAL 
+PRINCIPLES AND 
+BIODIVERSITY FOR 
+SUSTAINABILITY 
+3-0-0-5 
+Minimisation of adverse impacts on ecology and biodiversity is 
+sine qua non for the long-term sustainability of projects and the 
+welfare of human society. Concomitantly, numerous projects
+
+[Page 19]
+have been utilising ecological processes and biodiversity 
+services as cost-effective, efficient, and carbon-negative 
+substitutes for anthropogenic constructions in the fields of water 
+purification, waste treatment, and amelioration of local climatic 
+conditions. To these ends, a knowledge and understanding of 
+ecological processes and biodiversity is pivotal for the students 
+of sustainability. This course intends to provide this knowledge 
+and understanding using case studies from field situations to 
+build up on conceptual frameworks. 
+Expected Learning Outcomes 
+1. Conceptual and working knowledge of Ecology and 
+ecological processes. 
+2. Conceptual and working knowledge of Biodiversity, its 
+advantages, and threats to biodiversity. 
+3. Exemplar understanding of utilisation of ecological 
+processes and biodiversity for sustainable works. 
+Course outline: 
+1. Introduction to Ecology, Biodiversity, and Sustainability 
+2. Biodiversity – Organisation of the living world 
+3. Biodiversity – Economic valuation 
+4. Ecological interactions 
+5. Introduction to Behavioural Ecology 
+6. Ecological Energetics – Introduction, food chains, food 
+webs, and trophic levels 
+7. Ecological Energetics – Biogeographical cycles 
+8. Population Ecology – Growth and regulation of 
+populations 
+9. Community changes and ecological succession 
+10. Biogeography and geographical distributions 
+11. Biogeography – Push and pull factors. 
+12. Human Ecology – Introduction and impacts in 
+Anthropocene. 
+13. Human population growth and requirements 
+14. Threats to biodiversity and ecology 
+15. Case studies – Impacts of oil spills 
+16. Case study – Impact of plastics on Ecology and 
+Biodiversity 
+17. Climate change and its impacts on Ecology and 
+Biodiversity 
+18. Conservation of biodiversity – In situ conservation 
+19. Conservation of biodiversity – Ex situ conservation 
+20. Employing Ecology and Biodiversity for sustainable 
+development 
+ 
+Course Reference: 
+1. Krebs, C. J. The experimental analysis of distribution 
+and abundance. New York: Harper and Row., 
+2. Odum, E. P., & Barrett, G. W. Fundamentals of Ecology. 
+Philadelphia: Saunders., 
+3. Awadhiya, A., Principles of Wildlife Conservation. 
+Florida and Oxfordshire: CRC Press / Taylor & Francis,
+
+[Page 20]
+Selected articles/papers as referred to in the lectures. 
+SEE-627 
+ELECTRIC VEHICLES 
+3-0-0-9 
+Electric vehicles (EVs) are gradually replacing conventional 
+vehicles due to climate concerns, shortage of oil resources, and 
+energy security. EVs enable the usage of energy from 
+renewable energy sources such as hydro, solar, and wind. At 
+present, there are more than 15 million EVs on the road and 
+several car manufacturers are introducing new models. Based 
+on this need, this course presents several features of EVs for 
+beginners to understand. 
+Course outline: 
+1. Introduction: History, Benefits, Types of EV 
+Comparison between ICE vehicles and EV Details of 
+Commercial EVs, 
+2. Basics of EV: Motor drives Energy sources Charging 
+Vehicle to Grid Subsystems, 
+3. Vehicle dynamics: Dynamic, Equations Modeling, 
+MATLAB Simulations, 
+4. Power Electronics: DC-DC converters, DC-AC inverters, 
+Speed Control, Loss analysis 
+5. EV Charging: AC Charging DC Charging, Battery 
+Swapping, Wireless Charging, On-road Charging 
+ 
+Course Reference: 
+1. Iqbal Husain, ELECTRIC and HYBRID VEHICLES, 
+Design Fundamentals, CRC Press, 2003., M. Ehsani, Y. 
+Gao, S. Gay and A. Emadi, Modern Electric, 
+2. Hybrid Electric, and Fuel Cell Vehicles, CRC Press, 
+2005 
+3. “Power Converters for Electric Vehicles”, L. Ashok 
+Kumar and S. Albert Alexander, CRC Press, 2020., 
+4. "Fundamentals of Power Electronics", Robert W. 
+Erickson and Dragan Maksimovic, Springer, Third 
+Edition 2020. 
+5. “Electric Vehicles: Modern Technologies and Trends”, 
+N. Patel, A. K. Bhoi, S. Padmanaban, Springer, 2020. 
+6. "Modern Electric Vehicle Technology”, C.C. Chan, K.T. 
+Chau, Oxford University Press, 2001. 
+SEE-628 
+Policy Processes and 
+Analytical Methods: 
+Application to Climate 
+Policies 
+3-0-0-9 
+Students will learn quantitative methods used in arriving at the 
+right data points needed for informed policy making. It will also 
+help students understand policy frameworks used as the basis 
+of policy formation. Students will be trained in creating linkages 
+between these tools and frameworks and their use in creating 
+various policy options in the context of achieving global climate 
+objectives. Throughout the course, concepts are illustrated with 
+examples from energy and climate policy. 
+Course Reference: 
+1. Alessandro Rubino, Alessandro Sapio, and Massimo La 
+Scala, Handbook of Energy Economics and Policy: 
+Fundamentals and Applications for Engineers and 
+Energy Planners, 2014. 
+2. Ang, Alfredo H-S., and Wilson H. Tang. Probability 
+Concepts in Engineering: Emphasis on Applications to
+
+[Page 21]
+Civil and Environmental Engineering. 2nd ed. New York, 
+NY: John Wiley & Sons, 2006. 
+3. Drake, Alvin W. Fundamentals of applied probability 
+theory. Mcgraw-Hill College, 1967. 
+4. Frank Fischer, Gerald J. Miller, and Mara S. Sidney, 
+Handbook of Public Policy Analysis: Theory, Politics, 
+and Methods, 2007. 
+5. Michael Howlett and Ishani Mukherjee, Handbook of 
+Policy Formulation, 2017. 
+6. Neufville, Richard de. Applied Systems Analysis: 
+Engineering Planning and Technology Management. 
+McGraw-Hill, Inc; New York, New York, USA, 1990. 
+7. Pindyck, Robert S. The social cost of carbon revisited, 
+Journal of Environmental Economics and Management, 
+Volume 94, 2019. 
+8. Webster, 
+Mort. 
+Communicating 
+Climate 
+Change 
+Uncertainty to Policy-Makers and the Public. Climatic 
+Change 6, 2003 
+SEE-629M Ecology, Equity and the 
+Economy 
+ 
+Natural capital forms the foundation for economic activities. The 
+real wealth of nations lies in the mineral and biological capital, 
+social and human capital. The economic wealth is driven by how 
+efficiently the nation is able to convert this into financial capital. 
+ 
+In the process of creating a ‘medium of exchange’ there is an 
+inevitable decline in the stock of non-renewable resources and 
+pollution of renewable resources. As the economy grows, the 
+land use changes. Urban sprawls, infrastructure, mining, dams, 
+are responsible for deforestation, loss of habitats and the 
+degradation of natural ecosystems. Technological progress has 
+pushed up economic growth. However, the distribution of 
+income and wealth has hardly been equitable in society. The 
+consequences of economic growth are showing up at a 
+planetary level in climate change. The frequency and intensity 
+of natural disasters has increased in the last decade and has 
+imposed a burden on the economy. Can we afford to continue 
+such a form of economic growth? 
+ 
+In this course, participants will learn about sustainable 
+development and why markets fail to address issues like 
+resource depletion, pollution and income inequality. Participants 
+will also understand why farmer poverty persists in India. The 
+course will encourage discussions with briefcases. 
+Course References: 
+1. This Fissured Land - Madhav Gadgil & Ramchandra 
+Guha; Oxford University Press; 2nd Edition 
+2. Ecology, Equity and the Economy – Gurudas Nulkar; 
+Ecological Society, 2nd Edition 
+3. Principles of Sustainability – Simon Dresner; Routledge; 
+2nd Edition 
+4. How the World Really Works - Valclav Smil; Penguin; 
+2022 
+5. Sapiens - Yuval Noah Harari; Random House; 3rd Edition 
+6. The Third Curve – Mansoor Khan; Mansoor Production, 
+1st Edition
+
+[Page 22]
+7. Selected essays and articles 
+SEE-888 
+INTRODUCTION TO 
+PROFESSION AND 
+COMMUNICATION 
+1-0-0-3 
+Introduction to Profession - The need for sustainable energy 
+engineering in the current context, key developments, research 
+& development trends, career options 
+Professional Ethics - Workplace: perspective and best 
+practices Collaboration: best practices 
+Mechanics of Publishing / Patenting & Bidding for Projects 
+and Other Resources 
+• 
+Various stages of paper publishing in the Journal 
+• 
+Dealing with rejection, reviewer’ comments 
+• 
+Intellectual Property Rights: What can be patented? 
+• 
+Mechanics of project submission & approval 
+• 
+Developing laboratory and attracting students 
+• 
+Industrial teamwork, international collaboration 
+Technical Writing 
+• 
+Basic principles of scientific/technical/report writing 
+• 
+Developing a pattern of organization 
+• 
+Common types of arguments 
+• 
+Scientific Journal papers writing 
+• 
+Editing for emphasis 
+Oral Presentation 
+• 
+Presentation skills for conferences 
+• 
+Slide preparation and representation of data Mitigation 
+plans for controlling emissions. 
+Plagiarism 
+• 
+What is it? 
+• 
+Author’s responsibilities and rights 
+• 
+Plagiarism checking and avoidance aids 
+Course Reference: 
+1. T.N. Huckin and L.A. Olsen, Technical Writing and 
+Professional Communication for nonnative speakers of 
+English, second (international edition, McGraw Hill 
+(1991) 
+2. Michael Alley, The craft of Scientific Writing, Springer 
+Pub, 3rd Edition, (1996). 
+SEE604 
+Thermodynamics of 
+Energy Systems 
+3-0-0-9 
+ 
+This course provides the necessary background of engineering 
+thermodynamics to postgraduate students who did not get 
+adequate exposure to the subject at the undergraduate level. 
+The course will cover the basic principles of thermodynamics 
+and prepare the student to effectively use thermodynamics in 
+the field of sustainable energy engineering. The course will also 
+lay the foundations for subsequent studies in fluid mechanics, 
+heat transfer, and statistical thermodynamics 
+SEE613 
+Solar Photovoltaics 
+3-0-
+0-9 
+ 
+The course aims to help students understand the physics and 
+application of solar photovoltaics, which is the fastest growing 
+source for renewable energy generation. The course reviews 
+the basic semiconductor physics of photovoltaic materials and 
+various structures in which these devices can function. It also 
+covers the various generations of solar cells, including the 
+device structure, 
+application aspects. Finally, it delves into the various stages of cell to m
+development, associated operational issues, and their potential solutio
+
+[Page 23]
+SEE617 
+Introduction to 
+Sustainable Energy 
+Policy 
+ 
+3-0-0-9 
+The course will introduce different aspects of energy policy 
+including energy resources, energy security, energy efficiency, 
+energy justice, energy transition, integration of energy policy 
+with climate governance, challenges and opportunities 
+associated with coal and renewable energy. One of the major 
+requirements is that energy policy should be aligned towards 
+our development and rapid economic growth. Policymakers 
+have predominately relied on policy instruments that utilize price 
+mechanisms to deploy sustainable energy without giving much 
+consideration to security and transition concerns and larger 
+geopolitical questions of who owns the energy system, and how 
+the energy needs to be generated and distributed. 
+ 
+SEE627 
+ 
+Electric Mobility 
+ 
+Electric mobility includes all types of transportation that is fully 
+or partly driven by electric motors. It has been gradually 
+replacing the conventional transportation due to climate 
+concerns, shortage of oil resources, and energy security. The 
+aim of this course is to teach system level understanding of the 
+electric mobility to benefit students from diverse backgrounds 
+SEE631 
+Sustainable Forest 
+Management 
+ 
+Management of forests is crucial not only because they provide 
+us with resources, and because there are several fringe-forest 
+communities dependent on them, but also because forests are 
+one of the few effective measures for the sequestration of 
+atmospheric carbon, so essential for climate change mitigation. 
+Sustainable forest management aims to maximise the benefits 
+of forests for the society – including major and minor forest 
+produce, food and water security, ecosystem services, and 
+tourism avenues – but in a manner that the benefits are 
+continuously available to us for several generations. In this 
+course, we shall discuss sustainable management of forest bio-
+resources using case studies and examples from India and 
+abroad, in an attempt to understand how and why forests are 
+planted, managed, and harvested in a continuous cycle 
+SEE632 
+Heating,Ventilation,and
+Air-conditioning of 
+Buildings 
+3-0-0-9 
+This course aims to equip the students with a fundamental 
+understanding of buildings’ thermal behaviour. The students will 
+then be introduced to the design and analysis of heating, 
+ventilation, and air- conditioning (HVAC) systems for 
+maintaining comfortable and healthy indoor environments. 
+Finally, the course will focus on building energy simulation, 
+climate impact assessment, and net-zero buildings 
+SEE636 
+Critical Material 
+Resources for Clean 
+Energy Transition 
+3-0-0-0 [9] 
+The course on "Critical Material Resources for Clean Energy 
+Transition" aims to provide a comprehensive understanding of 
+the sustainable energy landscape, with a specific focus on 
+critical materials that are needed for clean energy transition. 
+The program will cover topics such as the availability and 
+production of critical minerals for making these materials, 
+mineral and material processing techniques, and their 
+applications in various sustainable energy technologies across 
+various clean energy technologies. This postgraduate-level 
+course will equip students with the essential knowledge and 
+skills to assess the requirements of critical materials for energy 
+transition, identify the sources as well as navigate the technical
+
+[Page 24]
+as well as commercial challenges posed by the requirement of 
+critical material resources. These challenges include managing 
+technological 
+advancements, 
+addressing 
+environmental 
+impacts, dealing with geopolitical pressures, and understanding 
+the regulatory frameworks that govern the sustainable energy 
+sector 
+SEE641 
+Structure, Interfaces, 
+and Phase Stability in 
+Functional Materials 
+3-0-0-0 (9) 
+This course provides an integrated understanding of how 
+structure, interfaces, and phase stability govern the behaviour 
+of modern functional materials used in energy applications. 
+Comparing and contrasting traditional metallurgy-centric 
+treatments, the course emphasizes multiphase, heterogeneous, 
+and composite systems, where interfaces and defects play a 
+critical role in enabling functionality. Students will develop a 
+rigorous foundation in crystallography, diffraction, and defects, 
+alongside 
+thermodynamics, 
+phase 
+equilibria, 
+and 
+transformation kinetics, and learn to interpret phase diagrams in 
+the context of both equilibrium and processing-driven 
+(metastable) materials. Special emphasis is placed on 
+distinguishing classical mixtures from engineered composites, 
+and on understanding how structural complexity and interfacial 
+phenomena influence performance in systems such as 
+photovoltaics, batteries, fuel cells, and catalytic materials. 
+SEE411 
+Engineering 
+Measurements 
+Laboratory 
+9 (2-0-3-0) 
+An Engineering Measurements Laboratory is planned for 
+Integrated PhD course at the Department of Sustainable Energy 
+Engineering. This multi-disciplinary laboratory aims to offer 
+hands-on training to the inducted students, mainly from an 
+undergraduate science background, on some of the engineering 
+measurement techniques. The objective is to enable and 
+transform 
+these 
+students 
+to, 
+eventually, 
+undertake 
+interdisciplinary research problems, spread across different 
+thematic areas, and meaningfully contribute to the same by way 
+of technology development. The experiments may be offered, 
+but not limited to, in the following thematic areas: 
+ 
+Theme 1: Build Environment and Fuel Cells 
+ 
+Theme 2: Power Systems/Power Electronics 
+ 
+Theme 3: Materials Characterization 
+ 
+Theme 4: Thermo-Fluid Engineering 
+SEE633 
+Power Electronics for 
+Electric Vehicles 
+3-0-0-0-(9) 
+Electric vehicles (EVs) are gradually replacing the conventional 
+vehicles due to climate concerns, shortage of oil resources, and 
+energy security. Power electronics plays an important role in 
+EVs for charging battery from grid and/or renewables, power 
+train, and powering the auxiliary loads. The aim of this course is 
+to give students a deeper understanding of the state-of-the-art 
+power converters used in electric vehicles in terms of operation, 
+analysis, component design, and closed-loop control. Also, the 
+course will cover some of the promising power converters for 
+EVs from the ongoing research. This course consists of four 
+modules starting with the basics of EVs and the role of power 
+electronics for EVs. The second module focuses on analysis, 
+design, and control of power converters for on-board chargers.
+
+[Page 25]
+The third module focuses on different types of front-end 
+converters including solid state transformers, and high power 
+dc-dc converters for off-board charging. Also, this module 
+covers analysis and design of conventional and multiport 
+converters for renewables assisted EV charging and partial 
+power processing converters for EV fast charging. The last 
+module covers the design and control of dc-dc converters for 
+interfacing the battery and control of dc-ac inverters for 
+induction motor, brushless dc motor, and permanent magnet 
+synchronous motor for EVs. 
+SEE635 
+Carbon Capture, 
+Utilization, and Storage 
+(CCUS) 
+3-0-0-0-9 
+This course will provide an in-depth understanding of Carbon 
+Capture, Utilization, and Storage (CCUS) technologies as a 
+critical pillar of sustainable energy transitions. It will address 
+CO₂ emissions mitigation across sectors such as power 
+generation, industry (hardto-abate sectors), and transportation. 
+The course will cover scientific principles, technological 
+approaches, 
+system 
+integration, 
+and 
+policy/regulatory 
+frameworks associated with the CCUS value-chain. Emphasis 
+will be placed on emerging research directions, Indian and 
+Global case studies, and techno-economic evaluations for 
+large-scale deployment. The following will be the key objectives 
+of this course: 
+ 
+1. Develop a strong foundational understanding of carbon 
+emissions and the need for CCUS in achieving net-zero targets. 
+ 
+ 2. Explore fundamental principles of thermodynamics, reaction 
+engineering, materials science, and system integration in CCUS 
+technologies. 
+ 
+3. Provide a systematic overview of CO₂ capture techniques 
+(solvent-based, 
+solid 
+sorbent, 
+membrane-based, 
+and 
+cryogenic), transport logistics, and storage options (geological, 
+mineral, and deep-sea) 
+ 
+4. Evaluate utilization technologies, including catalytic, 
+electrochemical, biochemical, and mineralization routes for 
+conversion to value-added products. 
+ 
+5. Assess techno-economic parameters, life-cycle assessments 
+(LCA), and integration strategies with power plants, cement & 
+steel industry, bioenergy systems, and other relevant industrial 
+sectors. 
+ 
+6. 
+Review 
+current 
+policy 
+frameworks, 
+carbon 
+trading 
+mechanisms, and regulatory aspects relevant to India and 
+globally. 
+ 
+7. Encourage innovation and research thinking by connecting 
+emerging trends such as AI/ML for CCUS system optimization 
+and novel materials development.
+
+[Page 26]
+SEE637 
+Recycling Energy 
+Materials 
+3-0-0-0-9 
+This course will address the importance of recycling energy 
+materials, especially for extracting critical minerals. Basic 
+metallurgical concepts will help us understand the core of 
+recycling technology better. The course will delve into details of 
+few selected devices including lithium batteries, solar cells, 
+magnets, and catalysts. Finally, we will also highlight 
+environmental economic and social aspects of recycling and 
+various efforts India has been taking in improving recycling. 
+SEE636 
+Catalysis for Clean 
+Energy 
+3-0-0-0-9 
+The objective of this course is to provide students with a 
+conceptual overview of the role of catalysis in the clean energy 
+transition. Students will be taught basic catalytic principles, their 
+role in current energy systems, the importance of catalytic 
+transformations in the green energy framework, and case 
+studies on recent global developments in this area. 
+SEE612 
+Electrochemical Energy 
+Systems: Materials, 
+Design, and 
+Manufacturing 
+3-0-0-0 (9) 
+Objectives: The objective of this course is to familiarize 
+students with the engineering principles involved in designing, 
+manufacturing, and deploying electrochemical energy systems. 
+The course emphasizes materials processing, component and 
+system design, manufacturing technologies, quality control, 
+reliability, and sustainability, while highlighting the practical 
+trade-offs that govern commercial electrochemical devices. 
+SEE606 
+Fundamentals of 
+Electrochemical Energy 
+Systems 
+3-0-0-0 (9) 
+Objectives: The objective of this course is to familiarize 
+students with the basic physical processes occurring in 
+electrochemical energy systems (e.g., fuel cells, batteries, 
+electrolyzers), their origins, mathematical frameworks, and 
+characterization. The course will help the students understand 
+how different multiphysical processes interact within these 
+systems and give rise to their characteristic performance.

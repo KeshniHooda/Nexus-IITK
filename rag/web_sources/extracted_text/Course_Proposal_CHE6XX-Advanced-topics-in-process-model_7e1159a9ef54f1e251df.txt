@@ -1,0 +1,200 @@
+[Page 1]
+Indian Institute of Technology Kanpur 
+Proposal for a New Course 
+ 
+1. Course No: CHE 6XX 
+2. Course Title: Advanced topics in process modelling and simulation 
+3. Course Credits (9): 2-0-3-0 (2L, 0T, 3P, 0A) 
+4. Pre-requisites: None 
+5. Course Duration: Full Semester 
+6. Level of the course: Graduate/Department Elective 
+7. Proposing department: Chemical Engineering 
+8. Proposing Instructor(s): Raghavendra Ragipani 
+9. Other faculty members interested in teaching the proposed course: Ishan Bajaj, Dipin Pillai, 
+Harshwardhan Katkar 
+10. Course Description: 
+A. Objectives: This is an advanced hands-on course on process modelling & simulation 
+using Aspen Plus. Students will learn about property estimation, multicomponent & 
+multiphase flash calculations, phase stability algorithms, equilibrium and rate-based 
+modelling for steady-state and dynamic processes. Students will be familiarized with 
+tools such as sensitivity analysis, parameter estimation, and process optimization. At 
+the end of this course, students will be able to perform process simulations for 
+design, rating, and optimisation. 
+B. Contents: Lecture-wise break-up (considering the duration of each lecture is 50 
+minutes) 
+S No 
+Broad title 
+Topics 
+No. of 
+lectures 
+1 
+Introduction to process 
+modelling and simulation 
+• 
+Why study process simulations? 
+Introduction to systems approach 
+• 
+Sequential Modular (SM) and Equation 
+Oriented (EO) flow sheeting 
+• 
+Making of a good process simulator – 
+modelling strategies, convergence 
+strategies for SM simulations with 
+recycles, and computation efficiency 
+2 
+2 
+Thermodynamics for 
+process simulations 
+• 
+Overview of property models for various 
+fluids 
+• 
+Verifying pure component properties 
+• 
+Verifying multicomponent electrolyte and 
+non-electrolyte mixture properties –
+mixing laws for EOS, excess GFE models, 
+local composition models 
+• 
+Binary interaction parameter estimation 
+by regression 
+3 
+3 
+Computational strategies 
+and advanced unit 
+operation modelling 
+• 
+Algorithms for flash calculations and 
+phase stability criteria 
+• 
+Process flowsheet convergence 
+• 
+Data reconciliation 
+• 
+Data regression 
+6
+
+[Page 2]
+• 
+Measurement model 
+• 
+Handling optimisation problems 
+• 
+Troubleshooting convergence problems 
+• 
+Custom model development 
+4 
+Equilibrium & stage-based 
+modelling 
+• 
+Algorithms for non-isothermal stage-
+based modelling 
+• 
+Chemical equilibrium calculations – non-
+electrolyte and electrolyte systems 
+• 
+Complex configurations 
+4 
+5 
+Rate-based simulations 
+• 
+Rate-based models for heterogeneous 
+catalytic reactors 
+• 
+Absorption with reaction – mass transfer 
+models and enhancement factor 
+• 
+Fit kinetic parameters 
+5 
+6 
+Dynamic processes 
+• 
+Modelling cyclic adsorption – 
+breakthrough studies, cyclic steady state 
+3 
+7 
+Handling solids 
+• 
+Solids processing – stream classes, 
+particle size distributions 
+2 
+8 
+Surrogate models 
+• 
+Use of surrogate models – sampling 
+methods, and training neural networks 
+3 
+ 
+Total Lectures 
+28 
+ 
+C. Suggested simulation exercises: 
+1. Pure component property estimation (T-S plot) for designing a Rankine-cycle power 
+plant/Organic Rankine cycle waste heat recovery unit. 
+2. Simulating a multi-stage flash distillation unit for desalination of water. 
+3. Determination of binary interaction parameters by regression – ethanol-water VLE, non-
+condensable gas solubility in solvent, salt solubility in aqueous solution etc. 
+4. Multicomponent property estimation for designing reactor-separation loops. 
+5. Phase stability – heptane-methanol mixture. 
+6. Steady-state simulation of azeotropic distillation of ethanol-water mixture. 
+7. Rigorous design and rating of a distillation column for an increase in throughput. 
+8. Rate-based model for designing non-isothermal heterogeneous catalytic reactor using LHHW 
+kinetics. 
+9. Evaluating performance of a reactive absorption column for acid gas scrubbing. 
+10. Custom model for a membrane separation unit. 
+11. Unsteady-state simulation of pressure-swing adsorption process for gas purification. 
+12. Modelling a solid drying process. 
+13. Simulation of a particulate process with polydisperse particles. 
+14. Process optimization with surrogate models. 
+15. Data reconciliation using actual plant data. 
+16. Model batch production of a fine chemical. 
+ 
+D. Short summary for including in the course booklet: 
+Process modelling and simulation tools are widely used in chemical industries for process design, 
+troubleshooting, and optimization. This course provides hands-on experience of process modelling 
+and simulation for chemical engineering graduate students. Modelling and simulation of industry
+
+[Page 3]
+relevant processes such as distillation, reactive absorption, pressure-swing adsorption, multiphase 
+reactors will be considered. Students will learn about performance rating, sensitivity analysis, 
+process optimsation, and parameter estimation. 
+11. Recommended books: 
+• 
+Selected research articles 
+• 
+User manuals for Aspen Plus and Aspen Adsorption. 
+• 
+Selected chapters from Chemical Thermodynamics for Process Simulation, 2nd Edition, Wiley, 
+by Jürgen Gmehling, Michael Kleiber, Bärbel Kolbe, Jürgen Rarey, Chemical Reactor Analysis 
+and Design, 3rd Edition, Wiley, by Froment, Bischoff, De Wilde, and Principles of Adsorption 
+and Adsorption Processes, Wiley, by Doughlas M. Ruthven. 
+12. Other remarks: None 
+ 
+Dated: 11/08/2025 
+
+ 
+ 
+Proposer: Raghavendra Ragipani 
+Dated: 
+
+ 
+ 
+ DPGC Convenor: 
+
+ 
+
+ 
+
+The course is approved/ not approved 
+
+ 
+
+ 
+
+Chairman, SUGC/SPGC 
+
+ 
+
+ 
+ 
+Dated:

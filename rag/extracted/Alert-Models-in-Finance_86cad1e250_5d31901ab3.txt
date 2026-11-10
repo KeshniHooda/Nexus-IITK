@@ -1,0 +1,97 @@
+[PAGE 1]
+INDIAN INSTITUTE OF TECHNOLOGY KANPUR
+DEPARTMENT OF MANAGEMENT SCIENCES
+Proposal for New Course
+
+1. Course Title: Alert Models in Finance
+
+2. Course Number: MBAXXX
+
+3.  Credits: 3-0-0-5(Modular Course)
+
+4.  Proposing Instructor: Dr. Parvati Neelakantan
+
+5.  Proposing department: Department of Management Sciences
+
+6.  Pre-requisite Courses: None
+
+7. Other Interested Faculty: NA
+
+8. Course Description
+
+This module introduces the topic of  alert models in banking, sharply focusing on  their
+
+deployment and accountability in mitigating operational risk. Operational risk alert models are
+
+formulated and deployed, for the most part, to detect, prevent, and even predict suspicious and
+
+possibly fraudulent transactions. Instances include credit card fraud, defrauding the elderly, and
+
+money-laundering. These alert models also help in mitigating or preventing cyber security
+
+crime.
+
+The module will enable students to make sense of impactful, vast, and complex data sets, i.e.,
+
+“Big Data,” with a view to better understanding and anticipating operational risks intrinsic to
+
+banking. Vast data sets add value to an organization only when its algorithms elicit meaning
+
+from the data. The alert models and monitoring skills examined in this module are much valued
+
+in the industry.
+
+9.  Topics Covered in the Course
+
+Topic                                                        No. of Lectures
+
+Use cases, Ideas, and Vocabulary; Performance Evaluation and Ethics   1
+
+Regression                                                  1
+
+Classification                                                1
+
+Resampling Methods                                          1
+
+[PAGE 2]
+Linear model selection and regularization                          2
+
+Moving Beyond Linearity                                      1
+
+Tree-Based Methods                                           2
+
+Support Vector Machines                                       2
+
+Deep Learning                                               2
+
+Fairness Techniques for Alert Models                             1
+
+10. Reading Materials
+
+Textbooks
+
+1.  James, G., Witten, D., Hastie, T. and Tibshirani, R., 2023. An Introduction to Statistical
+
+Learning. Cham: Springer International Publishing.
+
+2.  Hastie, T., Tibshirani, R., Friedman, J.H. and Friedman, J.H., 2009. The Elements of
+
+Statistical Learning: Data Mining, Inference, and Prediction. New York: Springer.
+
+3.  Deisenroth, M.P., Faisal, A.A. and Ong, C.S., 2020. Mathematics for Machine Learning.
+
+Cambridge UP.
+
+4.  Wilmott,  P., 2019. Machine Learning: An Applied Mathematics Introduction. Panda
+
+Ohana Publishing.
+
+Signature of Proposers:
+
+Parvati Neelakantan
+
+22 February 2024
+
+This course is Approved/ Not Approved            This course is Approved/ Not Approved
+
+DPGC Convener, DoMS                                     Chairperson SPGC

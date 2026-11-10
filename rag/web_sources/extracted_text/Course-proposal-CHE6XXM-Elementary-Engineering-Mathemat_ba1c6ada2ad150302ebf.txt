@@ -1,0 +1,102 @@
+[Page 1]
+Indian Institute of Technology Kanpur 
+Proposal for a New Course 
+1. Course No: CHE6XX 
+2. Course Title: Elementary Engineering Mathematics 
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours[0-2]: 0 (A), 
+Credits (3-0-0-0): 6 
+
+ 
+
+ 
+ 
+Duration of Course: Modular 
+4. Proposing Department: Department of Chemical Engineering 
+ 
+Other Departments/IDPs which may be interested in the proposed course: NA 
+ 
+Other faculty members interested in teaching the proposed course: Indranil Saha Dalal, Dipin S. 
+Pillai, Akash Chaudhary, Sanjeev Garg, Nishith Verma 
+5. Proposing Instructor(s): Naveen Tiwari (naveent@iitk.ac.in) and V. Shankar 
+(vshankar@iitk.ac.in) 
+6. Course Description: 
+A) Objectives: 
+The course will expose fresh PhD students to basic engineering mathematics to aid them in 
+learning advanced courses in Chemical Engineering. 
+B) Contents (preferably in the form of 5 to 10 broad titles): 
+Lecture-wise break-up (considering the duration of each lecture is 50 minutes) 
+S. 
+No. 
+Broad Title 
+Topics 
+No. of 
+Lectures 
+1. 
+Introduction to 
+Multivariable Calculus 
+Functions of one or more variables, limits, 
+chain rule of differentiation, change of 
+variables, maxima/minima of function of two 
+or more variables 
+3 
+2. 
+Elementary algebra of 
+complex numbers 
+Complex numbers, Polar form, Powers and 
+Roots, Logarithms 
+3 
+3. 
+Linear Algebra 
+Matrices, vectors, determinants, solution of 
+linear system of equations, eigenvalue 
+problems 
+5 
+4. 
+Ordinary Differential 
+Equations 
+First order ODEs, second order linear ODEs 2 
+5. 
+Fourier Analysis and PDEs 
+Fourier series, Fourier Transform, Laplace 
+Transform, Classification of PDEs; PDE 
+solution by separation of variables 
+7 
+Total 20 
+ 
+C) Recommended pre-requisites, if any (examples: a- PSO201A, or b- PSO201A or 
+equivalent): None 
+D) Short summary for including in the Courses of Study Booklet: 
+Introduction to Multivariable Calculus, Elementary algebra of complex numbers, Linear 
+Algebra, Ordinary Differential Equations, Fourier Analysis and PDEs
+
+[Page 2]
+7. Recommended text/reference books: 
+A) Erwin Kreyszig, Advanced Engineering Mathematics, Wiley 
+B) Mary L. Boas, Mathematical Methods in the Physical Sciences, Wiley 
+8. Any other remarks: None 
+
+Dated: 08/02/25 
+
+ 
+
+ 
+ 
+Proposer: NT, VS 
+
+Dated: 
+
+ 
+
+ 
+
+ 
+DPGC Convener: 
+
+ 
+The course is approved / not approved 
+
+ 
+ 
+Chairman, SUGC 
+ 
+Dated:

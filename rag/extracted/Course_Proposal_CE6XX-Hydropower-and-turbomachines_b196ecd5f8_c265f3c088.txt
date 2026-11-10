@@ -1,0 +1,106 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course
+
+1. Course No: CE6** or CE7**
+
+2. Course Title: Hydropower and turbomachines
+
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours [0-2]: 0 (A)
+
+Credits: 3-0-0-0 (9)
+
+Duration of Course: Full Semester
+
+4. Proposing Department/IDP: Civil Engineering
+
+Other Departments/IDPs which may be interested in the proposed course: Mechanical
+Engineering, Aerospace Engineering, Sustainable Energy Engineering, Kotak School of
+Sustainability
+
+Other faculty members interested in teaching the proposed course: None
+
+5. Proposing Instructor(s): Chunendra K Sahu (Hydraulics and Water Resources group)
+
+6. Course Description: Elective course for PG and senior UG students
+
+A) Objectives: Learning the basics of hydropower and hydraulic turbomachines is essential for a civil
+engineer, particularly those graduating with a degree in water resource engineering. The proposed
+course is designed as an elective course to acquaint postgraduate or senior undergraduate students
+in   civil  engineering  with  the  basic   principles  of  hydropower  plants  and  hydraulic
+turbomachines. Students will learn about the basic requirements and layout of hydropower plants, as
+well as the functioning of various hydraulic turbines and pumps.
+
+B) Contents (preferably in the form of 5 to 10 broad titles):
+
+No. of 75       S.             Broad Title                             Topics                        minutes    No                                                                                         Lectures
+1   Background         Hydropower. Turbomachines. Historical developments       2
+of hydropower plants and turbomachines. Bernoulli
+equation. Continuity and momentum equations. First
+law of Thermodynamics.
+2   Hydropower plants   Hydel energy. Working principles. Hydropower            6
+potential. Essential components and layout. Site
+selection. Classification and features of hydropower
+plants. Plant capacity and specifications. Hydropower
+plants in India. Types of Dams.
+3   Turbomachines     Turbomachine classifications. Coordinate systems and       4
+and performance     velocity components. Relative velocity. Euler’s
+parameters           equation. Lift and drag. Efficiency. Dimensional
+analysis. Performance parameters and variables.
+Buckingham-Pi theorem. Flow coefficient. Head
+coefficient. Specific speed and specific diameter.
+Cordier diagram.
+4   Hydraulic turbines   Types. Suitability of a hydraulic turbine for a             2
+hydropower plant. Specific speed and flow regimes.
+Turbine selection. Effect of size on efficiency.
+
+[PAGE 2]
+No. of 75      S.             Broad Title                             Topics                        minutes   No                                                                                        Lectures
+Cavitation in hydraulic turbines: Reasons. Cavitation
+limits. Net positive suction head. Cavitation damage
+and effect of performance. Peripheral velocity factor.
+5   The Pelton turbine  Working principle. Velocity diagram. Controlling the       3
+speed of Pelton turbine. Penstock diameter. Jet
+diameter. Head losses and efficiency.
+6   Reaction turbines   The Francis turbine. Layout. Draft tube. Velocity          3
+diagram and flow angles. Specific work and efficiency.
+The Kaplan turbine. The pump turbine.
+7    Hydraulic pumps     Working principle. Positive and non-positive               4
+displacement pumps. Hydraulic pump performance.
+Pressure ratio and head change. Operator control.
+Cavitation. Axial and centrifugal compressors.
+8   Wave and tidal     Wave and tidal energy. The Wells turbine. Schematic       2
+power              and operating principles. Designing and performance
+analysis.
+Total (75 minutes lectures)                          26
+
+C) Pre-requisites, if any: Courses on Fluid Mechanics or Engineering Hydraulics
+
+D) Short summary for including in the Courses of Study Booklet: Introduction. Conservation laws.
+Hydropower plants. Turbomachines. Turbomachines classification. Performance parameters.
+Dimensional analysis. Hydraulic turbines. Pelton turbine. Francis turbine. Kaplan turbine. Cavitation.
+Hydraulic pumps. Wave and tidal energy.
+
+7. Recommended books:
+Reference book
+
+1.  Adams, S. (2022). Hydropower: An Introduction. 1st Edition, Murphy & Moore Publishing.
+
+2.  Dixon, S.L. (2013). Fluid Mechanics and Thermodynamics of Turbomachinery, 7th Edition,
+
+Butterworth Heinemann.
+
+Proposer: Chunendra K Sahu
+
+Dated: 23/03/2026
+
+SPGC Convener:
+
+Dated:___________________
+
+The course is approved / not approved
+
+Chairperson, SPGC
+
+Dated:_____________________________

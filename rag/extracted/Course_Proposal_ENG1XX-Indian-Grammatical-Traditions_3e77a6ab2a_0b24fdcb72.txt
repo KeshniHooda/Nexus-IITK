@@ -1,0 +1,332 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+Proposal for a New Course
+
+1.  Course No: ENG 1XX
+2.  Course Title:  Indian Grammatical Traditions
+3.  Per Week Lectures: 3(L), Tutorial:1 (T), Laboratory: 0   _(P), Additional Hours[0-2]:0
+(A), Credits (3*L+2*T+P+A): 9
+4.  Duration of Course: Full Semester
+5.  Proposing Department/IDP : Humanities and Social Sciences
+Other Departments/IDPs which may be interested in the proposed course: -nil-
+Other faculty members interested in teaching the proposed course:
+Proposing Instructor(s): Chinmay Dharurkar
+
+6.  Course Description:
+
+This course  is designed for undergraduate students to provide an overview of the
+significant ideas in Indian grammatical traditions. The primary focus of the course is to
+highlight the distinct grammatical thought of India basing on the texts from the Vedic,
+Classical Sanskrit, Prakrits, medieval Indian grammars to the grammars of modern Indian
+languages. The course introduces the Vedic corpus relevant to the grammatical thought:
+the Prātiśākhyas, Śikṣās, Nirukta, Vyākaraṇa, and other pre-Pāṇinian grammarians. The
+course lays special emphasis on the selected ideas from Pāṇinian Grammar: Aṣṭādhyāyī
+by introducing the basics of the grammar through actual interpretation and translation of
+few sūtras. The course offers an outline of the Pāṇinian tradition: the Trimuni, and the
+philosophical issues, linguistic debates in Bhartṛhari, other śāstra traditions. The course
+goes on to trace the influence of Pāṇinian grammar on other Sanskrit grammars, Prakrit
+grammars, and later (medieval and modern) grammars of Indic and Dravidian langauges
+too. It is in this sense a course in intellectual history of Indian grammatical thought. The
+course briefly discusses the influence the Indian grammatical tradition exerted on early
+Modern Linguistics through some selected common concerns like: prescriptivism vs.
+descriptivism, form vs. function, variationism, basic units of linguistic analysis: phoneme
+(varṇa, akṣara), morpheme (prakṛti-pratyaya), zero (the it-zero in Pāṇini) etc. The course
+familiarises students with the diverse linguistic-grammatical heritage of India, making
+cases for both its unity and plurality.
+
+A)  Objectives:
+
+•  To introduce students to the major texts and thinkers in the Indian grammatical
+tradition, from the Vedic period to modern grammars, and to provide an overview of
+their distinctive contributions.
+•  To develop a basic working familiarity with selected ideas and techniques of Pāṇini’s
+Aṣṭādhyāyī, including practical interpretation of sūtras and understanding their
+relevance in broader linguistic debates.
+•  To trace the intellectual history and influence of Indian grammatical thought—its role
+1
+
+[PAGE 2]
+in shaping later Sanskrit, Prakrit, and modern Indic/Dravidian grammars, as well as its
+resonance with themes in modern linguistics.
+•  To cultivate critical appreciation of the plurality and continuity in India’s linguistic-
+grammatical heritage.
+
+B)  Contents (preferably in the form of 5 to 10 broad titles):
+
+Sl.    Broad Title         Topic                                               No. of
+No                                                                                             lectures
+The Vedic corpus    Outline of the Vedic literature, oracy in the tradition, veda    3
+1.  relevant to         and loka, sacredness, nityatā and apauraṣeytā: extent and
+language and          critique, the Prātiśākhyas, the six Vedāṅgas: Śīkṣā,
+grammar           Vyākaraṇa, Nirukta, Kalpa, Jyotīṣa, Chandas; Linguistic
+analysis assumed in Padapāṭha, Aindra grammar
+Pre-Pāṇinian        Śākaṭāyana (radical derivationism) vs. Gārgya (givenness of
+2     grammarians       some words, autpattikatva), the different ideas, objectives of  2
+the pre-Pāṇinian grammarians.
+Pāṇini and the      The Pāṇinian texts: Aṣṭādhyāyī (sūtrapāṭha), gaṇapāṭha,
+3      Pāṇiniyas           dhātupāṭha. The trimuni tradition: Pāṇini, Kātyāyana        5
+(vārttikas) and Patañjali (Mahābhāṣya). The commentatorial
+literatrue and the tradition: some commnetaries and their
+significance.
+Pāṇini’s texts and   The metalanguage, brevity, techniques of brevity: the
+4       their structure       anubandha system, ittva, sūtra-syntax; the six types of sūtras  5
+with instances, sūtra-ordering, the overall structure of
+Aṣṭādhyāyī.
+5.      Pāṇini’s ideas       Ancient Indian Phonetics: the Māheśvarasūtras, prtyāhāras,
+through specific      the idea of it elision, concrete instances from sandhi-sūtras,
+sūtras                the extent of the idea of pratyāhāra – the verbal and the      5
+nominal suffixes, the Prakṛti-pratyaya vibhāga, the
+morphosyntax of Sanskrit through Pāṇinian sūtras, the
+meanining conditions as a semantic component.
+6.     Philosophy of        Bhartṛhari’s philosophy of language in Vākyapadīya, the
+language through    idea of sphoṭa, the grammatico-philosophical issues in       5
+Paṇinian tradition    linguistic analysis: semnatics the verbal tense and modal
+system in Kauṇḍabhaṭṭa’s lakārārthanirṇaya,
+7.     Non-Pāṇinian       Śarvavarman (Kāṇṭhāṅga/Katantra), Candragomin (Cāndra
+grammars           Vyākaraṇa), Devanandin (Jainendra Vyākaraṇa),
+Śakatāyana, Bhoja (Sarasvatī-Kaṇṭhā-Bharaṇa),
+Hemacandra (Siddha-hemacandra)
+5
+Prakrit grammars: Prākṛtaprakāśa — by Vararuci
+(traditionally identified with Kātyāyana, though this is
+debated), Prākṛtalakṣaṇa — by Markandeya (date uncertain,
+medieval), Siddha-Hemacandra (Śabdānuśāsana) portions
+on Prakrit and Apabhraṁśa — by Hemacandra (12th c., Jain
+polymath), Prākṛtasarvasva — by Namisādhu (around 11th–
+12th c.)
+
+2
+
+[PAGE 3]
+Ancient Tamil Grammar: Tolkappiyam, its comparison with
+Pāṇini’s grammar. Kannada: Kavirājamārga, Telugu:
+Āndhraśabdacintāmaṇi,
+8.      Sociolinguistic       Socio-historical contexts of the grammars: The shifting       4
+issues                centres of āryāvarta: from Sindhu to Ganga, the dynamics
+of Sanskrit and Prakrits in ancient and early medieval,
+society through Nāṭyaśāstra, epics and Purāṇas
+
+Sacredness, nityatā, degenerative sense of history, the idea
+of sādhuśabda, veda-loka,
+
+Pāṇini as a variationist: vā, vibhāṣā, anyatarasyām, the
+sociohistorical contexts of Sanskrit grammars and the
+grammarians, contextualising Patañjali’s vyākaraṇa-
+prayojanas, the place of Sanskrit alongside Prakrits.
+9.     Vyākaraṇśāstra in   Conceptual Foundations: Shared concern: śabda        5
+conversation with    (word), artha (meaning), vākya (sentence),
+other śāstras        Vyākaraṇa’s view of language as autonomous vs.
+Nyāya/Mīmāṁsā’s view of language as an instrument         (mainly Nyāya and
+for cognition and dharma.
+Mimāṁsā) and
+disciplines: NLP,                          Adaptive reuse: concepts across śāstras
+Modern
+Linguistics        Modern Linguistics: comparing concepts like
+morpheme, phoenme, zero etc.
+
+NLP/Computational Linguistics and Pāṇini: Simulation
+of Aṣṭādhyāyī, takeaways for computational
+Linguistics
+Total                                           39
+
+C)  Pre-requisites, if any (examples: a- PSO201A,or b- PSO201A or equivalent): None
+
+D)  Short summary for including in the Courses of Study Booklet
+ENG1XX This undergraduate course surveys major ideas in Indian grammatical traditions, from
+the Vedic corpus and pre-Pāṇinian grammarians to classical Sanskrit, Prakrit, and modern
+language grammars.  Special emphasis  is  placed on  Pāṇini’s  Aṣṭādhyāyī,  with hands-on
+interpretation of selected sūtras, the Trimuni tradition, and linguistic debates in Bhartṛhari and
+other śāstras. The course traces Pāṇini’s influence on later Sanskrit, Prakrit, and Dravidian
+grammars, framing grammar as intellectual history.  It also highlights resonances with early
+modern linguistics on issues like prescriptivism vs. descriptivism, form vs. function, and basic
+linguistic units. Students gain familiarity with India’s diverse yet interconnected grammatical
+heritage.
+
+3
+
+[PAGE 4]
+Selected Readings
+Abhyankar, K.V. (1985) Fundamentals of Sanskrit Grammar. Pune: Sanskrit Vidya Parisanstha.
+
+Abhyankar, K.V. [1977 (1986, 2012)] A Dictionary of Sanskrit Grammar. Baroda: Oriental Institute.
+
+Abhyankar V. M. (1942-1954) (Tr.) Mahābhāṣya of Patañjali [Marathi Translation] 7 volumes. Pune:
+
+DE Society.
+
+Allen, W. S. (1953). Phonetics in Ancient India. London & New York: Oxford University Press.
+
+Balbir, N. (2017). Extended grammars: From Sanskrit  to Middle Indo-Aryan with reference  to verb-
+
+description. Histoire Épistémologie Langage, 39(2), 21–44. https://doi.org/10.1051/hel/2017390202
+
+Banerji, Sures Chandra (1996) Historical Survey  of Ancient Indian Grammars. Delhi: Sharda
+
+Publishing House.
+
+Bharati, A., Chaitanya, V., & Sangal, R. (1995). Natural language processing: A Paninian perspective. New
+
+Delhi: Prentice-Hall of India.
+
+Bhate, S.V. (1970) Pre-Pāṇinian grammatical elements in the Pāṇini’s Aṣṭādhyāyī. Unpublished
+
+Ph.D thesis, Pune: University of Pune.
+
+Cardona, G. (1967-68) ‘Anvaya and vyatireka in Indian grammar’. Festschrift V. Raghavan.
+
+Madras: Brahmavidyā, The Adyar Library. pp. 313-52.
+
+Cardona, G. [(1976) 1980/1997] Pāṇini A Survey of Research. The Hague: Mouton. [Indian
+
+Edition 1980: Delhi: Motilal Banarasidass; reprinted 1997.]
+
+Cardona, G. (1983) Linguistic Analysis and Some Indian Traditions. Pune: Bhandarkar Oriental
+
+Research Institute.
+
+Cardona, G. (2004) Recent Research in Pāṇinian Studies. Delhi: Motilal Banarasidass.
+
+Cowell, E. B. (Ed. & Trans.). (1868). The Prakrita-prakasa, or The Prakrit grammar of
+
+Vararuchi: With the commentary (Manorama) of Bhamaha. London: Trübner.
+
+Deshpande, M.M. (1979) Sociolinguistic Attitudes in India An Historical Reconstruction. Ann
+
+Arbor: Karoma Publishers.
+
+Deshpande, M.M. (1993) Sanskrit and Prakrit Sociolinguistic Issues. Delhi: Motilal Banarasidas.
+
+Deshpande, M.M. (1997a) Śaunakīya Caturādhyāyikā A Prātiśākhya of Śaunakīya Atharvaveda.
+
+Massachusetts: Harvard University Press.
+
+Freschi, E., & Maas, P. A. (Eds.). (2017). Adaptive reuse: Aspects of creativity in South Asian
+
+cultural history (Abhandlungen für die Kunde des Morgenlandes, Bd. 101). Wiesbaden:
+
+Harrassowitz Verlag.
+
+Houben, J. [(1999) 2001] ‘Meaning statements’ in Panini’s grammar: on the purpose and context
+
+4
+
+[PAGE 5]
+of the Astadhyayi. Studien zur Indologie und Iranistik 22, 23-54.
+
+Jain, J. C. (2004) History and Development of Prakrit Literature. New Delhi: Manohar
+
+Jha, S. (Ed.). (1957). A comparative grammar of the Prakrit languages (R. Pischel, Author).
+
+Delhi: Motilal Banarsidass. (Original work published 1900)
+
+Joshi, S.D. (1967a) ‘Adjectives and Substantives as a Single Class in the “Parts of Speech”’.
+
+Journal of the University of Poona, Humanities section 25:19-30.
+
+Joshi, S. D. (1967b) The Sphoṭanirṇaya of Kauṇḍa Bhaṭṭa (PCASS Class C No. 2). Poona:
+
+University of Poona.
+
+Joshi, S.D. and J.A.F. Roodbergen (1986) Patañjali’s Vyākaraṇa Mahabhāsya   . (Introduction, text,
+
+translation and notes) Paspaśāhnika. Pune: University of Poona.
+
+Joshi, S.D. and J.A.F. Roodbergen (1991-2007) The Aṣṭādhyāyī of Pāṇini(thirteen volumes). New
+
+Delhi: Sahitya Akademi.
+
+Kahrs Eivind (2005) On the Study of Yaska’s Nirukta. Pune: BORI.
+
+Katre, S. M. (1964) Prakrit Languages and their Contribution to the Indian Culture. Poona: Deccan
+
+College PGRI.
+
+Kiparsky, P. (1979). Pāṇini as a variationist. Pune: The Poona University Press and MIT Press.
+
+Nitti-Dolci, L. (1972). The Prakrit grammarians (English Trans. Prabhakar Jha). Delhi: Motilal
+
+Banarsidass. (Original work published 1938).
+
+Ollett, A. (2017) Language of the Snakes. Oakland, California: University of California Press.
+
+Pandit, M. D. (1990) Zero in Pāṇini. Pune: CASS, University of Poona.
+
+Pandit, M. D. (2009) A Comparative Study of All Sanskrit Grammars (with special reference to
+
+Past Participle formations). Delhi: Bhartiya Kala Prakashan.
+
+Pischel, R. (1981). A grammar  of the Prakrit languages  (S. Jha,  Trans.). Delhi: Motilal
+
+Banarsidass. (Original work published 1900)
+
+Raja, Kunjunni [(1969) 2000] Indian Theories of meaning. Chennai: The Adyar Library and Research
+
+Centre.
+
+Scharfe, H. (1977). Grammatical  literature (A  history of Indian  literature, Vol.  5, Fasc.  2).
+
+Wiesbaden: Otto Harrassowitz.
+
+Scharf P. M. and Hyman, M. D. (2011) Linguistics Issues in Encoding Sanskrit. Providence: The
+
+Sanskrit Library.
+
+Sharma, R. N. (2002) The Aṣṭādhyāyī  of Pāṇini  (five volumes). New Delhi: Munshiram
+
+Manoharlal Publishers.
+5
+
+[PAGE 6]
+Sircar, D. C. (1943). A grammar of the Prakrit language. Calcutta: University of Calcutta.
+
+Subrahmanyam, P. S. (1999) Pāṇinian Linguistics. Tokyo: Institute for the study of Languages
+
+and Cultures of Asia and Africa, Tokyo University of Foreign Studies.
+
+Subrahmanyam, P. S. (2007) “Telugu Grammar in Pāṇinian framework- Some Issues”. Indian
+
+Linguistics Vol. 68 Nos. 3-4 (July-Dec): 315-324.
+
+Subrahmanyam, P. S. 2011. “The Prakrit Grammatians: Historical Linguists of Ancient India.”
+
+Indian Linguistics 72: 230–242.
+
+Vaidya,  P. L. (1958)  (Ed.) Hemacandra’s Siddha-hema-śabdānuśāsana (with commentary
+
+Prakāśikā, ed. Paraśurāma Lakṣmaṇa Vaidya). Prakrit grammar: The eighth adhāyāya of
+
+Siddha-Hema-Śabdānuśāsana (Prakāśikā). Poona: Bhandarkar Oriental Research Institute.
+
+Varma Siddheshwar (1961) Phonetic Observations of Indian Grammarians. Delhi: Munshiram
+
+Manoharlal.
+
+Online resources:
+
+1.  https://ashtadhyayi.com/
+
+2.  https://www.linguindic.com/
+
+3.  https://sanskritlibrary.org/derivation.html, also overall https://sanskritlibrary.org/index.html
+
+4.  https://blogs.ubc.ca/ubcsanskrit/tools/
+
+5.  https://tdil-dc.in/index.php?option=com_vertical&parentid=84&lang=en
+
+6.  https://sanskrit.uohyd.ac.in/scl/
+
+7.  https://www.cfilt.iitb.ac.in/wordnet/webswn/english_version.php
+
+7. Any other remarks:      ----none----
+
+Dated:  18/10/2025      Proposer:    Chinmay Dharurkar
+
+Dated:          DUGC/DPGC Convener:              _
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC
+
+Dated:
+
+6

@@ -1,0 +1,1535 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+
+COURSES OF STUDY
+
+2024
+
+Indian Institute of Technology Kanpur
+KANPUR-208016
+
+[PAGE 2]
+BIOLOGICAL SCIENCE AND ENGINEERING
+
+[PAGE 4]
+DEPARTMENT OF BSBE
+
+Credits
+Courses ID    Course Title                                         Content
+L-T-P-D-[C]
+Animal Tissues & Organ Systems: Concept of self assembly,
+energy and evolution, Basic structure of the cell, Organization of
+the cells to from different tissue systems, Assembly of different
+tissue system to form organ system, Crosstalk of different organ
+system  to form adynamic  living system Nervous System:
+Organizational assembly of the nervous network in the body and
+its cross talk with different organ system Sensory System: Basic
+anatomy of the different sensory system of the body, Signal
+reception from the outside environment by these  different
+sensory modalities and relaying the information to the nervous
+system Endocrine System: Outline of the different endocrine
+system in the body and their functioning, Cross talk between
+endocrine and nervous system in carrying out physiological
+ORGAN                        functions Circulatory System and Blood: Network of the blood
+BSE211A      SYSTEM,                      vessel  in  the body and  their  fine  structuralmodifications,
+3-0-0-0-9
+PHYSIOLOGY                   Composition of the circulating fluid: Blood, Different between
+AND ANATOMY                  blood and plasma,Structure of the pumping station: the heart,
+Functioning of the heart, ECG recordings, Control system of the
+heart Immune System and Lymphatic System: Basic concept of
+immunity, Classification of immune system, Basic functioning of
+different components  of immune system, Basic concept  of
+lymphatic system, Crosstalk between immune system nervous
+system and endocrine system Muscoskeletal System: Anatomy
+of the muscoskeletal system, Tissue organization of thebone,
+cartilage and muscle, Role of the muscoskeletal system  in
+movement Respiratory System: Structure of the lungs, Process
+of gas exchange (C02 and 02) in thelunQs to provide oxygen
+rich blood  to the body Digestive System: Anatomy  of the
+digestive system, Functioning of the individual orga Biology
+Eight Edition, N. A. Campbell & J. B. Reece (2008)
+Enzymes: Concepts, kinetics, catalytic strategies and regulation:
+Free energy as a thermodynamic function, formation of transition
+states,  The  Michaelis  Menten  model, enzyme  inhibitors,
+coenzymes, proteases, oxygen transport, hemoglobin, allostery,
+isozymes. Glycolysis and Gluconeogenesis: Energy conversion
+pathways in organisms, control of glycolytic pathway, synthesis
+of  glucose  from  noncarbohydrate  precursors,  reciprocal
+regulation of gluconeogenesis and glycolysis. The citric acid
+Cycle: Pathway,  control, source  of biosynthetic precursors,
+glyoxylate  cycle.  Oxidative  phosphorylation  and  electron
+BSE221                                           transport chain: Mitochondrial membrane, electron  transfer,
+BIOCHEMISTRY     3-0-0-0-9
+proton pumps and physical link to citric acid cycle, regulation of
+cellular machinery, Glycogen metabolism: Interplay of enzymes,
+epinephrine and glucagon signaling, reciprocal regulation of
+glycogen breakdown and synthesis. Fatty acid Metabolism:
+Triacylglycerols  as  energy  stores,  stages  of  processing,
+pathways of synthesis and degradation, acetyl Coenzyme A.
+Protein Folding and turnover:  Stability, pathways of folding,
+chaperones,  proteasomes,  amino  acid  degradation,  urea
+formation.
+Course Reference:  1. Biochemistry by Jermy M Berg, John L
+Tymoczko and  Luber!  Stryer,  Publisher: W. H. Freeman;
+
+[PAGE 5]
+Seventh  Edition (December  24, 201  0);  2.  Principles  of
+Biochemistry by Albert Lehninger, David L Nelson, Michael M
+Cox, Publisher: W. H.Freeman; Fifth Edition (June 15, 2008).
+
+energetics  of  microbial  metabolism;  transport phenomena;
+enzyme catalyzed reactions andprocesses; bioreactor design
+and  applications;  sterilization;  instrumentation and  control.
+Bioseparations and Bioprocesses: Downstream  processing;
+matrix  design;  pretreatment  methods;  separation  of  cell
+biomass;    adsorption;     filtration,    precipitations;    affinity
+precipitations;  column  chromatography;  plate  theory  and
+principles of chromatography; different types of chromatography,
+polishing  crystallization,  drying,  separation  case  studies;
+process   integration;  bioprocess   integration   for   efficient
+production  and  recovery,  scaleup  consideration,  process
+monitoring   and   process   economics.   Environmental
+BSE222A    BIOCHEMICAL                   Bioprocesses: Interaction of mixed microbial population; aerobic
+ENGINEERING                and anaerobic processes; applications; biological wastewater
+treatment,  bioremediation.  Enzyme  Technology:  Enzyme
+catalyzed   reactions.   Cell  and  Enzyme   immobilization.
+Industrialapplications and case studies. Course Reference: 1.
+Blanch, H. W. and Clark, D. S; Biochemical Engineering. Marcel
+Dekker,  Inc;  2. Bailey,  J. E. and  Ollis, D. F, Biochemical
+Engieering Fundamentals; McGrawHill, Inc.; 3. Belter, P. A.,
+Cussler, E. L. and Hu, W. S. Bioseparations: Downstream
+Processing for Biotechnology; John Wiley & Sons; 4. Desai,
+Mohamed. A. Downstream Processing of Proteins: Methods and
+Protocols. Humana Press;  5. Shuler, M.  L. and  Kargi, F.
+Bioprocess  Engineering  Basic  Concepts;  6.  Amersham
+Biosciences literature notes on chromatography
+Fundamentals of Biochemistry: This section will deal with the
+experiments which can be used to determine the biomolecules
+both  quantitatively and  qualitatively. Experiment  related  to
+Spectrophotometry Beer Lambert Law. Experiment describing
+the preparation ofstandard plot for model protein such as bovine
+serum albumin (BSA). Quantifying theunknown protein using
+spectrophotometric   measurements   by  UV   adsorption,
+Lowrymethod, dye binding method, Bicinchoninic acid (BCA)
+method. Analysis of the presenceof glucose and quantifying the
+concentration  using  Dinitrosalicylic  acid  (DNSA)  method.
+Enzyme activity, Enzyme kinetics, Starch conversion to glucose
+by   salivary  amylase.  Paranitrophenyl.  Dglucopyranoside
+BIOCHEMISTRY
+(pNPG) assay  for     glucosidase.  Analysis  ofproteins by
+BSE223A   & BIOCHEMICAL
+1-0-6-0-9   SDSPAGE.  Biochemical  Engineering  Bioseparations  and
+ENGINEERING
+Bioprocesses: Experiments related to upstream processing and
+LAB
+downstream  processing. Fermentation and  microbial mass
+culture. Downstream processing; harvesting of cell mass and
+extraction   of  protein/enzyme  (adsorption,   filtration},   cell
+sonication,  precipitation,  column  chromatography,  column
+regeneration, affinity column preparation, purification, protein
+and enzyme activity measurements, SDSPAGE analysis, data
+compiling. Ethanol Fermentation. Bioreactor operation (25 Its),
+tangential/cross  flow  filtration  for  cell  harvesting, computer
+simulation, mass transfer phenomenon and cell growth kinetics.
+Course Reference: 1. Introductory Practical Biochemistry by S.
+K.  Sawhney  and   Randhir   Singh,   Publisher:   Alpha
+ScienceInternational,  Ltd  (August   1,  2005);   2.  Protein
+
+[PAGE 6]
+Purification Applications  Practical Approach by Simon Roe
+Oxford  University  Press;  3.  Bioprocess  EngineeringBasic
+concepts by Michael L. Shuler and Fikret Kargi; 4. Practical
+notes issued in the lab
+Essential elements of written communication: discussion of a
+topic, identification of the key elements, clarity of the rationale in
+a scientific and technical work, elaboration of technical details,
+key elements and highlights of a finding/project, identification of
+what answers have been  obtained, what  remains  to be
+SCIENTIFIC &
+answered.  How   to  underscore  the   significance   of  a
+BSE301A   PROFESSIONAL
+0-0-2-0-2     project/finding, and  its larger meaning, conclusions Essential
+COMMUNICATIO
+elements of verbal communication: what communication skills
+N
+interests audience, how to navigate through complex set of
+information, the art of displaying the key messages, overcoming
+language barriers, translation of scientific message for the lay
+audience, making new ideas understandable, how to engage
+with the audience.
+Molecular Genetic Techniques and Genomics: Genetic analyses
+of mutations to identify and study genes; DNA cloning and
+characterization; Genome wide analyses of gene structure and
+gene expression; Inactivating the function of specific genes in
+eukaryotes;  Identifying and  locating human disease genes
+Molecular Structure of Genes and Chromosomes: Chromosomal
+organization genes and non coding DNA; Mobile DNA; Structural
+organization  of  eukaryotic chromosomes;  organelle DNAs
+Transcriptional Control of Gene Expression: Eukaryotic gene
+control and RNA polymerase; regulatory sequences in protein
+coding  genes;  activators and  repressors  of  transcription;
+mechanism  of  transcription  activation and repression. Post
+transcriptional Gene Control: Processing of eukaryotic prem
+BSE311A    MOLECULAR
+3-0-0-0-9    RNA;   transport  across   nuclear   envelope;   cytoplasmic
+CELL BIOLOGY
+mechanism of posttranscriptional control; processing of RNA
+and RNA,  regulation  of  protein  synthesis.  Cell  signalling:
+Signalling molecules and cell surface receptors; intracellular
+signal transduction; G protein coupled receptors. Membrane
+trafficking: Translocation of secretory proteins across the ER
+membrane; protein modifications, folding and quality control in
+the ER; export and sorting of proteins. Eukaryotic cell cycle:
+Biochemical and genetics studies on cell cycle; mechanisms
+regulating mitotic events; meiosis a special type of cell division.
+Course Reference: 1. Molecular Cell Biology, by Lodish et al
+(5th edition or recent), W.H. Freeman and Company, New York;
+2. Molecular Biology of the Cell, by Alberts et al (4th edition or
+later), Garland Sciences, New York.
+Microbiology:  Introduction  to  sterilization techniques and  certain
+equipment  used  for  sterilization  or  maintenance  of  a  sterile
+environment e.g. the autoclave and the laminar flow hood. Learning
+the basic principles of making solutions used for microbiological and
+molecular  biological  experiments, such as  buffers, medium  for
+microbial culture etc. Measurement of pH and introduction to the pH
+BSE312A    MOLECULAR                       meter. Learning how to make liquid and solid medium for microbial
+1-0-6-0-9
+BIOLOGY LAB                         culture and the various techniques for growing microbial cultures in
+liquid and solid medium. Learning the principles and application of a
+basic staining technique to identify bacterial subtypes e.g. Gram
+staining. Collection of soil samples and water samples from different
+locations on campus for identification and quantification of bacteria in
+these samples through Gram staining and other techniques using
+McConkey’s medium and Triple-sugar iron medium. Learning the
+
+[PAGE 7]
+basic principles of light microscopy and the observation of bacterial
+cells under a compound microscope.
+
+Molecular Biology: Learning the basic principles about plasmid vectors
+and the use of  antibiotic selection  for growing bacterial cultures
+containing plasmid vectors. Learning the methods of determining the
+efficiency of cloning of desired DNA fragment in a plasmid vector
+through  blue-white  selection.   Learning  the  principles  of and
+generating chemical competent bacterial cells for transformation with
+plasmid DNA. Measuring the  efficiency  of transformation  in the
+chemical competent bacterial cells. Isolation of plasmid DNA from
+bacterial cells after transformation. Restriction digestion of plasmid
+DNA. Learning the principles of and using gel electrophoresis to
+determine size of DNA fragments in sample. Learning about the
+technology  for  amplification  of DNA  sequences  through  the
+polymerase chain reaction (PCR). Using PCR to specifically amplify a
+piece of DNA and subsequent detection of amplification through gel-
+electrophoresis.
+Genetics: Learning about the use of Drosophila melanogaster as a
+model system for genetic studies. Learning about the life cycle of this
+model organism and the study of adult mutant phenotypes. Learning
+basic genetics techniques such as setting up a dihybrid cross. Learning
+about sex-linkage and how to set up a cross to demonstrate it. Learning
+various techniques necessary  for  carrying  out  molecular-genetic
+analysis of flies e.g. preparation of polytene chromosomes, dissection
+of salivary glands and wing imaginal discs from larvae and dissection
+of adult body parts etc. Learning the principles of the powerful UAS-
+GAL4 system for driving tissue specific expression of reporter genes
+and the detection of the reporter (LacZ) expression in the tissue of
+interest.
+Part I Principles of Protein Structure from primary sequence to
+three-dimensional structure. Elementary ideas of bonding and
+structure. The  building  blocks.  Motifs  of  Protein  structure.
+Prediction, design and engineering of protein structures. Part II.
+The Structural Basis of Protein Function. Four fundamental
+biochemical functions of proteins, Recognition, Complementarity
+and Active Sites. Flexibility and Protein Function, Location and
+nature of Binding Sites, Functional Properties  of, Structural
+Proteins, Catalysis: Overview, ActiveSite Geometry, Proximity
+BSE321A                                 and  GroundState  Destabilization,  Stabilization  ofTransition
+Appu and                                          States, Active Site Chemistry. Control  of Protein Function.
+STRUCTURAL
+Arun                            2-0-2-2-10   Mechanisms  of  Regulation.  Part   Ill  Determination  of 3D
+BIOLOGY
+Structures using X-ray  crystallography an overview  of the
+method.  Laboratory  experiments  protein  preparation   for
+crystallization experiments, protein  crystallization, Evaluating
+the quality of crystals, Cryoprotecting crystals at low temperature
+for  data  collection.  Xray  diffraction  data  collection  and
+processing a demonstration session.
+Course Reference:  1. Protein Structure and Function, By
+Gregory. A. Petsko and Dagmar Ringe, New Science Press; 2.
+Introduction to Protein Structure, Branden & Tooze, Garland
+Publishing; 3. Outline of Crystallography for Biologists, David
+Blow, Oxford University Press.
+Introduction to bioinformatics, biological databases and their
+growth, concept of homology, pairwise sequence alignment,
+BIOINFORMATIC      3-0-0-9                                                  dotmatrix plot. Dynamic programming, Edit distance, global and
+S &
+BSE322                                              local alignments. Substitution matrices (PAM and BLOSUM
+COMPUTATIONA
+families), statistical significance of alignments, BLAST. Multiple
+L BIOLOGY
+sequence alignment, sequence logos. Pattern finding in protein
+and DNA sequencing, Gibbs Sampler, Hidden Markov Models,
+
+[PAGE 8]
+Profiles.   Introduction   to   phylogeny,   reconstruction   of
+phylogenetic trees, gene prediction.
+
+Course Reference: Bioinformatics Algorithms by Pavel Pevzner
+and Phillip Compeau, Active Learning Publishers (2018).
+Bioinformatics: Sequence and Genome Analysis by David W.
+Mount, Cold Spring Harbor Laboratory Press (2001).
+
+UG PROJECT
+BSE398A                           0-0-0-0-9   UG PROJECT (UGPI)
+(UGP-I)
+UG PROJECT
+BSE399A                           0-0-0-0-9   UG PROJECT (UGPII)
+(UGP-II)
+Classes of Materials used in medicine: Introduction to Materials
+Science: Bulk and surface properties of materials, Polymers,
+Metals,  Ceramics,   Natural   Materials  and  Composites.
+Degradable polymers and  their use  in medicine: Polymers,
+Hydrogels,   Silicone   biomaterials  and   medical   fibers.
+Biocompatibility of Materials, Degradation of materials in the
+biological environment. Types of polymer degradation. Influence
+of polymer properties on degradation. Influence of biological
+environment on polymer  degradation.  Biological  testing  of
+biomaterials:  In  vitro  assessment  of  materials  for  tissue
+BSE411                                              compatibility. Invivo assessment of tissue compatibility. Host
+BIOMATERIALS      3-0-0-0-9
+reactions to biomaterials and  their evaluations: The role of
+adsorbed proteins  in tissue response to biomaterials.  Cell,
+extracellular matrix, and tissue interactions with biomaterials.
+Inflammation, wound healing and foreign body response to
+biomaterials. Immune response to foreign materials. Toxicity,
+tumorigenesis  and   biomaterials.   Specific  examples   of
+applications of biomaterials in medicine.
+Course Reference: 1. An Introduction to Materials in Medicine.
+Second Edition. Edited by: Buddy D. Ratner, Allan S. Hoffman,
+Frederick J. Schoen, and Jack E. Lemons. Publisher: Elsevier
+Academic Press.
+
+1. Smart polymers and Cryogel matrices and their applications
+in Bioengineering
+
+a)  Synthesis and characterization of thermo-responsive Smart
+Polymers  of  poly(N-isopropylacrylamide)  (PNIPAm)  using
+radical polymerization. Synthesis of copolymers and hydrogels
+of thermo-responsive polymers. Measurement of cloud point or
+Lower Critical Solution Temperature (LCST).
+BIOMATERIAL,
+BSE412    PHYSIOLOGY &                    b) Synthesis of Chitosan-Gelatin Cryogels as tissue engineering
+1-0-6-0-9            BIO-MEMS                        scaffolds. Scanning Electron Microscopic (SEM) analysis for
+LABORATORY                  pore  size  and  porosity  determination.  Mechanical  and
+rheological properties of Cryogels.
+
+c)    Protein adsorption and release on thermos-responsive
+hydrogels and chitosan-gelatin cryogels.
+
+2. Preparation and application of paper based biosensors
+
+a)     Preparation of thermo-responsive hydrogels with lower
+critical solution temperature (LCST) a. Preparation of samples
+
+[PAGE 9]
+for different characterizations b. Acquisition of data, Poly(N-
+isopropylacrylamide) (PNIPAm) as parent molecule, samples for
+scanning electron microscopy (SEM), and Raman spectroscopy.
+
+b)  Improvement in LCST: Preparation of samples for different
+characterizations  and  acquisition  of  data,  added  carbon
+materials, temperature sensitive UV spectroscopy.
+
+c) Surface coating of paper: Preparation of samples for different
+characterizations and acquisition of data,  filter paper, SEM,
+Raman spectroscopy.
+
+d)   Interaction with cells: Preparation of samples for different
+characterizations  and  acquisition  of  data, SEM, Raman
+spectroscopy.
+
+e)  Surface deposition of electrodes and interaction with cells:
+Acquisition of data, resistance measurement.
+
+Books:
+
+1. Biomaterials Science: An Introduction to Materials in Medicine
+by B. D. Ratner, A. S. Hoffman, F. J. Schoen, and J. E. Lemons.
+
+2.   Supermacroprous  Cryogels:  Biotechnological and
+Biomedical Applications. (Ashok Kumar Ed.) CRC Press,
+Taylor & Francis Group, Boca Raton, USA, 2016
+
+3. A Beginners' Guide to Scanning Electron Microscopy; By
+Anwar Ul-Hamid
+
+4.  Introduction  to  Infrared and Raman Spectroscopy; By:
+Colthup, Norman B. Contributor(s): Wiberley, Stephen E.
+
+5. Spectroscopy: principles and instrumentation; By: Vitha, Mark
+F.
+
+6.   Introduction  to  biosensors   :  from  electric  circuits  to
+immunosensors; By: Yoon, Jeong- Yeol.
+
+Quantitative Cell and Tissue Biology, Tissue Organization;
+Tissue Dynamics; Stem Cells; Cell-Fate processes; Coordination
+of Cellular-Fate Processes; – Cell and Tissue Characterization:
+Cell and Tissue Properties; Cell and Tissue Culture, Engineering
+BSE421       TISSUE                    Methods  and  Design:  Biomaterial   Scaffolds;   Tailoring
+ENGINEERING                    Biomaterials, Clinical Implementation: Conventional Clinical
+Approaches   to  Tissue  Dysfunction;  Producing   Tissue-
+Engineered Therapies
+
+Text Book: Tissue Engineering. Authors: Bernhard O. Palsson &
+Sangeeta N.  Bhatia Reference Book:  Principles  of  Tissue
+
+[PAGE 10]
+Engineering. Authors: Robert P. Lanza, Robert Langer, Joseph
+Vacanti
+
+METHODS IN
+BIOTECHNOLOG
+BSE492
+Y-I,                    To be Procured
+EXPERIMENTAL
+BIOSEPERATION
+UG PROJECT
+BSE498                           0-0-9-0-9   UG PROJECT (UGPIII)
+(UGP-III)
+UNDER
+BSE499     GRADUATE        0-0-0-0-9   UP PROJECT (UGP II)
+PROJECT IV
+1. CRITICAL READING: Context, how?  is the text argued,
+Central claims, Kinds of reasoning, Examine Evidence, Examine
+Interpretations, Evaluations, Limitation of study; 2. CRITICAL
+PROFESSIONAL
+BSE601                                 WRITING: Learning to write through building of arguments,
+COMMUNICATIO     1-0-0-0-0
+Hypothesis   building,  Conference  Abstracts,  Manuscripts,
+N
+Reviews / Book chapters / Books, Proposals, Patents; 3. ORAL
+PRESENTATION: Conference, Scientific, Teaching, Popular; 4.
+ETHICS: Experimentation, Writing No prescribed textbook.
+LABORATORY                  Demonstration based course. Usage of different equipments will
+BSE602                           2-0-0-0-0
+METHODS                  be demonstrated. Demonstration based course. No text book.
+1. Applications of spectroscopic and other techniques to the
+study of biomolecules: UVVis spectroscopy, Circular dichroism,
+Fluorescence, NMR, Mass, IR and Raman spectroscopy, XRay
+diffraction; 2. Analysis of Proteins: Electrophoretic separation of
+proteins (single dimension native and denaturing gels, 2D and
+digital electrophoretic analysis), detection (staining, blotting and
+MODERN
+immune detection) specialized applications (in vitro synthesis of
+INSTRUMENTAL
+BSE611A                                            protein, labeling and Mass spectrometry), ultracentrifugation; 3.
+METHODS IN       3-0-0-0-9
+Techniques  with  Radioisotopes:  Introduction  Isotopes and
+BIOLOGICAL
+Radioactivity    Ionization    Effects,   Measurement    Units,
+SCIENCES
+Measurement Techniques, Autoradiography, Biological Uses of
+Radioisotopes, Tracer Dilution Technique, Radioimmunoassay;
+4. Cellular Imaging Techniques: Microscopy: Phase contrast,
+Fluorescence,  Atomic  Force  and  confocal;  5.  Electron
+Microscopy: Negative staining, cryo EM, Transmission EM and
+Scanning EM
+1.  Introduction  to  biochemical  engineering,  bioprocesses,
+bioproducts and biochemical technology with specific examples
+Three lectures; 2. Upstream process: Microbial, mammalian and
+plant  systems   for  bioprocess  technology.   Sterilization.
+Stoichiometry and energetics of microbial metabolism. Transport
+phenomena Five lectures; 3. Enzyme catalyzed reactions and
+processes. Cell and enzyme immobilization. Bioreactor design
+BSE612A    BIOCHEMICAL                 and applications. Instrumentation and control Six lectures; 4.
+3-0-0-0-9
+ENGINEERING                Downstream  process:   Bioseparations,   characteristics   of
+biological materials, pretreatment methods, separation of cell
+biomass, adsorption, filtration, centrifugation, precipitation and
+extraction Four lectures; 5. Liquid chromatography principles,
+plate and  rate  theory,  ion exchange,  gel  filtration,  affinity
+chromatography, hydrophobic interaction and reverse phase
+chromatography  Six  lectures;  6.  Integrated  bioprocesses
+Bioprocess integration for  efficient production and recovery,
+
+[PAGE 11]
+expanded bed  separations,  affinity  precipitations, aqueous
+twophase processes, monolithic chromatographic separations
+Six  lectures;  7.  Polishing,  crystallization,  drying,  scaleup
+consideration,  process  monitoring and process economics
+Three lecturesH. Environmental bioprocesses  Interaction  of
+mixed microbial population, biological wastewater treatment,
+anaerobic digesters, bioremediation Three lectures; 8. Case
+studies and new developments of bioprocesses paper readings
+and presentations.
+Course  Reference:  1.  Blanch,  H. W. and  Clark,  D.  S.
+Biochemical Engineering. Marcel Dekker, Inc.; 2. Bailey, J. E.
+and   Ollis,  D.  F.  Biochemical  Engieering  Fundamentals.
+McGrawHill, Inc.; 3. Belter, P. A., Cussler, E. L. and Hu, W. S.
+Bioseparations: Downstream  Processing  for  Biotechnology,
+John Wiley & Sons;  4. Desai, Mohamed. A. Downstream
+Processing of Proteins: Methods and Protocols. Humana Press;
+5. Shuler, M. L. and Kargi, F. Bioprocess Engineering Basic
+Concepts
+Introduction to Materials Science: Bulk and surface properties of
+materials; Polymeric materials; synthesis, characterization, and
+fabrication methods Inert, biodegradable, hydrogels, Natural,
+Genetically engineered and Bioactive; Ceramics and glasses;
+Metals; Surface modification techniques.  Biocompatibility  of
+BSE613A    BIOMATERIALS     3-0-0-2-11
+Biomaterials:  Protein  structure,  interaction  of  proteins  with
+synthetic material; characterization of cell material interactions;
+inflammatory   responses;   acute   inflammation,   chronic
+inflammation, foreign body response, assessment of material
+performance.
+What  is tissue engineering? Scope and objective of tissue
+engineering;  Principles   of  tissue  engineering;  Essential
+components      of      tissue     engineering;     Materials
+Science/Engineering aspects (degradable materials); Design
+and characterization of scaffolds (porosity, mechanical strength
+TISSUE
+BSE614A                           3-0-0-0-9    and 3D architecture); Cell Biology aspects (choice of cell type,
+ENGINEERING
+progenitor  cells and  cell  differentiations); Molecular biology
+aspects (cell signaling moleculesgrowth factors, cell attachment
+integrins); Drug  delivery  in tissue engineering; Commercial
+developments   of   tissue  engineering;  Future   of   tissue
+engineering.
+
+Course Objective: The objective of this course is to expose
+students to drug discovery and recombinant protein drugs. The
+course  will help students  to get a deep understanding  of
+scientific and technical aspects of the development, production,
+and clinical usage of biopharmaceuticals.  It will facilitate the
+students to explore job avenues, research opportunities, and
+BIOPHARMACEU                   entrepreneurship. BSE616
+TICALS
+Course Contents:
+
+Module A. Introduction to biopharmaceuticals
+
+Introduction to biotechnology and biopharmaceuticals, historical
+perspective  of  pharmaceutical  biotechnology,  process  of
+transforming new molecular entities into drugs, current trends in
+
+[PAGE 12]
+drug development, biotechnology industry perspective on drug
+development.
+
+Module B. Drug Development process
+
+Drug  discovery  approaches,  modulatory  effects,  binding
+strength, effective and inhibitory concentration, side effects,
+ADME,  Lipinski  rule,  the  action  of  drugs  on  humans,
+pharmacokinetics,   pharmacodynamics,   routes   of   drug
+administrations, patenting, phases of clinical studies, design,
+and conduct of clinical trials, case studies of drug discovery.
+
+Module C. Biopharmaceutical technologies
+
+Role of the manufacturing process, process evaluation, drug
+substance  manufacturing,  drug  product  manufacturing,  cell
+banking, expression systems, batch and continuous processes,
+sterility and sterile technology, raw material, and processing aids,
+purification of product, formulation and filling, labelling, and
+packaging,  product  analytics,  quality  criteria  of  analytical
+methods, process analytics, validation of analytical methods.
+
+Module D: Quality assurance and quality control
+
+Fundamental of quality assurance, benefits, the structure of
+quality management, documentation, audits, quality assurance
+in manufacturing measures to cross-contamination and product
+confusion, equipment qualification, process validation, product
+release, product recall.
+
+Module E. Regulatory bodies
+
+Field of pharmaceutical laws, authorities, institutions and their
+regulation, drug approval steps and processes, FDA, EMEA,
+German, Japanese, and Indian regulatory bodies.
+
+Module F: Production facilities
+
+Basic principles, GMP compliant design, zoning concept, single
+and multiple product  plants, clean rooms, clean and plant
+utilities, water for injection, waste management.
+
+Module G: Commissioning of manufacturing plant
+
+Steps   of   engineering   projects,   planning,   construction,
+commissioning, qualification, validation, project schedules, cost
+estimates, health safety, and the environment.
+
+Module H: Economy
+
+The  life cycle of a drug, basic principles of cost calculation,
+typical  costs  of  biotechnology  manufacturing,  investments,
+production  concept,  technology   transfer,  supply  chain
+management.
+
+[PAGE 13]
+Module I: Case studies by practitioners of biopharmaceutical
+development and manufacturing.
+
+Special  Emphasis:  Teaching  through  case  studies  and
+involving students in the discussion. Problem solving in the class
+by an individual student and in teams. Learning through research
+articles and self-studying in the class and home assignments.
+Discussion/lectures  by  one   or  two   biopharmaceutical
+professionals from the industry depending on their availability.
+Weekly ppt of the lectures will be shared.
+
+Books Recommended:
+
+1)  Biopharmaceuticals: Biochemistry and Biotechnology by
+Gary  Walsh,  Publisher:  Wiley-Blackwell,  ISBN-10:
+0470843276
+
+2) Manufacturing of Pharmaceutical Proteins (from technology
+to Economy) by  Dr.-Ing.  Stefan Behme, Wiley-VCH
+Verlag GmbH & Co. ISBN 978-3-527-32444-6
+
+3) Biochemistry by Lubert Stryer, W.H. Freemanand Company.
+ISBN 13:978-1-4292-7635-1
+
+Protein structure and folding : Building blocks of biopolymers,
+conformational studies of biomolecules, Ramachandran map,
+protein secondary and supersecondary  structures,  different
+classes of tertiary structures, overview of different experimental
+techniques to determine biomolecular structures, intermolecular
+interactions, protein folding
+
+Enzymes and the structure-function relationship: Enzyme
+kinetics, structural basis of catalytic activity, MichaelisMenten
+kinetics, Enzyme  inhibitors and complex reaction schemes,
+protein and RNA enzymes, basic concepts of metabolism and
+design
+
+Nucleic acid structures: Double-helical structures of RNA and
+BIOCHEMISTRY
+BSE631A                               DNA, functional versatility of RNA, protein-DNA interactions
+STRUCTURAL      3-0-0-0-9
+BIOLOGY                                     Membrane  proteins:  Lipids,  bilayer  assembly,  biological
+membranes  as  solvent  for membrane  proteins,  structural
+principles of membrane proteins, channels and receptors, signal
+transduction and GPCRs
+
+References:
+
+1.  Introduction to Protein Structure by Carl Branden &
+John Tooze, Garland Publishing, 2nd Edition, New
+York
+2. The  Molecules  of  Life:  Physical and Chemical
+Principles by J. Kuriyan, B. Konforti and D. Wemmer,
+Garland Science, NY
+3.  Biochemistry, L. Stryer, W.H. Freeman & Co, 4th Edition,
+1995
+
+[PAGE 14]
+4. Ramachandran & Sasisekharan, Adv. Protein Chem.
+(1968) 283-438
+5.  Proteins:  Structures and  Molecular  Properties,  T.E.
+Creighton, W.H. Freeman & Co, 2nd Edition
+6.  Biophysical  Chemistry  Part   I: The  conformation  of
+Biological Macromolecules, Cantor and Schimmel, W.H.
+Freeman & Co, 1999
+7.  Principles of Protein Structure, Schulz and Schirmer,
+Springer-Verlag
+8. Biomembrane: Molecular Structure & Function, R.B.
+Gennis, Springer-Verlag
+9. Research papers and Review articles from journals
+
+Introduction   to   bioinformatics:   Distinction   between
+bioinformatics and computational biology, biological databases
+and  their  growth,  concept  of homology and  definition  of
+associated terms
+
+Pairwise  sequence  alignment:  Dotmatrix  plot,  dynamic
+programming algorithm, global (Needleman-Wunsch) and local
+(Smith-Waterman) alignments, BLAST
+
+Scoring matrices: PAM and BLOSUM families, gap penalty,
+statistical significance of alignment
+
+Multiple  sequence   alignment:   Sum-of-pairs   method,
+CLUSTAL W, Genetic Algorithm, Pattern finding in protein and
+DNA sequencing, Gibbs Sampler, Hidden Markov Model, Profile
+construction and searching, PSI-BLAST
+
+Phylogenetic algorithms: Introduction to phylogeny, maximum
+BIOINFORMATIC                 parsimony  method,  distance  method  (neighbour-joining),
+BSE633A       S AND                       maximum-likelihood method
+3-0-0-0-9
+COMPUTATIONA
+L BIOLOGY                Gene  Prediction  and  Comparative  Genomics:  Gene
+prediction in prokaryotes and eukaryotes, homology and ab-initio
+methods,  genome  analysis  and  annotation,  comparative
+genomics
+
+References:
+
+1.  Bioinformatics: Sequence and Genome Analysis, David
+W. Mount, Cold Spring Harbor Laboratory Press (2001)
+2. Advances in Protein Chemistry, Vol 54 (2000)
+3.  Developing Bioinformatics Computer Skills. C. Gibas and
+P. Jambeck, O’ Reilly (2001)
+4.  Biological Sequence Analysis: Probabilistic models of
+proteins and nucleic acids. R. Durbin, S. Eddy, A. Krogh
+and G. Mitchison, Cambridge University Press (1998)
+5.  Understanding  Bioinformatics. M.  Zvelebil and  J.O.
+Baum, Garland Science (2008)
+6.  Bioinformatics algorithms: an active learning approach.
+Phillip Compeau and Pavel Pevzner. Active Learning
+Pub (2015)
+
+[PAGE 15]
+7.  Inferring  Phylogenies.  Joseph  Felsenstein,  Oxford
+University Press (2004)
+8.  Journals: Bioinformatics, BMC Bioinformatics, Nucleic
+Acid  Research,  ISMB,   J.  Comp.   Biol.,  PLoS
+Computational Biology
+
+Introduction to Functional Genomics; The impact of genomics on
+biological research; Identification of a large set of genes involved
+in a biological process; RNA interference and RNAi screening.
+High-throughput  expression  analysis  such  as  microarray;
+Recent developments in genomics, Next-generation sequencing
+methods  (Whole  Genome  Sequencing,  Whole  Exome
+Sequencing  and  Transcriptomics)  and   its  application  in
+BSE634A    FUNCTIONAL
+3-0-0-0-9     understanding diseases.
+GENOMICS
+Genome-wide search  for  interacting  partners;  Principles  of
+Chromatin immunoprecipitation, or ChIP-Seq and ChIP-PCR,
+Identification of alternatively spliced genes; Sequence variations
+and disease  susceptibility; Pharmacogenomics. Proteomics;
+Functional genomics in model organisms.
+High- throughput phenotypic analysis.
+
+1.Molecular  Genetic  Techniques  and  Genomics:  Genetic
+analyses of mutations to identify and study genes; DNA cloning
+and characterization; Genome wide analyses of gene structure
+and gene expression; Inactivating the function of specific genes
+in eukaryotes; Identifying and locating human disease genes; 2.
+Molecular Structure of Genes and Chromosomes: Chromosomal
+organization genes and noncoding DNA; Mobile DNA; Structural
+organization of eukaryotic chromosomes; organelle DNAs; 3.
+Transcriptional Control of Gene Expression: Eukaryotic gene
+control and RNA polymerase; regulatory sequences in protein
+coding  genes;  activators and  repressors  of  transcription;
+mechanism  of  transcription  activation  and  repression;  4.
+CELLULAR
+BSE651A                                           Posttranscriptional Gene  Control: Processing  of  eukaryotic
+MOLECULAR       3-0-0-0-9
+premRNA;  transport  across  nuclear  envelope;  cytoplasmic
+BIOLOGY
+mechanism of posttranscriptional control; processing of rRNA
+and tRNA; 5. Cell  signalling: Signalling molecules and  cell
+surface receptors; intracellular signal transduction; G protein
+coupled receptorsF. Membrane  trafficking: Translocation  of
+secretory  proteins  across  the  ER  membrane;   protein
+modifications, folding and quality control in the ER; export and
+sorting of proteins; 6. Eukaryotic cell cycle: Biochemical and
+genetics studies on cell cycle; mechanisms regulating mitotic
+events; meiosis a special type of cell division. Molecular Cell
+Biology, by Lodish et al (5th edition or recent), W.H. Freeman
+and Company, New YorkMolecular Biology of the  Cell, by
+Alberts et al (4th edition or later), Garland Sciences, New York.
+Topics:
+1.  Introduction to animal development- 1 Lecture
+3-0-0-0-9                                                  2. Methods of studying developmental biology I: Fate mapping
+BSE652    DEVELOPMENT                   and lineage tracing- 2 Lectures
+AL BIOLOGY                     3. Methods of studying developmental biology  II: Candidate
+gene approach- 3 Lectures
+4.  Morphogenesis: Differentiation and cell-cell communication-
+4 lectures
+
+[PAGE 16]
+5.  Axis formation and patterning: Drosophila and Xenopus- 4
+Lectures
+6.  Axis formation and patterning: Limb patterning and skeletal
+development- 2 Lectures
+7. Stem cells- 1 Lecture
+8.  Regeneration- 2 Lectures
+9. Development and Disorders- 2 Lectures
+10. Evolution and development- 1 Lecture.
+
+Course Reference:
+1. Recommended Text Book: Developmental Biology, Scott F.
+Gilbert, Ninth Edition.
+2. Other material: Journal articles referred to in the Lecture slides
+will be provided separately by the Instructor.
+Introduction; The impact of genomics on biological research;
+Identification of a large set of genes involved in a biological
+process; High throughput expression analysis; Genomewide
+FUNCTIONAL                   search  for interacting partners;  Identification of alternatively
+BSE653A                           3-0-0-0-9
+GENOMICS                      spliced genes; Sequence variations and disease susceptibility;
+Pharmacogenomics; Proteomics; Functional genomics in model
+organisms;  High  throughput  phenotypic  analysis;  Recent
+developments in genomics.
+Simple Mendelian traits; Loss of function mutations; Gain of
+function  mutations; Gene  interactions; Dynamic  mutations;
+Genetics of neoplasia; Genomic imprinting and human disease;
+HUMAN
+BSE654A                                           X-inactivation  and DNA  methylation; Gene  mapping  and
+MOLECULAR       3-0-0-0-9
+positional  cloning;  Multifactorial  inheritance;  Genetics  of
+GENETICS
+behavioural  disorders;  Pharmacogenetics  and  biochemical
+genetics; Animal models in human genetics: Methods used for
+diagnosis and detection of gene mutations; Gene Therapy.
+Topics:
+1.  Introduction to Physiology- 1 Lecture.
+2. Membrane physiology: Nerve and muscle- 2 Lectures.
+3.  Heart and Circulation- 4 Lectures.
+4. Body fluids and Kidneys- 2 lectures.
+5.  Blood cells, Immunity and Blood coagulation- 2 Lectures.
+6.  Respiration- 2 Lectures.
+7.  Avian, Space and Deep sea diving physiology- 1 Lecture.
+8.  Neurophysiology: General principles, Sensory and Motor
+BSE655
+PHYSIOLOGY       3-0-0-0-9        systems- 4 Lectures.
+9.  Gastrointestinal physiology- 1 Lecture.
+10. Temperature regulation- 1 Lecture
+11. Endocrine and Reproductive physiology- 3 Lectures.
+
+Course Reference:
+1. Recommended Text Book: Medical Physiology, Arthur C.
+Guyton, Eleventh Edition.
+2. Other material: Journal articles and links to websites will be
+provided separately by the Instructor.
+3-0-0-0-9     Introduction to neuroscience, functions of different parts of the
+brain such as the cerebral cortex and the limbic system, motor
+system, reflexes. Membrane potential, action potential. Synaptic
+BSE656A   NEUROBIOLOGY                   transmission, Glia. Sensory perception, vision, olfaction. New
+developments, Techniques, brain disorders.
+
+Course Reference:
+
+[PAGE 17]
+Principles of Neural Science (5th edition) by Eric Kandel et al.
+
+BSE699    M.TECH THESIS           ------      M. Tech. Thesis
+
+BSE701A      SEMINAR                   Seminar
+
+BSE702A      SEMINAR                   Seminar
+
+BSE799     PHD THESIS             ------       Ph. D. Thesis
+
+Introduction:Distinction  between  science,  engineering  and
+technology,  introduction  to  biotechnology,  interdisciplinary
+nature of biotechnology, old and new biotechnology, historical
+perspective, need for biotechnology.
+
+Background biology: A review of living systems and levels of
+biological  organization,  cell  structure,  differences  between
+prokaryotic and eukaryotic cells, molecules of life with special
+emphasis on DNA structure, chromosome organization and gene
+concepts,  flow  of  genetic  information: DNA  replication,
+transcription,  translation,  post  translational  modifications,
+protein folding, metabolic regulation, gene expression control in
+prokaryotes and eukaryotes, mutations causes and consequences,
+life cycle of viruses.
+
+Recombinant DNA technology: Introduction to recombinant
+DNA technology, restriction enzymes, ligation, transformation,
+selection, techniques to clone genes, cloning and expression
+PRINCIPLES OF                     vectors, host systems,  construction and screening of DNA
+ESO206
+BIOTECHNOLOG     3-0-0-0-9      libraries, manipulation of cloned DNA sequences, southern,
+Y                           western, and northern blotting techniques, colony and DNA
+hybridization, DNA and protein sequencing, foot printing.
+
+Applications:Microbial  biotechnology:  microbial  enzymes,
+fermentation; Medicine and diagnostics: discovery to translation
+path, monoclonal  antibodies,  vaccines, hormones, enzymes,
+molecular diagnosis of communicable and genetic diseases;
+Agriculture and animals biotechnology: cultivation of animal and
+plant  cells,  media  design,  characterization  of  cell  lines,
+micropropagation,  secondary  metabolites,  transgenic  plants,
+transgenic animals; Environment Biotechnology: contamination
+of  land,  air  and  water,  biological  intervention,  microbial
+technologies; Products of daily use: food, beverages, cosmetics
+and detergents; Forensics: DNA fingerprinting.
+
+Recent advances and future directions:Expansion and mergers
+of new  disciplines,  genomics,  proteomics,  metabolomics,
+glycomics,  cell-based  technologies,  personalized  medicines,
+nanobiotechnology.
+
+[PAGE 18]
+Quality systems, ethics, regulations, and laws Quality control
+and  assurance,  animal  protection  in  research,  intellectual
+property, regulatory bodies, government policies.
+
+Text books:
+
+1. Introduction to Biotechnology by William J Thieman and
+Michchael A Palladino. Pearson publisher.
+2. Campbell Biology by Jane B Reece. Pearson publisher
+Topics
+Part I: The molecular machines and mechanisms that make
+living systems function. The importance and relevance of
+studying Biology today. Distinguishing characteristics of living
+systems. Origin of life on Earth. Life’s chemical basis. Water and
+its importance for life. Structure and function of carbohydrates,
+lipids, proteins and nucleic acids. Cells: The internal structure
+and components of cells. Visualizing cells and organelles in
+action using various microscopic techniques. Components of
+cells and their functions: the cell membrane and transport across
+it. Trafficking within the cells. The cytoskeleton and movement
+of cells and internal components of cells. Organization of cells
+into tissues, organs, organ system and organism. Introduction to
+metabolism: Life at the expense of free energy. Enzymes and
+their functions. Energy metabolism: Photosynthesis and Cellular
+respiration.
+
+LIF111    INTRODUCTION                  Part  II: Information processing in living systems. DNA
+TO BIOLOGY                      structure and function: Chromosomes. Discovery of DNA as the
+genetic material. DNA structure and function. DNA replication
+and repair. From DNA to protein: The central dogma: DNA to
+RNA to protein. The genetic code. Transcription and Translation.
+Control  over  genes: Gene  expression  in  eukaryotes and
+outcome of gene regulation.Cell division (Mitosis), cell cycle,
+control of cell division and cancer. The importance of reductive
+division and how meiosis introduces variations in traits.Patterns
+of inherited traits: Mendel’s experiments with pea plants and the
+observed patterns of inheritance. Human inheritance: Human
+genetic  analysis,  autosomal  inheritance  patterns,  X-linked
+inheritance patterns and epigenetics.Biotechnology: Cloning
+DNA, DNA sequencing, Genomics, Genetic Engineering and
+designer plants.
+
+Course Reference:
+Recommended Text Book: Concepts and applications by Cecie
+Starr, Christine A Evers and Lisa Starr, 8th edition (Chapters 1-
+2-0-0-0-6                                         13 and 15)
+
+Discoveries in microbiology– 3 lectures
+
+BSE642A     Microbiology and                   Concepts of origin of life, abiogenesis and biogenesis, spontaneous
+3-0-0-9
+Immunology                        generation  theory,  early  discoveries  in  the  development  of
+microbiology;  Structural  features  of  Prokaryotes  and  microbial
+Eukaryotes.
+
+[PAGE 19]
+General Microbiology – 10 lectures
+
+Importance  of  microorganisms  in  natural  processes;  Diversity,
+metabolism,   energetics  and   physiology   of   microorganisms;
+sterilization  principle  and  methods;  staining-  principles  and
+applications, nutrient requirement of microorganisms carbon, nitrogen
+and   mineral   metabolism;   Autotrophic,   heterotrophic   and
+chemolithotrophic  microorganisms;  growth  of  microorganisms,
+generation time, different phases of growth curve; microbes in extreme
+environments; principles of microbial genetics, genetics of prokaryotic
+and eukaryotic microorganisms, plasmid, types and their importance,
+genetic variability in microorganisms.
+
+Medical Microbiology– 8 lectures
+
+Overview, Impact of infectious diseases, Koch’s postulates; Microbial
+Toxins; Antibiotics and antibiotic resistance; Enteric Pathogens –
+Cholera , Salmonella, Shigella and E.coli; Extracellular pathogens –
+Staphylococcus, Streptococcus; Facultative intracellular pathogens –
+Mycobacterium;  Obligate   intracellular  pathogens  –Chlamydia,
+Rickettsia; Accidental pathogens – Pseudomonas, Chronic pathogens
+– Helicobacter pylori; ESKAPE pathogens, their effects on society will
+also be addressed. Sexually transmitted diseases – Gonorrhea, Syphilis,
+Biology of viruses; Viral borne diseases; and antimicrobial resistance
+(AMR).
+
+Overview of Immune System – 5 lectures
+
+Historical perspective; concepts for understanding human immune
+response; cells, receptors, microenvironment and organs of immune
+system;  antigens;  types  of immune  responses;  innate immunity;
+physical and cellular effectors of innate immune response; adaptive
+immunity; cross talk between different arms of the immune system.
+
+Humoral and cell-mediated Immunity – 8 lectures
+
+B   lymphocytes-   maturation,   activation   and    proliferation;
+immunoglobulins – structure and function; immunoglobulin genes,
+their rearrangement and antibody diversity; Major histocompatibility
+complex;  antigen  processing  and  presentation;  dendritic   cell
+maturation and activation; T-cell receptor complex; T-cell maturation,
+activation; TCR coupled signaling pathways, co-stimulatory signals;
+immune tolerance; cell mediated effector responses.
+
+Microbial Immunity– 8 lectures
+
+Cytokines; cytokine  receptors; cytokine  signaling; inflammation–
+mediators and  process;  anti-inflammatory  agents;  Host-pathogen
+interactions and immune response to infectious diseases; vaccines.
+
+[PAGE 20]
+Suggested books
+
+1.  Staley, Gunsalus, Lory and Perry (2007) Microbial Life 2nd
+Edition.
+2.  Pelczar MJ, Chan ECS and Krieg NR. (1993). Microbiology.
+5th edition. McGraw Hill Book Company.
+3.  Willey JM, Sherwood LM, and Woolverton CJ. (2008).
+Prescott,  Harley and  Klein’s  Microbiology.  7th  edition.
+McGraw Hill Higher Education.
+4.  Jefferey C. Pommerville (2012) Alcamo’s Fundamentals of
+Microbiology 9th edition
+5.  Michael T. Madigan, John M. Martinko, Kelly S. Bender,
+Daniel H. Buckley, David A. Stahl, Thomas Brock (2015)
+Brock Biology of Microorganisms, 14th Edition
+6.  Kindt ,T.  J. ,R. A. Goldsby, B. A. Osborne and  J. Kuby
+,Immunology, W H Freeman and Co, 6th edition or later
+
+7.  Delves, P. J., S. J. Martin, D. R. Burton and  I. M. Roitt
+,Immunology, Wiley-Blackwell. 12th edition or later
+
+Virus prehistory; Discovery of viruses; Definitive properties of
+viruses; Animal viruses; Strategy for viral propagation. Entering
+cell; Making viral RNA, viral protein, viral genomes; Overcoming
+Host defenses; Cultivation of viruses; Infectious unit; Growth
+cycle.Building a  protective  coat; Symmetry; Packaging  of
+Nucleic acid genome; Enveloped viruses; Large viruses with
+multiple structural elements; Components of virions. Receptors
+for  virus  particles;  Virus-receptor  interactions;  Uncoating;
+Membrane fusion; Movement of subviral particle inside  cell;
+BSE659                                        Import of viral genome into Nucleus, ribonucleoprotein, DNA
+Molecular
+(Dibyendu K                         3-0-0-0-9    genomes, retroviral genomes.Synthesis of viral RNA from RNA
+Virology
+Das)                                           templates, RNA  synthesis machinery, Mechanism  of RNA
+synthesis; Retroviral transcription and integration; Synthesis of
+RNA from DNA templates. Translation machinery,  initiation,
+elongation  and  termination;  Polyprotein  synthesis,  Leaky
+scanning, Suppression of termination, Ribosomal Frameshifting;
+Regulation of translation during  viral infection. Assembly of
+protein shells; Selective packaging of viral genomes; Acquisition
+of envelope; Budding of  viral  particles; Maturation of Virus
+particles
+
+Introduction and motivation: Human eyes and the microscopes,
+History of microscopes, Imaging techniques at different length
+scales, Recent advancements in microscopy and bioimaging,
+Interdisciplinary  approach   in   bioimaging   Light   matter
+interactions:   Electromagnetic  spectrum  and   bioimaging
+methods, Wave particle duality-Maxwell’s equations, Reflection,
+Optical                                                     Refraction, Polarization, Total internal  reflection, Dispersion,
+BSE644A     microscopy and      3-0-0-0-9                                                           Diffraction. Microscope illumination and design: Geometrical
+Bioimaging                                                         optics, Image formation, Magnification, Simple & Compound
+microscopes, Conjugate planes, Kohler  illumination, Optical
+design and anatomy of modern microscopes- Microscope parts,
+Aberrations  in optical microscopy, Detectors- CCD, CMOS,
+APD, PMT,  Demonstration-on  Kohler  illumination  session.
+Contrast enhancement:  Bright  field and Dark  field, Phase
+contrast,  Differential  interference  contrast,  polarized  light
+
+[PAGE 21]
+microscopy, Fluorescence, Organic fluorophores, quantum dots
+and nanodiamonds fluorescent proteins, Photoactivable probes,
+covalent  labelling  and  click  chemistry,  autofluorescence,
+Demonstration on sample preparation for fluorescence imaging.
+Fluorescence   Microscopy,    Practical   applications   and
+quantitative  methods:  Widefield  Imaging,  TIRF,Confocal,
+Multiphoton,  spinning  disc,  Airyscan, FRET, FRAP, FCS,
+Demonstration on widefield and confocal imaging sessions.
+Super  resolution  fluorescence microscopy and  quantitative
+bioimaging: Abbe’s diffraction limit, Near field microscopy, Single
+molecule localization, STORM/PALM/DNA-paint, STED, SIM,
+Lattice light-sheet microscopy. Image processing and Analysis
+basics: Digital image- Bit depth, Math functions, , Image resizing,
+scaling,  Image  intensity  analysis,  Colocalization  analysis,
+Filtering and Segmentation, Time series Analysis-kymographs,
+single particle tracking, Image registrations and Drift corrections,
+Image-J software-training with practical examples.
+
+What   is  pharmacology?  Routes  of  drug  administration.
+Pharmacokinetics: membrane transport, absorption, distribution
+of    drugs,   metabolism   and    excretion    of    drugs.
+Pharmacodynamics: study of drug effects, what drugs do and
+how they do   it. Mechanism  of Drug  action- enzyme,  ion
+channels, transporters and receptors. Receptor pharmacology.
+Drug dosage,  factors modifying drug  action, Adverse drug
+effects.
+Xenobiotics. Phases and sites of drug metabolism. Cytochrome
+P-450, flavin-containing monooxygenases, hydrolytic enzymes,
+conjugating enzymes. Blood brain barrier.
+Neurotransmission.  Muscarinic   receptor  and  adrenergic
+agonists and antagonists. Anticholinesterase agents. Serotonin
+and dopamine. Drug therapy for depression, anxiety, epilepsy.
+Opioids,  treatment  of  neuro-degenerative  disorders,  Drug
+addiction.
+Renin-Angiotensin system, Pharmacotherapy  for myocardial
+ischemia, hypertension, congestive heart failure, anti arrhythmic BSE663
+Medical                        drugs.     Anti-coagulant    and      anti-platelet     drugs.
+Instructor-                          3-0-0-0-9              Pharmacology                    Hypercholesterolemia and  dyslipidemia. The  hypothalamic-
+Shanu Jain                                                            pituitary axis. Thyroid and anti-thyroid drugs. ACTH, adrenal
+steroids. Endocrine pancreas. Pharmacotherapy  of Type 2
+diabetes, and hypoglycemia. Agents affecting bone mineral
+homeostasis.  Histamine,  bradykinin,  and  their  antagonist.
+Eicosanoids and platelet activating factor, anti-inflammatory,
+anti-pyretic        and          analgesic          agents.
+Immunostimulants/suppressants.    Hematopoietic    agents.
+Antibiotics, Anti-malarial, Anti-protozoan, Anti-viral, Anti fungal,
+Anti-helminth, Antitubercular drugs. Cytotoxic agents, targeted
+therapies: tyrosine kinase inhibitors, monoclonal antibodies, and
+cytokines.  Natural  products-based  cancer  chemotherapy.
+Genetic basis for variation in drug response. Types of genetic
+variants. Ethnic diversity. Polymorphism selection. Candidate
+genes versus genome-wide approaches. Functional studies of
+polymorphisms.   Pharmacogenetic    phenotypes.   Large
+molecules/  biologics-  monoclonal  antibodies  (mAbs),  and
+antibody-drug conjugate (ADC). Targeted protein degradation.
+Time  Resolved  fluorescence,  Fluorescence   Polarization,
+
+[PAGE 22]
+Luminescence.  BRET,   Hi-Bit,  ALPHALISA, CTG  assay,
+Radioligand Binding Assays, Functional assays screens.
+
+This is an interdisciplinary course with a practical outlook: In
+this course we will examine life from the perspective of the
+choices or decisions we make every day. We will study the role
+of  the  brain  in  enabling  these  decisions  and  discuss
+computational models  of decision making and how these
+computations are implemented  in the  brain. We  will also
+discuss how changing environmental conditions and social
+contexts lead to changes in our decisions– also called adaptive
+decision making. Finally, we will learn about the impact of highly
+prevalent neurological and psychiatric conditions on decision
+making from a neurocomputational perspective.
+
+Introduction to decisions, computations and the brain
+
+We will discuss the kinds of decisions we make every day and
+consider how we make them – the decision-making process.
+Discuss rational and irrational decisions. Biases that lead to
+irrational decisions. Discuss where neuroscience  fits in this
+scheme. Briefly review the methods and tools at our disposal
+today to observe the brain during decision making.
+
+Neural basis of perceptual decisions
+
+Decision making
+BSE662                           3-0-0-0-9     Perceptual decisions: how does the brain process information            and the Brain
+on based on physical features eg: color, motion and shape etc.,
+to enable choices?
+
+Neural basis of value-based decisions
+
+Value-based decisions: How do we assign value to objects,
+which then allows us to choose one option over another?
+
+Risky decisions and pharmacology
+
+Overview of Neuroeconomics. Neural basis of risky decisions
+and  loss  aversion.   Intertemporal  discounting.  Effects  of
+neuromodulators like Dopamine, Serotonin, Norepinephrine,
+Cortisol on decision making.
+
+Adaptive decision making and the brain
+
+When the conditions change one needs to make suitable
+changes to their behavior. Here we will look at different ways in
+which we can learn to cope. We will examine the influence of
+affect on our decisions. We will also discuss Explore-exploit
+decision making and foraging style sequential decision making.
+We  will examine the neural mechanisms underlying these
+decisions.
+
+[PAGE 23]
+Suboptimal decision making in health and disease
+
+Sometimes and  in some  individuals, due  to  the  current
+conditions, decision making is rendered suboptimal. Here we
+will look at the impact of chronic stress, fatigue, and mood on
+the decision-making brain. We will also examine the impact of
+some common  neurological  conditions  (e.g.,  Parkinson’s
+disease, Alzheimer’s dementia) and  psychiatric  conditions
+(e.g., anxiety, depression, ADHD, schizophrenia) on decision
+making
+Biological systems, like the brain for example, are composed of
+tens of thousands of components – here neurons. Furthermore,
+these different components can interact, attain different states at
+different points in time, and can even do so in multiple different
+ways. Statistical analysis tools can help one to understand such
+high dimensional systems and comprehend patterns  in the
+activity. This course aims to introduce basic statistical analysis
+tools for biological data. Through a mix of theory and practical
+exercises with real world data you will get the opportunity to learn
+a stepwise approach to statistical analysis.
+
+Why learn statistics?
+Examine different data sets; discuss what is measured and how
+it  is measured;  discuss  variables, measurements,  validity,
+reliability, etc.
+
+Introduction to R or Python or a different statistical language
+
+Create variables, data frames; load, organize the data; generate
+simple plots; discover statistical analysis packages; learn to write
+simple scripts.
+Statistics for
+BSE658                           3-0-0-0-9
+Modern Biology                    Descriptive   statistics,  models,      distributions,   graphical
+representations
+Models,    distributions,  summary    statistics,   histograms,
+exploratory data plots, test data distribution assumptions.
+
+t-tests, ANOVA,  correlation,  regression,  classification  and
+clustering
+Comparing two means; comparing several means; determining
+covariance, correlation; regression models with one or more
+predictors; data classification: linear discriminant analysis, k-NN,
+etc. Data clustering: k-means, hierarchical clustering, heat map
+analysis
+
+Resampling methods and Inferential statistics
+Bias-variance   trade-off,   cross-validation,   the   bootstrap;
+Significance testing, effect size, multiple testing, error types –
+type 1,2 etc.
+
+Linear  models, model  selection, mixed  models,  nonlinear
+effects, basic Bayesian statistics
+Fit simple linear models; determine slopes, intercepts; linear
+model  selection,  Lasso, Ridge  regression;  develop mixed
+
+[PAGE 24]
+models with varying intercepts and slopes; Bayes’ rule, Bayesian
+inference, Frequentist vs Bayesian inference.
+
+A basic  introduction  to  biological membranes and  its
+compositions,  membrane   structure,   physiochemical
+properties of membrane lipids,   lipid bilayers, and lipid-
+derived second messengers in Bacteria, yeast and higher
+eukaryotes.
+
+Membrane protein synthesis and their trafficking to the cell
+membrane, Structure and function of membrane-bound
+enzymes,  transporters, pumps,  mechanoreceptor and
+mechano-sensitivity of cell membranes, and ion channels
+and their roles in disease development.
+
+Gap Junctions, communication between cells, membrane
+guided immune response, Transport of metabolites across
+BS                                        the plasma membrane.            Biomembranes
+BSE661A
+Components  of  electron  transport  chain,  Hydrogen
+gradients and ATP synthesis and energy transduction;
+membrane receptors, G proteins, and signal transduction;
+membrane fusion.
+
+Experimental   approaches,   including    single-particle
+reconstruction and tomography, x-ray crystallography, and
+electrophysiology, to understand the biological membrane
+structure and function at a molecular level.
+
+Biological  membranes  and  microbial  pathogenesis,
+cancers, and membrane-associated disease, Therapeutic
+approaches to target cell membrane components for drug
+design.
+
+Vesicular trafficking-Trafficking of cargo from one organelle to
+another, historical aspects to vesicular trafficking (discoveries by
+Palade, Claude, Blobel, Scheckmann, Rothaman), mechanism of
+vesicular trafficking; function of COPII and COPI vesicles. Role
+of ER, ERES, ERGIC, Golgi ministack in vesicular trafficking.
+ER retention signals; glycosylation.
+Modern experimental approaches to study vesicular trafficking
+(Live fluorescence confocal microscopy, biochemical studies
+using modern probes e.g. RUSH).
+Advanced Cell
+BSE672                                Mechanism of vesicular trafficking- Role of endocytosis in                  Biology
+different diseases. Mechanism of phagocytosis, pinocytosis, and
+receptor mediated endocytosis. Mechanism of clathrin mediated
+endocytosis.  Modern  experimental  approaches   to  study
+endocytosis with examples (confocal microscopy, co-IPs)
+
+Endocytosis and Exocytosis-Function of SNAREs, mechanism
+of SNARE  action.  Structural  organization  of  SNAREs;
+involvement of HOPS in regulating SNARE function. Role of
+synaptotagmins  and  extended  synaptotagmins  in  vesicular
+
+[PAGE 25]
+fusion. Modern  experimental approaches  to  study SNARE
+function (confocal microscopy, co-IPs,  lipid mixing assays,
+structural analysis)
+
+Autophagy and Lysosomal Biology- Introduction to autophagy
+and  lysosomal   biology.  Mechanism   of  autophagosome
+formation,  lysosomal  biogenesis and dynamics  of  cellular
+membranes involved in autophagy-lysosomal system
+
+Cell biological processes and their implication in human
+diseases-
+
+Role  of  important   cell  biological  processes  in  cancer,
+neurodegenerative  diseases,  immunological  disorders  and
+metabolic disorders. Modern experimental approaches to study
+cell biological processes such as autophagy-lysosomal system
+(confocal microscopy,  co-IPs, mass spectrometry, high end
+microscopy).
+Cell signaling- Introduction to cell signaling. Phosphorylation,
+dephosphorylation, GEFs and GAPs, signaling for transcription
+factor activation. Role of signaling in cancer and other diseases.
+Development  of  drugs  using  signaling  based  pathways.
+Examples of signaling, PI3K/AKT/mTOR signaling pathway
+and its role in human pathologies. Experimental approaches to
+study  cell  signaling (western  blotting, immunoprecipitation,
+confocal   microscopy,   biochemical    techniques,   mass
+spectrometry.
+
+This course aims to deliver the fundamental concepts of neuronal
+circuits in the brain and their role in bringing out specific behaviour.
+The brain is one of the most complex organ in the mammals. The
+complexity comes from individual non-linear neuronal dynamics
+wiring up to form different sizes of networks. The course will help
+students to understand some basic concepts that happens once neurons
+wire-up. Further, it will take slightly more complicated physiological
+phenomena that are known to be basis of some routine behaviour.
+Finally, it will end with examples of some neurodegenerative disorders
+and the (so far) known circuit dysfunctional reasons.
+Circuits and
+BSE664        Systems          3-0-0-0-9                                                      Introduction and motivation
+Neuroscience
+Basic structure and function of neurons: Parts of neurons and their
+connections.  Electrical basis of neuronal function.  Electrical and
+Chemical Synaptic connections
+
+Cell types and circuits
+
+Neuronal classification (Excitatory and Inhibitory subtypes) Strategies
+used to classify neurons. Advantages of forming circuits; Feed forward,
+Recurrent and feedback circuits. Examples from Brain circuits
+
+Synaptic Physiology in a circuit context
+
+[PAGE 26]
+Methods used to study synaptic physiology. EPSP and IPSP Plasticity
+definition and  classification. Synaptic  plasticity,  their forms, and
+molecular mechanisms.  Electrophysiological signatures of plasticity.
+Role of synapse in Network oscillations. Role of synaptic plasticity in
+memory formation
+
+Network Oscillations
+
+What are network oscillations and different ways of measuring them?
+Origin of network oscillation in different types of neuronal circuits.
+Association of different oscillation frequencies with different brain
+areas and  behaviour.  Role  of  synaptic  physiology on network
+oscillation. Role of intrinsic physiology on network oscillation.
+
+Circuits associated with Memory
+
+What is memory? (Definition and classification). Molecular basis of
+memory. Important circuits associated with memory formation and
+consolidation. Electrophysiological and behavioral assays to study
+memory.
+
+Circuits associated with Reward
+
+Definitions in the reward  circuit. The Dopamine reward system.
+Circuits involved; Ventral Tegmental Area, Nucleus Accumbens,
+striatum,  Prefrontal  Cortex,  Ventral  pallidum, hippocampus and
+amygdala and their interactions. Interactions between these areas and
+experimental examples for behavioural outcomes. Prediction error
+
+Sensory coding and involved circuits
+
+What are the different sensory systems and their associated circuits?
+Population coding in sensory systems with examples. Circuits involved
+in multi-modal integration of sensory information. Circuits involved in
+navigation.
+
+Circuits associated with Motor functions
+
+Introduction to motor systems. Functional segregation of central motor
+structures. Circuit architecture in the primary motor cortex: Primary
+and secondary motor areas. Properties and functions associated with
+primary motor cortex (M1) eg: direction tuning
+
+Degeneration of neuronal circuits and diseases (specific stress on AD)
+
+Neurodegenerative diseases (Names, symptoms and associated brain
+circuits). Circuit dysfunction and current research on AD. Cholinergic
+hypothesis
+Electronics and                     Objectives:
+BSE665     Signal Processing    3-0-0-0 (9)    Introduce fundamental concepts  in  electronics and  signal
+for Biologists                      processing.
+
+[PAGE 27]
+Provide  practical  training  through  lab  experiments  and
+demonstrations.
+Familiarize with MATLAB programming for bio signal processing.
+
+Contents:
+
+s.      Title    Topics                       No. of
+No.                                          Lectu
+res
+
+1.   Introduct  • Basic  concepts:   voltage,    4
+ion to      current, R, L, C
+electrical  • Kirchoff's laws, Ohm's law,
+circuits &    Superposition
+networks  • Circuit Analysis — Mesh &
+Nodal Analysis
+• Lab   practical  on   R-C
+circuits*
+2.   Semicon   • Semiconductor      basics,    5
+ductor      diodes, rectifiers
+electroni  • BJT  transistors,  inverters,
+cs      CE amplifiers
+• Lab practical on diode and
+transistor circuits*
+3.   Operatio   • Differential Amplifiers        5
+nal     • Input & output impedance,
+Amplifier   CMRR, feedback.
+s (Op-    • Inverting & non-inverting
+Amp)      amplifiers
+• Lab practical on basic op-
+amp circuits*
+4.   Op-Amp   • Active    filters,   multiple-    6
+Applicati    feedback filters
+ons     • Instrumentation amplifiers
+• Lab practical and hands-on
+demonstration        on
+recording ECG, EMG, and
+EEG signals*
+Mid-Semester
+
+5.   Introduct  • Biological Systems & Bio    4
+ion to      signals
+Signals &  • Examples   of    electrical,
+Systems     mechanical,  thermal  bio
+signals
+• Continuous & discrete-time
+signals
+• Sampling        frequency,
+bandwidth,  Nyquist  Rate
+and SNR measurements
+
+[PAGE 28]
+6.     Basic    • Measurement   of   signal    4
+Signal      properties: mean, variance,
+Processin    power, ensemble averaging.
+g      • Correlation & Covariance
+• Programming in MATLAB
+7.   Frequenc  • Discrete Fourier Transform    4
+y        (DFT), FFT
+Analysis   • Power Spectrum estimation
+of      • MATLAB-based examples
+8.    Discrete-  • Discrete-time systems & its    8
+Time      types
+Systems   • Analysis  of  I-Tl  systems
+& Digital    using Convolution
+Filters    • Transfer           function,
+magnitude   &    phase
+response.
+• Introduction  to   filtering,
+filter       types     &
+characteristics
+• Design  of  Digital  Filters
+using MATLAB
+Total   40
+
+(*Prefabricated circuits on breadboards/PCBs will be provided to
+students  in order to reduce the time required  for laboratory
+experiments.  Demonstrations  will be conducted  using  off-the-
+shelf/commercial systems)
+
+Short Summary:
+This course aims to impart knowledge on fundamental topics in
+electronics and signal processing and familiarize students will
+real-world applications. The course content  is relevant for
+students interested in pursuing a career in interdisciplinary
+fields such as Biomedical Engineering, Neuroscience and Neural
+Engineering, as well as Rehabilitation Engineering.
+
+Recommended Books: Textbooks, Reference books
+•  Electronics for Biologists by Timothy Gawne, Ballacourage
+Books
+• Hands-On Electronics: A Practical Introduction to Analog and
+Digital Circuits by Daniel Kaplan and Christopher White,
+Cambridge University Press
+•  Electronic Principles 9th Edition by Albert Malvino, David
+Bates, Patrick Hoppe, McGraw Hill
+•  Bio signal and Medical Image Processing 3rd Edition by John
+Semmlow and Benjamin Griffel, CRC Press
+•  Signal Processing for Neuroscientists by Wim van Drongelen,
+Academic Press
+
+[PAGE 29]
+Digital Signal Processing: principles, algorithms, and applications 4th
+Edition by John Proakis and Dimitris Manolakis, Pearson Education
+
+Course objectives:
+The goal of this course is to introduce students to computational
+approaches to biomedical problems. The course will introduce
+the students to  state-of-the-art computational techniques,
+applications of computational tools, and instil an understand of
+how biological concepts and computational methods can be
+integrated  to address complex biomedical problems. The
+overarching goal of the course is to provide students with a
+deep understanding of how computational modelling and
+simulation  can  be  used  to  create  personalized  virtual
+representations of biological systems for various biomedical
+applications. After completing this course, the students are
+expected to have the knowledge and  skills necessary to
+develop, analyse, and use technologies such as digital twins in
+healthcare.
+
+S.                               Number of
+Topics
+No.                                        Lectures
+
+1    Signal  and  image   processing      15
+Computational                             algorithms,      Spectra     and
+BSE666        Biomedical        3-0-0-0 (9)              correlations,       computational
+Engineering                          modeling and simulation
+(physics-based  models,   solving
+PDEs,  basics  of  finite  element
+methods, inverting large matrices)
+
+2    Linear and non-linear regression,      12
+basics of
+Optimization,  inverse  modeling,
+optimization    algorithms   and
+software libraries
+
+3    Basics of Machine Learning, data-      10
+driven models, regression, neural
+networks,
+
+4    Case  studies:  digital  twins  in      3
+healthcare, forward and  inverse
+models,  personalization,  arterial
+networks, blood pumps, X-ray and
+MRI
+
+[PAGE 30]
+Short summary for the course booklet:
+This course introduces students to computational aspects of
+biomedical engineering, covering state-of-the-art techniques
+and  integrating  biological  concepts  with  computational
+methods to address complex biomedical issues. By focusing on
+computational modelling, simulation, and personalized virtual
+representations, students will gain the skills to develop and
+utilize  technologies  such  as  digital  twins  in  healthcare
+applications.
+
+References:
+• Iserles, A. (2009). A first course in the numerical analysis of
+differential equations (No. 44). Cambridge University Press.
+• Modelling  and  Simulation   in  Biomedical  Engineering:
+Applications in Cardiorespiratory Physiology 1st Edition (2011)
+by Willem van Meurs
+• Computational  Modelling  and  Simulation  Examples   in
+Bioengineering (IEEE Press Series on Biomedical Engineering),
+Wiley, 2021
+• Bishop, C.M.  Pattern  recognition and Machine  learning,
+Springer, 2007.
+• Kochenderfer, Mykel J., and Tim A. Wheeler. Algorithms for
+optimization. MIT Press, 2019

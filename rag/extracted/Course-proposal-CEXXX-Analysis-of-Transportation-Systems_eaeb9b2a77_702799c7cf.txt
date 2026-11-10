@@ -1,0 +1,152 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+
+Proposal for a New Course
+
+1.  Course No.
+
+2.  Course Title: Analysis of Transportation Systems
+
+3.  Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours [0-2]: 0 (A),
+
+Credits: 9                                                         Duration of Course: Full semester
+
+4.  Proposing Department/IDP: Civil Engineering
+Other Departments/IDPs which may be interested in the proposed course: DoMS, CSE
+Other faculty members interested in teaching the proposed course: N/A
+
+5.  Proposing Instructor(s): Hemant Gehlot and Aditya Medury
+
+6.  Course Description:
+
+A)  Objectives: This PG course aims to cover mathematical foundations for analysis of transportation
+systems. In the beginning, basics of optimization will be covered and after that important
+combinatorial optimization problems with transportation applications will be discussed. Finally, there
+will be focus towards traffic assignment or infrastructure management problems.
+
+B)  Contents:
+
+Module 1 (Compulsory): 20 lectures
+
+S. No.      Broad Title                      Topics                  No. of Lectures
+
+1(i)         Basics of         Motivating optimization formulations, types of        10
+optimization        decision variables (continuous vs discrete),
+constraints as sets, functions as objectives,
+unconstrained optimization, convexity, global
+vs local optima, introduction to linear
+programming
+
+1 (ii)       Combinatorial       Computational complexity, applications of          10
+network optimization   network optimization problems (shortest path
+problems and       algorithms, minimum spanning tree, travelling
+solution approaches   salesman problem, vehicle routing problems,
+facility location, knapsack problems),
+approximation algorithms, heuristic and
+metaheuristic algorithms, integer
+programming algorithms such as branch-and-
+bound
+
+After covering the basics of optimization, any one of the two modules listed below will be taught in a
+given semester.
+
+Module 2 (Traffic assignment): 20 lectures
+
+S. No.      Broad Title                      Topics                  No. of Lectures
+
+[PAGE 2]
+2(i)    Introduction to traffic      Beckmann’s formulation, equivalency            7
+assignment          conditions, system-optimum formulation,
+Braess’ paradox, convex combinations
+method, network loading models
+
+2(ii)      Stochastic user       Discrete choice models, stochastic network         5
+equilibrium             loading, stochastic user equilibrium
+
+2(iii)      Dynamic user         Link transmission model, node models,           8
+equilibrium         dynamic network loading models, time-
+dependent shortest path problems, dynamic
+user equilibrium
+
+Module 3 (Infrastructure management): 20 lectures
+
+S. No.      Broad Title                      Topics                  No. of Lectures
+
+Overview of maintenance rehabilitation and
+reconstruction (MR&R) decision-making and
+the associated sub-problems: network-level
+Introduction to      and facility-level optimization, performance
+3(i)         infrastructure       models, inspection and data considerations;         4
+management           motivating the need for life cycle cost
+optimization, user vs agency costs;
+serviceability vs distress metrics, discrete vs
+continuous indices
+
+Deterioration and maintenance effectiveness
+3(ii)   Performance models   models for discrete and continuous condition         4
+indices
+
+Optimizing decision-making for continuous
+Facility-level
+and discrete condition states at the facility-
+3(iii)        optimization                                                   6
+level, dynamic programming, applications in
+problems
+maintenance optimization
+
+Finite horizon and infinite planning horizon
+System-level
+problems; applications in budget allocation
+3(iv)        optimization                                                   6
+problems for pavement and bridge
+problems
+management.
+
+C)  Pre-requisites: Basic knowledge of calculus, probability, statistics and linear algebra. Basic
+programming skills.
+
+D)  Short summary for including in the Courses of Study Booklet: The course presents a systems
+perspective of transportation network operations and management. The course will cover the
+fundamental of optimization techniques and their applications in transportation engineering. After
+covering the basics of optimization, any one of the following two modules will be covered i) traffic
+assignment: introduction to traffic assignment, stochastic user equilibrium and dynamic user
+equilibrium ii) infrastructure management: modeling and optimization methods and their application
+to inspection, performance prediction and maintenance decision-making for the management of
+infrastructure systems such as highways, bridges, airfield pavements, railway tracks, etc.
+
+7.  Recommended Books:
+
+[PAGE 3]
+Textbook: None
+
+References:
+1)  Sheffi, Y., 1985. Urban transportation networks (Vol. 6). Prentice-Hall, Englewood Cliffs, NJ.
+(Publicly accessible at
+http://web.mit.edu/sheffi/www/selectedMedia/sheffi_urban_trans_networks.pdf)
+2)  Boyd, S. and Vandenberghe, L., 2004. Convex optimization. Cambridge university press.
+(Publicly accessible at https://web.stanford.edu/~boyd/cvxbook/)
+3)  Simchi-Levi, D., Chen, X. and Bramel, J., 2005. The logic of logistics. Theory, algorithms, and
+applications for logistics and supply chain management.
+4)  Cormen, T.H., Leiserson, C.E., Rivest, R.L. and Stein, C., 2022. Introduction to algorithms. MIT
+press.
+5)  Winston, W.L., 2004. Operations research: applications and algorithm. Thomson Learning, Inc.
+6)  Papadimitriou, C.H. and Steiglitz, K., 1998. Combinatorial optimization: algorithms and
+complexity. Courier Corporation.
+7)  Bertsimas, D., & Tsitsiklis, J. N. 1997. Introduction to linear optimization. Athena Scientific.
+8)  Washington, S., Karlaftis, M. G., Mannering, F., & Anastasopoulos, P. (2020). Statistical and
+econometric methods for transportation data analysis. CRC Press.
+
+Additional Resources: None.
+
+8.  Other remarks: This course will be offered to PG students who register in the proposed course
+alongside the students who register in UG course CE382 (Transportation Systems Analysis).
+
+Dated: _______________17/7/2024       Proposer: __________________________
+
+Dated: _______________ DPGC Convener: ___________________
+
+The course is approved / not approved
+
+Chairman, SPGC
+
+Dated: ______________________________

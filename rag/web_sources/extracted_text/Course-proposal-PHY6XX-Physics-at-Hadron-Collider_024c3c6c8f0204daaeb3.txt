@@ -1,0 +1,103 @@
+[Page 1]
+Indian Institute of Technology, Kanpur 
+Proposal for a New Course 
+1.
+Course No: A 600 level elective number requested. ( currently PHY 690B ) 
+2.
+Course Title: Physics at Hadron Collider 
+3.
+No. of Lectures per week: 3, No of Tutorials per week: 1 
+Credits : 11 
+
+Duration of Course: Full Semester 
+4.
+Proposing Department/IDP : PHY. 
+Other Departments/IDPs which may be interested in the proposed course: NA 
+Other faculty members interested in teaching the course: Swagata Mukherjee 
+5.
+Proposing Instructor: Sanmay Ganguly (PHY) 
+6.
+ Course Description: 
+A) Objectives: This course is intended for students who are willing to learn the broad aspects of physics at 
+Large Hadron Collider. This will cover basics of Quantum Chromo Dynamics, I.e., matrix elements, parton-
+shower, hadronization, jet physics and parton distribution functions. This will be followed by numerical 
+simulation of these processes using MadGraph, Pythia, FastJet, Delphes and ROOT. The second part of the 
+course will cover in details object reconstruction like electron photons and jet by combining different parts 
+of the detector components like Electromagnetic and Hadronic Calorimeter and Tracker. The third part will 
+cover Higgs related measurements and its nitty-gritty at LHC. The fourth part of the course will discuss 
+broader aspects of new physics searches at LHC and what are the prospects of HL-LHC. 
+ B) Contents: 
+S. No.
+Broad Title
+Topics
+No. of Lectures
+Perturbative QCD The parton model, leading scattering processes, infrared and 
+collinear safety, hadronization, jet formation and jet 
+reconstruction algorithms, jet substructure variables and their 
+properties, running of strong coupling constant, parton 
+distribution functions. 
+18
+Simulation and 
+simulators in 
+collider physics
+Introduction to different matrix element simulators like Pythia, 
+Herwig, Powhegbox and their qualitative comparisons. Hands on 
+coding to Madgraph and run a full simulation chain with Delphes 
+detector simulation. Jet reconstruction and studies using FastJet.
+5
+Object and event 
+reconstruction in 
+HEP + usage of 
+ML 
+Introduction to basic object reconstruction in experiments like 
+electron, photon, hadrons and jets. Introduction to global event 
+reconstruction techniques like particle-flow algorithm.
+7
+Design and 
+implementation 
+of a 
+measurement at 
+LHC 
+Given a physics task like measuring Higgs boson mass or coupling, 
+how an analysis strategy is designed based on individual final 
+states, estimation of signal and background and finally the 
+statistical analysis to extract the parameter of interest, will be 
+discussed in details. Will use LHC open data. 
+7
+
+[Page 2]
+C) Pre-requisites: Familiarity with the contents of PHY 685 will be helpful. Working knowledge of C++ and Python 
+will be advantageous. 
+D) Short summary for including in the Courses of Study Booklet: Large Hadron Collider was designed to figure out 
+how unitarity of Standard Model of particle physics is preserved around electroweak scale and it has answered it by 
+discovering the Higgs boson. The search for how nature looks like at the shortest length scale is still going strong. In 
+this course we will try to learn how all these are done at a technical level by going through the theoretical 
+background, experimental reconstruction techniques and statistical analysis. 
+7.
+Recommended resources: 
+1. Lecture on LHC Physics, Tilman Plehn. Springer Lecture Notes in Physics, volume 886. 
+2. Quantum Chromodynamics: High Energy Experiments and Theory. Gunther Dissector et al. OUP 2003. 
+3. The Black Book of Quantum Chromodynamics : A primer for the LHC Era. John Campbell et al. OUP 2018. 
+4. Looking Inside Jets : An Introduction to jet substructure and boosted-object phenomenology. Simone 
+Marzani et. al. Springer Lecture Notes in Physics. 
+5. QCD and collider physics, Ellis, Sterling, Weber. Cambridge University Press. 
+6. Madgraph School, CTEQ school, TASI audio visual contents, MITP, GGI YouTube channels. 
+7. CMS and ATLAS public webpages. 
+8. Anatomy of Electroweak Symmetry Breaking. Part-1 (hep-ph/0503172) and Part-2 (hep-ph/0503173). 
+9. Higgs Hunter’s Guide. John F. Gunion et al 
+___________________________________________________________________________________________ 
+Dated: 05 December, 2024. Proposer: Sanmay Ganguly ( ). 
+Dated: _______________ DPGC Convener (PHY):___________________ 
+The course is approved / not approved 
+____________________________________ 
+Chairman, SPGC 
+Dated:______________________________
+Future directions 
+of collider physics
+Discussion on novel signatures and interesting physics goals for 
+immediate future and HL-LHC. Also a general overview of 
+proposed collider programs and their physics reach for precision 
+measurements as well as BSM physics search
+2
+Total number of lectures :
+ 39

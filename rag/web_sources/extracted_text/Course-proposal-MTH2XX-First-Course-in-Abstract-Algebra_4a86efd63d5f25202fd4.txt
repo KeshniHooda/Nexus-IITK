@@ -1,0 +1,62 @@
+[Page 1]
+COURSE PROPOSAL: FIRST COURSE IN ABSTRACT ALGEBRA
+1. Course Title: First Course in Abstract Algebra
+2. Course Number: MTH2XX
+3. Proposing Department: Mathematics and Statistics
+4. Proposed by: Nandini Nilakantan, Preena Samuel
+5. Units: 3-1-0-0 [11 credits]
+6. Course Description:
+(A) Objectives of the course: An introduction to group theory and ring theory.
+(B) Content (number of lectures mentioned in brackets):
+Group theory: Binary operation, and its properties, Definition of a group and examples.
+Subgroups, homomorphism of groups, Cosets, normal subgroups and quotient groups,
+correspondence theorem, isomorphism theorems.
+(3)
+Groups as symmetries, isometries of the plane, finite and discrete groups of isometries,
+finite subgroups of the rotation group linear groups (classical groups, SU2, SO3). (4)
+Conjugacy classes, Lagrange’s theorem, Actions of groups on sets, Cayley’s theorem,
+orbit and stabilizers.
+(3)
+Class equations, p-groups and Sylow’s theorems.
+Group automorphisms, Symmetric group and alternating group Automorphism groups
+of Sn, for n > 2: Aut(Sn) is inner for all n > 2 and except 6, construction of an outer
+automorphism of S6.
+(4)
+Direct and semi-direct products, isomorphism theorem for semi-direct products.
+(2)
+Applications of sylow’s theorem: simplicity of An where (n > 4).
+(1)
+Classification of finite abelian groups and Finitely-generated abelian groups.
+(3)
+Free groups, generators and relations, presentations of groups. E.g.: Dihedral
+groups.
+(2)
+Nilpotent and solvable groups. Composition series, Jordan-H¨older theorem.
+(3)
+Introduction to rings: definition, subrings, homomorphisms, ideals, quotient rings,
+correspondence theorem, isomorphism theorems.
+(3)
+Characteristic of a ring, Chinese Remainder Theorem, Integral domains, field of frac-
+tions, prime and maximal ideals, polynomial rings.
+(3)
+
+[Page 2]
+Unique factorization domain, Principal Ideal domain, Euclidean domain, Gauss’ theo-
+rem, Irreducibility of Polynomials.
+(4)
+Structure theorem of f.g. modules over a PID’s, application to finitely generated
+abelian groups.
+(4)
+(C) Pre-requisites: None
+(D) Short summary: This is a compulsory course for MSc (MTH) students
+7. Books/References:
+(a) Reference materials: I. N. Herstein: Topics in Algebra, Wiley.
+(b) J. Milne: Group Theory (Online).
+(c) D. S. Dummit and R.M. Foote, Abstract Algebra, Wiley.
+(d) M. Artin, Algebra, PHI.
+(e) N. Jacobson, Basic Algebra I, Basic Algebra II, Dover Publications.
+Date: 28 March 2024
+Signature of the Proposer:
+Signature of DPGC Convener Mathematics and Statistics
+This course is approved/not approved
+Chairman, SPGC

@@ -1,0 +1,106 @@
+[PAGE 1]
+REGISTRATION DATA STATISTICS FOR 2022-23/SUMMER
+
+TOTAL NUMBER OF COURSES BEING OFFERED                     120
+
+EXCLUDE THE THESIS COURSE, SEMINAR, PROJECT, BTP,
+SUMMER TRAINING, PRESENTATION                             51
+
+MAXIMUM CLASS SIZE (ESO209A)                                120
+
+MINIMUM CLASS SIZE                                          1
+(AT PRESENT THERE ARE 57 COURSES: BSE652A, ECO301A, EE311A,
+PHY412A)
+
+AVERAGE CLASS SIZE (OF ALL 51 COURSES)                       24
+
+NUMBER OF COURSES WITH 5 STUDENTS OR LESS                 14
+
+NUMBER OF COURSES WITH 100 STUDENTS OR MORE              3
+
+AVERAGE CLASS SIZE OF COURSES THAT HAVE >5 AND LESS THAN  27
+100 STUDENTS
+
+THE FOLLWING IS THE NUMBER OF COURSES WITH
+VARIOUS CLASS STRENGTHS
+
+No. of Student   No. of Course
+1              4
+2              1
+3              4
+4              1
+5              4
+6-10            9
+11-15            5
+16-20            1
+
+Page 1 of 3
+
+[PAGE 2]
+21-25            4
+26-30            3
+31-50            7
+51-75            4
+76-100           1
+>100            3
+Total            51
+
+2022-23 SUMMER SEMESTER
+LIST OF COURSES IN WHICH ≤5 STUDENTS REGISTERED
+
+Total No.
+S.No.  Course No.       Instructor                     Name
+of Student
+1.    PHY412A     Arijit Kundu        STATISTICAL MECHANICS                            1
+
+2.    EE311A     Rik Dey, Rituraj,    MICROELECTRONICS II                              1
+Baquer Mazhari
+3.    ECO301A    Sarani Saha       MICROECONOMICS II                                1
+
+4.    BSE652A    Jonaki Sen        DEVELOPMENTAL BIOLOGY                         1
+
+5.   MSO203B   Kaushik Bal        PARTIAL DIFFERENTIAL EQUATIONS                  2
+
+6.   MTH424A    Indranil Chowdhury,  PARTIAL DIFFERENTIAL EQUATIONS                  3
+Mrinmay Biswas
+7.   MTH403A    Arijit Ganguly, Rama COMPLEX ANALYSIS                                3
+Rawat
+8.    EE798R     Dipak Giri, Abhilash  INTELLIGENT PATTERN RECOGNITION                3
+Patel
+9.    CHE635A    Raj Ganesh S Pala,   INTRODUCTION TO ELECTROCHEMICAL              3
+Shobit Omar       ENGINEERING
+10.   MTH101A   Saurabh Singh,     MATHEMATICS I                                     4
+Sudhanshu Shekhar
+11.   ME251A     Pankaj Wahi       ENGINEERING DESIGN AND GRAPHICS               5
+12.   ECO411A    Hargungeet Singh    INDUSTRIAL ECONOMICS                            5
+13.   CE640A     Sudhir Misra       INFRASTRUCTURE ASSET MANAGEMENT             5
+14.   AE441A     Rajesh Ranjan      ROCKET PROPULSION                               5
+
+Page 2 of 3
+
+[PAGE 3]
+LIST OF COURSES IN WHICH 6-10 STUDENTS REGISTERED
+
+Total No.
+S.No. Course No.   Instructor         Name
+of Student
+1.    EE340A     Raghvendra Chaudhary ELECTROMAGNETIC THEORY                       6
+
+2.   CHM521A   Devendra Mani      MATHEMATICS FOR CHEMISTRY                     7
+
+3.   CHE453A    Dipin Pillai        CHEMICAL ENGINEERING DESIGN                   7
+
+4.    EE650A    Soumya Ranjan Sahoo BASICS OF MODERN CONTROL SYSTEMS             8
+
+5.   CHE381A    Nitin Kaistha       PROCESS CONTROL                                 8
+
+6.   MTH649A   Bidyut Sanki       ALGEBRAIC TOPOLOGY                             9
+
+7.    EE210A     Avinash Lahgere,     MICROELECTRONICS-I                              9
+Shubham Sahay
+8.    AE311A     Arun Perumal, Pradeep COMPRESSIBLE AERODYNAMICS                    9
+Moise
+9.    BSE311A    Amitabha         MOLECULAR CELL BIOLOGY                       10
+Bandyopadhyay
+
+Page 3 of 3

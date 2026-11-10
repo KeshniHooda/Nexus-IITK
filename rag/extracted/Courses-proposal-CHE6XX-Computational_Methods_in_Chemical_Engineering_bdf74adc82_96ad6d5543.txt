@@ -1,0 +1,94 @@
+[PAGE 1]
+1/2
+
+Indian Institute of Technology Kanpur
+
+Proposal for a New Course
+
+Course Number: ChE6XX
+
+Structure: Two Lectures per week each of 50mins duration and One lab per week of 3hrs duration. (2-0-1-9)
+
+Duration of the Course: Full Semester
+
+Proposing Department: Chemical Engineering
+
+Other Departments/IDPs which may be interested in the proposed course: Chemistry, Sustainable
+Energy Engineering
+
+Other Faculties Interested in Teaching this Course: Indranil S. Dalal (CHE), Harshwardhan H.
+Katkar (CHE), Himanshu Sharma (CHE), Dipin Pillai (CHE)
+
+Proposer: Vishal Agarwal
+
+Course Description:
+
+Objectives: The course is targeted for graduate-level students employing numerical and computa-
+tional techniques for their research. The aim is to equip students with the theoretical foundations and
+practical exposure to these methods for solving complex problems in (chemical) engineering. The course
+is designed to have a combination of lectures and hands-on sessions using programming environments
+such as python (or matlab) aiming to develop skills to model, analyze, and address problems that are
+difﬁcult to solve analytically; preparing them for advanced research and industrial challenges.
+
+Title: “Computational Methods in Chemical Engineering”
+
+Course Contents and Lecture-wise Breakup∗:
+
+Introduction: Introduction to scientiﬁc computing, approximations and round-off errors. (1 lecture
++ 1 lab on programming)
+
+Linear Algebraic Equations: Gauss-Seidel, Gauss-Jordan, LU decomposition and matrix inversion.
+(2 lectures + 1 lab)
+
+Eigenvalues and Eigenvectors: Power iteration, inverse iteration, Rayleigh quotient iteration, QR
+iteration, Krylov subspace methods, Jacobi method. (4 lectures + 2 labs)
+
+Non-Linear Equations: Bracketing methods, method of successive substitution, Wegstein method,
+Newton’s method, Homotopy and DIIS, sensitivity and conditioning, convergence rates and stopping
+criteria. (4 lectures + 2 labs)
+
+Unconstrained Optimization: Steepest descent, quasi-Newton methods, conjugate-gradient meth-
+ods, MD-based methods. (5 lectures + 3 labs)
+
+Probability and Curve Fitting: Probabilities, random and pseudo-random numbers, Gaussian distri-
+bution, maximum likelihood, Bayesian linear regression, Gaussian process regression (GPR). (6 lectures +
+2 labs)
+
+Monte Carlo Methods: Monte-Carlo integration, Metropolis algorithm, stochastic chemical kinetics.
+(5 lectures + 2 labs)
+
+∗Each lecture is assumed to be of 50 minutes duration.
+
+Pre-requisites: ESO208 or equivalent, MTH102 or equivalent and ChE331 or equivalent.
+
+Expected Enrolment: ∼20-30
+
+[PAGE 2]
+2/2
+
+• Useful References
+
+– “Numerical Methods for Engineers”, Steven C. Chapra and Raymond P. Canale, McGraw Hill,
+2021, Eight Edition, ISBN-13: 978-9354601361.
+
+– “Numerical Methods for Chemical Engineering”, by Kenneth J. Beers, Cambridge University Press,
+2007, ISBN-13:978-0-521-85971.
+
+– “Pattern recognition and machine learning”, by Christopher M. Bishop, Springer, 2006, ISBN-13:
+978-0387-31073-2.
+
+– “Introduction to linear algebra”, by Edwin K. P. Chong and Stanislaw H. Zak, Wiley, 2013, Fourth
+Edition, ISBN-13: 978-8126567898.
+
+– “An introduction to Optimization”, by Gilbert Strang, Wellesley-Cambridge Press, 2021, Fifth
+Edition, ISBN-13: 978-1733146654.
+
+Dated: August 12, 2025            Proposer:
+
+Dated:                  DPGC Convener:
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC
+
+Dated:

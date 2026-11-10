@@ -1,0 +1,249 @@
+[PAGE 1]
+REGISTRATION DATA STATISTICS FOR 2024-25/FIRST
+
+TOTAL NUMBER OF COURSES BEING OFFERED                    751
+
+EXCLUDE THE THESIS COURSE, SEMINAR, PROJECT, BTP,
+545SUMMER TRAINING, PRESENTATION
+
+MAXIMUM CLASS SIZE (MTH112)                                 1298
+
+MINIMUM CLASS SIZE                                           1
+(AT PRESENT THERE ARE 545 COURSES : CE331P, ENG709, ENG716,
+ENG754, ENG755, ENG765, ENG777, ES313A, ES412A, MSE314A,
+MSE315A, PHI755)
+
+AVERAGE CLASS SIZE (OF ALL 545 COURSES)                      68
+
+NUMBER OF COURSES WITH 5 STUDENTS OR LESS                 53
+
+NUMBER OF COURSES WITH 100 STUDENTS OR MORE              92
+
+AVERAGE CLASS SIZE OF COURSES THAT HAVE >5 AND LESS THAN  38
+100 STUDENTS
+
+THE FOLLWING IS THE NUMBER OF COURSES WITH
+VARIOUS CLASS STRENGTHS
+
+No. of Student   No. of Course
+1              12
+2              9
+3             10
+4              9
+5             13
+6-10            61
+11-15           44
+16-20           34
+21-25           35
+26-30           24
+31-50           81
+51-75           63
+76-100           61
+>100            89
+Total           545
+
+Page 1 of 5
+
+[PAGE 2]
+2024-25 FIRST SEMESTER
+LIST OF COURSES IN WHICH ≤5 STUDENTS REGISTERED
+
+S.                                                                                       Total No. of
+Course No.        Instructor                    Name
+No.                                                                                     Student
+1    CE331P       Salil Goel         GEOINFORMATICS LAB                            1
+2   ENG709     Sh Francis Monsang   LINGUISTIC ANALYSIS                             1
+3   ENG716   G Neelakantan      INDIVIDUAL PROJECTS                            1
+4   ENG754     Chinmay Dharurkar   HISTORICAL LINGUISTICS                          1
+5   ENG755     Lakshmana Pinninti   RESEARCH METHODS IN ENGLISH AS A             1
+SECOND LANGUAGE STUDIES
+6   ENG765     Syed Feroz Hassan    FILM THEORY AND HISTORIOGRAPHY              1
+7   ENG777    T Ravichandran      PERSPECTIVES OF THE POSTHUMAN AND/IN        1
+THE ANTHROPOCENE
+8    ES313A      Javed N Malik      GEOMORPHOLOGY AND EARTH SURFACE           1
+PROCESSES
+9    ES412A      Hiranya Sahoo      SEDIMENTARY PROCESSES &                      1
+STRATIGRAPHIC PRINCIPLES
+10   MSE314A    Shobit Omar        PROCESS ENGINEERING LABORATORY             1
+11   MSE315A    Shobit Omar       MANUFACTURING PROCESSES LABORATORY       1
+12   PHI755    A V Ravishankar    ADVANCED TOPICS IN PHILOSOPHY OF             1
+Sarma            SCIENCE
+13   CGS641      Pragathi           TOPICS IN TRANSLATIONAL NEUROSCIENCE        2
+Balasubramani
+14   CHE633     Goutam Deo        PRINCIPLES OF HETEROGENEOUS                  2
+CATALYSIS
+15   CS730       Debadatta Mishra     TOPICS IN OPERATING SYSTEMS                    2
+16   EE698J      Naren Naik        INTRODUCTION TO COMPUTATIONAL              2
+BIOMEDICAL IMAGING
+17   ENG611     Sayan Chattopadhyay  INTRODUCTION TO INDIAN ENGLISH               2
+AUTOBIOGRAPHY
+18   ENG708     Sudharshana N P     APPLIED LINGUISTICS                             2
+19   ENG763      Chaithra Puttaswamy  LANGUAGE DOCUMENTATION AND                2
+DESCRIPTION
+20   ME778       Akhilesh Mimani     ENGINEERING ACOUSTICS AND ITS CONTROL       2
+21   MTH680     Keshab Bakshi     AN INTRODUCTION TO VON NEUMANN             2
+ALGEBRAS
+22   CE762M     Sachchidanand      ATMOSPHERIC MODELING                         3
+Tripathi
+23   CS674       Debapriya Roy      POST QUANTUM SECURITY                        3
+24   DMS797    Dpgcime          INDEPENDENT STUDY                             3
+25   EE631        Saikat Chakrabarti   ADVANCED POWER SYSTEM STABILITY            3
+
+Page 2 of 5
+
+[PAGE 3]
+26   EE634       Nandini Gupta      ELECTRICAL INSULATION IN POWER               3
+APPARATUS AND SYSTEMS
+27   EE679      Ankush Sharma     SMART GRID TECHNOLOGIES                      3
+28   ENG705     Muthukumar M     NATION THEORY AND LITERATURE                3
+29   ME647       Sachin Y Shinde     INTRODUCTION TO TURBULENT FLUID             3
+MECHANICS
+30  MTH102A   Ajay Singh Ramdin   MATHEMATICS - II                                 3
+Thakur
+31   MTH739     Santosha Kumar      TOPICS IN LIE GROUPS AND LIE ALGEBRAS         3
+Pattanayak
+32   ART704      Rajarshi Sengupta    ART AS A MEDIUM OF COMMUNICATION            4
+33   ART708      Shatarupa Thakurta   RESEARCH METHODS IN VISUAL CULTURE          4
+Roy
+34   CS748        Nitin Saxena        ARITHMETIC CIRCUIT COMPLEXITY                4
+35   ME626       Pankaj Wahi        VIBRATION OF CONTINUOUS SYSTEM              4
+36   MSE629     Dipak Mazumdar     PHYSICAL & MATHEMATICAL MODELLING         4
+OF STEELMAKING PROCESSES
+37   MTH667     Preena Samuel      INTRODUCTION TO ALGEBRAIC GEOMETRY         4
+AND ALGEBRAIC GROUPS
+38   MTH670     Vikramjeet Chandel   POTENTIAL THEORY IN THE COMPLEX              4
+PLANE
+39   PHI774      Vineet Sahu        SOCIAL AND POLITICAL PHILOSPHY                4
+40   PHI786        Lalit Saraswat      EVOLUTIONARY THEORIES OF KNOWLEDGE        4
+AND COGNITION
+41   CHE643      Indranil Saha Dalal   MESOSCALE AND CONTINUUM                     5
+SIMULATIONS IN CHEMICAL ENGINEERING
+42   CHE798B     Indranil Saha Dalal   DEEP LEARNING FOR CHEMICAL                   5
+ENGINEERING
+43  CHM667    Mainak Sadhukhan   QUANTUM DYNAMICS IN CHEMISTRY              5
+44  CHM679     Keshavamurthy     MOLECULAR REACTION DYNAMICS                5
+Srihari
+45   EE798C      Yatindra Nath Singh  ADVANCED NETWORKING                         5
+46   ME660    N S Vyas         RAILROAD VEHICLE DYNAMICS                    5
+47   MSE628     Deepak Gupta       ELECTRONIC DEVICES AND                        5
+CHARACTERIZATION
+48   MSE651     Rahul Sarkar       ADVANCED CONCEPTS IN IRONMAKING            5
+49   MSE671     Raghupathy Yuvaraj  HEAT TREATMENT AND SURFACE                  5
+HARDENING
+50   MTH754     Subhra Sankar Dhar   PROBABILITY THEORY                             5
+51   MTH755    Amit Mitra         STATISTICAL INFERENCE                          5
+52  MTH889M   Shalabh          INTRODUCTION TO PROFESSION AND               5
+COMMUNICATIONS SKILLS (STATISTICS)
+53   PHY690B   Sanmay Ganguly     PHYSICS AT LARGE HADRON COLLIDER            5
+
+Page 3 of 5
+
+[PAGE 4]
+LIST OF COURSES IN WHICH 6-10 STUDENTS REGISTERED
+
+S.                                                                                        Total No. of
+Course No.        Instructor                    Name
+No.                                                                                     Student
+1    AE481     Debopam Das      BOUNDARY LAYER THEORY                       6
+BSE492      Sai Chiliveri       METHODS IN BIOTECHNOLOGY-I                   6
+2
+EXPERIMENTAL BIOSEPERATION
+3    CE471      Durgesh C Rai       SPECIAL TOPICS IN STRUCTURAL DESIGN           6
+4    CE678        Balaji Devaraju      PHYSICAL GEODESY                               6
+5    CE760M     Abhijith G R       SURFACE WATER QUALITY MODELING             6
+6    EE653      Ramprasad Potluri    DIGITAL CONTROL                                6
+7    EE683        Shilpi Gupta       QUANTUM AND WAVE PHENOMENA                6
+8    EE684       Pradeep Kumar K     FIBER-OPTIC COMMUNICATIONS                   6
+EE798X     Rajshekhar         SIGNAL PROCESSING FOR OPTICAL                 6
+9
+Gannavarpu       METROLOGY
+ME454      Anindya Chatterjee   NUMERICAL SOLUTIONS IN ENGINEERING          6
+10
+MECHANICS
+11   ME751     Anupam Saxena     COMPUTER AIDED ENGINEERING DESIGN           6
+12   ME756    B Bhattacharya      VIBRATION CONTROL                             6
+ME850      Anindya Chatterjee    BASIC CONTROL SYSTEMS FOR                     6
+13
+MECHANICAL ENGINEERS
+14   MTH633     Bidyut Sanki        INTRODUCTION TO HYPERBOLIC GEOMETRY       6
+15   AE671      Navrose          AEROACOUSTICS                                  7
+16   BSE655      Jonaki Sen         PHYSIOLOGY                                      7
+17   BSE672      Suresh Kumar      ADVANCED CELL BIOLOGY                        7
+18   CE736      Gourabananda Pahar  FLOOD MODELLING                               7
+19   CGS652     Narayanan Srinivasan  CONSCIOUSNESS                                  7
+20   CHM102A  Nagma Parveen     GENERAL CHEMISTRY                             7
+CHM668    Anantharaman      ADVANCED MAIN GROUP CHEMISTRY              7
+21
+Ganapathi
+22   CS433      Mainak Chaudhuri    PARALLEL PROGRAMMING                        7
+23   ECO704     Mahamitra Das      ECONOMETRICS                                   7
+24   EE667      Washim Mondal     INFORMATION THEORY                            7
+25   EE670       Adrish Banerjee      WIRELESS COMMUNICATIONS                      7
+EE685        Shilpi Gupta       SEMICONDUCTOR OPTICAL                        7
+26
+COMMUNICATION DEVICES
+27   ES655      Animesh Mandal     SOLID EARTH GEOPHYSICS                        7
+28   ME688      Tushar Sikroria      COMPRESSIBILITY AND HIGH-SPEED FLOW         7
+SPA626     Soumyabrata        SPACE ENVIRONMENTS AND SPACE                7
+29
+Chakrabarty        SYSTEMS
+SPA660     Kunal Mooley       HIGH ENERGY ASTROPHYSICS OF BINARY          7
+30
+STAR SYSTEMS
+
+Page 4 of 5
+
+[PAGE 5]
+CHE664     Raj Ganesh S Pala    ELECTROCHEMICAL ENERGY CONVERSION         8
+31
+AND STORAGE
+CHM682     Ashis Kumar Patra   MODERN CHEMISTRY AND APPLICATIONS OF       8
+32
+LANTHANIDES
+ECO725     Sujaya Sircar       ENVIRONMENTAL ECONOMICS: POLICY AND        8
+33
+TRADE
+34   EE480A     Yatindra Nath Singh   ELECTRICAL ENGINEERING LAB I                  8
+35   EE616      Aloke Kumar Dutta   SEMICONDUCTOR DEVICE MODELLING             8
+36   ENG743     Suchitra Mathur      FEMINIST THEORY AND LITERATURE               8
+ES682       Dibakar Ghosal       SEISMIC EXPLORATION AND SUBSURFACE          8
+37
+IMAGING
+38   MTH101A   Nandini Nilakantan   MATHEMATICS I                                   8
+39   CGS702     Ark Verma         PROJECT                                          9
+40   CHE679     Raghavendra Ragipani SPECIAL TOPICS                                   9
+41   CHM629    Amalendu Chandra    PRINCIPLES OF PHYSICAL CHEMISTRY              9
+42   CS714       Adithya Vadapalli    SECURE COMPUTATION                            9
+EE641      Animesh Biswas     ADVANCED ENGINEERING                         9
+43
+ELECTROMAGNETICS
+44   EE798I       Rituraj           NANOPHOTONICS                                 9
+45   MBA774M  B V Phani          CREDIT RISK MANAGEMENT & MODELLING         9
+ME663       Supratik          METAL FORMING                                  9
+46
+Mukhopadhyay
+47   ME698R     Ushasi Roy         PLASTICITY IN CRYSTALLINE SOLIDS               9
+MSE611      Kallol Mondal      CORROSION AND OXIDATION OF METALS           9
+48
+AND ALLOYS
+49   MSE659     Shobit Omar       POWDER METALLURGY                            9
+PHY683     Navaneeth         TECHNIQUES IN EXPERIMENTAL HIGH              9
+50
+Poonthottathil      ENERGY PHYSICS
+51   SOC732     Binay Kumar Pattnaik  SOCIOLOGY OF DEVELOPMENT                    9
+52   AE707       Rajesh Kitey        EXPERIMENTAL STRESS ANALYSIS                10
+CGS600     Himanshu Yadav     COMPUTATIONAL TOOLS FOR COGNITIVE          10
+53
+SCIENCE
+54   DES635     Mainak Das       METHODS FOR DESIGN RESEARCH                 10
+55   EE698K     Vipul Arora       PROGRAMMING FOR SIGNAL PROCESSING          10
+56   ME698L     Jishnu Bhattacharya   ADVANCED THERMODYNAMICS                   10
+57   MTH611    Sudhanshu Shekhar   ALGEBRA II                                      10
+PHY631     Sudipta Dubey       PHYSICS OF SEMICONDUCTOR                     10
+58
+NANOSTRUCTURES
+59   PHY664     Vijaya Ramarao     PHOTONIC DEVICES                               10
+60   SOC721    Munmun Jha        SOCIOLOGICAL THEORY                          10
+61   SOC751     Esha Chatterjee     METHODS OF SOCIOLOGICAL RESEARCH           10
+
+Page 5 of 5

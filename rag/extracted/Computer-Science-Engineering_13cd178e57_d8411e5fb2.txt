@@ -1,0 +1,319 @@
+[PAGE 1]
+Website: www.cse.iitk.ac.in
+
+[PAGE 2]
+COMPUTER SCIENCE & ENGINEERING
+
+Indian Institute of Technology Kanpur was the  first Institute in India to start
+Computer Science education. The initial "computer-related" courses were started at
+IIT Kanpur in August 1963 on an IBM 1620 system installed in the nation's first
+"computer classroom," a novelty then even in many North American and European
+universities. Gradually, the Institute drew upon some of the brightest young Indians in
+Computer Science to serve on its faculty and initiated an independent academic
+program in 1971, leading to Ph.D. and M. Tech. degrees. The undergraduate program
+started later, with the first batch graduating in 1983. The department was formally
+established in 1984.
+
+It attracts top quality BTech, MTech, MS, and PhD students to the respective degree
+programs. The department also has an MS program, which is mainly focused in
+research in various domains of Computer Science. The MTech, MS, and PhD programs
+require the students to conduct research leading to a thesis. Every year the research
+activities in the department lead to scientific publications in top-tier conferences and
+journals in all areas of Computer Science and Engineering. Our faculty members are
+also engaged in a large number of sponsored research and consultancy projects
+funded by the Government as well as the industry. Several engineers and post-
+doctoral fellows are relentlessly working to lead the department with cutting-edge
+technologies.
+
+Over the years, our faculty have been honored with several prestigious national and
+international awards and fellowships. They are also actively participating in the
+editorial boards  of  top-quality  journals and  transactions.  Moreover, both  the
+undergraduate and postgraduate students have grabbed best paper awards on several
+occasions, whereas the PhD students have been awarded with Prime Minister
+Research Fellowships, Intel, Google, TCS and Qualcomm Innovation Fellowships. The
+department also has a very strong alumni network including many of the nation's
+leading experts, educationists and consultants in computer science today
+
+[PAGE 3]
+POST-GRADUATE
+PROGRAMMES OFFERED
+
+M.Tech. Program
+
+The M.Tech. program is oriented towards research and advanced training in Computer
+Science. It is designed for students who have a B.Tech./B.E. degree in computer
+science or equivalent degrees. A student needs to do at least seven courses with at
+least one course each from the theory, systems, and data science/application areas.
+There are no compulsory courses except a seminar course in the second semester of
+the program. Thesis work forms a major component of the program and begins after
+the first two semesters of the program. An appealing part of our M.Tech. program is
+that some of the top performing students (based on the evaluation done after the first
+semester) may be eligible to get a joint M.Tech. degree from IIT Kanpur and one of our
+partner universities outside India. As part of this joint degree program, such students
+will get a chance to spend a part of their M.Tech. program at the partner university
+and do their thesis work jointly with faculty from both the places.
+
+MS (Research)
+
+In the MS (Research) program, a student is required to complete the required courses
+chosen in consultation with the thesis advisor. The student is expected to carry out
+research work leading to a thesis. Students will work under a supervisor on industry-
+sponsored or other funded projects at IIT Kanpur and earn an MS (Research) degree,
+provided they meet all the program requirements. MS students can be funded by the
+Institute  (Full-time) or through a  project (Full-time/Sponsored/Part-time). The
+program’s strong focus on research makes it exciting and provides students with in-
+depth knowledge in their area of study.
+
+Ph.D. program
+
+The Ph.D. program is designed for students with a strong motivation for doing
+research in computer science. Admission to the Ph.D. program is open to candidates
+holding M.Tech./M.E. or equivalent degrees. Outstanding candidates with a strong CS
+background and having a B.Tech/B.E. or equivalent degree in any discipline or an M.Sc
+degree in Maths, Statistics, Physics with a valid GATE/JRF score are also admitted to
+Ph.D. Normally, a Ph.D. student has to complete four courses. Students choose these
+courses depending on their interests and upon the suggestions of their mentor.
+Students must also pass a comprehensive examination that tests the breadth of their
+knowledge as well as the ability to do research.
+
+[PAGE 4]
+POST-GRADUATE
+PROGRAMMES OFFERED
+
+All Ph. D. students are provided with a personal computer, personal office spaces and
+a shared telephone when they join. They also get office support for photocopying,
+laser printing, mailing, stationery, etc. Ph.D. students also get generous travel support
+to present their papers at conferences inside the country and abroad. A number of
+industry-supported fellowships are also available to Ph.D. Students
+
+[PAGE 5]
+LABS/FACILITIES
+
+IIT Kanpur has one  of the  largest campus-wide networks among educational
+organizations in the nation with a 3Gbps connectivity to the Internet. All students of
+the institute get email, browsing, and other Internet facilities. Apart from a state-of-art
+Computer Center that is a central facility, the CSE department has its own well-
+equipped laboratories.
+
+Special Interest Groups (SIG): The CSE department is home to several reading
+groups in theory, data sciences and systems research. These are largely student-led
+activities and offer a unique platform to discuss not only one's own research but
+cutting-edge developments in the area as well.
+
+❖  SIG on Theoretical Aspects of Computer Science (SIGTACS):
+https://sigtacs.github.io
+❖  SIGs on Systems and Security Research
+➢  Computer Architecture, Operating Systems and Systems Security (CAOS):
+SIG on Natural Language Processing
+❖  SIG on Computational Genomics
+
+Student Wellness Initiatives
+
+Association for Computing Activities (ACA): ACA  is a student body of the CSE
+department and aims to make the student experience more enjoyable and well-
+rounded. This is achieved through various events, designed to increase interaction
+between students and faculty. The body organizes welcome and farewell events for
+various batches, summer schools for non-IITK UG students on various topics like
+machine  learning, algorithm  design, and  cybersecurity, weekend programming
+contests and happy hours that include games, sports, and trivia quizzes, basically free
+food and fun.
+
+Counseling Initiatives: The department has a student well-being committee and
+arranges  for student mentors  to  offer guidance and help  students overcome
+difficulties in course and thesis work. The department counsellor offers help and
+advice to students on a variety of issues including but not restricted to academics
+
+[PAGE 6]
+FACULTY LIST
+
+❖Adithya Vadapalli, PhD (Indiana University Bloomington): Applied Cryptography, Private
+Information  Retrieval, Secure  Multiparty Computation, Zero-Knowledge  Proofs and
+Oblivious RAMs
+❖Amey Karkare, PhD (IIT Bombay): Compilers, Program Analysis and Optimizations,
+Functional Programming, Intelligent Tutoring Systems.
+❖Amitangshu Pal, PhD (University of North Carolina Charlotte): Wireless and Sensor
+Networks, Sensing and Communication  for Internet  of Things  (IoTs), Building IoT
+Solutions for Smart Cities.
+❖Angshuman Karmakar, PhD (KU Leuven): Post Quantum Cryptography, Side Channel
+Attacks,  Computation  on  Encrypted  Data  (Homomorphic  encryption,  Functional
+encryption and multi-party computation), and Cryptology
+❖Anil Seth, PhD (TIFR Mumbai): Logic in computer science, Automata theory and Games.
+❖Anshu Yadav, PhD (IIT Madras): Theoretical Cryptography, Post Quantum Cryptography.
+❖Arnab Bhattacharya, PhD (University of California, Santa Barbara): Databases, Data
+Mining, Information Retrieval, Natural Language Processing.
+❖Ashutosh Modi, PhD (Saarland University, Germany): Natural Language Processing,
+Machine Learning, Affective Computing
+❖Debadatta Mishra, PhD (IIT Bombay): Operating Systems, Virtualization and Cloud
+Computing, Computer Networks, System Security, Technology in Education
+❖Debapriya Basu Roy, PhD (IIT Kharagpur): Hardware Security, VLSI for Cryptography,
+Post Quantum Cryptography
+❖Gunjan Kumar, PhD (TIFR Mumbai): Sublinear Algorithms, Approximation Algorithms,
+Statistical Learning Theory and Information Theory
+❖Hamim  Zafar, PhD  (Rice  University): Computational Genomics, Machine Learning,
+Bioinformatics.
+❖Indranil Saha, PhD (University of California, Los Angeles): Application of formal methods
+to embedded and cyber-physical systems and Robotics.
+❖Mainak Chaudhuri, PhD (Cornell University): Computer architecture.
+❖Manindra Agarwal, PhD (IIT Kanpur): Computational complexity theory, randomized
+algorithms, cryptography, computational number theory.
+❖Nisheeth  Srivastava, PhD  (University  of  Minnesota):  Cognitive  science,  cognitive
+computing, human-computer interaction.
+❖Nitin Saxena, PhD (IIT Kanpur): Computational Complexity Theory, Algebra, Number
+theory, Algebraic-Geometry.
+❖Piyush Rai, PhD (University of Utah): Machine Learning, Bayesian Statistics, Statistical
+NLP and Artificial Intelligence.
+❖Preeti Malakar, PhD (IISc, Bangalore): High-performance computing, Scalable parallel
+computing, Workflow optimization
+❖Pritam Choudhury, PhD (University of Pennsylvania): Programming Languages, Type
+Theory, Language-Based Security, Formal Verification, Logic and Formal Methods in Indian
+Knowledge Traditions
+❖Priyanka Bagade, PhD (Arizona State University): Internet of things (IoT), Sensors,
+Mobile computing, cyber-physical systems, deep learning
+
+[PAGE 7]
+FACULTY LIST
+
+❖Purushottam Kar, PhD (IIT Kanpur): Optimization, Statistical Learning Theory, Machine
+Learning Algorithms.
+❖Raghunath Tewari, PhD (University of Nebraska): Computational complexity theory,
+graph theory.
+❖Rajat Mittal, PhD (Rutgers University): Quantum computing, Complexity theory.
+❖Rajat Moona, PhD  (IISc, Bangalore): Computer  architecture, embedded computing
+hardware, operating systems, VLSI design and CAD for VLSI (on leave).
+❖Sanjeev Saxena, PhD (IIT Delhi): Parallel processing, algorithms and data structures,
+heuristics, computational geometry, graph theory, VLSI and architecture.
+❖Satyadev Nandakumar, PhD (Iowa State University): Algorithmic information theory,
+computable real and complex analysis
+❖Sayak Ray Chowdhury, PhD (IISc Bangalore): Reinforcement Learning, Multi-armed
+bandits, Differential Privacy and Language Model Alignment
+❖Soumya Dutta, PhD (Ohio State University): Machine Learning, Data Science, Visual
+Computing, Scientific Computing, Data Visualization, Explainable and Interpretable AI, and
+Big Data Visual Analytics.
+❖Sruti Srinivasa Ragavan, PhD (Oregon State University): Human Factor in Computing,
+Software Engineering and End-User Computing
+❖Subhajit Roy, PhD (IISc, Bangalore): Compilers, program analysis and optimization.
+❖Sumit Ganguly, PhD (University of Texas, Austin): Data Streaming, Dimensionality
+Reduction for Big Data Analysis, Numerical Linear Algebra.
+❖Sunil Simon, PhD (IMSc, Chennai): Algorithmic aspects of game theory, Logic, automata
+and games, theory of distributed systems.
+❖Surender Baswana, PhD  (IIT  Delhi): Graph  algorithms, dynamic  algorithms, and
+randomized algorithms.
+❖Sutanu Gayen, PhD (University of Nebraska‐Lincoln): Foundation of Machine Learning
+and Probabilistic Algorithms
+❖Swarnendu Biswas, PhD (Ohio State University): Programming languages, program
+analysis, compilers and runtime systems, parallel computing, approximate computing.
+❖Urbi Chatterjee (PhD, IIT Kharagpur): Hardware security, Physically unclonable functions,
+Secure authentication protocol design, Internet of things security
+
+[PAGE 8]
+BROAD RESEARCH AREAS
+
+The CSE department faculty are actively involved in research in various fields of Computer
+Science. The department provides an  excellent research platform and nurtures and
+challenges students to solve real-world research problems. The research in the department
+can be broadly classified into the following areas.
+
+THEORY
+Algorithms and Data Structures: Algorithms in the domains of graphs and combinatorics,
+computational geometry, computational number theory, streaming data, algorithmic game
+theory, semidefinite programming, randomized algorithms, optimization and approximation
+algorithms, and fault tolerance. Theoretical Computer Science: Complexity theory, logic in
+computer science, functional programming, algorithmic information theory, computational
+number theory, cryptography, computable real and complex analysis, computational algebraic
+geometry, algebraic complexity theory, quantum computation, coding theory, streaming
+algorithms, and game theory.
+
+SYSTEMS
+Cyber  Security:  Building  secure  cyber  systems,  security  of  cyber-physical  systems,
+cybersecurity for critical infrastructures, design crypto algorithms and protocols, Cyber
+Security with Machine Learning, Cyber Security of Cyber Physical Systems, Blockchains, and
+use of machine learning for anomaly detection to fight persistent threats in the critical
+infrastructure.
+
+Cyber-Physical Systems: IoT, distributed multi-robot systems, formal verification of multi-
+robot systems.
+
+Systems Security: Security issues related to Computer Architecture, Operating Systems, and
+Computer Networks. Side-channel attacks at caches and processor, side-channel attack
+proofs, formal guarantees, crypto engineering to vulnerability analysis of systems and
+application layer software, network and web security, cloud security through virtual machine
+hardening.
+
+Formal Methods: Analysis of cyber-physical systems, prove security of systems. High-
+Performance Computing: Topology-aware mapping, communication-aware job scheduling,
+effective parallelization strategies, high-performance optimizations for different applications
+like deep learning networks, optimizing big data I/O and solving parallel I/O bottlenecks.
+
+Operating Systems: Computer Architecture-operating systems  interface,  virtualization,
+cloud computing, operating system-computer network interface.
+
+Programming Languages and Compilers: Program analysis, data flow analysis, heap
+analysis, code optimizations, compilation for functional languages, program profiling, formal
+techniques for automated debugging, program verification and synthesis, high-performance
+compiler optimizations, GPU algorithms, memory model  analysis, automated memory
+management, and intelligent tutoring systems.
+
+[PAGE 9]
+BROAD RESEARCH AREAS
+
+Computer Architecture: Computer architecture research in processor design with speculative
+techniques, memory  hierarchy  optimizations  in  the  form  of  hardware  prefetching,
+cache/DRAM content management, cache coherence protocols for client and server systems,
+and secure processor/memory systems. Software Architecture: Develop design architectures
+such as tactics, reference architectures, and frameworks to build efficient and scalable
+software. Internet of things: Sensors, embedded systems, mobile computing, context aware
+computing, cyber-physical systems, and applications of deep learning to cyber-physical
+systems and internet of things.
+
+Computer   communication  and   networks:  Computer   networking   research   at
+MAC/network/transport layers, wireless networks, rechargeable sensor networks, exploring
+communication and networking in challenging environments like underground, underwater
+or inside body area networks.
+
+Hardware  Security:  side-channel  (power,  EM,  and  timing)  and  fault  attacks  and
+countermeasures, secure hardware design for novel cryptographic algorithms in FPGA/ ASIC,
+physically unclonable functions, hardware trojan detection, IP protection, FPGA based
+hardware accelerator for ML/AI, secure protocol design, unmanned air vehicle security,
+hardware implementation of post-quantum cryptography.
+
+Cryptography: Design and  analysis  of  cryptographic schemes such  as post-quantum
+cryptography, homomorphic and multi-party computation schemes, blockchains etc., protocol
+design,  Algorithmic  optimizations,  efficient  implementation,  Practical  applications  of
+cryptographic schemes.
+
+DATA SCIENCES
+
+Machine  Learning: Deep  learning,  probabilistic machine  learning,  zero-shot  learning,
+learning with millions of classes, adversarial machine learning, large-scale data mining,
+human-AI  interface,  cognitive and behavioral modeling,  large  scale optimization and
+inference.
+
+Databases, Big Data and Data Mining: Data analytics, data processing, indexing, querying,
+searching, data mining, data provenance, graph mining.
+
+Natural Language Processing and Information Retrieval: Question-answering, knowledge
+graph generation, dependency parsing, multimodal aIect modeling, conversational systems,
+bio-medical NLP.
+
+Computer  Vision:  Video  analytics  and  surveillance,  medical  image  analysis,  scene
+understanding, 3D vision and geometry, multimodal vision, vision for robotics / embodied AI,
+adversarial robustness and security, self-supervised and unsupervised learning in vision,
+generative models for vision, cognitive and behavioral modeling via vision.
+
+Data Analytics, Visual Computing, Scientific Computing, and Data Visualization: Machine
+learning for visual computing, scientific and information visualization, interactive data
+exploration, high-dimensional data, image analysis, explainable and interpretable AI, and big
+data analytics.
+
+[PAGE 10]
+CONTACT
+
+Prof. Debadatta Mishra
+Email: dpgc@cse.iitk.ac.in
+Phone: 0512-259-2004
+
+Mr. Akash Misra
+Email: admissions@cse.iitk.ac.in
+Phone: 0512-259-7590
+
+Webpage: https://www.cse.iitk.ac.in/users/admissions/

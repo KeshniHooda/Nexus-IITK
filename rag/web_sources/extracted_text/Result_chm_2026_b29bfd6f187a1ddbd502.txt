@@ -1,0 +1,227 @@
+[Page 1]
+Quiz Questions — olympiad2026
+Q1.
+Quiz Fill In The Blanks Questions
+Assume that you are using a heating coil of 100 W power in your room in winter (temperature of room is
+273 K). To increase the temperature of the room by 30 K, you need to run the coil for ____________
+minutes. Assume your room as a perfect closed system; volume of room is 10 m3; the room has only O2
+and N2 gases. Use the following values, density of air is 1.16 kg.m-3; universal gas constant, R is 8 J.mol-
+1.K-1; average molar mass of air in the room is 29 g.mol-1. 
+Correct Answer: Lower Limit: 39.98 Upper Limit: 40.02
+Score: 4
+ Negative Score: 0
+Q2.
+Quiz Fill In The Blanks Questions
+At 500 K, the equilibrium constant 𝐾p for the reaction below is 1660.
+If we start with 1 mole of 𝑁2𝑂4 (𝑔) at 500 K in a 1 litre container, the number of moles of 𝑁𝑂2 (𝑔) at
+equilibrium is _____________ (rounded to two decimal places). Assume: 𝑁2𝑂4 and 𝑁𝑂2 behave as
+ideal gases at 500 K. 
+Use ideal gas constant 𝑅 = 0.083 bar.L.mol-1.K-1 and √35 = 5.92, if required. 
+Correct Answer: Lower Limit: 1.82 Upper Limit: 1.86
+Score: 4
+ Negative Score: 0
+Q3.
+Quiz Fill In The Blanks Questions
+All the carbon dioxide released upon the complete combustion of 156 g of benzene, is reacted with
+CH3MgBr for preparing acetic acid. The amount of acetic acid obtained is _______ g.
+[given that the atomic masses (in amu) are: C 12; O 16; H 1]
+Correct Answer: Lower Limit: 719 Upper Limit: 721
+Score: 4
+ Negative Score: 0
+
+[Page 2]
+Q4.
+Quiz Fill In The Blanks Questions
+The molecular mass of the major organic product of the following reaction sequence is ________.
+[given that the atomic masses (in amu) are: C 12; O 16; N 14; Cl 35.5; H 1]
+Correct Answer: Lower Limit: 77 Upper Limit: 79
+Score: 4
+ Negative Score: 0
+Q5.
+Quiz Fill In The Blanks Questions
+Consider the following complexes: [MnCl6]3-, [MnBr4]2-, [FeF6]3-, [Co(C2O4)3]3-, [CoF6]3-
+(Atomic numbers: Mn = 25, Fe = 26, Co= 27)
+The total sum of the number of unpaired electrons present in all these complexes is ______.
+Correct Answer: Lower Limit: 17.99 Upper Limit: 18.01
+Score: 4
+ Negative Score: 0
+
+[Page 3]
+Q6.
+Quiz Multichoice Questions
+The graph below shows the partial pressures (pA, pB) of two pure gases A and B above their respective
+solutions in water at two different temperatures T1 and T2, as a function of their respective mole fractions
+(XA, XB) in the solution. If one of the gases is oxygen and the other is nitrogen, then, the correct
+statement(s) is(are)
+1. The Henry’s constant of A is greater than that of B. (correct)
+2. A is more soluble in water than B.
+3. The temperature T1 is greater than temperature T2. (correct)
+4. A is oxygen and B is nitrogen.
+Score: 4
+ Negative Score: 1
+Q7.
+Quiz Multichoice Single Answer Questions
+If an enzyme specifically cleaves β-1,4-glycosidic linkages, which of the following carbohydrates are
+cleaved by this enzyme?
+1. Starch
+2. Cellulose (correct)
+
+ 
+OR
+3.
+ 
+Lactose
+ 
+(correct)
+4.
+ 
+Sucrose
+Score:
+ 
+4
+ 
+Negative Score:
+ 
+1
+MARKS TO ALL
+
+[Page 4]
+Q8.
+Quiz Multichoice Questions
+The CORRECT statement(s) about lanthanoid elements or their compounds is (are) 
+(Atomic numbers: La = 57, Ce = 58, Eu= 63, Gd = 64, Yb = 70] 
+1. La3+ and Yb2+ are diamagnetic in nature. (correct)
+2. Eu and Yb exhibit both +2 and +3 oxidation states. (correct)
+3. Eu has lower third ionization enthalpy than Gd.
+4. Ceric ammonium nitrate is a strong oxidant. (correct)
+Score: 4
+ Negative Score: 1
+Q9.
+Quiz Multichoice Questions
+One mole of a complex with the molecular formula Cr(H2O)5ClBr2 gave a Van’t Hoff factor of 2 in water. 
+Assume complete dissociation of the complex in water. What is/ are the correct structural formula of this
+complex?
+1. [Cr(H2O)5Cl]Br2
+2. [Cr(H2O)4ClBr]Br•H2O (correct)
+3. [Cr(H2O)4Br2]Cl•H2O (correct)
+4. [Cr(H2O)6Br]BrCl
+Score: 4
+ Negative Score: 1
+
+[Page 5]
+Q10.
+Quiz Multichoice Questions
+1.0 mmol of diborane (B₂H₆) reacts with an excess of propene as shown in the scheme below. Determine
+which of the following statements(s) is (are) correct.
+ 
+Atomic mass (amu): C = 12.0, H = 1.0, O = 16.0, B = 10.0. 
+1. The reaction produces 6.0 mmol of product P. (correct)
+2. The molar mass of product P is 60.0 g.mol-1. (correct)
+3. The amount of product P obtained is 360.0 mg. (correct)
+4. 1.0 mmol of boric acid (H₃BO₃) is formed as a byproduct.
+Score: 4
+ Negative Score: 1
+
+[Page 6]
+Q11.
+Quiz Multichoice Questions
+List I gives reactions, list II gives products and list III gives some observations about the reactions/
+products. Match each entries in list I to appropriate entries in list II and list III and choose the correct
+options.
+ 
+List I
+List II 
+List III
+(W) Reaction of aniline with chloroform
+and KOH.
+(i) C6H5COONa and
+CO2 
+ (P) Orange
+coloration/dye 
+(X) Electrophilic aromatic substitution of
+a weak electrophile on an activated
+phenoxide ring at pH 9.
+(ii) C6H5NC 
+(Q) Brisk
+effervescence 
+(Y) Reaction between a benzoic acid
+and sodium bicarbonate.
+(iii) CHI3 
+(R) Foul, pungent
+odor 
+(Z) Base catalysed iodination of methyl
+ketone.
+(iv) p-
+HOC6H4N=NC6H5
+(S) Yellow
+precipitate 
+Which of the following option(s) represents the correct set of matches? 
+1. W-(ii)-(R); X-(iv)-(P); (correct)
+2. Y-(i)-(Q); Z-(iii)-(S) (correct)
+3. X -(ii)-(P); Y-(iii)-(Q);
+4. Y-(iv)-(S); Z-(iii)-(Q)
+Score: 4
+ Negative Score: 1
+Q12.
+Quiz Multichoice Single Answer Questions
+The pair of ions, in which both are paramagnetic and have a bond order of one, is/ are
+1. B2
+2+
+ and F2
+2+
+2. O2
+2+and C2
+2-
+3. Li2
+2- and N2
+2+
+4. Be2
+2- and C2
+2+ (correct)
+Score: 4
+ Negative Score: 1
+
+[Page 7]
+Q13.
+Quiz Multichoice Single Answer Questions
+The metallic character of the elements Mg, K, Ge, and Be follows the order of
+1. Ge < Be < Mg < K (correct)
+2. Ge < K< Mg < Be
+3. K < Be < Mg < Ge
+4. Be < Ge < Mg < K
+Score: 4
+ Negative Score: 1
+Q14.
+Quiz Multichoice Single Answer Questions
+CaCl2 salt is added to water to lower the freezing temperature. The maximum decrease in freezing
+temperature that can be achieved using CaCl2 is 27.9 degrees. Assume complete dissociation of CaCl2 in
+water. The solubility of CaCl2 in water in terms of grams of CaCl2 in 100 ml of water is closest to
+Use the following information: 
+The cryoscopic constant of water is 1.86 K.kg.mol-1 and its density is 1.00 g.ml-1.
+Atomic masses in g.mol-1: Ca : 40.0 ; Cl: 35.5
+1. 39.5
+2. 55.5 (correct)
+3. 11.1
+4. 111.0
+Score: 4
+ Negative Score: 1
+
+[Page 8]
+Q15.
+Quiz Multichoice Single Answer Questions
+Consider a chemical reaction in which the reactant (R) is converted to product (P). The potential energy
+versus reaction coordinate plot for this reaction is shown in the figure below. The activation energy, Ea, for
+this reaction is 2.49 kJ.mol-1.
+ 
+If 𝑘 is rate constant and 𝑇 is temperature, the plot below that best illustrates the relation between 𝑙𝑛 𝑘 and 
+1⁄𝑇 is
+(Use universal gas constant, R = 8.3 J.K-1.mol-1) 
+1. 
+2.
+
+[Page 9]
+3. 
+ (correct)
+4. 
+Score: 4
+ Negative Score: 1

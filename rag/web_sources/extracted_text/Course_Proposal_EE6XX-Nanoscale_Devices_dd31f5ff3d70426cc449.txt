@@ -1,0 +1,113 @@
+[Page 1]
+Department of Electrical Engineering 
+Indian Institute of Technology Kanpur 
+Proposal for a New Course 
+Course No : EE6XX 
+Course Title. : Nanoscale Devices 
+Pre-requisite : EE614, EE311 or equivalent course on basics of semiconductor physics and 
+devices 
+Course Credit : 3-0-0-0 [9] 
+Course Duration : Full Semester 
+Proposing Instructor : Mohit Ganeriwala, mohitdg@iitk.ac.in 
+Others Faculty members who may be interested in teaching the proposed course : Dr. 
+Shubham Sahay, Dr. Avinash Lahgere 
+Course Type : PG, 4th year UG, Open Elective 
+Course Description : 
+As MOSFETs scale, their architecture evolves to overcome increasingly fundamental limits in 
+electrostatics, transport, variability, and manufacturability. This course aims to develops the 
+device physics needed to understand the evolution from bulk MOSFETs to modern 3D transistors, 
+2D materials-based devices, and emerging More-than-Moore technologies. 
+The course will begin with the review of MOSFET scaling and short-channel eﬀects, and examines 
+the architectural innovations developed to address them. It will progress from bulk MOSFETs to 
+PDSOI and FDSOI, FinFETs, nanosheet and nanowire FETs, and complementary FETs (CFETs). 
+The course will develop the fundamentals of electrostatics and carrier transport in thin and highly 
+conﬁned channels, including the eﬀects of geometry, conﬁnement, band structure, mobility, 
+defects, surface roughness, and device variability. Approaches for modeling and simulating these 
+eﬀects will also be introduced. 
+The course will then explores the atomic limit of channel scaling through 2D materials. It will 
+covers representative material systems such as graphene, transition-metal dichalcogenides 
+(TMDs), and hexagonal boron nitride (hBN), focusing on their electronic properties i.e. 
+electrostatics, and transport. Particular attention will be given to the challenges of realizing 
+practical 2D devices, including contacts, gate dielectrics, substrates, defects and doping. 
+The course concludes with an introduction to More-than-Moore device concepts, such as 
+realizing new material system with 2D materials based hetro-integrations, leveraging the defect in 
+these materials to build new devices for neuromorphic computing, leveraging phase change and 
+spin to realise new devices, and other emerging device concepts for unconventional computing 
+and specialized applications. 
+The main objective is to develop an understanding of device physics beyond the bulk MOSFET 
+and the technological directions shaping future transistors. The course also aims to provide 
+students with a framework for analyzing emerging devices: identifying the physical limitations of a 
+device, understanding how its architecture addresses those limitations, evaluating the associated 
+trade-oﬀs, and developing informed ideas for new device concepts.
+
+[Page 2]
+Tentative Course Contents : 
+Reading material : 
+The course will rely primarily on research papers, supplemented by several books and reference 
+texts. 
+1.
+J.-P. Colinge, Ed., FinFETs and Other Multi-Gate Transistors, Springer, 2008. 
+2.
+P. Avouris, T. F. Heinz, and T. Low, Eds., 2D Materials: Properties and Devices, Cambridge 
+University Press, 2017. 
+3.
+M. Houssa, A. Dimoulas, and A. Molle, Eds., 2D Materials for Nanoelectronics, CRC Press, 
+2016. 
+4.
+D. Jena, Quantum Physics of Semiconductor Materials and Devices, Oxford University Press, 
+2022. 
+5.
+J. H. Davies, The Physics of Low-Dimensional Semiconductors: An Introduction, Cambridge 
+University Press, 1998. 
+Date: 
+
+ 
+
+ 
+ 
+Signature of the Proposer 
+
+ 
+
+Convenor, DPGC 
+
+ 
+
+ 
+Chairperson, SPGC 
+Department of Electrical Engineering 
+
+ 
+IIT Kanpur 
+Topics
+Lecture hours
+MOSFET scaling and Short-channel eﬀects
+3
+SOI : PDSOI and FDSOI
+2
+FinFETS and 3D transistor architecture
+2
+Nanosheet and Nanowire FETs 
+2
+CFETs 
+1
+Quantum conﬁnement and band structure eﬀects, DOS, various capacitances
+5
+Mobility, defects, surface rougness and variability 
+5
+Device modeling and multi-scale simulations
+3
+2D Materials : Graphene, TMDs and hBN
+5
+Electrostatics and tansport in 2D materials based devices
+4
+Contacts, gate dielectric, doping, defects and other challenges 
+5
+2D hetrostructure and hetrointegrations
+1
+Other emerging and unconventional device concepts
+2
+Total 
+40
+06/10/2026
+SIGN

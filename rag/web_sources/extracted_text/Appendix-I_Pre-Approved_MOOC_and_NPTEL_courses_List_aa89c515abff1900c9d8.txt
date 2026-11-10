@@ -1,0 +1,1175 @@
+[Page 1]
+Pre-Approved MOOC/NPTEL courses list
+S. No.
+Dept.
+NPTEL Course Id Course Title
+Hours/Weeks
+1
+CHE
+103102211
+Fluid Mechanics and Its Applications
+30/12
+2
+CHE
+103103153
+Chemical Reaction Engineering-I
+30/12
+3
+CHE
+103103209
+Aspen PlusÂ(R) Simulation Software - A Basic Course For Beginners
+30/12
+4
+CHE
+103104151
+Chemical Engineering Thermodynamics
+30/12
+5
+CHE
+103105128
+Transport phenomena
+30/12
+6
+CHE
+103105209
+Material & Energy Balance Computations
+30/12
+7
+CHE
+103105210
+Principles and Practices of Process Equipment and Plant Design
+30/12
+8
+CHE
+103105215
+Mathematical Modelling and Simulation of Chemical Engineering Process
+30/12
+9
+CHE
+103106148
+Process Control - Design, Analysis and Assessment
+30/12
+10
+CHE
+103107156
+Chemical Process Safety
+30/12
+11
+CHE
+103108123
+Transport Processes I: Heat and Mass Transfer
+30/12
+12
+CSE
+106102229
+Advanced Computer Architecture
+30/12
+13
+CSE
+106102237
+Advanced Distributed Systems
+30/12
+14
+CSE
+106106140
+AI: Knowledge Representation and Reasoning
+30/12
+15
+CSE
+106105237
+Algorithmic Game Theory
+30/12
+16
+CSE
+106105230
+Algorithms for protein modelling and engineering
+30/12
+17
+CSE
+106106211
+Applied Natural Language Processing
+30/12
+18
+CSE
+106105471
+Approximation Algorithm
+30/12
+19
+CSE
+106104221
+Arithmetic Circuit Complexity
+30/12
+20
+CSE
+106106226
+Artificial Intelligence : Search Methods For Problem solving
+30/12
+21
+CSE
+106106140
+Artificial Intelligence: Knowledge Representation And Reasoning
+30/12
+22
+CSE
+110101145
+Bandit Algorithm (Online Machine Learning)
+30/12
+23
+CSE
+106104357
+Basics of Computational Complexity
+30/12
+24
+CSE
+106105235
+Blockchain and its Applications
+30/12
+25
+CSE
+106105184
+Blockchain Architecture Design and Use Cases
+30/12
+26
+CSE
+106106361
+Business Intelligence & Analytics
+30/12
+27
+CSE
+106103229
+C-Based VLSI Design
+30/12
+28
+CSE
+106104241
+Circuit Complexity Theory
+30/12
+Appendix-I
+For more information about the pre-approved courses, kindly visit the below link:
+https://docs.google.com/spreadsheets/d/1dxJhPTyXBsZaOIvZgIbp8n11m8FKWnyut7rQ-8siwjI/edit?gid=970568886#gid=970568886
+Page 1 of 8
+
+[Page 2]
+Pre-Approved MOOC/NPTEL courses list
+S. No.
+Dept.
+NPTEL Course Id Course Title
+Hours/Weeks
+29
+CSE
+106105167
+Cloud Computing
+30/12
+30
+CSE
+106105190
+Compiler Design
+30/12
+31
+CSE
+106104469
+Computational Arithmetic - Geometry for Algebraic Curves
+30/12
+32
+CSE
+106104227
+Computational Complexity Theory
+30/12
+33
+CSE
+106102011
+Computational Geometry
+30/12
+34
+CSE
+106105183
+Computer Networks And Internet Protocol
+30/12
+35
+CSE
+106105216
+Computer Vision
+30/12
+36
+CSE
+106105162
+Cryptography and Network Security
+30/12
+37
+CSE
+106106248
+Cyber Security and Privacy
+30/12
+38
+CSE
+106107220
+Data Analytics with Python
+30/12
+39
+CSE
+106106093
+Database Design
+30/12
+40
+CSE
+106105215
+Deep Learning
+30/12
+41
+CSE
+106106224
+Deep Learning for Computer Vision
+30/12
+42
+CSE
+106103237
+Design & Implementation of Human-Computer Interfaces
+30/12
+43
+CSE
+106103358
+Digital Design with Verilog
+30/12
+44
+CSE
+106101466
+Distributed Optimization and Machine Learning
+30/12
+45
+CSE
+106105159
+Embedded Systems Design
+30/12
+46
+CSE
+106103182
+Embedded Systems-Design Verification and Test
+30/12
+47
+CSE
+106105217
+Ethical Hacking
+30/12
+48
+CSE
+106106221
+Foundations of Cryptography
+30/12
+49
+CSE
+106105241
+Foundations of Cyber Physical Systems
+30/12
+50
+CSE
+106106197
+Foundations to Computer Systems Design
+30/12
+51
+CSE
+106101360
+Games and Information
+30/12
+52
+CSE
+106106231
+Getting Started with Competitive Programming
+30/12
+53
+CSE
+106105220
+GPU Architectures And Programming
+30/12
+54
+CSE
+106105194
+Hardware Security
+30/12
+55
+CSE
+106105162
+Internetwork Security
+30/12
+56
+CSE
+106106220
+Introduction to Database Systems
+30/12
+57
+CSE
+106101237
+Introduction To Game Theory And Mechanism Design
+30/12
+58
+CSE
+106105166
+Introduction to Internet of Things
+30/12
+For more information about the pre-approved courses, kindly visit the below link:
+https://docs.google.com/spreadsheets/d/1dxJhPTyXBsZaOIvZgIbp8n11m8FKWnyut7rQ-8siwjI/edit?gid=970568886#gid=970568886
+Page 2 of 8
+
+[Page 3]
+Pre-Approved MOOC/NPTEL courses list
+S. No.
+Dept.
+NPTEL Course Id Course Title
+Hours/Weeks
+59
+CSE
+106106139
+Introduction to Machine Learning
+30/12
+60
+CSE
+106106167
+Introduction to Wireless and Cellular Communications
+30/12
+61
+CSE
+106101224
+Learning Analytics Tools
+30/12
+62
+CSE
+106108482
+Linear Algebra Through Geometry
+30/12
+63
+CSE
+106106198
+Machine Learning for Engineering and science applications
+30/12
+64
+CSE
+106106147
+Mobile Computing
+30/12
+65
+CSE
+106106136
+Model Checking
+30/12
+66
+CSE
+106103184
+Multi-Core Computer Architecture
+30/12
+67
+CSE
+106105158
+Natural Language Processing
+30/12
+68
+CSE
+106105224
+Object Oriented System Development Using UML, Java And Patterns
+30/12
+69
+CSE
+106106235
+Online Privacy
+30/12
+70
+CSE
+106102132
+Operating System
+30/12
+71
+CSE
+106105214
+Operating System Fundamentals
+30/12
+72
+CSE
+106103188
+Parallel Algorithms
+30/12
+73
+CSE
+106103359
+Parallel Computer Architecture
+30/12
+74
+CSE
+106106230
+Parameterized Algorithms
+30/12
+75
+CSE
+106104467
+Practical Cyber Security for Cyber Security Practitioners
+30/12
+76
+CSE
+106106146
+Privacy and Security in Online Social Media
+30/12
+77
+CSE
+106106241
+Quantum Algorithms and Cryptography
+30/12
+78
+CSE
+106103187
+Randomized Algorithms
+30/12
+79
+CSE
+106104228
+Randomized Methods in Complexity
+30/12
+80
+CSE
+106105229
+Real-Time Systems
+30/12
+81
+CSE
+106106143
+Reinforcement Learning
+30/12
+82
+CSE
+106106472
+Responsible & Safe AI Systems
+30/12
+83
+CSE
+106104118
+Riemann Hypothesis and its Applications
+30/12
+84
+CSE
+106108229
+Secure Computation: Part I
+30/12
+85
+CSE
+106108237
+Secure Computation: Part II
+30/12
+86
+CSE
+106105242
+Selected Topics in Algorithms
+30/12
+87
+CSE
+106106239
+Social Network Analysis
+30/12
+88
+CSE
+106106169
+Social Networks
+30/12
+For more information about the pre-approved courses, kindly visit the below link:
+https://docs.google.com/spreadsheets/d/1dxJhPTyXBsZaOIvZgIbp8n11m8FKWnyut7rQ-8siwjI/edit?gid=970568886#gid=970568886
+Page 3 of 8
+
+[Page 4]
+Pre-Approved MOOC/NPTEL courses list
+S. No.
+Dept.
+NPTEL Course Id Course Title
+Hours/Weeks
+89
+CSE
+106105182
+Software Engineering
+30/12
+90
+CSE
+106105218
+Software Project Management
+30/12
+91
+CSE
+106101163
+Software Testing
+30/12
+92
+CSE
+106105239
+Statistical Learning for Reliability Analysis
+30/12
+93
+CSE
+106105185
+Switching Circuits and Logic Design
+30/12
+94
+CE
+105106465
+An Introduction to Climate Dynamics, Variability and Monitoring
+30/12
+95
+CE
+105105161
+Computational hydraulics
+30/12
+96
+CE
+105101215
+Rural Water Resources Management
+30/12
+97
+CE
+105101214
+Groundwater hydrology and management
+30/12
+98
+CE
+105101213
+Microwave Remote Sensing in Hydrology
+30/12
+99
+AE
+112106196
+Gas dynamics
+30/12
+100
+AE
+101108086
+Gasdynamics: Fundamentals and Applications
+30/12
+101
+AE
+101108068
+Combustion in air breathing aero engines
+30/12
+102
+AE
+101106082
+Rocket Propulsion
+30/12
+103
+AE
+101105333
+Fundamentals of Supersonic and Hypersonic Flow
+30/12
+104
+AE
+101105091
+Aeroengine Gas Turbine Cycles
+30/12
+105
+AE
+101105090
+Smart Structures
+30/12
+106
+AE
+101105089
+Aerodynamic Design Of Axial Flow Compressors & Fans
+30/12
+107
+AE
+101105088
+Fundamentals of Theoretical and Experimental Aerodynamics
+30/12
+108
+AE
+101105085
+Introduction to CFD
+30/12
+109
+AE
+101105083
+Space Flight Mechanics
+30/12
+110
+AE
+101105077
+Satellite Attitude Dynamics and Control
+30/12
+111
+AE
+101104450
+Applied Computational Fluid Dynamics
+30/12
+112
+AE
+101104330
+Introduction to Aircraft Control System
+30/12
+113
+AE
+101104084
+Introduction to Airbreathing Propulsion
+30/12
+114
+AE
+101104078
+Introduction to Rocket Propulsion
+30/12
+115
+AE
+101104069
+Aircraft Design
+30/12
+116
+AE
+101104063
+Engineering Thermodynamics
+30/12
+117
+AE
+101104062
+Aircraft Stability and Control
+30/12
+118
+AE
+101104018
+Introduction to Propulsion
+30/12
+For more information about the pre-approved courses, kindly visit the below link:
+https://docs.google.com/spreadsheets/d/1dxJhPTyXBsZaOIvZgIbp8n11m8FKWnyut7rQ-8siwjI/edit?gid=970568886#gid=970568886
+Page 4 of 8
+
+[Page 5]
+Pre-Approved MOOC/NPTEL courses list
+S. No.
+Dept.
+NPTEL Course Id Course Title
+Hours/Weeks
+119
+AE
+101102090
+Elements of Mechanical Vibration
+30/12
+120
+AE
+101101087
+Lighter than Air Systems
+30/12
+121
+AE
+101101083
+Introduction to Aircraft Design
+30/12
+122
+AE
+101101079
+Introduction To Aerospace Engineering - Flight
+30/12
+123
+CHM
+104108363
+One and Two dimensional NMR Spectroscopy: Concepts and Spectral Analysis
+30/12
+124
+CHM
+104108132
+Time Dependent Quantum Chemistry
+30/12
+125
+CHM
+104108124
+One And Two Dimensional Nmr Spectroscopy For Chemists
+30/12
+126
+CHM
+104108118
+Ultrafast Optics and Spectroscopy
+30/12
+127
+CHM
+104108098
+Symmetry and Structure in the Solid State
+30/12
+128
+CHM
+104106128
+Symmetry and Group Theory
+30/12
+129
+CHM
+104106127
+Symmetry, Stereochemistry and Applications
+30/12
+130
+CHM
+104106122
+Fundamentals of Spectroscopy
+30/12
+131
+CHM
+104106107
+Basic thermodynamics: Classical and Statistical Approaches
+30/12
+132
+CHM
+104106107
+Chemical Principles II
+30/12
+133
+CHM
+104106106
+Medicinal Chemistry
+30/12
+134
+CHM
+104106105
+Electrochemical impedance Spectroscopy
+30/12
+135
+CHM
+104106096
+Chemistry: Atomic Structure and Chemical Bonding
+30/12
+136
+CHM
+104106094
+Advanced Chemical Thermodynamics and Kinetics
+30/12
+137
+CHM
+104106093
+Chemical Crystallography
+30/12
+138
+CHM
+104106089
+Introduction To Chemical Thermodynamics And Kinetics
+30/12
+139
+CHM
+104105462
+Molecular Rearrangements and Reactive Intermediates in Organic Synthesis
+30/12
+140
+CHM
+104105365
+Elementary Thermodynamics for All
+30/12
+141
+CHM
+104105139
+Overview and Integration of Cellular Metabolism
+30/12
+142
+CHM
+104105130
+Biological Inorganic Chemistry
+30/12
+143
+CHM
+104105120
+Organic Chemistry in Biology and Drug Development
+30/12
+144
+CHM
+104105103
+Industrial Inorganic Chemistry
+30/12
+145
+CHM
+104105102
+Experimental Biochemistry
+30/12
+146
+CHM
+104105087
+A Study Guide in Organic Retrosynthesis: Problem Solving Approach
+30/12
+147
+CHM
+104105085
+Co-Ordination Chemistry (Chemistry Of Transition Elements)
+30/12
+148
+CHM
+104105084
+Analytical Chemistry
+30/12
+For more information about the pre-approved courses, kindly visit the below link:
+https://docs.google.com/spreadsheets/d/1dxJhPTyXBsZaOIvZgIbp8n11m8FKWnyut7rQ-8siwjI/edit?gid=970568886#gid=970568886
+Page 5 of 8
+
+[Page 6]
+Pre-Approved MOOC/NPTEL courses list
+S. No.
+Dept.
+NPTEL Course Id Course Title
+Hours/Weeks
+149
+CHM
+104105076
+Biochemistry
+30/12
+150
+CHM
+104105033
+Coordination Chemistry
+30/12
+151
+CHM
+104104101
+Solid State Chemistry
+30/12
+152
+CHM
+104104086
+Advanced Mathematical Methods for Chemistry
+30/12
+153
+CHM
+104104082
+Quantum Computing
+30/12
+154
+CHM
+104103121
+Essentials Of Biomolecules : Nucleic Acids And Peptides
+30/12
+155
+CHM
+104103112
+Thermodynamics: Classical To Statistical
+30/12
+156
+CHM
+104103111
+Reagents in Organic Synthesis
+30/12
+157
+CHM
+104103110
+Principles of Organic Synthesis
+30/12
+158
+CHM
+104102113
+Spectroscopic Techniques for Pharmaceutical and Biopharmaceutical Industries
+30/12
+159
+CHM
+104102009
+Biophysical chemistry
+30/12
+160
+CHM
+104101366
+Many body methods in quantum chemistry
+30/12
+161
+CHM
+104101362
+Interpretative molecular spectroscopy
+30/12
+162
+CHM
+104101139
+Fundamentals of Statistical Thermodynamics
+30/12
+163
+CHM
+104101137
+Nuclear and Radiochemistry
+30/12
+164
+CHM
+104101136
+Advanced Transition Metal Chemistry
+30/12
+165
+CHM
+104101135
+NMR spectroscopy for Structural Biology
+30/12
+166
+CHM
+104101134
+Circular Dichroism (CD) and Mossbauer Spectroscopy for Chemists
+30/12
+167
+CHM
+104101133
+Classics in Total Synthesis - I
+30/12
+168
+CHM
+104101133
+Classics in Total Synthesis-I
+30/12
+169
+CHM
+104101130
+Concepts of Chemistry for Engineering
+30/12
+170
+CHM
+104101127
+Essentials of Oxidation, Reduction and C-C Bond Formation. Application in Organic Synthesis
+30/12
+171
+CHM
+104101125
+Basic Statistical Mechanics
+30/12
+172
+CHM
+104101124
+Quantum Chemistry of Atoms and Molecules
+30/12
+173
+CHM
+104101123
+Transition Metal Organometallics in Catalysis and Biology
+30/12
+174
+CHM
+104101122
+Ultrafast laser spectroscopy
+30/12
+175
+CHM
+104101117
+NMR spectroscopy for Chemists and Biologists
+30/12
+176
+CHM
+104101100
+Advanced Transition Metal Organometallic Chemistry
+30/12
+177
+CHM
+104101099
+Molecular Spectroscopy: A Physical ChemistÃ¢â‚¬â„¢s perspective
+30/12
+178
+CHM
+104101094
+Symmetry and Group Theory
+30/12
+For more information about the pre-approved courses, kindly visit the below link:
+https://docs.google.com/spreadsheets/d/1dxJhPTyXBsZaOIvZgIbp8n11m8FKWnyut7rQ-8siwjI/edit?gid=970568886#gid=970568886
+Page 6 of 8
+
+[Page 7]
+Pre-Approved MOOC/NPTEL courses list
+S. No.
+Dept.
+NPTEL Course Id Course Title
+Hours/Weeks
+179
+CHM
+104101093
+Inorganic Chemistry of Life: Principles and Perspectives
+30/12
+180
+CHM
+104101091
+Transition Metal Organometallic Chemistry: Principles to Applications
+30/12
+181
+CHM
+104101090
+Chemistry Of Main Group Elements
+30/12
+182
+CHM
+104101084
+Chemical and biological thermodynamics: principles to applications
+30/12
+183
+CHM
+103106119
+Computational Fluid Dynamics
+30/12
+184
+EE
+108108147
+Sensors and Actuators
+30/12
+185
+EE
+108106374
+State space Approach to Control System Analysis and Design
+30/12
+186
+EE
+108105186
+Digital Control in Switched Mode Power Converters and FPGA-based Prototyping
+30/12
+187
+EE
+108101185
+Stochastic Control and Communication
+30/12
+188
+EE
+117105136
+Spread Spectrum Communications and Jamming
+30/12
+189
+EE
+108108185
+Real-Time Digital Signal Processing
+30/12
+190
+EE
+108106179
+Stochastic Modeling and the Theory of Queues
+30/12
+191
+EE
+108106136
+Multirate DSP
+30/12
+192
+EE
+108105101
+Biomedical Signal Processing
+30/12
+193
+EE
+108101373
+Digital Communication using GNU Radio
+30/12
+194
+EE
+108101185
+Stochastic Control and Communication
+30/12
+195
+EE
+108106191
+VLSI Design Flow: RTL to GDS
+30/12
+196
+EE
+108105102
+Microprocessors and Microcontrollers
+30/12
+197
+EE
+108108113
+Fabrication Techniques for MEMs-Based Sensors : Clinical Perspective
+30/12
+198
+EE
+108107380
+VLSI Physical Design with Timing Analysis
+30/12
+199
+EE
+108106184
+Phase-Locked Loops
+30/12
+200
+EE
+108102169
+Introduction to Embedded System Design
+30/12
+201
+ECO
+109104125
+An introduction to microeconomics
+30/12
+202
+BSBE
+102106082
+Thermodynamics for Biological Systems : Classical and Statistical Aspects
+30/12
+203
+BSBE
+102106083
+Transport Phenomena in Biological Systems
+30/12
+204
+BSBE
+102106069
+Material and Energy Balances
+30/12
+205
+BSBE
+127106019
+Numerical Methods for Engineers
+30/12
+206
+BSBE
+103108220
+Transport Processes
+30/12
+207
+BSBE
+103108123
+Transport Processes I: Heat and Mass Transfer
+30/12
+208
+BSBE
+103107207
+Process Equipment Design
+30/12
+For more information about the pre-approved courses, kindly visit the below link:
+https://docs.google.com/spreadsheets/d/1dxJhPTyXBsZaOIvZgIbp8n11m8FKWnyut7rQ-8siwjI/edit?gid=970568886#gid=970568886
+Page 7 of 8
+
+[Page 8]
+Pre-Approved MOOC/NPTEL courses list
+S. No.
+Dept.
+NPTEL Course Id Course Title
+Hours/Weeks
+209
+BSBE
+103106162
+Environmental Quality Monitoring & Analysis
+30/12
+210
+BSBE
+103106148
+Process Control - Design, Analysis and Assessment
+30/12
+211
+BSBE
+103106118
+Matlab Programming for Numerical Computation
+30/12
+212
+BSBE
+103105210
+Principles and Practices of Process Equipment and Plant Design
+30/12
+213
+PHY
+115108129
+Advanced NMR Techniques in Solution and Solid-State
+30/12
+214
+PHY
+115106125
+Quantum Transport
+30/12
+215
+PHY
+115105451
+Fundamentals of Attosecond Science and Technology (FAST)
+30/12
+216
+PHY
+115105134
+Physics of Functional Materials & Devices
+30/12
+217
+PHY
+115101132
+Accelerator Physics
+30/12
+218
+PHY
+115101131
+Neutron Scattering for Condensed Matter Studies
+30/12
+219
+PHY
+115101121
+Physics of Biological Systems
+30/12
+For more information about the pre-approved courses, kindly visit the below link:
+https://docs.google.com/spreadsheets/d/1dxJhPTyXBsZaOIvZgIbp8n11m8FKWnyut7rQ-8siwjI/edit?gid=970568886#gid=970568886
+Page 8 of 8

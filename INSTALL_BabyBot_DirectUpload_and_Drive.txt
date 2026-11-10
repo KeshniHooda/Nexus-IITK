@@ -1,0 +1,26 @@
+BABYBOT COMMUNITY RESOURCES FIX
+
+This update restores BOTH contribution routes:
+1. Upload files directly from your computer (multiple files supported).
+2. Import a public Google Drive file/folder link (folder contents are catalogued recursively where Google exposes the public listing).
+
+Minimal metadata:
+- Course is required.
+- Department is optional.
+- Resource type is optional. Leave it blank if unsure.
+
+IMPORTANT BEHAVIOUR:
+- No OCR, text extraction, content indexing, embeddings or Gemini calls are performed on contributed files.
+- Original uploaded files are saved in ./community_uploads and can be downloaded from the library or from matching chat search results.
+- Drive resources remain links and open in Google Drive.
+- Searches are course-first. If the resource type is unclear or no labelled subset matches, BabyBot returns all resources catalogued for that course rather than hiding them.
+- Existing official RAG, Gemini chat, Webmail and reminders code is retained from the Community Resources integration package.
+
+INSTALL:
+1. Stop Streamlit (Ctrl+C in the terminal).
+2. Make a copy of your current app_backup_integrated.py, rag_engine.py, community_resources.py.
+3. Extract this ZIP into the project root (the folder containing app_backup_integrated.py), replacing app_backup_integrated.py and community_resources.py only.
+4. Do NOT delete babybot_resources.db, community_uploads, rag/chroma_db, .env, webmail.py, email_monitor.py or reminder_store.py.
+5. Start as usual: streamlit run app_backup_integrated.py
+
+Uploads are local to this machine until you deploy BabyBot on a shared server. For a multi-user deployed app, use shared persistent storage.

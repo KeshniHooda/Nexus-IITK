@@ -1,0 +1,140 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+
+Proposal for a New Course
+
+1.  Course No: A 200 level (specifically PHY210, if available) number requested.
+2.  Course Title: Thermal Physics
+3.  No. of Lectures per week: 3 (L), Tutorial: 1 (T), Laboratory: 0 (P), Additional Hours [0-2]: 0 (A),
+Credits (3*L+2*T+P+A): 11                    Duration of Course: Full Semester
+4.  Proposing Department/IDP : Physics
+Other Departments/IDPs which may be interested in the proposed course: All Departments/IDPs
+Other faculty members interested in teaching the course: All Physics Faculty Members
+5.  Proposing Instructor: DUGC (PHY)
+6.  Course Description:
+
+A) Objectives: This present course  is an extended version of the previous modular Thermal Physics course
+(PHY210M) and includes an introduction to microscopic thermal physics in the larger version. This course is
+designed to offer a first course of thermal physics to undergraduate physics students. The first half of the course
+will be dedicated to the systematic development of thermodynamics from a physicist’s perspective whereas the
+second half is mainly dedicated to the introduction of microscopic understanding of the same in the framework of
+kinetic theory. The course offers an avenue towards advanced topics like non-equilibrium thermodynamics,
+statistical mechanics, soft matter physics etc. An attempt to present entropy in the general context of multiplicity
+and information theory is also included.
+
+B) Contents: (for 38 lectures)
+
+1. Introduction to Thermodynamics (2 lectures)
+
+• Macroscopic systems: isolated, closed and open
+
+• Extensive and intensive variables
+
+• Adiabatic vs diathermic walls
+
+• Thermal equilibrium, zeroth law of thermodynamics
+
+2. First Law of Thermodynamics (4 lectures)
+
+• Concept of heat and work
+
+• State functions, internal energy
+
+• Thermodynamic processes (isochoric, isobaric, isothermal, adiabatic)
+
+• Differential form of the first law of thermodynamics
+
+• Cp-Cv relations, compressibility, expansion, real systems
+
+3. Reversibility and Heat Engines (5 lectures)
+
+• Reversible vs irreversible processes
+
+• Heat engines and refrigerators
+
+[PAGE 2]
+• Carnot cycle, Otto, Diesel, Stirling engines
+
+4. Second Law and Entropy (5 lectures)
+
+• Kelvin-Planck and Clausius statements – their equivalence
+
+• Clausius theorem and inequality
+
+• Entropy as a state function, T-S diagrams
+
+5. Thermodynamic Potentials and Irreversible Processes (5 lectures)
+
+• Internal energy, enthalpy, Helmholtz and Gibbs free energies; Maxwell relations
+
+• TdS equations, internal energy expressions
+
+• Thermodynamics of radiation
+
+• Joule-Thomson cooling, free expansion
+
+• Free energies and equilibria
+
+6. Phase Transitions (5 lectures)
+
+• First and second order transitions
+
+• Clapeyron and Ehrenfest equations
+
+• Gibbs phase rule, critical phenomena
+
+• Chemical potential, open systems, Gibbs-Duhem relations
+
+7. Concept of Entropy in Statistical Framework (2 lectures)
+
+• Entropy as multiplicity
+
+• Entropy in quantum mechanics, black holes, and information
+
+8. Kinetic Theory of Gases (5 lectures)
+
+• Ideal gas assumptions
+
+• Maxwell-Boltzmann distribution
+
+• Mean, rms, most probable speeds
+
+• Degrees of freedom, specific heats
+
+9. Collisions and Transport (5 lectures)
+
+• Collisions, mean free path
+
+• Viscosity, conductivity, diffusivity
+
+• Brownian motion (Einstein-Langevin), limits of kinetic theory
+
+C) Pre-requisites: None.
+
+D) Short summary for including in the Courses of Study Booklet: Introduction to Thermodynamics, First Law of
+Thermodynamics, Reversibility and Heat Engines, Second Law and Entropy, Thermodynamic Potentials and
+
+[PAGE 3]
+Irreversible Processes, Phase Transitions, Concept of Entropy in Statistical Framework, Kinetic Theory of Gases,
+Collisions and Transport.
+
+7.  Recommended books:
+• M. Zemansky & R. Dittman, Heat and Thermodynamics
+• C. Kittel & H. Kroemer, Thermal Physics
+• Enrico Fermi, Thermodynamics
+• H. B. Callen, Thermodynamics and an Introduction to Thermostatistics
+• M. Saha & B. N. Srivastava, A Treatise on Heat
+
+_________________________________________________________________________________________
+
+Dated: 06 November 2025; Proposer: DUGC, PHY
+
+Dated: 06 November 2025; DUGC Convener (PHY):___________________
+
+The course is approved / not approved
+
+____________________________________
+
+Chairperson, SUGC
+
+Dated:______________________________

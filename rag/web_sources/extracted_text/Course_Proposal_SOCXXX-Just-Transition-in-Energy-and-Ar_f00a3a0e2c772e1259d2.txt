@@ -1,0 +1,235 @@
+[Page 1]
+INDIAN INSTITUTE OF TECHNOLOGY KANPUR 
+Proposal for a New Course 
+ 
+1. Course No. 
+SOC XXX (Level 2) 
+2. Course Title 
+Just Transition in Energy and Artificial Intelligence Systems 
+3. Contact Hours / 
+Credits 
+3 Lectures Per Week 
+Duration: Full Semester 
+ 
+4. Proposing Dept / IDP 
+Department of Humanities and Social Sciences (HSS) 
+Other Depts / IDPs 
+Interested 
+Computer Science and Engineering (CSE); Economic Sciences 
+(ECO) 
+Other Faculty Interested 
+TBC 
+ 
+5. Proposing Instructor 
+Prof. Pradip Swarnakar 
+ 
+6. Course Description 
+A) Objectives 
+Energy infrastructure systems and AI-based digital systems are undergoing large-scale transformation. 
+These transitions change how work is organised, how institutions function, and how communities 
+sustain livelihoods. Sociology studies how such large technical systems reshape social relations, 
+labour arrangements, and everyday life. This course examines these changes through the concept of 
+just transition. 
+Engineers and technology managers increasingly make decisions that extend beyond technical 
+performance. Site selection, system architecture, automation level, data use, labour arrangements, and 
+user access conditions all influence project viability. Projects can fail not because the technology does 
+not work, but because social, institutional, or regulatory conditions were not anticipated during 
+planning. 
+This course introduces students to methods for analysing technology deployment in real operating 
+environments. Using cases from India and international contexts, students will examine how energy 
+infrastructure, digital platforms, and AI systems interact with labour markets, local economies, and 
+governance frameworks. The course connects technical decisions to practical constraints such as land 
+acquisition, workforce transition, compliance requirements, and reputational risk.
+
+[Page 2]
+Students will learn to: 
+• identify stakeholders affected by technology deployment 
+• analyse distribution of costs, benefits, and risks 
+• understand how regulation and institutional structure affect engineering choices 
+• evaluate trade-offs between efficiency, reliability, and social impact 
+• prepare structured deployment analyses for real-world applications 
+ 
+The course uses examples including coal region transition, renewable energy siting, platform work, 
+and AI-enabled services. No prior background in social science is required. 
+ 
+B) Contents (8 broad modules) 
+S. 
+No 
+Broad Title 
+Topics 
+Lectures 
+1 
+Framing Just 
+Transition 
+What is just transition? Origins in the labour movement; 
+ILO (2015) definition. Energy and AI as two co-
+occurring technology transitions. Why technologists must 
+care. Key concepts: distributional justice, procedural 
+justice, recognitional justice, stranded assets, 
+externalities. 
+3 
+2 
+Seeing What Markets 
+Hide: Analytical 
+Toolkit 
+The module opens with three concrete cases: a large solar 
+park displacing farming communities, an automated call 
+centre removing jobs, and a coal mine closure leaving a 
+district without tax revenue. These cases establish what 
+standard technical and market analysis does not capture. 
+Students are then introduced to three analytical 
+frameworks as tools for explanation: how systems 
+produce winners and losers (Marx on capital and labour); 
+how status and institutional power determine who 
+absorbs risk (Weber); and how cultural and social capital 
+shape access to transition opportunities (Bourdieu). 
+Welfare economics and externality theory as 
+complementary tools. Introduction to key datasets: IEA, 
+ILO, IRENA, PLFS, Census. 
+3 
+3 
+Energy Systems and 
+Coal Communities 
+India's energy mix; NDC targets (500 GW renewable 
+energy by 2030; net zero by 2070). Coal-dependent 
+states: Jharkhand, Chhattisgarh, Odisha, Madhya 
+Pradesh. CIL employment (approximately 233,000 
+direct; approximately 1.2 million total indirect). Fiscal 
+role of coal in state economies. District-level transition 
+exposure mapping. Informal and contract workers: the 
+invisible majority. 
+6
+
+[Page 3]
+S. 
+No 
+Broad Title 
+Topics 
+Lectures 
+4 
+Renewable Energy 
+Deployment: Jobs, 
+Land, and Community 
+RE employment intensity (jobs per MW, jobs per GWh). 
+Land acquisition and siting: who bears the cost of solar 
+parks. Community benefit-sharing mechanisms and their 
+absence in India. Rooftop solar versus utility-scale solar: 
+distributional implications. Case: Rajasthan and Gujarat 
+solar expansion and affected communities. 
+5 
+5 
+Industrial 
+Decarbonisation and 
+Hard-to-Abate Sectors 
+Steel, cement, aluminium: technology pathways and 
+employment implications of decarbonisation. Green 
+Hydrogen Mission. EV supply chains and critical mineral 
+concerns (lithium, cobalt, nickel). Carbon leakage. 
+Production Linked Incentive (PLI) schemes examined 
+through a just transition perspective. 
+4 
+6 
+AI Systems, Work, and 
+Social Organisation 
+AI and task-based displacement: the Acemoglu and 
+Restrepo framework. How AI interacts with and 
+amplifies existing inequalities of caste, gender, class, and 
+geography in India. Automation exposure by occupation 
+using PLFS data. Algorithmic management and the 
+erosion of worker agency. AI's physical footprint: data 
+centres, energy, water, critical minerals. The invisible 
+workforce: data annotators, content moderators, and 
+platform workers, who they are and what they earn. 
+Concentration of AI ownership and its implications for 
+global governance. What future technology leaders need 
+to understand about structural inequality in AI systems. 
+10 
+7 
+Governance, Finance, 
+and International 
+Comparators 
+India's governance structure: MNRE, CEA, BEE, NITI 
+Aayog AI strategy, Digital Personal Data Protection Act 
+2023. Social protection, retraining, and community 
+transition funds. Transition finance: World Bank Coal-to-
+Clean, EU JTF, JETP. International comparators: 
+Germany Kohleausstieg, South Africa PCC Just 
+Transition Framework, EU AI Act (2024), US 
+Appalachia, Latrobe Valley (Australia). What works, 
+what does not, and what can be applied in India. 
+6 
+8 
+Technology Systems 
+and Social 
+Organisation and 
+Course Synthesis 
+Do artifacts have politics? (Winner 1980). Design 
+parameters that shape justice outcomes: scale, ownership, 
+sourcing, labour contracting. Distributed versus 
+centralised architectures in both renewable energy and 
+AI. 
+3 
+Assessment will include conceptual examinations and a substantial applied group project in which 
+students analyse a real technology deployment problem and present an implementation strategy in 
+written and presentation form.
+
+[Page 4]
+C) Pre-requisites 
+None. The course is open to all BTech students from any department from the second year onward. No 
+prior background in economics, energy systems, or social science is required. Students who have taken 
+SOC173 or SOC171 (Introduction to Indian Society and Culture or Introduction to Sociology) will 
+find this course builds on that foundation, but it is not a requirement. 
+ 
+D) Short Summary for Courses of Study Booklet 
+Just Transition: An Inclusive Pathway to Energy and AI Technologies (SOC XXX). 
+The energy transition and the AI revolution are changing economies, labour markets, and communities 
+at a pace and scale not seen before. Both transitions produce winners and losers. The losers are often 
+those who are already at the margins of economy and society. This course asks: how do technology 
+transitions interact with structural inequalities of class, caste, gender, and region, and what can 
+technology leaders do about it? Using sociology, economics, policy analysis, and data from India and 
+the world, students learn to see what is often hidden: the coal worker, the data annotator, the displaced 
+community, and the platform worker managed by an algorithm. India is the primary case. International 
+cases include Germany, South Africa, the EU, and the United States. The course is designed for 
+students who will lead technology companies, shape national AI and energy policy, and contribute to 
+global technology governance. The course treats energy networks and AI platforms as social systems 
+that organise labour, risk, and access to resources. No prerequisites. Open to all branches from the 
+second year. 
+ 
+7. Recommended Text 
+Acemoglu, D., & Restrepo, P. (2019). Automation and New Tasks: How Technology Displaces and Reinstates 
+Labor. Journal of Economic Perspectives, 33(2), 3-30. 
+Crawford, K. (2021). Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence. Yale 
+University Press. 
+Gray, M. L., and Suri, S. (2019). Ghost Work: How to Stop Silicon Valley from Building a New Global 
+Underclass. Houghton Mifflin Harcourt. 
+ILO. (2015). Guidelines for a Just Transition towards Environmentally Sustainable Economies and Societies for 
+All. International Labour Organization. [Open access: ilo.org] 
+Morena, E., Krause, D., and Stevis, D. (Eds.). (2020). Just Transitions: Social Justice in the Shift towards a 
+Low-Carbon World. Pluto Press. 
+ 
+Reference Text: 
+Heffron, R. J., and McCauley, D. (2018). What is the Just Transition? Geoforum, 88, 74-77. 
+IPCC. (2022). Chapter 17: Accelerating the Transition in the Context of Sustainable Development. In Climate 
+Change 2022: Mitigation of Climate Change (AR6 WG3). Cambridge University Press. [Open access: 
+ipcc.ch]
+
+[Page 5]
+Mangang, N. N., Swarnakar, P., and Pai, S. (2024). Transitioning Away from Coal: Perspectives of Indian Coal 
+Unions on Achieving a Just Transition. Energy Research and Social Science, 118, 103812. 
+Swarnakar, P., and Singh, M. K. (2022). Local Governance in Just Energy Transition: Towards a Community-
+Centric Framework. Sustainability, 14(11), 6495. 
+Winner, L. (2017). Do artifacts have politics?. In Computer Ethics (pp. 177-192). Routledge. 
+ 
+Note: Module-specific readings will be provided in the Course Handout prepared after course approval. 
+
+ 
+Dated: ___________________________ 
+Proposer: Prof. Pradip Swarnakar 
+Dated: ___________________________ 
+DUGC Convener: ___________________________ 
+
+The course is ☐ Approved / ☐ Not Approved 
+Chairman, SUGC/SPGC 
+Dated: ___________________________ 
+ 
+2 March 2026

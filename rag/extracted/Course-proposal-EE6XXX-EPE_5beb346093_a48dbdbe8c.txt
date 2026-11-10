@@ -1,0 +1,115 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course
+
+1.  Course No: EE6xxx
+
+2.  Course Title: EMI/EMC in Power Electronics
+
+3.  Per Week Lectures: 3 (L), Tutorial:     (T), Laboratory: _   _(P), Additional Hours[0-2]:     (A),
+
+Credits (3*L+2*T+P+A): 9            Duration of Course: Full Semester
+
+4.  Proposing Department/IDP: EE
+
+Other Departments/IDPs which may be interested in the proposed course: SEE
+
+Other faculty members interested in teaching the proposed course:
+
+5.  Proposing Instructor(s): Dr. Utsab Kundu
+
+6.  Course Description: Power electronics is an integral part of cutting-edge technologies like electric vehicles,
+renewable energy harvesting systems, data centers, consumer electronics, and high-end medical equipment, etc.
+In most of these systems, a power electronic converter is physically placed close to communication networks,
+analog/digital electronic circuits, and other power converters. This makes electromagnetic interference (EMI)
+and compatibility (EMC) aspects of power converter design critical for the seamless operation of such systems.
+This course aims to introduce the students to standard practices followed during the hardware implementation
+of power electronic converters to address EMI/EMC issues.
+This course is divided into ten modules and begins with an introduction to different noise-coupling
+mechanisms and related terminologies. This is followed by two fundamental modules focusing on parasitic
+circuit element calculation and Fourier analysis of typical waveforms observed in power converters. The
+subsequent  three modules cover  conducted,  inductive,  capacitive, and  electromagnetic  noise  coupling
+phenomena,  highlighting  different  shielding  techniques  to  reduce  these  effects. The  seventh module
+demonstrates a few practical noise coupling scenarios. The eighth module identifies various noise sources in
+some widely used power converter topologies and analyzes the impact of different operating modes on noise
+emission. Finally, the key aspects of printed circuit board (PCB) design like grounding, signal routing,
+component selection, and placement are covered in the last two modules of this course.
+
+A) Objectives: By the end of this course, the students will be able to
+•   Appreciate the need for EMI/EMC studies in power electronic systems
+•   Understand the differences among various noise coupling mechanisms
+•   Quantify EMI emissions caused by commonly used power converters
+•   Learn EMI/EMC-compliant hardware design guidelines followed in the industry
+
+B) Contents (preferably in the form of 5 to 10 broad titles):
+
+S. No.      Broad Title                       Topics                     No. of Lectures
+(1.5 hours each)
+1.         Introduction       Different components in a power electronic system,          2
+general terminologies related to EMI/EMC, and an
+overview of noise coupling mechanisms.
+2.        Parasitic circuit     Inductance and capacitance of different wire loops,          2
+elements          identification of the least impedance path, and
+printed circuit board (PCB) layout examples.
+3.       Fourier analysis     Typical waveforms in power electronic circuits, and         2
+approximate envelope of their Fourier spectrums.
+4.      Conducted noise    Common and differential modes, measurement              2
+techniques, filtering techniques, and line impedance
+stabilization network (LISN).
+5.        Inductive and       Self and mutual inductance, capacitive coupling,            2
+capacitive coupling   measurement techniques, noise reduction, and
+shielding techniques.
+
+[PAGE 2]
+6.    Electromagnetic (EM)  Basics of antenna, condition for EM emission,              2
+noise coupling      measurement, and shielding techniques.
+7.     Noise coupling case    Practical examples of conducted, inductive, and             2
+studies          capacitive noise coupling mechanisms.
+8.   Noise sources in power  Buck, flyback, CCM and DCM operation,                  6
+electronic converters   modulation techniques, soft-switched converters,
+and power factor correction rectifiers.
+9.    Grounding techniques   Difference between ground and signal return,               3
+ground loop, ground bounce, and Kelvin connection.
+10.   Component placement  Signal routing, return plane, placement of vias,              3
+and PCB layout     decoupling capacitor, DC bus bar, gate loop, and
+power loop in a half-bridge leg.
+Total Lectures          26
+(1.5 hours each)
+
+C) Pre-requisites: EE360 (Power electronics) or EE660 (Basics of power electronic converters)
+
+D) Short summary for including in the Courses of Study Booklet: Noise coupling mechanisms: conductive,
+inductive, capacitive, and electromagnetic; Parasitic circuit element calculations; Fourier analysis of commonly
+observed waveforms in power electronics; Noise coupling case studies, measurement, and shielding techniques;
+Analysis of noise sources in widely used power electronic converters: Buck, flyback, and resonant topologies,
+power factor correction rectifiers; Standard practices for EMI/EMC-compliant hardware design.
+
+7.  Recommended books:
+[1] Erickson & Maksimovic, Fundamentals of Power Electronics, 3rd Ed., Springer, 2020.
+[2] Clayton R. Paul, Introduction to Electromagnetic Compatibility, 2nd Ed., Willey, 2017.
+[3] V. Ramanarayanan, Switched Mode Power Conversion, 2007.
+Link: https://ee.iisc.ac.in/wp-content/uploads/2023/01/SMPC_VRamnarayanan.pdf
+
+8.  Any other remarks:    Preferred lecture schedule: Two slots per week, 1.5 hours each
+Preferred lecture timing: Any slot between 10 am to 1:30 pm
+Preferred days of the week: Tuesdays and Thursdays
+
+Evaluation Policy: Relative grading will be done after aggregating all course components
+
+Sr. No.     Component (Counts)     Weightage             Comments
+1    Home Assignments (5)       20%     Analysis and simulation
+2     Attendance (39L)          5%      Signatures will be collected
+3     Quiz (3)                10%    Open book (Best of 2)
+4     Midterm Exam (1)         25%    Open book
+5      Final Exam (1)            40%    Open book
+
+Dated:___18/09/2024   Proposer:
+
+Dated:             DUGC/DPGC Convener:                  _
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC
+
+Dated:

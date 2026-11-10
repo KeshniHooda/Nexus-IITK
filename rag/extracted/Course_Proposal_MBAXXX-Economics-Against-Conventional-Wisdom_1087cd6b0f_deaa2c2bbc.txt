@@ -1,0 +1,164 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+
+Proposal for a new course
+
+Course title: Economics Against Conventional Wisdom
+Course no: MBAXXX
+Lectures per week: 3-0-0-0 (5)
+Duration of course: Half semester/Modular
+Proposing department: Management Sciences
+Proposing instructor: Subhankar Mukherjee
+
+Course description: Public debates on important economic issues are often shaped by conven-
+tional wisdom. This course examines a set of widely debated economic issues through the lens of
+economic concepts and empirical evidence. It begins by exploring why and how conventional wis-
+dom shapes public discourse on economic issues, and then applies economic reasoning and empirical
+evidence to a set of topics including migration, international trade, economic growth, taxation, au-
+tomation, minimum wages, and the role of government. The course aims to develop the ability to
+critically assess competing claims about economic issues using reasoned and evidence-based argu-
+ments. Rather than providing simple answers, the course emphasizes trade-offs, historical context,
+and the strengths and limitations of alternative approaches in evaluating the critical issues facing
+societies and economies.
+
+Course objective: Through this course, students will learn:
+    Why and how conventional wisdom influences popular discourse on important economic issues;
+    How economic reasoning, concepts and empirical evidence can be used to evaluate such issues;
+    The importance of critically assessing competing claims about economic issues using evidence-
+based reasoning.
+
+Prerequisites, if any: Introductory economics course, such as Economic Analysis for Management
+(MBA606) or equivalent
+
+Short Summary for Inclusion in the courses of study booklet: This course examines a set
+of widely debated economic issues through the lens of economic theory and empirical evidence. It
+begins by exploring why and how conventional wisdom shapes public discourse on economic issues,
+and then applies economic reasoning and empirical evidence to topics including migration, interna-
+tional trade, economic growth, taxation, automation, minimum wages, and the role of government.
+The course aims to develop the ability to critically assess competing claims about economic issues
+using reasoned, and evidence-based arguments.
+
+Course content and readings:
+
+Lectures 1 & 2: Introduction
+    How and why do conventional wisdom influence attitudes toward economic issues?
+    How can economic concepts and empirical evidence help?
+
+Readings:
+    The Concept of the Conventional Wisdom (Chapter 2) from Galbraith, J. K. (1958). The
+Affluent Society.
+
+1
+
+[PAGE 2]
+    MEGA: Make Economics Great Again (Chapter 1) from Banerjee, A. V., & Duflo, E. (2019).
+Good Economics for Hard Times. Juggernaut Books.
+     Stantcheva, S. (2024).  “Perceptions, Mindsets and Beliefs Shaping Policy Views.”  2024
+Economica–Coase Lecture.
+     Caplan, B. (2002). “Systematically biased beliefs about economics: Robust evidence of judge-
+mental anomalies from the survey of Americans and economists on the economy”. The Eco-
+nomic Journal, 112(479), 433–458.
+
+Lectures 3 & 4: Migration
+    Do people migrate too much? Is there a gap between perception and reality?
+     Does in-migration reduce job opportunities?
+
+Readings:
+    From the Mouth of the Shark (Chapter 2) from Banerjee, A. V., & Duflo, E. (2019). Good
+Economics for Hard Times. Juggernaut Books.
+     National Academies of Sciences, Engineering, and Medicine. 2017. The Economic and Fiscal
+Consequences of Immigration. Washington, DC: The National Academies Press.
+      Alesina, A., Miano, A., & Stantcheva, S. (2023). Immigration and redistribution. The Review
+of Economic Studies, 90(1), 1–39.
+
+Lectures 5 & 6: International Trade
+       Is ‘free’ international trade good for all participants?
+     Does imposing tariffs bring jobs back to the home country?
+
+Readings:
+    The Pains from Trade (Chapter 3) from Banerjee, A. V., & Duflo, E. (2019). Good Economics
+for Hard Times. Juggernaut Books.
+     Trade and the Biosphere (Chapter 15) from Dasgupta, P. (2021), The Economics of Biodiver-
+sity: The Dasgupta Review. (London: HM Treasury).
+     Topalova, P. (2010). “Factor Immobility and Regional Impacts of Trade Liberalization: Ev-
+idence on Poverty from India,” American Economic Journal: Applied Economics, 2, no.  4,
+1–41.
+
+Lectures 7 & 8: Economic growth
+       Is economic growth synonymous with progress?
+       Is GDP a good measure for well-being?
+
+Readings:
+      Jones, C. I. (2015). “The facts of economic growth”. NBER working paper no. 21142.
+      Classical GDP Issues (Chapter 1) from Stiglitz, J., Sen, A., & Fitoussi, J. (2010). Report by
+the Commission on the Measurement of Economic Performance and Social Progress.
+     United Nations.  (2026).  Counting What Counts: A Compass of Progress for People and
+Planet.
+    The Content of Well-Being: Empirics (Chapter 11) from Dasgupta, P. (2021). The Economics
+of Biodiversity: The Dasgupta Review. (London: HM Treasury).
+
+Lecture 9: Taxes
+     Should governments tax?
+    Do lower taxes always promote economic prosperity?
+
+2
+
+[PAGE 3]
+Readings:
+     “Cut Taxes” in The End of Growth? (Chapter 5) from Banerjee, A. V., & Duflo, E. (2019).
+Good Economics for Hard Times. Juggernaut Books.
+     Chodorow-Reich, G., Zidar, O., & Zwick, E. (2024). Lessons from the biggest business tax
+cut in US history. Journal of Economic Perspectives, 38(3), 61–88.
+
+Lectures 10 & 11: Automation and employment
+     Will the current wave of automation eliminate most jobs?
+     Did past waves of automation eliminate jobs?
+
+Readings:
+     Player Piano (Chapter 7) from Banerjee, A. V., & Duflo, E. (2019). Good Economics for Hard
+Times. Juggernaut Books.
+     Autor, D. H. (2015). Why are there still so many jobs? The history and future of workplace
+automation. Journal of Economic Perspectives, 29(3), 3–30.
+      Brynjolfsson, E., Chandar, B., & Chen, R. (2025). Canaries in the Coal Mine?: Six Facts
+about the Recent Employment Effects of Artificial Intelligence.
+
+Lecture 12: Minimum wage
+     Does minimum wage necessarily reduce employment?
+
+Readings:
+     Card, D., & Krueger, A. B. (2000). Minimum wages and employment: a case study of the
+fast-food industry in New Jersey and Pennsylvania: reply. American Economic Review, 90(5),
+1397-1420.
+     Dube, A. (2019). Impacts of minimum wages: review of the international evidence. Indepen-
+dent Report. UK Government Publication.
+
+Lectures 13 & 14: Government
+    Do we need government as an institution?
+     Are governments necessarily inefficient?
+    Can governments innovate?
+
+Readings:
+      “Is Government the Problem” in Legit.gov (Chapter 8) from Banerjee, A. V., & Duflo, E.
+(2019). Good Economics for Hard Times. Juggernaut Books.
+      Efficiency and Equity (Chapter 7) from Stiglitz, J. E. (2015). Economics of the Public Sector,
+4th edition. Norton.
+    The State Behind the iPhone (Chapter 5) from Mazzucato, M. (2013) The Entrepreneurial
+State. Anthem Press.
+
+Any other comments: NA
+
+3
+
+[PAGE 4]
+Proposer: Subhankar Mukherjee
+Date: 16th August, 2026
+
+DPGC Convenor:
+Date:
+
+The course is approved/not approved.
+
+Chairperson, SPGC:
+Date:
+
+4

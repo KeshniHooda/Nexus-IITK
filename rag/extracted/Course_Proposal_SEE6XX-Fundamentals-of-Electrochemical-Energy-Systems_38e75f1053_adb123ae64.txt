@@ -1,0 +1,104 @@
+[PAGE 1]
+Department of Sustainable Energy Engineering
+Indian Institute of Technology Kanpur
+Proposal for Revision of a Course
+
+1. Course Number: SEE606
+2. Course title: Fundamentals of Electrochemical Energy Systems
+3.  Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours[0-2]: 0 (A),
+Credits (3*L+2*T+P+A): 9.                   Duration of Course: Full Semester
+4. Proposing Department/IDP: SEE
+Other Departments/IDPs which may be interested in the proposed course: CHE, MSE, ME
+CHEM
+
+Other faculty members interested in teaching the proposed course: Sudarshan Narayanan,
+Soumyabrata Roy, Raju Gupta
+5. Proposing Instructor(s): Lalit Pant
+6. Course Description:
+A) Objectives: The objective of this course is to familiarize students with the basic
+physical processes occurring in electrochemical energy systems (e.g., fuel cells,
+batteries,   electrolyzers),   their   origins,   mathematical   frameworks,  and
+characterization. The course will help the students understand how different multi-
+physical processes interact within these systems and give rise to their characteristic
+performance.
+B) Contents:
+
+No. of
+Topic             Detailed Contents
+Lectures
+Introduction/      •  Course overview.
+1                                                                      2
+Overview         •  Role and brief history of electrochemical energy systems
+Basic            •   Electrochemistry & electrochemical systems.
+2                                                                      2
+Electrochemistry  •   Basics of electrochemical cell and redox reactions
+•  Gibbs free energy. Chemical potential, electrochemical
+potential, cell voltage.
+3   Thermodynamics                                                     4
+•   Nernst equation, chemical and electrochemical
+equilibrium, Pourbaix diagram. Junction potential
+•  Types of reactions: Combination, formation,
+displacement, insertion, etc.
+•   Homogeneous reactions, Activation energy, Arrhenius
+equation
+Reaction4                    •   Single electron reaction, activation energy shift due to     8
+Kinetics
+potential, Butler-Volmer, Tafel
+•   Multi-step reactions
+•  Charge transfer at the catalyst interface, double layer
+•   Heterogeneous reactions
+•   Diffusion, convection, reaction-diffusion
+•  Multi-component diffusion in concentrated solutions
+5  Mass Transport    •   Transport in porous media, effective properties           4
+•  Multiphase transport
+•   Concentration polarization
+
+[PAGE 2]
+•  Convection, diffusion, migration
+•  Charge transfer in electrolytes
+6   Charge transport   •  Charge transfer mechanisms in solid conductors,         6
+solutions, polymers, and ceramics
+•  Charge distribution and double-layer properties
+•  Two electrodes and three electrode systems. RDE, RRDE
+•   Voltage-current characteristics, charge-discharge
+characteristics
+Electrochemical7                    •   Cyclic voltammetry, current interrupt/pulsing            8    Characterization
+•  Impedance analysis (HFR, LFR, Warburg impedance,
+circuit models)
+•  Data analysis, interpretation, and presentation
+•  Understanding the performance of a sample system (e.g.,
+fuel cell) from physics. Losses and characterization.
+8   Applied topics                                                        5
+Modeling
+•  Corrosion in electrochemical systems
+C)  Pre-requisites, if any: None
+
+D) Short summary for inclusion in the Courses of Study Booklet:
+
+This course introduces the physical principles governing electrochemical energy systems
+such  as  batteries,  fuel  cells,  and  electrolyzers.  Topics  include  electrochemical
+thermodynamics,  reaction  kinetics,  mass  and  charge  transport,  electrochemical
+characterization techniques, and performance analysis. Students will develop the ability to
+quantitatively analyze electrochemical systems and understand the coupling between
+different phenomena that govern the overall device performance.
+7. Recommended books:
+i.     J. Bard and L. R. Faulkner, Electrochemical methods: fundamentals and
+applications, 2nd ed. New York: Wiley, 2001.
+ii.     J. Newman and K. E. Thomas-Alyea, Electrochemical Systems, 3rd ed. New
+York, USA: Wiley, 2004.
+iii.   R. B. Bird, W. E. Stewart, and E. N. Lightfoot, Transport phenomena, 2nd ed.
+New York, USA: Wiley, 2002.
+iv.   M. E. Orazem and B. Tribollet, Electrochemical impedance spectroscopy. In
+the Electrochemical Society series. Hoboken, N.J: Wiley, 2008.
+v.   R. O’Hayre, S. W. Cha, W. Colella, and F. B. Prinz, Fuel Cell Fundamentals,
+3rd ed. New York, USA: Wiley, 2016.
+
+Dated: _____02/07/2026_________ Proposer: ______________
+
+Dated:_______________ DUGC/DPGC Convener:___________________
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC
+
+Dated:______________________________

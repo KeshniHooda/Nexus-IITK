@@ -1,0 +1,78 @@
+[Page 1]
+Indian Institute of Technology Kanpur
+Proposal for a New Course
+1. Course Number: MTH XXX
+2. Course Title: Numerical Methods for Hyperbolic Problems
+3. Per Week Lectures: 2 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours: 0
+Credits: 2 × L + T + P + A: 9 credits
+4. Duration of Course: Full Semester
+5. Proposing Department: Department of Mathematics and Statistics
+6. Proposing Instructor: Abhijit Biswas
+7. Overview of the Course: This course provides an introduction to the numerical analy-
+sis of first-order hyperbolic PDEs. We begin with linear hyperbolic equations and develop
+numerical methods based on finite difference approximations.
+We study the fundamental
+concepts of consistency, stability, and convergence of these methods. We then turn to scalar
+nonlinear conservation laws. Starting with the method of characteristics, we analyze shock
+formation, derive the Rankine–Hugoniot conditions, study rarefaction waves, and discuss the
+theory of weak and entropy solutions. The course then focuses on finite volume methods for
+scalar conservation laws. We study first-order schemes, including the Godunov method and
+monotone schemes, and examine the concepts of consistency, conservation, and monotonicity
+together with their stability and convergence properties. We then move to high-resolution
+finite volume methods, including Lax–Wendroff, TVD, MUSCL, and WENO schemes. Time
+integration techniques will be discussed, with emphasis on Strong Stability Preserving (SSP)
+properties. Finally, we extend these ideas to linear and nonlinear systems of hyperbolic con-
+servation laws. Applications include linear systems such as the linear acoustics equations and
+nonlinear systems such as the shallow water equations and the Euler equations.
+8. Objectives: Students will understand the mathematical structure of first-order hyperbolic
+conservation laws, including shock formation, weak solutions, and entropy conditions. They
+will gain the ability to analyze numerical methods such as finite difference and finite volume
+schemes for first-order hyperbolic PDEs. Furthermore, students will implement and apply
+high-resolution methods to solve linear and nonlinear hyperbolic systems. Throughout the
+course, students will gain hands-on experience by implementing these numerical methods in
+MATLAB or Python, as well as in the Clawpack software that is used to simulate complex
+physical phenomena such as water waves and fluid flow.
+9. Pre-requisites: Numerical Analysis, Partial Differential Equations, and students should be
+comfortable with programming simple numerical algorithms.
+10. Short summary for inclusion in the Courses of Study Booklet: This course introduces
+the analytical and numerical treatment of hyperbolic conservation laws. Topics include linear
+transport equations, scalar conservation laws, finite difference and finite volume methods,
+stability and convergence analysis, and high-resolution schemes such as TVD, ENO, and
+WENO. Applications to systems including linear acoustics, shallow water equations, and the
+Euler equations are discussed.
+1
+
+[Page 2]
+Recommended books:
+1. Randall J. LeVeque: Finite Volume Methods for Hyperbolic Problems, Cambridge Texts in
+Applied Mathematics, 2002.
+2. J.S. Hestheven, Numerical methods for conservation laws: From Analysis to Algorithms,
+SIAM publisher.
+3. E. F. Toro: Reimann Solvers and Numerical Methods for Fluid Dynamics, Springer, 1999.
+Tentative Lecture Plan (26 Lectures)
+1. Linear Transport Equations (2 Lectures)
+Method of characteristics, finite difference schemes, upwind method, stability analysis.
+2. Scalar Nonlinear Conservation Laws (4 Lectures)
+Characteristics, shock formation, weak solutions, entropy conditions, Riemann problems.
+3. Finite Volume Methods for Scalar Conservation Laws (5 Lectures)
+Finite volume framework, Godunov method, monotone schemes, stability properties, conver-
+gence analysis.
+4. Second-Order and High-Resolution Finite Volume Methods (4 Lectures)
+Order of accuracy, reconstruction techniques, limiters, TVD property, semi-discrete schemes,
+time stepping.
+5. Very High-Order Methods (ENO and WENO) (3 Lectures)
+High-order reconstructions, ENO and WENO procedures, numerical fluxes.
+6. Linear Hyperbolic Systems (2 Lectures)
+Examples (linear acoustics), hyperbolicity, characteristic decomposition, Riemann problems.
+7. Nonlinear Hyperbolic Systems (3 Lecture)
+Structural properties, entropy conditions, Riemann problems.
+8. Finite Volume Methods for Systems (3 Lectures)
+Godunov-type methods, Roe solver, HLL-type solvers.
+Dated: February 13, 2026
+Proposer: Abhijit Biswas
+Dated:
+DUGC Convener:
+The course is approved / not approved
+Chairman, SUGC
+Dated:
+2

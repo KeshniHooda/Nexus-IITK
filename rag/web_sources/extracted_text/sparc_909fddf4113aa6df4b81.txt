@@ -1,0 +1,71 @@
+Home
+About
+Organizers
+Speakers
+Program
+Registration
+Contact
+SPARC Workshop Cum International Symposium on Neuroanatomy and Diffusion MR Imaging based biomarker for TBI
+5-7 December 2023
+Venue: Seminar Room, Outreach Center, IITK
+About the Program
+High Definition Fiber Tracking (HDFT) is a groundbreaking tool in traumatic brain injury (TBI) research and intervention. It has become an indispensable method for clinicians and researchers aiming to understand and address TBI by offering unparalleled insights into the intricate neural pathways. This course delves deep into the fundamentals and applications of HDBT, illuminating the nuances of traumatic injuries and their intricate impacts on the brain’s white matter. Attendees will gain a robust understanding of diffusion MRI’s non-invasive nature and its significance in gauging tissue microstructure. Central to the curriculum is advanced techniques rooted in higher-order models and multi-shell diffusion imaging, offering participants a comprehensive grasp of the theoretical frameworks that underpin these techniques. This course also introduces the biomechanical models for TBI, adding a tangible dimension to the theoretical knowledge. With a particular emphasis on Phantom validation for diffusion MRI, participants will be equipped with the practical skills to ensure optimal data accuracy.
+Moreover, the conference will feature discussions on tissue transplant procedures for TBI patients, opening new avenues for treatment and recovery. A meticulously annotated brain atlas enriches decision-making schemes by augmenting the course’s practical value. This includes vibrant color fractional anisotropy maps and 3D tractography reconstructions of major white matter fiber bundles, offering participants a holistic and hands-on approach to understanding and addressing TBI through HDBT.
+Organizers
+Prof. B.V.R. Kumar
+Department of Mathematics and Statistics IIT Kanpur Email: bvrk@iitk.ac.in
+Prof. Walt Schneider
+Pittsburgh Univ
+Prof. S.K. Pathak
+Pittsburgh Univ
+Speakers
+Program
+Day 1
+Day 2
+Day 3
+Day 1
+Introduction of SPARC Project
+Lecture by Walt on TBI for this conference
+Introduction to Neuroanatomy
+Fundamental MRI principles
+Introduction to Diffusion MR Imaging
+Introduction to Fiber Tracking
+Preprocessing of Diffusion Data
+Demo of Various Software packages to visualize the Fiber Tracts.
+Day 2
+Talk by Walt on Validation using Phantom and ex-vivo imaging
+Microstructural Imaging
+Clinical Talks on neurosurgery, TBI & Neurodegenerative diseases
+Deep Learning in Medical Imaging & Neurodegenarative diseases
+Demo Sessions
+Day 3
+International Symposium
+Details will uploaded soon...
+Detailed Schedule
+Registration Details
+Category
+Registration Fee
+IITK Faculty
+INR 500
+Non IITK Faculty
+INR 500 + 18% GST
+IITK Student
+INR 500
+Non IITK Student
+INR 500 + 18% GST
+Participant from Industry
+INR 500 + 18% GST
+* No Fee Refund Policy
+How to Register:
+Step 1: Pay the required fees according to your category Step 2: Note the transaction ID Step 3: Fill the application form
+Details to be filled while payment:
+Workshop Code: 2023-24/069 Workshop Title: SPARC Workshop Duration: 05.12.2023 - 07.12.2023
+*Few rooms are available on campus on shared and payment basis.
+**Participants may eat at any of the hostel messes or canteens on direct payment basis or by purchasing coupons.
+How to Reach IIT Kanpur
+The Campus of IIT Kanpur is located off the Grand Trunk Road near Kalyanpur, about 16 km west of Kanpur city. The campus is located on 1055 acres of land offered by the Government of UP. It is a residential campus offering accommodation to about 350 faculty members, about 700 support staff members, and about 4000 students. A list of campus amenities can be viewed here.
+Arrival by TRAIN: Kanpur Central Railway station is well connected to most cities in North, East and Central India. It is located on the Delhi-Kolkata train route and all major trains between these cities usually pass through Kanpur. IIT Kanpur is located at a distance of about 16 kilometers from the Kanpur Central Railway Station. It is possible to hire taxis (about Rs. 350) and auto rickshaws (about Rs.220) to IITK from the station. It takes about 40 minutes to an hour to drive from Kanpur Central railway station to IIT Kanpur. The organizers have no arrangement of pick-up/drop-off from/to Kanpur Central railway station.
+Arrival by AIR: Participants coming to Kanpur by air are strongly recommended to fly into Lucknow Airport. Lucknow airport is located about 95 kms from IIT Kanpur. You can hire taxis at the airport. The typical cost will be about Rs. 1600, depending on the vehicle used. For a flat fee of Rs.1600, the organizers upon request will book a taxi for pick-up and drop-off at Lucknow airport. This fee has to be paid to the taxi driver. The taxi driver will be waiting in front of the main exit with a placard bearing your name, and will bring you to IIT campus. It takes anywhere between two and three hours to drive from the Lucknow airport to the IITK. It is not recommended to fly to Kanpur airport
+Contact
+You can contact to the following person in case of any help related to registration.
+Mr. Vinay Kumar Email: vinayku@iitk.ac.in Phone: 0512-259-7795 Mr. Yogendra Singh Email: yogs@iitk.ac.in Phone: 0512-259-7795

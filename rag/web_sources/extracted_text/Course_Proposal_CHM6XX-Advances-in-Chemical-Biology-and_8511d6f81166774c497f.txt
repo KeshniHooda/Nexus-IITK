@@ -1,0 +1,157 @@
+[Page 1]
+Indian Institute of Technology Kanpur 
+Department of Chemistry 
+Proposal for a New Course 
+Course Title 
+Advances in Chemical Biology and Medicinal 
+Chemistry 
+Course No.: 
+CHM6XX 
+Credits: 
+3-0-0-0 [9] 
+Duration of Course: 
+Full Semester 
+Proposing Department 
+Chemistry 
+Proposing Instructor 
+Dharmaraja Allimuthu 
+Offered fo 
+PG elective 
+Prerequisite(s) for the course 
+None 
+Faculty members interested in teaching 
+Prof Sandeep Verma and Other Chemical Biology/ 
+Medicinal Chemistry experts 
+Other Departments/Programmes of whose the 
+students are expected to take up the course 
+CHM, BSBE, CHE, MSE 
+ 
+Objectives: This PhD-level course equips students with an advanced understanding of 
+medicinal chemistry and chemical biology, emphasizing state-of-the-art drug discovery 
+technologies. Students will explore fundamental and emerging strategies, including structure-
+based and fragment-based drug design, DNA-encoded libraries, and AI-driven approaches. The 
+course delves into the state-of-the-art drug discovery technologies including covalent 
+therapeutics, proximity inducers (PROTACs, LYTACs, AUTACs, molecular glues & RIPTACs), 
+antibody drug conjugates (ADCs) and RNA-targeted therapeutics, providing a comprehensive 
+view of next-generation drug discovery modalities. Chemical biology techniques such as 
+chemical proteomics, activity-based protein profiling, metabolomics, and lipidomics will be 
+integrated for target identification and mechanism-of-action studies. Computational and 
+biophysical methods, including molecular dynamics, cryo-EM, AI models, and multi-omics, will 
+be applied to accelerate drug discovery. Finally, students will critically evaluate translational 
+challenges, FDA approvals, regulatory considerations, and ethical implications through case 
+studies. By the end of the course, students will be prepared to drive innovations in academia and 
+industry, bridging medicinal chemistry and chemical biology to advance next-generation
+
+[Page 2]
+therapeutics. 
+Course Contents 
+ 
+1: Fundamentals and Modern Strategies in Drug Discovery (8 lectures) 
+• 
+Introduction to Medicinal Chemistry & Chemical Biology – Evolution, key principles, and 
+current challenges 
+• 
+Chemical Space and Molecular Design – Lipinski’s rule, beyond Rule-of-5, and privileged 
+scaffolds 
+• 
+High-Throughput Screening (HTS) and Fragment-Based Drug Discovery (FBDD) 
+• 
+Structure-Based and Ligand-Based Drug Design (SBDD, LBDD) – Virtual screening, 
+docking, and scoring functions 
+• 
+Artificial Intelligence and Machine Learning in Drug Discovery – Deep learning, generative 
+models, and de novo drug design 
+• 
+Hit-to-Lead Optimization: Medicinal Chemistry Strategies – SAR, ADME, and toxicity 
+considerations 
+• 
+Emerging Concepts: Click Chemistry and Bioorthogonal Reactions in Drug Development 
+ 
+2: State-of-the-Art Drug Discovery Technologies (8 lectures) 
+• 
+Proximity inducers: PROTACs, Molecular Glues, LYTACs, AUTACs and RIPTACs. 
+Degrader Design Principles: E3 Ligases, Linker Chemistry, and Protein-Protein Interactions 
+• 
+Covalent Inhibitors: Mechanisms, Design Strategies and advancements – Warheads, 
+selectivity, and resistance 
+• 
+mRNA and RNA-Targeted Drug Discovery – Small molecules targeting RNA and RNA-
+protein interactions 
+• 
+Antibody-Drug Conjugates (ADCs) and Peptide-Drug Conjugates (PDCs) 
+• 
+Stapled Peptides, Macrocycles, and Protein-Protein Interaction Inhibitors (PPIIs) 
+• 
+Next-Generation Therapeutics: CRISPR-Based Gene Editing and Epigenetic Modulators 
+ 
+3: Chemical Biology Approaches in Drug Discovery (8 lectures) 
+• 
+Multiomics: Metabolomics and Lipidomics in Drug Discovery. Chemical Proteomics for Target 
+Identification – Activity-based protein profiling (ABPP), covalent probes. Photoaffinity Labeling 
+and Chemoproteomics in Target Deconvolution 
+• 
+Basics of drug-target interactions: Target Engagement and Cellular Thermal Shift Assay
+
+[Page 3]
+(CETSA), surface plasmon resonance (SPR), isothermal calorimetry (ITC), nuclear magnetic 
+resonance (NMR) spectroscopy . 
+• 
+Metabolic Labeling and Bioorthogonal Chemistry in Cellular Profiling. Organelle-Targeted 
+Therapeutics – Mitochondria, lysosomes, and autophagy modulators 
+ 
+4: Basics of AI, Computational, and Biophysical Tools for Drug Discovery (8 lectures) 
+• 
+Computational Approaches: Molecular Docking and Molecular Dynamics Simulations 
+• 
+AI-Driven Drug Discovery: AlphaFold, DeepMind, and Predictive Modeling. Generative AI for 
+Drug Design: Graph-Based Deep Learning Approaches 
+• 
+Machine Learning for ADME-Tox Prediction and PK/PD Modeling 
+• 
+Basics of Cryo-EM, X-ray Crystallography, and NMR for Drug Discovery. Single-Cell and Spatial 
+Proteomics in Drug Mechanism of Action Studies. 
+ 
+5: Case Studies and Translational Strategies (8 lectures) 
+• 
+Success Stories of First-in-Class Drugs – Lessons from FDA approvals. Clinical Translation of 
+Novel Drug Modalities – PROTACs, ADCs, and mRNA therapeutics. 
+• 
+Personalized and Precision Medicine: Small Molecule and Biologic Therapeutics 
+• 
+Industry vs. Academia: Drug Discovery Pipelines and Collaborations. IP, Patents, and 
+Regulatory Challenges in Drug Development 
+• 
+Ethics in Medicinal Chemistry and Chemical Biology – Dual-use research concerns 
+• 
+AI-Discovered Drugs in Clinical Trials: Hype vs. Reality. Future Perspectives: Next-Generation 
+Therapeutics and Unmet Challenges 
+ 
+Reference/Textbooks: 
+1. Essentials of Chemical Biology by Andrew D. Miller (2008/updated) 
+2. Burger's Medicinal Chemistry, Drug Discovery, and Development (8th ed., 2021) 
+3. An Introduction to Medicinal Chemistry by Graham L. Patrick (6th ed., 2017) 
+4. The Practice of Medicinal Chemistry by Camille G. Wermuth (5th ed., 2015) 
+5. Antibody-Drug Conjugates: Fundamentals, Drug Development, and Clinical Outcomes (Wiley, 
+2017/updated) 
+6. Multi-Omics Technology in Human Health and Diseases (Elsevier, 2025) by Macha et al 
+7. Molecular Docking for Computer-Aided Drug Design by S. G. Coumar (Academic Press, 2021) 
+8. Artificial Intelligence in Drug Discovery (RSC, 2020/updated)
+
+[Page 4]
+9. Latest Research papers will be discussed 
+
+Course Proposed by 
+Forwarded by 
+Course is Approved/ Not approved 
+
+ 
+
+Dharmaraja Allimuthu 
+
+ 
+
+Convenor, DPGC 
+
+ 
+
+Chairperson, SPGC

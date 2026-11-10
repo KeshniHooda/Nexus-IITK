@@ -1,0 +1,74 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+
+Proposal for a Revision
+
+1.  Course No: ECO611
+
+2.  Course Title: Computational Methods in Economics
+
+3.  Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 2 (P), Additional Hours: 0 (A)
+Credits: (3-0-2-0) 6                         Duration of Course: Half Semester
+
+4.  Proposing Department/IDP: Economic Sciences
+Other Departments/IDPs which may be interested in the proposed course: None
+5.  Proposing Instructor(s): Faculty members of the department of economic sciences
+
+Level of the Course: PG
+
+6.  Course Description:
+A)  Objectives: To introduce computational methods to solve mathematical problems related
+to economic applications. To illustrate computational methods with the relevant theory
+in economics. To enable the students to gain a hands-on experience on implementing
+different solution methods using software, specifically python, for solving problems in
+economics.
+B)  Contents:
+
+No.  Broad Title     Topics                                                     No. of
+lectures
+1.    Basics of       Introduction to Python: Input output statements, arithmetic       6
+programming  operations, string operations, matrix operations, files operations,
+user defined functions, random number generation. Packages in
+python: numpy, scipy, matplotlib, random, and other packages.
+2.    Linear          Solutions of systems of linear equations: Gauss-Jordan, LU/ QR     3
+Algebra        decompositions. Singular Value Decomposition, Basis of four
+fundamental subspaces.
+3.    Numerical      Solving nonlinear equations. Numerical solutions: Bisection,       4
+Analysis       Newton-Raphson. Optimization: Local descent methods, steepest
+descent, gradient methods, penalty methods.
+
+C)  Prerequisites: None.
+
+D)  Short summary: This course aims to be a basic course on computation to an economic
+audience. Computational methods that are useful in addressing economic issues are
+introduced. Students gain a hands-on experience in implementing the methods in real
+economic  problems,  through  software demonstration  lectures and programming
+assignments. The emphasis of the course would be in learning the implementation of the
+methods, and not on the theory behind them. A brief introduction of the methods would
+be provided, assuming that the theory behind the methods is known to the students.
+
+7.  Recommended books:
+
+1.  Ivan Idris, Numpy 1.5 Beginner’s Guide, Packt Publishing, 2011.
+2.  Hans Petter Langtangen, A Primer on Scientific Programming on Python, Springer, 2011.
+
+[PAGE 2]
+3.  K Judd, Numerical methods in Economics, MIT press.
+4.  E Sulli and D Mayers, Introduction to Numerical Analysis, Cambridge University Press.
+5. A Ben-Tal and A Nemirovski, Lecture Notes: Optimization III. Convex Analysis, Nonlinear
+Programming     Theory,     and     Nonlinear     Programming     Algorithms,
+https://www2.isye.gatech.edu/~nemirovs/OPTIIILN2023Spring.pdf
+6.   J Nocedal and S J Wright, Numerical Optimization, Springer.
+
+8.  Any other remarks: None.
+
+Dated: 27/08/2024     Proposer: Dr. Thirumulanathan D  _____
+
+Dated:           DUGC/DPGC Convener: ______________________
+
+The course is approved / not
+approved
+
+Chairman, SUGC/SPGC
+
+Dated: _______________

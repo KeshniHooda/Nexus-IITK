@@ -1,0 +1,90 @@
+[Page 1]
+Indian Institute of Technology, Kanpur 
+Proposal for a New Course 
+ 
+1. Course No.: IS6XX 
+2. Course Title: Software engineering for ML/AI 
+3. Per Week Lectures: 03 (L), Tutorial: 00 (T), Laboratory: 00(P), Additional Hours [0-2]: __ 
+(A) 
+Credits (3*L + 0*T + 0*P + 0*A) = 09 
+Duration of course: Full semester 
+4. Proposing Department / IDP: DIS 
+Other departments which may be interested in the proposed course: 
+Other faculty members interested in teaching the proposed course: 
+5. Proposed Instructor(s): Sruti Srinivasa Ragavan 
+6. Course description: 
+a. OBJECTIVES: By the end of this course, students will be able to engineer AI/ML 
+systems as reliable, maintainable software systems. They will learn to define 
+requirements, design modular architectures integrating data and ML 
+components, apply design patterns, write clean and testable code, and 
+implement comprehensive testing (unit, integration, UI, load, usability), along 
+with CI/CD, verification, validation, and basic project management. They will also 
+understand the AI/ML lifecycle — including pipelines, reproducibility, versioning, 
+debugging, explainability, and monitoring for issues such as bias, drift, data 
+leakage, and performance degradation. 
+ 
+b. CONTENTS: 
+S.No 
+Topic 
+# 
+Lectures 
+1 
+Introduction: Basics of software engineering, software as 
+systems, and ML models vs. AI-based software systems. 
+1 
+2 
+SDLC – lifecycle processes 
+3 
+3 
+Requirements elicitation and validation 
+3 
+4 
+Code quality – hygiene, good design, automated linting, 
+refactoring, refactoring to design patterns 
+6 
+5 
+Software architecture and architecture patterns 
+6 
+6 
+Data Engineering and Pipelines: ETL, data validation, 
+dataset versioning, preventing data leakage 
+6 
+7 
+Testing: Unit, integration, UI automation, load/stress 
+testing, performance regression testing, robustness 
+testing 
+6 
+8 
+CI/CD and MLOps pipelines: containers, versioning, 
+reproducibility 
+3 
+9 
+Project Management: Estimation, risk management, 
+technical debt, documentation, experimentation vs 
+production trade-offs 
+3 
+10 
+Debugging 
+3
+
+[Page 2]
+c. PRE-REQUISITES: Data structures, basic machine learning. 
+ 
+7. Recommended textbooks: 
+None, readings assigned as articles / papers / code reviews / web resources / chapters 
+from open textbooks. 
+ 
+Dated: 03 March, 2026 
+
+ 
+Proposer: Sruti Srinivasa Ragavan 
+Dated: _______________ 
+
+ 
+ 
+DUGC/DPGC convenor: ________ 
+ 
+The course is approved / not approved. 
+ 
+Chairman, SUGC/SPGC 
+Dated: _____________

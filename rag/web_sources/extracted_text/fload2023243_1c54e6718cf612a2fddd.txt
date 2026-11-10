@@ -1,0 +1,817 @@
+[Page 1]
+S.No.
+Course 
+Number
+Instructor Name
+Dept.
+Registered 
+Student
+REMARK
+(I)– INSTRUCTOR
+(T) – TUTOR
+1
+AE252M
+Tufan Guha
+AE
+1
+I/1
+2
+AE331A
+C S Upadhyay 
+AE
+6
+I/1
+3
+AE331A
+P M Mohite 
+AE
+6
+I/2
+4
+AE331A
+Rajesh Kitey 
+AE
+6
+I/3
+5
+AE341A
+Ashoke De 
+AE
+3
+I/1
+6
+AE441A
+Sathesh Mariappan 
+AE
+14
+I/1
+7
+AE602
+Ashoke De 
+AE
+7
+I/1
+8
+AE602A
+Ashoke De 
+AE
+1
+I/1
+9
+ESO202A
+Vinay Kumar Gupta 
+AE
+3
+I/1
+10
+BSE311
+Amitabha Bandyopadhyay 
+BSBE
+2
+I/1
+11
+BSE311A
+Amitabha Bandyopadhyay 
+BSBE
+6
+I/1
+12
+BSE667
+Amitabha Bandyopadhyay 
+BSBE
+16
+I/1
+13
+LIF111
+Saravanan Matheshwaran
+BSBE
+63
+I/1
+14
+CE331A
+Salil Goel
+CE
+15
+I/1
+15
+CE371A
+Amar Nath Chowdhury
+CE
+24
+I/1
+16
+CE371A
+Sudib Kumar Mishra
+CE
+24
+I/2
+17
+CE657
+Chirag Kothari
+CE
+2
+I/1
+18
+ESO202
+Vinay Kumar Gupta 
+CE
+26
+I/1
+19
+CGS401
+Devpriya Kumar
+CGS
+101
+I/1
+20
+CGS401A
+Devpriya Kumar
+CGS
+43
+I/1
+21
+CGS621
+Ark Verma
+CGS
+107
+I/1
+22
+CGS621A
+Ark Verma
+CGS
+47
+I/1
+23
+CGS622
+Ark Verma
+CGS
+119
+I/1
+24
+CGS698C
+Himanshu Yadav
+CGS
+102
+I/1
+25
+CHE331A
+Animangsu Ghatak 
+CHE
+8
+I/1
+26
+CHE352A
+Raghavendra Ragipani
+CHE
+13
+I/1
+27
+CHE381A
+Nitin Kaistha 
+CHE
+20
+I/1
+28
+CHE453A
+Dipin Pillai
+CHE
+1
+I/1
+29
+CHE617
+Raj Ganesh S Pala 
+CHE
+9
+I/1
+30
+CHE617
+K P Rajeev 
+CHE
+9
+I/2
+31
+CHM102A
+Vishal 
+CHM
+14
+I/1
+32
+CHM102A
+Dharmaraja Allimuthu
+CHM
+14
+I/2
+33
+CHM102A
+Basker Sundararaju
+CHM
+14
+I/3
+34
+CHM102A
+Arnab Ghosh
+CHM
+14
+I/4
+35
+CHM112M Vishal 
+CHM
+51
+I/1
+36
+CHM112M Arnab Ghosh
+CHM
+51
+I/2
+37
+CHM113M Basker Sundararaju
+CHM
+30
+I/1
+38
+CHM113M Dharmaraja Allimuthu
+CHM
+30
+I/2
+39
+CHM201
+Dattatraya H Dethe
+CHM
+85
+I/1
+40
+CHM202A
+Parthasarathi Subramanian
+CHM
+1
+I/1
+DEAN OF ACADEMIC AFFAIRS OFFICE 
+COURSE LOAD 2023-24/SUMMER
+Page 1 of 4
+
+[Page 2]
+S.No.
+Course 
+Number
+Instructor Name
+Dept.
+Registered 
+Student
+REMARK
+(I)– INSTRUCTOR
+(T) – TUTOR
+41
+CHM241
+Ritika Gautam
+CHM
+55
+I/1
+42
+CHM241A
+Ritika Gautam
+CHM
+8
+I/1
+43
+CHM242
+Raja Angamuthu
+CHM
+121
+I/1
+44
+CHM242A
+Raja Angamuthu
+CHM
+109
+I/1
+45
+CHM402
+Manas Kumar Ghorai 
+CHM
+5
+I/1
+46
+CHM402A
+Manas Kumar Ghorai 
+CHM
+1
+I/1
+47
+CSO201
+Manas Kumar Ghorai 
+CHM
+28
+I/1
+48
+CSO201
+M L N Rao 
+CHM
+28
+I/2
+49
+CSO201A
+Manas Kumar Ghorai 
+CHM
+1
+I/1
+50
+CSO201A
+M L N Rao 
+CHM
+1
+I/2
+51
+CS203M
+Anil Seth 
+CSE
+7
+I/1
+52
+CS670
+Adithya Vadapalli
+CSE
+17
+I/1
+53
+CS771
+Purushottam Kar 
+CSE
+170
+I/1
+54
+CS771A
+Purushottam Kar 
+CSE
+45
+I/1
+55
+CS772
+Piyush Rai 
+CSE
+12
+I/1
+56
+CS772A
+Piyush Rai 
+CSE
+15
+I/1
+57
+DES602
+Janakarajan Ramkumar 
+DES
+5
+I/1
+58
+DES602A
+Janakarajan Ramkumar 
+DES
+3
+I/1
+59
+ECO498A
+Hargungeet Singh
+ECO
+1
+I/1
+60
+ECO503
+Somesh Kumar Mathur 
+ECO
+1
+I/1
+61
+HSO201
+Praveen Kulshreshtha
+ECO
+19
+I/1
+62
+HSO201A
+Praveen Kulshreshtha
+ECO
+16
+I/1
+63
+EE200
+Tushar Sandhan
+EE
+56
+I/1
+64
+EE200A
+Tushar Sandhan
+EE
+6
+I/1
+65
+EE311A
+Avinash Lahgere
+EE
+19
+I/1
+66
+EE311A
+Shubham Sahay
+EE
+19
+I/2
+67
+EE311A
+Arnab Bose
+EE
+19
+I/3
+68
+EE330
+Abheejeet Mohapatra 
+EE
+6
+I/1
+69
+EE330A
+Abheejeet Mohapatra 
+EE
+1
+I/1
+70
+EE650
+Abhilash Patel
+EE
+32
+I/1
+71
+EE650
+Soumya Ranjan Sahoo 
+EE
+32
+I/2
+72
+EE650A
+Abhilash Patel
+EE
+16
+I/1
+73
+EE650A
+Soumya Ranjan Sahoo 
+EE
+16
+I/2
+74
+ESC201
+Rik Dey
+EE
+29
+I/1
+75
+ESC201
+Raghvendra Chaudhary
+EE
+29
+I/2
+76
+ESC201
+A R Harish 
+EE
+29
+I/3
+77
+ESC201
+Abhishek Gupta
+EE
+29
+I/4
+78
+ESC201A
+Rik Dey
+EE
+7
+I/1
+79
+ESC201A
+Raghvendra Chaudhary
+EE
+7
+I/2
+80
+ESC201A
+A R Harish 
+EE
+7
+I/3
+81
+ESC201A
+Abhishek Gupta
+EE
+7
+I/4
+82
+ART402
+Ritwij Bhowmik
+HSS
+63
+I/1
+83
+ART402A
+Ritwij Bhowmik
+HSS
+81
+I/1
+Page 2 of 4
+
+[Page 3]
+S.No.
+Course 
+Number
+Instructor Name
+Dept.
+Registered 
+Student
+REMARK
+(I)– INSTRUCTOR
+(T) – TUTOR
+84
+ART707
+Ritwij Bhowmik
+HSS
+60
+I/1
+85
+ART707A
+Ritwij Bhowmik
+HSS
+92
+I/1
+86
+SOC173
+Munmun Jha 
+HSS
+119
+I/1
+87
+SOC173
+Pariz Pikul Gogoi 
+HSS
+119
+I/2
+88
+SOC173
+Anchita Sen 
+HSS
+119
+I/3
+89
+SOC173A
+Munmun Jha 
+HSS
+23
+I/1
+90
+SOC173A
+Anchita Sen 
+HSS
+23
+I/2
+91
+SOC173A
+Pariz Pikul Gogoi 
+HSS
+23
+I/3
+92
+SOC473
+Binay Kumar Pattnaik 
+HSS
+52
+I/1
+93
+SOC473A
+Binay Kumar Pattnaik 
+HSS
+24
+I/1
+94
+MBA631
+Amit Shukla
+IME
+93
+I/1
+95
+ESO204
+Rahul Mangal
+ME
+58
+I/1
+96
+ESO204A
+Rahul Mangal
+ME
+18
+I/1
+97
+ME209
+Pankaj Wahi 
+ME
+42
+I/1
+98
+ME209
+Dipayan Mukherjee
+ME
+42
+I/2
+99
+ME461A
+Niraj Sinha 
+ME
+2
+I/1
+100
+MSE303A
+Anshu Gaur
+MSE
+24
+I/1
+101
+MSE661A
+Sudhanshu Shekhar Singh 
+MSE
+50
+I/1
+102
+MSE664
+Shobit Omar
+MSE
+7
+I/1
+103
+MSO202A
+Saurabh Singh
+MTH
+3
+I/1
+104
+MTH204
+Santosha Kumar Pattanayak
+MTH
+4
+I/1
+105
+MTH204A
+Santosha Kumar Pattanayak
+MTH
+1
+I/1
+106
+MTH215
+Saurabh Singh
+MTH
+7
+I/1
+107
+MTH215A
+Saurabh Singh
+MTH
+4
+I/1
+108
+MTH403
+Sudhanshu Shekhar 
+MTH
+2
+I/1
+109
+MTH403A
+Sudhanshu Shekhar 
+MTH
+18
+I/1
+110
+PHY102A
+Arijit Kundu
+PHY
+3
+I/1
+111
+PHY102A
+Aditya Hemchandra Kelkar 
+PHY
+3
+I/2
+112
+PHY103A
+S Anantha Ramakrishna 
+PHY
+6
+I/1
+113
+PHY112
+Arijit Kundu
+PHY
+50
+I/1
+114
+PHY112
+Aditya Hemchandra Kelkar 
+PHY
+50
+I/2
+115
+PHY113
+S Anantha Ramakrishna 
+PHY
+84
+I/1
+116
+PHY114
+Debtosh Chowdhury
+PHY
+87
+I/1
+117
+PHY114
+Navaneeth Poonthottathil
+PHY
+87
+I/2
+118
+PHY210A
+Supratik Banerjee
+PHY
+2
+I/1
+119
+PHY210A
+Koushik Pal
+PHY
+2
+I/2
+120
+PHY210M
+Supratik Banerjee
+PHY
+6
+I/1
+121
+PHY210M
+Koushik Pal
+PHY
+6
+I/2
+122
+PHY401
+Tapobrata Sarkar 
+PHY
+11
+I/1
+123
+PHY401A
+Tapobrata Sarkar 
+PHY
+5
+I/1
+124
+PHY552
+S Anantha Ramakrishna 
+PHY
+10
+I/1
+125
+PHY552A
+S Anantha Ramakrishna 
+PHY
+17
+I/1
+126
+SEE211
+Ashish Garg
+SEE
+122
+I/1
+Page 3 of 4
+
+[Page 4]
+S.No.
+Course 
+Number
+Instructor Name
+Dept.
+Registered 
+Student
+REMARK
+(I)– INSTRUCTOR
+(T) – TUTOR
+127
+SEE211
+Rajiv Shekhar 
+SEE
+122
+I/2
+128
+SEE211
+Raju Kumar Gupta
+SEE
+122
+I/3
+Page 4 of 4

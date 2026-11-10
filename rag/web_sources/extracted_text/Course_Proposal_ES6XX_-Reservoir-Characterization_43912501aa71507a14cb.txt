@@ -1,0 +1,122 @@
+[Page 1]
+Department of Earth Sciences 
+Indian Institute of Technology Kanpur 
+Proposal for a new course 
+1. Course No: ES6XX 
+2. Course title: Reservoir Characterization 
+3. Department: Earth Sciences 
+4. Proposing Instructor: Dr Hiranya Sahoo 
+5. Units: 3-0-0-0 (9 credits) 
+6. Course Type: Departmental Elective (PG) 
+7. Prerequisite: with permission of the instructor 
+8. Other Potentially Interested Faculties: Dr Indra Sen 
+ 
+Course Description 
+Successful reservoir analysis is critically linked to optimal exploration, production and management 
+of natural resources (oil, gas, coal, water), and associated approaches (e.g., environmental measures); 
+it therefore influences societal and economic prosperity at national and international scales. This 
+course will help students gain a sound understanding of various concepts and tools for reservoir 
+characterization at multiple scales: from pore to basin. Teaching topics will focus on: formation 
+mechanism of seal, reservoir and source rocks, emplacement of these rock types in various traps (e.g., 
+stratigraphic vs. structural); Reservoir conditioning mechanisms at different settings (fluvial, eolian, 
+shallow water, deep water) and environments (clastic; non-clastic: carbonate); Use of data types 
+(outcrop, core, well-log, GPR, seismic) and tools (e.g., lithostratigraphy, biostratigraphy, sequence 
+stratigraphy) for reservoir prediction; how effects of pore-scale to meso-scale to macro-scale features 
+constrain reservoir heterogeneity and associated risks (e.g., variability in reservoir properties such as 
+porosity and permeability); syn-depositional and post-depositional (e.g., fractures, joints) effects on 
+reservoir compartmentalization and drainage. Students will get to know how to use multi-dimensional 
+datasets to evaluate: reservoir attributes (e.g., thickness, area, drainage, net-to-gross); facies- to 
+architecture- to geobody-scale reservoir complexity by analyzing (1) lithologs (2) Bioturbation Index 
+(BI) logs, and (3) object-based and process-based models. With use of case studies, students will 
+comprehend reservoir characterization in conventional vs. unconventional (e.g., tight gas) systems, 
+in energy sectors (oil, gas, coal), in water management (aquifer analysis), in new energy frontiers 
+(e.g., geothermal), and in emerging scientific thrust areas such as geologic carbon sequestration. 
+ 
+Course Contents 
+Suggested 
+number of lectures
+Basic building blocks: seal, reservoir and source rock types. Formation 
+mechanism of different traps (e.g., stratigraphic vs. structural)
+3
+
+[Page 2]
+Use of data types (outcrops, cores, well logs, GPR, seismic) 
+4 
+Reservoir characterization approaches in several settings (fluvial, eolian, 
+paralic, shallow water, deep water) 
+5 
+Reservoir characterization techniques in various environments: clastics 
+vs. non-clastics (carbonate). 
+4 
+Reservoir compartmentalization and property variability (porosity and 
+permeability) by effects of syn-depositional (at pore- to meso- to macro-
+scale) and post-depositional (e.g., fractures) features.
+4 
+Object-based and process-based reservoir models 
+4 
+Reservoir 
+characterization 
+across 
+domains: 
+conventional 
+vs. 
+unconventional systems; energy sectors (oil, gas, coal); water 
+management (aquifer analysis); new energy frontiers (e.g., geothermal); 
+emerging thrust areas such as geologic carbon sequestration.
+5 
+Exercises on multidimensional dataset to evaluate reservoir risks at 
+various scales (pore- to meso- to macro-scale features) 
+4 
+Exercises on generating and analyzing lithologs and Bioturbation Index 
+(BI) logs for reservoir attribute analysis
+4 
+Synthesis: Reservoir modelling – from cakewalk to catwalk 
+3 
+Total number of lectures 
+40 
+ 
+Recommended Books/Resources: 
+• 
+Allen, P.A., and Allen, J.R., 2013, Basin Analysis: Principles and Application to Petroleum Play 
+Assessment, 3rd Edition, Wiley-Blackwell. ISBN: 978-0-470-67377-5 
+• 
+Slat, R. M., 2013, Stratigraphic Reservoir Characterization for Petroleum Geologists, 
+Geophysicists, and Engineers, 2nd Edition, Elsevier. ISBN: 978-0-444-56365-1 
+• 
+Lucia, F.J., Carbonate Reservoir Characterization: An Integrated Approach, 2nd Edition, 
+Springer. ISBN: 978-3-540-72740-8 
+• 
+Published research articles/guidebooks/reports 
+
+ 
+
+ 
+
+ 
+
+Dated: 11 March 2026 
+
+ 
+ 
+Proposer: Dr. Hiranya Sahoo 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dated: 12 March 2026 
+
+ 
+ 
+DUGC/DPGC Convener, ES 
+
+ 
+The course is approved/ not approved 
+
+Chairman, SUGC/SPGC 
+ 
+Dated:___________

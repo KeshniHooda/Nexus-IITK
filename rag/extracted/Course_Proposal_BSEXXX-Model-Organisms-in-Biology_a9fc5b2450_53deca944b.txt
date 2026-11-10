@@ -1,0 +1,70 @@
+[PAGE 1]
+Course number: BSEXXX
+(The course will be open elective for PG students)
+Course name: Model Organisms in Biology
+Prerequisite: None
+Per Week Lectures and credits (L-T-P-C :Lecture-Tutorial-Practical-Credits): [3-0-0-9]
+Proposing Department/IDP: Biological Sciences and Bioengineering
+Proposing Instructor(s): Robert Sonowal
+
+Course Objective:
+Model organisms have played a pivotal role in understanding the basic principles of biology. Due to
+evolutionary conservation of biological processes, the discoveries made in these organisms are often
+extended to different species, including humans. They have laid the foundation for many biological
+principles and translational research. The course will primarily discuss the original research articles related
+to landmark discoveries in different areas of biology. The significance of using different model organisms,
+including but not limited to Drosophila melanogaster (fly), yeast, bacteria, Caenorhabditis elegans
+(worms), zebrafish, mice etc will be discussed. The present day implications of these discoveries in both
+basic science and translational advancement will be highlighted.
+Learning outcome: The course content is intended to teach students the foundational stories of different
+areas of biology. It will highlight how basic biology puzzles were solved using model systems. As the
+course discussions will primarily consist of research articles, it is expected that it will enable students to i)
+select an exciting biological problem for their research, ii) select the right model organisms, tools, and
+techniques to carry out the research and  iii) communicate the significance of their discovery to both
+scientific and non-scientific community.
+
+Contents:
+Broad topic                                      Specific topics                      # Lectures
+Introduction              History of model organisms; different types of model organisms;      2
+advantages and limitations of using model organisms.
+Genetics and Genetic      Deciphering the chromosomal theory of inheritance and genetic
+engineering               linkage in Drosophila; Discovery of the link between genes and
+biochemical processes in fungus; discovery of gene cloning and
+7
+CRISPR  in  bacteria and  their  applications;  history of  the
+development of transgenic mouse models and their implications.
+
+Molecular biology        Discovery of messenger RNA; transposable elements in maize;
+split genes; identification of gene expression regulation by
+RNAs, RNAi in C. elegans; Discovery and applications of
+8
+restriction enzymes, reverse transcriptase.
+
+[PAGE 2]
+Cell biology             Discovery  of  cell  cycle  and  its  regulators,  checkpoints;
+telomeres; Discovery of programmed cell death in C. elegans,      6
+autophagy in yeast.
+Development and Aging   Discovery of the genetic control of embryonic development in
+Drosophila, homeotic genes, morphogens; discovery of cellular
+9
+reprogramming in Xenopus laevis to Yamanaka’s iPSC; sex
+determination; Understanding the genetic control of Aging.
+Microbiology and         Discovery  of  the key  cells  related  to adaptive immunity;
+Immunology                specificity of the cell mediated immune defence; discoveries
+8
+related to the activation of innate immunity in flies and mice;
+Microbiota in health and diseases;
+Evolution               Darwin’s Theory of Evolution; Spontaneous mutation discovery
+in microbes; Model organisms as laboratory evolution tools.         2
+
+Books & References: (References will be provided for specific topics during the class)
+
+Dated: 21/08/2025                    Proposer:   Robert Sonowal
+
+DPGC Convener:  Dr. Suresh Kumar
+
+The course is approved / not approved.
+
+Chairman, SUGC/SPGC
+
+Dated: ______________________________

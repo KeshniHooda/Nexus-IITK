@@ -1,0 +1,134 @@
+[Page 1]
+Indian Institute of Technology, Kanpur
+Proposal for a New Course
+1. Course No: ME XXX
+2. Course Title: Thermal Management of Electronic Systems
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours [0-2]:
+0 (A), Credits (3*L+2*T+P+A): 9
+Duration of Course: Full Semester / Modular
+4. Proposing Department/IDP: Mechanical Engineering
+Other Departments/IDPs which may be interested in the proposed course: Depart-
+ment of Sustainable Energy Engineering & Department of Aerospace Engineering.
+Other faculty members interested in teaching the proposed course: Prof. Vasudevan
+R. Iyer (ME)
+5. Proposing Instructor(s): Umesh Madanan (ME)
+6. Course Description:
+A) Objectives: This course will introduce working principles, modeling, and design of thermal
+management systems for electronics, such as heat sinks, heat pipes/thermosiphons/vapor
+chambers, microchannel heat exchangers, and thermoelectric devices. The course will also
+cover hardware for thermal management of various electronic systems, including consumer
+electronics, defence, and space applications. Upon completion of this course, students will
+be able to analyze and design thermal management solutions for electronic systems. This
+course will present students with practical and theoretical problems that will help them
+develop the quantitative skills required to model, evaluate, and optimize heat transfer in
+electronic devices and systems.
+B) Contents:
+S.
+No.
+Broad Title
+Topics
+No. of 50-mins
+Lectures
+1.
+Introduction
+Overview of thermal management of
+electronics: packaging and cooling tech-
+nologies, trends and challenges
+4
+2.
+Heat sinks
+Heat transfer in extended surfaces, natu-
+ral and forced convection, modeling and
+types of heat sinks, contact resistance
+and role of thermal interface materials
+6
+3.
+Heat
+pipes
+&
+two-
+phase systems
+Physical working principles of diﬀerent
+types of heat pipes, types of heat pipes
+(wick-based heat pipes, grooved heat
+pipes, micro heat pipes, looped heat
+pipes, mechanically pumped loops, im-
+mersion cooling)
+6
+1
+
+[Page 2]
+4.
+Modeling
+Steady state modelling of two-phase
+heat transfer in various heat pipes,
+introduction to design of heat pipes,
+microchannel heat exchangers (single
+phase and two-phase heat transfer), boil-
+ing regimes, eﬀects of wettability
+5
+5.
+Radiative heat transfer
+Thermal surface Ænishes, multilayer in-
+sulation, radiators, cooling of space-
+craft electronics, thermoelectric devices
+(Peltier, Seebeck and Thomson eﬀects),
+thermoelectric Ægure of merit
+6
+6.
+Characterization tech-
+niques
+Measurement techniques for tempera-
+ture, velocity, pressure, heat Øux, and
+thermal properties
+5
+7.
+Case studies
+Thermal management of electronics in
+diﬀerent Æelds, including consumer, de-
+fense, and spacecraft electronics; tech-
+niques such as jet impingement and
+ion-trap cooling; reliability and failure
+modes.
+6
+C) Pre-requisites, if any: UG Fluid Mechanics (ME231) and Heat and Mass Transfer (ME341)
+D) Short summary for including in the Courses of Study booklet: The course is de-
+signed for students interested in thermal engineering, especially as they apply to cooling
+of electronics. The course will provide an overview of the state-of-the-art of packaging
+and cooling challenges in electronics industry. Following this, various thermal management
+strategies will be introduced, before advancing to modeling of the same, where students will
+be exposed to measurement techniques for capturing various thermal/momentum transport
+parameters. Finally, the course will conclude with case studies on thermal management of
+electronic systems in diﬀerent Æelds.
+7. Recommended books:
+Textbooks:
+1. Y. Shabany, Heat Transfer: Thermal Management of Electronics (1st Edition, eBook
+ISBN: 9780429092220, CRC Press, 2009)
+Reference Books:
+1. Thermal measurements in electronics cooling by K. Azar (1st Edition, ISBN-10: 0849332796,
+ISBN-13: 9780849332791, CRC Press, 1997)
+2. Cooling of Electronic Systems S. Kakaç, H. Yüncü, and K. Hijikata (1st Edition, ISBN-
+10: 0792327365, ISBN-13: 9780792327363, Kluwer Academic Publishers)
+2
+
+[Page 3]
+3. Heat Pipes: Theory, Design and Applications by D. Reay, P. Kew, and R. McGlen
+(6th Edition,
+ISBN-10: 0080982665, ISBN-13: 9780080982663, Butterworth-
+Heinemann, 2014)
+4. Thermal Management Handbook: For Electronic Assemblies by J. Sergent (1st Edition,
+ISBN-10: 0070266999, ISBN-13: 9780070266995, McGraw Hill Professional, 1998)
+5. Thermal Management of Microelectronic Equipment by Lian-Tuu Yeh and R. C. Chu
+(1st Edition, ISBN-10: 0791800741, ISBN-13: 9780791800744, ASME Press, 2002)
+6. Spacecraft Thermal Control Handbook by D. Gilmore (2nd Edition, ISBN-10: 188498911X,
+ISBN-13: 9781884989117, The Aerospace Corporation, 2002)
+8. Any other remarks: N/A
+Dated:
+Proposer: Umesh Madanan
+Dated:
+DUGC/DPGC Convener:
+The course is approved / not approved
+Chairman, SUGC/SPGC
+Dated:
+3
+14.05.2026

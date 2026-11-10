@@ -1,0 +1,3156 @@
+[PAGE 1]
+#शिक्षा मंत्रालय
+Ministry of Education
+Government of India
+
+ACCESSIBILITY GUIDELINES AND
+STANDARDS FOR
+HIGHER EDUCATION INSTITUTIONS
+AND UNIVERSITIES
+
+`विशव`विद्यालय अनुदान आयोग
+University Grants Commission
+
+[PAGE 2]
+expert Committee
+prof. Gaurav Raheja, Shri Dipendra Manocha,
+Prof. Amitav Mishra, shri subhash Chandra vashishth,
+dr. anupriya chadha, dr. abhay jain, dr. himangshu das
+
+June, 2022
+
+Graphic Design
+prof. Gaurav Raheja, Santhosh Malothu
+
+Cover Design
+prof. Gaurav Raheja, Santhosh Malothu
+
+Published by
+University Grants Commission, New Delhi
+Government of India
+
+Disclaimer
+These guidelines are intended as a comprehensive source for achieving
+accessibility and inclusion in higher education institutions/universities.
+For specific interventions, other accessibility guidelines and standards
+issued by the government of India shall also be applicable.
+
+[PAGE 3]
+EविशवEविद्यालय अनुदान आयोग
+University Grants Commission
+quality higher education for all
+
+#शिक्षा मंत्रालय
+Ministry of Education
+Government of India
+
+[PAGE 5]
+ACCESSIBILITY GUIDELINES AND
+STANDARDS FOR
+HIGHER EDUCATION INSTITUTIONS
+AND UNIVERSITIES
+
+[PAGE 9]
+Preamble
+
+The University Grants Commission has introduced various initiatives to provide
+the facilities required by persons with disabilities to ensure their equal participation and
+inclusion in Higher Education Institutions (HEIs). With an increase in the number of
+benchmark disabilities and recognizing their needs, it has become imperative to prepare
+the guidelines to ensure the inclusion of persons with disabilities in HEIs and Universities
+in an effective manner.
+
+An expert committee has been constituted by the Chairman, UGC to prepare the
+Accessibility  Guidelines  and  Standards  for  Higher  Educational  Institutions  and
+Universities  for persons with  disabilities are intended to suggest the HEIs make
+provisions for persons with disabilities and to provide them an accessible environment
+for their barrier-free participation in all respect. Each HEI is required to develop an
+effective accessible mechanism at their premises for the persons with disabilities
+ranging from the admission process till the completion of the course.
+
+To effect the United Nations Convention, the Rights of Persons with Disabilities
+(RPWD) Act, 2016 was enacted replacing the erstwhile Act, the Persons with Disabilities
+(Equal Opportunities, Protection of Rights and Full Participation) Act 1995. Section 16,
+17, and 18 of  its Chapter  III (Education) pertains to the duty of the educational
+institutions and specific measures to promote and facilitate inclusive education; and
+adult education respectively.
+
+The National Education Policy (NEP) 2020 also envisages that education is the
+foremost primary measure to achieve economic and social mobility, inclusion, and
+equality.  It highlights the inclusive practices by making corresponding changes  in
+curriculum, pedagogies, continuous assessment, and student support systems to ensure
+quality education.
+
+Taking a comprehensive view of the inclusion of persons with disabilities in HEIs,
+these guidelines cover the parameters such as the need assessment and support
+provision for diverse benchmark disabilities; accessible information, communication and
+learning resources;  inclusive  mobility  infrastructure;  universal  accessibility  in  built
+infrastructure;  accessible  curriculum,  teaching  and  learning  systems,  accessible
+assessment and examination system, accessibility of resources and services, inclusive
+campus life; and Governance and Monitoring of Accessibility and Inclusive Practices.
+Nevertheless, the HEIs may include provisions apart from these to provide equal
+participation in all respect.
+
+It is hoped that the provisions covered under these guidelines will help the HEIs
+develop an inclusive mechanism to provide an accessible environment for persons with
+disabilities to live independently and participate fully in all respects of their educational
+life.
+
+[PAGE 12]
+Contents
+
+Message from Chairman
+
+Preamble
+
+Acknowledgements
+
+1. Accessibility in Higher Education Institutions: An Introduction             4
+
+1.1. Introduction to Accessibility and Inclusive Policy Perspectives
+1.2. Making Higher Education Institutions Accessible: A Holistic Approach
+
+2. Need Assessment and Support Provisions                             12
+
+2.1. Disability Specific Needs
+2.2. Specific Needs: Designing Accessible and Inclusive Curriculum
+2.3. Special Needs: Admission and Promotional Activities
+2.4. Special Needs: Administrative and Support Aspects
+2.5. Specific Needs: Teaching and Learning
+2.6. Special Needs: Assessment, Examination and Evaluation
+2.7. Specific Needs: Student Activities
+2.8. Specific Needs: Additional Considerations
+
+3. Accessible Information, Communication and Learning Resources           38
+
+3.1. Procurement Guidelines to ensure ICT Accessibility
+3.2. Accessibility of Instructional Material and Learning Resources
+3.3. Accessible Communication
+3.4. Assistive Technologies for Diverse Needs
+
+4. Inclusive Mobility Infrastructure                                     48
+
+4.1.  Mobility to Campuses of HEIs (Public Transit Systems)
+4.2.  Inclusive Mobility on Campus
+4.3.  Street infrastructure within HEI campuses
+4.4. GPS Mapping or Bluetooth beacon-based technologies to enhance orientation in the campus
+
+Universal Accessibility in Built Infrastructure                           56  5.
+
+5.1. Site Planning of Campuses
+5.2. Academic Buildings and Learning Spaces
+5.3. Assembly Areas / Auditoriums
+5.4. Hostels and Guest House
+5.5. Mess, Canteens and Common Dining Facilities
+5.6. Accessible Sanitary Provisions
+5.7. Administrative Spaces
+5.8. Recreational Spaces, Common rooms, Activity Rooms, Gyms/Yoga Halls,
+5.9. Accessible Parking Facilities
+5.10. Campus Amenities: Banks, ATMs, Post Office, Shops, etc.
+5.11. Accessible Signage in the campus/buildings
+
+[PAGE 13]
+5.12. Accessible Emergency Preparedness
+
+Accessible Curriculum, Teaching and Learning Systems                  72 6.
+
+6.1. Equitable Access to Curriculum
+6.2. Delivering Accessible Curriculum
+6.3. Provision of Flexibility and Adjustment in an Accessible Curriculum
+6.4. Social-Emotional Learning (SEL)
+6.5. Adaptations in Teaching-Learning Process
+6.6. Accessible Library Resources
+6.7. Universal Design for Learning for Creating an Equitable Classroom
+6.8. Applying Universal Design for Learning
+6.9. Designing Accessible Course Materials
+6.10. Formulating Internal Policy for Inclusive Curricula and Teaching by HEIs
+
+7. Accessible Assessment and Examination Systems                       82
+
+7.1. Need for Accessible Assessment
+7.2. Enabling Assessment Process Accessible
+7.3. Existing Provisions for Concessions in Examinations for Students with Disabilities
+7.4. Considering Accessible and Flexible Assessment Process
+
+8. Accessibility of Resources and Services                               90
+
+8.1. Integration of Resources and Services in an inclusive way
+8.2. Healthcare and Para-Medical facilities
+8.3. Library Facilities
+8.4. Grievance Redressal Mechanism (GRM)
+8.5. General Provisions
+
+9.  Inclusive Campus Life                                            98
+
+9.1. Guiding Principles for an Inclusive Campus
+9.2. Preparing HEIs campus for inclusion
+9.3. Accessibility in Residential Accommodation / Hostels
+9.4. Guest Houses
+9.5. Conference Facilities / Common Facilities
+9.6. Physical / Cultural / Sports Promotion in universities
+9.7. Inter college/ inter-university activities
+9.8. International University Exchange Program
+
+10. Governance and Monitoring of Accessibility and Inclusive Practices         106
+
+10.1. Accessibility and Inclusive Practices through Institutional Governance
+
+10.2. Accessibility Assessment for Accreditation and Ranking of HEIs / Universities
+
+[PAGE 15]
+1
+
+Accessibility in Higher
+Education Institutions :
+An Introduction
+
+[PAGE 17]
+1
+
+Accessibility in Higher Education Institutions :
+An Introduction
+
+Higher education delivery in India needs to orient and accelerate its reach to persons
+with  disabilities and several others who couldn’t be included  for reasons of
+inaccessibility or inadequacies. The new India and new education policy both commit
+themselves towards an inclusive development of education sector ensuring access
+for all.
+
+1.1  Introduction to Accessibility and Inclusive Policy Perspectives
+
+a) Inclusive practices in education ensure quality education without discrimination to
+any learner. It fulfils diverse needs in a responsive and supportive manner. Higher
+education institutions (HEIs) need to create a common learning platform that is
+flexible and accessible for all the students to learn together including those from
+varied backgrounds and diverse abilities. Such an inclusive environment benefits not
+only the learners but also forms a strong foundation of social inclusion and
+accessible environments as a whole. Thus, it should result in removing barriers by
+bringing necessary changes to infrastructure, curriculum, teaching-learning process,
+and all such components for equal and quality participation in both academic and
+social aspects of campus life. Needless to say, accessibility and inclusion as a
+concept and culture in HEIs would eventually benefit everyone.
+b) University Grants Commission (UGC) aims to improve the participation and learning
+experience of persons with disabilities in HEIs. During the Tenth Five Year Plan (2002-
+07), it provisioned the Higher Education for Persons with Special Needs (HEPSN)
+scheme that promotes greater accessibility and a barrier-free environment. Further,
+consequent upon the striving need of making the system inclusive, ‘Scheme of Equal
+Opportunity Centre for Colleges’ in Twelfth Plan (2012-17) was made available to
+make the HEIs more responsive to the needs and constraints of the disadvantaged
+
+4
+
+[PAGE 18]
+social groups including persons with disabilities. From time to time, UGC has always
+been committed to facilitate inclusive practices in all HEIs for an equal participation
+and academic progress of persons with disabilities.
+c) Effective guidelines are required to create inclusive HEIs duly supported by the
+existing acts and policies. Pursuant to the continuum of educational provisions for
+the persons with disabilities, a remarkable transformation in the welfare perspective
+of education to cater to the needs of the persons with disabilities has been
+acknowledged by the Government of India, where it has become the signatory and
+ratified the convention of the United Nations on the Rights of Persons with
+Disabilities (UNCRPD), in which the inclusive education has been conceptualized at
+para 11, p. 4 as “a process of systemic reform embodying changes and modifications
+in content, teaching methods, approaches, structures and strategies in education to
+overcome barriers with a vision serving to provide all students of the relevant age range
+with an equitable and participatory learning experience and environment that best
+corresponds to their requirements and preferences” (United Nations, 2016).
+d) To give effect to the United Nations Convention, the Rights of Persons with
+Disabilities (RPWD) Act, 2016 was enacted replacing the earlier Act, the Persons with
+Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act
+1995. Section 16, 17, and 18 of its Chapter III (Education) pertains to the duty of the
+educational institutions and specific measures to promote and facilitate inclusive
+education and adult education respectively. Also, Section 19 of Chapter IV (Skill
+Development and Employment) of the Act specifies certain provisions of imparting
+vocational  training and  self-employment.  Moreover,  the  provisions such as
+reservation in employment and admissions at educational institutions have also
+been implemented and adherence to the provisions/directions has been emphasized
+from time to time. Hence, with the emergence of the Act, it has become imperative
+for the HEIs to comply with such provisions of the Act to safeguard the interest of
+the persons with disabilities.
+e) Moreover,  the Transgender Persons (Protection of Rights) Act, 2019 was also
+enacted to safeguard the rights of transgender persons and their welfare and the
+matters connected therewith and incidental thereto wherein as per Section 13 and 14
+of Chapter VI (Education, Social Security, and Health of Transgender Persons)
+educational institutions funded or recognized by the relevant governments shall
+provide  inclusive education, sports and recreational  facilities  for transgender
+persons, without discrimination on the equal basis with others.
+f) The National Education Policy (NEP) 2020 envisages that education is the foremost
+primary measure to achieve economic and social mobility, inclusion, and equality. It
+highlights the inclusive practices by making corresponding changes in curriculum,
+pedagogies, continuous assessment, and student support systems to ensure quality
+education. The  policy acknowledges  that  students from  socio-economically
+disadvantaged groups (SEDGs) including persons with disabilities need help and
+
+5
+
+[PAGE 19]
+support to make an effective transition to higher education wherein there is a need
+for incorporating high-quality support centres with adequate funds and academic
+resources to carry out these effectively and efficiently.
+g) Thus, as per NEP (2020), the HEIs are required to adopt measures to make the
+admission process and curriculum inclusive as well as develop technology tools for
+better participation and learning outcomes. They also need to provide adequate
+financial assistance and scholarships to SEDGs and conduct outreach on higher
+education opportunities and scholarships among SEDGs. They must ensure that all
+buildings and infrastructure facilities are accessible and disabled-friendly for all;
+develop bridge courses for those students who may come from disadvantaged
+educational backgrounds, and provide socio-emotional and academic support for all
+such students through suitable counselling and mentoring programs.
+h) Enabling Higher Education environments must facilitate that  all students who
+experience disability have the right to access and participate in education, the ability
+to learn, and the right to exercise their voice, choice, and control in managing their
+own educational experiences. Their right to develop to their fullest potential and to
+be an active, valued citizen in the community and their right to an appropriate and
+adequate allocation of resources to access and participate meaningfully in education
+need to be fully protected. The HEIs must consider their right to be safe- physically,
+emotionally, culturally, and socially and be treated respectfully.
+i)  Ensuring equal participation and inclusion of persons with disabilities in all activities
+are the priority goals of the nation. Hence, UGC commits itself to support HEIs in all
+possible manners so that persons with disabilities become part of various academic
+programs of universities and colleges in good numbers. Making HEIs accessible to
+all students remains one of the significant goals of the Commission.
+
+1.2 Making Higher Education Institutions Accessible : A Holistic Approach
+
+a) The Government of India launched the Accessible India Campaign (Sugamya
+Bharat Abhiyan) in 2015 to facilitate barrier-free and universally accessible
+development for persons with disabilities in three broad domains  i.e., Built
+Environment, Information & Communication Technologies, and Transportation.
+The Department of Empowerment of Persons with Disabilities (DEPwD), Ministry
+of Social Justice & Empowerment remains the nodal agency for successful
+implementation of the Campaign. It has been a nationwide flagship campaign to
+achieve universal access and enablement for persons with disabilities through
+infrastructure ecosystems  involving  built  environment,  transportation, and
+Information & Communication technologies.
+
+6
+
+[PAGE 20]
+b) Different Nodal Ministries of Government of India have framed the accessibility
+guidelines for persons with disabilities to ensure equitable, universal access to
+persons with disabilities concerning the physical environment, transportation,
+and information and communications, which are important from the perspective
+of higher education set ups  - such as ‘Harmonised Guidelines for Universal
+Accessibility for India, 2021’ by the Ministry of Housing and Urban Affairs,
+Ministry of Electronics and Information Technology, Ministry of Education among
+others on Built Environment, Information and Communication Technology and e-
+content guidelines respectively. These guidelines shall play a very significant role
+in making our HEIs accessible and shall be accordingly adhered to by the HEIs.
+
+c) The higher education systems not only comprises  built environments  like
+classrooms, laboratories or  libraries,  etc. but also of learning and social
+environments where students from various social and diverse backgrounds
+participate and become productive and responsible citizens of the country. Hence
+each environment needs to be accessible to all students irrespective of their
+abilities and disabilities. Effective guidelines and policies can support HEIs to
+achieve this important goal. Inclusive policies lead to inclusive practices and that
+ultimately further leads to an inclusive culture in HEIs by creating an atmosphere
+where everybody feels valued and supported.  It  is a mandate to provide
+accessible environment and inclusive services to diverse range of students,
+faculty and staff in all typologies of higher education institutions and universities
+ensuring that no one is excluded, denied or discriminated access to education in
+the HEIs in India, esp. on the basis of their special needs, functional limitations or
+disabilities.
+
+d) Recognizing, accommodating, and meeting the needs of the persons with
+disabilities  coming  from  diverse  backgrounds,   it becomes  the  primary
+responsibility for the Higher Education Institutions (HEIs) / universities to provide
+the facilities or environment that enables persons with disabilities having diverse
+socio-economic backgrounds to live independently and participate fully in all
+aspect of their educational life at HEIs.
+
+e) To provide an accessible environment to persons with  disabilities to  live
+independently and participate fully in all aspects of their educational life, HEIs
+shall be committed to promoting inclusive practices by (i) ensuring a barrier-free
+and an inclusive mechanism to help in the admission process,  (ii) taking
+appropriate measures to ensure universal accessibility in  it’s infrastructure
+systems, (iii) making adequate provisions and facilities for teaching so that all
+students including those having disabilities undertake their studies in an inclusive
+manner (iv) developing and supporting technology tools for better participation
+
+7
+
+[PAGE 21]
+and learning outcomes and (v) facilitating participation in corporate life on an
+equal basis with others.
+
+f)  Accessibility requires to be considered at priority as a significant issue of concern
+for all HEIs / universities to plan and implement in their respective campuses.
+These guidelines as issued by the UGC have been broadly structured under ten
+sections  for developing a  holistic perspective and understanding towards
+accessibility in the world of higher education. The sections are :
+(i)     Accessibility in Higher Education Institutions: An Introduction
+(ii)   Need Assessment and Support Provisions
+(iii)   Accessible Information, Communication and Learning Resources
+(iv)    Inclusive Mobility Infrastructure
+(v)    Universal Accessibility in Built Infrastructure
+(vi)   Accessible Curriculum, Teaching and Learning Systems
+(vii)   Accessible Assessment and Examination Systems
+(viii)   Accessibility of Resources/Services
+(ix)    Inclusive Campus Life, and
+(x)   Governance and Monitoring of Accessibility and Inclusive Practices.
+
+g) Deaf and hard of hearing students must be provided with the opportunity to learn
+Indian sign language (ISL) and measures taken to recognise and promote the
+linguistic identity of the deaf community in India. The Committee draws the
+attention of State parties to UNESCO’s Convention against Discrimination in
+Education which establishes the right of children to be taught in their own
+language, and reminds State parties that Article 30(4) requires that persons with
+disabilities are entitled, on an equal basis with others, to recognition of and
+support for their specific cultural and linguistic identity, including sign language
+and deaf culture. In addition, hard-of-hearing students must also have access to
+quality speech therapy services, induction loop technology and captioning.
+
+h) Creation of partnerships and coordination between all stakeholders, including
+persons with disabilities through Organisations of Persons with Disabilities
+(OPDs),  different  agencies,  development  organizations,  non-governmental
+organizations (NGO), and with parents/caregivers.
+
+__________________________________
+United Nations. (2016). General Comment No.4, Article 24: Right to Inclusive
+Education. www.refworld.org/docid/57c977e34.html
+---------------
+
+8
+
+[PAGE 23]
+2
+
+Need Assessment and
+Support Provisions
+
+[PAGE 25]
+2
+Need Assessment and
+Support Provisions
+
+The various aspects of access and need assessment in higher education include:
+Curriculum & Instruction; On & Off-Campus Services; Physical Spaces; and Information
+& Communication Technologies(ICTs). From policies and evaluation of specific needs;
+to planning and reviewing of curriculum, delivery methods, feedback, individualized
+modifications, assistive technology, safety, campus climate, events, residential and non-
+residential facilities and capacity building of stakeholders are major areas for evolving
+our HEIs towards an inclusive future. One of the most critical aspects however is to
+understand the specific needs of persons with disabilities by all stakeholders of HEIs
+including peer groups so that appropriate measures for accessibility and inclusion can
+be initiated by each institution in information, infrastructure and the overall learning of
+academic research, campus culture and systems. This section provides an overarching
+insight into specific needs of different types of disabilities and diversities; and provisions
+that can ensure accessibility for everyone in all aspects of higher education institutions.
+
+Need Assessment Process for reasonable accommodation shall be duly followed in
+each HEI / university to ensure inclusion of persons with disabilities. The intent is to
+holistically assess the needs of persons with disabilities and make supportive provisions
+for them as reasonable accommodations to facilitate their education in the HEIs /
+universities. Some of the indicative steps shall include :
+Step 1 : Application in a prescribed format to be received from user.
+Step 2 : Assessment by internal committee and granting of reasonable accommodation.
+
+12
+
+[PAGE 26]
+Step 3 : Wherever internal committee is not able to arrive at a conclusion, it may take
+support from external collaborator such as CRCs / DDRCs, etc. and grant reasonable
+accommodation to
+internal committee or in collaboration with an external committee.
+Universities  /  HEIs  to  connect  with  the  nearest  rehabilitation  /  reasonable
+accommodation support such as CRCs / DDRCs for need assessment from time to time.
+This may be done at the beginning of the admission process to clearly assess health or
+medical / rehabilitation needs and education / campus living needs of persons with
+disabilities.
+Step – 1 Health / Medical & Rehabilitation needs
+At the time of joining the institution / university need assessment shall be carried out by
+a formal board i.e. Need Assessment Board, which shall conduct an assessment of the
+specific needs of the persons with disabilities.
+Step – 2 Education & Campus living needs
+Once the person is admitted to the university / HEIs, they may then conduct a thorough
+assessment to identify the specific needs for education or inclusive campus living.
+Reasonable Accommodation
+
+2.1    Disability Specific Needs
+Persons with disabilities may have functional limitations due to their respective
+disabilities which could be well supported through appropriate provisions that
+address their needs.
+Broadly, the aspects that may require  accessibility considerations include
+Mobility;  Hand   manipulations;  Therapy  and   Medication;  Speech  &
+Communication; Vision; Emotional – Behavioral support; Psycho-Social support;
+Cognitive and Intellectual skills; Self-Care & Daily Living Skills; Healthcare needs;
+Use of Infrastructure; Use of Information and Communication Technologies, etc.
+The specific needs listed below in each category of disability may not be
+exhaustive. It, however, provides a broad and a generic understanding of diverse
+needs for various disability types. Further, it is to be ensured that these needs are
+not reflected as limitations but as domains of support to be provided by the
+various HEIs / universities to ensure access to education. In other words they may
+be considered as accessibility considerations or provisions required by diverse
+disabilities.
+
+13
+
+[PAGE 27]
+2.1.1   Physical Disability – I
+a. Permanent Physical Disability (PPD) to Upper Extremities
+b. PPD to Lower Extremities
+c. PPD of the Spine
+d. PPD in persons with Amputation
+e. PPD of congenital conditions of the extremities & other conditions
+
+Specific Needs
+●  May need support in motor and/or fine-motor functioning, locomotor and
+non-locomotor functioning.
+●  May need assistance with sitting, mobility, transfers and ambulation.
+●  May need support to manipulate objects, turn pages, write with a pen or
+pencil, type on a keyboard, and/or retrieve study material.
+●  May require frequent therapy, surgery, or medication.
+●  May need preferential seating to participate in ongoing activities
+●  May require assistance in the use of infrastructure or ICT.
+
+2.1.2  Physical Disability – II
+2.1.2.1 Acid Attack Survivors
+Specific Needs:
+●  May have limitations in speech and communication
+●  May need support in hand manipulations.
+●  May have limitations in visual acuity hence would have
+additional needs as applicable to vision disabilities
+●  May require frequent therapy, surgery, or medication.
+●  May need emotional-behavioral & psycho-social support.
+●  May need preferential seating to participate in ongoing
+activities
+●  May require assistance in the use of infrastructure or ICT.
+2.1.2.2    Cerebral Palsy
+Specific Needs:
+●  May need assistance with  sitting,  mobility,  transfers, and
+ambulation.
+
+14
+
+[PAGE 28]
+●  May need support to manipulate objects, turn pages, write with
+a pen or pencil, type on a keyboard, and/or retrieve study
+material.
+●  May need preferential or adapted seating to participate in
+ongoing activities.
+●  May have associated intellectual or behavioral conditions and
+may need adaptations as applicable to intellectual disabilities.
+●  May need support in self-care and daily living skills.
+●  May experience vision or hearing disabilities and hence would
+have additional needs as applicable to vision, hearing and
+speech disabilities.
+●  May need specific seating furniture to assist in pain relief and
+postural control.
+●  May need support in speech and communication.
+●  May require frequent therapy, medical interventions, surgery, or
+medication.
+●  May require assistance in the use of infrastructure or ICT.
+
+2.1.2.3    Leprosy Cured Persons
+Specific Needs:
+●  May experience difficulty in hand manipulations and thus may
+need support to manipulate objects, turn pages, write with a
+pen or pencil, type on a keyboard, and/or retrieve study
+material.
+●  May have limitations in visual acuity hence would have
+additional needs as applicable to vision disabilities
+●  May have limitations in mobility, speech and communication
+hence would have additional needs as applicable to physical
+and speech disabilities.
+●  May require frequent therapy, surgery, or medication.
+●  May need preferential seating to participate in ongoing
+activities
+●  May need emotional-behavioral & psycho-social support.
+●  May require assistance in the use of infrastructure or ICT.
+
+15
+
+[PAGE 29]
+2.1.2.4    Short Stature/Dwarfism
+Specific Needs:
+●  May need support with seating and mobility.
+●  May have specific needs related to associated vision, physical,
+hearing and speech disabilities.
+●  May need preferential seating to participate in ongoing
+activities
+●  May need emotional-behavioral & psycho-social support.
+●  May require assistance in the use of infrastructure or ICT.
+
+2.1.2.5    Muscular Dystrophy
+Specific Needs:
+●  May need assistance with sitting, mobility, transfers and
+ambulation.
+●  May experience difficulty in breathing.
+●  May have limitations in speech and communication.
+●  May experience difficulty in hand manipulations.
+●  May require frequent therapy, surgery, or medication.
+●  May need emotional-behavioral & psycho-social support.
+●  May require assistance in the use of infrastructure or ICT.
+●  May need preferential seating to participate in ongoing
+activities.
+
+2.1.3 Visual Disabilities
+2.1.3.1  Blindness and Low Vision
+Specific Needs:
+●  May access information in a variety of ways: braille, audio,
+enlarged print, digital formats, screen reading softwares or
+other tactile and sensory systems
+●  May need assistance with orientation and mobility.
+●  May need preferential seating to participate in ongoing activities
+●  May need support in concept development.
+●  May need emotional-behavioral & psycho-social support.
+●  May require assistance in the use of infrastructure or ICT.
+
+16
+
+[PAGE 30]
+●  May require frequent therapy or medication.
+
+2.1.4 Hearing Disabilities
+2.1.4.1 Deaf and Hard of Hearing
+Specific Needs:
+●  May need support in speech and communication.
+●  May  need  to  learn  Indian  Sign  Language  (ISL)  and
+communication with all.
+●  May   need    assistance     in    understanding    verbal
+information/directions e.g. difficulty to hear sounds like a class
+bell, announcements etc.
+●  May need preferential seating to participate in ongoing
+activities
+●  May require frequent therapy or surgery.
+●  May need to use devices like hearing aids and cochlear
+implants.
+●  May require assistance in the use of infrastructure or ICT.
+●  May need emotional-behavioral & psycho-social support.
+●  May require note taking assistance through technology or
+alternative means such as through peers, etc.
+●   Providing transition support from school to college or
+graduation to post graduation, etc.
+●   Offering clear instructions or demonstrations
+
+2.1.5   Speech & Language Disability
+Specific Needs:
+●   May have trouble with: Articulation – production of speech
+sounds; Fluency, rhythm & flow of speech; or Voice, quality of
+pitch, resonance, or loudness.
+●   May need support in speech and communication.
+●   May need emotional-behavioral & psycho-social support.
+●   May require assistance in the use of infrastructure or ICT
+●   May require frequent speech therapy or other medical
+interventions.
+●   May need preferential seating to participate in ongoing
+activities.
+
+17
+
+[PAGE 31]
+2.1.6     Intellectual Disability
+Specific Needs:
+●   May need support in speech, communication and social
+skills.
+●   May need support in cognitive functioning (decision making,
+reasoning, problem-solving etc.)
+●   May need assistance with seating and mobility.
+●   May need support in hand manipulations.
+●   May need support to understand information.
+●   May need support in self-care and daily living skills.
+●   May need emotional-behavioral & psycho-social support.
+●   May require assistance in the use of infrastructure or ICT.
+●   May require frequent therapy or other medical interventions.
+●   May need preferential seating to participate in ongoing
+activities.
+
+2.1.7  Specific Learning Disability
+Specific Needs:
+●   May need support in speech, communication and social
+skills.
+●   May need emotional-behavioral & psycho-social support.
+●   May need support to comprehend, speak, read, write, spell or
+do mathematical calculations.
+●   May need assistance in understanding verbal and written
+information/directions.
+●   May need emotional-behavioral & psycho-social support.
+
+2.1.8 Autism Spectrum Disorder
+Specific Needs:
+●  May need support in speech, communication and social
+skills.
+●  May need emotional-behavioral & psycho-social support.
+●  May have associated intellectual or behavioral conditions.
+
+18
+
+[PAGE 32]
+●  May need preferential seating to participate in ongoing
+activities.
+●  May  need  support  in  cognitive  functioning  (reasoning,
+problem-solving, etc)
+●  May require assistance in the use of infrastructure or ICT.
+●  May be sensitive to bright lights, loud noises, busy hallways,
+textures, smells etc
+●  May require frequent therapy or medication.
+2.1.9 Mental Illness
+Specific Needs:
+●  May need support in speech, communication and social
+skills.
+●  May need emotional-behavioral & psycho-social support.
+●  May have associated intellectual or behavioral conditions.
+●  May need assistance in academic activities due to difficulties
+in  concentration,  memory,   distractibility,  impulsiveness,
+irritability, fear, anxiety etc.
+●  May  need  support  in  cognitive  functioning  (reasoning,
+problem-solving etc.) due to disorders of Thinking, Mood,
+Perception,   Orientation,  Memory  that  grossly  impairs
+judgment, behaviour, capacity to recognize reality, or ability to
+meet ordinary demands of life.
+●  May need preferential seating to participate in ongoing
+activities.
+●  May require assistance in the use of infrastructure or ICT.
+●  May be sensitive to bright lights, loud noises, busy hallways,
+textures, smells etc.
+●  May require frequent therapy or medication.
+
+2.1.10  Chronic Neurological Condition – Multiple Sclerosis
+Specific Needs:
+●  May need support in motor and/or fine-motor functioning,
+locomotor and non-locomotor functioning.
+●  May need assistance with sitting and mobility.
+
+19
+
+[PAGE 33]
+●  May need support in hand-functioning to manipulate objects,
+turn pages, write with a pen or pencil, type on a keyboard,
+and/or retrieve study material.
+●  May require frequent therapy, surgery, or medication.
+●  May need preferential seating to participate in ongoing
+activities
+●  May require assistance in the use of infrastructure or ICT.
+●  May need emotional-behavioral & psycho-social support.
+
+2.1.11 Chronic Neurological Condition – Parkinson’s disease
+Specific Needs:
+●  May need support in motor and/or fine-motor functioning,
+locomotor and non-locomotor functioning.
+●  May need assistance with sitting and mobility.
+●  May need support in hand-functioning to manipulate objects,
+turn pages, write with a pen or pencil, type on a keyboard,
+and/or retrieve study material.
+●  May require frequent therapy, surgery, or medication.
+●  May need preferential seating to participate in ongoing
+activities
+●  May require assistance in the use of infrastructure or ICT.
+●  May need emotional-behavioral & psycho-social support.
+
+2.1.12  Blood Disorder – Sickle Cell Disease
+Specific Needs:
+●  May need support in motor and/or fine-motor functioning.
+●  May need assistance with seating and mobility.
+●  May have limitations in visual acuity.
+●  May need support in hand-functioning to manipulate objects,
+turn pages, write with a pen or pencil, type on a keyboard,
+and/or retrieve study material.
+●  May require frequent therapy, surgery, or medication.
+●  May need preferential seating to participate in ongoing
+activities
+
+20
+
+[PAGE 34]
+●  May require assistance in the use of infrastructure or ICT.
+●  May need emotional-behavioral & psycho-social support.
+
+2.1.13      Blood Disorder – Thalassemia
+Specific Needs:
+●  May require frequent therapy or other medical interventions.
+●  May need support in motor and/or fine-motor functioning.
+●  May need preferential seating to participate in ongoing
+activities
+●  May require assistance in the use of infrastructure or ICT.
+●  May need emotional-behavioral & psycho-social support.
+
+2.1.14      Blood Disorder – Haemophilia
+Specific Needs:
+●  May require frequent therapy or other medical interventions.
+●  May need support in motor and/or fine-motor functioning.
+●  May need preferential seating to participate in ongoing
+activities
+●  May require assistance in the use of infrastructure or ICT.
+●  May need emotional-behavioral & psycho-social support.
+
+2.1.15 Multiple Disabilities
+Specific Needs:
+●  May need support in speech, tactile sign language,
+communication and social skills.
+●  May  need  support  in  cognitive  functioning  (reasoning,
+problem-solving etc.)
+●  May experience vision or hearing disability
+●  May have associated intellectual or behavioral conditions.
+●  May need specific seating to assist in pain relief and postural
+control.
+●  May need assistance with seating and mobility.
+●  May need support in motor and/or fine-motor functioning,
+locomotor and non-locomotor functioning.
+
+21
+
+[PAGE 35]
+●  May need assistance with  sitting, mobility, transfers and
+ambulation.
+●  May need support to understand information.
+●  May need support in self-care and daily living skills.
+●  May need emotional-behavioral & psycho-social support.
+●  May require assistance in the use of infrastructure or ICT.
+●  May  require  frequent  therapy,  surgery  or  other medical
+interventions.
+●  May need preferential seating to participate in ongoing
+activities.
+2.1.16 High Support Needs
+Specific Needs:
+●   In terms of accessing higher education, a person with high
+support needs may require intensive support, in the form of an
+attendant/ carer for assistance in activities of daily living
+(ADLs), other physical, psychological support and otherwise to
+take independent and informed decisions to access facilities
+and participate in all areas of life including education, family &
+community life, treatment/therapy and employment.
+
+2.1.17 Gender Needs for inclusion
+●  May need emotional-behavioral & psycho-social support.
+
+2.1.18 Transgender Persons
+Specific Needs:
+●  May need emotional-behavioral & psycho-social support.
+●  May need support in campus records and documents.
+●  May require assistance in participation of activities or use of
+facilities.
+
+The needs enlisted above across  all disabilities are not comprehensive and every
+individual or group/sub-group of disability may demonstrate further diverse needs as it
+is a contextual and dynamic concept. Hence proper assessment of needs and
+documentation of the same is important. The needs may be changing with time and it
+may be necessary to repeat the need assessment on request of a person with disability
+or on the basis of observations made by the faculty/ stakeholders of HEIs.
+
+22
+
+[PAGE 36]
+2.2   Specific Needs : Designing Accessible and Inclusive Curriculum
+Universities and HEIs shall require to design accessible and inclusive curriculum in view
+of the specific needs of persons with disabilities. Considerations while designing and
+developing programmes / courses must include support provisions in Curricular Aspects
+that address specific needs at the level of Curricular Design and Development; Curricular
+Planning and  Implementation; Academic  Flexibility;  Curriculum  Enrichment; and
+Feedback Systems.
+●  Curriculum flexibility with a choice of subjects (both theory & practical).
+●  Planning for reduced course load, subject waiver, or subject substitutions.
+●   Offering plus-curriculum or expanded-core curriculum subjects.
+●   Flexibility in course schedules and academic calendar.
+●   Flexibility in the pace of the course content to allow for multiple speeds for
+learners.
+●   Flexibility in attendance requirements.
+●   Specify overall learning goals and specific learning objectives relevant to each
+diversity.
+●  Ensuring  learning objectives cover  cognitive,  affective and psycho-motor
+domains.
+●   Offering multiple means of instruction to address a range of learning styles.
+●  Suggesting  multiple  options  for  students  to demonstrate  learning  (e.g.
+assignments that are writing-based, problem-based etc.)
+●   Offering a variety of pedagogical choices in each discipline for diverse learning
+styles and functional needs (e.g. lecture, team-based learning, problem-based
+learning, Socratic method, simulations, role-play, debate, service-learning etc.)
+●  Developing clear rubrics and grading criteria.
+●   Flexibility in good quality assessment and evaluation methods.
+●   Availability of syllabus in various accessible formats as per the need of the
+student  (digital  copy,  hard-copy,  braille,  large-print, images  with  verbal
+descriptions, Indian Sign Language formats, appropriate colour schemes, etc.)
+●   Include a list of reference material, reading material and textbooks that are
+available in accessible formats (eg. Visual media with subtitles, digital material
+compatible with screen readers etc.)
+●   Include a clear statement of how it addresses issues of diversity, inclusion and
+overall engagement.
+●  Developing a checklist for resources or accommodations that students may
+need to maximize their learning (both offline and online classroom).
+
+23
+
+[PAGE 37]
+For details in relation to curriculum development and implementation, Chapter 6 be
+referred.
+
+2.3   Special Needs : Admission and Promotional Activities
+All promotional activities including advertisement and surveys to measure/analyze the
+effectiveness of courses/campus  activities.  These  will also include support  in:
+Admission  Processes;  Advertisement  Notification;  Filling  of  Admission  Forms;
+Processing for Admission; Counselling; Admission; Induction & Orientation.
+●  Ensure admission announcements and advertisements  are  circulated  in
+accessible formats.
+●  Ensure that the content on the website, email and social media campaigns can
+be read by various assistive technologies; enlarged; meets color and contrast
+ratio requirements; includes alternatives for visual content; videos use closed-
+captioning and description.
+●  Encourage the translation of e-content  in Indian Sign Language formats
+progressively.
+●  Ensure events and interviews (in-person or virtual) are offered in accessible
+venues and formats.
+●   Offer alternative communication support at all stages/processes of admission.
+●   Offer multiple formats for program information, such as large print, audio or
+video information.
+●   Offer multiple formats for Application Forms, such as digital, large print, braille,
+etc. also include a sample filled-in form.
+●  Make sure online materials and tools meet WCAG compliance.
+●   Include diversity and inclusion statements and information about how to access
+accessibility resources throughout admission materials.
+●   Include information on resources on campus providing student support that is
+not stated in the syllabus such as counselling center, LGBT resource center, etc.
+●  Make  it clear that you value and respect  their diverse backgrounds and
+identities.
+●  Work collaboratively with student support services to ensure an easy transition
+for enrolled students.
+
+24
+
+[PAGE 38]
+2.4   Special Needs : Administrative and Support Aspects
+Universities and HEIs shall facilitate the provision of accessibility in administrative and
+other supports needed by diverse individuals with disabilities. The HEIs / universities
+shall ensure proper need assessment through their Disability / Equal opportunity Cell.
+
+Provision of support at all activities for effective transition of students into the system,
+including  Registration; Academic  Support;  Facilitating  Stay &  Conveyance; Fee
+Submission; Sponsorship; Time Table, Schedules and Academic Almanac; Grievance
+Redressal; Release/Delivery of Marksheet, Certification, Diploma, Transcript, Migration
+etc.;  Counselling  (Pre-exam,  post-exam,  career-planning  etc.);  Fellowship  and
+Scholarships; and Capacity Building of Staff.
+If the HEI / University has medical facilities on campus, further facilitation of medical /
+therapeutic support be extended.
+For each category of  disability, accessibility considerations include measures for
+supporting:  Mobility; Hand  manipulations;  Therapy and  Medication;  Speech &
+Communication; Vision; Emotional-Behavioral support; Psycho-Social Support; Cognitive
+and  Intellectual  Skills; Self-Care & Daily Living  Skills; Healthcare needs; Use of
+Infrastructure; Use of Information and Communication Technologies (ICTs) etc. Some
+examples of measures may include:
+●   Creating a universally accessible environment at campus & it’s various facilities
+ranging from administrative to academic, mobility to residential facilities.
+●   Offering course waivers or substitutions or option of reduced course load.
+●   Flexibility with attendance, timetable/schedule etc.
+●  Allowing the use of assistive aids and technology.
+●   Providing conveniently located parking.
+●   Providing an opportunity to reschedule classes to an accessible location.
+●  Allowing service animals in facilities.
+●   Providing priority registration facility.
+●   Providing advance notice of class schedule and/or room changes.
+●   Familiarizing the student with the layout of the campus, classroom, laboratory &
+all facilities, noting the closest exits and locating emergency equipment etc.
+●   Facilitating raised line campus maps and tactile models of graphic materials.
+●   Offering advance notice of class schedule and/or room changes.
+●  Releasing results and documents in accessible formats like large-print, braille, a
+digital format supported by technology etc.
+
+25
+
+[PAGE 39]
+●   Providing assistive lab equipment eg. Talking calculators, light probes, tactile
+timers etc.
+●  Releasing results and documents in accessible formats like large-print, braille, a
+digital format supported by technology etc.
+●  Ensuring accessible websites, social media, online materials/tools with WCAG
+compliance.
+●   Establishing diversity-friendly communication benchmarks.
+●   Safety, privacy and confidentiality measures.
+●  Assigning teaching assistants.
+●  Measures to showcase access, enrolment, retention, participation and
+achievement.
+●  Formation of alliance clubs etc.
+
+Other specific considerations for Visual Disabilities (Blindness & Low-Vision)
+●    Providing  academic  support  through  Plus-Curricular  (Expanded  Core-
+Curriculum) Activities
+-  Braille Reading & Braille Writing
+-  Orientation & Mobility
+-  Independent Living Skills
+-  Sensory Training –Efficiency skills to use hearing/touch/smell/taste,
+optical devices.
+- Use of mathematical devices such as Taylor’s Frame & Abacus
+-  Compensational skills are necessary for accessing core curriculum like
+concept development, organization & study skills, tactile graphics, audio
+material etc.
+-  Social Interaction Skills
+-  Recreation and Leisure Skills
+-  Career Education
+-  Assistive Technology
+-  Self Determination skills like choice-making, decision-making, problem-
+solving, personal advocacy, goal setting, conflict resolution etc.
+
+Other specific considerations for Hearing Disabilities (Deaf & Hard of Hearing) &
+Speech and Language Disability
+●    Making sign language interpreters available.
+
+26
+
+[PAGE 40]
+●     Providing visual alternatives for sound-based information like class-bell or
+verbal announcements.
+●     Providing academic  support  through  Plus-Curricular  (Expanded  Core-
+Curriculum) activities:
+-  Audiology
+-  Career Education
+-  Communication (Oral/Auditory-Oral; Verbal Uni-Sensory; Sign Language;
+Total communication)
+-   Functional Skills like study and organization, concept development,
+cultural awareness etc.
+-   Self-Determination and Advocacy
+-  Social-Emotional Skills
+-  Using interpreters and transliterators
+-  Technology
+
+Other specific considerations for Intellectual Disability, Specific Learning Disability,
+Autism Spectrum Disorder, Mental Illness, Multiple Disabilities and High-Support
+Needs:
+●     Providing Transition support from school-to-college or graduation-to-post
+graduation etc.
+●     Providing Scaffolding or step-by-step guidelines of each administrative
+aspect.
+●     Offering highly structured instructions or demonstrations to be presented in
+more than one way.
+●     Providing academic  support  through  Plus-Curricular  (Expanded  Core-
+Curriculum) Activities
+-  Self-Help and Independent Living Skills
+-  Therapeutic support for speech, physio, occupational or sensory needs
+-  Compensational skills are necessary for accessing core curriculum like
+concept development, organization & study skills, tactile graphics, audio
+material etc.
+-  Social Interaction Skills
+-  Recreation and Leisure Skills
+-  Career Education
+-  Assistive Technology
+
+27
+
+[PAGE 41]
+-  Self Determination skills like choice-making, decision-making, problem-
+solving, personal advocacy, goal setting, conflict resolution etc.
+
+2.5   Specific Needs : Teaching and Learning
+
+Provision of support at all processes linked to learning and skill development, including:
+●     Student Enrolment and Profile
+●     Catering to Student Diversity
+●     Teaching-Learning Process
+●     Teacher Profile and Quality
+●     Evaluation Process
+●     Student Performance and Learning Outcomes
+●     Student Satisfaction Survey
+●     Getting along with the Theory curriculum
+●     Getting along with Practical curriculum
+●      Availability of Accessible Learning Resources
+●     Assignments, Projects & Course Works
+●     Participating in learning programs of other Departments
+●     Participating in Campus Life Activities
+●     Participating in Competitions and Events
+●     Participating in Excursions and Tours
+●     Considerations during Holidays
+●     Library & Reading resources
+●      Digital accessibility
+
+Some examples of support for Physical Disability-I
+●   Use of note-takers and appropriate assistive technology
+●    Provide digital copies of the text (along with a complete list of accessible
+reference documents)
+●    Ensuring all off-desk activities are physically accessible or provide alternate
+assignment options
+●    Including the students while forming study/ work groups
+●    Giving extra time for assignments/presentations
+●    Modification in seating / furniture
+
+28
+
+[PAGE 42]
+Some examples of support for Physical Disability-II
+●    Extra time to reach the class, complete assignments/projects etc.
+●    Permission to record lectures in audio/video mode.
+●    Permission to briefly leave or move about during the class
+●    Giving multiple options to demonstrate learning (e.g. assignments that are
+writing-based, problem-based etc.)
+
+Some examples of support for Visual Disabilities (Blindness & Low-Vision)
+●    Allowing the students to determine the ideal sitting location to see, hear and
+if possible, touch the presented material.
+●    Assisting the students in labelling lab materials so that they are easily
+identifiable.
+●    Verbal description of class activity, such as when a show of hands is
+requested, stating how many hands were raised.
+●    Voice recorders, computers, digital slates, styluses for note-taking.
+●    Permission to audio/video record lectures.
+
+Some examples of support for Hearing Disabilities (Deaf & Hard of Hearing)
+●     Seating which allows a clear view of the instructor, interpreter and the
+board.
+●     Visual aids including captioned videos.
+●    Access to word-processor, use of an ISL interpreter for directions.
+●    Supplement with written instructions, assignments and directions.
+●     Providing unfamiliar vocabulary in written form, on the board, or in the
+handout.
+●     Permission to audio/video record lectures
+
+Some examples of support for Speech & Language Disability
+●     Permit time to speak without unsolicited aid in filling the gaps in their
+speech.
+●     Modification in assignments such as a one-to-one presentation or use of
+the computer with voice synthesizers.
+●     Alternative assignments for an oral class report
+●    Use of assistive devices and alternative communication methods
+
+29
+
+[PAGE 43]
+Some examples of support for Intellectual Disability, Specific Learning Disability &
+Autism Spectrum Disorder
+●     Allow students to focus on parts of a topic /project; rather than the entire
+concept.
+●    Word processor with spell-check and/or voice output to provide auditory
+feedback
+●     Transition support during time-table
+●     Allow for choice in assignments
+●     Provide breaks during classes (if needed)
+
+Some examples of support for Mental Illness
+●     Preferential seating arrangement (near or door or at the back of
+classroom etc)
+●     Assistance with time-management and study skills
+●     Pre-arranged or frequent breaks
+●     Personal and private feedback
+
+Some examples of support for Chronic Neurological Conditions and Blood Disorders
+●     Allow frequent breaks to go to drink water, washroom, medical room/take
+medicine during class.
+●     Allow occasional rest from curricular activities.
+●     Providing recorded lectures/course material
+●    Extreme care for hygiene and cleanliness
+
+Some examples of support for Multiple Disabilities and High Support Needs [ such as
+Deafblindness, etc.]
+Persons with deafblindness shall be provided support through
+●     Study material in braille
+●      Tactile sign language interpretation and
+●     Provision of Assistive Technologies like braille note takers.
+However, persons with multiple disabilities including deafblindness shall also be
+supported through
+
+30
+
+[PAGE 44]
+●     Scaffolding or step-by-step guidelines for each task/activity
+contextualised for their specific needs
+●     Assistance in performing classroom and personal care activities
+●     Support in classroom mobility and communication
+●      Sensitivity   for  challenges   in   concentration,   distractibility,  time
+management, cognitive abilities, social skills etc.
+
+Some examples of support for Gender needs and Transgender Persons
+●   Gender friendly classroom environment and transactions
+●   Develop positive self-concept and self-esteem among students.
+
+2.6   Special Needs : Assessment, Examination and Evaluation
+Provision of specific need support at all academic procedures pertaining to continuous
+assessment and examination, including:
+●     Preparation for examinations
+●     Availing additional coaching & training for competitive examinations
+●     Continuous Support for examination and evaluation
+●     Appearing examinations
+●     Evaluation
+●    Access to results & related procedures of re-evaluation, re-totalling etc.
+
+Some examples of support for sub-categories of Physical Disability – I & II
+●     Alternate test formats such as use of readers, written exams etc.
+●    Use of scribe or speech-to-text software to record answers to an exam
+●     Extended time for examination
+●     Alternate test locations
+●    Use of computers/ aids/ devices during exams etc.
+
+Some examples of support for Visual Disabilities (Blindness & Low-Vision)
+●    Compensatory time for examination.
+●     Provision of braille/large-print question paper or alternate test formats
+such as audio, use of readers etc.
+●    Use of computer or assistive technology
+
+31
+
+[PAGE 45]
+Some examples of support for Hearing Disabilities (Deaf & Hard of Hearing) and Speech
+& Language Disability
+●     Substitute oral exams/ viva etc with written or any other alternative
+modality.
+●     Providing an alternate non-verbal way for exam bell or announcements.
+●     Allow use of hearing aids, cochlear implants and communication devices.
+●    Compensatory time for examination.
+●     Learners with communication impairments must be provided with the
+opportunity  to  express  themselves and  learn  using  alternative  or
+augmentative communication. This may include but is not limited to
+provision of Indian sign language, low- or high-tech communication aids
+such as tablets with speech output, voice output communication aids
+(VOCAS) or communication books.
+●     State parties should invest  in developing  expertise, technology and
+services  in order to promote access to appropriate technology and
+alternative communication systems to facilitate learning. Substitute oral
+exams/ viva etc with written or any other alternative modality such as
+Indian Sign Language.
+Some examples of support for Intellectual Disability, Specific Learning Disability &
+Autism Spectrum Disorder, Multiple Disabilities and High Support Needs
+●    Alternate modalities for examination and evaluation; or alternate/adapted
+question papers
+●    Quiet, distraction-free examination area
+●   Breaks during exam
+●   Exam given by page or by section
+●    Scaffolding or step-by-step guidelines for examination.
+
+Some examples of support for Mental Illness
+●   On-demand examinations
+●   Extended time for exams or breaks during exams.
+●    Quiet, distraction-free examination area
+●   Exams given by page or by section
+
+32
+
+[PAGE 46]
+Some examples of support for Chronic Neurological Conditions and Blood Disorders
+●   Extended time for exams
+●   Use of scribes
+●   Exam modifications eg. Shorter exam duration, on-demand exams etc.
+●    Allow breaks during exams for washroom, taking medication, moving
+around etc.
+
+2.7   Specific Needs : Student Activities
+Provision of specific need support at major students’ activities which will be conducted
+and facilitated by the student council, including Student Support and Progression;
+Campus Life; Student Participation and Activities; Alumni Support and Engagement; Peer
+Group Development; Campus Recruitment etc.
+The student council must engage with the diverse group of students, and work closely
+towards accessibility considerations for:
+●     Promoting an environment conducive to educational and personal
+development
+●    Enhance communication between students, management and staff
+●    Promote friendship and respect among pupils
+●     Represent views and concerns of students
+●     Assist with induction and/or mentoring for the first year of study
+●     Contributing to the development of college policy etc.
+
+2.8   Specific Needs : Additional Considerations
+While modifications will always be necessary for some capacity for improving and
+ensuring accessibility; and it can only be improved if we listen openly to hear from the
+experiences of fresh applicants and persons with disabilities.
+We must also update ourselves to learn from disability scholars on the latest research
+and best practices, and  critically think about existing  traditional processes and
+practices.
+While a host of resources already exist for improving accessibility, that has been
+developed by the National Institutes, NCERT, NGOs, DPOs, State and Central level
+organizations, UGC  etc; there  is an urgent need  for convergence to develop a
+comprehensive document.
+Additionally, to ensure full and equal access to university programs and facilities, a
+holistic approach must include considerations for providing:
+
+33
+
+[PAGE 47]
+●    Additional Health-Care Support
+●    Support for Remedial Education
+●    Support for Plus Curriculum
+●    Therapeutic Support
+●   Mental Health Support
+●   Wellness Support
+●    Support during Pandemic and Disaster
+●   Access to online education
+●    Accessible web/video conferencing platforms that support assistive
+technologies etc.
+Accessibility considerations must cover  all aspects of assuring that persons with
+disabilities can participate and have the same choices as their typical peers.  It must be
+ensured to remove any barrier that stops, impedes, prevents or causes difficulty for an
+individual to fully participate in all aspects of higher education. Considerations above
+will  help  design  an  environment  that   is  free  from  architectural/physical;
+systemic/organizational,  information/communication,  attitudinal  and  technology
+barriers.
+HEIs are encouraged to invest in developing expertise, technologies and services in
+order to promote access to appropriate technology and alternative communication
+systems to facilitate learning for all kinds of disabilities.
+
+-------------
+
+34
+
+[PAGE 49]
+3
+
+Accessible Information,
+Communication and
+Learning Resources
+
+[PAGE 51]
+3
+Accessible Information,
+Communication and Learning Resources
+
+Access to information principally implies a focus to create and provide information for
+diverse purposes in higher education including moving to and around the campus,
+interacting with administrative systems, participating and engaging in learning activities
+and anything else that’s considered part of a higher education environment. Information
+and Communication  Technologies  (ICTs)  play a  vital  role  in  today’s  learning
+environments and in enhancing accessibility to information. As a guideline,  it  is
+recommended that all HEIs and universities shall strive to integrate the best possible
+ICTs and other means of communication to ensure access to information to diverse
+users including ones with visual and hearing impairments. This chapter shares further
+insights  into  various  dimensions  of  accessibility  provisions  through  ICTs  for
+implementation across HEIs and universities across the nation.
+
+3.1.  Procurement Guidelines to ensure ICT Accessibility
+
+Similar to the accessibility of the built environment, it is essential to ensure accessibility
+of information and communication technology infrastructure for full participation of
+persons with disabilities as employees or as students of higher education institutions
+and universities. For example, if the biometrics and software-based attendance system
+of the institution are not usable with speech or haptics output, then persons with
+blindness will not be able to mark their attendance.
+
+Section 16 and 17 (Chapter 3 on Education) and Section 42 on Access to Information
+and Communication Technology of the RPWD Act 2016 make  it mandatory for all
+educational  institutions  to make  their environment  including ICT  infrastructure
+accessible for persons with disabilities.
+
+Bureau of Indian Standards (BIS) has notified standards on ICT accessibility, namely IS
+17802. These standards define what accessible ICT products and services mean. It is
+essential that all ICT products or services procured or created by institutions affiliated
+with the UGC adhere to these standards.
+
+38
+
+[PAGE 52]
+For example, if the institution hires services or creates its website, it must follow clauses
+related to the websites within the BIS standard and the conformance requirements of
+the standard (these conform to W3C Web Content Accessibility Guidelines Level AA).
+The ICT products and services would include websites, apps, learning management
+systems, office equipment, software, etc.
+
+Similarly, the specifications drawn for inviting quotations or issuing tenders on ICT
+products and services such as computers, software, etc., would need to mention the
+clause adhering to the BIS standard ETSI ES 200 381-2 as provided under the IS 17802.
+In other words, the institution shall not purchase any ICT devices or services that are not
+usable by persons with disabilities.
+
+Accessibility shall be ensured at the time of procurement of any ICT, hardware / software
+or services.
+
+3.2.  Accessibility of instructional material and learning resources
+
+Instructional  materials,  written  correspondence,  circulars,  or  any  other  official
+documents need to be in a format readable and understandable by all, including by
+persons with disabilities. It is the responsibility of the institution that if the content in its
+original format is not accessible, then the same is converted to a format that is usable
+by persons with disabilities. Section 52(1)(zb) of the Indian Copyright Amendment Act
+(2012) allows for such conversion of the copyrighted materials without seeking prior
+permission of the copy-right owner.
+
+3.2.1 Standards to be followed for digital content
+
+All education institutions shall ensure that following the universal design principles, all
+e-content (online or offline) adheres to the e-content accessibility guidelines issued by
+the Department of Education, Government of India[1].
+For example, a scanned image of a document is not readable with screen reading
+software. Similarly, if an Indian language digital document is prepared using a font that
+does not comply with Unicode standards, then such document is also not accessible
+with Assistive Technologies. Therefore,  it is essential that digital documents have
+editable text in fonts compliant to Unicode standards. For ease of reference, the table
+below provides a list of accessibility guidelines and their validation tools for different
+digital content formats:
+
+39
+
+[PAGE 53]
+Table 3.1 Accessibility Guidelines and their Validation Tools for Digital Content
+
+Content Type             Standard                   Validator
+
+Microsoft Word            Office Accessibility       Word accessibility
+Document                 Guidelines                checker
+
+PDF                   PDF-UA               PDF Accessibility checker
+
+EPUB                EPUB Accessibility       ACE (Accessibility
+Guidelines               Checker for EPUB)
+
+Websites, Videos and    WCAG (Web Content      AXE, WAVE, Etc.
+apps                        Accessibility Guidelines)
+or GIGW
+
+Audio                  DAISY                  DAISY Validator
+
+Fonts for Indian           Unicode                                ---
+languages in all above
+types
+
+3.2.2 Content to Be Born Accessible
+
+It is not possible to recreate and republish all digital content in accessible formats after
+first creating inaccessible versions of it, such as use of non-Unicode fonts for Indian
+languages. Thus,  it is essential to follow e-content guidelines right at the stage of
+creation of any digital content by the institution, including for creating handouts,
+correspondence, instructional materials, question papers, and any other documents and
+publications. This saves duplication of effort and resources. At the same time, digital
+content adhering to the e-content accessibility guidelines provides a rich reading
+experience for everyone, not just for persons with disabilities.
+
+For this purpose:
+
+●   Organize awareness events and training for content producers and publication
+divisions
+●   Issue clear guidelines for content creators regarding accessibility practices
+
+40
+
+[PAGE 54]
+●   Ensure accessibility guidelines form part of all processes drawn for content
+creation and production
+
+3.2.3 Service to convert instructional materials into an accessible format
+
+Instructional materials such as prescribed books, recommended readings, books
+suggested by faculty to their students or the handouts provided by them, etc. need to be
+in a format that persons with disabilities could read themselves. It is the responsibility
+of the institution to convert the instructional materials into accessible format if the
+original format of the materials is not accessible. For example, hard copy print books or
+photocopied materials are not readable by persons with blindness, low vision, dyslexia,
+etc. If such learners are in the classroom, then institutions need to provide a service to
+make all required instructional materials in accessible formats such as accessible EPUB,
+braille, large print, audio, easy to read, plain language, and sign language, etc. Choice of
+the format would depend not only on the disability but also on the availability of assistive
+technology or skill level of persons who need such accessible materials or the choice of
+learners with disabilities.
+
+Note: If instructional materials are converted to the accessible digital format described
+above, then the same can be delivered in multiple formats such as braille, audio, or large
+print as per the requirements of the persons with disabilities. Thus, in most cases,
+providing instructional materials in accessible format involves the conversion of hard
+copy materials into accessible digital format.
+
+It is also preferable that persons with disabilities are provided with assistive technology
+such as computer/smart phone with screen reading software, refreshable braille display,
+DAISY player, etc. so that institutions can focus on the conversion of materials in
+accessible digital format. This digital document will then become audio, braille, or large
+print on the device of the person with disability. For example, if a person with blindness
+needs his/her materials in braille, then, it would be preferable to provide such students
+with a refreshable braille display along with the digital text readable on it. Similarly, for
+persons with hearing disabilities, the material should be provided through sign language
+or evolving technologies for Indian sign language translation.
+
+Suggested workflow for institutions is:
+
+1. Faculty and students with disabilities determine required instructional materials in
+an accessible format
+
+2.  Requirement is given to the designated person of the institution
+
+3.  Designated person organizes accessible format copy of the instructional material
+through
+
+41
+
+[PAGE 55]
+a.  Searching resources of accessible format books and if not available in an
+accessible format already, then:
+
+(i) Get material converted to accessible format through book conversion facility
+within the institution or
+
+(ii) Get the book converted through external resources such as conversion
+companies or NGOs providing such services on paid or voluntary contributions.
+
+b. Upload the accessible book on Sugamya Pustakalaya (national repository of
+accessible format books)
+
+c.  Deliver the book in the desired format to persons with disabilities or inform
+them that their book has been made available on Sugamya Pustakalaya from
+where they can download the book.
+
+3.2.4. Sugamya Pustakalaya
+
+Sugamya Pustakalaya is a shared online library of accessible format books created
+jointly by the Government of India and Non-government organizations.  It can be
+accessed online through www.sugamyapustakalaya.in. The key objective of this online
+repository of accessible format books is to avoid duplication of conversion of books in
+an accessible format. Conversion of instructional materials in accessible format needs
+a lot of financial and human resources. Instructional materials required in one institution
+would be useful for many institutions all across the country. When there is a need for
+any book in an accessible format, institutions need to search for the book on Sugamya
+Pustakalaya. If the book is not available there, then only the conversion of the book in
+accessible format should be done and then uploaded on Sugamya Pustakalaya to add
+the same to the national collection.
+
+Sugamya Pustakalaya has been created as a secure distribution system of accessible
+format materials produced under copyright exception for persons with print disabilities.
+It is part of the Accessible Book Consortium (ABC), Global Book Service hosted by the
+World Intellectual Property Organisation (WIPO). Partner libraries across the globe
+contribute their collections of accessible digital books to the ABC catalogue under the
+framework set out in the Marrakesh Treaty to facilitate access to published works for
+persons who are blind, visually impaired or otherwise print disabled.
+
+Thus, institutions are required to:
+·    Subscribe to Sugamya Pustakalaya
+·    Upload instructional materials and books converted to accessible format on it
+·    Provide membership of it to all students and faculty with print disabilities
+
+42
+
+[PAGE 56]
+3.3 Accessible Communication
+
+Communication is vital for any learning environment and particularly for students with
+hearing impairments. To take advantage of their residual hearing, amplification systems
+such as loop induction and/or FM system are recommended to be installed as they are
+beneficial to access acoustic information including alerts.
+
+To further enhance inclusion, videos in Indian Sign Language (ISL) should be developed
+for certain topics, where a deaf educator explains certain concepts in detail in sign
+language. It should be an additional link for those who may need it.
+
+The HEIs / universities shall advocate the development of Total Communication
+Strategies as part of their academic systems along with digital technological support
+through hearing enhancement systems, close captioning, sign language interpretation
+and relay services.
+
+3.4   Assistive Technologies for Diverse Needs
+
+Assistive Technology plays an important role in overcoming limitations caused by
+disability, especially in education. For example, a computer loaded with screen reading
+software enables students with blindness to read and write independently in the same
+format or mainstream script as everyone else, making them independent for all their
+reading and writing needs.
+
+As part of reasonable accommodation, the institution must ensure that every student or
+faculty or employee with a disability associated with them is provided the Assistive
+Technology required by them. The device must be accompanied with appropriate
+training so that they can fully utilize the Assistive Technology devices. Where relevant
+this  must  be  accompanied  by  awareness-raising  activities  and  sensitization
+programmes for different stakeholders such as teachers, family members etc. so that
+they are made aware of the usefulness of these solutions and the changes are
+sustainable and long-term. It is also essential to create awareness about the latest
+developments in the field of Assistive Technology solutions so that associated persons
+with disabilities can take full benefit of these solutions and acquire skills to use them for
+furthering their quality education and livelihood prospects.
+
+43
+
+[PAGE 57]
+For this, institutions of higher education shall:
+
+a) Organise at least one awareness and orientation seminar or workshop per year
+on the latest Assistive Technology solutions relevant for quality education and
+livelihood prospects.
+
+b) Create or associate with Assistive Technology resource centers where persons
+with disabilities could experience and choose appropriate Assistive Technology
+solutions with the help of Assistive Technology experts.
+
+c) Provide appropriate Assistive Technology devices to the associated persons with
+disabilities at subsidized rates or free of cost.
+
+d) Organise training for persons with disabilities to use Assistive Technology
+solutions.
+
+e) Organise awareness and orientation events for the teachers and family members
+of persons with  disabilities about Assistive Technology solutions so that
+capabilities developed through these solutions could be fully utilized and made
+part of teaching and learning methodologies. For example events for teachers,
+students with disabilities, and their peers on how to create accessible formats of
+documents.
+
+f)  HEIs would maintain a suggestive list of Assistive Technology solutions that may
+be provided under the subsidy scheme to persons with disabilities. A specific
+scheme may be formulated for this purpose.
+
+g) Work with persons with disabilities to provide the best service at their visit,
+consult  local communities and empanelled vendors to  integrate  assistive
+technology into their usage to meet the requirement of a varied range of
+disabilities.
+
+https://www.education.gov.in/sites/upload_files/mhrd/files/CWSN_E Content_guidelines.pdf
+
+---------------
+
+44
+
+[PAGE 59]
+4
+
+Inclusive Mobility
+Infrastructure
+
+[PAGE 61]
+4
+Inclusive Mobility Infrastructure
+
+Mobility is critical to all forms of life including education.  It is therefore extremely
+relevant and important to enhance accessibility to HEIs through inclusive mobility
+infrastructures keeping in view mobility to, from and in HEIs. This includes physical
+infrastructure for mobility like streets, kerbs, side walks, etc. along with para transit
+systems that a campus provides for mobility on it’s premises.
+
+All HEIs should get a mobility audit survey conducted of the campus to identify the needs
+of accessibility and sustainable mobility infrastructure for the diversity of students and
+staff and prepare a ‘mobility action plan’ to implement the same in a time-bound manner.
+
+4.1   Mobility to Campuses of HEIs (Public Transit Systems)
+
+The absence of reliable and accessible mobility options to and from the Higher
+Educational Institutions can be a huge barrier for enrolment and retention of students
+with disabilities but also staff with disabilities in the higher education system. The HEIs
+need to network with the public or state transport agencies to provide sustainable and
+accessible public transport facilities to the HEIs campus and back. These public
+transport means should respect the travel passes /concessional students passes
+provided by the Central or State governments. Until accessible public transport facilities
+have been organized, the HEIs should provide suitable accessible transport for attending
+the HEIs to persons with disabilities. The accessible vehicles so provided may be either
+low floor or with lift facilities and shall have wheelchair restraint systems for enhanced
+safety besides other support systems.
+
+Besides the above mentioned focus to evolve campus mobility systems, it is equally
+important to ensure that HEIs / universities provide accessible connectivity with diverse
+means of transport.
+
+48
+
+[PAGE 62]
+4.2   Inclusive Mobility on Campus
+
+The universities / HEIs shall ensure first to last mile connectivity on their campuses to
+ensure inclusive mobility for all. The HEIs shall provide wheelchair-accessible battery-
+run shuttle service vehicles or other appropriate alternates to move within campus to
+specific destinations enhancing connectivity  . This may also include provision of
+accessible mobility services from nearest mobility hubs to the HEI campus. Inclusive
+mobility within campus such as from the hostels to the departments, classrooms,
+libraries etc.   shall require to cater to diverse disability types including invisible
+disabilities related to hearing, vision, cognition, etc. The personal mobility for persons
+with disabilities shall be enhanced by offering need-based personal mobility devices
+such as wheelchairs, battery-run adaptations to wheelchairs, adapted scooters, smart
+canes and other  assistive technologies as deemed  fit by  utilizing the  existing
+government schemes or by introducing new schemes at the level of HEIs. While
+assessing the needs, persons with disabilities shall be consulted for their preference and
+suitability of the mobility device.
+
+4.3   Street infrastructure within HEI campuses
+
+4.3.1 The HEI campus must develop street infrastructure with accessible pedestrian
+pathways that are at least 1800 mm wide for two-way movement. The pathways should
+be continuous without breaks and have a firm, level, and non-slip surface and be well lit
+for use in low light conditions. Level crossings, traffic calming measures at appropriate
+junctions, accessible bollards, tactile pathways, appropriate seating heights in street
+furniture and a whole range of elements of mobility infrastructure needs to adhere to
+various relevant codes including Harmonised Guidelines & Standards for Universal
+Accessibility in India, 2021 issued by Ministry of Housing and Urban Affairs, Govt. of
+India.
+
+4.3.2 There should be accessible seating facilities provided along the street in the
+campus every 30 meters that don’t block the pedestrian access facility.  Enhancing
+walkability and making walkways wheelchair friendly is highly recommended as a
+priority for all HEIs. Not only this shall promote higher accessibility, but also advance
+measures for environmental sustainability.  It is therefore important that street and
+mobility infrastructures are well designed, regularly monitored and maintained, audited
+for accessibility to ensure inclusive mobility for all. Where feasible, mobility alternatives
+such as cycling and related infrastructure such as bike-sharing systems should also be
+developed in the HEI campus. Similarly, parking spaces including accessible parking
+spaces for cars and adapted vehicles shall be earmarked near all important buildings
+expecting students and staff with disabilities.
+
+49
+
+[PAGE 63]
+4.3.3 Accessible Drop off and boarding points should be provided on the campus where
+users can safely board and deboard the public / HEIs transport options near the facilities,
+units, or departments. Besides the above, accessible parking provisions for adapted
+scooters or other mobility devices of persons with disabilities and creation of reserved
+car and two wheeler parking be adopted across all HEIs.
+
+4.3.4 Further details for various elements of accessible street infrastructure like kerbs,
+kerb ramps, street furniture, tactile pathways etc. may be referred from the Harmonised
+Guidelines & Standards for Universal Accessibility in India, 2021 issued by Ministry of
+Housing and Urban Affairs, Govt. of India.
+
+4.4  GPS Mapping or Bluetooth beacon-based technologies to enhance orientation
+in the campus
+
+While an allocentric understanding of the environment is aided by constructing tactile
+and visual maps and by walking through the environment, accessible GPS mapping is a
+wonderful means to develop and reinforce an allocentric perspective and aid in easy
+mobility and orientation of persons with disabilities particularly those with vision
+disabilities within the HEI campus.
+
+The HEIs should enhance the accessibility of the campus by GPS mapping or using
+Bluetooth beacon-based technologies so that persons with disabilities can locate
+different departments, buildings, services, etc. through the use of technology.
+
+4.5   Signage and Wayfinding
+
+HEIs / Universities need to strengthen the infrastructure for accessible information
+systems through appropriate wayfinding systems, digital systems integrations and other
+measures across the campuses. For better orientation within the campus, accessible
+signage – informative and directional shall be provided in compliance with accessibility
+regulations. Visual and Tactile Maps  shall be provided uniformly across HEIs /
+universities to enhance way finding within the campus and buildings. Raised kerbs or
+tactile pavers shall be installed along with the pathways to guide users with vision
+disabilities for improved outdoor navigation in a holistic way. Electronic and Digital
+Signage Systems embedded with audio support and high visual contrast are also
+increasingly used to enhance accessibility for the diversity of users. Font type size of
+text, and illumination levels should comply with approved accessibility standards (Refer
+Chapter 5, Harmonised Guidelines & Standards for Universal Accessibility in India, 2021)
+
+Signage for emergency systems and alarms needs to be ensured at high priority,
+especially guiding to the nearest exits and accessible public assembly areas.
+
+50
+
+[PAGE 64]
+It is also to be ensured that all signage and information systems are adequately
+illuminated and well maintained to facilitate mobility and wayfinding for all.
+
+4.6   Provision of Repair/Maintenance of Mobility infrastructure and devices
+
+The HEIs should make provisions for constant upkeep and maintenance of mobility
+infrastructure created and mobility devices given to persons with disabilities, through
+annual maintenance programs. Repair Counters can be established for smaller repairs
+that do not require replacements and in that case, an alternate device be provided to the
+persons with disabilities to continue to take part in the campus activities. It would be
+vital to ensure appropriate quality checks for ensuring minimum maintenance issues
+while strengthening the maintenance services on each educational campus.
+
+Persons with disabilities should also be given prior training to use the various assistive
+devices and equipment.
+
+-----------------
+
+51
+
+[PAGE 67]
+5
+
+Universal Accessibility
+in Built Infrastructure
+
+[PAGE 69]
+5
+Universal Accessibility in Built Infrastructure
+Higher Education Institutes and universities require to not only envision but also ensure
+the idea of universal accessibility implemented in all campuses in a time bound manner
+across it’s entirety. Each campus of HEI or a university under future planning shall ensure
+strict compliance to accessibility norms as issued from time to time by the Government
+with a spirit of creating best practices of inclusive infrastructure on each campus. For
+all existing campuses, it is recommended to get them evaluated for accessibility through
+proper access audits carried out by competent access auditors leading to an action plan
+of implementing  accessibility  in various aspects of  built  infrastructure of HEIs.
+Eventually, a proper certification of “accessibility for persons with disabilities” be
+attained to be classified as an accessible campus.
+The Access Audit Reports and the prioritized action plan should be placed on the website
+of the HEIs. For accessibility of built infrastructure, the standards provided under Rule
+15 of the RPWD Rules along with the National Building Code (as updated from time to
+time) shall be followed. It shall be mandatory for HEIs/ universities and colleges to
+adhere to built environment accessibility standards as above for recognition from UGC.
+It is vital to understand that accessibility is a dynamic concept and not a static one. An
+accessible built infrastructure  if not well maintained or serviced can also become
+inaccessible in temporary terms. It is, therefore, crucial that the maintenance and service
+of built environment of each HEI is strengthened appropriately to ensure accessibility at
+all times and not just at the inception stage. This section focuses on key aspects of
+campus accessibility for their built environments and guides the various elements to be
+made accessible.
+
+5.1    Site Planning of Campuses
+
+5.1.1. Site planning of HEIs and their campuses involves the overall planning of
+educational environments which needs to sensitively respond to a human centric
+approach incorporating the principles of universal design from the beginning itself.
+Universal accessibility needs to start from the point of campus entrance to the total
+experience of being on campus in every facet of it, be it mobility, be it learning, be it
+recreation or any other form of activities. Site planning is one of the first steps to ensure
+
+56
+
+[PAGE 70]
+the holistic implementation of accessibility in the campus built and unbuilt environment
+including enclosed and open space planning.
+
+5.1.2 A wide range of elements require to be designed and planned for accessibility
+through site planning. Some of them include kerbs, kerb ramps, side walks, open spaces,
+walkways, parking, levels, signage and campus maps, street crossings, street furniture,
+tactile pathways, public washrooms, drinking water, etc. Harmonised guidelines for
+universal accessibility for India, 2021 may be followed to understand the various
+accessibility aspects of these elements.
+
+5.1.3 However, in specific to education environments, it is crucial to sensitively plan and
+design for accessible learning and interactive spaces in outdoor environments. For eg.
+Provision of all weather spaces for interaction with proper access route for pedestrians
+and wheelchairs should be planned for inclusion in the campus sites. Tactile pathways
+through use of appropriate materials shall be continuous on these access routes and
+make proper interconnections to support independent mobility of persons with visual
+impairments.
+
+5.1.4 Site planning needs to ensure access to sports infrastructure for all including
+persons with diverse or limited functional abilities or impairments. Access to outdoor
+and indoor sports complexes shall ensure equal opportunities for participation in the
+overall campus life of a student.
+
+5.1.5 Considering diverse geographical and climatic contexts of India for various HEIs,
+appropriate measures need to be taken to ensure access in extreme climatic conditions
+like in heavy rainfall led areas, snow contexts or extremely high temperatures, etc.
+Design of built forms, their elements and material specifications need to respond to the
+above mentioned situations to ensure accessibility at all times.
+
+The HEI campuses should be planned and designed as an integral unit from the very
+beginning of the design process incorporating accessibility and universal design and
+planning each facility/component from alighting points, pathways, parking, ramps,
+tactile ground surface indicators, toilets, and urinals for ambulant and non-ambulant
+users, lifts, stairs, signages, etc. The accessibility is not a one-time affair and should be
+maintained as universally accessible for the life of the facility or product.
+
+5.1.6 The minute access features, such as stable,  firm,  level,  slip-resistant, and
+preferably matt finish surfaces on all kinds of floors, walkway, ramps, and stairs;
+installation of circular handrails on both sides for required load-bearing; doors – their
+lever handles, widths, opening forces, vision panels and kick  plates; heights of
+washbasins, controls, commode seats, bevelling thresholds and addressing level
+changes, mirrors, TGSI placements, ergonomics, wall signage with raised tactile and
+
+57
+
+[PAGE 71]
+braille in good colour contrast, etc need to be ensured meeting the requisite design
+standards in the approved national guidelines above.
+
+5.1.7 Pedestrian pathways should be smooth, hard, and have a leveled surface suitable
+for walking and wheeling. Irregular surfaces such as cobble stones, coarsely exposed
+aggregate concrete, bricks, etc. often cause bumpy rides and should be avoided. The
+minimum walkway width for two-way traffic should be 1800 mm. The pathway should
+have a tactile orientation to enhance orientation for users with visual disabilities and
+have kerb ramps at the crossings. The pathway should connect all sub buildings and
+elements in the campus.
+
+5.1.8 Access routes/ Floor surfaces should not have any projections, drops, or an
+unexpected variation in level. A vertical clearance of 2100 mm should be ensured on the
+accessible pathway and there should be no obstacles protruding into the pathway or
+access route. Where unavoidable, protruding objects should not reduce the clear width
+of an accessible route or manoeuvring space. Free-standing columns and posts within
+an access route should incorporate a band of 200 mm, between heights of 1400 mm
+and 1600 mm from the walkway floor surface. Lighting should illuminate the walkway
+and lighting fixtures not exceeding a height of 4m from ground level should be provided.
+White lighting at an average 35-40 lux be provided to ensure colour contrast of tactile
+pavers and visible at night to persons with low vision. Ensure that the lighting poles are
+located in tree planting zones and do not reduce the width clearance of pathways.
+
+5.2  Academic Buildings and Learning Spaces
+
+[ Classrooms, Libraries, Laboratories, and other learning environments ]
+
+5.2.1 Academic & Learning Spaces
+
+Academic purpose infrastructure extending into other learning spaces as an integrated
+whole shall be made universally accessible focusing on spaces like classrooms, lecture
+theatres, seminar rooms,  tutorial rooms, laboratories of  all kinds, along with  all
+interactive spaces (both indoor and outdoor) across HEIs.
+
+The academic spaces shall provide easy access to different levels  in the  built
+environment through ramps and lifts and sufficient circulation spaces to manoeuvre and
+turn for people using mobility devices or assistive technologies and equipment such as
+walkers, wheelchairs, etc. Various controls should be provided at reachable heights and
+seating, working and learning tables providing knee clearances of 680-700mm, and
+space for approach and use of 900mm x 1350mm.
+
+58
+
+[PAGE 72]
+5.2.2  Library Facilities
+
+The teaching boards shall be preferably with an adjustable height feature or low height
+so that a teaching faculty using a wheelchair or one with a short stature could also easily
+use it. Raised Platforms for faculty should be avoided where possible and provided safe
+and convenient ramped access, where unavoidable. The seating in the class should be
+designed to accommodate students of varied learning styles and abilities. It needs to
+ensure adequate manoeuvring space for wheelchairs in the aisles of the classroom
+furniture. A typical wheelchair turning diameter is assumed in the range of 1500 to 1800
+mm for all general purposes of spatial planning.
+
+The library and knowledge resource centres shall ensure access for all. This involves
+having an accessible entrance features along with other aspects of the library facilities
+and equipment should be accessible and all open book stacks should be placed at or
+able to be pulled down to accessible heights for persons with disabilities. Aisle spaces
+shall ensure wheelchair manoeuvrability in library spaces. Inclusive infrastructure and
+spatial arrangement should be made for people with hearing and vision disabilities who
+need assistance while reading. Wherever library infrastructure poses limitations to
+reasonable accommodations,  it needs to be ensured that library services are then
+rendered to the students / persons with disabilities.
+
+5.2.3 Hybrid Education Accessibility
+
+The built environment of the HEIs should facilitate hybrid and blended modes of
+education. Necessary equipment, technology should be deployed in the classroom that
+allows hybrid learning possible to include students with diverse abilities. Where students
+need support in terms of equipment, data connectivity etc, the same may be provided by
+the HEIs under different schemes. Procurement of such equipment and technologies
+shall be complying with procurement guidelines referred hereafter.
+
+5.2.4  Illumination in the learning spaces
+
+To improve the education environment, classrooms and learning spaces need good
+lighting. Good lighting makes the students feel safe, improves learning. A lighting level
+of 250-300 lux is appropriate in a classroom where students spend most of their time
+and focus on learning. To draw attention to the area where the teacher is located, to
+contribute to the students’ concentration, higher illumination levels of 500-750 lux are
+preferable. Lighting should be positioned in a way to provide sufficient lighting on the
+face of the faculty so that lip reading is possible for students with hearing disabilities.
+Adults require 500 lux as visual acuity decreases with age. Shielded luminaires prevent
+irritating glare, keeping eyes fresh for longer.
+
+59
+
+[PAGE 73]
+For both - a classic blackboard or a modern whiteboard, the area should receive 500 lux,
+with a high degree of uniformity to ensure optimum perception and legibility even from
+the back of the room. For projection systems, presentations, or use of smart boards, it
+should be possible to dim the lighting system or only illuminate parts of the room as per
+the requirements and such controls should be accessible.
+
+Flicker and glare is a critical issue in classroom lighting and must be avoided in all cases
+as they may cause eye strain and headache beyond disturbing students negatively
+impacting the teaching-learning process. LED lighting systems should be used which are
+not only energy-efficient but also reduce shadows and improve visibility.
+
+It is encouraged to orient buildings to suit the best possible daylight features with
+climate responsive design and ensuring adequate contrast with classroom or space
+interiors. Responsive lighting to suit the contemporary needs of projector and digital
+based
+
+5.2.5 Classroom Acoustics
+
+Hearing and understanding are important parts of the learning process. A noisy
+classroom or a learning environment can make these tasks difficult. The class design
+should incorporate elements to ensure that the background noise can be kept to a
+minimum to facilitate the teaching-learning.  Students with hearing disabilities can
+struggle even  in rooms with the best acoustics. Good acoustic environment  in
+classrooms requires to be created through
+
+(a) architectural design of classroom
+
+(b) use of appropriate materials for indoor surface treatment (preferably sound
+absorbing materials like soft boards, etc.).
+
+(c) use  of  appropriate technologies  for sound emission  like speaker systems,
+microphones, etc.
+
+especially for large classrooms or lecture theatres. To ensure inclusion of persons with
+hearing impairments in classrooms, HEIs should therefore install and provide for
+
+a.) Appropriate state of the art technologies to augment hearing loss. For eg. Loop
+Induction Systems, Digital Interfaces with transcriptions, Speech to Text translations,
+etc.
+
+b.) Sign Language Interpretation for all activities academic or non- academic in learning
+spaces like classrooms, laboratories, auditoriums, meeting halls, conference rooms, etc.
+
+60
+
+[PAGE 74]
+5.2.6  Vertical Circulation
+
+HEIs shall ensure that all buildings including their different floors that are open to use by
+faculty, staff, or students are accessible through ramp/lifts and all level changes are
+addressed for universal accessibility. For vertical rise or level difference up to 150 mm,
+kerb ramps or slope ramps without the need of handrails will be provided.
+
+For level differences over 150 mm, ramps shall accompany handrails on both sides at
+two levels (700mm, 900mm) that provide the continuous grip/ hold during the entire
+incline including at landings.
+
+Many ambulant persons with disabilities negotiate steps more easily and safely. Hence,
+it is preferable to provide accessibility by both steps and ramps. Where the horizontal
+run of the approach ramp exceeds 9000 mm length, an alternative stepped approach, in
+addition to the ramp approach, should be provided for people with ambulatory
+disabilities. The ramp gradients (ranging between 1:12 to 1:20) and width (ranging
+between 1200mm-1800mm)  shall be  in accordance with the  vertical  rise being
+addressed by the ramp, as per the approved standards.
+
+Steps/stairs provided shall have a uniform tread and riser of 300mm and 150mm
+respectively with handrails on both sides at two levels to cater to people with different
+heights. The stair edges shall be provided with a 40mm colour contrasting band to make
+the level change discernible to people with vision disabilities. Tactile warning pavers
+shall be provided 300mm before and after the ramp/stair run.
+
+Where there is a large change in elevation that requires multiple ramps and landing
+combinations, accessible lifts/ elevators shall be provided. A lift that accommodates
+1500mm x 1500mm space for 90 degrees turn of a wheelchair inside the lift car shall be
+provided, with a preference to a 13-passenger lift. The clear door width of 900mm and
+lift controls inside the car and in the lift lobby shall be at reachable heights and other
+accessibility features such as braille, tactile controls, audio visual announcements,
+handrails, view mirrors, and signage to identify the accessible lift, etc. complying with
+the approved standards.
+
+5.3   Assembly Areas / Auditoriums
+
+Large congregational spaces in HEIs or universities like assembly halls, auditoriums,
+open air theatres, convention centres, convocation halls or senate halls,  etc. have
+specific purpose at different times of an year to facilitate various activities. It is essential
+that all such spaces known by different terminologies in different campuses to ensure
+universal accessibility in their design, layout and in their operations as well.
+
+61
+
+[PAGE 75]
+This includes accessible parking provisions (reserved) outside these spaces, accessible
+entrances, accessible seating including access to stage / backstage areas ensuring
+equity for all.
+
+It should be possible for persons with impaired mobility to access both – the stage and
+floor seating area. The floor for a wheelchair viewing space should be connected to an
+accessible path of travel and have an unobstructed view at eye level up to 1200mm and
+should not be reduced by standing members of the audience. The rows and seat number
+identification signs should be in braille and tactile to be legible for visual disability users.
+
+Fig.5.1 Examples of viewing spaces for wheelchair users in assembly areas/ auditoriums (source: NBC 2016)
+
+5.4   Hostels and Guest Houses
+
+Hostels and Guest Houses in the HEIs should be designed based on universal design
+and accessibility and have wider doors, controls on reachable heights, and circulation
+spaces among other access features. 10% hostel rooms should be made friendly for
+wheelchair users and have attached accessible toilets complying with the approved
+standards. Guest houses in the HEIs should also have atleast two rooms accessible with
+attached accessible washrooms in them. Where student dormitories are provided,
+provision of accessible unisex washroom and bathing/shower areas should be provided
+on each floor complying with approved standards.
+
+62
+
+[PAGE 76]
+5.5 Mess, Canteens and Common Dining Facilities
+
+Mess and canteen services provided  in the HEIs should be
+accessible based on  universal design and  accessibility and
+existing ones should be retrofitted. In self-service canteens/ mess,
+tray slides and counters should be mounted at 800mm from the
+floor for wheelchair users.
+
+Food shelves should be mounted at a maximum height of 1200
+mm and aisle space of a minimum 900 mm should be provided.
+Cantilevered tables or tables with straight legs at each corner are
+preferable to central pedestals that might restrict wheelchair
+access.  Stools and high tables are not suitable for wheelchair
+users.
+
+Therefore, accessible tables should be provided as well. ( see figure: Height of food shelf and
+aisle space for easy access (source: United Nations - https://www.un.org/esa/socdev/enable/designm/AD3-
+01.htm ))
+
+5.6 Accessible Sanitary Provisions
+
+Sanitation systems and  their adequacy remains one of the  critical aspects of
+accessibility in Institutions of higher education across the nation. In all HEIs/Universities,
+it needs to be ensured that an accessible unisex toilet is made available at all strategic
+locations wherever the washrooms for both genders are also made available. Accessible
+toilets should always be signposted with international signage of accessibility.
+
+The accessible toilets and others shall follow the Harmonised Guidelines 2021 for the
+same. Further, it needs to be ensured that persons with sensory disabilities (visual or
+hearing), persons with neuro diverse conditions and several other disabilities may also
+require to use the general washrooms with adaptive features like low height washbasin,
+low height urinal with grab rails, adapted Indian wc with grab rails and other supporting
+features including baby changing stations.
+
+Independent entry and door opening outside should be provided at all locations where a
+general toilet is provided. The unisex toilet should be designed to also meet the needs
+of persons with high support needs and those with multiple disabilities).
+
+It is recommended to use double action doors which can open in both directions
+especially for the accessible unisex toilets.
+
+In the single-sex toilets (male and female), one toilet cubicle meeting the requirements
+for ambulant disabled users should be provided (with an internal dimension of 900mm
+x 1500mm) with a door opening outside.
+
+63
+
+[PAGE 77]
+In male toilets, one urinal should be provided for ambulant disabled with front handrail
+support with no steps/level difference to access. The law also requires an independent
+toilet unit for transgender persons.
+
+The Unisex toilet and Female toilets should have bins to collect used sanitary napkins
+and incineration facilities. The toilet facilities in general should have a high level of
+hygiene and should be regularly maintained.
+
+(For details, see Harmonized Guidelines 2021 )
+
+5.7  Administrative Spaces
+
+The administrative spaces in the HEIs / universities should also be accessible to
+Persons with Disabilities. Means of access through step free entrances or through
+ramps and /lifts complying with the gradients and specifications should be made.
+Accessible reception counters alongwith assistance and accessible seating and desks
+should be provided in administrative offices among other things. Further, offices of
+administrative staff shall also ensure accessibility through doorways, maneuvering
+spaces, furniture types, etc. besides sensitivity to administrative staff towards persons
+with disabilities and others with diverse needs.
+
+5.8  Recreational Spaces, Common rooms, Activity Rooms, Gyms/Yoga Halls,
+
+All recreational spaces, common rooms, activity halls or rooms, gymnasium, yoga halls,
+etc in the HEIs should have easy access and be built on the Universal Design and
+accessibility parameters with step-free wider access doors. Sports and recreational
+equipment should be accessible and space for approach and use be ensured. Where
+needed, persons with  disabilities be consulted for the installation of specialized
+exercise/sports equipment.
+
+5.9  Accessible Parking Facilities
+
+Dedicated accessible parking facilities should be earmarked, signposted within 30
+meters of various departments, buildings for cars, and adapted four-wheelers and two-
+wheelers with side wheels. Misuse of these facilities by non-disabled users should be
+prevented through regulatory means and be progressively monitored.
+
+Parking facilities shall connect with the main entrances of the buildings through a proper
+access route facilitating access for all. Tactile pathways to facilitate persons with visual
+impairments shall be ensured across all such access pathways.
+
+64
+
+[PAGE 78]
+5.10  Campus Amenities: Banks, ATMs, Post Office, Shops, etc.
+
+Amenities provided on the campus shall ensure physical accessibility for persons with
+disabilities. Banks and ATMs will have ramps with handrails, wider doors for easy
+access. The counter height shall be dual so that standing and sitting users could easily
+transact in the banks. The ATM/ vending machines installed in the HEIs shall be of low
+height with knee clearance, with space for approach and use, and safety features
+complying with the approved guidelines. These should be braille enabled and have a jack
+or alternative mechanisms for hearing output for people with vision disabilities.
+
+(see figure below. Accessible Vending Machine (source: NBC))
+
+5.11  Accessible Signage in the campus/buildings
+
+People need clear information about the purpose and layout of spaces to maintain a
+sense of direction and independent use of a building. Often visual and tactile information
+is reinforced by audible information. Information may take the form of visual information
+(e.g. signs, notice boards), audible information (e.g. public address and security
+systems, induction loops, telephones, and infrared devices), or tactile information (e.g.
+signs with embossed lettering or Braille).
+
+65
+
+[PAGE 79]
+To enhance orientation and wayfinding on campus, all HEIs, should get a signage audit
+done for their campus covering the following areas:
+
+a. the location, accessibility, layout, and height of signs;
+b. the type of fonts, size of lettering, symbols, and their reading distances;
+c. the use of tactile letters and symbols and braille;
+d. visual contrast and lighting/signage illumination;
+e. the finished surfaces of materials used for signs and symbols;
+f. the simultaneous use of audible cues;
+g. integration with any other communication systems.
+h. tactile maps and models for orientation.
+
+The International Symbol of Accessibility must be displayed at all accessible entrances.
+If an entrance is not accessible, directions to an accessible route, including the symbol,
+must be provided. Similar guidelines refer to elevators, evacuation and refuge areas,
+restrooms and bathing facilities, etc.
+
+Tactile maps or models should be provided to help the visual disabilities users who may
+be unable to read signs, and people with hearing disabilities who may not be able to
+understand verbal directions for navigating around a building.
+
+The signage material should be non-reflective, preferably a matt finish. It should have a
+non-glary and non-glossy surface. Natural and artificial light should be such so as not to
+produce a glare on the signage surface. The material of all signage should be chosen to
+reduce wear and tear and possible damage by vandalism and at the same time easy to
+maintain.
+
+5.12. Accessible Emergency Preparedness
+
+In all HEIs, accessible fire exits should be marked by placing signages. Fire escape plan,
+emergency alarm both audio (hooter type) and visual (flashing bulb) to be provided at
+strategic locations to be accessible to the users with vision and hearing disabilities. The
+evacuation route should be free of any level difference and should be kept free from
+obstacles such as furniture, coolers, AC units, flower pots, etc. Signage should be placed
+at various important locations. Exit Routes should be at least 1200 mm wide, to ensure
+that a person using a wheelchair and a non-disabled person can pass each other along
+the route. Fire extinguishers may be placed at strategic locations in the building,
+preferably recessed so as not to become protruding barriers beyond the detection range
+of  white cane  in  circulation spaces. Assembly  points  for  the area  of rescue
+assistance/refuge area for persons with disabilities should be earmarked and be made
+
+66
+
+[PAGE 80]
+accessible through the route that connects them. The earmarked area should preferably
+be open to the sky and easily accessible and should also be easy to evacuate from by
+the emergency responders.
+
+A communication system that allows two-way communications – both visual & auditory
+should be available at the assembly point/ refuge point. Many persons with disabilities
+can be active contributors to disaster mitigation such as fire & other emergencies. They
+should not be always presumed to be passive recipients of assistance.  A  fire
+extinguisher should be placed at a height of 750-900 mm from the ground so that in case
+of emergency, persons with disability can also operate the same. Persons with a
+disability should also be trained to use such tools so that they can help themselves and
+others in case of emergency. For further details approved accessibility standards such as
+the Harmonised Guidelines 2021 and National Building Code may be referred.
+
+-----------------
+
+67
+
+[PAGE 83]
+6
+
+Accessible Curriculum,
+Teaching and Learning
+Systems
+
+[PAGE 85]
+6
+Accessible Curriculum, Teaching and
+Learning Systems
+
+6.1. Equitable Access to Curriculum
+All students can learn. Disability inclusion in education needs to build systems of
+support. Access to education only can be possible with an accessible curriculum.
+Self-esteem and learning process is impaired if the curriculum and teaching are
+not accessible to some of the students.
+6.1.1  Equitable access  to education  is safeguarded by reducing  inequality by
+eliminating issues related to curriculum design, teaching and learning. Accessible
+curriculum and effective instructional practices bring quality education for
+students with disabilities. This leads to a change in people’s beliefs about what
+such students know and can do. Inclusive policies lead to inclusive practices and
+that ultimately further lead to an inclusive culture in HEIs by creating an
+atmosphere where everybody feels valued and supported.
+6.1.2.  Accessibility  is relevant to  all  individuals and processes associated with
+curriculum  design,  teaching, assessment as  well as student support. An
+accessible curriculum should be supported by an accessible infrastructure of
+student support services and interfaces across the higher education institutions.
+
+6.2. Delivering Accessible Curriculum
+Delivering an accessible curriculum is more of a process by means of anticipating
+diverse preferences, needs,  abilities among students and providing  in-built
+flexibility and anticipatory adjustment. An accessible curriculum contributes to
+equality, inclusion, participation and engagement among students that leads to
+students’ optimum learning outcome, satisfaction and wellbeing. The accessible
+curriculum not  only  anticipates and expects  diverse needs,  abilities and
+preferences among  its students but also teachers and assessors. Hence
+accessibility is a marker of quality in curriculum and a legal requirement.
+.      Diverse learners are resources, not deficits in the classroom. To ensure equitable
+participation in learning, the students should be able to benefit in a meaningful
+way from  the  curriculum and  teaching-learning  process.  Presentation  of
+
+72
+
+[PAGE 86]
+materials, engagement with material and assessment of learning should be
+flexible with required accommodation and adaptations/modifications.
+6.2.1. Accommodation is a specific tool or a device or a strategy designed to
+support the needs of persons with  disabilities. The use of specific
+language or media to accommodate the specific needs of a student such
+as Braille, screen reading devices, Indian sign language, or Alternative
+Augmentative Communication (AAC) are a few examples that ensure
+equitable participation.
+6.2.2.  Furthermore, adaptations or modifications are changes in the level or
+method of instruction that a student receives as a result of his or her
+specific disability. Additional teaching time, personalized learning support,
+reduced difficulty level are a few examples of adaptation. It should be
+designed in such a way that accommodation and modifications do not
+affect full access to the curriculum.
+
+6.3. Provision of Flexibility and Adjustment in an Accessible Curriculum
+An accessible curriculum uses formats, processes and language which
+anticipate the need for choices, flexibility and reasonable adjustment in
+teaching and assessment. Thus, higher education institutions need to
+develop their accommodation policy and procedure to avail these. This
+would   clearly  state  about  the  accommodation  plan  and   its
+implementation. Accommodation should include alternate formats and
+instructional materials.
+6.3.1. The alternate formats should be made available by conversion of one
+format  into another to make the content accessible. The common
+converted formats are: electronic version of print material, print to Braille
+or audio or large print, captioning of video, transcription of video or audio
+materials.
+6.3.2. Choices for instruction materials need to be broadened. Reasonable
+efforts should be made by the faculty and institutions to make resources
+available such as course text books/e-books, audio/visual multimedia
+materials, online course contents. Additional efforts need to be made to
+prepare class handouts, a list of required and recommended reading,
+assignment information, grading rubrics, test and examination-related
+materials.
+6.3.3. Difficulty level may be decided as per the learning profile of the student.
+The faculty needs to (i) adapt skill level, problem type or rules on how the
+learner may approach the work, (ii) allow the use of a calculator, (iii) set up
+word bank for weekly vocabulary words, spelling words, (iii) provide page
+numbers and paragraph to help students find answers, (iv) simplify written
+
+73
+
+[PAGE 87]
+directions by limiting words and numbering steps and pages, (v) simplify
+task directions. The faculty should make homework relevant to what has
+been covered in class.
+
+6.4. Social-Emotional Learning (SEL)
+Besides structured learning, incidental learning in higher educational institutions
+(observation, social interaction, Problem-solving) also contributes greatly to the
+educational outcomes of the students with disabilities. Equitable access reduces
+stress and improves opportunities as well as the capability of the student with
+diverse needs to learn from the environment. Social-Emotional Learning (SEL)
+plays a significant role. SEL focuses on students' needs for motivation, social
+connectedness,  and  self-regulation  as  prerequisites  for  learning.  The
+development of a safe social and emotional learning climate is a must and also
+considered  as a  prerequisite  for SEL  through  positive  acceptance and
+interactions by peers and teachers. Students must feel that they have somebody
+to speak to when they are worried or upset. The teachers make themselves
+available to talk to them privately. The teaching-learning environment needs to
+provide opportunities to diverse students to improve their social skills too.
+
+6.5. Adaptations in Teaching-Learning Process
+As per need, the faculty may bring modifications or adaptations in the teaching-
+learning process in terms of volume of work, time, support, level of difficulty,
+participation and physical adaptation.
+6.5.1. Reduce the volume of work by considering to; (i) optimise the amount of
+copying, (ii) optimise the number of problems, (iii) optimise the number of
+terms that the student must learn at one time, (iv)optimise the number of
+concepts that need to be introduced in a given time. The teacher needs to
+coordinate assignments with other teachers to avoid overload on the part
+of the student and reduce homework assignments or modify them when
+students get stressed.
+6.5.2. Faculty needs to adjust the time in respect of (i) allowing extra time in class
+or outside for completion, (ii) providing additional time on task with an
+overview of the lesson before actual teaching, (iii) allowing extra time to
+complete a  project,  (iv)  allow  the  student  to  take  short  breaks.
+Personalized support may be given by individualizing a timeline for a
+student for completing a task.
+6.5.3.  Students need support from time to time. Provide the support by  (i)
+increasing the amount of personal assistance with a specific learner, (ii)
+assigning peer buddies or peer tutors, (iii) providing cooperative work in a
+
+74
+
+[PAGE 88]
+small group, (iv) copying notes from the presentation so the student who
+cannot write well or listen effectively can have notes to study. The faculty
+may prepare additional materials that the student can use at home.
+
+6.6. Accessible Library Resources
+The library also needs to follow a reasonable accommodation policy to make the
+library resources  available  in  alternate formats, procure multimedia/video
+resources and make arrangements to provide alternate and accessible format
+materials to the persons with disabilities Library facilities and services should
+include talking books library networked through ‘Talking Book Libraries in India’.
+Also, the facility should have a print-accessible library so that any content of the
+library can be accessible to all including users having disabilities. ‘Bookshare
+International’, the world’s largest online library offers an accessible e-Book for
+people with reading barriers.
+
+6.7. Universal Design for Learning for Creating an Equitable Classroom
+No single method can reach all learners; hence there is a need of having multiple
+pathways to achieve the goals of instruction. Universal Design is not just a
+technique for special education; rather it is a technique to enhance learning of all
+students in an inclusive manner. The faculty needs to consider Universal Design
+for Learning (UDL) for the following key .
+6.7.1.  It follows universality and equity. Planning of learning opportunities must
+cover the learning of all students, whatever their level of achievement, and
+help each one reach his or her potential.
+6.7.2.  It follows flexibility and inclusiveness. The planning of teaching and the
+time teachers allocate to students’ activities must be sufficiently flexible
+to provide real learning experiences for all students, regardless of their
+performance  level.  Students  are accommodated  through  different
+teaching strategies and learning materials that are relevant, engaging, and
+responsive to their learning needs; that makes use of all the senses; and
+that vary in form, level of difficulty, and manner of presentation;
+6.7.3.  It considers appropriately designed space. A learning environment should
+ensure that for example: (i) all students have a clear line of sight, (ii) all
+learning materials, including print, electronic, and interactive texts, are
+within comfortable reach of all students, (iii) there is adequate space for
+assistive devices.
+6.7.4.   It follows the principle of simplicity. Teachers can avoid unnecessary
+complexity and minimize distracting information by (i) Communicating
+consistent and achievable expectations, (ii) collaborating with students to
+
+75
+
+[PAGE 89]
+construct  learning  goals, using  clear,  student-friendly language,  (iii)
+arranging information sequentially to clarify its relative importance, (iv)
+breaking instructions down into small steps, (v) providing descriptive
+feedback during the learning.
+6.7.5.  Safety is a precondition for learning. Classrooms must be safe both
+physically and  emotionally. They must  provide a  caring and  safe
+environment that is engaging, inclusive, and respectful of all students and
+promotes student achievement and well-being, allowing every student to
+learn to the best of his or her ability.
+
+6.8. Applying Universal Design for Learning
+Universal Design for Learning (UDL) as an approach shall be encouraged in
+higher education institutions by using a variety of teaching and learning materials
+that represent all modalities (i.e., that make use of all the senses, that employ
+different media, and so on). Use of multiple means of presentation, at various
+levels of difficulty, as deemed appropriate for the students in the class (e.g.,
+present information using  visual, auditory, and kinaesthetic formats during
+instruction; this includes auditory as well as a visual mode of language including
+Sign Language). Make varied use of space ensuring flexible models of learning.
+Ensure access to various types of information and communication technology
+tools to facilitate learning and adequate space and a minimum of distractions, so
+that students can concentrate on instructional elements. It is important to ensure
+that the classroom is a caring and safe learning environment. Teachers need to
+act as facilitators and are encouraged to move out of their comfort zone and
+concentrate on (i) listening to the learners from diverse needs, (ii) reflecting on
+experience while doing teaching-learning adjustment for all students means ‘all’
+including students with diverse needs, (iii) Rethinking for improving the teaching-
+learning process on a regular basis.
+
+6.9. Designing Accessible Course Materials
+.     Developing accessible courses/ course materials is the key task for any higher
+education institution to support inclusion.  It is important to ensure that the
+students with disabilities can engage and interact with the content in a way
+similar to the students without disabilities.
+6.9.1. Content developers must  leverage  Assistive Technology  to design
+accessible courses. For example, videos should be available with captions for
+those who have hearing disabilities and there should be audio support for the
+students with visual disabilities. Students with visual disabilities should be able
+to access content using screen reader technology. If the PDF is simply a scanned
+image, the screen reader technology will not be able to read it. Then students with
+
+76
+
+[PAGE 90]
+reading difficulties (Dyslexia) have limited abilities to read the printed word and
+need access to assistive technologies that allow them to view the word and also
+hear it at the same time.
+6.9.2. While designing accessible courses, the teachers must consider (i) easy-to-
+read fonts, (ii) colour contrast for the text, (iii) simple formatting, (iv) adding
+of audio/video files. Avoid unnecessary use of bold and italics. The audio
+contents should be prepared to have no background noise. It is important
+to include transcripts of audio and video lectures which students can
+access with assistive technologies.
+
+6.10. Formulating Internal Policy for Inclusive Curricula and Teaching by HEIs
+The HEIs/Universities need to prepare their own detailed internal policy and
+procedures for their curriculum along with teaching and learning process by
+including the following guiding points.
+6.10.1. Curriculum should provide advanced information to students about how
+they will be taught, what type of activities they will need to undertake and
+how and why they will be assessed.
+6.10.2. New teaching and learning strategies should highlight the commitment to
+designing and delivering accessible curricula.
+6.10.3. Existing curriculum needs to be updated by including teaching methods,
+learning outcomes and assessment design to ensure support for diverse
+student abilities, needs and preferences.
+6.10.4. Expert committee for approval of curriculum or courses should routinely
+include an  individual who can address matters  of  accessibility  in
+curriculum design.
+6.10.5. Institutions should develop a code of practice on teaching and learning
+that requires lecture notes, slides or other course materials to be made
+available to the students in advance. Sign language support services (like
+sign language interpreters, relay services, training, technology solutions as
+services, etc.) also should be made available wherever required.
+6.10.6. HEIs/Universities should organize training of its faculty members on
+accessible curriculum and inclusive teaching-learning process (for eg. Use
+of appropriate pedagogy, augmentative and alternative modes, diverse
+means and formats  of communication,  etc.)  or encourage  faculty
+members to receive similar training from appropriate resources.
+-----------------
+
+77
+
+[PAGE 93]
+7
+
+Accessible Assessment
+and Examination
+Systems
+
+[PAGE 95]
+7
+Accessible Assessment and
+Examination Systems
+
+Access to education only can be possible with an accessible curriculum and
+provisions for accessible assessment or examination systems. Diversification of
+assessment  helps  students  having  different  abilities and  disabilities  to
+demonstrate their learning. Traditional and non-flexible assessment methods
+favour students with particular skills and preferences; and it works well for a
+particular group of students who have good recall under pressure and have no
+disability. Hence HEIs must adopt a range of assessment methods across a
+course/program that allows a greater number of students to show their abilities.
+An accessible examination system contributes to equality, inclusion, participation
+and engagement among students that leads to students’ optimum learning
+outcome, satisfaction and wellbeing.
+
+7.1. Need for Accessible Assessment
+Providing an accessible assessment is more of a process through anticipating
+diverse preferences, needs,  abilities among students and providing  in-built
+flexibility and anticipatory adjustment. It provides equal footing and allows testing
+of students’ knowledge, not their disability. Any modification that is used in the
+regular classroom that helps the person with a disability, the same should be
+provided during testing also.
+7.1.1. Assessment  of  learning  should be  flexible and   it would use  required
+accommodation, adaptations, or modifications. For accommodating the diverse
+needs of a student, a specific tool or a device or a strategy should be used. The
+use of Braille, large print, screen reading devices, are a few examples that ensure
+equitable participation in the assessment process. Furthermore, adaptations or
+modifications are changes in the level or method of instruction that a student
+receives as a result of his or her specific disability.
+7.1.2. Accessible assessment should be an  integral  or  inbuilt  feature  of any
+assessment. For example, students with visual disabilities have access to the test
+
+82
+
+[PAGE 96]
+using a screen reader or students can personalize their view of the questions (eg.
+Font type, sizes or colours) or text to speech software can read out questions
+loud. This may help students who are dyslexic or with vision disabilities who can
+independently access the meaning of questions or accompanying resources.
+
+7.2. Enabling Assessment Process Accessible
+To make the assessment process accessible, change in test procedure or
+material, timing, setting, scheduling, presentation or response format is required.
+The use of assistive devices should be permitted and encouraged. Modifications
+used cannot change the meaning or comparability of scores of the tests.
+The assessment  of students  with  disabilities needs  to  consider  several
+conditions for a realistic assessment.
+7.2.1.   If the test taker is yet to master the target skill due to insufficient or
+inadequate instruction, then the test taker needs to go through an extended
+or adapted learning process before the assessment.
+7.2.2. If the students lack the necessary capabilities to have access to test items,
+then due to certain disabilities they may not be able to respond to the task.
+So, the students should be provided training on how to develop accessing
+skills.
+7.2.3. If the student performs poorly due to limited accessibility, then develop the
+accessing  skill or modify the test item. For example, assessment of
+mathematics may place a high burden on reading skills and subsequently
+cause access problems due to reading difficulties rather than math skills.
+7.2.4.  If the student performs poorly due to inappropriate task presentation itself
+due to the design flaws related to an error in a test item, inconsistencies,
+omission or insufficient instruction, then assessment/test should have
+been properly vetted/moderated for flawless design and accessibility.
+To make assessment more realistic, sufficient attention must be given so that the test
+has (i) accessible test items, (ii) items amenable to accommodation, (iii) simple, clear
+and intuitive instructions and procedure, (iv) maximum readability and comprehension-
+ability, (v) maximum legibility.
+
+83
+
+[PAGE 97]
+7.3. Existing Provisions for Concessions in Examinations for Students with Disabilities
+
+UGC Notification F.No. 6-2/2013 (SCT) dated 14 January 2019 has made the
+following provisions for conducting written examinations for persons with
+benchmark disabilities as per the guidelines issued on 29th August 2018 by
+DoEPwD of Ministry of Social Justice and Empowerment.
+7.3.1.  The facility of Scribe/Reader/Lab Assistant should be allowed to any
+persons with benchmark disabilities as defined under section 29(r) of
+RPwD Act, 2016 and has limitations in writing including that of speed if so
+desired by him/her (Blindness, Locomotor Disability [both arms affected-
+BA and cerebral palsy]).
+7.3.2. Persons with benchmark disabilities should be given as far as possible, the
+option for choosing the mode for taking an examination, i.e., in Braille, or
+the computer or in large print or even by recording the answers as the
+examining bodies can easily make use of technology to convert question
+paper in large print, e-text, or Braille, can also convert the Braille text in
+English or regional languages.
+7.3.3. Compensatory time (i.e., extra/additional time) should not be less than 20
+minutes per hour of examination for the candidates who are allowed to use
+Scribe/Reader/Lab Assistant.
+7.3.4.  Candidates should be allowed to use assistive devices  like talking
+calculators in examination (in a case where calculators are allowed), tailor
+frame, Braille slate, abacus, geometry kit, Braille measuring tape and AAC
+devices like communication chart and electronic devices.
+7.3.5.  Proper sitting arrangements (preferable on the ground floor) should be
+made before the commencement of the examination to avoid confusion or
+distraction during the day of the examination. Examination center also
+should be accessible to persons with disabilities.
+7.3.6. Examining body should also provide reading materials in Braille or e-text or
+on a computer having suitable screen reading software for open book
+examination. Similarly, online examination should be in accessible format
+i.e., websites, question papers and all other study materials should be
+accessible as per the international standards laid down in this regard.
+7.3.7.  Alternate objective questions in lieu of descriptive questions should be
+provided for candidates with hearing disabilities in addition to the existing
+policy of giving alternate questions in lieu of questions requiring visual
+inputs for candidates with visual disabilities.
+
+(For   details,  the  complete   guideline  may  be   referred  at  UGC  website  or
+https://www.ugc.ac.in/pdfnews/7348678_Guidelines_Exam-Divyangjan-JAN-2019.pdf)
+
+84
+
+[PAGE 98]
+7.4. Considering Accessible and Flexible Assessment Process
+.      Universities/HEIs may  consider  further  support  for  the  candidates  with
+disabilities to make the assessment process maximum accessible and flexible. It
+may be noted that the support provided or reasonable accommodation extended
+to a person with disabilities will be on a case to case basis and will be based on
+the specific need of the person and not on the degree or percentage of disability
+of the person. This means a person who may not be a benchmark disability
+(above 40% disability) may be extended such reasonable accommodation /
+relaxation based on their specific assessed needs.
+7.4.1. Assessor may consider reducing the volume of work by reducing the
+number of test items. While doing so the assessor may consult the
+candidate with disability.
+7.4.2.  Review  frequently  the  student’s  needs  and  preferences  for  any
+accommodations during the  test. Individual students may require an
+adjustment to their assessment. The student should have been familiar
+and availed the similar accommodations and modifications in the class
+tests prior to the term-end or final examinations.
+
+7.4.3. If Possible, prepare the student for the examination by giving a pre-test one
+or two days before the final test. To make the student confident and
+comfortable for an examination, practise similar tests in pairs or small
+groups. He or she may dictate answers to a test to a peer or adult (scribe)
+Allow additional time to complete the test. Provide the opportunities to the
+students to describe their issues and challenges by means of  self-
+evaluation  conferences  regarding  the  test  accommodations  and
+modifications.
+7.4.4. While giving an MCQ test requiring a, b, c, d answers, use capital letters and
+ask students to give answers as A, B, C, D to avoid confusion of b and d
+that may look alike to a student having a specific learning disability.
+Eliminate the choices of ‘All of the above’ or ‘None of the above’ in such
+tests. Vary formats such as True/False, MCQs, matching, short answers or
+essay type questions. If possible, give alternate tests.
+
+-----------------
+
+85
+
+[PAGE 101]
+8
+
+Accessibility of
+Resources and Services
+
+[PAGE 103]
+8
+Accessibility of Resources and Services
+
+Making provisions of equipment/resources will not serve the purpose unless due
+emphasis  is given to provide the services and operationalization of the system
+effectively. Therefore, all the units under the HEIs need to be integrated to cater to the
+needs of the persons with disabilities to achieve the sustainable development goal of
+imparting quality education without any barrier  and to ensure accessibility on an
+equitable basis without any discrimination. Where the persons with disabilities face
+barriers, mechanisms for addressing the same should be provided at every level in a
+transparent manner. An effective grievance redressal mechanism especially to ensure
+accessibility and inclusion must also be created at the HEIs level.
+8.1   Integration of Resources and Services in an inclusive way
+Resource integration refers to a mechanism that embraces deployment, grouping,
+sharing, and exchange of resources within the units of the establishment or with other
+establishments involved where proper coordination amongst the units is involved to
+obtain the desired result. The different units in the HEIs may integrate various resources
+such as physical, teaching-learning, knowledge, software, etc. to attain the desired goal.
+Such integration of resources would help the person with disability to have universal
+access in all the units along with the movement and the services.
+The creation of enabling units for persons with disabilities, equal opportunity cells etc.
+are the initiatives that UGC has already undertaken with the notion of resolving the issues
+pertaining to providing barrier-free access, provision of coordination services and
+assistive technologies, creating awareness and addressing the challenges or difficulties
+faced. However, the following measures may also be adopted by the HEIs in this regard:
+
+8.1.1  Integration of resources/services prior to the admission
+A pro-active comprehensive system may be developed to accommodate the
+admission formalities considering the identified needs of the persons with
+disability. The guidelines must be developed with an appropriate mechanism to
+
+90
+
+[PAGE 104]
+assist the students with disabilities (physically and/or online) and be published
+on the website of the HEIs with fully-operative-communication systems. The HEIs
+may designate the officials who will assist or attend to the queries raised and
+resolve their problems in the admission process. The admission information
+must be displayed on the website with a full description of the process in
+audio/video mode with a separate column along with contact  details of
+designated officials.
+
+8.1.2  Availability of the Resources
+After the need identification, all the required equipment/services need to be made
+available at all the units (e.g. library, photocopying services area, labs, resource
+centers, etc.). The above mentioned resources and services shall be made
+available promptly with a minimum lag time.
+8.1.3 Remedial Classes
+The HEIs shall support the persons with disabilities to cope up with their studies.
+All the issues pertaining to teaching-learning aspects shall be resolved timely.
+Remedial classes shall be provided to the persons with disabilities in formats and
+methods based on their specific needs. However, faculty members may also
+voluntarily come forward to provide remedial classes. The HEIs shall make a
+record of the number of persons with disabilities opted for the remedial classes
+after issuance of present guidelines. (Ref: UGC scheme for funding remedial
+classes may be referred to.)
+8.1.4 Integration of E-contents
+
+HEIs  shall  integrate  the  various  technology-based  platforms  such  as
+SWAYAM/DIKSHA etc. with teaching-learning considering the diverse needs of
+the persons with disabilities. Wherever the e-contents have been made available
+or being made available, it shall be provided in different formats accessible to all
+the persons with disabilities.
+
+8.1.5 Scholarships & Beneficiary Schemes
+
+Students with  disabilities  shall be provided with an appropriate and accessible
+information along with support regarding applications to various government, private or
+other scholarships or beneficiary schemes from time to time.
+
+8.1.6 Internships, Training and Placement Services
+HEIs must assist and support students with disabilities to gain successful
+employment in the public as well as private sectors after completing their degree
+programmes.  The  various  notifications  regarding  employment  schemes,
+important dates, application processes, etc. shall be made available in accessible
+
+91
+
+[PAGE 105]
+formats to diverse students with disabilities. HEIs must play a proactive role in
+engaging with various industry partners, bodies and various other agencies for
+the  field or practical learning through internships or  training programmes
+alongwith possibilities for final placements in them.
+Creating awareness of inclusive employment and potentials of persons with
+disabilities across both prospective employers and also amongst student
+communities shall remain a regular activity across all HEIs and universities.
+8.2   Healthcare and Para-Medical facilities
+HEIs must prepare the necessary guidelines and adopt mechanisms to provide
+healthcare and para-medical facilities to persons with diverse disabilities in
+accordance with Section 25(1) and (2) of The Rights of Persons with Disabilities
+Act, 2016. Compliance with these provisions would entail the operationalization
+of the system. The paras and sub-paras of 8.1 may be made applicable to take
+care of the health facilities of persons with disabilities.
+Accessible communication support systems be incorporated in health care
+systems for diverse disabilities such as Indian Sign Language interpretation,
+Speech to Text conversion facilities, Tactile sign language support for deaf blind,
+etc.
+
+8.3    Library Facilities
+A library plays a significant role in building the knowledge base of the students.
+The persons with disability must be facilitated with library services as per their
+needs by providing them with well-structured library building ensuring barrier-free
+accessibility, reading material in alternative formats, assistive technologies,
+besides having the provision of sensitizing the existing staff to support the
+readers with disability in the libraries. In the case of multiple libraries in an
+establishment,  it should encourage information exchange, resource-sharing
+among libraries to meet the varying needs of the readers with disabilities. The
+following resources/services considering the varied disabilities that should be
+made available to the students with disabilities and these should be read in
+conjunction with provisions of Chapter 2 and 3 of these guidelines.
+
+8.3.1  Library services for persons with physical disabilities
+Persons with a physical disability may require assistance in performing some of
+the physical tasks that may require while accessing the library. The library shall
+provide helping hands, adjustable furniture, self-service circulation stations,
+accessible toilets, signages for easy movements to assist the reader with a
+
+92
+
+[PAGE 106]
+physical disability. Nevertheless, the HEIs shall remain committed to provide
+library services for the readers with a physical disability, if not covered herein.
+
+8.3.2 Library Services for the persons with visual disabilities
+To cater to the needs of persons with visual disabilities and person with print
+disabilities, libraries need to provide the service of magnifiers, digital accessible
+information system, digitized catalogue, web-braille system, screen readers and
+screen magnifiers support with appropriate software such as JAWs, NVDA, Super
+OVA, Kurzweil etc., large-print books, scanners, converting documents via OCR
+reader, alternate format services, talking notice boards, provision of tactile maps
+at conspicuous places, accessible websites and digital libraries.
+
+8.3.3 Library services for persons with deafness or hearing disabilities
+The libraries should also provide the services to persons with deafness or hearing
+disabilities  with  assistive  listening  devices,  augmentative and  alternative
+communication devices, closed or open captioning videos; loop systems, audio
+loop and counter loop; Indian Sign Language and telecommunication devices etc.
+to facilitate the needs of such readers at libraries.
+
+8.3.4 Library services for persons with cognitive disabilities
+Additionally, the persons with cognitive and intellectual disabilities should also be
+given due care  at  libraries and  their needs be attended to as per  their
+requirements. The libraries after admitting the students at HEIs must assess the
+needs of such students and provide the services such as content in ‘easy to read’
+or ‘plain language’, enlarged print, audio material, spoken-word collection, audio
+& video in daisy format to enhance learning and understanding.
+
+8.4   Grievance Redressal Mechanism (GRM)
+The University Grant Commission has issued the regulations  titled as the
+University Grants Commission (Redress of Grievances of Students) Regulations,
+2019 vide  it Gazette Notification on May 06, 2019, wherein the provision of
+constituting Students Grievance Redressal Committee (SGRC) at the collegiate,
+departmental, institutional and university level has been introduced. Also, an
+appointment of an Ombudsman to hear appeals thereupon has also been made
+a statutory requirement. Since the grievances lodged by persons with disability
+need immediate attention, the HEIs should make specific provisions to resolve
+the grievances of persons with disability routed through SGRC particularly around
+
+93
+
+[PAGE 107]
+issues addressed in these guidelines. HEIs must ensure an active and accessible
+grievance handling mechanism for persons with disabilities. Information about
+the GRM should be provided on the website of the HEIs and grievances should be
+accepted by email as well. All the grievances must be resolved within 15 days of
+the submission of such grievances. Efforts must ensure that the grievances of a
+particular type should not come again in observation. The record of such
+grievances must be maintained and be made available to the higher authorities
+on demand. The regulations shall be updated to include the provisions related to
+persons with  disabilities during the next  revision.  [Ref: UGC (Redress of
+Grievances of Students) Regulations 2019].
+Non-compliance of any provisions of the present guidelines shall invite punitive
+action under the relevant provisions of law including the UGC Act,1956.
+
+8.5  General Provisions
+
+8.5.1 Repair/Maintenance of the Equipment or devices
+The HEIs shall have a proper record of the equipment, devices etc. provided to the
+persons with a disability and the know-how of such devices/equipment. Persons
+with disabilities should be trained on effectively using the equipment. These need
+to be repaired and maintained timely without any delay. A list of empanelled
+vendors must be prepared so that different departments can use the same.
+
+8.5.2 Record Maintenance
+All the specific needs required by the persons with a disability must be recorded
+by the HEIs through a designated cell/unit/person at the time of admission. The
+persons with disabilities must be assisted in preparing such submissions.  It
+would help the institutions to identify the needs and the action plan to assist such
+a student in need. A proper consolidated record of facilities provided and other
+information related thereof must be maintained by the establishments.
+
+8.5.3 Capacity building of the Staff/Faculty/Students
+The designated Staff must be provided with proper training workshops to
+understand the needs of students with disabilities and should be sensitive
+towards providing the required resources/services at the time of entering the
+particular unit.
+
+-----------------
+
+94
+
+[PAGE 109]
+9
+
+Inclusive Campus Life
+
+[PAGE 111]
+9
+Inclusive Campus Life
+
+Achieving an inclusive campus life in an HEI requires a comprehensive approach that
+considers how to fully embrace the students, faculty and staff with disability by changing
+the culture and not only ensuring accessibility and providing need-based specific
+accommodations but also creating an environment of respect and dignity for effective
+inclusion of diversity.
+Besides meeting various statutory compliances, creating a feedback system from the
+students, staff and faculty with disabilities on various barriers will greatly help in
+strengthening the inclusive campus life of the persons with disabilities.
+9.1   Guiding Principles for an Inclusive Campus
+Each HEI should adopt and declare guiding principles of inclusion that promote
+equity, access, opportunity and the rights of persons with disability in higher
+education and contribute to reducing discrimination against them.
+The HEIs should be guided by the principle that all persons who experience
+disability have:
+•   the right to access and participate in education.
+•   the ability to learn and
+•   the right to exercise their voice, choice and control in managing their own
+educational experiences.
+•   the right to develop to their fullest potential and to be active valued citizens
+in the community.
+•   the right to an appropriate and adequate allocation of resources to enable
+their right to access and participate meaningfully in education.
+•   the right to be safe – physically, emotionally, culturally and socially and to
+be treated respectfully.
+
+98
+
+[PAGE 112]
+9.2   Preparing HEIs campus for inclusion
+The leadership at HEIs / universities should focus on the following to prepare for
+larger inclusive life on the campus:
+9.2.1 Right attitudes to disability
+Campus culture is shaped by the attitudes of administration and faculty
+and the lens through which disability is viewed by the various stakeholders
+of HEIs. Even when students do not experience outright hostility, many
+continue to face barriers such as generalizations and stigma. HEIs
+leadership at all levels needs to get involved to counteract common biases
+against persons with disabilities while creating an inclusive campus
+climate.
+9.2.2 Creating a climate of inclusion
+Students benefit from a diverse, inclusive campus climate, which helps
+prepare them for the world of work and civic and community engagement.
+Creating a fully inclusive climate is an ongoing journey of enhancing the
+understanding of disability inclusion thus it will always be evolving and
+changing and requires constant dialogue and involvement of persons with
+disabilities.
+9.2.3 Constant reinforcement of inclusive culture
+The HEI leadership at all levels shall be engaged in leading, messaging, and
+measuring improvements in inclusion. All staff should see their role in, and
+contribution to, inclusiveness. On-the-ground action among faculty, staff,
+and students need to happen in tandem with support at the level of the
+President,  Director, Dean, Vice chancellor, or Provost who embrace
+disability diversity and the spirit of inclusion consistently and publicly.
+9.2.4 Use of right language in the campus
+The language used to refer to disability and people with disabilities can be
+limiting. One way to change detrimental attitudes or stigma toward
+disability is to intentionally use more inclusive language that dignifies
+people’s images and expectations. Using positive images of students with
+disabilities from  different backgrounds can also help to  familiarize
+disabilities. Talking about disability and using inclusive language starts
+with how we define socially constructed concepts such as disability,
+diversity, and inclusion.
+
+99
+
+[PAGE 113]
+9.3    Accessibility in Residential Accommodation / Hostels
+
+The HEIs should incorporate accessibility based on universal design in the
+campus residential accommodation and hostels such as step-free entrance,
+wider doors, accessible toilets, lowered controls. Existing accommodation should
+be made accessible by retrofitting and preference be given to allot ground floor
+accommodation to persons with disabilities on the campus.   Faculty with
+disabilities, staff having a spouse with disabilities, or children with disabilities
+should also be allocated accessible accommodation in that preference.
+
+It is equally important to ensure an inclusive model for room allotments in hostels
+for persons with such disabilities that they are well distributed into the hostel
+environments. This shall, however, be possible only when a hostel is designed or
+retrofitted for universal accessibility features.
+
+9.4   Guest Houses
+
+All Guest Houses or guest accommodation  facilities  in the HEIs shall be
+designed/ retrofitted and managed with universal design-based access features
+so that it remains accessible to the diversity of guests with disabilities. It implies
+developing accessibility and inclusion as core concepts in the delivery of the
+same.
+
+9.5   Conference Facilities / Common Facilities
+
+All common facilities and conference facilities in the HEI campus should be
+accessible complying with architectural accessibility and ICT accessibility so
+that all persons with disabilities can participate in them without any
+discrimination on an equal basis with others.
+
+9.6   Physical / Cultural / Sports Promotion in universities
+
+HEIs should not only ensure accessibility in physical spaces for culture, leisure
+and sports but also ensure inclusion of various sports disciplines for persons with
+disabilities for preparation and organize events in partnership with national sports
+bodies such as Blind Cricket, Paralympic Committee etc. This has the potential to
+shatter myths about disabilities and provide an opportunity for persons with
+disabilities to express themselves in disciplines other than education. HEIs could
+also run sports courses at various levels.
+
+9.7    Inter college/ inter-university activities
+
+HEIs should promote, support and organize inter-college and inter-university,
+inter-institution activities involving persons with disabilities in different subjects.
+
+100
+
+[PAGE 114]
+Such  activities, competitions should not always be among persons with
+disabilities but persons with  disabilities should be encouraged and given
+opportunities to participate in all such activities and competitions on an equal
+basis with others.
+
+9.8    International University Exchange Program.
+Persons with  disabilities  shall be encouraged and given opportunities to
+participate  in and  travel  for  international  university  / academic exchange
+programs. For undertaking travel, reasonable accommodation, accompanying
+person/carer support where needed and other specific support sought by persons
+with disabilities should be included as part of the program and be funded so that
+they also can utilize such opportunities as available to non-disabled persons on
+the campus.
+
+-----------------
+
+101
+
+[PAGE 117]
+10
+
+Governance and Monitoring
+of Accessibility and
+Inclusive Practices
+
+[PAGE 119]
+10
+Governance and Monitoring of
+Accessibility and Inclusive Practices
+
+The governance and monitoring of accessibility and inclusive practices in HEIs shall be
+done in two folds. Firstly, the institutions / universities shall develop its administrative
+framework for planning and implementation through an expert/advisory committee vis-
+a-vis through a designated cell or unit inside the institute. Secondly, accessibility and
+inclusive practices should gain further impetus as significant parameters  in the
+assessment for ranking and accreditation purposes.
+Self certification for accessibility in compliance of the provisions of the RPWD Act 2016
+followed by third party assessment shall be carried out periodically (on an annual basis)
+by the respective HEIs and reports / certification thereof shall be uploaded on their
+official websites.
+For an overall governance and monitoring of progress of implementation of accessibility
+and inclusive approaches, the University Grants Commission shall review the same twice
+an year through a competent committee constituted under it’s mandate.
+
+10.1  Accessibility and Inclusive Practices through Institutional Governance
+
+a) HEIs need to create inclusive institutional culture by framing suitable accessibility
+and inclusive policies internally and implement these policies for inclusive
+practices. The process needs to ensure whether the initiatives are in the right
+direction and achieving the desired results and also suggesting necessary
+modifications and adaptations. Precisely, some of the primary best practices
+consist of constituting a competent advisory board, aligning strategies with goals,
+being accountable and responsible, following the code of ethics, defining roles
+and responsibilities, and dealing with grievances effectively (as detailed out in 8.4
+above). Therefore, to facilitate the students with disabilities effectively, there is a
+requirement of a unit that may oversee the effective implementation of the
+policies and programs for their benefit.
+
+106
+
+[PAGE 120]
+b) Considering the need of having a resource centre cum implementation unit in
+HEIs, the University Grant Commission has already undertaken certain initiatives
+to empower the students with disabilities. The initiatives include schemes of
+assistance to universities/colleges for Higher Education for Persons with Special
+Needs (Differently- abled Persons) (HEPSN) and the creation of Equal Opportunity
+Cell (EOC). With the passing of RPWD Act 2016, the responsibilities of the HEIs
+have been increased beyond the activities and facilities that were part of HEPSN
+and EOC scheme. Now the HEIs have to strengthen the unit that is responsible for
+implementing  accessibility and  inclusive  practices on  the  campus.  For
+strengthening the Equal Opportunity Cells/Enabling Units, the HEIs shall follow
+the guidelines prescribed by UGC from time to time in strict compliance to the
+role and functions defined for such cells/units. A person with disability should
+preferably be the coordinator/convenor of such a cell/unit.
+
+c) Each HEI must develop its own action plan preferably for five years with a clear
+vision and a year-wise accomplishment. An expert, advisory or coordination
+committee must be appointed  that meets on a  regular basis under the
+chairpersonship of the head of the institution/university. The committee shall
+include students and faculties/staff with diverse disabilities, parents/caregivers,
+Organisations of Persons with Disabilities, NGOs, disability / accessibility experts
+and others as deemed fit. The activities of the committee along with the goals
+achieved must be highlighted on the HEI / University websites/social media with
+evidence.
+
+d) The cell/unit responsible for implementing accessibility and inclusive practices
+would also serve as a resource centre. As per the need of the persons with
+disabilities, whether they are students or faculty or staff, the unit serving as a
+resource centre should provide additional rehabilitation services as much as
+possible under the guidance of the expert/advisory committee. This centre may
+train volunteers to support persons with disabilities as buddies in the area of sign
+language, use of assistive devices and technologies or support them as a reader
+to a person with a visual disability or assist them in their mobility in case a person
+with a locomotor disability needs support. The cell/unit should facilitate the
+participation of persons with disabilities in all activities of the institution including
+participation in sports, social, cultural and corporate life of the campus.
+
+e) Each HEI needs to develop its own administrative framework to undertake action
+in  this  area. This must  include the procurement  policies  (ICT, AT,  Civil
+Infrastructure). It is expected that HEIs undertake self-assessment on an annual
+basis of their inclusive practices and accessibility audit.
+
+107
+
+[PAGE 121]
+10.2    Accessibility Assessment for Accreditation and Ranking of HEIs /
+Universities
+
+This section focuses on accessibility and inclusive practices as parameter in
+Assessment Framework for Accreditation and Ranking of HEIs. Besides the
+pursuit of rankings, accessibility assessment is required to be an integral part of
+an enabling framework for creating inclusivity for education.
+
+10.2.1 Institutions of higher education in India are required to respond for their quality of
+teaching, research and facilities through various assessment frameworks. The
+government effort at quality assessment in the education sector at the national
+level was  first initiated with the creation of the National Assessment and
+Accreditation Council (NAAC – for colleges and universities) and the National
+Board of Accreditation (NBA – for technical and professional institutions) in
+1994.   Further, The National  Institutional Ranking Framework (NIRF) was
+approved by the government in 2015 to rank institutions across the country.
+Several criteria and indicators have been developed to provide a base for
+assessment and accreditation. Most of these indicators  reflect academic,
+administrative, infrastructural, financial and human resources. For example, NIRF
+broadly covers “Teaching, Learning and Resources,” “Research and Professional
+Practices,” “Graduation Outcomes,” “Outreach and Inclusivity,” and “Perception”.
+
+10.2.2  It is noted that inclusivity and accessibility dimensions are still an evolving aspect
+and  will get greater emphasis with awareness and understanding  in the
+assessment, accreditation and ranking process of HEIs. NAAC has a small
+weightage to this aspect and it covers (i) built environment with ramps/lifts for
+easy access to classrooms,  (ii) Divyangjan friendly washrooms,  (iii) Signage
+including  tactile  path,  lights, display boards, and signposts,  (iv) Assistive
+technology and  facilities for Divyangjan accessible website, screen-reading
+software, mechanized equipment, and (v) Provision for enquiry and information:
+Human assistance, reader,  scribe, soft copies of reading material, screen
+reading, font enlargement, etc.
+Whereas, NIRF covers a few aspects having three questions only under 'Facilities
+for Physically Challenged Students' such as
+(i)   Do your institution buildings have Lifts/Ramps?
+(ii)   Does your institution have provision for walking aids, including wheelchairs
+and transportation from one  building to another  for students with
+disabilities?
+(iii)   Do your  institution  buildings have  universally accessible  toilets  for
+students with disabilities?
+
+108
+
+[PAGE 122]
+The National Board of Accreditation (NBA)  is yet to consider accessibility
+components as an important parameter for assessment. The accessibility and
+inclusive practices in the HEIs are beyond the current parameters included in their
+assessment process.
+10.2.3 Thus, NAAC, NBA and NIRF need to consider broad aspects of accessibility and
+include them in their assessment, accreditation and ranking process. It may be
+recommended to include Accessible ICT, Use of Assistive Technology, Mobility
+Infrastructure, Built Infrastructure, Accessible Curriculum, Teaching and Learning,
+Accessible Assessment and Examinations, Resources and Services to promote
+Inclusive Campus Living. This guideline document may be referred to for this
+purpose.
+
+10.2.4 Each HEI  / University shall exert to get  itself assessed and  certified for
+accessibility for it’s information systems, infrastructure systems and services
+rendered by itself. Accessibility assessment mechanisms shall continue to be
+developed and standardised for diverse category and scale of institutions.
+
+10.2.5 The present guidelines shall be treated and considered as supplementing the
+existing guidelines, acts, ordinances, statutes issued from time to time to make
+the system robust and inclusive for persons with disabilities.
+
+-----------------
+
+109
+
+[PAGE 124]
+Higher Education Institute/University      An Open Book                     Symbolic representation for diverse
+disabilities and human diversity
+
+[PAGE 125]
+Cover Design Concept
+
+The cover conceptualises the theme of
+simplicity, clarity and inclusivity in higher
+education institutions/universities.
+
+The eight icons in the front and back
+cover represents the idea of diverse
+disabilities and human diversities as a
+key drivers to inclusion on educational
+campuses.
+
+The open book at the rear side reflects an
+idea of openness as an approach to
+embrace accessibility and inclusion in the
+institutions/universities as represented
+through a connecting built form.
+
+The pastel red shade of the background
+embeds the philosophy of warmth and
+groundedness as the base to support
+inclusivity.
+
+[PAGE 126]
+#शिक्षा मंत्रालय
+Ministry of Education                                                        EविशवEविद्यालय अनुदान आयोग
+Government of India                                                                 University Grants Commission
+
+Quality Higher Education for All

@@ -1,0 +1,128 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+Proposal for a New Course
+
+Course Number: DESxxxx
+
+Course Title: Computer-Aided Design and Prototyping
+
+Credit system: 3-0-0 Total Credits: 9
+
+Duration of Course: Full Semester
+
+Proposing Department/IDP: DES
+
+Other Departments/IDPs which may be interested in the proposed course: ME, CE, AE
+
+Proposing Instructor(s): Amar Kumar Behera
+
+Other faculty members interested in teaching the proposed course: None
+
+Course Description:
+This course introduces students to the principles and practice of computer-aided design
+(CAD) and digital prototyping as core components of the modern design process. It aims to
+develop the  ability to translate creative ideas into precise  digital representations and
+tangible  prototypes  using contemporary CAD  software and  digital  fabrication  tools.
+Students will gain practical experience in 3D modeling, design communication, and iterative
+prototyping, emphasizing design  intent,  manufacturability, and  integration with smart
+systems.
+
+Objectives:
+•  To understand the fundamentals and role of computer-aided design in the design
+process.
+•  To develop proficiency in 2D drafting and 3D modeling for visualization and
+manufacturing.
+•  To explore digital prototyping techniques such as 3D printing, laser cutting, and CNC
+machining.
+•  To enable rapid iteration through digital-to-physical workflows.
+•  To cultivate design thinking integrated with computational and fabrication technologies.
+
+[PAGE 2]
+(B) Pre-requisites:
+At least 1 course on engineering drawing
+
+(C) Contents:
+S. No.                Topic                  Details               Lectures
+
+1                     Introduction to        Evolution of CAD;    4
+Computer-Aided      overview of CAD
+Design                tools (AutoCAD,
+SolidWorks, Fusion
+360, Rhino); role in
+design
+communication;
+standards and file
+formats
+
+2              2D Drafting and      Geometric         6
+Parametric             constraints,
+Sketching            dimensioning,
+layers, annotations;
+drawing standards
+and documentation
+
+3              3D Modeling and      Solid and surface    8
+Assembly Design     modeling;
+parametric and
+freeform design;
+parts, assemblies,
+and kinematic
+relationships
+
+4                   Rendering and        Creating realistic    4
+Visualization           visualizations;
+materials, lighting,
+rendering engines;
+communicating
+design intent
+
+5                    Prototyping and     From CAD to       8
+Digital Fabrication     physical prototypes;
+rapid prototyping,
+3D printing, laser
+cutting, CNC milling;
+tolerances, material
+selection, post-
+processing
+
+[PAGE 3]
+6                      Integrating CAD       Stress analysis,      4
+with Simulation and   motion study, and
+Analysis              generative design;
+design optimization
+for performance and
+manufacturability
+
+7                   Design Project: CAD   Individual or group   4
+to Prototype          projects integrating
+design, modeling,
+and prototyping;
+documentation and
+presentation
+
+Total contact hours: 38
+
+Recommended books:
+•  David F. Rogers, James Alan Adams, Mathematical Elements for Computer Graphics,
+McGraw-Hill
+•   William Vaughan. Digital Modeling. United Kingdom, Pearson Education, 2011.
+•  David A. Madsen, David P. Madsen, Engineering Drawing and Design, Cengage
+Learning.
+•  James D. Bethune, Engineering Design and Graphics with SolidWorks.
+•   Kalpakjian & Schmid, Manufacturing Processes for Engineering Materials.
+•  Caneparo,   Luca.    Digital    Fabrication    in    Architecture,   Engineering   and
+Construction. Netherlands, Springer Netherlands, 2013.
+
+Any other remarks: The course will include hands-on lab sessions and demonstrations of
+digital fabrication tools. Students are expected to complete a mini-project culminating in a
+functional                                                                      prototype.
+
+Proposer: A. K. Behera                      DPGC Convener
+
+Dated: 02-11-2025                                Date:
+
+The course is approved / not approved
+
+Chairperson, SPGC
+
+Dated:

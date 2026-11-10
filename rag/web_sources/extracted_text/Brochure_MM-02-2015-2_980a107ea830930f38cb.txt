@@ -1,0 +1,306 @@
+[Page 1]
+A short term Course 
+on 
+Micromanufacturing 
+June 29 – July 03, 2015 
+ (Registration form should contain the following 
+information. It should be printed (not hand written) 
+on A4 size paper) 
+ 
+Name: 
+Position: 
+Department: 
+Institution/Organization: 
+Address: 
+E-mail Address: Mobile No.: 
+Telephone No.: 
+ 
+Educational Background (starting from B.E./B.Tech): 
+Degree 
+Field of 
+Specialization 
+ 
+Institution 
+% marks/ 
+CGPA/CPI 
+ 
+Year 
+Rank in 
+the class 
+B.E./B.Tech. 
+M.E./M.Tech. 
+Ph.D. 
+
+ 
+
+Areas of Research Interest: _________________________ 
+Have you attended any course on "Micromanufacturing" at IITK 
+or elsewhere: Yes / No 
+(If yes, please give details……………………………………………….) 
+ 
+Note: Candidates from the teaching Institutions should send the 
+DD only when they get the selection letter through e-mail. 
+Payment details 
+Demand draft no._________ dated____________ 
+Amount in Rs.________ drawn at_____________ 
+ 
+ Recommendation Signature of applicant 
+ 
+Signature of Head of the Department 
+/ Head of the organization (with seal). 
+
+ 
+Note: Correspondence will be done through e-mail. 
+Application‘s hard copy should definitely be sent by post. 
+ 
+(1- CNC milling M/c head, 2- MR finishing tool, 3- MR 
+polishing fluid, 4- fixture for knee joint implant (Ti6Al4V), 
+5- knee joint implant) 
+ 
+*IMPORTANT DATES 
+ For College Teachers 
+ Receipt of applications: May 23, 2015 
+ Intimation to the selected candidates: May 31, 2015 
+ Receipt of the draft: June 08, 2015 
+ Short term course duration: June 29 to July 03, 2015 
+ 
+For Participants from Industries and R&D Labs 
+ Receipt of applications: May 30, 2015 
+ Intimation to the selected candidates: June 06, 2015 
+ Receipt of the draft: June 13, 2015 
+ Short term course duration: June 29 to July 03, 2015 
+ 
+ADDRESS FOR CORRESPONDENCE 
+Dr. V. K. Jain / Dr. J. Ramkumar / Dr. Niraj Sinha 
+Mechanical Engineering Department 
+Indian Institute of Technology Kanpur 
+Kanpur- 208016 
+E-mail: edtvkj@iitk.ac.in / jrkumar@iitk.ac.in / 
+nsinha@iitk.ac.in 
+Phone-: 0512-259 7916(O); 259 7546(O); 259 7196 (O) 
+Fax-: 0512-259 7408 
+*Home page-: http://home.iitk.ac.in/~vkjain/ 
+ 
+A short term course 
+On 
+Micromanufacturing 
+For Engineering College Teachers, 
+Practicing Engineers and Scientists 
+June 29 – July 03, 2015 
+ 
+Sponsored by 
+All India Council of Technical Education, 
+New Delhi 
+ 
+Coordinators: Dr. V. K. Jain, Dr. J. Ramkumar, 
+ Dr. Niraj Sinha 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mechanical Engineering Department 
+Indian Institute of Technology 
+Kanpur 
+ 
+All India Council of Technical Education, 
+New Delhi 
+Nano-finishing of Free form Surfaces (Knee - Joint)
+
+[Page 2]
+INTRODUCTION 
+
+ An intensive course on Micromanufacturing will be 
+offered from June 29 to July 03, 2015, under the Continuing 
+Education Programme of I.I.T. Kanpur. It is sponsored by 
+Quality Improvement Programme, All India Council of 
+Technical Education, New Delhi. The course is designed to 
+cater the needs of teachers, scientists from R & D houses 
+and Labs., and practicing engineers from industries. This 
+programme will be specifically useful for persons who are 
+concerned with training / teaching, research, and industrial 
+applications of micromachining, micro- to nano-finishing, 
+micromolding, microwelding, microcasting, nanometrology, 
+etc. 
+
+OBJECTIVE 
+ 
+ Nowadays, meso (1-10 mm) and micro (1-1000 μm) 
+manufacturing are emerging as an important technology 
+specially in the areas where miniaturization yields economic 
+and technical benefits, namely, aerospace, automotive, 
+optical, biomedical and similar other areas. 
+ With the advent of numerical control (NC) in machine 
+tools, accuracy, uniformity and repeatability of the machined 
+parts have improved and manufacturing has gained the 
+flexibility. With time, the miniaturization of the machines and 
+devices is leading to the demand of parts with dimensions 
+of the order of a few micrometers to a few hundred 
+micrometers. Scientists and researchers are engaged in 
+developing even the nano featured products such as NEMS 
+(Nano Electro Mechanical System). It is quite safe to say 
+that there is a need to have the manufacturing processes, 
+which are capable of dealing with atomic and molecular 
+dimensions. Hence, such processes come under the 
+category of μ-manufacturing. 
+ The demand of industries for μ-manufacturing of various 
+types of materials (metallic, ceramics and plastics) is 
+increasing day by day. Miniature parts have applications in 
+various 
+industries 
+like 
+electronics, 
+medicine, 
+communication, avionics and others. Some of the examples 
+of the products that require μ-manufacturing are micro holes 
+in fiber optics, micro nozzles for high temperature jets, 
+micro molds etc. Conventional methods (turning, drilling, 
+etc.) with modified versions have been employed for μ-
+machining of various types of materials. 
+ In case of advanced machining processes, material is 
+removed at micro level either by mechanical means (USM, 
+AJM, 
+MAF), 
+thermal 
+erosion 
+(EBM, 
+LBM), 
+anodic 
+dissolution (ECM), chemical reaction or combination of two 
+or more than two processes, called hybrid machining. μ-
+machining can be placed in the group of precision 
+machining and ultraprecision machining. μ-machining can 
+be divided into two categories like bulk μ-machining where 
+comparatively large amount of material is removed when 
+compared with surface μ- machining where the objective is 
+mainly to improve surface finish in the sub-micron range. 
+The surface roughness values obtained by these 
+processes have been reported as low as the size of an 
+atom or even a fraction of the size of an atom. Now, the 
+natural question arises, how to measure such surface 
+roughness or which equipment should be used to measure 
+such low values of surface roughness? Atomic force 
+microscope is one of the latest equipment used to measure 
+such a low value of surface roughness. 
+ The basic objective of the present course is to acquaint 
+the participants with the principles, basic machine tools, 
+developments in the μ–manufacturing processes, micro and 
+nano metrology and research trends in the area of μ– 
+manufacturing processes. Thus, this short term course will 
+deal with various areas of micromanufacturing including 
+measurement techniques. 
+
+COURSE CONTENTS 
+ 
+ Introduction to Micromanufacturing 
+ Traditional Micromachining 
+ Advanced of Micro- / Nano– Machining 
+Mechanical Micromachining, Thermal Micromachining, 
+Electrochemical and Chemical Micromachining, Ion Beam 
+Machining, Photochemical Etching, X-ray Lithography. 
+ Nano-finishing 
+Abrasive Flow Finishing, Magnetic Abrasive Finishing, 
+Magnetorheological finishing, etc. 
+ Microforming 
+Micro-Sheet Forming, Micro-Laser Forming, etc. 
+ Microjoining Technology 
+Laser Beam Microwelding/Microjoining, Electron Beam 
+Microwelding/Microjoining, etc. 
+ Microcasting. 
+ Microsensors / Microactuators. 
+ Micro-/ Nano-Metrology 
+ 
+FACULTY 
+ 
+ Eminent researchers and speakers shall be drawn from 
+various disciplines of different IITs and other institutions of 
+higher 
+learning, 
+and 
+related 
+industries 
+and 
+R&D 
+organizations of different parts of the country. 
+
+COURSE FEE 
+ 
+FOR COLLEGE TEACHERS 
+ There is no course fee for the sponsored teachers from 
+engineering colleges (only those approved by AICTE, 
+New Delhi). They will be paid to and fro III AC class train 
+fare via shortest route (strictly on production of ticket), 
+and free boarding and lodging in the hostel of IIT Kanpur. 
+The applications of the teachers from the accredited 
+colleges should reach the course coordinator latest by 23rd 
+May, 2015 giving the information as shown in the 
+Proforma. The engineering College teachers are required to 
+send hard copy of application duly recommended by the 
+Head of the Institution/Department. The candidate should 
+have minimum qualification as B.E. / B.Tech. in Mechanical 
+/ Production / Production and Industrial Engineering. 
+However, the candidate with M.E. / M.Tech. in Production / 
+Production and Industrial Engineering will be given 
+preference. The candidates with Ph.D. degree in any of the 
+the above mentioned areas are most welcome, and will be 
+given higher preference. 
+ For the selected candidates: The selected candidates 
+will be re-quested to send a refundable caution deposit of 
+Rs.1000/- to ensure their commitment for participation in 
+this course. This amount will be refundable only to those 
+teachers who attend the course (Please do not send the 
+money until you get selection letter / e-mail). Please 
+write your name on the back of the demand draft. 
+ 
+FOR PARTICIPANTS FROM INDUSTIERS AND R & D LABS 
+ 
+Private and public sector industries, R & D Labs, 
+teaching Institutions and other organizations are welcome 
+to depute their executives, managers, teachers and 
+engineers to participate in the course. The sponsoring 
+organizations are required to pay a registration fee of 
+Rs.7500/- per participant. The participants will have to make 
+their own arrangement to meet their travel and other 
+expenses. Limited boarding and lodging can be arranged in 
+IITK guest house or IITK hostels based upon prior request 
+and on the payment basis, provided it is available. 
+Application on a separate sheet giving information shown in 
+the proforma should reach the course coordinator latest by 
+30th May, 2015. 
+ 
+ ** For Ph.D. and M.Tech. / M.E. Scholars, the registration 
+fee is Rs. 2500/-. Please note that these scholars have to 
+be bear their boarding & loading and travel expenses 
+themselves. 
+ 
+MODE OF PAYMENT 
+
+ The registration fee or refundable caution money deposit 
+should be sent by bank draft payable at the “Union Bank of 
+India, IIT Kanpur” Branch and drawn in favour of 
+“Micromanufacturing”. 
+ 
+The list of the selected candidates will also be 
+displayed on the home page of the coordinator, as given 
+below. 
+Home page: http://home.iitk.ac.in/~vkjain/

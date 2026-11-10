@@ -1,0 +1,104 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course
+
+1.  Course No: AE 6XX
+
+2.  Course Title: Rocket and Spacecraft Propulsion
+
+3.  Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours: 0, Credits: 9
+
+4.  Duration of Course: Full Semester
+
+5.  Proposing Department: Aerospace Engineering (AE)
+
+6.  Other Departments which may be interested in the proposed course: ME, SPASE
+
+7.  Other faculty members interested in teaching the proposed course: Dr. Sathesh Mariappan
+
+8.  Proposing Instructor: Dr. D. Chaitanya Kumar Rao
+
+9.  Course Description:
+
+A) Objectives: The course covers the basic principles of rocket and spacecraft propulsion systems,
+including the details of some of the advanced propulsion systems being developed around the world.
+The students will be exposed to the different types of rocket propulsion systems, followed by the basic
+principles of chemical rocket engines. Thereafter, an in-depth study of distinct propulsion systems:
+liquid propellant rocket engines, solid and hybrid rocket motors, electric propulsion, nuclear rockets,
+and other novel propulsion technologies will be covered. The primary aim of this course is to provide
+the students with a broad overview of this rapidly evolving field, including the recent advancements at
+different space agencies such as NASA, ISRO, ULA, and SpaceX. The course is intended to be self-
+sufficient and targeted towards students from all the engineering and science disciplines.
+
+B) Contents: 40 lectures, each of 50 minutes duration
+
+S. No       Broad Title                          Topics                      No. of Lectures
+
+1        Introduction to        History and Classification of Rocket Propulsion:          3
+Rocket Propulsion    Chemical,   Electric,  Nuclear,  and  Advanced
+Propulsion Concepts, Applications: Space Launch
+Vehicles, Spacecraft, Military Applications
+
+2        Principles of Rocket   Thermodynamic    Relations,    Ideal   Rocket          5
+Propulsion            Equation, Single and Multi-Stage Rockets, Rocket
+Engine Performance
+
+3        Liquid Propellant     Monopropellant and Bipropellant, Pressure-Fed          8
+Rocket Engines      and Pump-Fed Systems, Injection, Ignition and
+Combustion, Thrust Vector Control, Applications
+
+4        Solid and Hybrid      Propellant  Composition,  Propellant  Burning          8
+Propellant Rocket     Rate,  Propellant  Grain  Configuration,  Solid
+Motors               Propellant  Ignition  and  Combustion,  Hybrid
+Rocket Motors, Applications and Missions
+
+5         Electric Propulsion     Principles of Electric Propulsion, Electrothermal,          5
+Electrostatic,  and  Electromagnetic  Thrusters,
+Applications and Missions
+
+[PAGE 2]
+6       Nuclear Propulsion    Nuclear  Fission  Basics,  Principles  of  Nuclear          3
+Thermal  Propulsion, Nuclear Thermal Rocket
+Engine, Nuclear Propelled Missions, Operational
+and Safety Issues
+
+7      Advanced            Laser Thermal Rocket, Pulsed and CW Plasma          4
+Propulsion            Propulsion, Solar Sails, Hypothetical Propulsion
+Technologies         Techniques, Technology Maturity Assessment
+
+8     Human Space Flight   Launch Systems for Human Space Flight, Crewed          4
+and Planetary        Launchers and Re-Entry Vehicles, NASA and ISRO
+Exploration        Human Space Flight Programs, Planetary and
+Atmospheric Propulsion
+
+C) Recommended Pre-requisites: Undergraduate level Thermodynamics and Fluid Mechanics
+
+D) Short summary for including in the Courses of Study Booklet:
+
+This course will provide an overview of various types of rockets and spacecraft propulsion systems.
+Primary emphasis will be on the basic principles of each propulsion technology followed by their
+applications in space missions.
+
+10. Recommended text/reference books:
+
+1)  Rocket Propulsion Elements by G. P. Sutton and O. Biblarz, 9th Edition, John Wiley and Sons,
+2001.
+2)  Rocket and Spacecraft Propulsion: Principles, Practice and New Developments by M. J. L.
+Turner, Third Edition, Springer, 2009.
+3)  Spacecraft Propulsion by C. D. Brown, AIAA Education Series, 1996.
+4)  Mechanics and Thermodynamics of Propulsion by P. Hill and C. Peterson, Second Edition,
+Addison-Wesley, 1992.
+5)  Propellants and Explosives by N. Kubota, Second Edition, Wiley-VCH, 2007.
+
+11. Any other remarks: NA
+
+Dated: 16/08/24         Proposer: Dr. D. Chaitanya Kumar Rao
+
+Dated:              DUGC/DPGC Convener:
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC
+
+Dated:

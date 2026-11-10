@@ -1,0 +1,83 @@
+[PAGE 1]
+Elective course IDC 600
+
+Course Title: Math & Computation using Python
+
+Course No: IDC 600 level
+
+Course proposers:  Mahendra K. Verma (KSS, Physics) + Sachchida Nand Tripathi (KSS, Civil),
+Rajesh Ranjan (AE)
+
+About the course: Mathematics and computation are essential in various ﬁelds, from data science
+to engineering and social sciences. This course will introduce programming concepts using Python
+as a language, as well as computational tools essential for engineering and science. In addition,
+essential mathematics for Artiﬁcial Intelligence (AI) will be reviewed. This course will empower a
+student to use Python to implement and visualize solutions. By the end of the course, a student
+will be able to develop a toolkit of computational techniques that will enhance his/her problem-
+solving capabilities.
+
+Participating Departments for ﬂoating the course:  Aerospace engineering, Kotak School of
+Sustainability. It is anticipated that more departments will be interested in this course.
+
+Departments from which students can take the course for credit: Aerospace Engineering, Kotak
+School of Sustainability. It is anticipated that more departments will be interested in this course.
+
+Units:  3-0-0-0-9 [3 lectures, 9 credits]
+
+Prerequisite: Basic knowledge in computer programming and mathematics
+
+Who can take the course: Ph. D., M. Sc., and Advanced UG students.
+
+Course Contents:
+
+Python Programming [10 lectures]
+1. Introduction to Computers
+2. Control Structures (conditional and iterative)
+3. Functions in Python
+4. lotting and data analysis
+5. Input/Output in Python
+Review of Mathematics [10 lectures]
+1.  Probability and Statistics, error analysis
+2.  Linear algebra: Solve Ax = b, Eigenvalues and eigenvectors
+Numerical Methods [20 lectures]
+1. Solving equations — Iterative procedure, Newton’s method, Secant method
+2. Interpolation, Numerical Integration (Newton-Cotes, Gaussian quadrature)
+3. Numerical Differentiation
+4. ODE (ordinary differential equation) solvers: Stability and accuracy issues, Explicit vs.
+Implicit schemes,  Predictor-corrector methods  (Euler,  Runge-Kutta),  Multistep
+methods (Adam-Bashforth). Stiff equations, Leap-frog and Verlet methods
+5. Fourier transform & PDE (partial differential equation) solvers using spectral method
+
+[PAGE 2]
+6. Finite-difference method  to solve complex PDEs: Examples—Diffusion equation,
+Navier-Stokes equation
+
+Textbooks and References:
+1. M. K. Verma, Practical Numerical Computing Using Python, Independent Publication
+(2021).
+2.   J. H. Ferziger, Numerical Methods for Engineering Applications, 2nd Ed., John Wiley & Sons
+(1998).
+3. Mark Newmann: Computational Physics with Python, 2nd Ed., Computational Physics with
+Python
+4. H. P. Langtangen, A Primer on Scientiﬁc Programming with Python, Springer (2016)
+5. Rubin H. Landau and M. J. Paez, Computational Physics: Problem Solving With Computers,
+John Wiley (1997).
+6.  R.Srivastava and S. Guha, Numerical Methods for Engineering and Science, Oxford Univ.
+Press (2010)
+7.  E. Kreyszig, Advanced Engineering Mathematics, Wiley (2023)
+8. NPTEL course: https://onlinecourses.nptel.ac.in/noc23_ph46/preview
+
+Signatures of the proposers:
+
+Mahendra Verma
+
+Sachchida Nand Tripathi
+
+Rajesh Ranjan
+
+17/4/2025
+
+This Course is APPROVED/ NOT APPROVED: Convener, DPGC, Kotak School of Sustainability
+
+This Course is APPROVED/ NOT APPROVED:  Convener, DPGC, Department of Aerospace
+Engineering

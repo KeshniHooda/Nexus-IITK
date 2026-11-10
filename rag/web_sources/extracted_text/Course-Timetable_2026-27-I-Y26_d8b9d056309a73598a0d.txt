@@ -1,0 +1,161 @@
+[Page 1]
+Course Timetable for BTech-BS batch of Y26 
+2026-27-I Semester 
+ 
+ NA = Not Applicable. 
+Course No. 
+L-T-P-D 
+(Credits) 
+Group/Depts. 
+Lecture Schedule 
+Tutorial Schedule 
+Lab Schedule 
+MTH111M 
+(Modular-1st half) 
+3-1-0(6) 
+ 
+2 
+MThF 10:00-11:00 
+T 10:00-11:00 
+NA 
+1 
+MThF 16:00-17:00 
+T 16:00-17:00 
+MTH112M 
+(Modular-2nd half) 
+3-1-0(6) 
+ 
+2 
+MThF 10:00-11:00 
+T 10:00-11:00 
+NA 
+1 
+MThF 16:00-17:00 
+T 16:00-17:00 
+PHY112 
+3-1-0(11) 
+ 
+AE, CE 
+CHE, CHM 
+MThF 09:00-10:00 
+T 09:00-10:00 
+NA 
+PHY113 
+3-1-0(11) 
+ 
+EE, ME, PHY 
+MTF 09:00-10:00 
+Th 09:00-10:00 
+NA 
+PHY114 
+3-1-0(11) 
+ 
+CSE 
+MSE 
+MTF 09:00-10:00 
+Th 09:00-10:00 
+NA 
+PHY115 
+3-1-0(11) 
+ 
+BSE, ECO, 
+ES, MTH, 
+SDS 
+MThF 09:00-10:00 
+T 09:00-10:00 
+NA 
+CHM111 
+0-0-3(03) 
+ 
+2 
+NA 
+NA 
+M/T/W/Th 
+14:00-16:50 
+PHY111 
+0-0-3(03) 
+ 
+1 
+NA 
+NA 
+M/T/W/Th/F 
+10:00-12:50 
+CHM112M 
+(Modular-1st half) 
+2-1-0(04) 
+ 
+1 
+MW 14:00-15:00 
+F 15:00-16:00 
+NA 
+1 
+TTh 15:00-16:00 
+F 15:00-16:00 
+CHM113M 
+(Modular-2nd half) 
+2-1-0(04) 
+ 
+1 
+MW 14:00-15:00 
+F 15:00-16:00 
+NA 
+1 
+TTh 15:00-16:00 
+F 15:00-16:00 
+TA111 
+2-0-3(09) 
+ 
+1 
+MW 15:00-16:00 
+ 
+M/T/W/Th/F 
+10:00-12:50 
+ESC111M 
+(Modular-1st half) 
+3-1-3(7) 
+ 
+2 
+MThF 12:00-13:00 
+W 12:00-13:00 
+Th, F 14:00-16:50 
+ESC112M 
+(Modular-2nd half) 
+3-1-3(7) 
+ 
+2 
+MThF 12:00-13:00 
+W 12:00-13:00 
+Th, F 14:00-16:50 
+LIF111 
+2-0-0-0(6) 
+ 
+2 
+WF 11:00-12:00 
+NA 
+NA 
+ETH111 
+1-0-0-2(3) 
+2 
+T 11:00-12:30, 
+W 08:00-09:30, 
+F 17:00-18:30 
+ 
+NA 
+ELC111 
+3-1-0(11) 
+1 
+MWF 17:00-18:00 
+Th 17:00-18:00 
+NA 
+ELC112 
+3-1-0(11) 
+1 
+MWF 08:00-9:00 
+Th 08:00-09:00 
+NA 
+ELC113 
+3-1-0(11) 
+1 
+MWF 08:00-9:00 
+Th 08:00-09:00 
+NA

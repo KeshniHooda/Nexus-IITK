@@ -1,0 +1,73 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+Proposal for a New Course
+
+1. Course No.:                 CHE 6XX
+2. Course Title:                      Fluid Dynamics of Microscopic Self-propulsion
+
+3. Lectures Per Week & Total Classes:     3 [Tutorial:0, Lab:0, Additional Hours:0], 39
+4. Proposing Department:               Department of Chemical Engineering
+5. Other faculty members interested in     Indranil Saha Dalal, Rahul Mangal, Dipin S. Pillai
+teaching:
+6. Other Departments that may be      ME, Physics
+interested:
+7. Proposing Instructor(s):              Akash Choudhary (achoudhary@iitk.ac.in)
+
+Course Description: The ability to predict, control, and design the behaviour of microscopic
+swimmers such as motile bacteria, synthetic Janus colloids, and medical micro-robots, defines
+a growing frontier at the intersection of fluid mechanics, biophysics, and engineering. The
+principles governing locomotion at the micron scale are counterintuitive: fluid inertia is irrelevant,
+time-reversal symmetry severely constrains what strokes are possible, and a swimmer’s fate in
+confinement is often dictated by the geometry of its far-field signal. This course provides students
+with the theoretical framework to understand these principles, starting from the fundamental
+properties of viscous flow to quantitative models of biological and artificial microswimmers. By
+the end of the course, students will be equipped to independently analyse swimmer kinematics and
+hydrodynamic signatures, apply the reciprocal theorem and image methods to new geometries,
+and critically read the current research literature on fluid mechanics of active matter and
+bio-inspired locomotion.
+
+# Title                  Topics                                            Lec.
+
+1  Motivation &                Artificial and biological microswimmers in nature;         6
+introductory concepts     Stokes regime and its properties; vector-tensor algebra
+and index notation; upstream swimming: insights and
+limitations of a point-like swimmer model.
+2  Motion of a sphere in      Stokeslet, rotlet, stresslet, drag, torque, Fax´en relations,    8
+Stokes regime           Oseen tensor, mobility and resistance formulation.
+3  Minimal model of          Scallop theorem; 3-sphere swimmer; Lighthill efficiency;    4
+micro-swimming           multipole expansion; far-field signature:
+pusher/puller/neutral swimmer classification.
+4  General spherical        Lamb’s general solution and Blake’s squirmer model,      7
+swimmers                Lorentz reciprocal theorem.
+5  Catalytic self-propulsion   Diffusiophoresis and self-diffusiophoresis of Janus          5
+of colloids                    colloids: dependence of speed and hydrodynamic
+signature on catalytic coating modes.
+6  Swimmer-boundary       Image system for far-field interactions; method of         4
+interactions                  reflections; upstream swimming revisited for bounded
+flows.
+7  Anisotropic swimmers      Jeffery orbit for a spheroid; elongated bacteria in shear    7
+and Poiseuille flow; introduction to slender body theory,
+resistive force theory and flagellar propulsion; Taylor’s
+swimming sheet; model of ciliary propulsion.
+
+Prerequisites: For UG (3rd and 4th year): Transport Phenomena (CHE311) or equivalent
+
+1
+
+[PAGE 2]
+Fluid Mechanics course. For PG: Transport Phenomena (CHE611) or equivalent Fluid Mechanics
+course.
+
+Recommended Texts and References
+1.  ´E. Guazzelli & J. F. Morris, A Physical Introduction to Suspension Dynamics, Cambridge
+University Press (2016).
+
+2. E. Lauga, The Fluid Dynamics of Cell Motility, Cambridge University Press (2020).
+
+Proposer (Date:March 2, 2026)        DPGC Convener (Date:                    )
+
+Chairman, SPGC (Date:                    )
+
+The course is approved / not approved
+
+2

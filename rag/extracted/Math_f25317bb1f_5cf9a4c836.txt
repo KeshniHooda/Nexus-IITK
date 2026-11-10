@@ -1,0 +1,128 @@
+[PAGE 1]
+Feedback of Faculty Members of the Department of Mathematics & Statistics
+On
+Interim Report of the Academic Review Committee
+
+The following issues emerged during the discussions, on the interim report of the ARC, at the faculty
+meeting held on 6th, 9th and 19th March 2009.
+
+1. In principle the idea of second degree is fine. However, the implementation guidelines must be spelt out.
+
+2. Duration of the 2nd degree: The normal duration of the 2nd degree must be spelt out.
+
+3. A common nomenclature for all 4 year academic program was suggested. For example:  BS(discipline)
+such as BS ( ME) or BS (Physics).
+
+4. The existing minimum CPI and W/AP rules should be retained. However the pass credit option (PCO)
+should be revived.
+
+5. In keeping with the objectives of producing global humane Indians, a few courses on Value Education
+(say through NCC, NSS) are desirable.
+
+6. The credits assigned to the professional courses in the given templates are based on the assumption that
+there will be no tutorials. However, some departments may wish to continue with tutorials, amounting to a
+requirement of greater number of credits to complete the academic program. The minimum number of
+credits required to complete the academic program of a department should be left to the department.
+
+7. UGR1-UGR4: A mechanism should be evolved so that only serious students are able to exercise this
+option.
+
+8. There should be a requirement for minimum attendance. However, the students may get exemption, in
+very special cases, from the concerned instructor.
+
+9. The time table for all courses, including department courses, should be centralized. This is particularly
+necessary with the introduction of minors and the second degree.
+
+10. Non-intrusive course monitoring is not clearly spelt out.
+
+11. The Department of Mathematics and Statistics will be able to offer only 2 modular courses.
+
+12. It is not possible to cover the basics of Probability and Statistics in one modular course.
+
+13. Tutorial sessions by senior undergraduate students based on payment should be encouraged.
+
+[PAGE 2]
+The following are the responses to the questions posed for the department:
+
+1. Possible minors by the department - this will be decided by the various groups. See Appendix-I
+
+2. All compulsory department courses should be done in order to obtain the second degree.
+
+3. No B.Tech(honors) degree.
+
+4. No exit option. The present system is working well.
+
+5. ESO 211  - Data Structures and Algorithms- should be the only compulsory ESO course for the
+Mathematics students.
+
+6. It is not possible to introduce communication skills in a formal way. However, informally this could be
+achieved by ensuring that the students do take part in discussions in every course.
+
+Appendix-I
+
+Proposed Minors
+
+I. Minor in Scientific Computing (Linear Algebra)
+
+1. Linear Algebra
+2. Principles of Numerical Computation
+3. Numerical Linear Algebra
+4. Applied matrix theory
+
+II. Minor in Scientific Computing (ODE)
+
+1. ODE
+2. Principles of Numerical Computation
+3. Numerical Solutions of ODE
+4. Parallel Numerical Algorithms
+
+III. Minor in Scientific Computing (PDE)
+
+1. PDE
+2. Principles of Numerical Computation
+3. Numerical Solutions of PDE
+4. Introduction to Computational MRI, MRS, and NMR / Parallel Numerical Algorithms
+
+V. Minors in Differential Equations (DE), Fluid Dynamics (FD), Mathematical Biology (MB):
+
+1. MINOR-I (DE-1)   : MTH407, MTH421, MTH424, MTH625.
+
+2. MINOR-II (FD-1)  : MTH423, MTH523, MTH662, MTH694.
+
+3. MINOR-III (MB-1) : MTH603, MTH606, MTH661, MTH658.
+
+[PAGE 3]
+4. Minor-IV (MB-2): MTH 606, MTH601, MTH762, MTH694
+
+5. Minor-V (DE-2): MTH 421, MTH 424, MTH405, MTH656
+
+6. Minor-VI (FD-2): MTH 662, MTH656, MTH630, MTH-693
+
+VI. Minors in Analysis:
+
+1.  Analysis I
+Analysis II
+Distribution Theory and Fourier Analysis/ Fourier Analysis/ Functional Analysis
+
+2.  Analysis I
+Complex Analysis
+Fractal Interpolation and Applications/ Functional Analysis
+
+3.   Analysis I
+Topology
+Differential Geometry/ Algebraic Topology/ Functional Analysis
+
+4.  Analysis I
+ODE
+PDE
+
+VII. Minor in Discrete Mathematics:
+
+i) MTH 202  - Discrete Math,
+(ii) MTH 302 - Logic,
+(iii) MTH 204 - Algebra and
+(iv) MTH 401 - Theory of Computation.
+
+NOTE: At least one minor in Probability and Statistics will also be possible. However, the structure of that
+minor is related to academic review of two-year M.Sc. (Statistics) program and will be finalized after the
+review of two-year M.Sc. (Statistics) program is over..

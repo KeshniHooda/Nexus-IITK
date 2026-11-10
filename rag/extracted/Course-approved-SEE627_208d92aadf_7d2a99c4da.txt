@@ -1,0 +1,489 @@
+[PAGE 1]
+r
+r
+
+Indian Institute of Technology, Kanpur
+Department of Sustainable Energy Engineering
+Proposal for a Course Modification
+
+1. Course Number: 5EE627
+
+2. Course Title:  Electric vehicles Electric Mobility
+
+3.  Per Week Lectures: 3_(L), Tutorial: _(T), Laboratory: _(P), Additional Hours[0-2]: _(A)
+
+4.  Duration of Course: Full Semester
+
+5. Proposing Department: SEE
+
+Other Departments/IDPs which may be interested: EE
+
+Other faculty members interested in teaching: Dr. Prabodh Bajpai and Dr. Suvendu Samanta
+
+6. Proposing Instructor: Dr. Amarendm Edpuganti
+
+7. Course Description:
+
+Electric mobility imiudes all types of transportation that is fully or partly driven by electric motors. It has
+been gradually replacing"the conventional transportation due to climate concerns, shortage of oil resources,
+and energy security. The aim of this course is to teach system level understanding of the electric mobility
+to benefit,students from diverse backgrounds.
+
+8.  Expected learning outcomes
+
+On completing the course, the student will be able to:
+•."~ Undestand the basics of elecfao mobility, and poweY train configurations
+•   Learn about different battery storage technologies and charging algorithms
+Lear about different types of chargers for electric mobility
+•  `Learn about' different kinds.ofmotors used in electric mobility
+
+9. Course outline
+I.    Introduction: Need ,for;  eplacing„conventional transportation, comparison between  electric
+vehicles (EV) and internal combustion engines (ICEV), types of EVs, vehicle fundamentals, plug-
+in hybrid electric vehicles (PHEV), Range extended EVs (REEVs), and configurations of EVs.
+II.   Energy storage system: Electrochemical cell, basics of batteries, types of batteries, battery
+modeling, charging algorithms, battery management system (BMS), cell balancing techniques, and
+SOC estimation techniques.
+III.,   Battery charging: classification ofbattery,chargers, types of onboard chargers, fast charging
+stations andv2x,technoiogies'.
+IV   Motors ;for,,, electric mobility: Induction motors, Brushiess dc motors, permanent magnet
+synchronous motors, switched reluctance motors, and synchronous reluctance motors.
+
+[PAGE 2]
+10. Lecture-wise breakup
+
+Topics                        Number of lectures
+1.  Introduction                            10
+2.  Energy storage system                    15
+3.  Battery charging                           12
+4.  Motors for electric mobility                5
+42
+
+11. Pre-requisites: Consent of Instructor
+
+12. Textbooks:
+1.  lqbal Husain, "Electric and Hybrid vehicles", Design Fundamentals, CRC Press, 2021.
+2.  M. Ehsani, Y. Gao, S. Gay and A. Emadi, "Modern Electric, Hybrid Electric, and Fuel Cell
+Vehicles", CRC Press LLC, Boca Raton, U.S., 2018. Third Edition
+
+Dated: 19/10/2024                                            Proposer: Amarendra Edpuganti
+
+DPGC Convener:
+
+The course i approve. / not approved
+
+Chairman, SPGC
+
+Dated:
+
+[PAGE 3]
+a
+0
+
+Indian Institute of Technology, Kanpur
+Department of Sustainable Energy Engineering
+Proposal for a Course Modification
+
+1. Course Number: 5EE627
+
+2. Course Title:  Electric Mobility
+3.  Per Week Lectures: 3_(L), Tutorial: _(T), Laboratory: _(P), Additional Hours[0-2]: _(A)
+
+4.  Duration of Course: Full Semester
+
+5.  Proposing Department: SEE        -
+Other Departments/IDPs which may be interested: EE
+Other faculty members interested in teaching: Dr. Prabodh Bajpai and Dr. Suvendu Samanta
+
+6.  Proposing Instructor: Dr. Amarendra Edpuganti
+
+7. Course Description:
+Electric mobility includes all types of transportation that is fully or partly driven by electric motors. It has
+been gradually replacing the conventional transportation due to climate concerns, shortage of oil resources,
+and energy security. The aim of this course is to teach system level understanding of the electric mobility
+to benefit students from diverse backgrounds.
+
+8.  Expected learning outcomes
+On completing the course, the student will be able to:
+•   Understand the basics of electric mobility, and power train configurations
+•   Learn about different battery storage technologies and charging algorithms
+•   Learn about different types of chargers for electric mobility
+•   Learn about different kinds of motors used in electric mobility
+
+9. Course outline
+I.   Basics of  electric mobility: Introduction, need  for  replacing conventional  transportation,
+comparison between electric vehicles (EV) and internal combustion engines (ICEV), types of EVs,
+vehicle fundamentals, plug-in hybrid electric vehicles (PHEV), Range extended EVs (REEVs), and
+configurations of EVs.
+II.   Energy storage system: Electrochemical cells, basics of batteries, types of batteries, battery
+modeling, charging algorithms, battery management system (BMS), cell balancing techniques, and
+S0C estimation techniques.
+III.   Battery charging: Classification of battery chargers, types of onboard chargers, fast charging
+stations, and v2x technologies.
+IV.   Motors for electric mobility: Induction motors, Brushless do motors, permanent magnet
+synchronous motors, switched reluctance motors, and synchronous reluctance motors.
+
+[PAGE 4]
+10. Lecture-wise breakup ( Each lecture has 1.25 hours duration)
+
+Topics                  Number of lectures
+1.  Basics of Electric mobility                    8
+Introduction                              1
+Hybrid electric vehicles                   3
+Plug-in and battery electric vehicles           2
+Vehicle fundamentals                     2
+2.  Energy storage system                        10
+Cell fundamentals and parameters             2
+Battery Modelling                      4
+Charging algorithms                    2
+Battery management systems (BMS)           2
+3.  Battery charging systems                      6
+On-board chargers                         2
+Off-board chargers                         2
+V2X Technologies                         2
+4.  Motors for electric mobility                    2
+26
+
+11. Pre-requisites: Consent of Instructor
+
+12. Textbooks:
+1.  Iqbal Husain, "Electric and Hybrid vehicles", Design Fundamentals, CRC Press, 2021.
+2.  M. Ehsani, Y. Gao, S. Gay and A. Emadi, "Modem Electric, Hybrid Electric, and Fuel Cell
+Vehicles", CRC Press LLC, Boca Raton, U.S., 2018. Third Edition
+
+Dated: 20/12/2024                                            Proposer: Amarendra Edpuganti
+
+DPGC Convener:
+
+The course is(approv     / not approved
+
+Chairman, SPGC
+
+Dated:
+
+[PAGE 5]
+1
+
+0
+
+PGDesk-IITK-DOHA
+
+From:                        spgc <spgc@iitk.ac.in>
+Sent:                       17 February 2025 09:44
+To:                          Pgdesk
+Cc:                               dpgc_see@iitk.ac.in
+Subject:                       Fwd: Proposal for Revision in Electric Vehicles course SEE627
+Attachments:                  SEE 627_ course modification.pdf
+
+Follow Up Flag:                Follow up
+Flag Status:                   Flagged
+
+Categories:                     Blue Category
+
+@Pgdesk: for next SPGC meeting please.
+
+Regards,
+
+Sudhanshu
+Chairperson, SPGC
+
+Original Message
+
+Subject:Proposalfor Revision in Electric Vehicles course SEE627
+Date:2025-02-1418:14
+From:dpgc_see <dpgc_see@iitk.ac.in>
+To:Spgc <spgc@iitk.ac.in>
+Copy:Amarendra Edpuganti <amarendrae@iitk.ac.in>, Raghvendra Kumar <raghvenk@iitk.ac.in>,
+Ashishg <ashishg@iitk.ac.in>
+
+Dear Chairman, SPGC,
+
+Kindly approvethe attached course, which was shared in acadstaff (see
+below). We have not received any further comments/inputs for the same.
+
+Regards
+DPGC Convenor (SEE Dept)
+
+Dr. PRABODH BA]PAI, Fellow IE(I), SMIEEE
+Professor,
+Department of Sustainable Energy Engineering
+I.I.T. Kanpur-208016, U.P., India
+Homepage- https://home.iitk.ac.in/~pbajpai/
+Phone:+91-512-679-2327(Off.) 8826(Resi.)
+Alternate email:bajpai.orabodh@@omait.com
+
+1
+
+[PAGE 6]
+On 2025-02-09 19:25, Amarendra Edpuganti wrote:
+
+Dear Prabodh,
+
+There are no further comments received. Please proceed for the next steps.
+
+Best Regards
+
+Amarendra
+
+From: acadstaff <acadstaff-bounces@lists.iitk.ac.in> On Behalf Of Amarendra Edpuganti
+Sent: 27 December 2024 20:00
+To:'kallol' <kallol@iitk.ac.in>
+Cc:'Ashishg' <ashishg@iitk.ac.in>;'dpgc_see' <dpgc_see@iitk.ac.in>;'Acadstaff' <acadstaff@lists.iitk.ac.in>
+Subject: Re: Eacadstaff] Proposal for Revision in Electric Vehicles course SEE627
+
+Dear Prof Kallol,
+
+-   Please find attached the updated course proposal with detailed lecture wise break-up.
+
+Best Regards
+
+Amarendra
+
+From: kallol <kallol@iitk.ac.in>
+Sent: 23 December 202411:05
+To: dpgc_see <dpgc see@iitk.ac.in>
+Cc: Amarendrae <amarendrae@iitk.ac.in>; Ashishg <ashishg@iitk.ac.in>
+Subject: Re: Iacadstaff] Proposal for Revision in Electric Vehicles course SEE627
+
+Dear Professor Bajpai,
+
+The course is surely be good. I have following suggestion. The lecture wise break up cari be expanded. I
+am sure that there could be several exciting sub-sections in each of the sections. Otherwise, it will be
+challenging for the student to understand the content. For example, Introduction is of 10 lectures, Energy
+storage system is of 15 lectures and battery charging is of 10 lectures.
+
+2
+
+[PAGE 7]
+I hope that the proposer might want to discuss with some of the experienced faculty members in the
+department.
+
+Best regards,
+
+Kailol
+
+Kallol Mondal
+
+Professor
+Department of Materials Science and Engineering
+Indian Institute of Technology Kanpur
+Kanpur, Uttar Pradesh, India 208016
+
+On 2024-12-20 21:32, dpgc see wrote:
+
+Dear colleagues,
+
+The Proposal for Course Modification of Electric Vehicles course SEE627 is available at
+the following link:
+https://iitl:.so.in/doaa/data/NewCourses/Revised-Course-proposal-SEE627-Electric-
+Mcbility.pdf
+
+If you have any comments, you may email them directly to Prof. Amarendrae
+<amarendrae@iitk.ac.in>
+with CC to dpgc see@iitk.ac.in by Jan. 11, 2025.
+
+Regards
+DPGC Convenor (SEE Dept)
+
+Dr. PRAEODH BAJPAI, Fellow IE(I), SMIEEE
+Professor,
+Department of Sustainable Energy Engineering
+I.I.T. Kanpur-208016, U.P., India
+Homepage- https://home.iitk.ac.in/-pbajpai/
+Phone:+91-512-679-2327(Off.) 8826(Resi.)
+Alternate email:bajpai.prabodh@gmail.com
+
+On 2024-12-20 21:31, dpgc see wrote:
+
+Dear colleagues,
+
+The Proposal for Course Modification of Electric Vehicles course SEE627 is available at
+the following link:
+https://itk.ac.in/doaa/data/NewCourses/Revised-Course-proposal-SEE627-Electric-
+Mobility.pdf
+
+r
+3
+
+[PAGE 8]
+'4
+If you have, any comments, you may email them directly to Prof. Amarendrae
+<amarendrae@iitk.ac.in>
+with CC to dpgc see@iitk.ac.in by Jan. 11, 2025.
+
+Regards
+DPGC Convenor (SEE Dept)
+
+Dr. PRABODH BAIPAI, Fellow IE(I), SMIEEE
+Professor,
+Department of Sustainable Energy Engineering
+I.I.T. Kanpur-208016, U.P., India
+Homepage- https://home.iitk.ac.in/"pbajpai/
+Phone:+91-512-679-2327(Off.) 8826(Resi.)
+Alternate email:bajpai.prabodh@gmail.com
+
+On 2024-12-20 15:38, courses wrote:
+
+Dear Sir,
+
+The revised course proposal is available now at the following link:
+
+https: //iitk.ac.i n/doaa/data/NewCourses/Revi sed-Course-proposa I-SEE627-Electric-Mobilitv. odf
+
+Our repository link is as follows:
+
+https://www.iitk.ac.inJdoaa/new-course-aDDroval-repository
+
+In case of any query, please feel free to contact us.
+
+With best regards,
+
+OARS Team
+
+On 2024-12-20 09:29, dpgc_see wrote:
+
+Kindly upload the attached Proposal for Course Modification of Electrical
+Vehicles course SEE627 and share the link.
+4
+
+[PAGE 9]
+V.
+
+Revision in the content is significantly more than 20%.
+
+Regards
+DPGC Convenor (SEE Dept)
+
+Dr. PRABODH BA]PAI, Fellow IE(I), SMIEEE
+Professor,
+Department of Sustainable Energy Engineering
+I.I.T. Kanpur-208016, U.P., India
+Homepage- https://home.iitk.ac.in/rspbajpai/
+Phone:+91=512-679-2327(Off.) 8826(Resi.)
+Alternate email:bajpai.prabodh@gmail.com
+
+Original Message
+
+Subject:RE: Revision in Electric Vehicles course in the core basket
+Date:2024-12-1617:01
+From:"Amarendra Edpuganti" <amarendraeCa~iitk.ac jn>
+To:"'dpgc_see" glpgc see(caiitk.ac.in>
+Copy:'tHead_see" <head seetd>iitk.ac.iq>, "Raghvendra Kumar" <raghvenk(a iitk.ac.in>
+
+Dear Prabodh,
+
+Please find attached the updated course content. I named the course as Electric mobility.
+
+Best Regards
+
+Amarendra
+
+In the FM  It was decided to add SEE-627: Electric Vehicles in Semester I in the core basket. and It was
+also suggested to rename the Electric Vehicles course to make it more broad and generic like Electric
+mobility, Energy system for electric vehicles.
+
+You should send the revised course proposal at earliest for the same by Dec. 25. Also keep in mind the
+necessary content revision as a core basket course.
+
+Regards
+DPGC Convenor (SEE Dept)
+
+Dr. PRABODH BA]PAI, Fellow IE(I), SMIEEE
+Professor,
+5
+
+[PAGE 10]
+Department of Sustainable Energy Engineering
+I.I.T. Kanpur-208016, U.P., India
+Homepage- https://home.litk.ac.in/npbajpai/
+Phone:+91-512.679-2327(Off.) 8826(Resl.)
+Alternate email:bajpai.prabodh@gmali.com
+
+acadstaff mailing list
+acadstaff@lists.iitk.ac.in
+https://lists.iitk.ac.in/mailman/listinfo/acadstaff
+
+6
+
+[PAGE 11]
+INDIAN INSTITUTE OF TECHNOLOGY KANPUR
+POSTGRADUATE OFFICE
+
+No. A(P)/IITK/course approval/
+March 25, 2025
+
+The Convener, DPGC
+Departments of DOMS/MTH/SEE
+ITT Kanpur
+
+I am directed to communicate the concurrence of the SPGC (2024-25) in its 6th meeting held
+on 27/02/2025 for the approval of new/modification PG course proposal. After detailed
+discussion the following courses were approved.
+
+Course No                       Title                     Credits            Instructor      SPGC Decision
+DMS613     Introduction to Mathematical Finance         3-0-0-0-[9]    Dr. Sourav Majumdar         Approved
+MBA644     Cyber Security and Privacy for Managers    3-0-0-1-[10]   Dr. Sourya Joyee De          Approved
+MBA788M   Monte Carlo Methods in Finance              3-0-0-1-[5]    Dr. Sourav Majumdar         Approved
+MBA789M   Management Sciences                        3-0-0-1-[5]    Dr. Harshal Rajan Mulay       Approved
+Private Equity, Venture Capital and otherMBA790M                                                    3-0-0-1-[5]    Dr. Harshal Rajan Mulay       Approved              Alternative Assets
+MTH619     Representation theory of quivers              3-0-0-0-[9]    Dr. Amit Kuber               Approved
+SEE627       Electric Mobility [Modification]               3-0-0-2-[11]   Dr. Amarendra Edpuganti      Approved
+
+Joint/Assistant Registrar
+Academic Affairs
+
+CC: OARS (DOAA Office) For necessary action
+
+[PAGE 12]
+u.     .f:.3.a.  'S ta:. tS...
+
+MINUTES
+FOR THE 6th MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) HELD
+ON February 27, 2025 (Thursday) AT 11:00 AM
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING
+
+Members Present: Prof(s): D. Chaitanya Kumar Rao on behalf PM Mohite (AE), Suresh Kumar (BSBE), Basker
+Sundararaju (CHM), Ark Verma (CGS), Gourabananda Pahar (CE), Soumik Das on behalf of Dipin S Piliai (CHE),
+J Ramkumar (DES), Sukumar Vellakkal (ECO), imon Mondal (EE), Animesh Mandal (ES), Rajarshi Sengupta
+(HSS), Subhankar Mukherjee (DoMS), Anikesh Pal (ME), Sudhanshu S Singh (MSE), Pritam Chakraborty (MSP),
+Sudhanshu Shekhar (MATH), Sagar Chakrabarty (PHY), Kunal P Mooley (SPASE), Prabodh Bajpal (SEE)
+Members Absent: Prof(s), Piyush Rol (CSE), Pankaj Wahi (NET), Sapam Ranjita Chanu (PSE)
+Senate Nominee : Prof. Abheejeet Mohapatra
+Student representatives. Saurabh Sona Lahamate (231250121
+
+(A) Ratification of minutes of 5`h SPGC meeting held on January 24, 2025
+
+No comments were received. Minutes is confirmed
+
+(B) item requiring SPGC Approval
+
+a) New course approval
+Course No                       Title                     Credits            Instructor             I SPGC Decision
+DMS613     Introduction to Mathematical Finance         3-0-0-0-[9]    Dr. Sourav Majumdar         Approved
+MBA644    Cyber Security and Privacy for Managers    3-0-0-1-[10]   Dr. Sourya Joyee De            i    Approved
+MBA788M,  Monte Carlo Methods in Finance             3-0-0-1-[5]    Dr. Sourav Majumdar         Approved
+MBA789M   Management Sciences                       3-0-0-1-[5]    Dr. Harshal Rajan Mulay       Approved
+Private Equity, Venture Capftai and other                  MBA790M                                                                                        3-0-0-1-[5]    Dr. Harshal Rajan Mulay       Approved                                          Alternative Assets
+MTH619     Representation theory of quivers             3-0-0-0-(9]    Dr. Amit Kuber               Approved
+SEE627       Electric Mobility IModiticaton]               3-0-0-2-[11]   Dr. Amarendra Edpugantl      Approved
+
+b)  Terminatlon under 5.7
+Supervisor & DPGC   SPGC Decision                          S. No   Roll No    Name                       Dept.p     pro                                                                                                g'   Recommendation
+Approved to be                              1.                    Jatln Chaudhary         DOMS  MBA   Recommended                    1241250026                                                                         reported to Senate
+Approved to be                              2.    241010003  Adhikari Thakur Prasad Das  AE      MTech  Recommended                                                                                                                          reported to Senate
+
+c)  Full Time to Part-Time
+Supervisor and DPGC     Remark    SPGC Decision
+S. No   Roll No    Name          De p t     pro g     Recommendation
+CU=78
+TU =54                         1.    231040115   Swati Gupta      EE    MTech     Recommended                          Approved                                                                                                 CPI=9.38
+NOC - attached
+CU=78
+Bingi   Poojari                                                                                                -54                         2.    231040036  Venkatesh       EE    MTech     Recommended                          Approved                                                                                                CPI=9.38
+NOC - attached
+
+Page 1 of 9
+
+'4
+
+""t

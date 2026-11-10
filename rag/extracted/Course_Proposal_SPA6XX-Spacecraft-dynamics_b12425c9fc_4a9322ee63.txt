@@ -1,0 +1,54 @@
+[PAGE 1]
+Proposal for a new course
+
+Course title: Spacecraft dynamics
+Course no.: SPA 637
+Proposer: Ishan Sharma, Sharvari Nadkarni-Ghosh, Arun Misra
+Department: Space, Planetary & Astronomical Sciences and Engineering (SPASE)
+Credits: 9 (3-0-0-0)
+Pre-requisite: Basic course in mechanics and adequate exposure to calculus.
+
+Course description and contents:
+
+This course discusses the orbital motion, trajectory analysis and maneuvers of a spacecraft. The
+lecture distribution is given below in terms of 41 lectures of 50 minutes each.
+
+1. The Two-Body Problem, Orbital Elements and Orbit Determination – 4 lectures
+
+2. Orbit Maneuvers, Plane Change and Transfer between Orbits – 5 lectures
+
+3. Interplanetary Trajectory Analysis and Gravity Assist – 8 lectures
+
+4. Orbit Perturbations: Lagrange and Gauss Perturbation Equations and Applications – 9 lec-
+tures
+
+5. The Three-Body Problem, Lagrangian Points, Lyapunov and Halo Orbits – 8 lectures
+
+6. Spacecraft Relative Motion, Rendezvous and Formation Flying – 7 lectures
+
+Textbooks:
+
+1. Curtis, H. D. 2019 Orbital Mechanics for Engineering Students, 4th ed. Elsevier (Butterworth
+– Heinemann).
+
+2. Kaplan M. H. 2000. Modern Spacecraft Dynamics & Control, Dover.
+
+3. Prussing, J. E., and Conway, B. A. 2012 Orbital Mechanics, 2nd ed. Oxford University Press.
+
+4. Schaub, H., and Junkins, J. L. Analytical Mechanics of Space Systems, 4th ed. AIAA.
+
+5. Roy, A. E. 2005. Orbital Motion, 4th ed. CRC Press.
+
+References:
+
+1. Chobotov, V. A. Orbital Mechanics, 3rd ed. AIAA.
+
+2. Gurzadyan, G. A. 1996. Space Dynamics. London: Taylor & Francis.
+
+3. Vallado, D. A. 2019. Fundamentals of Astrodynamics and Applications, 4th ed. Space Tech-
+nology Library.
+
+Signature of the Proposer
+
+This course is APPROVED/NOT APPROVED Convener, DPGC
+This course is APPROVED/NOT APPROVED Chairman, SPGC

@@ -1,0 +1,74 @@
+[PAGE 1]
+COURSE PROPOSAL: AN INTRODUCTION TO LINEAR PROGRAMMING
+
+1. Course Title: An Introduction to Linear Programming
+2. Course Number: MTHxxx (UG level)
+3. Proposing Department: Mathematics and Statistics
+4. Proposing Instructor(s): Malay Banerjee
+5. Other Faculty members interested: Debasis Kundu, Saktipada Ghorai, Subhra Sankar
+Dhar, Keshab Chandra Bakshi
+6. Units: 3-0-0-9
+7. Pre-requisite: A good grasp of “Linear Algebra”.
+8. Course Description:
+(a) Objectives of the course: Linear Programming is a fundamental course within the
+broader field of Optimization. It has applications across several areas, including engi-
+neering design, operations research, economics, data science, and decision-making under
+constraints. Introducing a course on LP will help UG students prepare themselves for
+various application areas within Optimization Theory. The course will also strengthen
+their mathematical reasoning and computational skills, preparing them for advanced
+studies and interdisciplinary research at the undergraduate level.
+(b) Contents:
+• General Introduction                                                      [3 lectures]
+– Linear Programming Problems (LPP)
+– Origin of LPP
+– Examples of LPP
+• Mathematical Preliminaries                                              [5 lectures]
+– Matrices
+– Vectors
+– Convex Sets
+– Linear Inequalities
+– Solution of Linear System of Equations
+• LPP in general                                                            [5 lectures]
+– The LPP
+– Properties of a solution of LPP
+– Extreme points
+– Graphical method
+• Simplex Method                                                           [8 lectures]
+– Minimum Feasible Solution
+– Mathematical Calculation
+– Artificial Basis Technique
+– Basic Feasible Solution
+– Geometrical Interpretation
+• The Revised Simplex Method                                            [5 lectures]
+– Standard form of Inverse
+– Product form of Inverse
+– Computational Steps
+• Dual Problem of LPP                                                     [5 lectures]
+– Assymetric Primal-Dual problems
+– Symetric Primal-Dual problems
+
+[PAGE 2]
+– Implication of Primal-Dual problems
+• Transportation Problem (TP)                                            [4 lectures]
+– The General form
+– Solving the TP
+– Variations of TP
+• Assignment Problem                                                      [5 lectures]
+– The General form
+– Solution for Assignment Problem
+– Conversion to LPP
+– Application of Assignment Problem
+9. Books/References:
+(a) J. Matouˇsek and B. G¨artner: Understanding and using linear programming, Springer,
+(2007).
+(b) F.S. Hillier and G.J. Lieberman: Introduction to Operations Research, McGraw Hill,
+(1967).
+(c) P.R. Thie and G.E. Keough: An Introduction to Linear Programming and Game
+Theory, John Wiley & Sons, (2008).
+(d) H.A. Taha: Operations Research - An Introduction, Pearson Prentice Hall, (2017).
+
+Date: 28/11/2025                          Signature of the Proposer:
+
+Signature of DUGC Convener Mathematics and Statistics
+
+This course is approved/not approved                  Chairman, SUGC

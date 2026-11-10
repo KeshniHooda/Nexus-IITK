@@ -1,0 +1,39 @@
+BABYBOT COMMUNITY KNOWLEDGE MVP
+
+WHAT THIS ADDS
+- New Community Knowledge section in the sidebar.
+- Upload and automatic extraction/indexing for PDF, DOCX, PPTX, XLSX, ODT, ODS, ODP, TXT, CSV and Markdown.
+- Image upload/storage (OCR is not included yet).
+- Public HTML page ingestion.
+- Google Drive links can be saved as references; Drive file download/extraction is not included yet.
+- Separate Chroma collection: iitk_community_v1. Existing official collection is not modified.
+- SQLite catalogue and original file storage in project_root/community_data/.
+- Community evidence is labelled unverified in RAG context.
+- Library supports download and removal of uploaded files.
+
+INSTALL
+1. Stop Streamlit.
+2. Back up your current app_backup_integrated.py and rag_engine.py.
+3. Copy these files into THIS_GNANI_THING_BRO (same folder as app_backup_integrated.py):
+   app_backup_integrated.py
+   rag_engine.py
+   community_resources.py
+4. Do NOT replace .env, .venv, rag/chroma_db, webmail.py, email_monitor.py or reminder_store.py.
+5. Activate your existing .venv from the project root and run:
+   python -m pip install streamlit chromadb sentence-transformers pymupdf python-docx python-pptx openpyxl odfpy
+   streamlit run app_backup_integrated.py
+
+FIRST TEST
+- Open Community Knowledge.
+- Upload a small text-based PDF and give it a title and course code.
+- Wait for the success message with indexed chunk count.
+- Ask BabyBot a question whose answer is in that document.
+- Check Community resource library to download the original.
+
+NOTES
+- First upload may take longer while SentenceTransformer loads the local embedding model.
+- Max file size is 25 MB.
+- This is an MVP, not a production multi-user deployment. Add authentication, moderation and stricter file scanning before public deployment.
+- Scanned PDFs/images are retained but not OCR-indexed yet.
+- Drive links are stored as references; public Drive file extraction is a later enhancement.
+- The existing official IITK collection iitk_knowledge_curated_v1 remains separate and untouched.

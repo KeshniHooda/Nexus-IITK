@@ -1,0 +1,142 @@
+[Page 1]
+Page 1 of 3 
+Indian Institute of Technology Kanpur 
+Proposal for a new course 
+1. Course Number: DES 5XX 
+2. Course Title: FUNDAMENTALS OF INTERACTION DESIGN 
+3. Per week lectures: 02 (L), Tutorial: 0 (T), Laboratory: 3 (P), Additional Hours: 0 
+Total Credits: 9 (3*L+2*T+P+A) 
+Duration of Course: Full Semester 
+4. Proposing Department: Design 
+Other Departments/IDPs which may be interested in the proposed course: CSE, 
+IS, EE 
+Other faculty members interested in teaching the proposed course: NA 
+5. Proposing Instructor(s): Abhishek Shrivastava, Ph.D. 
+6. Course Description 
+a. Objectives 
+i. To enable the learner in developing a foundational understanding 
+of interactive systems design – including an understanding of 
+di\erent concepts, processes of design and evaluation. 
+ii. To enable the learner in understanding the state-of-the-art in the 
+domain of interactive design and be able to imagine newer 
+interactions across distinct contexts of applications. 
+iii. To enable the learner in developing an ability to appreciate and 
+distinguish contexts of application of interactive designs. 
+b. Contents 
+S.no. 
+Broad titles 
+Topics 
+No. of 
+Lectures 
+1 
+Introduction of 
+Interaction Design 
+– Deﬁnitions, 
+concepts, 
+canonical 
+perspectives 
+Basic concepts in Interaction Design 
+– Deﬁning interfaces, and 
+interactions 
+ 
+Interactivity – Understanding the 
+genesis of the term, its 
+contemporary understanding and 
+strategies of applications 
+ 
+Historical perspectives in interaction 
+design – ways of thinking, people 
+and contributions 
+ 
+8 
+2 
+Interaction Design 
+– Models and 
+Paradigms 
+Interaction Models – Developing an 
+understanding of structural aspects 
+in interactive design 
+ 
+7
+
+[Page 2]
+Page 2 of 3 
+Interaction Paradigms – 
+understanding the paradigms that 
+deﬁne interactions across diFerent 
+contexts, applications and 
+technology timeline 
+ 
+3 
+Contemporary 
+trends in 
+Interaction Design 
+Design trends in Interaction Design – 
+unimodal and multimodal 
+Interfaces, strengths and limitations 
+of diFerent modalities, trends in 
+human control and automation 
+ 
+5 
+4 
+The Interaction 
+Design Process 
+Interaction Design Process: 
+Understanding the details and the 
+relevance of design activities 
+undertaken across the distinct 
+phases of Interaction Design 
+Process; Understanding how 
+diFerent process elements 
+complement each other along with 
+their individual strengths and 
+limitations. 
+ 
+PACT: A framework for designing 
+interactive systems 
+ 
+10 
+5 
+Evaluation and 
+Reporting 
+Evaluation of Interactive Design: 
+types of evaluation – summative and 
+formative, expert evaluation, 
+participant-based evaluation, 
+evaluation in practice, and related 
+concerns 
+ 
+10 
+Total lectures: 40 
+c. Pre-requisites, if any: NIL 
+d. Short-summary for including in the Courses of Study Booklet: 
+The course of “Fundamentals in Interaction Design” enables early stage 
+designers to understand the fundamentals of interaction design as one of the 
+verticals of design interventions. It enables them with an understanding of 
+essential concepts and processes, including aspects of testing their interactive 
+design with the design contexts, and equip them with an understanding of the 
+growth trajectory of the interaction design and emerging trends. 
+ 
+7. Text Books/ references 
+[1] Sharp, H., Preece, J., Rogers, Y., Preece, J. (2019). Interaction Design: Beyond 
+Human-Computer Interaction. United Kingdom: Wiley.
+
+[Page 3]
+Page 3 of 3 
+[2] Benyon, D. (2019). Designing User Experience. United Kingdom: Pearson. 
+[3] Ben Shneiderman, Catherine Plaisant, Maxine Cohen, Steven Jacobs, Niklas 
+Elmqvist, and Nicholas Diakopoulos. 2016. Designing the User Interface: Strategies 
+for E\ective Human-Computer Interaction (6th. ed.). Pearson. 
+[4] Alan Cooper, Robert Reimann, David Cronin, and Christopher Noessel. 2014. 
+About Face: The Essentials of Interaction Design (4th. ed.). Wiley Publishing 
+[5] Sa\er, D. (2013). Microinteractions: Full Color Edition: Designing with 
+Details. United States: O'Reilly Media. 
+8. Any other remarks 
+
+Dated: 9 June 2026 Proposer: Abhishek Shrivastava, Ph.D. 
+Dated: _____________ DUGC/ DPGC Convener ___________________________ 
+ 
+The course is approved/ not approved 
+ 
+Chairman, SUGC/ SPGC 
+Dated: ___________

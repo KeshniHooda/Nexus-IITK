@@ -1,0 +1,109 @@
+[PAGE 1]
+REGISTRATION DATA STATISTICS FOR 2018-19/SECOND
+
+TOTAL NUMBER OF COURSES BEING OFFERED                                    480
+
+EXCLUDE THE THESIS COURSE, SEMINAR, PROJECT, BTP, SUMMER TRAINING,
+432 PRESENTATION
+
+MAXIMUM CLASS SIZE (CHM102A)                                                894
+
+MINIMUM CLASS SIZE (AT PRESENT THERE ARE 432 COURSES)                      1
+
+AVERAGE CLASS SIZE (OF ALL 432 COURSES)                                          54.60
+
+NUMBER OF COURSES WITH 5 STUDENTS OR LESS                                 29
+
+NUMBER OF COURSES WITH 100 STUDENTS OR MORE                              51
+
+AVERAGE CLASS SIZE OF COURSES THAT HAVE >5 AND LESS THAN 100 STUDENTS     34.37
+
+THE FOLLWING IS THE NUMBER OF COURSES WITH VARIOUS CLASS
+STRENGTHS
+
+No. of Student  No. of Course
+1              6
+2              8
+3              6
+4              4
+5              5
+6-10            54
+11-15           38
+16-20           36
+21-25           32
+26-30           25
+31-50           81
+51-75           62
+76-100           25
+>100            50
+Total           432
+
+Page 1 of 2
+
+[PAGE 2]
+2018-19 SECOND SEMESTER
+LIST OF COURSES IN WHICH <=5 STUDENTS REGISTERED
+
+Course                                                                    No. of
+Sl. No.            Instructor                   Title
+No                                                                        Students
+
+1     EE698P  GOVIND SHARMA           ADAPTIVE SIGNAL PROCESSING                     1
+
+2    ENG709A CHAITHRA PUTTASWAMY      LINGUISTIC ANALYSIS                             1
+
+3     PHI757A  VINEET SAHU            MORAL JUDGEMENT                             1
+
+4    IME797A  RAHUL VARMAN            INDEPENDENT STUDY                             1
+
+5    MTH652A MANJUL GUPTA           ADVANCED CALCULUS                            1
+INTRODUCTION TO ATOMIC AND NUCLEAR
+6     PHY524  TARUN KANTI GHOSH         PHYSICS                                        1
+
+7     CS698H  ANIL SETH             HUMAN CENTERED COMPUTING                    2
+
+8     CS797A  SUMIT GANGULY             SPECIAL TOPICS IN COMPUTER SCIENCE              2
+
+9    ENG708A SUDHARSHANA N P           APPLIED LINGUISTICS                             2
+
+10   MTH614A SUPRIO BHAR            AN INTRODUCTION TO STOCHASTIC CALCULUS         2
+
+11   MTH624A SACHIN SUBHASH SHARMA    DIFFERENTIABLE MANIFOLDS AND LIE GROUPS         2
+
+12   MTH701A MOHUA BANERJEE         MODAL LOGIC                                   2
+
+13   MTH732A SUDHANSHU SHEKHAR       REPRESENTATION THEORY OF FINITE GROUPS         2
+CORRELATED ELECTRONS AND QUANTUM
+14    PHY690N  AVINASH SINGH           MAGNETISM                                    2
+
+15    CE492A  ANIMESH DAS            UNDER GRADUATE RESEARCH -II                    3
+
+16    PSY775A  BRAJ BHUSHAN            FUNDAMENTAL OF NEUROPSYCHOLOGY              3
+
+17   MTH633A  ABHIJIT PAL               INTRODUCTION TO HYPERBOLIC GEOMETRY           3
+FRACTIONAL SOBOLEV SPACES AND FRACTIONAL
+18   MTH703A PROSENJIT ROY              PRATIAL DIFFERENTIAL EQUATIONS                  3
+MATHEMATICAL FOUNDATIONS OF CARDIAC
+19   MTH708A B V R KUMAR               ELECTRO-PHYSIOLOGY                            3
+
+20    PHY204A  ANJAN KUMAR GUPTA      QUANTUM PHYSICS                              3
+
+21    AE693A  PRAKASH D MANGALGIRI      AIRCRAFT SRUCTURAL INTEGRITY                   4
+
+22    BSE614A  DHIRENDRA S KATTI           TISSUE ENGINEERING                             4
+
+23     EE698B  ANKUSH SHARMA          SMART GRID TECHNOLOGY APPLICATIONS            4
+
+24    SOC732A  BINAY KUMAR PATTNAIK      SOCIOLOGY OF DEVELOPMENT                     4
+
+25    AE625A  T K SENGUPTA              TRANSITION AND TURBULENCE                     5
+
+26    CE441B  SUDHIR MISRA             CONSTRUCTION MANAGEMENT                    5
+
+27   CHM681A R GURUNATH                BASIC BIOLOGICAL CHEMISTRY                     5
+
+28   MTH648A G SANTHANAM              DIFFERENTIAL GEOMETRY                         5
+
+29    PHY690V  VIJAYA RAMARAO          PHOTONIC DEVICES                              5
+
+Page 2 of 2

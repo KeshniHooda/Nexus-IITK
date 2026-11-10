@@ -1,0 +1,213 @@
+[PAGE 1]
+Name of Department: Intelligent Systems
+
+Name of Program: Bachelor of Technology in IS (BT-IS)
+
+Semesters
+Semester- 1                Semester -2     Semester- 3             Semester- 4       Semester-5       Semester-6      Semester-7       Semester-8
+SCHEME                 ETH111 (3)     SCHEME            SCHEME        SCHEME       SCHEME      SCHEME          DE-5(9)
+ELC111/ELC112/ELC113(9)                   HSS-I (11)            EME (9-11)          HSS-II (9)          HSS-II (9)         HSS-II (9)
+MTH 111M (6)           MTH 113M (6)   ESC201 (14)           ESO207 (12)       ESO-1 (9-11)       DE-1(9)           DE-3(9)           DE-6(9)
+MTH 112M (6)           MTH 114M (6)    IS201(10)               CS771/IS205(12)    IS301(3)          DE-2/UGP-1(9)    DE-4/UGP-2(9)    DE-7/UGP-
+3(9)
+PHY 111 (3)              PHY 112 (11)     EE200/IS202 (11)         EE250/IS204(11)    EE320/IS304(11)   OE-1(9)          OE-3(9)           OE-5(9)         Courses
+PHY 114 (11)           CHM 111 (3)    ESO215M/ESO216M(7)    IS203(12)           IS302(12)         OE-2(9)          OE-4(9)           OE-6(9)
+CHM 112M (4)            ESC 111M (7)                                               ME381/IS305(7)
+CHM 113M (4)            ESC 112M (7)
+TA 111 (9)                   LIF111 (6)
+
+PE111 (3)                 PE112 (3)
+Total      55                       52             60                     56-58              51-53           45             45              45
+Credits
+
+Remark, if any:                                                                                          Credits Summary:
+  Up to 36 OE credits may be waived from the minimum requirements for students opting               Course Type                       Credits Required
+for either the Dual Degree or Double Major programs.                                           Institute Core (IC)                     112
+ESO/SO                               35-37
+Department Requirements (DC+DE)      152 (89 DC + 63 DE)
+Open Electives (OE)                   54
+SCHEME                              54-58
+Total credits                           406-412
+
+[PAGE 2]
+Name of Program: BTH-IS (BT in IS with HONOURS)
+
+Semesters
+Semester- 1           Semester -2          Semester- 3        Semester- 4    Semester-5    Semester-6    Semester-7       Semester-8
+SCHEME                 ETH111 (3)      SCHEME            SCHEME     SCHEME     SCHEME     SCHEME     DE-3 (9)
+ELC111/ELC112/ELC113(9)                   HSS-1 (11)            EME        HSS-2 (9)      HSS-2 (9)      HSS-2 (9)
+(9-11)
+MTH 111M (6)           MTH 113M (6)    ESC201 (14)             ESO207(12)  ESO-1 (9-11)    DE-1 (9)       DE-2 (9)       DE-4 (9)
+MTH 112M (6)           MTH 114M (6)     IS201 (10)              CS771       IS301 (3)        UGP-1 (9)    UGP-2 (9)      DE-5 /UGP-3 (9)
+/IS205(12)
+PHY 111 (3)              PHY 112 (11)     EE200 /IS202(11)         EE250 /     EE320 /        OE-1 (9)       OE-3 (9)       OE-5 (9)            Courses
+IS204 (11)     IS304 (11)
+PHY 114 (11)           CHM 111 (3)     ESO215M/ESO216M (7)   IS203 (12)     IS302 (12)     OE-2 (9)       OE-4 (9)       OE-6 (9)
+CHM 112M (4)            ESC 111M (7)                                      ME381/      PG DE-1(9)    PG DE-2 (9)   PG DE-3 (9)
+IS305 (7)
+CHM 113M (4)            ESC 112M (7)
+TA 111 (9)                   LIF111 (6)
+
+PE111 (3)                 PE112 (3)
+Total Credits  55                       52               58-60                  56-58         51-53         54           54           54
+
+Remark:
+   In the BTH-IS template, 27 additional PG DE credits must be done. 2 UGPs are mandatory for the BTH program
+  PG DE credits must be obtained from courses having a number of the form IS LXX where L = 6/7
+  A student must have a graduation CPI of at least 8.5 to be eligible for B.Tech. Honours.
+
+[PAGE 3]
+Name of Program: BT in IS with Management (BTM-IS)
+
+Semesters
+Semester- 1        Semester -2       Semester- 3     Semester- 4        Semester-5      Semester-6         Semester-7           Semester-8
+SCHEME        SCHEME            OE-2 (9)
+HSS-II (9)           HSS-II (9)
+DE-1 (9)          OE-1 (9)             OE-3 (9)
+Identical to BT-IS    Identical to BT-    Identical to      Identical to BT-IS    Identical to      DE-2 UGP-1 (9)     DE-3 /UGP-2 (9)       DE-4 / UGP-3 (9)
+Program             IS                 BT-IS          Program            BT-IS
+Program         Program                        Program             Courses                                                                                       MTB-1 (9)        MTB-3 (9)            MTB-5 (9)
+MTB-2 (9)        MTB-4 (9)            MTB-6 (9)
+
+Total Credits          55               52             60              56-58            51-53             45                 45                45
+
+Remark:
+   The BTM-IS template replaces 27 DE + 27 OE credits with 54 MTB (management track basket) credits
+  A list of courses that will be notiﬁed as being eligible for MTB credits will be communicated at the time of application for the BTM program.
+   BTM-IS students can take up to 4 UGPs, but only at most 3 UGPs (27 credits) can be counted towards graduation requirements. All UGPs are optional.
+
+[PAGE 4]
+Name of Program: Dual Degree in IS (BT-MT-IS) (Category-A)
+Semesters
+UG part               PG Part                            PG Part
+Semester 1-6     Semester-7       Semester-8     Summer         Semester-9       Semester-10
+to           SCHEME       PG DE-1 (9)      MT Thesis (9)    PG DE-5 (9)      PG DE-6 (9)
+BT-IS program                                                                                                                           Identical             HSS-2 (9)                                                                 Courses
+DE-3 (9)        PG DE-2 (9)                     MTech          MTech
+Thesis (36)        Thesis (36)
+DE-4 (9)        PG DE-3 (9)
+DE-5 (9)        PG DE-4 (9)
+DE-6 (9)         DE-7 (9)
+Total Credits     316             45              45              9               45              45
+
+Remark:
+  PG DE Credits: 54, Thesis Credits: 81
+  PG DE credits must be obtained from courses having a number of the form IS LXX where L = 6/7
+   For BT-MT-IS-Cat-A students, up to 36 OE credits from the BT-IS minimum requirements may be waived and used to fulﬁl MT requirements instead. All other BT-
+IS credit requirements (semesters 1-8) must be fulﬁlled.
+
+[PAGE 5]
+Name of Program: Dual Degree in IS (BT-MT-IS) (Category-B)
+
+Semesters
+UG part                            PG Part
+Semester 1-7      Semester -8      Summer        Semester -9      Semester -10
+Identical to
+the
+PG DE-1 (9)      MT Thesis (9)    PG DE-5 (9)     PG DE-6 (9)                                        template of the                                                                                         Courses             other
+department
+PG DE-2 (9)                   MT Thesis (36)    MT Thesis (36)
+PG DE-3 (9)
+PG DE-4 (9)
+Total Credits     316             45              9               45              45
+
+Remark:
+  PG DE Credits: 54, Thesis Credits: 81
+  PG DE credits must be obtained from (possibly re/dual-numbered) courses having a number of the form IS LXX where L = 5/6/7/
+   For BT-MT-IS-Cat-B students, up to 36 OE credits from the students’ parent department’s minimum requirements may be waived and used to fulﬁl MT requirements
+instead. All other credit requirements (semesters 1-8) must be fulﬁlled.
+
+[PAGE 6]
+Name of Program: Dual Degree in IS with Management (BTM-MT-IS) (Category-B)
+
+Semesters
+UG part                                  PG Part
+Semester 1-6      Semester -7      Semester -8      Summer        Semester -9      Semester -10
+Identical to        SCHEME      PG DE-1 (9)     MT Thesis (9)     PG DE-5 (9)     PG DE-6 (9)
+Courses                                  BTM-IS program      HSS-2 (9)
+DE-3 (9)       PG DE-2 (9)                 MT Thesis (36)    MT Thesis (36)
+MTB-3 (9)      PG DE-3 (9)
+MTB-4 (9)      PG DE-4 (9)
+MTB-5 (9)        MTB-6 (9)
+
+Total Credits         316             45              45              9               45              45
+
+Remark:
+  PG DE Credits: 54, Thesis Credits: 81
+  PG DE credits must be obtained from (possibly re/dual-numbered) courses having a number of the form IS LXX where L = 5/6/7
+   For BTM-MT-IS students, up to 9 DE and 27 OE credits from the BTM-IS minimum requirements may be waived and used to fulﬁl MT requirements. All other
+BTM-IS credit requirements (semesters 1-8), including 54 MTB credits, need to be fulﬁlled.
+
+[PAGE 7]
+Name of Program: Dual Degree in IS with Honours (BTH-MT-IS)
+Semesters
+UG part                            PG Part
+Semester 1-6      Semester -7      Semester -8      Summer        Semester -9      Semester -10
+Identical to     SCHEME                                                               DE-5 (9)        MT Thesis (9)    PG DE-8 (9)     PG DE-9 (9)
+BTH-IS program  HSS-2 (9)                                                                 Courses                                               DE-3 (9)         DE-6 (9)                     MT Thesis (36)    MT Thesis (36)
+DE-4 (9)         DE-7 (9)
+PG DE-2 (9)     PG DE-5 (9)
+PG DE-3 (9)     PG DE-6 (9)
+PG DE-4 (9)     PG DE-7 (9)
+Total Credits      311-316         54              54              18              45              45
+
+Remark:
+  PG DE Credits: 81, Thesis Credits: 81
+  A BTH-MT-IS student must complete 27 PG DE credits toward BTH-IS requirements, and then 54 additional PG DE credits to fulﬁl MT requirements, for a total of
+81 PG DE credits.
+  PG DE credits must be obtained from (possibly re/dual-numbered) courses having a number of the form IS LXX where L = 6/7
+   To balance the semester loads, the BTH-MT-IS template recommends 18 thesis credits in the summer semester instead of the usual 9 credits.
+   For BTH-MT-IS students, up to 36 OE credits from the BTH-IS minimum requirements may be waived and instead be used to fulﬁl MT requirements. All other BTH-
+IS credit requirements (semesters 1-8) need to be fulﬁlled.
+   BTH-MT-IS students must do at least 18 and at most 36 credits of UGP (possibly taken as DE) but at most 27 UGP credits can be counted towards graduation
+requirements.
+   The UG CPI (instead of graduation CPI) for BTH-MT-IS students must be at least 8.5 for the “Honor” qualiﬁcation to be awarded for the UG part.
+
+[PAGE 8]
+Name of Program: Double Major in IS (DM-IS)
+
+Odd Semester                               Even Semester
+
+ESOXXX+ ESOXXX (14)                                  IS203 (11)
+
+IS201 (10)                                        IS204 (12)
+
+IS202 (11)                                        IS205 (12)
+
+IS302 (12)                                     DE-2 (9)
+
+DE-1 (9)                                      DE-3 (9)
+
+56 credits                                    53 credits
+
+Remark:
+   Total 109 (56+53) mandatory credits for a second major in IS
+  Up to 36 OE credits may be waived from the parent department BT/BS graduation requirements when used to fulﬁl DM-IS requirements
+
+[PAGE 9]
+Minors in IS (M-IS)
+
+Minor in Digital IS                              Minor in Cyberphysical IS
+
+COMPULSORY                           COMPULSORY
+ESO215M + ESO216M (14)                    ESO215M + ESO216M (14)
+IS201 (10)                                        IS203 (11)
+IS205 (12)                                        IS204 (12)
+One course from the D-basket (9)               One course from the C-basket (9)
+
+45 credits*                                   46 credits*
+
+* Slightly outside of the allowable maximum credit limit 44
+
+Digital Basket (D Basket):
+IS611: Probabilistic Machine Learning (CS772)
+IS612: Modern Cryptography (CS641)
+IS613: Human-AI Interaction (CS698Y)
+IS614: Software Engineering for Intelligent Systems
+
+Cyber Physical System Basket (C Basket)
+IS621: Embedded and Cyber-Physical Systems (CS637)
+IS622: Computer-Aided Veriﬁcation (CS652)
+IS623: Convex Optimization (EE609)
+IS624: Basics of Modern Control Systems (EE650)
+IS625: Dynamics for Robotics

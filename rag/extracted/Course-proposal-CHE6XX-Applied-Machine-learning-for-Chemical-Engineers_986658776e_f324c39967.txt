@@ -1,0 +1,85 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+Proposal for a New Course
+
+1. Course No: CHE 6XX
+
+2. Course Title: Applied Machine learning for Chemical Engineers
+
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours[0-2]: 0 (A),
+Credits (3-0-0-0)                         Duration of Course: Full semester
+4. Proposing Department: Department of Chemical Engineering
+
+Other Departments/IDPs which may be interested in the proposed course: ME, AE, MSE
+
+Other faculty members interested in teaching the proposed course: Harshwardhan H. Katkar
+
+5. Proposing Instructor(s): Indranil Saha Dalal
+6. Course Description:
+A) Objectives: The course will attempt to introduce the essential concepts and tools of
+Machine learning with an emphasis on applications. Frequent computer assignments will
+further enforce practical learning of the same and show possible usage in engineering,
+particularly chemical engineering, applications.
+
+B) Contents (preferably in the form of 5 to 10 broad titles):
+Lecture-wise break-up (considering the duration of each lecture is 50 minutes)
+
+S.                                                                 No. of
+Broad Title                        Topics
+No.                                                                  Lectures
+Introduction to Machine learning and basics
+1.   Introduction                                                  3
+of python programming
+Zero order, first and second order
+2.   Optimization tools                                             7
+optimization techniques
+Linear regression, least squares and least
+3.   Linear learning                                                5
+absolute deviations, multi-output regression
+Logistic regression: Cross Entropy and
+Linear two-class
+4.                           Softmax cost, Perceptron, Support Vector    8
+classification
+Machines
+Linear Multi-Class          One-versus-all multi-class classification,
+5.                                                               4
+classification                Multi-class Perceptron
+Spanning sets, orthonormality, projections,
+Linear Unsupervised        Principal component Analysis,
+6.                                                               6
+learning                Recommender systems, K-means clustering,
+Matrix Factorization problems
+Non-linear regression, non-linear two-class
+classification, non-linear multi-class
+7.   Non-linear learning                                             4
+classification, non-linear unsupervised
+learning
+Fully-connected Neural
+8.                              Basics of Neural Networks               3
+Networks
+
+C) Recommended pre-requisites, if any (examples: a- PSO201A,or b- PSO201A or
+equivalent): Basic UG-level programming and numerical methods knowledge
+
+[PAGE 2]
+D) Short summary for including in the Courses of Study Booklet:
+Optimization Tools, Linear learning methods, Linear classification methods, Linear
+unsupervised learning, Non-linear learning, Neural networks
+
+7. Recommended text/reference books:
+A) Jeremy Watt, Reza Bohrani, Aggelos K. Kastaggelos, Machine Learning Refined 2nd Ed.,
+Cambridge University Press, 2020.
+
+8. Any other remarks:
+A) Most of the homework assignments will involve computer programming by the students.
+Assignments will be given every week.
+
+Dated: 12/7/2024                   Proposer: Indranil Saha Dalal
+
+Dated:                 DPGC Convener:
+
+The course is approved / not approved
+
+Chairman, SUGC
+
+Dated: 27/09/2022

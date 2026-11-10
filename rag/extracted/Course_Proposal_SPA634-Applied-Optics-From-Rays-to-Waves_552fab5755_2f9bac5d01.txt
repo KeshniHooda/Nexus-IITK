@@ -1,0 +1,65 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+Proposal for a New Course
+
+1. Course No: SPA634
+
+2. Course Title: Applied Optics: From Rays to Waves
+
+3. Lectures per week: 2(L), Tutorial: 0(T), Laboratory: 2(P), Additional hours: (0-2): 0(A), Module
+Credits (3*L+2*T+P+A): 8, Duration of Course: Full Semester
+
+4. Proposing Department: Space Planetary & Astronomical Sciences & Engineering (SPASE)
+
+5. Proposing Instructor: Prashant Pathak
+
+6. Course Description
+
+(A) Objectives: The course aims to introduce basic optics and then go into advance topics of optical
+design for instruments such as imagers, spectrographs. The ideas and concepts of geometric optics
+will be developed through a series of exercises involving OSLO. Concepts of wave optics will be
+demonstrated through exercises using Python.
+
+(B) Contents (preferably in the form of 5 to 10 broad titles):
+
+1. Geometrical Optics: Modeling light as rays, Bending of light: reflection and refraction, Imag-
+ing systems and ray transfer matrices, Magnification of optical instruments, Aperture stops:
+aberration reduction, Depth of focus, Telecentricity, Aberrations: chromatic, monochromatic
+(Seidel). (12-lectures)
+2. Diffractive/scalar wave optics: Light as waves: 1D & 3D wave equation, Plane & Spher-
+ical waves, Double-slit experiment, Diffraction gratings, Grating spectrometry, Point-Spread
+Function. Fourier optics: FT, FT of images, FT for far-field diffraction, Airy disk, and reso-
+lution limit, FT and convolutions, Modulation Transfer Function, Spectral Transfer Function.
+Aberrations as wavefront errors (Zernike polynomials). Coherence: spatial and temporal. (14-
+lectures)
+3. Ray & Wave Optic Simulations: Introduction to OSLO (optical design software), and de-
+signing optical systems using it by covering the topics:  Pupils and Images, Optical Design
+Principles, Design Approach, Ray Tracing and spot diagrams, Optimization, Tolerance Analy-
+sis, Stray Light Control and Baffles. And wave-optics simulations. (14-lectures)
+
+(C) Pre-requisites: None
+
+(D) Short summary for including in the Courses of Study Booklet: Starting from the basics of optics,
+this course guides students into advanced optical design concepts relevant to instruments such as
+imagers and spectrographs. Through interactive exercises using OSLO and Python, students will
+develop both geometric and wave optics understanding with practical, design-oriented applications.
+
+7. Recommended Books:
+
+– Optics by Eugene Hecht.
+– Astronomical Optics: D. J. Schroeder, 1999.
+– Introduction to Fourier Optics, by Joseph Goodman (McGraw Hill, 1996)
+
+8. Any other remarks:
+
+Dated:            Proposer:
+
+Dated:        DUGC/DPGC Convener:
+
+The course is approved/not approved
+
+Chairman, SUGC/SPGC
+
+Dated:
+
+1

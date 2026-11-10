@@ -1,0 +1,34 @@
+[PAGE 1]
+PG/ADMIS/6
+
+Admission Slots
+
+Department/Programme:
+
+Net slots available for admission and admissions recommended for:
+Academic Year:                      Semester:
+M.Tech.       Ph.D.
+
+1. Sanctioned strength
+2. Current strength:
+3. Students out of 2 above not likely to register
+(i)  No. of students graduated
+(ii) No. of students terminated/withdrawn
+(iii) No. of studentd submitted/likely to submit by date of late
+registration
+
+(iv) Total number not likely to register:  (i) + (ii) + (iii)
+4. Number of continuing students likely to register: 2 - 3(iv)
+5. Number of seats available: 1 - 4
+6. (i)  Admissions already made under QIP
+(ii) Admission already made from Defence Personnel
+(iii) Admission already made from Foreign Students
+(iv) Total number of admissions already offered: (i)+(ii)+(iii)
+7. Net slots left for admission: 5 - 6
+8. Admissions now proposed to be made
+9. Excess, if any
+
+Convener, DPGC
+
+Date:
+Office Use Only

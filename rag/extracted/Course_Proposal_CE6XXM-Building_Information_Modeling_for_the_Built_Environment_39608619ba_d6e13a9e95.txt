@@ -1,0 +1,110 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+Proposal for a New Course
+
+1. Course No: CE6XXM
+
+2. Course Title: Building Information Modeling for the Built Environment
+
+3. Per Week Lectures: 1(L), Tutorial: 3(T), Laboratory: __(P), Additional Hours [0-2]: __(A),
+Credits (3*L+2*T+P+A): _9_                             Duration of Course: Modular
+
+4. Proposing Department/IDP: Civil Engineering
+Departments/IDPs which may be interested in the proposed course: In the future:
+Mechanical Engineering, Electrical Engineering, Sustainable Energy Engineering.
+Other faculty members interested in teaching the proposed course: None
+
+5. Proposing Instructor(s): Kaushik Bhattacharjee
+
+6. Course Description: Elective course for Ph.D., Masters, and senior UG students
+
+(A) Objectives:
+•  To understand and appreciate various aspects of Building Information Modeling
+(BIM), including what, why, and how of BIM.
+•  To expose students to the concepts of different dimensions of BIM and their
+importance in project management.
+•  To provide students with hands-on modeling exposure for BIM.
+•  To apprehend the processes and global practices needed  for the successful
+implementation of BIM.
+
+(B) Course contents
+
+S.   Broad Title                    Topics                     No.        No.
+No                                                           Lectures*  Tutorials#
+1    Introduction   Dynamics of Project Life Cycle, Causes for      1         3
+to   Building  problems in construction, Definition of BIM,
+Information    Need for BIM.
+Modeling
+Tutorial:  Basics  of  AutoCAD  Drawings,
+Introduction to Revit, Importing AutoCAD files
+to Revit, Levels, Grids, Elevations.
+2    Levels     of BIM Maturity Levels, Level of Development      1         6
+BIM          (LOD), Introduction of technology, people, and
+process aspects of BIM.
+
+[PAGE 2]
+Tutorial: BIM Family Creation, Foundation,
+Walls, Columns, Beams, Floors/Ceiling.
+3   BIM            Definition of BIM execution Plan, need for      2         3
+Execution    BIM Execution Plan, Process, Design of the
+Plans           Plan, Global cases, ISO 19650.
+
+Tutorial:  Completion  of 3D BIM  model,
+Parametric vs non-parametric models, Quantity
+takeoff.
+4   BIM     and  Definition of AR/VR/MR, Types of VR, Link      1         3
+VR/AR        with  BIM,   Usefulness   in   Construction.
+
+Tutorial: Generation of GFC, Introduction to
+Navisworks, Introduction to Scheduling.
+5   Dimensions    Introduction to different dimensions of BIM      2         6
+of BIM         (nD), Usefulness and drawbacks, Future of
+BIM, and Digital Twins.
+
+Tutorial:  Clash  detection, 4D  simulation,
+Animations, Rendering.
+*50-minute lecture each week, total of 7/8 lectures
+#150 minutes of tutorial per week, where software will be taught in a supervised lab setup
+
+(C) Prerequisites, if any: Instructor consent
+
+(D) Short summary for inclusion in the Courses of Study Booklet:
+
+This course provides a comprehensive framework for understanding and implementing Building
+Information Modeling (BIM) in construction projects. By bridging theoretical methodologies with
+robust practical application, the curriculum is designed to equip students with industry-ready
+engineering and  project management competencies. Students  will develop a foundational
+understanding of multi-dimensional BIM (3D to 7D), BIM maturity levels, and LOD. The course
+delves into the strategic formulation of BIM Execution Plans and explores how integrating
+emerging visualization technologies (AR/VR/MR) can solve common logistical and design
+problems in construction. Through intensive hands-on tutorials, students will transition from
+traditional 2D drafting to advanced digital modeling environments. Practical training focuses on
+translating architectural concepts into digital reality using industry-standard software platforms
+(including AutoCAD, Revit, and Navisworks) to manage building data effectively. Ultimately, this
+course ensures students graduate with both the strategic insight to manage BIM processes and the
+actionable technical skills required to lead BIM implementation in modern engineering.
+
+7) Recommended Textbooks/References
+
+1.  Eastman, C., Teicholz, P., Sacks, R. & Liston, K. 2011. BIM Handbook: A Guide to
+Building Information Modeling for Owners, Managers, Designers, Engineers, Contractors,
+and Facility Managers, 3rd Edition, John Wiley & Sons.
+
+[PAGE 3]
+2.  Mordue, S., Swaddle, P., & Philp, D. (2015). Building information modeling for dummies.
+John Wiley & Sons. Hardin, B. & McCool, D., 2015.
+
+3. BIM and Construction Management: Proven Tools, Methods, and Workflows. CEUR
+Workshop Proceedings, 2nd Rev. Ed., Sybex.
+
+8) Any other remarks:
+
+Dated: 11th September 2026                                  Proposer: Kaushik Bhattacharjee
+
+Dated: ________________              DPGC Convener: Amar Nath Roy Chowdhury
+
+The course is approved/not approved.
+
+Chairman, SUGC/SPGC
+
+Dated:__________________________________

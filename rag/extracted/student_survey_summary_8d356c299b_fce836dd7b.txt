@@ -1,0 +1,278 @@
+[PAGE 1]
+Student Survey Report
+
+In this brief report, we analyze the data gathered from a survey conducted by the ARC among the undergraduates
+of IIT, Kanpur. The survey was taken by 554 students from Y3 to Y8 spread across twelve departments. In the
+following, we present each question from the survey and analyze the corresponding response.
+The ﬁrst question was on the preference about the department and the program. The purpose of this question
+was to gain insight into the popularity of departments and programs among the students. The question is presented
+below.
+
+If you had full freedom to select any program you wanted, which program
+would you select today? Please give 2 Preferences. If you had full freedom
+to select any program you wanted, which program would you select today?
+Please give 2 Preferences.
+
+The department choices were AE, BSBE, CE, CHE, CHM, CSE, ECO, EE, MATH, ME,
+MME, and PHY. The program choices were BTech, Dual (BTech/MTech), Int. MSc.
+
+100                                                                  1
+Pref1 same as parent dept
+90        Parent dept                                                          0.9
+Total      554
+80                                     Pref1 same 231                     0.8
+70                                                                             0.7
+
+60                                                                             0.6          Pref1 same as parent dept (fraction of parent)         students                                                                                                                                                                                                                                         students             Parent dept (fraction of all)
+of  50                                                       of 0.5
+
+40                                                                             0.4       Number                                                                                                                                                                                                                                         Fraction      30                                                                             0.3
+
+20                                                                             0.2
+
+10                                                                             0.1
+
+0                                                                  0
+AE BSBE CE CHECHMCSE ECO EE MATHME MMEPHY               AEBSBECE CHECHMCSEECO EEMATHME MMEPHY ALL
+
+(a)                                                                      (b)
+
+Figure 1. (a) Number of students choosing their parent departments as the most preferred departments. (b) Same
+data as percentage.
+
+Figure 1(a) shows two pieces of information. For each department, the right bar presents the number of students
+participated in the survey from a particular department and the left bar shows how many of them chose their
+department as the most preferred department. Figure 1(b) shows the same data as percentages, e.g., the right bar
+is presented as the percentage of all students taking the survey and the left bar is the percentage of students taking
+the survey within a particular department. While all students of CSE chose their department as the most preferred
+
+1
+
+[PAGE 2]
+department, over 80% of PHY students did so. EE, ME, and EE were the others among top ﬁve with more or less
+40% of their students choosing them as the ﬁrst preference. Overall, slightly over 40% of students chose their
+parent department as the most preferred department.
+
+BSBE 2% AE 3% PHY 5%                                                                                                                       Int. MSc 12%
+CE 4%           MME 1%
+CHE 3%
+CHM < 1%                     ME 15%
+
+MATH 4%
+Dual 27%
+
+BTech 61%
+
+CSE 44%                          EE 16%
+
+ECO 2%
+
+(a)                                                                      (b)
+
+Figure 2. Percent vote for (a) each department and (b) each program as the ﬁrst preference.
+
+Figure 2(a) shows the percentage of students choosing various departments as their ﬁrst preferences. Similar
+data related to various programs is shown in Figure 2(b). The top three departments by ﬁrst preference are CSE,
+EE, and ME, while BTech, by far, turns to be the most preferred degree program.
+
+AE 6%  PHY 4% MME 1%                                                                                                                    Int. MSc 16%
+BSBE 3%
+CE 4%                     ME 16%
+
+CHE 7%
+
+CHM 1%
+
+MATH 8%
+BTech 56%
+Dual 29%
+
+CSE 27%
+EE 17%
+
+ECO 4%
+
+(a)                                                                      (b)
+
+Figure 3. Percent vote for (a) each department and (b) each program as the second preference.
+
+Figure 3(a) shows the percentage of students choosing various departments as their second preferences. Similar
+data related to various programs is shown in Figure 3(b). The data looks very similar in nature to the previous one,
+though less skewed.1 Taken together, 71% of the respondents chose CSE as their ﬁrst or second preference.
+Figure 4(a) shows the combined department-program data for ﬁrst preference. For example, 44% students chose
+CSE as the most preferred department, while 31% chose a BTech in CSE as the most preferred degree option and
+
+1 Some students chose BTech as their ﬁrst as well as second preferences leading to a total of more than 100% of students choosing
+BTech as top two preferences.
+
+2
+
+[PAGE 3]
+0.45                                                                             0.3
+Int. MSc                                                                                                Int. MSc
+0.4                                             Dual                                                                    Dual
+BTech                   0.25                                        BTech
+0.35
+students 0.250.3                                                                                                                                                                                                                         students  0.2
+of                                                          of 0.15
+Fraction 0.150.2                                                                                                                                                                                                                         Fraction  0.1
+
+0.1
+0.05
+0.05
+
+0                                                                  0
+AE BSBE CE CHECHMCSE ECO EE MATHME MMEPHY                AE BSBE CE CHECHMCSE ECO EE MATHME MMEPHY
+
+(a)                                                                      (b)
+
+Figure 4. Combined department-program data: (a) ﬁrst preference, (b) second preference.
+
+another 13% chose a BTech/MTech in CSE as the degree of choice. Similar data for the second preference is
+presented in Figure 4(b).
+Next, we turn to the second survey question.  In this question, we gave six different degree options to the
+students and asked them to rank these options. The question is presented below.
+
+If IIT Kanpur introduces the following new programs or degrees, how would
+you rank them in order of preference from most (1) to least favourite (6)
+option:
+NOTE: All terms marked with an asterisk (*) are explained below.
+1. B.Tech. in one department with a minor* in another subject
+2. B.Tech. in Engineering Sciences**
+3. B.Tech. Dual degree in two departments (Courses in the second dept.
+would require about two to three semesters of work beyond the courses done
+in the first dept.)
+4. BT-MBA Dual degree
+5. B.S. (upgradeable to M.Sc. Integrated: similar to BT/MT Dual)
+6. B.S. program in HSS such as Psychology, Economics etc. (upgradeable to M.S.)
+
+*Minor means sub-specialisation which would require taking 4-5 courses in
+one Dept. / one HSS subject (which is NOT your own department).
+
+**Engineering Sciences is a multidisciplinary program designed to integrate
+the sciences with areas of traditional engineering such as research, design
+and analysis. It includes a core of basic courses in mathematics, physics
+and chemistry and electives from areas such as fluid dynamics, solid
+mechanics, operations research, information technology engineering, dynamical
+systems, bioengineering, solid-state devices, materials science,
+electromagnetics, nanoscience, nanotechnology, energy, and optics.
+
+Figure 5 shows, for each degree option, the number of students voting  it as highest, high, above average,
+below average, low, or lowest. A few observations can be made without pain. Option 1, namely, BTech in one
+department with a minor in another subject is voted as the highest ranked option by almost 270 students (out of
+554), while option 6, namely, BS in HSS (Psychology, Economics, etc.)  is voted as the lowest ranked option
+
+3
+
+[PAGE 4]
+300
+Highest
+High
+250                                                         Above avg.
+Below avg.
+200               Low
+Lowest                                                                                                                                 students
+of 150
+Number 100
+
+50
+
+0
+OPT1  OPT2  OPT3  OPT4  OPT5  OPT6  DNV
+
+Figure 5. Degree option ranks. DNV stands for category of students that chose not to specify at least one rank.
+
+by almost 300 students.  Nearly 250 students ranked a BS degree option as “low”.  Interestingly, a BTech in
+Engineering Science (option 2) does not turn out to be a highly preferred option. More astonishingly, a BTech-
+MBA degree (option 4) does not fare well either.
+
+90                                                                100
+OPT1                      OPT1
+80                                     OPT2                 90      OPT2
+OPT3                      OPT3
+70                                     OPT4                 80      OPT4
+OPT5                 70      OPT5
+60                                     OPT6                                                                      OPT6
+DNV                  60             students 50                                                                                                                                                                                                                           students         DNV
+of                                                         of  50
+40
+40          Number 30                                                                                                                                                                    Number                                                                         30
+20                                                                 20
+10                                                                 10
+
+0                                                                  0
+Y3     Y4     Y5     Y6     Y7     Y8                      Y3     Y4     Y5     Y6     Y7     Y8
+
+(a)                                                                      (b)
+
+Figure 6. Year-wise distribution of (a) highest and (b) lowest ranked degree options.
+
+To further understand any year-wise bias of the degree option ranks, Figure 6(a) and Figure 6(b) respectively
+present the highest and the lowest ranked degree options for respondents from each year. Most of the students
+from each year ranked option 1 as the most preferred one, while option 6 is the lowest ranked option for most
+students.
+Next, we present the third question. This question was related to exit options. The question is presented below.
+
+Suppose there were an exit option (a degree) called B.Tech Pass for those
+students who have spent at least four years in IIT, but are not doing
+academically well and have only completed 70% of the credits required to
+graduate with a regular B.Tech. degree. Do you think this is a good option?
+
+Figure 7 presents the year-wise number of students agreeing and disagreeing to the aforementioned exit option.
+Overall, 320 students out of 554 respondents voted for the exit option.
+
+4
+
+[PAGE 5]
+180
+Yes to exit option
+160      No to exit option
+
+140
+Total 554
+120   NO  234
+YES 320                                                                                                                                 students 100
+of
+Number  8060
+
+40
+
+20
+
+0
+Y3     Y4     Y5     Y6     Y7     Y8
+
+Figure 7. Year-wise distribution of exit option polls.
+
+The fourth question is presented below. This question relates to the ﬁnal year BTech projects (referred to as
+BTP).
+
+Given a choice, which of the following two options would you prefer:
+1. A program with a BTP.
+2. A program in which BTP is an elective. You can have do additional course
+work in place of the BTP.
+
+180
+Optional BTP
+160        Regular BTP
+
+140
+Total        554
+120 Regular BTP  283
+Optional BTP 271                                                                                                                                 students 100
+of
+Number  8060
+
+40
+
+20
+
+0
+Y3     Y4     Y5     Y6     Y7     Y8
+
+Figure 8. Year-wise distribution of BTP polls.
+
+Figure 8 presents the year-wise number of students choosing an optional BTP or a regular BTP (in the current
+form). Interestingly, the overall data is slightly skewed toward the current practice of regular BTP.
+
+5

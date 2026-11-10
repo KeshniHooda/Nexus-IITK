@@ -1,0 +1,92 @@
+[PAGE 1]
+New Course Proposal: IIT Kanpur
+
+• Course Title: Arithmetic on quadratic fields
+
+• Department: Department of Mathematics and Statistics
+
+• Course Number: MTH3XX (UG level)
+
+• Proposing Instructor: Somnath Jha
+
+• Other interested faculty members:
+
+• Units: 3-0-0-0 [9 credits]
+
+• Course Description:
+
+This is an introductory number theory course with a focus on quadratic fields. The main goal is
+to study the prime ideals and the units in the ring of integers of quadratic fields. In particular, we
+will explore the relation of the ideal class group of imaginary quadratic fields with the binary
+quadratic forms and also with the (Dedekind) Zeta function via the class number formula. We
+will also study quadratic reciprocity, and the Brahmagupta-Pell's equation. The course will be
+largely self contained and necessary tools from algebra and analysis will be developed along the
+way in the course.
+
+• Course content and lecture plan:
+
+-  Abelian groups, subgroups and quotient groups, Lagrange’s theorem, structure of finite abelian
+groups. [4 lectures]
+
+- Commutative Rings, ideals, quotient rings, Prime ideals and maximal ideals, Polynomial rings,
+fields, field extensions. [4 lectures]
+
+-  the groups Z/nZ and (Z/nZ)*, Euler’s theorem and Wilson Theorem, Chinese Remainder Theorem [3
+lectures]
+
+-  Frobenius map on finite fields, Classification of finite fields, the structure of the multiplicative
+subgroup of a finite field [3 lectures]
+
+- Law of quadratic reciprocity, Quadratic fields, roots of unity, containment of quadratic fields inside
+cyclotomic fields [3 lectures]
+
+-  Unique Factorisation Domain (UFD), Principal ideal domain (PID), Euclidean Domain (ED), Ring of
+integers of quadratic fields, various examples. [4 lectures]
+
+-  Binary quadratic forms [3 lectures]
+
+-  ideal class groups of imaginary quadratic fields, relation with binary quadratic forms [4 lectures]
+
+-  Units in the ring of integers of real quadratic fields, Brahmagupta-Pell’s equation, continued
+fractions [3 lectures]
+
+- Riemann Zeta function, basic properties [3 lectures]
+
+-  class number formula for imaginary quadratic fields [5 lectures]
+
+[PAGE 2]
+• Departments to which the proposed course will be of interest: MATHS, CSE, PHY.
+
+• Prerequisites: MTH111M, MTH113M
+
+• References:
+
+- A Classical Introduction to Modern Number Theory, K. Ireland, M. Rosen, Springer GTM.
+
+- An introduction to the Theory of Numbers, I. Niven, H. S. Zuckerman, H. L. Montgomery, Wiley.
+
+-  Abstract Algebra, D. S. Dummit, R. M. Foote, Wiley.
+
+- Number Fields, D. Marcus, Universitext, Springer-Verlag.
+
+-  Principles of mathematical analysis, W. Rudin, McGraw Hill.
+
+, 2nd ed., D. A. Cox, Pure and Applied Mathematics (Hoboken), John   -  Primes of the form x2 + ny2
+Wiley & Sons, Inc.
+
+- A course in Arithmetic, J. P. Serre, GTM 07, Springer-Verlag.
+
+-  Algebraic Number Theory , J. Neukirch, Grundlehren der Mathematischen Wissenschaften 322,
+Springer- Verlag.
+
+-  Problems in Algebraic Number Theory, E. Jody and M. Ram Murty,, GTM 190, Springer-Verlag.
+
+- Complex Analysis, E. Stein and R. Shakarchi, Princeton University Press. 
+
+Dated: ____22 Sep 2025__________.  Proposing Instructor: Somnath Jha
+
+Dated: _____________________________ DUGC Convener:___________________
+
+Dated:______________________________ Chairman, SUGC:___________________
+
+The course is approved / not approved

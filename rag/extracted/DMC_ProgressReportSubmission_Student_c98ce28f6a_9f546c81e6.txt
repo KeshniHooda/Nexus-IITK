@@ -1,0 +1,157 @@
+[PAGE 1]
+DMC Progress Report Submission – User Manual
+
+Version: 1.0
+
+Date: Sep 2026
+
+Prepared by: Pingala Team
+
+Pingala Portal – Student User Manual | DMC Progress Report Submission
+
+[PAGE 2]
+Contents
+1.  Overview
+2.  Important Prerequisite
+3.  Student DMC Progress Report Submission Process
+4.  Downloading and Completing the Progress Report
+5.  Uploading and Submitting the Progress Report
+6.  Email Notification to Supervisor
+7.  Supervisor-side DMC Report Submission
+8.  Important Notes and Common Scenarios
+9.  Frequently Asked Questions (FAQ)
+
+Pingala Portal – Student User Manual | DMC Progress Report Submission
+
+[PAGE 3]
+1. Overview
+Before the concerned Supervisor can submit a student's DMC Report through the Pingala Portal, the student
+must first submit the DMC Progress Report through their own Pingala login.
+
+After the student successfully submits the progress report, an email notification is sent to the concerned
+Supervisor. The Supervisor can then submit the student's DMC Report through their own Pingala login.
+
+2. Important Prerequisite
+Important Note: The concerned Supervisor must have created the student's DMC Committee on the
+Pingala Portal before the student can submit the DMC Progress Report.
+
+If the DMC Committee has not been created, the student will not be able to submit the progress report. The
+student should contact the concerned Supervisor and request creation of the DMC Committee.
+
+3. Student DMC Progress Report Submission Process
+Step 1: Log in to Pingala Portal
+Open the Pingala Portal and log in using your student credentials.
+
+Step 2: Open DMC Progress Report Submission
+Select the DMC Progress Report Submission link.
+
+Pingala Portal – Student User Manual | DMC Progress Report Submission
+
+[PAGE 4]
+4. Downloading and Completing the Progress Report
+Step 5: Download the prescribed format
+Download the Progress Report document format available on the DMC Progress Report Submission page.
+
+Pingala Portal – Student User Manual | DMC Progress Report Submission
+
+[PAGE 5]
+5. Uploading and Submitting the Progress Report
+Step 7: Upload the completed document
+Return to the DMC Progress Report Submission page and upload the same completed Progress Report
+document.
+
+Pingala Portal – Student User Manual | DMC Progress Report Submission
+
+[PAGE 6]
+Step 8: Submit the Progress Report
+Verify the uploaded document and submit the DMC Progress Report.
+
+Important Note: The document uploaded by the student should be the completed Progress Report in the
+prescribed format.
+
+6. Email Notification to Supervisor
+After successful submission of the DMC Progress Report, an email notification is sent to the concerned
+Supervisor. The Supervisor can proceed with the DMC Report submission after receiving this notification.
+
+7. Supervisor-side DMC Report Submission
+The Supervisor-side process for submitting the DMC Report remains the same as the existing process on
+the Pingala Portal.
+
+However, the Supervisor can submit the concerned student's DMC Report only after the student has
+submitted the DMC Progress Report.
+Pingala Portal – Student User Manual | DMC Progress Report Submission
+
+[PAGE 7]
+8. Important Notes and Common Scenarios
+DMC Committee not created: The student cannot submit the DMC Progress Report until the concerned
+Supervisor creates the DMC Committee.
+
+Student submission required first: The Supervisor can submit the DMC Report only after the student
+submits the DMC Progress Report.
+
+Prescribed document format: Download the prescribed format, complete it, and upload the same
+completed document.
+
+Supervisor notification: An email notification is sent to the concerned Supervisor after successful student
+submission.
+
+Supervisor process: The existing Supervisor-side DMC Report submission process remains unchanged.
+
+9. Frequently Asked Questions (FAQ)
+Q1. Can I submit the DMC Progress Report if my Supervisor has not created the DMC Committee?
+
+No. The DMC Committee must first be created by the concerned Supervisor.
+
+Q2. What should I do if the DMC Committee has not been created?
+
+Contact your concerned Supervisor and request them to create the DMC Committee on the Pingala
+Portal.
+
+Q3. Where can I submit the DMC Progress Report?
+
+Go to Academics → DMC Committee → DMC Progress Report Submission.
+
+Q4. Which document should I upload?
+
+Download the prescribed Progress Report format, complete it, and upload the same completed
+document.
+
+Q5. Can the Supervisor submit my DMC Report before I submit my Progress Report?
+
+No. The student must first submit the DMC Progress Report.
+Pingala Portal – Student User Manual | DMC Progress Report Submission
+
+[PAGE 8]
+Q6. Will the Supervisor receive a notification after I submit the Progress Report?
+
+Yes. An email notification is sent to the concerned Supervisor.
+
+Q7. Has the Supervisor's DMC Report submission process changed?
+
+The existing Supervisor-side process remains the same; the student must submit the progress report
+first.
+
+Q8. What should I do after uploading the Progress Report?
+
+Verify the document and submit the DMC Progress Report.
+
+Q9. Can I submit the Progress Report without a DMC Committee?
+
+No. The DMC Committee must be created before submission.
+
+Q10. What should I do if I cannot access DMC Progress Report Submission?
+
+First confirm with your concerned Supervisor that the DMC Committee has been created. If the issue
+persists, contact the concerned Pingala support/section.
+
+Support & Contact
+
+For technical issues related to the DMC Progress Report Submission, contact:
+
+Pingala Support Team
+
+Email: pingala@iitk.ac.in
+
+Phone: 0512-6796805/6803
+
+Pingala Portal – Student User Manual | DMC Progress Report Submission

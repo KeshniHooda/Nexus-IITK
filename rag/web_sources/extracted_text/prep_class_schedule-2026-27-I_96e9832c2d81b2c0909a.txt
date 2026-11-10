@@ -1,0 +1,46 @@
+[Page 1]
+Schedule for PREP Classes 2026-27 (ODD Semester) 
+ 
+Classes for Odd semester 
+Course No 
+Course Title 
+Schedule 
+Instructor Name 
+Email id 
+PHY001 
+PHYSICS LABORATORY (PREP) 
+Lab: W 14:00-17:00 
+T Sarkar 
+tapo@iitk.ac.in 
+CHM001 
+CHEMISTRY LABORATORY (PREP) 
+Lab: F 10:00-13:00 
+R Gurunath 
+gurunath@iitk.ac.in 
+MTH001 
+MATHEMATICS I (PREP) 
+Lec: MTTh 11:00-12:00 
+Tut: W 11:00-12:00 
+P Muthukumar 
+muthu@iitk.ac.in 
+ELC001 
+ENGLISH LANGUAGE AND 
+COMMUNICATION (PREP) 
+Lec: MW Th12:00-13:00 
+Tut: T 12:00-13:00 
+Lakshmana P 
+lakshman@iitk.ac.in 
+CHM002 
+GENERAL CHEMISTRY (PREP) 
+Lec: MW Th10:00-11:00 
+Tut: T 10:00-11:00 
+R Gurunath 
+D Alimuthu 
+gurunath@iitk.ac.in 
+atdharma@iitk.ac.in 
+PHY002 
+PHYSICS-I (PREP) 
+Lec: MTF 14:00-15:00 
+Tut: Th 14:00-15:00 
+T Sarkar 
+Tapo@iitk.ac.in

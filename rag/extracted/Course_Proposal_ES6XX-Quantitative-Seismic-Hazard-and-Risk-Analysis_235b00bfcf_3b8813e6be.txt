@@ -1,0 +1,115 @@
+[PAGE 1]
+Department of Earth Sciences
+Indian Institute of Technology Kanpur
+
+Proposal for a new course
+
+1. Course No: ES6XX
+
+2. Course title: Quantitative Seismic Hazard and Risk Analysis
+
+3. Department: Earth Sciences
+
+4. Proposing Instructor: Shyam Nandan
+
+5. Units: 2-0-3-0-9 (2 Lectures + 0 Tutorials + 3 Lab Hours + 0 Project Hours = 9 Credits)
+
+6. Course Type: Departmental Elective (PG), Open to senior UGs
+
+7. Prerequisite: Basic Probability and Statistics; Basic MATLAB
+
+8. Other Potential Interested Faculties: Javed N. Malik
+
+Course Description & Objectives:
+
+Objectives
+
+This course provides a rigorous, computational framework for quantifying the potential for future
+shaking (Hazard) and the consequent financial or safety losses (Risk). This course bridges the gap
+between Earth Science (source characterization) and Engineering (performance assessment).
+
+In this course, students will use MATLAB to code the fundamental PSHA integrals and Risk
+convolutions themselves, rather than relying on pre-packaged software.
+
+The specific learning outcomes are:
+
+1.  Source & Ground Motion Characterization: Master the  statistical  fitting of earthquake
+recurrence laws (Gutenberg-Richter) and the implementation of empirical Ground Motion
+Models (GMMs) to predict intensity measures like PGA and Spectral Acceleration.
+
+2.  Computational DSHA and PSHA:  Understand  the  difference between  Deterministic
+(Scenario-based) and Probabilistic (Rate-based) approaches, and learn when to apply each
+(e.g., deterministic caps  in design codes  vs.  risk-targeted design). Develop a custom
+MATLAB  solver  to  perform  the PSHA  integration,  handling  Aleatory  Variability
+(randomness in ground motion) and Epistemic Uncertainty (model uncertainty) via Logic
+Trees.
+
+3.  Hazard  De-aggregation &  Selection:  Identify  "controlling  earthquakes"  through  de-
+aggregation and implement advanced ground motion selection algorithms (e.g., Conditional
+Mean Spectrum) for engineering design.
+
+[PAGE 2]
+4.  Quantitative Risk Assessment: Move beyond hazard to Risk by deriving Fragility Functions
+and convolving them with hazard curves to compute actionable metrics like Average Annual
+Loss (AAL) and Loss Exceedance Curves.
+
+Course Contents/Topics                          Suggested
+number of lectures
+Hazard Inputs: Sources & Ground Motion                             6 Lectures
+Seismic Source Modeling: Defining fault geometries and area sources;
+Statistical fitting of Bounded Gutenberg-Richter and Characteristic
+recurrence laws  to  regional  seismicity  catalogs; Handling time-      9 Lab Hours
+dependent rupture rates.
+Ground Motion Models (GMMs): Mathematical  formulation  of
+GMMs; Modeling Aleatory Variability (inter-event vs. intra-event
+sigma); Implementation of modern NGA-West/East equations  in
+MATLAB.
+Epistemic Uncertainty: Constructing Logic Trees to weight alternative
+scientific hypotheses (e.g., different max magnitude or attenuation
+relations).
+Probabilistic Seismic Hazard Analysis (PSHA)                         10 Lectures
+Deterministic Analysis (DSHA): Scenario-based assessment; Defining
+the Maximum Credible Earthquake (MCE); Deterministic caps in
+building codes; Limitations of the "worst-case" approach.               15 Lab Hours
+The PSHA Integral: Numerical integration of hazard curves over
+Magnitude, Distance, and Epsilon; Calculating the Uniform Hazard
+Spectrum (UHS) for design.
+Advanced Hazard Products: Disaggregation techniques to identify the
+modal earthquake (M,R) controlling the hazard; Vector PSHA for
+correlating multiple intensity measures.
+MATLAB Implementation: Writing a vectorized PSHA code  to
+compute annual rates of exceedance for a site-specific scenario.
+Seismic Risk & Ground Motion Selection                             10 Lectures
+Risk Framework: The PEER Probabilistic Framework (Hazard →
+Demand → Damage → Loss); Distinguishing between direct physical
+damage and financial loss.                                        15 Lab Hours
+Fragility & Vulnerability: Deriving Fragility Functions (lognormal
+CDFs)  from  structural  capacity  data;  Calibrating  Vulnerability
+functions for building portfolios.
+Risk  Metrics:  Computing  Average  Annual  Loss  (AAL)  and
+Probability  of  Failure; Generating Loss Exceedance Curves  for
+insurance applications.
+Record  Selection:  constructing  the  Conditional Mean Spectrum
+(CMS) and selecting time-histories from the NGA database that match
+the target hazard.
+
+Total number of lectures                        26 Lectures
+
+[PAGE 3]
+39 Lab Hours
+
+Recommended Books/resources:
+
+•  Baker, J. W., Bradley, B. A., & Stafford, P. J. (2021). Seismic Hazard and Risk Analysis.
+Cambridge University Press.
+•  McGuire, R. K. (2004). Seismic Hazard and Risk Analysis. EERI MNO-10.
+•  MathWorks Documentation: Statistics and Machine Learning Toolbox User Guide.
+
+Dated: 03/02/2026                                              Proposer:
+
+Dated:                                 DUGC/DPGC Convener, ES
+
+The course is approved/ not approved
+
+Chairman, SUGC/SPGC
+Dated:___________

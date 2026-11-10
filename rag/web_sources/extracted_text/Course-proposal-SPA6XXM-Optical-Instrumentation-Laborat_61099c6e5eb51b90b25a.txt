@@ -1,0 +1,61 @@
+[Page 1]
+Indian Institute of Technology, Kanpur
+Proposal for a New Course (Modular)
+1. Course No: SPA6** (Modular)
+2. Course Title: Optical Instrumentation Laboratory
+3. Lectures per week: 0 (L), Tutorial: 0 (T), Laboratory: 9 (P), Addi-
+tional hours: (0-2): 0 (A), Credits (3*L+2*T+P+A): 5, Duration of
+Course: Half Semester (Modular)
+4. Proposing Department: Space Planetary & Astronomical Sciences &
+Engineering (SPASE)
+5. Proposing Instructors: Amitesh Omar & Prashant Pathak
+6. Others interested in teaching this course:
+6. Course Description
+(A) Objectives: The course aims to provide comprehensive knowledge
+on instrumentation techniques related to astronomy, planetary and
+space sciences and engineering via building some application modules
+in the laboratory.
+(B) Contents (preferably in the form of 5 to 10 broad titles):
+Students will be required to build and demonstrate at least 2 applica-
+tion modules from the list provided below -
+1. Low light-level Detection in the optical and near-infrared using
+CCD and CMOS cameras coupled with optical ﬁlters.
+2. Setting up an optical telescope suitable for tracking celestial
+sources and carry out basic on-sky observations.
+3. Setting up a polarimetry instrument and demonstrate an ap-
+plication in space sciences.
+4. Setting up a spectrometer and demonstrate an application in
+space sciences.
+5. Setting up a LIDAR and demonstrate an application in space
+sciences.
+6. Setting up an optical interferometer and demonstrate its appli-
+cation in astronomy.
+7. Setting up a wave-front sensing instrument and demonstrate
+its application in astronomy.
+1
+
+[Page 2]
+(C) Pre-requisites: None
+(D) Short summary for including in the Courses of Study Booklet:
+The lab course aims at developing and demonstrating optical instru-
+ment modules related to Space sciences and Astronomy based on the
+technologies and components presently in use such as CCD, CMOS,
+high-contrast nano-particle dispersed polarizers, holographic gratings,
+hyper and multi-spectral sensing, Shack-Hartmann wavefront sensor.
+This instrumentation course is application oriented. The modules will
+be related to detector, spectrometers, polarimetry, telescopes, interfer-
+ometry and wave-front sensing. The students will learn techniques of
+building instruments and will get comprehensive exposure to instru-
+mentation methods and observations techniques.
+7. Recommended Books:
+Necessary reading material and instruction documents will be pro-
+vided during the course.
+8. Any other remarks:
+Dated:
+Proposer: (Amitesh Omar & Prashant Pathak)
+Dated:
+DUGC/DPGC Convener:
+The course is approved/not approved
+Chairman, DUGC/DPGC
+Dated:
+2

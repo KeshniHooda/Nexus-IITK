@@ -1,0 +1,95 @@
+[PAGE 1]
+New Course Proposal
+Department of Computer Science and Engineering
+Indian Institute of Technology, Kanpur
+
+Course number: CS888
+Course title: Introduction to Profession and Communication
+Prerequisites: None
+Credits: [6] (2-0-0-0) (S/X mode)
+Course duration: Full semester
+Course type: PG Department Compulsory
+Proposing Instructor: Convener DPGC, Department of Computer Science and Engineering
+Other faculty members interested in teaching the course: all CSE faculty members
+Other departments interested in the proposed course: None
+
+Course description:
+a.  Objectives: The course will skill students on effective research communication as well
+as introduce them to some commonly used research methodologies and paper-writing
+techniques used in various sub-areas of computer science including theory, systems
+and data science.
+b.  Logistics: The course will be offered once every academic year by a team of 4 faculty
+members, one of whom will assume the position of instructor-in-charge and the other
+three members representing the areas of theory, systems and data science. All PhD
+students will be required to register for this course in their second year.
+c.  Content: The course will have 5 parts
+i.   Part 1 (Communication): students will be introduced to effective research
+communication. Specifically, the students will be given general guidelines on
+preparing posters and oral presentations and writing a research paper. The
+students may be asked to prepare a short poster, presentation and write-up
+followed by a discussion on these topics that highlight general communication
+guidelines such as grammatical correctness, precision, effective use of images
+and the importance of legible figures, organization, flow of argument, pace of
+presentation, and others.
+ii.   Part 2 (Research Methodology and Paper writing in Theory): introduction
+to  proof  techniques  (deduction,  induction,  contrapositive,  contradiction,
+diagonalization) with some examples, power of randomization in algorithm
+design, notions of  intractability, and how hardness can be a boon. The
+difference between  Conjecture,  Axiom,  Hypothesis and Theorem; The
+difference between an efficient algorithm and an efficient heuristic. How to
+survey the literature, do research, and prove something new and publication-
+worthy. How to structure a theory paper and make it readable for non-experts.
+iii.   Part 3 (Research Methodology and Paper writing in Systems): Overview of
+different dimensions of system research:
+A. Problem formulation – Building/evolving hypotheses and problem
+statements, motivating problems and proposed solution ideas.
+B.  Empirical analysis – experiment design, analysis, reporting, tools and
+techniques
+
+[PAGE 2]
+C. Design and implementation – Root cause analysis and development
+involving existing systems, tools and techniques for navigating large
+code bases, integration of proposed ideas, checking correctness, bug
+fixing approaches and tools.
+iv.   Part 4 (Research Methodology and Paper writing in Data Science): Much
+of the theoretical and empirical aspects of data science are already covered in
+the earlier two parts. This part will additionally introduce students to more
+specialized aspects relevant for data science research pipelines such as:
+A.  Typical research design: problem definition, mathematical solution,
+algorithmic implementation, evaluation.
+B. Considerations for evaluation: cross-validation, leaderboards, data
+leakage, hypothesis testing, dataset decay.
+v.   Part 5 (Hands-on Application): This part will require students to prepare an
+extended abstract (around 4 pages) for a research paper.
+d.  Evaluation: An S/X grade  will be awarded based on satisfactory completion of
+assignments and preparation of an extended abstract for a research paper.
+
+Tentative breakup of Lectures: Topics in the course may be shifted across parts as deemed
+fit by the instructors. For each of the first four parts, assignments would be provided to help
+students appreciate research methodologies and communication skills. For instance, the 1st
+lecture of the week may conclude with an assignment, and the 2nd lecture of the week may
+focus on discussing that assignment. A suggestive breakup of lectures for each part is given
+below with parts 1 and 5 being overseen by the instructor in-charge and the rest being
+overseen by instructors representing the areas of theory, systems, and data science.
+●      Part 1: Week 1-3 (6 Lectures)
+●      Part 2: Week 4-6 (6 Lectures)
+●      Part 3: Week 7-9 (6 Lectures)
+●      Part 4: Week 10-11 (4 Lectures)
+●      Part 5: Week 12-13 (4 Lectures)
+
+Short summary for inclusion in the Courses of Study booklet: the course is intended to
+introduce CSE PhD students to effective research communication and common research
+methodologies and paper-writing techniques used in theory, systems, and data science.
+
+Reference texts: None
+
+Course proposer: Convener DPGC, Department of CSE
+Date:
+
+Convener DPGC
+Date:
+
+The course is approved / not approved
+
+Chairman, SPGC
+Date:

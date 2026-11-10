@@ -1,0 +1,95 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course
+
+1. Course No: CE6**
+
+2. Course Title: Subsurface Environmental Flows
+
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours [0-2]: 0 (A)
+
+Credits: 3-0-0-0 (9)
+
+Duration of Course: Full Semester
+
+4. Proposing Department/IDP: Civil Engineering
+
+Other Departments/IDPs which may be interested in the proposed course: Mechanical
+Engineering, Chemical Engineering, Earth Sciences, Sustainable Energy Engineering, Kotak
+School of Sustainability
+
+Other faculty members interested in teaching the proposed course: None
+
+5. Proposing Instructor(s): Chunendra K Sahu (Hydraulics and Water Resources group)
+
+6. Course Description: PG course
+
+A) Objectives: The porous subsurface is crucial for various energy and environmental applications,
+including groundwater resources and carbon sequestration. This proposed course aims to introduce
+postgraduate and senior undergraduate students to the fundamental concepts of flow processes
+involved in these applications. We will specifically focus on five key areas: carbon sequestration,
+subsurface hydrogen  storage, geothermal energy  recovery, groundwater contamination, and
+subsurface nuclear waste storage. In this course, students will learn how to use the concepts of porous
+media flows for predicting flow behaviour in these contexts.
+
+B) Contents (preferably in the form of 5 to 10 broad titles):
+
+No. of 75       S.           Broad Title                             Topics                          minutes    No                                                                                       Lectures
+1   Introduction     Flow through porous media. Porous media properties.            4
+Governing equations. Confined and unconfined media.
+Miscible vs immiscible flows. Heterogeneity effects.
+Buoyancy effects. Instabilities.
+2   Carbon       CCS process. Buoyancy effects. CO2 plumes. Gravity            6
+sequestration      currents. Convective dissolutions. Structural trapping.
+Capillary trappings. Rayleigh-Taylor instabilities and
+density fingers. Saffman-Taylor instabilities and viscous
+fingers. Leakage risks. Flow through fractures.
+3   Subsurface      Hydrogen properties. Type of reservoirs. Storage in salt          4
+Hydrogen       domes. Cushion gas. Storage in porous rocks. Migration
+storage         and trapping. Cyclical operation. Leakage risks.
+4   Geothermal      Geothermal temperature gradients. Potential geothermal          5
+energy              sites. Closed and open energy loop systems. Fluid front and
+recovery         thermal front. Geothermal heating and cooling.
+5   Groundwater    Dense plumes. Seawater intrusion into groundwater.             5
+contamination   Hydrodynamic dispersion. Effects of heterogeneity and
+background flow. Effects of density stratification.
+
+[PAGE 2]
+No. of 75      S.           Broad Title                             Topics                          minutes   No                                                                                      Lectures
+6   Geological      Type of nuclear waste. Storage facility. Thermal-               2
+disposal of       hydrological risks of leakage. Diffusion through cracks.
+nuclear waste
+Total number of 75 minutes lectures                     26
+
+C) Pre-requisites, if any: Fluid Mechanics, Hydraulics, or Convective Heat Transfer.
+
+D) Short summary for including in the Courses of Study Booklet: Introduction. Flow through porous
+media. Leakage through cracks. Carbon capture and sequestration. Underground Hydrogen storage.
+Geothermal energy recovery. Groundwater contamination. Subsurface nuclear waste storage.
+Hydrodynamic dispersion. Rayleigh-Taylor instabilities. Saffman-Taylor instabilities. Heterogeneity
+effects. Buoyancy and density-driven flows.
+
+7. Recommended books:
+
+Reference book
+
+1.  Andrew Woods (2015). Flow in Porous Rocks. Cambridge University Press.
+
+2.  Kambiz Vafai (2005). Handbook of Porous Media. Taylor & Francis.
+
+3.  Jacob bear (1972). Dynamics of Fluids in Porous Media. Dover Publications.
+
+Proposer: Chunendra K Sahu
+
+DPGC Convener:
+
+Dated: 04/08/2025
+
+Dated:___________________
+
+The course is approved / not approved
+
+Chairperson, SPGC
+
+Dated:______________________________

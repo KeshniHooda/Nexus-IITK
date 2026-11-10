@@ -1,0 +1,122 @@
+[Page 1]
+Indian Institute of Technology Kanpur 
+Proposal for a New Course 
+1. Course No: CHE 6XX 
+2. Course Title: Foundation of Deep learning for Chemical Engineers 
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours[0-2]: 0 (A), 
+Credits (3-0-0-0) 
+
+ 
+
+Duration of Course: Full semester 
+4. Proposing Department: Department of Chemical Engineering 
+ 
+Other Departments/IDPs which may be interested in the proposed course: ME, AE, MSE 
+ 
+Other faculty members interested in teaching the proposed course: Harshwardhan H. Katkar 
+5. Proposing Instructor(s): Indranil Saha Dalal 
+6. Course Description: 
+A) Objectives: The course will build up from a basic Machine learning course and introduce 
+the concepts of Deep learning. The students are expected to have a basic exposure of 
+Machine learning and computer programming. The problems and examples relevant to 
+engineering, especially chemical engineering, will be selected, whenever possible. 
+ 
+B) Contents (preferably in the form of 5 to 10 broad titles): 
+Lecture-wise break-up (considering the duration of each lecture is 50 minutes) 
+S. 
+No. 
+Broad Title 
+Topics 
+No. of 
+Lectures 
+1. 
+Introduction 
+Introduction to Deep learning and examples 
+2 
+2. 
+Probabilities and 
+distributions 
+Probability, Probability density, Information 
+theory, Bayesian probabilities, Discrete 
+variables, Multivariate Gaussian 
+6 
+3. 
+Single Layer Networks: 
+Regression 
+Linear regression, Basis functions, Likelihood 
+function, Geometry of least squares, Multiple 
+outputs 
+4 
+4. 
+Single Layer Networks: 
+Classification 
+Discriminant functions, Decision Theory, 
+Generative Classifiers, Discriminative 
+Classifiers 
+6 
+5. 
+Deep Neural Networks 
+Limitations of fixed basis functions, multilayer 
+networks, deep networks, error functions 
+6 
+6. 
+Gradient Descent 
+Gradient Descent optimization, convergence, 
+normalization 
+3 
+7. 
+Backpropagation 
+Evaluation of gradients, automatic 
+differentiation 
+2 
+8. 
+Convolutional Networks Computer vision and convolutional filters, 
+visualizing trained CNNs and object detection 
+3 
+9. 
+Graph Neural Networks Machine learning on graphs, Neural message-
+passing, General graph networks 
+4 
+10. Sampling 
+Sampling algorithms, Markov Chains Monte 
+Carlo, Langevin Sampling 
+4 
+
+ 
+
+C) Recommended pre-requisites, if any (examples: a- PSO201A,or b- PSO201A or 
+equivalent): Basic UG-level programming and any first level course on Machine learning.
+
+[Page 2]
+D) Short summary for including in the Courses of Study Booklet: 
+Probability, Distributions, Single layer networks for regression and classification, Deep 
+neural networks, Gradient descent, Convolutional networks, Graph neural networks, 
+Sampling 
+
+7. Recommended text/reference books: 
+A) Christopher M. Bishop, Hugh Bishop; Deep Learning, Springer, 2024. 
+ 
+8. Any other remarks: 
+A) Most of the homework assignments will involve computer programming by the students. 
+Assignments will be given every week. 
+
+ 
+Dated: 12/7/2024 
+
+ 
+ 
+Proposer: Indranil Saha Dalal 
+
+Dated: 
+
+ 
+
+DPGC Convener: 
+
+The course is approved / not approved 
+
+ 
+
+Chairman, SUGC 
+
+Dated: 27/09/2022

@@ -1,0 +1,114 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+
+Proposal for a new course
+
+1. Course No.: MSExxx
+
+2. Course Title: Computational Materials Thermodynamics
+
+3. Credits: 3-0-0-0[9 credits]
+Duration of course: Full semester (40 lectures)
+
+4. Proposing Department: Materials Science and Engineering Department
+Other departments which may be interested in the proposed course: ME, CHE, MSP, SEE
+
+5. Proposing Instructor: Soumya Sridar
+Other faculty members interested in teaching the proposed course: Dr. Krishanu Biswas, Dr.
+Kallol Mondal, Dr. Kaustubh Kulkarni, Dr. Rahul Sarkar, and Dr. Shivam Tripathi.
+
+6. Course Details:
+
+Objectives: The main objective of this course is to provide a foundation for using computational
+thermodynamics  as  a  tool  for  alloy  design  and  process  optimization.  Computational
+thermodynamics has become a  reliable tool for accelerated materials discovery. A deeper
+understanding of this approach will be beneficial to efficiently solve metallurgical problems with
+computational techniques rather than brute-force experiments involving high material costs and
+energy consumption. This course is intended to provide an overview of topology and methods for
+phase diagram construction, understand the fundamental principles of phase and property diagram
+calculations with thermodynamic database structure, and modern data-driven techniques for
+accelerating phase diagram development. The course will also include hands-on experience in
+using the appropriate software tools to perform thermodynamic calculations relevant to design and
+optimization, including thermodynamic database development. It is expected that after going
+through this course, a student will be able to comprehend scientific literature and will be equipped
+to perform research using this approach.
+
+Contents:
+
+S. No.                               Topic                                Lectures
+1    Review of basic thermodynamics and phase diagrams
+Thermodynamic definitions and equilibrium conditions                    2
+Topology of ternary and multicomponent phase diagrams                   1
+Methods of phase diagram construction                                 2
+2    Overview of computational thermodynamics
+Introduction to computational thermodynamics                           1
+Linkage between computational thermodynamics and other modeling         1
+techniques
+
+[PAGE 2]
+3    Gibbs energy models for different phases
+Models for pure elements, stoichiometric phases and gases                 1
+Models for random substitutional solutions and their extrapolation           3
+Sublattice formalism and its applications                                5
+Models for magnetic ordering and ionic liquids                           1
+4    Computational thermodynamics tools and databases
+Introduction to computational thermodynamics tools                      1
+Structure and assembly of thermodynamic databases                      3
+5    Hands-on computational thermodynamics calculations
+Calculation of binary phase diagrams and property diagrams                1
+Calculation of different sections (isothermal, isopleth, liquidus projection)     2
+for ternary systems
+6    Gibbs energy model parameter optimization
+Types of experimental data and its critical evaluation                      1
+Ab initio assisted thermodynamic input data generation                    3
+Gibbs energy model parameter optimization steps and practices              4
+Model parameter optimization for Ni-Cr system: A case study               2
+7    Modern alternate approaches for computational thermodynamics
+Atomistic simulations for implementing computational thermodynamics       2
+First-principles-only phase diagram of Ni-Al system: A case study           1
+Machine learning for computational thermodynamics and related tools        3
+Total    40
+
+7. Prerequisites: Basic Materials course on thermodynamics
+
+8. Short summary of the course content:
+
+Computational thermodynamics combines classical thermodynamics with mathematical modeling
+for accelerated and efficient material discovery and process optimization. This course will begin
+with reviewing the basic thermodynamic terms along with understanding the topology, and
+construction  of  phase  diagrams.  This  will  be  followed  by  introducing  computational
+thermodynamics and the Gibbs energy models for various phases, such as pure elements, gases,
+liquids, and solid solutions, which will be discussed in detail as they are crucial for phase diagram
+determination. Different software tools for implementing computational thermodynamics will be
+introduced along with the structure of Gibbs energy databases, which will be followed by hands-
+on experience in performing calculations using the relevant software. This will be followed by a
+comprehensive introduction to Gibbs energy model parameter optimization, the main crux for
+developing databases for thermodynamic calculations with a case study including thermodynamic
+data  generation  using  first-principles  calculations.  Further,  the  modern  techniques  for
+implementing computational thermodynamics for rapid phase diagram determination, such as ab
+initio methods and machine learning approaches, will be elaborated with suitable examples and
+tools.
+
+[PAGE 3]
+9. Textbooks and Reference Book:
+
+1. CALPHAD (Calculation of Phase Diagrams): A Comprehensive Guide, N. Saunders and
+A.P. Miodownik, Pergamon Press, 1998 (Textbook)
+2.  Computational Thermodynamics: The Calphad Method, H.L. Lukas, S.G. Fries, B.
+Sundman, Cambridge University Press, 2007 (Textbook)
+3.  Phase Equilibria, Phase Diagrams, and Phase Transformations: Their Thermodynamic
+Basis, M. Hillert, Cambridge University Press, 2007 (Reference book)
+4.  Computational Thermodynamics of Materials, Z. K. Liu, Y. Wang, Cambridge University
+Press, 2019 (Reference book)
+
+Date: 03/02/2025                    Proposer: Soumya Sridar
+
+Date: __________             DUGC/DPGC Convener:
+
+____________________
+
+The course is approved/not approved.
+
+Chairman, SUGC/SPGC
+
+Date: _____________________

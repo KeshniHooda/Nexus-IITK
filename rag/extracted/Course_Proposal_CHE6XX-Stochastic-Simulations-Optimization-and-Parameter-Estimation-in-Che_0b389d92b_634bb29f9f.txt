@@ -1,0 +1,62 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+Proposal for a New Course
+
+1. Course No.:                               CHE 6XX
+2. Course Title:                                                Stochastic Simulations, Optimization, and
+Parameter Estimation in Chemical Engineering
+
+3. Lectures Per Week & Total Classes:                     3 [Tutorial:0, Lab:0, Additional Hours:0], 40
+4. Proposing Department:                                  Department of Chemical Engineering
+5. Other faculty members interested in           —
+teaching:
+6. Other Departments that may be                              Materials Science and Engineering, Sustainable Energy
+interested:                                                   Engineering, Chemistry, Mechanical Engineering, Mathem
+and Statistics, Computer Science and Engineering
+7. Proposing Instructor(s):                                  Raj Ganesh S. Pala (rpala@iitk.ac.in)
+
+Course Description: This course introduces computational methods for uncertainty analysis, stochastic
+simulations, optimization, and parameter estimation in chemical engineering. Topics include probability
+distributions, Monte Carlo simulation, Markov processes, unconstrained and constrained optimization,
+regression, least-squares fitting, Bayesian inference, posterior prediction, and experimental design. A short
+supplementary unit introduces validation, regularization, and the relation between mechanistic and data-
+driven models in chemical engineering.
+
+#  Title                          Topics                                                            Lec.
+1  Foundations & modeling            Motivation; forward and inverse problems; deterministic versus stochastic     5
+perspectives                      models; mechanistic versus data-driven models.
+2   Probability foundations          Random variables; key distributions; expectation, variance, covariance,       5
+correlation; random vectors and multivariate distributions.
+3  Stochastic simulation & uncertainty Random sampling; Monte Carlo methods; uncertainty propagation; Markov    7
+propagation                        chains and processes; Brownian motion and introductory SDE ideas.
+4  Numerical optimization             Objective functions and constraints; simplex, gradient, Newton line-search,    9
+trust-region, and Lagrangian methods.
+5  Parameter estimation & regression   Residuals and objective functions; linear regression; least-squares; nonlinear   6
+parameter estimation; chemical engineering examples.
+6  Bayesian inference, MCMC &       Prior, likelihood, posterior; posterior uncertainty and prediction;             8
+modern extension                  experimental design; MCMC; model criticism; validation, regularization, and
+case studies.
+
+Prerequisites: For UG (3rd and 4th year): prior exposure to calculus, linear algebra, ordinary differential
+equations, and introductory numerical methods, together with core chemical engineering background, is
+desirable. For PG: similar mathematical preparation and familiarity with MATLAB or Python are desirable.
+
+1
+
+[PAGE 2]
+Recommended Texts and References
+1. Kenneth J. Beers, Numerical Methods for Chemical Engineering: Applications in MATLAB, Cambridge
+University Press.
+2. Jorge Nocedal and Stephen J. Wright, Numerical Optimization, Springer.
+3. Sheldon Ross, A First Course in Probability, Pearson.
+4. D. S. Sivia and J. Skilling, Data Analysis: A Bayesian Tutorial, Oxford University Press.
+5. Andrew Gelman et al., Bayesian Data Analysis, CRC Press.
+6. Andriy Burkov, The Hundred-Page Machine Learning Book.
+
+Proposer (Date:             )                      DPGC Convener (Date:             )
+
+Chairman, SPGC (Date:             )
+
+The course is approved / not approved
+
+2

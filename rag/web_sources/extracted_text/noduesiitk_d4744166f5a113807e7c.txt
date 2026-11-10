@@ -1,0 +1,13 @@
+All the students must submit the Exit Feedback Survey and Security Refund Application before applying for dues clearance.
+NOTE: Department officials can no longer use their personal email IDs to clear the dues. Kindly use office email IDs (e.g., office_ae, office_mse, etc.) to log in and clear the dues.
+Please refrain from using the portal during the following maintenance windows: 4:00-4:15 AM and 1:45-1:50 PM .
+Log in to Dues Clearance System using the CC User ID and Password.
+Please make sure that all the columns of all departments/Section bears 'No-Dues' in the No Dues Status and Remark columns. If there is some amount/dues appearing in any of these columns, please clear the same from the concerned department/section.
+Once the columns of all departments/sections shows as "No-Dues", concerned official from DOAA office will clear the dues, an auto-generated email with an electronically generated 'Final Dues Clearance Form' as a PDF attachment will be send to you.
+For No-Dues related to DORA office, please write to utsav@iitk.ac.in.
+Instructions for SBI Dues Clearance: Kindly go through the instructions available at
+For Bank No-Dues, please write an email at: SBI IIT Kanpur :sbi.01161@sbi.co.in, UBI IIT Kanpur : ubin0553727@unionbankofindia.bank, ICICI IIT Kanpur : icicinodues@iitk.ac.in
+After completion of dues Clearance from all the indicated departments/sections, please email your bank no-dues clearance at courses@iitk.ac.in
+Mozilla Firefox(70+), Google Chrome(70+) and Safari on MacOSX(12+) browsers are recommended to access the portal.
+Please enable JavaScript in your browser.
+© 2022 Copyright: Office Automation Division, IIT Kanpur

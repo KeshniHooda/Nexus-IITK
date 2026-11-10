@@ -1,0 +1,115 @@
+[Page 1]
+Indian Institute of Technology Kanpur 
+Proposal for a New Course 
+1. Course No: CHE 602A 
+2. Course Title: Introduction to Thermodynamics 
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours[0-2]: 0 (A), 
+Credits (3-0-0-0) 
+
+ 
+
+Duration of Course: Full semester 
+ 
+4. Proposing Department: Department of Chemical Engineering 
+ 
+Other Departments/IDPs which may be interested in the proposed course: ME, AE, MSE 
+ 
+Other faculty members interested in teaching the proposed course: Vishal Agarwal, Soumik Das, 
+Goutam Deo and Salman Khan 
+5. Proposing Instructor(s): Indranil Saha Dalal, Vishal Agarwal, Soumik Das, Goutam Deo and 
+Salman Khan 
+ 
+6. Course Description: 
+A) Objectives: The aim of this course is to introduce the key concepts of Chemical 
+Engineering Thermodynamics to students with diverse backgrounds. Particularly, this 
+course is useful for graduate students of allied branches who are interested in postgraduate 
+programs in the chemical engineering department. 
+ 
+B) Contents (preferably in the form of 5 to 10 broad titles): 
+Lecture-wise break-up (considering the duration of each lecture is 50 minutes) 
+S. 
+No. 
+Broad Title 
+Topics 
+No. of 
+Lectures 
+1. 
+Introduction and First law 
+Heat, Work, conservation of mass and 
+energy, Equilibrium state, intensive and 
+extensive variables, Applications 
+2 
+2. 
+Second law and Entropy 
+Entropy, Reversibility, Entropy changes of 
+matter, Applications 
+3 
+3. 
+Thermodynamic properties 
+of real substances 
+Corresponding states, Generalized equations 
+of state, thermodynamic partial derivatives, 
+thermodynamic property evaluations on 
+change of state 
+4 
+4. 
+Equilibrium in one-
+component systems 
+Criterion for Equilibrium, Molar Gibbs 
+energy and Fugacity of a pure component, 
+Calculation of fluid-phase equilibrium – 
+vapor pressure, Gibbs phase rule for one 
+component system, Thermodynamic 
+properties of phase transitions 
+5 
+5. 
+Thermodynamics of 
+multicomponent mixtures 
+Partial molar properties, Gibbs Duhem 
+equation, ideal solution and excess molar 
+properties, Activity coefficients and models 
+4 
+6. Chemical Reaction 
+Equilibrium 
+Equilibrium in single phase system, 
+homogeneous chemical reactions 
+2
+
+[Page 2]
+C) Recommended pre-requisites, if any: None 
+ 
+D) Short summary for including in the Courses of Study Booklet: 
+First and Second law, Entropy, Thermodynamic properties of single and multicomponent 
+systems, chemical reaction equilibrium 
+
+7. Recommended text/reference books: 
+1. 
+Stanley I. Sandler, Chemical, Biochemical and Engineering Thermodynamics, John Wiley & Sons, 
+4th Edition. 
+2. 
+J. M. Smith, H. C. Van Ness and M. M. Abbott, Introduction to Chemical Engineering 
+Thermodynamics, 6th Edition. 
+3. Y. V. C. Rao, Chemical Engineering Thermodynamics, Universities Press, 1st Edition. 
+ 
+8. Any other remarks: None 
+
+ 
+Dated: 12/7/2024 
+
+ 
+Proposer: Indranil Saha Dalal 
+
+Dated: 
+
+ 
+
+ 
+DPGC Convener: 
+
+The course is approved / not approved 
+
+ 
+
+Chairman, SUGC 
+
+Dated: 27/09/2022

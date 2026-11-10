@@ -1,0 +1,117 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+Proposal for a New Course
+
+1. Course No: ME XXX
+
+2. Course Title: Design of Thermoﬂuid Systems
+
+3. Per Week Lectures: 3  (L), Tutorial: 0  (T), Laboratory: 0  (P), Additional Hours [0-2]:
+0  (A), Credits (3*L+2*T+P+A): 9
+Duration of Course: Full Semester / Modular
+
+4. Proposing Department/IDP: Mechanical Engineering
+
+Other Departments/IDPs which may be interested in the proposed course: Department
+of Sustainable Energy Engineering
+
+Other faculty members interested in teaching the proposed course: Jishnu Bhattacharya
+(ME) and Laltu Chandra (SEE)
+
+5. Proposing Instructor(s): Umesh Madanan (ME)
+
+6. Course Description:
+
+A) Objectives: This course will help integrate the fundamentals of thermodynamics, ﬂuid
+mechanics, and heat and mass transfer towards the design, modeling, and analysis of
+representative energy systems and components. Upon completion of this course, stu-
+dents will be able to analyze system performance, optimize the design of components
+and subsystems, and evaluate the economics for diﬀerent applications. The course will
+also introduce engineering principles and best practices for designing practical systems.
+This course will present students with uncertain and open-ended real-world problems
+that will help them develop the quantitative skills required to deﬁne and justify engi-
+neering assumptions, apply constraints, and formulate a physically consistent approach
+to analyzing systems.
+
+B) Contents (preferably in the form of 5 to 10 broad titles):
+
+S. No  Broad Title           Topics                    No.  of 50-mins
+Lectures
+1.      Recap                  Revision of fundamentals of  5
+thermodynamics,  ﬂuid me-
+chanics, and heat transfer
+2.      Software Introduction    Introduction to Engineering  4
+Equation Solver (EES)  soft-
+ware
+3.     Thermodynamic Anal-  Thermodynamic analysis of  5
+yses                      cycles  (power   generation,
+heating and cooling) and sys-
+tems
+
+1
+
+[PAGE 2]
+4.     Improved Systems      Eﬃciency  improvement  in  4
+power generation and heat-
+ing and cooling systems
+5.      Fluid Mechanics Anal-  Fluid ﬂow (piping systems),  5
+yses                 and prime movers (turbines,
+compressors,  pumps,  and
+fans)
+6.     Thermoﬂuidic  Analy-  Heat exchanger design       5
+ses
+7.      Special Applications    Waste  heat  recovery  sys-  6
+tems  (organic Rankine  cy-
+cles, thermoelectric genera-
+tors,  etc.)  and electronics
+thermal management strate-
+gies
+8.     Design Optimization    Design optimization of en-  4
+ergy systems
+
+C) Pre-requisites, if any: Thermodynamics (ESO201 or equivalent), Fluid Mechanics (ME231
+or equivalent), Advanced Fluid Mechanics (ME331), and Heat and Mass Transfer (ME341)
+
+D) Short summary for including in the Courses of Study Booklet: The course is designed
+for students interested in learning a new software, Engineering Equation Solver (EES),
+and how it applies to the design and optimization of various thermoﬂuidic systems.
+The course will provide a recap on fundamental topics in thermodynamics, ﬂuid me-
+chanics, and heat transfer.  Following this, a new software, EES, will be introduced,
+before advancing to modeling and improving thermoﬂuidics in diﬀerent systems, in-
+cluding a variety of power-generating, heating/cooling systems, and equipment such
+as turbines/compressors/pumps, and heat exchangers. Finally, the course will conclude
+with design optimization for some of the aforementioned energy systems.
+
+7. Recommended books:
+
+Textbooks:
+
+1. William S. Janna, Design of Fluid Thermal Systems, 2nd Edition, PWS Publishing
+Company
+
+Reference Books:
+
+1. Heat and Mass Transfer: Fundamentals and Applications by Y. A. Cengel, A.  J.
+Ghajar (5th Edition, ISBN-10: 9789339223199, McGraw-Hill, 2017)
+
+2. Fluid Mechanics F. M. White (5th Edition, ISBN: 978-0-07-352934-9, Tata Mc-
+Graw Hill, 2003)
+
+3. Thermodynamics: An Engineering Approach by Y. A. Cengel, M. A. Boles, M.Kanoglu
+(9th Edition, ISBN-10: 9353165741, McGraw-Hill, 2019)
+
+2
+
+[PAGE 3]
+8. Any other remarks:
+
+Dated:                  Proposer: Dr. Umesh Madanan
+
+Dated:            DUGC/DPGC Convener:
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC
+Dated:
+
+3

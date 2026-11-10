@@ -1,0 +1,153 @@
+[Page 1]
+Indian Institute of Technology, Kanpur 
+Proposal for a New Course for M.Tech./Undergraduate studies 
+ 
+1. Course No: SPA6XX (Level 6 course for M.Tech./final year B.Tech. students of interdisciplinary 
+departments) 
+ 
+2. Course Title: Satellite Based Communication & Navigation Techniques 
+ 
+3. Per Week Lectures: 3(L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours[0-2]:0 (A), Credits 
+(3*L+2*T+P+A): 9, Duration of Course: Full Semester 
+ 
+4. Department : Space, Planetary & Astronomical Sciences & Engineering (SPASE) 
+ 
+5. Instructor: Sumitesh Sarkar, Soumyabrata Chakrabarty, 
+6. Course Description: 
+ 
+A. Objectives: The objective of this course is to introduce the students from interdisciplinary 
+Engineering and science streams to the fundamentals of Engineering topics related to 
+Satellite based Communication and Navigation. 
+B. Contents (preferably in the form of 5 to 10 broad titles): 
+S 
+No. 
+Broad Title 
+Topics 
+No. of 
+lectures 
+Part1: Instructor, Sumitesh Sarkar 
+I 
+Introduction to 
+Satellite Systems 
+Evolution 
+of 
+satellite 
+communication 
+and 
+navigation systems, Satellite orbits, Keplerian 
+elements, 
+launches, 
+orbit 
+determination, 
+Satellite subsystems overview: payload, bus, 
+TT&C, 
+power, 
+thermal, 
+Satellite 
+mission 
+classification: communication, navigation, EO, 
+scientific. 
+3 
+II 
+Basic elements of 
+Communication 
+system 
+Link design basics, Frequency bands for RF 
+Communication, propagation environment, 
+Analogue & Digital Modulation techniques, 
+Coding & Multiple access. 
+6 
+III 
+Satellite 
+Communication 
+Concepts Transponder (bent-pipe, regenerative), 
+payload subsystems, Antenna systems: 
+Reflector based, phased arrays, spot beams, 
+Earth stations and VSAT networks, broadcast 
+services (DTH, DAB), maritime & aeronautical 
+SATCOM. 
+6 
+IV 
+Modern Satcom 
+Systems 
+HTS, VHTS, Satellite based internet, optical 
+satellite communication, LEO/MEO 
+Constellations, Flexible Satellites, Direct to 
+Device systems. 
+5 
+Part 2: Instructor- Soumyabrata Chakrabarty 
+V 
+Fundamentals of 
+Satellite systems 
+Principles of navigation & positioning, GNSS 
+constellations: GPS, GLONASS, Galileo, BeiDou. 
+3
+
+[Page 2]
+for Global 
+Navigation 
+Regional systems: NavIC, QZSS, augmentation 
+systems (SBAS, GAGAN, WAAS). 
+VI 
+Segments of 
+Navigation 
+Satellite Service 
+Space segment, Control Segment & Ground 
+Segment. Navigation Payload elements, Time & 
+Frequency: atomic clocks, UTC & GPS time. 
+GNSS Receivers: architecture & algorithms 
+6 
+VII 
+GNSS Signals & 
+Measurements 
+GNSS signal structure, frequencies, codes (C/A, 
+P(Y), M-code), Ranging, pseudorange, Dual 
+frequency 
+measurements, 
+carrier-phase, 
+Doppler measurement. 
+5 
+VIII 
+Sources of Errors 
+& interferences 
+Effects of ionosphere, troposphere, multipath, 
+receiver noise, Orbit Geometry & Dilution of 
+Precision (DOP), Jamming, Spoofing, Orbit 
+determination & integrity monitoring. 
+4 
+IX 
+Applications & 
+Precision services 
+Applications in Geospatial services: Surveying, 
+mapping, GIS. DGPS, RTK & PPP. 
+2 
+
+C. Pre-requisites: Not Applicable. 
+D. Short summary of the Courses: The aim of this course is to introduce the students from 
+the departments of SPASE, AE and EE to the fundamentals of the science and engineering 
+topics related to satellite-based communication & navigation. The students will learn 
+about the various parts of an artificial satellite, suitable orbits, communication links, 
+modulation, coding and multiple access techniques and various applications. In the 
+navigation part the course will cover the basic principles of navigation, example of existing 
+global and regional systems, the three segments of GNSS, viz., Space segment, Control 
+segment and Ground segment, navigation signal structures, measurements, sources of 
+error and applications. The course is targeted for all engineering and science disciplines. 
+ 
+7. Recommended books: 
+Textbooks: 
+ 
+- 
+Timothy Pratt, Jeremy E. Allnutt, “Satellite Communications”, Wiley, 2016 
+- 
+Gerard Maral, Michel Bousquet, Zhili Sun, “Satellite communications systems : systems, 
+techniques and technology”, John Wiley & Sons, 2020 
+- 
+Bernhard Hofmann-Wellenhof , Herbert Lichtenegger , Elmar Wasle, “GNSS – Global 
+Navigation Satellite Systems” 
+ 
+Reference Books: 
+- 
+Pratap Misra, “Global Positioning System: Signals, Measurements, and Performance”, 
+Ganga Jamuna Press, 2012 
+- 
+Dennis Roddy, ‘Satellite Communications’ McGraw-Hill, 2001

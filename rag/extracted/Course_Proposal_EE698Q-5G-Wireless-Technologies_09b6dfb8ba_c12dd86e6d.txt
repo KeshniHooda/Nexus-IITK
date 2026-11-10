@@ -1,0 +1,134 @@
+[PAGE 1]
+Indian Institute of Technology,
+
+Kanpur Proposal for a New Course
+
+1. Course No: EE698Q (Old Course No)
+
+2. Course Title: 5G Wireless Technologies
+
+3. Per Week Lectures: 3 (L), Tutorial: (T), Laboratory: _   _(P), Additional Hours[0-2]:
+
+(A), Credits (3*L+2*T+P+A): 9 Duration of Course: Full Semester
+
+4. Proposing Department/IDP: EE
+5. Proposing Instructor(s): Aditya Jagannatham (adityaj@iitk.ac.in)
+Other faculty members interested in teaching the proposed course:
+Swamy Peruru (swamyp@iitk.ac.in), Rohit Budhiraja (rohitbr@iitk.ac.in)
+
+6. Course Description:
+
+Objectives: The course will present an in-depth analysis of several key 5G wireless
+technologies such as Massive MIMO, mmWave MIMO, Filter Bank Multi-Carrier
+(FBMC), Non-Orthogonal Multiple Access (NOMA), Full-Duplex (FD) etc. It is also
+intended to cover other advanced wireless technologies such as Cooperative
+Communication, Cognitive Radio, Multi-User MIMO and more. Finally, students working
+in groups of two are expected to prepare a term paper that will focus on an in-depth
+study and analysis of any cutting edge 5G wireless technology of their choice.
+
+Contents (preferably in the form of 5 to 10 broad titles):
+
+S.     Broad Title                Topics                 No.       of
+No.                                                       Lectures
+(1.5   hours
+each)
+1.  Evolution of     Evolution of Wireless Cellular Technologies -     1
+Wireless        2G/ 3G/ 4G. Introduction to 5G Wireless
+Cellular         Networks and Technologies
+Technology
+2.  MIMO Wireless  MIMO Wireless Systems. Performance of       2
+Systems         Multi-Antenna and MIMO Wireless Systems.
+Optimal Precoding and Power Allocation for
+Multi-User MIMO Systems
+3.  Massive MIMO   Introduction to massive MIMO Systems –        4
+Systems,       Key Features. Signal Processing for
+Processing and massive MIMO with Perfect Channel State
+Performance     Information – Rate Scaling. Channel
+Estimation for massive MIMO Systems and
+Rate scaling in massive MIMO systems with
+CSI Uncertainty
+
+[PAGE 2]
+4.  New              Spatial Modulation of Massive MIMO           1
+Modulation  for Systems
+5G
+5.  mmWave         Introduction to mmWave MIMO Wireless        2
+Wireless        Systems, Properties and Modeling of
+Systems      mmWave Wireless Channels, Analog, Digital
+and Hybrid Processing for mmWave MIMO
+Wireless Systems
+6.  Transceiver     Channel Estimation in mmWave Wireless        3
+Design for      Systems and Introduction to Sparse
+mmWave        Processing, Design of Optimal RF/
+Baseband Precoders and Combiners for
+mmWave MIMO Wireless Systems
+7.   Filter Bank       Introduction to Filter Bank Multi-Carrier          3
+Multi-Carrier    Systems – Key Properties and Advantages,
+Systems      FBMC System Model – Intrinsic
+Interference, Signal Transmission and
+Decoding in FBMC Systems, Performance
+Analysis of FBMC Systems and Comparison
+with OFDM Systems
+8.  Non-              Introduction to NOMA Wireless Systems,        3
+Orthogonal     System Model and Decoding for NOMA
+Multiple-        Systems, Performance Analysis of NOMA
+Access (NOMA) Networks – Outage Probability, Optimal
+Performance of NOMA Systems and
+Average Rate
+Full-Duplex      Introduction to FD Wireless Technology, Self     2
+Wireless         Interference in FD System and Resulting
+Technology     Performance, Optimal Signal Processing for
+FD Systems, Optimal Power Allocation and
+Performance of FD Systems
+Cooperative     Introduction and Protocols for Cooperative       3
+Wireless        Wireless Communication, Decode-and-
+Communication Forward (DF) for Wireless Relaying
+Systems, Performance Analysis of DF for
+Multi-antenna and MIMO Wireless Systems,
+DF Relaying for Multi-Relay Wireless
+Systems
+Cognitive        Introduction to Cognitive Radio Concept and     2
+Radio Systems  Software Defined Radio (SDR), Spectrum-
+Sensing for Cognitive Radio Systems,
+Optimal Power Allocation and Interference
+Suppression for MIMO Cognitive Radio
+Systems
+Total        26
+Lectures (1.5
+hours each)
+
+[PAGE 3]
+A) Pre-requisites: EE320 (Principles of Communication Systems)
+
+B) Short summary for including in the Courses of Study Booklet: The course will
+present an in-depth analysis of several key 5G wireless technologies such as
+Massive MIMO, mmWave MIMO, Filter Bank Multi-Carrier (FBMC), Non-Orthogonal
+Multiple Access (NOMA), Full-Duplex (FD) etc. It is also intended to cover other
+advanced wireless technologies such as Cooperative Communication, Cognitive
+Radio, Multi-User MIMO and more.
+
+7. Recommended reference:
+•  Fundamentals of Massive MIMO By Thomas L. Marzetta, Erik G.
+Larsson, Hong Yang, Hien Quoc Ngo
+•  Millimeter wave wireless communications By Theodore S. Rappaport,
+Robert W. Heath, Robert. C. Daniels, James N. Murdock
+
+8.  Evaluation Policy: Assignments: 10%, Mid-sem: 25%, Endsem: 35%,
+Quizzes 20% Term paper 10%
+
+9. Course strength last three times:
+
+2024-2025 Semester II: 60;
+2019-2020 Semester II: 41;
+2018-2019 Semester II: 51;
+
+Dated: 11/09/2025                                 Proposer: Aditya Jagannatham
+
+Dated:                                   DUGC/DPGC Convener:
+
+The course is approved / not
+approved
+
+Chairman, SUGC/SPGC
+
+Dated:

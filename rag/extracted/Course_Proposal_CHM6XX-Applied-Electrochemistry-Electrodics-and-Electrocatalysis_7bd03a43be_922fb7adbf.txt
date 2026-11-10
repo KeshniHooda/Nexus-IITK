@@ -1,0 +1,163 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+Proposal for A New Course
+
+1. Course No: CHM6XX
+2. Course Title: Applied Electrochemistry: Electrodics and Electrocatalysis
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours[0-2]:
+2 (A), Credits (3*L+2*T+P+A): 9  Duration of Course: Full Semester
+4. Proposing Department/IDP: Department of Chemistry
+Other Departments/IDPs which may be interested in the proposed course:
+MSE, CHE, ME, CE, SEE, EE, and BSBE
+Other faculty members interested in teaching the proposed course: Prof.
+Apparao Draksharapu, Prof. Prakash C. Mondal and Prof. Raja Angamuthu.
+
+5. Proposing Instructor: Anantharaj Sengeni, Assistant Professor of Chemistry.
+6. Course Description: This course introduces electrochemistry from a materials and
+molecular perspective, focusing on its role in energy conversion, storage, sensing, and
+molecular-scale catalytic systems. It connects fundamental principles with the design and
+behavior of materials and molecules in catalyzing reactions of batteries, fuel  cells,
+electrolyzers, and related technologies. The course adopts a layered approach, moving
+from physical intuition to core equations and finally to materials- and molecular-level
+insights, with particular emphasis on kinetics, charge transfer, and interfacial phenomena.
+Electroanalytical techniques are taught through standardized frameworks to extract
+reliable mechanistic and kinetic information. Emphasis is placed on linking electronic
+structure, surface chemistry, and molecular architecture to electrochemical  activity,
+selectivity, and stability, along with best practices in measurement, reproducibility, and
+data  interpretation.  Overall,  the  course  trains  students  to  connect  structure  to
+electrochemical behavior to mechanism to function across materials and molecular
+systems.
+
+7.
+A) Objectives:
+•  To understand electrochemical fundamentals through materials,
+interfaces, and molecular perspectives.
+•  To relate electronic structure, bonding, and molecular architecture to
+electrochemical activity and stability.
+•  To provide a structured understanding of electroanalytical techniques for
+materials and molecular systems.
+
+[PAGE 2]
+•  To study energy conversion and storage systems alongside corrosion and
+degradation phenomena.
+•  To introduce principles of molecular electrocatalysis and molecular
+interfaces.
+•  To develop the ability to interpret electrochemical data in the context of
+materials performance, degradation, and molecular functionality.
+•  To train students in standardized experimental practices and reproducible
+data analysis.
+
+B) Contents (preferably in the form of 5 to 10 broad titles):
+
+S. No   Broad Title                    Topics                       No. of
+Lectures
+1.  Fundamentals of    •  Electrochemical energy, potentials, and driving
+Electrochemistry        forces.                                    4
+and Interfaces     •  Nernst equation and thermodynamics in
+materials and molecular systems.
+•  Electrochemical interfaces: solid–liquid and
+molecule–electrode interfaces.
+•  Double-layer structure and interfacial fields.
+•  Ion transport and mass transfer.
+•  Summary: Linking thermodynamics to
+structure and interfaces.
+
+2.    Electrodics and     •  Physical meaning of kinetics at material and
+Charge Transfer       molecular interfaces.                         8
+•  Butler–Volmer equation.
+•  Tafel analysis and kinetic parameter
+extraction.
+•  Electron transfer theories (adiabatic/non-
+adiabatic concepts).
+•  Diffusion and transport in structured
+electrodes.
+•  Multi-step reactions and rate-determining
+steps.
+
+3.   Electroanalytical    •  Cyclic and linear sweep voltammetry (CV &
+Techniques for        LSV): Interpretation of current-voltage profiles.    6
+Materials and      •  Chronoamperometry and chronopotentiometry.
+Molecular        •  Electrochemical impedance spectroscopy
+Systems            (EIS): Basics and data fitting.
+•  Rotating disk electrode (RDE) and rotating
+ring-disk electrode (RRDE) techniques.
+
+[PAGE 3]
+•   In-situ and operando techniques in
+electrocatalysis.
+•  Spectroelectrochemistry
+
+4.   Electrocatalysis     •  Core principles: adsorption energy and
+for Energy           reaction energetics.                             4-5
+Conversion and     •  Electrochemical sensing of glucose, vitamins
+Sensing          and other relevant biomolecules and of
+Reactions          environmental pollutants.
+•  HER, OER, ORR,      reduction,    reduction.                         •  Descriptor-based catalystCO2   design andN2 scaling
+relations.
+•   Structure–activity–stability relationships.
+
+5.      Molecular        •  Principles of molecular electrocatalysis:
+Electrocatalysis      homogeneous vs heterogeneous systems.        3-4
+and Interfaces     •  Redox-active molecules and catalytic cycles.
+•  Proton-coupled electron transfer (PCET).
+•  SAM-based redox-active interfaces
+•  Applications in sensing and catalysis.
+
+6.   Analytical Tools     •  Fundamentals of pXRD, Raman, IR, UV-Vis,
+for            XAS, XPS, UPS, TEM, SEM, AFM, and STM.     7-8
+Electrochemistry    •  Integration and operation of above techniques
+for operando electrochemistry
+•  Spectroelectrochemistry
+
+7.    Best Practices     •  Reproducibility and benchmarking across        2
+and Data           materials and molecular systems.
+Interpretation      •  Common pitfalls in electrochemical
+measurements.
+•  Standard protocols: iR correction, ECSA,
+normalization.
+•  Reporting metrics for catalysts, devices, and
+interfacial systems.
+•  Case studies in misinterpretation and
+corrected analysis.
+
+8.  Case Studies and    •  Guided analysis of selected research papers      3-4
+Term Projects         (materials and molecular systems).
+•  Data interpretation exercises (CV, EIS,
+kinetics).
+•  Mini projects: mechanism identification,
+catalyst benchmarking, or device analysis.
+
+[PAGE 4]
+C) Pre-requisites, if any: Nil
+
+D) Short summary for including in the Courses of Study Booklet:
+This course presents electrochemistry from materials and molecular perspectives,
+focusing on applications in energy conversion, storage, and molecular-scale
+systems.     It   integrates   electrochemical   fundamentals,    kinetics,   and
+electroanalytical techniques with the design and performance of materials and
+molecules used in batteries, fuel cells, electrolyzers, sensors, and molecular
+devices. The  course  emphasizes  the  relationship between  structure and
+electrochemical behavior, along with standardized methods for data interpretation
+and reproducible experimentation.  It is suitable for PG students in chemistry,
+materials science, and engineering disciplines.
+
+8. Recommended References:
+a. Textbooks:
+i.  Electrochemical Methods: Fundamentals and Applications by A.J. Bard
+and L.R. Faulkner
+ii. Modern Electrochemistry by J. O'M. Bockris and A.K.N. Reddy
+iii.  Fuel Cell Fundamentals by Ryan O’Hayre et al.
+iv.  Electrochemical   Supercapacitors:    Scientific   Fundamentals   and
+Technological Applications by B.E. Conway
+v. Handbook of Batteries edited by David Linden and Thomas B. Reddy
+
+9. Any other remarks: Nil
+
+Dated: 18-03-2024    Proposer:
+
+Dated:          DPGC Convener (CHM):
+
+This course is approved / not approved
+
+Chairman, SPGC
+Dated:

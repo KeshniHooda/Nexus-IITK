@@ -1,0 +1,76 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+
+Proposal for a New Course
+
+1.  Course No: A 200 level number requested.
+2.  Course Title: Applied Cryptography
+3.  No. of Lectures per week: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours: 0 (A)
+
+Credits (3*L+2*T+P+A): 09                    Duration of Course: Full Semester
+
+4.  Proposing Department/IDP : WSAIS
+
+Other Departments/IDPs which may be interested in the proposed course: CSE
+
+Other faculty members interested in teaching the course: Somitra Sanadhya, Manindra Agrawal,
+
+Angshuman Karmakar.
+
+5.  Proposing Instructor: DUGC (WSAIS)
+6.  Course Description:
+
+A) Objectives: The objective of this course is to introduce the students to the design and analysis of cryptographic
+algorithms. Students will learn techniques of symmetric and assymetric key cryptography, and understand how
+real-world protocols are built on top of these.
+
+B) Contents: (for 13 weeks of lectures)
+
+Numbers in square brackets [] against each topic indicate the number of lectures/labs for that topic. The
+focus of the course is on specific designs and their analysis.
+
+(The course differs from the other course CS641 already available in the curriculum significantly as the treatment of
+CS641 is with emphasis on proofs of security of various primitives and constructions whereas this course focuses on
+specific designs, attacks, and implementation issues.)
+
+(1) Introduction [6]: Historical ciphers and their cryptanalysis, Perfect Security and stream ciphers.
+(2) Symmetric Key Cryptography [9]: Block ciphers, hash functions, MAC, AE schemes
+(3) Asymmetric Key Cryptography [12]: Diffie-Hellman Key Exchange, RSA, El-Gamal cryptosystem, ECC, Digital
+Signatures, Certificates and PKI.
+(4) Cryptanalysis  [12]: Techniques  like  linear and  differential  attacks, MITM,  vulnerabilities  in  real-life
+protocols/tools such as WEP, Bluetooth, WinZip etc.
+
+C) Pre-requisites:
+
+•  None
+
+D) Short summary for including in the Courses of Study Booklet: This course introduces students to the design and
+analysis of cryptographic algorithms with more emphasis on use and applications of various constructions. The
+course focusses on how  real-life protocols and tools may become vulnerable due to weaknesses in these
+algorithms.
+
+[PAGE 2]
+7.  Recommended books:
+(i)     David Wong: Real World Cryptography, Manning publication, 2021.
+(ii)     Jean-Philippe Aumasson: Serious Cryptography 2nd Edition: A Practical Introduction to Modern
+Encryption, No Starch Press, 2024.
+
+Supplementary readings/ Reference books:
+
+(i)   Mike Rosulek: The joy of Cryptography. Free online book (link: https://joyofcryptography.com/)
+(ii)    Katz and Lindell, Modern Cryptography, Revised 3rd Edition, CRC Press
+(iii)    Relevant research papers
+
+_________________________________________________________________________________________
+
+Dated: 13 August 2026; Proposer: Somitra Sanadhya
+
+Dated:                          ; DUGC Convener (WSAIS):___________________
+
+The course is approved / not approved
+
+____________________________________
+
+Chairperson, SUGC
+
+Dated:______________________________

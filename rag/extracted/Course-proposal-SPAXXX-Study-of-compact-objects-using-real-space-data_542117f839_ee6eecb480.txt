@@ -1,0 +1,95 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course
+
+1.  Course No: SPAxxx
+
+2.  Course Title: Study of compact objects  using  real space data (Astrosat)
+
+3.  Lectures per week:01 (L), Tutorial: 0 (T), Laboratory: 1 (P),
+
+Additional hours: (0-2): 0 (A)
+
+Credits (1*L+0*T+3P+0*A): 05   Duration of Course: Full Semester
+
+4. Proposing Department: SPASE
+
+5. Proposing Instructor: J. S. Yadav
+
+6. Course Description
+
+(A) Objectives:
+Compact binraies (blackhole  and neutron star X-ray binaries)
+
+use most efficient energy producing mechanism namely accretion. It produces very
+
+high temperature in   the inner accreton disk and  emits in X-ray.  LAXPC
+
+instrument onboard Astrosat  provides X-ray data best suted  to study accretion
+
+flow in X-ray binaries. Student will  use data of LAXPC instrument.
+
+It will introduce the basic principles and techniques like; good or bad data and
+
+data selection, data analysis, instrument background, generating  light curves,
+
+Power Density Spectrum (PDS), Energy spectrum.  Using this  data, Students will
+
+drive basic physical properites  of the black hole and Neutron star X-ray
+
+bianries like  temperature, inner disk radii, source energy spectrum state: soft
+
+or hard, spectrum timing properites, thermonuclear burst, Neutron star spin
+
+frequency , flux variation and others.
+
+[PAGE 2]
+(B) Contents (preferably in the form of 5 to 10 broad  titles):
+
+No. of    No. Of
+S. No Broad Title            Topics                         Lectures Practical
+lab classes
+1.    Data          Data download, Data type; good or bad   1        2
+Acquisition selection, factors that affect data
+quality and the  data levels
+2.    Data         Selecting the data, understanding of     3        3
+analysis    space instrment used, satelltie orbit
+details, instrument background,
+generating lightcurves, data intervals
+and over all data quality
+3.     The        Soft energy spectrum of a  black hole     9        8
+physical    binary source, Hard energy spectrum of a
+properties  black hole  binary source, Soft energy
+of  the     spectrum of a neutron star  binary.
+source using Testing various spectral models.
+actual space Theromonuclear  bursts, Neutron star spin
+instrument  frequency,   amount of matter between
+data        observer and the  galactic or
+extragalactic sources and absorption
+column density. Timing  spectrum (PDS),
+fitting timing spectra, and  low and Khz
+Quaisi-periodic oscillations (QPOs).
+
+Total Lecturs & Practical/lab Classes                              13     13
+------------------------------------------------------------------------------------------------------------------------
+
+Pre-requisites:  This course is an advance course for Ph. D and M Tech students. Students should
+have working knowledge of Linux operating system as all lab classes will be conducted in Linux
+environment. Students should have basic understanding of radiaion detectors and its background.
+
+[7.] Recommended Books:
+
+1. Radiation detection and measurement, Gless F. Knoll
+2. High Energy Astrophysics, M. S. Longair, Volume 1 and 2
+3. Astrosat LAXPC science  instrument manual(ISRO site)
+
+Dated: 18:10:2024                Proposer:  J S Yadav
+
+Dated:\ \ \ \ \ \  \ \ \ \ \       DUGC/DPGC Convener:
+
+The course is approved/not approved
+
+Chairman, SUGC/SPGC
+
+Dated:

@@ -1,0 +1,209 @@
+[Page 1]
+a
+S 
+Proposal for a new modular course 
+1. Modular Course No: SPA 6xx 
+2. Modular Course Name: Introduction to fluid mechanics in space 
+3. Class strategy: Lectures per week: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional hours: (0-2): 0 
+(A), Duration of Course: half semester, Module credit: S (3-0-0-0) 
+4. Proposing department: SPASE 
+5. Proposing Instructor: Kartick Sarkar, Ishan Sharma 
+6. Course Description: 
+A. Objective: Fluid mechanics is used to describe the flows in a range of systems, starting from plane-
+tary atmosphere and the interior of stars to the flow of matter in the largest scale of the universe. This 
+course intends to teach basics of the fluid mechanics and its applications to different astrophysical/geo-
+physical systems. 
+B. Content: 
+i. Basics of Fluids (3-4 L): Fluid equations (in a rotating frame), concepts of Maxwell-Boltzmann 
+distribution, equations of state in gas and radiation, concepts of viscosity and conduction 
+ii. Fluid properties (2-3L): Steady flow, vorticity (in planetary atmosphere), Reynolds number, 
+Rossby number, hydrostatic equilibrium (planetary atmosphere, stellar atmosphere, adiabatic lapse rate), 
+sound waves 
+iii. Applications to geophysical system (4L): Solar heating; global wind patterns: jet streams, Hadley 
+circulation; shallow water approximation; geostrophic balance; Thermal wind; Taylor-Proudman theo-
+rem; sub- & super-geostrophic balance; cyclostrophic balance; potential vorticity; planetary waves 
+iv. MHD (3L): MHD equations and simple applications (flux freezing etc, magnetic pressure, alfven 
+velocity) 
+v. Applications to astrophysical systems (4L): Supersonic flow (nozzle flow), stellar wind, parker's 
+spiral, accretion disk 
+vi. Instabilities (3L): Rayleigh-Taylor (example in a supernova remnants), Kelvin-Helmholz, convec-
+tion (examples in stellar interior and planetary mantles), Jeans instability (example in star formation) 
+vii. If time permits: shocks and geo-dynamo 
+C. Prerequisites: None 
+D. Short summary for including in the course study booklet: Basics of fluid mechanics, Magneto-
+hydrodynamics, applications to astrophysical and geophysical systems. 
+7. Books and references: 
+1. The Physics of Fluids and Plasmas: Arnab Rai Choudhuri 
+2. Atmospheric and Oceanic fluid dynamics: G. K. Vallis 
+3. Geophysical Fluid Dynamics: J. Pedlosky
+
+[Page 2]
+INDIAN INSTITUTE OF TECHNOLOGY KANPUR 
+POSTGRADUATE OFFICE 
+No. A(P)/IITK/course approval/ 
+August 27, 2024 
+The Convener, DPGC 
+Departments of SPASE 
+ITT Kanpur 
+I am directed to communicate the concurrence of the SPGC (2023-24) in its 11 t'' meeting held 
+on 01/08/2024 for the approval of new PG course proposal. After detailed discussion the 
+following courses were approved. 
+Course No 
+Title 
+Credits 
+Instructor 
+SPGC 
+Decision 
+SPA627M 
+Introduction to fluid mechanics in 
+space 
+3-0-0-0-(5) 
+Dr. Kartick Sarkar 
+Dr. Ishan Sharma 
+Approved 
+SPA628M 
+Introduction to Planetary Remote 
+Sensing from Space Missions 
+3-0-0-0-(5) 
+DPGC 
+Convener, 
+SPASE 
+Approved 
+SPA629M 
+Introduction to Geology: Measuring 
+the Heartbeat of a Planetary Body 
+3-0-0-0-(5) 
+DPGC 
+Convener, 
+SPASE 
+Approved 
+Assistant Registrar 
+Academic Affairs 
+CC: OARS (DOAA Office) For necessary action
+
+[Page 3]
+£ 
+MINUTES 
+FOR THE 11`" MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2023-24) TO 
+BE HELD ON August 1, 2024 (Thursday) AT 03:00 P.M. 
+Over Zoom (online) 
+Members present 
+Prof(s): P M Mohite (AE), Vishal AgaRval (CHE), GNnmoy Kolay (CE), Abheejeet Mohapatra (EE), T H Syed 
+(ES), Sukumar Vellakkal in place of Vasudha Jain (ECO), Feroz Hassn (HSS), Amit Shukla (DoMS), Malay 
+Das in place of Santanu De (ME),Sudhanshu S Singh (MSE), Sudhansu Shekhar in place of Subhajit Dutta 
+(MATH), Sharvari Nadkarni (SPASE), t_altu Chandra (SEE). Sagar Chakrabarty (PHY) (SPASE) 
+Members Absent: Prof(s), Suresh Kumar (BSBE), Ark Verna (CGS), Ashis Kumar Patra (OHM), J 
+Ramkumar (DES), Shilpi Gupta(PSE), Piyush Rai (CSE). Sri Sivakumar (MSP). Pankaj Wahi (NET) 
+Student representative: 
+Shivamm Nigam (19112264), Harsha Prasad (21106270). Nachiket (18102278) 
+Item requiring SPGC Approval: 
+a) Conversion from MSR/MTech to PhD Program: 
+S.No Roll No 
+Name 
+Dept 
+Prog 
+1 Supervisor and 
+DPGC 
+Recommendati 
+on 
+SPGC 
+Recommendation 
+/Decision 
+01-
+02- 
+231180016 
+231230006 
+Sivani Biswal 
+BSBE 
+MTech 
+MTech 
+Recommended 
+Recommended 
+Mo Zaid 
+.- ....
+. i ES 
+_._
+[ Recommended J Recommended 
+`Students has completed course and CPI requirement as per clause 4.6 of PG Manual 
+b) New course approval:-
+nurse No 
+I Title 
+Credits 
+Instructor 
+SPGC 
+Recommend 
+i ation 
+lD e c i s i o n 
+SPA627M 
+Introduction to fluid mechanics in 
+space 
+3-0-0-0-(5) 
+Dr. Kartick Sarkar 
+Dr. Ishan Sharma 
+Approved 
+SPA628M 
+Introduction to Planetary Remote 
+3-0-0-0-(5) 
+DPGC 
+Convener. 
+Approved 
+Sensing from Space Missions 
+j 
+SPASE 
+SPA629M 
+Introduction to Geology: Measuring 
+3-0-0-0-(5) 
+DPGC 
+Convener;
+Approved 
+ 
+the Heartbeat of a Planetary Body 
+i 
+_ 
+SPASE 
+ 
+Items requiring SPGC recommendation for Senate considerations: 
+a) 
+Conversion of Programme Full Time to Part Time 
+S.No 
+Roll No 
+Name 
+Dept 
+Prog 
+Supervisor and 
+I 
+i DPGC 
+SPGC Recommendation 
+/Decision 
+Recommendation 
+1 
+i 19101268 
+Shiv Kumar 
+AE 
+PhD 
+! Recommended 
+Recommended 
+2 
+21104030 
+Gedala Sai Praveen 
+EE 
+MTech 
+Recommended 
+Recommended 
+b) Termination (under clause 8.6) 
+S.No 
+~ Name 
+01 
+Harshita Greta 
+—
+Sr.No. 1 Three times comprehensive exam failed. 
+Page 1 of 5 
+Roll Na 
+Dept 
+1 Prog.
+'
+iii:'__ 
+22127266 ;ECO 
+_! PhD 
+b 
+U

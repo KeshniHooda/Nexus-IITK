@@ -1,0 +1,87 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course
+
+1. Course No: DES xxx
+
+2. Course Title: “Design Project: Product Interaction Design”
+
+3. Per Week Lectures: 01 (L), Tutorial: 0 (T), Laboratory: 06 (P), Additional Hours [0-2]: 0 (A)
+Credits (3*L+2*T+P+A): 9                           Duration of Course: Full Semester
+
+4. Proposing Department/IDP : Design
+Other Departments/IDPs which may be interested in the proposed course: N.A.
+Other faculty members interested in teaching the proposed course: N.A.
+
+5. Proposing Instructor(s): Dr. Shoubhik Dutta Roy
+
+6. Course Description:
+
+A) Objectives:
+•  To develop understanding of how humans interact with products, and to identify scope for
+improving those interactions.
+•  To analyse different interaction approaches towards achieving similar product functions, thereby
+developing more effective, efficient and satisfactory methods for the same.
+•  To learn standard terminology, tools and techniques for interaction analysis and interaction
+design.
+
+B) Contents (preferably in the form of 5 to 10 broad titles):
+
+S. No      Broad Title                               Topics                    No. of
+Lectures
+1.     Introduction            Interaction design fundamentals, sample projects,        1
+topic selection
+2.    Research             Research methods and tools, conducting desk           4
+research and field research, documenting and
+analysing field research
+3.     Conceptualization      Introduction to ideation tools, idea selection,            3
+development of 3 low-fidelity concepts, concept
+comparison and selection
+4.     High-fidelity Design    Heuristic principles, high-fidelity product design,         2
+high-fidelity interface design
+5.    Concept Finalization    Prototyping, testing, design refinement, project          3
+documentation & presentation
+
+C) Pre-requisites, if any:
+
+Ability to sketch three-dimensional objects and model them in CAD are highly recommended skills, but
+not compulsory for every student as the project will be carried out in groups.
+
+[PAGE 2]
+D) Short summary for including in the Courses of Study Booklet
+
+Products have evolved by leaps and bounds in the last few decades, owing to technological innovations
+and lifestyle changes. This in turn has put the spotlight on interactions between humans and the
+products they use. The focus of this course is to develop capabilities to analyse and redesign the
+nuances of human-product interactions, so as to make tasks easier, more effective and more enjoyable
+for the target users. In this course, students work in groups to research and redesign a tangible product
+from a usability perspective. The product could be a home/personal product (washing machine, sewing
+machine, party speaker, DSLR, video camera, etc.), community/commercial product (treadmill, coffee
+machine, projector, photocopy machine, vending machine, DJ console, etc.), medical product
+(sonography machine, body composition analyser, ventilator, etc.) industrial product (paper cutting
+machine, book binding machine, laser cutting machine, etc.) or vehicle control panel (bus, excavator,
+road paving machine, etc.).
+
+7. Reference books:
+
+•  Cooper, A. (2014). About Face: The Essentials of Interaction Design. Wiley.
+•  Karwowski, W. (2011). Human Factors and Ergonomics in Consumer Product Design: Methods
+and Techniques. CRC Press.
+•  Elbert, K.K., Kroemer, H.B., & Hoffman, A.D.K. (2018). Ergonomics: How to Design for Ease and
+Efficiency. Academic Press.
+•  Woodson, W. (1991). Human factors design handbook. McGraw-Hill Education.
+•  Chakrabarti, D. (1997). Indian anthropometric dimensions for ergonomic design practice.
+National Institute of Design.
+
+8. Any other remarks: N.A.
+
+Dated: 10.10.2026      Proposer: Dr. Shoubhik Dutta Roy
+
+Dated:______________ DUGC/DPGC Convener:___________________
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC
+
+Dated:______________________________

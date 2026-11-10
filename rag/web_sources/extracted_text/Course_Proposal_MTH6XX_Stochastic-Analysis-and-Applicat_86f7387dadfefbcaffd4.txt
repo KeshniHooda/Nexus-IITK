@@ -1,0 +1,133 @@
+[Page 1]
+Indian Institute of Technology Kanpur
+Department of Mathematics
+Proposal for New Course
+Title: Stochastic Analysis and Application to PDEs
+Course No.: MTH6XX
+Credits: 3-0-0
+Semester: Any,
+Duration: Full semester
+Department: Mathematics and Statistics
+Proposer: Indranil Chowdhury
+Prerequisite: Basics of measure theory and probability, MTH424, Instructor consent
+Other faculty members interested in teaching the proposed course: Mrinmay Biswas
+Total lectures: 39–40,
+1 lecture = 50 minutes
+Course Objective
+This course develops stochastic analysis as a mathematical method for studying local and nonlocal partial differential
+equations. Probability, martingales, Brownian motion, Itô integration and SDEs provide the foundations for diffusion gen-
+erators, stopped processes, Dynkin’s formula, Kolmogorov equations and Feynman–Kac representations. An introductory
+treatment of Lévy processes connects jump generators to integro-differential equations and the fractional Laplacian. The
+emphasis is on precise regularity and integrability hypotheses, selected proofs, and stochastic representations of initial
+and boundary/exterior value problems.
+Syllabus and Lecture Allocation
+The allocation assumes 40 teaching sessions of 50 minutes (33 hours 20 minutes). Counts are indicative; worked
+examples and consolidation are included within the topic allocations.
+Module / Topic
+Course Content
+Lectures
+1.
+Review of measure
+theory and probability
+• !-algebras, measures and signed measures, Lebesgue integration, con-
+vergence theorems and L1/L2 estimates. review of Radon–Nikodym
+and Fubini–Tonelli theorems.
+• Review of probability spaces, random variables, distributions, expec-
+tation, conditional expectation: deﬁnition, L2 projection interpretation,
+existence, uniqueness and basic properties.
+4
+2.
+Processes, martingales
+and stopping times
+• Stochastic processes and ﬁnite-dimensional distributions.
+• Filtrations and adapted processes. Discrete- and continuous-time mar-
+tingales, examples.
+• Stopping times and stopped processes, examples.
+3
+3.
+Random walks and
+Brownian motion
+• Random-walk motivation; Brownian motion.
+• Gaussian ﬁnite-dimensional distributions and existence via the Lévy
+construction with selected details. Continuity, scaling and quadratic
+variation.
+• Brownian martingales, Markov property and an introduction to the
+strong Markov property, including Brownian motion in Rn.
+6
+4.
+Itô integration and
+stochastic calculus
+• Construction for elementary adapted integrands and extension in L2;
+Itô isometry.
+• Martingale and continuity properties; stopped integrals and the local-
+ization needed subsequently.
+• Itô processes and Itô’s formula in one and several dimensions; cross
+variations and product rule.
+• Explicit calculations. Itô–Stratonovich comparison may be included
+brieﬂy if time permits.
+8
+1
+
+[Page 2]
+Syllabus and Lecture Allocation (continued)
+Module / Topic
+Course Content
+Lectures
+5.
+Stochastic differential
+equations
+• Strong and weak solutions: deﬁnitions and examples.
+• Strong existence and pathwise uniqueness under global Lipschitz and
+linear-growth assumptions; Picard iteration, moment estimates and sta-
+bility with respect to initial data.
+• Linear SDEs and the integrating-factor method,
+including the
+Ornstein–Uhlenbeck process.
+• Diffusion solution families and their Markov property.
+5
+6.
+Diffusion processes
+and classical PDE
+connections
+• Transition semigroups, generators and stopped Dynkin’s formula.
+• Stochastic representations for Dirichlet/Poisson problems, exit proba-
+bilities and expected exit times.
+• Kolmogorov backward equation; weak forward evolution of diffusion
+laws and the Fokker–Planck density equation under additional hypothe-
+ses.
+• Feynman–Kac with forcing and potential terms. Veriﬁcation, unique-
+ness, positivity and comparison for suitable classical solutions; resol-
+vents as time permits.
+7-8
+7.
+Lévy processes,
+generators and nonlocal
+PDEs
+• Poisson and compound Poisson processes: characteristic functions,
+semigroups and generator derivations.
+• General Lévy processes, Lévy measures and the Lévy–Khintchine for-
+mula; integral generators and small-jump compensation.
+• Isotropic symmetric stable processes, the fractional Laplacian and frac-
+tional heat equations via Fourier transforms and semigroups.
+• Jump exits and overshoot; exterior-value problems, selected maximum
+principles and stochastic representations.
+6
+Total (indicative allocation)
+39-40
+References
+Readings will be drawn from selected chapters and sections of the following references. Øksendal is the main introductory
+text; the other references support the diffusion–PDE and nonlocal blocks.
+1. B. Øksendal. Stochastic Differential Equations: An Introduction with Applications. 6th edition. Springer, 2003.
+2. R. F. Bass. Diffusions and Elliptic Operators. Springer, 1998.
+3. D. Applebaum. Lévy Processes and Stochastic Calculus. 2nd edition. Cambridge University Press, 2009.
+4. R. Cont and P. Tankov, Financial Modelling with Jump Processes, Chapman & Hall/CRC, 2004.
+5. Krzysztof Bogdan, Tomasz Byczkowski, Tadeusz Kulczycki, Micha! Ryznar, Renming Song, and Zoran Vondracek.
+Potential Analysis of Stable Processes and its Extensions. Lecture Notes in Mathematics, Vol. 1980. Springer, 2009.
+6. X. Ros-Oton. “Nonlocal elliptic equations in bounded domains: a survey.” Publicacions Matemàtiques 60(1) (2016),
+3–26.
+Date: 07.10.2026
+Signature of the Proposer:
+Signature of DPGC Convener:
+Course Approved / Not Approved
+Signature of Chairman SPGC
+2

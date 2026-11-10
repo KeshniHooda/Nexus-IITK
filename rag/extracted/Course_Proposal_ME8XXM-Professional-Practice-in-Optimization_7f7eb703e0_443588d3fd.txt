@@ -1,0 +1,87 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course
+
+1.  Course No: ME8xxM (suggested)
+
+2.  Course Title: Professional Practice in Optimization
+
+3.  Per Week Lectures: 3 (L), Tutorial:     (T), Laboratory: _   _(P), Additional Hours[0-2]:    (A),
+
+Credits (3*L+2*T+P+A): 5 _          Duration of Course: Modular [Half a semester]
+
+4.  Proposing Department/IDP : Mech Engg
+
+Other Departments/IDPs which may be interested in the proposed course:
+
+All Engg Departments, Physics, Mathematics, Economics etc.
+
+Other faculty members interested in teaching the proposed course: V R Iyer
+
+5.  Proposing Instructor(s): P Wahi and B Dasgupta
+
+6.  Course Description:
+
+A) Objectives:  This Modular Course strives to take the students trained in the Basic Concepts and Methods of
+Optimization, who are keen to explore further depth and breadth of the field or need more advanced algorithms
+to handle their research problems, up to the professional and advanced levels of nonlinear optimization having a
+competitive edge in generality and efficiency. Further, it also opens further vistas of open problems in
+algorithmic research in optimization.
+
+B) Contents (preferably in the form of 5 to 10 broad titles):
+
+S. No.     Broad Title                               Topics                         No. of
+Lectures
+1.     Introduction             Recapitulation of Basic Concepts and Methods;         2
+Exact (Accurate) and Inexact (Inaccurate) Line Search.
+
+2.   Methods of       Conjugate Direction and Conjugate        5
+Multivariate     Gradient Methods, Quasi-Newton Methods;
+Optimization     Broyden’s Jacobian Update for Solution
+of Nonlinear System of Equations.
+3.    Convex Programming General Theory, Linear and Quadratic Programming.     3
+
+4.    Constrained      Penalty Methods, Primal Methods, Dual   6
+Optimization     Methods, Lagrange Methods.
+
+5.    Advanced Problems     Multimodal, Multi-Objective and Functional Optimization. 2
+
+6.     Special Topics  (as time Some selected problems and methods `outside’ the      2
+permits)                `above’ framework.
+
+C) Pre-requisites, if any (examples: a- PSO201A,or b- PSO201A or equivalent): The companion modular course
+“Basic Nonlinear Optimization” (ME6xxM) or “permission of the instructor”.   (If a student has some other
+course as claimed background, it will be the instructor’s responsibility to ascertain if that is enough.)
+
+[PAGE 2]
+D) Short summary for including in the Courses of Study Booklet: From the basic concepts of optimization
+(which a student is expected to know), this course covers its advanced theory and algorithms up to the frontier
+edges of practice and research; giving motivated students glimpses of their elegance, generality and efficiency.
+
+7.  Recommended books:
+Textbooks:
+(a) ``Linear and Nonlinear Programming’’ by Nash and Sofer.
+(b) ``Linear and Nonlinear Programming’’ by D G Luenberger.
+(c) `Engineering Optimization: Theory and Practice’’ by S S Rao.
+Reference Books:
+(a) ``Numerical Optimization’’ by Nocedal and Wright.
+(b) ``Maxima and Minima without Calculus’’ by  I Niven.
+(c) ``Applied Mathematical Methods’’ by B Dasgupta.
+(d) ``Numerical Recipes’’ by Press, Teukolsky, Vellerling and Flannery.
+(e) ``Practical Methods of Optimization’’ by R Fletcher.
+
+8.  Any other remarks:  [A rich course in optimization methods remains a valued legacy among department/institute students for
+around four decades (possibly longer) in the institute. This enabling/optional attempt to extract out of it a pair of modular courses (ME6xxM
+and ME8xxM) is intended to make/keep it more relevant with time for different sections of its audience, also making it easier to offer for
+instructors in busy semesters.]
+
+Dated:                 Proposer:
+
+Dated:             DUGC/DPGC Convener:                  _
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC
+
+Dated:

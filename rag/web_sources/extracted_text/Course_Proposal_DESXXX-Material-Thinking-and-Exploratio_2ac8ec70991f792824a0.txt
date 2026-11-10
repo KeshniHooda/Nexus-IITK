@@ -1,0 +1,226 @@
+[Page 1]
+Indian Institute of Technology, Kanpur 
+Proposal for a New Course 
+ 
+1. Course No. DESxxx 
+2. Name of the Course: Material Thinking & Exploration for Industrial Design 
+Course Type: Elective (B.Tech/B.S/ M.Des / M.Tech/PhD) 
+3. Per Week Lectures: 02 (L), Tutorial: 0 (T), Laboratory: 3 (P), Additional Hours: 0 
+Credits (2*L+0*T+3P+0*A): 9 Duration of Course: Full Semester 
+4. Proposing Department: Design 
+5. Proposing Instructor(s): Prof. J. Ramkumar and Mr. Girish 
+Course Overview 
+This course introduces material selection and exploration through a designer–engineer lens, 
+combining material science fundamentals with hands-on design thinking. Using Ashby’s approach 
+(function–material–process–shape), students explore traditional and emerging materials including 
+sustainable, bio-inspired, and advanced composites. 
+Course Learning Objectives 
+By the end of the course, students will be able to: 
+• 
+Understand relationships between material properties, processes, and form 
+• 
+Apply Ashby’s material selection methodology in design projects 
+• 
+Evaluate materials based on performance, aesthetics, and sustainability 
+• 
+Explore emerging materials (eco-friendly, smart, bio-based, composites) 
+• 
+Develop material-driven design concepts 
+• 
+Communicate material decisions using charts, samples, and prototypes 
+ 
+6. Course Structure (40 Lectures) 
+Sr. 
+No. 
+Topic Description 
+Remark 
+ 
+Module 1: 
+Introduction to 
+Material 
+Thinking 
+Lecture 1: Material thinking in industrial design 
+
+Lecture 2: Role of materials in product experience (visual, 
+tactile, emotional) 
+Lecture 3: Overview of Ashby approach (Function–Constraints–
+Objectives–Variables) 
+Lecture 4: Market Research & User Needs 
+
+ 
+ 
+Module 2: 
+Materials & 
+Sustainability 
+Lecture 5: Life Cycle Thinking (LCA) 
+ 
+Lecture 6: Eco-friendly and low-impact materials 
+Lecture 7: Circular design principles 
+Lecture 8: Material ethics and responsibility 
+Lecture 9: Product Launch & Lessons Learned
+
+[Page 2]
+Case Study: Sustainable product analysis 
+
+ 
+
+Module 3: 
+Advanced & 
+Emerging 
+Materials 
+ 
+Lecture 10: Emerging material for new Era 
+ 
+Lecture 11: Bio-inspired and bio-based materials 
+Lecture 12: Multifunctional & "Smart" Composites for 
+Designers 
+Lecture 13: Smart & Shape Memory Materials (responsive 
+materials) 
+Lecture 14: Material innovation in industry 
+Activity: Material experimentation workshop 
+
+ 
+
+ 
+Module 4: 
+Material 
+Exploration 
+Studio 
+Lecture 15: Material-Driven Design Process(material discovery, 
+material thinking framework, from through material+ process, 
+concept generation) 
+ 
+Lecture 16: Studio Methods & Exercises (Material First 
+Challenge, Constraint-Led Design, Sensory Mapping with 
+material, Process exploration ) 
+Lecture 17: Integration of Ashby Method (Applied, Not 
+Theoretical) 
+Lecture 18: Tools for Material Thinking (Digital, Physical, 
+Visual) 
+Lecture 19: Hands-on exploration and prototyping 
+Lecture 20: Integration of engineering logic + design sensibility 
+
+ 
+ 
+Module 5: 
+Materials & 
+Their 
+Properties 
+ 
+Lecture 21: Mechanical properties (strength, stiffness, 
+toughness) 
+ 
+Lecture 22: Physical properties (density, thermal, electrical) 
+Lecture 23: Sensory and experiential properties (texture, finish, 
+perception) 
+Activity: Material sample study + sensory mapping 
+
+ 
+
+ 
+ 
+Module 6: 
+Material 
+Families 
+ 
+Lecture 24: Metals – Classification and Types 
+ 
+Lecture 25: Metals – Properties and Design Exploration 
+Lecture 26: Ceramics – Types and Classification 
+Lecture 27: Ceramics – Properties and Design Applications 
+Lecture 28: Wood, Bamboo, and Natural Fibers – Types 
+Lecture 29: Wood, Bamboo, and Fibers – Design Exploration 
+Lecture 30: Polymers – Types and Classification 
+Lecture 31: Polymers – Contemporary Design Applications 
+Lecture 32: Composites and Advanced Ceramics – Overview 
+Lecture 33: Composites and Ceramics – Design Exploration 
+
+ 
+ 
+Module 7: 
+Material 
+Lecture 34: Translating design requirements into material specs 
+ 
+Lecture 35: Performance indices (Ashby method) 
+Lecture 36: Trade-offs: cost vs performance vs sustainability 
+ Tool: Material selection charts and CES-type databases
+
+[Page 3]
+Selection 
+Method 
+ Assignment: Material selection report for a product 
+
+ 
+ 
+Module 8: 
+Manufacturin
+g Processes & 
+Form 
+Lecture 37: Shaping processes: casting, molding, forming, 
+additive manufacturing and new tech. for material printing 
+ 
+Lecture 38: Process–material–form relationship 
+Lecture 39: Design for Manufacturing (DFM) 
+Lecture 40: Process-Material Interaction from designer 
+Prospective 
+
+ 
+ 
+Final Project: 
+Design a product where material is the primary driver, supported 
+by: 
+• 
+Material selection justification (Ashby method) 
+• 
+Sustainability considerations 
+• 
+Prototype / mock-up 
+• 
+Material board 
+
+Total Lectures 
+40 
+*Each module typically includes a small project that requires applying the concepts learned in both 
+the current and previous modules, helping to reinforce understanding and build practical skills. 
+ 
+Pre-requisites, None. Only attentiveness and a willingness to grasp new concepts in material 
+thinking for product, industrial design are desirable. 
+Assessment Scheme 
+Assignments- 20% 
+Mid-semester exam - 20% 
+Final project - 20% 
+End Semester - 40% 
+ 
+References (suggested readings): 
+1. Materials and Design: The Art and Science of Material Selection in Product Design by 
+Michael F. Ashby & Kara Johnson 
+2. Material Matters: New Materials in Design by Thomas Schröpfer 
+3. Materials for Design by Chris Lefteri (Laurence King Publishing) 
+4. Manufacturing Processes for Design Professionals by Rob Thompson 
+5. Sustainable Materials: Processes, Applications and Case Studies by Julian Allwood & 
+Jonathan Cullen 
+6. Biomimicry: Innovation Inspired by Nature by Janine Benyus 
+7. Making It: Manufacturing Techniques for Product Design by Chris Lefteri, 2018 (third 
+edition) 
+8. Industrial Design: Materials and Manufacturing Guide by Jim Lesko, 2nd Revised Edition, 
+2007. 
+9. Universal Principles of Design, by William Lidwell 
+10. Research papers and other reference materials (based on project)
+
+[Page 4]
+Additional References 
+ 
+1. Manufacturing and Design: Understanding the Principles of How Things Are Made – Erik 
+Tempelman 
+2. Materials Science and Engineering: An Introduction – William D. Callister Jr. 
+3. The Design Thinking Playbook (2018), by Michael Lewrick, Larry Leifer, and Patrick Link 
+
+ 
+Dated: 14.04.2026 Proposer: Prof. J. Ramkumar and Mr. Girish 
+ 
+Dated:_____________ DUGC/DPGC Convener: _________ 
+
+ 
+This Course is approved / not approved 
+Chairman, SUGC/SPGC 
+Dated___________________

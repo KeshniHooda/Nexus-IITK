@@ -1,0 +1,235 @@
+[Page 1]
+Indian Institute of Technology, Kanpur 
+Proposal for a New Course 
+1. Course No: A 600 level elective number requested. 
+P~-y
+2. Course Title: Introduction to Quantum Field Theory 
+3. No. of Lectures per week: 3 (L), Tutorial: 1 (T), Laboratory: 0 (P), Additional Hours[0-2]: 0 (A), 
+Credits (3*L+2*T+P+A): 11 
+Duration of Course: Full Semester 
+4. Proposing Department/IDP : PHY. 
+Other Departments/IDPs which may be interested in the proposed course: MTH. 
+Other faculty members interested in teaching the course: Joydeep Chakrabortty, Diptarka Das, Nilay Kundu, 
+Apratim Kaviraj, Debtosh Chowdhury, Sabyasachi Chakraborty. 
+5. Proposing Instructor: Arjun Bagchi (PHY) 
+6. 
+Course Description: 
+A) Objectives: Quantum field theory is the basic framework of understanding the laws of nature and the 
+basic building blocks of the universe. This is fundamental to all branches of theoretical physics starting from 
+condensed matter physics to the theory of elementary particles. This course is a first course on the subject 
+aimed at students who have a background of quantum mechanics and statistical mechanics. 
+B) Contents:
+S. No. 
+Broad Title 
+Topics 
+No. of Lectures 
+1. 
+Introduction and 
+Classical field 
+theory 
+• 
+Why QFT 
+• 
+From point particles to classical fields 
+• 
+Some basics of Lie groups and Lie algebras 
+• 
+Symmetries and Noether's theorem 
+6 
+2. 
+Canonical 
+Quantization of 
+free scalar fields 
+• 
+Klein-Gordon Equation 
+• 
+Simple Harmonic Oscillator 
+• 
+Free Quantum Fields 
+• 
+Complex Scalar Fields 
+• 
+Causality and Propagators 
+7 
+3. 
+Interacting fields 
+• 
+Interaction Picture, Scattering, Wick's Theorem. 
+• 
+Feynman Diagrams and Feynman Rules 
+• 
+Amplitudes, Decays and Cross Sections, Green's Functions 
+• 
+Connected Diagrams and Vacuum Bubbles 
+9 
+4. 
+Fermions and 
+their quantization 
+• 
+Lorentz Group, Clifford Algebras and Spinor Representation 
+• 
+The Dirac Lagrangian and the Dirac equation 
+• 
+Symmetries and Currents, Plane Wave Solutions 
+• 
+Fermionic Quantization 
+• 
+Propagators, Feynman Rules 
+8 
+5. 
+Quantum 
+Electrodynamics 
+• 
+Gauge Invariance and Quantization 
+• 
+Including Matter 
+• 
+Propagators, Feynman Rules 
+• 
+QED Processes. 
+9 
+Total number of lectures: 
+39
+
+[Page 2]
+e C).Are-requisites: PHY421, PHY431, PHY 432, PHY422 (Desirable). 
+Q 
+D) Short summary for including in the Courses of Study Booklet: Quantum field theory is the basic framework of 
+understanding the laws of nature and the basic building blocks of the universe. This is fundamental to all branches 
+of theoretical physics starting from condensed matter physics to the theory of elementary particles. This course is a 
+first course on the subject aimed at students who have a background of quantum mechanics and statistical 
+mechanics. 
+7. Recommended books: 
+• 
+M. Peskin and D. Schroeder: An Introduction to Quantum Field Theory 
+• 
+S. Weinberg: The Quantum Theory of Fields: Vol 1. 
+• 
+M. Scredniki: Quantum Field Theory 
+• 
+L. Ryder: Quantum Field Theory 
+• 
+A. Zee: Quantum Field Theory in a Nutshell. 
+Dated: 31 March 2024. 
+Proposer: Arjun Bagchi 
+C 
+Dated: 31 March 2024 
+DPGC Convener (PHY): 
+The course is approved / not approved 
+br c'l ~r'e
+Chairman, SPGC
+Dated:
+
+[Page 3]
+v 
+p
+ 
+Cd 
+PGDesk-IITK-DOAA 
+From: 
+spgc@iitk.ac.in 
+Sent: 
+23 April 2024 17:09 
+To: 
+dpgc_phy 
+Cc: 
+pgdesk@iitk.ac.in 
+Subject: 
+Re: Fwd: Proposal of a PHY PG elective course 
+@ Raviji - Please do the needful if everything is in order. 
+> Dear SPGC Chairman, 
+>
+ 
+> Please find below link of a PG course that was circulated among all 
+> the faculty members of IITK. No comment has been received. Kindly 
+> process it further as per the established protocol for approval and 
+> allotment of appropriate course number. Thanks. 
+>
+ 
+> Regards, 
+> Sagar 
+>
+ 
+> Cc: Proposing instructor 
+>
+ 
+> ------- Original Message 
+> Subject: Proposal of a PHY PG elective course 
+> Date: 2024-04-01 14:25 
+> From: dpgc_phy <dpgc_phy@iitk.ac.in> 
+> To: Acadstaff <acadstaff@lists.iitk.ac.in> 
+>
+ 
+> Dear Colleagues, 
+>
+ 
+> Please find in the link, 
+> https://iitk.ac.in/doaa/data/NewCourses/Course-proposal-PHY6XX-Introdu 
+> ction-to-Quantum-Field-Theory.pdf, 
+> a proposal for a PG elective course. If you have comments/suggestions, 
+> then please send them as replies to this email (with cc to 
+> abagchi@iitk.ac.in) by 
+>21 April 2024. 
+>
+ 
+> Regards, 
+> Sagar 
+> On behalf of DPGC (PHY) 
+>
+ 
+> P.S.: This course (with number PHY6S1) has been successfully running 
+> for past many years. This proposal only seeks to add a tutorial to the 
+> already existing course. 
+>
+ 
+1 
+O 
+Q
+
+[Page 4]
+Q 
+INDIAN INSTITUTEOF TECHNOLOGY KANPUR 
+POSTGRADUATE OFFICE 
+No. A(P)/IITK/course approval/ 
+June 5, 2024 
+The Convener, DPGC 
+Departments of CE/SEE/PHY 
+IIT Kanpur 
+I am directed to communicate the concurrence of the SPGC (2023-24) in its 9th meeting held 
+on 28/05/2024 for the approval of new PG course proposal. After detailed discussion the 
+following courses were approved. 
+Course No Title 
+Credits 
+Instructor 
+SPGC 
+/Decision 
+CE716 
+Project Management and Control 
+3-0-0-0-9 
+Dr. Chirag Kothari 
+Approved 
+CE718 
+Water resources systems analysis 
+3-0-0-0-9 
+Dr. Tushar Apury 
+Approved 
+CE719 
+Hydrometeorology 
+3-0-0-0-9 
+Dr. TusharApury 
+Approved 
+SEE631 
+Sustainable Forest Management 
+3-0-0-0-9 
+Dr. Ashish Garg 
+Approved 
+PHY685 
+Introduction To Quantum Field Theory 
+3-0-0-0-11 
+Dr. Arjun Bagchi 
+Approved 
+CC: OARS (DOAA Office) For necessary action 
+c
+ 
+Joint Registrar 
+Academic Affairs

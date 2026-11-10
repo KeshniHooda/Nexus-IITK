@@ -1,0 +1,80 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+Proposal for a New Course (Modular)
+
+1. Course No: SPA6** (Modular)
+
+2. Course Title: Space Instrumentation Laboratory - I
+
+3. Lectures per week: 0 (L), Tutorial: 0 (T), Laboratory: 9 (P), Addi-
+tional hours: (0-2): 0 (A), Credits (3*L+2*T+P+A): 5, Duration of
+Course: Half Semester (Modular)
+
+4. Proposing Department: Space Planetary & Astronomical Sciences &
+Engineering (SPASE)
+
+5. Proposing Instructors: Amitesh Omar, Prashant Pathak, Deepak Dhin-
+gra, J. S. Yadav, Avinash Deshpande
+
+6. Others interested in teaching this course: Rohit Sharma
+
+6. Course Description
+
+(A) Objectives: The course aims to provide hands-on experience on
+instrumentation techniques related to astronomy, planetary and space
+sciences and engineering.
+
+(B) Contents (preferably in the form of 5 to 10 broad titles):
+
+Students will be required to complete at least 2 experiments from each
+stream as described here -
+
+1- Detector characterization in X-ray/UV/optical/nearIR; ex-
+periments related to working of CCD, CMOS, PMT, X-ray detec-
+tors etc.
+2. Observing fundamental principles - Coherence, Van-Cittert-
+Zernike theorem, Hanbury Brown intensity interferometer; Double
+slit experiment, Heisenberg uncertainty; Michelson/Fabry-Perot
+interferometer; Faraday eﬀect; Young’s modulus for diﬀerent ma-
+terials.
+3. Spectroscopy and polarimetry techniques - Characteriza-
+tion of ﬁlters, polarizing elements and dispersing elements; Brew-
+ster angle, wave-plates- Spectrometer and polarimetry; spectral
+reﬂectance from surfaces, rocks and minerals in diﬀerent illumi-
+nation conditions; Spectra of various gases and ﬂames  - emis-
+sion/absorption experiment; ﬁbre optics; optical telescopes.
+
+1
+
+[PAGE 2]
+4. Radio detection techniques - Ampliﬁers, mixers, ﬁlters,
+noise  detection, phasing, antennas, RFI mitigation, impedance
+matching, transmission lines.
+
+(C) Pre-requisites:
+
+(D) Short summary for including in the Courses of Study Booklet:
+Experiments modules will consist of experiments related to electro-
+magnetic wave detection and analyses in X-ray/UV/optical/IR/radio
+bands, observing fundamental principals (interference, diﬀraction, co-
+herence etc.), setting up spectroscopy and polarimetry experiments and
+carrying out related measurements applicable in ﬁeld of astronomy,
+planetary and geological sciences.
+
+7. Recommended Books:
+Necessary reading material and instruction documents will be pro-
+vided in the lab.
+
+8. Any other remarks:
+
+Dated:            Proposer: (Amitesh Omar)
+
+Dated:        DUGC/DPGC Convener:
+
+The course is approved/not approved
+
+Chairman, DUGC/DPGC
+
+Dated:
+
+2

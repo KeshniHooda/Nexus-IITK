@@ -1,0 +1,1234 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+	<title>Counselling Service, IITK</title>
+	<link rel="shortcut icon" href="images/logo.png">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+	<script src="js/jquery.min.js"></script>
+	<script src="js/jquery.dropotron.min.js"></script>
+	<script src="js/skel.min.js"></script>
+	<script src="js/skel-layers.min.js"></script>
+	<script src="js/init.js"></script>
+
+	<noscript>
+		<link rel="stylesheet" href="css/skel.css" />
+		<link rel="stylesheet" href="css/style.css" />
+		<link rel="stylesheet" href="css/style-wide.css" />
+		<link rel="stylesheet" type="text/css" href="./slick/slick.css"/>
+		<link rel="stylesheet" type="text/css" href="./slick/slick-theme.css"/>
+
+	</noscript>
+</head>
+<body>
+<!-- Header -->
+<div id="header">
+<!-- Next line is for the mobile version only -->
+	<h1 style = "display:none"><a href="index.php?" id="logo">Counselling Service <em>IIT Kanpur</em></a></h1>
+	<!-- Logo -->
+	<div class = "row 0%">
+		<div class = "4u">
+		    <img src = "images/cs.png" style = "float:left; margin-left:3%;" width = "18%"/>
+		</div>
+		<div class = "4u">
+		    <h1 align = "center" style="font-size:110%"><a href="index.php?">Counselling Service</a><br><a href="http://www.iitk.ac.in" target = "blank"><em>IIT Kanpur</em></a></h1>
+		</div>
+		<div class ="4u">
+		    <a href = "http://www.iitk.ac.in" target = "blank" ><img src = "images/iitk.png" style = "float:right; margin-right:2%" width = "16%"/i></a>
+		</div>
+	</div>
+</div>
+<!--Navbar-->
+<nav id="nav" style ="margin-top:0px;">
+	<ul style = "font-size:100%">
+		<li id = "home" class="current"><a href="index.php?">Home</a></li>
+		<li id = "support">
+			<a href="">Student Support</a>
+			<ul>
+				<li><br></li>
+				<li><a href="index.php?page=academics">Academic Support</a></li>
+				<li><a href="index.php?page=emotional-counselling">Emotional Counselling</a></li>
+				<li><a href="index.php?page=SBF">Student Benevolence Fund</a></li>
+				<li><a href="index.php?page=events">Workshop and sessions</a></li>
+				<li><a href="index.php?page=fitness">General Fitness</a></li>
+			</ul>
+		</li>
+				<li id="Imp"><a href="">Important Info</a>
+		  	<ul>
+				<li><br></li>
+				<li><a href="index.php?page=ug-info">Under-graduate</a></li>
+				<li><a href="index.php?page=pg-info">Post-graduate</a></li>
+		    </ul>
+		</li>
+		<li id = "samvad"> <a href="index.php?page=samvad" style="color:#FFFF00 ;font-size:1.1em" >Samvad</a></li>
+		<li id = "team"><a href="index.php?page=team">Team</a></li>
+		<li><a href="../family_tree/index.html" target = "_blank_">Family Tree</a></li>
+		<!--<li id="futurestudents"><a href="" style="color:#FFFF00 ;font-size:1.1em">New students</a>-->
+		<li id="futurestudents"><a href="">New students</a>
+			<ul>
+				<li><a href="index.php?page=newug">Under-Graduate (BS/B.Tech)</a></li>
+				<li><a href="index.php?page=newpg">Post-Graduate</a></li>
+			</ul>
+		</li>
+		<li id="emer"><b><a href="index.php?page=emergency" style ="color:#FF0000; font-size:1.1em">Emergency</a></b></li>
+	</ul>
+</nav>
+<script type="text/javascript">
+//FOR NAVIGATION BAR
+	var fixmeTop = $('#nav').offset().top;       // get initial position of the element
+	var fixmeTop2 = $('#heading_events').offset().top;
+
+	$(window).scroll(function() {                  // assign scroll event listener
+		var currentScroll = $(window).scrollTop(); // get current position
+		if (currentScroll >= fixmeTop) {           // apply position: fixed if you
+			$('#nav').css({                      	// scroll to that element or below it
+			      padding: '0',
+			      position: 'fixed',
+			      left: '0',
+			      width: '100%'
+			});}
+		else {                                   // apply position: static
+			$('#nav').css({                      // if you scroll above it
+			    position: 'static'
+			});
+		}
+		});
+</script>
+
+			<section class="wrapper style1">
+				<div class="container">
+					<div class="row 200%">
+						<div class="3u 5u(narrower)">
+							<div id="sidebar">
+									<section>
+										<ul class="summer"><a href="#" onclick="return false;" class="list active">Summer Oppurtunities</a>
+											<ul class="links" style="list-style-type:circle;">
+											<a href="#" onclick="return false;"><li id="rsrch">Research Oppurtunities</li></a>
+											<a href="#" onclick="return false;"><li id="rdng">Personality Grooming</li></a>
+											<a href="#" onclick="return false;"><li id="lts">Learning Technical Skills</li></a>
+											<a href="#" onclick="return false;"><li id="nlts">Learning non - Technical Skills</li></a>
+											<a href="#" onclick ="return false"><li id="etip">Entrepreneurial Internship</li></a>
+											<a href="#" onclick ="return false"><li id="upwl">Reduce Upcoming Workload</li></a>	
+											<a href="#" onclick ="return false"><li id="chill">Relax a Bit!</li></a>	
+											</ul>
+										</ul>
+										<ul class="acad"><a href="#" onclick="return false;" class="list">Academics</a>
+											<ul class="links" style="list-style-type:circle;">
+												<a href="#" onclick="return false;"><li id="credit">Credits System</li></a>
+												<a href="#" onclick="return false;"><li id="grade">Grades</li></a>
+												<a href="#" onclick="return false;"><li id="spi">SPI & CPI Calculation</li></a>
+												<a href="#" onclick="return false;"><li id="perform">Inadequate Academic Performance</li></a>
+												<a href="#" onclick="return false;"><li id="dual">Dual Degree</li></a>
+												<a href="#" onclick="return false;"><li id="req">Graduation Requirements</li></a>
+											</ul>
+										</ul>
+										<ul class="bc"><a href="#"  onclick="return false;" class="list">Branch Change</a>
+											<ul class="links" style="list-style-type:circle;">
+												<a href="#" onclick="return false;"><li id="brules">Rules</li></a>
+												<a href="#" onclick="return false;"><li id="bapply">Eligibility & Application</li></a>
+											
+											</ul>
+										</ul>
+
+										<ul class="fee"><a href="#" onclick="return false;" class="list">Fee and Dues</a>
+											<ul class="links" style="list-style-type:circle;">
+												<a href="#" onclick="return false;"><li id="insti">Institute fee</li></a>
+												<a href="#" onclick="return false;"><li id="mess">Mess Fee</li></a>
+											</ul>
+										</ul>
+										
+                                                                                <ul class="leave"><a href="#" onclick="return false;" class="list">Academic Leave</a>
+											<ul class="links" style="list-style-type:circle;">
+												<a href="#" onclick="return false;"><li id="lrules">Leave Rules</li></a>
+												<a href="#" onclick="return false;"><li id="lapply">How to Apply</li></a>
+											</ul>
+										</ul>
+                                                                                
+                                                                                <ul class="pre-reg"><a href="#" onclick="return false;" class="list"><div id="reg">Pre-Registration</div></a>
+											<ul class="links" style="list-style-type:circle;">
+												<a href="#" onclick="return false;"><li id="oars">OARS Basics</li></a>
+												<a href="#" onclick="return false;"><li id="template">Departmental Template</li></a>
+												<a href="#" onclick="return false;"><li id="eso">ESO/SO Requirements</li></a>
+												</ul>
+										</ul>
+										<ul class="scholar"><a href="#" onclick="return false;" class="list">Scholarships</a>
+											<ul class="links" style="list-style-type:circle;">
+											<a href="#" onclick="return false;"><li id="mcm">Merit-cum-Means</li></a>
+											<a href="#" onclick="return false;"><li id="basic">Free Basic Mess and Pocket Allowance</li></a>
+											<a href="#" onclick="return false;"><li id="inspire">INSPIRE</li></a>
+											<a href="#" onclick="return false;"><li id="sbf">SBF</li></a>
+											<a href="#" onclick="return false;"><li id="sports">Sports Scholarship</li></a>
+											<a href="#" onclick="return false;"><li id="aditya">Aditya Birla Scholarship</li></a>
+											<a href="#" onclick="return false;"><li id="opjems">OPJEMS</li></a>
+											<a href="#" onclick="return false;"><li id="oth">Others</li></a>
+											</ul>
+                                                                                </ul>
+                                                                                <ul class="dugc"><a href="#" onclick="return false;" class="list"><div id="sugc">SUGC and DUGC</div></a>
+                                                                                </ul>
+										
+										<footer>
+											<a href="index.php?" class="button">Back to home</a>
+										</footer>
+										
+									</section>
+
+							</div>
+						</div>
+						<div class="8u  7u(narrower)">
+							<div id="content">
+
+								<!-- Content -->
+								<div id="intro" class="des">
+
+									<article>
+										<header>
+											<h2>UG Important Information</h2>
+											<p></p>
+										</header>
+
+										<p>The information regarding UG Programme at IITK can be referred here. It comprises of basic academic rules that are most commonly required by a UG student and also some useful information about IITK in general.</p>
+									</article>
+								</div>
+
+								<div id = "credit" style = "display:none" class="des">
+									<article>
+										<header>
+											<h2>Credit System</h2>
+											<p></p>
+										</header>
+									</article>
+									<p>Each course carries a weightage in terms of credits depending upon the number of contact hours per week (lectures and tutorials and/or laboratory hours). 
+									<ul>
+									<li>Lecture: 3 credits per hour</li>
+									<li>Tutorial: 2 credits per hour</li>
+									<li>laboratory: 1 credits per hour</li>
+									</ul>
+									For e.g. <i>ESC101A</i> is comprised of three  1-hour lectures, one 1-hour tutorial and one 3-hour laboratory per week. Therefore, it has total credits equal to 3*3 + 1*2 + 3*1 = 14. 
+									</p>
+									<p><b><i>A student receives credits of a course only if he/she passes it.</i></b></p>
+									<p>
+									<ul style="list-style-type:circle;">
+                                                                            <li>In a semester, a student is allowed to register for 35-65 credits.</li>
+                                                                            <li>Students, who are identified as academically deficient (on Academic Probation) can register for a minimum of 30 credits.<</li>
+                                                                            <li>A student with CPI of 8.5 or higher may request registration for more than 65 credits upto a maximum of 70 credits.The additional course taken will not be counted for computation of CPI/SPI, and  not be counted towards satisfying the graduation requirements. Grades earned in such additional courses will appear on the transcript.</li>
+                                                                            <li>Student will be allowed to take extra course(s) during his/her final year with the consent of the course Instructor(s). The application listing the extra courses along with the reasons for crediting them, should be submitted to the SUGC, duly recommended and forwarded by the DUGC.</li>
+                                                                            <li>A student can register of at most 25 credits in summer term.</li>
+                                                                        </ul>
+                                                                        </p>
+								</div>
+
+								<div id = "grade" style = "display:none" class="des">
+									<article>
+										<header>
+											<h2>Grade System</h2>
+											<p></p>
+										</header>
+									</article>
+									<p>At the end of the semester/summer term, a student is awarded a letter grade in each of his/her courses by taking into account his/her courses performance.
+									
+									<table>
+									<tr> <td><b><i>Grade</i></b></td> <td><b><i>Pointer</i></b></td> <td><b><i>Description</i><b></td>
+									</tr>
+									<tr> <td>A*</td> <td>10</td> <td>Outstanding</td>
+									</tr>
+									<tr> <td>A</td> <td>10</td> <td>Excellent</td>
+									</tr>
+									<tr> <td>B</td> <td>8</td> <td>Good</td>
+									</tr>
+									<tr> <td>C</td> <td>6</td> <td>Fair</td>
+									</tr>
+									<tr> <td>D</td> <td>4</td> <td>Pass</td>
+									</tr>
+									<tr> <td>E</td> <td>2</td> <td>Fail/Exposure</td>
+									</tr>
+									<tr> <td>F</td> <td>0</td> <td>Fail</td>
+									</tr>
+									<tr> <td>S</td> <td>-</td> <td>Satisfactory</td>
+									</tr>
+									<tr> <td>X</td> <td>-</td> <td>Unsatisfactory</td>
+									</tr>
+									<tr> <td>W</td> <td>-</td> <td>Waiver</td>
+									</tr>
+									<tr> <td>I</td> <td>-</td> <td>Incomplete</td>
+									</tr>
+									</table>
+									</p>
+									<p><b>E & F:</b>‘E’ and ‘F’ both are fail grades meaning that the student fails to receive credits of the course. The only difference being ‘E’ grade can be used to satisfy prerequisite criteria.<br/>
+									<b>S & X:</b> Grades ‘S’ and ‘X’ do not carry any numerical equivalence, and are not used for computation of SPI/CPI. Grade ‘S’ implies that the student has earned the credits. Grade ‘X’ implies that the student has failed in the course.<br/>
+                                                                        <b>W(Waiver):</b>  This grade is awarded when a student earns credits at another institution and the SGUC decides to waive similar credits from his/her programme. This grade is not to be used for computation of SPI/CPI.<br/>
+                                                                        <b>I(Incomplete)</b>:A student may be awarded the grade ‘I’ (Incomplete) in a course if s/he has missed, for a genuine reason, a minor part of the course requirement but has done satisfactorily in all other parts. An ‘I’ grade must, however, be converted by the Instructor-in-charge into an appropriate letter grade and communicated to the undergraduate office by the last date specified in the Academic Calendar. Any outstanding ‘I’ grade after this date shall be automatically converted into ‘F’ grade.<br/>
+                                                                        <b>Project Grade</b>:  An ‘I’ grade will not be given for mere non-completion of project due to lack of facilities, etc. An ‘I’ grade may be given only on medical grounds<br/>
+                                                                        </p>
+                                                                        </p>
+                                                                        <b>Grade change</b>: A letter grade once awarded can be changed if the request is made by either the Instructor-in-charge or another Instructors/Tutors and is approved by the Chairman, Senate. Any such request for change of grade must be made within six weeks of the start of the next semester.</p>
+								</div>
+
+								<div id = "spi" style = "display:none" class="des">
+									<article>
+										<header>
+											<h2>SPI Calculation</h2>
+											<p>Semester Performance Index</p>
+										</header>
+									</article>
+									<p>If the grade points associated with the letter grades awarded to a student are g1, g2, g3, g4 and g5 in five courses and the corresponding credits are c1, c2, c3, c4 and c5, the SPI is given by:<br/>
+									<i><center> $$SPI = {c1*g1+c2*g2+c3*g3+c4*g4+c5*g5 \over c1+c2+c3+c4+c5}.$$ </center></i>
+									</p>
+									<p><b><i>‘S’ and ‘X’ grades shall not be considered in the computation of the SPI.</i></b></p>
+									
+									<article>
+										<header>
+											<h2>CPI Calculation</h2>
+											<p>Cumulative Performance Index</p>
+										</header>
+									</article>
+									<p>It is computed in the same manner as the SPI, considering all the courses (say, n), and is given by:</br>
+									<i><center> $$CPI = { \sum{c_i*g_i} \over \sum{c_i} }.$$</center></i>
+									</p>
+									<b>Whenever a student is permitted to repeat or substitute a course, the new letter grade replaces the old letter grade in the computation of the CPI, but, both the grades are there on his/her Grade Report.</b>
+								</div>
+
+								<div id = "perform" style = "display:none" class="des">
+                                                                         <article>
+										<header>
+											<h2>For B.Tech/B.S. Y13 and later batch</h2>
+											<p></p>
+										</header>
+									</article>
+									<p>The following image explains the AP/WR/Termination criteria in a simpler way:</br>
+									<img src="images/Academic.jpg" />
+									<b>Warning:</b><br/>
+                                                                        A student is placed on warning if his/her SC and/or TC at the end of a regular semester are as follows: <br/>
+                                                                        <center>
+                                                                        SC ≥ 30 and (24+N)*N ≤ TC < 36*N<br/>
+                                                                                        OR <br/>
+                                                                            SC < 30 and TC ≥ 36*N
+                                                                        </center>
+                                                                        <b>Academic Probation:</b><br/>
+                                                                        A student of is placed on Academic Probation if his/her SC and/or TC at the end of a regular semester are as follows:<br/>
+                                                                        <center>
+                                                                                                                                SC ≥ 30 and TC < (24+N)*N <br/>
+                                                                                                                                            OR <br/>
+                                                                                                                            SC < 30 and (24+N)*N ≤ TC < 36*N 
+                                                                        </center>
+                                                                        A B.Tech/BS student of Y13 and onward batches under AP/WR is required to sign an undertaking incorporating the following terms and conditions: <br/>
+                                                                        <b>(i)</b> He/she shall register for all courses (if available) in which the letter grade F is obtained,<br/>
+                                                                        <b>(ii)</b> He/she shall not hold any office in the Hall of Residence, Students Gymkhana or any other organization/body during Warning.<br/>
+                                                                        <b>(iii)</b> Any other term/condition laid down by SUGC/Senate.<br/> 
+                                                                        The parents/guardian will be requested to countersign the undertaking. If a student is unable to meet the terms/conditions due to some genuine reasons, he/she must indicate this to the DUGC/SUGC before the semester ends.<br/><br/>
+                                                                        <b>Termination:</b><br/>
+                                                                        Academic programme of a student may be terminated by the Senate under the following conditions: 
+                                                                        <b>(i)</b> If he/she is on Academic Probation in the immediately preceding semester and falls under following criteria: 
+                                                                                <center>                                        SC<30 and TC<(24+N)*N </center><br/>
+                                                                        <b>(ii)</b> Is absent without authorized leave of absence for a major part of the semester and does not appear in the end-semester examination of all the courses in which he/she is registered.<br/>
+                                                                        <b>(iii)</b> Fails to report and register by the last date of registration without any bona fidé reason.<br/> 
+                                                                        <b>(iv)</b> Involves himself/herself, in violation of the code of conduct, in ragging, etc. and the Senate-Student Affairs Committee (S-SAC)/ a special Institute committee makes a recommendation to that effect.<br/>
+									</p>
+									<article>
+										<header>
+											<h2>For B.Tech/B.S. Y11 and Y12 batch</h2>
+											<p></p>
+										</header>
+									</article>
+									<p><b>Warning</b>:<br/> Warning is not applicable for B.Tech/BS Y11 and Y12 batches.<br/>
+                                                                        <b>Academic Probation</b>:<br/> A student of will be placed on Academic Probation if he/she does not obtain a passing grade in at least 75% of the cumulative normal load, calculated with normal load defined as 50 credits per semester. However, for students in the first semester of their programme, the minimum requirement of credits to be cleared will be 35 credits.
+                                                                        <br/><br/>
+                                                                        The following conditions shall be applicable to students on Academic Probation:<br/>
+                                                                        <b>(i)</b> He/she shall register for all CORE/compulsory courses (if available) in which the letter grade E/F/X is obtained.<br/> 
+                                                                        <b>(ii)</b> He/she shall not hold any official position or represent the institute in any extra-curricular activities during the period of academic probation. <br/>
+                                                                        <b>(iii)</b> He/she shall submit an undertaking ensuring good academic conduct.<br/>
+                                                                        <b>(iv)</b> Any other terms/conditions laid down by the SUGC/Senate. <br/><br/>
+                                                                        The parents/guardian will be requested to countersign the undertaking. If a student is unable to meet the terms/conditions due to some genuine reasons, he/she must indicate this to the DUGC/SUGC before the semester ends<br/><br/>
+                                                                        <b>Termination</b>:<br/>
+                                                                        The academic programme of a student of may be terminated by the Senate under the following conditions: <br/>
+                                                                        <b>(i)</b> He/she is on academic probation and fails to acquire 50% of the cumulative normal load up to that semester calculated with normal load defined as 50 credits per semester. For credit calculation only the semesters the student is registered in, will be used. <br/>
+                                                                        <b>(ii)</b> Is absent without authorized leave of absence for a major part of the semester and does not appear in the end-semester examination of the courses in which he/she is registered. <br/>
+                                                                        <b>(iii)</b> Fails to report and register by the last date of registration without any bona fidé reason.<br/> 
+                                                                        <b>(iv)</b> Involves himself/herself, in violation of the code of conduct, in ragging, etc. and the Senate-Student Affairs Committee (S-SAC)/ a special Institute committee makes a recommendation to that effect.
+                                                                        </p>
+                                                                       
+									<article>
+										<header>
+											<h2>Appeal Against Termination</h2>
+											<p></p>
+										</header>
+									</article>
+									<p>A Student whose programme is terminated may appeal to the Chairman, Senate, for re-instatement in the programme. In cases of termination due to inadequate academic performance, the student should clearly explain causes for the poor performance, including why those causes will not adversely affect his/her performance in future. The senate shall take a final decision after considering all the available inputs. However, the Senate may not entertain any further appeal(s) for review unless substantial additional information is brought to its notice.</p>
+                                                                </div>
+                                                                <div id = "req" style = "display:none" class="des">
+                                                                         <article>
+										<header>
+											<h2></h2>
+											<p></p>
+										</header>
+									</article>
+									<p><h2>Residency Period:</h2>
+									<table>
+									<tr> <td><b>Academic Programme</b></td> <td><b>Minimum Residency Period (semesters)</b></td> <td><b>Maximum Residency Period
+(Semesters)</b></td> 
+									</tr>
+									<tr> <td>Btech/BS</td> <td>7</td> <td>12</td>
+									</tr>
+									<tr> <td>Dual Degree</td> <td>9</td> <td>15</td>
+									</tr>
+									<tr> <td>Double Major</td> <td>9</td> <td>15</td>
+									</tr>
+									</table>
+									<ul style="list-style-type:circle;"> 
+									<li>The minimum and maximum residence requirements will include any semester(s) that a student is registered at IITK and semester(s) he/she may have spent as a non-degree student at some other Institution while still pursuing an academic programme at IITK.</li>
+                                                                        <li>A student failing to complete the programme even within the maximum duration specified may be allowed by the Senate to continue depending on the merits of the case.</li>
+                                                                        <li>Senate may grant relaxation in the prescribed minimum residence and/or academic requirements to a student in view of the work done by him/her in the Institute or elsewhere, to the extent considered appropriate according to the merit of the case.</li>
+                                                                        </ul>
+                                                                        </p>
+                                                                        <p><h2>Academics:</h2>
+                                                                        A student is required to complete successfully all the courses/credits of the curriculum prescribed for his/her undergraduate programme and attain a minimum level of academic performance, i.e., obtain a minimum CPI/Credits as under(for B.Tech/BS Program):
+                                                                        <table>
+                                                                        <tr><td><b>Department</b></td><td><b>Minimum Credits Requirement</b></td>
+                                                                        </tr>
+                                                                        <tr><td>AE</td><td>419</td>
+                                                                        </tr>
+                                                                        <tr><td>BSBE</td><td>410</td>
+                                                                        </tr>
+                                                                        <tr><td>CHE</td><td>415</td>
+                                                                        </tr>
+                                                                        <tr><td>CE</td><td>426</td>
+                                                                        </tr>
+                                                                        <tr><td>CSE</td><td>402</td>
+                                                                        </tr>
+                                                                        <tr><td>EE</td><td>428</td>
+                                                                        </tr>
+                                                                        <tr><td>MSE</td><td>421</td>
+                                                                        </tr>
+                                                                        <tr><td>ME</td><td>425</td>
+                                                                        </tr>
+                                                                        <tr><td>CHM</td><td>413</td>
+                                                                        </tr>
+                                                                        <tr><td>ECO</td><td>419</td>
+                                                                        </tr>
+                                                                        <tr><td>MTH</td><td>420</td>
+                                                                        </tr>
+                                                                        <tr><td>PHY</td><td>409</td>
+                                                                        </tr>
+                                                                        </table>
+                                                                        Other Important Points:<br/>
+                                                                        <b>(a)</b> Satisfied additional requirements, if any, of the concerned department,<br/> 
+                                                                        <b>(b)</b> paid all dues to the Institute and the Halls of Residence, and <br/>
+                                                                        <b>(c)</b> no case of indiscipline is pending against him/her.
+                                                                        </p>
+
+								</div>
+
+								<div id = "dual" style = "display:none" class="des">
+									<article>
+										<header>
+											<h2>Dual Degree Programme</h2>
+											<p></p>
+										</header>
+									</article>
+									<p>
+									There are three categories under Dual Degree Programme:<br/>
+									<b>Category A</b>: Migration to PG Part of one’s own Department.<br/>
+                                                                        <b>Category B</b>: Migration to PG Part of other Department.<br/>
+                                                                        <b>Category C</b>: Students admitted to the B.Tech./ B.S. program opting for an MBA.<br/>
+                                                                        </p>
+                                                                        <p>
+                                                                        Currently Available options under Dual Degree Programme:<br/>
+                                                                        <b>Category A</b>: Offered by all departments offering Btech/BS programme.<br/>
+                                                                        <b>Category B:</b>(see table below)
+                                                                        <table>
+                                                                        <tr> <td><b>Academic Programme</b></td> <td><b>Parent Department (Bachelors in)</b></td> <td><b>Other Department (Masters in)</b></td>
+                                                                        </tr>
+                                                                        <tr> <td>B.Tech-M.Tech</td> <td>AE, BSBE, CHE, CE, CSE,<br/> EE, ME, MSE, ES</td> <td>AE, BSBE, CHE, CE,<br/> ME, MSE, M.DES.</td>
+                                                                        </tr>
+                                                                        <tr> <td>B.S-M.S</td> <td>CHM, ECO, MTH, PHY</td> <td>CHM, ECO, MTH, STA</td>
+                                                                        </tr>
+                                                                        <tr> <td>B.Tech-M.S</td> <td>AE, BSBE, CHE, CE, CSE,<br/> EE, ME, MSE, ES</td> <td>CHM, ECO, MTH, STA</td>
+                                                                        </tr>
+                                                                        <tr> <td>B.S-M.Tech</td> <td>CHM, ECO, MTH, PHY</td> <td>AE, BSBE, CHE, CE,<br/> ME, MSE, M.Des.</td>
+                                                                        </tr>
+                                                                        </table>
+                                                                        <b>Category C:</b>(see table below)
+                                                                        <table>
+                                                                        <table>
+                                                                        <tr> <td><b>Academic Programme</b></td> <td><b>Parent Department (Bachelors in)</b></td> <td><b>Other Department (Masters in)</b></td>
+                                                                        </tr>
+                                                                        <tr> <td>B.Tech-MBA</td> <td>AE, BSBE, CHE, CE, CSE,<br/> EE, ME, MSE, ES</td> <td>MBA</td>
+                                                                        </tr>
+                                                                        <tr> <td>BS-MBA</td> <td>CHM, ECO, MTH, PHY</td> <td>MBA</td>
+                                                                        </tr>
+                                                                        </table>
+                                                                        <b>Academic Load and proposed road-map:</b> <br/>
+                                                                        <b>a)</b> Dual Degree students should be allowed to use the OE slots, and overloads, in consultation with DUGC convener of the parent department and the host department for the PG part of the programme. The overloads and use of OE slots, to complete the course work, should be allowed from the time the student is given the program change.<br/>
+                                                                        <b>b)</b> A student opting for the dual degree programme will not be allowed to do dual major. This is to allow for a smoother management of course work, and to reduce clashes and difficulties with placement of courses by departments.<br/>
+                                                                        <b>c)</b> OARS should allow registration for mandatory laboratory courses, if any, if the instructor arranges alternate times for the program change students – without changing the normal schedule of the laboratories. <br/>
+                                                                        <b>d)</b> The program change students should be allowed to take relevant courses in the Summer term (up to 23 credits) after the eight semester, if offered.<br/>
+                                                                        <br/>
+                                                                        <b>Programme change rules governing various categories:</b><br/><br/> 
+
+                                                                        <u>i) For dual degree, Category – A</u> <br/>
+                                                                        <b>a)</b> Students can apply for program change to Dual degree from after completion of their fifth semester to the beginning of their eight semester of their UG program. (Only the semesters that the student is registered are counted, excluding semester drops.) <br/>
+                                                                        <b>b)</b> Application for program change should be made to the Chairman, SUGC, through the DUGC convener of the parent department.<br/> 
+                                                                        <b>c)</b> The students should have a minimum CPI of 6.0, at the time of applying. <br/>
+                                                                        <b>d)</b> The student should have cleared all current nonOE credits of the parent department, as per the undergraduate template of the department, at the time of applying. <br/>
+                                                                        <b>e)</b> Migration to the M.Tech./M.S. part of the program will be done only when the student has completed all the mandatory credit requirements from the undergraduate part of the programme up to the seventh semester. <br/>
+                                                                        <b>f)</b> The M.Tech./M.S. part of the program change will be withdrawn if the student accumulates more than 40 credits of backlog by the end of the eight semester.<br/>
+                                                                        <b>g)</b> Request for withdrawal from the M.Tech./ M.S. part of the program will be entertained at anytime during the course of the UG/PG program. The request should be made to the Chairman, SUGC, through the DUGC convener of the department.<br/> <br/>
+                                                                        <u>ii) For dual degree, Category – B & C</u><br/> 
+                                                                        <b>a)</b> Students wanting to opt for an M.Tech./M.S. program in a department that is not his/her parent department or for MBA/M.Des. program can apply at the end of the sixth semester of their academic program. age 35 | 40 UG Manual Version: 4 (Updated: 2015-04-30)<br/> 
+                                                                        <b>b)</b> Application for program change should be made to the Chairman, SUGC, through the DUGC convener of the parent department.<br/> 
+                                                                        <b>c)</b> The student should have no backlogs, with respect to the UG template of their parent department, at the time of application.<br/> 
+                                                                        <b>d)</b> The student should have a minimum CPI of 6.0 at the time of application. Dual degree option should be given against the desired options, according to availability of seats and CPI of the student. Some departments may implement additional norms, for example, interviews or written tests for students wishing to pursue the PG program.<br/>
+                                                                        <b>e)</b> Migration to the PG program will be done only after all credit requirements for an undergraduate degree in the parent department are completed. <br/>
+                                                                        <b>f)</b> Request for withdrawal from the MBA/M.Des. part of the program will be entertained at any time during the course of the UG/PG program. The request should be made to the Chairman, SUGC, through the DUGC convener of both the departments.<br/>
+                                                                        <b>g)</b> The PG part of the program change will be withdrawn if the student accumulates more than 40 credits of backlog by the end of the eight semester.<br/>
+                                                                        
+								</div>
+
+								<div id = "brules" style = "display:none" class="des"> 
+									<article>
+										<header>
+											<h2>Branch Change Rules</h2>
+										</header>
+									</article>
+									<p>A student may be allowed a change of branch/programme after the end of 2nd, 3rd or 4th semester on the basis of his/her academic performance after the first 2 semesters, subject to strength constraints of the departments, using the guidelines given below :
+									<ul style="list-style-type:circle;">
+									<li>The privilege of branch change can be used at most once in a programme.</li><br/>
+									<li>No programme may exceed the larger of E and S+2*, where E is its existing and S is the sanctioned strengths or fall below 55% of its sanctioned strength as a result of these changes. </li><br/>
+									<li>As many branch/programme changes as possible may be granted in decreasing order of CPI to applicants, subject to eligibility and strength constraints of the programmes. </li><br/>
+									<li>CPI and credit calculations will be based on all courses specified in advisory template of the first year. In case a particular course has been attempted more than once, the grade obtained in the first attempt will be counted.
+									</li><br/>
+									</ul>
+									</p>
+								</div>
+
+								<div id = "bapply" style = "display:none" class="des">
+									<article>
+										<header>
+											<h2>Eligibility criteria</h2>
+											<p>at the end of II, III & IV Semester</p>
+										</header>
+									</article>
+									<p>
+									<ul style="list-style-type:circle;">
+									<li>Students who aspire for a branch/programme change must ensure that they have acquired credits for all first year courses where S/X grades are awarded.</li><br/>
+									<li>Seats fallen vacant in the parent department due to seats created in other department for branch change of the student securing 10.0 CPI will be considered as vacant for the purpose of branch change.</li><br/>
+									<li>Seats fallen vacant in the parent department due to tie among two or more students given branch change/ Permanent withdrawal by any student or due to death of any student will be considered as vacant for the purpose of branch change.</li><br/>
+									<li>Seat of terminated student will be considered as vacant for the purpose of branch change only after Senate has turned down his/her appeal or the student has not appealed.</li><br/>
+									<li>Extra seats created for students securing 10.0 CPI and/or for allotting to the students among tie, shall not be added to the actual sanctioned strength for the purpose of branch change.</li>
+									</ul>
+									</p>
+								</div>
+
+								<div id = "insti" style = "display:none" class="des">
+									<article>
+										<header>
+											<h2></h2>
+											<p></p>
+										</header>
+									</article>
+									<p>The Fee collection system is based according to semester system at IITK. One year Academic duration is divided into three terms according to <a href="http://www.iitk.ac.in/doaa/calendar2015.pdf">Academic Calendar</a> which is published every year:<br/><br/>
+									- Monsoon Semester (July - Dec) (Regular 1st semester of a year)</br>
+									- Winter Semester (Dec - April) (Regular 2nd semester of a year)<br/>
+									- Summer Term (May - July) (Optional 3 month summer term)
+									</p>
+									<p>
+									<b>Institute Fee:</b><br/>
+									Fees has to be paid for each term separately if student want to register for the term. It includes tuition fees, mess establishment charges, hostel rent and registration fee.<br/>
+									Fee structure is different for different batch students, for e.g., the student who has enrolled in the year 2013 may has to pay different amount than the student who has enrolled in the year 2014 in any programme. Also, the fee amounts paid by UG and PG students are different. <br/>
+									The fee structure is made available <a href"http://www.iitk.ac.in/dosa/file/fee_structure_for_2nd_semester_2014-15.pdf">online</a> on <a href="http://www.iitk.ac.in/dosa/">Dosa Website</a> some days before the commencement of each term.
+									</p>
+									<p>
+									Fee has to paid on the specific registration dates, for each programme and batch, mentioned in every year’s Academic calendar. There is also a provision for late registration and fee submission which includes late charge to be paid. Late Registration date is also specific and is mentioned in every year’s Academic Calendar.<br/>
+									<u><b>Mode of payment of Institute fee:</b></u><br/>
+									For every term, the students receive mail from the Dosa regarding the possible mode of payment of the fee for that term. <br/>Here are the common mode of payments that are used in the past:
+									<ul style="list-style-type:circle;">
+									<li>Through Demand Draft</li><br/>
+									<li>Through SBI-icollect</li>
+									</ul>
+									</p>
+                                                        
+                                                                </div>
+
+								<div id = "mess" style = "display:none" class="des">
+									<article>
+										<header>
+											<h2></h2>
+											<p></p>
+										</header>
+									</article>
+									<p>The Fee collection system is based according to semester system at IITK. One year Academic duration is divided into three terms according to <a href="http://www.iitk.ac.in/doaa/calendar2015.pdf">Academic Calendar</a> which is published every year:<br/><br/>
+									- Monsoon Semester (July - Dec) (Regular 1st semester of a year)</br>
+									- Winter Semester (Dec - April) (Regular 2nd semester of a year)<br/>
+									- Summer Term (May - July) (Optional 3 month summer term)
+									</p>
+									<p>Mess Fee is paid each semester based on the consumption of food by the student in the mess. Mess fee has to be deposited in respective hall office before the commencement of each term based on the dues list made available <a href="http://www.iitk.ac.in/dosa/dues-list-2nd-Sem-2014-15.html">online</a> on the <a href="http://www.iitk.ac.in/dosa/">DoSA Website.</a></p>
+									<p>For any clarification regarding Institute fee, contact DoSA office staff. And for clarification regarding Mess fee, contact respective hall office staff.
+									</p>
+								</div>
+
+								<div id = "lrules" style = "display:none" class="des">
+									<article>
+										<header>
+											<h2>Leave Rules</h2>
+											<p></p>
+										</header>
+									</article>
+									<p>
+									<ul style="list-style-type:circle;">
+									<li>
+									For bona fide reasons, a student may be granted leave of absence during the semester by SUGC. The extent of this leave for medical reasons can be a maximum of 10 working days. SUGC may also grant a maximum of 5 working days of leave for any other valid reason.</li><br/>
+                                                                        <li>A student is not granted leave for more than 15 working days during the semester.</li><br/>
+                                                                        <li>The leave of absence in the summer term shall correspondingly be 5 working days (medical), 3(Three) working days (others) and 8(Eight) working days total.</li><br/>
+                                                                        </p>
+								</div>
+								
+								<div id = "lapply" style = "display:none" class="des">
+									<article>
+										<header>
+											<h2>How to Apply</h2>
+											<p></p>
+										</header>
+									</article>
+									<p>You can apply for leave by any one of the following two methods:
+									<ol>
+									<li><i>Through OARS <i>Online</i>:</i>
+									<ul style="list-style-type:circle;">
+                                                                        <li>Login to OARS 6060 portal (current registration), go to Academic Registration section and select Leave form.</li>
+                                                                        <li>Fill up the form and click on ‘Apply for Leave’.</li>
+                                                                        <li>After submitting the form, you must go to UG section in the DOAA office with a proof of the reason for which you are applying for the leave (eg., original copy of medical certificate in case of medical leave).</li>
+                                                                        </ul>
+									</li>
+									<li><i>Manual Application:</i>
+									<ul style="list-style-type:circle;">
+									<li>Take a printout of the leave form from the given link and fill it: <a href="http://www.iitk.ac.in/doaa/OLD/leave_appl.pdf">http://www.iitk.ac.in/doaa/OLD/leave_appl.pdf</a></li>
+                                                                        <li>This form should be addressed to the Chairperson, SUGC, and routed through the DUGC convener of the department. It should be submitted to the Undergraduate office with a proof, if applicable. (eg. original copy of medical certificate in case of medical leave.)</li>
+
+									</li>
+									</ol>
+									</p>
+									<p>
+									Leave of absence may not usually be availed without prior approval of the SUGC, and an application with appropriate documents should be submitted to the SUGC in such cases.
+									</p>
+								</div>
+								
+								<div id = "reg" style = "display:none" class="des">
+									<article>
+										<header>
+											<h2>Pre-Registration Guide</h2>
+											<p></p>
+										</header>
+									</article>
+									<p>In the last month of every semester, students are required to select the courses, they wish to take in their next semester. This is done through the online portal OARS. Through the OARS, a student can apply for the courses, he wishes to take in his next semester. <br/>
+									<b>Tip:</b> Do complete your pre-registration(course requests and form submission) well before the last date to avoid unnecessary hassles (ESO requests may be entertained on a first-come, first-serve basis, Server crashes).</p>
+								</div>
+								
+								<div id = "oars" style = "display:none" class="des">
+									<article>
+										<header>
+											<h2>OARS Basics</h2>
+											<p>for online preregistration</p>
+										</header>
+									</article> 
+									<p>The OARS (Online Academic Registration System) can be accessed using the following links (intra-campus only).<b> To use IITK intranet services from outside the campus, read this article, <a href="http://www.iitk.ac.in/ccnew/index.php/services/ssl-vpn">using IITK intranet from outside</a>.</b>
+									<ul style="list-style-type:circle;">
+									<li><a href="oars.cc.iitk.ac.in:4040">oars.cc.iitk.ac.in:4040</a>, <a href="oars1.cc.iitk.ac.in:4040">oars1.cc.iitk.ac.in:4040</a>, <a href="oars2.cc.iitk.ac.in:4040">oars2.cc.iitk.ac.in:4040</a> :
+									<ol>
+									<li>1. Allows you to request for the courses.</li>
+									<li>2. Course instructor will approve/Reject  the same on the same portal. </li>
+									</ol>
+									</li>
+									<li><a href="oars.cc.iitk.ac.in:4041">oars.cc.iitk.ac.in:4041</a>, <a href="oars1.cc.iitk.ac.in:4041">oars1.cc.iitk.ac.in:4041</a>, <a href="oars2.cc.iitk.ac.in:4041">oars2.cc.iitk.ac.in:4041</a> :
+									<ol>
+									<li>1. Allows the student to check the courses that are offered next semester.</li>
+									<li>2. Plan the courses before pre-registration (i.e. check for clashes in timetable and examination schedule of various courses).</li>
+									</ol>
+									</li>
+									</ul>
+									<p>
+									<b>Note: Links given above are not permanent and can be changed. DOAA sends the correct link every semester before pre-registration through mail.</b>
+									</p>
+									<ul style="list-style-type:circle;">
+									
+									<li>To access these, you must use <b>Internet Explorer browser</b>, with the <b>ironport proxy settings</b> switched on.</li>
+                                                                        
+                                                                        <li>The login-id is your roll no and the default password is also your roll no. which you are advised to change on your first login.</li>
+                                                                        <li>From the OARS portal a student can check all the courses that are being offered in the next semester, the scheduling of these courses, pre-requisites required for each course, instructor/s in-charge of the course.</li>
+                                                                        <li>Students are expected to refer to the <b>Department Templates</b> for choosing courses. </li>
+                                                                        </ul>
+                                                                        <b>Procedure:</b>
+                                                                        <ul style="list-style-type:circle;">
+                                                                        <li>In the <b>Pre-Registration tab</b> (left side column), one can fill the courses(<b>for approval</b>) s/he wants to register for in the next semester.</li>
+                                                                        <li><b>Take note that at this point the student has only applied for the courses and not all course will be approved.</b></li>
+                                                                        <li>Once these courses are approved, s/he can register for the courses.</li>
+                                                                        <li>Also take care that you clear the cookies in Internet Explorer before using OARS.(<a href="http://support.microsoft.com/kb/278835">http://support.microsoft.com/kb/278835</a> ) Not doing so can cause unexpected behaviour in OARS during course requests and registration when multiple requests are made from same computer.</li>
+									</ul>
+									</p>
+								</div>
+								
+								<div id = "template" style = "display:none" class="des">
+									<article>
+										<header>
+											<h2>Departmental Templates</h2>
+											<p>Compulsary Courses Departmental Wise</p>
+										</header>
+									</article>
+									<p>A Department Template is the blueprint of the academic program which a student undergoes at IIT-Kanpur. Every department has it’s own template listing in detail the standard suggested schedule for the student in a semester. The specific credit requirements which need to be fulfilled are also mentioned. There are different timetables for odd and even semester which can be downloaded from the DOAA’s page under the core time-table section. (link provided below) </p>
+									<p>
+									<a href="http://www.iitk.ac.in/doaa/DOAA/Course-Template-B.Tech-BS.pdf">Department Templates </a>
+                                                                        <a href="http://www.iitk.ac.in/doaa/DOAA/coretime.htm">Core Time-Table</a>
+                                                                        </p>
+                                                                        <p>
+                                                                        <b><i>
+                                                                        Please note that the template is just a suggested course schedule and a student is free to change his/her template given that he/she completes all graduation requirements within his period of stay in the campus. But any change a student makes must be done with utmost caution, keeping in mind the future semesters (as many courses may be prerequisites of other courses). As a rule of thumb, compulsory courses should not be tampered with if not absolutely necessary. You can always consult your DUGC before making any changes. 
+                                                                        </i></b>
+                                                                        </p>
+                                                                        <p>
+                                                                        List of DUGC conveners is available at: <u><a href="https://goo.gl/i3wwZd" target="_blank_">List of DUGC conveners</a></u>
+                                                                        </p>
+                                                                        <p>
+                                                                        <b>Elements of a Template:</b>
+                                                                        <ul style="list-style-type:circle;">
+                                                                        <li><b>HSS- Humanities and Social Science courses.</b>
+                                                                        <br/>1. A student must do at least 5 HSS courses - two HSS-I (Level 1) courses and three HSS-II (Level 2) courses.
+                                                                        </li>
+                                                                        <li><b>ESO/SO - Engineering Science Option/ Science Option</b>
+                                                                        <br/>1. There is a certain number of <b>Engineering Science Option (ESO)</b> and <b>Science Option (SO)</b> courses one needs to do for graduation. Depending on the department these courses may be compulsory(fixed) or you may be allowed to select from the basket of all  ESO courses being offered in the current semester. 
+                                                                        <br/>2. Each Department has a total minimum ESO/SO (Compulsory included) credits(approx. 40) for graduation.
+                                                                        <br/>3. A student must complete at least one course of each type (ESO and SO) for graduation.<br/><br/>
+                                                                        The following ESO Courses are being offered in this semester:<br/>
+                                                                        - ESO201A (11): Thermodynamics <br/>
+                                                                        - ESO202A (11): Mechanics of Solids <br/>
+                                                                        - ESO203A (13): Introduction to Electrical Engineering <br/>
+                                                                        - ESO204A (11): Fluid Mechanics and Rate Processes <br/>
+                                                                        - ESO205A (14): Nature and Properties of Materials <br/>
+                                                                        - ESO206A (11): Biotechnology <br/>
+                                                                        - ESO207A (09): Data Structures <br/>
+                                                                        - ESO208A (11): Numerical Methods <br/>
+                                                                        - ESO209A (08): Dynamics  <br/><br/>
+                                                                        The following  SO Courses are being offered in this semester:<br/>
+                                                                        - MSO202a (06): Complex Analysis <br/>
+                                                                        - MSO203b (06): Partial Differential Equations<br/>
+                                                                        </li>
+                                                                        <li><b>DC - Departmental Compulsary Courses</b>
+                                                                        </li>
+                                                                        <li><b>DE - Departmental Electives Courses</b>
+                                                                        
+                                                                        </li>
+                                                                        <li><b>OE - Open Electives Courses</b>
+                                                                        </li>
+                                                                        <li><b>Institute Core Courses</b>
+                                                                        </li>
+                                                                        </ul>
+                                                                        </p>
+								</div>
+								
+								<div id = "eso" style = "display:none" class="des">
+									<article>
+										<header>
+											<h2>ESO/SO Requirements</h2>
+											<p>Elective Science Option/ Science Option</p>
+										</header>
+									</article>
+									<p>
+									<b>Note: The table below was last updated for 2014-2015 II Semester. There may be some changes which are not reflected here. You must cross check it with the latest departmental template.</b>
+									</p>
+									<p>The department wise ESO/SO requirements are as follows:
+									<ul style="list-style-type:circle;">
+									<li>If a course number is written, it means doing that course is compulsory</li>
+                                                                        <li>A hyphen indicates that the template has no ESO/SO’s in that semester</li>
+                                                                        <li>ESO/SO-pick indicates</li>
+									</ul>
+									<b>A student must complete at least 1 course of each type (ESO and SO)</b>
+									</p>
+									<p>
+									<i>Departmental Wise ESO/SO Requirements:</i> <a href="resources/elective.pdf" target="blank">pdf link</a> 
+									<object width="1000" height="800" data="resources/elective.pdf"></object>
+									</p>
+									
+								</div>
+								
+								<div id = "mcm" style = "display:none" class="des">
+									<article>
+										<header>
+											<h2>Merit cum Means Scholarship</h2>
+											<p>for UG Students</p>
+										</header>
+									</article>
+									<p>Students receive full tuition waiver, and pocket allowance of Rs 1000 pm for the duration of the whole academic year in which the student applies for the scholarship.</p>
+									<p><u>Eligibility:</u>
+									<ul style="list-style-type:circle;">
+									<li>Combined annual income of parents should be within certain limits (currently, <i>Rs 6.0 Lakhs</i>).</li>
+                                                                        <li>The recipients must maintain a minimum <i>CPI of 6.5</i>. However, if CPI falls below 6.5 (but remains above 6.0) then pocket allowance is withdrawn.</li>
+									</ul>
+									<u>How to Apply:</u><br/>
+									The application dates are announced via webmail. For application for MCM, the following documents have to be submitted in the SSPC office:
+									<ul style="list-style-type:circle;">
+									<li><i>Parental Income Certificate</i>, clearly stating your parents’ annual income and duly signed by your parents.</li>
+                                                                        <li>One of the following supporting document as evidence for the stated income:<br/>
+                                                                        - <i>SALARIED PERSON(both government and private)</i>: A copy of Form 16 or Income Tax Return Form (ITR) for the latest financial year. 
+                                                                        <br/>- <i>BUSINESSMAN</i>: A copy of Income Tax Return Form (ITR) for the latest financial year.
+                                                                        <br/>- <i>AGRICULTURIST AND OTHERS</i>: Print/type the attached application form on a Rs. 10 stamp paper and have it signed by your parents, countersigned by a Notary public or government official of the rank of Tehsildar and above for the latest financial year.
+									</ul>
+									</p>
+									<p>The documents to be submitted for your parental income proof should be of the latest financial year. Suppose you are applying for the scholarship in 2015, then the document for proof should be for the financial year 2014-15 and an assessment year of 2015-16.
+									</p>
+								</div>
+								<div id = "basic" style = "display:none" class="des">
+									<article>
+										<header>
+											<h2>Free Basic Messing and Pocket Allowance</h2>
+											<p></p>
+										</header>
+									</article>
+									<p>This scholarship can be availed by those who are category (SC/ST) students with annual parental income less than 6 lakhs. Under this scholarship students receive free basic mess bill and a pocket allowance of Rs. 250 pm.</p>
+									<p>
+									<b>How to Apply:</b><br/>
+									The application dates are announced via webmail. Application procedure is same as MCM scholarship.
+									</p>
+								</div>
+								<div id = "inspire" style = "display:none" class="des">
+									<article>
+										<header>
+											<h2>INSPIRE Scholarship</h2>
+											<p>for BS Students</p>
+										</header>
+									</article>
+									<p>Students receive an annual scholarship of Rs.30,000 per semester (Rs. 60,000 annually), along with a research grant of Rs.20,000.</p>
+									<p>
+									<b>Eligibility:</b>
+									<ul style="list-style-type:circle;">
+									<li>Students of B.S programmes within the ALL INDIA RANK (AIR) 10,000 as per Common Merit LIST (CML) in Chemistry, Physics and Mathematics departments are eligible for this scholarship.</li>
+                                                                        <li>This is a merit based scholarship; hence, the recipients must maintain a minimum CPI of 6.0.</li>
+									</ul>
+									<b>How to Apply:</b>
+									<ul style="list-style-type:circle;">
+									Students must submit an undertaking form of INSPIRE Scholarship, stating that the student is not getting any other scholarship, in the SSPC office every semester to apply for this scholarship.
+									</ul>
+									</p>
+								</div>
+								<div id = "sbf" style = "display:none" class="des">
+									<article>
+										<header>
+											<h2>Student Benevolence Fund Scholarship</h2>
+											<p></p>
+										</header>
+									</article>
+									<p>Students' Benevolence Fund (SBF) scholarship is awarded to all the registered students who are not receiving any other financial assistance and are facing financial hardships.<br/> <br/>
+                                                                        <b>How to Apply?</b><br/>
+                                                                        Students can apply online for the SBF scholarship through Office Automation (OA) Portal. The steps are as follows:
+                                                                        <br/>
+                                                                        <br/>1. Visit the IIT Kanpur website <a href="http://www.iitk.ac.in">http://www.iitk.ac.in</a> 
+                                                                        <br/>2. Click on "Centres and Facilities"
+                                                                        <br/>3. Select "Facilities"
+                                                                        <br/>4. Select "Office Automation".
+                                                                        <br/>5. In "Login based services", login to OA portal using your CC login and Password.
+                                                                        <br/>6. Select "Student Profile" and then "Apply scholarship".
+                                                                        <br/>7. Select Scholarship type "SBF" and your personal details will be displayed.
+                                                                        <br/>8. Fill up the fields, which are mandatory (marked with *).
+                                                                        <br/>9. Press "Submit".
+                                                                        </p>
+                                                                        <p>
+                                                                        One of the following supporting documents has to be submitted in the DOSA office as evidence for the stated income:
+                                                                        <ul style="list-style-type:circle;">
+									<li><i>Parental Income Certificate</i>, clearly stating your parents’ annual income and duly signed by your parents.</li>
+                                                                        <li>One of the following supporting document as evidence for the stated income:<br/>
+                                                                        - <i>SALARIED PERSON(both government and private)</i>: A copy of Form 16 or Income Tax Return Form (ITR) for the latest financial year. 
+                                                                        <br/>- <i>BUSINESSMAN</i>: A copy of Income Tax Return Form (ITR) for the latest financial year.
+                                                                        <br/>- <i>AGRICULTURIST AND OTHERS</i>: Print/type the attached application form on a Rs. 10 stamp paper and have it signed by your parents, countersigned by a Notary public or government official of the rank of Tehsildar and above for the latest financial year.
+									</ul>
+									</p>
+									<p>The documents to be submitted for your parental income proof should be of the latest financial year. Suppose you are applying for the scholarship in 2015, then the document for proof should be for the financial year 2014-15 and an assessment year of 2015-16.
+                                                                        </p>
+                                                                        <p>
+                                                                        <b>NOTE</b>: There is no CPI criterion for applying for SBF.
+                                                                        </p>
+                                                                        
+								</div>
+								<div id = "sports" style = "display:none" class="des">
+									<article>
+										<header>
+											<h2>Sports Scholarship</h2>
+											<p></p>
+										</header>
+									</article>
+									<p>Up to 20 scholarships are awarded per year, worth Rs.500 per month, for showing leadership in sports related activities on campus, leading to development, growth and increased participation in various sports activities. Excellence in sports, as shown in performance in Inter-IIT and other external sports meets are also awarded by means of these scholarships. Winners of  medals in annual inter IIT sports meet receive cash prizes of Rs. 1500, 1000 and 500 for winning the Gold,Silver and Bronze medals respectively.<br/><br/>
+									<b>How to Apply</b><br/>
+									The dates for application will be informed via mail. For applying for sports scholarship, the student has to fill the Sports Scholarship form and submit it in the SSPC office.
+									</p>
+								</div>
+								<div id = "aditya" style = "display:none" class="des">
+									<article>
+										<header>
+											<h2>Aditya Birla Scholarship</h2>
+											<p></p>
+										</header>
+									</article>
+									<p>The top 20 students (in terms of their AIR in JEE Advanced) can apply for this scholarship. Some of these students are shortlisted for an interview on the basis of their application. This scholarship is then awarded on the basis of the interview.</p>
+								</div>
+								<div id = "opjems" style = "display:none" class="des">
+									<article>
+										<header>
+											<h2>OPJEMS</h2>
+											<p></p>
+										</header>
+									</article>
+									<p>The Institute nominates the following category of students for this scholarship: 
+									<ul style="list-style-type:circle;">
+									<li>Top 2 students each from <br/>
+                                                                        - Civil Engineering
+                                                                        - Electrical Engineering
+                                                                        - Materials Science and Engineering
+                                                                        - Mechanical Engineering
+                                                                        </li>
+                                                                        <li>Top 12 students across all departments from a batch
+                                                                        </li>
+									</p>
+									<p>The formalities regarding this scholarship are carried out by the Institute authorities and no participation from a student is required. </p>
+									</div>
+								<div id = "oth" style = "display:none" class="des">
+									<article>
+										<header>
+											<h2>Others</h2>
+											<p></p>
+										</header>
+									</article>
+<p>                                                                        
+There are many external scholarships provided by State governments, offices etc., information for which is provided from time to time by the concerned departments. A student must complete the formalities for such external scholarships on his own and contact the SSPC for the formalities required on the part of the Institute. There are also other scholarships such as many Donors’ scholarships, also awarded by the SSPC. A student applying for Merit-cum-means scholarship by submitting his/her Parental Income Certificate will automatically be eligible for these scholarships.</p>
+								</div>
+								<div id = "sugc" style = "display:none" class="des">
+									<article>
+										<header>
+											<h2>SUGC and DUGC</h2>
+											<p></p>
+										</header>
+									</article>
+									<p>
+									<h3>SENATE UNDERGRADUATE COMMITTEE</h3>
+									The <b>Senate Undergraduate Committee (SUGC)</b> is a standing committee of the Senate.  The Chairperson of the SUGC convenes and presides over the meetings. The SUGC has jurisdiction in the following matters concerning the undergraduate programmes of the Institute: 
+									<ul style="list-style-type:circle;">
+									<li>approval of new courses of instruction,  </li>
+                                                                        <li>desirable modifications of courses already approved,</li>  
+                                                                        <li>credit valuation of courses,  </li>
+                                                                        <li>approval of the admission of first year students and others with advance standing,  recommending grant of degrees,</li>  
+                                                                        <li>policy matters related to examinations,  </li>
+                                                                        <li>evaluation of academic performance, and  </li>
+                                                                        <li>such other related matters as may be referred to it by the Senate. </li>
+
+									</ul>
+									The SUGC has two standing sub-committees, namely Core Curriculum Committee (CCC) and Academic Performance Evaluation Committee (APEC), and is assisted by the Departmental Under-Graduate Committees (DUGCs).
+                                                                        <br/>Both these committees make their recommendations to the SUGC. 
+                                                                        <h3>DEPARTMENT UNDERGRADUATE COMMITTEE (DUGC)</h3>
+                                                                        The <b>Department Under-Graduate Committee (DUGC)</b> consists of a convener, the Head of the Department, a minimum of four (4) and a maximum of eight (8) faculty members, and two student representatives for a period of one year. It advises the students in their academic programmes and makes recommendations to the SUGC in all academic matters.
+                                                                        <br/><br/>
+                                                                        <b>List of DUGC Coveners:</b><br/>
+                                                                        DUGC Conveners of all the UG departments are part of the SUGC. <a href="http://www.iitk.ac.in/doaa/data/sugcmember.pdf">Click here</a> for the list of SUGC members. 
+									</p>
+								</div>
+								<div id = "rsrch" style = "display:none" class="des">
+									<article>
+										<header>
+											<h2>Research Oppurtunities</h2>
+										</header>
+									</article>
+									Currently, most of you must be doing a course or two related to your department and must have got a gist of what it is all about. Each department offers <b>great opportunities in diverse fields</b> and a <b>research internship </b>will help you explore and know your department better.
+									<br><br>
+You might be confused about <b>where to apply or which field</b> would be a good option. Generally, you are <b>not expected to have an in-depth knowledge</b> of a topic before asking professors for a summer project. A <b>motivation to learn</b> and some interest is more than enough. It is a good idea to try out any field that fascinates you or maybe just sounds interesting.
+<br><br>
+Your college is your first point of contact to the research world. You could <b>talk to the professors in your department</b> who are working in the area of your interest. Webpages of all the departments have a <b>streamwise list of the faculty</b> along with their research interests. If you find the research work of some professor interesting, you should visit their homepage to find out more. It is a good idea to write a mail, expressing your wish to work under their guidance during summers and asking for a time to meet them in their office. Although visiting their office directly might also work, but some professors consider it inappropriate.
+<br><br>
+Our college offers a limited number of research grants for summer projects at IITK through the <b>SURGE programme</b>. A notification is issued by the <b>mid of even semester</b> giving details regarding the same.You should keep an eye open for it.
+<br><br>
+It is also possible to <b>apply other colleges and universities</b> in India and abroad in a similar manner. However you need to keep in mind that not every professor who is offering you a project might be able to support you financially. Do clarify this point in advance. A few funding programmes are open for 2nd year students, you could also apply to those. <b>Indian Academy of Sciences also offers fellowships</b> for research interns at universities within India. You can visit their website for more details http://www.ias.ac.in/ 
+<br><br>
+It is worth reemphasizing that no prior research experience or skills are required to ask for a project from any professor. Do not shy away from talking to them. Even if they are not able to offer you an internship, they might still give valuable advice and guidance.<br />
+								</div>
+
+								<div id = "rdng" style = "display:none" class="des">
+									<article>
+										<header>
+											<h2>Groom your personality</h2>
+										</header>
+									</article>
+								<p class="c3"><span>We bring to you the next tip for utilising your</span> <span>summers</span><span>&nbsp;fruitfully. This one is focussed on <b>grooming your personality</b> and there are a plethora of ways of which we list a few.</span></p>
+	<p class="c1"><span></span></p>
+	<ol class="c4 lst-kix_s7cxvz5y5ezl-0 start" start="1">
+		<li class="c0"><span class="c5"><b>Reading books :</b></span><span>&nbsp;Why read books?? They help in improving not only your vocabulary but also your cognitive skills. Books help you to experience things that you may not have faced in real life and thus they help you to expand your view of the world around. During the regular semester we do not get enough time to go through our course books (forget books of different genres :P). So summer is the best time. Some genres that could be explored:</span></li>
+	</ol>
+	<p class="c1"><span></span></p>
+	<ol class="c4 lst-kix_u2a4xvgguftw-0 start" start="1">
+		<li class="c0"><span><b>Self-help books:</b> Eat That Frog - Brian Tracy, &nbsp;Who Moved my Cheese - Dr. Spencer Johnson, The Secret - Rhonda Byrne</span></li>
+	</ol>
+	<p class="c1"><span></span></p>
+	<ol class="c4 lst-kix_u2a4xvgguftw-0" start="2">
+		<li class="c0"><span><b>Autobiographies/Biographies:</b> Surely, You&rsquo;re Joking Mr. Feynman - Richard Feynman, My Inventions - Nikola Tesla, Wings of Fire - APJ Abdul Kalam, The Man who Knew Infinity - Robert Kanigel</span></li>
+	</ol>
+	<p class="c1"><span></span></p>
+	<ol class="c4 lst-kix_u2a4xvgguftw-0" start="3">
+		<li class="c0"><span><b>Science Fiction:</b></span> <span>Harry Potter and the Methods of Rationality</span><span>, The Hitchhiker&rsquo;s Guide to the Galaxy - Douglas Adams, Books by Isaac Asimov, Michael Crichton and H.G. Wells, Alchemist</span></li>
+	</ol>
+	<p class="c1"><span></span></p>
+	<ol class="c4 lst-kix_u2a4xvgguftw-0" start="4">
+		<li class="c0"><span><b>Popular Science:</b> Books by Stephen Hawking, Fermat&rsquo;s Enigma - Simon Singh, Logicomix - Apostolos Doxiadis, Cosmos - Carl Sagan, Freakonomics - Steven Levitt, Stephen Dubner</span></li>
+	</ol>
+	<p class="c1"><span></span></p>
+	<ol class="c4 lst-kix_u2a4xvgguftw-0" start="5">
+		<li class="c0"><span><b>History, Politics and General Knowledge:</b> The Wonder that was India - A.L. Basham and a second volume by S.A.A Rizvi, India after Gandhi - Ramachandra Guha, India before Independence, India since Independence - Bipin Chandra, Discovery of India, Glimpses of World History - Jawaharlal Nehru, Argumentative Indian-Amartya Sen</span></li>
+	</ol>
+	<p class="c1"><span></span></p>
+	<p class="c1"><span></span></p>
+	<ol class="c4 lst-kix_bd5dwzb1s7xd-0 start" start="1">
+		<li class="c0"><span class="c5"><b>Blog writing :</b></span> <span>Many of you are enthusiastic about expressing your views on politics, sports, education and what not! So blogging might be the way to go for you people. One important point that we would like to emphasise is that you should not be nervous or self-consous about your writing when you decide to take up blogging. Have faith in your views and your ability to express them. This is the only way one can learn to write.</span></li>
+	</ol>
+
+	<p class="c3"><span>Following are a few major <b>benefits of blogging:</b></span></p>
+	<ul class="c4 lst-kix_933xu6leh3ze-0 start">
+		<li class="c0"><span>It helps you to share your knowledge about any topic that you are passionate about. It may also aid you in finding more people who share your interest, and this is bound to widen your knowledge base.</span></li>
+		<li class="c0"><span>It also helps you to refine your writing skills if you pursue it regularly. This is because you will receive feedback from your readers and along with it some praise is also sure to come by as you improve with time.</span></li>
+	</ul>
+	<p class="c1"><span></span></p>
+	<p class="c3"><span>Now, you might be wondering from where to start. Nowadays there are multiple online &lsquo;how to start a blog&rsquo; guides and online platforms such as Wordpress, Blogger, etc. So all you need to do is <b>make your mind clear</b> on whether you really want to pursue it. If the answer is &lsquo;yes&rsquo; then coming summer is the best time to nurture the &lsquo;blogger&rsquo; in you.</span></p>
+	<p class="c1"><span></span></p>
+	<ol class="c4 lst-kix_bd5dwzb1s7xd-0" start="2">
+		<li class="c0"><span class="c5"><b>Gym/sports</b></span><span class="c5">&nbsp;:</span><span>&nbsp;Most of us think about getting on the treadmill once in a while. But due to our busy schedule from morning till evening during the regular semester, many of us do away with it. Hence, this is the chance for all those aspiring &lsquo;bodybuilders&rsquo; &nbsp;to get into proper shape. <b>Joining a gym</b> (and going regularly :P) will allow you to spend each day with a proper time table. Who knows, sweating at the gym for a month or two might lead to a physique that you had always desired! Apart from this, one should not forget the importance of <b>playing outdoor games</b>. Summer is a good time to indulge in your favourite sport. We are all aware why sports are important. But most of us do not have a habit of playing regularly and that is either due to lack of interest or due to lack of time or we&rsquo;re too tired after our daily routine to exert ourselves anymore than absolutely necessary.This is where we need to change ourselves. Just do away with your electronic gadgets and come out in the summer evenings with your friends and play any sport. <u>We are sure you will not mind having a physically fit body along with those moments of arguments, joy, fun and team spirit!</span></li></u>
+	</ol>
+	<ol class="c4 lst-kix_bd5dwzb1s7xd-0" start="3">
+		<li class="c0"><span class="c5"><b>English writing and speaking skills :</b></span><span>&nbsp;There would be many of you who would love to have a fluent spoken English. As mentioned above, blogging can help you to improve your writing skills. Reading books, newspapers, articles and watching good TV shows/movies can help you build your vocabulary and structure your sentences better.</span></li>
+	</ol>
+	<p class="c1"><span class="c2"></span></p>
+	<p class="c3"><span>At the end we would like to mention that none of the ways</span> <span>mentioned above w</span><span>ould have been unknown to you. Galileo once wrote,</span></p>
+	<p class="c1"><span></span></p>
+	<p class="c3"><span>&nbsp;&ldquo;<b><u>You cannot teach a person something he does not already know; you can only bring what he does know to his awareness.&rdquo;</span></p></b></u>
+	<p class="c1"><span></span></p>
+	<p class="c3"><span>Hence we aimed to bring these points to your awareness so that you give your personality grooming a thought as it always matters in every sphere of life.</span></p>
+	<p class="c1"><span></span></p>
+	<p class="c1"><span></span></p>
+	<p class="c1"><span></span></p>
+	<p class="c1"><span></span></p>
+	<p class="c1"><span></span></p>
+								</div>
+					
+		<div id = "lts" style = "display:none" class="des">
+									<article>
+										<header>
+											<h2>Learning Technical Skills</h2>
+										</header>
+									</article>
+									The next tip we bring you is about acquiring some a set of useful skills, which is yet another great way to spend your summers. They could range from technical skills such as coding to inter-personal skills such as strong communication and team-work. It&rsquo;s a great idea to start developing and sharpening these skills be it at the IITK campus or at home. <br/>
+<b>Algorithmic and logical thinking</b> has nowadays become a quintessential skill and is demanded of engineers and scientists. Programming is a good way to hone that skill. There are various tutorials that can be found online for almost all the major languages (Java, C, HTML, python, MATLAB etc.) and you can take up any one of these. We are providing some referral links for these such as <br/><br>
+<ul style="list-style-type:circle;">
+	<li><a href="https://www.acadaccelerator.com/">https://www.acadaccelerator.com/</a></li>
+	<li><a href="https://www.codecademy.com/">https://www.codecademy.com/</a></li>
+	<li><a href="https://www.codechef.com/">https://www.codechef.com/</a></li>
+	<li><a href="https://in.mathworks.com/support/learn-with-matlab-tutorials.html">https://in.mathworks.com/support/learn-with-matlab-tutorials.html</a></li>
+</ul>
+<b>App and web development </b> (using CSS/Java etc.) is certainly another area to look out for! Also, if you&rsquo;re interested in design, learning <b>Photoshop</b> or <b>Dreamworks</b> will be a good choice. You may also have interests in a lot of subjects that are not offered in the campus. There are courses that are offered online. You can take these up deciding upon your interests setting your own pace of learning. These <b>online courses</b> also come with an official recognition. A few popular sites for online courses are Coursera, edX and NPTEL.<br>
+Certain <b>clubs and organisations</b> (SAE/Aeromodelling Club/ Robotics Club/RuTag/GSoC) of IITK also offer interesting projects which help you to learn technical skills and let you dirty your hands on real life problems. You can contact the club coordinators for more information. You may also look out for courses and projects by departmental societies (such as ACA).<br>
+These skills that you acquire in your summers will certainly be something that you may like to boast about in your resumes. And you never know, some of them might actually help you in your life in general! <br>
+<b>So enjoy your summers and be productive!</b><br>
+<p>&nbsp;</p></div>
+<div id = "nlts" style = "display:none" class="des">
+									<article>
+										<header>
+											<h2>Learning non- Technical Skills</h2>
+										</header>
+									</article>
+									
+										<span style="font-weight: 400;">What would be one of the most casual yet productive ways of spending your summer vacations? It would be learning <b>something new</b> while your stay at home, or even if you are staying at campus for that matter; typically something that has nothing to do with your career choices or long term goals but rather a skill that you always postponed to 'some day...'. These are activities that aren't too much of a burden for your brain and <b>fit perfectly in the theme of holidays and relaxing.</b></span><br>
+&nbsp;<br>
+<span style="font-weight: 400;">It surely would be fruitful in its own unique way, when one day you play guitar for a handful of audience and surprise them with the skills hidden up your sleeve or when you make a new dish for your family. <b>It doesn't only improve your personality considerably, but also makes for an excellent hobby.</b></span><br>
+&nbsp;<br>
+<span style="font-weight: 400;">You can learn anything that you feel like &ndash; a <b>musical instrument, cooking, gardening or a new language</b>. These are skills that you start off by hit-and-trial (if your mom lets you do the trials in the kitchen that is!) With the aid of some tutorials, you will start to progress and would be quite good at the end of the holidays if you show a small amount of <b>consistency</b>. If you have tiniest of desire for learning <b>performing arts</b>, it would be a fantastic idea to go for many a summer programs offered by <b>Gurukuls</b>, across India. You may check out </span><u><a href="http://chinmayanaadabindu.org/"><span style="font-weight: 400;">http://chinmayanaadabindu.org/</span></a></u><span style="font-weight: 400;"> or <u></span><a href="http://www.swaminarayangurukul.org/"><span style="font-weight: 400;">http://www.swaminarayangurukul.org/</span></a><span style="font-weight: 400;"></u>. With the serene environment of the Gurukul along with its sublime guru-shishya parampara, get ready for an ethereal and life lasting experience.<br><br>
+ But even if you can not make it, do not get disheartened! Make <b>internet your school</b>. The tutorial for any musical instrument or cooking can be easily found on youtube. Some instrument specific links are available on Online College Courses (</span><u><a href="http://www.onlinecollegecourses.com/2012/10/07/30-great-places-to-learn-a-new-instrument-online/"><span style="font-weight: 400;">http://www.onlinecollegecourses.com/2012/10/07/30-great-places-to-learn-a-new-instrument-online/</span></a><span style="font-weight: 400;">)</u> . Also, Weekend Gardener (</span><a href="http://www.weekendgardener.net/how-to.htm"><span style="font-weight: 400;"><u>http://www.weekendgardener.net/how-to.htm</u></span></a><span style="font-weight: 400;">) provides comprehensive how-to's of gardening. Some handy go-to places for </u>learning a new language are BBC languages (</span><a href="http://www.bbc.co.uk/languages/index.shtml"></u><span style="font-weight: 400;"></u>http://www.bbc.co.uk/languages/index.shtml</u></span></a><span style="font-weight: 400;">), Duolingo (</span><a href="https://www.duolingo.com/"><span style="font-weight: 400;"><u>https://www.duolingo.com/</u></span></a><span style="font-weight: 400;">) or Babbel (</span><a href="https://www.babbel.com/"><span style="font-weight: 400;"><u>https://www.babbel.com/</u></span></a><span style="font-weight: 400;">) - the latter two also have apps available.</span><br>
+&nbsp;<br>
+<span style="font-weight: 400;">You can also go for other new activities, for example,<b> working in NGOs/ volunteering </b>, such as Smile Foundation, Nanhi kali, Teach for India, Goonj, GiveIndia and HelpAge India. You will be amazed at the novelty of the experience from a volunteering work. The <b>feeling of satisfaction and accomplishment</b> is truly priceless when you see that your actions are helping others, making an impact in their lives and bringing smiles to their faces.</span><br>
+&nbsp;<br>
+<span style="font-weight: 400;">Today, <b><u>all of us are so goal-oriented that we ignore all the dimensions of life that seem to have nothing to do with our career paths</u></b>. But these 'miscellaneous' activities help us grow in their own unique way and are fundamental for our all around development. </span><br>
+&nbsp;<br>
+									
+									</div>
+
+		<div id = "etip" style = "display:none" class="des">
+									<article>
+										<header>
+											<h2>Entrepreneurial Internship</h2>
+										</header>
+									</article>
+									<span style="font-weight: 400;">As emphasised in the first mail, summers can be a great time to explore. Most of you, in your second year, might be confused about your future goals. You might find yourself unable to decide whether you wish to go for a <b>research, or jobs in core or non-core sector</b>. In such a case, you should explore as many of these avenues as possible</span><br>
+<span style="font-weight: 400;">An intern in a <b>startup</b> can be an interesting and exciting learning experience. </span><span style="font-weight: 400;">Start-ups provide an opportunity to think out of the box and give you first hand practical experience of working in various operations of a firm. The work freedom that start-ups provide can be your chance to pitch and work on your own ideas.</span><br>
+<span style="font-weight: 400;"><b>Startup Internship Program</b> or SIP, an initiative by E-cell IITK, </span><span style="font-weight: 400;">is oriented towards providing internships by start-ups for 2nd and 3rd year students. The recruitment procedure starts around the <b>mid of the even semester and goes on till the beginning of summers</b>. The selection procedure varies depending upon the specific startup/company but generally includes a <b>short-listing based on resume, a technical test and an interview</b>.</span><br>
+
+<span style="font-weight: 400;">If you are interested in <b>management sector</b>, you can also try for <b>internship at an IIM</b> or other business schools. Surf through their sites, know your area of interest and email the professor working in that area. In order to apply, you need to send a professor :</span><br>
+
+<ul style="list-style-type:square;">
+<li><span style="font-weight: 400;"> </b>A cover letter</b></span> <span style="font-weight: 400;">which explains your expectations from the internship, your areas of interest , any prior knowledge of the same and a few points on how you would be of help in a similar project or task.</span></li>
+<li><span style="font-weight: 400;"> A <b>C.V./Resume</b></span><strong>` </strong><span style="font-weight: 400;">briefly informing about your academic excellence &nbsp;and notable achievements of &nbsp;present times. </span></li>
+<li><span style="font-weight: 400;"><b>Email Address</b> - You can easily get the email addresses of the professors on the institute website. If you are lucky, you might get a positive response :) </span></li>
+</ul>
+
+<span style="font-weight: 400;">You can also check the department &ldquo;<b>Industrial &amp; Management Engineering(IME)</b>&rdquo; of our institute. If interested, one can approach the IME professors and do a research project (in areas like supply chain, marketing, finance, data analytics) during summers. </span><br>
+<span style="font-weight: 400;">One can look for <b>internship opportunities on sites such as internshala.com</b> which offers not only internship searching and posting but </span><span style="font-weight: 400;">other career services such as counselling, cover-letter writing, resume building and training programs to students.</span><br>>
+									</div>
+				<div id = "upwl" style = "display:none" class="des">
+									<article>
+										<header>
+											<h2>Reduce Upcoming Workload</h2>
+										</header>
+									</article>
+				<p dir="ltr"><span><b>We bring to you the next tip on how to spend your summers.</b></span></p>
+Summer break is a long period, so why not utilise it to bring yourself closer to your career goals?</br></br>
+It is a good idea to spend your summers at IIT Kanpur and <b>choose from a plethora of courses offered</b> at the campus. The list of courses comes some time after the end of the pre-registration for the odd semester. &nbsp;Doing courses in summer has multiple advantages, to list a few:</br></br>
+<ul style="list-style-type:square;">
+<li><span style="font-weight: 400;">
+If you are <b>interested in a topic/subject which you wish to pursue</b> or just explore (Computational Fluid Dynamics/ Signal Processing/ Topology/ Linguistics etc.), then doing &nbsp;a related course is the best way to gauge your interest. Later, you could designate that course as an OE(<b>Open Elective</b>).
+</li>
+<li><span style="font-weight: 400;">
+Summer courses are really useful when you can not do the <b>same courses in the regular semesters due to clashes</b>. Alternately, you may do a <b>compulsory course in the summers</b> in order to avoid a clash from the desired course which you want in the regular semesters. Also, if you've a <b>hectic semester ahead, it will reduce the load</b>!
+</li>
+<li><span style="font-weight: 400;">
+If you have a <b>backlog in some course</b> and it is being offered in summers, there will not be a better opportunity to clear it.  :)
+</li>
+</ul>
+
+Some of you would have very specific career goals in mind which involve clearing competitive exams like <b>civil services examination or CAT</b>. Here, we bring you few tips which will initiate you into the process. </br></br>
+
+For <b>civil services examination</b>, </span><span>you can start exploring the syllabus and the reference books . For that, you may look up some sites where you can get some insight about where to begin and hear from the exam toppers. Some well known sites for IAS preparation are </span><a href="http://mrunal.org/"><span>http://mrunal.org/</span></a><span>, </span><a href="http://www.insightsonindia.com/"><span>http://www.insightsonindia.com/</span></a><span>, </span><a href="https://unacademy.in/"><span>https://unacademy.in/</span></a><span>. &nbsp;Moreover, as <b>reading newspapers regularly</b> is one of the most important aspects of the preparation, inculcating this habit will be a good start.</span></p>
+
+If you are aiming for <b>CAT</b>, then you could study <b>vocabulary</b> as it is the section which mainly bothers engineers. In second year summers, you can <b>explore the syllabus</b> and you may even start <b>preparing from prep books which contain questions on analytical reasoning</b>. You may even consider joining coaching classes during summers, which have a flexible timetable which suits your needs. These coaching classes focus on English, quantitative aptitude, logical reasoning and data interpretation.<br/>
+We hope you&rsquo;ll have a productive and creative summer ahead!
+
+				</div>
+<div id = "chill" style = "display:none" class="des">
+									<article>
+										<header>
+											<h2>Relax a Bit!</h2>
+										</header>
+									</article>
+			<p dir="ltr"><span>Hey all!</span></p>
+
+We feel that by the time this mail comes to you, many of you must have started applying for the various opportunities that can capture you for the coming summer. However, there must be many more of you who would love to be in a wonderworld, maybe just for those 3 months, and obviously, why not?!<b> Well, it is called a summer &ldquo;break&rdquo; for a reason!</b>
+<br><br>
+Ever thought of cutting yourself off from the wires around?? Relax a bit! Rest your brain - sleep, watch television, or just go around the town if that is what it takes to <b>re-boost your energy</b> before you start your next semester afresh. Enjoy the time off!
+<br><br>
+Do you wonder about those <b>&ldquo;family times&rdquo;</b>which we all cherish but work always messes it all up? Now is the time. Going back home should be thought of as a vacation. Visit your grandparents. Talk to them. They surely would have a lot to offer.<br>And then there are those trips you always wanted to do...maybe bungee jumping even! <b>Plan a vacation</b>. Doesn&rsquo;t need to be a five star resort; just a place with the people you love. Who knows spending some time at a monastery might change how you see life completely! And if you cannot travel to the exotic places to strike them off your bucket list, you could even explore your own city. Go to places you have always wished to but couldn&rsquo;t as the next day you would have some quiz or an assignment due or had to study for the upcoming exams! Surely, your city would have its own niches and unchartered territories.
+<br><br>
+<u>This time should be taken as one with no expectation</u>. It is all right if you do not want to deal with &nbsp;the stress that the world gives you. <b>Take a moment.</b> Think. And then decide what is best for you to do this summer and how important and helpful it actually is to take up something just because Mr. Sharma&rsquo;s son is doing it too!
+<br><br>
+So, this ends of our mail series, and we wish the best for you this summer.<u> Get up and try something that you wanted to for a long time or just sit back and chill out!</u> Be it an internship, a summer course, a sports camp, a blog you start, a language you learn or the much needed sleep you complete in this summer. <b>Just enjoy whatever you take up!</b><br><br>
+Cheers!!
+
+				</div>
+					</div>
+						</div>
+					</div>
+				</div>
+
+			</section>
+			<script type="text/javascript">
+			$(function(){
+			var fixmeTop = $('#nav').offset().top;       // get initial position of the element
+			
+			
+			$(window).scroll(function() {                  // assign scroll event listener
+
+			var currentScroll = $(window).scrollTop(); // get current position
+
+			if (currentScroll >= fixmeTop) {           // apply position: fixed if you
+			//window.alert(event_top);
+			$('#nav').css({                      // scroll to that element or below it
+			      padding: '0',
+			      position: 'fixed',
+			      left: '0',
+			      width: '100%'
+			});}
+			
+			else {                                   // apply position: static
+			    $('#nav').css({                      // if you scroll above it
+			    position: 'static'
+				});
+				}
+			});
+			
+			$("#sidebar > section >ul >.list").click(function(){
+				$('#sidebar > section > ul >.list').removeClass('active');
+				$('#sidebar > section > ul >.list > #reg').removeClass('active');
+				$('#sidebar > section > ul >.list > #sugc').removeClass('active');
+				$(this).addClass('active');
+				$("#sidebar > section > ul > ul").stop().slideUp("500ms");
+				$(this).siblings('ul').stop().slideToggle("500ms");
+			});
+			$("#sidebar > section > ul > ul > a > li").click(function(){
+				$("#sidebar > section > ul > ul > a > li").removeClass('active');
+				$(this).addClass('active');
+				$('#content > .des').css({display:"none"});
+				var curr_id = "#content > #"+(this).id;
+				//alert(curr_id);
+				$(curr_id).css({display:"block"});
+			});
+			$("#sidebar > section > ul > a > div").click(function(){
+				$("#sidebar > section > ul > ul > a > li").removeClass('active');
+				$(this).addClass('active');
+				$('#content > .des').css({display:"none"});
+				var curr_id = "#content > #"+(this).id;
+				//alert(curr_id);
+				$(curr_id).css({display:"block"});
+			});
+			$('#nav >ul >li').removeClass("current");
+			$('#nav > ul >#Imp').addClass("current");
+			});
+		</script>
+		<script type="text/x-mathjax-config">
+                MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+                </script>
+                <script type="text/javascript"
+                src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
+		
+<section id="cta" class="wrapper style3" style = "padding:0.5em; font-size:95%;">
+	<div class="container">
+		<header>
+				<h2>Need something else ?</h2>
+				<a href="index.php?page=team" class="button">Contact the team</a>
+		</header>
+	</div>
+</section>
+<div id="footer">
+	<div class="container">
+		<div class="row">
+			<section class="8u 12u$(mobilep)">
+				<h3 align = "left">Quick Links</h3>
+			    <div class = "row">
+					<div class ="6u">
+						<ul class="links" align="left">
+							<li><a href="http://www.iitk.ac.in" target = "blank">IITK</a></li>
+							<li><a href="http://www.iitk.ac.in/dosa" target = "blank">Dean of Student Affairs</a></li>
+							<li><a href="http://www.iitk.ac.in/doaa" target = "blank">Dean of Academic Affairs</a></li>
+						</ul>
+					</div>
+					<div class ="6u">
+						<ul class="links" align="left">   
+					    	<li><a href="http://spo.iitk.ac.in" target = "blank">Student Placement Office</a></li>
+						    <li><a href="http://www.iitk.ac.in/hc" target = "blank">Health Centre</a></li>
+						    <li><a href="http://pkklib.iitk.ac.in" target = "blank">P.K Kelkar Library</a></li>
+						</ul>
+					</div>
+				</div>
+			</section>
+			<!-- Icons -->
+			<section class="4u 12u$(mobilep)" style="padding-top:8em;">
+				<ul class="icons">
+					<li><a href="https://www.facebook.com/CounsellingServiceIitKanpur" target ="blank" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+				</ul>
+				<!-- Copyright -->
+				<div class="copyright">
+					<ul class="menu">
+						<li>&copy; Counselling Service IITK - 2017</li>
+					</ul>
+				</div>
+			</section>
+		</div>
+	</div>
+</div>
+</body>
+</html>

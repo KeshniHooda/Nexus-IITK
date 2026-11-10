@@ -1,0 +1,66 @@
+[Page 1]
+Indian Institute of Technology, Kanpur
+Proposal for a New Course
+Course No.:
+MTHXXX
+Course Title:
+Entropy and Dynamics of Group Actions
+Pre-requisite(s):
+Instructor’s Consent (knowledge of topology, functional anal-
+ysis and measure theory essential; MTH729 helpful, but not
+necessary)
+Credits:
+L-T-P-A [C] – 3-0-0-0 [9]
+Semester:
+Even/Odd
+Department:
+Mathematics and Statistics
+Proposer:
+Keshab Chandra Bakshi
+Course Objectives:
+Entropy is a fundamental invariant in ergodic theory and topological dynamics, orig-
+inally developed by Kolmogorov and Sinai for Z-actions and later extended by Ornstein–
+Weiss to actions of amenable groups. More recently, Bowen and Kerr–Li developed the
+notion of soﬁc entropy, extending entropy theory to actions of soﬁc groups, which include
+all amenable and residually ﬁnite groups. This course introduces entropy for group ac-
+tions, beginning with amenable entropy and progressing to soﬁc entropy. This new course
+complements the existing graduate course on ergodic theory by focusing on entropy and
+group actions. It will prepare students for advanced research in ergodic theory, dynamical
+systems, and operator algebras.
+Course Contents:
+The course will broadly cover the following topics:
+Topics
+No. of Lectures
+Entropy for actions of Amenable Groups: Amenable groups
+and Følner sequences- Shannon entropy – Kolmogorov–Sinai en-
+tropy – Amenable measure entropy- the generator theorem – Ex-
+amples: Bernoulli shifts, compact actions- conditional dynamical
+entropy- The Shannon- McMillan-Breiman Theorem- Amenable
+topological entropy- the variational principle.
+14
+Entropy for actions of Soﬁc Groups: Soﬁc groups -Boltzman
+Entropy- Soﬁc measure entropy- the generator theorem- Bernoulli
+action- Compact actions- Soﬁc topological entropy – the variational
+principle for soﬁc entropy- the relation between Soﬁc and amenable
+entropy.
+16
+Bowen’s f-invariant and its relationship with Soﬁc Entropy- a brief
+overview on entropy and independence.
+10
+Total lectures:
+40
+1
+
+[Page 2]
+Recommended Books/References:
+1. P. Walters, An Introduction to Ergodic Theory, Springer, 1982.
+2. D. Kerr & H. Li, Ergodic Theory: Independence and Dichotomies, Springer, 2016.
+Dated:
+Proposer:
+([Keshab Chandra bakshi])
+Dated:
+DPGC Convener:
+The course is approved / not approved
+Chairman, SPGC
+Dated:
+2

@@ -1,0 +1,304 @@
+[Page 1]
+DEPARTMENT OF MANAGEMENT SCIENCES 
+INDIAN INSTITUTE OF TECHNOLOGY KANPUR 
+
+ 
+
+Proposal for New Course 
+
+Course Title: Finance and Accounting Research Seminar 
+Course Number: DMSXXX 
+Credits: 3-0-0-0 [5] 
+Prerequisite: The course is only prescribed for Ph.D. students in the finance and accounting 
+area. 
+Proposing department: Prof. Abhinava Tripathi, Department of Management Sciences. 
+Other interested faculty: Prof. BV Phani, Prof. Suman Saurabh, Prof. Harshal Mulay
+
+[Page 2]
+COURSE DESCRIPTION 
+ 
+This course is designed to provide an exposure of the current research in the area of finance 
+and accounting to doctoral students. This is an introductory course which considers a wide 
+range of topics in theoretical and empirical issues in contemporary finance and accounting 
+literature. Issues concerning certain broad topics include financial markets, asset pricing, 
+market efficiency, capital structure decisions, agency conflicts in the firm, dividend policy, 
+corporate financing, the market for corporate control, corporate governance, and banking 
+among others. The class discussions shall be based on the research papers prescribed, between 
+the participants and the concerned faculty member, relating to the conceptual, methodological 
+and other issues in the context of the topic and the selected research paper. The course is taught 
+using the seminar method. The students therefore are required to come up with a perspective 
+on the agenda of discussion issues on the prescribed readings for each session. To aid the 
+discussion, the students may use PowerPoint presentations. 
+
+1. Course Objectives 
+ 
+The course aims to 
+• Provide a comprehensive background of nature and expanse of research in the domain 
+of finance and accounting; 
+• Provide an exposure of the current research issues in various finance and accounting 
+sub-areas; 
+• Help students in developing the capability to identify relevant research issues and 
+formulation of research hypothesis; 
+• Develop an understanding of various aspects of research in the area; 
+• Provide an exposure of different methodological issues in the domain of finance and 
+accounting. 
+
+2. Course Learning Outcomes 
+ 
+By the end of the course, the student should be able to 
+• Have a good appreciation of the important theoretical and empirical issues relevant to 
+the domain; 
+• Understand the important models applicable in the domain; 
+• Formulate a research problem as a testable hypothesis; 
+• Visualize the methodology applicable to a specific research problem, and the pitfalls; 
+• Understand the implications of different results for the theoretical models.
+
+[Page 3]
+3. Course Contents and Relevant Research Papers 
+ 
+S. 
+No. 
+Topic 
+No of 
+Lectures 
+1 
+Introduction to Financial Markets 
+ 
+• 
+Fama, E. F. & French, K. R. (1992). The cross-section of expected stock 
+returns. Journal of Finance, Vol. 47, pp. 427-465 
+• 
+Fama, Eugene F. (1970). “Efficient Capital Markets: A Review of 
+Theory and Empirical Work”, Journal of Finance, Vol. 25, 383-417. 
+• 
+Fama, Eugene F. (1995). “Random Walks in Stock Market Prices”, 
+Financial Analysts Journal, (JanFeb), pp 75-80 
+• 
+Black, F. (1986). “Noise”, Journal of Finance, Vol. XLI, No. 3, pp.520-
+543 
+• 
+Fama, E. F. & French, K. R. (1993). Common risk factors in the returns 
+on stocks and bonds. Journal of Financial Economics, Vol. 33, pp. 3-56 
+• 
+Fama, E. F. & French, K. R. (2015). A five-factor asset pricing model. 
+Journal of Financial Economics, Vol. 116, pp. 1-22 
+• 
+Baker, M. & Wurgler, J. (2006). Investor Se-*ntiment and the Cross-
+Section of Stock Returns. Journal of Finance, Vol. 61, pp. 1645 – 1680 
+• 
+Madhavan, A. (2000). Market microstructure: a survey. Journal of 
+Financial Markets, Vol. 3, pp. 205-258. 
+2 
+2 
+Liquidity and Volatility of Financial Markets 
+ 
+• 
+Chordia, T., Toll, R., & Subrahmanyam, A. (2000). Commonality in 
+Liquidity. Journal of Financial Economics, Vol. 56, pp. 3-28 
+• 
+Chordia, T., Toll, R., & Subrahmanyam, A. (2002). Order imbalance, 
+liquidity, and market returns. Journal of Financial Economics, Vol. 65, 
+pp. 111-130 
+• 
+Madhavan, A. (2000). Market microstructure: A survey. Journal of 
+Financial Markets, 3(3), 205–258. 
+2 
+3 
+Empirical Issues in Capital Structure Theory 
+ 
+• 
+Myers and Mjluf (1984) "Corporate financing and Investment Decisions 
+when firms have information and investors do not have" The Journal of 
+Financial Economics, 13 197-227. 
+• 
+Madhavan, A. (2000). Market microstructure: A survey. Journal of 
+Financial Markets, 3(3), 205–258. 
+• 
+Fama French (2005) "Financing Decisions: Who Issues stock" Journal 
+Financial Economics, 76 pp 549-582. 
+• 
+Frank, M. Z., & Goyal, V. K. (2009). Capital Structure Decisions: Which 
+Factors Are Reliably Important? Financial Management, 38(1), 1–37. 
+https://doi.org/10.1111/j.1755-053X.2009.01026.x 
+2 
+4 
+Payout policy 
+ 
+• 
+La porta , Lopez-de Silanes, Shleifer and Vishny (2000) “Agency Problem 
+and the Dividend policy around the World”, Journal of Finance, 55, pp 1-
+33. 
+• 
+Koch and Sun (2004) “Dividend Changes and Persistence in Past Earning 
+Changes”, Journal of Finance, 59, pp 2093-2116. 
+• 
+Datmar, Amy K (2000), "Why do firms repurchase stock?," The Journal 
+of Business, 73(3), pp 331-355. 
+2
+
+[Page 4]
+• 
+Graham, J & R; Harvey, (2001), “The Theory and Practice of Corporate 
+Finance: Evidence from the Field”, Journal of Financial Economics, 60, 
+pp 187-243 
+• 
+Brav, A; Graham, J R; Harvey, C R; & Michaely, R (2005), "Payout policy 
+in 21st century," Journal of Financial Economics, 77, pp 483-527 
+• 
+Grullan, G & Michaely, R (2004), " The information content of share 
+repurchase programs," Journal of Finance, 59, pp 651-680 
+5 
+Corporate Governance 
+ 
+• 
+Jensen, M and W. Meckling (1976) “Theory of the Firm: Managerial 
+Behavior, Agency Costs and Ownership Structure,” Journal of Financial 
+Economics, 3, pp. 305-360. 
+• 
+Shleifer, A. and R. Vishny (1997) “A Survey of Corporate Governance,” 
+Journal of Finance, 52, pp. 737-784. 
+• 
+Williamson, 
+Oliver (1988) 
+“Corporate 
+finance 
+and 
+Corporate 
+Governance” Journal of Finance, 43, pp 567-592. 
+• 
+Jensen, M. (1993) “The Modern Industrial Revolution, Exit, and the 
+Failure of Internal Control Systems,” Journal of Finance, 48 (3), pp. 831-
+80. 
+2 
+6 Mergers, Acquisitions, Takeovers and Buyouts 
+• 
+Bradley, M., A. Desai, and E. H. Kim, "Synergistic Gains from Corporate 
+Acquisitions and Their Division Between the Stockholders of Target and 
+Acquiring Firms," Journal of Financial Economics, 21, 1988, pp. 3-40. 
+• 
+Berkovitch, Elazar, and M. P. Narayanan, "Motives for Takeovers: An 
+Empirical Investigation," Journal of Financial and Quantitative Analysis, 
+28, September 1993, pp. 347-362. 
+• 
+Andrade, Gregor, Mark Mitchell and Erik Stafford, “New Evidence and 
+Perspectives on Mergers,” Journal of Economic Perspectives 15, Spring 
+2001, pp. 103-120. 
+• 
+Roll, Richard, "The Hubris Hypothesis of Corporate Takeover," Journal 
+of Business, 59, April 1986, pp. 197-216. 
+• 
+Jensen, Michael C., "Agency Costs of Free Cash Flow, Corporate Finance 
+and Takeovers," American Economic Review, 76, May 1986, pp. 323-329. 
+ 
+2 
+7 
+Banking 
+ 
+• 
+Altman, E. I., & Saunders, A. (1997). Credit risk measurement: 
+Developments over the last 20 years. Journal of Banking & Finance, 
+21(11–12), 1721–1742. 
+• 
+Berkowitz, J., & O’Brien, J. (2002). How Accurate Are Value‐at‐Risk 
+Models at Commercial Banks? The Journal of Finance, 57(3), 1093–
+1111. https://doi.org/10.1111/1540-6261.00455 
+• 
+Demirguc-Kunt, A., & Detragiache, E. (1998). The Determinants of 
+Banking Crises in Developing and Developed Countries. Staff Papers - 
+International Monetary Fund, 45(1), 81. https://doi.org/10.2307/3867330 
+• 
+Gordy, M. B. (2000). A comparative anatomy of credit risk models. 
+Journal of Banking & Finance, 24(1–2), 119–149. 
+• 
+Gropp, R., & Heider, F. (2010). The determinants of bank capital 
+structure. Review of Finance, 14(4), 587–622. 
+• 
+Ivashina, V. (2009). Asymmetric information effects on loan spreads. 
+Journal of Financial Economics, 92(2), 300–319. 
+2
+
+[Page 5]
+4. Prerequisite: The course is only applicable to PhD students in finance and accounting area. 
+ 
+5. Short Summary: This course provides a comprehensive overview of topical research in 
+the domains of finance and accounting. 
+
+ 
+
+ 
+ 
+Proposer: Prof. Abhinava Tripathi (abhinavat@iitk.ac.in) 
+Dated:21/04/2025 
+
+ 
+DPGC Convener: Dated: 
+
+The course is approved / not approved 
+
+ 
+Chairperson, SPGC 
+Date:
+
+[Page 6]
+Supplementary Readings 
+ 
+1. Allen, F., & Santomero, A. M. (2001). What do financial intermediaries do? Journal 
+of Banking & Finance, 25(2), 271–294. 
+2. Bhattacharya, S., & Thakor, A. V. (1993). Contemporary banking theory. Journal of 
+Financial Intermediation, 3(1), 2–50. 
+3. Black, F., & Scholes, M. (1973). The Pricing of Options and Corporate Liabilities. 
+Journal of Political Economy, 81(3), 637–654. https://doi.org/10.1086/260062 
+4. Coase, R. H. (1993). The nature of the firm (1937). Economica, 4, 396–405. 
+5. Fama, E. F. (1970). Efficient capital markets: A review of theory and empirical work. 
+The Journal of Finance, 25(2), 383–417. 
+6. Fama, E. F. (1978). The effects of a firm’s investment and financing decisions on the 
+welfare of its security holders. The American Economic Review, 68(3), 272–284. 
+7. Fama, E. F. (1991). Efficient capital markets: II. The Journal of Finance, 46(5), 
+1575–1617. 
+8. Fama, E. F. (1995). Random Walks in Stock Market Prices. Financial Analysts 
+Journal, 51(1), 75–80. https://doi.org/10.2469/faj.v51.n1.1861 
+9. Garman, M. B. (1976). Market microstructure. Journal of Financial Economics, 3(3), 
+257–275. 
+10. Jensen, M. C., & Meckling, W. H. (2019). Theory of the firm: Managerial behavior, 
+agency costs and ownership structure. In Corporate governance (pp. 77–132). 
+Gower. 
+https://www.taylorfrancis.com/chapters/edit/10.4324/9781315191157-
+9/theory-firm-managerial-behavior-agency-costs-ownership-structure-michael-
+jensen-william-meckling 
+11. Madhavan, A. (2000). Market microstructure: A survey. Journal of Financial 
+Markets, 3(3), 205–258. 
+12. Malkiel, B. G. (2003). The efficient market hypothesis and its critics. Journal of 
+Economic Perspectives, 17(1), 59–82. 
+13. Markowitz, H. M. (1991). Foundations of portfolio theory. The Journal of Finance, 
+46(2), 469–477. 
+14. Merton, R. C. (1974). On the pricing of corporate debt: The risk structure of interest 
+rates. The Journal of Finance, 29(2), 449–470. 
+15. Modigliani, F., & Miller, M. H. (1958). The cost of capital, corporation finance and 
+the theory of investment. The American Economic Review, 48(3), 261–297. 
+16. Modigliani, F., & Miller, M. H. (1963). Corporate income taxes and the cost of 
+capital: A correction. The American Economic Review, 53(3), 433–443. 
+17. Rock, K. (1986). Why new issues are underpriced. Journal of Financial Economics, 
+15(1–2), 187–212. 
+18. Scholtens, B., & Van Wensveen, D. (2000). A critique on the theory of financial 
+intermediation. Journal of Banking & Finance, 24(8), 1243–1251. 
+19. Sharpe, W. F. (1964). CAPITAL ASSET PRICES: A THEORY OF MARKET 
+EQUILIBRIUM UNDER CONDITIONS OF RISK*. The Journal of Finance, 19(3), 
+425–442. https://doi.org/10.1111/j.1540-6261.1964.tb02865.x 
+20. Shleifer, A., & Vishny, R. W. (1997). A Survey of Corporate Governance. The 
+Journal 
+of 
+Finance, 
+52(2), 
+737–783. 
+https://doi.org/10.1111/j.1540-
+6261.1997.tb04820.x
+
+[Page 7]
+21. Williamson, O. E. (1988). Corporate Finance and Corporate Governance. The 
+Journal 
+of 
+Finance, 
+43(3), 
+567–591. 
+https://doi.org/10.1111/j.1540-
+6261.1988.tb04592.x

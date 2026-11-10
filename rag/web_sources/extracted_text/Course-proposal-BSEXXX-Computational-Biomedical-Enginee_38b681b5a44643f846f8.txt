@@ -1,0 +1,69 @@
+[Page 1]
+1. Title: Computational Biomedical Engineering 
+2. Course Number: 
+3. Proposing Department: BSBE 
+4. Other Departments: EE, ME 
+5. Proposer: Ketan Rajawat (EE) 
+6. Units: 3-0-0-0 [9] 
+7. Duration of the course: full semester 
+8. Pre-requisites: N/A 
+9. Other interested faculty: K Muralidhar (ME) 
+10. Course objectives: The goal of this course is to introduce students to computational approaches 
+to biomedical problems. The course will introduce the students to state-of-the-art 
+computational techniques, applications of computational tools, and instill an understand of how 
+biological concepts and computational methods can be integrated to address complex 
+biomedical problems. The overarching goal of the course is to provide students with a deep 
+understanding of how computational modeling and simulation can be used to create 
+personalized virtual representations of biological systems for various biomedical applications. 
+After completing this course, the students are expected to have the knowledge and skills 
+necessary to develop, analyze, and use technologies such as digital twins in healthcare. 
+S. No. 
+Topics 
+Number of Lectures 
+1 
+Signal and image processing algorithms, Spectra and 
+correlations, computational modeling and simulation 
+(physics-based models, solving PDEs, basics of finite 
+element methods, inverting large matrices) 
+15 
+2 
+Linear and non-linear regression, basics of 
+Optimization, inverse modeling, optimization 
+algorithms and software libraries 
+12 
+3 
+Basics of Machine Learning, data-driven models, 
+regression, neural networks, 
+10
+
+[Page 2]
+4 
+Case studies: digital twins in healthcare, forward and 
+inverse models, personalization, arterial networks, 
+blood pumps, X-ray and MRI 
+3 
+ 
+11. Short summary for the course booklet: This course introduces students to computational 
+aspects of biomedical engineering, covering state-of-the-art techniques and integrating 
+biological concepts with computational methods to address complex biomedical issues. By 
+focusing on computational modeling, simulation, and personalized virtual representations, 
+students will gain the skills to develop and utilize technologies such as digital twins in healthcare 
+applications. 
+12. References: 
+a. Iserles, A. (2009). A first course in the numerical analysis of differential equations (No. 
+44). Cambridge University Press. 
+b. Modeling and Simulation in Biomedical Engineering: Applications in Cardiorespiratory 
+Physiology 1st Edition (2011) by Willem van Meurs 
+c. Computational Modeling and Simulation Examples in Bioengineering (IEEE Press Series 
+on Biomedical Engineering), Wiley, 2021 
+d. Bishop, C.M. Pattern recognition and Machine learning, Springer, 2007. 
+e. Kochenderfer, Mykel J., and Tim A. Wheeler. Algorithms for optimization. MIT Press, 
+2019. 
+
+Proposer 
+Ketan Rajawat
+
+[Page 3]
+DPGC 
+
+SPGC

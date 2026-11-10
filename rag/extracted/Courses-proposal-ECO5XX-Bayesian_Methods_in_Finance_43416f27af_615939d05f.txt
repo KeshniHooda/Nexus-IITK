@@ -1,0 +1,150 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course
+
+1.  Course No: ECO5XX
+
+2.  Course Title: Bayesian Methods in Finance
+
+3.  Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours[0-2]: 0 (A)
+Credits (3*L + 0*T + P + A): 9 credits                  Duration of Course: Full Semester
+4.  Proposing Department/IDP: Department of Economic Sciences
+Other Departments/IDPs which may be interested in the proposed course:
+Other faculty members interested in teaching the proposed course:
+5.  Proposing Instructor(s): Mohammad Arshad Rahman
+
+Course Description: This course introduces students to the powerful and increasingly influential role
+of Bayesian methods in contemporary financial analysis and decision-making. Emphasizing both
+theoretical foundations and practical applications, the course provides students with essential tools
+to model uncertainty, update beliefs in light of new information, and make rigorous, data-informed
+financial decisions under uncertainty.
+
+The curriculum begins with an overview of the Bayesian paradigm, establishing a foundational
+understanding through Bayesian linear regression.  It then advances to computational methods,
+including classical simulation techniques and Bayesian numerical approaches such as Markov Chain
+Monte Carlo (MCMC) techniques. Building on this foundation, the course explores the application of
+Bayesian methods to financial modeling and parameter estimation using real-world financial data.
+
+A central focus is the Bayesian approach to portfolio theory, including the integration of investor
+views via the Black-Litterman framework and the role of prior beliefs in asset pricing models. The
+course also addresses advanced topics such as market efficiency, return predictability, and the
+Bayesian estimation of ARCH-type  volatility models commonly used in  risk management and
+derivative  pricing. Throughout the  course, students  will  gain hands-on experience through
+programming assignments using financial data, preparing them for research or industry roles in
+asset management, risk analysis, and financial modeling.
+
+Software: The course is computationally intensive and will require extensive coding to implement
+the Bayesian methods learnt in the class on real and simulated data. Students taking this course will
+be required to code either in MATLAB or R, but the use of built-in packages is typically discouraged.
+
+A) Objectives: The objective of this course is to equip students with a rigorous understanding of
+Bayesian methods and their application to modern financial analysis and decision-making under
+uncertainty. By integrating theoretical concepts with practical implementation, the course trains
+students to model uncertainty, incorporate new information through Bayesian updating, and apply
+these techniques to problems in portfolio theory, asset pricing, and financial risk management.
+Emphasis is placed on computational proficiency, with students developing hands-on skills in coding
+Bayesian models from first principles using MATLAB or R, applied to both real and simulated
+financial data. The course prepares students for advanced research or professional roles  in
+quantitative finance, asset management, and risk analysis.
+
+[PAGE 2]
+B) Contents
+
+S. No       Broad Title                          Topics                       No. of
+Lectures
+
+1.      The Bayesian           Frequentist probability, subjective probability.        2
+Paradigm             Bayes theorem, prior, likelihood, posterior.
+Beta-binomial model, Dirichlet-multinomial
+model.
+2.       Bayesian Linear        Normal linear regression model, proper and       3
+Regression            improper     priors,    conjugate     priors,
+conditionally   conjugate    priors.   Model
+comparison  methods:  marginal  likelihood,
+Bayes factor, and Bayesian R-squared.
+3.        Classical Simulation     Inverse CDF method, method of composition,       2
+accept-reject   method,   and   importance
+sampling.
+4.       Bayesian Numerical     Gibbs   sampling,   Metropolis   algorithm,       3
+Computation           Metropolis-Hastings   algorithm.   Numerical
+standard  error  and  convergence.  Linear
+regression model with conditionally conjugate
+priors.
+5.       Bayesian Framework     Classical portfolio selection, Bayesian portfolio       5
+for Portfolio             selection (mean and covariance with diffuse
+Allocation            and proper priors with application), shrinkage
+estimators, unequal histories of returns.
+6.       Prior Beliefs and         Preliminaries,  quantifying  the  belief  about       5
+Asset Pricing Models     pricing model validity. Perturbed model: prior,
+likelihood function, posterior distribution, and
+predictive distribution and portfolio selection.
+Illustrations: asset pricing model, combining
+inference from the CAPM and the Fama and
+French three-factor model.
+7.      The Black-Litterman     Preliminaries, combining market equilibrium       5
+Portfolio Selection     and investor views, the choice of parameters,
+Framework            the   optimal   portfolio   allocation   with
+illustration,  incorporating  trading  strategies
+into  the   Black-Litterman  model,   active
+portfolio  management  and   the   Black-
+Litterman model.
+8.      Market Efficiency       Test of mean-variance efficiency, inefficiency       5
+and Return            measures in testing the CAPM, testing the
+Predictability            arbitrage pricing theory (APT, posterior and
+predictive  distributions, certainty equivalent
+returns), return predictability (posterior and
+predictive  inference,  solving  the  portfolio
+selection problem). Illustration: Predictability
+and the investment horizon.
+9.        Volatility Models      GARCH  Models   of   volatility,   stochastic       5
+volatility (SV) models. Illustration: forecasting
+Value-at-Risk. An ARCH-type model  or SV
+
+[PAGE 3]
+model? Where do Bayesian methods fit in?
+10.     Bayesian Estimation    Griddy Gibbs sampler, Bayesian estimation of       5
+of ARCH-Type          the  GARCH(1,1)  model,  Markov  regime-
+Volatility Models        switching GARCH models. Illustrations.
+
+Total Number of                                                   40
+Lectures
+
+C) Pre-requisites: Econometrics I (ECO251) and/or Econometrics II (ECO351) or courses at the same
+level are a prerequisite for this course.
+
+D) Short summary for including in the Courses of Study Booklet: This course explores the growing
+role  of  Bayesian methods  in  financial  analysis and  decision-making, combining  theoretical
+foundations with practical applications. Students will learn to model and manage uncertainty
+through Bayesian inference, with topics ranging from linear regression and simulation techniques to
+advanced computational tools such as MCMC. The course emphasizes applications in portfolio
+theory, including the Black-Litterman model, asset pricing, and  volatility estimation. A strong
+computational component requires students to implement Bayesian models from scratch using
+MATLAB or R, working with real and simulated financial data. Through hands-on assignments and in-
+depth analysis, students  will develop the  skills needed for research or professional roles in
+quantitative finance, asset management, and risk management.
+
+6.  Recommended books:
+Textbooks:
+(1) Bayesian Methods in Finance (John Wiley & Sons, Inc, 2008) by Svetlozar T. Rachev, John S.
+J. Hsu, Biliana S. Bagasheva, and Frank J. Fabozzi.
+
+Reference Books:
+(1) Introduction to Bayesian Econometrics, Second Edition (Cambridge University Press, 2012)
+by Edward Greenberg.
+(2) Bayesian Data Analysis, Third Edition (Chapman & Hall, 2013) by Andrew Gelman, John B.
+Carlin, Hal S. Stern, David B. Dunson, Aki Vehtari, and Donald B. Rubin.
+
+7.  Any other remarks: Not applicable.
+
+Dated: 30th July, 2025   Proposer: Mohammad Arshad Rahman
+
+Dated:_______________ DUGC Convener:___________________
+
+The course is approved / not approved
+
+____________________________________
+
+Chairman, SUGC
+
+Dated:______________________________

@@ -1,0 +1,71 @@
+[Page 1]
+1 
+ 
+Proposal for a New Course 
+Department of Electrical Engineering 
+Indian Institute of Technology Kanpur 
+ 
+Course No.: EE798 
+Course title: Graph Theory and its Applications 
+Pre-requisites: NA 
+Credits: 3-0-0-0 [9] 
+Instructor: Twinkle Tripathy, ttripathy@iitk.ac.in 
+Course description: 
+In recent years, graph theory has become an important tool that studies binary relationships between 
+objects. in a wide variety of areas ranging from control theory, computer science and operations 
+research to genetics, chemistry and sociology. This course provides a structured introduction to key 
+graph-theoretic concepts, beginning with foundational topics and progressing to advanced results and 
+applications pertaining primarily to the domain of control theory. 
+The course starts with covering problems which have important implications in optimization and 
+combinatorial algorithms. Next, connectivity concepts are explored to understand the robustness and 
+structure of networks. Thereafter, graph colouring problems are discussed with applications towards 
+scheduling and resource allocation. The course continues with network flow theory, introducing the 
+max-flow min-cut theorem, circulations, and tensions. Then, we delve into graph centrality measures, 
+studying their role in network analysis. The last part of the course will focus on applications of graph 
+theory in various domains. 
+Course contents : 
+Topics 
+Sub-topics 
+Number of Lectures 
+Graph theory 
+Covering problems 
+5 
+ 
+Connectivity 
+5 
+ 
+Graph colouring and applications 
+6 
+ 
+Network flows 
+5 
+ 
+Graph minors 
+3 
+ 
+Centrality measures 
+6 
+ 
+Applications 
+10 
+ 
+Total 
+40 
+Remarks : Students from other departments like AE, CSE and ME may be interested in the course. 
+Reading material : 
+The initial material will be covered from the following reference books: 
+[1] R. Diestel, "Graph Theory", Springer-Verlag, 2nd edition, 2000.
+
+[Page 2]
+2 
+ 
+[2] N. Alon and J. Spenser, "Probabilistic Methods", John Wiley and Sons, 2nd edition, 2000. 
+ 
+The rest of the material will mostly be taken from several journal articles and conference proceedings 
+available online. 
+ 
+Signature of the proposer 
+
+Convener, DPGC Chairperson, SPGC 
+Department of Electrical Engineering 
+14.02.2025

@@ -1,0 +1,145 @@
+[PAGE 1]
+Templates for programs Biological Sciences and Bioengineering (BSBE)
+
+Template for BT Program in Biological Sciences and Bioengineering
+
+Semester 1           Semester 2     Semester 3     Semester 4     Semester 5    Semester 6  Semester 7  Semester 8
+SCHEME-1 (9)          ETH111 (3)     SCHEME-2     SCHEME-3     SCHEME*     SCHEME*   SCHEME*   SCHEME*
+ELC111/ELC112/ELC113              EME (9-11)      HSS-I (11)        HSS-II (9)       HSS-II (9)     HSS-II (9)     HSS-II (9)
+MTH 111 (6)          MTH 113 (6)     ESO206 (9)     ESC201 (14)    BSE311 (9)    BSE321 (8)   DE-4        DE-6
+MTH 112 (6)          MTH 114 (6)     E/SO (9-11)     BSE222 (9)     BSE312 (9)    BSE421 (9)   DE-5        DE-7
+PHY 115 (11)            PHY 112 (11)     BSE211 (9)     BSE223 (9)     BSE411 (9)     OE-2(9)      OE-3        OE-5
+PHY 111 (3)          CHM 111 (3)     BSE221 (9)     BSE322 (9)     BSE412 (9)    DE-2 (9)     OE-4        OE-6
+TA 111 (9)               ESC 111 (7)      OE-1 (9)                      DE-1 (9)      DE-3 (9)
+CHM 112 (4)             ESC 112 (7)
+CHM 113 (4)               LIF111 (6)
+PE111 (3)               PE112 (3)
+55                 52             54-58          50-52          45-54         44-53        36-45       36-45
+
+UGPs: BSE496 and BSE498 will be offered in ODD semesters and BSE497 and BSE499 will be offered in EVEN semesters. UGPs will be considered
+as DEs. All UGPs have 9 credits and letter grades. A student can take at most 1 UGP per semester (in any order).
+
+Credit Table for BT Program in Biological Sciences and Bioengineering
+Course type           Recommended Credit      Credit in the department
+range                    template
+Institute Core (IC)        112                   112
+E/SO                    18-45                    18-20
+Department             144-179                161 (98 DC + 63 DE)
+requirements
+Open electives (OE)       51-57                  54
+SCHEME                54-58                    54-58
+Total for 4-year BT/BS    391-420                  399-405
+
+[PAGE 2]
+Template for BTH program in Biological Sciences and Bioengineering
+
+Two department UGP-1 and UGP-2 (9 credits each) should be completed in place of two DEs of the BT program. Additional three DEs (27 credits)
+should be taken from the following Honors course basket.
+
+— Honors course basket (list of courses):
+•  BSE611A (09): Modern instrumental methods in biological sciences
+•  BSE642A (09): Microbiology and Immunology
+•  BSE652A (09): Developmental Biology
+•  BSE653A (09): Functional Genomics
+•  BSE654A (09): Human Molecular Genetics
+•  BSE655A (09): Physiology
+•  BSE661A (09): Biological Membranes
+
+— CPI criteria for BTH: 8.5
+
+[PAGE 3]
+Template for the BTM program in Biological Sciences and Bioengineering
+
+Students have to take 54 credits of course from the Management Track Basket (MTB)
+
+Template for 3rd to 8th semester for BTM program in Biological Sciences and
+Bioengineering
+Semester 3    Semester 4    Semester 5    Semester 6    Semester 7    Semester 8
+SCHEME-2     SCHEME-3    SCHEME      SCHEME      SCHEME      SCHEME
+EME (9-        HSS-I (11)/       * HSS-II            * HSS-II            * HSS-II            * HSS-II
+11)/ HSS-I    EME (9-11)      (9)                (9)                (9)                (9)
+(11)
+ESO206 (9)    ESC201 (14)   BSE311 (9)    BSE321 (8)     DE-3          DE-4
+E/SO (9-11)    BSE222 (9)    BSE312 (9)    BSE421 (9)    OE-3         MTB-4
+BSE211 (9)    BSE223 (9)    BSE411 (9)    OE-2 (9)      MTB-2       MTB-5
+BSE221 (9)    BSE322 (9)    BSE412 (9)    DE-2 (9)      MTB-3       MTB-6
+OE-1 (9)                    DE-1 (9)      MTB-1
+
+54-58         50-52         45-54         44-53         36-45         36-45
+* Students have to take only three SCHME (HSS-II) courses in semesters 5 to 8
+
+[PAGE 4]
+Template for five year dual-degree program in Biological Sciences and Bioengineering
+
+Template for 7th to 10th semester of dual-degree program in BSBE (Category-A)
+7th sem                  8th sem                  9th sem                10th sem
+DE PG-1 (9)         DE PG-3 (9)          BSE702A (0)           Thesis credits (36)
+DE PG-2 (9)         DE PG-4 (9)            Thesis credits (36)
+BSE601A (0)         BSE602A (0)
+BSE701A (0)
+18                 18                 36                 36
+Minimum Credit Requirements in MT part for graduation:
+PG Components: 36 credits Thesis: 72 credits
+
+Remarks:
+1) All DE courses should be taken with the consent of the Supervisor
+2) Up to 36 OE credits may be waived from the BT program for students opting for the dual- degree program.
+
+Category B dual-degree (UG from different department)
+
+Template for 7th to 10th semester of dual-degree program in BSBE (Category-B)
+UG component                    PG component
+Odd         Even        7th sem        8th sem          9th sem       10th sem
+ESO206 (9)   UGP in    BSE613A (9)  DE PG-3 (9)    BSE702A (0)   Thesis
+BSBE (9)                                                    credits
+(36)
+BSE221 (9)            DE PG-1 (9)  DE PG-4 (9)     Thesis credits
+(36)
+
+BSE311 (9)            DE PG-2 (9)   BSE602A (0)
+BSE601A (0)  BSE701A (0)
+27          9        27          18           36          36
+Minimum Credit Requirements in MT part for graduation:
+PG Components: 45 credits
+Thesis: 72 credits
+
+Remarks:
+1) All DE courses should be taken with the consent of the Supervisor
+2) Upto 36 OE credits may be waived from the BT program for students opting for the dual- degree program.
+
+[PAGE 5]
+Template for the double major: second major in Biological Sciences and Bioengineering
+
+BSBE Double Major Template
+
+Odd Semester                           Even Semester
+Pre-requisites
+ESO206 (9)
+Mandatory BSBE Core Courses
+BSE211 (9)                              BSE222 (9)
+BSE221 (9)                              BSE223 (9)
+BSE311 (9)                              BSE322 (9)
+BSE312 (9)                              BSE321 (8)
+BSE411 (9)                              BSE421 (9)
+BSE412 (9)
+
+DC credits: 54                       DC Credits: 45
+
+[PAGE 6]
+Minors in Biological Sciences and Bioengineering
+
+1. Tissue Engineering: (this Minor already exists)
+
+‒  Three compulsory courses: BSE211 [09], BSE411 [09], BSE421 [09] (the courses are the same as before but their credits are changing in the
+new UGARC)
+
+2. Engineering in Medicine:
+
+(This is a new Minor offered in the new UGARC)
+Requirement: Any 3 from the following basket of courses:
+•  BSE616A [09]: Biopharmaceuticals
+•  BSE644A [09]: Optical microscopy & bioimaging
+•  BSE656A [09]: Neurobiology
+•  BSE662A [09]: Decision making and the brain
+•  BSEXXXA [09]: Biodesign (to be floated)
+•  BSEYYYA [09]: Biosensors and Biomedical Devices (to be floated)

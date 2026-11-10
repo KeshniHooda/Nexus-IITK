@@ -1,0 +1,134 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course
+
+1. Course No: DESxxx
+
+2. Name of the Course: Cognitive Ergonomics in Hybrid Physical-Digital Interfaces
+
+3. Per Week Lectures: 03 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours[0-2]: 0 (A)
+
+Credits (3*L+2*T+P+A): 9                                         Duration of Course: Full Semester
+
+4. Proposing Department/IDP: Design
+
+Other Departments/IDPs which may be interested in the proposed course:
+
+Other faculty members interested in teaching the proposed course:
+
+5. Proposing Instructor(s): Ashish Kumar Singh
+
+6. Course Description:
+
+Relevance: Equips designers to create usable, safe, and cognitively appropriate interfaces - crucial for product
+interface design.
+
+Objectives: To provide students with a conceptual grounding in human information processing, perception, and
+attention, along with hands-on experience in display/control design and usability evaluation methods, enabling them
+to design and evaluate interactive systems effectively.
+
+Course Content: This course teaches how human factors and human information-processing principles apply to the
+design and evaluation of usable and safe interfaces, from perceptual limits and mental models to concrete display and
+control design decisions. The course culminates in an applied project in which students redesign a real interface and
+conduct a formative usability test.
+
+Sl.    Topic Description*                                                                            Session (Lecture/
+No.                                                                                                         exercise (on field))
+1     Module 1 - Understanding Humans: Foundations of cognitive ergonomics                      15
+Scope of HFE, what cognitive ergonomics covers in physical-digital interfaces - Approx. 02
+sessions
+Understanding ourselves – basics of senses, human nervous system, visual ergonomics - vision
+focus (visual acuity, vision angle, colour discrimination, sizing text, contrast sensitivity), designing
+across senses - multimodal interaction across visual, auditory, and haptic channels (and
+perception) - Approx. 08 sessions
+Human information-processing models, perception, attention, memory, and mental workload,
+and their implications for interface design - Approx. 05 sessions
+Initial Mid-Module Assignment Brief
+On field practical exercise (field familiarization visit, problem statement and initial user-needs
+brief)**
+
+2     Module 2 - Understanding Interaction: mental models, affordances, and human error             5
+Mental models and conceptual models, situation awareness model (Endsley model (Level 1–3)),
+Norman’s model, affordances, signifiers, mapping, constraints, feedback, and error types
+On field practical exercise**
+
+3     Module 3 - Designing Interfaces: displays, controls, and cognitive principles                     10
+Types of display and control interfaces - Approx. 02 sessions
+Principles for effective display and control design (linked with attention, perceptual, memory,
+mental model principles) - Approx. 08 sessions
+End-Module Assignment Brief
+On field practical exercise**
+
+4     Module 4 - Understanding Work: Task analysis and cognitive work analysis                     5
+Understanding users, context and tasks - Approx. 01 sessions
+Hierarchical task analysis, Usability evaluation techniques (Cognitive walkthrough, Norman’s
+model of interaction, heuristic evaluation, SUS, etc.) - Approx. 04 sessions
+On field practical exercise**
+
+5     Module 5 - Evaluating Cognitive Performance: workload, measurement, and design prioritisation   5
+
+[PAGE 2]
+What is mental workload, objective vs subjective measures, NASA-TLX, subjective assessment
+tools for measuring perceived mental workload, and prioritisation frameworks (severity ×
+frequency × impact), Subjective Workload Assessment Technique
+On field practical exercise (prototyping/mock-ups/testing)**
+Final Presentation and Discussion
+Total                                                                               40
+*sequencing of modules/topics may be adaptively reorganized to align with ongoing studio briefs, field opportunities, or
+invited expert sessions
+**studio sessions also include site visits, user research, usability assessment, data analysis, and prototype development.
+Additional independent studio/workshop hours are expected for design iteration and validation.
+
+Pre-requisites, if any: None.
+
+Learning Outcome: By the end of the course students will be able to:
+
+•   Explain basic human information processing and how it constrains interface design.
+•   Apply usability evaluation techniques to identify usability problems.
+•   Produce a low-fidelity (physical/digital) prototype and run a short formative test, synthesizing findings into
+prioritized design changes.
+•   Design displays/controls that reduce cognitive load and support decision making.
+
+Assessment Criteria and Weightage:
+
+•   Module-wise exercises
+•   Mid-Module practical exercise: Individual/ Group: Cognitive task analysis report and usability testing + user
+formative test report and reflection journal (short) (studio deliverable)
+•   End-Semester  practical  exercise:  Individual/group  applied  redesign/proto +  presentation  (studio
+deliverable)
+•   End-Semester examination
+•   Short quiz / theory test (closed-book)
+•    Participation and in-class critiques
+
+Any other remarks:
+
+Classroom lectures will be complemented by on-field exercises and interface prototyping activities. These activities
+may include field familiarization visits, user research, task and usability analysis, interface mock-ups, and formative
+usability testing of prototypes. Additional independent studio/workshop hours are expected for iterative design
+refinement and validation.
+
+References (suggested readings):
+
+John D Lee, Christopher D. Wickens, Yili Liu, Linda Ng Boyle. Designing for People: An Introduction to Human Factors
+Engineering (2017)
+
+Salvendy, Gavriel, ed. Handbook of human factors and ergonomics. John Wiley & Sons, 2012.
+
+Mark S. Sanders, Ernest James McCormick. Human Factors in Engineering and Design (McGraw-Hill)
+
+Norman, D. A. The Design of Everyday Things.
+
+Park, C. W., & Alderman, J. (2018). Designing across senses: a multimodal approach to product design. " O'Reilly Media, Inc.".
+
+Research papers and other reference materials (based on assignments)
+
+Dated: 06.04.2026                                           Proposer: Ashish Kumar Singh
+
+Dated:_______________                      DUGC/DPGC Convener:___________________
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC
+
+Dated:____________________________

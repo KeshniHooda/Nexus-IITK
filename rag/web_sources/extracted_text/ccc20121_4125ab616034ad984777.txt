@@ -1,0 +1,759 @@
+[Page 1]
+REPORT OF THE CORE CURRICULUM COMMITTEE (CCC) ASSIGNING CORE 
+TEACHING LOAD FOR 2012-2013-I SEMESTER 
+ 
+GUIDELINES FOR DRAWING INSTRUCTOR- IN- CHARGE 
+FOR CORE COURSES 
+(Based on the recommendation of Manindra Agarwal committee) 
+ 
+1. A course should stay with the same department for two consecutive years before moving to 
+another, if several departments have the capability to provide the instructor- in-Charge. 
+Accordingly, the Instructor–in–Charge is to be drawn from various departments as under for the 
+next eight years: 
+
+Course No. & Title 
+2010-11 
+& 
+2011-12 
+2012-13 
+& 
+2013-14 
+2014-15 
+& 
+2015-16 
+2016-17 
+& 
+2017-18 
+TA101 (ENGINEERING GRAPHICS) 
+CE 
+ME 
+CE 
+AE 
+ESO201 / ESO202 (THERMODYNAMICS) 
+AE 
+CHE 
+ME 
+CHE 
+ESO202 / ESO204 (SOLID MECHANICS) 
+ME 
+CE 
+AE 
+CE 
+ESO204 / ESO212 (FLUID MECHANICS) 
+CHE 
+AE 
+CHE 
+ME 
+ 
+2. For all courses not covered in (1) and (2) above the Instructor-in-Charge will come from 
+departments as follows: 
+ 
+Department (s) 
+Course(s) 
+Biological Science & Bioengineering 
+ESO206 (Principles of Biotechnology); 
+LIF101Life Sciences 
+Chemistry 
+CHM101, CHM102R, CHM201 
+Civil Engineering 
+ESO208 (Comp. Methods) 
+Computer Science & Engineering 
+ESC101 (Computing); 
+ESO207 (Data structure and algorithm) 
+Electrical Engineering 
+ESO203 (Introduction to EE) 
+Humanities & Social Sciences 
+HSS-I, HSS-II, ENG112R 
+Materials Science & Engineering 
+ESO205 (Materials), TA201 
+Mechanical Engineering 
+ESO209(Dynamics), TA202 
+Mathematics & Statistics 
+MTH101N, MTH101R, MTH102R, MSO202a, MSO203b 
+Physics 
+PHY101, PHY102, PHY 103, PSO201a, PSO202b
+
+[Page 2]
+TABLE 1 : 
+ 
+ Core Course teaching requirements for Academic Session 2012-2013-I Semester 
+ 
+Course(s) 
+Course No., Name and Units 
+No. of 
+Students 
+estimated 
+No. of 
+Sections 
+Instructor 
+Units 
+Required 
+Tutorial 
+Lab. 
+Units 
+
+First 
+Semester 
+CHM 101 Chemistry Lab 0-0-3 [03] 
+420 
+- 
+12 
+1 
+13 
+MTH 101 Mathematics-I 3-1-0 [11] 
+840 
+8 
+- 
+4 
+12 
+PHY 101 Physics Lab. 0-0-3 [03] 
+420 
+- 
+12 
+1 
+13 
+PHY 102 Physics-I 3-1-0 [11] 
+420 
+4 
+- 
+2 
+6 
+PHY 103 Physics -II 3-1-0 [11] 
+420 
+4 
+- 
+2 
+6 
+ESC 101 Computing 3-1-3 [14] 
+420 
+12 
+12 
+2 
+14 
+LIF 101 Intro. to Biology** 2-0-0 [06] 
+420 
+- 
+- 
+1 
+1** 
+TA 101 Engineering Graphics 2-0-3 [09] 
+420 
+12 
+12 
+2 
+14 
+Third 
+Semester 
+ESC201 Introduction to Electronics 3-1-3 [14] 
+420 
+12 
+12 
+2 
+14 
+TA201 Manufacturing Process** 1-0-3 [06] 
+420 
+- 
+5 
+1 
+6** 
+TA202 Manufacturing Process ** 1-0-3 [06] 
+420 
+- 
+5 
+1 
+6** 
+
+ 
+
+ 
+ 
+ESO 
+ NEW 
+ OLD 
+
+ 
+
+ 
+ESO 201 
+3-1-0 [11] 
+ESO 202 
+(3-1-0-1,4) 
+Thermodynamics 
+ 
+280 
+8 
+- 
+2 
+10 
+ESO 202 
+3-1-0 [11] 
+ESO 204 
+(3-1-0-1,4) 
+Mechanics of Solids 
+ 
+245 
+7 
+- 
+2 
+9 
+ESO 203 
+3-1-3 [14] 
+ESO 210 
+(3-1-2-0,5) 
+Intro. To Elect. Engg. 
+ 
+70 
+2 
+2 
+1.5 
+3.5 
+ESO 204 
+3-1-0 [11] 
+ESO 212 
+(3-1-0-1,4) 
+Fluid Mech. & Rate Proc. 
+ 
+280 
+8 
+- 
+2 
+10 
+ESO 205 
+3-1-3 [14] 
+ESO 214 
+(3-1-3-1,5) 
+Nat. & Prop. of Materials 
+ 
+175 
+5 
+5 
+2 
+7 
+ESO 206 
+3-1-0 [11] 
+ESO 219 
+(3-0-0-1,4) 
+Prin. of Biotechnology 
+105 
+3 
+- 
+1.5 
+4.5 
+ESO207 
+3-0-0 [9] 
+ESO 211 
+(3-0-0-0.4) 
+Data Struc.& Algorithm I 
+ 
+105 
+- 
+- 
+1.5 
+1.5 
+ESO 208 
+3-1-0 [11] 
+ESO 218 
+(3-1-0-0,4) 
+Numerical Methods 
+ 
+210 
+6 
+- 
+2 
+8 
+ESO 209 
+2-1-0 [08] 
+ESO 206 
+Dynamics 
+210 
+6 
+- 
+1.5 
+7.5 
+ 
+SO 
+MSO 202a: 
+3-1-0 [06] 
+ 
+Complex Variables** 
+385 
+4 
+- 
+1 
+3** 
+MSO 203b: 
+3-1-0 [06] 
+ 
+PDEs** 
+490 
+5 
+- 
+1 
+3.5** 
+MTH102R Mathematics 
+3-1-0 [11] 
+70 
+1 
+- 
+1.5 
+2.5 
+ Total Units Required 175 : Science Units = 60; Engineering Science Units = 115 
+
+Note: A. The number of Sections in ESO Courses may change following registration. 
+ B. Guidelines for Teaching Units; 
+ 1. Maximum of 40 students per section in Basic Sciences and in Engineering 
+ Sciences, 100 students per section in MSO202a, MSO203b, MTH101 
+ 2. **Number of Units=(No. of sections)/2 for half course 
+ 2. No. of Tutor(s) : Maximum of the number of tutorial/ lab section(s) 
+ 3. Instructor : For lab Courses, instructor units are 1.0; 
+ For other courses: less than 60 students 
+ 
+ 1.0 unit 
+ 60-150 student 
+ 
+ 1.5 units, 
+ 150-600 students 
+ 
+2.0 units, 
+ More than 600 students 
+4.0 units
+
+[Page 3]
+TABLE 2: Department/IDP-wise Distribution of Core Course instructors for 
+the Academic Session 2012-2013-I Semester. 
+ 
+Sl. 
+No. 
+Department/IDP 
+Course(s) 
+ 1 
+Aerospace Engineering (AE) 
+ESO204 
+ 2 
+Biological Sc. & Bio Engineering (BSBE) 
+LIF101, ESO206 
+ 3 
+Chemical Engineering (CHE) 
+ESO201 
+ 4 
+Chemistry (CHM) 
+CHM101 
+ 5 
+Civil Engineering (CE) 
+ESO202, ESO208 
+ 6 
+Computer Sc. & Engineering (CSE) 
+ESC101, ESO207 
+ 7 
+Electrical Engineering (EE) 
+ESC201, ESO203 
+ 8 
+Humanities & Social Sciences (HSS) 
+ENG112/HSS-1, HSS-2 
+ 9 
+Industrial & Management Engineering (IME) 
+-- 
+10 
+Mathematics & Statistics (MTH) 
+MTH101, MTH102R, MSO202a, MSO203b 
+11 
+Mechanical Engineering (ME) 
+TA101, ESO209, TA202 
+12 
+Materials Science & Engineering (MSE) 
+ESO209, TA 201 
+13 
+Material Science Programme 
+-- 
+14 
+Physics (PHY) 
+PHY101, PHY102, PHY 103
+
+[Page 4]
+TABLE 3: 
+ 
+ Department/IDP-wise Allocation of Instructor’s and/or Tutors for Core Courses in Science & Engineering for 2012-2013-I Semester 
+ 
+Courses 
+Units 
+Reqd. 
+AE 
+BSBE 
+CHE 
+CE 
+CSE 
+EE 
+IME 
+ME 
+MSE 
+MSP 
+CHM 
+MTH 
+PHY 
+DES 
+TOTAL 
+ 
+List (a) : Courses to which the instructor in-charge is always provided by the same department 
+ 
+CHM 101 Chemistry Lab 
+13 
+
+ 
+
+ 
+
+ 
+ 
+1+12 
+
+ 
+1+12 
+MTH 101 Mathematics-1 
+12 
+
+ 
+
+ 
+
+ 
+
+4+8 
+
+4+8 
+PHY 101 Physics Lab 
+13 
+
+ 
+
+ 
+
+ 
+
+ 
+1+12 
+ 
+1+12 
+PHY 102 Physics-1 
+6 
+
+ 
+
+ 
+
+ 
+
+ 
+2+4 
+ 
+2+4 
+PHY 103 Physics -2 
+6 
+
+ 
+
+ 
+
+ 
+
+ 
+2+4 
+ 
+2+4 
+ESC 101 Computing 
+14 
+
+ 
+ 
+2+12 
+
+ 
+
+ 
+
+ 
+2+12 
+LIF 101 Intro. to Biology 
+1** 
+ 
+1 
+
+ 
+
+ 
+
+ 
+
+ 
+1 
+ESO 203/210 Elect. Engg. 
+3.5 
+
+ 
+
+1.5+2 
+
+ 
+
+ 
+
+1.5+2 
+ESO 205/214 Prop. of Materials 
+7 
+
+2 
+
+ 
+
+2+2 
+1 
+
+ 
+ 
+2+5 
+ESO 206/219 Prin. of Biotechnology 
+4.5 
+ 
+1.5+3 
+
+ 
+
+ 
+
+ 
+
+ 
+1.5+3 
+ESO 207/211 Data Stru. & Algo. I 
+1.5 
+
+ 
+ 
+1.5 
+
+ 
+
+ 
+
+ 
+1.5 
+ESO 208/ESO218 Numerical Methods 
+8 
+
+2 
+2+2 
+
+ 
+ 
+2 
+
+ 
+
+2+6 
+ESO 209/ESO206 Dynamics 
+7.5 
+3 
+
+ 
+
+ 
+1.5+3 
+
+ 
+
+ 
+1.5+6 
+ESC 201 Introduction to Electronics 
+14 
+
+ 
+
+2+12 
+
+ 
+
+ 
+
+2+12 
+MTH 102R Mathematics 
+2.5 
+
+ 
+
+ 
+
+ 
+
+1.5+1 
+
+1.5+1 
+ 
+List (b) : Modular courses where the number of tutors/sections required is twice the number of units mentioned in the table below. 
+MSO 202a: Complex Variables 
+3 
+0.5 
+
+ 
+ 
+1 
+ 
+0.5 
+
+ 
+1+0 
+
+1+2 
+MSO 203b: PDEs 
+3.5 
+0.5 
+
+0.5 
+ 
+0.5 
+ 
+0.5 
+0.5 
+
+1+0 
+
+1+2.5 
+ 
+List (c) : Courses where instructor-in-charge is provided by two or more departments 
+ 
+TA 101 Engg. Graphics 
+14 
+4 
+
+4 
+
+ 
+2+4 
+
+ 
+
+ 
+2+12 
+TA 201 Manuf. Process (MSE) 
+6** 
+
+ 
+
+ 
+
+1+5 
+
+ 
+
+1+5 
+TA 202 Manuf. Process (ME) 
+6** 
+
+ 
+
+ 
+ 
+1+5 
+
+ 
+
+ 
+1+5 
+ESO201/202 Thermodynamics 
+10 
+1 
+ 
+2+4 
+
+ 
+ 
+3 
+
+ 
+
+ 
+2+8 
+ESO202/204 Mech. of Solids 
+9 
+1 
+
+2+2 
+
+ 
+2 
+2 
+
+ 
+
+2+7 
+ESO204/212 Fluid Mechanics 
+10 
+2+2 
+ 
+2 
+2 
+
+ 
+2 
+
+ 
+
+ 
+2+8 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+If units are assigned as m + n, then m indicates Instructor units and n indicates tutor unites; If units are assigned as n, then 
+n indicates tutor units only. 
+# As per the discussion in IAC meeting on 19 April 2011, the upper limit of the number of sections in TA201 is to be 10 
+** No. of tutor units for half-courses is computed as (# of tutorial sections)/2. 
+ 
+ ( Pankaj A Apte) 
+ Chairman, CCC
+
+[Page 5]
+Notes : 
+ 
+1. In case of increase of sections, the parent department is requested to provide the extra 
+tutor(s). 
+2. In some courses, maximum registration is limited by the capacity of the room assigned. 
+3. Note that several ESO/SO courses are optional for various departments as listed below. 
+Therefore in some cases registration may exceed the above estimates, depending upon 
+students’ choice of courses. 
+
+Department 
+(strength) 
+Optional
+(This list excludes compulsory ESO/SO courses) 
+ ESO/SO courses in 3rd semester 
+AE (40) 
+None 
+BSBE(40) 
+ESO201,205,208 
+CHE(76) 
+None 
+CE(105) 
+None 
+CHM(28) 
+ESO201,202,203,204,205,206,207,208,209,MSO202a,MSO203b 
+CSE(92) 
+ESO201,202,203,204,205,206,208,209,MSO202a,MSO203b 
+EE(131) 
+ESO201,205,207,208 
+ECO (38) 
+ESO201,202,203,204,205,206,207,208,209,MSO202a 
+ME(99) 
+None 
+MSE(97) 
+None 
+MTH(49) 
+ESO201,202,203,204,205,206,208,209,MSO202a,MSO203b 
+PHY(28) 
+ESO201,202,203,204,205,206,207,208,209,MSO202a,MSO203b

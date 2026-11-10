@@ -1,0 +1,91 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course
+
+1.  Course No:   PHY692
+
+2.  Course Title:  Measurement Techniques
+
+3.  Per Week Lectures:  2(L), Tutorial: 0 (T), Laboratory: _  6_(P), Additional Hours[0-2]: 0 (A),
+
+Credits (3*L+2*T+P+A): 12_                  Duration of Course: Full Semester
+
+4.  Proposing Department/IDP : Physics
+
+Other Departments/IDPs which may be interested in the proposed course:
+
+Other faculty members interested in teaching the proposed course: Krishnacharya, Chanchal Sow
+
+5.  Proposing Instructor(s): Aditya H. Kelkar, Venkata Jayasurya Yellapragada
+6.  Course Description:
+
+A) Objectives: This course is to discuss basic concepts of experimental measurements, and the
+introduction of experimental and data  analysis techniques used  in various domains of
+experimental research. The course will comprise of lectures on selected topics as well as
+laboratory sessions and hands-on instrumentation.
+
+B) Contents (preferably in the form of 5 to 10 broad titles):
+
+S. No  Broad Title               Topics                                           No. of Lectures
+
+1.                                 Uncertainties in measurement, Probability distribution,   4
+Theory of Error Analysis                                   Error analysis, Mean and expectation value, counting
+statistics, Least square fit.
+2.                          𝜒2 fit, Linear correlation, Polynomial interpolation,      4
+Data analysis and          numerical differentiation, integration, roots of non-
+Numerical techniques       linear equation
+3.                                   Kinetic theory of gases, Gas flow, Vacuum pumps,       4
+Vacuum Technology      Vacuum gauges, leak testing, degassing
+
+4.                                  Basics of diodes and transistors, analog circuits using     5
+Electronics and          opamp, digital electronics, interfacing with
+Instrumentation           microcontroller (Arduino/esp32)
+5.                                Radiation sources, interaction of radiation with matter,   3
+Radiation Detection and    Scintillator detectors, photomultiplier tubes, radiation
+measurement             spectroscopy
+6.                               Thin film deposition, microscopy using SEM, AFM, X-ray   6
+Some specialized            diffraction, Rutherford backscattering, Autocorrelation
+experiments
+
+[PAGE 2]
+C) Laboratory experiments: Thin Film deposition*, Johnson noise/ Shot noise*, Lock-in amplifier*, 4-
+f imaging*, Interferometry, Gamma Ray spectroscopy, Resistivity measurement - Four probe
+technique, PID controller, Chaos – electronic circuits, Rutherford Backscattering using Tandetron
+Accelerator, Force measurement etc.
+D) Pre-requisites, if any (examples: a- PSO201A,or b- PSO201A or equivalent): None
+
+E) Short summary for including in the Courses of Study Booklet
+
+This course is to discuss basic concepts of experimental measurements and introduction of
+experimental and data analysis techniques used in various domains of experimental research. The
+course will comprise of lectures on selected topics as well as laboratory sessions and hands-on
+instrumentation.
+
+Lecture topics: Theory of Error Analysis, Data analysis and Numerical techniques, Vacuum
+Technology, Electronics and Instrumentation, Radiation Detection and Measurement, Some
+specialized experiments
+
+Laboratory experiments: Thin Film deposition*, Johnson noise/ Shot noise*, Lock-in amplifier*,
+4-f imaging*, Interferometry, Gamma Ray spectroscopy, Resistivity measurement - Four probe
+technique, PID controller, Chaos – electronic circuits, Rutherford Backscattering using Tandetron
+Accelerator, Force measurement etc.
+
+7.  Reference
+books:
+Data reduction and error analysis by Bevington and Robinson
+Vacuum Technology by Nagamitsu Yoshimura
+Radiation detection and measurement by G. F. Knoll
+Art of Electronics by Horowitz and Hill
+
+8.  Any other remarks:
+
+Dated: 16/6/25         Proposer: Aditya H. Kelkar
+
+Dated:             DUGC/DPGC Convener:                  _
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC
+
+Dated:

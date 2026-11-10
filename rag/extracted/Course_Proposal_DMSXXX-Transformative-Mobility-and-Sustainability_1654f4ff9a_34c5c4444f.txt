@@ -1,0 +1,236 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Department of Management Sciences
+
+Proposal for a New Course
+
+1.  Course No:
+
+2.  Course Title: Transformative Mobility and Sustainability
+
+3.  Units: 3-0-0-0 (10)
+
+4.  Duration of Course:
+
+5.  Proposing Department: DoMS
+
+6.  Other Departments:
+
+7.  Proposing Instructor(s): Suvendu Naskar, Anil Srivastava
+
+8.  Office Hours:
+
+9.  Pre-requisite Courses: None
+
+10. Course Description:
+
+Mobility has been an integral part of the human evolution and has always played
+
+a critical role in socio-economic growth of a society or a country. With increased
+
+global attention on environment and sustainability mobility’s contribution to air
+
+pollution and environmental degradation is studied, but it is not studied/researched
+
+independently keeping it at the centerstage. A course on Transformative Mobility is
+
+timely because world is in the middle of a new mobility revolution where mobility is
+
+one of the primary drivers for economic growth, ease of living and reducing
+
+emissions. Mobility, which has always played an important role in evolution and
+
+growth of a society, is no longer just about transportation. With the emergence and
+
+proliferation of cutting-edge technologies coupled with their tremendous impact on
+
+economy and citizens’ life, mobility is reshaped by clean energy, urbanization, climate
+
+goals,  geo-political considerations, changing business models and new  policy
+
+[PAGE 2]
+frameworks. It is important that we study all the facets of changes taking place in
+
+the movement of people and goods and how is it impacting the socio-economic
+
+fabric of society and country at large. This course will provide an insight into the
+
+paradigm shift in mobility, rapid technological disruptions, sustainability and
+
+climate change related issues, changing travel patterns because of urbanization,
+
+digital and economic transformation of transportation and above all the policy and
+
+governance challenges. It is expected to provide an integrated perspective as it
+
+integrates Engineering, Economics, Environmental Science, Urban Planning, Data
+
+Science, Behavioral Science, Public Policy and Business management.
+
+Affordable, accessible, inclusive and safe mobility solutions are important strategic
+
+levers for rapid economic development and improving ‘Ease of Living’ in a country.
+
+Shared, connected and clean mobility is increasingly becoming the key principles of
+
+effective mobility solutions across the world. Given our country’s current economic
+
+growth, its commitment to climate goals, it would be pertinent to formulate, study
+
+and analyse our strategies to place ourself as a key driver of the sustainable mobility
+
+revolution in the world.
+
+11. Expected Learning Outcomes:
+
+At the end of this course the student is expected to be able to understand mobility
+
+as a system that enhances access, opportunity, productivity and quality of life. What
+
+emerging  technologies,  public  policies,  climate  considerations,  urbanization,
+
+changing geo-political equations and other forces are transforming the way people
+
+and goods move in a country. The changing role of mobility in the development of a
+
+country and the  complexities  in framing  policies  related with  mobility and
+
+transportation for a country along with related sustainability issues. The student is
+
+expected to be able to evaluate technologies, understand urbanization and public
+
+policy issues impacting mobility paradigm.
+
+12. Course Contents: (preferably in the form of 5 to 10 broad titles):
+
+[PAGE 3]
+Sr.                                                                No. of
+Broad Title                              Topics
+No.                                                                       Lectures
+
+Mobility: The Big What is mobility and why mobility matters.
+Picture           Mobility and access at the cusp of a revolution:
+1.                                                                  3
+Mobility as an enabler of Economic Growth, Jobs,
+Markets, Education, Health Care, Social Inclusion.
+
+Systems approach to Mobility, Passenger & Freight
+Mobility, key actors and their interrelationships:
+Mobility           Vehicles, Source of Energy, Infrastructure, Data,
+2.                                                                  4
+Ecosystem        Platforms, Operators & Government. Impact of
+technological advancements to wider mobility eco
+system
+ICE vs Electric Motor, Convergence of Technologies,
+Forces             Geo-political and Economic Considerations, Mobility-as-
+3. Transforming      a-Service, Shared-Connected-Clean-Intermodal            4
+Mobility           Mobility, Climate transition and AI revolution.
+Disruptions - learning curve and pace of adoption.
+Need to change from fossil fuel to renewable sources –
+Changing Source
+Advanced cell chemistries, Ecosystem of batteries
+of Energy –
+4.                    including fuel cells, integration with grid.                 3
+Electrification – EV
+Seminar on “Advanced Cell Chemistries and Evolution of
+Ecosystem
+Battery Technologies”.
+Intelligent cities and dynamic mobility management.
+Project – to design an AI based mobility command
+center of a city.
+Urbanization and Role of mobility in shaping a city or shape of a city
+5.                                                                  4
+Mobility         determines mobility in a city. Data driven interventions-
+VAHAN portal.
+Demand forecasting, traffic management and urban
+planning.
+
+Traditional value chain-dealer and vehicle centric,
+Economics of
+6.                  emerging value chain-energy source-vehicle-software-
+Transformative                                                    3
+data-mobility as a service. Micro and macro level
+Mobility
+implications-global perspective. Recycling of batteries.
+
+[PAGE 4]
+Government’s role as mobility architect - active vs
+Government
+passive. Roadmap for transformative mobility by
+Policy &
+7.                    introducing a sustainable ecosystem in India. Scrapping     3
+Regulations –
+and recycling policies. Innovations hand in hand with
+Existing & Future
+public good.
+
+Pace of construction of highways, low-cost air
+connectivity in underserved regions and new air routes,
+India’s Mobility   growth of waterways, energizing rural roads program,
+8.                                                                  4
+Transformation   growth of EVs, energy transition.
+Policy Papers prepared by groups on Mobility
+Transformation in India - Presentation and Discussion.
+
+13. Remarks:
+
+India is now the third largest automobile manufacturer in the world, is the fastest
+growing automobile market and is the fastest growing aviation market in terms of
+passenger traffic, with largest population in the world and being the fastest growing
+large economy, its performance on indicators of peoples’ and goods movement is
+low. Movement of people and goods has a direct correlation with economic growth,
+with that perspective, country  is making heavy capital expenditure (>$100B+
+annually) and doing aggressive  policy  restructuring, to increase  efficiencies
+dramatically (cut down transport delays etc.), though it has to bridge a vast gap to
+meet global efficiency benchmarks. Mobility as a sector is bound to grow and gain
+importance. The course is to expose students to a newer area which is an integral
+part of economic activity and more importantly a major contributor to air
+pollution. Disruptive and major changes are taking place in the movement of
+people and freight and how to make it sustainable without making it economically
+unviable is a major challenge to the world and particularly to our country, having
+the largest pool of people, who are gradually moving upwards in financial ladder.
+The course will also have participation of practitioners, policy makers, start-ups and
+industry experts in proposed workshops and seminars.
+
+14. Textbooks:
+1. Clean Disruption of Energy and Transportation: How Silicon Valley Will Make
+Oil, Nuclear, Natural Gas, Coal, Electric Utilities and Conventional Cars
+Obsolete by 2030 – Tony Seba
+2. Tony Seba’s Clean Disruption – 10 years later: RethinkX : Tony Seba, Adam
+
+[PAGE 5]
+Dorr, Bradd Libby, Taylor Hinds
+3. Commoning Mobility for a Low-Carbon Future-Peter Aday, Tim Cresswell,
+Jane Yeonjae Lee, Anna Nikolaeva
+4. Mobility Revolution - How AI, Evs, Robotaxis, and New Modes Radically
+Transform the Ecosystem – Marc Amblard
+5. Transformations in Mobility: Trends, Disruptions and the Future of Mobility
+and Transportation – Gilles Roucolle
+6. Human Transit: How Clearer Thinking about Public Transit Can Enrich Our
+Communities and Our Lives - Jarrett Walker
+
+15. References:
+
+1.  Moving Forward Together: Enabling Shared Mobility in India: NITI Aayog-RMI
+Report
+2.  World Bank – Urban Mobility & Accessibility: Open Knowledge Repository
+3.  Goods on the Move: Efficiency & Sustainability in Indian Logistics: NITI Aayog-
+RMI
+4.  Valuing Society First: An Assessment of the Potential for a Feebate Policy in
+India, NITI Aayog-RMI Report
+5.  Transformative Mobility Solutions for India, NITI Aayog-RMI
+6.  Data-Drive Mobility: Improving Passenger Transportation through Data NITI
+Aayog-RMI Report
+7.  Transforming Freight Movement- A Perspective on the Future of Goods
+Transport in India, NITI Aayog - RMI Report
+
+Dated: 09/10/2026  Proposer: Suvendu Naskar    Signature:
+
+Dated: 09/10/2026  Proposer: Anil Srivastava     Signature:
+
+Dated:           DPGC Convener:                  _
+
+The course is approved / not app.
+
+Chairman, SUGC/SPGC                        Dated:

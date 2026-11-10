@@ -1,0 +1,52 @@
+[Page 1]
+Proposal for a New Course
+Department of Computer Science and Engineering,
+Indian Institute of Technology Kanpur
+Title: Generative Artificial Intelligence
+Course number: CS787
+Proposers: Dr. Subhajit Roy and Dr. Arnab Bhattacharya
+Units: 3-0-0-0 [9]
+Pre-requisites: Bachelor-level algorithms, statistics and programming courses or consent
+of instructor
+Estimated student enrollment: 50
+Course Description:
+Artificial Intelligence (AI) has become an important tool in almost every discipline. Re-
+cent advances in large language models (LLMs) has generated a lot of interest in generative
+AI techniques.
+In this course, the basics of generative AI will be covered. The course will have three
+broad dimensions.
+First, it will discuss how language models are trained and how they
+generate output. Next, the course will discuss effective ways of using these generative AI
+models. Finally, important applications using generative AI techniques will be discussed.
+Besides the lectures by the instructor, the students will be asked to present a recent paper
+in the class and to participate in the discussion. They will also be required to complete a
+group project that will provide them with a hands-on experience on working with the tech-
+niques taught in the class.
+Course Contents: 27 lectures/40 hours
+1. Artificial Neural Networks – 7 lectures
+• Feed-forward Networks
+• Recurrent Neural Networks (RNN)
+• Convolutional Neural Networks (CNN)
+1
+
+[Page 2]
+2. Transformers – 3 lectures
+3. Large Language Models (LLMs) – 2 lectures
+• Pre-training
+• Continual pre-training
+• Fine-tuning
+4. Using LLMs – 2 lectures
+• Prompting strategies
+• Thought structures
+5. Retrieval-augmented Generation (RAG) – 2 lectures
+6. LLM Agents – 3 lectures
+7. Multi-modal LLMs – 4 lectures
+8. Applications of Generative AI – 4 lectures
+Reading Material: The material will be mostly taken from various journal articles, con-
+ference proceedings, blog posts, teaching videos, etc. available online.
+Signature of proposers
+The course is approved / not approved.
+Convenor, DPGC
+Chairman, SPGC
+Dept. of CSE
+2

@@ -1,0 +1,84 @@
+[Page 1]
+Indian Institute of Technology, Kanpur
+Proposal for a New Course
+Course No. : MTH XXXXX
+Course title: An Introduction to Geometric Group Theory
+Course Objective : Geometric group theory (GGT) is a relatively new and fast emerging
+area of Mathematics in India. It is devoted to study of finitely generated groups by looking
+at its action on various geometric objects. GGT got popularized by the seminal work of
+Mikhael Gromov, in 1987, on Hyperbolic groups. GGT has close interactions with low
+dimensional topology, hyperbolic geometry, algebraic topology and differential geometry.
+Some recent developments connect GGT with measure theory and functional analysis. This
+course is intended to give an exposition of central objects and concepts used in GGT. A
+student who has basic knowledge of topology, group theory and elementary geometry will
+be able to grasp the subject.
+Prerequisites: Topology (MTH304), Abstract Algebra (MTH 204)
+Credits: 3-0-0-0 [9]
+Semester: Even Semester
+Department/IDP: Mathematics and Statistics
+Course Type : Elective Course
+Instructor: Abhijit Pal
+Course Contents:
+Free Groups, Finitely Generated groups, Presentation of a group, Word Metric, Cayley
+Graphs, Quasi-Isometries, Quasi-isometry invariant, Properly discontinuous and
+cocompact group action, Svarc-Milnor Lemma, Ends of a Group, Growth of a group,
+Growth Series. Amalgamated Product of groups, HNN extension, Group acting on a tree,
+Bass-Serre Tree, FA property.
+Hyperbolic Plane, Geodesics & Isometries of Hyperbolic plane, Surface groups, Slim and
+Thin triangles, Hyperbolic metric spaces, Hyperbolic Groups, Divergence of geodesics,
+Stability of quasi-geodesics, Algorithmic properties of Hyperbolic Groups : Word Problem,
+Dehn’s Algorithm Conjugacy Problem, Cone Types, Subgroups of Hyperbolic groups,
+Quasiconvex subgroups, Ping-Pong Lemma. Gromov Boundary of a hyperbolic group.
+
+[Page 2]
+Tentative Lecture wise Distribution :
+Topics
+Number of 50 minutes
+Lectures
+Free Groups, Finitely Generated groups, Presentation of a
+group, Word Metric, Cayley Graphs, Quasi-Isometries,
+Quasi-isometry invariant
+5
+Properly discontinuous and cocompact group action,
+Svarc-Milnor Lemma
+2
+Ends of a Group, Growth of a group, Growth Series
+3
+Amalgamated Product of groups, HNN extension, Group
+acting on a tree, Bass-Serre Tree, FA property
+5
+Hyperbolic Plane, Geodesics & Isometries of Hyperbolic
+plane, Surface groups
+4
+Slim and Thin triangles, Hyperbolic metric spaces,
+Hyperbolic Groups, Divergence of geodesics, Stability of
+quasi-geodesics
+6
+Algorithmic properties of Hyperbolic Groups : Word Problem,
+Dehn’s Algorithm Conjugacy Problem, Cone Types
+7
+Subgroups of Hyperbolic groups, Quasiconvex subgroups,
+Ping-Pong Lemma
+5
+Gromov Boundary of a hyperbolic group
+3
+Recommended books:
+(1) Metric Spaces of Non-Positive Curvature; Martin R. Bridson, Andre
+Haefliger; Springer,
+(2) A course on geometric group theory;Brian H. Bowditch, preprint,
+http://homepages.warwick.ac.uk/~masgak/papers/bhb-ggtcourse.pdf
+(3) Topics in Geometric Group Theory; Pierre de la Harpe, Chicago Lectures in
+Mathematics,
+(4) Fuchsian Groups; Svetlana Katok; The University of Chicago Press,
+(5) Hyperbolic Groups; M. Gromov, Essays in Group Theory Pg. 75- 263.
+
+[Page 3]
+Students who can enroll: M.Sc & PhD students and a well trained B.S student in
+Mathematics with required prerequisites can do the course.
+Departments to which the proposed course will be of interest: MTH
+Dated: 25/09/2024
+Proposer: Abhijit Pal
+Dated:_______________ DPGC Convener:___________________
+The course is approved / not approved
+Chairman, SPGC
+Dated:______________________________

@@ -1,0 +1,152 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+
+Proposal for a New Course
+
+1. Course Number: ECO282
+
+2. Course Title: Financial Systems and Crises
+
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours: 0
+
+Credits: (3*L+T +P+A): 9 credits
+
+Duration of Course: Full Semester
+
+4. Proposing Department: Economic Sciences
+
+5. Proposing Instructor: Bikramaditya Datta
+
+6. Course Description:
+
+This course provides a comprehensive understanding of how financial systems are
+structured, how they function, and why they periodically fail. Students will learn to analyse
+financial institutions, understand money and payment systems, and apply crisis theory to
+historical and contemporary episodes.
+
+Part I (Financial Systems) examines the theory and practice of banking, central banking,
+international finance, money and payment systems, culminating in theories of financial
+cycles and instability. Part II (Financial Crises) analyses: the mechanisms that cause fragility
+to build, the triggers and amplifiers that turn fragility into crisis, and the policy responses
+that determine recovery. The course emphasises both the economics of financial systems
+(why they are structured as they are, why they fail) and the engineering of financial stability
+(how systems can be designed, regulated, and made more robust).
+
+A) Objectives: Upon completion, students will be able to:
+
+1. Analyse financial institutions using models of intermediation, bank fragility, and central
+banking;
+
+2. Explain how money and payment systems work;
+
+3. Apply theories of financial cycles to understand boom-bust dynamics;
+
+4. Diagnose financial crises using frameworks for amplification, contagion, and currency
+collapse;
+
+5. Evaluate regulatory responses and financial system design.
+
+~ 1 ~
+
+[PAGE 2]
+B) Contents:
+
+S. No.   Broad Title               Topics                               No. of
+Lectures*
+
+Part I    Financial Systems
+
+1.     Banks and  Financial  Functions of finance, flow of funds,
+Intermediation           Diamond delegated monitoring model,
+4
+bank balance sheets, credit creation,
+maturity transformation
+
+2      Bank Fragility and Central Diamond-Dybvig model, multiple
+Banking                      equilibria, deposit insurance, lender of last
+4
+resort, Bagehot’s rule, monetary policy
+transmission
+
+3        International  Financial  Reserve currencies, Triffin dilemma,
+System                       capital flows, exchange rate regimes,            2
+impossible trinity
+
+4      Money and Payment       Evolution of money, bank-railed
+Systems                  payments, fast payment systems,               2
+stablecoins, CBDCs
+
+5        Financial Cycles and        Financial Instability Hypothesis, Adaptive
+2
+Instability                 Markets, credit cycles
+
+Part II  Financial Crises
+
+6        Bubbles, Credit Booms,    Keynesian beauty contest, capital
+and Shadow Banking       misallocation, securitisation, shadow            3
+banking, SVB
+
+7        Systematic Risk,
+Liquidity spirals, fire sales, doom loop,
+Amplification, and                                                  3
+sovereign-bank nexus
+Contagion
+
+8       Currency Crises and       Currency crises models, sudden stops,
+Policy Responses          unconventional monetary policy, fiscal           3
+policy in crises
+
+9        Recovery, Regulation, and  Leverage cycle, balance sheet recessions,
+Lessons                   macro-prudential policy, Basel framework,       3
+twin balance sheet crisis
+
+*Duration of each lecture = 75 minutes.
+
+C) Pre-requisites: Probability (HSO201/MSO201/MSO205/CS203).
+
+~ 2 ~
+
+[PAGE 3]
+D) Short summary for including in the Courses of Study Booklet: This course examines how
+financial systems are structured, how they function, and why they fail. Part I covers financial
+intermediation (why banks exist and why they are fragile), central banking, international
+finance, money and payment systems, and theories of financial cycles. Part II analyses
+financial crises: bubbles and credit booms, amplification mechanisms, currency crises, and
+policy responses. Cases include the 2008 Global Financial Crisis, SVB 2023, and India’s twin
+balance sheet crisis.
+
+7. Recommended books:
+
+1)  Financial Markets and  Institutions by Frederic Mishkin, Stanley Eakins, Tulsi
+Jayakumar, and Hemant Manuj. Pearson. 10th edition, 2024.
+
+2) The Economy 2.0 (Macroeconomics) by the CORE Econ Team. 2025. Available
+online at https://books.core-econ.org/the-economy/index.html
+
+3) A Crash Course on Crises by Markus Brunnermeier and Ricardo Reis. Princeton
+University Press. 2023.
+
+4) Quest for Restoring Financial Stability in India by Viral Acharya. Vintage Books.
+2023.
+
+5) Understanding  Financial  Crises by  Franklin Allen and Douglas  Gale. Oxford
+University Press. 2009
+
+6) Adaptive Markets by Andrew Lo. Princeton University Press. 2019.
+
+7) Macroeconomics  for  Professionals by  Leslie  Lipschitz  and  Susan  Schadler,
+Cambridge University Press. 2019.
+
+8) Global Financial Systems by Jon Danielsson. Pearson. 2013.
+
+Dated: January 25, 2026.    Proposer: Bikramaditya Datta
+
+Dated:____________    DUGC Convener: _____________
+
+The course is approved / not approved
+
+Chairman, SUGC
+
+Dated: _______________
+
+~ 3 ~

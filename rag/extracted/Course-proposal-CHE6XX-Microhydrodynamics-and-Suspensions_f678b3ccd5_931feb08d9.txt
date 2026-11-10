@@ -1,0 +1,93 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+Proposal for a New Course
+
+1. Course No: CHE 6XX
+
+2. Course Title: Microhydrodynamics and Suspensions
+
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours[0-2]: 0 (A),
+Credits (3-0-0-0)                         Duration of Course: Full semester
+
+4. Proposing Department: Department of Chemical Engineering
+
+Other Departments/IDPs which may be interested in the proposed course: ME, MSE, SEE
+
+Other faculty members interested in teaching the proposed course: H. H. Katkar, Dipin S. Pillai
+
+5. Proposing Instructor(s): Indranil Saha Dalal
+
+6. Course Description:
+A) Objectives: This course aims to introduce microhydrodynamics leading to macroscopic
+phenomena in suspension dynamics. The concepts are expected to be useful for dynamics in
+a variety of systems relevant to chemical engineers, including suspensions, polymer
+solutions and even biological systems like blood, which is a essentially a suspension of
+RBCs. The course is aimed primarily towards PG students and would consist of computer-
+based exercises and term projects as well.
+
+B) Contents (preferably in the form of 5 to 10 broad titles):
+Lecture-wise break-up (considering the duration of each lecture is 50 minutes)
+
+S.                                                                 No. of
+Broad Title                        Topics
+No.                                                                  Lectures
+Equations of fluid dynamics, buoyancy and
+1.   Viscous flows               drag, properties of Stokes flow – linearity,    4
+reversibility and instantaneity
+Single sphere flows – rotation, translation,
+Single sphere in Stokes
+2.                                  straining,   hydrodynamic   force,   torque,    5
+flow
+stresslet, Faxén laws
+Point  force  solution,  point  torque  and
+stresslet,  integral  representation,  multipole
+3.   Solution techniques                                                6
+representation,  resistance  matrices,  slender
+body theory, boundary integral method
+Sedimenting   pair,   pair   in   shear,   pair
+4.   Pair interactions                                                   5
+lubrication interactions, Stokesian dynamics
+Probability distributions, ensemble average,
+Random  walks  and  diffusion,  Brownian
+5.   Stochastic concepts                                                5
+motion,   Stokes-Einstein    relation   and
+Smoluchowski equation, Langevin equation
+Settling of a suspension of spheres, influence
+6.   Sedimentation              of    walls,    velocity    fluctuations   and    4
+hydrodynamic diffusion
+Suspension     viscosity,    non-Newtonian
+rheology in suspensions, microstructure of
+7.   Shear flow                                                       6
+sheared suspensions, constitutive modelling
+of suspension stress, shear-induced diffusion,
+
+[PAGE 2]
+shear-induced migration
+Oseen  solution,  settling  at  finite  inertia,
+8.   Finite inertia                                                      5
+migration in pressure-driven flows
+
+C) Recommended pre-requisites, if any: PG level transport phenomena course or equivalent
+
+D) Short summary for including in the Courses of Study Booklet:
+Stokes flow, Resistance matrices, Pair interactions, Sedimentation, Suspension viscosity,
+Shear-induced diffusion and migration
+
+7. Recommended text/reference books:
+1.   Élisabeth Guazzelli and Jeffrey F. Morris, A physical introduction to Suspension Dynamics,
+Cambridge University Press (2012).
+2.   S. Kim and S. J. Karrila, Microhydrodynamics: Principles and selected applications, Dover
+publications (2005).
+
+8. Any other remarks: Home assignments and quiz/exams may also consist of computer-based
+exercises (preferably with Python/Matlab).
+
+Dated:12/2/2025                       Proposer: Indranil Saha Dalal
+
+Dated:                    DPGC Convener:
+
+The course is approved / not approved
+
+Chairman, SPGC
+
+Dated:

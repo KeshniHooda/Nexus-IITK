@@ -1,0 +1,65 @@
+[PAGE 1]
+Upload2010112.pdf  UPDATED ON 13-JAN-2011
+
+REGISTRATION DATA STATISTICS FOR 2010-11/SECOND
+
+TOTAL NUMBER OF COURSES BEING OFFERED =                       486
+EXLCUDE THE THESIS COURSE, SEMINOR, PROJECT, BTP,               347
+SUMMER TRAINING, PRESENTATION
+
+MAXIMUM CLASS SIZE (MTH102N)                                    746
+MINIMUM CLASS SIZE 1 (AT PRESENT THERE ARE 347 COURSES)         1
+
+AVERAGE CLASS SIZE (OF ALL 347 COURSES )                          47.41
+NUMBER OF COURSES WITH 5 STUDENTS OR LESS                      19
+NUMBER OF COURSES WITH 100 STUDENTS OR MORE                    21
+
+AVERAGE CLASS SIZE OF COURSES THAT HAVE                         35.24
+> 5 AND LESS THEN 100 STUDENTS
+
+THE FOLLOWING IS THE NO OF COURSES WITH VARIOUS CLASS
+STRENGTH
+
+1            1
+2            5
+3            3
+4            1
+5            9
+6-10        41
+11-15        29
+16-20        38
+21-25        31
+26-30        34
+31-50        57
+51-75        44
+76-100       33
+> 100        21
+
+347
+
+[PAGE 2]
+13-jan-2011
+Less5-2010112.pdf
+
+2010-11 SECOND SEMESTER
+LIST OF COURSES IN WHICH <= 5 STUDENTS REGISTERED.
+
+CS720   AJAI JAIN                                 VLSI TESTING AND FAU          1
+IME625  R N SENGUPTA                        INDRODUCTION TO STOC         2
+PSY775  BRAJ BHUSHAN                      FUNDAMENTAL OF NEURO       2
+PSY783  L KRISHNAN                        ADVANCED EXPERIMENTA       2
+PSY784  K RAVI PRIYA                          APPLIED SOCIAL PSYCH         2
+PSY787  A K SINHA                         MANAGEMENT OF ORGANI       2
+AE629   K GHOSH                          ADVANCES IN WIND ENE         3
+ME779   N V REDDY                            RAPID PROTOTYPING &          3
+PHY660  PANKAJ JAIN                        GENERAL RELATIVITY &          3
+MTH752 M BANERJEE                         MATHEMATICAL METHODS       4
+CHE623  J K SINGH                          THERMODYNAMICS OF FL        5
+ECO737  VIMAL KUMAR                       ADVANCES IN MICROECO        5
+EE644   P KUMAR                             OPTICAL COMMUNICATIO        5
+ME698K  A GUPTA                             INTERFACES IN SOLIDS          5
+MSE601  D GUPTA                              DISPLAY MATERIALS &           5
+MTH681    I D DHARIYAL                            STATISTICAL DECISION          5
+MTH751  A K MALOO                        ALGEBRA                      5
+NT614   O P SINGH            P MUNSHI       NUCLEAR POWER ENGINE        5
+NT621  M S KALRA          DR S QURESHI    NUCLEAR MEASUREMENTS       5

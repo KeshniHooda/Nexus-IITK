@@ -1,0 +1,118 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course
+
+1.  Course No: BSE6xx
+
+2.  Course Title: Electronics and Signal Processing for Biologists
+
+3.  Per Week Lectures: 2.5(L), Tutorial: 0 (T), Laboratory: 1.5 (P), Additional Hours [0-2]: 0 (A)
+•   Credits (3*L+2*T+P+A): 9
+•  Duration of Course: Full Semester
+
+4.  Proposing Department/IDP: Biological Sciences & Bioengineering
+•  Other Departments/IDPs which may be interested in the proposed course: Cognitive
+Science, Design
+•  Other faculty members interested in teaching the proposed course: Prof. K. S. Venkatesh
+(EE)
+
+5.  Proposing Instructor(s): Prof. Nikunj Bhagat
+
+6.  Course Description:
+
+An introductory course on basic electronics and signal processing techniques for students in
+Biological Sciences, Bioengineering, and related disciplines. The course will teach fundamental
+topics in passive and active electronic systems, as well as time and frequency domain analysis for
+signals and systems typically encountered in a biomedical or neuroscience laboratory. Practical
+hands-on training on electronic circuit design, signal measurements and analysis, will be provided
+through laboratory experiments, demonstrations, and MATLAB programming. There are no
+prerequisites  for  this course and students from both engineering and non-engineering
+backgrounds will gain practical insights in electronics and signal processing through real-world
+applications.
+
+A.  Objectives:
+•  Introduce fundamental concepts in electronics and signal processing.
+•  Provide practical training through lab experiments and demonstrations.
+•   Familiarize with MATLAB programming for biosignal processing.
+
+B. Contents:
+
+S.             Title                                Topics                      No. of
+No.                                                                             Lectures
+1.    Introduction to         •   Basic concepts: voltage, current, R, L, C         4
+electrical circuits &      •   Kirchoff’s laws, Ohm’s law, Superposition
+networks              •   Circuit Analysis – Mesh & Nodal Analysis
+•  Lab practical on R-C circuits*
+
+2.   Semiconductor         •  Semiconductor basics, diodes, rectifiers         5
+electronics             •  BJT transistors, inverters, CE amplifiers
+•  Lab practical on diode and transistor circuits*
+
+[PAGE 2]
+3.    Operational            •   Differential Amplifiers                       5
+Amplifiers (Op-Amp)    •  Input & output impedance, CMRR, feedback.
+•   Inverting & non-inverting amplifiers
+•  Lab practical on basic op-amp circuits*
+4.   Op-Amp Applications    •  Active filters, multiple-feedback filters          6
+•  Instrumentation amplifiers
+•  Lab practical and hands-on demonstration on
+recording ECG, EMG, and EEG signals*.
+
+Mid-Semester
+5.    Introduction to         •   Biological Systems & Biosignals                4
+Signals & Systems       •  Examples of electrical, mechanical, thermal
+biosignals
+•  Continuous & discrete-time signals
+•  Sampling frequency, bandwidth, Nyquist Rate
+and SNR measurements
+6.    Basic Signal            •  Measurement of signal properties: mean,       4
+Processing                   variance, power, ensemble averaging.
+•   Correlation & Covariance
+•  Programming in MATLAB
+7.   Frequency Analysis of   •  Discrete Fourier Transform (DFT), FFT          4
+Signals                 •  Power Spectrum estimation
+•  MATLAB-based examples
+8.    Discrete-Time          •  Discrete-time systems & its types              8
+Systems & Digital       •   Analysis of LTI systems using Convolution
+Filters                 •  Transfer function, magnitude & phase response.
+•  Introduction to filtering, filter types &
+characteristics
+•  Design of Digital Filters using MATLAB
+
+Total  40
+
+(*Prefabricated circuits on breadboards/PCBs will be provided to students in order to reduce the time required
+for laboratory experiments. Demonstrations will be conducted using off-the-shelf/commercial systems)
+
+C.  Pre-requisites: None
+
+D. Short Summary:
+
+This course aims to impart knowledge on fundamental topics in electronics and signal
+processing and familiarize students will real-world applications. The course content is relevant
+for students interested in pursuing a career in interdisciplinary fields such as Biomedical
+Engineering, Neuroscience and Neural Engineering, as well as Rehabilitation Engineering.
+
+7. Recommended Books: Textbooks, Reference books
+•   Electronics for Biologists by Timothy Gawne, Ballacourage Books
+
+[PAGE 3]
+•  Hands-On Electronics: A Practical Introduction to Analog and Digital Circuits by Daniel
+Kaplan and Christopher White, Cambridge University Press
+•   Electronic Principles 9th Edition by Albert Malvino, David Bates, Patrick Hoppe, McGraw Hill
+•   Biosignal and Medical Image Processing 3rd Edition by John Semmlow and Benjamin Griffel,
+CRC Press
+•   Signal Processing for Neuroscientists by Wim van Drongelen, Academic Press
+•   Digital Signal Processing: principles, algorithms, and applications 4th Edition by John Proakis
+and Dimitris Manolakis, Pearson Education
+
+Dated: 20-02-2024                             Dated: _______________
+
+Proposer: Nikunj Bhagat                   DPGC Convener: __________________
+
+The course is approved/not approved.
+
+Chair, SPGC
+
+Dated: ___________________________

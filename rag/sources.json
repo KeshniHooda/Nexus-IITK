@@ -1,0 +1,11 @@
+{
+  "source_group": "IITK DoAA",
+  "seed_urls": [
+    "https://www.iitk.ac.in/doaa/",
+    "https://www.iitk.ac.in/doaa/doaa-archive"
+  ],
+  "allowed_domains": [
+    "iitk.ac.in",
+    "www.iitk.ac.in"
+  ]
+}

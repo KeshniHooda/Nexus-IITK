@@ -1,0 +1,128 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+Department of Mathematics
+Proposal for New Course
+
+Title:                      Regularity Theory for Elliptic PDEs
+Course No.:         MTH7XX
+Credits:                    3-0-0-0(9)
+Semester:             Any
+Duration:                   Full semester
+Department:            Mathematics
+Proposer:               Vedansh Arya
+Prerequisites:             Desirable: Contents of MTH301, MTH404, MTH424, and in-
+structor consent
+Other faculty members  Kaushik Bal, Indranil Chowdhury
+interested  in teaching
+the proposed course:
+Total lectures:             40, 1 lecture = 50 minutes
+
+Course Objective
+
+This is an advanced course on the regularity theory of elliptic partial diﬀerential equations. The
+course develops the principal analytical techniques used to obtain qualitative and quantitative
+regularity estimates for weak and viscosity solutions.
+
+The course begins with a review of Sobolev spaces, weak derivatives, weak solutions, and funda-
+mental inequalities, followed by the study of H2-regularity for elliptic equations. The classical
+Schauder theory is then introduced, providing regularity estimates in H¨older spaces.
+
+We next develop the De Giorgi–Nash–Moser theory for uniformly elliptic equations in diver-
+gence form. The course emphasizes Caccioppoli inequalities, De Giorgi and Moser iteration,
+measure-to-point estimates, oscillation decay, H¨older continuity, and Harnack inequalities. The
+connection with Hilbert’s 19th problem is also discussed.
+
+The ﬁnal part of the course is devoted to the Krylov–Safonov theory for uniformly elliptic
+in non-divergence form. Topics include viscosity solutions, the Aleksandrov–Bakelman–Pucci
+estimate, the Krylov–Safonov measure estimate, H¨older regularity, and Harnack inequalities. If
+time permits, we will also discuss analogous results for parabolic PDEs.
+
+Syllabus and Lecture Allocation
+
+The allocation assumes 40 teaching sessions of 50 minutes each (33 hours 20 minutes). Counts
+are indicative; worked examples, proofs, and consolidation are included within the topic alloca-
+tions.
+
+1
+
+[PAGE 2]
+Module / Topic      Course Content                                        Lectures
+
+1. Review of                                                                                4-5
+ Sobolev spaces and     Weak derivatives and Sobolev spaces W k,p, Hk.
+ weak solutions           Approximation by smooth functions and density results.
+                               Poincar´e and Sobolev inequalities.
+                            Morrey’s inequality and embeddings.
+                      Weak formulations of elliptic equations.
+
+2. H2-regularity for                                                                 4
+ elliptic equations         Diﬀerence quotient method.
+ H2-estimates for Poisson’s equation.
+
+3. Schauder theory                                                                  6
+ for elliptic equations      H¨older spaces and basic properties.
+                           Schauder estimates for variable-coeﬃcient elliptic equations.
+
+4. De                                                                               9
+ Giorgi–Nash–Moser     Connection to Hilbert’s 19th problem.
+ theory: elliptic           Caccioppoli inequality and local boundedness.
+ equations             De Giorgi iteration.
+                            Measure-to-point estimates and oscillation decay.
+                                H¨older continuity of weak solutions.
+                         Moser iteration and local boundedness.
+                         Harnack inequality for uniformly elliptic equations in
+divergence form.
+
+6. Krylov–Safonov                                                                  12
+ theory                   Uniformly elliptic operators in non-divergence form.
+                              Viscosity solutions.
+                     Maximum principles and the Aleksandrov–Bakelman–Pucci
+estimate.
+                           Krylov–Safonov measure estimate.
+                      Weak Harnack inequality.
+                               Oscillation decay and H¨older continuity.
+                         Harnack inequality for non-divergence form elliptic equations.
+
+5. Regularity theory                                                                       4-5
+ for parabolic              Parabolic Sobolev spaces and weak solutions.
+ equations                 Parabolic cylinders and natural scaling.
+                             Parabolic Sobolev inequalities.
+                      De Giorgi iteration for parabolic equations.
+                                H¨older continuity and Harnack inequalities for parabolic
+equations.
+
+Total: 40 lectures
+
+References
+
+1. L. A. Caﬀarelli and X. Cabr´e, Fully Nonlinear Elliptic Equations, American Mathematical
+Society, 1995.
+
+2. L. C. Evans, Partial Diﬀerential Equations, 2nd edition, American Mathematical Society,
+2010.
+
+2
+
+[PAGE 3]
+3. Xavier Fern´andez-Real and Xavier Ros-Oton, Regularity Theory for Elliptic PDE,
+
+DOI:10.4171/ZLAM/28, 2022.
+
+4. D. Gilbarg and N. S. Trudinger, Elliptic Partial Diﬀerential Equations of Second Order,
+Springer.
+
+5. C. Imbert and L. Silvestre, An Introduction to Fully Nonlinear Parabolic Equations, in An
+Introduction to the K¨ahler–Ricci Flow, Lecture Notes in Mathematics, Vol. 2086, Springer,
+2013, pp. 7–88.
+
+6. N. V. Krylov, Lectures on Elliptic and Parabolic Equations in H¨older Spaces, American
+Mathematical Society.
+
+Date: November 2, 2026                    Signature of the Proposer:
+
+Signature of DPGC Convener:
+
+Course Approved / Not Approved
+Signature of Chairman SPGC
+
+3

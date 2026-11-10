@@ -1,0 +1,128 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+
+COURSES OF STUDY
+
+2024
+
+Indian Institute of Technology Kanpur
+KANPUR-208016
+
+[PAGE 2]
+MATERIAL SCIENCE
+
+DEPARTMENT OF MS
+Credits
+Course ID       Course Title                                       Content
+L-T-P-D-[C]
+Crystal structure, Bonding of atoms, Crystal chemistry,
+Equilibrium  thermodynamics,  Phase  equilibria,  Phase
+STRUCTURAL &
+transformations,    Dia,   Para,    Ferro,    Ferri   and
+MAGNETIC
+MS601                                3-0-0-0-9    Antiferromagnetism,   Magnetic   domains,   Anisotropy
+PROPERTIES OF
+effects,  Magnetostriction,  Measurement   of  magnetic
+MATERIALS
+properties, Soft and hard magnetic materials and  their
+technology.
+Metallic  conduction,  Energy  bands,  Brillouin  zones,
+Temperature dependence of metallic conductivity, Impurity
+contributions, Semiconductor  materials, Doping  effects,
+Law of mass action, Electrical resistivity and Hall effect
+ELECTRICAL AND                 measurements, Recombination Processes, pn junctions,
+MS602        DIELECTRIC         3-0-0-0-9  MOS field effect transistors, Semiconductor technology,
+MATERIALS                       Point defects, Diffusion phenomenon, Ionic conduction,
+Temperature and (aliovalent) impurity effects, Superionic
+conductors  and  devices,  Di,  piezo  and  ferroelectric
+materials,   Mechanisms   of   polarization,   Dielectric
+parameters and their measurements.
+Stress and  strain tensors,  Elastic constants,  Effect  of
+structure on elastic behaviour, Elastic stress distributions,
+Viscosity and viscoelasticity in polymers, Yielding criteria,
+MECHANICAL                      Dislocations  and  plastic  deformation  of  metals  and
+MS603     PROPERTIES OF       3-0-0-0-9    ceramics,  Strengthening  mechanisms,  Creep,   Brittle
+MATERIALS                        fracture in ceramics and glasses, Toughening of ceramics
+and composites, Fatigue, Mechanical  testing, Strength
+and engineering design with brittle solids, Heat treatment,
+Powder processing.
+Crystallography, Reciprocal  lattice,  Diffraction methods,
+CHARACTERIZATION                 Electron microscopy,  Metallography, Thermal  analysis,
+MS604                               3-0-1-0-10
+OF MATERIALS                  Chemical analysis, Spectroscopic techniques, Laboratory
+sessions.
+Solidification, Powder processing, Crystal growth, Heat
+MATERIALS                      treatment and microstructures, Nondestructive evaluation,
+MS605                                3-0-0-0-9
+ENGINEERING                   Processing of glasses and polymers, Novel processing
+methods, Thin films, Surface phenomena and corrosion.
+Classification,   Crystal   growth   techniques,   Wafer
+processing, Doping methods, Formation of oxide layer,
+CVD,  MOCVD  and  MBE,   Metallic   contacts  and
+interconnects,   Lithography,   Processing    integration.
+ELECTRONIC                    Photonic  materials  solar   cells,  photodetectors,   light
+MS606
+MATERIALS                       emitting diodes, Superlattice structures, Materials for high
+frequency and high temperature devices, Application of
+linear  and  nonlinear  dielectric  materials,  Electrooptic
+ceramics, Materials for signal processing, transducers and
+digital  data  storage,  Superconducting  materials  and
+
+[PAGE 3]
+applications.
+
+NANOSTRUCTURED
+MS608    MATERIALS: SCIENCE             To be procured
+& APPLICATIONS
+Characteristics of solar radiation, Basic features of solar
+cells, Various junction configurations, pn homojunction,
+MATERIALS FOR                   Schottky  barrier,  Heterojunction, Photo electrochemical
+ENERGY                             cells,    Desired    material    properties,    PromisingMS611                                3-0-0-0-9
+CONVERSION &                  semiconductor materials, Various fabrication techniques,
+STORAGE                        Solid  state  diffusion, Vacuum  evaporation,  Sputtering,
+Thermal   oxidation,  Chemical  displacement,  Plasma
+deposition, Energy storage devices.
+Classification and structure of polymers, Glass transition,
+Linear  viscoelasticity,  Stress  relaxation  and  dynamic
+ENGINEERINGMS614                                3-0-0-0-9   experiments,    Mechanical    models,    Superposition
+POLYMERS
+principles, Effect of structure on mechanical properties,
+Rubber elasticity, Yield and fracture.
+HIGH PERFORMANCE
+MS616     POLYMERS AND                To be procured
+COMPOSITES
+Effects of confinement and finite size zero, one and two
+dimensional  nanostructures(concepts  of  surface  and
+interfacial energies), Intermolecular and interfacial forces
+in organic, polymeric, biological and aqueous systems Van
+der Waals, electrostatic, double layer, acid base, depletion
+interactions,  hydrophobic   force,  layering,  mesoscale
+thermodynamics,   Gibbs   treatment    of    interfaces,
+mesoscale  fluid  dynamics,  thin  soft  films, mesoscale
+phenomena  in  soft matter and  applications: adhesion,
+wetting,  nucleation,  Nanofabrication:  patterning  of  soft
+INTRODUCTION TO
+materials  by  self  organisation and  other  techniques,MS617   NANOMATERIALS AND    3-0-0-0-9
+chemical   self   assembly,artificial   multilayers,   cluster
+NANOTECHNOLOGY
+fabrication, Langmuir Blodget growth, Nanolithography,
+Scanning  probe  lithography,  Micro  contact  printing,
+Synthesis of nanoparticles and films: solgel, hydrothermal,
+freeze drying, intercalation, attrition, ionimplantation, Gas
+phase   condensation,  Chemical  vapour   deposition,
+Nanosuspensions      ferrofluids,     Compaction      of
+nanocrystlline  materials, Carbon nanotubes,  short and
+long term applications and perspectives, Demonstration of
+some techniques in preparation and characterization of
+nanomaterials.
+INTRODUCTION TO
+Interdisciplinary nature of material science, design and
+PROFESSION AND
+technologies; Current themes in materials education andMS888     COMMUNICATION      3-0-0-0-3
+research;  Elements   of   scientific   oral  and   written
+SKILLS FOR MATERIAL
+communication, Scientific ethics and norms.
+SCIENTISTS
+MS698   GRADUATE SEMINAR    0-0-0-0-0   Graduate Seminar
+MS699    M TECH THESIS             ----     M. Tech. Thesis
+MS799      PHD THESIS                ----      Ph. D. Thesis

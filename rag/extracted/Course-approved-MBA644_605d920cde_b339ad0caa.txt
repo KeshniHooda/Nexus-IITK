@@ -1,0 +1,220 @@
+[PAGE 1]
+8
+
+Indian Institute of Management Kanpur
+New Course Proposal
+1. Course Number: MBAxxx    &                                     AtL$f4
+2. Course Title: Cyber Security and Privacy for Managers
+3.  Credits: 3-0-0-1 [10]
+Duration of Course: Full Semester
+4.  Proposing Department: Department of Management Sciences
+Other Department/IDPs which may be interested in the proposed course:
+Other faculty members interested in teaching the proposed course:
+5.  Proposing Instructor(s): Sourya Joyee De
+6. Course Description: Organizations, irrespective of the industry they belong to, are
+constantly under the threat of security and privacy breaches. These risks are further
+fuelled by  digital transformation and the  central role played by customer data
+processing in business operations and strategy. A single incident of data breach can
+wipe out an entire business. Therefore, managing security and privacy risks is a
+business problem. An organization's security and privacy posture are driven by the top
+management and not by firewalls or biometrics. This course emphasizes that the senior
+management has a much more significant role to play in protecting their organizations
+from these digital risks than they may think. The course enables students to understand
+the current security and privacy landscape, security and privacy concerns of the
+customer and the management and discusses managerial strategies to handle privacy
+and security risks and incidents across critical business activities and information
+systems.
+A) Contents
+
+Serial    Broad Title                           Topics                      No. of
+No.                                                                      Lectures
+1.     Key Concepts in    Cyber  Security Attacks, Cyber  Frauds, CIA Triad,  2
+Cyber Security      Antecedents and Consequences of Data Breaches and
+Cyber Frauds
+2.      Enterprise Cyber    5 LoA in Cyber Security, Chief Information Security  3
+Security             Officer (CISO) Role, BoD Engagement in Cybersecurity
+Governance
+3.     Cyber Security      Cybersecurity Risk Management, Relevant Standards  3
+Risk Management   and Frameworks
+Approach
+4.     Cyber Security      Building a  Cyber  Security  Culture,  Cybersecurity  5
+Strategies for       Response  Strategies,  Crisis Communication, Cyber
+Business Managers  Security Policies, SETA, Compliance Issues
+5.     Key  Concepts  in  Defining Privacy, Privacy Risks and their Business      3
+Privacy             Impacts, Privacy Harms, Data Strategies and Privacy
+Impacts
+6.      Privacy  Decision-  Privacy Decision-Making, Privacy Concerns and their  5
+Making       by  Antecedents, Privacy Paradox, Privacy Calculus, Drivers
+Individuals         of  Protection  Motivation  and  Privacy  Protective
+Behaviours
+
+[PAGE 2]
+7.      Privacy Strategies   Data Protection Regulations and Compliance Issues,  7
+for Business        Privacy Policies, Privacy Risk Analysis, Privacy by
+Managers           Default, Privacy by Design, Role of Interventions in
+Managing Customer Privacy Concerns and Decision-
+Making
+
+B) Pre-requisites, if any: None
+7.  References
+1) De, S. J., & le Metayer, D. (2016). Privacy Risk Analysis. Morgan & Claypool
+Publishers.
+2) De, S. J., & Imine, A. (2020). Privacy Risk Analysis of Online Social Networks.
+Morgan & Claypool Publishers.
+3) Whitman, M. E., & Mattord, H. J. (2013). Management of Information Security.
+Cengage Learning.
+4) Whitman, M. E., & Mattord, H. J. (2021). Principles of Information Security.
+Cengage Learning.
+
+Dated: 31 January 2025                   Proposer: Sourya Joyee De
+
+Dated:                         DUGC/ DPGC Convener:
+
+The course is pprove4Ynot approved.
+'''`" `                                    Chairman, SUGC
+
+Dated:
+
+[PAGE 3]
+PG Desk-IITK-DOAA
+
+From:                    DPGC DoMS <dpgc_doms@iitk.ac.in>
+Sent:                          24 February 2025 11:30
+To:                           Pgdesk
+Cc:                              sourya
+Subject:                       Fwd: Proposal for a new course (DoMS)
+
+I        Follow Up Flag:                 Follow up
+Flag Status:                    Flagged
+
+Categories:                     Blue Category
+
+Dear Ravi ii,
+
+The following course completed 21 days of the review process yesterday. The proposer of the course or
+the DPGC have not received any comments on the course outline. Therefore, the outline present in the
+link can be considered as final, and may be considered for approval in the upcoming SPGC meeting.
+
+I propose the following course code: "MBA644" (10 credit): Cyber Security and Privacy for Managers
+
+Best regards,
+
+Subhankar Mukherjee
+DPGC Convenor
+Department of Management Sciences
+IIT Kanpur
+
+Original Message
+
+Subject:Proposal for a new course (DoMS)
+Date:2025-01-31 14:49
+From:DPGC DoMS <dpgc_doms@iitk.ac.in>
+To:Acadstaff <acadstaff@lists.iitk.ac.in>
+
+Dear all,
+
+Please find the link for the proposal for a new course by Dr. Sourya Joyee De from the Department of
+Management Sciences:
+
+Cyber Security and Privacy for Managers: https://iitk.ac.in/doaa/data/NewCourses/Course-proposal-
+M BAXXX-Cyber-Security-and-Privacy-for-Managers.pdf
+
+Please share your feedback/comments, if any, by 22 February 2025 to Dr. Sourya Joyee De
+(sourya@iitk.ac.in) with a copy to the DPGC Convenor (dpgc_doms@iitk.ac.in).
+
+1
+
+[PAGE 4]
+t
+
+Best regards,
+
+Subhankar Mukherjee
+DPGC Convenor
+Department of Management Sciences
+IIT Kanpur
+
+2
+
+[PAGE 5]
+INDIAN INSTITUTE OF TECHNOLOGY KANPUR
+POSTGRADUATE OFFICE
+
+No. A(P)/IITK/course approval/
+March 25, 2025
+
+The Convener, DPGC
+Departments of DOMS/MTH/SEE
+ITT Kanpur
+
+I am directed to communicate the concurrence of the SPGC (2024-25) in its 6th meeting held
+on 27/02/2025 for the approval of new/modification PG course proposal. After detailed
+discussion the following courses were approved.
+
+Course No                       Title                     Credits            Instructor      SPGC Decision
+DMS613     Introduction to Mathematical Finance         3-0-0-0-[9]    Dr. Sourav Majumdar         Approved
+MBA644     Cyber Security and Privacy for Managers    3-0-0-1-[10]   Dr. Sourya Joyee De          Approved
+MBA788M   Monte Carlo Methods in Finance              3-0-0-1-[5]    Dr. Sourav Majumdar         Approved
+MBA789M   Management Sciences                        3-0-0-1-[5]    Dr. Harshal Rajan Mulay       Approved
+Private Equity, Venture Capital and otherMBA790M                                                    3-0-0-1-[5]    Dr. Harshal Rajan Mulay       Approved              Alternative Assets
+MTH619     Representation theory of quivers              3-0-0-0-[9]    Dr. Amit Kuber               Approved
+SEE627       Electric Mobility [Modification]               3-0-0-2-[11]   Dr. Amarendra Edpuganti      Approved
+
+Joint/Assistant Registrar
+Academic Affairs
+
+CC: OARS (DOAA Office) For necessary action
+
+[PAGE 6]
+u.     .f:.3.a.  'S ta:. tS...
+
+MINUTES
+FOR THE 6th MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) HELD
+ON February 27, 2025 (Thursday) AT 11:00 AM
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING
+
+Members Present: Prof(s): D. Chaitanya Kumar Rao on behalf PM Mohite (AE), Suresh Kumar (BSBE), Basker
+Sundararaju (CHM), Ark Verma (CGS), Gourabananda Pahar (CE), Soumik Das on behalf of Dipin S Piliai (CHE),
+J Ramkumar (DES), Sukumar Vellakkal (ECO), imon Mondal (EE), Animesh Mandal (ES), Rajarshi Sengupta
+(HSS), Subhankar Mukherjee (DoMS), Anikesh Pal (ME), Sudhanshu S Singh (MSE), Pritam Chakraborty (MSP),
+Sudhanshu Shekhar (MATH), Sagar Chakrabarty (PHY), Kunal P Mooley (SPASE), Prabodh Bajpal (SEE)
+Members Absent: Prof(s), Piyush Rol (CSE), Pankaj Wahi (NET), Sapam Ranjita Chanu (PSE)
+Senate Nominee : Prof. Abheejeet Mohapatra
+Student representatives. Saurabh Sona Lahamate (231250121
+
+(A) Ratification of minutes of 5`h SPGC meeting held on January 24, 2025
+
+No comments were received. Minutes is confirmed
+
+(B) item requiring SPGC Approval
+
+a) New course approval
+Course No                       Title                     Credits            Instructor             I SPGC Decision
+DMS613     Introduction to Mathematical Finance         3-0-0-0-[9]    Dr. Sourav Majumdar         Approved
+MBA644    Cyber Security and Privacy for Managers    3-0-0-1-[10]   Dr. Sourya Joyee De            i    Approved
+MBA788M,  Monte Carlo Methods in Finance             3-0-0-1-[5]    Dr. Sourav Majumdar         Approved
+MBA789M   Management Sciences                       3-0-0-1-[5]    Dr. Harshal Rajan Mulay       Approved
+Private Equity, Venture Capftai and other                  MBA790M                                                                                        3-0-0-1-[5]    Dr. Harshal Rajan Mulay       Approved                                          Alternative Assets
+MTH619     Representation theory of quivers             3-0-0-0-(9]    Dr. Amit Kuber               Approved
+SEE627       Electric Mobility IModiticaton]               3-0-0-2-[11]   Dr. Amarendra Edpugantl      Approved
+
+b)  Terminatlon under 5.7
+Supervisor & DPGC   SPGC Decision                          S. No   Roll No    Name                       Dept.p     pro                                                                                                g'   Recommendation
+Approved to be                              1.                    Jatln Chaudhary         DOMS  MBA   Recommended                    1241250026                                                                         reported to Senate
+Approved to be                              2.    241010003  Adhikari Thakur Prasad Das  AE      MTech  Recommended                                                                                                                          reported to Senate
+
+c)  Full Time to Part-Time
+Supervisor and DPGC     Remark    SPGC Decision
+S. No   Roll No    Name          De p t     pro g     Recommendation
+CU=78
+TU =54                         1.    231040115   Swati Gupta      EE    MTech     Recommended                          Approved                                                                                                 CPI=9.38
+NOC - attached
+CU=78
+Bingi   Poojari                                                                                                -54                         2.    231040036  Venkatesh       EE    MTech     Recommended                          Approved                                                                                                CPI=9.38
+NOC - attached
+
+Page 1 of 9
+
+'4
+
+""t

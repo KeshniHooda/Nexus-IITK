@@ -1,0 +1,3354 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+
+COURSES OF STUDY
+
+2026
+
+Indian Institute of Technology Kanpur
+KANPUR-208016
+
+[PAGE 2]
+AEROSPACE ENGINEERING
+
+Template for BT Program in Aerospace Engineering
+
+Semester 1    Semester 2   Semester 3     Semester 4      Semester 5     Semester 6    Semester 7   Semester 8
+SCHEME-1 (9)  ETH111 (3)   SCHEME-2   SCHEME-3 HSS-I  SCHEME* HSS-II  SCHEME* HSS-  DE-1 (9)     SCHEME*
+ELC111/ELC11            EME (9-11)   (9-11)              (9)                         II (9)                          HSS-II (9)
+2/ELC113 *
+
+MTH 111 (6)   MTH 113 (6)  ESO202 (11)  ESC201 (14)     AE311 (9)       AE341 (11)     AE463 (3)    AE462 (4)
+MTH 112 (6)   MTH 114 (6)  ESO204 (11)  ESO201(11)     AE321 (9)                    AE461 (7)    AE421 (3)
+PHY 115 (11)   PHY 112 (11)  TA 211 (3)§   AE211 (9)                     AE351 (3)      AE451 (3)    OE-5 (9)
+PHY 111 (3)   CHM 111 (3)  AE201M (5)  AE233M (5)     AE333 (9)       AE322 (9)      DE-2 (9)     UGP-2 /DE-3
+TA 111 (9)     ESC 111 (7)   MSO202M   AE252M (4)     OE-1 (9)        AE334 (9)      UGP-1 (5)    UGP-3 /OE-6
+CHM 112 (4)    ESC 112 (7)   MSO203M   TA212 (3) §      OE-2 (9)                      OE-3 (9)
+CHM 113 (4)    LIF111 (6)    AE209 (8)                                AE 312 (9)     OE-4 (9)
+PE111 (3)      PE112 (3)
+55           52           59-61        55-57           54            50           54         43
+Remarks:
+
+–   At least 9 credits of DE must be taken from Basket-A as below.
+
+‒   Basket-A: AE641 [9], AE662 [9], AE673 [9], AE747 [9], and AE777 [9]
+
+Credit Table for BT Program in Aerospace Engineering
+Course type                    Allowable Credit range   Credit in the department template
+
+Institute Core (IC)             112                  112
+E/SO                         18-45                51*
+Department requirements     144-179                151 (124 DC + 27 DE)
+
+Open electives (OE)            51-57                54
+SCHEME                      54-58                 54-58
+Total for 4-year BT/BS          391-420               422-426*
+
+Template for the BTH program in Aerospace Engineering
+
+Template for 3rd to 8th semester for BTH program in Aerospace Engineering
+
+Semester 3     Semester 4    Semester 5  Semester 6  Semester 7  Semester 8
+SCHEME-2       SCHEME-3       SCHEME* HSS- SCHEME* HSS-  DE-1 (9)      SCHEME* HSS-
+EME (9-           HSS-I (9-11)                                                                                        II (9)                  II (9)                                              II (9)
+11)
+ESO202 (11)     ESC201 (14)     AE311 (9)    AE341 (11)    AE463 (3)     AE462 (4)
+ESO204 (11)      ESO201(11)     AE321 (9)                 AE461 (7)     AE421 (3)
+
+TA 211 (3)       AE211 (9)                  AE351 (3)     AE451 (3)     UGP-2 (9)
+
+AE201M (5)                    AE333 (9)    AE322 (9)     DE-2 (9)       OE-4 (9)
+
+MSO202M (6)   AE233M (5)     OE-1 (9)     AE334 (9)     UGP-1 (5)     OE-5 (9)
+
+[PAGE 3]
+MSO203M (6)   AE252M (4)     OE-2 (9)      DEH-1        OE-3 (9)      UGP-3 /OE-6 (9)
+AE209 (8)       TA212 (3)                  AE 312 (9)     DEH-2        DEH-3 (9)
+
+59-61          55-57         54        59         54         61
+
+For BTH, students should take UGP- 2 and 27 credits of DEH courses which are DEs at 6 or 7
+level.
+
+CPI criteria for BTH: 8.0
+
+Template for the BTM program in Aerospace Engineering
+
+Template for 3rd to 8th semester for BTM program in Aerospace Engineering
+
+Semester 3    Semester 4    Semester 5    Semester 6  Semester 7   Semester 8
+SCHEME-2      SCHEME-3 HSS-I  SCHEME* HSS-   SCHEME* HSS-  MTB-1 (9)     SCHEME*
+EME (9-11)       (9-11)                                                                                   II (9)                      II (9)                              HSS-II (9)
+ESO202 (11)    ESC201 (14)    AE311 (9)      AE341 (11)    AE463 (3)     AE462 (4)
+ESO204 (11)    ESO201(11)     AE321 (9)                   AE461 (7)     AE421 (3)
+
+TA 211 (3)      AE211 (9)                    AE351 (3)     AE451 (3)     MTB-4 (9)
+
+AE201M (5)                  AE333 (9)      AE322 (9)     MTB-2 (9)     MTB-5 (9)
+
+MSO202M (6)  AE233M (5)     OE-1 (9)       AE334 (9)     UGP-1 (5)     MTB-6 (9)
+MSO203M (6)  AE252M (4)     OE-2 (9)                   MTB-3 (9)
+
+AE209 (8)      TA212 (3)                   AE 312 (9)     OE-3 (9)
+
+59-61         55-57        54          50         54         43
+
+Template for five year dual-degree program in Aerospace Engineering
+
+Template for 3rd to 10th semester of dual-degree program in Aerospace Engineering (Category-A)
+
+Semester 3    Semester 4    Semester 5    Semester 6    Semester 7    Semester 8    Semester 9    Semester
+10
+
+SCHEME-2    SCHEME-3    SCHEME* HSS- SCHEME* HSS- DE-1 (9)      SCHEME* HSS- Thesis (36)     Thesis (36)
+EME (9-11)     HSS-I (9-11)       II (9)                   II (9)                                              II (9)
+
+ESO202 (11)   ESC201A (14)  AE311 (9)     AE341 (11)    AE463 (3)     AE462 (4)
+
+ESO204 (11)   ESO201 (11)   AE321 (9)                  AE461 (7)     AE421 (3)
+
+TA 211 (3)     AE211 (9)                  AE351 (3)     AE451 (3)      OE-3 (9)
+
+AE201M (5)                AE333 (9)     AE322 (9)      DE-2 (9)      UGP-2 /DE- 3
+(9)
+
+[PAGE 4]
+MSO202M (6)  AE233M (5)    OE-1 (9)      AE334 (9)      PG-1 (9)       PG-4 (9)
+
+MSO203M (6)  AE252M (4)    OE-2 (9)                    PG-2 (9)       PG-5 (9)
+
+AE209(8)      TA212 (3)                  AE 312 (9)     PG-3 (9)       PG-6 (9)
+
+59-61         55-57         54           50           58           61           36           36
+
+Minimum Credit Requirement in MT part:
+–  PG Component: 54 credits
+–  Thesis Component: 72
+
+credits
+
+Remarks:
+
+–  UGP-1 and up to 27 OE credits from the BT minimum requirements may be
+used to fulfil requirements of the PG course component of the MT part.
+–  18 credits of PG DE courses may be substituted from the PG course bas-
+ket (below) for Category-A Dual Degree students.
+
+PG course basket:
+ME641, ME642, ME671, ME674, ME685, ME723, ME728, ME763, EE650, EE653,
+EE654, EE705/EE651; AE674/CHE614; AE617/CHE614; AE621/ME647;
+AE614/ME631; AE604/ME630; AE622/ME630; AE605/ME634; AE615/ME634;
+AE696/ME649;
+AE653/ME617; AE663/ME643; AE754/ME745 (/ means any one of the two
+courses only)
+
+Template for 7th to 10th semester of dual-degree program in Aerospace Engi-
+neering (Category B)
+
+Semester 7         Semester 8           Semester 9         Semester 10
+AE601 (9)             PG-3 (9)                Thesis (36)             Thesis (36)
+PG-1 (9)              PG-4 (9)                PG-6 (9)
+
+PG-2 (9)              PG-5 (9)
+
+27                27                 45                36
+
+Minimum Credit Requirement in MT
+part:
+–  PG Component: 63 credits
+–  Thesis Component: 72 credits
+
+[PAGE 5]
+Remarks:
+
+Up to 36 OE credits may be waived from the parent department’s BT/BS graduation
+requirements to fulfil the PG requirements of Dual Degree.
+
+Template for double major: second major in Aerospace Engineering
+
+Double Major – Aerospace Engineering
+Pre-Requisites (33)
+ESO201(11)*
+ESO202(11)*
+ESO204(11)*
+AE Mandatory Courses (85)
+Odd Semester (45)     Even Semester (40)
+AE209(8)*              AE211 (9)
+AE311(9)              AE252 (4)
+AE321(9)              AE341 (11)
+AE333(9)              AE351 (3)
+AE451(3)              AE322 (9)
+AE461(7)              AE462 (4)
+
+Remarks:
+
+–  *Other equivalent courses may be considered in consultation with AE DUGC
+
+–  Up to 36 OE credits may be waived from the parent department BT/BS grad-
+uation requirements to fulfil requirements of Double Major
+
+–   Pre-requisite courses are mandatory to complete DM
+
+Minors in Aerospace Engineering
+
+Minor – Aerospace Engineering
+AE Compulsory Course
+AE201M (5)
+Any THREE:              Pre-Requisites
+AE211 (9)          ESO204 OR ME231
+AE321 (9)              NONE
+AE333 (9)              NONE
+AE341 (11)               AE311
+32-34
+
+[PAGE 6]
+Department of AE
+
+Credits
+Course ID         Course Title                                      Content
+L-T-P-D-[C]
+History  of  aviation,  space  flight.  Aerodynamic
+shape,  generation  of  forces.  Aerodynamics  of
+airfoils.  Atmosphere.  Performance,   stability &
+control.    Structural    layout.   Power    plants.
+INTRODUCTION TO                    Instruments & navigational aids. Materials. Aircraft
+AE100                                      1-0-2-0-0
+PROFESSION                      systems. Missiles, spaceships, helicopters, airships
+& hovercrafts. Trips to wind tunnel facilities, flight,
+structural, propulsion and high -speed aerodynamic
+laboratories    together    with    demonstrative
+experiments.
+Fixed   wing   vehicles:   History   of   Aviation,
+introduction to fixed wing vehicles, configuration
+and layout, propulsion,  lift generation mechanism,
+balance   of   forces  and  moments,   control
+mechanisms.  Rotary  wing  vehicles:  History  of
+rotary  wing  vehicles,  configuration and  layout,
+propulsion,  lift generation mechanism, balance of
+INTRODUCTION TO                     forces and moments, control mechanisms. Space
+AE201M        AEROSPACE           3-0-0-0-5    Vehicles:   History,   configuration  and   layout,
+ENGINEERING                        propulsion,  lift generation mechanism, balance of
+forces and moments, navigation. Demo flights in
+motorized gliders. Introduction to Flight.
+
+Pre-requisites: None
+
+Course   Reference:    J.D.   Anderson,     Jr.,
+McGrawHill International Editions.
+
+Introduction to coordinate system, vectors, tensors,
+particles and rigid bodies, rotation and coordinate
+transformation (Euler angles), concept of angular
+velocity, dynamics of particles (Newton's laws of
+motion), work-energy, impulse-momentum, general
+planar motion, dynamics of systems of particles
+(including impulse-momentum  relations),  steady
+AE209 /                                      mass flow and variable mass (ropes, chains and
+DYNAMICS            2-1-0-0-8ESO209A                                                 rocket propulsion) problems, kinematics  of  rigid
+bodies: non-Newtonian reference frames, kinetics
+of  rigid  bodies:  Newtonian-Eulerian  mechanics,
+general 3-D motions (tops, gyroscopes, rotor  in
+space, introduction to dynamics of aerial vehicles
+etc.)
+
+Pre-requisites: None
+
+Course Reference: J. L. Meriam and L. G. Kraige,
+
+[PAGE 7]
+Engineering Mechanics: Dynamics, 6/7/8th edition,
+2015, Wiley
+
+Introduction to aerodynamics, review of NS eqns,
+BL  approximations.  Atmosphere  (ISA) and  its
+stability, dynamic similarity. Aerofoil nomenclature,
+forces and moments, incompressible  irrotational
+flow.   Complex    potential,    singularities   and
+superposition, axisymmetric potential flow, Blasius
+theorem, method of images. Circulation, Robins
+Magnus  effect and  Kutta-  Joukowski  theorem.
+Conformal mapping and Joukowski airfoil, Kelvin's
+circulation theorem. Thin airfoil theory, Helmholtz
+theorems,  finite wing  theory. Low aspect  ratio
+wings and slender body theory. Flow separation &             INCOMPRESSIBLE
+AE211                                      3-0-0-0-9   dynamic  stall. Flow control & wing design. Wing             AERODYNAMICS
+flutter.
+Pre-requisites: ESO204
+Course   Reference:    1.   Fundamental    of
+Aerodynamics, J. D. Andersson, Jr, McGraw-Hill.
+2. Aerodynamics for Engineering Students by E.L.
+Houghton, P.W.  Carpenter.  3.  Theoretical and
+computational aerodynamics, by T. K. Sengupta,
+Willey, 2015. 4. Physical Fluid Dynamics by D.J.
+Tritton,  Oxford  Science   Publication.   5.  An
+Introduction to Fluid Dynamics by G.K. Batchelor,
+Cambridge University Press. 6. An Introduction to
+Theoretical and Computational Aerodynamics by
+Jack Moran, Dover.
+
+Single degree of freedom system, Free and forced
+vibrations   (harmonic  and   general   forcing),
+Duhamel's  integration,  types  of  damping,  two
+degree  of  freedom  system,  modal  analysis,
+diagonalization,      eigensystem,      response
+calculations  for  general  excitation,  proportional
+INTRODUCTIONS TO
+AE233M                                     3-0-0-0-5   damping,  principle  of  virtual  work,  Lagrange's
+VIBRATIONS
+equation.
+Pre-requisites: AE209
+Course Reference:   1. Theory of Vibration with
+Applications. WT  Thomson, MD  Dahlen  (5th
+Edition) Pearson Education. 2. Fundamentals of
+Vibrations. L Meirovitch (Mc Graw Hill Intl. Edition)
+
+Content  Principles  of measurement  Introduction
+Description of Measuring Instruments Performance
+Characteristics    of   Instruments,    Calibration,
+EXPERIMENTS IN
+Accuracy,  Precision,  Bias,  Dynamic  response
+AE251A        AEROSPACE           2-0-2-0-8
+Virtual  Instrumentation  and  Data   acquisition
+ENGINEERING-I
+Introduction to VI Graphical programming using
+LABView: Vis and sub Vis, loops ,arrays, clusters,
+file I/O Data acquisition: ADC, DAC, DIO, serial
+
+[PAGE 8]
+and GPIB communication Motion control system
+Sensors Strain Gage Motion Force, Torque, Power
+Pressure and Sound Temperature and Heat Flux
+Flow   Error   analysis   and   data   reduction
+Uncertainties    in   measurements    Probability
+distributions Propagation  of  errors Estimates  of
+Mean and  Errors Curve  fits Advanced  Optical
+Measurements (PIV, LDV,etc.).
+Pre-requisites: None
+Course  Reference:1.  Measurement  Systems
+Application and Design, E. O. Doebelin; 2. Data
+Reduction  and   Error  Analysis   for  Physical
+Sciences, P. R. Bevington and D. K. Robinson; 3.
+Experimental Stress  Analysis, James W.  Dally,
+William  F.  Riley;  4.  Mechanical  Behavior  of
+Materials, Norman E. Dowling
+Principles     of    measurement:    Introduction,
+Description     of    measuring     instruments,
+Performance   characteristics   of   instruments,
+calibration,  accuracy,  precision,  bias,  dynamic
+response. Introduction to VI based data acquisition.
+Sensors:  Strain  gage,  Motion,  Force,  Torque,
+Power, Pressure and Sound, Temperature and
+Heat Flux, Flow. Error analysis and data reduction:
+Uncertainties    in   measurements,    probability
+EXPERIMENTS IN
+distributions, propagation of errors, estimation of
+AE252M        AEROSPACE           2-0-2-0-4
+mean errors, curve fits. Measurement Technique:
+ENGINEERING-I
+thermal anemometry.
+Pre-requisites: None
+Course  Reference:  1.  Measurement  Systems
+Application and Design, E. O. Doebelin. 2. Data
+Reduction  and   Error  Analysis   for  Physical
+Sciences, P. R. Bevington and D. K. Robinson. 3.
+Experimental Stress  Analysis, James W.  Dally,
+William  F.  Riley.  4.  Mechanical  Behavior  of
+Materials, Norman E. Dowling
+Review of thermodynamics. Governing equations
+of compressible flow. Isentropic flow, Area Mach
+number relation. Speed of sound, Mach cone, Flow
+regimes in terms of Mach number. Stationary and
+moving normal shock, Rankine Hugoniot relations.
+Oblique   shock,   Prandtl   Meyer   expansion.
+Reflection, intersection of shocks and expansion
+waves. Converging diverging nozzle, supersonic
+wind tunnel. 1D unsteady flow: Riemann problem.
+3-0-0-0-9
+Method  of  characteristics.  Small  perturbations
+COMPRESSIBLE                      applied to, subsonic & supersonic airfoils, slender
+AERODYNAMICS                      bodies.  Similarity  rules and area  rule. Curved
+shock and Croccos Theorem. Shock Boundary
+layer  interaction.  Transonic  small  perturbation
+(TSP) equations. Transonic full potential equations.
+Rayleigh & Fanno flow. Experimental techniques.
+Introduction to hypersonics.
+Pre-requisites: ESO201, ESO204
+
+[PAGE 9]
+Course Reference: 1. Elements of gasdynamics:
+Leipmann and Roshko, John Wiley & Sons. 2. The
+AE311                                            dynamics and thermodynamics  of compressible
+flows: A. H Shapiro, John Wiley & Sons.
+Tensor: Review of tensor algebra. Fundamental
+equations:  Detailed  derivation  of  stress  tensor,
+Navier Stokes equation & energy equation. Some
+exact solutions: Exact solutions of NS equations:
+Hagen-Poiseuille flow with heat transfer, lubrication
+theory,  Stokes  1st &  2nd  problems,  Jeffrey-
+Hammel flow, unsteady pipe flow. Boundary layer
+flows: Boundary layers: von Karman’s momentum
+integral  method,   Thwait’s  method,   similarity
+solutions:  Blasius  &  Falkner-Skan   solutions.
+AE312        SHEAR FLOW           3-0-0-0-9    Introduction  to  axisymmetric  boundary  layers,
+Mangler’s transformation. Boundary layer control
+techniques. Free shear flows: mixing layers, jets
+and wakes. Transition to turbulence: Introduction to
+flow   transition,    stability,   Rayleigh  &   Orr-
+Sommerfeld eqns. Introduction to turbulence.
+Pre-requisites: AE211
+Course Reference: 1. Fluid Mechanics by Kundu
+and Cohen. 2. Incompressible flow by R Panton. 3.
+Viscous Fluid Flows by F. M. White. 4. Boundary
+Layer Theory by H. Schlichting.
+Standard atmosphere Definition of altitude, relation
+between  geopotential  and  geometric  altitudes,
+pressure,  temperature,  density  altitudes  Airfoil
+nomenclature, Airfoil data, infinite vs finite wings,
+critical mach  number,  drag  divergence mach
+number, wave drag, swept wings. Aerodynamic
+properties of wings and components Airplane drag
+estimation  for  subsonic  and  supersonic   flight
+regime   for  fuselage,  wings,   tail  and  other
+components of aircraft Flaps mechanism of high
+lift, estimation of CL, CD, CL/CD, for different flaps
+at  various  configurations.  Aircraft power  plants
+Introduction to drag polar, equations of motion,
+thrust required for level and unaccelerated flight,
+FLIGHT MECHANICS       3-0-0-0-9    thrust  available and maximum  velocity, power
+required for level and unaccelerated flight, power
+available  and maximum  velocity  (reciprocating
+engine propeller combination, jet engine), altitude
+effects on power required and available. Rate of
+climb, gliding  flight, absolute and service ceiling,
+time  to  climb, range and endurance  propeller
+driven airplane, range and endurance jet airplane,
+take off and landing performance, turning flight and
+the Vn diagram, accelerated rate of climb (energy
+method),  special  consideration  for  supersonic
+airplane   Optimal   performance   of   airplanes
+Introduction  to performance  estimation  of  fixed
+wing unmanned aerial vehicles.
+Pre-requisites: AE201M, AE209
+
+[PAGE 10]
+Course Reference:  1. Introduction to Flight: J.D.
+Anderson, McGraw   Hill  International  Editions.
+Miele, A;  2.  Flight Mechanics Theory  of  Flight
+AE321                                                 Paths, Vol.I AddisonWesley, Reading, MA. Tewari,
+A;  3. Atmospheric and Space  Flight Dynamics,
+Birkhauser, Boston, 2006; Mechanics  of  Flight:
+Warren F. Phillips. John Wiley and Sons, Inc
+Definition of stability and control static stability and
+dynamicstability.  Moments  on  an   airplane.
+Definition of pitch angle, flightpath angle and angle
+of attack. Criteria for longitudinal and static stability
+Aerodynamic   model     (longitudinal    mode),
+Longitudinal staticstability and control, contribution
+of the wing, tail, fuselage to total moment about CG
+of aircraft. Equations of longitudinal staticstability.
+Calculation of elevator angle to trim in stick fixed
+vsstick free longitudinal static stability, estimation
+of neutral point (both stick fixed and stick free),
+estimation   of   static   margin,   estimation   of
+maneuvering point (both stick fixed and stick free).
+AIRCRAFT CONTROL                     Directional  static  stability,  lateral  static  stability,
+AE322                                      3-0-0-0-9
+SYSTEMS                          estimation  ofstatic  margin,  estimation  of  trim
+condition Equations of airplane motion Concept of
+stability and control derivatives Longitudinal and
+lateral   directional  dynamic  modes   Airplane
+response to controls Introduction to flying qualities
+and stability augmentation system.
+Pre-requisites: AE321
+Course  Reference:   1.   Flight   Stability  and
+Automatic  Control:  R.  Nelson,  McGraw   Hill
+Education. 2. Introduction to Flight: J.D. Anderson,
+McGraw  Hill International Editions. Etkin,  B., 3.
+Dynamics of Flight: Stability and Control 3rd ed.,
+Wiley, New York, 1995*. 4. Mechanics of Flight:
+Warren F. Phillips. John Wiley and Sons, Inc
+Loads on an aircraft. Elements of Linear Theory of
+Elasticity for Idealization of Aerospace Structure; 1.
+Stress   Resultant;   2.  Extension  bending   of
+nonhomogenous Euler  Bernoulli, Bending shear
+stress  (open  closed SE422  solid)  St.  Venant
+torsion of arbitrary crosssection 3. Shear flow; Thin
+Walled beams: Single celled and multi celled box
+beams. Shear center for open and closed section.
+EXPERIMENTS IN
+AE331                                      1-0-3-0-3   Tapered beams Beam Column  Euler  Buckling
+STRUCTURES
+Principle of virtual work
+Course Reference:    1. Theory and analysis of
+flight structures: R.M. Rivello.No. of lectures; 2,
+Aircraft   Structures   for  Engineering  Students
+(Fourth    edition):   T.H.G.   Megson,   Elsevier
+Aerospace  Engineering  Series;  3.  Analysis  of
+Aircraft   Structures   (second    edition):   B.K.
+Donaldson, Cambridge Aerospace Series.
+AE333         AEROSPACE                         Introduction to flight vehicle structures: Fixed wing,                                            3-0-0-0-9
+STRUCTURES - I                         rotary,  launch  vehicles  and  space  structures;
+
+[PAGE 11]
+discussion on Cessna airframe with visit to Flight
+Lab.; introduction to FAR and MIL standards; loads
+on an aircraft. Elements of theory of
+elasticity: 3D-thermoelasticity equations, boundary-
+conditions,  generalized  Hooke’s  Law,  material
+matrices for orthotropic, transversely isotropic and
+isotropic  materials  with  examples  of  usable
+materials; plane stress and strain approximations,
+yielding and  failure  of  materials. Mechanics  of
+slender, hollow, stiffened structures: Concept of
+stress resultants, general picture of resultants on a
+cross-section;   generalized  beam   theory   for
+combined bending and axial response of metallic
+components; bending  deflection  analysis  (using
+energy   method    also);   post-processing    for
+transverse shear, shear flow for hollow sections;
+open  sections, shear centre  for open sections.
+Torsion  of  hollow members  of  arbitrary  cross-
+section: Review of torsion of circular cross-section;
+extension to non-circular sections, warping, Prandtl
+stress  function;  torsion  of  open  and  closed
+sections;  shear  flow   in  multi-celled  sections
+including idealized sections for semi-monocoque
+construction.  Combined  bending-torsion:  Shear
+flow,  combined  state  of  stress,  prediction  of
+yielding,  introduction  to  fatigue models, design
+demands (fail safe, safe life and damage tolerant
+design).
+Pre-requisites: ESO202
+Course  Reference:  1.  Aircraft  Structures  for
+Engineering  Students  (Fourth  edition):  T.H.G.
+Megson, Elsevier Aerospace Engineering Series.
+2. Theory and analysis of  flight structures: R.M.
+Rivello. 3. Analysis and design of  flight vehicle
+structures: E. F. Bruhn.
+Introduction  to aerospace  structures: Review  of
+concepts from Aerospace Structures  I; plate and
+shell-like structures as part of airframe; discussion
+on design and certification of airframe components.
+Mechanics of thin plates and shells: Introduction to
+classical   plate   theory;   boundary-conditions,
+solution  of  the  plate  problem;  extension  to
+laminated structures; extension of classical plate
+theory to shells; state of stress. Energy, variational
+AE334         AEROSPACE                                            3-0-0-0-9   and  finite  element  method: Weak  formulation,
+STRUCTURES - II
+principle  of  virtual  work,  variational  formulation
+from total potential energy; series solutions for
+beams,  shafts,  plates  and  shells  of  simple
+geometry;  applicable  finite element method  for
+simple problems. Structural stability: Buckling as a
+design requirement; buckling of slender beams;
+example of bending-torsion coupling for I-section
+beams;  buckling  of  plates; need and  effect  of
+stiffeners on plate buckling; discussion on buckling
+
+[PAGE 12]
+of shells with focus on fuselage and launch-vehicle
+structure.  Summary  of  airframe  design:   Air-
+worthiness requirements, classic failures, airframe
+design evolution.
+Pre-requisites: ESO202
+Course  Reference:  1.  Aircraft  Structures  for
+Engineering  Students  (Fourth  edition):  T.H.G.
+Megson, Elsevier Aerospace Engineering Series.
+2. Theory of Plates and Shells: Timoshenko and
+Young. 3. Analysis and design of  flight vehicle
+structures: E. F. Bruhn.
+Introduction- Principle of propulsion & middot; Air-
+breathing and rocket propulsion &middot; Reading
+assignment  and  home  work  on  basic   fluid
+mechanics,  thermodynamics  and  compressible
+flows. Aero-thermodynamics of gas turbine engines
+&middot;  Introduction: Type  of  air-breathing  jet
+engines;  Performance  of  gas  turbine  engines
+(Thrust,  efficient, range). Cycle analysis  of  air-
+breathing  jet engines  (ideal and actual  cycles);
+Ramjet; Scramjet; Turbojet; Turbofan; Turboprop;
+Turboshaft. Jet engines (ideal and actual cycles);
+Ramjet; Scramjet; Turbojet; Turbofan; Turboprop;
+AE341    AEROSPACE PROPULSION   3-1-0-0-11   Turboshaft. Introduction to turbo-machinery; Types
+of  turbomachinery;  Conservation   of  angular
+momentum. Centrifugal compressors; Principle of
+operation; Stage dynamics and cascade; Efficiency
+and losses; Compressor characteristics; Rotating
+stall and surge. Axial compressors; Principle of
+operation; Stage dynamics &middot; Multi staging;
+Radial equilibrium; Efficiency and characteristics.
+Axial turbines &middot; Elementary theory; Stage
+dynamics; Efficiency and losses; Blade cooling;
+Compressor-turbine   matching.   Gas    turbine
+combustors and after-burners.
+Pre-requisites: AE311
+Attitude  dynamics  and  stability  of  three  axis
+stabilized,  singlespin,  dualspin,  and  multibody
+spacecraft with alticulated antennas, sensors, and
+solar  arrays.  Design  of  control  of  three  axis
+stabilized spacecraft in orbit using reaction wheels,
+thrusters, magnets, single and double gimbaled
+control moment  gyros Large  angle  three  axis
+attitude  maneuver   controllers  using  reaction
+SPACECRAFT GUIDANCE
+wheels and thrusters Control of spinning spacecraft
+AE345        NAVIGATION AND         3-0-0-0-9
+in  transfer  orbit  during  delta_ v  firing and  in
+CONTROL
+operational orbits around the Earth, and design of
+active nutation control Attitude stabilization of bias
+momentum   spacecraft   using  magnets  and
+thrusters  Dynamics  and  control  of  dualspin
+spacecraft   Precision   pointing  and   tracking
+controllers for tracking landmarks, moving objects,
+and other  satellites  for crosslink communication
+Solar  array  controllers  for  tracking  the  Sun;
+
+[PAGE 13]
+determining the arrays orientation with sun sensors
+Modeling of dynamics of flexible solar arrays, its
+interaction with spacecraft dynamics and control
+systems  Attitude determination  with  gyros,  star
+trackers, sun sensors, and horizon sensors using
+algorithms such as TRIAD and QUEST (quaternion
+estimator);  sensors  error  characteristics;  and
+Kalman  filtering  Guidance  and  navigation  for
+spacecraft   rendezvous  The   above   control
+techniques will be related with the control of Indian
+communication, remote sensing, and other special
+purpose      satellites     (Ca1tosat,     Edusat,
+telemedicine).
+Course Reference: 1.  Hughes, P.C., Spacecraft
+Attitude Dynamics, John Wiley, 1986; 2.Sidi, M.J.,
+Spacecraft  Dynamics  and  Control,  Cambridge
+University Press, 1997 Noton, M;, 3. Spacecraft
+Navigation  and   Guidance,   Springer   1998;
+4.Kaplan, M.H., Modern Spacecraft Dynamics and
+Control, John Wiley, 1976; 5. Agrawal, B., Design
+of  Geosynchronous  Spacecraft,  Prentice  Hall,
+1986; 6. Bryson, A.E., Control of Spacecraft and
+Aircraft, Princeton University Press, 1994; 7.Pocha,
+J.J.,  An  Introduction  to  Mission  Design   for
+Geostationary Satellites, D. Reidel,1987; 8. Mara[,
+G., and Bousquet, M., Satellite Communications
+Systems, Fourth Edition, John Wiley, 2006; 9.Wie,
+B., Space Vehicle Dynamics and Control, AIAA
+Education Series, 1998.
+Dimensional   analysis,  Wind   tunnels,   Basic
+Experiments   with   different  sensors,  Material
+characterization,  Flow  Visualization.  About  12
+experiments will be conducted in the course. The
+breakup  of the experiments  will be as  follows:
+Aerospace    Structures:    4-   Low   Speed
+Aerodynamics: 4 -Aerospace Propulsion: 2- High
+speed  Aerodynamics:   2-List   of  Experiments:
+Aerospace  Structures:1. Bending  of beams;  2.
+Shear centre estimation;3. Estimation of Principal
+Axes; 4. Torsion; 5. UTM (static tests) Low Speed
+EXPERIMENTS IN                    Aerodynamics:1. Laser light flow visualization; 2.
+AE351A        AEROSPACE           0-0-4-1-5   Smoke flow visualization; 3. Hot wire anemometry
+ENGINEERING -II                        (calibration + test); 4. Force balance calibration; 5.
+Calibration  of  low  speed  tunnel6.  Flow  past
+airfoil/circular cylinder Cp distribution. Aerospace
+Propulsion:1.  Calibration and  use  of  pressure
+sensors; 2. Calibration and use of thermocouples
+High  Speed   Aerodynamics:1.   Schlieren  +
+shadowgraphy; 2. Estimation of Mach number from
+static pressure measurement in supersonic tunnel.
+Pre-requisites: AE251A
+Course  Reference:  1.  Measurement  Systems
+Application and Design, E. O. Doebelin; 2. Data
+Reduction  and   Error  Analysis   for  Physical
+
+[PAGE 14]
+Sciences, P. R. Bevington and D. K. Robinson; 3.
+Experimental Stress  Analysis, James W.  Dally,
+William  F.  Riley;  4.  Mechanical  Behavior  of
+Materials, Norman E. Dowling
+List of Experiments:
+1.  Flow  visualization  in  the smoke  tunnel
+,Hele-Show Bow and flow over delta wing.
+2.  Pressure  distribution  measurement  over
+airfoil (static and dynamic stall)
+3.  Hot-wire  moment-calibration  nel  velocity
+and frequency
+4.  Experimentally  of wave propagation  in a
+shock tube & Experiments  in hypersonic
+flow
+5.  Calibration  of  pressure  sensor  and   its
+application in flow measurements
+6.  Experimental  investigation on pre mixed
+LPG-Air flume.
+EXPERIMENTS IN                           7.  Calibration of supersonic wind tunnel.
+AE351         AEROSPACE           0-0-3-0-3        8.  Supersonic flow visualization
+ENGINEERING -II                                                                    9. Load    cell    fabrication   and    testing
+(Demonstration)
+10. Uniaxial  tensile  test  to determine  elastic
+constants.
+11. Torsion test to determine elastic constants.
+12. Beam bending test to verify Euler-Bernoulli
+beam theory.
+
+Pre-requisites: AE252M
+Course  Reference:  1.  Measurement  Systems
+Application and Design, E. O. Doebelin; 2. Data
+Reduction  and   Error  Analysis   for  Physical
+Sciences, P. R. Bevington and D. K. Robinson; 3.
+Experimental Stress  Analysis, James W.  Dally,
+William  F.  Riley;  4.  Mechanical  Behavior  of
+Materials, Norman E. Dowling
+(Optional/Extra  Credits) To  learn about a  topic
+AE371     UG PROJECT I (UGP-I)             ----      through independent study under the guidance of a
+faculty member from the department.
+Selection   of   topic   of  research   or   review;
+TECHNICAL
+AE401A                                     0-0-2-2-2   development of presentation material; preparation
+COMMUNICATION
+of technical report; technical presentations.
+Introduction to fliaht testing and instrumentation 1.
+Techniques and data  reduction methods,  Error
+analysis 2. Calibration of flight and special  flight
+EXPERIMENTS IN FLIGHT                    test instruments: Evaluation of cruise and climb
+AE421M                                     1-0-2-0-3
+MECHANICS                      performance of a small airolane. Determination of
+static  and  maneuver   stability  and   control
+characteristics. Observations of airplane dynamic
+modes and  stall  characteristics:  Introduction  to
+
+[PAGE 15]
+flight testing and instrumentation. Techniques and
+data reduction methods, Error analysis. Calibration
+of   flight  and  special   flight  test  instruments.
+Evaluation of cruise and climb performance of a
+small   airplane.  Determination   of   static  and
+maneuver  stability  and  control  characteristics.
+Observations of airplane dynamic modes and stall
+characteristics.
+Pre-requisites: AE321
+Rocket propulsion & ndash; Introduction, Single
+and multi-stage rockets. Performance of chemical
+rockets- Principles  of combustion, Estimation of
+AE441A     ROCKET PROPULSION      3-0-0-0-5    adiabatic  flame  temperature,  Thrust  coefficient,
+Characteristic    velocity,   Types    of   nozzles,
+efficiencies, cooling, heat transfer. Non-chemical
+rockets.
+List  of Experiments: Low Speed Aerodynamics
+Lab:1. Turbulence measurement  ;2.0 Boundary
+Layer.       measurement3.       Aerodynamic
+characterization of a model aircraf  t High Speed
+Aerodynamics    Lab:1.    Characterization    of
+supersonic  jets;  2. Forces and moments on a
+projectile at supersonic speeds Structures Lab:I.
+Experiments in photoelasticity; 2. Experiments in
+vibration;    3.   Dynamic   characterization    of
+elastomeric  materials;  4.  Inertia  measurement
+EXPERIMENTS IN                     Propulsion  Lab:I.  Characterization  of  intake;  2.
+AE451A        AEROSPACE           0-0-3-2-5   Experiments  in compressor/turbine cascades; 3.
+ENGINEERING III                   Performance  analysis  of  2stage  axial  fan;  4.
+Performance of gas turbine engine; 5. Experiments
+in continuous combustion unit.
+Pre-requisites: AE351A
+Course  Reference:  1.  Measurement  Systems
+Application and Design, E. 0. Doebelin; 2. Data
+Reduction  and   Error  Analysis   for  Physical
+Sciences, P. R. Bevington and D. K. Robinson; 3.
+Experimental Stress  Analysis, James W.  Dally,
+William  F.  Riley;  4.  Mechanical  Behavior  of
+Materials, Norman E. Dowling
+List of Experiments:
+1.  Experiments using PIV technique.
+2.  Force measurement on a generic aircraft
+model using six-component force balance.
+3.  Hot     wire    measurements-turbulence
+EXPERIMENTS IN                         measurements.
+AE451         AEROSPACE           0-0-3-0-3        4. Mach  distribution  inside  a  Jet  using,
+ENGINEERING III                                visualization  of  Shock-cell  structure &
+measurement  of  sound  pressure  levels
+emitting from a round free jet.
+5.  Characterization of intake.
+6.  Experiments    in   compressor/   turbine
+cascades
+
+[PAGE 16]
+7.  Performance analysis of 2 stage axial fan.
+8.  Performance of gas turbine engine.
+9.  Experiments in continuous combustion unit.
+10. Fabrication   of   laminated   composites
+(Demonstration).
+11. Characterizing  impact  induced  failure  in
+beam/plate specimens.
+12. Characterizing   vibration   in  beam/plate
+specimens.
+13. Full field stress analysis by optical method.
+
+Pre-requisites: AE351
+Course  Reference:  1.  Measurement  Systems
+Application and Design, E. 0. Doebelin; 2. Data
+Reduction  and   Error  Analysis   for  Physical
+Sciences, P. R. Bevington and D. K. Robinson; 3.
+Experimental Stress  Analysis, James W.  Dally,
+William  F.  Riley;  4.  Mechanical  Behavior  of
+Materials, Norman E. Dowling.
+Conceptual design based on preliminary mission
+requirements   Survey   of   existing   vehicular
+configurations    (in   similar   category);    lofting
+(preliminary layout sketches); preliminary weight
+estimation Selection of wing loading; thrust loading;
+wing section and plan form Fuselage layout and
+weight   balance.   Estimation   of  aerodynamic
+characteristics and performance evaluation Design
+of  tail areas and control surfaces Estimation of
+span  wise  load  distributions on wing and  tail
+TOTAL  LABORATORY  OF  THE  COURSE
+Conceptual design based on preliminary mission
+AE461      AIRCRAFT DESIGN - I       1-0-2-2-7    requirements;   survey   of   existing   vehicular
+configurations    (in   similar   category);    lofting
+(preliminary layout sketches); preliminary weight
+estimation;  selection  of  wing  loading;  thrust
+loading; wing  section and  plan  form;  fuselage
+layout  and   weight   balance;   estimation   of
+aerodynamic   characteristics  and  performance
+evaluation;  design  of   tail  areas  and  control
+surfaces; estimation of span wise load distributions
+on wing and tail.
+Pre-requisites: None
+Course Reference: Aircraft Design: A Conceptual
+Approach, D. Raymer (4th Ed.), AIAA Press, 2006.
+Concepts  of   structural  design;  Vn  diagram;
+airworthiness requirements Stress  resultants  for
+swept and unswept wings; application of modified
+beam theory Methods  for wing stress analysis;
+AE462      AIRCRAFT DESIGN - II      1-0-1-0-4
+yielding based design Buckling (of columns, panels
+and  stiffened  panels)  based  design  of  thin
+structures  Rib  spacing;  sizing and  preliminary
+layout of wing; margin of safety; advanced analysis
+
+[PAGE 17]
+(using  FEM  based  commercial/open  source
+software) for full wing. Total Laboratory component
+of the course: Topic Concepts of structural design;
+Vn  diagram;  airworthiness  requirements;  stress
+resultants   for  swept  and  unswept   wings;
+application of modified beam theory; methods for
+wing  stress  analysis;  yielding  based  design;
+buckling (of columns, panels and stiffened panels)
+based design of thin structures; rib spacing; sizing
+and preliminary layout of wing; margin of safety;
+advanced    analysis    (using   FEM   based
+commercial/opensources oftware) for full wing.
+Pre-requisites: None
+Course Reference:  1. Analysis and design  of
+Flight Vehicle Structures: E.F. Bruhn; 2. Airframe
+Structural Design: M. Niu; 3. Aircraft Design: A
+Conceptual Approach, D. Raymer (4th  Edition),
+AIAA Press,2006.
+Design     and      fabrication      of     aero
+models/components;  Balsa,  Styrofoam,  wood,
+parchment,  composites-based  model  making;
+model upgradation; design, fabrication and testing
+AEROMODELLING DESIGN
+AE463                                      0-0-3-0-3    of components; use of flight simulator, RC devices.
+& FABRICATION
+Pre-requisites: None
+Course Reference: 1. Introduction to Flight: J.D.
+Anderson,  Jr. McGrawHill  International  Editions.
+*Handouts. *Internet resources.
+Registration for project with the selection of topic &
+AE471    UG PROJECT II (UGP- II)     0-0-0-0-9    getting  started on the design,  fabrication work,
+algorithm etc.
+Continuation of the project work initiated as a part
+AE472    UG PROJECT III (UGP- III)     0-0-0-0-9
+of UGP-II and completion.
+(Optional/Extra  Credits) May be  taken  in  the
+AE473    UG PROJECT IV (UGP-IV)           ----     summer after 8th semester to continue the project
+work of UGP-III.
+Conclusions from small BL thickness, BL eqns,
+exact & similar solns: Blasius, Howarth & Merk.
+Methods:   continuation  &   integral   conditions,
+BOUNDARY LAYER
+AE481                                      3-0-0-0-9   Polhausen,  Walz,   Weighardt.  Axisymm  BL.
+THEORY
+Mangler   transformation,  elementary  3D  BL.,
+Transition,  turb  BL. Walz  integral method. BL
+control.
+History of aviation. History of spaceflight. Earths
+atmosphere and  gravitational  field. Anatomy  of
+Flight vehicles. Bluff bodies v/s streamlined body,
+airfoil.  Lift generation, significance  of L/D  ratio.
+INTRO TO AEROSPACE
+AE601                                      3-0-0-0-4   Aerodynamic   forces.  Propulsion.  Spacecrafts.
+ENGG.
+Aircraft   performance.   Aerospace   materials.
+Structural layout. Flight envelope and Vn diagrams.
+Instruments and  navigational  aids. Exposure  to
+flight testing.
+AE601A     INTRO TO AEROSPACE      3-0-0-0-9    History of aviation. History of spaceflight. Earths
+
+[PAGE 18]
+ENGG.                        atmosphere and  gravitational  field. Anatomy  of
+Flight vehicles. Bluff bodies v/s streamlined body,
+airfoil.  Lift generation, significance  of L/D  ratio.
+Aerodynamic   forces.  Propulsion.  Spacecrafts.
+Aircraft   performance.   Aerospace   materials.
+Structural layout. Flight envelope and Vn diagrams.
+Instruments and  navigational  aids. Exposure  to
+flight testing.
+Matrices,  determinants,  vector  spaces,  linear
+transformation, eigen systems,  linear equations,
+introduction  to  ordinary   differential  equations,
+homogeneous linear equations of second order,
+nonhomogeneous  linear  equations  of  second
+order,  free  and  forced   oscillation  problems,
+problems  with  variable  coefficients, systems  of
+MATHEMATICS FOR
+AE602                                      3-0-0-0-4    equations,  Fourier   series,  Fourier  transform,
+AEROSPACE ENGG.
+Laplace  transform,  introduction  to  differencing
+methods;  basic  concepts  of  partial  differential
+equations, classification of second order equations,
+wave  propagation  in one  dimension,  parabolic
+equations, higher dimensional problems, Laplace
+equation,  series  solutions,  transform  methods,
+elements of complex variables.
+differential   equations,   homogeneous    linear
+equations  of  second  order,  nonhomogeneous
+linear equations of second order, free and forced
+oscillation  problems,  problems   with   variable
+coefficients, systems of equations, Fourier series,
+MATHEMATICS FOR                    Fourier transform, Laplace transform, introduction
+AE602A                                     3-0-0-0-9
+AEROSPACE ENGG.                      to differencing methods; basic concepts of partial
+differential equations, classification of second order
+equations, wave propagation  in one dimension
+parabolic equations, higher dimensional problems,
+Laplace  equation,  series  solutions,  transform
+methods, elements of complex variables.
+Basics  of  Computing &  Discretization,  Errors:
+Different   types   of   error,   Interpolation  and
+extrapolation, Root finding: Polynomials; Newton
+Raphson Method, Secant Method, ODE and their
+computations, Stiff ODEs & parasitic error, Solution
+of  IVP  (ODE),  Linear  Algebra &  BVP(ODE),
+Solution     of     Linear    System,     Finding
+eigenvalue/eigenvector
+INTRODUCTION TO                Course  Reference:     1.  Computational  Fluid
+AE603                                      2-0-1-0-4
+SCIENTIFIC COMPUTING                Dynamics: Charles Hirsch, Wiley, Chichester, U.K.
+(1990); 2. Computational Fluid Dynamics and heat
+transfer: J.C. Tannehill, D.A. Anderson and R.H.
+Fletcher, Taylor and Francis (1997); 3. Numerical
+Recipes in Fortran 77, W.H. Press, S. Teukolsky,
+W, Vetterling and B. Flannery, Cambridge Univ.
+Press (1992); 4. Foundation of CFD: Tapan K.
+Sengupta,  University  Press  Hyderabad,  India
+(2009).
+
+[PAGE 19]
+Basics  of  Computing &  Discretization,  Errors:
+Different   types   of   error,   Interpolation  and
+extrapolation, Root finding: Polynomials; Newton
+Raphson Method, Secant Method, ODE and their
+computations,   Stiff ODEs  and  parasitic  error,
+Solution   of  IVP  (ODE),  Linear  Algebra  &
+BVP(ODE),  Solution  of  Linear System,  Finding
+eigenvalue/eigenvector.
+INTRODUCTION TO                Course  Reference:   1.  Computational   Fluid
+AE603A                                     2-0-1-0-7
+SCIENTIFIC COMPUTING                Dynamics: Charles Hirsch, Wiley, Chichester, U.K.
+(1990); 2. Computational Fluid Dynamics and heat
+transfer: J.C. Tannehill, D.A. Anderson and R.H.
+Fletcher, Taylor and Francis (1997); 3. Numerical
+Recipes in Fortran 77, W.H. Press, S. Teukolsky,
+W, Vetterling and B. Flannery, Cambridge Univ.
+Press (1992); 4. Foundation of CFD: Tapan K.
+Sengupta,  University  Press  Hyderabad,  India
+(2009).
+Basics   of  Governing   Equations,  Spacetime
+discretization for PDE, Classification of PDE, Grid
+Generation, Waves and disturbances in fluid flow,
+Spacetime scales in fluid flow, Classical methods
+for solving parabolic PDEs, Methods for solving
+elliptic  PDEs,  High  accuracy  methods,  Time
+Discretization, Error analysis: DNS, LES, Solution
+of Navier Stokes equations.
+COMPUTATIONAL FLUID
+AE604                                      3-0-1-0-5   Course  Reference:     1.  Computational  Fluid
+MECHANICS
+Dynamics:   C.   Hirsch,   Wiley   (1998);    2.
+Computational  Fluid  Flow  and  Heat  Transfer,
+Tannehill, Anderson, Pletcher; 3. High Accuracy
+Computing  Method:   Fluid   flow  and  wave
+phenomena:  Tapan  K.  Sengupta,  Cambridge
+University Press (2013); 4. Foundation of CFD:
+Tapan K Sengupta, Universities Press, Hyderabad,
+India (2004)
+Basics   of  Governing   Equations,  Spacetime
+discretization for PDE, Classification of PDE, Grid
+Generation, Waves and disturbances in fluid flow,
+Spacetime scales in fluid flow, Classical methods
+for solving parabolic PDEs, Methods for solving
+elliptic  PDEs,  High  accuracy  methods,  Time
+Discretization, Error analysis: DNS, LES, Solution
+of Navier Stokes equations.
+COMPUTATIONAL FLUID
+AE604A                                     3-0-0-0-9   Course  Reference:     1.  Computational  Fluid
+MECHANICS
+Dynamics:    C.    Hirsch,    Wiley    (1998);2.
+Computational  Fluid  Flow  and  Heat  Transfer,
+Tannehill, Anderson, Pletcher; 3. High Accuracy
+Computing  Method:   Fluid   flow  and  wave
+phenomena:  Tapan  K.  Sengupta,  Cambridge
+University Press (2013); 4. Foundation of CFD:
+Tapan K Sengupta, Universities Press, Hyderabad,
+India (2004)
+ADVANCED                       Issues of spacetime Resolution, Computing time
+AE605                                      3-0-1-0-5
+COMPUTATIONAL FLUID                averaged unsteady problem, Defference type of
+
+[PAGE 20]
+MECHANICS                       high Modeling RANS, URANS, LES, DES, DNS,
+Generalized      transformation:      Orthogonal/
+Nonorthogonal grid, Chimera Technique, Basis of
+FDM, FVM, EEM, FDM and FVM: High accuracy
+methods.
+Course  Reference:   1.  Computational   Fluid
+Dynamics: Charles Hirsch, Wiley, Chichester, U.K.
+(1990); 2. Computational Fluid Dynamics and heat
+transfer: J.C. Tannehill, D.A. Anderson and R.H.
+Fletcher, Taylor and Francis (1997); 3. Foundation
+of CFD: Tapan K. Sengupta,  University Press
+Hyderabad, India (2009).
+Issues of space time Resolution, Computing time
+averaged unsteady problem, Defference type of
+high Modeling RANS, URANS, LES, DES, DNS,
+Generalized                        transformation:
+Orthogonal/Nonorthogonal       grid,     Chimera
+Technique, Basis of FDM, FVM, EEM, FDM and
+ADVANCED
+FVM: High accuracy methods.
+AE605A    COMPUTATIONAL FLUID     3-0-0-0-9
+Course  Reference:   1.  Computational   Fluid
+MECHANICS
+Dynamics: Charles Hirsch, Wiley, Chichester, U.K.
+(1990); 2. Computational Fluid Dynamics and heat
+transfer: J.C. Tannehill, D.A. Anderson and R.H.
+Fletcher, Taylor and Francis (1997); 3. Foundation
+of CFD: Tapan K. Sengupta,  University Press
+Hyderabad, India (2009).
+UNSTEADY GAS
+AE606A                                       To be procured
+DYNAMICS
+HEAT TRANSFER IN
+AE608         AEROSPACE                   To be procured
+APPLICATIONS
+HEAT TRANSFER IN
+AE608A        AEROSPACE                   To be procured
+APPLICATIONS
+Basic  fluid mechanics  Navier  stokes  equation,
+vorticity kinematics, Basic potential flows viscous
+AE610        AERODYNAMICS-I        3-0-0-0-4
+flows    including   boundary    layer    theory,
+turbulence(introduction)
+Basic  fluid mechanics  Navier  stokes  equation,
+vorticity kinematics, Basic potential flows viscous
+AE610A       AERODYNAMICS-I        3-0-0-0-9
+flows    including   boundary    layer    theory,
+turbulence(introduction)
+Introduction to measurement, Wind Tunnels and
+Water  Tunnels,  Flow  visualization  techniques,
+Measurement of Pressure and volume flow rate,
+Force       Measurements,       Temperature
+MEASUREMENTS IN FLUID              Measurements,  Hotwire  Measurements,  Data
+AE611                                      3-0-0-0-4
+MECHANICS                          Acquisition, Processing and uncertainty analysis,
+Static  and  dynamic  response  of  measuring
+systems,  PIV  Measurements,  Integral  optical
+measurement techniques: Shadowgraph, Schlieren
+&   Interferometers,  LDV  Measurements,  LIF
+
+[PAGE 21]
+Measurements.  Measurement   of  Wall  Shear
+Stress.
+Course   Reference:      1.   Fluid  Mechanics
+Measurement, by Richard  J. Goldstein Springer
+Verlng.  1983;   2.  Experimental  Methods   for
+Engineers by J.P. Holman McGrawHill 2008; 3.
+Measurement  in  Fluid  Mechanics  by  Stavros
+Tavoularis. Cambridge 2005;  4.  Particle Image
+Velocimetry: A Practical Guide by M. Raffel, C.
+Willert &  J. Kompenhans.  Springer,  1998;  5.
+Instrumentation, Measurements, and Experiments
+in Fluids, by E Rathakrishnan, CRCPress, 2007; 6.
+The Laser Doppler Technique, by L. E. Drain, John
+Wiley & Sons 1980; 7. Hotwire anemometry, by
+Perry A. E. Oxford  University  Press, 1982;  8.
+Particle Image Velocimetry, by Ronald J. Adrian
+and  Jerry  Westerweel  Cambridge  Aerospace
+Series, 2010.
+Introduction to measurement, Wind Tunnels and
+Water  Tunnels,  Flow  visualization  techniques,
+Measurement of Pressure and volume flow rate,
+Force       Measurements,       Temperature
+Measurements,  Hotwire  Measurements,  Data
+Acquisition, Processing and uncertainty analysis,
+Static  and  dynamic  response  of  measuring
+systems,  PIV  Measurements,  Integral  optical
+measurement techniques: Shadowgraph, Schlieren
+&   Interferometers,  LDV  Measurements,  LIF
+Measurements.  Measurement   of  Wall  Shear
+Stress.
+Course   Reference:    1.    Fluid   Mechanics
+MEASUREMENTS IN FLUID              Measurement, by Richard  J. Goldstein Springer
+AE611A                                     3-0-0-0-9
+MECHANICS                        Verlng.  1983;   2.  Experimental  Methods   for
+Engineers by J.P. Holman McGrawHill 2008; 3.
+Measurement  in  Fluid  Mechanics  by  Stavros
+Tavoularis. Cambridge 2005;  4.  Particle Image
+Velocimetry: A Practical Guide by M. Raffel, C.
+Willert &  J. Kompenhans.  Springer,  1998;  5.
+Instrumentation, Measurements, and Experiments
+in Fluids, by E Rathakrishnan, CRCPress, 2007; 6.
+The Laser Doppler Technique, by L. E. Drain, John
+Wiley & Sons 1980; 7. Hotwire anemometry, by
+Perry A. E. Oxford  University  Press, 1982;  8.
+Particle Image Velocimetry, by Ronald J. Adrian
+and  Jerry  Westerweel  Cambridge  Aerospace
+Series, 2010.
+Thin  aerofoil  theory,  finite  wing  theory,  basic
+thermodynamics, one and two- dimensional flows,
+isentropic   flows,  waves   (shock,   expansion,
+AE612       AERODYNAMICS II         3-0-0--4
+characteristics  etc.), potential flows, perturbation
+equation, subsonic flows  similarities Fanno and
+Rayleigh flows.
+Thin  aerofoil  theory,  finite  wing  theory,  basic
+AE612A      AERODYNAMICS II        3-0-0-0-9
+thermodynamics, one and two-dimensional flows,
+
+[PAGE 22]
+isentropic   flows,  waves   (shock,   expansion,
+characteristics  etc.), potential flows, perturbation
+equation, subsonic flows  similarities Fanno and
+Rayleigh flows.
+Basic  concepts  of  BL  theory;  similar  flows:
+generalized techniques  of solving BL eqns.  for
+AE614        VISCOUS FLOWS          3-0-0--4
+incompressible fluids: thermal BL. BL control. Intro.
+to turbulent hear flows.
+Basic  concepts  of  BL  theory;  similar  flows:
+generalized techniques  of solving BL eqns.  for
+AE614A       VISCOUS FLOWS         3-0-0-0-9
+incompressible fluids: thermal BL. BL control. Intro.
+to turbulent shear flows.
+Main issues of space time resolution: Computing
+time   averaged   and   unsteady   problems.
+Discretization with operators. Problems in physical
+and transformed plane: Jacobians and flux vector
+splitting.  Generalized  transformation  and  grid
+generation techniques: Orthogonal and Chimera
+grids application to FIV/aero elasticity problems.
+Spectral tools of analysis  for discrete schemes:
+ADVANCED
+FDM, FVM& FEM. High order and high accuracy
+AE615       COMPUTATIONAL         3-0-0--4
+schemes of FDMs and FVMs. Design of Dispersion
+METHODS IN CFD
+Relation Preservation schemes. Aliasing error and
+its alleviation. High accuracy methods for DN Sand
+LES. SGS models for LES and their connection to
+higher order up winding. Computing equations with
+discontinuous solutions and Gibbs phenomenon.
+Applications   to   incompressible   viscous  and
+compressible  flows. DNS  of  turbulence  and
+acoustic problems.
+Main issues of space time resolution: Computing
+time   averaged   and   unsteady   problems.
+Discretization with operators. Problems in physical
+and transformed plane: Jacobians and flux vector
+splitting.   Generalized   transformation  &   grid
+generation  techniques:  Orthogonal &  Chimera
+grids application to FIV/aero elasticity problems.
+Spectral tools of analysis  for discrete schemes:
+ADVANCED
+FDM, FVM& FEM. High order and high accuracy
+AE615A       COMPUTATIONAL         3-0-0-0-9
+schemes of FDMs and FVMs. Design of Dispersion
+METHODS IN CFD
+Relation Preservation schemes. Aliasing error & its
+alleviation. High accuracy methods for DN Sand
+LES. SGS models for LES and their connection to
+higher order up winding. Computing equations with
+discontinuous solutions and Gibbs phenomenon.
+Applications   to   incompressible   viscous  and
+compressible  flows. DNS  of  turbulence  and
+acoustic problems.
+Navier Stokes eqn. and  its various forms,  thin
+BOUNDARY LAYER                   shear  layer  approxn.  Various  types  of  flows.
+AE617         INSTABILITY AND          3-0-0--4     Instabilities  in  laminar  flows.  Relationship  of
+TRANSITION                             instability  theory  with  transition  to  turbulence.
+Transition prediction. Receptivity for two and three-
+
+[PAGE 23]
+dimensional problems.
+
+Navier Stokes eqn. and  its various forms,  thin
+shear  layer  approxn.  Various  types  of  flows.
+BOUNDARY LAYER
+Instabilities  in  laminar  flows.  Relationship  of
+AE617A        INSTABILITY AND         3-0-0-0-9
+instability  theory  with  transition  to  turbulence.
+TRANSITION
+Transition prediction. Receptivity for two and three
+-dimensional problems.
+Fundamental concepts; strong form, weak form,
+Galerkins approximation; matrix eqns, element and
+global   point   of   view;  numerical   integration
+FINITE ELEMENT
+Guassian  quadrature;  termporal   discretization
+AE618     METHODS FOR FLUID       3-0-0--4
+generalized  trapeziodal  rule;  compressible and
+DYNAMICS
+incompressible   flows;  implementation   of  the
+methods;  issues  related  to  high  performance
+computing.
+Fundamental concepts; strong form, weak form,
+Galerkins approximation; matrix eqns, element and
+global   point   of   view;  numerical   integration
+FINITE ELEMENT
+Guassian  quadrature;  termporal   discretization
+AE618A     METHODS FOR FLUID      3-0-0-0-9
+generalized  trapeziodal  rule;  compressible and
+DYNAMICS
+incompressible   flows;  implementation   of  the
+methods;  issues  related  to  high  performance
+computing.
+Origin, examples and character of turb, Reynolds
+stress,   energy   relations,   closure   problem,
+phenomenology, eddy viscosity. Staistics. spectra,
+space time correlations, macro & micro scales,
+AE621         TURBULENCE            3-0-0--4
+stat.  theory   of   turb,   locally   isotropic   turb,
+Kolmogorovs   hypothesis,   correlation  method,
+spectral  method,  turb.  diffusion.  Experimental
+techniques.
+Origin, examples and character of turb, Reynolds
+stress,   energy   relations,   closure   problem,
+phenomenology, eddy viscosity. Staistics. spectra,
+space time correlations, macro & micro scales,
+AE621A        TURBULENCE           3-0-0-0-9
+stat.  theory   of   turb,   locally   isotropic   turb,
+Kolmogorovs   hypothesis,   correlation  method,
+spectral  method,  turb.  diffusion.  Experimental
+techniques.
+Eqns  of  fluid  dynamics &   its  classifications.
+Boundary conditions. Stability analysis & concept
+of feedback. Various explicit & implicit schemes.
+COMPUTATIONAL FLUID
+AE622                                        3-0-0--4    Grid generation. Solving parabolic, elliptic PDEs by
+DYNAMICS
+explicit,  implicit, accelerated techniques. Solving
+advection  equation.  Integral  representation  of
+Navier Stokes equation; LES and DNS.
+Equations of fluid dynamics and its classifications.
+Boundary conditions. Stability analysis and concept
+COMPUTATIONAL FLUID                    of feedback. Various explicit & implicit schemes.
+AE622A                                     3-0-0-0-9
+DYNAMICS                        Grid generation. Solving parabolic, elliptic PDEs by
+explicit,  implicit, accelerated techniques. Solving
+advection  equation.  Integral  representation  of
+
+[PAGE 24]
+Navier Stokes equation; LES & DNS.
+
+Elements of viscous flows and thin shear layer
+approximation.  Different  types  of  TSL  flows.
+Instabilities  in  flows.  Rayleigh  Taylor,  Kelvin
+Helmholtz   mechanisms.   Thin   shear   layer
+instabilities:  for  parallel and  nonparallel  flows.
+Temporal and  spatial  instabilities  in  boundary
+layers. convective/absolute, local/global instabilities
+of boundary layers, wakes,  jets and free shear
+layers. Primary and secondary  instabilities and
+relationship  of  instability  theories  to  transition.
+Receptivity of shear layers for 2 and 3D flows.
+Bypass  transition  in  different  flows.  Classified
+views  of  turbulent  flows.  Scales,  spectra and
+closure of turbulent flows. Vorticity dynamics and
+other  kinematic  tools  of  turbulence.  Role  of
+stretching and dispersion in small scale turbulence.
+TRANSITION AND
+AE625                                        3-0-0--4    Route  to  turbulence:  Chaos  via  nonlinearity,
+TURBULENCE
+instabilities and bifurcation. Coherent structures in
+turbulence: Universality of transitional and turbulent
+flows. Study of turbulence via chaos dynamics and
+proper  orthogonal  decomposition  (POD). DNS,
+LES and other closure schemes of turbulence
+Course Reference: 1. Drazin. P.G. & Reid W.H.:
+Hydrodynamic Stability 1981, (CUP); 2. Davidson.
+P.A.: Turbulence (2003) (OUP);3. Lmdahl. M.T. &
+Mollo   Christcnsen:   Turbulence  &  Random
+Processes  in  Fluid Mechanics 1992 (CUP);  4.
+Holmes. P., Lumley, J.L. & Bcrkooz G: Turbulence,
+Coherent  structures.  Dynamical  systems  and
+Symmetry. 1996 (CUP); 5. Sagaut. P.: Large Eddy
+Simulation   for   Incompressible   Flows.  2000
+(Springer); 6. Sengupta T.K.: Foundation of CFD,
+2004 (Univ. Press)
+Elements of viscous flows and thin shear layer
+approximation.  Different  types  of  TSL  flows.
+Instabilities  in  flows.  Rayleigh  Taylor,  Kelvin
+Helmholtz   mechanisms.   Thin   shear   layer
+instabilities:  for  parallel and  nonparallel  flows.
+Temporal and  spatial  instabilities  in  boundary
+layers. convective/absolute, local/global instabilities
+of boundary layers, wakes,  jets and free shear
+layers. Primary and secondary  instabilities and
+TRANSITION AND                       relationship  of  instability  theories  to  transition.
+AE625A                                     3-0-0-0-9
+TURBULENCE                        Receptivity of shear layers for 2 and 3D flows.
+Bypass  transition  in  different  flows.  Classified
+views  of  turbulent  flows.  Scales,  spectra and
+closure of turbulent flows. Vorticity dynamics and
+other  kinematic  tools  of  turbulence.  Role  of
+stretching and dispersion in small scale turbulence.
+Route  to  turbulence:  Chaos  via  nonlinearity,
+instabilities and bifurcation. Coherent structures in
+turbulence: Universality of transitional and turbulent
+flows. Study of turbulence via chaos dynamics ans
+
+[PAGE 25]
+proper  orthogonal  decomposition  (POD). DNS,
+LES and other closure schemes of turbulence
+Course Reference:  1. Drazin. P.G. & Reid W.H.:
+Hydrodynamic Stability 1981, (CUP); 2. Davidson.
+P.A.: Turbulence (2003) (OUP);3. Lmdahl. M.T. &
+Mollo   Christcnsen:   Turbulence  &  Random
+Processes  in  Fluid Mechanics 1992 (CUP);  4.
+Holmes.   P.,  Lumley,   J.L.  &  Bcrkooz   G.:
+Turbulence,   Coherent   structures.   Dynamical
+systems and Symmetry. 1996 (CUP); 5. Sagaut.
+P.:  Large Eddy  Simulation  for  Incompressible
+Flows.  2000   (Springer);   6.  Sengupta   T.K.:
+Foundation of CFD, 2004 (Univ. Press)
+Continuum  hypersonics   in  entry   flight.  Gen
+features, Mach no. Small disturb theory, similitude.
+Large diflecn similitude; wedge, cone, wing. Unified
+CONTINUUM HYPERSONIC
+AE628                                        3-0-0--4     similitude.   Lighthill &  other  piston  analogies,
+AERODYNAMICS
+Newton Busemann  theory,  thin  shock  layers,
+viscous inviscid interaction. Real gas. Frozen flow.
+Non equillibrium flow.
+Continuum  hypersonics   in  entry   flight.  Gen
+features, Mach no. Small disturb theory, similitude.
+Large  diflection  similitude; wedge,  cone,  wing.
+CONTINUUM HYPERSONIC
+AE628A                                     3-0-0-0-9    Unified   similitude.   Lighthill  &   other   piston
+AERODYNAMICS
+analogies, Newton Busemann theory, thin shock
+layers,  viscous  inviscid  interaction.  Real  gas.
+Frozen flow. Nonequilibrium flow.
+Earths  atmosphere &  rotation,  Coriolis  force,
+geotrophic winds. Terrain, mettheories, measuring
+technique. Wind  power  site.  Atmospheric  BL.
+ADVANCES IN WIND
+AE629                                        3-0-0--4    Aerodynamics  in wind power.  Sails,  airscrews.
+ENERGY CONVERSION
+Vertical & horizontal axis wind turbines. Actuator
+disc, momentum, and vortex theories. Control of
+wind turbines.
+Earth’s  atmosphere &  rotation,  Coriolis  force,
+geotrophic winds. Terrain, mettheories, measuring
+technique. Wind  power  site.  Atmospheric  BL.
+ADVANCES IN WIND
+AE629A                                     3-0-0-0-9   Aerodynamic  in  wind  power.  Sails,  airscrews.
+ENERGY CONVERSION
+Vertical & horizontal axis wind turbines. Actuator
+disc, momentum, and vortex theories. Control of
+wind turbines.
+AUTONOMOUS
+UNMANNES AERIAL                To be procured
+AE630A         SYSTEMS
+MISSILES GUIDANCE AND
+AE633A                                       To be procured
+DYNAMICS
+Course   introduction,  basic   definition,   notion,
+guidance, navigation, and control loops. Review to
+AUTONOMOUS                          linear algebra. Coordinated frames, kinematics and
+AE640                                      3-0-0-0-4
+NAVIGATION                      dynamics,  trim  conditions.  Linear  control  and
+autopilot  design.  Introduction  to  probability and
+random  processes.  Accelerometer,  rate  gyros,
+
+[PAGE 26]
+pressure   sensors,   magnetometers,    inertial
+measurement  units  (IMUs),  global  positioning
+systems (GPS).  State  estimation: Kalman  filter
+(KF), Extended Kalman  filter (EKF), Unscented
+Kalman filter (UKF), Cubature Kalman filter (CKF),
+Information  filters, GPS aided  navigation. Path
+planning   and   path    following    algorithms.
+Controllability,    observability,    vision   guided
+navigation. Cooperative control
+Course Reference:  1. D. P. Bertsekas and J. N.
+Tsitsiklis,   Introduction   to   Probability,  Athena
+Scientific, 2008; 2. S. Thrun, W. Burgard, and D.
+Fox, Probabilistic Robotics, MIT Press, 2005; 3. S.
+M.  LaValle.  Planning  Algorithms.  Cambridge
+University Press, Cambridge, U.K., 2006.
+Course   introduction,  basic   definition,   notion,
+guidance, navigation, and control loops. Review to
+linear algebra. Coordinated frames, kinematics and
+dynamics,  trim  conditions.  Linear  control  and
+autopilot  design.  Introduction  to  probability and
+random  processes.  Accelerometer,  rate  gyros,
+pressure   sensors,   magnetometers,    inertial
+measurement  units  (IMUs),  global  positioning
+systems (GPS).  State  estimation: Kalman  filter
+(KF), Extended Kalman  filter (EKF), Unscented
+AUTONOMOUS
+AE640A                                     3-0-0-0-9   Kalman filter (UKF), Cubature Kalman filter (CKF),
+NAVIGATION
+Information  filters, GPS aided  navigation. Path
+planning   and   path    following    algorithms.
+Controllability,    observability,    vision   guided
+navigation. Cooperative control.
+Course Reference: 1. D. P. Bertsekas and J. N.
+Tsitsiklis,   Introduction   to   Probability,  Athena
+Scientific, 2008; 2. S. Thrun, W. Burgard, and D.
+Fox, Probabilistic Robotics. Cambridge University
+Press, Ca, MIT Press, 2005; 3. S. M. LaValle.
+Planning Algorithms mbridge, U.K., 2006.
+Introduction, performance of single and multistage
+rockets, central force motion, two body problem,
+ballistic trajectories, trajectory transfer, rendezvous
+AE641      SPACE DYNAMICS-I        3-0-0-0-4   and  interception,  Eulers  eqns,  satellite  attitude
+dynamics,  stabilization through  gravity  gradient,
+spin and dual spin, effect of energy dissipation on
+stability.
+Introduction, performance of single and multistage
+rockets, central force motion, two body problem,
+ballistic trajectories, trajectory transfer, rendezvous
+AE641A      SPACE DYNAMICS-I        3-0-0-0-9   and  interception,  Eulers  eqns,  satellite  attitude
+dynamics,  stabilization through  gravity  gradient,
+spin and dual spin, effect of energy dissipation on
+stability.
+SPACECRAFT GUIDANCE                   Attitude  dynamics  and  stability  of  three  axis
+AE645        NAVIGATION AND          3-0-0--4     stabilized, single spin, dual spin, and multi body
+CONTROL                         spacecraft with a1ticulated antennas, sensors, and
+
+[PAGE 27]
+solar  arrays.  Design  of  control  of  three  axis
+stabilized spacecraft in orbit using reaction wheels,
+thrusters, magnets, single and double gimbaled
+control moment  gyros Large  angle  three  axis
+attitude  maneuver   controllers  using  reaction
+wheels and thrusters Control of spinning spacecraft
+in  transfer  orbit  during  delta_ v  firing and  in
+operational orbits around the Earth, and design of
+active nutation control Attitude stabilization of bias
+momentum   spacecraft   using  magnets  and
+thrusters Dynamics and control of dual spin space
+craft Precision pointing and tracking controllers for
+tracking  landmarks, moving  objects, and  other
+satellites for crosslink communication Solar array
+controllers for tracking the Sun; determining the
+arrays orientation with sun sensors Modeling of
+dynamics of flexible solar arrays, its interaction with
+spacecraft dynamics and control systems Attitude
+determination  with  gyros,  star  trackers,  sun
+sensors, and horizon sensors using  algorithms
+such as TRIAD and QUEST (quaternion estimator);
+sensors error characteristics; and Kalman filtering
+Guidance   and    navigation    for    spacecraft
+rendezvous The above control techniques will be
+related with the control of Indian communication,
+remote  sensing,  and  other  special  purpose
+satellites (Ca1tosat, Edusat, telemedicine).
+Course Reference:  1. Hughes, P.C., Spacecraft
+Attitude Dynamics, John Wiley, 1986; 2. Sidi, M.J.,
+Spacecraft  Dynamics  and  Control,  Cambridge
+University Press, 1997; 3. Noton, M., Spacecraft
+Navigation  and  Guidance,  Springer  1998;  4.
+Kaplan, M.H., Modern Spacecraft Dynamics and
+Control, John Wiley, 1976; 5. Agrawal, B., Design
+of  Geosynchronous  Spacecraft,  Prentice  Hall,
+1986; 6. Bryson, A.E., Control of Spacecraft and
+Aircraft,  Princeton  University  Press,  1994;  7.
+Pocha, J.J., An Introduction to Mission Design for
+Geostationary Satellites, D. Reidel,1987; 8. Mara[,
+G., and Bousquet, M., Satellite Communications
+Systems, Fourth Edition, JohnWiley, 2006; 9. Wie,
+B., Space Vehicle Dynamics and Control, AIAA
+Education Series, 1998
+Course Details: Attitude dynamics and stability of
+three axis stabilized, single spin, dual spin, and
+multibody  spacecraft  with  a1ticulated antennas,
+sensors, and solar arrays. Design  of control of
+SPACECRAFT GUIDANCE                 there  axis  stabilized  spacecraft  in  orbit  using
+AE645A       NAVIGATION AND         3-0-0-0-9    reaction wheels,  thrusters, magnets,  single and
+CONTROL                       double  gimbaled  control moment  gyros  Large
+angle  three  axis  attitude maneuver  controllers
+using  reaction wheels and  thrusters Control  of
+spinning spacecraft in transfer orbit during delta_ v
+firing and in operational orbits around the Earth,
+
+[PAGE 28]
+and  design  of  active  nutation  control  Attitude
+stabilization of bias momentum spacecraft using
+magnets and thrusters Dynamics and control of
+dualspin spacecraft Precision pointing and tracking
+controllers for tracking landmarks, moving objects,
+and other  satellites  for crosslink communication
+Solar  array  controllers  for  tracking  the  Sun;
+determining the arrays orientation with sun sensors
+Modeling of dynamics of flexible solar arrays, its
+interaction with spacecraft dynamics and control
+systems  Attitude determination  with  gyros,  star
+trackers, sun sensors, and horizon sensors using
+algorithms such as TRIAD and QUEST (quaternion
+estimator);  sensors  error  characteristics;  and
+Kalman  filtering  Guidance  and  navigation  for
+spacecraft   rendezvous  The   above   control
+techniques will be related with the control of Indian
+communication, remote sensing, and other special
+purpose      satellites     (Ca1tosat,     Edusat,
+telemedicine).
+Course Reference  : 1. Hughes, P.C., Spacecraft
+Attitude Dynamics, John Wiley, 1986; 2. Sidi, M.J.,
+Spacecraft  Dynamics  and  Control,  Cambridge
+University Press, 1997; 3. Noton, M., Spacecraft
+Navigation  and  Guidance,  Springer  1998;  4.
+Kaplan, M.H., Modern Spacecraft Dynamics and
+Control, John Wiley, 1976; 5. Agrawal, B., Design
+of  Geosynchronous  Spacecraft,  Prentice  Hall,
+1986; 6. Bryson, A.E., Control of Spacecraft and
+Aircraft,  Princeton  University  Press,  1994;  7.
+Pocha, J.J., An Introduction to Mission Design for
+Geostationary Satellites, D. Reidel,1987; 8. Mara[,
+G., and Bousquet, M., Satellite Communications
+Systems, Fourth Edition, JohnWiley, 2006; 9. Wie,
+B., Space Vehicle Dynamics and Control, AIAA
+Education Series, 1998
+Fundamentals   of   vectors.  Transformation   of
+coordinates.   Particle  kinematics.  Rigid  body
+kinematics. Force equations in a moving frame.
+AE647        FLIGHT DYNAMICS        3-0-0-0-4
+Moment equations in a moving frame. Atmospheric
+flight   Dynamics.   Space     flight   dynamics.
+Gyrodynamics.
+Fundamentals   of   vectors.  Transformation   of
+coordinates.   Particle  kinematics.  Rigid  body
+kinematics. Force equations in a moving frame.
+AE647A       FLIGHT DYNAMICS        3-0-0-0-9
+Moment equations in a moving frame. Atmospheric
+flight   Dynamics.   Space     flight   dynamics.
+Gyrodynamics.
+Linearized equations of aircraft motion for small
+perturbations in stability axes. Stability analysis of
+FLIGHT STABILITY AND                    linearized   equations    of   motion.   Airplane
+AE648                                      3-0-0-0-4
+CONTROL                            longitudinal   motion.   Airplane   lateral   motion.
+Airplane  handling  qualities.  Missile and  launch
+vehicle stability and control. Qualitative discussion
+
+[PAGE 29]
+of automatic flight control systems
+
+Linearized equations of aircraft motion for small
+perturbations in stability axes. Stability analysis of
+linearized   equations    of   motion.   Airplane
+FLIGHT STABILITY AND
+AE648A                                     3-0-0-0-9    longitudinal   motion.   Airplane   lateral   motion.
+CONTROL
+Airplane  handling  qualities.  Missile and  launch
+vehicle stability and control. Qualitative discussion
+of automatic flight control systems
+1. Introduction to Automatic Control Systems.(Plant
+Models, Control Algorithms, Sensors, Actuators,
+Control Systems Classification.); 2. Introduction to
+Rigid Body Dynamics and Flight Models; 3. Linear
+Systems (Analog and  Digital Systems, Transfer
+Function and Frequency Response, State Space
+Representations,   Stability,   Performance,  and
+Robustness);    4.    Single    Variable    Linear
+Control(Proportional,  Integral, Derivative Control,
+Rate and Rate  Integrating Gyros,  Single  Input
+Regulation by Pole Placement, Linear Observers,
+SISO Compensation and  Tracking,  Single Axis
+Attitude Control, Aircraft Heading Autopilot, Aircraft
+Speed  Autopilot,  Roll  Autopilots   for   Aircraft,
+Rockets, and  Entry  Vehicles,  Planar  Tracking
+Systems  for Rockets and Entry Vehicles, Pitch
+Stabilization   of  Gravity  Gradient  Spacecraft,
+Spacecraft    Single    Axis   Maneuvers);    5.
+AUTOMATIC CONTROL OF                  Multivariable Linear Optimal Control(Linear Optimal
+AE649     AIRCRAFT ROCKETS AND     3-0-0--4    Control, Linear Quadratic Regulator, Kalman Filter,
+SPACECRAFT                      Optimal Compensation and Multivariable Tracking,
+Longitudinal Autopilots  for  Aircraft, Bank to turn
+Missiles, and Entry Vehicles, Lateral Directional
+Autopilots for Atmospheric Flight Vehicles, Attitude
+Stabilization of Spacecraft, Reaction Wheel Control
+Systems,   Magnetic   Torquer/Reaction  Wheel
+Control  Systems,  Control Moment  Gyroscopes
+,Variable  Speed  Control Moment  Gyroscopes,
+Thrust Vectoring Attitude Control of Rockets); 6.
+Terminal Time Weighted Linear Optimal Control
+(Time Varying Tracking Systems, Guidance and
+Control of Rockets and Entry Vehicles, Automated
+Orbital Rendezvous); 7. Digital Implementation of
+Linear Flight Control Systems.
+Course Reference:  1. Tewari, A, Modern Control
+Design with MATLAB and Simulink, John Wiley &
+Sons, Chichester, 2002; 2. Tewari, A, Atmospheric
+and Space Flight Dynamics, Springer (Birkhauser),
+Boston, 2006.
+1. Introduction to Automatic Control Systems.(Plant
+Models, Control Algorithms, Sensors, Actuators,
+AUTOMATIC CONTROL OF
+Control Systems Classification.); 2. Introduction to
+AE649A    AIRCRAFT ROCKETS AND    3-0-0-0-9
+Rigid Body Dynamics and Flight Models; 3. Linear
+SPACECRAFT
+Systems(Analog and  Digital  Systems,  Transfer
+Function and Frequency Response, State Space
+
+[PAGE 30]
+Representations,   Stability,   Performance,  and
+Robustness);    4.    Single    Variable    Linear
+Control(Proportional,  Integral, Derivative Control,
+Rate and Rate  Integrating Gyros,  Single  Input
+Regulation by Pole Placement, Linear Observers,
+SISO Compensation and  Tracking,  Single Axis
+Attitude Control, Aircraft Heading Autopilot, Aircraft
+Speed  Autopilot,  Roll  Autopilots   for   Aircraft,
+Rockets, and  Entry  Vehicles,  Planar  Tracking
+Systems  for Rockets and Entry Vehicles, Pitch
+Stabilization   of  Gravity  Gradient  Spacecraft,
+Spacecraft    Single    Axis   Maneuvers);    5.
+Multivariable Linear Optimal Control(Linear Optimal
+Control, Linear Quadratic Regulator, Kalman Filter,
+Optimal Compensation and Multivariable Tracking,
+Longitudinal  Autopilots  for  Aircraft,  Banktoturn
+Missiles, and Entry Vehicles, Lateral Directional
+Autopilots for Atmospheric Flight Vehicles, Attitude
+Stabilization of Spacecraft, Reaction Wheel Control
+Systems,   Magnetic   Torquer/Reaction  Wheel
+Control  Systems,  Control Moment  Gyroscopes
+,Variable  Speed  Control Moment  Gyroscopes,
+Thrust Vectoring Attitude Control of Rockets); 6.
+Terminal Time Weighted Linear Optimal Control
+(Time Varying Tracking Systems, Guidance and
+Control of Rockets and Entry Vehicles, Automated
+Orbital Rendezvous); 7. Digital Implementation of
+Linear Flight Control Systems.
+Course Reference: 1. Tewari, A, Modern Control
+Design with MATLAB and Simulink, John Wiley &
+Sons, Chichester, 2002; 2. Tewari, A, Atmospheric
+and Space Flight Dynamics, Springer (Birkhauser),
+Boston, 2006.
+Introduction to propulsion, conservation equations,
+basic     thermodynamics,    dynamics    and
+thermodynamics of 1 D flows, 1 D isentropic flows,
+FUNDAMENTAL OF                   normal and oblique shocks, compressible flows,
+AE650    AEROSPACE PROPULSION    3-0-0-0-4   Rayleigh   flow,  Fanno   flow,   elements   of
+- I                            combustion,  thermochemistry,  adiabatic  flame
+temperature, premixed  flames,  diffusion  flames,
+rocket propulsion, thrust equation, solid rockets,
+liquid rockets, hybrid rockets, gas turbine cycles.
+Introduction to propulsion, conservation equations,
+basic     thermodynamics,    dynamics    and
+thermodynamics of 1 D flows, 1 D isentropic flows,
+FUNDAMENTAL OF                   normal and oblique shocks, compressible flows,
+AE650A   AEROSPACE PROPULSION    3-0-0-0-9   Rayleigh   flow,  Fanno   flow,   elements   of
+- I                            combustion,  thermochemistry,  adiabatic  flame
+temperature, premixed  flames,  diffusion  flames,
+rocket propulsion, thrust equation, solid rockets,
+liquid rockets, hybrid rockets, gas turbine cycles.
+Gas   turbine  engines,  performance   analysis,
+AE652     AIRCRAFT PROPULSION     3-0-0-0-4   subsonic and supersonic diffusers, centrifugal and
+axial compressors, stage dynamics, compressor
+
+[PAGE 31]
+stall, axial turbines, compressor turbine matching,
+gas turbine combustors and after burners, nozzles,
+ramjets, scramjets.
+Gas   turbine  engines,  performance   analysis,
+subsonic and supersonic diffusers, centrifugal and
+axial compressors, stage dynamics, compressor
+AE652A     AIRCRAFT PROPULSION     3-0-0-0-9
+stall, axial turbines, compressor turbine matching,
+gas turbine combustors and after burners, nozzles,
+ramjets, scramjets.
+Axial compressors,  stage dynamics, degree  of
+reaction, pressure rise limitations, secondary flows,
+performance:  design  and  off  design,  starting
+THERMAL
+AE653                                        3-0-0--4    problems, centrifugal compressors; inlet flow, slip,
+TURBOMACHINERY
+sweep,  diffuser  design.  Axial  turbines:  stage
+dynamics, three dimensional flows, loss estimation,
+blade cooling.
+Axial compressors,  stage dynamics, degree  of
+reaction, pressure rise limitations, secondary flows,
+performance:  design  and  off  design,  starting
+THERMAL
+AE653A                                     3-0-0-0-9   problems, centrifugal compressors; inlet flow, slip,
+TURBOMACHINERY
+sweep,  diffuser  design.  Axial  turbines:  stage
+dynamics, three dimensional flows, loss estimation,
+blade cooling.
+COMBUSTION PROBLEMS
+AE654                                        To be procured
+IN ROCKET PROPULSION
+COMBUSTION PROBLEMS
+AE654                                        To be procured
+IN ROCKET PROPULSION
+COMBUSTION PROBLEMS
+AE654A                                       To be procured
+IN ROCKET PROPULSION
+Introduction and overview. Comparison of ramjet
+propulsion with other types of missile propulsion.
+Types   of  ram  propulsion.  Specific  impulse.
+Propellants. Ramjet air induction system for missile
+AIRBREATHING MISSILE                   application. Ducted rocket performance with single
+AE657                                      3-0-0-0-4
+PROPULSION                   and multiple  inlet systems. Engine and airframe
+integration  for  ramjet and ram  rocket powered
+missiles. Ramjet with solid  fuel. Solid propellant
+ram rockets. Supersonic combustion ramjet. Inlet,
+combustor and nozzle analysis.
+Introduction and overview. Comparison of ramjet
+propulsion with other types of missile propulsion.
+Types   of  ram  propulsion.  Specific  impulse.
+Propellants. Ramjet air induction system for missile
+AIRBREATHING MISSILE                   application. Ducted rocket performance with single
+AE657A                                     3-0-0-0-9
+PROPULSION                   and multiple  inlet systems. Engine and airframe
+integration  for  ramjet and ram  rocket powered
+missiles. Ramjet with solid  fuel. Solid propellant
+ramrockets. Supersonic combustion ramjet.  Inlet,
+combustor and nozzle analysis.
+NUMERICAL MODELING                    Introduction, Governing  equations,  Modeling  of
+AE658       OF CHEMICALLY         3-1-0-0-5    laminar  premixed  and  nonpremixed   flames,
+REACTING FLOWS                   Modeling of turbulent premixed and nonpremixed
+
+[PAGE 32]
+flames, Advanced modeling aspect. Introduction (3
+hrs) Motivation and aim Governing equations for
+reacting  flows  Modeling  of  Laminar  Premixed
+flames (7 hrs) Introduction Conservation equations
+and  numerical  solutions  Steady  1 D  flames
+Theoretical solution methods Calculation of flame
+speed, thickness and stretch Modeling of Laminar
+non premixed flames (6 hrs) Non premixed flame
+configuration Theoretical tools Flame structure for
+irreversible  infinite  fast chemistry and  solutions
+Theory  of  other  flame  structures  Modeling  of
+turbulent    premixed    flames    (10     hrs)
+Phenomenological description Premixed turbulent
+combustion regime RANS modeling LES modeling
+DNS modelling Modeling of turbulent non premixed
+flames  (10  hrs)  Phenomenological  description
+Turbulent non premixed combustion regime RANS
+modeling LES modeling DNS modelling Advanced
+modeling aspect (4 hrs) Combustion in two phase
+flows Boundary conditions Flame/wall interactions
+Flame/acoustics interaction.
+Course  Reference:  1.  Peters,  N.,  Turbulent
+Combustion, Cambridge University Press, 2000; 2.
+Warnatz, J., Mass, U., Dibble, R.W., Combustion:
+Physical and Chemical Fundamentals, Modeling
+and Simulation, Experiments, Pollutant Formation,
+Springer, 4111 Edition, 2006;  3. Kuo, Kenneth,
+Principles of Combustion, John Wiley and Sons,
+Inc,  Edition,2005; 4. Chung, T. J., Computational
+Fluid  Dynamics,  Cambridge  University  Press,
+2002;  5.  Law,  C.  K.,  Combustion  Physics,
+Cambridge University Press, 2006.
+Introduction, Governing  equations,  Modeling  of
+laminar  premixed  and  nonpremixed   flames,
+Modeling of turbulent premixed and nonpremixed
+flames, Advanced modeling aspect. Introduction (3
+hrs) Motivation and aim Governing equations for
+reacting  flows  Modeling  of  Laminar  Premixed
+flames (7 hrs) Introduction Conservation equations
+and  numerical  solutions  Steady  1 D  flames
+Theoretical solution methods Calculation of flame
+speed, thickness and stretch Modeling of Laminar
+NUMERICAL MODELING
+non premixed flames (6 hrs) Non premixed flame
+AE658A       OF CHEMICALLY         3-0-0-0-9
+configuration Theoretical tools Flame structure for
+REACTING FLOWS
+irreversible  infinite  fast chemistry and  solutions
+Theory  of  other  flame  structures  Modeling  of
+turbulent    premixed    flames    (10     hrs)
+Phenomenological description Premixed turbulent
+combustion regime RANS modeling LES modeling
+DNS modelling Modeling of turbulent non premixed
+flames  (10  hrs)  Phenomenological  description
+Turbulent nonpremixed combustion regime RANS
+modeling LES modeling DNS modelling Advanced
+modeling aspect (4 hrs) Combustion in two phase
+
+[PAGE 33]
+flows Boundary conditions Flame/wall interactions
+Flame/acoustics interaction.
+Course  Reference:  1.  Peters,  N.,  Turbulent
+Combustion, Cambridge University Press, 2000; 2.
+Warnatz, J., Mass, U., Dibble, R.W., Combustion:
+Physical and Chemical Fundamentals, Modeling
+and Simulation, Experiments, Pollutant Formation,
+Springer, 4111 Edition, 2006;  3. Kuo, Kenneth,
+Principles of Combustion, John Wiley and Sons,
+Inc,  2nd   Edition,2005;   4.  Chung,   T.    J.,
+Computational    Fluid   Dynamics,   Cambridge
+University Press, 2002; 5. Law, C. K., Combustion
+Physics, Cambridge University Press, 2006.
+1. Introduction to: design process, design goals,
+types  of  rotorcraft  (2  Lec.);  2.  Understanding
+mission requirements, use of Analytical Hierarchy
+Process in configuration selection (2 Lec.) (1 Lab.);
+3. Concept selection methodology:  collection  of
+statistical data, Pughs method, key performance
+indices,  life  cycle  costs  (2  Lec.)  (1  Lab.);  4.
+Generating design alternatives: preliminary sizing
+using  Tischenkos  Method,  preliminary  weight
+estimation,  rotor  propulsive  efficiency,  Lift/Drag
+ratio, engine performance, main rotor blade weight
+estimation, rotor hub and swash plate (3 Lec.) (1
+Lab.); 5. Performance: power required for hover,
+climb, level  flight, maximum level speed, speed
+forbest  endurance,   best  range,   autorotative
+performance  (3  Lec.)  (2  Lab.);  6. Main  rotor
+configuration   design:    rotor    structural   and
+aerodynamic  design  (number  of  blades,  rotor
+diameter, blade chord, rotor  inertia, blade  twist,
+blade taper, blade tip shape, sweep, root cutout, tip
+PRELIMINARY DESIGN OF
+AE660                                      2-0-3-0-4   speed, hinge offset, air foils, frequency placement,
+HELICOPTER
+material  selection)  (5  Lec.)  (3  Lab.);  7. Rotor
+component  design: hub  design,  control power,
+helicopter stability considerations (3 Lec.) (2 Lab.);
+8.  Tail  rotor/  antitorque systems:  diameter,  tip
+speed,  disk  area,  number  of  blades,  pusher
+vstractor (2 Lec.) (1 Lab.); 9. Fuselage and landing
+gear  design  (4  Lec.)  (2  Lab.);  10.  Vibration
+sources, vibration reduction (2 Lec.) (1 Lab.); 11.
+Life  cycle  cost  estimation:  environmental  cost,
+purchase cost. operating cost (2 Lec.) (1 Lab.); 12.
+Leishman,   J.   G.,   Principles   of   Helicopter
+Aerodynamics, Cambridge Aerospace Series,2000.
+Course Reference:  1. Prouty, R. W., Helicopter
+Performance,   Stability,  and   Control,  Krieger
+Publishing   Company,    Florida,   1986;    2.
+Stepniewski, W. Z., and Keys, C. N., Rotary Wing
+Aerodynamics,   Dover,  New   York,1984;   3.
+Venkatesan,  CLecture  Notes  on   Helicopter
+Technology;    Department     of    Aerospace
+Engineering,  liT Kanpur, 2000; 4. Filippone,  A.,
+
+[PAGE 34]
+Flight Performance  of  Fixed and Rotary Wing
+Aircraft, AIAA Education Series, 2006.
+1. Introduction to: design process, design goals,
+types  of  rotorcraft  (2  Lec.);  2.  Understanding
+mission requirements, use of Analytical Hierarchy
+Process in configuration selection (2 Lec.) (1 Lab.);
+3. Concept selection methodology:  collection  of
+statistical data, Pugh’s method, key performance
+indices,  life  cycle  costs  (2  Lec.)  (1  Lab.);  4.
+Generating design alternatives: preliminary sizing
+using  Tischenko’s  Method,  preliminary  weight
+estimation,  rotor  propulsive  efficiency,  Lift/Drag
+ratio, engine performance, main ro tor blade weight
+estimation, rotor hub and swash plate (3 Lec.) (1
+Lab.); 5. Performance: power required for hover,
+climb, level  flight, maximum level speed, speed
+forbest  endurance,   best  range,   autorotative
+performance  (3  Lec.)  (2  Lab.);  6. Main  rotor
+configuration   design:    rotor    structural   and
+aerodynamic  design  (number  of  blades,  rotor
+diameter, blade chord, rotor  inertia, blade  twist,
+blade taper, blade tip shape, sweep, root cutout, tip
+speed, hinge offset, air foils, frequency placement,
+PRELIMINARY DESIGN OF
+AE660A                                     2-0-3-0-9    material  selection)  (5  Lec.)  (3  Lab.);  7. Rotor
+HELICOPTER
+component  design: hub  design,  control power,
+helicopter stability considerations (3 Lec.) (2 Lab.);
+8.  Tail  rotor/  antitorque systems:  diameter,  tip
+speed,  disk  area,  number  of  blades,  pusher
+vstractor (2 Lec.) (1 Lab.); 9. Fuselage and landing
+gear  design  (4  Lec.)  (2  Lab.);  10.  Vibration
+sources, vibration reduction (2 Lec.) (1 Lab.); 11.
+Life  cycle  cost  estimation:  environmental  cost,
+purchase cost. operating cost (2 Lec.) (1 Lab.)
+Course Reference : 1. Leishman, J. G., Principles
+of Helicopter Aerodynamics, Cambridge Aerospace
+Series,2000;   2.   Prouty,  R.  W.,   Helicopter
+Performance,   Stability,  and   Control,  Krieger
+Publishing   Company,    Florida,   1986;    3.
+Stepniewski, W. Z., and Keys, C. N., Rotary Wing
+Aerodynamics,   Dover,  New   York,1984;   4.
+Venkatesan,  C.,;Lecture  Notes  on  Helicopter
+Technology;    Department     of    Aerospace
+Engineering,  liT Kanpur, 2000; 5. Filippone,  A.,
+Flight Performance  of  Fixed and Rotary Wing
+Aircraft, AIAA Education Series, 2006.
+Introduction to rocket propulsion, Types of rocket
+engines,  Elements   of  combustion,  Chemical
+propellants and their burning characteristics, Aero
+thermodynamic design analysis of solid propellant
+AE662    ROCKET ENGINE DESIGN     2-0-3--4    rocket  engine,  Liquid  propellant  rocket  engine,
+Design  ofthrust  chamber,  Design  of  cooling
+system; Design of rocket Nozzle.
+Course Reference:  1. Sutton G.P and Ross D.
+M.; Rocket Propulsion Elements;, John Wiley &
+
+[PAGE 35]
+Sons,New York, 1985; 2. Barrere M, Jaumotte A
+and  Vandenkerckhove  1;  Rocket  Propulsion,
+Elsevier Publishing Company, New York, 1960; 3.
+Hill, P.G. and Peterson  C.R.,; Mechanics and
+Thennodynamics  of Propulsion Addison Wesiey
+Publishing Company, 1965; 4. Oater G.C, ; Aero-
+thermodynamics  of Gas  Turbine  and  Rocket
+Propulsion,  3rdEdition,  AIAA  education  Seria,
+1998; 5. Mishra D.P.; Fundamental of Combustion
+Prentice Hall oflndia, New Delhi; 6. Kuo K. K. and
+Summerfield,; Fundamentals Of Solid Propellant,
+combustion;progress     in    Astronautics   and
+Aeronautics, Vol. 90, AIAA New York.
+Introduction to rocket propulsion, Types of rocket
+engines,  Elements   of  combustion,  Chemical
+propellants  and   their  burning   characteristics,
+AE662A    ROCKET ENGINE DESIGN    2-0-3-0-9   Aerothermodynamic  design  analysis   of   solid
+propellant rocket engine, Liquid propellant rocket
+engine, Design ofthrust chamber, Design of cooling
+system; Design of rocket Nozzle.
+Introduction, Combustion and  Thermochemistry:
+Motivation  and   objective,  Property   relations,
+Thermodynamic   laws,   Reactant  &   Product
+mixtures, Adiabatic flame temperature, Chemical
+equilibrium and equilibrium products Kinetics and
+Mechanism:     Introduction,    Global    versus
+elementary  reactions,  Rates   of  reaction   for
+FUNDAMENTALS OF                     multistep  mechanisms  Conservation  equations:
+AE663A                                     3-0-0-0-9
+COMBUSTION                         Simplified   governing   equations,  Momentum,
+energy,  mass  conservation,  Multi  component
+diffusion, Concept  of conserved scalar Laminar
+Premixed and Non  premixed  flames:  Physical
+description, Simplified and detailed analysis, Flame
+speed, thickness, quenching, flammability  limits,
+Flame  stabilization, Nonremixed flames, laminar
+jets, Droplet Combustion, Solid fuel Combustion
+APPLIED COMPRESSIBLE
+AE664                                        To be procured
+FLOWS
+APPLIED COMPRESSIBLE
+AE664A                                       To be procured
+FLOWS
+FINITE VOLUME METHODS
+AE665          IN HEAT MASS &                 To be procured
+MOMENTUM TRANSFER
+FINITE VOLUME METHODS
+AE665A          IN HEAT MASS &                 To be procured
+MOMENTUM TRANSFER
+COMBUSTION
+AE666A                                       To be procured
+DIAGNOSTICS
+NANO-PARTICLE
+AE667A                                       To be procured
+AEROSOL DYNAMICS
+AEROSPACE                     Free  body   diagram,   equilibrium   equations,
+AE670                                      3-0-0-0-4
+STRUCTURAL ANALYSIS - I              examples from three-dimensional truss problems;
+
+[PAGE 36]
+bending  moment,  shear  force.  Introduction  to
+theory  of  elasticity,  stress,  strain,  stress  strain
+relations, constitutive relations, basic equations of
+elasticity. Bending  of beams,  symmetrical and
+unsymmetrical   sections,   temperature   effects,
+nonhomogeneous  materials,  modulus  weighted
+sectional   properties,    thin   walled   sections.
+Deflection  of  beams.  Torsion  of  circular  and
+noncircular sections, thin walled sections, single
+and multiple closed  cell sections. Shear  in  thin
+walled sections, shear center, single and multiple
+cell sections, combined bending and torsion. Plane
+strain and  plane  stress problems  in  elasticity.
+Eulers bucklingof columns.
+Free  body   diagram,   equilibrium   equations,
+examples from three-dimensional truss problems;
+bending  moment,  shear  force.  Introduction  to
+theory  of  elasticity,  stress,  strain,  stress  strain
+relations, constitutive relations, basic equations of
+elasticity. Bending  of beams,  symmetrical and
+unsymmetrical   sections,   temperature   effects,
+AEROSPACE                   nonhomogeneous  materials,  modulus  weighted
+AE670A                                     3-0-0-0-9
+STRUCTURAL ANALYSIS - I                 sectional   properties,    thin   walled   sections.
+Deflection  of  beams.  Torsion  of  circular  and
+noncircular sections, thin walled sections, single
+and multiple closed  cell sections. Shear  in  thin
+walled sections, shear center, single and multiple
+cell sections, combined bending andtorsion. Plane
+strain and  plane  stress problems  in  elasticity.
+Eulers buckling of columns.
+Introduction.   Material  behaviour   of   idealized
+bodies,   mathematical    preliminaries,   tensor
+analysis, partial derivatives, etc. Analysis of stress
+AE672       SOLID MECHANICS         3-0-0--4    and strain measures. Laws of conservation, eqn. of
+motion, conservation of energy. Thermodynamic
+and  mechanical  equilibrium.  Constitutive  laws:
+viscoelastic materials.
+Introduction.   Material  behaviour   of   idealized
+bodies,   mathematical    preliminaries,   tensor
+analysis, partial derivatives, etc. Analysis of stress
+AE672A       SOLID MECHANICS        3-0-0-0-9   and strain measures. Laws of conservation, eqn. of
+motion, conservation of energy. Thermodynamic
+and  mechanical  equilibrium.  Constitutive  laws:
+visco-elastic materials.
+Mission  analysis, design approaches,  analytical
+techniques, rocket grain analysis, structural types
+and   optimization,  honeycomb  and  sandwich
+ROCKET AND MISSILE
+AE673                                        3-0-0--4    construction, structural materials, aeroelasticity of
+STRUCTURES
+cylindrical and conical shells, re-entry problems,
+ablation analysis, design examples, future trends,
+inflatable and expandable structure.
+ROCKET AND MISSILE                  Mission  analysis, design approaches,  analytical
+AE673A                                     3-0-0-0-9
+STRUCTURES                       techniques, rocket grain analysis, structural types
+
+[PAGE 37]
+and   optimization,  honeycomb  and  sandwich
+construction, structural materials, aeroelasticity of
+cylindrical and conical shells, re-entry problems,
+ablation analysis, design examples, future trends,
+inflatable and expandable structure.
+Discussion on mathematical models, reliability of
+computer  aided  engineering  analysis.  Model
+problem of linear elastostatics in one dimension,
+principle  of  minimum  potential  energy, beam
+bending problem. Finite element discretisation in
+one dimension. One dimensional h/p code, Finite
+INTRODUCTION TO FINITE               Element  Formulation and development  of  two-
+AE675                                        3-0-0--4
+ELEMENT METHODS                   dimensional code. Convergence analysis  in two
+dimensions.    Characterizational    of    solution
+smoothness, rate of convergence in energy norm,
+a posteriori error estimation. Direct computation of
+stresses    and      strains,     postprocessing,
+superconvergent extraction techniques, nonlinear
+and time dependent problems.
+Discussion on mathematical models, reliability of
+computer  aided  engineering  analysis.  Model
+problem of linear elastostatics in one dimension,
+principle  of  minimum  potential  energy, beam
+bending problem. Finite element discretisation in
+one dimension. One dimensional h/p code, Finite
+INTRODUCTION TO FINITE               Element  Formulation and development  of  two-
+AE675A                                     3-0-0-0-9
+ELEMENT METHODS                   dimensional code. Convergence analysis  in two
+dimensions.    Characterizational    of    solution
+smoothness, rate of convergence in energy norm,
+a posteriori error estimation. Direct computation of
+stresses   and    strains,    post    processing,
+superconvergent extraction techniques, nonlinear
+and time dependent problems.
+Influence coefficients and function. Formulation of
+static and dynamic aeroelastic equations.  Static
+aeroelasticity;  divergence,  aileron  reversal  &
+control  effectiveness,  solutions  by  matrix  and
+AE676        AEROELASTICITY          3-0-0--4
+energy   methods.   Unsteady   aerodynamics,
+oscillating     airfoil    in   incompressible    flow,
+experimental  methods,  Dynamic  aeroelasticity,
+flutter calculation, panel flutter.
+Influence coefficients and function. Formulation of
+static and dynamic aeroelastic equations.  Static
+aeroelasticity;  divergence,  aileron  reversal  &
+control  effectiveness,  solutions  by  matrix  and
+AE676A       AEROELASTICITY         3-0-0-0-9
+energy   methods.   Unsteady   aerodynamics,
+oscillating     airfoil    in   incompressible    flow,
+experimental  methods,  Dynamic  aeroelasticity,
+flutter calculation, panel flutter.
+Introd.  Hamilton’s  principles,  Lagranges  eqn,
+Eigenvalue problem (EVP), discrete& continuous
+AE678    THEORY OF VIBRATIONS     3-0-0--4
+system.  Boundary  value  problem  formulation.
+General EVP, positive definite system, self adjoint
+
+[PAGE 38]
+property.  Vibration   of   strings,  rods,  beams,
+membranes  and   plates.  Rayleighs   quotient.
+Integral  formulation  of EVP,  natural modes  of
+vibration,  approximate  methods.  Response  to
+excitation.
+Introd.  Hamiltons   principles,  Lagranges  eqn,
+Eigenvalue problem (EVP), discrete& continuous
+system.  Boundary  value  problem  formulation.
+General EVP, positive definite system, self adjoint
+AE678A    THEORY OF VIBRATIONS     3-0-0-0-9    property.  Vibration   of   strings,  rods,  beams,
+membranes  and   plates.  Rayleighs   quotient.
+Integral  formulation  of EVP,  natura modes  of
+vibration,  approximate  methods.  Response  to
+excitation.
+Introduction, Definition, classification, behaviors of
+unidirectional composites: prediction  of strength,
+stiffness, factors influencing strength & stiffness,
+failure modes,  analysis  of  lamina;  constitutive
+AE681     COMPOSITE MATERIALS      3-0-0--4     classical laminate theory, thermal stresses. Design
+consideration,  analysis  of laminates  after  initial
+failure, interlaminar stresses, fracture mechanics,
+joints, experimental characterization. Performance
+under adverse environment.
+Introduction, Definition, classification, behaviors of
+unidirectional composites: prediction  of strength,
+stiffness, factors influencing strength and stiffness,
+failure modes,  analysis  of  lamina;  constitutive
+AE681A    COMPOSITE MATERIALS     3-0-0-0-9    classical laminate theory, thermal stresses. Design
+consideration,  analysis  of laminates  after  initial
+failure, interlaminar stresses, fracture mechanics,
+joints, experimental characterization. Performance
+under adverse environment.
+ANALYSIS & COMPOSITE
+AE682A                                       To be procured
+STRUCTURES
+Introduction to probability theory, random process.
+Excitation response relations forstationary random
+processes  single  and  multidegree  of  freedom
+AE683     RANDOM VIBRATIONS       3-0-0--4    system with linear and nonlinear characteristics,
+continuous  systems.  Failure  due  to  random
+vibration, application to aero,  civil & mechanical
+systems.
+Intro.  to  probability  theory,  random  process.
+Excitation response relations for stationary random
+processes  single  and  multidegree  of  freedom
+AE683A     RANDOM VIBRATIONS      3-0-0-0-9   system with linear and nonlinear characteristics,
+continuous  systems.  Failure  due  to  random
+vibration, application to aero,  civil & mechanical
+systems.
+Definition of various terms used for classification of
+AIRCRAFT MATERIALS                    materials. Mechanical properties. Testing of aircraft
+AE684                                        3-0-0--4
+AND PROCESSES                       materials.  Classification  of  alloys  of aluminium,
+steel,  titanium  etc. High temperature problems;
+
+[PAGE 39]
+aerodynamic   heating,   design   considerations,
+ceramic  coating  etc.  Plastics,  fibre  reinforced
+composites, transparent materials.
+Definition of various terms used for classification of
+materials. Mechanical properties. Testing of aircraft
+materials.  Classification  of  alloys  of aluminium,
+AIRCRAFT MATERIALS
+AE684A                                     3-0-0-0-9    steel,  titanium  etc. High temperature problems;
+AND PROCESSES
+aerodynamic   heating,   design   considerations,
+ceramic  coating  etc.  Plastics,  fibre  reinforced
+composites, transparent materials.
+Free and forced vibration of discrete multidegree of
+freedom  systems  with  and  without  viscous
+damping;   impulse  and   frequency  response
+DETERMINISTIC &                   methods. Continuous systems; natural modes, free
+AE685                                        3-0-0--4
+RANDOM VIBRATION             & forced vibration. Random vibrations:  intro. To
+probability theory, random variables & processes,
+properties  of  random  processes,  response  of
+system to random excitations
+Free and forced vibration of discrete multidegree of
+freedom  systems  with  and  without  viscous
+damping;   impulse  and   frequency  response
+DETERMINISTIC &                   methods. Continuous systems; natural modes, free
+AE685A                                     3-0-0-0-9
+RANDOM VIBRATION             & forced vibration. Random vibrations:  intro. To
+probability theory, random variables & processes,
+properties  of  random  processes,  response  of
+system to random excitations
+Historical    development,    configurations    of
+helicopters, rotor system, flight control mechanism,
+momentum theory and blade element theory  in
+hover, vertical flight and forward flight. Idealization
+HELICOPTER THEORY:
+of rotor blades, Flaplag and torsional dynamics of
+AE686        DYNAMICS AND             3----4
+the   blade.   Trim  and   equilibrium   analysis,
+AEROELASTICITY
+aeroelastic  stability  of  rotor  blades.  Flappitch,
+lagpitch and flaplag coupling, simple model of rotor
+fuselage dynamics, longitudinal and lateral stability
+and control of helicopters.
+Historical    development,    configurations    of
+helicopters, rotor system, flight control mechanism,
+momentum theory and blade element theory  in
+hover, vertical flight and forward flight. Idealization
+HELICOPTER THEORY:
+of rotor blades, Flaplag and torsional dynamics of
+AE686A        DYNAMICS AND          3-0-0-0-9
+the   blade.   Trim  and   equilibrium   analysis,
+AEROELASTICITY
+aeroelastic  stability  of  rotor  blades.  Flappitch,
+lagpitch and flaplag coupling, simple model of rotor
+fuse lage dynamics, longitudinal and lateral stability
+and control of helicopters.
+General loads on aircraft, load factor, Vn diagram,
+effect of gust loading. Energy principles, potential
+and complementary potential; deflection analysis,
+AEROSPACE STRUC
+AE687                                        3-0-0--4    indeterminate   structures.  Analysis   of   plates,
+ANALYSIS II
+Kirchhoff and  first order shear deformation plate
+theories, buckling of plates, buckling of stiffened
+plates, local buckling of composite shapes.
+
+[PAGE 40]
+General loads on aircraft, load factor, Vn diagram,
+effect of gust loading. Energy principles, potential
+and complementary potential; deflection analysis,
+AEROSPACE STRUC
+AE687A                                     3-0-0-0-9    indeterminate   structures.  Analysis   of   plates,
+ANALYSIS II
+Kirchhoff and  first order shear deformation plate
+theories, buckling of plates, buckling of stiffened
+plates, local buckling of composite shapes.
+Rigid  body  dynamics:  Newtons  second  law,
+impulse and momentum, moment of a force and
+angular momentum, work and energy, system of
+particles, rigid bodies, Eulers equations. Analytical
+mechanics:  degrees  of  freedom,  generalized
+coordinates,  virtual  work,  Hamiltons  principle,
+Lagranges  equations.  Linear  system   theory:
+DYNAMICS AND
+AE688                                        3-0-0--4    frequency response, transform methods, transfer
+VIBRATION
+function, transition matrix, Eigen value problem,
+Modal analysis. Lumped parameter systems: single
+degree of freedom system, two degrees of freedom
+system,  multiple  degrees  of  freedom  system.
+Continuous  system:   introduction,   longitudinal,
+transverse  and  torsional  vibrations  of  slender
+members.
+Rigid  body  dynamics:  Newtons  second  law,
+impulse and momentum, moment of a force and
+angular momentum, work and energy, system of
+particles, rigidbodies, Eulers equations. Analytical
+mechanics:  degrees  of  freedom,  generalized
+coordinates,  virtual  work,  Hamiltons  principle,
+Lagranges  equations.  Linear  system   theory:
+DYNAMICS AND
+AE688A                                     3-0-0-0-9   frequency response, transform methods, transfer
+VIBRATION
+function, transition matrix, Eigen value problem,
+Modal analysis. Lumped parameter systems: single
+degree of freedom system, two degrees of freedom
+system,  multiple  degrees  of  freedom  system.
+Continuous  system:   introduction,   longitudinal,
+transverse  and  torsional  vibrations  of  slender
+members.
+Introduction to smart materials, piezo, pyro and
+ferro  electric  effects;  hysteresis  effects:  electric
+field   in   solids:  fundamentals   of  continuum
+INTRODUCTION TO THE                mechanics;     basic     conservation     laws;
+AE689      THEORY OF SMART        3-0-0-0-4   thermodynamic  principles;  constitutive modelling
+STRUCTURES                           for    smart    materials;    electrothermoelastic
+formulation  and  analysis  of  smart  structures;
+control   of  smart   structures;   applications   to
+aerospace vehicles.
+Introduction to smart materials, piezo, pyro and
+ferro  electric  effects;  hysteresis  effects:  electric
+INTRODUCTION TO THE                       field   in   solids:  fundamentals   of  continuum
+AE689A      THEORY OF SMART        3-0-0-0-9   mechanics;     basic     conservation     laws;
+STRUCTURES                    thermodynamic  principles;  constitutive modelling
+for    smart    materials;    electrothermoelastic
+formulation  and  analysis  of  smart  structures;
+
+[PAGE 41]
+control   of  smart   structures;   applications   to
+aerospace vehicles.
+Nature of high temperature flows, perfect and real
+gas, Gibbs free energy and entropy production,
+HIGH TEMPERATURE GAS                microscopic description of gases, thermodynamic
+AE690                                        3-0-0--4
+DYNAMICS                           properties,  equilibirum  properties  kinetic  theory,
+inviscid high temp. equilibrium and nonequilibrium
+flow, transport properties
+Nature of high temperature flows, perfect and real
+gas, Gibbs free energy and entropy production,
+HIGH TEMPERATURE GAS                microscopic description of gases, thermodynamic
+AE690A                                     3-0-0-0-9
+DYNAMICS                           properties,  equilibirum  properties  kinetic  theory,
+inviscid high temp. equilibrium and nonequilibrium
+flow, transport properties
+Definition  of large deformation  of structures as
+large deflection, large rotation with small strains.
+Linear and nonlinear structural responses. Theory
+of  elastica  with exact and numerical  solutions.
+Elements   of   large   deformation   mechanics:
+Reference and deformed configurations, Lagrange
+strain, Cauchy and  Piola  Kirchoff  stress, work
+conjugate stress and strain measures. Governing
+equations in strong and weak form. Hyperelastic
+material  constitutive  law.  Incremental numerical
+MECHANICS OF HIGHLY
+solution  of  large  deformation  boundary  value
+AE692        DEFORMABLE          3-0-0-0-4
+problems: tangent  stiffness,  explicit and  implicit
+STRUCTURES
+methods, Newton Raphson method. Elastic and
+geometric  stiffness.  Total  Lagrangian  method.
+Corotational scheme.
+Course Reference:  1. JamesF. Doyle. Nonlinear
+analysis of thin walled structures. Springer Verlag.
+2001; 2. M. A. Crisfield. Nonlinear finite element
+analysis of solids and structures. Vols.  I and  II.
+JohnWiley& Sons. 1991; 3. M.A. Biot. Mechanics
+of incremental deformations. John Wiley& Sons.
+1965. 25-JUL-2013
+Definition  of large deformation  of structures as
+large deflection, large rotation with small strains.
+Linear and nonlinear structural responses. Theory
+of  elastica  with exact and numerical  solutions.
+Elements   of   large   deformation   mechanics:
+Reference and deformed configurations, Lagrange
+strain, Cauchy and  Piola  Kirchoff  stress, work
+MECHANICS OF HIGHLY                 conjugate stress and strain measures. Governing
+AE692A        DEFORMABLE          3-0-0-0-9    equations in strong and weak form. Hyper elastic
+STRUCTURES                        material  constitutive  law.  Incremental numerical
+solution  of  large  deformation  boundary  value
+problems: tangent  stiffness,  explicit and  implicit
+methods, Newton Raphson method. Elastic and
+geometric  stiffness.  Total  Lagrangian  method.
+Corotational scheme.
+Course Reference: 1. JamesF. Doyle. Nonlinear
+analysis of thin walled structures. Springer Verlag.
+
+[PAGE 42]
+2001; 2. M. A. Crisfield. Nonlinear finite element
+analysis of solids and structures. Vols.  I and  II.
+JohnWiley & Sons. 1991; 3. M.A. Biot. Mechanics
+of incremental deformations. John Wiley& Sons.
+1965.
+AIRCRAFT SRUCTURAL
+AE693A                                       To be procured
+INTEGRITY
+Introduction  to  the  course.  Fundamentals  of
+acoustics: Derivation of wave equation, speed of
+sound, harmonic waves, acoustic energy/intensity,
+decibel scale, acoustic impedance, reflection and
+transmission at the interface of two media. Wave
+propagation: Rectangular and circular ducts, cutoff
+frequency,  free  field  propagation.  Acoustics  of
+resonantors:  Travelling  and  standing  waves,
+boundary   conditions,   eigen   frequency  and
+eigenmodes, effects  of area  variation,  reflection
+and  transmission  of waves  in  pipes.  Acoustic
+sources: Inhomogeneous wave equation, acoustic
+sources: monopole, bipole & quadrupole sources,
+acoustic   reciprocity,   aeroacoustic   analogies.
+Attention   of   sound:   Viscous  and   thermal
+AE694A     ACOUSTICS IN FLUIDS      3-0-0-0-9   conduction losses, absorption  coefficient, sound
+absorption  in pipes. Application  of  principles  of
+acoustics:  Aeroacoustic   jet  noise,  combustion
+instability noise.
+Course Reference: 1. Lawrence E. Kinsler, Austin
+R.   Frey,  and   Alan   B.   Coppens,   2000.
+Fundamentaals of acoustics, 4th edn. JohnWiley &
+Sons, Inc. 2. Philip M. Morse and K. Uno Ingard,
+1986. Fundamentals of acoustics. 1st edn. Priceton
+University Press. 3. S.W. Rienstra & A. Hirschberg,
+2000.    An     introduction     to     acoustics.
+http://www.win.tue.nl/sjoerder/papers/boek.pdf
+4. S.W. Rienstra & A. Hirschberg, 2004.
+An       introduction       to       aeroacoustics.
+http://www.win.tue.nl/sjoerder/papers/lesswrmh.pdf
+24-MAR-15
+Need  and   objective,  fundamentals   of   fluid
+mechanics,  wind  tunnels,  visualization, HWA,
+INSTRUMENTATION,
+pressure and noise measurements, temperature,
+AE696     MEASUREMENTS AND         3----4
+wall shear stress, flow measurements, geophysical
+EXPERIMENTS IN FLUIDS
+flows, spin up and spin down, data acquisition and
+processing, uncertainty analysis.
+Need  and   objective,  fundamentals   of   fluid
+mechanics,  wind  tunnels,  visualization, HWA,
+INSTRUMENTATION,
+pressure and noise measurements, temperature,
+AE696A     MEASUREMENTS AND      3-0-0-0-9
+wall shear stress, flow measurements, geophysical
+EXPERIMENTS IN FLUIDS
+flows, spin up and spin down, data acquisition and
+processing, uncertainty analysis.
+Introduction to VI, typical applications, functional
+INTRO TO VIRTUAL
+AE698                                      2-0-3-0-4   systems,   graphical  programming,  data   flow
+INSTRUMENTATION
+techniques,  advantages  of  VI  techniques.  VI
+
+[PAGE 43]
+programming techniques; VIs and subVIs, loops
+and charts, arrays, clusters and graphs, case and
+sequence structures, formula nodes, string and file
+I/O, DAQ methods, code interfacenodes and DLL
+links. Sensors, transducers and signal conditioning;
+common    transducers     for    displacement,
+temperature,  load,  pressure,  flow  etc.  Single
+ended, floating and differential inputs, grounding,
+noise and  filtering. Data acquisition basics; AD
+DAC, DIO, counters and  timers, PC Hardware
+structure,   timing,   interrupts,  DMA,  operating
+system, PCI buses. Bus based instrumentation;
+instrumentation buses, GPIB, RS232C.
+Introduction to VI, typical applications, functional
+systems,   graphical  programming,  data   flow
+techniques,  advantages  of  VI  techniques.  VI
+programming techniques; VIs and subVIs, loops
+and charts, arrays, clusters and graphs, case and
+sequencestructures, formula nodes, string and file
+I/O, DAQ methods, code interfacenodes and DLL
+INTRO TO VIRTUAL                         links. Sensors, transducers and signal conditioning;
+AE698A                                     2-0-3-0-9
+INSTRUMENTATION              common    transducers     for    displacement,
+temperature, load, pressure, flow etc. Singleended,
+floating and  differential  inputs, grounding, noise
+and filtering. Dataacquisition basics; AD DAC, DIO,
+counters  and  timers, PC  Hardware  structure,
+timing,  interrupts, DMA,  operating system, PCI
+buses. Bus based instrumentation; instrumentation
+buses, GPIB, RS232C.
+MECHANICS OFHIGHLY
+AE698B        DEFORMABLE                  To be procured
+STRUCTURES
+AE699      M TECH THESIS          0-0-0-0-0    Units: As arranged
+M TECH THESIS (FOR
+AE699.                                       0-0-0--9  M TECH THESIS (FOR DUAL DEGREE ONLY)
+DUAL DEGREE ONLY)
+Overview  of  nonlinear  problems  in  structural
+analysis  geometric  and  material  nonlinearities,
+nonlinear forces and boundary conditions; nature
+of  forced  eflectioncurves,  critical  points.  Single
+degree   of   freedom   system   withgeometric
+nonlinearity Incremental solution, iterative solution
+using  directand Newton Raphson  approaches;
+combined incremental and iterative solution with
+NONLINEAR FINITE                             full or modified Newton Raphson or  initial stress
+AE701                                        3-0-0--4
+ELEMENT METHOD                  method. One  dimensional  continuum  problem:
+Axial   bar  under   compression,   variousstrain
+measures,  weak  and  variational  formulations
+based on Green strain measure. l D Finite element
+formulation:   Total  and  Updated  Lagrangian
+approaches:  derivation  of  stiffness and tangent
+stiffness  matrices,   limitpoint  and   bifurcation;
+traversal  of   critical  points.  Two  dimensional
+problems:  Strain  measures  in  two  and  three
+
+[PAGE 44]
+dimensions,  stress measures (Cauchyand  Piola
+Kirchhoff),    objectivity,   Updated   Lagrangian
+formulation  stress  increments. 2D  Incremental
+formulation with updates, derivation ofstiffness and
+tangent  stiffness  matrices.  Advanced  Solution
+Procedures: Line search, arc length quasi Newton
+and Secant methods. Nonlinear Dynamics: Direct
+Integration techniques: explicit and implicit solution
+techniques. Stability of time integration schemes.
+Newmarks   scheme.   The   method;   energy
+conserving and automatic time stepping methods.
+(1) Nonlinear finite element analysis of solids and
+structures, Vols. I and II, M.A. Crisfield, John Wiley
+and Sons (1994).(2) Finite Element Procedures,
+K.J. Bathe,  Prentice  Hall  (1996).(3) Suggested
+journal papers
+Overview  of  nonlinear  problems  in  structural
+analysis  geometric  and  material  nonlinearities,
+nonlinear forces and boundary conditions; nature
+of forced eflection curves,  critical points. Single
+degree   of  freedom  system   with  geometric
+nonlinearity Incremental solution, iterative solution
+using  directand Newton Raphson  approaches;
+combined incremental and iterative solution with
+full or modified Newton Raphson or  initial stress
+method. One  dimensional  continuum  problem:
+Axial   bar  under   compression,   variousstrain
+measures,  weak  and  variational  formulations
+based on Green strainmeasure.  l D Finite element
+formulation:   Total  and  Updated  Lagrangian
+approaches:  derivation  of  stiffness and tangent
+stiffness  matrices,   limitpoint  and   bifurcation;
+NONLINEAR FINITE                      traversal  of   critical  points.  Two  dimensional
+AE701A                                     3-0-0-0-9
+ELEMENT METHOD                   problems:  Strain  measures  in  two  and  three
+dimensions, stress measures (Cauchy and Piola
+Kirchhoff),    objectivity,   Updated   Lagrangian
+formulation  stress  increments. 2D  Incremental
+formulation with updates, derivation ofstiffness and
+tangent  stiffness  matrices.  Advanced  Solution
+Procedures: Line search, arc length quasi Newton
+and Secant methods. NonlinearDynamics: Direct
+Integration   techniques:   explicit  and   implicit
+solutiontechniques.  Stability  of  time  integration
+schemes. Newmarks scheme. The method; energy
+conserving and automatic time stepping methods.
+Course Reference:  1. Nonlinear  finite element
+analysis of solids and structures, Vols.  I and  II,
+M.A.  Crisfield, John Wiley and Sons (1994); 2.
+Finite Element Procedures, K.J. Bathe, Prentice
+Hall (1996); 3. Suggested journal papers
+DEFORMATION AND
+AE704                                        To be procured
+FRACTURE
+DEFORMATION AND
+AE704A                                       To be procured
+FRACTURE
+
+[PAGE 45]
+OPTICAL METHODS IN
+AE708                                        To be procured
+SOLID MECHANICS
+OPTICAL METHODS IN
+AE708A                                       To be procured
+SOLID MECHANICS
+The  molecular  model;  binary  elastic  collisions:
+basic kinetic theory; reference states & boundary
+MOLECULAR GAS                      conditions;  collisionless  flow;  transition  regime
+AE747                                      3-0-0-0-4
+DYNAMICS                           flows. Directsimulation Monte Carlo method. One
+dimensional  flow  of  a  simple  monatomicgas.
+Measurements in low density flows.
+The  molecular  model;  binary  elastic  collisions:
+basic kinetic theory; reference states and boundary
+MOLECULAR GAS                      conditions;  collisionless  flow;  transition  regime
+AE747A                                     3-0-0-0-9
+DYNAMICS                           flows. Direct simulation Monte Carlo method. One
+dimensional flows  of a simple monatomic gas.
+Measurements in low density flows.
+Introduction to atomization, Physical processes in
+atomization,  Types   of   atomizers,   Classical
+Theories  of atomization, Numerical modeling  of
+FUNDAMENTALS OF                    atomization process, Theory of multiphase flows,
+AE751                                      3-0-0-0-4
+LIQUID ATOMIZATION                  Atomizer  design:  Single  Fluid and Twin  Fluid,
+SprayCharacterization Measurement techniques in
+Spray Characterization, Applications of Atomizers
+Metal forming Chemical Industry Combustion.
+Course   Details:   Introduction   to   atomization,
+Physical  processes  in  atomization,  Types  of
+atomizers,  Classical  Theories  of  atomization,
+Numerical  modeling   of  atomization  process,
+FUNDAMENTALS OF
+AE751A                                     3-0-0-0-9   Theory  of  multiphase  flows,  Atomizer  design:
+LIQUID ATOMIZATION
+Single Fluid and Twin Fluid, Spray Characterization
+Measurement      techniques       in     Spray
+Characterization, Applications of Atomizers Metal
+forming Chemical Industry Combustion.
+Wave theory of sound: Plane waves, Harmonic
+waves and  complex  Algebra, Speed  ofsound,
+Energy, Intensity and Power, Spherical wavesb.
+Quantitative measurement  of sound: Frequency
+content  and  bands,  Decibel   scale,   Multiple
+PRINCIPLES OF                     frequency signals, coherence, Frequency domain
+AE752                                      3-0-0-4-4
+ACOUSTICSV                        representation of transientsignalsc. Propagation of
+Plane waves:  Reflection  from a  rigid  surface,
+Propagation in a tube, Radiation due to waves on
+the wall, Oblique reflection and transmission at a
+planar interfaced. Radiation from Vibrating Bodies:
+Oscillating spheres, Monopoles and Multipoles.
+Wave theory of sound: Plane waves, Harmonic
+waves and  complex  Algebra, Speed  ofsound,
+Energy, Intensity and Power, Spherical wavesb.
+PRINCIPLES OF
+AE752A                                     3-0-0-0-9    Quantitative measurement  of sound: Frequency
+ACOUSTICSV
+content  and  bands,  Decibel   scale,   Multiple
+frequency signals, coherence, Frequency domain
+representation of transient signals. Propagation of
+
+[PAGE 46]
+Plane waves:  Reflection  from a  rigid  surface,
+Propagation in a tube, Radiation due to waves on
+the wall, Oblique reflection and transmission at a
+planarinterfaced. Radiation from Vibrating Bodies:
+Oscillating spheres, Monopoles and Multipoles.
+Introduction to combustion: Types of flames, role of
+chemical kinetics Chemical Kinetics: Formulation of
+chemical kinetics equations, reaction mechanisms,
+steady   state   approximation,  Arrhenius  Law:
+Formulation   of   Arrhenius   law,   Microscopic
+consideration   of   reaction   rates.   Explosions:
+Thermal explosions, Chain branching explosions,
+Chemical equilibrium Conservation equations  for
+reacting  flows:  Shvab  Zeldovich  formulation.
+Laminar  premixed  combustion:  Flame  speed
+Thermal  theory  (Mallard  and  Le   Chatellier),
+AE753    THEORY OF COMBUSTION    3-0-0-0-4    DiffusionTheory (Zeldovich, Frank Kamenstakii and
+Semenov), Flame  stabilization, Quenching and
+Flammability limits micro combustion. Detonation
+and  Deflagration: Chapman  Hugoniot  relations,
+Chapman  Jouguet  points  Liminarnon  premixed
+conbustion:    Burke    Schuman     Analysis,
+Phenomenological Analysis Ignition, Extinction and
+Flammability.   Turbulet  premixed  combustion:
+Theories, Time and  length  scales,  thin  flame
+approach, stirred reactor. Turbulent nonpremixed
+combustion:  Conserved  scalar  approach,  two
+variable approach, flamelet model, direct closure.
+Introduction to combustion: Types of flames, role of
+chemical kinetics Chemical Kinetics: Formulation of
+chemical kinetics equations, reactionmechanisms,
+steady   state   approximation,  Arrhenius  Law:
+Formulation   of   Arrhenius   law,   Microscopic
+consideration   of   reaction   rates.   Explosions:
+Thermal explosions, Chain branching explosions,
+Chemical equilibrium Conservation equations  for
+reacting  flows:  Shvab  Zeldovich  formulation.
+Laminar  premixed  combustion  Flame  speed
+Thermal  theory  (Mallard  and  Le   Chatellier),
+AE753A   THEORY OF COMBUSTION    3-0-0-0-9    Diffusion Theory  (Zeldovich, Frank Kamenstakii
+and Semenov), Flame stabilization, Quenching and
+Flammability limits micro combustion. Detonation
+and  Deflagration: Chapman  Hugoniot  relations,
+Chapman  Jouguet  points  Liminarnon  premixed
+conbustion:    Burke    Schuman     Analysis,
+Phenomenological Analysis Ignition, Extinction and
+Flammability.   Turbulet  premixed  combustion:
+Theories, Time and  length  scales,  thin  flame
+approach,  stirred  reactor. Turbulent nonpremixe
+combustion:  Conserved  scalar  approach,  two
+variable approach, flamelet model, direct closure.
+Introduction,  Governing   equations,   Statistical
+AE754    TURBULENT COMBUSTION    3-0-0-0-4    description  of  turbulence, Turbulent scales and
+correlations, Reynold saveraged equations, Mixing,
+
+[PAGE 47]
+Flows with premixed and nonpremixed reactants,
+Numerical and experimental methods for reacting
+flows.   Introduction   Motivation  and   objective
+Governing    equationsTurbulence    Introduction
+Turbulent scales Spatial and temporal correlations
+Reynold saveraged equations Wall bounded shear
+flows  Free  shear  flows  Statistical  description.
+Turbulence  modeling  and  Mixing  Introduction
+Turbulence modeling Molecular mixing Turbulent
+mixing  Reaction   diffusion  systemsFlows  with
+premixed and nonpremixed reactants Introduction
+to premixed and nonpremixed mixtures Moment
+methods  Wellstirred  reactor  Conserved  scale
+methodsNumerical and experimental methods for
+Reacting flows Combustion CFD Numerical solvers
+for  stiff  differential equations General concepts
+about   experimental   methods   Measurement
+techniques.
+Course Reference: 1. A first course in Turbulence,
+Tennekes  and  Lumley;  2. An  introduction  to
+combustion,   Stephen   Turns;    3.   Turbulent
+Combustion, N. Peters; 4. Combustion Theory, F.
+Williams;    5.    Theoretical   and   Numerical
+Combustion, Poinsot and Veynante
+Introduction,  Governing   equations,   Statistical
+description  of  turbulence, Turbulent scales and
+correlations, Reynold saveraged equations, Mixing,
+Flows with premixed and nonpremixed reactants,
+Numerical and experimental methods for reacting
+flows.   Introduction   Motivation  and   objective
+Governing    equationsTurbulence    Introduction
+Turbulent scales Spatial and temporal correlations
+Reynold saveraged equations Wallbounded shear
+flows  Free  shear  flows  Statistical  description.
+Turbulence  modeling  and  Mixing  Introduction
+Turbulence modeling Molecular mixing Turbulent
+mixing  Reaction  diffusion  systems  Flows  with
+AE754A   TURBULENT COMBUSTION    3-0-0-0-9   premixed and nonpremixed reactants Introduction
+to premixed and nonpremixed mixtures Moment
+methods  Wellstirred  reactor  Conserved  scale
+methods Numerical and experimental methods for
+Reacting flows Combustion CFD Numerical solvers
+for  stiff  differential equations General concepts
+about   experimental   methods   Measurement
+techniques.
+Course Reference: 1. A first course in Turbulence,
+Tennekes  and  Lumley;  2. An  introduction  to
+combustion,   Stephen   Turns;    3.   Turbulent
+Combustion, N. Peters; 4. Combustion Theory, F.
+Williams;    5.    Theoretical   and   Numerical
+Combustion, Poinsot and Veynante
+1.  Control Systems (Basic  definitions,  notation,
+OPTIMAL SPACE FLIGHT
+AE777                                      3-0-0-0-4    tracking systems.);  2. Guidance and navigation
+CONTROL
+(Basic concepts,  linear  regulation and  tracking,
+
+[PAGE 48]
+proportional navigation, crossproduct steering);  3.
+Optimal    control    techniques    (Multivariable
+optimization,  constrained  minimization,  optimal
+control of dynamic systems, Hamiltonian and the
+minimum    principle,   HamiltonJacobi   Bellman
+formulation, end point constraints, EulerLagrange
+formulation, two  point boundary  value  solution
+techniques, optimal terminal control with  interior
+constraints,    singular    control,    neighbouring
+extremals,   linear   optimal   control,   stochastic
+systems, Kalman filtering, LQG/LTR and Hinfinity
+robust optimal control.) 4. Optimal guidance and
+control  of  rocket  flight  (Terminal  guidance  of
+interceptors, nonplanar tracking systems (3DPN),
+Goddards problem, 2PBVP solutions for gravityturn
+trajectories,  attitude  autopilots,  pitch maneuver
+control of launch vehicles.) 5. Optimal spacecraft
+navigation  and  control  (Introduction  to  orbital
+mechanics,   Hill  Clohessey   Wiltshire  model,
+autonomous rendezvous and docking, minimum
+energy   transfer,  Lamberts  problem,   optimal
+guidance  of  reentry  vehicles,  nonplanar  orbital
+regulation, optimal threeaxis control by thrusters,
+reaction wheels and control moment gyros.)
+Course  Reference:  1.  Tewari,  A.,  Advanced
+Control of Aircraft, Spacecraft, and Rockets, John
+Wiley &Sons,  Chichester, 2011;  2.  Tewari,  A.,
+Atmospheric   and  Space   Flight   Dynamics,
+Birkhuser, Boston, 2006; 3. Bryson, A.E., Jr., and
+Ho, Y.C., Applied Optimal Control. Hemisphere,
+1975;  4.  Athans,  M., and  Falb,  P.L., Optimal
+Control. Dover, 2007.
+1.  Control Systems (Basic  definitions,  notation,
+tracking systems.);  2. Guidance and navigation
+(Basic concepts,  linear  regulation and  tracking,
+proportional navigation, crossproduct steering); 3.
+Optimal    control    techniques    (Multivariable
+optimization,  constrained  minimization,  optimal
+control of dynamic systems, Hamiltonian and the
+minimum   principle,  Hamilton  Jacobi  Bellman
+formulation, endpoint  constraints, EulerLagrange
+formulation,   twopoint  boundaryvalue   solution
+OPTIMAL SPACE FLIGHT                 techniques, optimal terminal control with  interior
+AE777A                                     3-0-0-0-9
+CONTROL                           constraints,    singular    control,    neighbouring
+extremals,   linear   optimal   control,   stochastic
+systems, Kalman filtering, LQG/LTR and Hinfinity
+robust optimal control.); 4. Optimal guidance and
+control  of  rocket  flight  (Terminal  guidance  of
+interceptors,    nonplanar    tracking    systems
+(3DPN),Goddards problem, 2PBVP solutions  for
+gravityturn  trajectories,  attitude  autopilots,  pitch
+maneuver control of launch vehicles.); 5. Optimal
+spacecraft navigation and control (Introduction to
+orbital mechanics, Hill Clohessey Wiltshire model,
+
+[PAGE 49]
+autonomous rendezvous and docking, minimum
+energy   transfer,  Lamberts  problem,   optimal
+guidance  of  reentry  vehicles,  nonplanar  orbital
+regulation, optimal threeaxis control by thrusters,
+reaction wheels and control moment gyros.)
+Course Reference:   1.  Tewari,  A., Advanced
+Control of Aircraft, Spacecraft, and Rockets, John
+Wiley &Sons,  Chichester, 2011;  2.  Tewari,  A.,
+Atmospheric   and  Space   Flight   Dynamics,
+Birkhuser, Boston, 2006; 3. Bryson, A.E., Jr., and
+Ho, Y.C., Applied Optimal Control. Hemisphere,
+1975;  4.  Athans,  M., and  Falb,  P.L., Optimal
+Control. Dover, 2007.
+NONLINEAR AND
+AE778A                                       To be procured
+ADAPTIVE CONTROL
+Free body diagram with examples on modelling of
+typical   supports   and   joints,Conditions    for
+equilibrium  in 3D and 2D,  Friction:  limiting and
+nonlimiting  cases;  Forcedisplacementrelationship
+and    geometric    compatibility     (for    small
+deformations)     with      illustrations    through
+simpleproblems on  axially loaded members and
+thinwalled pressure vessels; Concept of stress at a
+point,Plane stress case: transformation of stresses
+at a point, principal stresses and Mohr’s  circle,
+Displacement  field, Concept of strain at a point,
+Plane  strain case: transformation of  strain at a
+point,principal  strains and  Mohr’s  circle,  Strain
+Rosette; Discussion of experimental results on 1D
+material   behaviour,   Concepts   of    elasticity,
+plasticity,          strainhardening,           failure
+(fracture/yielding), Idealization of 1D stressstrain
+curve, Generalized Hooke’s law (without and with
+thermal strains) for isotropic materials, Complete
+ESO204    MECHANICS OF SOLIDS     3-1-0-1-4    equations of elasticity; Force analysis (axial force,
+shear force, bending moment, and twisting moment
+diagrams)   of   slender  members   (singularity
+functions nat to be used); Torsion of circular shafts
+and  thinwalled  tubes   (  plastic  analysis  and
+rectangular shafts not to be discussed); Moment
+curvature relationship for pure bending of beams
+with symmetric crosssection, bending stress,shear
+stress (Shear centre and plastic analysis not to be
+discussed);   Cases   of   combined   stresses,
+Conceptof strain energy, Yield criteria; Deflection
+due  to  bending,  Integration  of  the  moment
+curvature   relationship   for   simple   boundary
+conditions, Method  of  superposition  (singularity
+functions  not  to  beused);  Strain  energy  and
+complementary strain energy for simple structural
+elements  (those  under  axialload,  shear  force,
+bending  moment,  and   torsion),   Castigliano
+theorems for deflection analysis and indeterminate
+problems;   Concept    of    elastic    instability,
+
+[PAGE 50]
+Introduction    to   column    buckling,    Euler
+formula(postbuckling behaviour not to be covered)
+Course Reference:  1. Crandall, S.H., Dahl, N.C.,
+and  Lardner,  T.   J.,  An  Introduction  to  the
+Mechanics of Solids, McGrawHill,Second Ed. with
+51 Units, 1978; 2. Beer, F.P, Johnston, E.R. and
+DeWolf,   J.T.,  Mechanics   of  Materials,  Tata
+McGrawHill  Edition2004;  3.  Meriam,  J.L.  and
+Kraige,  L.G.,  Engineering  Mechanics,  Vol.  1:
+Statics, John Wiley,Second Ed.  with 51  Units,
+1980; 4. Popov, E.P., Engineering Mechanics of
+Solids, PrenticeHall, First Ed., 1990
+FLUID MECHANICS: Introduction to fluids, Fluid
+statics; pressure as a scalar, manometry, forces on
+submerged surfaces (NO moments NOR center of
+pressure),  Description  of  flows;  field approach,
+Euler    acceleration    formula,    streamlines,
+streaklines,   etc.,  Reynolds  transport  theorem
+Conservation  of mass; stream  function,  Linear
+(NOT angular) Momentum balance, Navier Stokes
+(NS) equation; elementary derivation; application;
+Poiseuille  flow,  Couette  flow, Energy  equation
+Bernoulli  equation,  applications  including  flow
+measurement  (Pitot  tube,  Orifice  meters); Pipe
+flows  and  losses   in   fittings;  Similitude  and
+modelling:  using  nondimensionalization  of NS
+FLUID MECHANICS AND                 equations and boundary conditions, simplifications
+ESO204A
+RATE PROCESSES                        for  cases  without  free  surfaces  and  without
+cavitation (scale factor approach should NOT be
+done); High Re flow: Prandtls approximation; basic
+inviscid  flow; need  for boundary  layer; Magnus
+effect  (mathematical  derivations  be  avoided),
+Boundary layerselementary results for flat plates.
+Separation,  flow  past immersed  bodies  (bluff,
+streamlined);  physics  of  ballgames  (qualitative)
+Heat   Transfer:   Introduction,   rate   law  and
+conservation     law,    Conduction    equation;
+nondimensionalization,   various  approximations,
+Steady state conductionconcept of resistances in
+series  and  of  critical  thickness  of  insulation,
+Unsteady  conduction;  significance  of  Biot and
+Fourier numbers, Heissler charts; Low Bi case;
+Basics of Computing: discretization and numerical
+errors. ODEs and their computations. Stiff ODEs &
+parasitic   error,   solving    stiff   equation   via
+orthogonolization and compound matrix method.
+Governing PDEs for scientific computing and their
+FOUNDATION OF                         classification. Wave mechanics:  hyperbolic and
+SE371                                        3-0-0--4
+SCIENTIFIC COMPUTING                  dispersive   waves.   Dispersion   relation  and
+spacetime resolution. Finite difference methods for
+wave equation. Discretization of spatial derivatives
+by polynomial expansion and operator’s  explicit
+methods. Spectral theory of discrete computing:
+stability  analysis;  Theory  of  signal  and  error
+
+[PAGE 51]
+propagation;   dispersion   relation   preservation
+(DRP) property. Finite difference methods (FDM)
+for wave equation. Designing high accuracy, high
+fidelity methods via error control as an optimization
+problem.   Spectral   method    visvis   discrete
+computing methods: Aliasing error and focusing;
+Capturing discontinuities and Gibbs phenomenon;
+qwavesin  computing.  Numerical  Methods   for
+Partial    Differential   Equations  WF   Ames
+Fundamentals of Computational Fluid Dynamics: T.
+K.   Sengupta.Waves     in    Fluids   M.     J.
+LighthillComputational   Aeroacoustics:   M.    J.
+Lighthill.Linear  and  Nonlinear  Waves:  G.  B.
+Whitham. 17-SEP-14
+Basics of Computing: discretization and numerical
+errors. ODEs and their computations. Stiff ODEs &
+parasitic   error,   solving    stiff   equation   via
+orthogonolization and compound matrix method.
+Governing PDEs for scientific computing and their
+classification. Wave mechanics:  hyperbolic and
+dispersive   waves.   Dispersion   relation  and
+spacetime resolution. Finite difference methods for
+wave equation. Discretization of spatial derivatives
+by polynomial expansion and operator’s  explicit
+methods. Spectral theory of discrete computing:
+stability  analysis;  Theory  of  signal  and  error
+propagation;   dispersion   relation   preservation
+FOUNDATION OF
+SE422                                      3-0-0-0-3   (DRP) property. Finite difference methods (FDM)
+SCIENTIFIC COMPUTING
+for wave equation. Designing high accuracy, high
+fidelity methods via error control as anoptimization
+problem.   Spectral   method    visvis   discrete
+computing methods: Aliasing error and focusing;
+Capturing discontinuities and Gibbs phenomenon;
+qwavesin  computing.  Numerical  Methods   for
+Partial        Differential      Equations    WF
+AmesFundamentals    of   Computational   Fluid
+Dynamics:
+Course Reference:  1. T. K. Sengupta.Waves in
+Fluids   M.    J.    Lighthill;   2.   Computational
+Aeroacoustics: M. J. Lighthill.Linear and Nonlinear
+Waves: G. B. Whitham. 17-SEP-14
+Objectives: The  course aims  to  introduce  the
+relevance concepts of fluids mechianics and apply
+AE643         Sports Aerodynamics       3-0-0-0 (9)
+them to understand the aerodynamics associated
+with various sports.
+Objectives: This  is an  introductory course  that
+develops  aeroacoustics  theories beginning  with
+AE671            Aeroacoustics          3-0-0-0 (9)   classical  accounts  with  special  emphasis  on
+computational   aeroacoustics  (CAA)  and    its
+applications.
+Objectives:
+Parallel Computation of
+IDC611                                    3-0-1-0 [10]  Sparse Matrix systems in parallel environments are
+Sparse Matrix Systems
+one of the widely used techniques in the scientific
+
+[PAGE 52]
+community and industry as well. This course aims
+to   introduce   students   from   interdisciplinary
+Engineering  and   science   streams   to   the
+fundamentals of the sparse matrix systems. The
+students  will learn about the basics of a sparse
+matrix,   parallel   programming,  and   solution
+techniques of the sparse matrix using a parallel
+environment. A sparse matrix  is the outcome of
+discretized   partial   differential  equations   that
+represent the conservation laws to simulate fluid
+flow,  heat  transfer, and  other  related  physical
+phenomena. Thereafter, the system of algebraic
+equations is solved to compute the values of the
+dependent variable for each of the elements to
+represent the physical processes. The course is
+targeted for all engineering and science disciplines
+to the emerging paradigm of quantum computing.
+
+Contents: considering the duration of each lecture
+is 50 minutes (preferably in the form of 5 to 10
+broad titles):
+
+S    Broad Title        Topics        No. of
+No.                                             lec-
+tures
+1   Basics     of  1) Subspaces,       6
+Matrix Com-  Bases, Orthogo-
+putations       nality, Matrices, |
+6 Computations
+Projectors,
+Norms. Floating
+point arithmetic.
+
+2) Systems of
+linear equations.
+Solution of Sys-
+tems of Linear
+Equations: matrix
+LU factorization.
+Special matrices:
+symmetric posi-
+tive definite,
+banded.
+
+3) Error analysis,
+condition num-
+bers, operation
+counts, estimat-
+ing accuracy.
+
+4) Orthogonality,
+the Gram-
+Schmidt process.
+Classical and
+modified Gram-
+
+[PAGE 53]
+Schmidt. House-
+holder QR factor-
+ization. Least-
+squares sys-
+tems.
+
+5) Eigenvalues,
+singular values.
+The Singular
+Value Decompo-
+sition. Applica-
+tions of the SVD.
+
+6) Eigenvalue
+problems: Back-
+ground, Schur
+decomposition,
+perturbation
+analysis, power
+and inverse
+power methods,
+subspace itera-
+tion; the QR al-
+gorithm.
+
+7) The Symmet-
+ric Eigenvalue
+Problem: special
+Properties and
+perturbation the-
+ory, Law of iner-
+tia, Min-Max the-
+orem, symmetric
+QR algorithm,
+Jacobi method.
+Applications.
+2   Sparse  Ma-  1) Sparse matri-     6
+trices        ces and their
+origin. Graph
+representation of
+sparse matrices,
+sparse graphs,
+Discretization of
+Partial
+Differential Equa-
+tions. Electrical
+networks, Infor-
+mation retrieval.
+
+2) Storage
+schemes for
+sparse matrices.
+Regular and ir-
+regular struc-
+
+[PAGE 54]
+tures.
+3   Direct  Solu-  Direct solution       3
+tion methods  methods; Vari-
+of   Sparse  ants of Gaussian
+matrices       Elimination;
+Permutations
+and orderings;
+Band and enve-
+lope methods;
+Cuthill-Mc Kee
+and reverse
+Cuthill-Mc Kee
+orderings; Graph
+representation.
+Elimination tree;
+The frontal and
+multifrontal ap-
+proaches; Mini-
+mal degree and
+nested dissection
+orderings.
+4    Iterative So-  Iterative meth-       5
+lution  Meth-  ods; Projection
+ods        of  methods; Oned-
+Sparse  ma-  imensional case:
+trices         steepest de-
+scent, minimal
+residual meth-
+ods; Krylov sub-
+space methods;
+Conjugate gradi-
+ent (CG) method;
+basic conver-
+gence theory;
+Connection to
+Lanczos tridiag-
+onalization and
+orthogonal poly-
+nomials; The
+idea of precondi-
+tioning.
+5   Eigenvalue   Types of prob-       3
+problems      lems; Subspace
+iteration; Krylov
+methods; Ar-
+noldi's method;
+The Lanczos al-
+gorithm; Non-
+symmetric
+Lanczos.
+6   Basics     of  1) Introduction;      6
+Parallel Pro-  Historical Per-
+gramming     spective; Types
+of parallelism;
+
+[PAGE 55]
+Parallel algo-
+rithms and paral-
+lel computing.
+
+2) Parallel com-
+puting platforms,
+Taxonomy, Pipe-
+lined-Vector-,
+superscalar. Ex-
+amples of paral-
+lel platforms.
+
+3) Memory and
+cache perfor-
+mance issues,
+Hierarchical
+memories, La-
+tency, band-
+width, Caches.
+
+4) Parallel algo-
+rithms, design.
+Parallel perfor-
+mance metrics
+(Efficiency, load
+balancing, scala-
+bility, ...)
+7    Parallel Pro-  1) Programming     6
+gramming     shared memory
+Using        machines -Open
+OpenMP,    MP.
+MPI,    and
+Open ACC    2) Programming
+GPUs, CUDA,
+open ACC.
+
+3) Basic commu-
+nication opera-
+tions. Program-
+ming with MPI.
+
+4) Programming
+distributed sys-
+tems - MPI
+8    Parallel        1) Parallel Scien-    5
+toolkit              tific Libraries:
+BLAS, LAPACK,
+SCALAPACK,
+ARPACK, LIS
+libraries (only
+two or three of
+them will be cov-
+ered)
+
+[PAGE 56]
+2) PETSC
+
+Recommended pre-requisites, if any (examples: a-
+PS0201A,or     b-    P.50201A     orequivalent):
+Undergraduate/Graduate   Mathematics,   Linear
+Algebra, and Programming
+
+Short summary  for including  in the Courses of
+StudyBooklet:
+This  course  introduces  parallel  computing  to
+sparse matrix systems and  their applications.  It
+covers  parallel architectures,  parallel algorithms,
+and their analysis in the context of sparse linear
+systems and eigenvalue problems. The course will
+start with a general discussion of sparse matrices,
+their  origins,  and how  they  are  stored  and
+exploited. Then  it will briefly cover direct solution
+methods and iterative methods for solving sparse
+linear systems of equations and sparse eigenvalue
+problems.  Further,   it  will  discuss  other  topics
+related to sparsity, e.g., graph-based algorithms in
+machine learning, and basic nonlinear techniques.
+Finally,   it  will  also  introduce programming on
+parallel  platforms. Along  with  the programming
+medium; OpenMP, MPI, and CUDA for the NVIDIA
+Graphics Processing Units (CPUs),  will also be
+covered, in conjunction with a quick overview of
+openACC. The course blends theory with practical
+issues such as parallel architectures and parallel
+programming.
+
+Recommended text/reference books:
+1) Introduction to Parallel Computing, 2nd edition,
+by V. Kumar, A. Grama, A. Gupta, and G. Karypis
+(2003).
+2) Introduction to Parallel Programming by Peter S.
+Patcheco, Elsevier (2011).
+3) Programming Massively  Parallel Processors,
+Third Edition: A Hands-on Approach by David B.
+Kirk and Wen-mei W. Hwu. (2017).
+4) Using MPI, Portable Parallel Programming with
+the Message-Passing Interface by William Gropp,
+Ewing  Lusk,  and  Anthony  Skjellum,  Second
+Edition, MIT Press, 1999.
+5) Matrix Computations, 4th edition by G. Golub
+and C. Van Loan. John Hopkins, 2015.
+6) Numerical linear algebra by Lloyd N. Trefethen
+and David Bau, Ill. SIAM, 1997.
+7) Iterative methods for sparse linear systems (2nd
+edition) by Yousef Saad
+8) Direct methods for sparse linear systems by T.
+A. Davis, SIAM publishing, 2006.
+Multidisciplinary Design                    Objectives: The main objective of the course is to
+AE631                                     2-0-3-0 [9]
+Optimization                        introduce  students  to  Multidisciplinary  Design
+
+[PAGE 57]
+Optimization  (MDO)  emphasizing   its  role   in
+integrating multiple disciplines for effective design
+solutions. It further aims to engage them in hands-
+on projects to learn concepts and explore MDO
+principles using available software tools  in Lab
+sessions.
+Objectives: The objective of this course is to enable
+the students to make the link between structural
+dynamics  and  vibrations,  and  control  theory
+instead of studying these topics in isolation. The
+Structural Vibration and                  course begins with formulation of the eigen value
+AE632                                     3-0-0-2 [9]
+Control                         problem, converting the vibration problem into the
+state space form, and then applying control theory
+for systems where  instabilities (such as  flutter,
+torsional vibrations under aerodynamic loads) can
+lead to catastrophic failures
+
+Objective: The  objective  of  the  course  is  to
+familiarize   students   with   existing   system
+identification techniques applied to flight vehicles.
+System Identification       3-0-0-0 [9]                                                The focus will be on the applicability of various
+AE651         Techniques for Aerial
+estimation techniques in different flight conditions
+Vehicles
+and the quality of sensor data. This course will be
+beneficial  for comprehensive  analysis  of  flight
+vehicle’s performance, stability, and control
+
+Objectives:Sparse  Matrix  systems   in   parallel
+environments  are  one  of  the  widely  used
+techniques  in  the   scientific  community  and
+industry as well. This course aims to introduce
+students from  interdisciplinary Engineering and
+science streams to the fundamentals of the sparse
+matrix systems. The students will learn about the
+basics of a sparse matrix, parallel programming,
+and solution techniques of the sparse matrix using
+Parallel Computation of                 a  parallel environment. A sparse matrix  is the
+IDC611                                     3-0-1-0[10]
+Sparse Matrix Systems                outcome   of   discretized   partial   differential
+equations that represent the conservation laws to
+simulate  fluid  flow,  heat  transfer, and  other
+related  physical  phenomena.  Thereafter,  the
+system of algebraic equations is solved to compute
+the values of the dependent variable for each of
+the elements to represent the physical processes.
+The course  is targeted for  all engineering and
+science disciplines to the emerging paradigm of
+quantum computing
+
+A space exploration mission is a high-risk high-cost
+Space Exploration Mission
+AE634                                       3-0-0-0-(9)   endeavor with little margin for errors. It is also a
+Formulation
+multi-disciplinary   affair  and  requires  various
+
+[PAGE 58]
+systems   to  work   together.   The   mission
+architecture is often arrived at through an iterative
+design and testing process.  If you are eager to
+learn how a space mission is born and designed,
+this course is for you! Welcome! In this course, you
+will learn about the lifecycle of a typical space
+mission and the design process of constituent
+systems. By the end of this course, you will be able
+to design a preliminary concept of a space mission
+given its objectives and constraints. You will work
+in teams on a semester-long project to design a
+mission concept to a planetary destination. The
+lecture sessions are designed to guide you through
+the process and will require active participation in
+class. The teams will be able to receive feedback
+on  their design through  regular  presentations,
+finally culminating in a formal Mission Concept
+Review  presentation. The  course  is meant  to
+provide a holistic understanding of space mission
+engineering and develop critical design skills.
+
+The course covers the basic principles of rocket
+and spacecraft propulsion systems, including the
+details  of some  of  the  advanced  propulsion
+systems being developed around the world. The
+students will be exposed to the different types of
+rocket propulsion systems, followed by the basic
+principles of chemical rocket engines. Thereafter,
+an in-depth study of distinct propulsion systems:
+liquid propellant rocket engines, solid and hybrid
+Rocket and Spacecraft
+AE644                                       3-0-0-0-(9)   rocket motors, electric propulsion, nuclear rockets,
+Propulsion
+and other novel propulsion technologies will be
+covered. The primary aim of  this course  is to
+provide the students with a broad overview of this
+rapidly  evolving   field,  including  the  recent
+advancements at different space agencies such as
+NASA,  ISRO, ULA, and SpaceX. The  course  is
+intended to be selfsufficient and targeted towards
+students from  all the engineering and science
+disciplines.
+
+The objective of the course is to enable students of
+Aerospace Engineering to get a comprehensive
+Computational                     overview  of modelling methods  for  structural,
+AE668      Aeromechanics and Control    3-0-0-0-(9)   aerodynamic and flight dynamic analysis of UAVs,
+of UAVs                      and a detailed exposure to their application. The
+course will culminate with a project wherein the
+knowledge of the aforementioned methods will be
+
+[PAGE 59]
+employed  in  the  design  of  a  UAV.  Use  of
+computational    structural    mechanics   and
+computational  fluid  dynamics  tools would be
+emphasized. It is expected of the students to write
+their own  flight dynamic tools using Aerospace
+Blockset in MATLAB and Simulink (and/or other
+available software) for their project.
+
+Course Contents:
+Introduction & scope of thermodynamics; system,
+thermodynamic state & equilibrium, work & heat,
+zeroth law, temperature scale, properties of pure
+substances, tables of thermodynamic properties, I
+law ofthermodynamics: internal energy, enthalpy,
+specific heats; application of  I law to (i) nonflow,
+(ii) flow,(iii) transient flow processes, (iv) chemical
+reactions;  II law: heat engines and refrigerators,
+KelvinPlanckand  Clausius statements, Reversible
+and  irreversible  processes,  Carnot  cycle  and
+efficiency,Thermodynamic   temperature    scale,
+ESO202 /                                                  Clausius inequality, Entropy, II law analysis of CV,
+THERMODYNAMICS        3-1-0-1-4
+ESO202A                                                         Availability,   IIlaw   efficiency,  Thermodynamic
+relations & potentials; Clayperon equation; Phase
+rule, Power andrefrigeration cycles: Rankine (ideal
+& reheat), Otto, Diesel and Brayton cycles; Vapor
+compression cycle,Airstandard refrigeration cycle.
+
+References/Text Books:
+* Sonntag, Borgnakke, Van Wylen, Fundamentals
+of Thermodynamics, 6th Edition, Wiley India. * Y V
+C  Rao,  An  Introduction  to  Thermodynamics,
+Universities  Press,  2005. *  Cengel and  Boles,
+Thermodynamics An Engineering Approach, 6th
+Edition Tata McGraw Hill,2008.

@@ -1,0 +1,150 @@
+[Page 1]
+Indian Institute of Technology, Kanpur 
+Proposal for a New Course 
+1. Course No: DES6XX 
+2. Course Title: InforMotion Design: Information Visualisation & Storytelling 
+3. Per Week Lectures: 1 (L), 0 (T), 6 (P), 0 (A) 
+Credits (3 + 0 + 6 + 0): 9 
+
+ Duration of Course: Full Semester 
+4. Proposing Department/IDP: Department of Design 
+Other Departments/IDPs which may be interested: 
+5. Proposing Instructor(s): Nilutpal Borgohain 
+6. Course Description: 
+A) Objectives 
+1. 
+To build a foundational understanding of data, information and visualisation, and of how 
+quantitative and qualitative information complement each other. 
+2. To develop the ability to interpret datasets and qualitative material (interviews, observations, 
+images and documents), and to integrate evidence from these sources. 
+3. To enable students to select and design visual representations and narratives, including time-
+based and motion forms, suited to the audience and purpose. 
+4. To encourage critical reflection on bias, uncertainty, accessibility and ethics in representing 
+information. 
+B) Contents 
+S. 
+No. 
+Broad Title 
+Topics 
+No. of 
+Lectures 
+1 
+Introduction 
+Data vs information vs insight; scope of information design; 
+quantitative, qualitative and mixed information sources; 
+examples from everyday life, media and design. 
+1 
+2 
+Working with 
+Information: 
+Quantitative, 
+Qualitative and 
+Mixed 
+Reading datasets critically (data types, cleaning, 
+categorising, basic descriptive statistics, bias); working with 
+interviews, observations, images and documents (basic 
+qualitative coding, identifying patterns and developing 
+themes); integrating quantitative and qualitative evidence, 
+comparing evidence across different sources. 
+3 
+3 
+Visual 
+Representation 
+Visual perception and visual variables; chart selection; 
+diagrams, maps, timelines, networks; visual representations 
+of qualitative findings; visual accuracy and integrity. 
+2
+
+[Page 2]
+4 
+Data Storytelling 
+Audience and purpose; from pattern to insight; narrative 
+sequence, annotation, metaphor and visual rhetoric. 
+2 
+5 
+Motion and Time-
+Based 
+Visualisation 
+Representing time, sequence, and change; timing, easing 
+and sequencing; animated charts, maps and diagrams; 
+kinetic typography; when motion helps and when a static 
+form works better. 
+3 
+6 
+Accuracy, Ethics 
+and Accessibility 
+Uncertainty, bias and framing; consent and anonymisation; 
+accessibility, including alternatives to animation. 
+1 
+7 
+Studio 
+Integration and 
+Critique 
+Project development, critique and presentation of the final 
+information-design project. 
+2 
+ 
+Total lectures 
+ 
+14 
+ 
+C) Pre-requisites: 
+Familiarity with digital design tools and design fundamentals, such as typography, colour theory, and 
+layout, is desirable. 
+D) Short Summary for Course Booklet 
+This course explores how quantitative, qualitative and mixed information can be interpreted and 
+communicated through visual design, storytelling and motion. Students learn to read data critically, 
+analyse qualitative material, identify patterns and insights, and select appropriate forms of 
+information visualisation. Through weekly studio practice, students apply principles of visual 
+representation, narrative, and motion to communicate relationships, meaning and change. The course 
+emphasises audience, context, accessibility and responsible representation, culminating in a final 
+project that may take the form of a static, interactive or time-based information experience. 
+7. Recommended Books 
+Textbooks 
+• 
+Cairo, A. (2016). The Truthful Art: Data, Charts, and Maps for Communication. New Riders. 
+• 
+Knaflic, C. N. (2015). Storytelling with Data: A Data Visualization Guide for Business 
+Professionals. Wiley. 
+• 
+Schwabish, J. A. (2021). Better Data Visualizations: A Guide for Scholars, Researchers, and 
+Wonks. Columbia University Press. 
+ 
+Reference Books 
+• Cairo, A. (2012). The Functional Art: An Introduction to Information Graphics and 
+Visualization. New Riders.
+
+[Page 3]
+• Creswell, J. W., & Plano Clark, V. L. (2018). Designing and Conducting Mixed Methods 
+Research (3rd ed.). SAGE Publications. (selected sections) 
+• Crook, I., & Beare, P. (2015). Motion Graphics: Principles and Practices from the Ground Up. 
+Fairchild Books. 
+• D’Ignazio, C., & Klein, L. F. (2020). Data Feminism. MIT Press. 
+• Drucker, J. (2014). Graphesis: Visual Forms of Knowledge Production. Harvard University 
+Press. 
+• Jacobson, R. (Ed.). (2000). Information Design. MIT Press. 
+• Lupi, G., & Posavec, S. (2016). Dear Data. Princeton Architectural Press. 
+• Stone, R. B., & Wahlin, L. (Eds.). (2018). The Theory and Practice of Motion Design: Critical 
+Perspectives and Professional Practice. Routledge. 
+• Tufte, E. R. (2001). The Visual Display of Quantitative Information (2nd ed.). Graphics Press. 
+ 
+8. Any other remarks 
+The studio hours combine project work with guided practice using graphics and motion-design tools, 
+such as Illustrator, Cavalry, Blender and After Effects, introduced progressively through the semester. 
+Assessment is based on assignments, studio practice and a final project that may draw on quantitative, 
+qualitative or mixed information. Quantitative analysis is limited to foundational data literacy and 
+descriptive methods; advanced statistics and programming are not prerequisites. Any interviews or 
+observations involving participants must be conducted with appropriate consent, and personal 
+information should be anonymised where appropriate. 
+ 
+Dated: 26 Oct, 2026 
+
+ 
+Proposer: Nilutpal Borgohain 
+Dated:_______________ 
+
+DUGC/DPGC Convener:___________________ 
+ 
+The course is approved / not approved 
+Chairman, SUGC/SPGC 
+Dated:______________________________

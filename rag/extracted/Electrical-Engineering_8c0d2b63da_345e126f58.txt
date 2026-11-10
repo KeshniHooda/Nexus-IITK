@@ -1,0 +1,513 @@
+[PAGE 1]
+IIT Kanpur
+POST GRADUATE PROGRAMME
+DEPARTMENT OF
+ELECTRICAL ENGINEERING
+
+INDIAN INSTITUTE OF TECHNOLOGY KANPUR
+
+www.iitk.ac.in/ee
+
+[PAGE 2]
+Electrical Engineering
+
+The Department of Electrical Engineering at IIT Kanpur offers M.Tech., MS(R), and Ph.D.
+programmes spanning the breadth of modern Electrical Engineering. The Department has a
+strong interdisciplinary research culture, with activities ranging from fundamental theory
+and devices to intelligent systems, emerging technologies, and large-scale engineering
+applications.
+
+Microelectronics and VLSI research encompasses semiconductor devices, nanoelectronics,
+analog,  digital, RF and  mixed-signal  integrated  circuits,  VLSI system  design,  device
+modelling  and  simulation,  neuromorphic  computing,  hardware  security,  non-volatile
+memories, spintronics, two-dimensional materials, organic and flexible electronics, and
+emerging semiconductor technologies.
+
+Power Engineering covers power system dynamics, stability, operation, control, protection
+and state estimation; smart grids, electricity markets and renewable-energy integration;
+high-voltage  engineering,  dielectrics and  insulation;  and power  electronics,  electric
+machines and  drives. Research also includes  electric vehicles, wired and wireless EV
+chargers, wide-bandgap SiC/GaN power converters, EMI/EMC-compliant converters, wireless
+power transfer, renewable-energy interfaces and microgrids.
+
+RF and Microwaves research includes antennas and phased arrays, metamaterials and
+metasurfaces, reconfigurable intelligent surfaces, RF and microwave circuits, mm-wave and
+THz  technologies, microwave and tomographic  imaging, RF  sensors,  electromagnetic
+compatibility,  non-destructive  testing, and RF energy  harvesting and  wireless power
+transfer.
+
+Signal Processing, Communications and Networks spans information and coding theory,
+wireless and communication networks, 5G/6G technologies, massive MIMO, mm-wave and
+THz communication,  signal and image processing, speech and multimedia processing,
+computer vision, inverse problems and tomography, optimization, machine learning, and
+networked information systems. These themes build on the communication and signal-
+processing areas already represented in the brochure.
+
+Control and Automation covers  control and dynamical systems, nonlinear, adaptive and
+robust control, networked and distributed control, multi-agent and cooperative systems,
+robotics and autonomous systems, guidance and control of unmanned vehicles, electric-
+vehicle control, and power-system control. Research increasingly extends control theory to
+emerging interdisciplinary domains such as microrobotics, cyber-physical systems, systems
+and synthetic biology, intelligent control, and learning-based control. The Department has
+dedicated experimental facilities for robotics, networked control, UAVs, electric vehicles,
+biological systems and microrobotics.
+
+Optoelectronics  and  Optical  Communication  research  includes  integrated  photonics,
+nanophotonics,  plasmonics, quantum  optics and quantum  technologies,  optoelectronic
+devices, optical communication and networks, nonlinear and specialty fibres, fibre-optic
+sensors, biomedical  optics,  optical imaging and metrology, and photonic devices and
+systems. These activities span both fundamental photonics and emerging applications in
+communication, sensing, imaging and quantum technologies.
+
+Department of Electrical Engineering                                                            Pg. 01
+
+[PAGE 3]
+POST-GRADUATE PROGRAMMES OFFERED
+
+In the application form for M.Tech., the applicants must specify their choice of area(s) of
+specialization/code number mentioned above. Please note that the candidates must use
+only those code numbers given at the end of this section while filling up application form
+for Ph.D. programme. Eligibility for a specialization may depend on the candidate’s choice
+of test paper in the GATE examination. For detailed information regarding eligibility and
+minimum qualifications, applicants should refer to the website of the Dean of Academic
+Affairs    (www.iitk.ac.in/doaa/).    Candidates    are    also    advised    to   check
+http://www.iitk.ac.in/ee/admissions for regular updates on EE admissions.
+
+M.Tech.
+
+In M.Tech. programme, a student takes eight courses, some of which may be compulsory
+for the area of specialization chosen, the rest being electives to be chosen in consultation
+with  the  programme  advisors.  The  programme  also  includes  a  research/project
+component, which culminates in a thesis.
+
+MS(R)
+
+In MS(R) programme, a student has to complete a minimum of four courses in the area
+chosen by the student in consultation with the thesis advisor. After completing the course
+work, the student is expected to do research work leading to a thesis. Focus on research
+makes this program exciting and provides in-depth knowledge to the student.
+
+Ph.D.
+
+In the Ph.D. programme, a student with M.Tech qualification has to complete minimum of
+four courses and a student with B.Tech. qualification has to complete minimum of ten
+courses. The most important part of the doctoral programme  is the research work
+leading to a  thesis. Student works on exciting research problems to come up with
+innovative/original ideas.
+
+Specialization in the M.Tech/MS(R)/Ph.D. Programmes is available in any of the following
+broad areas:
+
+Microelectronics and VLSI (Code: 01)
+Power Engineering (Code: 02)
+RF and Microwaves (Code: 03)
+Signal Processing, Communications and Networks (Code: 04)
+Control and Automation (Code: 05)
+Optoelectronics and Optical Communication (Code: 06)
+
+Department of Electrical Engineering                                                       Pg. 02
+
+[PAGE 4]
+LABS/FACILITIES
+
+The department has excellent research laboratories and support facilities in several areas.
+Micro fabrication lab with basic semiconductor processing capability for silicon as well as organic
+material based devices (OLED, organic solar cells, OTFT, etc.); Solar cell characterization lab;
+photo mask making  facility; Semiconductor device  lab with  capability  to  synthesize  organic
+materials  for  organic  LEDs  and  solar  cells;  Integrated  circuits  simulation  and  VLSI  design
+laboratory with all the modern EDA tools, (e.g. Cadence, Synopsis, Mentor Graphics, Xilinx based
+gate array design & programming tools, etc.) and adequate hardware in the form of servers and
+good number of workstations for research and course work with provision to fabricate chips at
+different technology nodes.
+
+Three teaching/training labs have been developed to train students in areas related to organic
+electronics.  These  are  the  organic  electronics  processing  lab,  the  organic  electronics
+characterization lab and the organic electronics simulation lab. Robotics lab equipped with 7 DoF
+manipulators, mobile robots, and  visual systems for autonomous navigation of mobile robots,
+multi-robot formation and control.
+
+Control system lab with facilities for microprocessor-based control of
+PMDC motors, multimotor  coordination, networked control and
+control of electric vehicles. Distributed Systems and Control (DiSCo)
+Lab is equipped with quadcopters, fixed wing UAVs, flight simulator,
+processor in-loop testing facility for quadcopters, simulation of multi-
+agent systems.
+
+The  Dynamics and  Control  Lab  focuses on  the  multidisciplinary   Quantum Key Distribution Lab
+aspects of control theory and engineering, primarily in systems and
+synthetic biology, microrobotics, and power system control. The lab is
+equipped  with  state-of-the-art  molecular  biology  equipment  to
+design genetic constructs and characterize their performance both in
+vivo and in vitro.  It also features micro/nano robots, along with a
+magnetic  manipulation  system,   simulation  and  computational
+platforms to carry out control engineering analysis and design.
+
+The High Voltage Laboratory has AC, DC, impulse  test  facilities,
+partial discharge monitoring, time domain spectroscopy, frequency    Advanced Fiber-Optics Lab
+domain spectroscopy, PEA for space charge measurements, and an
+outdoor  insulation  test bay; Power  electronics and  static control
+laboratory with solid state control of electric  drives; Power systems
+simulation  laboratory equipped with  Six Racks  Real Time  Digital
+Simulation  (RTDS),  Opal-RT  and  other modern  simulation  tools;
+NAMPET laboratory with complete fabrication and testing facilities for
+research in power electronics including frequency response analyzer,
+solar  photovoltaic  panels.  Power  management  lab  with  solar
+simulator,  frequency  response  analyzer,  electronic   loads  and
+Optical Metrology andfabrication facility.
+Imaging Lab
+MEIPES, EmPower and Power Management laboratories are also equipped
+with Power Electronics prototype fabrication and testing facilities.
+
+RF and Microwaves lab having network analyzers up to 110 GHz,
+spectrum analyzers, signal generators, power meters, noise figure
+meter,  shielded  anechoic  chamber   for  antenna  and  RCS
+measurements, microwave imaging and material testing facility over
+a wide frequency range, dielectric probe kit, rectangular waveguide
+and coax calibration kits for various frequency bands.                                                                                     Optoelectronics &
+Nanofabrication Lab
+
+Department of Electrical Engineering                                                            Pg. 03
+
+[PAGE 5]
+LABS/FACILITIES
+
+Fiber  optics laboratory equipped with  optical spectrum analyzer (600 nm-2000 nm) and
+interface  development   facility  for  fiber  optic  links,  clean  room  for  semiconductor
+optoelectronic device fabrication and photonic measurement laboratory.
+
+In addition, Advanced Fiber optics laboratory has WDM optical components, semiconductor
+optical amplifiers, single-mode standard and nonlinear fibers, Sampling oscilloscope (optical 40
+GHz and electrical 65 GHz bandwidth), electronics to enable experiments on 40-100G optical
+links.
+
+Networks laboratory with scalable and configurable test-bed  for simulating complex network
+topologies,  802.11  WiFi  links,  software  radio,  multiservice network and QoS,  etc.  Wireless
+Communications laboratory  is equipped with NI USRPs platform. Quantum Photonics Research
+Laboratory   is  equipped  with  optical  characterization  facility,  comprising  of  a  home-built
+microscope  attached  to  a  high-resolution  spectrometer  and  a  CCD  camera,  for  testing
+nanophotonic and plasmonic devices, and FDTD simulation tools for designing these devices.
+
+Speech processing and multi-modal information processing lab equipped with the state of art
+multi-channel audio visual data acquisition test bed along with dedicated data and voice server
+connected on E1  digital telephony  line enabling research on multi-channel and multi-modal
+information processing and content delivery;
+
+Digital  signal  processing  laboratory  with  multiple  PCs  and  DSP
+hardware  based  on  Texas  instrument's  DSPs;  Communications
+laboratory  equipped  with  USRPs  and WARP  boards.  Computer
+vision  lab equipped with chroma  keying,  controlled  illumination,
+structured  light  sources,  various  kinds  of camera and  associated
+computational resources.
+
+Electronic equipment maintenance and calibration facility; Multilayer     Tomographic Imaging Lab
+(up to six layers) PTH printed circuits fabrication facility, including
+CAD facility for printed circuits design and verification; Department
+library with a good collection of specialized books, research reports
+and data catalogues; An extensive campus wide LAN with a high
+speed internet connectivity.
+
+5G testbed Lab  is developed to build the testbed that closely
+resembles a real-world 5G deployment. The testbed will deliver an
+end-to-end 5G testbed comprising of 5G BS and UE nodes that   Communication Networks Lab
+support enhanced mobile broadband (eMBB), Ultra low latency
+communication (URLLC) and massive MTC including NBIoT services.
+This  testbed  could  become  a  basis  for  many  commercial
+deployments.
+
+The wide-ranging research facilities and various sponsored research
+activities ensure that the students are thoroughly exposed to modern
+trends in Electrical Engineering. The informal atmosphere and free
+discussions between the students and the teachers are a source of                                                                                  Anechoic Chamber
+inspiration to both the sides and maintain the standards of academic
+progress.
+
+5G TESTBED LAB                    EMI/ EMC Test Facility              RF Dielectric Testing Facility
+
+Department of Electrical Engineering                                                            Pg. 04
+
+[PAGE 6]
+FACULTY LIST
+
+❖ Akhtar M J, Ph.D. (University of Magdeburg): Microwave, mm-wave and THz imaging and non-
+destructive testing, Metamaterial inspired RF sensors including nano-biosensors, RF energy
+harvesting and wireless power transfer, FSS and nanomaterials based wideband microwave
+absorbers for stealth technology and EMI/EMC applications, RF amplifiers, High frequency
+plasmonic devices and applications, Metasurface and RIS based RF structures and systems.
+
+❖ Arora V, Ph.D. (Indian Institute of Technology Kanpur): Audio signal processing, machine learning,
+automatic speech recognition, music information retrieval.
+
+❖ Banerjee A, Ph.D. (University of Notre Dame): Error Control Coding, Wireless Communications,
+Applications of Machine  Learning  in communications and  signal  processing, and Molecular
+Communications
+
+❖ Battula, Swathi, Ph.D. (Iowa State University): electricity markets, modelling and design of
+electrical energy systems, energy policy and management.
+
+❖ Behera L, Ph.D. (Indian  Institute of Technology  Delhi):  Intelligent control; Soft computing;
+Quantum computing and Information; Applied nonlinear control.
+
+❖ Bhagat  N  A,  Ph.D.  (University  of  Houston):  Neural &  Bio-signal  processing,  Medical
+Instrumentation, Brain-machine interfaces, Functional Electrical Stimulation, and Rehabilitation
+Engineering.
+
+❖ Bose A, Ph.D. (Indian Institute of Technology Bombay): Spin-based electronics, Fabrication and
+characterization  of  nanoscale  devices, 2D  material  heterostructure,  topological quantum
+materials, generation of unconventional spin current, altermagnets, MTJs, spincaloritronics, spin
+orbitronics, spin- mechatronics, chiral spin textures among others.
+
+❖ Budhiraja R Ph.D.  (Indian  Institute  of Technology Madras):  Applications  of  linear  algebra,
+information theory and optimization to study problems in wireless communications, massive
+MIMO, cooperative communications, 5G algorithm design, building communication systems.
+
+❖ Chakrabarti  S,  Ph.D.  (Memorial University of Newfoundland): Power  system dynamics and
+stability; Power system state estimation; Synchrophasor applications in power systems; Power
+system reliability.
+
+❖ Chaturvedi A  K, Ph.D.  (Indian Institute of Technology Kanpur): Communication theory and
+systems; Mobile communications; Spread spectrum systems.
+
+❖ Chaudhary R K, Ph.D. (Indian Institute of Technology Kanpur): Reconfigurable Metamaterial/
+Metasurface Antenna, Multifunctional MIMO-Cognitive-Radio Antenna, Phased Antenna Array,
+Dielectric Resonator Antenna, mmWave Circuits, Frequency Selective Surfaces and Intelligent
+Reflecting Surface.
+
+❖ Chauhan Y S, Ph.D. (Ecole Polytechnique Federale de Lausanne): Nanoelectronics; Compact
+modeling  of  semiconductor  devices; Low and  high  frequency  electrical  characterization;
+Atomistic Simulation; RF Circuit Design.
+
+❖ Chithra, Ph.D. (Indian Institute of Technology Madras): Analog and mixed-signal VLSI design,
+digital VLSI design, frequency and phase synthesis, time-to-digital converters.
+
+❖ Dey R, Ph.D. (University of Texas): Topological Insulators, Transition Metal Chalcogenides and Di-
+Chalcogenides, Fabrication, Characterization and Analysis of micro and nano devices.
+
+❖ Dutta A, Ph.D. (Louisiana State University): Semiconductor device modeling; IC fabrication
+tehnology, Analog/digital/mixed-signal VLSI circuits.
+
+❖ Ganeriwala Mohit, (Indian Institute of Technology Gandhinagar): Multiscale-Atomistic, Numerical
+and Compact Modeling, TCAD,  Electrical characterization,  Neuromorphic  Computing,  Two-
+dimensional Materials and Advanced nanoscale FETs.
+
+❖ Gupta A K, Ph. D. (University of Texas): Wireless Communications, Stochastic Geometry and
+Numerical Methods.
+
+Department of Electrical Engineering                                                       Pg. 05
+
+[PAGE 7]
+FACULTY LIST
+
+❖ Gupta N, Ph.D. (Indian Institute of Science): High voltage engineering: Dielectrics and electric
+insulation; Nanodielectrics; Numerical techniques in electric and magnetic field computation.
+
+❖ Gupta S, Ph.D. (University of Maryland College Park): Nanophotonics; Plasmonics; Quantum optics;
+Quantum dot based Devices.
+
+❖ Gururaj M V, Ph.D. (Indian Institute of Technology Ropar): Renewable penetration challenges to
+the grid, Machine learning applications to power systems, EV interfacing challenges.
+
+❖ Harish A  R,  Ph.D.  (Indian  Institute  of  Technology  Kanpur):  Antennas;  RF  Engineering;
+Electromagnetics.
+
+❖ Hegde R M, Ph.D. (Indian Institute of Technology Madras): Multimedia information processing;
+Speech signal processing; Array processing; Application of signal processing in wireless networks.
+
+❖ Iyer S S K, Ph.D. (University of California): Organic solar cell; semiconductor devices.
+
+❖ Jagannatham A K, Ph.D. (UC San Diego): 5G/ 6G Wireless Technologies, Massive MIMO, mmWave
+MIMO,  Non-Orthogonal  Multiple  Access (NOMA), OTFS  (Orthogonal Time Frequency  Space)
+Modulation, THz, IRS, VLC.
+
+❖ Jerripothula K R, Ph.D. (NTU Singapore): Computer Vision,  Artificial Intelligence & Machine
+Learning, Multimedia Signal Processing, Image Processing, and Healthcare Informatics.
+
+❖ Kant P, Ph.D. (Indian Institute of Technology Delhi): Multi-winding transformers for multi-pulse AC-
+DC  converters,  Multi-level  inverters  for  medium  voltage/power  applications,  Modulation
+techniques for voltage source inverters, Medium voltage drives, Power electronics, Electrical
+machines and drives, Electric vehicle drive system.
+
+❖ Lahgere A, Ph.D (Indian Institute of Technology Delhi): Semiconductor Devices, Compact Modeling,
+Emerging   CMOS   Devices,   Emerging    Volatile-Nonvolatile   Memory,    Variation,   PPA
+Benchmarking,Analog/RF, and Neuromorphic computing.
+
+❖ R.S. Ashwin Kumar, Ph.D.  (Indian  Institute  of Technology  Madras): Analog &  mixed-signal
+integrated circuits and signal processing.
+
+❖ Mazhari B, Ph.D. (University of Illinois at Urbana Champaign): Semiconductor device modeling and
+fabrication; VLSI design; Transducers and sensors.
+
+❖ Mathew E C, Ph.D. (Indian Institute of Technology Delhi): HVDC and MVDC transmission systems,
+Fault tolerant modular converters for high-power applications, Medium and high-power DC-DC
+converters, Application of Power Electronics in Power Systems, Planning and operation of bulk
+power systems, Power Electronics dominated Grid.
+
+❖ Mondal I, Ph.D. (Indian Institute of Technology Madras): Analog and RF integrated circuits.
+
+❖ Mondal W U, Ph.D. (Indian Institute of Technology Kharagpur): Reinforcement Learning, Game
+Theory, Network Economics, Wireless Communication.
+
+❖ Mohapatra A, Ph.D. (Indian Institute of Technology Delhi): Optimization for operation and planning
+of power networks; AC and DC microgrid protection; Stability, security and control of power
+networks with renewable resources.
+
+❖ Naik N, Ph.D. (Indian Institute of Science): Reconstruction and analysis approaches to tomographic
+problems; Numerical solutions for wave propagation; Sub-surface imaging.
+
+❖ Nallam N, Ph.D. (Indian Institute of Technology Delhi): Analog, RF, and mm-Wave Integrated
+Circuits
+
+❖ Patel A, Ph.D. (Indian Institute of Technology Delhi): Control and Dynamical Systems, Systems and
+Synthetic Biology, Microrobots, Robust Control Theory, and Wide-Area Control of Power Systems.
+
+❖ Potluri R, Ph.D. (University of Kentucky): Control system theory; Practical applications of control
+theory; Electric vehicles; Networked control systems; Consensus and Cooperation.
+
+❖ Poluri N, Ph.D. (University of Sheffield): Design of broadband power amplifiers and front- end
+modules, Power amplifier linearization techniques, and phased array systems.
+
+Department of Electrical Engineering                                                       Pg. 06
+
+[PAGE 8]
+FACULTY LIST
+
+❖ Peruru S  S, Ph.D.  (Indian  Institute of Technology Madras): Wireless Networks,  Artificial
+Intelligence and Probabilistic Graphical Models.
+
+❖ Kant P, Ph.D. (Indian Institute of Technology Delhi): Multi-winding transformers for multi-pulse
+AC-DC  converters,  Multi-level  inverters,  Modulation  techniques, Medium  voltage  drives,
+Electrical machines and drives, Motor control algorithms for electric vehicles.
+
+❖ Kundu U, Ph.D. (Indian Institute of Technology Kanpur): Applications of resonant converters,
+Power management ICs, Wireless power transfer technology.
+
+❖ Pradeep Kumar K, Ph.D. (Indian Institute of Technology Madras): Signal processing for Optical
+Communications, Non  linear  fiber  optics; Quantum cryptography; Fiber-optic sensors, Spin
+Waves.
+
+❖ Rajawat K, Ph.D. (University of Minnesota): Optimization Algorithms, Network Optimization,
+Signal Processing in Networks, Online Machine Learning.
+
+❖ Rajshekhar G, Ph.D. (Swiss Federal Institute of Technology Lausanne): Biomedical Optics; Light
+Microscopy; Optical Metrology; Digital Holography.
+
+❖ Rituraj, Ph.D. (Stanford University): Integrated photonic circuits, Nanophotonics, Quantum optics
+and Optoelectronic devices.
+
+❖ Sahay S, Ph.D. (Indian Institute of Technology Delhi): Hardware Platforms for Neuromorphic
+Computing, Hardware Security Primitives, Novel Device Architectures for Scaling CMOS
+Technology,  Analytical  and Compact  Modeling  of Semiconductor  Devices,  Nonvolatile
+Memories, and Spintronics.
+
+❖ Samanta S., Ph.D. (Concordia University): Power Electronics, Electric Vehicles, Wireless
+Power Transfer, Resonant Converters with WBG devices.
+
+❖ Sahoo S R, Ph.D. (Indian Institute of Technology Bombay): Linear and Nonlinear systems,
+Adaptive Control, Timedelay systems, Control of unmanned vehicles, Multi-agent systems
+and coordinated control,AC and DC Microgrids.
+
+❖ Sandhan T, Ph.D. (Seoul National University): Computer vision, Machine learning and Robotics
+
+❖ Sensarma P, Ph.D (Indian Institute of Science): Power electronic converters; Power quality;
+FACTS devices; Renewable energy delivery systems; Motor drives.
+
+❖ Sharma  A,  Ph.D.  (Indian  Institute  of Technology  Kanpur): Power  Systems, Smart  Grid
+Technology, State Estimation, IT Application into Power Systems, Smart City, Multi-Agent
+Systems, Wide Area Monitoring & Control of Power System, Energy Market, Demand Response
+Management, Internet of Things.
+
+❖ Singh S N, Ph.D. (Indian Institute of Technology Kanpur): Power system restructuring; FACTS
+technology; Optimal power dispatch and security analysis; Power system dynamics, operation
+and control; Power quality; Application of genetic algorithms and artificial neural networks in
+power systems; Wind power.
+❖ Singh Y N, Ph.D. (Indian Institute of Technology Delhi): Telecommunication networks; Optical
+communications;  Optical  networks;  Digital switching systems; Wireless networks; Wireless
+sensor networks; P2P networks.
+❖ Srivastava K V, Ph.D. (Indian Institute of Technology Kanpur): Metamaterials, Microwave
+Antennas, Printed Antennas, MIMO Antennas, Microwave Metamaterial Absorbers, Microwave
+Cloaking, Finite Difference Time- Domain (FD-TD) Technique.
+
+❖ Tripathy T, Ph.D. (Indian Institute of Technology Bombay): Guidance of autonomous vehicles,
+Formation control problems in multi- agent systems, Study of nonholonomic systems, Missile
+guidance.
+
+❖ Vasudevan K, Ph.D. (Indian Institute of Technology Madras): Communication systems; Signal
+processing for communications.
+
+Department of Electrical Engineering                                                       Pg. 07
+
+[PAGE 9]
+FACULTY LIST
+
+❖ Verma  A,  Ph.D.  (University  of Notre Dame):  Epitaxial  growth  and  characterization  of
+semiconductor  thin films, Semiconductor Device Design and Fabrication, Electron Transport
+measurements and modelling.
+
+❖ Verma A R, Ph.D. (Indian Institute of Science): High Voltage Engineering, Dielectrics and
+Electrical Insulation, Computational Electrostatics, Polymeric Insulation for High Voltage
+Application, Over-voltages in Power Systems.
+
+❖ Verma N K, Ph.D. (Indian Institute of Technology Delhi): Big Data; Internet of Things/Cyber
+physical systems; Intelligent Data Mining Algorithms and Applications; Diagnosis and Prognosis
+of  Rotating  Machines;  Soft-  Computing  in  Modelling  and  Control;  Machine  Learning
+Algorithms; Computer  Vision;  Bioinformatics; Smart  Grid;  Intelligent Agents and  their
+Applications;  Intelligent Informatics; Fuzzy  Controllers; Image frame  generation;  Brain
+Computer/Machine Interface.
+
+Department of Electrical Engineering                                                       Pg. 08
+
+[PAGE 10]
+BROAD RESEARCH AREAS
+
+❖  Digital Communication Systems; Information and Coding Theory; Telecom and
+Wireless Networks; Peer-to-peer networks; Digital Switching Systems; 5G
+Wireless Communication Systems;  Digital  Signal and Image  Processing;
+Computer Vision; Inverse Problems and Tomography; Signals and Systems
+Theory.
+
+❖  Control  and  Dynamical  Systems  and  Robotics;  Networked  Control  and
+Electric Vehicle Control; Electronic and Virtual Instrumentation; Fuzzy Logic;
+Neural Networks and their applications.
+
+❖ Power  Systems  Economics;  Optimization and  Markets;  Power  System
+Protection; HVDC & FACTS, Power Quality; Smart Grid and Synchrophasors;
+Power Electronics; Electric Drives; Active Power Filters and Static VAR
+Systems; Nanodielectrics and thin film capacitors; Renewable Energy
+Interfaces.
+
+❖  Microelectronics; VLSI System Design; Wired and Wireless EV Chargers;
+SiC/GaN-based Power Converters; EMI/EMC-complaint Power Converters.
+Analog and Digital Circuit Design; Semiconductor  Device  Modeling  and
+Simulation;  Solid  State  Devices; Nanoelectronics and Nano-scale Devices;
+Organic  Electronics;  Flexible  Electronics;  Photovoltaics  Neuromorphic
+Computing,   Hardware    security,    biomedical    engineering   and
+instrumentation, CMOS ICs for Software Defined Radios, Phased Arrays,
+Satcom, Radars, Data Converters, Synthesizers, spintronics, etc.
+
+❖  Electromagnetics; RF Engineering and Microwaves; Antennas, Metamaterials;
+MMIC; RF and Microwave Sensors; RFID; Microwave and Mm-wave Imaging;
+RF Energy Harvesting, Electromagnetic and Tomographic Imaging; Terahertz
+Imaging and Testing.
+
+❖  Nanophotonics, Plasmonics, Quantum Dot based Devices; Optoelectronics;
+Signal processing for fiber-optics; Nonlinear fiber optics; Fiber-optic sensors;
+Quantum Cryptography and Quantum Optics; Spin waves; Photonic Networks
+and Systems.
+
+Department of Electrical Engineering                                                       Pg. 09
+
+[PAGE 11]
+CONTACT
+
+❖ Prof. Shubham Sahay        ❖ Prof. Abhilash Patel
+Email: admissionee@iitk.ac.in      Email: admissionee@iitk.ac.in
+Phone: 0512-259-7732        Phone: 0512-259-2148
+
+❖ Ms. Sapna Gupta
+Email: admissionee@iitk.ac.in
+Phone: 0512-259-6670
+
+Department of Electrical Engineering
+Indian Institute of Technology Kanpur
+Kalyanpur, Kanpur - 208016 Uttar Pradesh, India
+
+ADMISSIONS WEBSITE

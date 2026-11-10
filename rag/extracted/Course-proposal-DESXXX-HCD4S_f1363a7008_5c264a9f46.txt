@@ -1,0 +1,206 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+
+Proposal for a New Course
+
+1. Course No: XXX
+
+2. Course  Title: Human Centered Design  for  Systems,  Strategies,  Services, and
+Speculations (HCD-4S)
+
+3.  Per week Lectures: 3(L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours [0-2]: 0 (A),
+Credits (3*L+2*T+P+A): 9    Duration of Course: Full Semester
+
+4. Focus course for departments: Department of Design
+Other Departments/IDPs that may be interested in the proposed course:
+Sustainability  School,  Computer  Science,  Medical  School,  Engineering,
+Management, and other associated departments and centers that may involve
+human-centered design in their projects and teaching.
+
+5.  Instructor: Vivek Kant
+
+6.  Pre-requisites, if any: None
+
+7. Short Summary:
+The aim of the course is to help the students design human-centric experiences for the
+next generation of systems and services while addressing design at the level of
+strategy and futures.
+
+8. Course Description:
+
+The aim of the course is to help students to create human-centric systems, services,
+strategies, and speculations. This course is meant to be a survey course of these areas:
+Systems-Oriented Design, Service Design, Strategic Design, and Speculative Design. While
+the traditional avenues of design have focused on products, interaction, and media, there
+is an increasing need for design to move beyond this boundary in the realm of complex
+systems and services. Here, design is not a part of creating tools to satisfy needs and desires;
+it is about envisioning and providing alternatives for living. This design dimension is sorely
+needed due to the ongoing transformations that will affect most of humanity. How will the
+next generation of Indians bring about a better future? What will the role of human-centered
+design principles be in a sustainable future? What are alternatives when human-centered
+design plays a leading role?
+
+This course is envisioned as a course designed for postgraduate students. It will also support
+dual-degree students in design and students from other departments. The course will
+address the human-centered design of systems, services, strategies, and speculations as an
+interwoven and interdisciplinary approach. The current course is primarily a design course
+
+[PAGE 2]
+which is builds on human-centered design theory, systems thinking, and futures thinking. It
+does not address the design of the underlying technology or computation or addresses
+technology and human culture (Other courses on design management, sustainability,
+humanities and sociology will be a better fit). This course will, nevertheless, supplement
+these other courses in providing the students with a broad overview. The students will gain
+an insight into existing tools, techniques as well as the theoretical basis of design for these
+areas. The course is an appropriate mix of lectures and studio practice. The students will
+complete certain assignments individually and work on a mini-project as a team.
+
+a. Course Objectives:
+
+At the end of this course, students will be able to,
+
+o  Demonstrate ways in which human-centered design techniques presented in
+course will be able to extend traditional design avenues, at various levels of scale
+and temporality
+o  Understand and use tools of Synectics and Lateral Thinking to generate
+alternative design solutions
+o  Use techniques and principles for human-centric mapping of  systems and
+services
+o   Articulate ways to create alternative human-centered futures using systems,
+thinking, and futures thinking
+o  Understand theory, methods, and challenges associated with service design and
+strategic design, and other associated concepts to articulate novel pathways and
+strategies for organizations and communities
+
+b. Course Content:
+90 mins per session: 16 lecture sessions + 11 studio sessions
+
+Sessions  S.No.  Topic and Details                                                              (Lectures & Studio)
+Foundations I
+- Why HCD for systems, strategies, services and
+speculations?
+1               - Beyond the Form and Function                1
+- Alternatives to the monetary basis of design
+- Design for Life
+
+Foundations II
+- Design Synectics
+- Lateral Thinking Techniques 2                                                  2                   - Visual Analogistics
+- Bisociation
+
+Studio Practice 1, 2: Exercises for Design Synectics  2
+
+[PAGE 3]
+Systems Oriented Design I
+- Principles of Human centered Design
+- Objects and systems
+- Design and Emergence in systems3                                                             1.5                 - Parts, Wholes and Compositionality
+- Functions and Structure
+- Objects and Relations
+
+Systems Oriented Design II
+- Systemic Transitions and Change
+- Qualitative modelling techniques
+- Human-Centered Mapping techniques4                                                             1.5                  - Co-creation and Co-design
+- Influence Maps
+- Designing for systemic roles
+
+5       Studio Practice 3: Gigamap Planning                1
+Systems Oriented Design III
+- Systemic Transitions and Change
+- Leverage Strategies
+6               - Intervention Model and Strategies              1
+- Facilitating Systems Change
+- Transition by Design
+
+7       Studio Practice 4: Gigamap Creation                1
+Strategic Design I
+- Design and Organizations
+- Organizations as Activity Systems
+- Design as a basis for developing organizations8                                                  1                 - Organizational Design Audit
+- Planning a design audit
+- Conducting a design audit
+
+Studio Practice 5,6: Organizational design audit9                                                  1        exercise
+Strategic Design II
+- Design and Public Policy
+- Design and Social Innovation
+10             - Design and Competitive Advantage             1
+- Design and Sustainability
+- Sustainable Design Transitions
+
+Speculative Design I
+- Design Futures
+- Discursive Design11                                                 2                - Cognitive Defusion
+- Pluriverse and world making
+- Trend Analysis
+
+[PAGE 4]
+- Scenario Design
+
+Studio Practice 7: Trend Analysis and Scenario    12                                                 2             Creation Exercises
+Speculative design II
+- Envisioning alternatives
+- Pattern comprehension and resynthesis    13                                                 2                        - Design beyond Humanity
+- Speculative life and ecosystems
+
+14     Studio Practice 9, 10: Speculative Prototyping         2
+Service Design I
+- Service design as activities
+15           - Services as events and encounters               1
+- Service design methods
+
+Service Design II
+- Service blueprint
+- Service prototype
+16           - Expectation Maps                            2
+- Service Roleplay
+- Service staging
+
+17     Studio Practice 11, 12: Service Prototyping Exercises    2
+Total Sessions (Lectures + Studio)                   27 sessions
+Total Hours = 27 * 1.5 hrs                            40.5 Hrs
+
+Assignments (studio exercises+ presentation) 60% + final exam 40 %
+
+c. Recommended Books:
+
+Text books:
+•  Dunne, A., & Raby, F. (2013). Speculative everything: design, fiction, and social
+dreaming. MIT press.
+•  Manzini, E. (2015). Design, when everybody designs: An introduction to design for
+social innovation. MIT press.
+•  Holland, R., & Lam, B. (2014). Managing strategic design. Bloomsbury Publishing.
+•  Sevaldson, B. (2022). Designing Complexity: The Methodology and Practice of
+Systems Oriented Design. Common Ground Research Networks.
+•  Penin, L. (2018). An introduction to service design: designing the invisible.
+Bloomsbury Publishing.
+•  [other book excerpts and readings assigned in class for interdisciplinary readings]
+
+[PAGE 5]
+Bibliography [select]
+•  Bason, C. (Eds.). (2016). Design for policy. Routledge.
+• De Bono, E. (2014). Lateral thinking: An introduction. Random House.
+•  Escobar, A. (2018). Designs for the pluriverse: Radical interdependence, autonomy,
+and the making of worlds. Durham, NC: Duke University Press.
+•  Fry, T. (2020). Defuturing: a new design philosophy (Vol. 1). Bloomsbury Publishing.
+•  Gordon, W.H.H. (1960) Synectics, The Development of Creative Capacity. Harper &
+Row, New York .
+•  Jones, P., & Van Ael, K. (2022). Design journeys through complex
+systems. Amsterdam: BIS.
+•  Nixon, N. (2015). Strategic design thinking: innovation in products, services,
+experiences and beyond. Bloomsbury Publishing USA.
+•  Nixon, N. (Eds.). (2020). The creativity leap: Unleash curiosity, improvisation, and
+intuition at work. Berrett-Koehler Publishers.
+•  Polaine, A., Løvlie, L., & Reason, B. (2013). Service design: From insight to
+implementation. Rosenfeld media.
+•  Potter, N. (1980). What is a designer, things, places, messages. Reading: Hyphen
+Press.
+•  Smith, R. C., Vangkilde, K. T., Otto, T., Kjaersgaard, M. G., Halse, J., & Binder, T.
+(Eds.). (2016). Design anthropological futures. Bloomsbury Publishing.
+•  Stickdorn, M., Hormess, M. E., Lawrence, A., & Schneider, J. (2018). This is service
+design doing. O'Reilly Media, Inc..
+•  Stickdorn, M., & Schneider, J. (2012). This is service design thinking: Basics, tools,
+cases. John Wiley & Sons.
+•  Tharp, B. M., & Tharp, S. M. (2019) Discursive design: Critical, speculative, and
+alternative things. Cambridge, MA: MIT Press.

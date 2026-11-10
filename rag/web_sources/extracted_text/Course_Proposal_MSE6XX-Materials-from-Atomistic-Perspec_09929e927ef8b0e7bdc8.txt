@@ -1,0 +1,236 @@
+[Page 1]
+Indian Institute of Technology Kanpur 
+Proposal for a New Course 
+1. Course No: MSE6XX 
+2. Course Title: Materials from Atomistic Perspective 
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours [0-2]: 0 (A), 
+Credits (3-0-0-0): 
+
+ 
+
+ 
+ 
+Duration of Course: Full semester 
+4. Proposing Department: Department of Materials Science and Engineering 
+Other Departments/IDPs which may be interested in the proposed course: ME, CHE, AE, MSP 
+Other faculty members interested in teaching the proposed course: Somnath Bhowmick 
+5. Proposing Instructor(s): Shivam Tripathi (shivamt@iitk.ac.in) 
+6. Course Description: 
+A) Objectives: Students will develop an understanding of how the behavior and interactions of 
+atoms and electrons determine the structure, stability, and properties of materials. The course 
+will combine fundamental concepts with hands-on computational simulations, nanoHUB-
+based interactive activities, and practical examples to help students explore materials at the 
+atomic scale and connect simulation results with experimentally observable macroscopic 
+properties. 
+ 
+B) Contents (preferably in the form of 5 to 10 broad titles): 
+Lecture-wise break-up (considering the duration of each lecture is 50 minutes) 
+S. 
+No. Broad Title 
+Topics 
+No. 
+of 
+Lectures 
+1. 
+Quantum mechanics and 
+electronic structure 
+Introduction to the fundamental principles 
+of 
+quantum 
+mechanics 
+and 
+their 
+application to electrons in atoms and 
+materials. Topics include wave functions, 
+energy levels, atomic orbitals, quantum 
+states, and electronic configurations. 
+5 
+2. 
+Electronic structure and 
+chemical bonding 
+Fundamentals of electronic interactions 
+responsible for bonding between atoms and 
+molecules. Topic includes ionic, covalent, 
+metallic, and van der Waals bonding and 
+their connection to material structure and 
+properties. 
+4 
+3. 
+Electronic structure of crystal 
+Electronic behavior in periodic crystalline 
+materials, including formation of energy 
+bands and electronic states. Topics include 
+band 
+gaps, 
+metals, 
+semiconductors, 
+insulators, reciprocal space, and Brillouin 
+zones. 
+4 
+4. 
+Density functional theory 
+(DFT) 
+Introduction to density functional theory as 
+a first-principles approach for predicting 
+electronic 
+structure 
+and 
+material 
+properties. The computational workflow 
+includes structural relaxation, energy 
+calculations, electronic band structure, and 
+density of states. 
+5
+
+[Page 2]
+5. Optical and dielectric 
+properties 
+Interaction of electrons and atoms with 
+electromagnetic fields and the resulting 
+material 
+response. 
+Topics 
+include 
+polarization, 
+dielectric 
+properties, 
+electronic transitions, optical response, and 
+related microscopic mechanisms. 
+3 
+6. Classical mechanics and 
+molecular dynamics 
+Application of classical mechanics and 
+molecular dynamics to describe atomic 
+motion, interactions, and evolution of 
+materials at the atomic scale. Topics 
+include 
+forces, 
+potential 
+energy, 
+interatomic 
+potentials, 
+equilibrium 
+configurations, 
+atomic 
+trajectories, 
+temperature effects, diffusion, structural 
+transformations, and hands-on molecular 
+dynamics simulations. 
+5 
+7. 
+Statistical mechanics, vibration 
+and phonons 
+Connection between microscopic atomic 
+configurations, 
+thermal 
+motion, 
+and 
+macroscopic thermodynamic properties. 
+Topics include probability distributions, 
+temperature, entropy, ensembles, statistical 
+averages, atomic vibrations, harmonic 
+motion, 
+normal 
+modes, 
+phonons, 
+vibrational density of states, and phonon 
+dispersion. 
+5 
+8. 
+Thermal and mechanical 
+properties 
+Atomic-scale origins of thermal and 
+mechanical behavior in materials. Topics 
+include heat capacity, thermal expansion, 
+thermal conductivity, elastic properties, 
+stress, strain, and deformation. 
+3 
+9. 
+Connecting atoms to materials 
+Integration of atomistic, electronic, and 
+statistical approaches to establish the 
+connection 
+between 
+microscopic 
+phenomena 
+and 
+measurable 
+material 
+properties. 
+The 
+emphasis 
+is 
+on 
+understanding 
+how 
+atomic 
+structure, 
+electronic interactions, atomic dynamics, 
+and 
+statistical 
+behavior 
+collectively 
+determine material properties. 
+2 
+10. Case studies and applications 
+Application of computational methods and 
+hands-on simulations to representative 
+materials-science problems. Case studies 
+will demonstrate how atomistic and 
+electronic-structure simulations can be 
+used to understand, predict, and analyse 
+real material behavior. 
+4 
+Total 
+40 
+ 
+C) Recommended pre-requisites, if any (examples: a- PSO201A, or b- PSO201A or 
+equivalent): None 
+D) Short summary for including in the Courses of Study Booklet: This course provides an 
+integrated introduction to the computational study of materials, connecting atomic and 
+electronic structure with macroscopic material properties. It combines fundamental concepts 
+in quantum mechanics, electronic structure, DFT, molecular dynamics, statistical mechanics,
+
+[Page 3]
+and material properties with hands-on nanoHUB-based simulations and real-world materials 
+applications. 
+ 
+7. Recommended text/reference books: 
+A) Ashcroft, N.W. and Mermin, N.D. (1976) “Solid State Physics”. Saunders College, 
+Philadelphia, 116, 217. 
+B) Martin, Richard M. “Electronic structure: basic theory and practical methods”. Cambridge 
+university press, 2020. 
+C) Frenkel, Daan, and Berend Smit. "Molecular simulation: from algorithms to 
+applications." Florida (2000). 
+D) Griffiths, David J., and Darrell F. Schroeter. “Introduction to quantum mechanics”. 
+Cambridge university press, 2018 
+E) Strachan, A., “From Atoms to Materials: Predictive Theory and Simulations”, nanoHUB, 
+Purdue University. 
+8. 
+9. Any other remarks: None 
+
+ 
+ 
+Dated: 26/08/2026 
+
+ 
+
+Proposer: Shivam Tripathi 
+
+Dated: 
+
+ 
+
+ 
+
+ 
+DPGC Convener: 
+
+The course is approved / not approved 
+
+ 
+ 
+Chairman, 
+SUGC 
+ 
+Dated:

@@ -1,0 +1,86 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+Proposal for a New Course
+
+1. Course No: ECO714
+
+2. Course Title: Game Theory and Applications
+
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours: 0
+Credits: (3*L+T+P+A): 9 credits
+Duration of Course: Full Semester Course
+
+4. Proposing Department: Economic Sciences
+Other Departments which may be interested: None
+
+5. Proposing instructor(s): Faculty members of the Department of Economic Sciences
+Level of the course: PG
+
+6. Course Description:
+
+A) Objectives: This course provides a comprehensive introduction to game theory and its applications. It
+covers rational decision making, static and dynamic games under complete and incomplete information, and
+explores applications in economics including auctions, mechanism design, matching, and market design.
+B) Contents
+
+S. No.   Broad Title              Topics                                        No. of Lectures
+
+1.     Rational Decision Making   Actions, outcomes, and preferences; Payoff                5
+and Game Preliminaries     functions; Uncertainty and expected payoff; Risk
+attitudes; Normal-form games; Matrix representation
+
+2.     Static Games of Complete  Dominated strategies; Iterated elimination of strictly         8
+Information               dominated strategies; Beliefs and best response;
+Rationalizability; Nash equilibrium in pure
+strategies; Mixed strategies; Nash existence theorem
+
+3.    Dynamic Games of         Extensive-form games; Subgame-perfect Nash               8
+Complete Information       equilibrium; Backward induction; Multistage games;
+Repeated games; Folk theorem; Strategic bargaining
+
+4.     Static Games of           Bayesian games; Bayesian Nash equilibrium;              8
+Incomplete Information    Adverse selection; Auctions (first-price, second-
+price, English, Dutch); Revenue equivalence;
+Winner’s curse; Mechanism design; VCG
+mechanisms
+
+5.    Dynamic Games of          Perfect Bayesian equilibrium; Sequential                    6
+Incomplete Information     equilibrium; Signalling games; Education signalling;
+Limit pricing; Building reputation; Cheap talk and
+information transmission
+
+6.     Miscellaneous            Matching theory; Deferred acceptance algorithm;             5
+Applications              Market design; Fair division; Cooperative game
+theory; Evolutionary game theory; IO applications
+
+C) Prerequisites: None
+
+D) Short summary for including in the Courses of Study Booklet: This course introduces game theory
+from its foundations in rational decision making through static and dynamic games of complete and
+incomplete information. Applications include auctions, mechanism design, signalling, reputation, bargaining,
+and matching markets.
+~ 1 ~
+
+[PAGE 2]
+7) Recommended textbooks:
+
+•  Game Theory: An Introduction by Steven Tadelis. Princeton University Press.
+•  A Course in Game Theory by Martin Osborne and Ariel Rubinstein. MIT Press.
+•  Game Theory by Michael Maschler, Eilon Solan, and Shmuel Zamir., 2nd edition. Cambridge
+University Press.
+
+•  Twenty lectures on Algorithmic Game Theory by Tim Roughgarden. Cambridge University Press.
+2016
+
+8) Any other remarks: None.
+
+Dated: _________ Proposer: _____________
+
+Dated: _________ DUGC/DPGC Convener: _____________
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC
+Dated: _______________
+
+~ 2 ~

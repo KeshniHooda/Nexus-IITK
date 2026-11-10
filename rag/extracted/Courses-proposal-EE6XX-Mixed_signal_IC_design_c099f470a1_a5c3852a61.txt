@@ -1,0 +1,104 @@
+[PAGE 1]
+Indian Institute of Technology,
+
+Kanpur Proposal for a New Course
+
+1. Course No: EE698I (Old Course No)
+
+2. Course Title: Mixed-signal IC design
+
+3. Per Week Lectures: 3 (L), Tutorial: (T), Laboratory: _   _(P), Additional Hours[0-2]:
+
+(A), Credits (3*L+2*T+P+A): 9 Duration of Course: Full Semester
+
+4. Proposing Department/IDP: EE
+5. Proposing Instructor(s): R. S. Ashwin Kumar (ashwinrs@iitk.ac.in)
+Other faculty members interested in teaching the proposed course:
+Imon Mondal (imon@iitk.ac.in), Chithra (chithra@iitk.ac.in)
+
+6. Course Description:
+
+Objectives: : At the end of the course, the students should be able to i) understand
+basics of sampling, quantization, estimating power spectrum,  ii) Switched-capacitor
+circuits, settling, noise,  iii) Design Nyquist rate analog-to-digital converters like Flash,
+SAR, Pipelined, and noise-shaping ADCs (like delta-sigma ADCs).
+
+Contents (preferably in the form of 5 to 10 broad titles):
+
+S.     Broad                    Topics                 No.       of
+No.       Title                                             Lectures
+(1.5   hours
+each)
+1.   Mathematical   Mathematical understanding of sampling,        4
+understanding   quantization, need for discrete Fourier
+&        transform (DFT), spectral leakage,
+characterizing  windowing; Dynamic performance metrics:
+an ADC    SQNR, SNDR, ENOB; Static performance
+metrics: DNL & INL
+2.        Circuit      Implementation of switch, nMOS, pMOS,        3
+implementation CMOS, gate-bootstrapped switch, linearity of
+of sampling    switches; Non-idealities: noise, charge
+network      injection; Bottom-plate sampling, and
+evolution of switched-capacitor amplifier
+3.     Switched-    Understanding charge conservation,            5
+capacitor     analyzing switched-capacitor circuits, basics
+circuits:      of z-transform, deriving transfer functions,
+Analysis &    switched-capacitor integrators, amplifiers,
+tackling non-   correlated-double sampling, correlated level
+idealities      shifting, N-path filters.
+
+[PAGE 2]
+4.    Circuit         Regenerative latches, StrongARM latch,         2
+implementation  basics of comparators.
+of comparators,
+5.    Flash ADC &   Flash ADC implementation, ways for            3
+techniques to   reference subtraction, interpolation & folding
+improve flash   (in both time & voltage domain) to improve
+ADC resolution  the resolution of flash ADC
+6.    SAR ADC    Basics of SAR ADC, asynchronous             3
+operation, redundancy to tackle incomplete
+DAC settling, split C-DAC to reduce
+capacitor area, digital calibration to tackle
+capacitor mismatches.
+7.   Pipelined ADC  Multi-step & pipelined ADC, Redundancy,        3
+circuit implementation, noise & linearity,
+digital calibration examples
+8.   Noise-shaping  Oversampling & noise-shaping, error-           3
+ADCs      feedback structure, delta-sigma modulation,
+system-level and circuit design, noise-
+shaping SAR.
+Total        26
+Lectures (1.5
+hours each)
+
+A) Pre-requisites: Consent of the Instructor
+
+B) Short summary for including in the Courses of Study Booklet: Sampling &
+quantization: mathematical understanding, characterizing ADCs: spectral analysis,
+signal to quantization noise ratio, effective no. bits, static non-linearity, sampling
+switch, switched-capacitor circuits, tackling non-idealities in switched-capacitor
+circuits, regenerative latches, flash ADC, voltage & time domain interpolation,
+successive approximation register (SAR) ADC, pipelined ADCs, noise-shaping ADCs.
+
+7. Recommended reference: There is no single reference for this.
+It will be based on multiple journal articles that will be shared along with the
+relevant lectures.
+
+Evaluation Policy: Mini-quizzes: 20%; Midsem: 25%; Endsem:30%; Design projects
+(two): 25% (This is the rough distribution; the exact distribution can change)
+
+8. Course strength last three times:
+
+Jan 2022: 21; July 2023: 6; July 2024: 14
+
+[PAGE 3]
+Dated: 14/02/2025                                 Proposer: R. S. Ashwin Kumar
+
+Dated:                                   DUGC/DPGC Convener:
+
+The course is approved / not
+approved
+
+Chairman, SUGC/SPGC
+
+Dated:

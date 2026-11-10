@@ -1,0 +1,178 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+Proposal for a New Course
+
+Course Information
+
+Course Number: MTH 7XX (PhD course)
+
+Course Title: Numerical Analysis
+
+Per Week Lectures: 3 (L), Tutorial: 0 (T), Lab: 0 (P)
+Credits: 9 credits
+
+Duration of Course: Full Semester
+
+Proposing Department: Department of Mathematics and Statistics
+
+Proposing Instructor: Mrinmay Biswas .
+
+Other faculty members interested in teaching the proposed course: Prof. Akash Anand, Prof. B. V.
+Rathish Kumar, Prof. Saktipada Ghorai, Prof. Abhijit Biswas.
+
+Course Objectives
+
+This course is designed to provide an exposure to PhD students in basic areas of advanced numerical analysis
+techniques and computation. Main objectives of this course are as follows:
+
+Build foundational understanding: To develop a strong conceptual foundation in numerical methods
+for solving linear and nonlinear problems, enabling students from diverse backgrounds to engage with
+computational research.
+
+Analyze errors and stability: To understand sources of numerical error, conditioning, and stability,
+and to evaluate how these a!ect the reliability and accuracy of computational solutions.
+
+Develop skills in numerical linear algebra: To equip students with direct and iterative techniques
+(e.g., LU/Cholesky factorization, Krylov subspace methods) for solving large-scale linear systems and
+eigenvalue problems arising in scientiﬁc applications.
+
+Solve nonlinear systems e!ectively: To introduce robust numerical techniques such as Newton and
+quasi-Newton methods for solving multidimensional nonlinear equations and analyzing their convergence
+behavior.
+
+Apply numerical methods to ODEs: To enable students to construct and analyze numerical schemes
+for ordinary di!erential equations (ODEs), including stability, convergence, and adaptive methods.
+
+Understand computational approaches for PDEs: To provide knowledge of ﬁnite di!erence and
+variational methods for elliptic, parabolic, and hyperbolic partial di!erential equations, including stability
+and convergence analysis.
+
+Introduce modern numerical techniques: To familiarize students with advanced approaches such
+as ﬁnite element methods, projection methods, and discontinuous Galerkin methods used in high-level
+research and simulations.
+
+Promote implementation and research readiness: To develop the ability to implement numerical
+algorithms and apply them to real-world problems in science and engineering, preparing students for
+independent computational research.
+
+1
+
+[PAGE 2]
+Course content:
+
+Total lectures = 39, 1 lecture = 50 minutes
+
+Numerical Linear Algebra (13 Lectures)
+
+Conditioning and sensitivity (1 lecture):  Sources of error and propagation of error, condition
+number, examples.
+
+Gaussian Elimination, LU Decomposition, Cholesky Decomposition (3 lectures): Forward
+elimination, backward substitution, pivoting, Doolittle, Crout, operation counts, applications, Symmetric
+positive deﬁnite systems, examples.
+
+Iterative Methods (3 lectures): Jacobi, Gauss–Seidel methods, Successive Over-Relaxation (SOR),
+convergence analysis, Conjugate Gradient method for SPD systems.
+
+Krylov Subspaces (4 lectures): Introduction to QR factorization, Arnoldi/Lanczos processes, basic
+concepts, GMRES, BiCG, MINRES methods, Convergence and applications.
+
+Eigen value problems and applications (2 lectures): Methods to compute eigen values, Singular
+Value Decomposition.
+
+Numerical Solution of nonlinear system (2 Lectures)
+
+Newton’s Method: Multidimensional Newton, convergence analysis, Modiﬁed Newton, quasi-Newton,
+secant methods.
+
+Numerical Solution of ODE (10 Lectures)
+
+One step methods for IVP (6 lectures): Introduction to IVP, Euler method, Improved Euler, Taylor
+Series Methods, Classical Runge–Kutta Methods, stability, consistency, Adaptive RK, RK-Fehlberg.
+
+Linear Multistep Methods (2 lectures): Adams-Bashforth, Adams-Moulton, BDF methods, Predictor-
+corrector methods.
+
+BVP – Finite Di!erence (2 lectures): Second-order linear ODE, numerical solution, convergence
+analysis.
+
+Numerical Solution of PDE (14 Lectures)
+
+Finite Di!erence for Elliptic PDEs (1 lecture): Laplace/Poisson, grid, implementation.
+
+Finite Di!erence for Hyperbolic PDEs (3 lectures): Transport and Wave equation, Von Neumann
+stability analysis, convergence of numerical solutions.
+
+Finite Di!erence for Parabolic PDEs (1 lecture): Heat equation, stability, CFL condition.
+
+Projection Methods (6 lectures): Weak formulation, variational approach, Error analysis, Examples:
+Galerkin (Spectral, FEM, Higher-order elements, adaptive reﬁnement), Collocation, implementation,
+FEM for Laplace/Poisson, Heat, Wave equation.
+
+Discontinuous Galerkin (3 lectures): Basics, numerical ﬂuxes, stability, Implementation, examples,
+Applications, error analysis.
+
+Pre-requisites
+
+Instructor consent.
+
+2
+
+[PAGE 3]
+Short summary for inclusion in the Courses of Study Booklet:
+
+Including a course in Numerical Analysis in a PhD curriculum is especially valuable as a foundational bridge.
+It strengths students’ ability to solve complex, real-world problems using computational methods. This course
+introduces essential concepts like basic algorithms design, approximation methods, and error estimation in
+a structured way, which are essential for research involving simulations, data analysis, and modeling. This
+foundation enhances both the rigor and e”ciency of their work, especially in ﬁelds like engineering, physics, and
+data science, where analytical solutions are often impractical. Such a course can level the playing ﬁeld, enabling
+students from diverse academic backgrounds to conﬁdently engage with research that involves simulations, data
+processing, or computational modeling.
+
+Recommended books:
+
+Reference for Numerical Linear Algebra:
+
+Kendall E. Atkinson, An Introduction to Numerical Analysis, Wiley, 2008.
+
+M Heath,  Scientiﬁc Computing - An introductory Survey, SIAM, 2018.
+
+Reference for Numerical Finite Di!erence Methods:
+
+R. J. LeVeque, Finite di!erence methods for ordinary and partial di!erential equations: steady-state and
+time-dependent problems, vol. 98, SIAM, 2007.
+
+Arnold, Douglas N.  Lecture notes on Numerical Analysis of Partial Di!erential Equations, 2012. 2017-
+2018 version is available at
+https://www-users.cse.umn.edu/ arnold/8445-8446.17-18/notes.pdf
+
+Reference for Finite Element Methods:
+
+Susanne C. Brenner, L. Ridgway Scott, The Mathematical Theory of Finite Element Methods, Springer,
+2008.
+
+Philippe G. Ciarlet, The Finite Element Method for Elliptic Problems, SIAM, 2002.
+
+Reference for Numerical DG Methods:
+
+B. Cockburn, G. E. Karniadakis and C.W. Shu, Discontinuous Galerkin methods. Theory, computation
+and applications, Lecture Notes in Computational Science and Engineering, 11. Springer-Verlag, Berlin,
+2000.
+
+B. Rivi`ere, Discontinuous Galerkin Methods for Solving Elliptic and Parabolic Equations: Theory and
+Implementation. SIAM Frontiers in Applied Mathematics, 2008.
+
+Additional Remarks and Approval
+
+8. Any other remarks:
+
+Dated:      01/05/26                                     Proposer:     Mrinmay Biswas
+
+Dated:                                      DUGC/DPGC Convener:
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC                                               Dated:
+
+3

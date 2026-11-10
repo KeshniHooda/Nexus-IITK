@@ -1,0 +1,144 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+
+Proposal for a New Course
+
+1. Course No: CHE6XX
+
+2. Course Title: Machine Learning in Chemical Engineering
+
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours [0-2]: 0 (A),
+Credits (3-0-0-0):                             Duration of Course: Full semester
+4. Proposing Department: Department of Chemical Engineering
+
+Other Departments/IDPs which may be interested in the proposed course: MSE, ME, AE
+
+Other faculty members interested in teaching the proposed course: Indranil Saha Dalal, Ishan Bajaj,
+and Akash Chaudhry
+
+5. Proposing Instructor(s): Salman Ahmad Khan (salman@iitk.ac.in)
+6. Course Description:
+A) Objectives: This course will introduce students to machine learning (ML) applications
+across various areas of chemical engineering. Students will also be introduced to various ML
+Python libraries and most lectures will involve hands-on case studies. The course  is
+particularly targeted towards postgraduate students and has been designed to help both,
+experimentalists and computational researchers.
+B) Contents (preferably in the form of 5 to 10 broad titles):
+
+Lecture-wise break-up (considering the duration of each lecture is 50 minutes)
+
+S.                                                                No.     of
+Broad Title                 Topics
+No.                                                                  Lectures
+Broad overview of ML and its application
+Basics of machine learning
+to various areas of chemical engineering.
+1.  (ML) and its application to                                          3
+Introduction to Python and Python
+chemical engineering
+libraries to be used in the course.
+Introduction to different types of data in
+chemical engineering (molecular datasets
+Data pre-processing for       and spatiotemporal data). Handling
+2.                                                                   3
+chemical engineering data     missing data and feature scaling.
+Introduction to the scikit-learn Python
+library.
+Feature selection and linear
+Dimensionality reduction      dimensionality reduction (PCA, LDA).
+3.                                                                   3
+techniques                    Non-linear dimensionality reduction
+(diffusion maps).
+Logistic regression, k-nearest neighbours,
+decision trees, and random forest.
+Classification methods applied Introduction to the RDKIT python library
+4.                                                                   3
+to chemical engineering data   for cheminformatics. Implementing
+classification methods for molecular data
+with RDKIT and scikit-learn.
+Linear regression, polynomial regression,
+and lasso regression. Implementing
+regression methods with the scikit-learn
+Regression methods applied to
+3.                              Python library. Regression methods          4
+chemical engineering data
+applied to predicting chemical properties
+from chemical/material structure (e.g.
+solubility, heat capacities etc.).
+
+[PAGE 2]
+Multi-layer perceptron, activation
+Neural networks and deep      functions, and backpropagation. Training
+4.   learning in chemical           neural networks with the PyTorch Python     3
+engineering                      library. Modeling reactor dynamics with
+neural networks.
+
+Physics informed neural
+Introduction to PINNs and training PINNs
+networks (PINNs) for solving
+5.                                with the PINA Python library. Solving        3
+PDEs for chemical engineering
+reaction diffusion PDEs with PINNs.
+problems
+
+Ensemble methods, Gini importance, and
+Bayesian optimization. Introduction to the
+Uncertainty quantification of
+6.                              PyStan Python library for Bayesian          5
+ML predicted properties
+inference and its application to molecular
+properties predicted from structure.
+Introduction to NLP and LLMs.
+Natural Language Processing
+Application of LLMs to mining and
+7.  (NLP) and Large language                                           3
+organizing chemical data from
+models (LLMs)
+unstructured data sources.
+Introduction to transfer learning and
+Transfer learning and domain  domain adaptation. Introduction to the
+8.                                                                   4
+adaptation             ADAPT Python library applied to learn
+molecular properties with limited data.
+Genetic programming for symbolic
+Symbolic regression for
+regression. Introduction to the gplearn
+9.   discovering equations from                                          3
+Python package to discover symbolic
+data
+expressions from thermodynamic data.
+Generative adversarial networks and
+Material and chemical
+10.                                   variational autoencoders. Application of      3
+discovery with generative AI
+generative AI for material discovery.
+Total                                                               40
+
+C) Recommended pre-requisites,  if any (examples: a- PSO201A, or b- PSO201A or
+equivalent): None
+D) Short summary for including in the Courses of Study Booklet: Machine Learning in
+Chemical Engineering, Chemical Informatics, Python for Machine Learning, Classification
+and Regression methods, Uncertainty Quantification.
+
+7. Recommended text/reference books:
+A) Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor, An
+Introduction to Statistical Learning: with Applications in Python, 1st Edition, Springer,
+2023.
+B) Andrew Ng, Machine Learning Yearning, 2018.
+C) Dan Jurafsky, James H. Martin, Speech and Language Processing, 2nd Edition, Prentice
+Hall, 2009.
+D) Jeremy Watt, Reza Bohrani, Aggelos K. Kastaggelos, Machine Learning Refined, 2nd
+Edition, Cambridge University Press, 2020.
+
+8. Any other remarks: None
+
+[PAGE 3]
+Dated: 20/02/2025                             Proposer: Salman Ahmad Khan
+
+Dated:                          DPGC Convener:
+
+The course is approved / not approved
+
+Chairman,             SUGC
+
+Dated:

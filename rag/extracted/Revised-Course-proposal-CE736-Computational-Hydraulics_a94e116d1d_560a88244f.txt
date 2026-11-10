@@ -1,0 +1,95 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+
+Revision of CE736
+
+1. Course Number: CE736
+
+2. Course Title: Computational Hydraulics
+
+3. Per Week Lectures: 3L-1T-0P-0A
+
+           Credits: 3-1-0-0 [11]
+          Duration of Course: Full semester
+
+4. Proposing Department/ IDP: Civil Engineering
+
+         Other Departments which may be interested: Earth Sciences
+         Other faculty members interested in teaching the proposed course: Nil
+
+5. Proposing Instructor: Gourabananda Pahar
+
+6. Course Description:
+
+(a) Objective: Computational models are essential tools for designing statutory risk manage-
+ment guidelines of flood propagation. This course aims to develop basic understanding
+of:
+              overland flow
+               progression of floodwave through rivers and floodplains
+              Analysis and solution of Shallow Water Equations
+
+(b) Contents:
+
+i. Overview [5]: Mathematical Behavior of PDEs; Depth-Averaging of conservation
+laws: Approximation of Shallow Water Equation: Kinematic Wave, Diffusive Wave,
+Local Inertia, Full Dynamic Models.
+ii. Gradually Varied Flow [5]: IVP, solution mechanisms:  convergence, consistency,
+stability, implicit and explicit schemes.
+iii. Overland Flow [5]: Basics of Finite Volume Methods, Derivation and solution of
+non-linear Zero Inertia Model.
+iv. Notions on Hyperbolic Equations [3]  : The Linear Advection Equation and Ba-
+sic Concepts, Riemann Problem, Linear Hyperbolic Systems, Eigenstructure and
+Hyperbolicity, Diagonalization and Characteristic Variables
+v. Linear Shallow Water Equations [4]: Linearised Models, Eigenstructure and Char-
+acteristic Variables, Method of Characteristics
+vi. Elementary Waves in Shallow Water [4]: The Riemann Problem and Wave Patterns,
+Shock-Rarefaction-Contact Discontinutiy
+vii. Exact Riemann Solver [5]: Wet Bed, Passive Scalars, Dry Bed, Admissible Wet/Dry
+Interface Waves, Tests with Exact Solution
+viii. Notions of Numerical solution of SWE [6]: Monotonicity, Accuracy and Godunov’s
+Theorem, Initial, Boundary and Stability Conditions
+
+1
+
+[PAGE 2]
+ix. Approximate Riemann Solver [4]: Roe, HLL, and HLLC, treatment of source-Sink
+terms, channel network.
+
+*[ ] indicates number of tentative lectures.
+
+(c) Prerequisites, if any: None
+
+(d) Short summary for including in the Courses of Study Booklet: Flow through river/
+channel networks, Overland flow, Flood inundation models: kinematic, diffusive, local
+and dynamic variants
+
+7. Recommended books:
+
+(a) Textbooks: Selected chapters from following books
+
+i. Computational Fluid Dynamics the Basics with Applications, 2017, John D. Ander-
+son, McGrawhill.
+ii. Computational Algorithms for Shallow Water Equations, Second Edition, Eleuterio
+F. Toro, Springer
+iii. An Introduction to Computational Fluid Dynamics: The Finite Volume Method,
+2nd Edition, H. K. Versteeg and W. Malalasekera, PHI.
+
+(b) Reference books:
+
+i. Open Channel Flow, 2nd Edition, M Hanif Chaudhry, Springer.
+ii. Applied Hydraulic Transients, 4th Edition, M Hanif Chaudhry, Springer.
+iii. Applied Hydrology, Chow, Maidment, Mays, McGrawhill.
+iv. Riemann Solvers and Numerical Methods for Fluid Dynamics, 3rd Edition, E. F.
+Toro, Springer.
+
+8. Any other Remarks: None
+
+Proposer: Gourabananda Pahar
+Date:    /03/25
+DUGC/ DPGC Convenor:
+Date:
+The Course is approved/not approved
+Chairman SUGC/ SPGC:
+Date:
+
+2

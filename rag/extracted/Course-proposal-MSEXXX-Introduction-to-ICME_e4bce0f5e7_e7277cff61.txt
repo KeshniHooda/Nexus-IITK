@@ -1,0 +1,117 @@
+[PAGE 1]
+Indian Institute  of Technology Kanpur
+
+Proposal for a new course
+
+1. Course No.:
+2.  Course Title: Introduction to Integrated Computational Materials Engineering
+3.  Credits: 3-0-0-27; Duration of Course: FulI Semester (Total of ~40 Lectures)
+4.  Proposing Department: Materials Science and Engineering
+Other Departments which may be interested in the proposed course: CHE, ME, MSP
+5.  Proposi ng Instructor: Krishanu Biswas
+Other Instructors interested in taking this course: Dr. Shikhar Misra, Dr. Shikhar
+Krishn Jha, Dr. Somnath Bhowmick, Dr. Rajdip Mukherjee, Dr. Shivam Tripathi, Dr.
+Tanmoy Maiti, Dr. A.K.Singh
+
+6.  Course Details
+Objectives:
+In this course, we will learn about basic principles of materials design as well as
+modeling tools at multiple length and timescales. The major objective lies in finding
+their  applications  in  linking  processing-structure-property-performance  relations  in
+materials  engineering  to  address  the  issues  related  to  the  product  design  and
+applications. This is intended to provide in-depth knowledge on materials and product
+design, materials discovery with applications using large-scale multiscale modeling with
+the ultimate goal to speed up the design process and implement prototyping.
+
+Sl. No  Broad title                    Topics                            Lectures
+1      Introduction to the Course  Need to learn ICME. Approach to   1
+design products and  materials with       on ICME
+associated    materials    processing
+methods, Historical perspectives
+
+2     Length and time scales in     Concepts of multiscale modelling-     3
+ICME                    From atomic scale (sub nanometer
+to) to component scale (meter). The
+effect of these length scales on the
+material       behaviour      and
+manufacturing.
+
+3     Macroscale models      Some    Constitutive   equations    at 4
+continuum level.
+
+4     Mesoscale models        Continuum crystal plasticity, dislocation 5
+dynamics, homogenization, structure-
+property relations; relationship between
+microstructural morphology,
+crystallography, and mechanisms to the
+material response at different scales.
+
+[PAGE 2]
+5     Computational             Tools for computational              4
+Thermodynamics and    thermodynamics, CALPHAD,
+Thermodynamic databases and their
+utilization.
+
+6     Microscale methods        Phase-field models of microstructure 4
+evolution, process-structure relations.
+
+7     Atomistic     nanoscale Molecular Dynamics/Kinetic Monte     5
+methods                     Carlo methods
+and
+Electronic     structure
+Density functional theory (DFT) model      methods
+
+8     Modeling     tools     at MATLAB, FiPy, NumPy, SciPy,       5
+various length and time PRISMS, MOOSE
+scales
+
+9     Data analytics             Database management systems, data    6
+pre-processing, algorithms, clustering,
+and text mining. Analysis of images,
+voxel data, dynamical data, and graphs,
+language and symbolic methods.
+10    Optimization tools         Basic  optimization   tools:  Bayesian 4
+optimization.          Hyperparameter
+optimization,  Gradient  Descent  and
+Gradient Descent and its variants etc.
+
+Total                                                              41
+
+Prerequisites: Basic Materials courses on structure, processing, characterization of
+materials; mechanical and functional behaviour of materials.
+
+[PAGE 3]
+8.  Short summary of the course content:
+
+ICME, popularly known as Integrated Computational Materials Engineering, involves
+the integrating computational framework that aims at designing new materials, products,
+or structures to meet specific performance criteria. The purpose of this course is to teach
+the students an accelerated approach to design materials and products concurrently and
+synergistically. We intend to provide an interdisciplinary education where the students
+are expected  to gain expertise  in various ICME techniques and  tools, multiscale
+modeling of materials, computing, optimization, data analytics to learn accelerated
+design of materials and processes. The course will involve numerous examples and case
+studies,  hands-on  tutorials,  computational  thinking  as  well  as  problem-solving.
+Emphasis will be on linking these models and materials databases for structure-property
+relationships at multiple length and time scales to address problems relevant to specific
+products and applications. The students are expected to obtain knowledges on the basic
+principles of materials design, modeling tools at multiple length-scales and timescales as
+well as applications.
+
+9. Text and Reference Books
+
+1.  Introduction to Computational Materials Science, Richard LeSar, MRS (2013)
+
+2.  Computational Materials System Design – Dongwon Shin, James Saal (editors) –
+Springer (2018)
+
+3.  Integrated Computational Materials Engineering (ICME): Advancing
+Computational and Experimental Approaches- Somnath Ghosh, Christopher
+Woodward, Craig Przybyla, Springer (2020)
+
+4.  Integrated Computational Materials Engineering (ICME) for Metals: Concepts and
+Case Studies, Mark F. Horstemeyer (ed.) Wiley (2013)
+
+Date: 31/12/20224                     Proposer (Krishanu Biswas)
+
+Date:                       DUGC/DPGC Convener:

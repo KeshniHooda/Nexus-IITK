@@ -1,0 +1,38 @@
+[Page 1]
+1. Course No: CHE6XX 
+2. Course Title: An Introduction to Mathematical Medicine 
+3. Per Week Lectures:__3_(L), Tutorial: _0__(T), Laboratory: _0___(P), Additional 
+Hours[0-2]: _0__(A), 
+Credits (3*L+2*T+P+A): 3L-0-0-0____ Duration of Course: Full Semester 
+ 4. Proposing Department/IDP : Chemical engineering 
+Other Departments/IDPs which may be interested in the proposed course: BSBE, CHM, PHY 
+Other faculty members interested in teaching the proposed course: 
+5. Proposing Instructor(s): Dr. Raghvendra Singh 
+6. Course Description: 
+A) Objectives: Students taking this course will learn about a theoretical and mathematical 
+understanding of various human diseases. 
+B) Contents (preferably in the form of 5 to 10 broad titles): 
+1. Hormone circuits (4) 
+2. Dynamical compensation, mutant resistance, and type-2 diabetes (4) 
+3. The stress hormone axis as a two-gland oscillator (5) 
+4. The thyroid and its discontents (4) 
+5. Autoimmune diseases as a fragility of mutant surveillance (5) 
+6. Inflammation and fibrosis as a bistable system (4) 
+7. Basic facts of aging (4) 
+8. Aging and Saturated repair (5) 
+9. Age-related diseases (4) 
+Total lectures: 39 
+C) Pre-requisites, if any (examples: a- PSO201A,or b- PSO201A or equivalent): None 
+D) Short summary for including in the Courses of Study Booklet 
+Physiological circuits of hormones, immune circuits, and aging and age-related diseases 
+7. Recommended books: 
+Textbooks: Systems Medicine by Uri Alon 
+Reference Books: 
+8. Any other remarks: None
+
+[Page 2]
+Dated:__Aug 14, 2025_____________ Proposer:_Raghvendra Singh__________ 
+Dated:_______________ DUGC/DPGC Convener:___________________ 
+The course is approved / not approved 
+Chairman, SUGC/SPGC 
+Dated:______________________________

@@ -1,0 +1,151 @@
+[Page 1]
+~ 1 ~ 
+ 
+ Indian Institute of Technology Kanpur 
+Proposal for a New Course 
+ 
+1. Course No: ECO 7XX 
+2. Course Title: Economics and Business of Digital Technologies 
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours: 0 
+Credits: (3*L+T +P+A): 9 credits 
+Duration of Course: Full Semester 
+4. Proposing Department/IDP: Economic Sciences 
+Other Departments/IDPs which may be interested in the proposed course: N/A 
+Other faculty members interested in teaching the proposed course: N/A 
+5. Proposing Instructor(s): Vimal Kumar 
+Course Description: This course aims to provide students with an interdisciplinary 
+understanding of digital technologies through the lenses of economics, business, and public 
+policy. It will equip students with the tools to analyze how digital technologies—especially 
+platforms—create, capture, and regulate value in modern economies. 
+Objectives: By the end of the course, students will be able to: 
+- Understand and explain the economic logic behind digital technologies and platforms. 
+- Analyze strategic choices of digital businesses. 
+- Evaluate the social and policy implications of digital transformation. 
+- Design regulatory frameworks to address emerging challenges in digital markets. 
+A) Contents (preferably in the form of 5 to 10 broad titles): 
+S.No 
+Module Title 
+Key Topics 
+No. of Lectures 
+1 
+Digital Technologies 
+Overview of key digital 
+technologies (AI, IoT, 
+blockchain, cloud 
+computing, big data); 
+Enablers of digital 
+transformation; Role of 
+data as an economic 
+resource. 
+4 
+2 
+Economic Foundations 
+Basic microeconomic 
+principles (demand, 
+supply, costs); Network 
+effects; Economies of 
+scale; Externalities; 
+10
+
+[Page 2]
+~ 2 ~ 
+ 
+Information asymmetries 
+in digital markets. 
+3 
+Economics for 
+Platforms and Other 
+Digital Technologies 
+Two-sided markets; 
+Platform pricing and 
+competition; Winner-
+takes-all dynamics; 
+Switching costs; Data as 
+a strategic asset; 
+Strategic behavior in 
+digital environments. 
+10 
+4 
+Business Foundations 
+Business models in 
+digital environments; 
+Value chains and value 
+networks; Digital 
+entrepreneurship; 
+Product-market fit and 
+scaling. 
+4 
+5 
+Business of Platforms 
+and Other Digital 
+Technologies 
+Platform design and 
+monetization strategies; 
+Business models in 
+AI/IoT/cloud; 
+Ecosystems and 
+complementors; Metrics 
+for success in digital 
+businesses. 
+6 
+6 
+Regulating Platforms 
+and Other Digital 
+Technologies 
+Antitrust and 
+competition issues; Data 
+privacy and ownership; 
+Content moderation and 
+misinformation; 
+Algorithmic 
+transparency and 
+accountability; 
+Regulatory responses in 
+India and globally. 
+6 
+
+ 
+ 
+B) Pre-requisites, if any (examples: a- PSO201A,or b- PSO201A or equivalent): ECO 111 or 
+ECO 211 or ECO 701 
+ 
+C) Short summary for including in the Courses of Study Booklet: 
+This course introduces students to the rapidly evolving field of Digital Economics, emphasizing 
+how traditional economic principles adapt to and interact with emerging digital technologies 
+and platforms. The course combines foundational theory with practical applications relevant 
+to the digital marketplace, platform economy, data monetization, and regulatory frameworks.
+
+[Page 3]
+~ 3 ~ 
+
+ 
+ 
+6. Recommended books: 
+• 
+Belleflamme, Paul and Martin Peitz (2022). The Economics of Platforms: Concepts and 
+Strategy. Cambridge University Press. 
+• 
+Levin, J. (2011). “The Economics of Internet Markets.” NBER Working Paper No. 16852. 
+• 
+Goldfarb, A. and Tucker, C. (2019). “Digital Economics.” Journal of Economic Literature, 
+57(1): 3–43. 
+• 
+Shapiro, Carl and Hal R. Varian. (1999). *Information Rules: A Strategic Guide to the 
+Network Economy. Harvard Business School Press. 
+• 
+Additional readings from academic journals, policy reports, and industry whitepapers will 
+be provided during the course. 
+ 8. Any other remarks: N/A. 
+
+Dated: 11/04/25 
+
+Proposer: _____ 
+ 
+Dated:____________ DUGC/DPGC Convener: _____________ 
+
+ 
+The course is approved / not approved 
+ 
+Chairman, SUGC/SPGC 
+ 
+Dated: _______________

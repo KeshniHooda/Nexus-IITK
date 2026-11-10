@@ -1,0 +1,74 @@
+[Page 1]
+Indian Institute of Technology Kanpur
+New Course Proposal
+1.
+Course Number: MBAxxx
+2.
+Course Title: Monte Carlo Methods in Finance
+3.
+Credits: 3-0-0-0 [5] 
+Duration of Course: Modular
+4.
+Proposing Department: Department of Management Sciences
+Other Department/IDPs which may be interested in the proposed course:
+Other faculty members interested in teaching the proposed course: 
+5.
+Proposing Instructor(s): Sourav Majumdar
+6.
+Course Description: This course focuses on the implementation of Monte Carlo algorithms to solve a variety of 
+problems in finance and insurance. It begins with a brief introduction to no-arbitrage pricing and the dynamics of 
+asset prices. The course also covers statistical inference for asset price models using real-world data. Students will 
+study the pricing of standard and exotic financial derivatives across asset classes, along with model calibration and 
+sensitivity analysis. Additionally, the course explores various loss-reserving techniques in life and non-life 
+insurance.
+A) Contents: 
+S. No. Broad Title
+Topics
+No. of 
+Lectures
+1.
+Introduction to 
+Monte Carlo 
+methods
+Review of Probability, Introduction to simulation
+2
+2.
+Financial 
+Derivatives
+Review of financial derivatives, No-arbitrage pricing, Asset price 
+dynamics: simulation and inference
+3
+3.
+Monte carlo 
+methods for 
+derivative pricing
+Pricing European options, pricing path independent and path dependent 
+exotic options, sensitivity, calibration, variance reduction techniques, 
+output analysis
+6
+4.
+Monte carlo 
+methods in 
+Insurance
+Coherent risk measure, premium principle, mortality models in life 
+insurance, ruin probabilities in non-life insurance
+3
+C) Pre-requisites, if any: MBA651, MBA772
+
+[Page 2]
+7. References:
+1.
+Glasserman, P. (2003). Monte Carlo Methods in Financial Engineering. Springer.
+2.
+Korn, R., Korn E., and Kroisandt, G. (2010). Monte Carlo Methods and Models in Finance and Insurance. 
+Routledge.
+3.
+Hirsa, A. (2024). Computational Methods in Finance. CRC press.
+4.
+Oosterless, C.W. and Grzelak, L.A. (2019). Mathematical Modeling and Computation in Finance. World Scientific.
+Dated: 20 January 2025
+Proposer: Sourav Majumdar
+Dated:_______________ DUGC/DPGC Convener:___________________
+The course is approved / not approved
+Chairman, SUGC/SPGC
+Dated:______________________________

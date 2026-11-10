@@ -1,0 +1,116 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+Proposal for New Courses
+
+Intelligent Autonomous Systems
+1. Course No:
+
+2. Course Title: Intelligent Autonomous Systems
+
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Credits (L+T+P+A): 9
+
+4. Duration of Course: Full Semester
+
+5. Proposing Department/IDP: Department of Intelligent Systems
+
+Other Departments/IDPs interested: Aerospace Engineering, Electrical Engineering,
+Mechanical Engineering, Computer Science and Engineering
+
+6. Proposing Instructor(s): Prof. Salahudden and Prof. Anirban Roy
+
+7. Course Description
+
+A) Objectives
+This course introduces intelligent autonomous systems by integrating sensing, planning,
+intelligent GNC  (Guidance,  Navigation, and  Control), and  Artificial  Intelligence  (AI)
+techniques  for  robotics, aerospace systems, autonomous  vehicles, UAVs, UGVs, and
+industrial automation. The course provides a comprehensive understanding of architecture
+of autonomous  systems,  covering  sensor  technologies,  decision-making  algorithms,
+intelligent  control  strategies, machine  learning  methods, and autonomous  mission
+execution. Emphasis  is placed on real world applications through case studies and
+simulations  involving  intelligent  robotic  systems,  autonomous  vehicles,  aerospace
+platforms, and industrial robotic automation. The course provides knowledge and skills
+required to design, analyze, and evaluate next generation AI enabled autonomous systems.
+
+B) Contents
+S.    Broad Title                       Topics                     No. of
+No                                                                  Lectures
+1    Introduction to     Evolution of autonomous and intelligent systems;   3
+Autonomous       Levels of autonomy; Autonomous agents;
+Systems         Embedded intelligence; Applications in UAVs,
+UGVs, autonomous vehicles, industrial
+automation, and aerospace systems.
+2    Sensors and       Fundamentals of sensing systems; IMU,           6
+Environment     GPS/GNSS, LiDAR, Radar, ultrasonic sensors and
+Modelling         cameras; Sensor characteristics and calibration;
+
+[PAGE 2]
+Sensor error modeling; Environmental modelling;
+Computer vision fundamentals; Object detection
+and tracking techniques.
+3    Simultaneous      Coordinate frames and transformations; Inertial     6
+Localization and    navigation concepts; Localization techniques;
+Mapping            Visual-inertial navigation; Multi sensor fusion
+methods; quantum navigation with AI.
+4    Planning and      Mission planning concepts; Graph-based path      5
+Decision Making   Trajectory generation; Obstacle avoidance; AI
+based decision making.
+5   Autonomous      Autonomous control approach; Autonomous       5
+Control            navigation and guidance; Human-machine
+interaction; Autonomous tracking systems.
+6     Artificial           Introduction to Artificial Intelligence; Intelligent    6
+Intelligence for     agents; Supervised learning; Unsupervised
+Autonomous        learning; Neural networks; Deep learning
+Systems           fundamentals; Reinforcement learning; AI-enabled
+perception systems; Predictive intelligence; AI-
+based fault detection and health monitoring.
+7    Emerging          Cooperative control of multi-agent systems;         5
+Autonomous     Swarm intelligence; Digital twins; Space robotics;
+Technologies     Autonomous aerospace systems; Future trends in
+AI enabled autonomy.
+8    Applications and   UAV and UGV simulations for intelligent           3
+Case Studies       autonomous mission execution;
+Intelligent industrial robotics motion control and
+automation applications.
+ROS2/Gazebo, MATLAB, OpenCV, PX4, and AI-based mini-projects will be included.
+
+C) Pre-requisites
+Basic Programming, Engineering Mathematics, Signals and Systems, Basic Control Systems
+and Fundamentals of Artificial Intelligence.
+
+D) Short Summary for Course Booklet
+A modern interdisciplinary course on intelligent autonomous systems, focusing on
+autonomy, artificial intelligence, and autonomous decision-making across diverse
+applications.
+
+8. Recommended References
+1.  Sebastian Thrun, Wolfram Burgard and Dieter Fox, Probabilistic Robotics, MIT Press.
+2.  Steven M. LaValle, Planning Algorithms, Cambridge University Press.
+3.  Peter Corke, Robotics, Vision and Control, Springer.
+4.  Stuart Russell and Peter Norvig, Artificial Intelligence: A Modern Approach, Pearson.
+5.  Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction, MIT Press.
+6.  Mohinder S. Grewal et al., Global Positioning Systems, Inertial Navigation and
+Integration, Wiley.
+
+[PAGE 3]
+9. Any other Remarks
+
+Evaluation Procedure
+•  10% Assignments
+•  25% Project Work
+•  25% Mid Semester Examination
+•  40% End Semester Examination
+
+Dated: 02.06.2025
+
+Proposer: Prof. Salahudden and Prof. Anirban Roy
+
+Dated:
+
+DUGC/DPGC Convener:
+
+The course is approved / not approved
+
+Chairman SUGC/SPGC:
+
+Dated:

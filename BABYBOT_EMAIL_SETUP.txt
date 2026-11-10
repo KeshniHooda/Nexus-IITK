@@ -1,0 +1,40 @@
+BABYBOT EMAIL + REMINDER INTEGRATION
+
+Files:
+- app_backup_integrated.py : integrated Streamlit app; preserves existing Gemini model and UI structure.
+- webmail.py              : read-only IITK IMAP connection and HTML/plain-text email extraction.
+- email_monitor.py        : checks new messages and asks Gemini to extract academic events.
+- reminder_store.py       : SQLite persistence and duplicate-safe reminder storage.
+
+Setup:
+1. Copy all four .py files into the same folder as your existing app and .env.
+2. Keep your existing .env values. The app expects:
+   IITK_EMAIL=your_iitk_email
+   IITK_EMAIL_PASSWORD=your_webmail_password
+   GEMINI_API_KEY=your_existing_gemini_key
+3. Do not share or commit .env. The integration never prints credentials.
+4. Run:
+   python -m streamlit run app_backup_integrated.py
+5. Open Reminders. The first scan samples only the latest 15 emails. Later scans
+   look only for new IMAP UIDs. While the Reminders page is open and the app is
+   running, it attempts a scan every 10 minutes. You can also click Scan Inbox Now.
+
+Data:
+- babybot_data.db is created automatically beside the Python files.
+- It stores processed email UIDs and reminders so they survive app restarts.
+- The database is local to this personal prototype; do not upload it publicly.
+- Email access is read-only. No email is sent, deleted, moved, or marked read.
+
+Duplicate handling:
+- Exact repeated events are deduplicated using category + title + course + date.
+- Repeated processing of the same email UID is skipped.
+- Similar but differently worded events may still need manual review.
+
+Important limitations:
+- Automatic periodic checks run only while Streamlit is running and the Reminders
+  page is open. To scan while the app is closed, a Windows Task Scheduler job will
+  be a separate next step.
+- First scan deliberately samples only 15 recent messages rather than processing
+  all 13,000+ historical messages. This avoids a large initial API bill.
+- Dates not explicitly supported by an email are kept as unspecified/low confidence;
+  verify important dates against the source email.

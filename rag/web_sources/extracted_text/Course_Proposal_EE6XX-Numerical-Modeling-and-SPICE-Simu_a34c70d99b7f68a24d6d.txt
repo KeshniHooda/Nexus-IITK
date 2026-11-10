@@ -1,0 +1,104 @@
+[Page 1]
+Department of Electrical Engineering 
+Indian Institute of Technology Kanpur 
+ 
+Proposal for a New Course 
+ 
+• Course no.: EE698AC 
+• Course title: Numerical Modeling and SPICE Simulations of Semiconductor Devices 
+• Pre-requisite: There is no official pre-requisite for the course. 
+• Course Credits: 2-0-3-0 [9] 
+• Course Duration: Full Semester 
+• Proposing Instructor: Avinash Lahgere, alahgere@iitk.ac.in 
+• Other Faculty members who may be interested in teaching the proposed course: Dr. Mohit 
+Dineshkumar Ganeriwala, Dr. Shubham Sahay 
+• Other Departments may be Interested: MSE, PHY 
+• Course Type: PG, 4th year UG, Open Elective 
+• Course description: 
+The Technology Computer-Aided Design (TCAD) and the Simulation Program with Integrated Circuit 
+Emphasis (SPICE) are vital tools in the VLSI industry. TCAD is valuable for optimizing the semiconductor 
+manufacturing process and provides a deep understanding of various device-related characteristics. 
+Meanwhile, SPICE is beneficial for simulating complex circuits quickly and efficiently. Given the growing 
+demand for VLSI engineers with hands-on experience in TCAD and SPICE, acquiring these skills will greatly 
+enhance student’s chances of securing positions in the VLSI industry. 
+The main objective of this course is to provide hands-on experience with TCAD, SPICE model parameter 
+extraction, and SPICE simulation related to semiconductor devices. Throughout the course, we will explore 
+industry-level methodologies for designing semiconductor devices. We will begin with process-level 
+simulations using TCAD to generate device-level results. These results will then be used to extract SPICE 
+models, which will be integrated with SPICE tools for circuit-level simulations. 
+• Course contents: 
+Topics 
+Contents 
+Tentative Lectures 
+Tentative Labs 
+Part – I: 
+TCAD Simulations 
+Fundamentals of Devices 
+Simulations, and TCAD Pros and 
+Cons, Industry Best Practice 
+2 
+1 
+Hands on Design and Simulation of 
+2D/3D 28 nm Bulk Device 
+2 
+1 
+28 nm Bulk Device Desing Industry 
+Semiconductor Process 
+6 
+3 
+Application of Mixed Mode 
+Simulation for Circuit Design 
+2 
+1 
+Part – II: 
+SPICE Model Extraction 
+SPICE History, PDK Components 
+and their Integration 
+2 
+1 
+28 nm Bulk Device DC Parameters 
+Extraction 
+2 
+1
+
+[Page 2]
+28 nm Bulk Device CV Parameters 
+Extraction 
+2 
+1 
+28 nm Bulk Device As-fit – Center 
+Model Extraction and Benchmarking 
+using Industry RO 
+2 
+1 
+Part – III: 
+SPICE Simulations 
+HSPICE/SPECTRE Simulations, 
+Operating Point Simulations, 
+2 
+1 
+DC, AC, and Transient Simulations, 
+2 
+1 
+Monte Carlo Simulations 
+2 
+1 
+Total: 
+ 
+39 
+ 
+Reading material: 
+The initial material will be covered from the following reference books: 
+[1] Sentaurus Device User Manual, Synop., Mountain View, CA, USA, 2014. 
+[2] Synopsys, Inc., HSPICE Reference Manual: Commands and Control Options, Version B-2008.09, 
+Mountain View, CA, 2008 
+[3] Y. Cheng and C. Hu, MOSFET Modeling & BSIM3 User's Guide. Boston, MA: Springer US, 1999. 
+[4] Y. C. Wu and Y. R. Jhan, 3D TCAD Simulation for CMOS Nanoeletronic Devices. Singapore: Springer 
+Singapore, 2018. 
+ 
+The rest of the material will mostly be taken from several journal articles and conference proceedings 
+available online. 
+ 
+Signature of the Proposer 
+Convenor, DPGC Chairperson, SPGC 
+Department of Electrical Engineering

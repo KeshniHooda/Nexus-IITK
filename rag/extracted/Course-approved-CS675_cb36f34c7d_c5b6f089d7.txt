@@ -1,0 +1,140 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+
+Proposal for a New Course
+
+1. Course No: CS675
+2. Course Title: Cryptography for Cybersecurity
+3. Per Week Lectures: 3(L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours [0-2]: 0 (A),
+Credits (3-0-0-0-9):                   Duration of Course: Full semester
+4. Proposing Department: Computer Science and Engineering
+i) Other Departments/IDPs which may be interested in the proposed course:
+Mathematics, Electrical Engineering: Wadhwani School of Advanced AI &
+Intelligent Systems
+ii) Other faculty members interested in teaching the proposed course:
+Somitra Sanadhya
+5. Proposing Instructor(s): Angshuman Karmakar (angshuman@iitk.ac.in)
+7. Course Description:
+A) Objectives:  This course is designed to give students a comprehensive
+understanding of cryptographic protocols that lies behind different methods used
+in                                                               cybersecurity.
+Students will master key concepts such as secure system design, cryptographic
+techniques, authentication and access models, secure communications, digital
+forensics,           and             emerging              technologies.
+Emphasis  is placed on the ability to analyze threats, evaluate and apply
+appropriate protocols, ensure data integrity, and adapt to new developments in
+the                                                                                     field.
+By the end of the course, students will be equipped to evaluate, design, and
+implement secure solutions and critically respond to security challenges in real-
+world environments.
+B) Contents (preferably in the form of 5 to 10 broad titles):
+Lecture-wise break-up (considering the duration of each lecture is 50 minutes)
+Serial      Broad title                     Topics              No of
+lectures
+1        Introduction:              x   Cybersecurity overview: definitions,     6
+Cybersecurity                goals (confidentiality, integrity,
+Mechanisms and                availability)
+x   Threat landscape: common attack types         Cryptography
+(malware, phishing, APTs, DoS, insider
+threats)
+x  Types of controls: preventive, detective,
+corrective
+x  The role of cryptography in security
+mechanisms
+x   Brief introduction to cryptographic
+protocols and primitives
+
+[PAGE 2]
+x  Roadmap of the course modules and
+expectations
+
+2       Authentication and        x   Entity Authentication I (Principles   8
+Access Management        and Passwords)
+x   Entity Authentication II
+(Biometrics, MFA, Zero-
+Knowledge)
+x  Cryptography in Entity
+Authentication (Protocols)
+x  Access & Identity Management I
+(Access Models)
+x  Access & Identity Management II
+(Single Sign-On, OAuth, SAML)
+x  Cryptography in Access
+Management (PKI, Certificates)
+3       Secure Tunneling and                                     6
+x   Intrusion Detection Systems I (Theory       Communications
+& Types)
+x   Intrusion Detection Systems II
+(Cryptographic Techniques)
+x  Secure Tunneling I (VPN Concepts)
+x  Secure Tunneling II (IPSec, SSL/TLS,
+SSH)
+x  Secure Communications I (HTTPS,
+Email Crypto)
+x  Secure Communications II (TLS,
+Modern Messaging Protocols)
+x  Secure Wireless Communication
+
+4      Password                 x  Password Management I         4
+Management                (Fundamentals)
+x  Password Management II
+(Advanced)
+5        Digital Forensics and      x  Data Integrity & Digital Signing I     4
+Log Integrity                (Checksums, MAC)
+x  Data Integrity & Digital Signing II
+(Signatures, PKI)
+x   Digital Forensics & Log Integrity
+x  Blockchain & Distributed Ledger
+Security
+6       Notarization and          x  Trusted Third Parties (TTPs): CA    3
+Trusted Third Parties           infrastructure, notaries,
+timestamping authorities
+x   Digital certificates and trust
+chains
+
+[PAGE 3]
+x  Blockchain-based notarization:
+proof-of-existence, document
+anchoring
+x  Legal and practical considerations
+in digital notarization
+7       Software Update and      x  Secure software update          3
+Code Signing                 architectures (signed updates,
+update chain of trust)
+x  Code signing process and
+certificate management
+x  Supply-chain attack scenarios
+and defenses
+x  Timestamping and update
+validation
+8      Emerging                 x  Post-quantum cryptography: rationale,  6
+Mechanisms &                   status, candidate algorithms
+x   Zero-trust security models and        Protocols
+architecture
+x  Federated and decentralized identity
+(DID, verifiable credentials)
+x   AI and machine learning in threat
+detection, automated response and
+resilience
+x  Cloud and IoT security protocols:
+unique challenges
+
+C) Recommended pre-requisites, if any: Mandatory: algorithms, programming
+knowledge
+Desirable: Basic knowledge of cryptography
+D) Short summary for including in the Courses of Study Booklet: This course
+provides a rigorous treatment of cybersecurity mechanisms and cryptographic
+protocols. This course is into six modules: cryptographic foundations;
+authentication and access management; secure tunneling and
+communications; password management; forensics and log integrity; and
+emerging mechanisms and protocols.
+
+Students will learn to design and analyze secure systems using symmetric and
+asymmetric encryption, hash functions, digital signatures, and key-exchange
+protocols; implement and evaluate authentication frameworks (passwords,
+multifactor, zero-knowledge proofs, PKI, OAuth, SAML); deploy VPNs, TLS/SSL,
+SSH, and secure wireless networks; and apply integrity checks, secure logging,
+and digital forensics techniques.
+
+The course also addresses some advanced techniques such as blockchain and
+distributed ledger security, post-quantum cryptography, zero-trust

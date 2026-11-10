@@ -1,0 +1,238 @@
+[Page 1]
+Indian Institute of Technology Kanpur 
+ Proposal for a new course
+1.
+Course No: PHI 4xx
+2.
+Course Title: Indian Logic
+3.
+Per Week Lectures: 3
+ Tutorial:
+ Laboratory:
+ Additional Hours[0-2]:
+ Credits (3*L): 9
+ Duration of Course: Full Semester 
+4.
+Proposing Department/IDP : Department of Humanities and Social Science
+5.
+Other Departments/IDPs which may be interested in the proposed course:
+6.
+Other faculty members interested in teaching the proposed course: 
+7.
+Proposing Instructor(s): A. V. Ravishankar Sarma 
+ 
+8.
+Course Description: 
+Indian Logic (in Sanskrit anviksiki, nyaya, or tarka) is the tradition of systematic reasoning of the 
+Indian subcontinent, evolved over nearly two millennia from roughly the sixth century BCE onward. It 
+is distinctive in that it examines not only the forms of acceptable arguments, but also the sources of 
+valid cognition (pramanas), namely perception, inference, comparison and verbal testimony. Hence 
+logic, epistemology and language are viewed as one continuous study. Validity is analyzed in 
+connection with justified belief and reliable sources (including testimony, a category that Western 
+analytic philosophy has only recently considered respectable). The tradition matured in public 
+deliberative assemblies with formalized rules of debate, and it produced a rich technical apparatus: 
+the five-membered syllogism of the Nyaya school, the three-condition doctrine of the Buddhist 
+logicians, the sevenfold predication of Jainism (saptabhangi), sophisticated theories of truth and 
+error, a precise taxonomy of fallacies (hetvabhasa), and even explicitly non-classical, many-valued 
+modes of reasoning such as the Buddhist four-cornered analysis (catuskoti). This course aims to 
+provide students with the skills to understand, systemize, evaluate, and compare the primary Indian 
+logical frameworks, while recognizing their continued importance in contemporary intellectual 
+debate. 
+ 9. Course Objectives:
+1. Introduce Indian logic: explain its nature and scope, and show how it is a distinct discipline that can 
+be compared with Western logic.
+2. Define and use the Pramana framework. Reconstruct and test the Nyaya five‑membered syllogism 
+and the Buddhist trairupya conditions. 
+3. Identify fallacies with the hetvabhasa classification. Show how the catuskoti and the saptabhangi 
+work as principled non‑classical valuation schemes.
+4. Compare Indian theories of truth, validity, and causation with classical and non‑classical Western 
+theories. 
+5. Relate these ideas to current research in non-classical logic, artificial intelligence, knowledge 
+representation, linguistics, and the epistemology of testimony.
+
+[Page 2]
+A) Contents (preferably in the form of 5 to 10 broad titles):
+S. No
+Broad Title
+Topics
+No. of Lectures
+1.
+Introduction and 
+Motivation: Nature and 
+scope of Indian Logic
+1. Overview of Indian philosophical traditions 
+- The role of logic (nyaya, tarka) in Indian 
+philosophy
+2. Brief Survey of six orthodox (astika) and 
+heterodox (nastika) systems.
+3. Nature of Logical Inquiry in Indian Logic
+4. Core logical concepts: Truth, Vaidity, and 
+Soundness, Some parallells with western 
+Logic (Modern Logic).
+3
+2.
+Charvaka Philosophy – 
+Foundations, Logical 
+analysis in Charvaka
+ Introduction to the materialist school, 
+Charvaka logic and its implications. The 
+criterion of meaningfulness (arthavada) - 
+Rejection
+of unobservable entities (atman, ishvara) - 
+The role of negation in Charvaka reasoning.
+3
+3.
+Vaisesika Categories, 
+Vaisesika Logic
+ Substances (dravya), qualities (guna), 
+motion (karma)
+- Universals (samanya), particulars (vishesha) 
+- Inherence (samavaya), non-
+existence (abhava) - Kanada’s atomic theory, 
+Theory of causation (karya-karana) - 
+Inherent relation
+(samavaya) - From non-existence to 
+existence (abhava-sambhava) - Formal
+analysis of ontological claims, the problem 
+of Universals
+6
+4.
+Nyaya Logical System, 
+Theory of inference
+ 1. Perception ( pratyaksha) - Inference 
+(anumana) - Comparison (upamana) - 
+Testimony (shabda) - Gautama’s sixteen 
+categories.
+2. Theory of inference (I): Proposition 
+(pratijna) - Reason (hetu) - Example (uda-
+harana) - Application (upanaya) - Conclusion 
+(nigamana)
+The Theory of Inference - Part II: Content 
+Coverage: - Inference for oneself (svartha-
+anumana) - Inference for others (parartha-
+anumana) - Classification of reasons: valid 
+and fallacious – The three conditions of valid 
+reason.
+3. Material fallacies (hetvabhasa) - Formal 
+fallacies - Self-deception and cognitive bias - 
+Correct and incorrect reasoning.
+4. Nyaya Logic and Modern Formal Logic: 
+Propositional forms in Nyaya - Conditional 
+reasoning, Counterfactual reasoning - 
+Formalization of Indian logic
+12
+
+[Page 3]
+5.
+Budhist and Jaina Logic Buddhist Logic: A brief overview of The four 
+noble truths - Dependent origination 
+(pratitya-samutpada) - Emptiness (shunyata) 
+and no-self (anatman), Nagarjuna and the
+Madhyamaka tradition, Refutation through 
+reduction to absurdity – The tetralemma 
+(catushkoti) – Neither-this-nor-that, The 
+function of negation.
+Samvrti-satyam (conventional truth) - 
+Paramarthika-satyam (ultimate truth) - Their 
+logical relationship - Implications for 
+language and meaning in Buddhist 
+epistemology -
+Apoha (exclusion) theory of meaning - The 
+three conditions (trividha-hetu)
+Jaina’s Logic: Anekanta-vada (non-one-
+sidedness) - Syadvada (conditionals), Seven-
+point predication - From certainty to 
+cautious assertion - Logical analysis of 
+qualified statements - Modern parallels: 
+many- valued logic, Rejection of excluded 
+middle (modified) - Dialetheism
+(true contradictions) - Paraconsistent logic - 
+Implications for belief systems
+12
+6.
+Logic of illusion, Advaita 
+vedanta and 
+comparative study of 
+logic in the six schools 
+of thought
+The rope-snake analogy - The three levels of 
+reality , Logic of appearance and reality, 
+error theory in Advaita.
+Comparing all six systems - Common logical 
+structures Unique contributions - Future 
+directions,
+A brief overview of relevance of Indian Logic 
+to artificial intelligence , Logic in computer 
+science - Applications in legal reasoning
+6
+Total Number lectures
+ 40
+B) Pre-requisites, if any: None
+C) Short summary for including in the Courses of Study Booklet: 
+ 
+Indian logic (known in Sanskrit as anviksiki, nyāya, or tarka) is a tradition of systematic reasoning that 
+emerged in the Indian subcontinent and evolved over roughly two millennia, beginning around the 
+sixth century BCE. This course introduces Indian traditions of logic and reasoning. The course surveys 
+key schools—Nyāya and Vaiśeṣika, Sāṃkhya and Yoga, Pūrva Mīmāṃsā, Advaita Vedānta, Cārvāka, 
+Jainism, and Buddhist logic—emphasizing theories of knowledge (pramāṇa), inference (anumāna), 
+perception (pratyakṣa), testimony (śabda), and negation (abhāva). No prior background in philosophy, 
+Sanskrit, or logic is required. How do we come to know what we know, and what makes an argument 
+sound? It addresses both questions by exploring India’s rigorous traditions of inquiry, ranging from 
+the Cārvāka skeptics and the realist logicians of Nyāya to the Buddhist epistemologists and the Jain 
+philosophers who embrace many
+ 
+ ‑ valued
+ 
+ truth, and by engaging them in a careful dialogue with
+
+[Page 4]
+modern symbolic logic. The course culminates in a balanced assessment of five questions: Where do 
+Indian traditions resemble classical logic? Which are better compared with epistemic, modal, many-
+valued, or defeasible frameworks? Why is Jaina syādvāda not simply many-valued logic? Is Indian 
+logic "epistemic logic"? And how do pramā-based accounts of knowledge compare with Plato's and 
+with the modern justified-true-belief model?
+Recommended books: 
+1. Barlingay, Surendra Shedas (1965). A modern introduction to Indian logic. Delhi: National Pub. 
+House.
+2. Matilal, B. K. (1998). The character of logic in India. State University of New York Press (edited by J. 
+Ganeri and H. W. K. Siderits)
+3. Ganeri, Jonardon (2001). Indian Logic: A Reader. Psychology Press.
+Reference Books:
+1. Ganeri, J. (2004). "Indian logic," in Handbook of the History of Logic (Vol. 1)
+2. Matilal, B. K. (1986). Perception: An essay on classical Indian theories of knowledge. Clarendon Press.
+3. Phillips, S. H. (2012). Epistemology in classical India: The knowledge sources of the Nyāya school. 
+Routledge. Open access: https://philpapers.org/rec/PHIEIC
+4. Mohanty, J. N. (2000). Classical Indian philosophy: An introductory text. Rowman & Littlefield.
+5. Chattopadhyaya, D. (1959). Lokāyata: A study in ancient Indian materialism. People's Publishing 
+House
+6. Mohanty, J. N. (1992). Reason and tradition in Indian thought: An essay on the nature of Indian 
+philosophical thinking. Clarendon Press
+7. Priest, G. (2008). An introduction to non-classical logic: From if to is (2nd ed.). Cambridge University 
+Press.
+8. Raju, P. T. (1985). Structural depths of Indian thought. State University of New York Press.
+9. Larson, G. J., & Bhattacharya, R. S. (Eds.). (1987). Encyclopedia of Indian philosophies: Vol. 4. 
+Sāṃkhya: A dualist tradition in Indian philosophy. Motilal Banarsidass.
+10. Halbfass, W. (1992). On being and what there is: Classical Vaiśeṣika and the history of Indian 
+ontology. State University of New York Press.
+11. Ingalls, D. H. H. (1951). Materials for the study of Navya-nyāya logic. Harvard University Press.
+12. Hamilton, S. (2001). Indian philosophy: A very short introduction (Vol. 48). OUP Oxford.
+13. Perrett, R. W. (2016). An introduction to Indian philosophy. Cambridge University Press.
+Essential Readings:
+1. Akṣapāda Gautama. Nyāya-sūtra (G. Jha, Trans., in The Nyāyasūtras of Gautama with the Bhāṣya of 
+Vātsyāyana and the Vārttika of Uddyotakara). Poona Oriental Book Agency, 1939;
+2. Annambhaṭṭa. Tarkasaṃgraha with Dīpikā (Y. V. Athalye & M. R. Bodas, Trans.). Bombay Sanskrit and 
+Prakrit Series 55
+3. Īśvarakṛṣṇa. Sāṃkhyakārikā (G. J. Larson, Trans.). In G. J. Larson & R. S. Bhattacharya (Eds.), 
+Encyclopedia of Indian philosophies: Vol. 4. Sāṃkhya (1987), pp. 116–124
+4. Śaṅkara. Vivekacūḍāmaṇi (J. Grimes, Trans., Motilal Banarsidass, 2004).
+5. Nāgārjuna. Mūlamadhyamakakārikā (J. L. Garfield, Trans., The fundamental wisdom of the middle 
+way, Oxford University Press, 1995). 
+6. Stcherbatsky, T. (2008). Buddhist Logic (2 vols.) (Vol. 1). Motilal Banarsidass.
+8. Any other remarks:
+
+[Page 5]
+Dated: 01 0ctover 2026 Proposer(s): A. V. Ravishankar Sarma
+ 
+Dated: DUGC/DPGC Convener:
+The course is approved / not approved
+Chairman, SUGC/SPGC Dated:

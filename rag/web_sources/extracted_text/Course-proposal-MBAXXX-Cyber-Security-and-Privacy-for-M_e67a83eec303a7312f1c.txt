@@ -1,0 +1,117 @@
+[Page 1]
+Indian Institute of Management Kanpur 
+New Course Proposal 
+1. Course Number: MBAxxx 
+2. Course Title: Cyber Security and Privacy for Managers 
+3. Credits: 3-0-0-1 [10] 
+Duration of Course: Full Semester 
+4. Proposing Department: Department of Management Sciences 
+Other Department/IDPs which may be interested in the proposed course: 
+Other faculty members interested in teaching the proposed course: 
+5. Proposing Instructor(s): Sourya Joyee De 
+6. Course Description: Organizations, irrespective of the industry they belong to, are 
+constantly under the threat of security and privacy breaches. These risks are further 
+fuelled by digital transformation and the central role played by customer data 
+processing in business operations and strategy. A single incident of data breach can 
+wipe out an entire business. Therefore, managing security and privacy risks is a 
+business problem. An organization’s security and privacy posture are driven by the top 
+management and not by firewalls or biometrics. This course emphasizes that the senior 
+management has a much more significant role to play in protecting their organizations 
+from these digital risks than they may think. The course enables students to understand 
+the current security and privacy landscape, security and privacy concerns of the 
+customer and the management and discusses managerial strategies to handle privacy 
+and security risks and incidents across critical business activities and information 
+systems. 
+A) Contents 
+Serial 
+No. 
+Broad Title 
+Topics 
+No. of 
+Lectures 
+1. 
+Key Concepts in 
+Cyber Security 
+Cyber Security Attacks, Cyber Frauds, CIA Triad, 
+Antecedents and Consequences of Data Breaches and 
+Cyber Frauds 
+2 
+ 
+2. 
+Enterprise Cyber 
+Security 
+Governance 
+5 LoA in Cyber Security, Chief Information Security 
+Officer (CISO) Role, BoD Engagement in Cybersecurity 
+3 
+3. 
+Cyber Security 
+Risk Management 
+Approach 
+Cybersecurity Risk Management, Relevant Standards 
+and Frameworks 
+3 
+4. 
+Cyber Security 
+Strategies for 
+Business Managers 
+Building a Cyber Security Culture, Cybersecurity 
+Response Strategies, Crisis Communication, Cyber 
+Security Policies, SETA, Compliance Issues 
+5 
+5. 
+Key Concepts in 
+Privacy 
+Defining Privacy, Privacy Risks and their Business 
+Impacts, Privacy Harms, Data Strategies and Privacy 
+Impacts 
+3 
+6. 
+Privacy Decision-
+Making 
+by 
+Individuals 
+Privacy Decision-Making, Privacy Concerns and their 
+Antecedents, Privacy Paradox, Privacy Calculus, Drivers 
+of Protection Motivation and Privacy Protective 
+Behaviours 
+5
+
+[Page 2]
+7. 
+Privacy Strategies 
+for Business 
+Managers 
+Data Protection Regulations and Compliance Issues, 
+Privacy Policies, Privacy Risk Analysis, Privacy by 
+Default, Privacy by Design, Role of Interventions in 
+Managing Customer Privacy Concerns and Decision-
+Making 
+7 
+ 
+B) Pre-requisites, if any: None 
+7. References 
+1) De, S. J., & le Metayer, D. (2016). Privacy Risk Analysis. Morgan & Claypool 
+Publishers. 
+2) De, S. J., & Imine, A. (2020). Privacy Risk Analysis of Online Social Networks. 
+Morgan & Claypool Publishers. 
+3) Whitman, M. E., & Mattord, H. J. (2013). Management of Information Security. 
+Cengage Learning. 
+4) Whitman, M. E., & Mattord, H. J. (2021). Principles of Information Security. 
+Cengage Learning. 
+ 
+Dated: 31 January 2025 
+Proposer: Sourya Joyee De 
+
+Dated:______________ 
+DUGC/ DPGC Convener: 
+__________________ 
+
+ 
+The course is approved/not approved. 
+
+ 
+Chairman, SUGC/SPGC 
+
+ 
+Dated:____________________

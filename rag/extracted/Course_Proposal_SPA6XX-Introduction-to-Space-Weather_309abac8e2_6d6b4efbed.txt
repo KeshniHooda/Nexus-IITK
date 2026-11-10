@@ -1,0 +1,96 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+Proposal for a New Course
+
+1. Course No: IDC6XX
+
+2. Course Title: Introduction to Space Weather
+
+3. Lectures per week: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional hours:  (0-2): 0 (A),
+Credits (3*L+2*T+P+A): 9, Duration of Course: Full-Semester
+
+4. Proposing Departments: dept. of SPASE & Physics dept.
+
+5. Proposing Instructors: Rohit Sharma & Gopal Hazra
+
+6. Course Description
+
+(A) Objectives: The objective of this course is to provide an introductory understanding of space
+weather by connecting the fundamental physics of the Sun to its far-reaching effects on the helio-
+sphere and near-Earth environment. The course seeks to introduce the principles and challenges
+of space weather, enabling students to model, interpret, and anticipate various aspects of solar-
+terrestrial interactions.
+
+(B) Contents (40 lectures):
+
+1. Solar Interior and Magnetic fields (8 lectures):
+
+– Solar Structure - Internal Structure, Convection Zone, Solar dynamo, Helioseismology
+– Solar Atmosphere, Surface features, eruptive phenomena - Photosphere, Chromosphere,
+Corona
+– Role of Magnetic Fields in the Solar Atmosphere- Geometry, Sunspots, Active regions,
+Magnetic field extrapolation models
+
+2. Magnetic Reconnection & Eruptive Events (8 lectures)
+
+– Magnetic Reconnection - Sweet-Parker model, 2-D reconnection, 3-D reconnection, colli-
+sionless reconnection
+– Eruptive phenomena: solar flares, coronal mass ejections (CME), jets, spicules etc..
+
+3. Interplanetary Propagation of Solar Disturbances (5 lectures)
+
+– Solar Wind: Propagation of the electromagnetic and charged particles
+– Parker Spirals
+
+4. Earth’s Atmosphere Response to Solar Disturbances (8 Lectures):
+
+– Radiation Interaction in the interplanetary space with planetary atmosphere
+– Dynamics of Earth’s magnetosphere, ionosphere and thermosphere: interaction with solar
+wind, CME and solar energetic particles
+– Variations in neutral density, driven by space weather,
+
+5. Space Debris - Models & Risk Analysis (4 Lectures)
+
+– Modeling of the Current Space Debris Environment
+– Operational Collision Avoidance with Regard to Catalog Objects
+
+6. Geomagnetic Storms & Forecast of space weather events (4 Lectures)
+
+– Ring Currents Probes
+– Geomagnetic Storm Dynamics
+
+7. Overview of the current space weather missions & future missions (3 Lectures).
+
+(C) Pre-requisites, if any:
+
+(D) Short summary for including in the Courses of Study Booklet:
+
+7. Recommended Books:
+
+– The Sun and Space Weather, Arnold Hanslmeier, 2nd Edition, Springer
+
+1
+
+[PAGE 2]
+– Reconnection of magnetic fields, Magnetohydrodynamics and Collisionless Theory and Ob-
+servations, J. Birn & E. R. Priest
+
+– An Introduction to Space Weather, Mark Moldwin, Cambridge Press
+
+– Space Debris - Models and Risk Analysis, Heiner Klinkrad, Springer
+
+– Handbook of the Solar-Terrestrial Environment, Y. Kamide A.Chian, Springer
+
+8. Any other remarks:
+
+Dated:            Proposer:
+
+Dated:        DUGC/DPGC Convener:
+
+The course is approved/not approved
+
+Chairman, SUGC/SPGC
+
+Dated:
+
+2

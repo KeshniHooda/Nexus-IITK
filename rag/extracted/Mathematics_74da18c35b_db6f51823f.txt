@@ -1,0 +1,235 @@
+[PAGE 1]
+Website: www.iitk.ac.in/math
+
+[PAGE 2]
+MATHEMATICS
+
+The Department offers PhD programs in Mathematics with the objective of preparing
+motivated researchers who can work in frontline areas as well as to prepare well-trained
+teaching faculty. The vibrant academic environment of the department is nurtured by
+strongly motivated faculty. The department faculty takes research initiatives to work in
+recent and emerging areas, and encourages interdisciplinary trends. Around 440 research
+scholars have graduated from the department and are serving in the faculty of various
+institutes and universities in India and abroad. Some of them are in industry as well.
+
+[PAGE 3]
+PHD PROGRAMME OFFERED
+
+❖ PhD in Mathematics
+
+[PAGE 4]
+Lab Facilities
+
+In addition to the Computer Centre (CC) of the institute which caters to specialized
+computational needs of the academic community, the department has its own computing
+facilities for faculty, staff and students of the department as follows:
+▪A Linux lab having 48 high end desktops with remote access facility;
+▪A Windows lab having 34 high end desktops with remote access facility;
+▪Advanced GPU and non-GPU workstations;
+▪HPC clusters installed in centralized data centers: 2 master nodes, 20 nodes;
+▪Separate UPS for network racks and switches;
+▪Lab desktops connected with centralized UPS having a good backup
+Our students can access various licensed software available from the CC. They are also
+provided with accessibility to many ebooks, reputable journals, Overleaf, etc., through ONOS
+and Institute subscriptions. Additionally, access to high-speed internet.
+(list of applications: https://www.iitk.ac.in/cc/softwares)
+
+Computer Labs
+
+➢One Linux lab is well equipped with 48 desktop computers;
+➢One Windows lab is well equipped with 34 desktop computers;
+➢3 rooms for postdoc fellows with personal cabin;
+➢5 research scholar rooms, each scholar gets a personal computer and a cubicle;
+➢All PCs have advanced configurations (Core i7/Core i5) with latest software;
+➢Labs are maintained by CC engineers and supporting staff.
+
+Infrastructure for Seminars
+➢Three seminar rooms equipped with projectors, screen and multimedia;
+➢For interviews/seminars, we have Zoom/Skype video conferencing facilities
+
+Printing Facility
+➢Our department has 3 high-end photocopier machines with scanning and printing facilities
+for department academic courses.
+➢We also provide printing and scanning facility to our PhD students for their research. For
+UG and PG students, this is on a request basis.
+
+[PAGE 5]
+FACULTY LIST
+
+❖ ANAND  A. (PhD,  University  of Minnesota), Research  Interests: Computational
+methods for the solution of partial differential and integral equations, with emphasis
+on high-order efficient simulators.
+
+❖  BAHUGUNA, D. (PhD, IIT Kanpur), Research Interests: Differential Equations, Non-
+linear Analysis, Theory of Semigroups.
+
+❖  BAKSHI, KESHAB CHANDRA (PhD, IMSc, Chennai), Research Interests: C*-algebras
+and von Neumann algebras. In particular, Subfactor theory and Planar algebras.
+
+❖  BAL, KAUSHIK (PhD, UPPA, France), Research Interests: Elliptic and Parabolic Partial
+Differential Equations.
+
+❖  BANERJEE, MALAY (PhD, University of Calcutta), Research Interests: Mathematical
+Ecology and Eco-epidemiology, Nonlinear Dynamics.
+
+❖  BANERJEE, MOHUA (PhD, University of Calcutta), Research Interests: Rough Set
+Theory and its Applications, Modal Logics.
+
+❖  Bera, Sayani (PhD,  IISc Bangalore), Research Interests: Holomorphic dynamics,
+Several Complex Variables
+
+❖  BISWAS, ABHIJIT (PhD, Temple University), Research Interests: Numerical methods
+for differential equations, time integration, hyperbolization.
+
+❖  BISWAS, MRINMAY (PhD, IISER Kolkata), Research Interests: PDE, Stochastic PDE,
+Control Theory and Numerics.
+
+❖  BONALA, NARASIMHA CHARY (PhD, CMI, Chennai), Research Interests: Algebraic
+Groups, Algebraic geometry and Representation Theory
+
+❖  CHANDEL, VIKRAMJEET SINGH (PhD, IISc, Bengaluru), Research Interests: Several
+Complex Variables.
+
+❖  CHAVAN, SAMEER (PhD, University of Pune), Research Interests: Operator Theory.
+
+❖  CHOWDHURY, INDRANIL (PhD, TIFR - CAM, Bengaluru), Research Interests: Theory
+and Numerical  Analysis  of PDEs, Nonlocal/  Fractional order Problems,  Fully
+Nonlinear Equations.
+
+❖  DAR, APARNA (PhD, S.U.N.Y Stony Brook, USA), Research Interests: Differential
+Geometry, Algebraic Topology, Knot Theory.
+
+❖  GANGULY,  ARIJIT  (PhD,  TIFR  Mumbai),  Research   Interests:  Diophantine
+approximation, Dynamical systems and Random walks.
+
+[PAGE 6]
+FACULTY LIST
+
+❖  GHORAI, S. (PhD, Leeds, UK), Research Interests: Computational Fluid Dynamics,
+Mathematical Biology, Adaptive Unstructured grid.
+
+❖  GUIN,  SATYAJIT  (PhD,  IMSc,  Chennai),  Research  Interests:  Noncommutative
+Geometry, Operator Algebra.
+
+❖  JHA, SOMNATH (PhD, Tata Institute of Fundamental Research, Mumbai), Research
+Interests: Number Theory, Arithmetic Geometry.
+
+❖  KUBER,  AMIT  (PhD,  University  of  Manchester,  UK),  Research   Interests:
+Representation theory of associative algebras, linear orders and combinatorics of
+words, model theory.
+
+❖  Kumar, Ashutosh (PhD: University  of Wisconsin Madison), Research  Interests:
+Mathematical Logic, Set Theory and its applications to Analysis, Measure Theory and
+Topology.
+
+❖  MALOO, ALOK KUMAR (PhD, TIFR, Mumbai), Research Interests: Commutative
+Algebra.
+
+❖  MANDAL, ASHIS  (PhD,  ISI,  Kolkata),  Research  Interests:  Algebraic  Topology;
+Deformation of Algebraic Structures, Higher Structures and Related Fields.
+
+❖  MOHANTY, PARASAR (PhD, IIT Kanpur), Research Interests: Harmonic Analysis
+
+❖ MUTHUKUMAR, P. (PhD, Indian Statistical Institute, Chennai), Research Interests:
+Complex Analysis and Operator Theory
+
+❖ MUTHUKUMAR, T. (PhD, Institute of Mathematical Sciences), Research Interests:
+Homogenization and Variational Methods for PDE's, Elliptic PDE's, Optimal controls.
+
+❖  NADIMPALLI, SANTOSH, Research Interests: Representation theory.
+
+❖  NILAKANTAN, NANDINI (PhD, IISc, Banglore), Research Interests: Combinatorial
+Topology, Computational Geometry.
+
+❖  PAL, ABHIJIT  (PhD,  Indian,  Statistical  Institute,  Kolkata),  Research  Interests:
+Geometric Group Theory, Relatively Hyperbolic Groups, Mapping Class Groups.
+
+❖  PATNAIK, S. (PhD, University of Cincinnati, USA), Research Interests: Operator Theory
+
+❖  PATTANAYAK, S. K. (PhD, CMI, Chennai), Research Interests: Algebraic Groups and
+Invariant Theory, Lie Algebras and Representation Theory.
+
+❖  RATHISH KUMAR, B.V. (PhD, SSSIHL, prasanthi nilayam), Research Interests: Parallel
+Computing, Numerical Methods For PDEs, Computational Fluid Dynamics, Finite
+Element Analysis, Computational Biomechanics, Porous Media, Image Processing
+
+[PAGE 7]
+FACULTY LIST
+
+❖  RAWAT, RAMA (PhD, ISI, Bangalore), Research Interests: Harmonic analysis on Lie
+groups.
+
+❖  ROY, PROSENJIT (PhD, University of Zurich, Switzerland), Research Interests: Partial
+Differential Equations.
+
+❖  SAMUEL, PREENA (PhD, IMSc, Chennai), Research Interests: Structure theory and
+representations of algebraic groups.
+
+❖  SANKI, BIDYUT (PhD, Indian Institute of Science, Bangalore), Research Interests:
+Topology and Geometry.
+
+❖  SEN DEBASIS (PhD,  ISI, Kolkata)), Research Interests: Homotopy theory, Group
+actions.
+
+❖  SHARMA, SACHIN (PhD, IMSc, Chennai), Research Interests: Representation theory of
+Kac-Moody algebra, extended affine Lie algebra.
+
+❖  SHUNMUGARAJ, P. (PhD, IIT Bombay), Research Interests: Functional Analysis.
+
+❖  SHEKHAR, SUDHANSHU (PhD, TIFR, Mumbai), Research Interests: Algebraic Number
+Theory and Arithmetic Geometry.
+
+❖  SINGH, SAURABH KUMAR (PhD, TIFR, Mumbai), Research Interests: L-Function, Sub-
+convexity problems, Sieve Method, Riemann Zeta Function.
+
+❖  Singla, Pooja (PhD, IMSc, Chennai), Research Interests: Representations theory of
+finite and p-adic groups, Applications of representation theory.
+
+❖  THAKUR, AJAY SINGH (PhD, IMSc, Chennai), Research Interests: Algebraic Topology,
+Complex Manifolds.
+
+❖  Vedansh, Arya (PhD, TIFR-CAM), Research Interests: Analysis of PDEs, Regularity
+theory for elliptic and parabolic PDEs, Unique continuation problems, Free boundary
+problems, and Curvature driven flows.
+
+[PAGE 8]
+BROAD RESEARCH AREAS
+
+❖  Algebraic geometry
+❖  Commutative Algebra
+❖  Complex Analysis & Operator Theory
+❖  Computational Acoustics and Electromagnetics
+❖  Computational Fluid Dynamics
+❖  Data Mining in Finance
+❖  Differential Equations
+❖  Entropy Estimation and Applications
+❖  Ergodic Theory and Dynamical Systems
+❖  Functional Analysis & Operator Theory
+❖  Game Theory
+❖  Harmonic Analysis
+❖  Homological Algebra
+❖  Image Processing
+❖  Mathematical Biology
+❖  Number Theory & Arithmetic Geometry
+❖  Numerical Analysis and Scientific Computing
+❖  Operator Algebra
+❖  Regularity theory of Partial Differential Equations
+❖  Representation Theory
+❖  Set Theory and Logic
+❖  Several Complex Variables
+❖  Step-Stress Modelling
+❖  Stochastic Partial Differential Equations
+❖  Topology and Geometry
+❖  Tribology
+
+[PAGE 9]
+CONTACT
+
+Prof. Arijit Ganguly
+Email: dpgc_math@iitk.ac.in
+
+Ms. Madhuri Naik
+Email: admission_math@iitk.ac.in
+Phone: 0512-259-7456
+
+Website: www.iitk.ac.in/math

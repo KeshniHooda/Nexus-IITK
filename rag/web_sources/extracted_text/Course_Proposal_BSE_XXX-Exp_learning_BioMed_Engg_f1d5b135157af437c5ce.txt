@@ -1,0 +1,70 @@
+[Page 1]
+Indian Institute of Technology, Kanpur 
+ 
+1. Course No: BSExxx 
+(The course will be mandatory for Biomedical Engineering MTech students) 
+2. Course Title: Experiential learning about medical devices and diagnostics 
+3. Per Week Lectures and credits (L-T-P-D-C: Lecture-Tutorial-Practical-Discussion-Credits): 0-2-
+24-8-18 [Kindly note that this course will be offered in the summer and thus the hours are condensed] 
+4. Proposing Department/IDP: Biological Sciences and Bioengineering 
+Other Departments/IDPs which may be interested in the proposed course: EE, ME 
+5. Proposing Instructor(s): Amitabha Bandopadhyay, Debanjan Dasgupta, Nikunj Bhagat 
+6. Course Description: 
+A) Objectives: This course aims to deliver a practical exposure to the use of engineered products 
+used in healthcare delivery to familiarize the students with the engineering and product space for 
+biomedical engineering. The course will help students to understand the following topics: the current 
+state-of-the art biomedical devices and diagnostics used in different clinical practices; the gaps and 
+issues faced by doctors in such practices and finally thinking about possible ways of solving such 
+gaps using concepts combining different engineering domains. 
+B) Contents: 
+S. 
+No 
+Broad Title 
+Topics 
+Hours 
+1. 
+Introduction to the clinical 
+Immersion 
+Introduction to biomedical engineering facilities in 
+a hospital, the departments of a hospital and their 
+staff 
+10 
+2. 
+Site visit – Clinical 
+departments e.g. cardiology, 
+neurology, cardiac surgery, 
+neuro surgery, support 
+departments (cath labs, path 
+labs, sleep lab, pain lab etc.) 
+ 
+74 
+3. 
+Identifying potential gaps in 
+the current scenario (through 
+tutorials at the clinical 
+facility) 
+ 
+12 
+4. 
+Formulation of a probable 
+solution through discussions 
+with IITK mentor(s) and 
+clinical mentor(s) 
+ 
+48 
+ Total 
+144 
+ 
+C) Pre-requisites: The students must have credited BSE667. 
+7. Recommended books and Reference: 
+There is no recommended textbook for this course. This is an experiential learning course. 
+The students will observe, interact with clinicians and practicing biomedical engineers. The
+
+[Page 2]
+clinicians will help with gap identification. The students will evaluate the feasibility of 
+potential solutions in discussion with IITK mentors. Extensive literature survey will be 
+needed. The literature to be surveyed will vary from one student to the other depending on 
+the assigned IITK faculty mentor and the problem statement space. 
+8. Assessment: 
+Assessment Criteria: One mid-semester (group) presentation; a final presentation & report 
+submission; Class participation

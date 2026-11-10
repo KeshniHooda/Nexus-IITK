@@ -1,0 +1,72 @@
+[PAGE 1]
+New Course Proposal
+
+Course Number: CS??
+
+Course Title: Computational Complexity II
+
+Per-week-structure Lectures 3 hours, Credits 3*3=9.
+
+Duration Full Semester
+
+Proposing-Department: CSE
+
+Other-Departments/IDPs (which may be interested in the proposed course): None
+
+Other-faculty (interested in teaching the proposed course): None.
+
+Proposing-Instructor: Anil Seth
+
+Credits: 3-0-0-9 (Equivalent to 2.5 hrs of lectures/week)
+
+Background & Course-Objective: Course CS640 gives an introduction to computational com-
+plexity. There are many topics of general interest in computational complexity which can’t
+be covered in this course due to limited time. We do have separate specialized courses on
+many of these topics. This course is intended for someone who wishes to get an introduction
+to most of these topics in one course.
+
+Syllabus:
+
+• Boolean Circuits: Families of ckts as model of computation. Polynomial size ckts aka class
+P/Poly. TMs with advice and P/Poly. P ⊆P/Poly. Consequences of NP ⊆P/Poly.
+
+Uniformly generated families. Classes AC and NC, relation to parallel complexity. Exponen-
+tial size (uniform) ckts and PH.
+
+• Cryptography: secure communication, one way functions and pseudorandom generators. zero
+knowledge proofs. Hardness ampliﬁcation basics.
+
+• Lower bounds on concrete computational models:
+
+Decision trees. Switching lemma, AC0 lower bound for parity, monotone ckts, resolution lower
+bounds for PHP. Communication complexity approaches to lower bounds.
+
+1
+
+[PAGE 2]
+• PCP and hardness of approximation: Proof of NP ⊆PCP(poly, 1) and applications.
+
+• Counting Classes: Counting the number of solutions, #P, Toda’s theorem.
+
+Depending on availability of time, another topic such as derandomization may be covered.
+
+Prerequisites: CS340 for UG students. No prerequisite for PG students.
+
+References:
+
+1. S. Arora and B. Barak: Computational Complexity, A modern approach. Cambridge Univ
+Press, 2009. (Textbook)
+
+2.  I. Wegner: Complexity Theory. Springer Verlag, 2005.
+
+Dated:_______________Proposer:________________________
+
+Dated:_______________DUGC/DPGC Convener:_______________
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC
+
+Dated:———————–
+
+2

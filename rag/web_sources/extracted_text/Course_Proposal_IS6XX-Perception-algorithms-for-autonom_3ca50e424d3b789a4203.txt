@@ -1,0 +1,131 @@
+[Page 1]
+Indian Institute of Technology, Kanpur 
+Proposal for a New Course 
+
+1. Course No: IS741 
+
+2. Course Title: Perception algorithms for autonomous systems 
+
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours[0-2]: (A), 
+Credits (L+T+P+A): 9 
+ 
+4. Duration of Course: Full semester 
+ 
+5. Proposing Department/IDP: Department of Intelligent Systems 
+ 
+Other Departments/IDPs which may be interested in the proposed course: 
+Electrical Engineering, Aerospace Engineering, Computer Science Engineering, 
+Mechanical Engineering, Mathematics 
+Other faculty members interested in teaching the proposed course: 
+6. Proposing Instructor(s): Dr. An i rb an R oy 
+ 
+7. 
+Course Description: 
+ 
+A) Objectives: 
+This course will provide a detailed introduction to the Environment perception algorithm blockchain for 
+autonomous platforms – Drone/Unmanned Aerial Vehicles (UAVs), Autonomous driver assistance 
+systems, Unmanned ground vehicles (UGVs), etc. Autonomous platforms gather perception information 
+of the environment through multiple sensor measurements, such as Radar (FMCW/Pulse Doppler), 
+EO/IRST, Multi-function Camera and Lidar (MFCL), ultrasonics, etc. This course will encompass three 
+major object/target information processing stages as part of the entire Environmental Perception 
+module: data association and multi-object tracking, Multi-Sensor data and information fusion, and 
+Target classification. 
+ 
+B) Contents (preferably in the form of 5 to 10 broad titles): 
+ 
+S. No 
+Broad 
+Title 
+Topics 
+No. of 
+Lectures 
+1 
+Autonomous 
+System 
+functional 
+stages 
+ Introduction to Autonomous systems functions (Sense-plan-
+act, Observe Orient 
+Decision and Act (OODA)), Sensing systems for autonomous 
+vehicles. 
+4 
+2 
+Tracking 
+Target kinematic modelling, Sensor measurement and False 
+alarm models, Detailed Kalman Filtering fundamentals
+including nonlinear Filtering techniques EKF, Pseudolinear 
+filters, Sigma point Kalman Filters. Multiple model methods,
+Winner-Kolmogrov method of whitening colored noise, Class 
+assignment and simulation exercises 
+12 
+3 
+Association 
+algorithms 
+Solving Measurement origin uncertainties – Clutter, sensor 
+misdetections, multi-target /extended target detection 
+resolution - SNN, GNN, PDAF and MHT. 
+10
+
+[Page 2]
+4 
+Multi Sensor 
+data fusion 
+The information filter, Principles of Bayesian Fusion 
+paradigms, covariance 
+Intersection methodologies 
+5 
+5 
+Information 
+Fusion 
+ Bayesian techniques and Dempster-Shaffer methodologies –
+Class assignment and exercises 
+3 
+6 
+Classification 
+algorithms 
+Target attribute/feature identification (Radar RCS, Micro-
+doppler, target kinematic information along with Camera/Lidar 
+detection images), standard classification algorithms (SVM, 
+CNN, Bayesian Classifier etc.) 
+4 
+MATLAB simulation exercises and assignments will be given for better understanding of the 
+course. 
+ 
+Total Lectures per week: 3 
+ 
+C)Pre-requisites, if any 
+1. Basic Control System Fundamentals. 
+2. Knowledge in Probability and Statistics along with MATLAB simulation 
+experience is required. 
+
+ D)Short summary for including in the Courses of Study Booklet: 
+
+ 
+8. Recommended References: 
+1. Samuel Blackman, Robert Popoli, “Design and Analysis of Modern Tracking Systems”, 
+Artech House, Boston. 
+2. J R Raol, “Multi-Sensor Data Fusion with MATLAB,” CRC Press, Taylor and Francis 
+Group. 
+3. Y Bar Shalom and X R Li, “Multitarget-Multisensor Tracking: Principles and Techniques, 
+Artech House. 
+A few good books to understand Kalman Filter: 
+4. Brown and Hwang, “Random Process and Applied Kalman Filtering,” John Wieley & Sons 
+5. Paul Zarchan and Howard Musoff, “Fundamentals of Kalman Filtering: A Practical 
+Approach”, AIAA. 
+ 
+9. Any other Remarks 
+
+ 
+Dated: 04.12.2025 
+Proposer: Dr. Anirban Roy 
+ 
+Dated: 
+DUGC/DPGC Convener: 
+
+ 
+The course is approved / not approved
+
+[Page 3]
+Chairman SUGC/SPGC: 
+Dated:

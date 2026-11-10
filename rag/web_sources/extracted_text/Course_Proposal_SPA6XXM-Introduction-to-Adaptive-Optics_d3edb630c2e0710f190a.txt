@@ -1,0 +1,45 @@
+[Page 1]
+Indian Institute of Technology, Kanpur
+Proposal for a New Course
+1. Course No: SPA 6XXM
+2. Course Title: Introduction to Adaptive Optics and Applications
+3. Lectures per week: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional hours: (0-2): 0 (A), Module Credits
+(3*L+2*T+P+A): 5, Duration of Course: Half Semester
+4. Proposing Department: Space Planetary & Astronomical Sciences & Engineering (SPASE)
+5. Proposing Instructor: Prashant Pathak
+6. Course Description
+(A) Objectives: To introduce the fundamental components and operation of adaptive optics systems, including
+wavefront sensing, reconstruction, and correction techniques for real-world applications.
+(B) Contents (preferably in the form of 5 to 10 broad titles):
+1. Introduction: Why adaptive optics? Imaging limitations of optical systems. Atmospheric turbulence
+and image degradation. Historical development of AO. Applications: Astronomy, Solar telescopes, Retinal
+imaging, Laser communications Defense and remote sensing. (2-lectures)
+2. Atmospheric Turbulence: Refractive index fluctuations, Kolmogorov turbulence theory, Structure
+function, Fried parameter r0, Greenwood frequency, Isoplanatic angle, Coherence time, Seeing measure-
+ments, Turbulence profiling. (4 Lectures)
+3. Wavefront Sensing, Reconstruction and Correction Devices: Principle of wavefront sensing,
+Shack–Hartmann wavefront sensor, Centroiding algorithms, Curvature sensing, Pyramid wavefront sensor,
+Sensor noise sources, Sensitivity and dynamic range. Influence functions, Interaction matrix, Reconstruc-
+tion matrix, Least-squares reconstruction, Modal versus zonal reconstruction, Singular Value Decomposi-
+tion (SVD). Deformable mirrors, MEMS deformable mirrors, Tip-tilt mirrors, Spatial Light Modulators,
+Actuator geometry, Stroke and fitting error. (8 Lectures)
+4. Closed-Loop Adaptive Optics Systems: AO control loop architecture, Error budget, Servo lag error,
+Bandwidth considerations, Real-time control systems, Performance metrics. (4 Lectures)
+5. Advanced AO Concepts: Laser Guide Stars, Natural Guide Stars, Multi-Conjugate AO (MCAO),
+Ground-Layer AO (GLAO) Extreme AO (ExAO), Multi-Object AO (MOAO). (3 Lectures)
+(C) Pre-requisites: None
+(D) Short summary for including in the Courses of Study Booklet: This half-semester course introduces the
+principles of adaptive optics, including wavefront aberrations, atmospheric turbulence, wavefront sensing, and
+real-time correction techniques. Students will learn the fundamentals of AO system design and performance
+through applications in astronomy, vision science, etc.
+7. Recommended Books:
+– Principles of Adaptive Optics, fourth edition, by Robert K. Tyson, (CRC Press, 2015)
+– Adaptive Optics for Astronomical Telescopes, by John W. Hardy, (Oxford University Press, 1998)
+8. Any other remarks:
+Dated:
+Proposer:
+Dated:
+DUGC/DPGC Convener:
+The course is approved/not approved
+Chairman, SUGC/SPGC
+Dated:

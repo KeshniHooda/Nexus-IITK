@@ -1,0 +1,215 @@
+[PAGE 1]
+Department of Sustainable Energy Engineering
+Indian Institute of Technology Kanpur
+
+Proposal for a New Course
+
+Carbon Capture, Utilization, and Storage Course Title
+(CCUS)
+SEE XXX Course Number
+3-0-0-0 [9] Credits (L-T-P-C)
+Sustainable Energy Engineering Department Proposing the Course
+Soumyabrata Roy Name of the Proposer
+PG students Offered For
+None Prerequisite(s)
+Soumyabrata Roy, Sheo Shankar Rai, Raju Faculty Members Interested in Teaching
+Kumar Gupta
+CHE, ES, KSS, CHM, MSE, CE, ME, CESE, Other Departments/Programs who may be
+DoMS interested in the course
+
+Course Objectives: This course will provide an in-depth understanding of Carbon Capture,
+
+Utilization, and Storage (CCUS) technologies as a critical pillar of sustainable energy transitions.
+
+It will address CO₂ emissions mitigation across sectors such as power generation, industry (hard-
+
+to-abate sectors), and transportation. The course will cover scientific principles, technological
+
+approaches, system integration, and policy/regulatory frameworks associated with the CCUS
+
+value-chain. Emphasis will be placed on emerging research directions, Indian and Global case
+
+studies, and techno-economic evaluations for large-scale deployment. The following will be the
+
+key objectives of this course:
+
+1.  Develop a strong foundational understanding of carbon emissions and the need for CCUS
+
+in achieving net-zero targets.
+
+2.  Explore fundamental  principles of thermodynamics,  reaction engineering,  materials
+
+science, and system integration in CCUS technologies.
+
+3.  Provide a systematic overview of CO₂ capture techniques (solvent-based, solid sorbent,
+
+membrane-based, and cryogenic), transport logistics, and storage options (geological,
+
+mineral, and deep-sea).
+
+[PAGE 2]
+Department of Sustainable Energy Engineering
+Indian Institute of Technology Kanpur
+
+4.  Evaluate utilization technologies, including catalytic, electrochemical, biochemical, and
+
+mineralization routes for conversion to value-added products.
+
+5.  Assess techno-economic  parameters,  life-cycle assessments (LCA), and  integration
+
+strategies with power plants, cement & steel industry, bioenergy systems, and other
+
+relevant industrial sectors.
+
+6. Review current policy frameworks, carbon trading mechanisms, and regulatory aspects
+
+relevant to India and globally.
+
+7.  Encourage innovation and research thinking by connecting emerging trends such as AI/ML
+
+for CCUS system optimization and novel materials development.
+
+Expected Learning Outcomes
+
+On completion of this course, students are expected to develop the ability to analyze and compare
+
+various CO₂ capture technologies and understand their integration potential within relevant
+
+industrial systems. They will acquire a strong grasp of the underlying thermodynamics and kinetics
+
+of CO₂ capture and conversion processes, along with familiarity with a wide range of capture
+
+technologies,  including  solvent-based  systems,  solid  sorbents, membranes, and  cryogenic
+
+approaches. They will gain insights into CO₂ transport mechanisms and strategies for long-term
+
+geological storage, as well as understand the technical and economic potential of CO₂ utilization
+
+pathways such as fuels, chemicals, building materials, and biological fixation. The course will also
+
+prepare students to identify and navigate the regulatory, policy, and societal acceptance challenges
+
+surrounding CCUS deployment. They will develop understanding of the feasibility, cost, and
+
+environmental implications of implementing CCUS projects and will gain proficiency in designing
+
+conceptual flowsheets tailored to site or sector-specific applications. Lastly, students will be
+
+trained to critically assess current literature, evaluate emerging research trends and development
+
+efforts, and develop the necessary skills to design and optimize CCUS systems, particularly in the
+
+context of Indian industrial and energy sectors.
+
+[PAGE 3]
+Department of Sustainable Energy Engineering
+Indian Institute of Technology Kanpur
+
+Course outline
+
+S. No.  Broad Title            Topics                                            Lectures
+1       Introduction to CCUS   -Climate change and global carbon budget             4
+and Global Context     -Role of CCUS in Net Zero transitions and SDG goals
+- Global and Indian emissions scenario
+- Types of CO₂ sources and Sectoral emissions profiles
+(power, cement, steel, chemical, bioenergy)
+- Technology readiness and sectoral applicability
+- Life-cycle assessment of CCUS pathways
+- CCUS roadmap: Global and Indian perspective (IEA,
+NITI Aayog)
+2      Fundamentals of CO₂    - Separation thermodynamics and driving forces        8
+Capture                -Post-combustion vs. pre-combustion vs. oxy-
+combustion
+- Mass transfer and reaction engineering basics
+- Energy penalties and process intensification strategies
+-Solvent-based capture (amine systems, challenges,
+regeneration)
+- Solid sorbents (zeolites, activated carbon, MOFs)
+- Membrane separations (types, transport mechanisms,
+limitations, permeability/selectivity trade-offs, energy
+penalties)
+- Cryogenic, Chemical looping and oxy-combustion
+approaches
+- Emerging materials: ionic liquids, phase-change
+solvents
+5     CO₂ Transport             - CO₂ compression, liquefaction, and conditioning       2
+Systems                      - Pipeline design: codes, safety, monitoring
+- CO₂ shipping and logistics for remote storage
+- Infrastructure and cost assessment models
+6     CO₂ Storage                - Geological storage: saline aquifers, depleted oil/gas    6
+Mechanisms              fields
+- Well drilling and injection techniques
+- Geomechanics, Caprock integrity and leakage risks
+- Long-term monitoring and MRV (Measurement,
+Reporting, Verification)
+- Mineralization, in-situ reactions, solid-storage
+- Environmental and risk assessment frameworks
+7     CO₂ Utilization            - Thermocatalytic, electrocatalytic and solar            6
+Pathways               conversion: CO₂ to fuels, methanol, syngas
+- CO₂ to polymers, CO₂ mineralization to building
+materials (carbonates)
+- Biological conversion: algae, microbial fermentation
+- Techno-economic analysis of utilization pathways,
+Industrial symbiosis and circular carbon economy
+
+[PAGE 4]
+Department of Sustainable Energy Engineering
+Indian Institute of Technology Kanpur
+
+8       Integration with           - CCUS in cement, steel, and refineries- BECCS        4
+Industrial and          (Bioenergy with Carbon Capture and Storage): scope,
+Bioenergy Systems      challenges, Indian context
+- Coupling CCUS with green hydrogen and waste-to-
+energy plants
+- Case studies: NTPC, Indian Oil, and global
+benchmarks
+9      Techno-Economics,       - Cost of CO₂ avoided vs. captured vs. utilized          4
+LCA, and Evaluation    - Key CAPEX and OPEX components
+- Life cycle assessment: GHG reduction potential
+- TEA tools and scenario analysis using open-source
+models
+10      Policy, Regulatory,       - CCUS in national and international climate policies    3
+and Public                  - Carbon markets, tax incentives, and subsidies
+Engagement                - Indian regulatory landscape: MoEFCC, MNRE, NITI
+Dimensions           Aayog
+- Legal frameworks for liability and permanence
+- Social license to operate and community engagement
+11     Outlook and                - Emerging materials and digital tools (AI/ML) for      3
+Emerging Frontiers   CCUS optimization
+- Hybrid energy systems and CCUS coupling
+- Direct Air Capture (DAC) vs. Point Source Capture-
+- Role of CCUS in hard-to-abate sectors
+- Summary, project presentations, and open discussions
+
+Textbooks, reference books, suggested readings and any other references
+
+  Carbon Capture, Storage and, Utilization: A Possible Climate Change Solution for Energy
+Industry" by Malti Goel
+  Carbon Capture by Jennifer Wilcox
+  Carbon Dioxide to Chemicals and Fuels by M. Aulice Scibioh and B. Viswanathan
+  CO2 Capture, Utilization, and Sequestration Strategies by Yatish T. Shah
+(https://doi.org/10.1201/9781003229575)
+  Carbon Capture-Utilization and Storage: Climate Change Mitigation by Jayarama Reddy
+Puthalpet
+  Carbon Capture: Sequestration and Storage: 29 (Issues in Environmental Science and
+Technology) by Vassilis Kitidis and Klaus Lackner
+   Climate Change and Carbon Recycling: Surface Chemistry Applications by K. S. Birdi
+   Introduction to Carbon Capture and Sequestration (Berkeley Lectures on Energy) (The Berkeley
+Lectures on Energy) by Smit
+  Carbon Capture, Utilization, and Storage (CCUS) Resources: CCUS Handbook for Policymakers
+  Carbon Capture and Storage, IPCC Special Report, 2005
+  IEA CCUS Reports (2020–2024), International Energy Agency
+
+[PAGE 5]
+Department of Sustainable Energy Engineering
+Indian Institute of Technology Kanpur
+
+  Carbon Capture and Storage in Developing Countries: A Perspective from the Global South,
+Routledge
+  CO₂ Utilization: From Fundamentals to Applications, Elsevier
+  Government of India Reports: NTPC, MNRE, NITI Aayog – Reports on CCUS
+
+Course proposed by        Forwarded by               This course is approved/ not
+approved
+
+(Soumyabrata Roy)           Convener, DPGC (SEE)       Chairman, SPGC

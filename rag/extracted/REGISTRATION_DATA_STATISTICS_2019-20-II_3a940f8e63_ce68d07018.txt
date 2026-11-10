@@ -1,0 +1,111 @@
+[PAGE 1]
+REGISTRATION DATA STATISTICS FOR 2019-20/SECOND
+
+TOTAL NUMBER OF COURSES BEING OFFERED                                    497
+
+EXCLUDE THE THESIS COURSE, SEMINAR, PROJECT, BTP, SUMMER TRAINING,
+449 PRESENTATION
+
+MAXIMUM CLASS SIZE (CHM102A)                                                963
+
+MINIMUM CLASS SIZE (AT PRESENT THERE ARE 449 COURSES)                      1
+
+AVERAGE CLASS SIZE (OF ALL 449 COURSES)                                          49.30
+
+NUMBER OF COURSES WITH 5 STUDENTS OR LESS                                 42
+
+NUMBER OF COURSES WITH 100 STUDENTS OR MORE                              48
+
+AVERAGE CLASS SIZE OF COURSES THAT HAVE >5 AND LESS THAN 100 STUDENTS     30.96
+
+THE FOLLWING IS THE NUMBER OF COURSES WITH VARIOUS CLASS
+STRENGTHS
+
+No. of Student  No. of Course
+1              3
+2              9
+3             10
+4             13
+5              7
+6-10            66
+11-15           45
+16-20           52
+21-25           33
+26-30           19
+31-50           74
+51-75           50
+76-100           22
+>100            46
+Total           449
+
+Page 1 of 3
+
+[PAGE 2]
+2019-20 SECOND SEMESTER
+LIST OF COURSES IN WHICH <=5 STUDENTS REGISTERED
+
+Total
+Course                                                              No of
+SN.    No             Instructor                           Course Title                          Std.
+1   CGS603A  DEVPRIYA KUMAR      METHODS AND TOOLS IN COGNITIVE SCIENCE             1
+2  CHM598A  ANAND SINGH        MS Project-B2                                      1
+3   ENG740A  USHA UDAAR           THE PRINCIPLES AND PARAMETERS SYNTAX               1
+4    AE662A  D P MISHRA            ROCKET ENGINE DESIGN                              2
+5    CE493A  ANUBHA GOEL         UNDER GRADUATE RESEARCH -IV                       2
+6    CE767B   ABHAS SINGH            SOLID WATER INTERFACIAL PROCESSES                  2
+7  CHM629A  AMALENDU CHANDRA    PRINCIPLES OF PHYSICAL CHEMISTRY                    2
+8    CS797A   MAINAK CHAUDHURI     SPECIAL TOPICS IN COMPUTER SCIENCE                  2
+CHAITHRA
+9   ENG763A  PUTTASWAMY           Language Documentation and Description                2
+
+PRASHANT
+10   PHI752A  BHALCHANDRA BAGAD   PROBLEMS IN PHILOSOPHICAL AESTHETICS               2
+11   PHI758A   LALIT SARASWAT       CONTEMPORARY EPISTEMOLOGY                       2
+12   PSY775A   BRAJ BHUSHAN        FUNDAMENTAL OF NEUROPSYCHOLOGY                 2
+13   AE441A   ASHOKE DE            ROCKET PROPULSION                                3
+14   AE672A   PRITAM CHAKRABORTY   SOLID MECHANICS                                   3
+15   CE491A  ANUBHA GOEL         UNDER GRADUATE RESEARCH -II                       3
+16   CE679A   BALAJI DEVARAJU        SIGNAL PROCESSING ON THE SPHERE                    3
+17   CE760A   ABHAS SINGH           SURFACE WATER QUALITY MODELING                   3
+18  ENG708A  SUDHARSHANA N P       APPLIED LINGUISTICS                                 3
+19  MTH722A  DEBASIS SEN           INTRODUCTION TO HOMOTOPY THEORY                 3
+20  PHY690N  AVINASH SINGH         CORRELATED ELECTRONS AND QUANTUM MAGNETISM     3
+21   PSY774A  KUMAR RAVI PRIYA       QUALITATIVE RESEARCH : THEORY AND PRACTICE          3
+22   SOC753A   JILLET SARAH SAM       SOCIOLOGY OF SOCIAL MOBILITY                       3
+23   AE707A   RAJESH KITEY           EXPERIMENTAL STRESS ANALYSIS                       4
+24  CHM649A  ASHIS KUMAR PATRA     PRINCIPALES OF INORGANIC CHEMISTRY                 4
+25  CHM667A  MAINAK            QUANTUM DYNAMICS IN CHEMISTRY                    4
+26   CS203B   ANIL SETH            MATHEMATICS FOR COMPUTER SCIENCE -III              4
+27   EE481A   YATINDRA NATH SINGH   ELECTRICAL ENGINEERING LABORATORY -II               4
+
+RENEWABLE ENERGY - ECONOMICS, POLICY AND
+28  MBA782A  ANOOP SINGH          REGULATION                                       4
+29   ME624A  BASANT LAL SHARMA    CALCULUS OF VARIATIONS                            4
+
+CHANDRAPRAKASH
+30   ME723A  CHINDAM           WAVE PROPAGATION IN SOLIDS                        4
+
+NILESH PRAKASH        CRYSTALLOGRAPHIC TEXTURE & MECROSTRUCTURAL
+31  MSE683A  GURAO                ENGINEERING                                      4
+32  MTH633A  ABHIJIT PAL            INTRODUCTION TO HYPERBOLIC GEOMETRY              4
+
+SANTOSHA KUMAR      INTRODUCTION TO LIE ALGEBRAS AND
+33  MTH641A  PATTANAYAK           REPRESENTATION THEORY                            4
+34  MTH759A  ASHIS MANDAL          ALGEBRIC TOPOLOGY II                               4
+
+Page 2 of 3
+
+[PAGE 3]
+A V RAVISHANKAR
+35   PHI775A  SARMA                PHILOSOPHY OF MIND                                4
+36   BSE614A  DHIRENDRA S KATTI       TISSUE ENGINEERING                                5
+37   CE612A   RAJESH SRIVASTAVA      FLUID MECHANICS LABORATORY                       5
+38   CHE619A  NAVEEN TIWARI        ADVANCED FLUID MECHANICS                         5
+39  MBA677A  ANOOP SINGH          PROJECT FINANCING & MANAGEMENT                  5
+40  MTH683A  SUBHRA SANKAR DHAR   NON-PARAMETRIC INFERENCE                         5
+
+S ANANTHA
+41   PHY552A  RAMAKRISHNA           CLASSICAL ELECTRODYNAMICS I                        5
+42   SOC757A  MUNMUN JHA        LAW AND SOCIAL CHANGE                            5
+
+Page 3 of 3

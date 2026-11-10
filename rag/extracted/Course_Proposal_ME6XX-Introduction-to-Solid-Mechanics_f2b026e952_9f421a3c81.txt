@@ -1,0 +1,150 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+Proposal for Course Revision
+
+1. Course Number: ME621
+2. Course Title: Introduction to Solid Mechanics
+3. Per Week Lectures: 3L + 0T + 0P. Credits: 9. Duration: Full Semester
+4. Proposing Department: Mechanical Engineering
+Other departments which may be interested in the course: AE
+5. Proposing Instructors: Anurag Gupta, Ushasi Roy, P. Venkitanarayanan
+6. Course description
+A) Objectives:
+ME621 is a compulsory foundational course for incoming graduate students in solid mechanics and for the
+proposed postgraduate programme in computational mechanics. The course develops an understanding of
+deformation, stress, balance laws, constitutive behaviour, and the formulation of boundary-value problems. It
+prepares students to approach unfamiliar problems with sound mechanical reasoning and to pursue advanced
+study in solid and computational mechanics. The course aims to cultivate an appreciation of the subject
+through careful examination of assumptions, physical interpretation, and the limits of models.
+Linear isotropic elasticity provides the main working framework. Selected analytical solutions illustrate the
+structure of the theory and provide benchmarks for checking predictions. Thermoelasticity and linear
+viscoelasticity extend this foundation through thermal eigenstrain and material memory. An expository field-
+coupling module introduces magnetoelasticity, with emphasis on formulating a new problem using familiar
+principles.
+B) Course outline:
+The course comprises 40 lectures of 50 minutes each. Every module ends with one supervised in-class
+problem-solving session (of around 30-50 minutes). In the following, a brief description of contents in each
+module is followed by suggestions (in smaller font) for the supervised problem-solving session. The instructor
+can choose a problem from the suggestions according to her/his taste.
+Module 1 Deformation and compatibility (5 lectures)
+Tensor notation and calculus through mechanical examples; reference and deformed configurations;
+deformation gradient; finite and infinitesimal strain; physical interpretation; principal strains; compatibility.
+Use an affine displacement field to identify normal and shear strains, principal directions, and changes of lengths and angles.
+Compare an infinitesimal rotation with a finite rigid rotation to expose the limits of linearised strain. Give a simple planar strain
+field and ask whether it is compatible and whether a displacement can be recovered locally. Discuss the role of domain topology
+when interpreting local compatibility.
+Module 2 Stress and balance laws (4 lectures)
+Traction and Cauchy stress; interpretation and principal stresses; linear and angular momentum balances;
+assumptions behind stress symmetry; equilibrium and the role of inertia.
+For a given stress tensor, determine traction on differently oriented planes and interpret normal and shear components. Use a
+polynomial stress field to test equilibrium and infer required body forces. Check the global force and moment balance of
+boundary tractions. Ask what assumptions permit a symmetric Cauchy stress and when neglect of inertia is appropriate.
+
+[PAGE 2]
+Module 3 Constitutive modelling (4 lectures)
+Isotropic linear elasticity; elastic constants; stress power and stored energy; positive definiteness; Mechanical
+work, heat, and internal energy; distinction between energy conservation and dissipation; entropy and
+Helmholtz free energy at an introductory level. Constitutive potentials and their role in elastic and coupled
+material response.
+Compare uniaxial stress with uniaxial strain in the same isotropic material. Separate volumetric and distortional responses and
+examine positive strain energy and admissible elastic constants. Use loading and unloading paths to distinguish elastic storage
+from dissipation.
+Module 4 Formulating an elastic problem (5 lectures)
+Strong formulation and Navier equations; displacement and traction boundary conditions; virtual work and
+weak formulation; rigid-body modes; uniqueness and superposition.
+Formulate an elastic body with mixed boundary conditions and identify missing supports, rigid-body motions, or unbalanced
+prescribed tractions. Derive the weak form of an axially loaded bar and then extend the reasoning to a small-strain solid.
+Illustrate the usefulness of uniqueness and superposition using a simple problem.
+Module 5 Reductions and selected exact solutions (4 lectures)
+Plane stress, plane strain, anti-plane shear and axisymmetry; validity of reductions; selected cylinder problems.
+Use a pressurised thick cylinder to compare plane-strain and free-end or closed-end idealisations. Consider simple plane
+problems and illustrate their validity with respect to the full 3-D problem. Ask students to check assumptions and boundary
+conditions before evaluating stresses.
+Module 6 Stress concentrations and singularities (5 lectures)
+Circular-hole fields; stress concentration; singular wedge problems; physical interpretation of singularities.
+Supply selected expressions for stresses around a circular hole and ask students to check traction-free conditions, far-field
+behaviour, and stress concentration. Compare a smooth hole with a sharp crack using a supplied near-tip field. Examine a
+sequence of computed crack-tip stresses as the mesh is refined and discuss meaningful quantities for comparison.
+Module 7 Thermoelasticity (4 lectures)
+Thermal eigenstrain, free-expansion and constraints, compatibility and residual stress, all with prescribed
+temperature fields; heat conduction and an introduction to coupled thermal-mechanical formulations.
+Revisit an elastic bar under uniform heating, first with free ends and then with fixed ends or an elastic support. Extend the
+example to a bonded pair with different thermal expansion coefficients. Ask when thermal eigenstrain can be accommodated
+without stress; spatial variation alone is insufficient to establish that stress must occur. Formulate a simple steady conduction
+problem and distinguish a prescribed temperature field from a coupled thermal-mechanical calculation.
+Module 8 Linear viscoelasticity (4 lectures)
+Creep and relaxation; simple spring-dashpot models and a standard linear solid; constitutive evolution and
+history; initial conditions; dissipation and characteristic times.
+Apply a step strain or step stress to a standard linear solid. Sketch the response before solving, identify the correct initial
+conditions, and examine short- and long-time limits. Reuse the restrained-bar setting to study reaction relaxation under fixed
+extension. Compare models that recover their original length with models permitting persistent flow and relate their responses
+to storage and dissipation.
+Note: Use the standard linear solid as the main example for understanding material memory, creep, relaxation, and dissipation. Derive its
+constitutive evolution from the spring–dashpot arrangement and examine initial conditions and short- and long-time behaviour. Other
+elementary models may be used briefly to clarify differences in recovery and persistent flow. The emphasis should remain on interpreting time-
+dependent response and formulating a simple initial-value problem. A one-dimensional differential-equation treatment is sufficient for the
+principal development.
+
+[PAGE 3]
+Module 9 A field coupled solid (5 lectures)
+Magnetoelastic modelling using a supplied consistent constitutive potential; magnetic field variables and
+magnetostatic equations; mechanical and magnetic boundary conditions; prescribed-field and coupled
+formulations; limiting cases and verification.
+Use a magnetically responsive bar or simple layer with a supplied small-strain constitutive potential and clearly defined
+magnetic variables. Compare free and restrained responses under a prescribed field. Then identify the additional unknowns,
+magnetostatic equations, and interface conditions required when the field must also be solved. State the energy convention and
+traction treatment consistently, including the surrounding magnetic field where required; avoid double-counting magnetic
+forces.
+Note: Use one simple coupled system to demonstrate how the established formulation process extends to unfamiliar physics. For
+magnetoelasticity, work with a supplied constitutive potential, explicitly defined magnetic variables, and a consistent treatment of energy and
+boundary tractions. Develop a prescribed-field example before identifying what changes when the magnetic field must also be solved. A simple
+geometry and one constitutive model are sufficient. The instructor may choose another coupling while retaining the same objectives of
+formulation, interpretation, and verification.
+General remarks
+1. A common problem can be used across modules: A restrained bar can be revisited under elastic loading,
+thermal expansion, viscoelastic relaxation, and a supplied magnetic coupling. Keep the geometry familiar and
+change one physical ingredient at a time. Ask students to state which parts of the formulation remain valid and
+which must change.
+2. Emphasise the recurring formulation of identify fields, kinematics, balances, constitutive assumptions,
+boundary and initial conditions.
+3. Mathematical preliminaries (tensor algebra/calculus, integral theorems) should be developed alongside
+their use. Targeted refresher exercises can be given.
+4. Connection with computation. Teach the weak form and distinguish displacement conditions from traction
+conditions. Use occasional numerical plots or short demonstrationsText         to examine modelling choices,
+convergence, and near-incompressibility.
+5. AI usage. Allow AI, symbolic tools, and code during preparation, subject to a clear policy. Students remain
+responsible for checking outputs and acknowledging substantive assistance in submitted preparation work.
+Give all students the same flawed derivation or numerical result to critique when practicing diagnosis. Grades
+should rest on supervised work and individual explanation.
+Assessment policy
+Supervised module sessions (50%).
+Mid-term grand viva (25%).
+End-term grand viva (25%).
+The supervised sessions are to be followed with detailed assignments (which can be done in groups). The
+grading should be based on the work that the students do in class.
+The vivas will include giving problems sets a day prior to the oral examination. The examination, tentatively
+around 15 mins in duration per student, should assess student’s understanding of the problem, the solution
+methodology, the underlying assumptions, and simple extensions.
+C) Prerequisites: None
+D) Short Summary for Including in the Courses of Study Booklet
+Deformation and compatibility, Stress and balance laws, Constitutive modelling, Linear Elasticity, Singular
+Problems, Thermoelasticity, Linear viscoelasticity, Field coupled solid.
+
+[PAGE 4]
+7. References
+1. J. R. Barber, Elasticity, 4th edition, Springer. (Modules 3 to 7).
+2. W. S. Slaughter, The Linearized Theory of Elasticity, Springer. (Modules 1 to 5).
+3. L. Anand and S. Govindjee, Continuum Mechanics of Solids, Oxford. (Modules 3, 7 to 9).
+Additional reading prescription may be needed in the last three modules as per the preference of the
+instructor.
+8. Any other remarks: nil
+
+SIGN
+
+Dated:___________________04-Nov-2026           Proposer:___________________
+Dated:___________________ DPGC Convener:___________________
+
+The course is approved / not approved
+
+Chairman, SPGC
+Dated:___________________

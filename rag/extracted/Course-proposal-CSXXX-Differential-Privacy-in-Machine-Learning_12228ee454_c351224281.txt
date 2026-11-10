@@ -1,0 +1,90 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+Department of Computer Science and Engineering
+Proposal for a New Course
+
+1. Course Title: Differential Privacy in Machine Learning
+2. Course No.:
+3. Credits: 3-0-0-0 [9].
+4. Duration of Course: Full Semester
+5. Who can take this course: Any UG student who has done CS203 (or, equivalent) or CS771
+(or. equivalent) and any PG student is eligible for doing this course. Instructor's consent
+will be needed for enrolling in this course. Moreover, while deciding enrolment some
+filtering may be used based on the performance in the courses (Desirable: at least A grade
+in CS203 or at least B grade in CS771).
+6. Proposing Department: CSE
+7. Other Departments/IDPs which may be interested in the proposed course:
+Mathematics, Electrical Engineering.
+8. Other faculty members interested in teaching the proposed course: Any faculty
+member from the area of information theory and machine learning.
+9. Proposing Instructor: Sayak Ray Chowdhury, Department of CSE.
+10. Objectives: How can we extract insights from a dataset containing sensitive information
+while ensuring the privacy of the individuals  it includes? This course addresses this
+question by examining the limitations of simple approaches and advancing to solutions
+involving differential privacy. The class will cover fundamental principles of differential
+privacy, delve into algorithms for attaining privacy, and explore applications in statistics
+and machine  learning. Students  will complete mathematical  exercises, engage  in
+programming tasks, and undertake a final project as part of the course (in groups;
+depending on the size of the batch).
+11. Contents:
+
+S.No   Broad Title          Topics                                        No. of
+Lectures
+
+1.    Overview and       Course logistics and evaluation details            1
+Motivation of the
+course
+
+2.     Attacks on           Reconstruction attacks                         1
+statistical data
+privacy
+
+[PAGE 2]
+3.    What do we mean     Introduction to differential privacy                2
+by privacy in           Differential privacy in US Census
+Machine Learning?
+
+4.     Definition of          Pure, approximate, concentrated and Renyi        2
+Differential Privacy    differential privacy
+
+5.     Properties of         Post-processing, basic and advanced             2
+Differential           composition, privacy conversions
+Privacy
+
+6.     Algorithms for        Laplace mechanism, Exponential mechanism,      5
+achieving           Gaussian mechanism. Sparse vector technique,
+Differential           Binary tree mechanism
+Privacy
+
+7.     Differential            Private mean estimation                       2
+Privacy in            Adaptive data analysis
+Statistics
+
+8.      Differential            Private empirical risk minimization                5
+Privacy in             Private gradient descend and moment
+Machine             accountants
+Learning              Private FTRL
+
+9.    Other topics         Privacy in Game theory and mechanism Design      4
+Privacy in Online learning and multi-armed bandits
+Private Synthetic data generation
+
+10      Project            Survey multiple papers and present a report         4
+Presentations      Comparison study of private ML algorithms
+Open ended research projects
+
+Reference books: None. However, the relevant materials will be provided
+Text books / monographs:
+1. The Algorithmic Foundations of Differential privacy. Cytnthia Dwork and
+Adam Smith.
+2. The Complexity of Differential privacy. Salil P. Vadhan
+
+Dated: 26-09-2024__________________Proposer: Sayak Ray Chowdhury
+
+[PAGE 3]
+Dated: 26-09-2024__________________DPGC Convener: Prof. Piyush Rai
+
+The course is approved/not-approved
+
+SPGC/SUGC Chairperson
+Dated: _________________

@@ -1,0 +1,73 @@
+[Page 1]
+Course Proposal 
+Department of Electrical Engineering 
+Indian Institute of Technology Kanpur 
+1. Course Number: EE798I (Old Course No.), (Old course name: Nanophotonics) 
+2. Course Title: Integrated Nanophotonics: From Maxwell to Photonic Circuits 
+3. Prerequisite: Basic familiarity with electromagnetism/Maxwell’s equations. 
+4. Course Credits: (3-0-0-0) [9] 
+5. Course Duration: Full Semester 
+6. Proposing Department: EE 
+7. Proposing Instructor: Rituraj, email: rituraj@iitk.ac.in 
+Other faculty members who may be interested in teaching the course: 
+Prof. Shilpi Gupta, Prof. Debdatta Ray 
+8. Other departments who may be interested in the proposed course: Physics, MSE, 
+SEE. 
+9. Course Type: PG, 3rd & 4th year UG, Open Elective 
+10. Course Description: Photonic devices and systems play a crucial role in diverse areas 
+ranging from modern communication, information processing, display, imaging, and 
+energy harvesting. To meet the current technological demands in these areas, photonic 
+systems have increasingly grown in complexity and functionality. Some of the notable 
+developments in recent years include Photonic integrated circuits (or Silicon photonics), 
+photonic accelerators for AI, AR/VR displays, and quantum communication networks. 
+This course aims to bridge the gap between the “abstract” Maxwell’s equations and the 
+building blocks of a photonic integrated circuit. The course starts with a discussion of 
+different formulations of the Maxwell’s equations, the general properties of its solutions, 
+and the commonly used techniques to determine these solutions. Building on these, the 
+course introduces the standard photonic structures such as dielectric waveguides, cavities, 
+and photonic crystals. Numerical simulation and visualization tools are frequently used to 
+better illustrate the concepts. The course concludes with a discussion of designing photonic 
+systems using these standard building blocks for a certain application. 
+ 
+11. Course Contents: 
+Content Outline of Lectures 
+Lect. 
+Introduction: Importance, applications, and scope of the course 
+1 
+Maxwell’s equations in time-domain: Differential & Integral forms, Constitutive 
+relations, Free and bound sources, Analogy with Linear and Time Invariant (LTI) 
+systems, Continuity equation, Energy conservation, Poynting vector, Wave equation, 
+Plane wave solution, Polarization, Pulses of finite duration 
+6
+
+[Page 2]
+Maxwell’s equations in frequency-domain: Fourier transform, Phasors, Drude model, 
+Lossy and dispersive media, Time-reversal symmetry, Scaling invariance, Gaussian 
+beam 
+4 
+Inhomogeneous media: Field continuity conditions & Solution methodology, Step 
+discontinuity, Reflection, Refraction, Total Internal Reflection, Dispersion plots, 
+Brewster angle, Multi-layer dielectric stacks, Transfer Matrix Method, Wave 
+impedance formulation, Dielectric mirror and Anti-reflection coating 
+8 
+Dielectric waveguide: Divergence of Gaussian beam, Guided modes of a dielectric 
+slab, Group velocity and dispersion, Different waveguide geometries, Excitation of 
+waveguide modes 
+6 
+Photonic crystals: Unit cell and Reciprocal lattice, Bloch’s theorem, Eigenvalue 
+formulation of Maxwell’s equations & Band structure, 1D photonic crystal, Origin 
+of bandgap, Omni-directional dielectric mirror, Fabry-Perot cavity, Bragg fiber, 
+Grating coupler, Perturbation theory, 2D and 3D photonic crystals 
+7 
+Photonic Integrated Circuits: Different material platforms, Coupled-mode theory, 
+Scattering matrix, Directional coupler, Y Splitter, Mach-Zehnder Modulator, Ring-
+resonator, Waveguide filter design, LIDAR and/or AR/VR displays 
+7 
+Total no. of lectures 39 
+
+9. References: 
+1. “Waves and Fields in Optoelectronics”, Hermann A. Haus. 
+2. “Photonic Crystals: Molding the Flow of Light”, Joannopoulos, Johnson, Winn and 
+Meade. 
+3. “Fundamentals of Photonics”, Saleh and Teich 
+4. Journal papers

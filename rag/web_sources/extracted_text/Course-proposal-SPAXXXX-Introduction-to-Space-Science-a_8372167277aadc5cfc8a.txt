@@ -1,0 +1,162 @@
+[Page 1]
+Indian Institute of Technology, Kanpur 
+Proposal for a New Course for Undergraduate studies 
+ 
+1. Course No: 
+ 
+2. Course Title: Introduction to Space Science and Technology 
+ 
+3. Per Week Lectures: 3(L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours[0-2]:0 (A), Credits 
+(3*L+2*T+P+A): 9, Duration of Course: Full Semester 
+ 
+4. Proposing Department/IDP : Space, Planetary & Astronomical Sciences & Engineering (SPASE) 
+Other Departments/IDPs which may be interested in the proposed course: 
+ Other faculty members interested in teaching the proposed course: 
+5. Proposing Instructor(s): Soumyabrata Chakrabarty 
+ 
+6. Course Description: 
+ 
+A. Objectives: The objective of this course is to introduce the students from interdisciplinary 
+Engineering and science streams to the fundamentals of the science and Engineering topics 
+related to manmade orbital satellites and its environment. 
+ 
+B. Contents (preferably in the form of 5 to 10 broad titles): 
+S 
+No. 
+Broad Title 
+Topics 
+No. of 
+lectures 
+1 
+Introduction to 
+Space 
+Environment 
+Orbital Spacecraft and the ambient space environment, 
+interactions 
+between 
+the 
+environment 
+and 
+a 
+spacecraft, 
+solar 
+wind, 
+the 
+magnetosphere, 
+geomagnetic substorms, the auroral region, the 
+radiation belts, relevance of the space plasma 
+environment on spacecraft charging; spacecraft 
+charging, spacecraft potential, electron and ion fluxes, 
+current and potential equilibrium, spacecraft charging 
+in Maxwellian plasma. 
+7 
+2 
+Orbits and its 
+dynamics 
+Keplerian orbits, Kepler’s laws, Newton’s law, relative 
+movement of two-point bodies, orbital parameters, 
+subsatellite path, apogee, perigee, the earth’s orbit, 
+earth–satellite geometry, eclipses of the sun, sun–
+satellite conjunction, useful orbits for satellite 
+applications, elliptical orbits with non-zero inclination, 
+geosynchronous elliptic orbits with zero inclination, 
+geosynchronous 
+circular 
+orbits 
+with 
+non-zero 
+inclination, sub-synchronous circular orbits with zero 
+inclination, 
+geostationary 
+satellite 
+orbits, 
+sun-
+synchronous orbit, orbit perturbations. 
+8 
+3 
+Launch vehicles 
+Injection into orbit with a conventional launcher, 
+transfer 
+phase, 
+Hohmann 
+transfer 
+orbit, 
+3
+
+[Page 2]
+geosynchronous transfer orbit, positioning phase, 
+different types of launchers: basic principles, specific 
+impulse, rocket equation, Indian launch vehicles; 
+elements of SLV, ASLV, PSLV, GSLV, SSLV, RLV. 
+4 
+Different 
+segments of an 
+artificial satellite 
+Space segments, power system, attitude and orbit 
+control system, station keeping, thermal control, TT&C 
+subsystem, 
+payloads, 
+propulsion 
+system; 
+earth 
+segments; receive-only home TV systems, transmit-
+receive earth stations, large earth stations. 
+4 
+5 
+Reliability of 
+satellite systems 
+and its 
+application 
+introduction to reliability for satellite systems to 
+operate in space environment. Application of satellites 
+in Communication, Navigation, remote sensing, outer 
+space exploration. 
+5 
+ 
+C. Pre-requisites: Not Applicable. 
+D. Short summary for including in the Courses of Study Booklet: The aim of this course is to 
+introduce the students from interdisciplinary Engineering and science streams to the 
+fundamentals of the science and Engineering topics related to man-made orbital satellites. 
+The students will learn about the space environment and effects on the spacecrafts, different 
+earth’s orbits and the dynamics, plasma environment, orbital dynamics, satellite charging, 
+launch vehicles, different segments of a satellite system, reliability of satellite systems, 
+applications of different types of satellites. The course is targeted for all engineering and 
+science disciplines. 
+ 
+7. Recommended books: 
+Textbooks: 
+- 
+Pankaj Jain, ‘An introduction to astronomy and astrophysics’ CRC Press, Taylor and Francis 
+Group, 2015 
+- 
+Max Jammer, ‘Concepts of Space The History of Theories of Space in Physics’ Dover 
+Publications, Inc. 1993 
+- 
+Shu T. Lai, ‘Fundamentals of Spacecraft Charging: Spacecraft Interactions with Space Plasmas’ 
+Princeton University Press, 2012. 
+- 
+Gerard Maral, Michel Bousquet, ‘Satellite Communications Systems, Systems, Techniques and 
+Technology’ John Wiley & Sons Ltd, 2009 
+- 
+Dennis Roddy, ‘Satellite Communications’ McGraw-Hill, 2001 
+ 
+Reference Books: 
+ 
+- 
+Shu T. Lai, ‘Spacecraft Charging’ American Institute of Aeronautics and Astronautics, Inc., 2011 
+- 
+Travis S. Taylor, ‘Introduction to Rocket Science and Engineering’, CRC Press, 2017 
+- 
+Patrick D. T. O’connor, Andre Kleyner, ‘Practical Reliability Engineering’, 2 John Wiley & Sons, 
+Ltd, 2012. 
+- 
+Iain H. Woodhouse, ‘Introduction to Microwave Remote Sensing’, CRC Press, Taylor & Francis 
+Group, 2006.
+
+[Page 3]
+8. Any other remarks: 
+Dated:25.12.2023 (Revised on July 29, 2024) Proposer: Soumyabrata Chakrabarty 
+Dated:_______________ DUGC/DPGC Convener:___________________ 
+The course is approved / not approved 
+Chairman, SUGC/SPGC 
+Dated:______________________________

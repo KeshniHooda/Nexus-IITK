@@ -1,0 +1,731 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr" >
+  <head>
+      <base href="http://web.iitk.ac.in/july14doaan/academic-departments" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="author" content="Swati" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Academic Departments</title>
+  <link href="/july14doaan/templates/iitk/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/july14doaan/plugins/system/mediabox_ck/mediabox_ck/mediaboxAdvBlack21.css" type="text/css" />
+  <link rel="stylesheet" href="http://web.iitk.ac.in/july14doaan/modules/mod_bt_smartsearch/tmpl/css/form.css" type="text/css" />
+  <link rel="stylesheet" href="http://web.iitk.ac.in/july14doaan/modules/mod_bt_smartsearch/tmpl/css/chosen.css" type="text/css" />
+  <link rel="stylesheet" href="/july14doaan/media/com_finder/css/finder.css" type="text/css" />
+  <link rel="stylesheet" href="http://web.iitk.ac.in/july14doaan/modules/mod_icemegamenu/themes/default/css/default_icemegamenu.css" type="text/css" />
+  <link rel="stylesheet" href="/july14doaan/modules/mod_djmultitreemenu/assets/css/djmultitreemenu.css" type="text/css" />
+  <link rel="stylesheet" href="/july14doaan/modules/mod_djmultitreemenu/assets/css/djmultitreemenu_fx.css" type="text/css" />
+  <style type="text/css">
+
+			#mbCenter {
+	background-color: #fff;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	-webkit-box-shadow: 0px 5px 20px rgba(0,0,0,0.50);
+	-khtml-box-shadow: 0px 5px 20px rgba(0,0,0,0.50);
+	-moz-box-shadow: 0px 5px 20px rgba(0,0,0,0.50);
+	box-shadow: 0px 5px 20px rgba(0,0,0,0.50);
+	/* For IE 8 */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=5, Direction=180, Color='#000000')";
+	/* For IE 5.5 - 7 */
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=5, Direction=180, Color='#000000');
+        behavior: url(http://web.iitk.ac.in/july14doaan/plugins/system/mediabox_ck/mediabox_ck/PIE.htc);
+	}
+	
+	#mbOverlay {
+		background-color: #000;
+	}
+	
+	#mbCenter.mbLoading {
+		background-color: #fff;
+	}
+	
+	#mbBottom {
+		color: #999;
+	}
+	
+	#mbTitle, #mbPrevLink, #mbNextLink, #mbCloseLink {
+		color: #fff;
+	}
+		.borderinput{margin-right:63px;} .btnsearch{position:absolute;top: 0px; right: -4px;}
+  </style>
+  <script src="/july14doaan/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/july14doaan/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/july14doaan/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/july14doaan/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js" type="text/javascript"></script>
+  <script src="/july14doaan/plugins/system/jqueryeasy/jquerynoconflict.js" type="text/javascript"></script>
+  <script src="/july14doaan/plugins/system/mediabox_ck/mediabox_ck/mediaboxAdv-1.3.4b.js" type="text/javascript"></script>
+  <script src="/july14doaan/plugins/system/mediabox_ck/mediabox_ck/quickie.js" type="text/javascript"></script>
+  <script src="/july14doaan/templates/iitk/javascript/md_stylechanger.js" type="text/javascript" defer="defer"></script>
+  
+  
+  <script src="/july14doaan/media/com_finder/js/autocompleter.js" type="text/javascript"></script>
+  <script src="http://web.iitk.ac.in/july14doaan/modules/mod_icemegamenu/assets/js/icemegamenu.js" type="text/javascript"></script>
+  <script src="/july14doaan/modules/mod_djmultitreemenu/assets/js/djmultitreemenu.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});
+                    Mediabox.scanPage = function() {
+                        var links = document.getElements("a").filter(function(el) {
+                            return el.rel && el.rel.test(/^lightbox/i);
+                        });
+                        links.mediabox({
+                        overlayOpacity : 	0.7,
+						resizeOpening : 	1,
+						resizeDuration : 	240,
+						resizeTransition : 	0,
+						initialWidth : 		320,
+						initialHeight : 	180,
+						defaultWidth : 		640,
+						defaultHeight : 	360,
+						vertioffset : 		0,
+						horizoffset : 		0,
+						showCaption : 		1,
+						showCounter : 		1,
+						attribType :		'rel',
+                        playerpath: 'http://web.iitk.ac.in/july14doaan/plugins/system/mediabox_ck/mediabox_ck/NonverBlaster.swf'
+                        }, null, function(el) {
+                            var rel0 = this.rel.replace(/[[]|]/gi," ");
+                            var relsize = rel0.split(" ");
+                            return (this == el) || ((this.rel.length > 8) && el.rel.match(relsize[1]));
+                        });
+                    };
+                    window.addEvent("domready", Mediabox.scanPage);
+                    	(function($){ // Mootools Safe Mode ON		window.addEvent('domready',function(){		var DJTreeMenusAll = $('dj-mtmenu93').getChildren('li.dj-up');		var wrapper = $('');		DJTreeMenusAll.each(function(djmenu){			if(djmenu.getElement('.dj-drop')) {				DJTreeMenus.include(new DJTreeMenu(djmenu,0,wrapper,{transition: 'cubic:out', duration: 100, delay: 0, submenu_tree: 1,		height_fx: true, width_fx: true, opacity_fx: true, mid: 93 }));			} else {				djmenu.addEvent('mouseenter',function(){					djmenu.addClass('hover');				});				djmenu.addEvent('mouseleave',function(){					djmenu.removeClass('hover');				});			}		});		});		})(document.id);
+  </script>
+
+    <link rel="stylesheet" href="/july14doaan/templates/system/css/system.css" type="text/css" />
+    <link rel="stylesheet" href="/july14doaan/templates/iitk/css/position.css" type="text/css" media="screen,projection" />
+    <link rel="stylesheet" href="/july14doaan/templates/iitk/css/layout.css" type="text/css" media="screen,projection" />
+    <link rel="stylesheet" href="/july14doaan/templates/iitk/css/print.css" type="text/css" media="Print" />
+    <link rel="stylesheet" href="/july14doaan/templates/iitk/css/iitk.css" type="text/css" />
+    <link rel="stylesheet" href="/july14doaan/templates/iitk/css/general.css" type="text/css" />
+        <!--[if lte IE 6]>
+      <link href="/july14doaan/templates/iitk/css/ieonly.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 7]>
+      <link href="/july14doaan/templates/iitk/css/ie7only.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+
+    <!--[if IE]>
+      <link href="/july14doaan/templates/iitk/css/ie-modified.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+
+
+    <script type="text/javascript" src="/july14doaan/templates/iitk/javascript/hide.js"></script>
+
+    <script type="text/javascript">
+      var big ='72%';
+      var small='53%';
+      var altopen='is open';
+      var altclose='is closed';
+      var bildauf='/july14doaan/templates/iitk/images/plus.png';
+      var bildzu='/july14doaan/templates/iitk/images/minus.png';
+      var rightopen='Open info';
+      var rightclose='Close info';
+      var fontSizeTitle='Font size';
+            var bigger='Bigger';
+            var reset='Reset';
+            var smaller='Smaller';
+            var biggerTitle='Increase size';
+            var resetTitle='Revert styles to default';
+            var smallerTitle='Decrease size';
+    </script>
+
+<meta name="google-site-verification" content="idhCedXYpEfEdy3WqZIPtUjX18lnFR8L6JlfgEwp3og" />
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-68172282-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+        
+  <script type="text/javascript" src="http://web.iitk.ac.in/july14doaan/plugins/system/mooimageck/mooimageck/mooPuffy_CK.js"></script>
+<script type="text/javascript">
+window.addEvent('domready', function() {new Moopuffy_ck($$('.left'),{mooDuree:500,ratio:1.3});});
+</script>
+<script type="text/javascript" src="http://web.iitk.ac.in/july14doaan/plugins/system/mooimageck/mooimageck/mooOpacite_CK.js"></script>
+<script type="text/javascript">
+window.addEvent('domready', function() {new mooOpacite_ck($$('.center'),{mooDuree1:100,mooDuree2:500,opacite:0.5});});
+</script>
+<script type="text/javascript" src="http://web.iitk.ac.in/july14doaan/plugins/system/mooimageck/mooimageck/mooShake_CK.js"></script>
+<script type="text/javascript">
+window.addEvent('domready', function() {new MooShake_ck($$('.right'),{mooDuree:100});});
+</script>
+<script type="text/javascript" src="http://web.iitk.ac.in/july14doaan/plugins/system/mooimageck/mooimageck/reflection.js"></script>
+</head>
+
+  <body>
+    <div id="top-menu-container">
+    <div id="top-shadow"></div>
+    <div id="top-menu"><ul id="dj-mtmenu93" class="dj-mtmenu"><li class="dj-up itemid315 first"><a href="/july14doaan/" class="dj-up_a " ><span >Home</span></a></li>
+<li class="dj-up itemid825 separator"><a class="dj-up_a " ><span class="dj-drop" >Time Table</span></a>
+<div class="djsubwrap" style="left:0px;"><div class="cols_2"><div class="sub-bg">
+									<ul class="dj-submenu clearfix" >
+<li class="itemid826 first"><a href="/july14doaan/core-time-table" class="" >Core Time Table </a></li>
+<li class="itemid927 last"><a href="/july14doaan/exam-schedule" class=""  target="_blank">Exam Schedule</a></li>
+</ul>
+ </div></div></div></li>
+<li class="dj-up itemid827 separator"><a class="dj-up_a " ><span class="dj-drop" >Services</span></a>
+<div class="djsubwrap" style="left:0px;"><div class="cols_5"><div class="sub-bg">
+									<ul class="dj-submenu clearfix" >
+<li class="itemid828 first"><a href="/july14doaan/transcripts-and-certificates" class="" >Transcripts and Certificates</a></li>
+<li class="itemid937"><a href="http://web.iitk.ac.in/lhcbooking/" class=""  target="_blank">Online Lecture Hall Booking</a></li>
+<li class="itemid982"><a href="http://www.iitk.ac.in/bau/" class=""  target="_blank">Biometric Attendance Unit</a></li>
+<li class="itemid1002"><a href="http://www.iitk.ac.in/doaa/tpc/" class=""  target="_blank">Thesis Processing Cell</a></li>
+<li class="itemid1004 last"><a href="http://www.iitk.ac.in/nadcell/" class="" >National Academic Depository (NAD) Cell, IIT Kanpur</a></li>
+</ul>
+ </div></div></div></li>
+<li class="dj-up itemid848 separator"><a class="dj-up_a " ><span class="dj-drop" >Resources</span></a>
+<div class="djsubwrap" style="left:0px;"><div class="cols_4"><div class="sub-bg">
+									<ul class="dj-submenu clearfix" >
+<li class="itemid815 first"><a href="#" class="dj-more" >Student Resources</a>
+<ul class="dj-submenu2">
+<li class="itemid820 first"><a href="/july14doaan/data/thesisguide.pdf" class=""  target="_blank">Guidelines for Thesis Preparation</a></li>
+<li class="itemid1011"><a href="https://www.iitk.ac.in/doaa/data/FAQ-2020-21-I.pdf" class=""  target="_blank"><img src="/july14doaan/images/new11.gif" alt=" FAQs (2020-21-I)" /><span class="image-title"> FAQs (2020-21-I)</span> </a></li>
+<li class="itemid1012"><a href="https://www.iitk.ac.in/doaa/data/Technical_Infrastructure_Requirements.pdf" class=""  target="_blank"><img src="/july14doaan/images/new11.gif" alt=" Technical Infrastructure for Remote Learning" /><span class="image-title"> Technical Infrastructure for Remote Learning</span> </a></li>
+<li class="itemid1006"><a href="https://oag.iitk.ac.in/studoaiitk" class=""  target="_blank"><img src="/july14doaan/images/new11.gif" alt=" Thesis Upload Page" /><span class="image-title"> Thesis Upload Page</span> </a></li>
+<li class="itemid938"><a href="/july14doaan/data/Procedure_for_PhD_Thesis_Submission.pdf" class=""  target="_blank">Thesis Submission Procedure for PhD students</a></li>
+<li class="itemid1000"><a href="/july14doaan/data/Procedure_for_MSR_Thesis_Submission.pdf" class=""  target="_blank">Thesis Submission Procedure for MSR students</a></li>
+<li class="itemid999"><a href="/july14doaan/data/Procedure_for_MTech,_MDes_Thesis_Submission.pdf" class=""  target="_blank">Thesis Submission Procedure for MTech/MDes students</a></li>
+<li class="itemid1001"><a href="/july14doaan/data/Procedure_for_BT-MT_Thesis_Submission.pdf" class=""  target="_blank">Thesis Submission Procedure for BT-MT Dual Degree students</a></li>
+<li class="itemid995"><a href="http://etd.iitk.ac.in/" class="" >Thesis upload on Institute Repository</a></li>
+<li class="itemid834"><a href="http://172.26.131.10/dccourse/" class=""  target="_blank">Registration Details of Current students (as on beginning of semester)</a></li>
+<li class="itemid818"><a href="/july14doaan/data/Branch_change.pdf" class=""  target="_blank">Branch Change</a></li>
+<li class="itemid728"><a href="#" class="dj-more" >NO DUES</a>
+<ul class="dj-submenu3">
+<li class="itemid797 first"><a href="https://oars.iitk.ac.in/noduesiitk/" class=""  target="_blank">Apply for No Dues</a></li>
+</ul>
+</li>
+<li class="itemid816 last"><a href="#" class="dj-more" >Others</a>
+<ul class="dj-submenu3">
+<li class="itemid843 first"><a href="/july14doaan/forms" class="" >Forms</a></li>
+<li class="itemid886"><a href="/july14doaan/data/Guidelines-cpi.pdf" class=""  target="_blank">Guidelines for CPI Conversion</a></li>
+<li class="itemid914"><a href="/july14doaan/courses-of-study" class="" >Courses of study</a></li>
+<li class="itemid932"><a href="/july14doaan/statistical-report" class="" >Statistical Report</a></li>
+<li class="itemid933"><a href="/july14doaan/data/summer_internship_form.pdf" class=""  target="_blank">Summer Internship</a></li>
+<li class="itemid959 last"><a href="/july14doaan/data/ConvocationData.pdf" class="" >Convocation wise Graduation Data</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="itemid821"><a href="#" class="dj-more" >Faculty Resources</a>
+<ul class="dj-submenu2">
+<li class="itemid994 first"><a href="/july14doaan/academic-review-committee-2020-21" class=""  target="_blank">ARC 2020-21</a></li>
+<li class="itemid992"><a href="http://www.iitk.ac.in/doaa/academic-programme-review-committee-arc" class=""  target="_blank">ARC 2010-11</a></li>
+<li class="itemid817"><a href="http://web.iitk.ac.in/lhcbooking/" class=""  target="_blank">Online Lecture Hall Booking</a></li>
+<li class="itemid952"><a href="/july14doaan/./data/Guidelines-for-LHC-Booking.pdf" class=""  target="_blank">Guidelines for LHC Booking</a></li>
+<li class="itemid954"><a href="https://web.iitk.ac.in/ccnew/Turnitin.html" class=""  target="_blank">iThenticate and Turnitin (Intranet only)</a></li>
+<li class="itemid961"><a href="/july14doaan/data/Orientation-academics.pdf" class="" >Academics at IIT Kanpur: Orientation for New Faculty</a></li>
+<li class="itemid1005"><a href="https://sites.google.com/view/e-lectures/home?authuser=0" class=""  target="_blank"><img src="/july14doaan/images/new11.gif" alt=" Guide for Creating E-resources for Lecture Content" /><span class="image-title"> Guide for Creating E-resources for Lecture Content</span> </a></li>
+<li class="itemid1008"><a href="/july14doaan/remote-teaching/" class=""  target="_blank"><img src="/july14doaan/images/new11.gif" alt="  Lecture Series: Transitioning to Remote Teaching" /><span class="image-title">  Lecture Series: Transitioning to Remote Teaching</span> </a></li>
+<li class="itemid1010"><a href="https://www.iitk.ac.in/doaa/data/senate_decisions_implementation_2020_21_I.pdf" class=""  target="_blank"><img src="/july14doaan/images/new11.gif" alt="  Conduct of Courses (2020-21-1)" /><span class="image-title">  Conduct of Courses (2020-21-1)</span> </a></li>
+<li class="itemid1014"><a href="https://oaacad.iitk.ac.in/oagsiitk/" class=""  target="_blank"><img src="/july14doaan/images/new11.gif" alt="  Online Grade Submission" /><span class="image-title">  Online Grade Submission</span> </a></li>
+<li class="itemid1015 last"><a href="https://moodle.cse.iitk.ac.in/" class=""  target="_blank"><img src="/july14doaan/images/new11.gif" alt=" Moodle" /><span class="image-title"> Moodle</span> </a></li>
+</ul>
+</li>
+<li class="itemid942"><a href="#" class="" >extra-menu-dont-unpublish</a></li>
+<li class="itemid989 last"><a href="/july14doaan/" class="dj-more" >Pingala</a>
+<ul class="dj-submenu2">
+<li class="itemid990 first"><a href="https://pingala.iitk.ac.in/IITK-0/login" class=""  target="_blank">Current Registration/Add-Drop</a></li>
+<li class="itemid991 last"><a href="https://pingala.iitk.ac.in/IITK-0/login" class=""  target="_blank">Pre-registraion</a></li>
+</ul>
+</li>
+</ul>
+ </div></div></div></li>
+<li class="dj-up itemid917 separator"><a class="dj-up_a " ><span class="dj-drop" >Rules &amp; Regulations</span></a>
+<div class="djsubwrap" style="left:0px;"><div class="cols_3"><div class="sub-bg">
+									<ul class="dj-submenu clearfix" >
+<li class="itemid974 first"><a href="/july14doaan/" class="dj-more" >Academic Manuals</a>
+<ul class="dj-submenu2">
+<li class="itemid918 first"><a href="/july14doaan/data/UG-Manual.pdf" class=""  target="_blank">UG Manual</a></li>
+<li class="itemid1031"><a href="/july14doaan/data/PG-Manual.pdf" class=""  target="_blank">PG Manual (PDF)</a></li>
+<li class="itemid919"><a href="/july14doaan/pg-manual" class="" >PG Manual (HTML)</a></li>
+<li class="itemid1060"><a href="/july14doaan/data/MSc_MSPD-Manual.pdf" class=""  target="_blank"><img src="/july14doaan/images/new11.gif" alt=" MSc &amp; MSPD Manual (PDF)  " /><span class="image-title"> MSc &amp; MSPD Manual (PDF)  </span> </a></li>
+<li class="itemid939"><a href="/july14doaan/data/Senate-Manual.pdf" class=""  target="_blank">Senate Manual</a></li>
+<li class="itemid920 last"><a href="/july14doaan/data/ordinances_03.pdf" class=""  target="_blank">Ordinance</a></li>
+</ul>
+</li>
+<li class="itemid975"><a href="/july14doaan/" class="dj-more" >Others</a>
+<ul class="dj-submenu2">
+<li class="itemid819 first"><a href="/july14doaan/data/Code_of_Conducts_Examinations.pdf" class=""  target="_blank">Code of Conducts for Examinations</a></li>
+</ul>
+</li>
+<li class="itemid1050 last"><a href="/july14doaan/" class="dj-more" >Important Senate Decisions</a>
+<ul class="dj-submenu2">
+<li class="itemid1051 first"><a href="/july14doaan/data/Minutes_of_the_First_Meeting_of_the_Senate.pdf" class=""  target="_blank">Minutes of the First Meeting of the Senate</a></li>
+<li class="itemid1052"><a href="/july14doaan/data/Important-Senate-Decisions-2016.pdf" class=""  target="_blank">Senate Decisions 2016</a></li>
+<li class="itemid1053"><a href="/july14doaan/data/Important-Senate-Decisions-2017.pdf" class=""  target="_blank">Senate Decisions 2017</a></li>
+<li class="itemid1054"><a href="/july14doaan/data/Important-Senate-Decisions-2017-Contd-2.pdf" class=""  target="_blank">Senate Decisions 2017_Contd..2</a></li>
+<li class="itemid1055"><a href="/july14doaan/data/Important-Senate-Decisions-2018.pdf" class=""  target="_blank">Senate Decisions 2018</a></li>
+<li class="itemid1056"><a href="/july14doaan/data/Important-Senate-Decisions-2019.pdf" class=""  target="_blank">Senate Decisions 2019</a></li>
+<li class="itemid1057"><a href="/july14doaan/data/Important-Senate-Decisions-2020.pdf" class=""  target="_blank">Senate Decisions 2020</a></li>
+<li class="itemid1058"><a href="/july14doaan/data/Important-Senate-Decisions-2021.pdf" class=""  target="_blank">Senate Decisions 2021</a></li>
+<li class="itemid1066"><a href="/july14doaan/data/Important-Senate-Decisions-2021-Contd-2.pdf" class=""  target="_blank">Senate Decisions 2021_Contd.2</a></li>
+<li class="itemid1067"><a href="/july14doaan/data/Important-Senate-Decisions-2022.pdf" class=""  target="_blank">Senate Decisions 2022</a></li>
+<li class="itemid1068"><a href="/july14doaan/data/Important-Senate-Decisions-2023.pdf" class=""  target="_blank">Senate Decisions 2023</a></li>
+<li class="itemid1073"><a href="/july14doaan/data/Important-Senate-Decisions-2024.pdf" class=""  target="_blank">Senate Decisions 2024</a></li>
+<li class="itemid1079"><a href="/july14doaan/data/Important-Senate-Decisions-2025.pdf" class=""  target="_blank">Senate Decisions 2025</a></li>
+<li class="itemid1087 last"><a href="https://web.iitk.ac.in/july14doaan/data/Important-Senate-Decisions-2026.pdf" class=""  target="_blank">Senate Decisions 2026</a></li>
+</ul>
+</li>
+</ul>
+ </div></div></div></li>
+<li class="dj-up itemid940"><a href="/july14doaan/doaa-archive" class="dj-up_a "  target="_blank"><span >Archive</span></a></li>
+<li class="dj-up itemid118 separator"><a class="dj-up_a " ><span class="dj-drop" >Contact Us</span></a>
+<div class="djsubwrap" style="left:0px;"><div class="cols_1"><div class="sub-bg">
+									<ul class="dj-submenu clearfix" >
+<li class="itemid845 first"><a href="https://web.iitk.ac.in/july14doaan/dean-academic-affairs" class=""  target="_blank">DOAA Telephone Directory </a></li>
+</ul>
+ </div></div></div></li>
+<li class="dj-up itemid102 separator"><a class="dj-up_a " ><span class="dj-drop" >Quick Links </span></a>
+<div class="djsubwrap" style="left:0px;"><div class="cols_5"><div class="sub-bg">
+									<ul class="dj-submenu clearfix" >
+<li class="itemid924 first"><a href="/july14doaan/" class="dj-more" >OARS </a>
+<ul class="dj-submenu2">
+<li class="itemid925 first"><a href="https://oaacad.iitk.ac.in/oagsiitk/" class=""  target="_blank"><img src="/july14doaan/images/new11.gif" alt="  Online Grade Submission" /><span class="image-title">  Online Grade Submission</span> </a></li>
+<li class="itemid1075 last"><a href="https://oars.iitk.ac.in/oasfsiitk/" class=""  target="_blank"><img src="/july14doaan/images/new11.gif" alt="  Student Feedback System" /><span class="image-title">  Student Feedback System</span> </a></li>
+</ul>
+</li>
+<li class="itemid986"><a href="/july14doaan/" class="dj-more" >Pingala</a>
+<ul class="dj-submenu2">
+<li class="itemid988 first"><a href="https://pingala.iitk.ac.in/IITK-0/login" class=""  target="_blank">Current Registration/Add-Drop</a></li>
+<li class="itemid987 last"><a href="https://pingala.iitk.ac.in/IITK-0/login" class=""  target="_blank">Pre-registraion</a></li>
+</ul>
+</li>
+<li class="itemid929"><a href="/july14doaan/" class="dj-more" >NO DUES</a>
+<ul class="dj-submenu2">
+<li class="itemid1017 first"><a href="https://oars.iitk.ac.in/noduesiitk/" class=""  target="_blank"> Dues Clearance System</a></li>
+</ul>
+</li>
+<li class="itemid948"><a href="/july14doaan/" class="dj-more" >Course Templates </a>
+<ul class="dj-submenu2">
+<li class="itemid949 first"><a href="/july14doaan/data/Course-Template-B.Tech-BS.pdf" class=""  target="_blank">B.Tech/B.S (Y21 and earlier batches)</a></li>
+<li class="itemid1082"><a href="/july14doaan/course-templates" class=""  target="_blank">B.Tech/B.S (Y22 and onwards batches)</a></li>
+<li class="itemid950 last"><a href="/july14doaan/data/Course-Template-M.Sc.-and-M.Sc.-Ph.D.pdf" class=""  target="_blank">M.Sc. 2-Year/M.Sc.-PhD</a></li>
+</ul>
+</li>
+<li class="itemid595"><a href="/july14doaan/" class="dj-more" >Academic Calendars</a>
+<ul class="dj-submenu2">
+<li class="itemid596 first"><a href="http://web.iitk.ac.in/july14doaan/academic-calendar" class=""  target="_blank">Academic Calendar</a></li>
+<li class="itemid599"><a href="https://www.google.com/calendar/embed?src=5fv2ggkjesmp80nkd6q4f3e1es%40group.calendar.google.com&ctz=Asia/Calcutta" class=""  target="_blank">Google Calendar</a></li>
+<li class="itemid957 last"><a href="http://www.iitk.ac.in/new/institute-holidays-2018" class="" >Institute Holidays</a></li>
+</ul>
+</li>
+</ul><ul class="dj-submenu clearfix"><li class="itemid970"><a href="/july14doaan/" class="dj-more" >Important Senate Decisions</a>
+<ul class="dj-submenu2">
+<li class="itemid981 first"><a href="/july14doaan/data/Minutes_of_the_First_Meeting_of_the_Senate.pdf" class=""  target="_blank">Minutes of the First Meeting of the Senate</a></li>
+<li class="itemid971"><a href="/july14doaan/data/Important-Senate-Decisions-2016.pdf" class=""  target="_blank">Senate Decisions 2016</a></li>
+<li class="itemid976"><a href="/july14doaan/data/Important-Senate-Decisions-2017.pdf" class=""  target="_blank">Senate Decisions 2017</a></li>
+<li class="itemid1044"><a href="/july14doaan/data/Important-Senate-Decisions-2017-Contd-2.pdf" class=""  target="_blank">Senate Decisions 2017_Contd..2</a></li>
+<li class="itemid1045"><a href="/july14doaan/data/Important-Senate-Decisions-2018.pdf" class=""  target="_blank">Senate Decisions 2018</a></li>
+<li class="itemid1046"><a href="/july14doaan/data/Important-Senate-Decisions-2019.pdf" class=""  target="_blank">Senate Decisions 2019</a></li>
+<li class="itemid1047"><a href="/july14doaan/data/Important-Senate-Decisions-2020.pdf" class=""  target="_blank">Senate Decisions 2020</a></li>
+<li class="itemid1048"><a href="/july14doaan/data/Important-Senate-Decisions-2021.pdf" class=""  target="_blank">Senate Decisions 2021</a></li>
+<li class="itemid1069"><a href="/july14doaan/data/Important-Senate-Decisions-2021-Contd-2.pdf" class=""  target="_blank">Senate Decisions 2021_Contd.2</a></li>
+<li class="itemid1070"><a href="/july14doaan/data/Important-Senate-Decisions-2022.pdf" class=""  target="_blank">Senate Decisions 2022</a></li>
+<li class="itemid1071"><a href="/july14doaan/data/Important-Senate-Decisions-2023.pdf" class=""  target="_blank">Senate Decisions 2023</a></li>
+<li class="itemid1072"><a href="/july14doaan/data/Important-Senate-Decisions-2024.pdf" class=""  target="_blank">Senate Decisions 2024</a></li>
+<li class="itemid1080"><a href="/july14doaan/data/Important-Senate-Decisions-2025.pdf" class=""  target="_blank">Senate Decisions 2025</a></li>
+<li class="itemid1089 last"><a href="https://web.iitk.ac.in/july14doaan/data/Important-Senate-Decisions-2026.pdf" class=""  target="_blank">Senate Decisions 2026</a></li>
+</ul>
+</li>
+<li class="itemid967"><a href="/july14doaan/" class="dj-more" >Others</a>
+<ul class="dj-submenu2">
+<li class="itemid928 first"><a href="/july14doaan/exam-schedule" class=""  target="_blank">Exam Schedule</a></li>
+<li class="itemid915"><a href="/july14doaan/courses-of-study" class="" >Courses of Study</a></li>
+<li class="itemid958"><a href="/july14doaan/data/minors-at-iitk-updated.pdf" class=""  target="_blank">List of Minor Courses</a></li>
+<li class="itemid966 last"><a href="http://www.iitk.ac.in/doaa/faqs" class=""  target="_blank">Frequently Asked Questions (FAQs)</a></li>
+</ul>
+</li>
+<li class="itemid955 last"><a href="/july14doaan/" class="dj-more" >Important Resources</a>
+<ul class="dj-submenu2">
+<li class="itemid956 first"><a href="https://web.iitk.ac.in/ccnew/Turnitin.html" class=""  target="_blank">iThenticate and Turnitin (Intranet only)</a></li>
+</ul>
+</li>
+</ul>
+ </div></div></div></li>
+<li class="dj-up itemid754 last"><a href="/july14doaan/awards-medals" class="dj-up_a " ><span >Awards</span></a></li>
+</ul></div>
+    <div id="bottom-shadow"></div>
+</div>
+<div id="all">
+  <div id="back">
+      <div id="header">
+              
+          <!--[if IE ]>
+      
+           <div class="logoheader">
+           <div id="logoheadingbig">
+           <p>beta</p></div>
+           
+          <h1 id="logo">
+          <a href="http://web.iitk.ac.in/july14doaan/"><img src="/july14doaan/images/logo/DOAA.jpg" alt="" /></a>
+          </h1>
+          </div><!-- end logoheader -->
+
+
+    <![endif]-->
+
+    <![if !IE ]>
+
+       <div class="logoheader">
+           <div id="logoheadingbig">
+           <p></p></div>
+
+          <h1 id="logo">
+
+                    <a href="http://web.iitk.ac.in/july14doaan/"><img src="/july14doaan/images/logo/DOAA.png" alt="" /></a>
+         
+                    <span class="header1">
+                    </span></h1>
+        </div><!-- end logoheader -->
+
+
+   <![endif]>
+
+                
+            <div id="main-menu"><div class="icemegamenu"><ul id="icemegamenu"><li id="iceMenu_907" class="iceMenuLiLevel_1"><a href="/july14doaan/dean-academic-affairs" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Our Team</span></a></li><li id="iceMenu_849" class="iceMenuLiLevel_1 parent"><a class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Academics</span></a><ul class="icesubMenu sub_level_1" style="width:280px"><li><div style="float:left;width:280px" class="iceCols"><ul><li id="iceMenu_935" class="iceMenuLiLevel_2"><a href="/july14doaan/academic-programmes" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Programmes</span></a></li><li id="iceMenu_895" class="iceMenuLiLevel_2"><a href="/july14doaan/academic-departments" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Academic Departments</span></a></li><li id="iceMenu_896" class="iceMenuLiLevel_2"><a href="/july14doaan/centres-and-facilities" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Centres &amp; Facilities</span></a></li><li id="iceMenu_897" class="iceMenuLiLevel_2 parent"><a href="/july14doaan/?Itemid=897" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Academic Calendars</span></a><ul class="icesubMenu sub_level_2" style="width:280px"><li><div style="float:left;width:280px" class="iceCols"><ul><li id="iceMenu_898" class="iceMenuLiLevel_3"><a href="/july14doaan/data/calendar2016.pdf" target="_blank" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Academic Calendar 2016</span></a></li><li id="iceMenu_899" class="iceMenuLiLevel_3"><a href="/july14doaan/data/calendar2015.pdf" target="_blank" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Academic Calendar 2015</span></a></li><li id="iceMenu_900" class="iceMenuLiLevel_3"><a href="https://www.google.com/calendar/embed?src=5fv2ggkjesmp80nkd6q4f3e1es%40group.calendar.google.com&amp;ctz=Asia/Calcutta" target="_blank" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Calendar on Google</span></a></li></ul></div></li></ul></li></ul></div></li></ul></li><li id="iceMenu_850" class="iceMenuLiLevel_1 parent"><a class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">UG Students</span></a><ul class="icesubMenu sub_level_1" style="width:280px"><li><div style="float:left;width:280px" class="iceCols"><ul><li id="iceMenu_853" class="iceMenuLiLevel_2"><a href="/july14doaan/under-graduate-programme" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Programmes</span></a></li><li id="iceMenu_854" class="iceMenuLiLevel_2"><a href="/july14doaan/admissions-ug" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Admissions</span></a></li><li id="iceMenu_855" class="iceMenuLiLevel_2 parent"><a class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">SUGC</span></a><ul class="icesubMenu sub_level_2" style="width:280px"><li><div style="float:left;width:280px" class="iceCols"><ul><li id="iceMenu_904" class="iceMenuLiLevel_3"><a href="/july14doaan/admissions-ug" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Functions of SUGC</span></a></li><li id="iceMenu_858" class="iceMenuLiLevel_3"><a href="/july14doaan/data/sugcmember.pdf" target="_blank" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">SUGC Members</span></a></li><li id="iceMenu_905" class="iceMenuLiLevel_3"><a href="#" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">SUGC Minutes</span></a></li><li id="iceMenu_856" class="iceMenuLiLevel_3"><a href="/july14doaan/sugc-forms" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">SUGC Forms</span></a></li></ul></div></li></ul></li><li id="iceMenu_861" class="iceMenuLiLevel_2"><a href="/july14doaan/data/calendar2016.pdf" target="_blank" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Academic Calendar</span></a></li><li id="iceMenu_862" class="iceMenuLiLevel_2"><a href="/july14doaan/ug-resources" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Resources</span></a></li></ul></div></li></ul></li><li id="iceMenu_851" class="iceMenuLiLevel_1 parent"><a class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">PG Students</span></a><ul class="icesubMenu sub_level_1" style="width:280px"><li><div style="float:left;width:280px" class="iceCols"><ul><li id="iceMenu_863" class="iceMenuLiLevel_2"><a href="/july14doaan/post-graduate-programme" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Programmes</span></a></li><li id="iceMenu_936" class="iceMenuLiLevel_2"><a href="/july14doaan/admissions-pg" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Admission Procedure</span></a></li><li id="iceMenu_864" class="iceMenuLiLevel_2 parent"><a class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Admissions</span></a><ul class="icesubMenu sub_level_2" style="width:280px"><li><div style="float:left;width:280px" class="iceCols"><ul><li id="iceMenu_865" class="iceMenuLiLevel_3"><a href="/july14doaan/post-graduate-admission" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">PG Admission criteria</span></a></li><li id="iceMenu_866" class="iceMenuLiLevel_3"><a href="/july14doaan/guidelines-for-admission-to-part-time-programme" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Part-Time Students</span></a></li><li id="iceMenu_869" class="iceMenuLiLevel_3"><a href="/july14doaan/guidelines-for-admission-to-external-registration-programme" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">External Students</span></a></li><li id="iceMenu_868" class="iceMenuLiLevel_3"><a href="/july14doaan/guidelines-for-admission-of-sponsored-candidates" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Sponsored Students</span></a></li><li id="iceMenu_867" class="iceMenuLiLevel_3"><a href="/july14doaan/guidelines-for-admission-of-foreign-students" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Foreign Students</span></a></li></ul></div></li></ul></li><li id="iceMenu_871" class="iceMenuLiLevel_2 parent"><a class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">SPGC</span></a><ul class="icesubMenu sub_level_2" style="width:280px"><li><div style="float:left;width:280px" class="iceCols"><ul><li id="iceMenu_906" class="iceMenuLiLevel_3"><a href="/july14doaan/functions-of-spgc" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Functions of SPGC</span></a></li><li id="iceMenu_873" class="iceMenuLiLevel_3"><a href="/july14doaan/data/spgcmembers.pdf" target="_blank" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">SPGC Members</span></a></li><li id="iceMenu_874" class="iceMenuLiLevel_3"><a href="/july14doaan/spgc-minutes-and-agenda" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">SPGC Minutes </span></a></li><li id="iceMenu_872" class="iceMenuLiLevel_3"><a href="/july14doaan/spgc-forms" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">SPGC Forms </span></a></li></ul></div></li></ul></li><li id="iceMenu_876" class="iceMenuLiLevel_2"><a href="/july14doaan/academic-calendar" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Academic Calendar</span></a></li><li id="iceMenu_877" class="iceMenuLiLevel_2"><a href="/july14doaan/pg-resources" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Resources</span></a></li></ul></div></li></ul></li><li id="iceMenu_1020" class="iceMenuLiLevel_1 parent"><a class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">eMasters Students</span></a><ul class="icesubMenu sub_level_1" style="width:280px"><li><div style="float:left;width:280px" class="iceCols"><ul><li id="iceMenu_1021" class="iceMenuLiLevel_2"><a href="/july14doaan/emasters-programme" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Programme</span></a></li><li id="iceMenu_1022" class="iceMenuLiLevel_2 parent"><a class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">SOPC</span></a><ul class="icesubMenu sub_level_2" style="width:280px"><li><div style="float:left;width:280px" class="iceCols"><ul><li id="iceMenu_1023" class="iceMenuLiLevel_3"><a href="/july14doaan/data/SOPC_Functions_updated.pdf" target="_blank" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Functions of SOPC</span></a></li><li id="iceMenu_1024" class="iceMenuLiLevel_3"><a href="/july14doaan/data/SOPC_members.pdf" target="_blank" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">SOPC Members</span></a></li><li id="iceMenu_1025" class="iceMenuLiLevel_3"><a href="/july14doaan/sopc-minutes" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">SOPC Minutes</span></a></li><li id="iceMenu_1026" class="iceMenuLiLevel_3"><a href="/july14doaan/sopc-forms" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">SOPC Forms</span></a></li><li id="iceMenu_1027" class="iceMenuLiLevel_3"><a class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">eMasters Manual/ Student Handbook </span></a></li></ul></div></li></ul></li><li id="iceMenu_1028" class="iceMenuLiLevel_2"><a href="/july14doaan/data/eMasters_Academic_calendars-2022_2023.pdf" target="_blank" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Academic Calendar</span></a></li></ul></div></li></ul></li><li id="iceMenu_921" class="iceMenuLiLevel_1 parent"><a class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Circulars</span></a><ul class="icesubMenu sub_level_1" style="width:280px"><li><div style="float:left;width:280px" class="iceCols"><ul><li id="iceMenu_922" class="iceMenuLiLevel_2"><a href="/july14doaan/internal-circulars" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Internal circulars</span></a></li><li id="iceMenu_923" class="iceMenuLiLevel_2"><a href="/july14doaan/external-circulars" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">External circulars</span></a></li></ul></div></li></ul></li></ul></div>  
+<script type="text/javascript">
+    window.addEvent('domready', function() {    
+		if(document.getElementById('icemegamenu')!= null)
+		var myMenu = new MenuMatic({id:'icemegamenu',
+			subMenusContainerId: 'subMenusContainer',
+			effect:'slide &amp; fade',
+			duration:600,
+			physics:Fx.Transitions.Pow.easeOut,
+			hideDelay:1000,
+			opacity:100                                            
+		});
+    });
+</script>
+</div>
+
+          <!--ul class="skiplinks">
+            <li><a href="#main" class="u2">Skip to content</a></li>
+            <li><a href="#nav" class="u2">Jump to main navigation and login</a></li>
+                      </ul>
+          <h2 class="unseen">Nav view search</h2>
+          <h3 class="unseen">Navigation</h3>
+          
+          <!--div id="line">
+          <div id="fontsize"></div>
+          <h3 class="unseen">Search</h3>
+          
+          </div> <!-- end line -->     
+    <div id="header-image">
+      
+          </div>
+     <div id ="hoverlogo"><!--h3>Office of International Relations</h3><p>Indian Institute of Technology Kanpur</p> <img src="/july14doaan/images/header_img/doaa.png" class="hoveringlogo" /--></div> 
+          </div><!-- end header -->
+        <div id="contentarea">
+          <div id="breadcrumbs">
+                    
+              
+<script type="text/javascript">
+jQuery(document).ready(function(){	
+	jQuery('#btss-advanced').click(function(){
+	if (jQuery(".smartsearch-advanced:first").is(":hidden")) {
+		jQuery(".smartsearch-advanced").css('width','100%');			
+		jQuery("#btss-advanced ").css({'height':'28px','background':'#FFFFFF','border-left':'1px solid #CCCCCC','border-top':'1px solid #CCCCCC','border-right':'1px solid #CCCCCC'});		
+		jQuery(".smartsearch-advanced").slideDown("slow");
+		} else {
+		jQuery(".smartsearch-advanced").slideUp('slow');
+		jQuery("#btss-advanced").css({'border':'1px solid #FFFFFF','height':'18px'});	
+		}
+	});
+	jQuery(".smartsearch-advanced").hide();
+	  jQuery("#btss-advanced").hover(function () {
+		jQuery(this).append('<div class="tooltipsmartseach"><p> Advance search</p></div>');
+		jQuery('.tooltipsmartseach').css('background','#545454');
+		jQuery('.tooltipsmartseach >p').css('margin-left','5px');
+		jQuery('.tooltipsmartseach >p').css('margin-top','3px');
+	  }, function () {
+		jQuery("div.tooltipsmartseach").remove();
+	  });
+	jQuery('.inputboxsmart').data("placeholder","Select Frameworks...").chosen();	
+	
+	jQuery('#mod-bt-smartsearchword').keydown(function (event) {
+		if(jQuery('#mod-bt-smartsearchword').val()!=""){
+		var keypressed = event.keyCode || event.which;
+			if (keypressed == 13) {
+				$(this).closest('form').submit();
+			}
+		}
+	});
+	jQuery('.btnsearch').click(function(){
+		if(jQuery('#mod-bt-smartsearchword').val()!=""){
+			if(jQuery('#mod-bt-smartsearchword').val()!=""){			
+			var keypressed = event.keyCode || event.which;
+				if (keypressed == 13) {
+					$(this).closest('form').submit();
+				}
+			}
+			else{
+				return false;
+			}
+		}
+		else{
+			return false;
+		}
+	});
+	
+
+});
+</script>	
+<script type="text/javascript">
+	window.addEvent('domready', function() {	
+							var url = '/july14doaan/component/finder/?task=suggestions.display&format=json&tmpl=component';
+			var ModCompleter = new Autocompleter.Request.JSON(document.id('mod-bt-smartsearchword'), url, {'postVar': 'q'});
+		});
+</script>
+<form id="mod-bt-smartsearchform-122" action="/july14doaan/component/finder/search" method="get">
+	<div class="smartsearch ">
+		<div class="keyword">
+			<div class="borderinput"><input name="q" id="mod-bt-smartsearchword"  class="inputboxsearch" type="text" value=""  onblur="if (this.value=='') this.value='';" onfocus="if (this.value=='') this.value='';" /><a id ="btss-advanced"><img src="http://web.iitk.ac.in/july14doaan/modules/mod_bt_smartsearch/tmpl/images/config.jpg"  alt="config"/></a></div><button type="submit" class="btnsearch" >
+					<img src="http://web.iitk.ac.in/july14doaan/modules/mod_bt_smartsearch/tmpl/images/button.jpg" width="57" height="27" alt="submit" />
+			   </button>		</div>
+																
+					<div id="mod-smartsearch-advanced" class="smartsearch-advanced  ">
+						<div class="btsmartsearch"><div class="btsmartspace"><select  name="t[]" class="inputboxsmart"><option class="option-results" value="">Search by Category</option></select></div></div>														
+					</div>
+							<input type="hidden" name="Itemid" value="891" />		
+	</div>
+</form>
+
+
+          </div>
+          
+          
+          <div id="mail">
+                   
+             <a href="http://webmail.iitk.ac.in/" target="_blank">Webmail</a> | <a href="http://library.iitk.ac.in/" target="_blank">Library</a> | <a href="http://www.iitk.ac.in/" target="_blank">IITK Home</a> | <a href="http://www.iitk.ac.in/doaaold" target="_blank">Old Website</a>
+
+
+          </div>
+
+          
+          <div id="wrapper2" class="shownocolumns">
+
+            <div id="main">
+             
+            	
+              <marquee></marquee>
+              
+<div id="system-message-container">
+</div>
+              
+<div class="item-page">
+
+
+
+
+
+
+
+
+
+<table width="958px" border="0" cellspacing="2">
+<tbody>
+<tr>
+<td valign="top" width="4"> </td>
+<td colspan="5" valign="top">
+<table width="958" border="0" cellspacing="5">
+<tbody>
+<tr>
+<td>
+<div class="tabletext">
+<h3 class="head1">Academic Departments and Inter-disciplinary Programs</h3>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top"> </td>
+<td colspan="3" valign="top">
+<h3><strong>Academic Departments</strong></h3>
+<p><strong> </strong></p>
+</td>
+<td valign="top"> </td>
+<td style="background-color: #f9f9e2;" rowspan="2" valign="top" width="230">
+<div class="tabletext" style="background-color: #fdfdef;"><img class="right-border" src="/july14doaan/images/faculty-images/fac-right-column-top-border.png" border="0" /></div>
+</td>
+</tr>
+<tr>
+<td valign="top"> </td>
+<td valign="top" width="130">
+<div class="frcard" style="width: 128px; height: 102px; margin-top: 5px;"><img class="smallcardimg" src="/july14doaan/images/academic-departments.jpg" border="0" title="" width="112" height="80" style="border: 0;" /></div>
+</td>
+<td valign="top" width="10"> </td>
+<td valign="top" width="578">
+<div class="tabletext">
+<p><strong style="line-height: 1.3em;">Engineering</strong></p>
+<ul>
+<li>
+<p><a href="http://www.iitk.ac.in/aero/" target="_blank">Aerospace Engineering</a></p>
+</li>
+<li>
+<p><a href="http://www.iitk.ac.in/bsbe/" target="_blank">Biological Sciences &amp; Bioengineering</a></p>
+</li>
+<li>
+<p><a href="http://www.iitk.ac.in/che/" target="_blank">Chemical Engineering</a></p>
+</li>
+<li>
+<p><a href="http://www.iitk.ac.in/ce/" target="_blank">Civil Engineering</a></p>
+</li>
+<li>
+<p><a href="http://www.cse.iitk.ac.in/" target="_blank">Computer Science &amp; Engineering</a></p>
+</li>
+<li>
+<p><a href="http://www.iitk.ac.in/ee/" target="_blank">Electrical Engineering</a></p>
+</li>
+<li>
+<p><a href="http://www.iitk.ac.in/mse/" target="_blank">Materials Science &amp; Engineering</a></p>
+</li>
+<li>
+<p><a href="http://www.iitk.ac.in/me/" target="_blank">Mechanical Engineering</a></p>
+</li>
+<li>
+<p><a href="http://www.iitk.ac.in/ime/" target="_blank">Management Sciences</a></p>
+</li>
+<li>
+<p><a href="http://www.iitk.ac.in/see/" target="_blank">Sustainable Energy Engineering</a></p>
+</li>
+</ul>
+<p><strong><br /> Humanities</strong></p>
+<ul>
+<li>
+<p><a href="http://www.iitk.ac.in/hss/" target="_blank">Humanities &amp; Social Sciences</a></p>
+</li>
+</ul>
+<p><strong><br /> Sciences</strong></p>
+<ul>
+<li>
+<p><a href="http://www.iitk.ac.in/chm/" target="_blank">Chemistry</a></p>
+</li>
+<li>
+<p><a href="http://www.iitk.ac.in/math/" target="_blank">Mathematics &amp; Statistics</a></p>
+</li>
+<li>
+<p><a href="http://www.iitk.ac.in/phy/" target="_blank">Physics</a></p>
+</li>
+<li>
+<p><a href="http://www.iitk.ac.in/es/" target="_blank">Earth Sciences</a></p>
+</li>
+<li>
+<p><a href="http://www.iitk.ac.in/eco/" target="_blank">Economic Sciences</a></p>
+</li>
+</ul>
+<p><strong><br /> Management</strong></p>
+<ul>
+<li>
+<p><a href="http://www.iitk.ac.in/ime/" target="_blank">Management Sciences</a></p>
+</li>
+</ul>
+</div>
+</td>
+<td valign="top" width="10"> </td>
+</tr>
+<tr>
+<td valign="top"> </td>
+<td colspan="3" valign="top">
+<h3><strong>Inter-disciplinary Programs</strong></h3>
+<p><strong> </strong></p>
+</td>
+<td valign="top"> </td>
+<td style="background-color: #f9f9e2;" valign="top"> </td>
+</tr>
+<tr>
+<td valign="top"> </td>
+<td valign="top" width="130"> </td>
+<td valign="top" width="10"> </td>
+<td valign="top" width="578">
+<div class="tabletext">
+<ul>
+<li>
+<p><a href="http://www.iitk.ac.in/cogsci/index.html" target="_blank">Cognitive Science</a></p>
+</li>
+<li>
+<p><a href="http://www.iitk.ac.in/eem/" target="_blank">Environmental Engineering &amp; Management</a></p>
+</li>
+<li>
+<p><a href="http://www.iitk.ac.in/celt/" target="_blank">Photonics Science and Engineering Programme</a></p>
+</li>
+<li>
+<p><a href="http://www.iitk.ac.in/design/" target="_blank">Design Programme</a></p>
+</li>
+<li>
+<p><a href="http://www.iitk.ac.in/msp/" target="_blank">Materials Science Programme</a></p>
+</li>
+<li>
+<p><a href="http://www.iitk.ac.in/net/" target="_blank">Nuclear Engineering &amp; Technology</a></p>
+</li>
+</ul>
+<p> </p>
+</div>
+</td>
+<td valign="top"> </td>
+<td style="background-color: #f9f9e2;" valign="top"> </td>
+</tr>
+</tbody>
+</table>
+	
+</div>
+
+                            
+                            
+            
+            </div><!-- end main -->
+
+          </div><!-- end wrapper -->
+
+        
+      
+          <div class="wrap"></div>
+
+        </div> <!-- end contentarea -->
+
+      </div><!-- back -->
+
+    </div><!-- all -->
+
+    <div id="footer-outer">
+
+          <div id="footer-inner">
+
+        <div id="bottom">
+                    <div class="box box1"> </div>
+                                 <div class="box box2"> </div>
+                              <div class="box box3"> </div>
+                                        <div class="box box4"> </div>
+                  </div>
+      </div>
+    
+      <div id="footer-sub">
+
+              <div id="footer">
+      
+          
+<ul class="menu">
+<li class="item-272"><a href="http://www.iitk.ac.in/doaa/" target="_blank" >External Website</a></li><li class="item-269"><a href="https://oa.iitk.ac.in/" target="_blank" >Office Automation </a></li><li class="item-270"><a href="#" >Community Radio</a></li><li class="item-271"><a href="#" >Contact Us</a></li></ul>
+
+          
+              </div><!-- end footer -->
+      
+      </div>
+
+    </div>
+    
+  </body>
+</html>

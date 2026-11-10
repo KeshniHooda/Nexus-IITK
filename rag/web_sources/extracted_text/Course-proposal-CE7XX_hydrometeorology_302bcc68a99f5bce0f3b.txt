@@ -1,0 +1,141 @@
+[Page 1]
+Indian Institute of Technology, Kanpur 
+Proposal for a New Course 
+1. Course number: CE 7XX 
+2. Course title: Hydrometeorology 
+3. Per week: Lectures – 3(L), Tutorial – 0(T), Laboratory – 0(P), Additional hours: 0(A) 
+Credits: 3-0-0-0 (9) 
+Duration of course: Full semester 
+4. Proposing department/IDP: Civil Engineering 
+Other Departments/IDPs which may be interested in the proposed course: Earth Sciences, 
+School of Sustainability 
+Other faculty members interested in teaching the proposed course: None 
+5. Proposing instructor: Tushar Apurv 
+6. Course description: PG course/department elective 
+A. Objectives 
+The objective of this course is to provide a conceptual understanding of the physical processes 
+involved in the transfer of water and energy between the land surface and the lower atmosphere. 
+The course will focus on fundamental concepts such as laws of thermodynamics and mass, 
+momentum, and energy conservation principles to explain hydrometeorological processes such 
+as rainfall, cloud formation, evapotranspiration, winds and development of pressure systems. 
+The understanding of these processes will further be applied to explain hydrometeorological 
+phenomena such as extreme rainfall, thunderstorms, floods, droughts and heatwaves. 
+B. Contents 
+S. No. 
+Broad title 
+Topics 
+No. of 
+lectures 
+1. 
+Introduction 
+Overview of the field of hydrometeorology 
+and its applications 
+1 
+2. 
+Water vapor and its 
+properties 
+Specific 
+humidity, 
+saturation 
+vapor 
+pressure, dew point temperature, wet and 
+dry bulb temperature, relative humidity, 
+adiabatic lapse rate of moist air 
+2 
+3. 
+Precipitation 
+Thermodynamic diagrams, lifting of dry and 
+saturated air, static and dynamic stability, 
+parcel method for stability analysis, cloud 
+formation and precipitation, types of 
+storms 
+4 
+4. 
+Weather maps 
+Symbols used in weather maps and their 
+interpretation 
+2 
+5. 
+Atmospheric 
+forces 
+and winds 
+Forces acting on air: pressure gradients, 
+centrifugal force, Coriolis force, drag force, 
+equations of motion, types of winds: 
+geostrophic 
+winds, 
+gradient 
+winds, 
+6
+
+[Page 2]
+atmospheric 
+boundary 
+layer 
+wind, 
+cyclostrophic winds 
+6. 
+General circulation 
+Global radiation budget, Hadley cells, 
+thermal winds, circulation in low-, mid- and 
+high-latitudes, monsoon, jet streams, 
+Rossby waves 
+6 
+7. 
+Fronts and airmasses 
+Warm and cold air masses, surface fronts, 
+occluded fronts, mid-tropospheric fronts, 
+upper-tropospheric fronts, extratropical 
+cyclones 
+6 
+8. 
+Thunderstorms 
+Conditions for thunderstorm formation, 
+Convective Available Potential Energy, 
+wind shear, convective inhibition and 
+triggers 
+5 
+9. 
+Atmospheric 
+boundary layer 
+Temperature and wind profiles, diurnal 
+variations, turbulence, mixing length theory 
+3 
+10. 
+Evapotranspiration 
+Surface 
+layer 
+scaling, 
+aerodynamic 
+resistance, canopy resistance, estimation 
+of evapotranspiration 
+5 
+Total 
+40 
+ 
+C. Pre-requisites: (CE361 and CE261) or (CE610 and CE611) 
+D. Short summary for including in the Courses of Study Booklet: Energy and water budget of 
+land surface and lower atmosphere, properties of water vapor, atmospheric stability, cloud 
+formation and precipitation, weather maps, atmospheric forces, geostrophic winds, gradient 
+winds, general circulation of atmosphere, monsoons, jet-streams, Rossby waves, warm and cold 
+fronts, thunderstorms, atmospheric boundary layer, aerodynamic and canopy resistance, 
+evapotranspiration. 
+ 
+7. Recommended books: 
+Reference books: 
+Ahrens, C. D., & Henson, R. (2018). Essentials of meteorology: An invitation to the atmosphere. 
+Stull, R. B. (2015). Practical meteorology: an algebra-based survey of atmospheric science. 
+University of British Columbia. 
+Shuttleworth, W. J. (2012). Terrestrial hydrometeorology. John Wiley & Sons. 
+8. Any other remarks: none 
+ 
+Proposer: Tushar Apurv 
+Dated: 05-04-2024 
+ 
+DPGC convener: 
+Dated:
+
+[Page 3]
+The course is approved/not approved. 
+Chairperson, SPGC 
+Dated:

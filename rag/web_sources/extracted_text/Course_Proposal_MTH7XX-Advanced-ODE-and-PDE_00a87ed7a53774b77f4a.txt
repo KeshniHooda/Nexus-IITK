@@ -1,0 +1,110 @@
+[Page 1]
+Indian Institute of Technology Kanpur
+Proposal for a New Course
+Course Information
+Course Number: MTH 7XX (PhD course)
+Course Title: Advanced ODE and PDE
+Per Week Lectures: 3 (L), Tutorial: 0 (T), Lab: 0 (P)
+Credits: 9 credits
+Duration of Course: Full Semester
+Proposing Department: Department of Mathematics and Statistics
+Proposing Instructor: Indranil Chowdhury .
+Other faculty members interested in teaching the proposed course: Prof. T. Muthukumar, Prof. Kaushik
+Bal, Prof. Prosenjit Roy, Prof. Vedansh Arya.
+Course Objectives
+This course is designed to provide an exposure to PhD students in basic areas of advanced ODEs and PDEs.
+Main objectives of this course are as follows:
+Establish rigorous foundations in ODE theory To develop a solid understanding of ﬁrst-order
+ODEs, including existence and uniqueness results (e.g., Picard–Lindel¨of and Cauchy–Peano theorems),
+and their theoretical signiﬁcance in modeling real-world phenomena.
+Understand qualitative behavior of dynamical systems: To analyze continuous dependence on
+initial data and parameters, and to study stability of solutions using tools such as phase portraits,
+eigenvalue analysis, and Lyapunov methods.
+Develop insight into boundary value problems: To introduce linear second-order boundary value
+problems, including conditions for existence, uniqueness, and the role of linear independence concepts.
+Introduce analytical techniques for PDEs: To provide a foundation in ﬁrst-order PDEs and methods
+of characteristics, along with classical solutions of key equations such as the wave and heat equations.
+Build familiarity with functional analytic tools: To equip students with essential concepts such as
+distributions, weak derivatives, and Sobolev Spaces, forming the basis for modern PDE theory.
+Develop understanding of weak solutions and variational methods: To introduce variational
+formulations and key results such as the Lax–Milgram lemma for proving existence and uniqueness of
+weak solutions to elliptic PDEs.
+Explore fundamental PDE models and their properties: To study classical equations like Laplace,
+Poisson, and heat equations, including their fundamental solutions and qualitative behavior.
+Prepare students for advanced mathematical and computational research: To build the the-
+oretical and analytical skills required for further study in applied mathematics, numerical analysis, and
+scientiﬁc computing.
+1
+
+[Page 2]
+Course content:
+Total lectures = 39, 1 lecture = 50 minutes
+ODE(13 Lectures)
+Introduction to 1st order ODEs, Existence-Uniqueness Theory (4 lectures): Initial value
+problems, examples, Existence and uniqueness results, Picard–Lindel¨of theorem – Contraction mapping
+approach, Statement and idea of the proof, Cauchy Peano Theorem – (Local and Global) Existence
+results and proofs.
+Continuous dependence (2 lectures): Dependence on initial data, and on forcing term, examples,
+stability interpretation.
+Stability analysis of ODE (4 lectures): Stable and unstable solutions, Exponential matrix, Equilib-
+rium solutions, Eigenvalue analysis, Phase diagram, Lyapunov stability.
+Boundary value problems (3 lectures): Linear second-order ODE, Overview of Wronskian, Linear
+dependency and independency (statements), Existence and Uniqueness results.
+PDE (26 Lectures)
+1st Order PDE (3 lectures) : Concept of Linear, Semi linear and nonlinear PDEs, Derivation
+of Method of characteristics for quasi-linear PDE, Characteristic curves and solutions, Existence and
+Uniqueness results.
+Wave equation (2 lectures): 1D wave equation and Derivation of D’Alembert solution, Duhamel’s
+principle, Domain of dependence, Range of inﬂuence.
+Introduction to distributions and Weak Derivatives (2 lectures): Motivation, Test function space
+and topology (via convergence of sequence), Deﬁnition of distributions, Weak derivatives, examples.
+Sobolev spaces (2 lectures): Deﬁnition of W k,p, Basic properties,
+Density theorem (3 lectures): Approximation by smooth functions, Proof ideas, Applications.
+Extension theorem (2 lectures): Extension operators, Construction methods, Applications.
+Trace theorem (1 lecture): Boundary values of Sobolev functions.
+Sobolev embedding (4 lectures): Gagliardo Nirenberg Sobolev embedding, Morrey’s embedding,
+Poincare Inequality, Rellich Kondrachov compact embedding.
+Lax–Milgram lemma (2 lectures): Variational formulation, Existence and Uniqueness of Weak
+solutions of elliptic equations.
+Laplace equation (3 lectures): Harmonic functions and properties, Fundamental solution, Poisson
+Equation.
+Heat Equation (2 lectures): Homogeneous equation and Fundamental solution, Non-homogeneous
+Equations and Duhamel’s principle.
+Pre-requisites
+Instructor consent.
+2
+
+[Page 3]
+Short summary for inclusion in the Courses of Study Booklet:
+This course o!ers a foundational yet rigorous introduction to Ordinary Di!erential Equations and Partial
+Di!erential Equations tailored for ﬁrst-year PhD students from diverse academic backgrounds. It develops
+core concepts such as existence and uniqueness of solutions, stability analysis, and boundary value problems
+in ODEs, before progressing to ﬁrst-order PDEs, wave and heat equations. The course also introduces modern
+tools including distributions, weak derivatives, and Sobolev Spaces.
+Emphasis is placed on building both
+intuition and mathematical rigor, enabling students to transition e!ectively into advanced research in applied
+mathematics, science, and engineering.
+Recommended books:
+Reference for ODE:
+Earl A. Coddington, Norman Levinson, Theory of Ordinary Di!erential Equations, Tata McGraw-Hill,
+2017.
+S. L. Ross, Introduction to Ordinary Di!erential Equations, Wiley, 1980.
+Lawrence Perko, Di!erential Equations and Dynamical Systems, Springer, 2001.
+Reference for PDE:
+Yehuda Pinchover, Jacob Rubinstein, An Introduction to Partial Di!erential Equations, Cambridge Uni-
+versity Press, 2005.
+Robert C. McOwen, Partial Di!erential Equations, Prentice Hall, 2003.
+Lawrence C. Evans, Partial Di!erential Equations, AMS, 2010.
+Haim Br´ezis, Functional Analysis, Sobolev Spaces and Partial Di!erential Equations, Springer, 2011.
+Additional Remarks and Approval
+8. Any other remarks:
+Dated:
+01/05/26
+Proposer:
+Indranil Chowdhury
+Dated:
+DUGC/DPGC Convener:
+The course is approved / not approved
+Chairman, SUGC/SPGC
+Dated:
+3

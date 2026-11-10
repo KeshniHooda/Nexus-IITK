@@ -1,0 +1,264 @@
+[PAGE 1]
+REGISTRATION DATA STATISTICS FOR 2024-25/SECOND
+
+TOTAL NUMBER OF COURSES BEING OFFERED                     753
+
+EXCLUDE THE THESIS COURSE, SEMINAR, PROJECT, BTP,
+SUMMER TRAINING, PRESENTATION                             570
+
+MAXIMUM CLASS SIZE (MTH113)                                 1257
+
+MINIMUM CLASS SIZE                                          1
+(AT PRESENT THERE ARE 570 COURSES : CE783M, CHM601, SEP698,
+CS777, EE657, EE672, EE798U, ES416A, ENG701, ENG749, ESO205P,
+MSE204A, MSE300A, TA201A, MTH624, MTH662, PHY422, PHY524,
+PHY526)
+
+AVERAGE CLASS SIZE (OF ALL 570 COURSES)                      66
+
+NUMBER OF COURSES WITH 5 STUDENTS OR LESS                 66
+
+NUMBER OF COURSES WITH 100 STUDENTS OR MORE              108
+
+AVERAGE CLASS SIZE OF COURSES THAT HAVE >5 AND LESS THAN  35
+100 STUDENTS
+
+THE FOLLWING IS THE NUMBER OF COURSES WITH
+VARIOUS CLASS STRENGTHS
+
+No. of Student   No. of Course
+1             19
+2              8
+3             13
+4             10
+5              9
+6-10            56
+11-15           47
+
+Page 1 of 6
+
+[PAGE 2]
+16-20           59
+21-25           30
+26-30           34
+31-50           69
+51-75           64
+76-100           46
+>100           106
+Total           570
+
+2024-25 SECOND SEMESTER
+LIST OF COURSES IN WHICH ≤5 STUDENTS REGISTERED
+
+Total No. of
+S.No.  Course No.       Instructor                     Name
+Student
+1.   CE783M     Animesh Das       ANALYSIS OF CONCRETE PAVEMENTS                1
+
+2.   CHM601      Parthasarath       CHEMISTRY COMMUNICATION SKILLS                1
+Subramanian
+
+3.                                                                                        1     SEP698      Abhishek          TOPICS IN INNOVATION AND ENTREPRENEURSHIP
+4.                                                                                        1     CS777       Sutanu Gayen      TOPICS IN LEARNING THEORY
+5.                                                                                        1     EE657       Naren Naik      KALMAN FILTERING & APPLICATIONS
+6.                                                                                        1
+EE672       Abhishek Gupta     ANALYSIS OF MODERN WIRELESS NETWORKS
+7.                                                                                        1
+EE798U      Pradeep Kumar K   ADVANCED FIBER-OPTIC COMMUNICATIONS
+8.    ES416A      Sushruth Ravish    EXPLORATION GEOPHYSICS                          1
+9.                   Chaithra Puttaswamy                                                      1
+ENG701                  FUNDAMENTALS OF MODERN LINGUISTICS
+10.                                                                                       1
+ENG749    T Ravichandran    POSTMODERN THEORY AND LITERATURE
+11.                                                                                       1     ESO205P    Anish Upadhyaya   NATURE AND PROPERTIES OF MATERIALS LAB
+12.                                                                                       1
+MSE204A    Kantesh Balani     INTRODUCTION OF BIOMATERIALS
+13.                                                                                       1     MSE300A    Kantesh Balani     PROFESSIONAL & TECHNICAL COMMUNICATION
+14.   TA201A      Kallol Mondal     MANUFACTURING PROCESSES I                      1
+15.                 Sachin Subhash                                                          1
+MTH624    Sharma           DIFFERENTIABLE MANIFOLDS AND LIE GROUPS
+16.   MTH662     Preena Samuel     CHEVLLEY GROUPS AND ALGEBRAIC GROUPS        1
+17.   PHY422     Apratim Kaviraj    MATHEMATICAL METHODS II                         1
+18.                           INTRODUCTION TO ATOMIC AND NUCLEAR           1
+PHY524      Saikat Ghosh       PHYSICS
+
+Page 2 of 6
+
+[PAGE 3]
+19.                Navaneeth       NUCLEAR AND PARTICLE PHYSICS                   1
+PHY526      Poonthottathil
+20.   CGS698J     Nisheeth Srivastava  TOPICS IN COGNITIVE SCIENCE: GOOD & EVIL         2
+
+21.                         CONTEMPORARY CRITICAL THEORIES &              2
+ENG751     Muthukumar M     LITERARY PRAXES
+22.                           INTRODUCTION TO PROFESSION AND                 2
+ENG888     Chinmay Dharurkar  COMMUNICATION SKILLS
+23.                 Chandraprakash                                                          2
+ME683     Chindam         TECHNIQUES IN NON-DESTRUCTIVE EVALUATION
+24.                                                                                       2
+ME742      Umesh Madanan    BOILING & CONDENSATION
+25.                                                                                       2     MTH101A    Nandini Nilakantan  MATHEMATICS I
+26.                                                                                       2     MTH102A/A  Indranil Chowdhury  MATHEMATICS - II
+27.                            SPATIO-TEMPORAL MODELS IN MATHEMATICAL       2
+MTH679     Malay Banerjee     BIOLOGY
+28.                                                                                       3
+CE332        Balaji Devaraju     SURVEY CAMP
+29.                                                                                       3     CE334        Balaji Devaraju    MODERN METHODS IN GEOINFORMATICS
+30.   CE685M      Partha Chakroborty  URBAN TRANSPORTATION                           3
+31.                                                                                       3     CE704      Hemant Gehlot     ANALYSIS OF TRANSPORTATION SYSTEMS
+32.                                                                                       3     CS649        Anil Seth         LOGIC IN COMPUTER SCIENCE
+33.   EE668       Adrish Banerjee                                                          3
+CODING THEORY
+34.                                                                                      3      EE798I      Debdatta Ray      NANOPHOTONICS
+35.                 Shatarupa Thakurta                                                        3
+ART709    Roy              TOPICS IN INDIAN FOLK ART
+36.                                                                                      3     ENG750   G Neelakantan     POSTWAR AMERICAN FICTION
+37.                                                                                      3      PHI712      Vineet Sahu       CONTEMPORARY INDIAN PHILOSOPHY-1
+38.                             BASIC CONTROL SYSTEMS FOR MECHANICAL        3
+ME850    K Guruprasad      ENGINEERS
+39.                                                                                      3     MTH102A/C Indranil Chowdhury  MATHEMATICS - II
+40.                                                                                      3
+PE111        Indra Sekhar Sen    MORNING EXERCISE
+41.  BSE614      Santosh Misra      TISSUE ENGINEERING                                4
+
+42.                                                                                      4      CE341       Sudhir Misra        CIVIL ENGINEERING COMMUNICATION SKILLS
+43.                                                                                      4     CE785M    Syam Nair        PAVEMENT MATERIALS
+44.                                                                                      4     CHM481    Sandeep Verma     BIOSYSTEMS
+45.                                                                                      4
+ECO672     Bikramaditya Datta   DYNAMIC OPTIMIZATION
+46.                                                                                      4
+ES667A      Rabiul Biswas      GEODYNAMICS
+47.          A V Ravishankar                                                          4
+PHI768     Sarma          MODAL LOGIC
+
+Page 3 of 6
+
+[PAGE 4]
+48.                 Prashant Bhalchandra                                                      4
+PHI785     Bagad           PLATO
+49.                        AN INTRODUCTION TO GEOMETRIC GROUP           4
+MTH741     Abhijit Pal        THEORY
+50.                                                                                      4
+MTH759     Debasis Sen       ALGEBRIC TOPOLOGY II
+51.   DES634    Gowdham P G      ELECTRONICS FOR DESIGNERS                       5
+52.              Raghu Nandan     THEORY AND APPLICATIONS OF MULTI-CRITERIA     5
+DMS621     Sengupta          DECISION MAKING
+53.   ECO703     Aditya Vikram      QUANTITATIVE METHODS                           5
+54.                          ECONOMIC OPERATION & CONTROL OF POWER       5
+EE632        Saikat Chakrabarti   SYSTEMS
+55.                            OPERATION AND CONTROL OF THE POWER           5
+EE698H     Ebin Mathew      SYSTEM WITH INVERTER BASED RESOURCES
+56.                                                                                      5
+PHY690E    Subhendra Mohanty  ADVANCED COSMOLOGY
+57.                                                                                      5
+SPA624M    Amitesh Omar      OPTICAL INSTRUMENTATION LABORATORY
+58.                                                                                      5     SPA634      Prashant Pathak     OPTICAL INSTRUMENTATION ASTRONOMY
+59.                  Sharvari Nadkarni   RADIO INSTRUMENTATION OBSERVING               5
+SPA636     Ghosh           TECHNIQUES
+
+LIST OF COURSES IN WHICH 6-10 STUDENTS REGISTERED
+
+Total No.
+S.No. Course No.  Instructor          Name
+of Student
+1.                             SUBSURFACE CONTAMINANT FATE AND            6
+CE761M    Abhas Singh        TRANSPORT
+2.                              EYE-TRACKING AND VR AS TOOLS IN               6
+CGS612M   Sharika KM         COGNITIVE SCIENCE
+3.                                                                                       6
+CHE655     Sanjeev Garg        DATA SCIENCE FOR CHEMICAL ENGINEERS
+4.                    Parthasarathi                                                             6
+CHM361    Subramanian        CHEMISTRY COMMUNICATION SKILLS
+5.                                                                                       6     CHM692    Keshavamurthy Srihari  SPECIAL TOPICS IN PHYSICAL CHEMISTRY
+6.    EE698B     Ankush Sharma      SMART GRID TECHNOLOGY APPLICATIONS          6
+7.                                                                                       6     ME681      Basant Lal Sharma     MATHEMATICS FOR ENGINEERS
+8.                           ADVANCED SECONDARY STEELMAKING AND       6
+MSE647     Amarendra Kumar Singh SPECIAL STEELMAKING
+9.                                                                                       6     MSE677     Krishanu Biswas     ATOM PROBE TOMOGRAPHY AND APPLICATION
+
+Page 4 of 6
+
+[PAGE 5]
+10.                          COMPLEX MANIFOLDS AND KAHLER               6
+MTH618     Ashis Mandal       GEOMETRY
+11.                             INTRODUCTION TO LIE ALGEBRAS AND             6
+MTH641    Narasimha Bonala     REPRESENTATION THEORY
+12.                                                                                      6     MTH678    Amit Shekhar Kuber    TECHNIQUES IN COMBINATORICS
+13.                                                                                      7     BSE612     Ashok Kumar        BIOCHEMICAL ENGINEERING
+14.   CE676       Bharat Lohani        LASER SCANNING AND PHOTOGRAMMETRY        7
+15.                                                                                      7
+CGS786     Narayanan Srinivasan   COMPUTATIONAL COGNITIVE SCIENCE
+16.                                                                                      7
+CHM609    Anand Singh         PRINCIPLES OF ORGANIC CHEMISTRY
+17.                                                                                      7     EE640    A R Harish         COMPUTATIONAL ELECTROMAGNETICS
+18.                                                                                      7     ENG742      Suchitra Mathur       RESPONSBILE DISSENT
+19.   ME741     P A Lakshminarayanan  COMBUSTION ENGINES & AIR POLLUTION          7
+20.                                                                                      7     ME851     Anupam Saxena      COMPLIANT MECHANISMS
+21.                                                                                      7     MTH652    Kaushik Bal        ADVANCED CALCULUS
+22.                                                                                      8
+CE635       Bipin Gupta         FOUNDATION DYNAMICS
+23.                             INTRODUCTION TO INERTIAL AND MULTI-          8
+CE677M      Salil Goel          SENSOR NAVIGATION
+24.                                                                                      8
+CGS698G    Devpriya Kumar      MIND : PHILOSOPHICAL INVESTIGATIONS
+25.                             INTRODUCTION TO PROFESSION AND               8
+CGS888     Nisheeth Srivastava     SCIENTIFIC COMMUNICATION
+26.   CS640       Abhranil Chatterjee    COMPUTATIONAL COMPLEXITY                    8
+27.                            COMPUTATIONAL NUMBER THEORY AND           8
+CS681        Nitin Saxena        ALGEBRA
+28.                                                                                      8
+Mohammad Arshad
+ECO545A   Rahman            BAYESIAN ECONOMETRICS
+29.                                                                                      8     ECO761     Mahamitra Das        TOPICS IN APPLIED ECONOMETRICS
+30.                                                                                      8     ES661A     Deepak Dhingra      PLANETARY REMOTE SENSING
+31.   ESO205A    Anish Upadhyaya     NATURE AND PROPERTIES OF MATERIALS           8
+32.                                                                                      8     MTH727    Ashutosh Kumar      SET THEORY AND FORCING
+33.   PHY680    Sanmay Ganguly
+PARTICLE PHYSICS
+34.                                                                                      8
+SEE604     Aakash Rai         THERMODYNAMICS OF ENERGY SYSTEMS
+35.                                                                                      8     SEE615      Laltu Chandra       SOLAR THERMAL ENGINEERING
+36.                            COMPUTATIONAL AEROMECHANICS AND           9
+AE668       Murali Damodaran    CONTROL OF UAVS
+37.                             PARALLEL COMPUTATION OF SPARSE MATRIX       9
+IDC611     Ashoke De         SYSTEMS
+38.                Nagarajan          GLOBAL NAVIGATION SATELLITE SYSTEMS         9
+CE675M     Balasubramanian       (GNSS) FOR SURVEYING & MAPING
+
+Page 5 of 6
+
+[PAGE 6]
+39.                          METHODS OF ELECTRONIC STRUCTURE            9
+CHM627    Mainak Sadhukhan    CALCULATION
+40.                                                                                      9     EE648       Nagaditya Poluri      MICROWAVE CIRCUITS
+41.   EE698C      Yatindra Nath Singh    PEER TO PEER NETWORKS                         9
+42.                                                                                      9
+ART706      Rajarshi Sengupta     VISUAL ETHNOGRAPHY
+43.                                                                                      9
+SOC746     Binay Kumar Pattnaik   SOCIAL MOVEMENTS : OLD AND NEW
+44.                                                                                      9
+ME659      Sarvesh Mishra       TRIBOLOGY OF MACHINING PROCESSES
+45.                                                                                      9
+MTH640    Sameer Laxman Chavan SEVERAL COMPLEX VARIABLES
+46.                           STUDY OF COMPACT OBJECTS USING REAL         9
+SPACE DATA
+SPA635M    J Yadav
+47.                            ELECTROMAGNETIC INTERFERENCE AND          10
+EE644     Md Jaleel Akhtar      COMPATIBILITY TECHNIQUES
+48.                                                                                     10
+EE673       Yatindra Nath Singh    DIGITAL COMMUNICATION NETWORKS
+49.                             HIGH VOLTAGE POWER TRANSMISSION            10
+EE698S     Alok Verma         ENGINEEERING
+50.                                                                                     10     EE798Q     Abhilash Patel       SYSTEMS MEDICINE
+51.                              SOCIAL THEORY IN LATE TWENTIETH              10
+SOC745    Munmun Jha        CENTURY
+52.                             INTRODUCTION TO PROFESSION AND              10
+SOC888     Esha Chatterjee      COMMUNICATION SKILLS
+53.                                                                                     10     MTH648      Arijit Ganguly        DIFFERENTIAL GEOMETRY
+54.                                                                                     10
+PHY473     Gopal Hazra        COMPUTATIONAL PHYSICS
+55.                                                                                     10
+PSE604      Pradeep Kumar K     PHOTONICS SYSTEMS AND APPLICATIONS
+56.                                                                                     10     PSE605      Rajshekhar Gannavarpu PHOTONICS LAB TECHNIQUES
+
+Page 6 of 6

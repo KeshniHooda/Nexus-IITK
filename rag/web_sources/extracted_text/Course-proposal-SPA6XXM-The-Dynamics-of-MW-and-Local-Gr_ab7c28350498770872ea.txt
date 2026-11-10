@@ -1,0 +1,53 @@
+[Page 1]
+Indian Institute of Technology, Kanpur 
+Proposal for a New Course 
+1. Course No: SPA6XX M
+2. Course Title: The Dynamics of Milky Way and Local Group of Galaxies
+3. Lectures per week: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional hours: (0-2): 0 (A), 
+Credits (3*L+0*T+0*P+0*A): 5, Duration of Course: Half Semester Modular Course 
+4. Proposing Department: Space, Planetary and Astronomical Sciences and Engineering (SPASE)
+5. Proposing Instructor: Sandeep Kumar Kataria, Amitesh Omar
+6. Course Description:
+a. Objectives: Galaxies are fundamental building blocks of the large scale structure in our 
+Universe. This course deals with fundamental principles governing the dynamics of disk (i.e.
+Milky Way/Andromeda), elliptical (i.e Sagittarius, M87) and dwarf galaxies (i.e. 
+LMC/SMC) etc. Further, the course aims to provide familiarity with observations and 
+numerical simulations techniques used in the galactic dynamics. 
+b. Contents (preferably in the form of 5 to 10 broad titles): 
+i. Introduction and Fundamentals [1 lectures]: Overview of galaxies: morphology, 
+kinematics and basic properties; Milky Way and local group of galaxies.
+ii. Potential theory [3 lectures]: Spherical density distribution, potential-density pairs of 
+flattened system, potential of our Galaxy (Milky Way)
+iii. Orbits of stars [2 lectures]: Orbits in a given galactic potential (spherical/elliptical, 
+axisymmetric/non-axisymmetric etc.), numerical orbit integration methods 
+iv. Equilibria of Collisionless Systems [4 lectures]: Boltzmann equation, Jeans theorem, 
+distribution functions, Jeans and Virial equations: assymetric drift, Virial theorem and 
+related observations
+v. Disk Dynamics and non-axisymmetric instabilities [5 lectures]: Linear response 
+theory, global stability of differentially rotating disk, fundamentals of spiral structures, bars,
+bending waves, warping and buckling of disk
+vi. Collisions and encounter of stellar systems [2 lecture]: Dynamical friction, mergers
+ 
+vii Contemporary open problems in galactic dynamics [4 lecture]: Perpespective of 
+observations and simulations (idealized and cosmological simulations) 
+ 
+c. Pre-requisites, if any: N/A d.
+d. Short summary for inclusion in the Courses of Study Booklet: Fundamentals of 
+Galactic Dynamics, Orbits of stars in a range of potentials, Disk instabilities i.e. Spirals, bars
+and warps, Applications to contemporary observational data and numerical simulations
+ 
+7. Recommended Books:
+[1] J. Binney & M. Merrifield: Galactic Astronomy 
+[2] J. Binney & S. Tremaine: Galactic Dynamics
+[3] H. Mo, F. van den Bosch, S. White: Galaxy Formation and Evolution
+[4] T. Padmanabhan: Theoretical Astrophysics Volume II: Stars and Stellar Systems
+
+[Page 2]
+8. Any other remarks:
+Dated:
+ Proposer: 
+Dated: 
+ DUGC/DPGC Convener: 
+The course is approved/not approved 
+Chairman, SUGC/SPGC 
+Dated:

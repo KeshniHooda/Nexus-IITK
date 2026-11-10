@@ -1,0 +1,135 @@
+[Page 1]
+Indian Institute of Technology Kanpur 
+New Course Proposal 
+ 
+1. Course No: 
+ 
+2. Course Title: Traffic Dynamics and Simulation 
+ 
+3. Per Week Lectures (TBD): 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours [0-2]: 0 (A) 
+Credits: 9 
+
+ 
+
+ 
+Duration of Course: Full Semester 
+ 
+4. Proposing Department/IDP: Civil Engineering 
+Other Departments/ODPs which may be interested in the proposed course: Physics and Mathematics 
+Other faculty members interested in teaching the proposed course: N/A 
+ 
+5. Proposing Instructor(s): Venkatesan Kanagaraj 
+ 
+6. Course Description: 
+(a) Objectives: This course will provide a basic understanding of macroscopic models such as the first-
+order and higher-order traffic flow models, model characteristics, and numerical schemes. 
+Microscopic models such as car-following and lane-changing models will be discussed. Development 
+of traffic simulation, calibration, and validation of simulation will be presented. Finally, the course 
+discusses disordered traffic, macroscopic and microscopic models for disordered traffic, and its 
+implementation in traffic simulation. 
+ 
+(b) Contents: 
+ 
+S. No. 
+Broad Title 
+Topics 
+Lectures 
+1 
+First-order models 
+Traffic 
+variables, 
+Hydro-dynamics 
+relationship, 
+Eulerian and Lagrangian formulation of continuity 
+equations, LWR Model, Method of characteristics, 
+Shockwave 
+speed 
+derivations, 
+shockwave, 
+and 
+expansion wave analysis. 
+8 
+2 
+Second-order models 
+Macroscopic Acceleration Function, Properties of the 
+Acceleration Function, Payne’s model and Jiang’s 
+model, Characteristic speeds of models, and Linear 
+stability analysis. 
+6 
+3 
+Numerical scheme 
+Finite difference and Finite volume method, Cell 
+transmission model using triangular fundamental 
+diagrams. Solving higher-order models using Upwind 
+and McCormack Scheme. 
+6 
+4 
+Microscopic models 
+Model criteria, Optimal velocity model, Newell’s car 
+following model, Gipps model, Intelligent driver 
+model, Steady-State Equilibrium criteria, Linear 
+stability analysis, and MOBIL- lane changing models. 
+8 
+5 
+Traffic simulation 
+Development of traffic simulation, Calibration and 
+validation of simulation models, and Applications of 
+traffic simulation. 
+6
+
+[Page 2]
+6 
+Disordered traffic 
+First-order and second-order model for disordered 
+traffic and its numerical scheme. Microscopic model – 
+self-driven particle model and implementation in the 
+traffic simulation. 
+6 
+
+Total 
+40 
+ 
+(c) Recommended prerequisites: Basic knowledge of partial differential equations, numerical techniques, 
+and programming skills are required. 
+(d) Short summary for including in the courses of study booklet: Eulerian and Lagrangian form of the 
+continuity equation; First-order models: method of characteristics, shock wave and expansion wave 
+analysis; Second-order models: numerical scheme and CTM models with triangular fundamental 
+diagrams; Microscopic models: car-following and lane-changing models, linear stability analysis, 
+traffic simulation, calibration and validation of simulation models; Traffic flow models and simulation 
+for disordered traffic. 
+ 
+7. Recommended Books: 
+ 
+Textbooks: 
+ 
+Treiber, M. & Kesting, A., (2013). “Traffic flow dynamics: data, models and simulation.”, Springer. 
+
+Reference Books: 
+ 
+Ni, D. (2015). “Traffic flow theory: characteristics, experimental methods, and numerical techniques. “, 
+ 
+Elsevier. 
+ 
+Boris S. Kerner (2004) “The physics of traffic: empirical freeway pattern features, engineering 
+ 
+applications, and theory”, Springer, 
+ 
+May A.D. (1990). “Traffic flow fundamentals.”, Prentice-Hall, New Jersey. 
+
+ 
+Additional Resources: Nil 
+ 
+8. Other Remarks: Nil 
+ 
+Dated: 18/02/2024 
+
+Proposer: Venkatesan Kanagaraj 
+ 
+Dated: ___________________ 
+DUGC/DPGC Convener: _______________________ 
+ 
+The course is approved / not approved 
+ 
+_______________________ 
+Chairman SUGC/SPGC 
+Dated: __________________

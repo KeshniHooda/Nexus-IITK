@@ -1,0 +1,2613 @@
+[Page 1]
+Manual of 
+PROCEDURES & REQUIREMENTS 
+for 
+UNDERGRADUATE PROGRAMMES 
+ 
+B.TECH., B.S., BTM/BSM, BTH/BSH, 
+Bachelors-Masters Dual Degree, Double Major 
+
+INDIAN INSTITUTE OF TECHNOLOGY KANPUR 
+
+ 
+ 
+UG Manual Version1.4: 20.07.2026 
+
+ 
+ 
+Office of Dean Academic Affairs, IIT Kanpur
+
+[Page 2]
+Page 1 of 52 
+ 
+INDEX 
+Contents 
+Chapter 1: About the UG Program at IIT Kanpur .......................................................................................... 4 
+1.1 Introduction............................................................................................................................................ 4 
+1.2 Committees and Administrative Units ...................................................................................................... 4 
+1.3 Scholarships .......................................................................................................................................... 5 
+1.3.1 Awards and Medals .......................................................................................................................... 5 
+Chapter 2: Admission Procedures and Rules .............................................................................................. 6 
+2.1 For New Students ................................................................................................................................... 6 
+2.1.1. Admission through JEE (Advanced) ................................................................................................... 6 
+2.1.2. Admission through Olympiads ......................................................................................................... 6 
+2.1.3. Admission with Advanced Standing .................................................................................................. 6 
+2.2 Programmes of Study .............................................................................................................................. 6 
+2.3 Non-Degree UG Students ........................................................................................................................ 6 
+2.4 Validity of Admission and Its Cancellation ................................................................................................ 7 
+Chapter 3: Academic Requirements and Degree Eligibility.......................................................................... 8 
+3.1 Types of Courses .................................................................................................................................... 8 
+3.2 Minimum and Maximum Duration ............................................................................................................ 8 
+3.3 Minimum Academic Requirement ............................................................................................................ 9 
+3.4 Graduation ............................................................................................................................................. 9 
+3.4.1 Graduation with Distinction .............................................................................................................. 9 
+3.5 Award of Degrees .................................................................................................................................... 9 
+3.6 Withdrawal of the Degree ........................................................................................................................ 9 
+Chapter 4: Academic Session and Registration ........................................................................................ 10 
+4.1 Academic session ................................................................................................................................. 10 
+4.1.1. Dates ........................................................................................................................................... 10 
+4.1.2 Duration ........................................................................................................................................ 10 
+4.1.3 Academic Calendar ........................................................................................................................ 10 
+4.2 Registration .......................................................................................................................................... 10 
+4.3 Academic Registration .......................................................................................................................... 10 
+4.3.1 Pre-registration .............................................................................................................................. 10 
+4.3.2 Final Registration ........................................................................................................................... 11 
+4.3.3 Add-Drop Period ............................................................................................................................ 11 
+4.3.4 Dropping of Courses After Add-Drop Period ..................................................................................... 11 
+4.3.5 De-Registration from a Course ........................................................................................................ 12 
+4.3.6 Academic Load in Regular Semesters .............................................................................................. 12 
+4.3.7 Academic Load in Summer Term ..................................................................................................... 13 
+4.3.8 Cancellation of Registration ............................................................................................................ 13 
+4.4 Administrative Registration .................................................................................................................... 13 
+4.5 Late Registration ................................................................................................................................... 14 
+Chapter 5: Teaching and Evaluation ......................................................................................................... 15
+
+[Page 3]
+Page 2 of 52 
+ 
+5.1 Teaching ............................................................................................................................................... 15 
+5.1.1 Medium of Instruction .................................................................................................................... 15 
+5.1.2 Offering a New Course .................................................................................................................... 15 
+5.1.3 Course Offerings for a Given Semester ............................................................................................ 15 
+5.1.4 Duration of Courses ....................................................................................................................... 15 
+5.1.5 Conduct of Course ......................................................................................................................... 15 
+5.1.6 Absence from Academic Activities .................................................................................................. 15 
+5.1.7 Work-Week and Class Timings ........................................................................................................ 16 
+5.2 Evaluation and Performance Feedback .................................................................................................. 16 
+5.2.1 Examinations ................................................................................................................................. 16 
+5.2.2 Quiz, evaluated assignments .......................................................................................................... 16 
+5.2.4 Results of Examinations and Quizzes .............................................................................................. 17 
+5.2.5 Letter Grades and Weightages ........................................................................................................ 17 
+5.2.6 Semester Performance Index .......................................................................................................... 18 
+5.2.7 Cumulative Performance Index ....................................................................................................... 18 
+5.2.8 Declaration of the Final Result ........................................................................................................ 18 
+5.2.9 Withholding of Grades .................................................................................................................... 18 
+5.2.10 Change of an already awarded grade ............................................................................................. 18 
+Chapter 6: Inadequate Academic Performance ........................................................................................ 19 
+6.1 Mechanism to Address Inadequate Performance (Y21 & earlier) .............................................................. 19 
+6.1.1 Warning ......................................................................................................................................... 19 
+6.2 Mechanism to Address Inadequate Performance (Y22 and later) .............................................................. 19 
+6.3 Termination of Academic Programme ..................................................................................................... 20 
+6.3.1 For the students enrolled in BTech, BS and Double Major programmes (Y21 and earlier): .................... 20 
+6.3.2 For the students enrolled in BTech, BS, BTH, BSH, BTM, BSM and Double Major programmes (Y22 and 
+later): ..................................................................................................................................................... 20 
+6.3.3 For all Dual Degree students: .......................................................................................................... 20 
+6.4 Appeal Against Termination ................................................................................................................... 20 
+Chapter 7: Rules Governing Change, Addition in the Programme ............................................................... 22 
+7.1 Branch Change ..................................................................................................................................... 22 
+7.1.1 Eligibility ........................................................................................................................................ 22 
+7.1.2 Application Process ....................................................................................................................... 22 
+7.1.3 Academic Roadmap ....................................................................................................................... 22 
+7.1.4 Calculation of Seat Availability ........................................................................................................ 22 
+7.2 Bachelors-Masters Dual Degree Programme .......................................................................................... 23 
+7.2.1 Eligibility ........................................................................................................................................ 23 
+7.2.2 Application Process ....................................................................................................................... 23 
+7.2.3 Academic Roadmap ....................................................................................................................... 23 
+7.2.4 Withdrawal from the Bachelors-Masters Dual Degree Programme ..................................................... 24 
+7.2.5 Termination of the PG part of the Dual Degree Programme ................................................................ 24 
+7.2.6 Financial Assistance ...................................................................................................................... 24 
+7.2.7 Eligibility criterion for availing Institute Assistantship ........................................................................ 24 
+7.3 Double Major ........................................................................................................................................ 25 
+7.3.1 Eligibility ........................................................................................................................................ 25 
+7.3.2 Application Process ....................................................................................................................... 25 
+7.3.3 Academic Roadmap ....................................................................................................................... 25 
+7.3.4 Withdrawal from the Double Major Programme ................................................................................ 26 
+7.3.5 Termination of the Double Major Programme ................................................................................... 26 
+7.4 Minor ................................................................................................................................................... 26 
+7.4.1 Eligibility ........................................................................................................................................ 26
+
+[Page 4]
+Page 3 of 52 
+ 
+7.4.2 Application Process ....................................................................................................................... 26 
+7.4.3 Academic Roadmap ....................................................................................................................... 27 
+7.4.4 Declaration of Courses done for completion of (prior allotment or retrospective) Minor(s)) ................. 27 
+7.4.5 Withdrawal from a prior allotted Minor ............................................................................................. 27 
+7.4.6 Availability of Seats in Minor ........................................................................................................... 27 
+7.5 Bachelor of Technology and Management (BTM) / Bachelor of Science and Management (BSM) ................ 27 
+7.5.1 Eligibility ........................................................................................................................................ 27 
+7.5.2 Application Process ....................................................................................................................... 27 
+7.5.3 Selection into the BTM/BSM programme .......................................................................................... 27 
+7.5.4 Academic Roadmap ....................................................................................................................... 28 
+7.5.5 Withdrawal from the Bachelor of Technology/Science and Management Programme ......................... 28 
+7.5.5 Availability of Seats in the Bachelor of Technology/Science and Management Programme .................. 28 
+7.6 Bachelor of Technology, Honors (BTH)/ Bachelor of Science, Honors (BSH) .............................................. 28 
+7.6.1 Academic Requirements for earning BTH/BSH ................................................................................. 28 
+7.7 Exit Option Degree ................................................................................................................................ 29 
+7.8 Withdrawal from the programme ............................................................................................................ 29 
+Chapter 8: Leave of Absence ................................................................................................................... 30 
+8.1 Mid-Semester Recess and Vacation ....................................................................................................... 30 
+8.2 Short Leave and Medical Leave .............................................................................................................. 30 
+8.2.1 Processing of Leave ........................................................................................................................ 30 
+8.3 Temporary Withdrawal/ Semester Leave ................................................................................................. 30 
+8.4 Penalty for Unsanctioned or Excessive Leave .......................................................................................... 31 
+8.5 Permission to proceed to other Institutions/Semester Exchange .............................................................. 31 
+8.5.1 Application Procedure .................................................................................................................... 31 
+8.5.2 Transfer of Credits and Waiver in-lieu thereof ................................................................................... 31 
+8.5.3 Institutional Exchange Programme .................................................................................................. 32 
+8.6 Leave for Dual Degree Thesis Research Work ...................................................................................... 32 
+Chapter 9: Conduct and Discipline .......................................................................................................... 33 
+9.1 Code of Conduct .................................................................................................................................. 33 
+9.2 Disciplinary Action and Related Matters ................................................................................................. 33 
+Chapter 10: Waiver and Amendments ...................................................................................................... 34 
+10.1 Waiver ................................................................................................................................................ 34 
+10.2 Amendments ...................................................................................................................................... 34
+
+[Page 5]
+Page 4 of 52 
+ 
+Chapter 1: About the UG Program at IIT Kanpur 
+1.1 Introduction 
+The objectives of the undergraduate (UG) programmes at IIT Kanpur are: 
+• 
+To provide the highest level of education in technology and science, and to produce competent, creative, 
+and imaginative engineers and scientists 
+• 
+To promote a spirit of free and objective enquiry, and development of knowledge in different disciplines 
+• 
+To produce highly skilled technologists and scientists with well-honed managerial and entrepreneurial 
+skills having team spirit and leadership qualities 
+• 
+To increase student participation in nation building through technology development that is sensitive to 
+local needs 
+This manual sets out the procedures and requirements of the undergraduate programmes of study that fall under 
+the purview of the Senate Under-Graduate Committee (SUGC), which include Bachelor of Technology (BTech), 
+Bachelor of Technology – Honors (BTH), Bachelor of Technology and Management (BTM), Bachelor of Science (BS), 
+Bachelor of Science – Honors (BSH), Bachelor of Science and Management (BSM), Double Major, and Dual Degree 
+programmes. 
+1.2 Committees and Administrative Units 
+The above-mentioned UG programmes are governed by policies and rules set by the Senate. The Senate discharges 
+its duties generally through the following standing committees and administrative units in the Institute: 
+a. 
+Departmental Undergraduate Committee (DUGC): Each academic department constitutes this committee 
+which consists of a Convener (nominated by the Head of Department), the Head of Department, four to eight 
+members of the faculty, and two to three student members. The student representatives are nominated by the 
+Students’ Senate for a period of one year. The Convenors DUGCs are recommended to have 2-year terms, the 
+tenure of faculty members in DUGCs and DPGCs shall be two years, half of them retiring each year. 
+ 
+Certain programmes are managed by a programme undergraduate committee (PUGC). 
+ 
+The DUGC/PUGC: 
+• 
+Advises the students about their curriculum 
+• 
+Advises them about academic opportunities 
+• 
+Monitors the progress of academically weak students 
+• 
+Handles any problem faced by students in their academic programmes 
+• 
+Recommends the leave requests of the students 
+• 
+Monitor and approve the academic registration of students 
+ 
+b. 
+Senate Undergraduate Committee (SUGC): This is a standing committee formed by the Senate to look after all 
+the issues regarding institute-wide UG programmes. It makes recommendations to the Senate on all academic 
+issues including policy matters and specific problem instances related to UG students and UG programmes. 
+Its constituents are the Conveners of various DUGCs (and PUGCs where applicable), the previous SUGC 
+Chairperson (ex-officio), one Senate nominee, and five student members, with at least one female member, 
+nominated 
+by 
+the 
+Students’ 
+Senate. 
+ 
+The SUGC constitutes two subcommittees, namely, Academic Performance Evaluation Committee (APEC) 
+and Core Curriculum Committee (CCC). The Chairpersons of these subcommittees are nominated by the 
+SUGC Chairperson, and they, in turn, constitute their five-member committees from the faculty members of 
+the SUGC in consultation with SUGC Chairperson. The CCC coordinates and oversees various facets of the 
+core curriculum. The APEC evaluates the academic performance of undergraduate students at the end of each 
+semester and makes recommendations regarding actions to be taken in the case of academically deficient 
+students. Both these subcommittees make their recommendations to the SUGC.
+
+[Page 6]
+Page 5 of 52 
+ 
+1.3 Scholarships 
+A number of Merit-cum-Means scholarships, free ships (i.e., tuition waiver), free basic messing and pocket 
+allowance (for SC and ST categories), and endowment scholarships/fellowships are awarded to undergraduate 
+students according to the rules and procedures laid down by the Senate. These scholarships/fellowships are 
+administered by the Senate Scholarships and Prizes Committee (SSPC). More details about these scholarships can 
+be found from the Dean of Students’ Affairs (DoSA) office and DoSA webpage. 
+The scholarships, etc. are paid up to the month in which a student completes all the requirements of her/his 
+programme. 
+1.3.1 Awards and Medals 
+To promote and recognize academic excellence, constructive leadership and overall growth and development of 
+students, the Senate awards a number of prizes and medals established by the Institute on its own or through 
+endowments/grants made by donors, with the approval of the Board of Governors. Details of the same can be found 
+at the DoSA webpage. All matters related to awards and medals are handled by the Senate Scholarships and Prizes 
+Committee (SSPC).
+
+[Page 7]
+Page 6 of 52 
+ 
+Chapter 2: Admission Procedures and Rules 
+2.1 For New Students 
+IIT Kanpur admits students to the BT/BS programmes through the following ways: 
+2.1.1. Admission through JEE (Advanced) 
+Students are currently admitted to the following undergraduate programmes. New programmes may be added as 
+and when approved by the Senate: 
+a. Bachelor of Technology (BTech): A 4-year programme in Aerospace Engineering (AE), Biological Sciences and 
+Bioengineering (BSBE), Chemical Engineering (CHE), Civil Engineering (CE), Computer Science and Engineering 
+(CSE), Electrical Engineering (EE), Mechanical Engineering (ME), Material Science and Engineering (MSE), 
+Intelligent Systems (IS). 
+b. Bachelor of Science (BS): A 4-year programme in Chemistry (CHM), Earth Sciences (ES), Economic Sciences 
+(ECOS), Mathematics and Scientific Computing (MTH), Physics (PHY) and Statistics and Data Sciences (SDS). 
+Students are admitted to the BTech and BS programmes once a year in the month of July through the Joint Entrance 
+Examination (Advanced) conducted on an all-India level by the IITs in all programmes. Reservation of seats for 
+various categories shall be as prescribed by the Board of Governors subject to the current policy formulated from 
+time to time by the Government of India. Details about the breakup of reserved seats for various categories can be 
+found with the JEE Office. 
+2.1.2. Admission through Olympiads 
+Students are admitted through Olympiads in BTech and BS programmes. The rules governing the eligibility criteria 
+are notified every year and can be found on the DoAA website. Students are currently admitted to the following 
+programmes: 
+a. Bachelor of Technology (BTech): A 4-year programme in Biological Sciences and Bioengineering (BSBE), 
+Computer Science and Engineering (CSE), Intelligent Systems (IS). 
+b. Bachelor of Science (BS): A 4-year Programme in Chemistry (CHM), Economic Sciences (ECOS), 
+Mathematics and Scientific Computing (MTH), Statistics and Data Science (SDS), Physics (PHY). 
+2.1.3. Admission with Advanced Standing 
+Normally, admissions are made to the first year of the BTech and BS programmes. However, under exceptional 
+circumstances, the Senate may admit a student with advanced standing (up to a maximum of four semesters) on 
+the basis of their partial completion of a similar programme elsewhere. 
+2.2 Programmes of Study 
+IIT Kanpur offers ways to students to enhance their programme by adding Minor(s) and/or by switching to any of the 
+following academic programmes: 
+a. Bachelor of Technology – Honors/Bachelor of Science – Honors (4-Year degree programmes) 
+b. Bachelor of Technology and Management/Bachelor of Science and Management (4-Year degree 
+programmes) 
+c. Double Major (5-year programme) 
+d. Bachelors-Masters Dual Degree Programmes (BT/BS/BSH/BTH/BTM/BSM-MT/MS/MDes/MBA) (5-year 
+programme) 
+Additionally, A BT/BS student may choose to apply for a change to a BT/BS program in any other discipline, which is 
+referred to as a Branch Change. 
+The rules governing these branch and programme changes are given in Chapter 10. 
+2.3 Non-Degree UG Students 
+A non-degree student is a student who is registered for a degree in a recognized Institute (other than IIT Kanpur) in 
+India or abroad, and who is officially sponsored by that Institute or University to complete a part of their academic 
+programme at IIT Kanpur. For that purpose, the non-degree student may carry out research, take courses for credit 
+or otherwise, or may use other academic facilities at IIT Kanpur. An official transcript of work done at IIT Kanpur, 
+along with grades obtained, if any, would be given to the non-degree student for their use as they may deem
+
+[Page 8]
+Page 7 of 52 
+ 
+appropriate. However, any credits earned at the Institute by a non-degree student cannot be counted towards any 
+degree programme of IIT Kanpur at any time. 
+A person will be admitted as a non-degree student on the basis of a sponsored application to the Dean of Academic 
+Affairs, who will recommend for admission on the approval of the Chairperson, SUGC. The Chairperson's decision 
+will be based on the advice of the concerned DUGC. A non-degree student may be admitted for a maximum period 
+of one year only. The strength of non-degree students in any programme should not be more than 5% of the 
+programme strength. 
+A non-degree student will be required to pay all applicable fees depending upon the status, programme and 
+nationality. Students so admitted will be governed by all rules, regulations and discipline of IIT Kanpur. 
+2.4 Validity of Admission and Its Cancellation 
+Admission to any undergraduate programme requires that the applicant fulfil all three of the following conditions: 
+a. Satisfy eligibility criteria 
+b. Follow the due admission procedure 
+c. Pay the prescribed fees and complete biometric registration 
+All the admissions to undergraduate programmes should be formally approved by the Senate. All students admitted 
+provisionally or otherwise to any programme shall upload the copies of their relevant documents (see Appendix A) 
+by the last date specified for the purpose, in the Academic Calendar. The Senate can cancel the admission of any 
+student who fails to submit the prescribed documents by the specified date or who does not meet other stipulated 
+requirement(s). The Senate may also cancel admission at any later time if it is found that the student had supplied 
+false information or suppressed relevant information while seeking admission.
+
+[Page 9]
+Page 8 of 52 
+ 
+Chapter 3: Academic Requirements and Degree Eligibility 
+3.1 Types of Courses 
+The entire curriculum is divided into several parts. 
+Institute Core (IC): This is a compulsory set of courses for all BTech/BS student which includes basic courses in 
+Physics, Chemistry, Mathematics, Biological Sciences, Computing, Electronics, Engineering Graphics, 
+Manufacturing Processes and Physical Education. 
+SCHEME electives: These are the courses from basket of courses in the Social-Sciences, Communication, 
+Humanities and EME (Economics, Management and Environment). This basket has following components: 
+a. English Language Communication (ELC) Course: Students would be allotted one ELC course based on their 
+prior exposure to English (tested via a Diagnostic Test) 
+b. HSS Level-I Course: Students will do one introductory HSS course from a basket of courses. The courses 
+will be allotted to students on a preference-cum-lottery basis. 
+c. HSS Level-II Courses: Students will do 3 advanced HSS courses from a basket of courses. The courses will 
+be allotted to students on a preference-cum-lottery basis. 
+d. Economics/Management/Environment (EME) Courses: Students need to do one EME course from a basket 
+of courses. Students will be allotted to these courses on a preference-cum-lottery basis. Some 
+departments may mandate a particular course from the basket. 
+Departmental Compulsory (DC): This is the compulsory set of courses for Bachelors students in their parent 
+discipline and add-on discipline (if any). 
+ESO/SO electives: These are elective courses from a basket of Engineering-Science/Science options. Some 
+departments may mandate a set of courses for their students. 
+Departmental elective (DE): These are elective courses that students must take from within their parent discipline 
+and add-on discipline (if any). 
+Open electives (OE): These are elective courses that students may take from any department/programme in the 
+Institute. They are meant to widen the student’s knowledge beyond the parent discipline. The students may also 
+register for at-most one pre-approved 9 credits (12 weeks) MOOC (Massive Open Online Courses) / NPTEL course 
+with S/X grade with proctored exam. 
+Under-graduate Project (UGP): These are project-based courses which the students can take from their own 
+department or from other departments. 
+Credits for External Activities (CEA): External activities include activities such as internships, project work, and 
+entrepreneurship activities. This includes both (i) in-office activities outside the campus, and (ii) remote work while 
+being registered as a student and residing in the campus. It is not meant for in-campus ‘internal’ activities with IITK 
+academic staff at IITK-affiliated facilities; on a similar note, CEA in SURGE and similar on-campus project-works are 
+not allowed. For more information, refer to Appendix-F. 
+The details of the programmes may be found in the course templates available on the DoAA website. Students must 
+ensure that there is no significant overlap between any two courses completed by them. 
+3.2 Minimum and Maximum Duration 
+Academic Program 
+Normal 
+Duration 
+(Semesters) 
+Minimum 
+Duration 
+(Semesters)* 
+Maximum Campus 
+accommodation 
+(Semester) 
+For Y22 and later † 
+Maximum Duration 
+(Semesters) 
+ 
+For Y21 and earlier ‡ 
+BT/BS/BTM/BSM/BTH/BSH 
+8 
+7 
+12 
+12 
+Dual Degree 
+10 
+9 
+15 
+15 
+Double Major 
+10 
+9 
+15 
+12 
+BASc (exit option) 
+8 
+-** 
+12 
+- 
+* Note: 
+a) Student can claim their graduation before the minimum residency as well; the name of such students will 
+be included in the upcoming list of graduation for approval of the Senate.
+
+[Page 10]
+Page 9 of 52 
+ 
+b) The UG office will check graduation requirements of those students (except DD students as swapping is 
+done in 10th semester) who had earned credits required as per the template after the minimum and regular 
+residency period only. In case a student has completed graduation requirements then they cannot register 
+further even if their Minor requirement is pending. To pursue Honours program, students will have to submit 
+a plan to the SUGC through the DUGC on (i) how they will complete credits for their Honours program 
+credits and (ii) how they will fulfil the applicable CPI criteria. However, in this case, student will not be 
+permitted to go into underload unless the courses the student has registered for are the only ones required 
+for completion of their Honours. 
+** Subject to completion of 300 credits requirements as mentioned in the template of exit option. 
+† Y22 and later: There is no upper bound on the duration to complete a programme. However, students will not be 
+provided campus accommodation beyond 1.5 times the normal duration of the respective academic programme 
+(even after they take the exit degree option). 
+‡ Y21 and earlier: The academic programme of a student will be terminated if the student fails to complete the 
+graduation requirements within the prescribed maximum duration. However, such a student may appeal to the 
+Senate to continue their programme. 
+† and ‡ The maximum duration allowed will include any regular semester(s) in which a student is registered at IITK, but 
+may spend as a non-degree student at some other Institution while still pursuing the said academic programme at 
+IITK. 
+3.3 Minimum Academic Requirement 
+For graduation, a student must clear all courses as per the respective programme template, satisfying the minimum 
+credit requirement in each course category. In addition, the BTH/BSH students should achieve the minimum CPI, 
+as laid down in the course template and the Bachelors- Masters dual-degree student must achieve at least a CPI of 
+6.0 in the PG part of the programme. 
+If a student is short of 1 credit in the ESO/SO or OE category for the completion of the programme, then they may be 
+granted relaxation for the same by the SUGC. In exceptional circumstances, the Senate may grant any other 
+relaxation in the minimum academic requirements. 
+3.4 Graduation 
+A student is deemed to have completed the requirements for graduation if they have: 
+a. Met the academic requirements outlined in Sections 3.2 and 3.3 
+b. Satisfied additional requirements, if any, set by the concerned department 
+c. Paid all fees and dues to the Institute 
+d. No case of indiscipline is pending against them 
+3.4.1 Graduation with Distinction 
+A student graduating with a CPI of 8.5 or above is said to graduate with distinction. 
+A Bachelors-Masters dual-degree student with a CPI of 8.5 or above in the Bachelor’s part of the dual degree 
+programme is said to graduate with distinction in the Bachelor’s part. 
+This fact is noted on the student’s final grade sheet (Bachelor Part Only). 
+3.5 Award of Degrees 
+A student who completes all the graduation requirements specified in Section 3.4 is recommended by the Senate 
+to the Board of Governors (BoG) for award of the appropriate degree. The degree can be awarded only after the BoG 
+accords its approval. 
+3.6 Withdrawal of the Degree 
+Under exceptional circumstances, where gross violation of graduation requirements is detected at a later stage, the 
+Senate may recommend to the Board of Governors (BoG) for withdrawal of the degree already awarded.
+
+[Page 11]
+Page 10 of 52 
+ 
+Chapter 4: Academic Session and Registration 
+4.1 Academic session 
+4.1.1. Dates 
+The academic session normally runs from the end of July in one year to the middle of July in the next year. It is divided 
+into three parts, with the tentative schedule as follows: 
+Semester I: From the end of July to the end of November 
+Semester II: From the beginning of January to the end of April 
+Summer Term (not a regular semester): From the middle of May to the middle of July 
+4.1.2 Duration 
+Each regular semester shall consist of fourteen weeks of classes and one week of mid-semester recess. 
+Additionally, around ten days are used for the end-semester examination and one week for the mid-semester 
+examination. The Summer Term consists of seven weeks of classes, not including holidays and examinations days. 
+4.1.3 Academic Calendar 
+The dates of all academic activities including those of pre-registration, registration, late registration, last date of 
+document submission, add-drop of courses, first and the last day of classes, mid-term course drop/de-registration 
+deadline, examinations, make-up examination, deadline for grade submission, conversion of I grade, mid-semester 
+recess, and vacation are published in the Academic Calendar every year by the DoAA office. The Academic Calendar 
+is available on the DoAA website. 
+4.2 Registration 
+Each admitted student is required to register before the commencement of each semester/summer term to study 
+during that period in the Institute. New students who await the final result of the qualifying examination are allowed 
+to register provisionally on submission of a certificate from their last institute stating that they have appeared in the 
+final examinations (both theory and practical). Such students are required to submit documents of having passed 
+the qualifying examination by the last date given in the Academic Calendar, failing which their admission shall be 
+cancelled. 
+There are two parts to the registration process: academic registration (administered by DoAA office) and 
+administrative registration (administered by DoSA office). The administrative registration includes payment of 
+institute dues, fee and biometric attendance. The responsibility for completing both parts of the registration process 
+rests with the students as per the dates given in the Academic Calendar. 
+If a student fails to complete the registration process within the specified time, the following process shall be 
+adhered to every semester: 
+a. Students who do not complete either of the two registrations, will be de-registered from all the registered 
+courses and will be given a compulsory semester leave for that semester. Such forced semester leave(s) 
+can be over and above the count of semester leaves prescribed under clause 11.3 of this manual; such 
+forced semester leave cannot be revoked. 
+b. Academic programme of such students will not be terminated. They will be advised to register for the next 
+semester on the due date 
+For registration process in the Credits for External Activities (CEA), please refer to Appendix-F. 
+4.3 Academic Registration 
+This involves the selection of courses consistent with the specific credit requirements detailed in the program 
+template and subject to some rules described below. Within these rules, students have flexibility of choice regarding 
+which courses to do within a specific semester. The academic registration process gets completed after the DUGC 
+Convener approves the registration form. A registration is considered valid only if there is no time-table conflict 
+between the courses for which the student has registered. 
+4.3.1 Pre-registration 
+Every student must pre-register for the upcoming regular semester at the duration specified in the Academic 
+Calendar. The Academic Pre-registration is done entirely online.
+
+[Page 12]
+Page 11 of 52 
+ 
+a. The Academic Pre-registration includes the Pre-registration for HSS and EME courses. 
+b. Pre-registration for HSS and EME courses is mandatory for all students desirous of and eligible for taking an 
+HSS and/or EME course in the upcoming semester. 
+c. The compulsory courses for the next semester, as specified in the course template, are auto populated in 
+the student’s Pre-registration form. The allotted HSS and/or EME courses are also auto populated in the 
+student’s Pre-registration form. These auto-populated courses will be dropped if pre-requites are not 
+fulfilled. See clause 7.2.5 for pre-requisite waivers. 
+d. Other than the courses auto-populated, a student needs to register for electives and other credits, as 
+specified in the course template. For this, the students should make an online request to the concerned 
+course instructor. If the instructor accepts the request, students may add the respective course to their 
+registration form. Otherwise, they must make a request for other course(s). Students may select the 
+number of courses permitted by course load rules (under credit limits as per their academic 
+status/deficiency), while ensuring that all pre-requisites have been completed and there is no timetable 
+clash among the courses. Courses with a timetable clash will be dropped automatically from students' 
+online registration form. 
+e. After all the courses they plan to do in the next semester have been accepted by the concerned instructors, 
+students need to submit the online registration form for the approval of the DUGC within the prescribed 
+timeline. 
+f. 
+If a student fails to complete Pre-registration due to any reason, they can register online for the 
+courses/credits on the due date of registration in the next semester. However, this will carry a fine (which at 
+present is Rs. 2500/-). If a student has missed the Pre-registration due to medical or bonafide reasons, they 
+may request for the fine to be waived. The request should be made to the Chairperson, SUGC, whose 
+decision shall be final in this regard. 
+4.3.2 Final Registration 
+Students who have completed their Pre-registration are automatically treated as finally registered and may proceed 
+to Add-Drop (as discussed in clause 6.3.3). Students may use the Final Registration option only under the following 
+circumstances: 
+a. Their Pre-registration has been cancelled by the DUGC. 
+b. They did not complete the Pre-registration process in the previous semester. 
+c. They were on approved semester leave (due to any reason) in the previous semester. 
+These students can register during the Add-Drop period (see clause 6.1.3). The students who were on approved 
+semester leave on medical grounds must mandatorily undergo the medical examination by the institute’s Medical 
+Board and obtain a medical fitness certificate to continue in the current semester. Failure to appear before the 
+Institute’s Medical Board will lead to cancellation of registration and forced semester leave, subject to the approval 
+of the Senate. Such students will be allowed to register provisionally in the current semester till the medical fitness 
+certificate is obtained. 
+In summer term, students can request for the courses during the add-drop period and after acceptance by 
+Instructor(s), their forms must be approved by the DUGC. 
+4.3.3 Add-Drop Period 
+Students who wish to alter their pre-registration form may use add-drop period to add or drop courses using the 
+online registration system during the period specified for this purpose in the Academic Calendar. Each add/drop 
+request needs to be accepted by the Instructor-in-Charge of the concerned course. Once an add/drop request has 
+been accepted, students need to change their online registration form accordingly and submit it to the DUGC for 
+final approval. 
+4.3.4 Dropping of Courses After Add-Drop Period 
+Students may also request to drop course(s) up to about four weeks prior to the last date of classes (exact date is 
+specified in Academic Calendar) with the following conditions: 
+a. Dropping of course(s) should not result in the semester load becoming less than the specified minimum 
+number of credits (for their respective Brackets), for a regular semester. This limit may be reduced, if a 
+student needs less than 35 credits (or lower limit of their respective Brackets) for completion of the 
+graduation requirement in their last semester.
+
+[Page 13]
+Page 12 of 52 
+ 
+b. The request to drop course(s) must be approved by the Instructor-in-Charge of the course and the 
+Convener, DUGC. It is the responsibility of the student to get approval from the Instructor-in-Charge and 
+the Convenor, DUGC by the last date for dropping the course, as mentioned in the Academic Calendar. 
+c. The total number of credits of courses dropped beyond the add-drop week should not exceed 44 during the 
+entire program. This includes the Summer terms (if registered) and applies to all UG programs. 
+Adding of courses is not permitted in the summer term. However, students may drop a course up to two weeks prior 
+to the last day of classes. 
+4.3.5 De-Registration from a Course 
+Registration of a student in a course may be cancelled at any stage if it is found that they do not meet the pre-
+requisites of the course, or if there is a clash in the student's time table preventing them from attending the course 
+or if it is found that they are not eligible to register for that course for any other reason. 
+ The instructor of a course may also recommend cancellation of registration of any student in that course for reasons 
+such as absence from classes without proper authorization (as per clause 5.1.6a). The instructor may recommend 
+such de-registration of students up to four weeks prior to the last day of classes. The exact last date of de-
+registration is available in the Academic Calendar. The instructor should send de-registration recommendations to 
+the SUGC Chairperson through the concerned DUGC. The SUGC Chairperson's decision in each case shall be 
+conveyed to the instructor and the student at least two weeks prior to the last day of classes. Further, if de-
+registering a student from a course, results in the students’ registration falling below the minimum prescribed 
+credits as per their academic category, then the student cannot be de-registered from the course. 
+4.3.6 Academic Load in Regular Semesters 
+Each course carries a weightage in terms of credits indicating the approximate number of contact hours (lectures 
+and tutorials and/or laboratory hours) as well as self-study hours per week required for the course. Credit 
+calculation for a course is done by the following formula: C=3L+2T+P+A, where C is the number of credits, L is the 
+number of lecture hours, T is the number of tutorial hours, P is the number of laboratory hours, and A is the additional 
+number of hours needed for assignments and projects, as decided at the time of approval of the course. 
+4.3.6.1 Normal Academic Load 
+Normal academic load is fifty credits per semester. UG Students may register for up to 30 percent less or 30 percent 
+more credits than the normal load. That is, UG students may register for 35-65 credits subject to the approval of the 
+registration form of a student by the DUGC. Maximum credits a student can register for in a regular semester is 65. 
+In the case of Credits for External Activities (CEA), student may register up to 27 credits in regular semester and up 
+to 9 credits in summer term; over the entire program only 27 credits are allowed. However, if any department has 
+already received approval for granting additional credits for external/internship activities (which must be clearly 
+mentioned in the course template), then the allowed CEA credits will be further capped such that the total credits 
+of template-approved external activities plus the credits earned from CEA courses is larger of 27 and the maximum 
+credits specified by the departmental template. For more information, refer to Appendix-F. 
+4.3.6.2 Academic Load for Bachelors-Masters Dual Degree students 
+The Bachelors-Masters Dual Degree students, after migrating to the PG part of the programme, can register for a 
+load depending on whether they are registering for course credits only, or including Thesis credits, or including 
+Project credits. The credits allowed are (including the UG and PG credits): 
+a. For students registering for course credits only, the credit limits will be 35 to 65 
+b. For students registering for Thesis credits only, the credit limits will be 27 to 36 
+c. For students registering for Thesis credits (with course), the credit limits will be 27 to 45 
+d. For students registering for Project credits (with or without course), the credit limits will be 35 to 65 
+4.3.6.3 Exceptions to Regular Rules regarding Academic Load 
+Under-load: Students who are identified as academically deficient may register for a minimum of 27 credits. In 
+addition, students in their final semester or an extended degree student may register for credits less than the 
+minimum credit limit if: 
+a. They only require that many credits for the completion of their academic program. 
+b. Any course(s) is/are not being offered in the concerned semester
+
+[Page 14]
+Page 13 of 52 
+ 
+For students doing Credits for External Activities (CEA) in a semester in off-campus mode, permission to register for 
+less than minimum allowed credits in a semester (i.e. an underload waiver) may be provided. 
+Over-load: In special cases students can register for Extra Course or Extra Load beyond the graduation requirement. 
+There is no provision to audit a course for UG students. 
+ 
+A. Extra Course: Students in the advanced stage of their programme may register for extra courses (within the 
+upper credit limit i.e., 65 for bachelor’s and 45 for Dual Degree) that are not part of their graduation 
+requirements. The rules regarding such registration are as follows: 
+i. 
+Students are allowed to take extra course(s) only when they need 100 or less additional credits to complete 
+all the requirements of their programme. 
+ii. 
+Such extra course(s) may only be taken with the consent of the course instructor(s), DUGC and approval 
+from the SUGC. 
+iii. 
+Students should submit the list of the extra course(s) to the DoAA office at the time of registration. 
+iv. 
+At the time of registration in the extra course(s), the student has to declare whether s/he would do the extra 
+course(s) on the basis of a letter Grade (A-F) or pass/fail (S/X). 
+v. 
+All such extra courses will be shown on the student's transcript. 
+vi. 
+If the student chooses to do the extra course(s) on the basis of a letter grade, then the letter grade received 
+in such extra course(s) will be counted towards SPI/CPI 
+ 
+B. Extra Load: Any student with a CPI of 8.5 or higher may request registration for more than 65 credits in a 
+semester. The rules regarding such registration are as follows: 
+A student has to declare which course they intend to register for as extra load at the time of registration. 
+i. 
+If a student registers for additional load, then the total credits for that semester may be up to 70 credits. 
+ii. 
+These additional courses will not count towards satisfying their graduation requirement. 
+iii. 
+The student may choose to take such courses on the basis of a letter grade (A-F) or pass/fail (S/X). The 
+grades earned in the overload courses will be shown on the student's transcript, but these grades will not 
+be included in the calculation of SPI/CPI. 
+iv. 
+Such course(s) under Extra Load may only be taken with the consent of the course instructor(s), DUGC and 
+approval from the SUGC. 
+v. 
+Students should submit the list of the course(s) under Extra Load to the DoAA office at the time of 
+registration. 
+4.3.7 Academic Load in Summer Term 
+UG students may register for a maximum of 27 credits in the summer-term. The summer-term is not a regular 
+semester. All students are allowed to opt for the credits/courses offered in the summer-term. Students with 
+backlogs will be given preference in course allotment. Only students who can complete the course requirements 
+for graduation by the summer-term may register for a maximum of 29 credits. 
+Bachelors-Masters Dual Degree students, in the PG part of their programme, may register for either of the following 
+work in the summer term (i) a maximum of 18 credits of thesis or (ii) a maximum of 9 credits of course work and 9 
+credits of thesis or (iii) at most 20 credits of course. 
+4.3.8 Cancellation of Registration 
+If a student is found to be absent from all academic activities for more than 20 working days (not necessarily 
+contiguous) in a semester with or without sanction, then their registration from all the courses in that semester will 
+be cancelled. The corresponding number of days of absence for a summer term is 10. In such cases, the result is a 
+forced semester drop. 
+4.4 Administrative Registration 
+This involves two steps: 
+a. Payment of fees and clearance of outstanding dues (if any) 
+b. Giving biometric attendance under the supervision of the Office of the Dean of Students’ Affairs (DoSA)
+
+[Page 15]
+Page 14 of 52 
+ 
+4.5 Late Registration 
+Students are expected to complete the registration process (both academic and administrative) by the date 
+specified in the Academic Calendar. In exceptional circumstances they may be allowed to complete the process by 
+the date of late registration after paying the late registration fine (currently Rs. 1000/-). This fee may be waived if prior 
+permission from DOSA for late registration is obtained. Besides, it may also be waived in case of unexpected events, 
+such as illness or family emergency, when it may not be possible to take prior permission. 
+In exceptional cases, for Dual Degree students who have completed course work and left with only thesis credits, 
+the Chairperson SUGC, based on the recommendations of the supervisor and the DUGC, may consider registration 
+beyond the date of late registration. In such a case, the student will be allowed to register for thesis credits, at max, 
+proportionate to the remaining time in the semester (with late fine).
+
+[Page 16]
+Page 15 of 52 
+ 
+Chapter 5: Teaching and Evaluation 
+5.1 Teaching 
+5.1.1 Medium of Instruction 
+The medium of instruction is English. All students admitted to the first year of the BTech and BS programmes are 
+required to take a diagnostic test in English termed as EDT (English Diagnostic Test). Based on their performance in 
+the test, all students are required to credit a relevant level of the course in English Language and Communication 
+(ELC) as a part of their SCHEME course requirements. 
+5.1.2 Offering a New Course 
+All undergraduate courses require the approval of the SUGC before being offered. A course should be proposed by 
+an interested faculty member in a prescribed format at least six weeks before the preregistration dates of the 
+semester in which it is proposed to be offered for the first time. The Convenor, DUGC should e-mail the proposal to 
+all faculty members to elicit their comments and suggestions, and should send a hard copy/ soft copy of the 
+proposal to the Chairperson, SUGC. A minimum period of two weeks should be allowed for such comments to be 
+received. After this period, the Convenor in consultation with the proposer of the course will write to the 
+Chairperson, SUGC for approval with the proposal in its final form after taking into account all 
+comments/suggestions and making suitable modifications. The comments/suggestions received should be 
+enclosed with the letter to the Chairperson, SUGC. If over 20 percent of the contents have been modified, the 
+proposal should be recirculated to all faculty members. At least one week should be allowed for the receipt of 
+comments on the revised course proposal. 
+5.1.3 Course Offerings for a Given Semester 
+The list of courses to be offered by a department / programme in the next semester is finalised before the pre-
+registration period in the current semester by the Head of the Departments in consultation with the faculty. For the 
+summer term, this list is finalised at least ten days before the registration date for the summer term. The courses to 
+be offered are decided by taking into consideration all the requirements of the programme templates. 
+5.1.4 Duration of Courses 
+Courses may be for a full semester or half a semester. A full semester course with 9 credit units of lectures typically 
+has 39 lectures of 50 minutes each or 26 lectures of 75 minutes each. Half semester courses, also called modular 
+courses, have half the number of lectures. Modular courses can be offered in the first half or the second half of a 
+regular semester/summer term. 
+5.1.5 Conduct of Course 
+Each course is conducted by the Instructor-in-Charge with the assistance of the required number of instructors, 
+tutors, and teaching assistants. The Instructor-in-Charge is responsible for conducting the course, holding the 
+examinations, evaluating the performance of the students, awarding and submitting the grades on the grade 
+submission portal. 
+5.1.6 Absence from Academic Activities Absence from Academic Activities) 
+a. If a student is found to be absent from class without sanctioned leave, then the course instructor may 
+recommend de-registration of the student from the course. The policy regarding unsanctioned leave leading 
+to de-registration or any other consequence must be declared by the instructor at the beginning of the course, 
+in FCH. This rule applies to regular as well as modular courses that are conducted in both regular semesters 
+as well as in the summer term. 
+ 
+b. If a student is found to be absent from all academic activities for more than 20 working days (not necessarily 
+contiguous) in a semester, with or without sanction, then their registration for all the courses in that semester 
+will be cancelled resulting in a forced semester drop. 
+ 
+c. If a student is found to be absent from all academic activities in a semester without authorization for more 
+than 30 working days contiguous or does not appear, without a compelling reason, for the end-semester 
+examinations in all the courses in which they are registered, then their programme will be recommended to 
+Senate for termination.
+
+[Page 17]
+Page 16 of 52 
+ 
+5.1.7 Work-Week and Class Timings 
+The institute operates on a 5-day per week schedule. Regular class timings are from Monday through Friday from 
+8:00 am to 7:15 pm, but classes for UG (IC & DC courses) are only between 8 am and 6 pm. Two slots (Tue and Thu) 
+with time slots 7:00 pm to 8:15 pm are blocked for all make-up/extra classes and scheduling quizzes throughout the 
+semester. Extra/make-up classes or quizzes are planned with due consultation of the registered students. No 
+classes are scheduled on a regular basis outside this time period. Lecture / tutorial classes are usually scheduled 
+in 50 or 75-minute slots. Lab classes are usually scheduled in 180-minute slots. No classes are usually held on 
+Saturdays and Sundays, unless announced by DoAA as make up for some holiday or otherwise. 
+Extra classes may be scheduled by an instructor in case the regular schedule does not allow for 39 hours of 
+instruction (in a lecture course), and/or if an instructor has to miss a regularly scheduled class. The instructor may 
+schedule extra/make-up classes in consultation with the students registered in the course at a time that is mutually 
+convenient to every student. 
+5.2 Evaluation and Performance Feedback 
+The evaluation of students' performance in a course is a continuous process. Students' performance is evaluated 
+through a mid-semester examination, an end-semester examination, quizzes (short-tests), assignments, laboratory 
+work (if applicable), etc. The weightage of each component to determine the final grade in the course is decided by 
+the course instructor who must declare to the students about these weightages at the start of the semester, in the 
+FCH. 
+For evaluation and grading process of the Credits for External Activities (CEA), please refer to Appendix-F. 
+5.2.1 Examinations 
+The mid-semester and end-semester examinations are scheduled by the office of the Dean of Academic Affairs 
+during the periods specified in the Academic Calendar. For half-semester modular courses there shall be one 
+examination on the completion of the module. It is held during the mid-semester examination period if the course 
+is taught during the first half of the semester, or along with the regular end-semester examinations if the course is 
+taught during the second half of the semester. 
+It is mandatory to conduct End Semester Examination in a course, unless the instructor has already informed 
+DUGC(s) of the department(s) offering the course as well as students registered in the course at the beginning of 
+the course. 
+5.2.2 Quiz, evaluated assignments 
+To ensure the principle of continuous evaluation, it is recommended that core course instructors conduct at least 
+two quizzes/tests, one before the mid-semester examination and other between the mid-semester and the end–
+semester examination. In a core modular course, it is recommended to have at least one quiz since it has only one 
+examination. Schedule and number of quizzes for other course(s) will be decided by the instructor. 
+5.2.3 Make-up Examination 
+If a student, for bona fide reasons such as illness, etc., fails to appear in the end-semester examinations in one or 
+more course(s), they may make a request through the DUGC Convener to the SUGC Chairperson for a make-up 
+examination within a day of the last scheduled examination. Such requests must be made on the prescribed form 
+available from the DoAA website, giving reasons for the failure to appear in the examination along with documents 
+supporting the given reason. In case of illness, a certificate from the Chief Medical Officer of the Institute Health 
+Centre should be submitted. The end-semester make-up exam of the modular courses offered in the first half of the 
+semester/summer term be conducted on the immediate weekend falling after the last date of conducting the mid-
+semester exams, as detailed in the Academic Calendar. The grades for such modular courses should be declared 
+to the students before the commencement of the Academic Pre-registration for the next semester. 
+A passing grade cannot be awarded if a student fails to appear in the End Semester Examination or Make-up 
+Examination of a course. However, in such a scenario, an appropriate grade based on zero marks in the End-
+Semester Examination may be awarded only after the recommendation of SUGC and approval of Chairperson, 
+Senate.
+
+[Page 18]
+Page 17 of 52 
+ 
+Make-up examination for mid-semester examination within specified date or proration of mid-semester exams will 
+be conducted by Instructors, in case of missing mid-semester exams on medical grounds. 
+If a student fails to appear in quiz, or to submit an assignment etc., it is entirely up to the instructor to decide whether 
+to provide a make-up opportunity. This rule applies even if the student’s inability to do the work at the scheduled 
+time was a result of illness and/or sanctioned leave. 
+5.2.4 Results of Examinations and Quizzes 
+The graded answer booklets for the mid-semester examinations must be shown to the students within 14 days of 
+the last day of mid-semester examinations as prescribed in the academic calendar. The final grades of all the 
+students in a course must be submitted to the DoAA within 72 hours, 96 hours, and 120 hours after the examination 
+for courses with class strength up to 50, between 51 and 150, and above 150 respectively. Instructors are required 
+to show the graded answer booklets for all evaluation components before the grade submission for the end-
+semester examination. It is the student's responsibility to be available at the time specified by the instructor for this 
+purpose. Answer booklets of the final examination must be returned to the instructor after the students see them 
+and saved by the instructor for a minimum of six months. 
+5.2.5 Letter Grades and Weightages 
+At the end of the semester/summer term, students are awarded a letter grade in each course by the concerned 
+Instructor-in-charge considering their performance in various examinations, quizzes, assignments, laboratory work 
+(if any), etc., besides regularity of attendance in classes. 
+Institute has adopted granular grading system uniformly for all students from 2022-23-I Semester. The letter grades, 
+their description, and the numerical value on a 10-point scale (called Grade Points) are as follows: 
+Grade 
+Grade Points 
+Performance 
+A* 
+10 
+Outstanding 
+A 
+10 
+Excellent 
+B+ 
+9 
+Very Good 
+B 
+8 
+Good 
+C+ 
+7 
+Fair 
+C 
+6 
+Satisfactory 
+D+ 
+5 
+Marginal 
+D 
+4 
+Pass 
+E 
+0 
+Exposure 
+F 
+0 
+Fail 
+S 
+- 
+Satisfactory 
+X 
+- 
+Unsatisfactory 
+I 
+- 
+Incomplete 
+W 
+- 
+Waiver 
+A* grade is intended to recognize and encourage outstanding performance in a class. This grade is to be awarded 
+sparingly. 
+E grade indicates that the student has failed the course, but they may be allowed to register for a course for which 
+this course is a pre-requisite, even before this course is repeated and passed. This facility of waiver of pre-requisite 
+requirement is subject to the approval of the instructor of the course (of which this course is pre-requisite) and the 
+concerned DUGC. 
+In some courses such as projects, seminars, physical education etc. Satisfactory (S) / Unsatisfactory (X) grade is 
+awarded. Grade ‘X’ implies that the student has failed the course. S/X grades are not used for the calculation of 
+CPI/SPI. 
+Two additional letters, namely, ‘I’ and ‘W’, which stand for Incomplete and Waiver, respectively, may be given for a 
+course. These are not grades. 
+Incomplete (I grade): A student may be awarded the letter I (Incomplete) in a course if they have missed, for a 
+genuine reason, a minor part of the course requirement but has done satisfactorily in all other parts. An ‘I’ must,
+
+[Page 19]
+Page 18 of 52 
+ 
+however, be converted by the Instructor-in-Charge into an appropriate letter grade and communicated to the DoAA 
+office by the last date specified in the Academic Calendar. Any outstanding ‘I’ after this date shall be converted 
+automatically into an F grade. In case of project courses ‘I’ may not be awarded for mere non-completion of project 
+due to lack of facility etc. 
+Waiver (W grade): The letter ‘W’ is awarded when a student earns credits at another institution and the SUGC 
+decides to waive similar credits from their programme of study at IIT Kanpur. The grade earned in lieu of which the 
+waiver is granted is not to be used for the computation of SPI/CPI. 
+5.2.6 Semester Performance Index 
+The Semester Performance Index (SPI) is a weighted average of the grade points earned by a student in all the 
+courses credited in a semester. If the grade points associated with the awarded grades to a student are g1, g2 ... in 
+a given semester and the corresponding course credits are c1, c2,...., then the SPI for that semester is calculated 
+by multiplying the number of credits for each course with the grade point for that course, adding these up for all the 
+courses registered in the semester, and then dividing this sum by the total course credits for the semester: 
+ 
+S and X grades shall not be considered in the computation of the SPI. 
+5.2.7 Cumulative Performance Index 
+The Cumulative Performance Index (CPI) indicates the overall academic performance of a student. It is computed 
+in the same manner as the SPI, except that here we consider all the courses registered up to and including the latest 
+completed semester/summer term. 
+ 
+Whenever a student is permitted to repeat or substitute a course, the new letter grade replaces the old letter grade 
+in the computation of the CPI, but both grades are mentioned in the Grade Sheet. 
+5.2.8 Declaration of the Final Result 
+The grades earned by a student in a regular semester/summer term shall be communicated to them typically within 
+ten days of the last date for submission of grades. A printed copy of the Grade Sheet will be issued to each student 
+after each semester. A duplicate copy, if required, can be obtained on payment of the prescribed fee. 
+5.2.9 Withholding of Grades 
+The grades of a student may be withheld if they have not paid their dues, or if there is a case of indiscipline pending 
+against them or for any other appropriate reason as per the directives of the Senate. 
+5.2.10 Change of an already awarded grade 
+A letter grade once awarded shall not be changed unless the request is made by either the Instructor-in-charge or 
+another Instructor/tutor of the course, and is approved by the Chairperson, Senate. Any such request for a change 
+of grade must be made within six weeks of the start of the next semester on the prescribed form available from the 
+DoAA website, with all relevant records and justifications.
+
+[Page 20]
+Page 19 of 52 
+ 
+Chapter 6: Inadequate Academic Performance 
+A student is expected to maintain at least a minimum level of performance at all times. The academic performance 
+of each UG student is reviewed by the Academic Performance Evaluation Committee (APEC) at the end of each 
+regular semester. 
+6.1 Mechanism to Address Inadequate Performance (Y21 & earlier) 
+A deficient student may be placed on Warning or Academic Probation, or their academic programme may be 
+terminated as per the rules applicable for that particular batch. A student on Warning or Academic Probation is 
+required to sign an undertaking incorporating the following conditions: 
+a. They shall register with higher priority for those courses (or their substitute) in which grade F/E/X is obtained. 
+b. They shall not hold any office in the Hall of Residence, Students' Gymkhana or any other organisation/body. 
+c. Any other terms and conditions laid down by the SUGC/Senate. 
+The parents/guardian of these students is required to countersign this undertaking. If a student is unable to meet 
+these terms and conditions due to some genuine reasons, they must explain this to the DUGC/SUGC before the 
+semester ends. 
+The criteria for placing students on Warning, Academic Probation, and Programme Termination are described in the 
+following sections. Here, N denotes the number of semesters for which the student has registered, SC denotes the 
+number of credits completed in the last regular semester, and TC denotes the number of credits completed in all 
+the semesters till that point. 
+6.1.1 Warning 
+The following table shows the criteria for being on Warning (WR): 
+Batch 
+BTech/BS/Bachelors-Masters Dual Degree 
+Credits limit for registration (Min-
+Max) 
+2013 to 2021 
+SC ≥ 30 and (24+N) N ≤ TC < 36N 
+Or SC < 30 and TC ≥ 36N 
+ 
+For PG part of Dual Degree: Refer to PG Manual 
+35-49 
+Where: SC=Semester Credits, TC=Total Credits, N= Number of semesters excluding Summer term 
+6.1.2 Academic Probation 
+The following table shows the criteria for being on Academic Probation (AP): 
+Batch 
+BTech/BS/Bachelors-Masters Dual Degree 
+Credits limit for registration (Min-
+Max) 
+2013 to 2021 
+SC ≥ 30 and TC < (24+N) N 
+Or SC < 30 and (24+N) N ≤ TC < 36N 
+Or SC < 30 and TC < (24+N) N and not on Probation 
+in the previous semester 
+ 
+For PG part of Dual Degree: Refer to PG Manual 
+27-38 
+ Where: SC=Semester Credits, TC=Total Credits, N= Number of semesters excluding Summer term 
+The above credits limit is also applicable for students placed on Special Academic Probation (AP*) after the re-
+instatement of the programe. 
+The above cited credit limits of deficient students placed WR/AP/AP* at the end of EVEN semester may be relaxed 
+in the ODD semester, if sufficient number of credits are cleared by the student(s) in the summer enabling them to 
+come out from academic deficiency. 
+6.2 Mechanism to Address Inadequate Performance (Y22 and later) 
+Categorisation of Students under Bracket A/B/C1/C2/D: 
+Based on the academic performance in the previous semester, the UG students are placed on a Bracket for the 
+next semester, that they shall register at the Institute. Following is the criteria for categorisation of the Bracket of 
+the students:
+
+[Page 21]
+Page 20 of 52 
+ 
+Bracket 
+Definition 
+Credit Limits 
+Regular 
+Summer (Max) 
+A 
+CAR greater equal to 50+ 
+35-65 
+27 
+B 
+CAR greater equal to 40 AND at least one 
+backlog+ 
+35-65 
+27 
+C1 
+CAR greater equal to 40, but failed to 
+complete IC by 5th semester 
+35-65++ 
+27 
+C2 
+CAR greater equal to 30 for first 3 semesters 
+OR greater equal to 35 (for later semesters), 
+but less than 40 
+35-49 
+27 
+D 
+CAR less than 30 (for first 3 semesters) OR 
+less than 35 (for later semesters) 
+27-42 
+22* 
++ And completed IC courses by 5th semester 
+++ DUGCs shall moniter students with pending IC requirements and priortize backlog IC course completion 
+*For summer registration, bracket would be as per previous July-Nov semester. 
+Note: 1. The above cited credit limits of students placed in Bracket-C1/C2/D at the end of even semester may be 
+relaxed in the ODD semester, based on the summer results. However, the change in bracket will be applicable for 
+the purpose of relaxation in the credit limits only, the rest of other guidelines/restrictions will remain same. 
+Where: Credit Accumulation Rate (CAR) = TC/N 
+Where: TC = Total Credits a student has earned 
+ N = Number of semesters a student has completed (excluding Summer term) 
+6.3 Termination of Academic Programme 
+The termination policy has changed from Y22 onwards. These are mentioned below: 
+6.3.1 For the students enrolled in BTech, BS and Double Major programmes (Y21 and earlier): 
+No student's programme may be terminated who is not already on academic probation (or Warning in case of the 
+PG part of a programme). The following table shows the criteria for programme termination: 
+Batch 
+BTech/BS/Bachelors-Masters Dual Degree 
+2013 to 2021 
+On Probation and SC < 30 and TC < (24+N) 
+For PG part of Dual Degree: Refer to PG Manual 
+ Where: SC=Semester Credits, TC=Total Credits, N= Number of semesters excluding Summer term 
+ 
+For the students enrolled in Bachelors’ – Masters’ Dual Degree Programme. The PG part for the Bachelors’ – Masters’ 
+Dual Degree students will be governed by the PG manual. 
+6.3.2 For the students enrolled in BTech, BS, BTH, BSH, BTM, BSM and Double Major programmes (Y22 and 
+later): 
+The institute has adopted NO-TERMINATION policy and therefore, the academic programme of a UG student 
+enrolled in any of the above academic programmes will not be terminated on grounds of their academic 
+performance. 
+6.3.3 For all Dual Degree students: 
+For the students enrolled in Bachelors’ – Masters’ Dual Degree Programme. The PG part for the Bachelors’ – Masters’ 
+Dual Degree students will be governed by the PG manual (see Appendix B). 
+Note: Apart from the above, the academic programme of an UG student can be terminated on other grounds. 
+6.4 Appeal Against Termination 
+A student whose academic programme has been terminated may appeal to the Chairperson, Senate, for 
+reinstatement to the programme. In case of termination due to inadequate academic performance, the student 
+should clearly explain causes for the poor academic performance, including how those causes will not adversely 
+affect their performance in the future. The Senate shall take a final decision after considering all available inputs. A
+
+[Page 22]
+Page 21 of 52 
+ 
+student may re-appeal if a previous appeal/re-appeal has been turned down. However, the Senate may not entertain 
+any re-appeal for review unless substantial additional information is brought to its notice.
+
+[Page 23]
+Page 22 of 52 
+ 
+Chapter 7: Rules Governing Change, Addition in the Programme 
+ 
+A student already admitted to a programme may switch to another department through branch change or enhance 
+their programme through the options detailed below. 
+7.1 Branch Change 
+A student may be allowed a change of branch based on their academic performance, subject to strength constraints 
+of the departments. Change of branch / programme for a student is a matter of privilege and not a right. Once a 
+Branch Change has been granted, a student cannot revert to the original programme under any circumstances. 
+7.1.1 Eligibility 
+a. A student may apply for branch change only after second semester if they have received a passing grade 
+for all courses prescribed in the template for the first year of the programme, including courses where S/X 
+grades are awarded. 
+b. Branch change will not be permitted at any other stage. 
+c. Any student who has failed a course in their first year will not be considered for branch change, even if the 
+student has passed the course at a later stage (for example by repeating the course or taking supplementary 
+exam). 
+As a one-time exception, Y25 students can apply for branch change in 3rd and 4th semester of their batch. Students 
+who have been allotted a new branch are not eligible to apply for branch change in the subsequent semesters. 
+Interested student may contact to UG office for more details. 
+7.1.2 Application Process 
+a. The DoAA office will call for applications for branch change at the end of second semester of every batch. 
+b. Eligible students may apply for change of branch. 
+c. The applications received by the deadline will be processed by the DoAA office. The report detailing the lists 
+of eligible and non-eligible students, seat matrix, vacant seats and the list of students recommended for 
+branch change will be sent to the SUGC for consideration. 
+d. The recommendations of the SUGC will be sent to the Senate for approval. 
+e. Students whose branch change applications have been approved by the Senate will be informed before the 
+commencement of Add-Drop of the upcoming semester. 
+f. 
+Branch change will be considered based on the CPI at the end of the second semester for a given batch for 
+all applications. 
+7.1.3 Academic Roadmap 
+a. Once a branch change has been granted, students are expected to follow the template for the new 
+programme to which they have been admitted. 
+b. Students granted a branch change will have to use Add-Drop to drop the pre-registered courses and add 
+the courses of the new branch. 
+c. Such students should register for the courses after consulting the DUGC Convener of the respective 
+department to which they have been admitted. 
+d. Such students are responsible for ensuring that all academic requirements of the new programme are 
+fulfilled. 
+e. There is no provision for withdrawal from a branch change. Courses completed till the branch change will 
+be mapped as per the requirements of the new programme. 
+f. 
+Additional IC courses to be done after branch change can be found in Appendix D 
+ 
+7.1.4 Calculation of Seat Availability 
+a. The vacancies in various programs, and allotment of branch changes, will be computed irrespective of 
+categories. 
+b. The exact guidelines for calculating the availability of seats in different programs, can be found in 
+Appendix C.
+
+[Page 24]
+Page 23 of 52 
+ 
+7.2 Bachelors-Masters Dual Degree Programme 
+The Bachelors-Masters Dual Degree programme is divided into three categories: 
+Category A: Both degrees in the same discipline (available in all departments running a Bachelor’s 
+programme) 
+Category B: Bachelor's and Master's Degrees in different discipline (Master’s under this category is NOT 
+available in CSE and EE.) 
+Category C: Bachelors in any discipline combined with an MBA degree. 
+7.2.1 Eligibility 
+a. Students should have a minimum CPI of 6.0 at the time of applying. 
+b. Students should have no backlogs in non-OE credits in their UG programme at the time of applying. 
+c. For students applying under Category B or C, there may be additional norms. Students may approach the 
+concerned department for details regarding such additional eligibility norm. 
+d. Admission into the dual degree programme is subject to the fulfilment of eligibility criteria and availability 
+of seats in the concerned programme. 
+Option to apply for a 5-Year degree programme i.e., a Dual Degree or a Double Major Programme is available to the 
+students registered in a 4-Year degree programme. Students already enrolled in a 5-Year degree programme cannot 
+apply for another 5-Year degree programme. 
+7.2.2 Application Process 
+a. For Category A dual degree programme, the DoAA office will call for applications at the end of fifth, sixth, 
+and seventh semester of every batch. 
+b. For Category B and C dual degree programme, the DoAA office will call for applications at the end of sixth 
+and seventh semester of every batch. 
+c. The DoAA office will call for Dual Degree applications under all three categories twice a year in April and 
+November. 
+d. Eligible students may apply for programme conversion to Dual Degree. The applications received by the 
+deadline will be processed by the DoAA office after the results of that semester have been declared. 
+e. Departments may conduct interviews, written tests or have some additional requirements for admission 
+to Category A, B and C. 
+f. 
+Departments will be expected to send their recommendations to the DoAA office before the registration 
+for the next semester is due to begin. 
+g. The recommendations of the department will be sent to the SUGC for approval. 
+Students who have been granted admission into the Dual Degree programme will be informed before the 
+commencement of ADD-DROP for the next semester. 
+7.2.3 Academic Roadmap 
+a. Details of Dual Degree course work are available in course templates of each department. 
+b. Dual Degree students will be allowed to use OE slots and overloads (overload rules are given in Section 
+4.3.6 and 4.3.7) to complete their dual degree course requirements. The use of such slots should be done 
+in consultation with the DUGC Convener of the parent (UG) as well as the host (PG) department. 
+c. Some DE/OE credits may be waived from the UG graduation requirement to be used for PG requirements 
+by Dual Degree students. Details regarding all such waivers for Dual Degree students are available in the 
+course templates of each department. 
+d. Migration to the Masters part of the Dual Degree programme will be done only when the student has 
+completed all the mandatory credit requirements from the undergraduate part of the programme up to 
+the seventh semester. 
+e. Upon migration to the Masters part of the Dual Degree programme, the student will be issued a new roll 
+number for the PG part of the programme.
+
+[Page 25]
+Page 24 of 52 
+ 
+f. 
+Dual degree students may apply for shifting/swapping of courses, between their UG and PG part of the 
+programme, only once, after the Add-Drop period of the 10th semester and before the deadline 
+prescribed by the DoAA office. 
+7.2.4 Withdrawal from the Bachelors-Masters Dual Degree Programme 
+a. Students who have been allotted a Bachelors-Masters Dual Degree programme can withdraw from the 
+Masters part of the programme. The request for withdrawal from the Masters part of the programme can 
+be submitted anytime during the Dual Degree programme. 
+b. The request should be made to the Chairperson SUGC, through the DUGC Conveners of both (UG and PG) 
+departments, as well as the thesis supervisor (if one has been assigned). Permission to withdraw from the 
+PG part of the programme is subject to the approval of the Chairperson, SUGC. 
+c. In case the PG part of the programme is withdrawn, the student will be required to complete all the 
+mandatory graduation requirements of the undergraduate programme in the parent department for the 
+award of the UG degree. The courses, excluding thesis, project, special topics and the seminar courses, 
+taken in the PG part of the programme, will be counted as OE/DE/ESO/SCHEME credits, however 
+applicable, for completion of the UG programme. The grades earned in the PG part of the programme will 
+be printed on the grade sheet of the UG programme and will be used to compute SPI and CPI. Courses 
+opted for under Clause 6.1.5.1 will be treated as detailed therein. 
+d. If a student withdraws from the PG part of the dual degree programme after the course drop deadline of 
+the current semester, all the courses currently registered in the semester cannot be dropped except 
+thesis, project, special topics and the seminar courses. 
+If the PG part of the Dual Degree programme has been terminated due to inadequate academic performance or 
+otherwise, the student will be required to complete all the mandatory graduation requirements of the undergraduate 
+programme in the parent department. If the student wishes to continue with their Dual-Degree program, they can 
+appeal as per the procedure in PG manual. However, if the student wishes to graduate with only UG degree, the 
+student needs to submit an undertaking stating that they have agreed to graduate with only UG degree and will not 
+appeal against termination of the PG part of the Dual Degree programme in future. The student will not be listed in 
+the UG graduation list until they submit the said undertaking. Appeals submitted after the submission of the 
+undertaking, if any, shall be summarily rejected. 
+7.2.5 Termination of the PG part of the Dual Degree Programme 
+a. The PG part of the programme will be terminated if a student is more than 40 credits short of the total credit 
+requirements of her/his UG programme at the end of the eighth semester. 
+b. Students pursuing Dual Degree would further be subject to the termination criteria as specified in the PG 
+Manual (9th semester onwards). 
+7.2.6 Financial Assistance 
+The Institute may provide the students registered in the Masters’ part of the Bachelors-Masters Dual Degree 
+Programme, financial assistance in the form of teaching or research assistantship (referred to as Institute 
+Assistantship). The Institute Assistantship is awarded for the 9th and 10th semesters of the Dual Degree 
+Programme. The period of payment of Assistantship for the odd semester is from August to December and for the 
+even semester is from January to May. The stipend for the assistantship is paid at the approved rates. A student is 
+expected to devote up to eight hours per week towards job(s) as assigned to them. The payment of assistantship in 
+the 10th semester is contingent on the student’s satisfactory performance in the academic programme and the 
+discharge of assistantship duties during the 9th semester. 
+7.2.7 Eligibility criterion for availing Institute Assistantship 
+a. The student should be registered in the Master’s part of the Bachelors-Masters Dual Degree Programme, 
+and 
+b. A valid GATE/CEED/CAT/GMAT score (as valid for the individual discipline) is required for the award of the 
+Institute Assistantship. 
+c. The requirement of a valid GATE/CEED/CAT/GMAT score is waived for the students securing a CPI of 8.0 or 
+above in the Bachelors part of the Bachelors-Masters Dual Degree Programme. 
+For Seat details in the Dual Degree program, kindly see Appendix C.
+
+[Page 26]
+Page 25 of 52 
+ 
+7.3 Double Major 
+7.3.1 Eligibility 
+a. Students should have a minimum CPI of 7.0 at the time of applying. 
+b. Students opting for Double Major may not apply for formal admission into a Minor. However, they are free 
+to apply for Minor and take courses for a Minor of their choice, provided the Minor is not offered by their 
+parent or double major department. If they can register for the courses for such a Minor without being 
+formally admitted to the Minor and can complete all the required courses for that Minor in this fashion, 
+they may apply to get a retrospective Minor at the time of graduation. 
+c. Admission to the Double Major programme is subject to CPI criteria and availability of seats. 
+d. Option to apply for a 5-Year degree programme i.e., a Dual Degree or a Double Major Programme is available 
+to the students registered in a 4-Year degree programme. Students already enrolled in a 5-Year degree 
+programme cannot apply for another 5-Year degree programme. 
+7.3.2 Application Process 
+a. For Double Major programme, the DoAA office will call for applications at the end of fourth and seventh 
+semester of every batch. 
+b. The DoAA office will call for applications for the Double Major in April and November. 
+c. Eligible students may apply for the Double Major programme. 
+d. Students applying for the Double Major programme in the 7th semester need to apply along with a course 
+plan for the subsequent semesters and the following process will be carried out: 
+ 
+PHASE 1 
+• 
+Students who “(i) had applied and not allotted any DM in 1st round (4th semester), (ii) 
+are applying for the first time (7th semester)” will be given preference in 2nd round 
+which is held at the end of the 7th semester 
+• 
+Based on the CPI and remaining seats of 1st (4th semester) round, allotment process 
+will be carried out 
+• 
+In this Phase, Supernumerary seats will be created in the case of a ‘Tie’ 
+PHASE 2 
+• 
+Students who are re-applying the second time after withdrawing from allotted 
+Double Major in the 1st round (4th semester) 
+• 
+Allotment process will be carried out, based on the CPI and remaining seats of 
+PHASE 1 
+• 
+No extra seats will be created for a ‘Tie’ case 
+ 
+e. The applications received by the deadline will be processed by the DoAA office after the results of that 
+semester have been declared. The applications will be forwarded to the departments concerned for 
+recommendation. 
+f. 
+Departments will be expected to send their recommendations to the DoAA office before the registration 
+for the next semester is due to begin. 
+g. The recommendations of the department will be sent to the SUGC for approval. 
+Students who have been granted admission into the Double Major programme will be informed before the 
+commencement of Add-Drop period of the upcoming semester. 
+7.3.3 Academic Roadmap 
+A detailed list of courses that need to be completed for a Double Major is available in the course templates. 
+a. Double Major students will be allowed to use OE slots to complete requirements for their second major. 
+The use of such slots should be done in consultation with the DUGC Convener of the parent as well as the 
+host (second major) department. 
+b. Some OE credits may be waived from the parent department graduation requirements to be used for the 
+second major requirements of the Double Major students. 
+c. Double Major students may be allowed to take relevant courses in the summer term, if offered. 
+d. Once a student is admitted into the Double Major programme, they will be advised by the DUGC Convener 
+of both, the Parent and the Second Major departments.
+
+[Page 27]
+Page 26 of 52 
+ 
+Additional IC courses to be done for second major can be found in Appendix D. 
+7.3.4 Withdrawal from the Double Major Programme 
+a. Students who have been allotted to a Double Major programme can withdraw from the same. The request 
+for withdrawal can be submitted anytime during the Double Major programme. 
+b. The request should be made to the Chairperson SUGC, through the DUGC Conveners of both the 
+departments. Permission to withdraw from the Double Major programme is subject to the approval of the 
+Chairperson, SUGC. 
+c. If a student withdraws from the Double Major programme after the course drop deadline of the ongoing 
+semester, courses that have currently been registered for the pursuance of Double Major cannot not be 
+dropped. 
+d. In case a student withdraws from the Double Major programme, the student will graduate with a Bachelor 
+degree in the parent department only. In this case, the credits taken as part of the second major will be 
+treated as OE credits counted towards the fulfillment of parent department graduation requirements. 
+These credits may also be counted towards a Minor, if applicable. 
+7.3.5 Termination of the Double Major Programme 
+In case a student is unable to complete all the requirements for the Double Major in the stipulated maximum period 
+of 12 semesters, the second major part of the student’s programme will be automatically withdrawn. 
+If the double major is terminated, all credits taken towards the second major will be treated as OE credits counted 
+towards the fulfillment of parent department graduation requirements. These credits may also be counted towards 
+a Minor, if applicable. 
+If the student has completed all the parent department graduation requirements when the second major part of the 
+programme is automatically withdrawn, the student may graduate with a Bachelors degree in the parent department 
+only. 
+For Seat details in the Double Major program, kindly see Appendix C. 
+7.4 Minor 
+7.4.1 Eligibility 
+a. All UG students can apply for Minor(s) in any department except their own. 
+b. Double Major students can apply for Minor(s) in any department except their parent department and the 
+department of Second Major. 
+c. Dual Degree students under Category A can apply for Minor(s) in any department except their own. 
+d. Dual Degree students under Category B/C can apply for Minor(s) in any department except their UG 
+department and the PG department. 
+e. There is no CPI criterion to apply for Minors. Allotment of Minor(s) is based only on the availability of seats. 
+f. 
+A student who manages to complete all the courses required for a Minor without being formally admitted 
+to the Minor (including Double Major students) may also apply for Minor(s) retrospectively in their final 
+semester. 
+g. A student may complete more than one Minor. 
+7.4.2 Application Process 
+a. For Minor, the DoAA office will call for applications at the end of 4th, 5th and 6th semester of every batch. 
+b. The DoAA office will call for applications for Minors in April and November. 
+c. Eligible students may apply for Minor(s). Each student may apply for a maximum of three minors in each 
+application cycle. 
+d. The applications received by the deadline will be processed by the DoAA office. The applications will be 
+forwarded to the concerned departments for recommendation. 
+e. Departments will be expected to send their approvals to the DoAA office before the registration for the 
+next semester is due to begin. 
+f. 
+Students who have been allotted Minor(s) will be informed before the commencement of the Add-Drop 
+period for the next semester.
+
+[Page 28]
+Page 27 of 52 
+ 
+7.4.3 Academic Roadmap 
+a. Details regarding required courses for each Minor are available in the course templates. 
+b. A Minor entails the completion of 27-44 credits through specified courses within a discipline/programme. 
+c. A student may take Minor courses in OE, DE, ESO, or SCHEME slot, as advised by the parent department's 
+DUGC Convener. 
+d. The student should contact the concerned department’s DUGC Convener in case of failing and/or 
+dropping a required Minor course. 
+7.4.4 Declaration of Courses done for completion of (prior allotment or retrospective) Minor(s)) 
+a. All students who have completed Minor(s), either by prior allotment or retrospectively, need to submit the 
+list of courses they have done to complete Minor(s). 
+b. DoAA office will call for applications once every year in April for students to declare the list of courses they 
+have done to complete the Minor(s). 
+c. The applications received by the deadline will be processed by the DoAA office. 
+d. Minor(s) will appear on the grade sheet for the students who have submitted the applications by the 
+deadline and have done the courses to complete Minor(s) as detailed in the course template. 
+e. A separate certificate detailing the list of completed courses for Minor(s) will also be awarded. 
+f. 
+The grade sheet and the certificate for Minor(s) will be awarded along with the degree certificate of the 
+parent programme. 
+7.4.5 Withdrawal from a prior allotted Minor 
+A student may withdraw from a Minor at any time by submitting an application to this effect in the DoAA office with 
+the approval of the DUGC of the department offering Minor. 
+7.4.6 Availability of Seats in Minor 
+If the first course of a Minor programme in a department is a compulsory departmental course, then the number of 
+students admitted per year in that Minor programme will be at least (i) 10 or (ii) 20% of the department's existing 
+batch strength, whichever is smaller. 
+If the first course of the Minor is not a compulsory department course, the department will admit up to 20% of its 
+existing batch strength. If the number of students exceeds the number that a department can accommodate, the 
+department should clearly state the criterion it is going to apply to limit the number of students. This limitation in 
+the number of students applies only in the first course of a Minor. In subsequent courses this limit does not apply to 
+students who have already been admitted to the Minor. 
+7.5 Bachelor of Technology and Management (BTM) / Bachelor of Science and Management (BSM) 
+Students enrolled in the Bachelor of Technology or Bachelor of Science programme can convert to the Bachelor of 
+Technology and Management (BTM) or Bachelor of Science and Management (BSM) programme, respectively. This 
+is a 4-Year degree programme. 
+7.5.1 Eligibility 
+a. All students enrolled in the BT/BS programme are eligible to apply. 
+b. There are no CPI criteria to apply for conversion to the BTM/BSM programme. 
+7.5.2 Application Process 
+a. Students can apply at the end of their fifth semester. 
+b. The DoAA office will call for applications for conversion to the BTM/BSM programme in 
+October/November. 
+c. Eligible students may apply for programme conversion. 
+d. The applications received by the deadline will be forwarded to the Department of Management Sciences 
+for onward processing. 
+7.5.3 Selection into the BTM/BSM programme 
+a. The selection for the BTM/BSM programme will be done by the Department of Management Sciences. 
+b. The selection will be based on screening consisting of a written aptitude test and a personal interview 
+exercised in an appropriate combination by the selection committee (either any of these two components 
+or a combination of both).
+
+[Page 29]
+Page 28 of 52 
+ 
+c. The Department of Management Sciences will be expected to send the list of selected candidates to the 
+DoAA office at least 15 days before the registration for the next semester is due to begin. 
+d. The list of selected candidates recommended by the department will be sent to the SUGC for approval. 
+e. Students who have been granted admission into the BTM/BSM programme will be informed before the 
+commencement of the Add-Drop period of the upcoming semester. 
+7.5.4 Academic Roadmap 
+a. Students admitted to BTM/BSM programme will have to do 54 credits from the Management Track Basket 
+(MTB). 
+b. The total credits required to complete the BTM/BSM programme will be the same as required in the 
+BTech/BS programme of the respective department. To compensate for this, 27 OE and 27 DE credits will 
+be waived from the BT/BS graduation requirements. 
+c. The details of the BTM/BSM graduation requirements are available in the course templates of each 
+department. 
+d. The students admitted to the BTM/BSM programme will be governed by existing APEC rules for UG 
+students. 
+e. Students admitted to the BTM/BSM programme are eligible to apply for Bachelors-Masters Dual degree/ 
+Minor like BT/BS students. 
+7.5.5 Withdrawal from the Bachelor of Technology/Science and Management Programme 
+a. Students admitted into the BTM/BSM programme can withdraw from the same. The request for withdrawal 
+from the Management programme can be submitted anytime during the programme. 
+b. The request should be made to the Chairperson SUGC, through the DUGC Convener of the Department 
+of Management Sciences. Permission to withdraw from the Management programme is subject to the 
+approval of the Chairperson, SUGC. 
+c. If a student withdraws from the BTM/BSM programme after the course drop deadline of the ongoing 
+semester, courses that have currently been registered for the pursuance of BTM/BSM may not be dropped. 
+d. In case the Management part of the programme is withdrawn, the student will be required to complete all 
+the mandatory graduation requirements of the undergraduate programme in the parent department. 
+e. The courses done from the Management Track Basket (MTB), if any, will be counted towards OE or DE 
+credits, however applicable, for completion of the parent programme. 
+f. 
+Once the withdrawal from the Management part of the programme is approved, the degree will be 
+awarded to the student upon completion of all graduation requirements for the parent programme. 
+7.5.5 Availability of Seats in the Bachelor of Technology/Science and Management Programme 
+The maximum number of seats in the Bachelor of Technology/Science and Management Programme 
+(together) for each batch is 50 (Fifty). 
+7.6 Bachelor of Technology, Honors (BTH)/ Bachelor of Science, Honors (BSH) 
+Students enrolled in the Bachelor of Technology or Bachelor of Science programme can earn the Bachelor of 
+Technology, Honors (BTH) or Bachelor of Science, Honors (BSH) degree in lieu of the BT/BS degree, respectively. This 
+is a 4-Year degree programme that is meant to motivate academically inclined students. A BTH/BSH degree is a good 
+indicator that a student indeed knows about the field. 
+There is no formal conversion/migration to the BTH/BSH degree. At the time of graduation, the eligible students will 
+be provided an option to choose between the BT/BS and the BTH/BSH degree within the provided timeframe. The 
+option chosen by the student will be irrevocable. 
+7.6.1 Academic Requirements for earning BTH/BSH 
+a. Students will have to complete 2 UGPs from their own department, and 
+b. 27 credits of DEs from the Department Elective Honours (DEH) Basket or 27 credits of DEs of 6/7 level, as 
+prescribed in the course templates. 
+c. They must score the minimum CPI, prescribed in the departmental template. 
+d. The details of the courses are available in the course templates of each department. 
+e. The students must complete their degree within eight semesters for 4-yr program and within ten semesters 
+for 5-yr program to claim Honors in Bachelor part of the parent discipline.
+
+[Page 30]
+Page 29 of 52 
+ 
+Additional Notes: 
+a. BTH and BTM students should be considered eligible for PG programs at par with students from existing 4-
+year programs. 
+b. As BT, BTM, and BTH are different tracks, students can graduate with only one of the three. (Everything 
+mentioned above for BT/BTM/BTH also applies for BS/BSM/BSH). 
+c. The departments can also choose to add specializations (based on course baskets) that can be given with 
+the honors title. 
+d. For 5-yr program (Dual-Degree and Double Major) students, the honors can be earned only for the 
+bachelors part in the parent discipline. 
+7.7 Exit Option Degree 
+Students who are not able to complete the regular UG program can be awarded exit degrees, provided that they 
+meet the minimum requirements for the exit degree. The name of the degree awarded would be "Bachelor of Science 
+in Applied Sciences" 
+The requirements for the exit degree are as follows for Y22 onwards (For Y11 to Y21 see Appendix E): 
+Course Type 
+Credits Acquired 
+Remarks 
+Institute Core (IC) 
+A 
+Minimum 60 credits acquired, with: 
+a. At least two courses out of MTH111M, 
+MTH112M, MTH113M and MTH114M 
+b. Both CHM112M and CHM113M courses 
+c. At least one course out of PHY112, 
+PHY113, PHY114 and PHY115 
+d. Two lab courses 
+ESO/SO 
+B 
+Minimum 18 credits 
+SCHEME 
+C 
+Minimum 36 credits (with at least one course in 
+English) 
+DC 
+D 
+Minimum 60 credits (suggested to complete all 
+labs) 
+DE+OE 
+300 - (A + B + C + D) 
+Credits to be acquired through DEs and/or OEs 
+Total 
+300 
+
+A, B, C and D in the table above are the actual credits acquired by the student and these can be more than the 
+minimum 
+credits 
+specified 
+in 
+the 
+“Remarks” 
+column 
+for 
+each 
+course 
+type. 
+ 
+A student can opt for the exit degree any time after the completion of fourth semester. This option is voluntary and 
+cannot be forced on a student. 
+a) Withdrawal from Exit Option Degree before award/completion of the same: A student who has taken 
+the exit option may appeal to withdraw the same before the exit degree is awarded. Such appeals should 
+be submitted to the SUGC office through DUGC for discussion. The Senate will be the final authority to take 
+decision on the appeal. 
+b) Withdrawal from Exit Degree after award/completion of the same: Once a student has been awarded 
+the Exit Degree, the student cannot revert to BT/BS programme. 
+7.8 Withdrawal from the programme 
+A student can opt to withdraw from their programme entirely by submitting a request to the SUGC Chairperson 
+SUGC routed through their DUGC.
+
+[Page 31]
+Page 30 of 52 
+ 
+Chapter 8: Leave of Absence 
+8.1 Mid-Semester Recess and Vacation 
+Undergraduate students (except DD students) are entitled to avail the mid-semester recess, winter, and summer 
+vacations as specified in the Academic Calendar without seeking any permission. 
+If a DD student has registered for thesis credits but has not yet completed those, then the student will require leave 
+approval for the summer, winter, or mid-semester recess. For this, the student will need to apply for station leave, 
+and the approval will be granted by the DUGC of the concerned department on the recommendation of the thesis 
+supervisor(s). 
+8.2 Short Leave and Medical Leave 
+Leave of absence during the regular semester is discouraged for all registered students. However, for bona fide 
+reasons, a student may apply for leave. The extent of this leave, for the UG students, including those enrolled in the 
+Dual Degree programme, can be 
+a. Medical leave for a maximum of ten working days (five for summer term) 
+b. Short leave for a maximum of five working days (three for summer term) for any other valid reason. 
+In no case may a student be granted leave of absence over fifteen working days in a regular semester (eight for the 
+summer term). 
+8.2.1 Processing of Leave 
+a. For Short leave: Student should apply for leave before leaving the campus in advance. In case, due to some 
+reason, they are unable to apply for leave, prior intimation to the competent authorities (respective Hall Warden 
+and DUGC) over email with a likely return date is necessary. On their return, they should apply for leave within 
+one week (7 calendar days) of the last date of their leave period with the copy of the intimation email. 
+ 
+b. For Medical leave with outside medical certificate: Before leaving the campus, student must intimate in 
+advance to the competent authorities (respective Hall Warden and DUGC) over email with a likely return date 
+regarding their medical treatment. Under some exceptional situation, they may intimate to the authorities 
+immediately after reaching the home. On their return, they should apply for leave within two weeks (14 calendar 
+days) of the last date of their leave period with the copy of intimation email. The two-week (14 calendar days) 
+deadline for submission of medical leave is also applicable for students applying for medical leave with a 
+medical certificate issued by HC, IITK and empanelled hospitals. 
+ 
+c. The external medical certificate should have a clear address of the hospital/clinic etc., name of the Doctor, 
+medical registration number and mobile number or contact number of the hospital/clinic. 
+ 
+d. For Medical leave with Health Centre prescription/certificate or empaneled hospitals: Students need to 
+apply for leave with the prescription and/or medical certificate issued by the Health Centre within 14 calendar 
+days of the last date of leave. Prior intimation to the DUGC or Hall Warden is not mandatory. In case a student 
+is referred to an empaneled hospital by the Health Centre, both the referral by the Health Centre and 
+appropriate medical documents (medical certificate / discharge summary) issued by the hospital should be 
+attached. 
+8.3 Temporary Withdrawal/ Semester Leave 
+a. A student may be allowed a leave of absence for an entire regular semester for bona fide reasons. Such leave of 
+absence shall ordinarily not exceed two semesters, with or without a break, during the entire period of the 
+academic programme. 
+b. A student may apply for temporary withdrawal before or during the semester, but before the commencement of 
+the end-semester examination of that semester. 
+c. Application for temporary withdrawal should be addressed to the Chairperson, SUGC, and routed through the 
+Convener, DUGC. The application must be submitted along with the supporting documents, such as a medical 
+certificate in case of an illness. 
+d. A student who has been granted semester leave on medical grounds must submit a certificate issued by a 
+Registered Medical Practitioner, to the effect that they are sufficiently cured and fit to resume academic 
+activities. The Institute will constitute a Medical Board to determine the fitness of such students before
+
+[Page 32]
+Page 31 of 52 
+ 
+registration. The registration of the students shall be provisional till the Institute’s Medical Board certifies their 
+fitness. If the Medical Board recommends that the student is not yet fit to resume their academic activities, the 
+registration will be cancelled, and the student will be placed on a forced semester drop. 
+e. A student, approved for semester leave on medical grounds after mid-semester exam, may request to retain 
+grade(s) earned in the first half modular course(s). 
+f. 
+Semester leave on medical grounds may be granted directly by the Chairperson, SUGC, even in the absence of 
+a formal leave application, based on the recommendation of the Institute's Medical Board. Student availing 
+such leave must obtain a medical fitness certificate from the Institute's Medical Board before registering for a 
+subsequent semester. 
+g. All off-campus students of Credits for External Activities (CEA) will be granted permission to proceed for 
+academic activities outside IITK for the entire duration of the semester by the UG office. This permission for CEA 
+will be restricted to only one regular semester (for summer terms, there is no restriction) over the entire duration 
+of a student’s program. 
+8.4 Penalty for Unsanctioned or Excessive Leave 
+a. If a student is found to be absent from class without sanctioned leave, then the course instructor may 
+recommend deregistration of the student from the course. The policy regarding unsanctioned leave leading to 
+de-registration or any other consequence must be declared by the instructor at the beginning of the course. 
+This rule applies to regular as well as modular courses and in regular semesters as well as the summer term. 
+b. If a student is found to be absent from majority of academic activities (lectures, tutorials and labs) for more 
+than 20 working days (not necessarily contiguous) in a semester, with or without sanction, then the SUGC will 
+recommend a forced semester drop of the student to the Senate. 
+c. If a student is found to be absent from all academic activities (lectures, tutorials and labs) in a regular semester 
+without authorization for more than 30 working days contiguously or they do not appear, without a compelling 
+reason, for the end-semester examinations in all the courses in which they are registered, then their 
+programme will be recommended to the Senate for termination. 
+8.5 Permission to proceed to other Institutions/Semester Exchange 
+To help students to broaden their horizons and gain course-work experience, they may be permitted to proceed to 
+other academic institutions in India or abroad as a non-degree student. The following guidelines and procedures 
+apply for this purpose: 
+a. A student who satisfies the minimum eligibility conditions given below may spend up to two semesters and/or 
+two summer terms in any academic institution with prior permission of the SUGC. 
+b. The semester spent as a non-degree student will be counted as a part of the time spent in pursuit of the 
+degree. 
+Eligibility 
+a. Completion of 200 credits of course work 
+b. CPI of at least 7.0 
+8.5.1 Application Procedure 
+a. The student shall make an application to the SUGC through the concerned DUGC, giving details of the 
+proposed programme and shall submit a statement of purpose that includes a tentative mapping of courses 
+of the other institute with IIT Kanpur courses, with sufficient information about the Institution where they have 
+chosen to spend time as a non- degree student. 
+b. The DUGC shall examine the student's proposal to determine whether the proposed programme is of a nature 
+that the student will benefit from the exposure. 
+c. On the recommendation of the DUGC, SUGC may approve the proposal and grant permission, with leave of 
+absence, to the student to proceed as a non-degree student to the selected Institution. 
+d. Any application for waiver of credits at IIT Kanpur or transfer of credits from the other Institution shall be 
+decided in accordance with the procedure given in section 11.5.2. 
+8.5.2 Transfer of Credits and Waiver in-lieu thereof 
+i. Permission to proceed to another institution as a non-degree student does not imply that the student will 
+automatically get waiver from the academics and other requirements of their ongoing undergraduate 
+programme at the Institute.
+
+[Page 33]
+Page 32 of 52 
+ 
+ii. On return, they may apply for waiver of courses from their program template of IIT Kanpur which they think are 
+equivalent to the courses completed by them at the visited Institute as a non-degree student. Along with an 
+application, the student must submit an official transcript detailing the grades obtained by them at the visited 
+Institute as a non-degree student and other documents/material that the concerned DUGC may require for 
+evaluation. The application along with enclosures should be submitted to the Convener, DUGC. The DUGC 
+will determine, by whatever means it deems fit, the equivalent courses (credits) and/or requirements for which 
+the student may be given a waiver in their undergraduate programme at IIT Kanpur. 
+iii. On the recommendation of the DUGC, SUGC may allow a student a waiver for a maximum of 100 credits 
+(maximum 65 credits in one semester) against the course work completed elsewhere as a non-degree 
+student. 
+iv. Against each course or requirement for which a waiver is granted, an alphabet "W" would appear on the Grade 
+Sheet with an explanatory note that it stands for the waiver granted due to the courses taken and/or work done 
+at the selected Institution elsewhere. All such courses and/or requirements will be deemed to carry zero 
+credits for the purpose of SPI and CPI calculation. 
+v. Under no circumstances will the grades earned at the other Institution appear on the Grade Sheet issued by 
+IIT Kanpur. 
+8.5.3 Institutional Exchange Programme 
+The students who are selected by the Institute, using prescribed rules and procedures, to proceed on an 
+Institutional exchange programme will also be governed by the clauses for the transfer of academic credits, 
+waivers, etc. mentioned above. 
+8.6 Leave for Dual Degree Thesis Research Work 
+Starting from the 9th semester, if required for their research work, the DD students shall be permitted to proceed 
+for academic activities outside IITK to carry out field work, library work, computational work, experimental work, 
+and laboratory work, and also to attend conference, courses, and to undertake other research work etc. For this 
+purpose, they will be eligible for a maximum total absence of 120 days (approximately equivalent to one semester) 
+during the entire tenure of the dual-degree program. However, if a DD student is registered for any course other 
+than the thesis credits, the absence of a maximum of 10 days (5 days in the summer term) shall be permitted in 
+that semester/term. Further, such a permission cannot be availed of during the mid-semester or end-semester 
+examination periods. If due to this permission, a student fails to appear in quizzes/examinations, or to submit an 
+assignment etc., it will be at the discretion of the course instructor, whether to provide a make-up opportunity for 
+that particular evaluation component of the course. 
+The requests to proceed for academic activities outside IITK will be processed via Pingala. Those will be approved 
+by the Chairperson, SUGC on the recommendation of the thesis supervisor(s) and DUGC of the concerned 
+department. 
+Since DD MS project courses are regular courses, those are not considered as part of the thesis research work 
+credits.
+
+[Page 34]
+Page 33 of 52 
+ 
+Chapter 9: Conduct and Discipline 
+9.1 Code of Conduct 
+Students are expected to conduct themselves with integrity and proper consideration for others at all times. 
+Students are expected to exhibit proper respect for others in their personal behavior and interpersonal 
+interactions, both within and outside the campus. The institute strictly prohibits ragging and sexual harassment; 
+any instance of either should be reported immediately and will be dealt with as a serious offense. 
+In academic matters, absolute honesty is mandatory. The institute has a zero-tolerance policy for any adoption of 
+unfair means during examinations. In every other respect also, students are expected to do their academic work 
+with integrity, with proper acknowledgement if material from other sources is included in their own work. 
+Plagiarism, whether intended or not, is an act of academic dishonesty and penalized as such. If there is any doubt 
+about what constitutes plagiarism, students should consult their instructors to ensure maintenance of academic 
+honesty in their work. Any case of cheating will be dealt with strictly by the Institute. 
+Students are expected to respect Institute property and follow all institute rules and regulations at all times. 
+If students feel victimized by the conduct, academic or personal, of any other member of the Institute, they may 
+register a complaint with the Ombudsperson for whom the contact information is available from the DoSA website. 
+In case of any complaint related to sexual harassment, students should contact the Internal Complaints Committee 
+(ICC) or Gender Cell. 
+9.2 Disciplinary Action and Related Matters 
+Any violation of the Code of Conduct shall invite disciplinary action which may include punishments such as 
+reprimand, disciplinary probation, fine, debarring from examinations, withdrawal of scholarship and/or placement 
+services, withholding of grades and/or degrees, cancellation of registration and even expulsion from the Institute. 
+The instructor-in-Charge of a course may debar a student from the examination in which they are detected to be 
+using unfair means. The Instructor/Tutor may take appropriate action against a student who misbehaves in her/his 
+class. In all such cases, the Instructor/Tutor shall inform the DoAA office of all concerned information for record. 
+The Warden-in-Charge of a Hall of Residence may reprimand, impose a fine or take any other suitable measure 
+against a resident who violates either the Code of Conduct or rules and regulations pertaining to the concerned 
+Hall of Residence. In all such cases, the Warden-in-Charge shall inform the DoSA office of all the details for 
+record. 
+Involvement of a student in ragging may lead to their expulsion from the Institute. 
+The Senate Student Affairs Committee (SSAC) investigates alleged misdemeanours, complaints, etc. and 
+recommends a suitable course of action. Violation of the Code of Conduct by an individual or of a group of students 
+can be referred to this committee by a student, teacher or other functionary of the Institute. Further, in exceptional 
+circumstances, the Chairman, Senate, may appoint a special committee to investigate and/or recommend 
+appropriate action for any act of gross indiscipline involving an individual or several students, which, in their view, 
+may tarnish the image of the Institute. 
+The recommendations of SSAC are submitted to the Chairman, Senate for approval. In cases when the expulsion of 
+a student from the Institute has been recommended, the matter is sent to the Senate for the final decision. 
+A student who feels aggrieved with the punishment recommended by the SSAC and approved by the Chairperson, 
+Senate, may appeal to Senate Appeals Committee (SAC). The decision of SAC on any appeal shall be deemed to 
+be the decision of the Senate. The Senate may not recommend a student who is found guilty of a major offense to 
+the Board of Governors for the award of a degree/diploma/certificate even if s/he has satisfactorily completed all 
+the academic requirements.
+
+[Page 35]
+Page 34 of 52 
+ 
+Chapter 10: Waiver and Amendments 
+10.1 Waiver 
+The procedures and requirements set out in this manual, other than those in Chapters 2, 3, 6, and 7, may be relaxed 
+or waived in special circumstances by SUGC. All such exceptions are reported to the Senate. 
+10.2 Amendments 
+Notwithstanding anything contained in this manual, the Senate of the Indian Institute of Technology Kanpur reserves 
+the right to modify/amend without notice, the curricula, procedures, requirements, and rules pertaining to its 
+undergraduate programmes.
+
+[Page 36]
+Page 35 of 52 
+ 
+Appendix A 
+Documents to be uploaded at the time of admission 
+You will be required to upload the following documents: 
+i) 
+Class 10th Marks Sheet or Pass certificate having Date of Birth 
+ii) 
+Class 12th Marks Sheet 
+iii) 
+Aadhar Card 
+iv) 
+Document verification and Seat acceptance letter (Downloadable from JOSSA Website) 
+v) 
+Provisional seat allotment letter (Downloadable from JOSSA Website) 
+vi) 
+Medical Report 
+vii) 
+Self-declaration Undertaking 
+viii) 
+Ethical Practices Undertaking 
+ix) 
+Photograph 
+x) 
+Signature 
+xi) 
+Fee remission documents (only if eligible) - Copy of the Income Tax Return of both parents along with 
+Tuition Fee Waiver Affidavit on a Rs.20/- Stamp paper duly signed by the First- Class Magistrate/Public 
+Notary. 
+xii) 
+Anti-ragging 
+In compliance with the initiative of National Ragging Prevention Programme by UGC, MoE, Government 
+of India, you need to fill in an online undertaking for Anti Ragging. After successful submission of the 
+undertaking form, please note the reference number and download the filled undertaking from the 
+website. Now you need to quote the reference number and upload the downloaded undertaking on the 
+Pingala portal. Please note that you will be able to pay the fees after uploading the undertaking for Anti 
+Ragging on the Pingala portal. 
+xiii) 
+Besides the above, students in the GEN-EWS (Economically Weaker Sections) and OBC-NCL (OBC 
+Non-Creamy Layer) categories are required to upload the valid category certificate in prescribed 
+formats as detailed in the JEE (Advanced) Brochure. 
+xiv) 
+SC/ST/PwD students are required to upload the category/disability certificates in the prescribed format 
+and valid as per rules. 
+The verification of the documents/certificates uploaded by you will be done against the originals at a later date. 
+The schedule for the same will be notified. You are advised to keep documents mentioned in point no. iv & v in 
+multiple hard copies and places so that the same can be retrieved whenever you are asked for. 
+ 
+Note: The requirements of the above-mentioned documents may be changed. Kindly approach to the DoAA 
+office for the update.
+
+[Page 37]
+Page 36 of 52 
+ 
+Appendix B 
+Extracted from Post Graduate Manual (PG Manual) for the reference of Dual Degree students. 
+Students are advised to visit the link below for further updates: 
+https://www.iitk.ac.in/doaa/data/PG-Manual.pdf 
+
+7.7. Academic Performance Requirement 
+The academic performance of each PG student will be reviewed by the Academic Performance Evaluation 
+Committee (APEC) at the end of each regular semester. 
+7.7.1. The minimum CPI requirement for continuing in the programme or for graduation is given below. 
+D.IIT./M.Tech./M.Des./M.S. by Research/MBA programme: 6.0. 
+Ph.D. programme: 6.5. 
+An M.Sc. student has to complete prescribed number of credits for graduation. 
+7.7.2. A student will normally not be allowed to continue in the D.IIT./M.Tech./ M.Des./M.S. by Research /MBA 
+programme if 
+i) his/her CPI is below 6.0 
+ii) he/she obtains two Fs or two Es or one F and one E in the same or different courses. 
+iii) he/she accumulates three or more Xs towards thesis grades. 
+ 
+7.7.3. A student will normally not be allowed to continue in the Ph.D. programme if 
+i) his/her CPI is below 6.5 
+ii) he/she obtains two Fs or two Es or one F and one E in the same or different courses. 
+iii) he/she accumulates eight or more Xs towards thesis grades. 
+iv) he/she accumulates six or more Xs towards thesis grades in two consecutive semesters. 
+v) he/she secures Xs in all the thesis credits registered for in two consecutive semesters. 
+7.7.4. For students whose programme should be terminated due to academic deficiency, based on PG-APEC report, 
+a show-cause notice for potential termination shall be issued by the respective Convener, DPGC, after authorization 
+from the SPGC. The SPGC shall take the final decisions of continuation in the program in such cases, on a case-by-
+case basis, considering the written and clearly argued response to the show-cause notice by the student, along 
+with recommendations of the concerned DPGC and Counselling Service. 
+ 
+In a case in which the SPGC is not satisfied or is unable to take a view on the response of the student to the show-
+cause notice, the SPGC will forward the case along with the response of the student to the Senate for possible 
+termination. If the Senate decides to terminate the concerned student's programme, the Head of the concerned 
+Department will issue the letter of termination.
+
+[Page 38]
+Page 37 of 52 
+ 
+7.7.5. There is a provision for a student who is terminated from her/his program to appeal as well as re-appeal for 
+reinstatement of the program. Appeals, if any, should be addressed to Chairman, Senate, IIT Kanpur. Appeal should 
+be neatly written or typed on A4-size paper. 
+ 
+If a student's appeal is turned down by the Senate, the student may re-appeal after a gap of a few (typically 3 or 4) 
+months until two years from the date of termination. If reinstated, such candidates are required to fulfil all the 
+programme-specific requirements without exceeding the maximum duration, from the first date of registration, as 
+per the Table given in Section 7.l. The reappeal needs to be justified with valid reasons/documents. The Admittance 
+Committee can consider the re-appeal, and upon acceptance, the due procedure for further processing of re-
+appeal begins. Students will only get one chance for a re-appeal. 
+ 
+7.7.6. In the case of M.Sc. students, clauses 7.7.1 to 7.7.5 shall not apply. An M.Sc. student has to only complete 
+prescribed number of credits as per department template (Annexure VII) for graduation. Such students will be 
+counselled by the ACG (Academic Counselling & Guidance) in case their CAR score falls below 40, where CAR 
+represents the total credits divided by the number of semesters student registered excluding the summer term. 
+ 
+11. Thesis and Thesis Examination 
+11.1. Appointment of Thesis Supervisors of D.IIT., M Tech., MS by Research, M. Des. and Ph.D. Students 
+11.1.1. A student shall not normally have more than two supervisors at any given time. 
+11.1.2. Thesis supervisor(s) of a student will normally be appointed from amongst the faculty members at IIT Kanpur 
+using modalities decided by the departments. However, for a M.S. by Research student who is a project employee 
+at IIT Kanpur, the faculty member who is the principal investigator of the project will be appointed as his/her thesis 
+supervisor. 
+11.1.3. Under exceptional circumstances, other employees of IITK with the rank of senior scientific officer and above 
+and faculty fellows can be appointed as co-supervisors of Ph.D. PG students. The recommendation of a peer group 
+(appointed by the Head of the Department to which the student belongs) regarding the merit and qualifications of 
+being considered as co-supervisor should be sent to the SPGC through the DPGC for approval. 
+11.1.4. In exceptional cases a student can have a co-supervisor from outside the institute on the recommendation 
+of the DPGC and the SPGC and approval of the Chairman, Senate. Application along with biodata/CV of external 
+co-supervisor needs to be attached. 
+11.1.5. The appointment or change of supervisor(s) will be communicated to the SPGC by the DPGC. No 
+change/addition of supervisor(s) is allowed after the thesis has been submitted. 
+11.1.6. In case there has been a change/addition in the supervisor(s), the M.Tech./M.Des./M.S. by Research thesis 
+will not be submitted earlier than three months and the Ph.D. thesis will not be submitted earlier then six months 
+from the date of such change. 
+11.1.7. If a student’s supervisor proceeds on long leave for more than one year in case of Ph.D. students, and on 
+leave for more than three months in case of M.Tech./M.Des. /M.S. by Research students, the DPGC shall appoint a 
+supervisor or a co-supervisor in consultation with the supervisor and the student. In such a case the number of 
+supervisors may be more than two if an external supervisor already exists. If a student’s supervisor proceeds on 
+leave for not more than one year in case of Ph.D. students, and not more than three months in case of 
+M.Tech./M.Des./M.S. by Research students, the DPGC may appoint a programme coordinator to take care of various 
+formalities.
+
+[Page 39]
+Page 38 of 52 
+ 
+11.1.8. If all research work and related analysis is complete except writing of the thesis, and the supervisor proposes 
+to go on leave, the DPGC may appoint a programme coordinator, to take care of the formalities, such as providing 
+the list of examiners, conducting the oral examination, etc. 
+11.1.9. In case a supervisor ceases to be a faculty member of the institute, the DPGC will appoint a new supervisor 
+or co-supervisor, while the existing supervisor may be appointed as co-supervisor from outside the Institute for ease 
+and continuity of the student's research. However, if the thesis is nearly complete and only routine formalities 
+concerning the evaluation remain, the DPGC may appoint a programme coordinator. 
+11.4. Constitution of Committee/Board for Thesis and Oral Examination 
+11.4.1. M Tech/M Des/ MS by Research and D.IIT. Thesis Oral Examination Committee 
+11.4.1.1. The thesis will be examined by an oral examination committee formed by the thesis 
+supervisor(s)/programme coordinator in consultation with the Head of the Department/IDP. It must be 
+recommended by the DPGC and approved by the Chairperson, SPGC. 
+11.4.1.2. The committee shall consist of the thesis supervisor(s)/ programme coordinator and at least two but not 
+more than four other members, one of whom should belong to a department/IDP other than the student's 
+department/IDP. The thesis supervisor/programme coordinator will act as the Convener of the Committee. 
+11.5. Submission of Thesis 
+Keeping in view the ideal of maintaining the highest standards and integrity of research output from IITK, all the 
+thesis report submitted to the institute should follow the guidelines provided in 
+https://www.iitk.ac.in/doaa/data/thesisguide.pdf . In particular, the following measures are necessarily required to 
+be followed: 
+ 
+(a) The thesis should contain a signed “Declaration” by the student about the work to be plagiarism free. The 
+“Declaration” is available in the link https://www.iitk.ac.in/doaa/data/thesisguide.pdf 
+ 
+(b) The student must submit a signed “Certificate” to be kept in the student file. The “Certificate” is also available 
+in the link https://www.iitk.ac.in/doaa/data/thesisguide.pdf 
+ 
+(c) Soft copy of the thesis is subjected to a plagiarism check by Plagiarism Prevention Desk (PPD). Only if the 
+similarity index using one of the similarity checkers is below a minimum threshold of 10% or the supervisor 
+certifies that the index cannot be meaningfully reduced below 10%, a clearance form will be issued by the DOAA 
+office. No thesis will be allowed to be submitted without this clearance form. Detailed procedure is again 
+available in the link https://www.iitk.ac.in/doaa/data/thesisguide.pdf 
+ 
+(d) The thesis must follow the Institute recommended formatting guidelines, with particular adherence to 
+consistency across the entire thesis. Detailed guidelines for the same are available in the link 
+https://www.iitk.ac.in/doaa/data/thesisguide.pdf 
+11.5. M.Tech./M.Des./M.S. by Research Thesis/ D.IIT. 
+After the M.Tech./M.Des./D.IIT. oral examination committee has been constituted, one soft copy of the thesis report 
+prepared according to the format prescribed in the link https://www.iitk.ac.in/doaa/data/thesisguide.pdf, will be 
+submitted on thesis submission portal only after the approval of oral examination committee at least a week before 
+the probable date of oral examination. The Academic Section will arrange to send the copies of the thesis to the 
+examiners over email.
+
+[Page 40]
+Page 39 of 52 
+ 
+Appendix C 
+(Seat Availability for Branch Change, Double Major, Dual Degree Cat A, B & C) 
+ 
+A. For Branch Change: Calculation of Sanctioned Strength and Existing Strength for the purpose 
+of Branch Change 
+ 
+For a given year, seat availability for branch change for a program will be computed as follows: 
+ 
+a. Let SM be the total number of seats in the program as per the seat matrix in JoSAA for that batch. 
+b. Let RL be the actual number of students in the roll list of that program, generated in the first semester of 
+that batch. 
+c. Let OL be the number of students who joined through the Olympiad channel in that program (present in the 
+roll list of first semester, hence counted in RL in previous point). 
+ 
+The number of vacant seats (VS) available for branch change: 
+ 
+VS = max(0, SM – (RL – OL)) + 3 
+ 
+Note: The following points also need to be considered during the branch change process. 
+ 
+a. The strength of no program should fall below 55% of SM, because of branch change allotments. 
+b. In case of tied CPI, supernumerary seats will be the created in case of students with tied CPI applying to 
+the same program, if there is at least one vacancy in that program. 
+c. In case two or more students from the same program have tied CPI, where all are eligible for a branch 
+change, and given that there is vacancy in the program to which they are applying, then all such students 
+will be permitted to change their branch even if the strength of the parent department falls below 55% of 
+SM. 
+d. Seats fallen vacant in the parent department due to TIE among two or more students given branch change 
+will be considered as vacant for the purpose of branch change. 
+e. The process will iterate until no more branch change is possible as per the above rules 
+
+B. For Double Major: 
+S.N. 
+ Name of the Program 
+Seats Available for Double Major 
+1 
+Aerospace Engineering 
+15 
+2 
+Biological Sciences and Bio-Engineering 
+4 
+3 
+Chemical Engineering 
+8 
+4 
+Chemistry 
+10 
+5 
+Civil Engineering 
+20 
+6 
+Computer Science and Engineering 
+10 
+7 
+Economics 
+6 
+8 
+Electrical Engineering 
+10 
+9 
+Materials Science and Engineering 
+Flexible 
+10 
+Mathematics: 
+Mathematics and Scientific Computing 
+5 
+5 
+11 
+Statistics & Data Science 
+5 
+12 
+Mechanical Engineering 
+10% of sanctioned strength 
+13 
+Physics 
+10
+
+[Page 41]
+Page 40 of 52 
+ 
+C. For Dual Degree Category A, B & C: 
+For Dual Degree Category A (Master's degree in the same department as the Bachelor's), there is no limit on 
+the number of available seats. 
+For Dual Degree Category B and C (Master's degree in a department / programme different from the 
+Bachelors), available seats are given in the table below: 
+ 
+S.N. 
+ Name of Program 
+Seats available for Bachelors-Masters 
+Dual Degree Category B / C 
+1. 
+Aerospace Engineering 
+10 
+2. 
+a) Biological Sciences and Bio-Engineering 
+b) Biomedical Engineering 
+10 
+- 
+3. 
+Chemical Engineering 
+Flexible 
+4. 
+Chemistry 
+Flexible 
+5. 
+Civil Engineering 
+20 
+6. 
+Computer Science and Engineering 
+None 
+7. 
+Design Programme 
+10 
+8. 
+Economics 
+15 
+9. 
+Electrical Engineering 
+None 
+10. 
+Envir. Engg. and Mgmt. Programme (EEM) 
+10 
+11. 
+Industrial and Management Engineering 
+Flexible (for M Tech and MBA) 
+12. 
+Materials Science and Engineering 
+Flexible 
+13. 
+Materials Science Programme 
+Flexible 
+14. 
+Mathematics and Scientific Computing 
+10 
+15. 
+Statistics & Data Science 
+5 
+16. 
+Mechanical Engineering 
+20% of sanctioned strength 
+17. 
+Nuclear Engineering and Technology 
+Flexible 
+18. 
+Photonics Science and Engg. Programme 
+Flexible 
+19. 
+Physics 
+05 
+ 
+D. For Minors: 
+If the first course of a Minor programme in a department is a compulsory departmental course, then the number 
+of students admitted per year in that Minor programme will be at least (i) 10 or (ii) 20% of the department's 
+existing batch strength, whichever is smaller. 
+If the first course of the Minor is not a compulsory department course, the department will admit up to 20% of 
+its existing batch strength. If the number of students exceeds the number that a department can accommodate, 
+the department should clearly state the criterion it is going to apply to limit the number of students. This 
+limitation in the number of students applies only in the first course of a Minor. In subsequent courses this limit 
+does not apply to students who have already been admitted to the Minor.
+
+[Page 42]
+Page 41 of 52 
+ 
+APPENDIX D 
+PHY and ESC112/113 Basket course requirement after Branch Change and Double Major | New UGARC 
+(PHY112/PHY113/PHY114/PHY115 and ESC112/ESC113) 
+Ref.: Minutes of the 2023-24/11th Meeting of the SUGC 
+And the 556th meeting of the Senate 
+
+ 
+The above table, taken from the UGARC report, summarizes different department’s stand on such branch 
+change cases. Thus, a student changing to CE branch must do PHY112 and any one out of the remaining three. 
+The departments not listed in the above table, like CSE, Physics, Math, are neutral towards student’s choice 
+of two out of four physics courses. Note this table applies only to branch change cases. For a normal student, 
+logistic reasons are also used to decide two specific Physics courses as compulsory. Thus, the following points 
+may be noted for future reference for branch change cases: 
+• 
+As per the UGARC report, PHY ICs courses mentioned against the respective departments in above 
+table are compulsory and must be cleared by a student after branch change. 
+• 
+The student changing branch to other departments, not listed in above table, can do any two physics 
+courses. Thus, the PHY ICs course of previous branch can fulfil the graduation requirements and there 
+is no need to do any other PHY IC course after branch change. 
+• 
+In case a student is required to do one or two additional PHY ICs course after branch change, the PHY 
+IC course(s) done in his/her previous branch will be considered as Open Elective (OE). 
+ 
+Additionally, student changing branch to Chemical Engineering (CHE) department does not need to register 
+for ESC113 course requirement if they had already completed ESC112 course. Furthermore, student changing 
+branch from CHE to AE, BSBE, CE, CHM, EE, ES, ME, MSE, MTH, SDS, and PHY does not need to register for 
+ESC112 course requirement if they had already completed ESC113 course. In case, a student has completed 
+ESC112/113 course (prior to branch change) that is not needed as per the template of new department may 
+be considered as OE.
+
+[Page 43]
+Page 42 of 52 
+ 
+APPENDIX E 
+ 
+Credits requirements for the exit degree are as follows for Y11 to Y21 batch students: 
+Course Type 
+Credits Acquired 
+Remarks 
+Institute Core (IC) 
+A 
+Minimum 60 credits acquired, with: 
+a. At least one course out of MTH101A, 
+and MTH102A 
+b. CHM102A course 
+c. At least one course out of PHY102A, and 
+PHY103A 
+d. At least one lab course (PHY101A or 
+CHM101A) 
+ESO/SO 
+B 
+Minimum 18 credits 
+SCHEME 
+C 
+Minimum 36 credits (if IC requirement is 
+completed then COM200 may be considered 
+here) 
+DC 
+D 
+Minimum 60 credits (suggested to complete all 
+labs) 
+DE+OE 
+300 - (A + B + C + D) 
+Credits to be acquired through DEs and/or OEs 
+Total 
+300 
+
+A, B, C and D in the table above are the actual credits acquired by the student and these can be more than the 
+minimum credits specified in the “Remarks” column for each course type. 
+In the absence of floating of the above-mentioned courses, a registered UGARC-2011 student can do equivalent 
+courses mapped to new UGARC courses. 
+The committee recommends that Exit Option Degree (EOD), viz. Bachelor of Science in Applied Sciences, may be 
+extended to earlier batches (UGARC-2011 onwards) for students mentioned in Point #2. Before 2011, the graduation 
+requirements were CPI based and hence this proposal does not apply to them. 
+Only registered undergraduate students of IIT Kanpur who have completed all requirements for EOD, are eligible to 
+switch to EOD (as per the process established for UGARC-2022 students). 
+Once the Exit Degree has been awarded, the student cannot revert to their original BT/BS program (as mentioned in 
+the UG manual). 
+ 
+Process flow for Exit Option Degree (EOD) requests for all students: 
+Once a student completes 300 credits as per the template of EOD, s/he may submit application to the DUGC for 
+conversion of their program to Bachelor of Science in Applied Sciences under Exit Option Degree. The process will 
+be as follows: 
+1) An interested student applies to SUGC through DUGC who gives its recommendation. 
+2) UG office double-checks whether the EOD requirements are fulfilled as per clause 7.7 of the UG Manual. 
+3) SUGC forwards the application to ACG* (Academic Counselling and Guidance) Center for its 
+recommendation. 
+4) SUGC recommends EOD in its upcoming meeting. 
+5) The SUGC recommendation is placed in the Senate for its acceptance. 
+6) The EOD is awarded after approval from the BoG. 
+7) Concurrently, the student clears no-dues.
+
+[Page 44]
+Page 43 of 52 
+
+APPENDIX F 
+Modalities of Credits for External Activities (CEA) 
+[Application, Registration & Grade-submission in Courses: EDE496–498 and EOE496–498] 
+ 
+In what follows, unless otherwise specified, ‘semester’ refers to either regular semesters or summer term; 
+and `supervisor’ refers to the CEA supervisor (equivalently, instructor-in-charge) at IITK. External activities 
+as referred in this document would include activities such as internships, project work, and 
+entrepreneurship activities. This includes both (i) in-office activities outside the campus, and (ii) remote 
+work while being registered as a student and residing in the campus. Some examples are: 
+• 
+Internships: Work with companies, startups, research organizations, academic institutes, or NGOs. 
+• 
+Startup Work: Active involvement in launching a startup, entrepreneurial activities, or working within 
+an incubator. 
+• 
+Technical Activities: Participation in specialized technical projects or projects of national importance. 
+• 
+Industrial Training/Projects: Projects carried out in collaboration with industry partners. 
+ 
+Ideally, it is not meant for in-campus ‘internal’ activities with IITK academic staff at IITK-affiliated facilities; on 
+a similar note, CEA for activities in SURGE and similar on-campus project-works are not allowed. 
+The students can either be on-campus (residing on IITK campus) or off-campus (not residing on IITK campus) 
+for doing ‘external’ activities. There is no explicit provision of hybrid mode (i.e., partly in-campus and 
+partly off-campus) which, however, may be allowed if it can be accommodated within existing leave rules 
+specified in the UG manual. 
+A) Registration in CEA courses and related matters: 
+1. Eligibility to register: Any UG Y22 onwards student after the completion of their 4th semester. 
+2. Courses to register in: If the IITK supervisor is from the student’s own department then the student 
+can register for either EDE496-498 (each of 9 DE credits) or EOE496-498 (each of 9 OE credits) 
+depending on supervisor’s and DUGC’s consents; otherwise, the student must register for EOE496-
+498 only. The courses, for all practical purposes, will be treated as any other DE/OE courses. This 
+is not a replacement of any compulsory UGP (honors or otherwise). These courses can also not 
+replace PG DEs required for the Honors program. 
+3. Total credits one can register for: Up to 27 EDE/EOE credits in regular semester and up to 9 EDE/EOE 
+credits in summer term; over the entire program only 27 credits of EDE/EOE are allowed. However, if 
+any department has already received approval for granting additional credits for external/internship 
+activities (which must be clearly mentioned in the course template), then the allowed EDE/EOE 
+credits will be further capped such that the total credits of template-approved external activities 
+plus the credits earned from EDE/EOE courses is larger of 27 and the maximum credits specified by 
+the departmental template. 
+4. Credit-mapping of effort put in CEA: 9 credits are equivalent to minimum 117 (=13X9) hours of work 
+over at least 6 weeks, 18 credits are equivalent to minimum 234 hours of work over at least 10 weeks, 
+and 27 credits are equivalent to minimum 351 hours of work over at least 13 weeks. 
+5. Start and end dates: The start date of external activities in a semester shall not be before the last date 
+of end-semester exam as per Academic Calendar of the previous semester, and the end date shall 
+have to be such that final grade submission is practically possible before the registration starts in 
+the semester subsequent to the semester in which external activities would be done. 
+6. Drop/De-registration from the courses: Usual drop and deregistration rules apply to EDE/EOE courses, 
+and the deadlines mentioned in the academic calendar will be applicable irrespective of the start or 
+the end dates of the external activities. The credits dropped will also count towards the 44 drop-credits
+
+[Page 45]
+Page 44 of 52 
+ 
+limit over the entire program. 
+7. Application/registration procedure: The following sequence of steps will be followed: 
+ 
+I. Call for applications for CEA in a semester will be made by the UG office approximately 30 days 
+after the late registration date of the immediately preceding semester. 
+II. Work-plan (in the format prescribed in Annexure F 1 ) and company’s offer-letter (mentioning 
+the internship-duration explicitly) must be submitted by the deadline for submission of 
+application over Pingala. This deadline will be set a week before the regular academic 
+registration deadline. 
+III. While the supervisors and the DUGC convenors can keep clearing the applications by 
+recommending them on the Pingala portal, the portal will remain open for one additional day after 
+the deadline of application-submission so that submissions made at the eleventh hour can 
+also be approved. 
+IV. The UG office will check the submissions and in case any offer-letter (not work-plan) is incomplete 
+or missing, an opportunity to revise it strictly by the academic registration date will be 
+provided. 
+V. Under exceptional circumstances, the opportunity to revise the documents till late registration 
+date may be provided by the SUGC chairperson. 
+VI. Any application without supervisor’s recommendation or without DUGC convenor’s 
+recommendation or without complete work-plan or without offer-letter will be rejected. 
+VII. These applications will be accepted/rejected by the SUGC chairperson in two phases: In the 1st 
+phase, applications received till one week before the last day of the end-semester exam 
+will be considered; and the rest of applications will be considered in the 2nd phase which will 
+run till the late registration. All the students whose applications are finally accepted by the SUGC 
+chairperson will be registered by the UG office in the appropriate courses meant for CEA at the 
+time of registration date. 
+VIII. For students doing CEA in a semester in off-campus mode, permission to register for less 
+than minimum allowed credits in a semester (i.e. an underload waiver) may be provided. 
+IX. Off-campus students may be allowed to register for at most one additional departmental course 
+(DC/DE), subject to approval from the instructor and the DUGC, provided the course credit 
+distribution does not have any L-T-P components. 
+X. Biometric registration for students, who will do CEA off-campus, may be waived. 
+XI. All off-campus students of CEA will be granted permission to proceed for academic activities 
+outside IITK for the entire duration of the semester by the UG office. This permission for CEA will 
+be restricted to only one regular semester (for summer terms, there is no restriction) over the 
+entire duration of a student’s program. 
+B) Grade submission process and related matters: 
+ 
+I. After completion of the requisite hours of work over requisite duration of external activities, the 
+student must submit a work-report on the activities to the supervisor who will evaluate the work 
+based on the work-plan submitted during the CEA application. 
+II. The report must be verified/signed by the Company mentor before submission to the supervisor. 
+III. The supervisor must ensure to get the report well in advance so that the grades (in S/X mode only) 
+can be submitted strictly before the academic registration date of the subsequent semester. 
+IV. The format of the report and the procedure of evaluation are left to each department to decide on. 
+Any such departmental level decision must be conveyed to the students by the DUGC before the 
+academic registration date. 
+V. If due to late submission of the work-report, the grades are not submitted by the date of grade 
+submission of make-up exams, then I grade will be awarded by the supervisor. This grade will be 
+changed to S/X grade by the supervisor after evaluation of the work-report before the start of
+
+[Page 46]
+Page 45 of 52 
+ 
+registration in the next semester, failing which I grade will automatically be converted to X grade. 
+VI. In general, semester deadlines (including grade-submission deadline as per academic calendar) 
+will be applicable if a student wishes to register for CEA in their graduating semester and graduate 
+in time at the end of that semester. 
+VII. Students enrolled in EDE/EOE courses during their penultimate semester (relative to normal 
+duration for graduation) will be deregistered from (or not allowed to register in) the subsequent 
+semester if their graduation requirements are met upon the completion of CEA. 
+VIII. Grades cannot be claimed for external activities conducted outside the SUGC-approved duration, 
+nor can they be applied retrospectively. 
+ 
+C) Responsibilities of various IITK stakeholders in the process of facilitating CEA: 
+ 
+a) Responsibility of student applicant 
+ 
+I. 
+They must make sure to strictly follow the registration process timeline, and submit the 
+offer-letter and the work-plan as per exact template 
+II. 
+They must ensure that the external work being carried out is at a legitimate place. It is 
+their responsibility to provide the supervisor and the DUGC convenor with all the 
+information/documents they may seek for validation. 
+III. 
+They must fill the work-plan and discuss it with the supervisor in person before seeking 
+their formal consent for supervision. 
+IV. 
+They must apply for appropriate leave of absence. 
+V. 
+If the student is found to indulge in unfair means or any other indiscipline during the 
+external activities, the student will be responsible for any disciplinary actions taken 
+by the mentor at the place of work. 
+VI. 
+They must timely submit the work-report along with other deliverables (if required by the 
+supervisor/department). 
+VII. 
+A student must adhere to the departmental policy—of both their parent department and 
+their supervisor’s department—which may be more stringent than the general CEA 
+guidelines of SUGC. 
+b) Responsibility of IITK Supervisor 
+ 
+I. 
+They must ensure that they understand the work and are comfortable/interested in the 
+specific activities the student is going to do; they should not agree to be supervisor just 
+because their consent facilitates the student’s registration in CEA credits. 
+II. 
+It is the responsibility of the supervisor to ascertain that the external work being carried 
+out is at a legitimate place. They may seek information about the work-place from the 
+student till they are satisfied. 
+III. 
+They must not give their recommendation to the student’s application if the work-plan 
+is not provided. 
+IV. 
+They should contact the company-mentor (mentor at the work-place) to make sure 
+that the submitted work-plan is indeed as per their proposed plan for the activity. 
+V. 
+They are responsible for evaluating the report (if necessary, in consultation with a 
+departmental committee if that is the departmental policy) and for timely submitting 
+grades. 
+VI. 
+At the time of recommending the student’s application, they must ensure that the 
+end date of external activities is such that grade submission by them is practically possible 
+before the registration starts for the semester subsequent to the semester in which 
+external activities would be done. 
+VII. 
+There is no provision of co-supervisor: Responsibility of supervision is solely with the
+
+[Page 47]
+Page 46 of 52 
+ 
+supervisor. 
+c) Responsibility of DUGC convenor 
+ 
+I. 
+They should facilitate a departmental policy on CEA courses (in the matters of whether 
+and where to allow external activities) such that it does not conflict with the SUGC 
+guidelines. The policy must be announced to the students after approval from the SUGC. 
+II. 
+If desired, they should facilitate a departmental policy on the format of the final report 
+of the student and the internal procedure of evaluation. Any such departmental level 
+decision must be conveyed to the students (with a copy to SUGC) by the DUGC 
+convenor when the application for CEA courses starts. 
+III. 
+They must ensure that the student’s application and the supervisor’s recommendation 
+are as per SUGC and departmental policies. 
+IV. 
+It is also desirable that the DUGC convenor validates that the CEA-related work being 
+carried out is at a legitimate place. They may seek further information (on top of what 
+might be sought by the supervisor) about the work-place from students till they are 
+satisfied. 
+V. 
+While recommending an application, they should ensure that opting for CEA does not 
+hamper the completion of the graduation requirements of the student within normal 
+duration of their program. 
+VI. 
+If a department has additional credits for external/internship activities in its template, 
+then its DUGC convenor must ensure while recommending a CEA application that the 
+total allowed EDE/EOE credits is such that the total credits of template-approved 
+external/internship activities plus the credits earned from EDE/EOE courses is larger 
+of 
+VII. 
+27 and the maximum credits specified by the departmental template. Such a 
+recommendation should not contradict the clause that over the entire program of a 
+student, only 27 credits of EDE/EOE are allowed. 
+d) Responsibility of SUGC Chairperson and UG office 
+ 
+I. 
+They will facilitate the application submission, registration process, and grade 
+submission through Pingala. 
+II. 
+They reserve the right to reject any application that is not as per SUGC guidelines even 
+after the positive recommendations by supervisor and DUGC convenor. Such rejections 
+will be reported to concerned students, supervisors and DUGC convenors as soon as 
+possible.
+
+[Page 48]
+Page 47 of 52 
+ 
+Annexure F1 
+ 
+Work-Plan 
+(For Credits for External Activities – IIT Kanpur) 
+ 
+1. Student Details 
+Name 
+Roll Number 
+Program & Department 
+Email 
+Mobile Number 
+ 
+2. Details of Engagement at company 
+Company Name 
+Company Location 
+Student’s 
+Internship/ 
+Project role 
+Nature of Work 
+Internship/Entrepreneurship etc. 
+Mode 
+(Tick one from each option) 
+• 
+On-Campus / Off-Campus 
+and 
+• 
+On-Site / Remote 
+Duration 
+From 
+ 
+to 
+ 
+Primary Mentor/ Reporting 
+Manager 
+Name: 
+Designation: 
+Email: 
+Contact number: 
+Address: 
+ 
+3. Week wise work plan 
+Week 
+Dates 
+Planned Hours 
+Key Tasks / Milestones 
+Week 1 
+ 
+ hours 
+Week 2 
+ 
+ hours 
+Week 3 
+ 
+ hours 
+Week 4 
+ 
+ hours 
+Week 5 
+ 
+ hours
+
+[Page 49]
+Page 48 of 52 
+ 
+Week 6 
+ 
+ hours 
+Week 7 
+ 
+ hours 
+Week 8 
+ 
+ hours 
+Week 9 
+ 
+ hours 
+Week 10 
+ 
+ hours 
+Week 11 
+ 
+ hours 
+Week 12 
+ 
+ hours 
+Week 13 
+ 
+ hours 
+ 
+Total Estimated Hours: 
+ 
+Total Estimated Weeks: 
+
+ 
+4. Credits Requested (as per CEA guidelines): 
+ 
+Minimum hours 
+Minimum weeks 
+Credits allowed 
+Total 
+Credits 
+requested 
+Type 
+of 
+Credits 
+requested (DE/OE) 
+117 
+6 
+9 
+234 
+10 
+18 
+351 
+13 
+27 
+ 
+5. Description of Work / Responsibilities 
+(Write in bullet points) 
+• 
+
+6. Expected Outcomes 
+(Quantifiable results expected at the end of the semester; possible deliverables may be prototype, analysis 
+report, design files, software module, dataset, presentation, documentation, etc.) 
+• 
+
+7. Validation and Declaration by the company Primary Mentor/Reporting Manager 
+ 
+I declare that work done as part of this activity (as per the work-plan submitted herewith) will be in the public 
+domain, and the final work-report will become part of the IIT Kanpur repository. 
+
+Name 
+Email 
+Phone/Mobile no.
+
+[Page 50]
+Page 49 of 52 
+ 
+Signature 
+(with date and company stamp) 
+ 
+8. Declaration by the student 
+ 
+a) If your internship is in on-campus mode (at IITK), then give justification why this activity cannot 
+be done as a UGP: 
+
+ 
+
+ 
+ 
+b) 
+I hereby declare that all information provided is correct to the best of my knowledge. I will 
+complete the assigned work with academic integrity and submit a final detailed report to my 
+faculty supervisor at the end of the semester, as per the guidelines. 
+
+Student’s Signature: 
+ Date:
+
+[Page 51]
+Page 50 of 52 
+ 
+A Quick Guide for students and Frequently Asked Questions (FAQ) 
+ 
+➢ Important Information 
+1. The Academic Calendar is available on the Academic Affairs Office website. It contains all the important dates 
+for the calendar year, such as pre-registration, last date for dropping of courses, exams, and vacations etc. 
+https://www.iitk.ac.in/doaa/academic-calendar 
+2. The course templates for all UG programmes are available through the Academic Affairs Office website. 
+For Y21 and earlier Batches: https://www.iitk.ac.in/doaa/data/Course-Template-B.Tech-BS.pdf 
+For Y22 and onwards Batches: https://www.iitk.ac.in/doaa/template-jan-25 
+3. All students have to do online academic pre-registration for courses to be taken next semester during the 
+specified pre-registration period (except 1st year BT/BS students). 
+4. The minimum academic load in a regular semester is 35 credits; the maximum is 65 credits. 
+5. During the summer term, eligible students may register for a maximum of 27 course credits. 
+6. Parent programme refers to the basic four-year programme to which a student has been admitted (through JEE 
+or Branch Change). For any questions regarding this programme, consult the parent programme DUGC. 
+7. For questions regarding change / addition to the parent programme (dual degree, double major, minor), consult 
+the DUGC/UG Office. 
+8. Students may apply for short leave online through Pingala portal. 
+9. Information regarding financial aid and scholarships is available from the Students Affairs Office website. 
+https://www.iitk.ac.in/sspc/ 
+10. Students may register a complaint with the Ombudsperson (contact information available through Students 
+Affairs Office website) if s/he feels victimized by the conduct, academic or personal, of any member of the 
+Institute. In case of any complaint related to sexual harassment, students should contact the Internal Complaints 
+Committee (ICC) (icc@iitk.ac.in) or Gender Cell.
+
+[Page 52]
+Page 51 of 52 
+ 
+➢ Frequently Asked Questions (FAQ) 
+Here are answers to some of the most frequently asked questions regarding UG programmes: 
+Q.1 Do I have to register for courses strictly as per the template? 
+Course templates are advisory in terms of when specific courses need to be done. However, for compulsory 
+Institute core courses, there is no guarantee that the instructor will allow you to register if you are taking it at a time 
+other than the one specified in the template. For ESO and HSS/EME, you may shift around courses, depending on 
+their availability. For Department Core and Department Electives, please consult your DUGC before shifting any 
+slots. You will NOT be automatically entitled to any required course if you are not taking it in the scheduled semester. 
+Also, you need to ensure that you complete any pre-requisites in time to do the succeeding courses. 
+Q.2 What happens if I do not do academic pre-registration? 
+You may do academic registration during Final Registration as specified in the Academic Calendar after paying a 
+penalty fee for not doing academic pre-registration. In special circumstances this penalty fee may be waived by the 
+SUGC if you apply for such a waiver within one month of the conclusion of the pre-registration period. 
+Q.3 When and how can I apply for branch change? 
+You may apply for Branch Change at the end of your second, third, or fourth semester. The Academic Affairs Office 
+will send out a call for applications, and you need to apply on the specified form by the given deadline. 
+Q.4 When and how can I apply for Double Major, Dual Degree or Minor? 
+Double Major: At the end of your fourth and seventh semester if you have a CPI of 7.0 or above. 
+Dual Degree: For category A (within the same department), at the end of your fifth, sixth, or seventh semesters; for 
+category B/C (in another department/programme), at the end of your sixth and seventh semester only. 
+Minor: During your fourth, fifth or sixth semester. The Academic Affairs office will send out calls for applications at 
+appropriate times, and you need to apply on the specified forms by the given deadline. You CANNOT apply for a 
+Minor if you are doing a Double Major, though you may claim a retrospective Minor if you manage to complete all the 
+required courses without ever being admitted to the Minor officially. 
+Q.5 How are grades determined in a course? 
+Each instructor will announce the course's grading policy at the beginning of the semester. 
+Q.6 What is the passing grade, and what is the minimum CPI for graduation? 
+The passing grade is D & S. For all B Tech /BS programmes, the only graduation requirement is successful completion 
+of all the credit requirements specified in your template. 
+Q.7 Can I repeat a course to improve my grade? 
+No, if you have passed a course with a D or higher grade, you cannot repeat it. You are required to repeat a course if 
+you receive E or F or X grade in it (since they are not passing grades) and if the course is part of your course template 
+for the completion of graduation. 
+Q.8 Can I drop a course if I am not performing well in it? 
+You may request a course drop until the last date specified for this in the Academic Calendar. However, a course 
+drop request will be accepted only if it is approved by the course instructor-in-charge as well as the DUGC convener. 
+Q.9 Can I take courses in the summer term? 
+Summer courses are primarily for clearing backlogs to ensure timely graduation and for Double Major / Bachelors-
+Masters Dual Degree students. If any seats are left over in the offered courses after admitting all students in the 
+above categories, they may be given to students who are attempting to do courses in advance. 
+Q.10 Can I take leave during a semester?
+
+[Page 53]
+Page 52 of 52 
+ 
+In a semester, you may apply online for a maximum of 10 days of leave for bona fide medical reasons, and a 
+maximum of 5 days for family emergencies. You are responsible for making up any missed work during this period; 
+the instructor is not obliged to provide any make-up assignments, quizzes, exams, etc. for those missed while you 
+are on leave. For end-semester examinations, a make-up will be provided for those with CMO (IITK Chief Medical 
+Officer) certified leave or any other compelling reason for absence during the exam period.

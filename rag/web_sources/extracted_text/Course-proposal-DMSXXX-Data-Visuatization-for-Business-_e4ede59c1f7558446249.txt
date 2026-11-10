@@ -1,0 +1,189 @@
+[Page 1]
+INDIAN INSTITUTE OF TECHNOLOGY KANPUR 
+DEPARTMENT OF MANAGEMENT SCIENCES 
+Proposal for New Course 
+
+1. Course Title: Data Visualization for Business Analysis and Decisions 
+2. Course Number: DMSXXX 
+3. Credits: 3-0-0-1[10] 
+4. Duration of the course: Full semester 
+5. Proposing Instructor: Suvendu Naskar & Nivedita Bhaktha 
+6. Proposing department: Management Sciences 
+7. Pre-requisite Courses: None. Basics of R/Excel/Computer Programming is helpful. 
+8. Other Interested Faculty: 
+ 
+Course Description 
+ 
+Data visualization, the visual representation of data, is more scientific than artistic in our 
+modern world. This course provides an introduction as well as hands-on experience in data 
+visualization. It introduces students to design principles for creating meaningful displays of 
+quantitative and qualitative data to facilitate managerial decision-making. 
+The main goal of data visualization is effectively, efficiently, elegantly, accurately as well as 
+meaningfully communicating information which can provide a basic podium for the business 
+decisions. Sophistically designed data visualization systems can greatly assist users with proper 
+reasoning and decision making. It fulfils its objectives only if it encodes the given input in such a 
+manner that our eyes can recognize and our brain can comprehend. 
+Information visualization lies in that area where design, math, statistics and human visual 
+perception intersect. Ever since human beings need to understand their environment, they have been 
+developing visual tools to gain knowledge of abstract information. Since the early citizens when 
+dealing with field crops to the sailors when conquering new worlds both have been using information 
+visualization to better understand key questions. 
+This comprehensive semester-long course is designed for students pursuing business analytics, 
+emphasizing exploratory data analysis through advanced data visualization techniques using 
+programming language like R and/or utilities like Excel/Tableau/Power BI programming language. 
+The course combines theoretical foundations, best practices, and hands-on applications to empower 
+students in visually exploring and interpreting complex datasets with objective of business analysis 
+and decisions support. Emphasis is placed on practical applications in the context of business 
+analytics, equipping students with the skills necessary for effective communication and decision-
+making in data-driven business environments. The course objectives are as follows:
+
+[Page 2]
+ Develop a deep understanding of the principles of exploratory data analysis. 
+ Master R/Excel/Tableau for creating intricate and insightful visualizations. 
+ Learn recommended practices and critical thinking skills for evaluating and improving 
+visualizations. 
+ Explore a wide range of visualization techniques applicable to diverse data structures. 
+ Apply EDA techniques to business scenarios. 
+ 
+Course Content 
+ 
+Sl. 
+No. 
+Broad Title 
+Topics 
+No. of 
+Lectures 
+1. 
+Introduction 
+Overview of exploratory data analysis; Principles of 
+effective visual communication 
+2 
+2. 
+Foundations of data 
+visualization 
+Gestalt principles and their application, Data-ink ratio and 
+minimizing chart-junk, Color theory and its role in 
+visualization 
+1 
+3. 
+Data Cleaning 
+Basic Charting and data cleaning using excel (before using 
+R) or tableau, foundational calculations using the software 
+for meaningful interpretation 
+2 
+4. 
+Categorical Data 
+Bar plots, stacked bar plots, and dot plots; Grouped bar 
+plots and dodged bar plots; Mosaic plots and treemaps 
+3 
+5. 
+Continuous Data 
+Histograms, density plots, and boxplots; Kernel density 
+plots and violin plots; Comparing distributions with 
+multiple continuous variables 
+3 
+6. 
+Multivariate Data 
+Scatter plots, jitter plots, and rug plots; Lattice plots; 
+Heatmaps for visualizing matrices; Faceting, Grids, 
+Grouping, and Bunching 
+4 
+7. 
+Time Series Data 
+Line plots; Trend analysis; Event plots 
+3 
+8. 
+Choropleths and Maps Creating and customizing choropleth maps; Multiple 
+variables on a map 
+3 
+9. 
+Best Practices 
+Reviewing and critiquing visualizations; Iterative design 
+and refinement; Enhancing data storytelling through 
+visualizations 
+2 
+10. Presentations/Business 
+applications 
+Case study presentation 
+3 
+ 
+Remark: 
+This is an application and Industry oriented course for students who intend to join industry as business 
+analyst, functional analyst, management trainee or similar roles
+
+[Page 3]
+ Students will read class material, study best and worst practices, compare and contrast 
+real-world examples, engage in problem solving, and participate in discussions related 
+to the course material. 
+ Students will also practice applying the techniques and best practices discussed to 
+real- world problems with the help of R/Excel/Tableau software. 
+ Interactive approach of learning through online database platform or artificially generated 
+data meant for this course. 
+ Learning by doing will be the main teaching methods for this course 
+ 
+We will use one or more of the following tools subject to availability. It is expected for students to have own 
+laptop as most of these tools have stand-alone version which is adequate for learning the core aspects of data 
+visualization. 
+ R, R Studio (Open source) 
+ Tableau Desktop Professional (TFT License), Student License or Tableau Public 
+ Microsoft Excel (Win 2007/Mac 2008 or Win 2010/Mac 2011 or Win 2013) 
+ Power BI – Optional, subject to availability 
+ 
+Most of the lectures will include visualization demonstration using either of R (and RStudio) 
+and/or GUI tools like Tableau (Student License)/Excel. Depending on the student engagement 
+and domain of interest other visualization tools for business analysis (such as Power BI) will be 
+explored further. This course requires access to laptops and entry level programming 
+knowledge. By and large focus will be given to use visualization principles and artifacts to real 
+world business situation to answer the question “How data visualization can complement 
+management decisions and analysis?”. 
+ 
+Textbooks 
+ Healy, Kieran. 2018. Data Visualization: A Practical Introduction. Princeton University 
+Press. 
+ Tufte, Edward R. 2001. The Visual Display of Quantitative Information. Vol. 2. Graphics 
+press Cheshire, CT. 
+ Wickham, Hadley. 2010. Ggplot2: Elegant Graphics for Data Analysis. Springer. 
+ Wilke, C. O. (2019). Fundamentals of data visualization: A primer on making informative 
+and compelling figures. O’Reilly Media. 
+ Wilkinson, Leland. 2013. The Grammar of Graphics. Springer Science & Business Media.
+
+[Page 4]
+ The Big Book Dashboards: Visualizing Your Data Using Real-World Business Scenarios 
+ 
+Steve Wexler, Jeffrey Shaffer, Andy Cotgreave, Wiley 
+ 
+ Storytelling with Data: A Data Visualization Guide for Business Professionals by Cole 
+ 
+Nussbaumer Knaflic, ISBN-10: 1119002257 
+ 
+ Data Visualization: A Handbook for Data Driven Design by Andy Kirk – 9781473912144 
+ 
+Sage pub. 
+ 
+ Effective Data Visualization: The Right Chart for the Right Data by Stephanie D. H. 
+Evergreen – 9781506303055 Sage pub. 
+ 
+ Data-Driven Security: Analysis, Visualization and Dashboards by Jay Jacobs – Wiley pub. 
+978-1118793725 
+ 
+ Visualize This: The Flowing Data Guide to Design, Visualization, and Statistics Nathan 
+ 
+Yau, Wiley (2011) 
+
+Reference Material 
+ Qin, X., Luo, Y., Tang, N. et al. Making data visualization more efficient and effective: a 
+survey. The VLDB Journal 29, 93–117 (2020). https://doi.org/10.1007/s00778-019-00588-
+3 
+ Hehman E., Xie S. Y. Doing Better Data Visualization. Advances in Methods and Practices 
+in Psychological Science. 2021; 4(4). doi:10.1177/25152459211045334 
+ 
+Signature of Proposer: 
+ 
+Sd/- Suvendu Naskar [Date: 26 August 2024] 
+
+Sd/- Nivedita Bhaktha [Date: 26 August 2024] 
+
+ 
+ 
+This course is Approved/ Not Approve This course is Approved/ Not Approved DPGC 
+Convener, DoMS Chairperson SPGC

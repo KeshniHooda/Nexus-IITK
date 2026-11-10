@@ -1,0 +1,122 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course
+
+1.  Course No: ENG4XX
+
+2.  Course Title: AI in English Language Learning and Use
+
+3.  Per Week Lectures:3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours[0-2]:
+0 (A), Credits (3*L+2*T+P+A): 9          Duration of Course: Full Semester
+4.  Proposing Department/IDP : Humanities and Social Sciences
+Other Departments/IDPs which may be interested in the proposed course: NA
+
+Other faculty members interested in teaching the proposed course: Dr Lakshmana Rao P
+5.  Proposing Instructor(s): Prof SUDHARSHANA N P
+
+6.  Course Description: This is an introductory course on using various tools to learn and use
+English as a second language. This course provides not only theoretical insights on key
+concepts and ethical issues but also practical training in using AI tools.
+
+A) Objectives: Students will be able to achieve the following at the end of this course:
+•  Understand the impact of AI on language learning and use
+•   Illustrate how AI tools can facilitate learning and using English as a second language
+•  Examine ethical aspects related to AI use
+•  Compare traditional methods of language learning with AI-powered methods
+
+B) Contents (preferably in the form of 5 to 10 broad titles):
+
+S. No     Broad Title                     Topics                   No. of Lectures
+
+1.     Introduction to AI   AI tools; comparison with the previous tools  03
+tools in language      (e.g. language lab); current status and future
+learning and use      trends
+2.    AI tools and listening Automatic speech recognition; Automatic    03
+skills                 speech-to-text; conversational agents
+3.    AI tools and speaking Machine Translation; Use of specific tools    05
+skills                   (e.g. iTutor, IPA); using conversational
+features of Generative AI; translation tools;
+pronunciation tools
+4.    AI tools and reading Automated paraphrasing/summarizing tools;  05
+skills              Using AI for reading comprehension practice;
+natural language processing for specific genres
+5.    AI tools and writing  Text generation tools; Automated Writing    05
+skills                Evaluation tools; Use of AI in academic
+writing; text generation, organizing the ideas,
+
+[PAGE 2]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course
+composing the document and revising it;
+creating multi-modal projects;
+6.    AI and grammar and Data-driven learning methods; corpus        03
+vocabulary           analysis; register-specific vocabulary; using
+writing assistants to improve grammar and
+usage
+6.     AI and affective   How AI affects motivation, enjoyment and   03
+factors              confidence; affective management (e.g. stress,
+anxiety); personalized learning paths; self-
+regulation
+7.     Using AI in day-to-  Using chatbots and commercial LLM-based   05
+day life               tools for academic and non-academic
+purposes; smartphones and language use;
+using search assistants; language assessment
+using AI
+8.      Limits and           Evaluating AI output; Academic integrity;    05
+Challenges in using   ethical considerations; hallucinations; shallow
+AI                    learning; social biases; privacy concerns; lack
+of human interaction; copyright issues
+
+Total: 40 lectures
+
+C) Pre-requisites, if any (examples: a- PSO201A,or b- PSO201A or equivalent): -none-
+
+D) A short summary for including in the Courses of Study Booklet
+
+This is a UG-level course on AI and its application in language learning and use in real life. In
+recent years, AI has significantly impacted all walks of life and language learning is one of them.
+This course aims to discuss various AI tools and how they can be used to facilitate learning English
+as a second language. Also, this illustrates the application of AI in real-life language use, with
+examples. Finally, the course also examines the ethical aspects of AI use.
+
+7. Recommended books: Textbooks:
+Claypole, M. (2020). Artificial intelligence in autonomous language learning: An expert systems
+approach to computer assisted EFL self study (3rd ed.). LinguaBooks.
+Harper, E. (n.d.). The AI Language Toolkit. Evelyn Harper
+Savvidou, C. (2026). AI-powered language teaching: Transforming the future of TESOL.
+Palgrave Macmillan.
+Susanto, D. A., Meisuri, M., Umar, U., Panjaitan, M. M. J., Arianto, T., Mora, H., Rahman, A.,
+Amalia, N., Bannus, D. A., & Wirentake, W. (2025). AI in the English classroom:
+Leveraging deep learning for language education. CV. Gita Lentera.
+Wallwork, A. (2024). AI-assisted writing and presenting in English. Springer Nature
+Wang, Y., Alm, A., & Dizon, G. (Eds.). (2025). Insights into AI and language teaching and
+learning. Castledown Publishers
+
+Reference Books:
+
+[PAGE 3]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course
+Dodigovic, M. (2005).  Artificial  intelligence  in second language learning: Raising error
+awareness. Multilingual Matters.
+Farr, F., & Murray, L. (Eds.). (2026). The Routledge handbook of language learning and
+technology (2nd ed.). Routledge.
+Sorayyaei Azar, A., Shakib Kotamjani, S., Milad, M., & Sharatol Ahmad Shah, S. (Eds.). (2025).
+AI-powered solutions for bilingual proficiency and communication. IGI Global.
+Ziegler, N., & González-Lloret, M. (Eds.). (2022). The Routledge handbook of second language
+acquisition and technology. Routledge.
+
+8. Any other remarks: -nil-
+
+Dated:                Proposer:
+
+Dated:           DUGC/DPGC Convener:
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC
+
+Dated:

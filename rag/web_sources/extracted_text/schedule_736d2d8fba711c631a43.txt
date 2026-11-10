@@ -1,0 +1,91 @@
+[Page 1]
+Day 1
+• Registration (9:00 AM – 9:30 AM)
+• Inaugural (9:30 AM – 9:45 AM)
+• Tea (9:45 AM – 10:00 AM)
+• Lecture by Walt on TBI for this conference (45 
++ 5 minutes) (10:00 – 11:00)
+• Introduction to Neuroanatomy (60 minutes) –
+Sudhir (11:12)
+• Highlighting white matter tracts.
+• Essential features of the Cortex and subcortical 
+regions.
+• Identifying features in diffusion MRI for tract 
+location.
+• Introduction to software: FREESURFER, FSL.
+• Demo and exercises for cortical area 
+identification.
+• Tea 12:00 – 12:15
+• Fundamental MRI principles (60 minutes)- Durgesh (12:15-
+13:15)
+•
+Lamor Frequency, 
+•
+Resonance, 
+•
+Tissue contrast T1, T2, 
+•
+Image formation k-space
+LUNCH 13:15 – 14:30
+• Introduction to Diffusion MR Imaging (60 minutes) – Sudhir
+14:30 – 16:00
+•
+Basis of Diffusion MRI
+•
+Mathematical Modeling of Diffusion Signal
+•
+Imaging Protocol used for Model.
+•
+Parametric and non-Parametric models (introduction)
+TEA BREAK 16:00 – 16:15
+Preprocessing of DMRI /Demos (16:15 – 17:30)
+Day 1 Break
+SPARC Workshop Cum International Symposium on Neuroanatomy and 
+Diffusion MR Imaging based biomarker for TBI
+December 05-07, 2023
+Organizers : Prof. BV Rathish Kumar, Prof. Walt Schneider, Prof. S.K. Pathak
+
+[Page 2]
+Day 2
+• Talk by Walt on Validation using Phantom 
+and ex-vivo imaging (60 minutes) 10:00 –
+11:00
+• Microstructural Imaging (60 minutes) –
+Sudhir (11:00 – 12:00)
+•
+Basis of diffusion process in biological tissue.
+•
+Mathematical modeling of diffusion signal 
+(parametric)
+•
+NODDI/SMT/Kurtosis Imaging 
+•
+Tea Break: 12:00 – 12:15
+•
+Sudhir (12:15- 13:15)
+•
+Imaging Protocol. 
+•
+Signal on Sphere, fiber ODF, Deconvolution of 
+the sphere 
+•
+Tractometry (if time permits)
+•
+LUNCH 13:15 – 14:30
+• Clinical Talks (2 hour) (Walt, 
+Sudhir,) (14:30 – 16:00)
+• On neurosurgery
+• TBI 
+• Neurodegenerative diseases
+• Tea Break ( 16:00 – 16:15)
+• Deep Learning Models(2 hour)
+• (Aditya, Rathish, Ranjeet) 16:15- 18:15)
+• Deep Learning in medical Imaging
+• Physics-based Neural Network Models
+• Neurodegenerative diseases
+• Demo (one hours) (Sudhir, Durgesh)
+• SPECIAL DINNER (VH) 7:30 PM.
+SPARC Workshop Cum International Symposium on Neuroanatomy and 
+Diffusion MR Imaging based biomarker for TBI
+December 05-07, 2023
+Organizers : Prof. BV Rathish Kumar, Prof. Walt Schneider, Prof. S.K. Pathak

@@ -1,0 +1,117 @@
+[PAGE 1]
+REGISTRATION DATA STATISTICS FOR 2019-20/FIRST
+
+TOTAL NUMBER OF COURSES BEING OFFERED                                    485
+
+EXCLUDE THE THESIS COURSE, SEMINAR, PROJECT, BTP, SUMMER TRAINING,
+442 PRESENTATION
+
+MAXIMUM CLASS SIZE (MTH101A)                                                1012
+
+MINIMUM CLASS SIZE (AT PRESENT THERE ARE 442 COURSES)                      1
+
+AVERAGE CLASS SIZE (OF ALL 442 COURSES)                                          58.76
+
+NUMBER OF COURSES WITH 5 STUDENTS OR LESS                                 44
+
+NUMBER OF COURSES WITH 100 STUDENTS OR MORE                              59
+
+AVERAGE CLASS SIZE OF COURSES THAT HAVE >5 AND LESS THAN 100 STUDENTS     35.88
+
+THE FOLLWING IS THE NUMBER OF COURSES WITH VARIOUS CLASS
+STRENGTHS
+
+No. of Student  No. of Course
+1              9
+2              8
+3             10
+4              7
+5             10
+6-10            37
+11-15           41
+16-20           38
+21-25           39
+26-30           20
+31-50           73
+51-75           63
+76-100           28
+>100            59
+Total           442
+
+Page 1 of 3
+
+[PAGE 2]
+2019-20 FIRST SEMESTER
+LIST OF COURSES IN WHICH <=5 STUDENTS REGISTERED
+
+Total No
+SN.   Course No   Instructor                     Course Title                                   of Std.
+
+1    CHE652A   SANJEEV GARG                OPTIMIZATION                              1
+2    ECO542A   DEEP MUKHERJEE             PANEL DATA PROCEDURES AND ANALYSIS        1
+3    ECO760A   JOYDEEP DUTTA              MATHEMATICAL ANALYSIS FOR ECONOMICS      1
+4    ENG716A   CHAITHRA PUTTASWAMY        INDIVIDUAL PROJECTS                        1
+5    PHI753A   A V RAVISHANKAR SARMA     MODERN LOGIC                             1
+ADVANCED TOPICS IN PHILOSOPHY OF
+6    PHI755A    LALIT                         SCIENCE                                   1
+
+7   MTH522A  B V R KUMAR                    FINITE ELEMENT METHOD                     1
+INTRODUCTION TO ATOMIC AND NUCLEAR
+8    PHY524   DIPANKAR CHAKRABORTI        PHYSICS                                   1
+9    PHY590A   ADITYA HEMCHANDRA KELKAR   SPECIAL TOPICS IN PHYSICS                    1
+10     EE698J   NAREN NAIK               KALMAN FILTERING & APPLICATIONS            2
+METHODOLOGY: ART CRITICISM &
+11   ART701A  KOUMUDI PATIL               APPRECIATION                              2
+12   ENG707A  SUDHARSHANA N P           LANGUAGE CURRICULUM DESIGN              2
+13   ENG712A   MINI CHANDRAN               LITERATURE AND SOCIETY                     2
+PERSPECTIVES OF THE POSTHUMAN AND /
+14   ENG777A   T RAVICHANDRAN               IN THE ANTHROPOCENE                      2
+PRASHANT BHALCHANDRA
+15    PHI785A   BAGAD                     PLATO                                    2
+16   SOC720A   PRADIP                     RESEARCH METHODS                         2
+17   SOC721A  MUNMUN JHA                SOCIOLOGICAL THEORY                       2
+18    AE682A   PRAKASH D MANGALGIRI        ANALYSIS & COMPOSITE STRUCTURES           3
+19    CE614A    S TRIPATHI                   STOCHASTIC HYDROLOGY                     3
+20    CS797A   MAINAK CHAUDHURI            SPECIAL TOPICS IN COMPUTER SCIENCE          3
+21    EE668A   ADRISH BANERJEE            CODING THEORY                            3
+22   ENG719A  G NEELAKANTAN             AMERICAN RENAISSANCE                     3
+23   ENG765A   SYED FEROZ                   FILM THEORY AND HISTORIOGRAPHY            3
+QUALITATIVE RESEARCH : THEORY AND
+24    PSY774A  KUMAR RAVI PRIYA             PRACTICE                                  3
+25    PSY776A   BRAJ BHUSHAN              SEMINAR COURSE IN PSYCHOLOGY              3
+
+SANTOSHA KUMAR            INTRODUCTION TO ALGEBRAIC GEOMETRY
+26   MTH667A  PATTANAYAK              AND ALGEBRAIC GROUPS                     3
+27   PHY601A  M K HARBOLA                REVIEW OF CLASSICAL MACHANICS             3
+28    AE672A   PRITAM CHAKRABORTY          SOLID MECHANICS                           4
+29    CE678A    BALAJI DEVARAJU             INTRODUCTION TO GEODESY                  4
+
+30   CHM647A  ANANTHARAMAN GANAPATHI   MACROCYCLES, RINGS AND POLYMERS          4
+31    EE480A   YATINDRA NATH SINGH          ELECTRICAL ENGINEERING LAB I                4
+32    EE667A   RAKESH K BANSAL            INFORMATION THEORY                       4
+
+Page 2 of 3
+
+[PAGE 3]
+NON - LINEAR FINIT METHODS IN SOLID
+33   ME676A  ANUPAM SAXENA            MECHANICS                                4
+
+ERGODIC THEORY & APPLICATIONS TO
+34   MTH669A   ARIJIT                      METRIC NUMBER THEORY                     4
+
+35   CHM102A  DASARI L V K PRASAD          GENERAL CHEMISTRY                        5
+36   ENG735A  SAYAN CHATTOPADHYAY      COMMONWEALTH LITERATURE                5
+37    PSY789A   DEVPRIYA KUMAR             LEARNING MEMORY AND COGNITION           5
+SOCIAL THEORY IN LATE TWENTIETH
+38   SOC745A   BINAY KUMAR PATTNAIK       CENTURY                                  5
+39   ME626A   SHAKTI SINGH GUPTA           VIBRATION OF CONTINUOUS SYSTEMS           5
+NON - LINEAR FINITE ELEMENT TECHNIQUES
+40   ME698M  ARUN KUMAR SAHA             IN SOLID MECHANICS                        5
+MATHEMATICAL METHODS IN THE THEORY
+41   ME698U   ANURAG GUPTA             OF COMPOSITES                            5
+42   ME778A   AKHILESH MIMANI             ENGINEERING ACOUSTICS AND ITS CONTROL      5
+
+43   MTH640A   AJAY SINGH RAMDIN THAKUR    SEVERAL COMPLEX VARIABLES                 5
+44   PHY205A  MANAS KHAN               FUNDAMENTAL OF SOFT MATTER               5
+
+Page 3 of 3

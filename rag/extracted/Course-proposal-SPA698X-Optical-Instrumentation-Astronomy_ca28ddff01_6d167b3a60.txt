@@ -1,0 +1,75 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+Proposal for a New Course
+
+1. Course No: SPA 698X
+
+2. Course Title: Optical Instrumentation for Astronomy
+
+3. Lectures per week: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional hours: (0-2): 0 (A), Module
+Credits (3*L+2*T+P+A): 9, Duration of Course: Full Semester
+
+4. Proposing Department: Space Planetary & Astronomical Sciences & Engineering (SPASE)
+
+5. Proposing Instructor: Prashant Pathak
+
+6. Course Description
+
+(A) Objectives: The course aims to introduce basic optics and then go into advance topics of optical
+design for astronomical telescopes and various instruments such as imagers, spectrographs. The
+course will also introduces high-angular resolution techniques such as adaptive optics and interfer-
+ometry.
+
+(B) Contents (preferably in the form of 5 to 10 broad titles):
+
+1. General Optics: Refraction, Reflection, and Transmission, Polarization, Brewster Angle and
+Total Internal Reflection, Aberrations, Diffraction, Point-Spread Function, Modulation Transfer
+Function, Spectral Transfer Function. (10-lectures)
+
+2. Optical Systems: Pupils and Images, Convolution, Optical Design Principles, Design Ap-
+proach, Ray Tracing and spot diagrams, Optimization, Tolerance Analysis, Stray Light Control
+and Baffles.  Diffractive Analysis, Fourier Optics, Introduction to OSLO (optical design soft-
+ware) and designing instruments and telescopes using it. (12-lectures)
+
+3. Adaptive Optics: Atmospheric turbulence and its effects on astronomical image formation,
+Sources of turbulence, Kolmogorov model of turbulence. Derivations of optical effects of tur-
+bulence: wavefront error, Fried parameter. Wavefront Sensors, Deformable Mirrors, Adaptive
+Optics Control, Laser Guide Stars, Operation Modes. (10-lectures)
+
+4. Interferometry: Interferometer Principle and Angular Resolution, Delay Lines, Beam Com-
+biners, Fringe Visibility, Fringe Tracking and Closure Phase, Aperture Synthesis and (u,v)
+Plane, Field of View and Sensitivity. (8-lectures)
+
+(C) Pre-requisites: SPA613M
+
+(D) Short summary for including in the Courses of Study Booklet: The course aims to introduce
+basic optics and then go into advance topics of optical design for astronomical telescopes and various
+instruments such as imagers, spectrographs. The course will also introduces high-angular resolution
+techniques such as adaptive optics and interferometry.
+
+7. Recommended Books:
+
+– Optics by Eugene Hecht.
+
+– Astronomical Optics: D. J. Schroeder, 1999.
+
+– Introduction to Fourier Optics, by Joseph Goodman (McGraw Hill, 1996)
+
+– Principles of Adaptive Optics, fourth edition, by Robert K. Tyson, (CRC Press, 2015)
+
+8. Any other remarks:
+
+Dated:            Proposer:
+
+Dated:        DUGC/DPGC Convener:
+
+1
+
+[PAGE 2]
+The course is approved/not approved
+
+Chairman, SUGC/SPGC
+
+Dated:
+
+2

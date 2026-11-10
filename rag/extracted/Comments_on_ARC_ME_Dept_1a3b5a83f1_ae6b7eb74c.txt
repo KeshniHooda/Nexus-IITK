@@ -1,0 +1,55 @@
+[PAGE 1]
+Department of Mechanical Enginnering 
+ 
+Comments on ARC 
+
+1) The Departmental course content is shown to be 35%. This fraction used to be higher in
+the past. The department feels that it should remain at the present level of 50%. The
+overall engineering content of the BTech program should not be less than 70%.
+
+(i) Presently, the following 4 ESO courses are compulsory for ME Students. However,
+the ARC has provided only 3 slots for ESO courses. The Department feels that the
+following four ESO courses are essential for the ME Department.
+
+CORE COURSE REQUIREMENT OF ME DEPT. :
+1.   ESO202 : Thermodynamics
+2.   ESO204 : Mechanics of Solids
+3.   ESO210 : Introduction to Electrical Engineering
+4.   ESO214 : Nature and Properties of Materials
+
+(ii) Presently, besides ME100 (Introduction to Mechanical Engineering) and ME300
+(Summer Industrial Training), we have the following 16 compulsory departmental
+courses. In new credit system, the number of credits comes out to be 134 (given
+below). However, the ARC has provided only maximum 99 credits for the
+departmental compulsory courses. The department feels that given the spectrum of
+Mechanical Engineering activity, the current set of compulsory courses are
+absolutely essential -
+
+DEPARTMENTAL COMPULSORY COURSES :
+Solid Mechanics & Design :
+1.   ME321 : Advanced Mechanics of Solids : 3-0-0-9 Credits
+2.   ME351 : Design of Machine Elements : 3-0-2-11
+3.   ME352 : Theory of Mechanisms and Machines : 3-0-0-9
+4.   ME353 : Dynamics and Vibrations of Machinery : 3-0-0-9
+5.   ME453 : Automation and Control : 3-0-0-9
+Fluid & Thermal Science:
+1.   ME231 : Fluid Mechanics : 3-1-0-11
+2.   ME341 : Heat and Mass Transfer : 3-0-09
+3.   ME301 : Energy Systems I : 3-0-09
+4.   ME401 : Energy Systems II : 3-0-09
+Manufacturing Science:
+1.   ME361 : Manufacturing Technology : 3-0-09
+2.   ME461 : Manufacturing System : 3-0-0-9
+GRAPHICS/LAB/PROJECT :
+1.   ME251 : Engineering Design and Graphics : 2-0-3-9
+2.   ME371 : Mechanical Engineering Lab I : 0-0-6-6
+3.   ME451 : Project I : 0-0-6-6
+4.   ME452 : Project II : 0-0-4-4
+5.   ME471 : Mechanical Engineering Lab II : 0-0-6-6
+
+Total Credits = 134
+
+2) BTech projects (in ME) are about system-building. Along the way, teams get formed - a
+valuable learning step for an engineer. Experience, where students work jointly and build
+engineering systems is essential. Therefore, the B.Tech project should be retained in its
+current form.

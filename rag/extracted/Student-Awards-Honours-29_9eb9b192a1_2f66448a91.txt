@@ -1,0 +1,24 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+Kanpur 208 016 Uttar Pradesh (India)
+Academic Section
+
+Student Awards and Honours
+
+Student’s Name: Abhinay Natti and Dheeraj Athrey
+
+Programme and Department: BTech/CSE
+
+Thesis Supervisor/Mentor: Prof. Arnab Bhattacharya
+
+Award/Honour: First prize in CSEDM data challenge
+
+Host Organization: Arizona State University, Tempe AZ, USA
+Brief Description of the Award/Honour: Abhinay Natti and Dheeraj Athrey, two
+students of our department, stood first in the CSEDM Data Challenge held as part of
+the CSEDM Workshop @ LAK 2019. The website is at:
+https://sites.google.com/asu.edu/csedm-ws-lak-2019/accepted-papers?authuser=0
+The challenge was on predicting whether program snippets written in Python are
+correct. They have been invited to author a subsequent write-up on the methods.
+
+Date: March 22, 2019

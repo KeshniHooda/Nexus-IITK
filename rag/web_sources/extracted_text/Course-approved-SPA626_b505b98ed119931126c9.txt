@@ -1,0 +1,379 @@
+[Page 1]
+ç
+p
+c
+ 
+Indian Institute of Technology, Kanpur 
+Proposal for a New Course for Postgraduate studies 
+1. Course No: 
+Spy 
+2. Course Title: Space Environments and Space Systems 
+3. Per Week Lectures: 3(1), Tutorial: D T), Laboratory:0 (P), Additional Nours[0-2]:0 (A), Credits 
+` ± _ ±2±a g, Duration of Course: Full Semester 
+4. Proposing Department/!DP : Space, Planetary & Astronomical.Sciences & Engineering (SPASE) 
+5. Proposing instructor(s): RohitSharrna and Soumyabrata Chakrabarty 
+Otherfaculty members interested In teaching the proposed course: 
+6.. Course Description: 
+A. Objectives: This course .aims to provide the students the exposure to understand different 
+aspects of the space environment; including space weather, space climate, space debris and 
+how these impact on spacecraft design, terrestrial Infrastructure systems and will enable 
+students to explore particular topics at a deeper level. 
+B. Contents (preferoblyln theform of 5 to 10 brood titles): 
+S 
+Broad Title 
+No. 
+1 
+2 
+Topics 
+Na. of 
+lectures 
+Introduction 
+Space weather definition; solar activity, solar wind, 5 
+solar flare, coronal mass ejection, effects of solar 
+activity on our earth, magnetosphere, magnetic storm 
+and magnetic substorm, spacecraft systems and its 
+orbits, classification of space environments for a 
+spacecraft. 
+Neutral particles 
+environment 
+Neutral gas flow around a spacecraft, earth's; 
+atmosphere, pressure variation with altitude, ;
+planetary atmospheres, aerodynamic force;: 
+contamination, erosion by atomic oxygen, glow, 
+p
+a
+r
+t
+i
+c
+l
+e
+.
+ 
+Impacts on spacecraft, scattering of EM 
+S
+
+[Page 2]
+3 
+Plasma 
+^ 
+Environment 
+The geomagnetic field, the external and disturbance 
+fields; low earth orbit, polar orbits, the 
+geosynchronous plasma environment; spacecraft-
+plasma interactions, spacecraft surface charging and 
+current collection, current sources to a spacecraft, 
+spacecraft-plasma interactions, spacecraft surface 
+charging and current collection, current sources to a 
+spacecraft, current from the ambient plasma, 
+photoelectric currents, baclscattered and secondary 
+electrons, effect of magnetic fields on current 
+collection, artificial current and charge sources; 
+general probe theory the thin-sheath limit the thick-
+sheath limit, spacecraft potentials, barrier potentials, 
+potentials, anomalies, and arcing on geo-spacecraft. 
+S 
+4 
+Macroscopic 
+particle 
+r 
+environment 
+5 ~i Radiation 
+1 Environment: 
+The physics of macroscopic particles, 
+cometary 
+meteoroids, asteroidal meteors, space debris. 
+Electromagnetic radiation, electromagnetic radiation at 
+radio frequencies, visible and infrared, UV, EUV, and X-
+rays; energetic particle radiation; trapped radiation, 
+cosmic rays, solar proton events, radiation interactions 
+with matter, single-particle interactions, photon 
+interactions, charged-particle Interactions, neutron 
+interactions. 
+6 
+6 
+Spacecraft 
+Induced 
+Environments 
+7 
+Spacecraft 
+operations 
+Spacecraft outgassing; chemical thrusters; plasma 
+thrusters; the space radiation environment; solar-array 
+degradation. 
+Spacecraft charging; single eventupsets; spacecraft 
+drag; space radiation, radiation hazards to satellite 
+electronic systems; radiation due to heavy ions, 
+radiation charging of dielectric materials; particulate 
+interactions: particle impacts on spacecraft scattering 
+of EM radiation from particles, environmental effects 
+of space systems. 
+1 
+Mission Planning 
+and Safety 
+Coupling, victim, spacecraft radiation hardening, test 
+and evaluation, design guidelines, material selection, 
+wiring and cable shields and their bonding 
+C. Pre-requisites: Not Applicable. 
+3 
+7 
+3 
+D. Short summary for including in the Courses of Study Booklet: The hazardous interactions 
+between the space environment and the orbiting spacecraft may lead [o the degradation of 
+spacecraft and its subsystem performance and possibly even may lead to the loss of the 
+spacecraft Itself. This course alms to provide the students with the introduction to the 
+understanding of different aspects of the space environment, including space weather, space 
+dimate, space debris and how these impact on spacecraft design, human and robotic 
+spaceflight terrestrial Infrastructure systems and will enable students to explore a particular 
+topic at a deeper leveb Emphasis is laid on problem solving techniques and design guidelines 
+I
+
+[Page 3]
+that will provide the student with an understanding of how space environment effects may 
+be minimized through proactive spacecraft design. 
+7. Recommended books: 
+Textbooks: 
+- 
+Hastings, D., & Garrett, H. 'Spacecraft-Environment Interactions', (Cambridge Atmospheric 
+and Space Science Series). Cambridge: Cambridge University Press, 1996. 
+- 
+Vincent L. Pisacane, 'The Space Environment and Its Effects on Space Systems', Second 
+Edition, American Institute of Aeronautics and Astronautics, Inc, 2008. 
+- 
+Alan C. Tribble, 'The Space Environment: Implications for Spacecraft Design', Princeton 
+University Press, Princeton New Jersey, 2003. 
+- 
+Thomas F Tascione, 'Introduction to the Space Environment', 2nd Edition, Krieger Publishing, 
+Florida, 1994. 
+- 
+Shu T. Lai, 'Fundamentals of Spacecraft Charging: Spacecraft Interactions with Space Plasmas' 
+Princeton University Press, 2012. 
+Reference Books: 
+Volker Bothmer, loannis A. Daglis, 'Space Weather: Physics and Effects', Springer Berlin, 
+Heidelberg, 2007 
+Yohsuke Kamide Abraham C.-L. Chian, 'Handbook of the Solar-Terrestrial Environment', 
+Springer Berlin Heidelberg New York, 2007 
+George V. Khazanov, 'Space Weather Fundamentals', CRC Press Taylor & Francis Group, 2006. 
+8. Any other remarks: 
+Dated:25.12.2023 Proposer: Soumyabrata Chakrabarty 
+Dated: 
+DUGC/DPGC Convener: 
+The course is approved / no 
+pproved 
+Chairman, 
+Dated:
+
+[Page 4]
+PGDesk-IITK-DOAA 
+My 
+From: 
+dpgc_ssa <dpgc_ssa@iitk.ac.in> 
+Sent: 
+18 June 2024 09:59 
+To: 
+Spgc; courses@iitk.ac.in; Pgdesk 
+Subject: 
+Fwd: [acadstaff] New PG course proposal from Department of SPASE 
+Dear Prof Mohapatra. 
+We have floated this course on April 16th 2024. There are some revisions. I am attaching the revised 
+proposal for this course. I request your office to please assign a course number for this course since we 
+want to offer it in the upcoming semester. 
+Best WIshes 
+Sharvari 
+Original Message 
+Subject:[acadstaff] New PG course proposal from Department of SPASE 
+Date:2024-04-16 16:46 
+From:dpgc_ssa <dpgc_ssa@iitk.ac.in> 
+To:Acadstaff <acadstaff@lists.iitk.ac.in>, Pkjain <pkjain@iitk.ac.in> 
+Dear All, 
+Please find a new course proposal by Prof. Soumyabrata Chakrabarty at the link below. Please send your 
+comments to dpgc ssa@iitk.ac.in and pkjain@jiitk.ac.in 
+https://iitk.ac.in/doaa/data/NewCourses/Course-proposal-SPAXXX-Space-Environments-and-Space-
+Systems.pdf 
+Best Regards 
+DPGC Convener 
+SPASE. 
+1
+
+[Page 5]
+SSA
+INDIAN INSTITUTE OF TECHNOLOGY KANPUR 
+4 -
+POSTGRADUATE OFFICE 
+No. A(P)/IITK/course approval/ 
+August 27, 2024 
+The Convener, DPGC 
+Departments of AE/SEE/CHE/SPASE 
+ITT Kanpur 
+I am directed to communicate the concurrence of the SPGC (2023-24) in its 10`h meeting held 
+on 15/07/2024 for the approval of new PG course proposal. After detailed discussion the 
+following courses were approved. 
+Course 
+No 
+Title 
+Credits 
+Instructor 
+SPGC 
+Decision 
+SPA626 
+Space Environments and Space Systems 
+3-0-0-0-(9) 
+Dr. Rohit Sharma 
+Dr. Soumyabrata 
+Chakrabarty 
+Approved 
+AE631 
+Multidisciplinary Design Optimization 
+2-0-3-0-(9) 
+Dr. Prabhat Hajela, 
+Dr. Pradeep Moise 
+Approved 
+AE632 
+Structural Vibration and Control 
+(3-0-0-0-9) 
+Dr Tanmay Mathur 
+Dr Dipak Girl 
+Approved 
+AE651 
+System Identification Techniques for 
+Aerial Vehicles 
+3-0-0-0-(9) 
+Dr. 
+Subrahmanyam 
+Saderla 
+Approved 
+SEE618 
+Heating, Ventilation, and Air-conditioning 
+of Buildings 
+3-0-0-0-(9) 
+Dr. Aakash Chand Rai 
+Approved 
+CHE669 
+"Chemical 
+Kinetics: 
+Reaction 
+Rate 
+Theories and Rare-Event Simulations 
+3-0-0-0-(9) 
+Dr. Vishal Agarwal 
+Approved 
+Assistant— gistrar 
+Academic Affairs 
+CC: OARS (DOAA Office) For necessary action
+
+[Page 6]
+MINUTES 
+FOR THE 10 
+MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2023-24) TO 
+BE HELD ON July 15, 2024 ( 
+f) AT 11:00 AM 
+DOAA CONFERENCE ROOM (206), ACAUcMIC AFFAIRS BUILDING 
+Members present 
+Prof(s): P M Mohite (AE), Vishal Agarwal (CHE), Chinmoy Kolay (CE) Abheejeot Mohapatra (EE) ,T H Syed 
+(ES), Sukumar Vellakkal in place of Vasudha Jain (ECO), R Sengupta in place of Feroz Hassan (HSS), Annit 
+Shukla (DoMS), Santanu De (ME),Shikhar Misra in place of Sudhanshu S Singh (MSE), Sudhansu Shekhar 
+in place of Subhajit Dutta (MATH), Sharvari Nadkami Ghosh (SPASE), Aakash Chand Rai in place of Laltu 
+Chandra(SEE). 
+Members Absent: Prof(s), Suresh Kumar (BSBE), Ark Verma (CGS), Ashis Kumar Patra (CHM), J 
+Ramkumar (DES), Shilpi Gupta (PSE), Plyush Rai (CSE). Sri Sivakumar (MSP), Pankaj Wahi (NET), Sagar 
+Chakrabarty (PHY) 
+Student representative: 
+Shivam Nigam (19112264), Harsha Prasad (21106270) 
+Item requiring SPGC Approval: 
+a) Conversion from MSR/MTech to PhD Program: 
+S.No 
+Roil No 
+Name 
+Dept 
+Prog 
+Supervisor and 
+DPGC 
+Recommendati 
+on 
+SPGC 
+Recommendation 
+(Decision 
+01- 
+21106008 
+Ankit Sinha 
+MSE 
+MTech 
+DPGC not 
+Recommended 
+Not Recommended 
+02- 
+231010086 Vineet Anand Bedarman 
+AE 
+MTech 
+Recommended 
+Recommended and 
+reported to Senate 
+03- 
+22105091 
+TusharJain 
+ME 
+MTech 
+Recommended 
+Already approved 
+via email on 17-06-
+2024)- only for 
+SPGC minutes 
+`Students has completed course and CPl requirement as per clause 4.6 of PG Manual 
+b) New course approval :-
+Course No 
+Title 
+Credits 
+Instructor 
+SPGC 
+Recommend 
+ation 
+/Decision 
+SPA626 
+I Space Environments and Space 
+Systems 
+3-0-0-0-(9) 
+Dr. Rohit Sharma 
+Dr. 
+Soumyabrata 
+Chakrabarty 
+Approved 
+AE631 
+Multidisciplinary Design Optimization 
+2-0-3-0-(9) 
+Dr. Prabhat Hajela, 
+Dr. Pradeep Moise 
+Approved 
+AE632 
+Structural Vibratlon and Control 
+(3-0-0-0-9) 
+Dr Tanmay Mathur 
+Dr Dipak Girl 
+Approved 
+AE651 
+System Identification Techniques for 
+Aerial Vehicles 
+3-0-0-0-(9) 
+Dr. 
+Subrahmanyam Approved 
+Saderla 
+SEE618 
+Heating, 
+Ventilation, 
+and 
+Air- 
+conditioning of 
+Buildings 
+3-0-0-0-(9) 
+Dr. Aakash Chand Rai 
+_ 
+Approved 
+CHE669 
+°Chemicaf Kinetics: Reaction Rate 
+Theories 
+and 
+Rare-Event 
+Simulations 
+3-0-0-0-(9) 
+Dr. Vishal Agarwal 
+Approved 
+Page 1 of 12

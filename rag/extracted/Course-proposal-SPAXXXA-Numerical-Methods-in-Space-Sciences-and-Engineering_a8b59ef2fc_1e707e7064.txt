@@ -1,0 +1,70 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+Proposal for a New Course
+
+1. Course No: SPA***A
+
+2. Course Title: Numerical Methods in Space Sciences & Engineering
+
+3. Lectures per week: L=2, Tutorial: T=0, Laboratory: P=1, Additional
+hours: (0-2) =0 (A), Credits (3*L+2*T+1*P+A)=5
+Duration of Course: Half Semester
+
+4. Proposing Department: Space, Planetary and Astronomical Sciences
+and Engineering.
+
+5. Proposing Instructor: Pankaj Jain
+
+6. Other Instructors who may teach this course: Sharvari Nadkarni-Ghosh,
+Kartick Sarkar, Rohit Sharma, Ishan Sharma
+
+7. Course Description (A) Objectives: The course aims to introduce stu-
+dents to numerical techniques used in Space, Planetary and Astronom-
+ical Sciences and Engineering. (B) Contents (preferably in the form of
+5 to 10 broad titles):
+
+1. Numerical Integration (2 lectures, 2 labs)
+Newton-Cotes formulae including trapezoidal rule and Simpson’s
+rule, Gaussian quadrature, convergence and scaling of error, Monte
+Carlo Integration
+
+2. Numerical Root finding (1 lecture, 1 lab)
+Bisection method, Newton Raphson method for single and multi-
+dimensional systems.
+
+3. Integration of Ordinary Differential Equations (ODE) (3
+lectures, 3 labs)
+Initial Value Problem Forward and backward Euler method, Runge-
+Kutta Method, Stiff system of equations, implicit vs.  explicit
+schemes, shooting method for the Boundary Value Problem.
+
+4. Numerical Interpolation of functions (1 lecture, 1 lab) Nu-
+merical fitting with polynomials, Spline Interpolation
+
+(C) Pre-requisites, if any: N/A
+
+(D) Short summary for including in the Courses of Study Booklet:
+Numerical integration of functions, numerical root finding, Solving Or-
+dinary differential Equations, Numerical Interpolation
+
+1
+
+[PAGE 2]
+7. Recommended Books:
+
+– Numerical Recipes: The Art of Scientific Computing
+Authors: Vertterling, Flannery, Press and Teukolsky.
+
+8. Any other remarks:
+
+Dated:            Proposer:
+
+Dated:        DUGC/DPGC Convener:
+
+The course is approved/not approved
+
+Chairman, SUGC/SPGC
+
+Dated:
+
+2

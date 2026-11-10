@@ -1,0 +1,90 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course
+
+1.​ Course No: SPAXXX
+
+2.​ Course Title: Introduction to Astrobiology and Astrogeology
+3.​ Lectures per week: 2 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional hours: (0-2): 0 (A), Credits
+(2*L+0*T+3*P+0*A): 9
+
+Duration of Course: Full Semester
+
+4.​ Proposing Department: Space, Planetary and Astronomical Sciences and Engineering (SPASE)
+
+5.​ Proposing Instructor: Yamini Jangir and Kunal Mooley
+6.​ Course Description:
+a.​ Objectives: This course introduces students to the foundational and emerging concepts in
+astrobiology and astrogeology, with a focus on their relevance to planetary exploration. It
+examines the origin and limits of life on Earth and extends this understanding to assess
+habitability and biosignature potential on other planetary bodies. Emphasis is placed on
+planetary surface processes, mineralogy, and geochemistry as key factors shaping habitable
+environments and guiding life-detection strategies. Through case studies, remote sensing,
+analog field sites, and mission design, students will gain interdisciplinary skills applicable to
+planetary science, astrobiology, and space exploration, with a special focus on upcoming Indian
+missions to the Moon, Mars, and Venus.
+
+b.​ Contents (preferably in the form of 5 to 10 broad titles):
+i.​   Isotope Cosmochemistry and Early Solar System Processes: Stellar
+nucleosynthesis; radionuclide systems; condensation sequence; accretion of
+planetesimals; thermal evolution of planetary bodies; meteorite classification
+(stony, iron, stony-iron) and dating;
+ii.​   Planetary Geology and Surface Processes: Planetary differentiation; internal
+structure; volcanism; tectonics; impact cratering; hydrothermal systems;
+weathering; erosion; sedimentation; geological timescales;
+iii.​   Planetary Mineralogy and Remote Sensing Techniques: Clays; sulfates;
+carbonates; Raman spectroscopy; XRD; LIBS; infrared spectroscopy;
+hyperspectral imaging; remote mineral mapping;
+iv.​   Origin and Evolution of Life on Earth: Prebiotic chemistry; organic synthesis;
+RNA/DNA world; protocells; early metabolism; microbial ecosystems; oxygenic
+photosynthesis;
+v.​   Life in Extreme and Analog Environments: Extremophiles; high salinity; acidity;
+radiation; pressure; desiccation; hydrothermal vents; hypersaline lakes; polar
+deserts; deep subsurface ecosystems; planetary analog simulations;
+vi.​   Biosignatures: Types, Preservation, and Detection: Molecular biosignatures;
+isotopic signatures; morphological biosignatures; stromatolites; microbial mats;
+biominerals; preservation processes; diagenesis; false positives;
+vii.​   Analog Field Studies and Mission Case Studies: Lonar Crater; Rann of Kutch;
+Ladakh; Deccan Traps; Atacama Desert; Pilbara; Dallol; Iceland; planetary field
+geology; sample collection; ISRO and international missions;
+viii.​   Space Instrumentation: Life-detection instruments; sample handling;
+contamination control; CubeSats; ISS; balloons; Perseverance; ExoMars;
+Dragonfly; Gaganyaan, Bharatiya Antariksha Station; Chandrayaan-4/5 (sample
+return, lunar lander); Venus Orbiter Mission (VOM); Mangalyaan-2 (Mars
+mission);
+
+[PAGE 2]
+c.​ Pre-requisites, if any: There are no formal prerequisites. Prior knowledge of basic biology,
+chemistry, geology, maths and physics and an open mind to learn. Quantitative skills and
+scientific reasoning will be emphasized throughout the course, and supplemental resources will
+be provided where necessary.
+d.​ Short summary for inclusion in the Courses of Study Booklet: This course introduces students to
+astrobiology and astrogeology through the lens of cosmic and planetary evolution. Topics span
+the formation of the universe, stellar nucleosynthesis, early Solar System chronology, and
+isotopic evidence from chondrites for water and organics. Students explore the origin of life on
+Earth, extremophile biology, and biosignature preservation across geologic time. The course
+covers life-detection techniques, remote sensing, and mission instrumentation. Special focus is
+given to planetary analogs and the astrobiological potential of Indian space missions to the
+Moon, Mars, Venus, and low-Earth orbit within a global exploration framework.
+
+7.​ Recommended Books: The teaching material will be taken from the books mentioned below. Handouts
+will be provided regularly as the course progresses.
+
+●​ Fundamentals of Geobiology; Andrew H Knoll, Donald E. Canfield, and Kurt O. Konhauser; ISBN:
+978-1405187527
+●​ Astrobiology: An Introduction; Kevin W. Plaxco and Michael Gross; ‎ISBN: 978-1421441290
+●​  Life Everywhere: The New Science of Astrobiology; David Darling; ISBN: ‎978-0465015641
+●​ Planetary Astrobiology; Victoria Meadows; ‎ISBN: 978-0816540068
+
+8.​ Any other remarks: N/A
+
+Dated: ​          ​          ​          ​      Proposer:
+
+Dated:​​          ​          ​          ​     DUGC/DPGC Convener:
+
+The course is approved/not approved
+
+Chairman, SUGC/SPGC
+
+Dated:

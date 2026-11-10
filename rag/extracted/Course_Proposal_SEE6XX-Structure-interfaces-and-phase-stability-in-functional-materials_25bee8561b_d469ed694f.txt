@@ -1,0 +1,138 @@
+[PAGE 1]
+Department of Sustainable Energy Engineering
+Indian Institute of Technology Kanpur
+
+Proposal for New Course
+
+Course Title                                            : Structure, Interfaces, and Phase Stability in Functional
+Materials
+Credits (L-T-P [C])                                 : 3-0-0-9
+Duration of Course                               : Full Semester
+Proposing Department/IDP                : Sustainable Energy Engineering (SEE)
+Other Departments/IDPs which         : MSE, MSP, PHY, EE, ME, CHE, CHM
+may be interested in the proposed
+course
+Other faculty members interested   : Ashish Garg (SEE), Vivek Verma (SEE), Shikhar Misra (MSE)
+in teaching the proposed course
+Proposing Instructor(s)                       : Sudarshan Narayanan, Srinivas Karthik Yadavalli
+Offered for                                              : PG students of SEE and other departments or programs
+(MSE, MSP, PHY, EE, ME, CHE, CHM), 3/4th year UG
+students
+Status of the course                             : DE / OE (PG and UG)
+Prerequisite(s) for the course            : None
+Preferred: SEE-602 or any basic course on solid-state
+physics or energy materials
+
+Course Objectives
+This course provides an integrated understanding of how structure, interfaces, and phase stability
+govern the behaviour of modern functional materials used in energy applications. Comparing and
+contrasting   traditional  metallurgy-centric  treatments,  the  course  emphasizes  multiphase,
+heterogeneous, and composite systems, where interfaces and defects play a critical role in enabling
+functionality. Students will develop a rigorous foundation in crystallography, diffraction, and defects,
+alongside thermodynamics, phase equilibria, and transformation kinetics, and learn to interpret phase
+diagrams in the context of both equilibrium and processing-driven (metastable) materials. Special
+emphasis  is placed on distinguishing classical mixtures from engineered composites, and on
+understanding how structural complexity and interfacial phenomena influence performance in
+systems such as photovoltaics, batteries, fuel cells, and catalytic materials.
+
+Expected Learning Outcomes
+Students  will be able to analyze and describe the crystal structure and phase constitution of
+functional materials. They will develop the ability to apply thermodynamic principles and phase
+diagrams to assess phase stability under equilibrium and non-equilibrium conditions. Students will
+understand the critical role of defects, interfaces, and heterogeneous architectures in governing
+transport, reactivity, and device performance. They will also distinguish between classical mixtures
+and engineered composites, and evaluate how processing and kinetics influence their formation and
+stability. Finally, students will be equipped to connect fundamental materials concepts to practical
+applications in energy and electronic systems.
+
+Short summary for inclusion in the Courses of Study Booklet
+
+The course “Structure, Interfaces, and Phase Stability in Functional Materials” examines the role of
+structure, interfaces, and phase stability in determining the behaviour of functional materials. It covers
+key concepts in crystallography, defects, thermodynamics, phase diagrams, and transformation
+
+[PAGE 2]
+kinetics, with emphasis on multiphase and heterogeneous systems, while drawing a distinction
+between classical mixtures and engineered composites. By drawing applications from energy and
+electronic materials, including batteries, fuel cells, and photovoltaics, the course will help assess the
+structure-property-function paradigm in functional materials.
+
+Course Contents
+S.    Broad Title                           Topics                          No. of
+No.                                                                              lectures
+1.   Introduction       •  Overview of functional materials: classical (metallurgical) and          2
+functional materials, mixtures and composites, interfaces
+•  Structure-property-function relationships: coupling between
+structure, defects, and performance
+2.   Structure of        •  Advanced crystallography topics: crystal symmetry, point groups       5
+solids              and space groups, crystal packing, crystalline and non-crystalline
+materials
+•  Crystal structures in functional materials: Rock salt, perovskites,
+spinels, layered structures, common non-ferrous oxides and
+sulfides; polymorphism, allotropy, and anisotropy
+•  Basic and advanced diffractometry: Neutron and electron diffraction,
+SAXS, WAXS; phase identification in mixtures, in situ and operando
+techniques for energy materials
+3.   Crystal defects     •  Defects: Types, thermodynamics, dislocations, grain boundaries,       5
+and disorder           interfaces; Order, disorder, and distortion
+•  Defect-property correlation: ionic and electronic conductivity, defect
+engineering
+•  Examples/applications: Crystalline-polycrystalline-amorphous Si,
+oxygen vacancy transport
+4.   Thermodynamics  •  Basic concepts: Energy, enthalpy, entropy, free energy              5
+of Materials        •  Chemical potential & phase equilibria/stability: multicomponent
+systems, ideality of solutions/mixtures; Ellingham, Pourbaix
+diagrams
+•  Thermodynamics of defects: configurational entropy, defect
+formation energy
+•  Thermodynamics in functional systems: reactions involving solids,
+liquids, gases, and ions – batteries, fuel cells, catalytic systems
+•  Examples/applications: Assess stability of metal species in solution
+for synthesis and recovery of critical metals/minerals
+5.   Phase diagrams    •  Fundamentals: Unary and binary systems, Gibbs phase rule;          5
+ordered and intermediate phases; equilibrium in heterogeneous
+systems
+•  Binary phase diagrams: Eutectic, peritectic systems; interpretation in
+ceramics, alloys, and polymer solutions and blends; influence of
+interfaces
+•  Multicomponent phase diagrams: Ternary systems
+•  Phase stability in functional materials, engineered composites:
+Under operating conditions; electrochemical phase diagrams,
+spinodal decomposition
+•  Examples/applications: Lithiation-induced structural and phase
+transformations in electrodes, degradation in perovskites; NMC
+cathode and slag-forming oxides as ternary systems.
+6.   Phase             •  Diffusion fundamentals: Fick’s laws, diffusion mechanisms (atomic,     5
+transformations        ionic, vacancy)
+•  Nucleation theory: Homogeneous and heterogeneous nucleation,
+
+[PAGE 3]
+energy barriers
+•  Growth/transformation kinetics: Interface-controlled vs. diffusion-
+controlled, microstructure evolution; phase separation, precipitation
+•  Transformations in functional materials: Order-disorder
+transformations; phase changes in PV and battery materials
+•  Examples/applications: Precipitation from solution in critical mineral
+recovery
+
+Textbooks, reference books, suggested readings, and any other references:
+•  D.A. Porter & K.E. Easterling, Phase Transformations in Metals and Alloys, Nelson Thornes
+•  David R. Gaskell, Introduction to the Thermodynamics of Materials, Taylor & Francis
+•   B.D. Cullity and S. R. Stock, Elements of X-ray Diffraction, Pearson
+•  W.D. Callister & D.G. Rethwisch, Materials Science and Engineering: An Introduction, Wiley
+•   L.V. Azaroff, Introduction to Solids, Tata McGraw Hill
+•   A.R. West, Solid State Chemistry and its Applications, Wiley
+•  M. Ohring, Materials Science of Thin Films, Elsevier
+•   F. Habashi, Principles of Extractive Metallurgy (Vols. 1-2), Gordon & Breach
+•  M. Pourbaix, Atlas of Electrochemical Equilibria in Aqueous Solutions, NACE International.
+•  Reviews and journal articles
+
+Recommended /          This course is approved /
+Course Proposer(s)
+Not recommended             Not approved
+
+(Sudarshan Narayanan)
+
+(Srinivas Karthik Yadavalli)     Convenor, DPGC (SEE)         Chairman, SPGC
+
+Dated: 22 / 06 / 2026       Dated:                      Dated:

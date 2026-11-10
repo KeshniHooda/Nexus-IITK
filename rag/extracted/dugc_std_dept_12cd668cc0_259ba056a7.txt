@@ -1,0 +1,60 @@
+[PAGE 1]
+DUGC Students Nominees (Department Wise)
+
+Roll No.                Department                  Name                      Mail Id            Contact No.
+230314             Aerospace Engineering                Chaitanya Goel               cgoel23@iitk.ac.in        9818335132
+240768             Aerospace Engineering              Pramit Bhattacharjee           pramitb24@iitk.ac.in       9123631366
+
+230275         Biological Sciences & Bioengineering          Ayushi Mishra              ayushim23@iitk.ac.in      7091114900
+240001         Biological Sciences & Bioengineering     A Sankara Narayanan         asankaran24@iitk.ac.in      8825992622
+
+231203                      Civil Engineering                         Yuvraj                    yuvraj23@iitk.ac.in       8177001974
+240401                      Civil Engineering                     Girish Bhojwani               girishb24@iitk.ac.in       7869023264
+240265                      Civil Engineering                    Bharat Sharma              bharats24@iitk.ac.in       6376084689
+
+230627              Chemical Engineering               Manas Todi              manastodi23@iitk.ac.in      9142149834
+240723              Chemical Engineering                   Pallav Pratibh               pallavp24@iitk.ac.in       6202038181
+240676              Chemical Engineering                     Naitik Singhal                naitiks24@iitk.ac.in       9462333102
+
+240884                    Chemistry                          Ronit Roy                   ronitr24@iitk.ac.in        9064207293
+240509                    Chemistry                  Kamana Gupta             kamana24@iitk.ac.in       8587998482
+
+230307        Computer Science and Engineering           Brinda Fadadu               brindaf23@iitk.ac.in       9974710803
+240103        Computer Science and Engineering       Aman Srivastava             amane24@iitk.ac.in       8318775726
+
+240172                  Economics                        Archit Rahalkar               architsr24@iitk.ac.in       8208491395
+240464                  Economics                        Ineni Sree Charan             inenisc24@iitk.ac.in       7989679324
+
+230085                  Electrical Engineering                  Adwaaiit Pande             aswaaiitp23@iitk.ac.in      9372256863
+230935                  Electrical Engineering                Sattyadeep Garg            sattyadeep23@iitk.ac.in     6283294073
+240460                  Electrical Engineering                    Hrishita Singh               hrishitas24@iitk.ac.in      8800983325
+
+230600                  Earth Sciences                    Lasya Siri G               lasyasirig23@iitk.ac.in      9980953535
+241215                  Earth Sciences                   Yuvraj Singh Nirban             yuvraj24@iitk.ac.in       9829733086
+
+240563          Humanities and Social Sciences            Krishna Agrawal             krishnaa24@iitk.ac.in      8949073894
+240608          Humanities and Social Sciences             Mahi Mittal                 mahii24@iitk.ac.in        8839092335
+
+230383           Material Science and Engineering          Divyansh Shukla            divyanshs23@iitk.ac.in      7905435911
+240439           Material Science and Engineering            Harshit Dashore             harshitd24@iitk.ac.in       7415763941
+
+230168       Mathematics and Scientific Computing       Anubhab Goswami          anubhabg23@iitk.ac.in      8250868476
+240064       Mathematics and Scientific Computing    Aditya Pratap Singh Baghel       adityapsb24@iitk.ac.in      9993592262
+
+230982               Statistics and Data Science                Shrasti Dwivedi             sdwivedi23@iitk.ac.in      9068531684
+240543               Statistics and Data Science               Krishna Khetre             krishnakd24@iitk.ac.in      9588682446
+
+230223              Mechanical Engineering                     Aryavart                  aryavart23@iitk.ac.in       8950391967
+240681              Mechanical Engineering           Namya Mayur Jarag           namyamj24@iitk.ac.in      9825126240
+
+230936                     Physics                          Satvik Sharma              satviksh23@iitk.ac.in      9205486038
+240844                     Physics                Raman Vatsal Misra           vatsalm24@iitk.ac.in       8400074371
+
+230495               DoMS                     Jaiveer Deepak Sabharwal        dsjaiveer23@iitk.ac.in      8329027551
+240842               DoMS                  Ram Daftari               ramdd24@iitk.ac.in       9007925075
+
+230081                     Intelligent Systems                   Aditya Srivastava             adityasri23@iitk.ac.in      7905273064
+241039                     Intelligent Systems              Sparsh Pradeep Jain           sparshp24@iitk.ac.in      9901095528
+
+230085             Bachelors of Cybersecurity               Adwaaiit Pande             aswaaiitp23@iitk.ac.in      9372256863
+240842             Bachelors of Cybersecurity           Ram Daftari               ramdd24@iitk.ac.in       9007925075

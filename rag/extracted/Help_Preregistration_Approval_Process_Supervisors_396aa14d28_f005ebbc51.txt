@@ -1,0 +1,32 @@
+[PAGE 1]
+Help Document – Pre-Registration Form Approval Process for Supervisors
+
+When a PG student (whose supervisor is updated on Pingala) submits the Pre-Registration form, the form will
+first require approval from the Supervisor. Please follow the steps below to review and approve the student’s
+request:
+
+1.  Login to your Pingala account.
+
+Path: Pre-registration > Supervisor Forms
+
+2.  Go to the Pre-Registration link.
+3.  Under this section, click on Supervisor Forms.
+4.  You will see a list of students whose forms are pending for your approval.
+
+5.  To approve individual student forms, click on the respective student’s row.
+6.   If you wish to approve multiple student forms together, select the students using the checkboxes and click
+on the Accept Selected button.
+7.  To review the courses selected by a student, click on the student’s roll number. This will open the
+student’s details page, where all registered courses will be visible.
+
+[PAGE 2]
+8.  On the same page, you will also find options such as Show Template, Show Backlog, View Grade Sheet,
+Accept, Reject, and Ask to Meet.
+
+This process allows supervisors to efficiently review and take action on students’ pre-registration forms.
+
+Note:
+If the Supervisor does not approve the student’s form within 24 hours, the form will automatically move to the
+next approving authority (DXGC role) for further action.
+
+------------------------------------------------- End of the document ----------------------------------------------------------------

@@ -1,0 +1,318 @@
+[Page 1]
+w 
+Indian Institute of Technology Kanpur 
+New Course Proposal 
+1. Course Number: MBAxxx 'j-S'8 M 
+-
+2. Course Title: Monte Carlo Methods in Finance 
+3. Credits: 3-0-0-0 [5] 
+Duration of Course: Modular 
+4. Proposing Department: Department of Management Sciences 
+Other DepartmentflDPs which maybe interested in the proposed course: 
+-
+Other faculty members interested in teaching the proposed course: 
+5. Proposing Instructor(s): Sourav Majumdar 
+6. Course Description: This course focuses on the implementation of Monte Carlo algorithms to solve a variety of 
+problems in finance and insurance. It begins with a brief introduction to no-arbitrage pricing and the dynamics of 
+asset prices. The course also covers statistical inference for asset price models using real-world data. Students 
+w
+i
+l
+l
+ 
+study the pricing of standard and exotic financial derivatives across asset classes, along with model calibration and 
+sensitivity analysis. Additionally, the course explores various loss-
+ 
+reserving techniques in life and non-life 
+insurance. 
+A) Contents: 
+S. No. Broad Title 
+Topics 
+No. of 
+Lectures ' 
+1. 
+Introduct(on to 
+Monte Carlo 
+methods 
+Review of Probability, Introduction to simulation 
+2 
+2. 
+Financial 
+Derivatives 
+Review of financial derivatives, No-arbitrage pricing, Asset price 
+dynamics: simulation and inference 
+3 
+3. 
+Monte carlo 
+methods for 
+derivative pricing 
+Pricing European options, pricing path independent and path dependent 
+exotic options, sensitivity, calibration, variance reduction techniques, 
+output analysis 
+6 
+4. 
+Monte carlo 
+methods in 
+Insurance 
+Coherent risk measure, premium principle, mortality models in life 
+insurance, ruin probabilities in non-life insurance 
+3 
+C) Pre-requisites, if any: MBA651, MBA772
+
+[Page 2]
+7. References: 
+1. Glasserman, P. (2003). Monte Carlo Methods in Financial Engineering. Springer. 
+2. 
+Korn, R., Korn E., and Kroisandt, G. (2010). Monte Carlo Methods and Models in Finance and Insurance. 
+Routledge. 
+3. 
+Hirsa, A. (2024). Computational Methods in Finance. CRC press. 
+4. 
+Oosterless, C.W. and Grzelak, L.A. (2019). Mathematical Modeling and Computation in Finance. World Scientific. 
+Dated: 20 January 2025 Proposer: Sourav Majumdar 
+Dated: 
+DUGC/DPGC Convener: 
+The course is pproved 
+Chairman, SUGC/ 
+Dated: 
+not approved
+
+[Page 3]
+e
+ 
+PGDesk-IITK-DOHA 
+From: 
+DPGC DoMS <dpgc_doms@iitk.ac.in> 
+Sent: 
+11 February 2025 15:17 
+To: 
+Pgdesk 
+Cc: 
+Souravm 
+Subject: 
+Fwd: Proposal for two new courses (DoMS) 
+Categories: 
+Blue Category 
+Dear Ravi ji, 
+The following courses completed 21 days of the review process yesterday. The proposer of the course or 
+the DPGC have not received any comments on the course outlines. Therefore, the outlines present in the 
+links can be considered as final, and may be considered for approval in the upcoming SPGC meeting. 
+I propose the following course codes: 
+a
+)
+ 
+"DMS613" (9 credit): Introduction to Mathematical Finance 
+b) "M8A788" (5 credit): Monte Carlo Methods in Finance 
+Best regards, 
+Subhankar Mukherjee 
+DPGC Convenor 
+Department of Management Sciences 
+IIT Kanpur 
+Original Message 
+Subject:Proposalfortwo new courses (DoMS) 
+Date:2025-01-20 17:43 
+From:DPGC DoMS <dpgc_doms@iitk.ac.in> 
+To:acadstaff@lists. iitk.ac.in 
+Dear all, 
+Please find the link for the proposals for two new courses by Dr. Sourav Majumdar at the Department of 
+Management Sciences: 
+1. Introduction to Mathematical Finance: https://iitk.ac.in/doaa/data/NewCourses/Course-pr000sal-
+DMSXXX-Introductlon-to-Mathematical-Fi na nce. pdf 
+1
+
+[Page 4]
+t 
+2. Monte Carlo Methods in Finance: https://iitk.ac.in/doaa/data/NewCourses/Course-proposal-MBAXXX-
+Monte-Ca rlo-Methods-In-Finance. pdf 
+Please share your feedback/comments, if any, by 10 February 2025 to Dr. Sourav Majumdar 
+(souravm@litk.ac.ln) with a copy to the DPGC Convenor (dpgc_doms@iitk.ac.in). 
+Best regards, 
+Subhankar Mukherjee 
+DPGC Convenor 
+Department of Management Sciences 
+IIT Kanpur 
+2
+
+[Page 5]
+INDIAN INSTITUTE OF TECHNOLOGY KANPUR 
+POSTGRADUATE OFFICE 
+No. A(P)/IITK/course approval/ 
+March 25, 2025 
+The Convener, DPGC 
+Departments of DOMS/MTH/SEE 
+ITT Kanpur 
+I am directed to communicate the concurrence of the SPGC (2024-25) in its 6th meeting held 
+on 27/02/2025 for the approval of new/modification PG course proposal. After detailed 
+discussion the following courses were approved. 
+Course No 
+Title 
+Credits 
+Instructor 
+SPGC Decision 
+DMS613 
+Introduction to Mathematical Finance 
+3-0-0-0-[9] 
+Dr. Sourav Majumdar 
+Approved 
+MBA644 
+Cyber Security and Privacy for Managers 
+3-0-0-1-[10] 
+Dr. Sourya Joyee De 
+Approved 
+MBA788M 
+Monte Carlo Methods in Finance 
+3-0-0-1-[5] 
+Dr. Sourav Majumdar 
+Approved 
+MBA789M 
+Management Sciences 
+3-0-0-1-[5] 
+Dr. Harshal Rajan Mulay 
+Approved 
+MBA790M 
+Private Equity, Venture Capital and other 
+Alternative Assets 
+3-0-0-1-[5] 
+Dr. Harshal Rajan Mulay 
+Approved 
+MTH619 
+Representation theory of quivers 
+3-0-0-0-[9] 
+Dr. Amit Kuber 
+Approved 
+SEE627 
+Electric Mobility [Modification] 
+3-0-0-2-[11] 
+Dr. Amarendra Edpuganti 
+Approved 
+Joint/Assistant Registrar 
+Academic Affairs 
+CC: OARS (DOAA Office) For necessary action
+
+[Page 6]
+u. 
+.f:.3.a. 
+'S ta:. tS... 
+MINUTES 
+FOR THE 6th MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) HELD 
+ON February 27, 2025 (Thursday) AT 11:00 AM 
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING 
+Members Present: Prof(s): D. Chaitanya Kumar Rao on behalf PM Mohite (AE), Suresh Kumar (BSBE), Basker 
+Sundararaju (CHM), Ark Verma (CGS), Gourabananda Pahar (CE), Soumik Das on behalf of Dipin S Piliai (CHE), 
+J Ramkumar (DES), Sukumar Vellakkal (ECO), imon Mondal (EE), Animesh Mandal (ES), Rajarshi Sengupta 
+(HSS), Subhankar Mukherjee (DoMS), Anikesh Pal (ME), Sudhanshu S Singh (MSE), Pritam Chakraborty (MSP), 
+Sudhanshu Shekhar (MATH), Sagar Chakrabarty (PHY), Kunal P Mooley (SPASE), Prabodh Bajpal (SEE) 
+Members Absent: Prof(s), Piyush Rol (CSE), Pankaj Wahi (NET), Sapam Ranjita Chanu (PSE) 
+Senate Nominee : Prof. Abheejeet Mohapatra 
+Student representatives. Saurabh Sona Lahamate (231250121 
+(A) Ratification of minutes of 5`h SPGC meeting held on January 24, 2025 
+No comments were received. Minutes is confirmed 
+(B) item requiring SPGC Approval 
+a) New course approval 
+Course No 
+Title 
+Credits 
+Instructor 
+I SPGC Decision 
+DMS613 
+Introduction to Mathematical Finance 
+3-0-0-0-[9] 
+Dr. Sourav Majumdar 
+Approved 
+MBA644 
+Cyber Security and Privacy for Managers 
+3-0-0-1-[10] 
+Dr. Sourya Joyee De 
+i 
+Approved 
+MBA788M, 
+Monte Carlo Methods in Finance 
+3-0-0-1-[5] 
+Dr. Sourav Majumdar 
+Approved 
+MBA789M 
+Management Sciences 
+3-0-0-1-[5] 
+Dr. Harshal Rajan Mulay 
+Approved 
+MBA790M 
+Private Equity, Venture Capftai and other 
+Alternative Assets 
+3-0-0-1-[5] 
+Dr. Harshal Rajan Mulay 
+Approved 
+MTH619 
+Representation theory of quivers 
+3-0-0-0-(9] 
+Dr. Amit Kuber 
+Approved 
+SEE627 
+Electric Mobility IModiticaton] 
+3-0-0-2-[11] 
+Dr. Amarendra Edpugantl 
+Approved 
+b) Terminatlon under 5.7 
+S. No 
+Roll No 
+Name 
+Dept. 
+pro 
+p 
+g' 
+Supervisor & DPGC 
+Recommendation 
+SPGC Decision
+1. 1241250026 
+Jatln Chaudhary 
+DOMS 
+MBA 
+Recommended 
+Approved to be 
+reported to Senate 
+2. 
+241010003 Adhikari Thakur Prasad Das 
+AE 
+MTech 
+Recommended 
+Approved to be 
+reported to Senate 
+c) Full Time to Part-Time 
+S. No 
+Roll No 
+Name 
+De t 
+p 
+pro g 
+Supervisor and DPGC 
+Recommendation 
+Remark
+SPGC Decision
+1. 
+231040115 
+Swati Gupta 
+EE 
+MTech 
+Recommended 
+CU=78 
+TU =54 
+CPI=9.38 
+NOC - attached 
+Approved 
+2. 
+231040036 
+Bingi 
+Poojari 
+Venkatesh 
+EE 
+MTech 
+Recommended
+CU=78 
+-54
+CPI=9.38 
+NOC - attached 
+Approved 
+Page 1 of 9 
+i
+ 
+'4 
+""t

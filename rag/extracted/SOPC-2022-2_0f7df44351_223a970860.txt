@@ -1,0 +1,122 @@
+[PAGE 1]
+INDIAN INSTITUTE OF TECHNOLOGY, KANPUR
+
+OFFICE OF DIGITAL LEARNING
+
+No. (eM)/SOPC/IITK/2022-23/ May 22, 2022
+
+MINUTES OF THE 2nd MEETING OF THE SENATE ONLINE PROGRAMME
+COMMITTEE (2022-23)
+
+Item 0. Key decisions taken in SOPC meeting on 9 Apr 2022
+
+a. DMRM program name has changed to QFRM (sent to Chairperson, Senate)
+
+b.  Eligibility criteria for eMasters remains unchanged.
+
+Item 1. Update regarding admissions: For the July cohort, we will be having two
+application windows. Applications received in the first window will be processed starting
+24th May to 4th June, while applications received in the 2nd window will be processed
+starting 4th June to 10th June. All programs must send two OP-1 forms, corresponding to
+the admissions in each round.
+
+Minutes: Noted.
+
+Item 2. Possibility of conducting online examinations in eMasters: The SOPC manual
+currently says that:
+
+“The end-of-quarter proctored examination will be conducted at pre-designated
+centers where students appear in person and validate their identity to take the
+examination”
+
+The SOPC has received proposals from CS and QFRM programs regarding the difficulty
+faced by industry professionals in appearing for in-person exams, e.g., due to travel
+abroad or inability to travel to other cities, even on a weekend. Based on the proposals by
+departments, and advances in online (live-proctored) examination technologies, the
+SOPC recommends that the following line be added: <expand>
+
+“The end-of-quarter examination may also be held in remote-proctored mode at the
+discretion of the module instructor.”
+
+The Office of Digital Learning will coordinate with the technology partner (TalentSprint)
+to identify the appropriate platform and help with the implementation.
+
+[PAGE 2]
+Minutes:  It was decided to proceed as follows. The SOPC convener, in
+consultation with other members will create a document that incorporates
+feedback obtained from instructors. The same document will be sent to the
+Senate for debate.
+
+Item  3. Inconsistent numbering of e-Masters courses: The module numbers of
+different programs are not following any specific format. For example, while EE and CS
+are using the pattern-- 2 digit alphabetical dept. code followed by 3 digit numeric module
+number starting with 900; the IME programs are using 4 digit alphabetical program codes
+with 3 digit numeric module numbers starting from 100 which again varies over quarter
+as subsequent hundreds.
+
+Both EE and CS module numbering is consistent with the number of regular courses in
+the institute. Since both QFRM and PS are programs fathered by IME, it is recommended
+that the course numbering be made consistent with other IME courses, such as MBA8xx
+and MBA9xx, or else IME8xx or IME9xx.
+
+Minutes: IME department will provide new course numbers.
+
+Item 4. Delay in Conduct of exam /Grade Submission/Question Paper Submission
+etc. and, lack of timely communication and technical issues with TS
+
+The eMasters programs have experienced various gaps in their implementation. These
+have been reported by students and ODL include:
+
+1.  Delayed conduct of exam and technical issue with the portal
+
+2.  Delayed submission of grades, beyond the stipulated grade submission deadline
+
+3.  Delayed submission of question papers for end-sem exam
+
+4.  Delayed or non-submission of First Course Handout/Video
+
+5.  Poorly edited or unformatted videos submitted to TS for upload
+
+One of the end-sem exam of PS program in 2022Q1 was not held at the scheduled time.
+More importantly, the students complained of lack of timely communication from TS.
+The delayed communication from TS and technical issues with the portal resulted in a
+series of complaints from a disgruntled students to the director.
+
+From the perspective of SOPC, the conduct of examination is the responsibility of the
+instructor in-charge. The exam  is to be implemented by TS in a professional and
+
+[PAGE 3]
+technically competent manner. The instructors are requested to keep the DOPC, Head,
+PIC-ODL, and SOPC in loop in case of such major disruptions.
+
+As the eMasters program is a senate-approved program of IIT Kanpur, such irregularities
+should not occur. Experience from the implementation of the programs would be used to
+develop necessary manuals and processes for smooth conduct of the same in future.
+
+Program in charge have also reported lack of technical capacity and technical issues with
+TS in implementing the programs.
+
+Minutes: The members noted that the specific complaint of the student was
+largely in the context of technical support to be provided by TS. The delay in
+communication received from TS, inability to access the exam portal and
+delay  in  providing  necessary  technical support  for  the same.  It  also
+highlighted the need for better coordination between the eMasters team and
+the TS team especially due to lack of clarity of respective roles.
+
+The program coordinator provided chronology of events associated the said
+exam and identified need for greater resources (by TS) to implement such a
+program that is a learning experience for all of us at IITK.
+
+To resolve the irregularities on the side of TS, it was decided to conduct a
+high-level meeting with TS and point out all the issues where they have been
+short.
+
+The program coordinators will strive to minimize the delays in providing
+FCH, lecture videos, question papers, and grades. PIC-ODL will also start
+the preparation of a manual for instructors and program coordinators.
+
+The meeting ended with a vote of thanks to the Chair.
+
+(Ketan Rajawat)
+
+Chairperson, SOPC

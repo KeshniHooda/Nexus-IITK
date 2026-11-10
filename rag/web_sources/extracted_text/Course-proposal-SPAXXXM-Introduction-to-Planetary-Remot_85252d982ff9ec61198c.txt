@@ -1,0 +1,53 @@
+[Page 1]
+Indian Institute of Technology, Kanpur
+Proposal for a New Course
+1. Course No: SPA***A
+2. Course Title: Introduction to Planetary Remote Sensing from Space Missions 
+3. Lectures per week: L=2, Tutorial: T=0, Laboratory: P=3, Additional hours: (0-2) =0 (A), 
+Credits (3*L+2*T+1*P+A) = 5
+Duration of Course: Half Semester
+4. Proposing Department: Space, Planetary and Astronomical Sciences and Engineering
+5. Proposing Instructor: DPGC Convener, SPASE
+6. Other Instructors who may teach this course: 
+7. Course Description 
+(A) Objectives: The course. 
+(B) Contents:
+1. Planetary surface properties and Radiation Interactions [5 lectures]
+The character of planetary surfaces, differentiated and undifferentiated planetary bodies, 
+solar system processes and interactions. Planetary regolith, megaregolith.
+2. Optical Image interpretation of planetary surfaces [3 lectures]
+Elements of image interpretation, concept of spatial resolution, viewing geometry, 
+Application in identifying active surface processes (viz. wind, water, ice)
+3. UV-Vis-NIR Multi-Spectral and Hyperspectral Remote Sensing of planetary surfaces 
+[5 lectures] 
+Spectrometer basics, Concept of Radiance, Reflectance, spectral resolution, basic spectral 
+classification techniques (spectral parameters), and representation of spectral data (RGB 
+composites), Application in mineral and elemental mapping 
+4. Topographic Data Analysis [4 lectures]
+Laser ranging basics, Image-based Topographic analysis, Topographic data and products 
+(topographic profile, digital elevation model), 2D interpolation techniques.
+5. Radar Remote Sensing [3 lectures]
+Radar remote sensing basics, Dielectric properties of materials, Monostatic and Bistatic 
+modes, Circular polarization ratio (CPR), Application to compositional and textural 
+mapping.
+
+[Page 2]
+(C) Pre-requisites, if any: Course on introductory geology, remote sensing or with the 
+permission of the instructor.
+(D) Short summary for including in the Courses of Study Booklet:
+This course would provide an overview of various types of remote sensing of planetary bodies 
+carried out by space missions through time using various techniques. The student will be 
+introduced to the analysis of remote sensing datasets from missions.
+7. Recommended Books:
+R. P. Gupta / Remote Sensing Geology / Third Edition (2018) / Springer Verlag Publisher /‎ 
+ISBN-10 : ‎ 3662558742, ISBN-13 : ‎ 978-3662558744 / 428 pages
+Thomas Lillesand, Ralph W. Kiefer, Jonathan Chipman/ Remote Sensing and Image 
+Interpretation/ 7th Edition (2015)/ ISBN: 978-1-118-34328-9 / 736 pages
+Bruce A Campbell / Radar Remote Sensing of Planetary Surfaces /2002/ Cambridge 
+University Press / 9780521583084, 052158308X / 331 pages
+8. Any other remarks:
+Dated: Proposer:
+Dated: DUGC/DPGC Convener:
+The course is approved/not approved
+Chairman, SUGC/SPGC
+Dated:

@@ -1,0 +1,245 @@
+Organized By
+Supported By
+Clean and sustainable energy is of paramount importance for all applications in propulsion, power, energy, and mobility. The workshop will bring together renowned experts from around the globe to share the latest fundamental and applied research innovations for cleaner energy utilization in a wide range of devices extending from hypersonic propulsion to micro scale devices using fossil and renewable fuels. A round-table discussion will also be held with the aim to identify key areas of common interest that will help develop strategy to promote collaborative research.
+The workshop will have several tailored technical tracks with presentations from world renowned technical experts in the field of multiphase flows, fossil and biofuels, combustion, power and propulsion and air toxins with special focus on current and future R&D needs, challenges and opportunities.
+The International Workshop is a jointly organized workshop by University of Maryland, College Park, University of Illinois at Chicago, ACRI CFD, Indian Institute of Technology Kanpur and Indian Institute of Technology Delhi, and conducted at IIT Kanpur-Delhi campus (Outreach Center Noida at Sector 62) from January 19 to 21, 2024. It is the 12th workshop in a Series on Status of Combustion and Energy.
+The event is supported by NSF, ONRG, IITK, IITD, Begell House, Springer, CAFFEM, ATOS, BIS, Convergent Science & ELICO Marketing.
+Invited lectures by renowned experts in the field of fuel, bio-fuels, energy, power, propulsion, environmental pollution including CO2, and sustainability.
+Poster presentation competition for students.
+Contributed chapters would be published by international publishers after the workshop.
+Researchers and engineers from academia, R&D organizations and industries working in the areas of fuels, energy, combustion, power, propulsion, hypersonics, air pollution, sensors and diagnostics, modelling, fossil- and bio-fuels, alternative energy, energy-water nexus, droplets and atomization, novel combustion concepts, engine combustion, gas turbine combustion, swirl flows and other related areas.
+Nearest airport is Delhi (DEL), about 30 km (~45 minutes drive) from Outreach Center Noida at Sector 62, is well connected by international and domestic flights. Pick up by Taxis/private vehicles would be arranged from DEL to Outreach Center Noida.
+New Delhi railway station (NDLS), about 21 km from Outreach Center Noida at Sector 62, is a major rail head. It is well connected to Delhi, and other parts of country. Pick up by Taxis/private vehicles would be arranged from railway station to Outreach Center Noida.
+Ghaziabad railway station (GZB), about 12 km from Outreach Center Noida at Sector 62, is another railway station nearby. It is connected to Delhi, and other parts of country. Pick up by Taxis/private vehicles would be arranged from Ghaziabad railway station station to Outreach Center Noida.
+The workshop topics would include, but not limited to the following:
+Multiphase flows and applications
+Hypersonic and supersonic propulsion
+High speed combustion for propulsion
+Computational approaches and advances
+Advanced diagnostics
+Biofuels, renewable fuels
+Fuel reforming and value added products
+Fuel flexible propulsion and power generation
+Novel energy conversion technologies/New engine combustion concepts
+Thermal management
+Energy, environment and emissions control
+Combustion modeling and simulation
+Solid fuel combustion, pyrolysis and gasification
+Gas Turbines in ship and air propulsion
+Hybrid power concepts for engines
+Hydrogen and Ammonia as fuel for engines
+Renewable energy including solar, wind and biomass
+We invite student researchers in the field to submit abstracts for the poster presentation during the workshop.
+The abstracts for the posters must follow the guidelines layed out in this template (DOCX) . They must be submitted by emailing them to ashoke@iitk.ac.in on or before January 5, 2024.
+Accommodation will be arranged at the IITK Noida campus (Outreach Center Noida at Sector 62) for the invited speakers. Limited accommodation will be available for the participants based on single/twin sharing basis depending on availability. The Participants will have to bear the miscellaneous expenses.
+Sl. No.
+Title of the talk
+Author(s)
+Affiliation
+Computational Combustion – Different Perspectives
+K. Kailasanath
+Naval Research Laboratory, USA
+Development of an Innovative Thermal Technology for Plug and Abandonment of Oil Wells
+Marcelo J.S. de Lemos
+Instituto Tecnologico de Aeronautica - ITA, Brazil
+Inverse Problems Related to the Energy Conservation in Buildings
+Julien Berger and Helcio R. B. Orlande
+La Rochelle Université, France Federal University of Rio de Janeiro, Brazil
+A big question!! Which fuel for future of aviation?
+Bhupendra Khandelwal
+University of Alabama, USA
+Thermal Transport Phenomena in Electrochemical Energy Storage and Conversion
+Ankur Jain
+University of Texas at Arlington, USA
+Shock tube investigation of ammonia/hydrogen/natural gas mixtures combustion
+Michael Pierro, Christopher Dennis, Justin Urso, Subith Vasu
+University of Central Florida, USA
+Membrane Distillation with Waste Heat Recovery from Nuclear and Diesel Engine Power Generation and Propulsion: Simulations and Experiments
+Renato Machado Cotta
+Federal University of Rio de Janeiro, Brazil
+CO 2 recovery and H 2 generation by perovskite solar-assisted looping
+Massimo Santarelli
+Politecnico di Torino, Italy
+Innovative Smart Human Crematory for Sustainable Development
+Somrat Kerdsuwan
+King Mongkut's University of Technology, North Bangkok, Thailand
+Catalysis, Green Chemistry & Sustainability: Challenges & Opportunities
+Yun Hin Taufiq-Yap
+Universiti Putra, Malaysia
+Computational Modelling of Fuel cells and Electrolyzers: An Overview
+Steven Beale
+Research Centre Juelich, Institute of Energy and Climate Research, germany
+Hydro Turbine and Pump Performance
+Ryo Amano
+University of Wisconsin-Milwaukee, USA
+Sustainable Water and Energy Cogeneration System for Isolated Communities
+Carolina P. Naveira-Cotta
+Federal University of Rio de Janeiro, Brazil
+Design, Build, and Test an Archimedes Wind Turbine
+Xiuling Wang, Joan Giner and Casie Cordova
+Purdue University Northwest, USA
+Reviewing the Turbulence Models & Validation with Experimental Study of Gas Turbine Blade Internal Cooling
+Farah Nazifa Nourin and Ryo Amano
+Eaton Corporation, USA & University of Wisconsin-Milwaukee, USA
+Renewable energy including solar, wind and biomas
+Walaa Hussein Saadeh and Ryo Amano
+University of Wisconsin-Milwaukee, USA
+Computational Study on the Effects of Alcohols on Gasoline Combustion and Soot Emissions
+Suresh K. Aggarwal
+University of Illinois at Chicago, USA
+A two-step design optimization process for radial turbine designs
+Cheng Xu and Ryo Amano
+Vulcan Moreland LLC, USA & University of Wisconsin-Milwaukee, USA
+Thermochemical Conversion of Livestock Manure
+Osama M. Selim and Ryo Amano
+Access Inc, USA & University of Wisconsin-Milwaukee, USA
+Additives Incorporation into Municipal Solid Wastes Gasification For Enhanced Product Recovery
+Kiran Raj Goud Burra, Marco Castaldi and Ashwani K. Gupta
+University of Maryland, USA
+Synergistic Effects and Products Distribution During Co-pyrolysis of biomass with Plastics
+Zhiwei Wang
+Henan University of Technology, China
+Fuels and Chemicals from Biomass
+Sankar Bhattacharya
+Monash University, Australia
+Integrated Diagnostic and Modeling Effort on CTS and LDI Mixers
+Kyle Twarog, Chih-Jen Sung and Hukam C. Mongia
+University of Connecticut, USA & CSTI Associates, USA
+Emission Characteristics of Sustainable Aviation Fuel (SAF) in a model aircraft gas turbine combustor under Simulated In-Flight Conditions
+Keiichi Okai
+Japan Aerospace Exploration Agency, Japan
+Reactivity Enhancement of Ammonia Fuel Blends
+R. Peter Lindstedt
+Imperial College London, UK
+Catalytic methane combustion in lean conditions: heat and mass transfer properties in ceramic and metallic open foams
+Stefania Specchia
+Politecnico di Torino, Italy
+Sustainable Future of Coal in Carbon Constrained World
+Rajender Gupta
+University of Alberta, Canada
+Interfacial nanoengineering for sustainable energy and healthcare applications
+Manish K. Tiwari
+University College London
+Experimental Investigations of Hydrogen/LPG Flames in the 2 kW to 200 kW Range: Insights and Findings
+Saravanan Balusamy
+Indian Institute of Technology Hyderabad, India
+Early Detection of Thermal Runaway of Li-ion Batteries
+Swarnendu Sen
+Jadavpur University, Kolkata, India
+Role of CFD in the design of hydrocarbon fueled hypersonic air breathing vehicle
+Debasis Chakraborty
+Mahindra University, Hyderabad, India
+Hydrogen Safety
+Anubhav Sinha
+Indian Institute of Technology BHU, Varanasi, India
+Sharp interface methods for multiphase flows
+Pratik Das
+Convergent Science
+Micro-explosion in fuel blend droplets
+Madan Mohan Avulapati
+Indian Institute of Technology Tirupati, India
+Droplet impingement dynamics on wettability engineered surfaces – from energy to healthcare
+Ranjan Ganguly
+Jadavpur University, Kolkata, India
+Turbulent Combustion Modelling of Hypersonic Combustion
+Sayak Banerjee
+Indian Institute of Technology Hyderabad, India
+Understanding the Critical Events in Lean and Rich Fuel-Air Combustion
+Somnath De
+Indian Institute of Technology Madras, India
+Modelling of turbulent flames using variants of flamelet progress variable (FPV) model and using artificial neural network method
+Rudra N. Roy
+Indian Institute of Technology Goa, India
+Part Electric Gas Turbine - A Novel Open Architecture Heat Engine
+MSN Murthy, Sreedhara Sheshadri
+Indian Institute of Technology Bombay, India
+Decomposition kinetics and thermal analysis of petroleum pitch using simultaneous thermal analysis
+Khokan Sahoo, Kanuparthy Naga Raja, Neeraj Kumbhakarna, Sudarshan Kumar
+Indian Institute of Technology Bombay, India
+Enhancing Laminar Burning Velocities of Ammonia through Hydrogen Addition: A Pathway to Carbon-Neutral Combustion and Sustainable Energy Solutions
+Shawnam, Sudarshan Kumar
+Indian Institute of Technology Bombay, India
+Use of biogas as a fuel for micro gas turbines
+Sudipto Mukhopadhyay
+Indian Institute of Technology Jodhpur, India
+Self-excited shear layer in a hypersonic flow
+S. K. Karthick
+Indian Institute of Technology Hyderabad, India
+Numerical Investigation of Combustion Dynamics in Liquid Rocket Engines
+Abhishek Sharma
+Indian Space Research Organisation, India
+Digital Twin for Sustainability
+Azan M Parmar
+Altair Engineering, India
+Controlling liquid atomization using continuous and pulsed lasers
+D. Chaitanya Kumar Rao
+Indian Institute of Technology Kanpur, India
+Silicon heterojunction solar cells’ fabrication and characterization
+Vamsi Krishna Komarala
+Indian Institute of Technology Delhi, India
+Design of Novel Optimal Multipoint Fuel Injection & Automation for Detonation Engine Applications
+Shivam, Subhash Chander & T K Jindal
+PEC University, India & DGRE, India
+Compressible vortex ring exiting a shock tube and its interaction with a burning droplet
+Gautham Vadlamudi, Akhil Aravind & Saptarshi Basu
+Indian Institute of Science, Bengaluru
+Development of Unconventional Low Emission Combustors for Gas Turbine Engines
+Vaibhav Kumar Arghode
+Indian Institute of Technology Kanpur, India
+Energy Transition with Biofuels and Green Hydrogen for Road Transportation Sectors
+K. A. Subramanian
+Indian Institute of Technology Delhi, India
+Numerical Prediction and Validation of Deposit Formation Parameters in BS-6 Compliant SCR System
+Ambarish D Khot
+Cummins Technologies India LTD , Pune
+Hydrogen Fuel Combustion for Gas Turbines Applications (Power and Aviation) Using CONVERGE CFD Simulations
+Rohit Kulkarni
+Convergent Science India LLP
+Role of Green Hydrogen in Decarbonization of Hard-to-Abate Sectors
+Vijay Mudgal
+Fichtner Consulting Engineers (India) Pvt Ltd
+Electrospray technology for air pollution mitigation
+Bahni Ray
+IIT Delhi
+Organizing Committee
+Dr. Ashwani K. Gupta Distinguished University Professor
+University of Maryland, Department of Mechanical Engineering, College Park, MD 20742, USA. Email: akgupta@umd.edu
+Dr. Suresh K. Aggarwal Emeritus Professor
+University of Illinois Chicago, Department of Mechanical & Industrial Engineering,
+ Chicago, Illinois 60607, USA. Email: ska@uic.edu
+Dr. Akshai Runchal
+President, Analytic & Computational Research Inc, CA 90077, USA. Email: runchal@acricfd.com, runchal@gmail.com
+Dr. Abhijit Kushari Professor
+Department of Aerospace Engineering Indian Institute of Technology Kanpur Phone: 0512 259 7126 Email: akushari@iitk.ac.in
+Dr. Ashoke De Professor
+Department of Aerospace Engineering Department of Sustainable Energy Engineering
+ Indian Institute of Technology Kanpur Phone: 0512 259 7863, 6559 Email: ashoke@iitk.ac.in
+Workshop Coordinators
+Dr. Abhijit Kushari Professor
+Department of Aerospace Engineering Indian Institute of Technology Kanpur Phone: 0512 259 7126 Email: akushari@iitk.ac.in
+Dr. Ashoke De Professor
+Department of Aerospace Engineering Department of Sustainable Energy Engineering
+ Indian Institute of Technology Kanpur Phone: 0512 259 7863, 6559 Email: ashoke@iitk.ac.in
+Dr. Dibakar Rakshit Professor
+Department of Energy Science and Engineering Indian Institute of Technology Delhi Phone: 011 2659 7313, 6448 Email: dibakar@iitd.ac.in
+Dr. Kaushik Saha Assistant Professor
+Department of Energy Science and Engineering Indian Institute of Technology Delhi Phone: 011 26591273 Email: kaushiksaha@dese.iitd.ac.in
+Registration Procedure
+Category
+Registration Fee
+Govt. Research Organizations
+INR 10,000 + 18% GST INR 11,800 (Including GST)
+Private Industry
+INR 10,000 + 18% GST INR 11,800 (Including GST)
+Faculty
+INR 8,000 + 18% GST INR 9,440 (Including GST)
+Students
+INR 4,000 + 18% GST INR 4,720 (Including GST)
+Invited Speakers
+No Registration Fees
+* No Fee Refund Policy
+Step 1: Pay the required fees according to your category Step 2: Note the transaction ID Step 3: Fill the application form
+Details to be filled while payment:
+Workshop Code: 2023-24/014 Workshop Title: International Workshop on Sustainable Energy Workshop Duration: 19.01.2024 - 21.01.2024
+For further imformation, Please contact:
+Dr. Ashoke De Indian Institute of Technology Kanpur - 208016 Phone: 0512-2597863 E-mail: ashoke@iitk.ac.in Web: home.iitk.ac.in/~ashoke

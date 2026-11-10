@@ -1,0 +1,239 @@
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Student Thesis Portal, IIT Kanpur</title>
+ <link rel="shortcut icon" href="https://oag.iitk.ac.in:443/studoaiitk/studscr/images/logo_black.gif">
+<meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="stylesheet" type="text/css" href="https://oag.iitk.ac.in:443/studoaiitk/studscr/css/styleform.min.css">
+<link rel="stylesheet" type="text/css" href="https://oag.iitk.ac.in:443/studoaiitk/studscr/css/styles.css">
+<link rel="stylesheet" href="https://oag.iitk.ac.in:443/studoaiitk/UploadJsp/css/colorbox.css" />
+<script src="https://oag.iitk.ac.in:443/studoaiitk/studscr/jscripts/jquery-1.10.2.min.js"></script>
+<script src="https://oag.iitk.ac.in:443/studoaiitk/UploadJsp/js/jquery.colorboxjs.js"></script>
+
+<style>
+@media (max-width: 575.98px) {
+  .description {
+    left: 0;
+    padding: 0 15px;
+    position: absolute;
+    top: 10%;
+    transform: none;
+    text-align: center;
+  }
+  
+  .description h1 {
+    font-size: 2em;
+  }
+  
+  .description p {
+    font-size: 1.2rem;
+  }
+  
+  .features {
+    margin: 0;
+  }
+}
+.closeButton {
+	color:#F1F1F1;
+    font-size: 15px;
+    font-weight: bold;
+    background: #12424d;
+    height: 25px;
+    width: 150px;
+    vertical-align: middle;
+}
+
+.closeButton:hover,
+.closeButton:focus {
+    color: #F1F1F1;
+    cursor: pointer;
+}
+.titleView
+{
+
+text-align: right;
+font-weight:bold;
+width: 100%;
+color: red;
+margin-left:  40%;
+}
+</style>
+</head>
+<script type="text/javascript">
+	javascript:window.history.forward(1);
+	
+	function textCheck(fieldName){
+ 	var txtData=fieldName.value;
+ 	txtData=txtData.trim();
+	txtData=txtData.replace("'","");
+	txtData=txtData.replace(";","");
+	txtData=txtData.replace("`","");
+	txtData=txtData.replace("&","");
+	txtData=txtData.replace("@","");
+	txtData=txtData.replace("!","");
+	txtData=txtData.replace("*","");
+	txtData=txtData.replace("(","");
+	txtData=txtData.replace("=","");
+	txtData=txtData.replace(")","");
+	txtData=txtData.replace("?","");
+ 	fieldName.value=txtData;
+ }
+	
+	function viewHelpDoc()
+	{
+	var u='https://oag.iitk.ac.in:443/studoaiitk/StudThesisImpInst.pdf';
+	$.ajax({
+    url:u,
+    type:'HEAD',
+    error: function()
+    {
+         $.colorbox({iframe:true, width:"75%", height:"20%",title: function(){return '<b><font size="4em" color="red">PDF File is not available.</font></b><br><br><br><img src=https://oag.iitk.ac.in:443/studoaiitk/studscr/images/logo_black.gif hight=25px width=25px><span class=SmallTableHead>Document Preview</span><span class=titleView>Note: Press Esc button to Close &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type=button value=Close class=closeButton onClick=parent.$.colorbox.close()></span>';
+}});
+    },
+    success: function()
+    {
+          $.colorbox({href: u,overlayClose:true,close:'close',iframe:true, width:"95%", height:"95%",title : function(){
+  return '<img src=https://oag.iitk.ac.in:443/studoaiitk/studscr/images/logo_black.gif hight=25px width=25px><span class=SmallTableHead>Document Preview</span><span class=titleView>Note: Press Esc button to Close &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type=button value=Close class=closeButton onClick=parent.$.colorbox.close()></span>';
+}});
+    }
+});
+}
+	
+	function viewthesisDoc(){
+	var u='https://www.iitk.ac.in/doaa/data/thesisguide.pdf';
+	$.ajax({
+    url:u,
+    type:'HEAD',
+    crossDomain : true,
+    error: function()
+    {
+         $.colorbox({iframe:true, width:"75%", height:"20%",title: function(){return '<b><font size="4em" color="red">PDF File is not available.</font></b><br><br><br><img src=https://oag.iitk.ac.in:443/studoaiitk/studscr/images/logo_black.gif hight=25px width=25px><span class=SmallTableHead>Document Preview</span><span class=titleView>Note: Press Esc button to Close &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type=button value=Close class=closeButton onClick=parent.$.colorbox.close()></span>';
+}});
+    },
+    success: function()
+    {
+          $.colorbox({href: u,overlayClose:true,close:'Close',iframe:true, width:"95%", height:"95%",title: function(){
+ return '<img src=https://oag.iitk.ac.in:443/studoaiitk/studscr/images/logo_black.gif hight=25px width=25px><span class=SmallTableHead>Document Preview</span><span class=titleView>Note: Press Esc button to Close &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type=button value=Close class=closeButton onClick=parent.$.colorbox.close()></span>';
+}});
+    }
+});
+	}
+	var message="Right Click Not Allowed!";
+             function clickIE()
+             {
+                 if (document.all) {alert(message);return false;}
+             }
+             function clickNS(e)
+             {
+                 if
+(document.layers||(document.getElementById&&!document.all))
+                 {
+                       if (e.which==2||e.which==3)
+                           {
+                               alert(message);return false;
+                           }
+                 }
+             }
+                       if (document.layers) {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+                   document.oncontextmenu=new Function("return false")
+
+
+
+
+</script>
+<body class="back">
+<div class="overlay">
+<div class="container" style="width: 95%;">
+<div id="outPopUp">
+  
+  <div class="row" >
+	
+	<div class="page-header" style="margin-right:5px; margin-top:10px;">
+	<div class="col-md-7" style="float:left; font-size: 6.5vmin;color:#FFFFFF;">
+	<font style="font-family:cursive;">Student Thesis Portal</font>
+	</div>
+
+	<div class="col-md-5" style="margin-right:0px; margin-top:10px;text-align: right">
+	<div  class="col-md-12" style="float:left; font-size: 1.9vmin; color:#FFFFFF;margin-top:30px;">
+ <a href="javascript:viewHelpDoc()" class="mainlink">Help Document</a>
+ &nbsp;&nbsp;
+	  <a href="https://www.iitk.ac.in/doaa/data/thesisguide.pdf" class="mainlink" target="_blank">Thesis Guidelines</a>
+ &nbsp;&nbsp;
+  <a href="https://oag.iitk.ac.in:443/studoaiitk/studscr/contact_Us.jsp" class="mainlink">Contact Us</a>
+ &nbsp;&nbsp;
+  <a href="http://www.iitk.ac.in" target="_blank" class="mainlink">IITK Home</a>&nbsp;&nbsp;
+	
+	</div>
+	</div>
+ 	</div>
+ </div>
+ <span class="clearfix"><br>&nbsp;&nbsp;<br></span>
+<!-- span class="clearfix">&nbsp;</span-->
+ <div class="row" >
+ <!--<div class="col-md-12" align="center">
+ <span><font color="orange"><b>Due to Server Maintenance, Portal will not accessible between 15:00 Hrs (IST) to 17:00 Hrs (IST) today.</b></font></span>
+ </div>-->
+	<div class="col-md-7" style="margin-right:5px; margin-top:5px;" align="center">
+		<img src="https://oag.iitk.ac.in:443/studoaiitk/studscr/images/mid_title2.png" class="img-responsive">
+	</div>
+
+	<div class="col-md-4">
+        <div class="form_bg">
+        
+            <form action="https://oag.iitk.ac.in:443/studoaiitk/LoginAuthentication" method="post" id="lgn-form">
+                 <h3 class="text-center">Login</h3>
+                <br/>
+                <div class="form-group">
+					<label>CC User Id</label>
+                    <input type="text" class="form-control" id="ccuserid" name="ccuserid" onkeyup="textCheck(this);" onblur="textCheck(this);" placeholder="Please Fill User ID" required MaxLength="20">
+                </div>
+                 <div class="form-group">
+                	<label>CC Password</label>
+                     <input type="password" class="form-control" id="ccpasswd" name="ccpasswd"  placeholder="Please Fill Password" required>
+                </div>
+               
+                <div class="align-center">
+                    <button type="submit" class="btn btn-default" id="login">Login</button>
+                </div>
+                <br>
+                <label class="alert-danger" style="text-align:center" id="msg-alrt">
+             
+                </label>
+                
+            </form>
+        </div>
+        </div>
+     </div>
+	<span class="clearfix"><br>&nbsp;&nbsp;<br></span>
+	
+	<span class="clearfix"><br>&nbsp;&nbsp;</span>
+ <div class="row" >
+ <div class="page-footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-8 col-sm-12">
+      <h5 class="text-uppercase font-weight-bold"><u>Important Information</u></h5>
+     
+      <p>The Student Thesis portal will be used to submit thesis using the CC login and password.</p>
+      <p>Students in the PhD, MTech, MDes, MS (By Research) and Dual Degree Programs can submit their thesis here.</p>
+    </div>
+    <div class="col-lg-4 col-md-4 col-sm-12">
+  	<div class="footer-copyright text-center">© 2020-22 Copyright: Office Automation Division, IIT Kanpur</div>
+  	</div>
+  	</div>
+</div>
+ <!-- 
+ <div class="page-footer">
+  	<div class="footer-copyright text-center">© 2020 Copyright: Office Automation Division, IIT Kanpur</div>
+</div>-->
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>

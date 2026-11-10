@@ -1,0 +1,1560 @@
+[Page 1]
+Report of the Core Curriculum Committee 
+First (I) Semester of the Year 2023-24 
+ 
+1. Guidelines for Drawing Instructors and Tutors from Various Departments 
+ 
+1.1 List of Core Courses and respective Departments handling them as per Committee and/or agreements between/among departments when Instructors are 
+drawn from multiple Departments 
+
+Course No. and Title 
+Departments 
+ 
+2022-23 & 2023-24 
+2024-25 & 2025-26 
+2026-27 & 2027-28 
+2028-29 & 2029-30 
+TA111(Engineering Graphics) 
+CE 
+AE 
+CE 
+ME 
+ESO201(Thermodynamics) 
+ME 
+CHE 
+AE 
+CHE 
+ESO202(Solid Mechanics) 
+AE 
+CE 
+ME 
+CE 
+ESO204(Fluid Mechanics) 
+CHE 
+ME 
+CHE 
+AE 
+HSS-1 
+HSS 
+HSS 
+HSS 
+HSS 
+HSS-2 
+HSS 
+HSS 
+HSS 
+HSS 
+ 
+1.2 List of Core Courses and respective Departments handling them as per Committee when Instructors are drawn from a fixed Department 
+ 
+Department 
+Course(s) 
+BSBE 
+LIF111, ESO206 
+CHM 
+CHM111, CHM112M, CHM113M, CSO201, CSO202, CSO203 
+CE 
+ESO208 
+CSE 
+ESC111M, ESC112M, ESO207 
+EE 
+ESC201, ESO203 
+ES 
+ESO213 
+ME 
+TA202 
+MSE 
+TA201, ESO225 
+MTH 
+MTH111M, MTH112M, MSO201, MSO202M, MSO203M,MSO205 
+ECO 
+HSO201 
+PHY 
+PHY111, PHY112, PHY113, PHY114, PHY115, PSO201
+
+[Page 2]
+1.3 List of Core Courses and Respective Departments that will provide Theory and Lab Tutors / Instructors 
+ 
+Course no. 
+Course Name 
+Departments That Provide Tutors / Lab Instructors 
+CHM111 
+Chemistry Lab 
+CHM 
+CHM112M 
+General Chemistry: Physical Chemistry 
+CHM 
+CHM113M 
+General Chemistry: Inorganic & Organic Chemistry 
+CHM 
+MTH111M 
+Single Variable Calculus 
+MTH 
+MTH112M 
+Application Of Single Variable Calculus & Several Variable Calculus 
+MTH 
+PHY111 
+Physics Laboratory 
+PHY 
+PHY112 
+Classical Dynamics 
+PHY 
+PHY113 
+Classical Electrodynamics 
+PHY 
+PHY114 
+Quantum Physics 
+PHY 
+PHY115 
+Oscillations And Waves 
+PHY 
+ESC111M 
+Fundamentals Of Computing - I 
+CSE 
+ESC112M 
+Fundamentals Of Computing - II 
+CSE 
+LIF111 
+Introduction To Biology 
+BSBE 
+TA111 
+Engineering Graphics 
+AE, CE, ME 
+HSS-I (1) 
+Humanities-I 
+HSS 
+ESC201 
+Introduction to Electronics 
+EE 
+TA201 
+Manufacturing Processes I 
+MSE 
+TA202 
+Manufacturing Processes II 
+ME 
+HSS-I (2nd Year) 
+Humanities-I 
+HSS 
+HSS-II 
+Humanities-II 
+HSS, 
+ESO201 
+Thermodynamics 
+AE, CHE, ME, ES 
+ESO202 
+Mechanics of Solids 
+AE, CE, ME 
+ESO204 
+Fluid Mechanics and Rate Processes 
+AE, CHE, ME, ES 
+ESO225 
+Nature and Properties of Materials 
+MSE, 
+ESO206 
+Principles of Biotechnology 
+BSBE 
+ESO207 
+Data Structures and Algorithms 
+CSE 
+ESO208 
+Computational Methods in Engg. 
+CE 
+ESO213 
+Fundamentals of Earth Sciences 
+ES 
+MSO202M 
+Complex Variables 
+ME, MTH, EE, AE, PHY 
+MSO203M 
+Partial Differential Equations 
+AE, CE, ME, MSE, MTH, EE, PHY 
+HSO201 
+Applied Probability And Statistics 
+ECO, CE 
+ 
+Note: Table is constructed largely using data from previous years.
+
+[Page 3]
+2. Estimate of Number of Students in Core Courses in First (I) Semester during the Year 2023-24 
+ 
+Course Group 
+Course No. 
+Course title 
+Estimated number of 
+New students 
+No. of students 
+having fail backlogs 
+No. of students 
+registered in 2022-23-I 
+Final estimate 
+for 2023-24–I 
+
+ 
+ 
+First 
+Semester 
+Courses 
+CHM111 
+Chemistry Lab 
+600 
+00 
+600 
+600 
+CHM112M 
+General Chemistry: Physical Chemistry 
+600 
+10 
+620 
+630 
+CHM113M 
+General Chemistry: Inorganic & Organic Chemistry 
+600 
+30 
+620 
+650 
+MTH111M 
+Single Variable Calculus 
+1220 
+208 
+1220 
+1428 
+MTH112M 
+Application Of Single Variable Calculus & Several Variable Calculus 
+1220 
+198 
+1220 
+1418 
+PHY111 
+Physics Lab 
+620 
+2 
+620 
+622 
+PHY112 
+Classical Dynamics 
+368 
+00 
+368 
+370 
+PHY113 
+Classical Electrodynamics 
+382 
+4 
+382 
+386 
+PHY114 
+Quantum Physics 
+221 
+75 
+221 
+300 
+PHY115 
+Oscillations And Waves 
+249 
+20 
+249 
+270 
+ESC111M 
+Fundamentals Of Computing - I 
+600 
+27 
+600 
+627 
+ESC112M 
+Fundamentals Of Computing - II 
+600 
+17 
+600 
+617 
+LIF111 
+Introduction To Biology 
+600 
+16 
+600 
+620 
+TA111 
+Engineering Graphics 
+620 
+32 
+620 
+652 
+ETH111 
+Practical Ethics 
+600 
+17 
+600 
+620 
+ELC111/112/113 
+English Language & Communication 
+620 
+4 
+620 
+620 
+PE111 
+Morning Exercise 
+1220 
+109 
+1220 
+1329 
+ 
+Third 
+Semester 
+Courses 
+EME 
+Economics Management & Engg. 
+600 
+
+600 
+ESC201 
+Introduction to Electronics 
+602 
+
+602 
+TA201 
+Manufacturing Processes I 
+346 
+
+346 
+TA202 
+Manufacturing Processes II 
+277 
+
+277 
+HSS-I (2nd year) 
+Humanities-I 
+600 
+50 
+650 
+650 
+HSS -II 
+Humanities-II 
+1800 
+100 
+1900 
+1900 
+
+Engineering 
+Science 
+Options 
+ESO201 
+Thermodynamics 
+296 
+
+ 
+ESO202 
+Mechanics of Solids 
+302 
+
+ 
+ESO204 
+Fluid Mechanics and Rate Processes 
+216 
+
+ 
+ESO225 
+Nature and Properties of Materials 
+85 
+
+ 
+ESO206 
+Principles of Biotechnology 
+53 
+
+ 
+ESO207 
+Data Structures and Algorithms 
+273 
+
+ 
+ESO208 
+Computational Methods in Engg. 
+148 
+
+ 
+ESO213 
+Fundamentals of Earth Sciences 
+43 
+
+ 
+Science 
+Options 
+MSO202M 
+Complex Variables 
+483 
+
+ 
+MSO203M 
+Partial Differential Equations 
+603 
+
+ 
+MSO205 
+Introduction To Probability Theory 
+100 
+- 
+100 
+100 
+HSO201 
+Applied Probability And Statistics 
+200 
+- 
+200 
+200
+
+[Page 4]
+3. Core Course Teaching Support Requirement in First (I) Semester during the Year 2023-24 
+ 
+Course(s) 
+Course No. 
+Course title 
+Credits 
+Estimated 
+No. of 
+students 
+Students per 
+Section 
+(approx.) 
+No. of 
+sections 
+Theory 
+tutors 
+Lab. 
+tutors 
+Instruction 
+units 
+Total 
+(Instruction and 
+tutorial/lab) 
+units 
+
+ 
+ 
+First 
+Semester 
+Courses 
+CHM111 
+Chemistry Lab 
+0-0-3 [03] 
+600 
+30 
+20 
+-- 
+20 
+1.0 
+20+1=21 
+CHM112M 
+General Chemistry: Physical Chemistry 
+2-1-0 [04] 
+600 
+100 
+6 
+6 
+-- 
+3.0 
+3+6=9/2 
+CHM113M 
+Gen. Chemistry: Inorganic & Org. Chemistry 
+2-1-0 [04] 
+600 
+100 
+6 
+6 
+-- 
+3.0 
+3+6=9/2 
+MTH111M 
+Mathematics-I 
+3-1-0 [11] 
+1400 
+100 
+14 
+14 
+-- 
+4.0 
+14+4=18/2 
+MTH112M 
+App. Of Single Variable Calculus & Several Variable Calculus 
+3-1-0 [11] 
+1400 
+100 
+14 
+14 
+ 
+4.0 
+14+4=18/2 
+PHY111 
+Physics Lab 
+0-0-3 [03] 
+622 
+31 
+20 
+ 
+20 
+1.0 
+20+1=21 
+PHY112 
+Classical Dynamics 
+3-1-0 [11] 
+370 
+100 
+04 
+04 
+-- 
+2.0 
+4+2=6 
+PHY113 
+Classical Electrodynamics 
+3-1-0 [11] 
+386 
+100 
+04 
+04 
+-- 
+2.0 
+4+2=6 
+PHY114 
+Quantum Physics 
+3-1-0 [11] 
+300 
+100 
+03 
+03 
+-- 
+2.0 
+3+2=5 
+PHY115 
+Oscillations And Waves 
+3-1-0 [11] 
+270 
+100 
+03 
+03 
+-- 
+2.0 
+3+2=5 
+ESC111M 
+Fund. Of Computing-I 
+3-1-3 [7] 
+627 
+31 
+20 
+20 
+20 
+4.0 
+20+20+4=44/2 
+ESC112M 
+Fundamentals Of Computing - II 
+3-1-3 [7] 
+617 
+31 
+20 
+20 
+20 
+4.0 
+20+20+4=44/2 
+LIF111 
+Life Sciences 
+2-0-0 [06] 
+600 
+- 
+-- 
+-- 
+-- 
+3.0 
+03.0 
+TA111 
+Engineering Graphics 
+2-0-3 [09] 
+652 
+33 
+20 
+-- 
+20 
+3.0 
+20+3=23 
+ETH111 
+Practical Ethics 
+1-0-0-2[03] 
+620 
+30 
+20 
+
+ 
+2+20=22† 
+ELC111 
+English Language & Communication (Basic) (Scheme) 
+2-1-0-0[09] 
+300 
+Instructor for ELC111/112/113 will be provided by the DOAA office. However, all the 
+departments need to provide TAs to manage this course. 
+ELC112 
+English Language & Communication (Intermediate) (Scheme) 
+2-1-0-0[09] 
+150 
+ELC113 
+English Language & Communication (Advanced) (Scheme) 
+2-1-0-0[09] 
+150 
+Third 
+Semester 
+Courses 
+EME 
+(Basket) 
+Economics Management & Engg. (Three courses) 
+3-0-0-0[09] 
+600 
+
+ 
+ 
+6.0 
+6.0 
+(2.0 per course) 
+ESC201 
+Introduction to Electronics 
+3-1-3 [14] 
+600 
+30 
+20 
+20 
+20 
+4.0 
+24.0 
+TA201 
+Manufact. Proc. I(MSE) 
+1-0-3 [06] 
+600 
+120 
+05 
+-- 
+05 
+2.0 
+07.0 
+TA202 
+Manufact. Proc. II (ME) 
+1-0-3 [06] 
+600 
+120 
+05 
+-- 
+05 
+2.0 
+07.0 
+HSS-I 
+Humanities-I 
+3-1-0 [11] 
+650 
+41 
+16 
+16 
+-- 
+4.0 
+20.0 
+HSS-2 
+HSS-II 
+Humanities-II 
+3-0-0 [09] 
+1800 
+- 
+- 
+- 
+-- 
+4.0 
+04.0 
+ 
+ESO201 
+Thermodynamics 
+3-1-0 [11] 
+300 
+38 
+08 
+08 
+-- 
+2.0 
+08+2.0 
+ESO202 
+Mechanics of Solids 
+3-1-0 [11] 
+300 
+38 
+08 
+08 
+-- 
+2.0 
+08+2.0 
+ESO204 
+Fld. Mech. and Rate Proc. 
+3-1-0 [11] 
+225 
+38 
+06 
+06 
+-- 
+2.0 
+06+2.0 
+ESO225 
+Nat. and Prop. of Mat. 
+2-1-0 [08] 
+90 
+35 
+03 
+03 
+-- 
+1.0 
+03+01 
+ESO206 
+Biotechnology 
+3-0-0 [09] 
+60 
+- 
+- 
+-- 
+-- 
+1.0 
+01.0 
+ESO207 
+Data Structures and Algorithms 
+3-0-0 [12] 
+300 
+- 
+- 
+-- 
+-- 
+2.0 
+02.0 
+ESO208 
+Computational Methods in Engg. 
+3-1-0 [11] 
+350 
+40 
+09 
+09 
+-- 
+2.0 
+09+02 
+ESO213 
+Fundamentals of Earth Sciences 
+3-0-0 [09] 
+50 
+ 
+-- 
+-- 
+-- 
+1.0 
+01.0 
+Science 
+Options 
+MSO202M 
+Complex Variables 
+3-1-0 [06] 
+483 
+100 
+05 
+05/2=2.5 
+-- 
+ 2.0 
+2.5+02 
+MSO203M 
+Partial Diff. Equations 
+3-1-0 [06] 
+650 
+100 
+07 
+07/2=3.5 
+-- 
+2.0 
+3.5+02 
+MSO205 
+Introduction To Probability Theory 
+3-1-0 [11] 
+100 
+100 
+01 
+1 
+- 
+ 1.0 
+01+01 
+HSO201 
+Applied Probability And Statistics 
+3-1-0 [11] 
+200 
+100 
+02 
+2 
+- 
+ 1.0 
+03.0 
+Total Units Required = Science Units = Engineering Science Units = Other Units =
+
+[Page 5]
+Note: 
+1. When a course has tutorials and lab, then the tutor is supposed to take care of both. 
+2. Instruction Units: 
+Only lab course: 1.0; Lecture Course (class size < 60): 1.0; 
+Lecture Course (60 _class size < 150): 1.5; Lecture Course (150 _class size < 600): 2.0 (3 lec/wk), 1.5 (2 lec/wk), 1.0 (1 lec/wk); 
+Lecture Course (600 _class size): 4.0 (3 lec/wk), 3.0 (2 lec/wk), 2.0 (1 lec/wk); Tutorials: 1.0 
+3. TA201 lab capacity is 120 and it is split into 4 sections. One instructor handles all the 4 sections simultaneously. In all other courses the section size may be increased by at most 5. 
+4. “M” indicates modular courses. 
+5. ELC111/ELC112/ELC113 will be managed by DOAA but TAs will be provided by all the departments. 
+6. Based on the number of students and offering of the repeat courses, the report will be updated accordingly. 
+†It should be counted as 20 units only though calculation also includes 
+2 instruction units as per the formula. 
+Third semester courses are tentative. There may be slight changes in certain courses.
+
+[Page 6]
+4. Department/IDP-wise Breakup of Instructor’s and/or Tutors for Core Courses in First (I) Semester during the Year 2023-24 
+Course 
+No. 
+Course Name 
+Units 
+Req. 
+AE 
+BSBE 
+CHE 
+CE 
+CSE 
+EE 
+IME 
+ME 
+MSE 
+CHM 
+MTH 
+PHY 
+HSS 
+ES 
+ECO 
+SEE 
+DP 
+CGS 
+SSA 
+TOTAL 
+ETH111 
+Ethics 
+20.0 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+2 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+20+0 
+CHM111 
+Chemistry Lab 
+20+1=21 
+
+ 
+
+ 
+
+ 
+1+20 
+
+ 
+
+ 
+
+ 
+1+20 
+CHM112M 
+General Chemistry: Physical 
+Chemistry 
+3+6=9/2 
+
+ 
+
+ 
+
+ 
+3+6 
+
+ 
+
+ 
+
+ 
+3+6 
+CHM113M 
+General Chemistry: 
+Inorganic & Organic 
+Chemistry 
+3+6=9/2 
+
+ 
+
+ 
+
+ 
+3+6 
+
+ 
+
+ 
+
+ 
+3+6 
+MTH111M 
+Single Variable Calculus 
+14+4=18/2 
+
+ 
+
+ 
+
+ 
+ 
+4+14 
+
+ 
+
+ 
+
+4+14 
+MTH112M 
+Application Of Single 
+Variable Calculus & Several 
+Variable Calculus 
+14+4=18/2 
+
+ 
+
+ 
+
+ 
+ 
+4+14 
+
+ 
+
+ 
+
+4+14 
+PHY111 
+Physics Laboratory 
+20+1=21 
+
+ 
+
+ 
+
+ 
+
+1+20 
+
+ 
+
+ 
+ 
+1+20 
+PHY112 
+Classical Dynamics 
+4+2=6 
+
+ 
+
+ 
+
+ 
+
+2+4 
+
+ 
+
+ 
+ 
+2+4 
+PHY113 
+Classical Electrodynamics 
+4+2=6 
+
+ 
+
+ 
+
+ 
+
+2+4 
+
+ 
+
+ 
+ 
+2+4 
+PHY114 
+Quantum Physics 
+3+2=5 
+
+ 
+
+ 
+
+ 
+
+3+2 
+
+ 
+
+ 
+ 
+3+2 
+PHY115 
+Oscillations And Waves 
+3+2=5 
+
+ 
+
+ 
+
+ 
+
+3+2 
+
+ 
+
+ 
+ 
+3+2 
+ESC111M 
+Fund. Of Computing – I 
+20+20+4=
+44/2 
+
+ 
+ 
+4+20 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4+20 
+ESC112M 
+Fund. Of Computing – II 
+20+20+4=
+44/2 
+
+ 
+ 
+4+20 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4+20 
+LIF111 
+Introduction To Biology 
+3.0 
+ 
+3+0 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3+0 
+TA111 
+Engineering Graphics 
+20+3=23 
+0+5 
+
+3+6 
+
+ 
+0+9 
+
+ 
+
+ 
+
+ 
+
+3+20 
+ELC111 
+English Language 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ELC112 
+English Language 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ELC113 
+English Language 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+HSS-I 
+Humanities-I 
+20.0 
+
+ 
+
+ 
+
+ 
+
+ 
+4+16 
+
+ 
+
+ 
+4+16 
+HSS-II 
+Humanities-II 
+04.0 
+
+ 
+
+ 
+
+ 
+
+ 
+04 
+
+ 
+
+ 
+04 
+EME 
+Economics Management & 
+Engg. 
+06 
+
+ 
+2+0 
+
+2+0 
+
+ 
+
+ 
+ 
+2+0 
+
+ 
+ 
+6+0 
+ESC201 
+Introduction to Electronics 
+24.0 
+
+ 
+
+4+20 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+4+20 
+TA201 
+Manufact. Proc. (MSE) 
+07.0 
+
+ 
+
+ 
+
+2+5 
+
+ 
+
+ 
+
+ 
+ 
+2+5 
+TA202 
+Manufact. Proc. (ME) 
+07.0 
+
+ 
+
+ 
+ 
+2+5 
+
+ 
+
+ 
+
+ 
+
+2+5 
+ESO201 
+Thermodynamics 
+10.0 
+
+0+4 
+
+ 
+ 
+2+3 
+
+ 
+
+0+1 
+
+ 
+
+2+8 
+ESO202 
+Mechanics of Solids 
+10.0 
+2+0 
+
+0+5 
+
+ 
+ 
+0+3 
+
+ 
+
+ 
+
+ 
+ 
+2+8 
+ESO204 
+Fld. Mech. and Rate 
+08.0 
+0+3 
+ 
+2+2 
+
+ 
+
+ 
+
+ 
+ 
+0+1 
+
+ 
+
+2+6 
+ESO225 
+Nat. and Prop. of Mat. 
+04.0 
+
+ 
+
+ 
+
+1+3 
+
+ 
+
+ 
+
+ 
+ 
+1+3 
+ESO206 
+Biotechnology 
+01.0 
+ 
+1+0 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1+0 
+ESO207 
+Data Structures 
+02.0 
+
+ 
+ 
+2+0 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2+0 
+ESO208 
+Computational Methods in 
+Engg. 
+11.0 
+
+0+3 
+2+4 
+
+ 
+0+2 
+
+ 
+
+ 
+
+ 
+
+2+9 
+ESO213 
+Fundamentals of ES 
+01.0 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+1+0 
+
+ 
+
+1+0 
+MSO202M 
+Complex Variables 
+4.5 
+0+1 
+(0.5) 
+
+ 
+ 
+0+2 
+(1.0) 
+ 
+0+1 
+(0.5) 
+
+2+0 
+0+1 
+(0.5) 
+
+ 
+
+ 
+ 
+2+2.5
+
+[Page 7]
+MSO203M 
+Partial Diff. Equations 
+5.5 
+0+1 
+(0.5) 
+
+0+2 
+(1.0) 
+ 
+0+2 
+(1.0) 
+ 
+0+1 
+(0.5) 
+
+2+0 
+0+1 
+(0.5) 
+
+ 
+
+ 
+ 
+2+3.5 
+MSO205 
+Introduction To Probability 
+Theory 
+2.0 
+
+ 
+
+ 
+
+ 
+ 
+1+1 
+
+ 
+
+ 
+
+1+1 
+HSO201 
+Applied Probability And 
+Statistics 
+3.0 
+
+ 
+0+1 
+
+ 
+
+ 
+
+ 
+ 
+1+1 
+
+ 
+ 
+1+2 
+Total Load Assigned 
+ 
+12 
+5 
+12 
+25 
+47 
+27 
+3 
+26 
+15 
+31 
+25 
+45 
+21 
+4 
+5 
+1 
+1 
+1 
+1 
+ 
+Approximate Faculty Strength 
+- 
+31 
+23 
+26 
+44 
+33 
+54 
+26 
+44 
+28 
+39 
+54 
+48 
+32 
+16 
+20 
+9 
+6 
+5 
+3 
+541 
+Ratio of Load Assigned: Faculty 
+0.38 
+0.21 
+0.46 
+0.56 
+1.42 
+0.5 
+0.11 
+0.59 
+0.53 
+0.79 
+0.46 
+0.93 
+0.65 
+0.25 
+0.25 
+0.1 
+0.16 
+0.20 
+0.33 
+
+● 
+Units are assigned as ‘m + n’, where ‘m’ indicate instructor units and ‘n’ indicates tutor units. 
+● 
+M: The unit assigned is halved for half semester courses 
+● 
+Civil Engineering. Economic Sciences and Industrial Management & Engineering departments will offer one EME courses in each semester. 
+
+ 
+Appendix 
+Important Information Regarding Individual Section Sizes for Various Courses and Work Load 
+1. Tutorial section sizes have been fixed based on last year’s CCC data/report and with inputs from respective HODs. 
+2. One tutor will be assigned per section (normally 38 students) for PHY111 and CHM111 laboratory sessions. 
+3. One tutor will be assigned per day (i.e., per four sections, i.e., ~ 120 students) for TA201 and TA202 labs. 
+4. Tutors assigned for ESC111M, ESC111M and ESC201 tutorials will also take care of the laboratory sessions of the same sections. 
+5. Increasing the number of sections in any course is undesirable. 
+6. Student number in each section may be increased slightly, i.e., up to 40 in sections normally having 35 students and up to 110 in sections normally having 100 
+students to prevent increase in the number of sections. 
+7. The total registration in some courses has to be restricted considering seating capacity of the lecture hall assigned for the course. 
+8. The number of sections in some ESO/SO courses may be reduced in certain cases after registration, in case the number of students registered is less than expected. 
+ 
+*****

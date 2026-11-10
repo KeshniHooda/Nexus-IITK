@@ -1,0 +1,158 @@
+[Page 1]
+Department of Sustainable Energy Engineering 
+Indian Institute of Technology Kanpur 
+ 
+Proposal for Revision of a Course 
+ 
+1. Course Number: SEE612 
+2. Course title: Electrochemical Energy Systems: Materials, Design, and Manufacturing 
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours[0-2]: 0 (A), Credits 
+(3*L+2*T+P+A): 9. 
+
+ Duration of Course: Full Semester 
+4. Proposing Department/IDP: SEE 
+Other Departments/IDPs which may be interested in the proposed course: CHE, MSE, ME CHEM 
+Other faculty members interested in teaching the proposed course: Sudarshan Narayanan, Soumyabrata 
+Roy, Raju Gupta 
+5. Proposing Instructor(s): Lalit Pant 
+6. Course Description: 
+A) Objectives: The objective of this course is to familiarize students with the engineering 
+principles involved in designing, manufacturing, and deploying electrochemical energy 
+systems. The course emphasizes materials processing, component and system design, 
+manufacturing technologies, quality control, reliability, and sustainability, while 
+highlighting the practical trade-offs that govern commercial electrochemical devices. 
+ 
+B) Contents: 
+
+Topic 
+Detailed Contents 
+No. of 
+Lectures 
+1 
+Introduction/ 
+Overview 
+• 
+Course overview. 
+• 
+Role and brief history of electrochemical energy systems 
+1 
+2 
+Electrochemistry 
+overview 
+• 
+Revision of Electrochemistry & electrochemical systems. 
+• 
+Basics of electrochemical cell and redox reactions 
+• 
+OCV, kinetics, transport, etc. 
+2 
+3 
+Basic 
+manufacturing and 
+processing 
+methods 
+• 
+Slurry/ink-based electrode manufacturing methods: slurry 
+making, rheology, pre-processing (ball-
+mill/ultrasonication, etc.) 
+• 
+Coating methods: tape casting, doctor blade, slot-die, 
+spray coating, other advanced methods 
+• 
+Post-processing, transfer, and assembly 
+• 
+Electrolyte polymer processing 
+5 
+4 
+Fuel cells and 
+electrolyzers 
+• 
+Introduction, operation, types 
+• 
+Basic overview, triple phase boundary, role of different 
+layers 
+• 
+Polarization curve, losses, efficiency 
+• 
+Fuel, water, and heat management. System-level 
+management 
+• 
+Manufacturing of PEMFC, AEMFC, and SOFC 
+• 
+Manufacturing of PEMWE, AEMWE, SOWE 
+10 
+5 
+Batteries 
+• 
+Introduction, basic structure, capacity, MTSE, cycling 
+• 
+Primary and secondary batteries, Gibbs phase rule, phase 
+diagrams. 2-phase and 3-phase systems 
+10
+
+[Page 2]
+• 
+Example systems: Zn-carbon, alkaline batteries, Ni-MH, 
+Lead-acid, etc. 
+• 
+Li batteries: Design and manufacturing 
+• 
+Emerging battery chemistries, design, and manufacturing 
+6 
+Supercapacitors 
+• 
+Introduction and working principle 
+• 
+Types, materials, and manufacturing 
+3 
+7 
+Other 
+electrochemical 
+systems and 
+applications 
+• 
+CO2 reduction, photoelectrochemical, NRR 
+• 
+Electrochemical sensing systems 
+4 
+8 
+Material aspects 
+for electrochemical 
+systems 
+• 
+Role of critical minerals. Short overview on availability, 
+mining, extraction, refining, and recycling 
+• 
+Carbon and recycling regulations, mandates 
+• 
+Overview of electrochemical material design 
+4 
+ 
+C) Pre-requisites, if any: None 
+D) Short summary for inclusion in the Courses of Study Booklet: 
+This course provides an overview of electrochemical energy technologies, including batteries, fuel 
+cells, electrolyzers, and supercapacitors, from a systems perspective. Emphasis is placed on 
+materials selection, manufacturing processes, design considerations, and emerging technologies. 
+Students gain familiarity with practical engineering aspects involved in developing electrochemical 
+energy devices. 
+ 
+7. Recommended books: 
+i. J. Bard and L. R. Faulkner, Electrochemical methods: fundamentals and applications, 2nd 
+ed. New York: Wiley, 2001. 
+ii. J. Newman and K. E. Thomas-Alyea, Electrochemical Systems, 3rd ed. New York, USA: 
+Wiley, 2004. 
+iii. R. O’Hayre, S. W. Cha, W. Colella, and F. B. Prinz, Fuel Cell Fundamentals, 3rd ed. 
+New York, USA: Wiley, 2016. 
+iv. R. Huggins. Energy Storage. 2nd ed. Springer International Publishing, 2016. 
+
+Dated: _____02/07/2026_________ Proposer: ______________ 
+
+Dated:_______________ DUGC/DPGC Convener:___________________ 
+
+ 
+The course is approved / not approved 
+
+ 
+Chairman, SUGC/SPGC 
+ 
+Dated:______________________________

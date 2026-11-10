@@ -1,0 +1,38 @@
+[PAGE 1]
+Proposal for a new course
+
+Course title: Spacecraft Attitudinal Dynamics & Control
+Course no.: SPA XYZ
+Proposer : Ishan Sharma, Arun Misra
+Department: Space, Planetary & Astronomical Sciences and Engineering (SPASE)
+Credits: 9 (3-0-0-0)
+Pre-requisite: First year mechanics and calculus.
+
+Course description and contents: This course discusses the attitudinal dynamics and stability of a
+spacecraft. The lecture distribution is given below in terms of 42 lectures of 50 minutes each.
+
+1.  Rotational kinematics: Reference frames; Rotations; Angular displacement parameters; Angular
+velocity; Alternative parameters – 3 lectures
+2.  Attitude motion equations: Rigid body equations; Examples – 3 lectures
+3.  Attitude dynamics of a rigid body: Motion equations; Torque free motion of axisymmetric and
+general rigid body; Stability; Effect of torque; Examples of spacecraft torques; Effect of internal
+dissipation – 12 lectures
+4.  Multispin vehicles: Directional stability; Internal dissipation — 3 lectures
+5.  Spacecraft in orbit: Gravitational stabilization; Spin stabilization; Dual-spin stabilization — 9
+lectures
+6.  Attitude hardware and modeling: Sun sensors; Horizon sensors; Magnetometers; Star sensors;
+Gyroscopes; Momentum & reaction wheels; Magnetic coils; Gas jets — 6 lectures
+7.  Attitude control: Feedback control; Momentum & reaction wheels; Nutation & libration damping;
+Gyroscope; Thrust vectoring — 3 lectures
+8.  Attitude maneuver control: Spin-axis & spin-plane magnetic coil; Gas jet; Inertial guidance;
+Attitude acquisition — 3 lectures
+
+Textbooks and references:
+1.  Hughes, PC. 2004. Spacecraft Attitude Dynamics, Dover.
+2.  Wertz, JR 1978. Spacecraft Attitude Determination And Control. Kluwer
+3.  Wie, B. 2008. Space Vehicle Dynamics and Control (AIAA Education Series)
+4.  Kaplan, MH. 1976. Modern Spacecraft Dynamics and Control. Wiley, NY.
+
+Signature of the Proposer
+This course is APPROVED/NOT APPROVED Convener, DPGC
+This course is APPROVED/NOT APPROVED Chairman, SPGC

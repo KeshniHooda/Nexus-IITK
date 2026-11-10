@@ -1,0 +1,154 @@
+[Page 1]
+Indian Institute of Technology Kanpur 
+Department of Civil Engineering 
+Proposal for a New Course 
+ 
+1. Course No: CE XXX 
+2. Course Title: Slope Stability and Landslides Analysis 
+3. Per Week: Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours: 0 
+ Credits: 9 credits 
+
+ Duration of Course: Full Semester 
+4. Proposing Department/IDP: Civil Engineering 
+ Other Departments/IDPs which may be interested in the proposed course: NA 
+ Other faculty members interested in teaching the proposed course: Dr. Gaurav Tiwari and Dr. 
+Arghya Das 
+5. Proposing Instructor: Dr. Jagdish Prasad Sahoo 
+6. Course Description: 
+A) Objectives: 
+The identification of the stable state of a sloping ground is important to control the geohazards 
+owing to landslides, where a large variety of geomaterials such as rock, debris, and soil move 
+rapidly downward or outward of the sloping ground located in hilly and mountainous regions. This 
+course is designed to provide: (i) an understanding of the mechanism of the instability of slopes 
+leading to landslides; (ii) to understand the importance of geological, geotechnical, hydrological, 
+topographical, meteorological, seismological, and anthropogenic factors towards the instability of 
+slopes and landslides; (iii) to have an idea about monitoring and controlling techniques for 
+identification and prevention of landslides. 
+B) Contents: 
+S. No. 
+Broad title 
+Topics 
+No. of 
+Lectures 
+1 
+Types and 
+states of 
+slopes, and 
+occurrence 
+and 
+classification 
+of landslides 
+Natural and human-made slopes; infinite and finite slopes; 
+concept of instability of slopes; stable, marginally stable, 
+and actively unstable state of slopes; preconditioning, 
+preparatory, and triggering factors involved in the process 
+of instability of slopes and on the occurrence of landslides; 
+landslide 
+classifications 
+based 
+on 
+material 
+type, 
+mechanisms of movement, rate of movement, degree of 
+disruption of the displaced mass, and activity 
+ 05
+
+[Page 2]
+2 
+Factors 
+causing 
+landslides and 
+various types 
+landslides 
+Importance of topographical, geological, geotechnical, 
+hydrological, 
+meteorological, 
+seismological, 
+and 
+anthropogenic factors causing landslides. 
+coseismic landslides, volcanic landslides, glacier 
+landslides, Paleolandslides etc. 
+06 
+3 
+Slope stability 
+analysis 
+Soil slopes: method of slices, friction circle methods, 
+Bishop’s modified method, Janbu’s method, Morgenstern 
+and Price, Spencer’s method considering the influence of 
+groundwater and seismic forces 
+ 
+Rock slopes: Planar failure, wedge failure, circular failure, 
+toppling failure considering the influence of groundwater 
+and seismic forces 
+10 
+4 
+Landslide 
+hazards 
+and 
+risks analysis 
+Hazards associated with various types of landslides based 
+on their volume and velocity, activity, and runout from the 
+landslide inventories and case studies. 
+05 
+5 
+Landslide 
+susceptibility 
+evaluation 
+Instrumentation and monitoring of slopes and slope 
+movements by various techniques 
+like extensometer, tiltmeter, satellite techniques, remote 
+sensing techniques 
+06 
+6 
+Landslide 
+controlling 
+techniques 
+Various strengthening measures, stabilization of slopes by 
+drainage methods, use of synthetic filters, retaining walls, 
+concreting, rock bolting, and rock anchoring. 
+08 
+ 
+C) Pre-requisites, if any. 
+D) Short summary for including in the Courses of Study Booklet: 
+This course will give a broad view of natural and human-made slopes and their stability states 
+leading to landslides, covering the importance of various factors affecting the state of slopes and 
+causing landslides. The course will cover the basics and fundamentals of soil and rock mechanics 
+and their applications in the analysis of slopes and landslides. An understanding of landslide 
+hazards that potentially affect society and landslide risk analysis will help in reducing future 
+hazards and disasters. The course will provide various techniques to evaluate the susceptibility of 
+sloping ground to landslides and the methods to control landslide hazards.
+
+[Page 3]
+7. Recommended books and materials: 
+Reference Books/Manuals: 
+1. Giani, G.P (1992) “Rock Slope Stability Analysis”, A A Balkema. 
+2. Chowdhary Robin (2012) “Geotechnical Slope Analysis”, CRC Press. 
+3. Robert L. Schuster and Raymond I. Krizek (1978) Landslides: Analysis and Control, 
+Transportation Research Board, National Research Council (U.S.). 
+4. Lynn M. Highland, and Peter Bobrowsky (2008). The Landslide Handbook— A Guide 
+to Understanding Landslides. USGS. 
+5. Kyoji Sassa, Hiroshi Fukuoka, Fawu Wang, and Gonghui Wang (2005). Landslides 
+Risk Analysis and Sustainable Disaster Management. Springer 
+ 
+8. Any other remarks: The course is developed for PG students with a background in Civil 
+engineering. However, UG students can register with a background in the course CE252. 
+
+ 
+ 
+Dated: 03/04/2025 
+
+ 
+
+ Proposer: Jagdish Prasad Sahoo 
+ 
+Dated: 
+
+ 
+
+ DPGC Convener: 
+ 
+The course is approved or not 
+
+Chairman, SPGC 
+ 
+Dated:

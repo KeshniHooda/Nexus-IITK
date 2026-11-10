@@ -1,0 +1,169 @@
+[PAGE 1]
+Updated as on 27/06/25
+
+Templates for programs Aerospace Engineering (AE)
+Template for BT Program in Aerospace Engineering
+
+Semester 1 (Group-A/B) Semester 2 (Group-A/B) Semester 3      Semester 4   Semester 5  Semester 6  Semester  Semester 8
+SCHEME-1 (9)          ETH111 (3)           SCHEME-2 EME  SCHEME-3   SCHEME*   SCHEME*   DE-1 (9)   SCHEME* HSS-II
+ELC111/ELC112/ELC113                             (9-11)            HSS-I (9-11)    HSS-II (9)     HSS-II (9)                  (9)
+MTH 111 (6)        MTH 113 (6)           ESO202 (11)     ESC201 (14)  AE311 (9)   AE341 (11)  AE463 (3)  AE462 (4)
+MTH 112 (6)        MTH 114 (6)           ESO204 (11)     ESO201(11)   AE321 (9)              AE461 (7)  AE421 (3)
+PHY 115 (11)          PHY 112 (11)          TA 211 (3)§     AE211 (9)               AE351 (3)   AE451 (3)  OE-5 (9)
+PHY 111 (3)         CHM 111 (3)         AE201M (5)     AE233M (5)   AE333 (9)   AE322 (9)   DE-2 (9)   UGP-2 /DE-3 (9)
+TA 111 (9)             ESC 111 (7)          MSO202M (6)   AE252M (4)   OE-1 (9)    AE334 (9)   UGP-1 (5)  UGP-3 /OE-6 (9)
+CHM 112 (4)           ESC 112 (7)          MSO203M (6)   TA212 (3) §   OE-2 (9)                OE-3 (9)
+CHM 113 (4)            LIF111 (6)             AE209 (8)                             AE 312 (9)   OE-4 (9)
+PE111 (3)             PE112 (3)
+55                   52                    59-61           55-57        54        50         54        43
+Remarks:
+–   At least 9 credits of DE must be taken each from Basket-A and Basket-B as below.
+   Basket-A: AE608 [9], AE641 [9], AE642 [9], AE673 [9], AE690 [9], AE720 [9], AE747 [9], and AE777 [9]
+   Basket-B: AE604 [9], AE618 [9], AE646 [9], AE665 [9], and AE675 [9], AE703 [9]. Other than these, equivalent OE courses may be credited to fulfill Basket-B requirements
+with permission of DUGC Convener. Currently, ESO208, ME630 and EE798Z are the approved OE courses to fulfill Basket-B requirements.
+‒   UGP-2 and UGP-3 may be credited concurrently by a student in the 8th semester.
+‒   UGP-3 (AE498) [9], an optional UGP for both BT and BTH students may be done in place of OE-6 in the 8th semester.
+‒   UGP courses will be floated only when they are due in the template. So, these are restricted to 4th year students only.
+–   05 credits of UGP-1 and up to 27 credits of OE may be waived off from the minimum BT requirements for category-A Dual Degree students.
+–   Up to 36 OE credits may be waived off for students opting either for Dual Degree in another department (category-B) or the Double Major program
+Credit Table for BT Program in Aerospace Engineering
+Course type                    Allowable Credit range   Credit in the department template
+
+Institute Core (IC)             112                 112
+E/SO                         18-45                51*
+Department requirements     144-179                151 (124 DC + 27 DE)
+Openelectives(OE)            51-57                54
+SCHEME                      54-58                 54-58
+Total for 4-year BT/BS          391-420               422-426*
+
+[PAGE 2]
+Template for the BTH program in Aerospace Engineering
+
+Template for 3rd to 8th semester for BTH program in Aerospace Engineering
+
+Semester 3     Semester 4    Semester 5  Semester 6  Semester 7  Semester 8
+SCHEME-2       SCHEME-3       SCHEME* HSS- SCHEME* HSS-  DE-1 (9)      SCHEME* HSS-
+EME (9-           HSS-I (9-11)                                                                                                           II (9)                  II (9)                                             II (9)
+11)
+ESO202 (11)     ESC201 (14)     AE311 (9)    AE341 (11)    AE463 (3)     AE462 (4)
+ESO204 (11)      ESO201(11)     AE321 (9)                 AE461 (7)     AE421 (3)
+TA 211 (3)       AE211 (9)                  AE351 (3)     AE451 (3)     UGP-2 (9)
+AE201M (5)                    AE333 (9)    AE322 (9)     DE-2 (9)       OE-4 (9)
+MSO202M (6)   AE233M (5)     OE-1 (9)     AE334 (9)     UGP-1 (5)     OE-5 (9)
+MSO203M (6)   AE252M (4)     OE-2 (9)      DEH-1        OE-3 (9)      UGP-3 /OE-6 (9)
+AE209 (8)       TA212 (3)                  AE 312 (9)     DEH-2        DEH-3 (9)
+59-61          55-57         54        59         54         61
+For BTH, students should take UGP- 2 and 27 credits of DEH courses which are DEs at 6 or 7 level.
+
+CPI criteria for BTH: 8.0
+
+[PAGE 3]
+Template for the BTM program in Aerospace Engineering
+
+Template for 3rd to 8th semester for BTM program in Aerospace Engineering
+
+Semester 3    Semester 4    Semester 5    Semester 6  Semester 7  Semester 8
+SCHEME-2      SCHEME-3 HSS-I  SCHEME* HSS-   SCHEME* HSS-  MTB-1 (9)     SCHEME*
+EME (9-11)       (9-11)                                                          II (9)                      II (9)                              HSS-II (9)
+ESO202 (11)    ESC201 (14)    AE311 (9)      AE341 (11)    AE463 (3)     AE462 (4)
+ESO204 (11)    ESO201(11)     AE321 (9)                   AE461 (7)     AE421 (3)
+TA 211 (3)      AE211 (9)                    AE351 (3)     AE451 (3)     MTB-4 (9)
+AE201M (5)                  AE333 (9)      AE322 (9)     MTB-2 (9)     MTB-5 (9)
+MSO202M (6)  AE233M (5)     OE-1 (9)       AE334 (9)     UGP-1 (5)     MTB-6 (9)
+MSO203M (6)  AE252M (4)     OE-2 (9)                   MTB-3 (9)
+AE209 (8)      TA212 (3)                   AE 312 (9)     OE-3 (9)
+59-61         55-57        54          50         54         43
+
+[PAGE 4]
+Template for five year dual-degree program in Aerospace Engineering
+
+Template for 3rd to 10th semester of dual-degree program in Aerospace Engineering (Category-A)
+
+Semester 3       Semester 4       Semester 5      Semester 6       Semester 7      Semester 8       Semester 9   Semester 10
+
+SCHEME-2 EME (9-  SCHEME-3 HSS-I     SCHEME* HSS-II    SCHEME* HSS-II      DE-1 (9)          SCHEME* HSS-II      Thesis         Thesis (36)
+11)                    (9-11)                                                                                               (36)                                                   (9)                    (9)                                             (9)
+ESO202 (11)        ESC201A (14)       AE311 (9)        AE341 (11)         AE463 (3)        AE462 (4)
+
+ESO204 (11)       ESO201 (11)       AE321 (9)                          AE461 (7)        AE421 (3)
+
+TA 211 (3)         AE211 (9)                         AE351 (3)          AE451 (3)         OE-3 (9)
+AE201M (5)                         AE333 (9)        AE322 (9)          DE-2 (9)          UGP-2 /DE- 3 (9)
+
+MSO202M (6)     AE233M (5)        OE-1 (9)         AE334 (9)          PG-1 (9)          PG-4 (9)
+
+MSO203M (6)     AE252M (4)        OE-2 (9)                            PG-2 (9)          PG-5 (9)
+
+AE209(8)          TA212 (3)                         AE 312 (9)          PG-3 (9)          PG-6 (9)
+59-61            55-57            54            50              58            61              36          36
+
+Minimum Credit Requirement in MT part:
+–  PG Component: 54 credits
+–  Thesis Component: 72 credits
+
+Remarks:
+
+–  UGP-1 and up to 27 OE credits from the BT minimum requirements may be used to fulfil requirements of the PG course component of the
+MT part.
+–  18 credits of PG DE courses may be substituted from the PG course basket (below) for Category-A Dual Degree students.
+
+PG course basket:
+ME641, ME642, ME671, ME674, ME685, ME723, ME728, ME763, EE650, EE653, EE654, EE705/EE651; AE674/CHE614; AE617/CHE614;
+AE621/ME647; AE614/ME631; AE604/ME630; AE622/ME630; AE605/ME634; AE615/ME634; AE696/ME649;
+
+[PAGE 5]
+AE653/ME617; AE663/ME643; AE754/ME745 (/ means any one of the two courses only)
+
+Template for 7th to 10th semester of dual-degree program in Aerospace
+Engineering (Category B)
+Semester 7         Semester 8           Semester 9         Semester 10
+AE601 (9)             PG-3 (9)                Thesis (36)             Thesis (36)
+PG-1 (9)              PG-4 (9)                PG-6 (9)
+PG-2 (9)              PG-5 (9)
+27                27                 45                36
+
+Minimum Credit Requirement in MT part:
+–  PG Component: 63 credits
+–  Thesis Component: 72 credits
+
+Remarks:
+
+Up to 36 OE credits may be waived from the parent department’s BT/BS graduation requirements to fulfil the PG requirements of Dual Degree.
+
+[PAGE 6]
+Template for double major: second major in Aerospace Engineering
+
+Double Major – Aerospace Engineering
+Pre-Requisites (33)
+ESO201(11)*
+ESO202(11)*
+ESO204(11)*
+AE Mandatory Courses (85)
+Odd Semester (45)     Even Semester (40)
+AE209(8)*              AE211 (9)
+AE311(9)              AE252 (4)
+AE321(9)              AE341 (11)
+AE333(9)              AE351 (3)
+AE451(3)              AE322 (9)
+AE461(7)              AE462 (4)
+
+Remarks:
+
+–  *Other equivalent courses may be considered in consultation with AE DUGC
+
+–  Up to 36 OE credits may be waived from the parent department BT/BS graduation requirements to fulfil requirements of Double Major
+
+–   Pre-requisite courses are mandatory to complete DM
+
+[PAGE 7]
+Minors in Aerospace Engineering
+
+Minor – Aerospace Engineering
+AE Compulsory Course
+AE201M (5)
+Any THREE:              Pre-Requisites
+AE211 (9)          ESO204 OR ME231
+AE321 (9)              NONE
+AE333 (9)              NONE
+AE341 (11)               AE311
+32-34

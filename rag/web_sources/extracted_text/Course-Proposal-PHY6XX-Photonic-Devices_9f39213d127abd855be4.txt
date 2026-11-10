@@ -1,0 +1,100 @@
+[Page 1]
+Indian Institute of Technology, Kanpur 
+Proposal for a New Course 
+1. Course No: A PHY600 level elective number requested. 
+2. Course Title: Photonic Devices 
+3. No. of Lectures per week: 3 of 50 minutes duration or 2 of 75 minutes duration 
+Credits (3‐0‐0‐9): 09 
+
+Duration of Course: Full Semester 
+4. Proposing Department/IDP : PHY. 
+Other Departments/IDPs which may be interested in the proposed course: CELP, EE. 
+5. Proposing Instructor: R. Vijaya (PHY) 
+6. Course Description: 
+A) Overview: The course aims at providing the knowledge base of modern photonic devices through an in‐
+depth analysis of the underlying physical concepts and the necessary discussions on technological 
+challenges. The course is targeted at students who are inclined towards practical aspects of photonics 
+along with the basics. 
+B) Course highlights: 
+* Strong emphasis on the theoretical concepts of Photonics 
+* Introduction to modern photonic technologies 
+* Sufficient importance to active and passive photonic devices 
+* Discussion on practical aspects and challenges in characterizing photonic devices 
+ C) Contents: 
+S. No. Broad theme 
+Contents 
+Lectures (of 50 
+min. duration) 
+1 
+Light‐matter 
+interaction – a 
+review 
+Dispersion in dielectrics, consequence of interference and 
+diffraction 
+5 
+2 
+Periodic structures 
+as optical devices 
+Optical multi‐layers, diffraction gratings, photonic crystals 
+5 
+3 
+Fiber optic devices 
+Modal theory, devices for wavelength‐, direction‐ and 
+polarization‐selectivity, Bragg gratings 
+6 
+4 
+Integrated‐optic 
+devices 
+Coupled‐mode theory, waveguides and couplers in silicon 
+platform 
+6 
+5 
+Light source 
+Significance of using LED and laser sources 
+4 
+6 
+Electro‐optic and 
+optoelectronic 
+devices 
+Modulators, photodetectors and solar cells 
+4 
+7 
+Novel devices 
+Plasmonic sensors, slow light devices 
+5 
+8 
+Device 
+characterization 
+Measurement techniques in time‐ and spectral‐domain 
+5 
+Total number of lectures: 
+40 
+D) Pre‐requisites: Basic electromagnetic theory and basic optics/photonics. 
+E) Short summary for including in the Courses of Study Booklet: Light‐matter interaction – a review, periodic 
+structures such as Bragg reflectors, gratings and photonic crystals, fiber‐optic devices, integrated‐optic devices, active 
+devices, sensors, measurement and characterization techniques.
+
+[Page 2]
+7. Target group: Masters and doctoral students of PHY, CELP and EE. 
+8. Recommended books: 
+I. Thomas P.Pearsall, Photonics essentials, 2nd Ed., Mc‐Graw Hill (2010) 
+II. Jia‐Ming Liu, Photonic Devices, Cambridge University Press (2005) 
+III. Grote and Venghaus, Fiber optic communication devices, Springer (2001) 
+IV. Zeev Zalevsky and Ibrahim Abdulhalim, Integrated nanophotonic devices, 2nd Ed., Elsevier (2014) 
+V. Larry A. Coldren, Scott W. Corzine and Milan L. Masanovic, Diode lasers and photonic integrated circuits, 2nd 
+Ed., John‐Wiley and Sons (2012) 
+VI. Mark A. Mentzer, Applied optics fundamentals and device applications, CRC Press (2011) 
+VII. A. Dmitriev (Ed.), Nanoplasmonic sensors, Springer (2012) 
+VIII. Jacob Khurgin and Rodney Tucker, Slow light, CRC Press (2008). 
+ 
+___________________________________________________________________________________________ 
+
+Dated: 2 March, 2024. Proposer: R. Vijaya. ________________ 
+Forwarded: 
+Dated: _______________ DPGC Convener (PHY):___________________ 
+
+The course is approved / not approved 
+____________________________________ 
+Chairman, SPGC 
+Dated:______________________________ 
+8/3/24

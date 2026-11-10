@@ -1,0 +1,142 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+
+Proposal for a New Course
+
+1. Course No: ECO703
+2. Course Title: Statistical Methods
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours [0-2]: 0 (A), Credits
+(3*L+0*T+0*P+0*A): 9 Credits
+4. Duration of Course: Full Semester
+5. Proposing Department/IDP: Economic Sciences
+Other Departments/IDPs which may be interested: None
+Other faculty members interested in teaching the proposed course: -
+6. Proposing Instructor(s): Faculty members of Economic Sciences department
+7. Course Description:
+
+A) Objectives:
+This course provides a rigorous introduction to probability theory and mathematical statistics. The
+objective is to equip students with a solid mathematical foundation in probability and statistical inference
+essential for advanced research and data-driven applications across disciplines. Upon completion,
+students will be able to apply probability theory to model uncertainty in complex systems, derive
+properties of estimators including bias, variance, and asymptotic distributions, and construct and
+interpret hypothesis tests and confidence intervals. Students will also develop a thorough understanding
+of the theoretical foundations underlying modern inferential methods, gain hands-on familiarity with
+simulation-based techniques including bootstrap and MCMC, and be prepared to critically engage with
+methodological literature in leading academic journals.
+
+B) Contents:
+
+No. of
+S. No      Broad Title                                  Topics
+Lectures*
+
+Part A: Probability Theory
+
+1.    Basic Probability      Sample spaces and events. Probability Kolmogorov axioms and
+Theory                 properties. Conditional probability. Independence. Bayes'
+theorem.                                                  3
+Possible Applications: Wage and education distributions; stock
+market returns; recession probabilities.
+
+2.   Random Variables      Distribution and density functions, key discrete and continuous
+and expectation        distributions. Bivariate, multivariate, and conditional
+distributions and expectations. Transformations and moment
+generating functions. Expected values, variance, covariance, and
+related inequalities.                                         6
+
+Possible Applications: Modeling unemployment duration;
+income and wealth distributions; asset returns, Wage-education
+relationships; portfolio risk; law of iterated expectations in
+
+~ 1 ~
+
+[PAGE 2]
+forecasting
+
+3.   Convergence of       Types of convergence. The Law of Large Numbers. The Central        4
+Random Variables      Limit Theorem. The Delta method.
+Possible Applications: Consistency of sample averages;
+asymptotic approximations for economic estimators.
+
+Part B: Statistical Theory
+
+4.    Sampling, Models    Random samples, estimators, and their sampling distributions,
+and Estimation         bias, variance, mean squared error, and best unbiased
+estimators, standard errors and the chi-square, t, and F
+distributions arising from normal samples. Parametric and
+nonparametric models. The empirical distribution function.
+Statistical functionals and plug-in estimators. Bootstrap principle:
+7                              variance estimation and confidence intervals (normal, pivotal,
+and percentile).
+Possible Applications: Estimating average treatment effects;
+wage gaps; returns to education, Gini coefficient; poverty rates;
+quantiles of income distribution, standard errors for inequality
+measures, inference with small samples in labor economics
+
+5.    Parametric inference:  The likelihood function and maximum likelihood estimation,
+MLE and method of    properties of MLEs including consistency, asymptotic normality,
+moments              optimality, Fisher information, and behavior under model
+misspecification, multiparameter models and Kullback–Leibler
+divergence. Method of moments: moment estimators, smooth       5
+functions of moments, parametric moment estimation, and
+generalized method of moments.
+Possible Applications: Discrete choice models; duration models
+for unemployment spells.
+
+6.    Parametric inference:  The Wald test. p-values and their interpretation. The likelihood
+Hypothesis Testing     ratio test. Permutation tests. Multiple testing. Confidence
+and confidence         interval construction, confidence intervals for mean and
+5
+intervals               variance, asymptotic confidence intervals, interpretation and use
+Possible Applications: Testing economic hypotheses; policy
+evaluation; specification testing
+
+7.     Statistical Decision     Decision theoretic framework, Loss and risk functions. Bayes and     3
+Theory              minimax estimators. Admissibility. Stein's paradox and shrinkage.
+Possible Applications: Forecasting with many predictors;
+regularization in high-dimensional settings.
+
+8    Simulation Methods   Monte Carlo integration. Importance sampling. Introduction to      4
+MCMC: Metropolis-Hastings algorithm
+Possible Applications: Evaluating estimator performance;
+Bayesian computation in macroeconometrics.
+
+9.   Nonparametric       The bias-variance tradeoff. Histograms. Kernel density
+Density Estimation     estimation. Bandwidth selection.
+2
+Possible Applications: Estimating wage densities; income and
+wealth distributions; earnings mobility.
+
+~ 2 ~
+
+[PAGE 3]
+*50-minute lecture each, total of 39 lectures
+
+C) Pre-requisites: None
+
+D) Short summary for Courses of Study Booklet:
+"This course covers probability theory and mathematical statistics at the postgraduate level. Topics
+include probability foundations, random variables and distributions, convergence concepts, sampling
+theory, maximum likelihood and method of moments estimation, hypothesis testing, confidence
+intervals, simulation-based inference, and nonparametric density estimation. The course provides
+essential preparation for advanced work in statistical modeling, inference, and data analysis across
+disciplines."
+
+8. Recommended Books:
+●  Hansen, Bruce E. Probability and Statistics for Economists. Princeton University Press, 2022.
+●  Wasserman, L. All of Statistics: A Concise Course in Statistical Inference, Springer.
+●   Casella, George, and Roger L. Berger. Statistical Inference. 2nd Edition, Cengage Learning, 2002.
+●   Stachurski, John. A Primer in Econometric Theory. MIT Press, 2016.
+
+Dated: ________________          Proposer: ________________
+
+Dated: ________________        DUGC/DPGC Convener: ________________
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC
+
+Dated:
+
+~ 3 ~

@@ -1,0 +1,160 @@
+[Page 1]
+Indian Institute of Technology, 
+Kanpur Proposal for a New Course 
+ 
+1. Course No: EE698I (Old Course No) 
+ 
+2. Course Title: Mixed-signal IC design 
+ 
+3. Per Week Lectures: 3 (L), Tutorial: (T), Laboratory: _ _(P), Additional Hours[0-2]: 
+(A), Credits (3*L+2*T+P+A): 9 Duration of Course: Full Semester 
+4. Proposing Department/IDP: EE 
+5. Proposing Instructor(s): R. S. Ashwin Kumar (ashwinrs@iitk.ac.in) 
+Other faculty members interested in teaching the proposed course: 
+Imon Mondal (imon@iitk.ac.in), Chithra (chithra@iitk.ac.in) 
+
+6. Course Description: 
+ 
+Objectives: : At the end of the course, the students should be able to i) understand 
+basics of sampling, quantization, estimating power spectrum, ii) Switched-capacitor 
+circuits, settling, noise, iii) Design Nyquist rate analog-to-digital converters like Flash, 
+SAR, Pipelined, and noise-shaping ADCs (like delta-sigma ADCs). 
+ 
+Contents (preferably in the form of 5 to 10 broad titles): 
+ 
+S. 
+No. 
+Broad 
+Title 
+Topics 
+No. 
+of 
+Lectures 
+(1.5 
+hours 
+each) 
+1. 
+Mathematical 
+understanding 
+& 
+characterizing 
+an ADC 
+Mathematical understanding of sampling, 
+quantization, need for discrete Fourier 
+transform (DFT), spectral leakage, 
+windowing; Dynamic performance metrics: 
+SQNR, SNDR, ENOB; Static performance 
+metrics: DNL & INL 
+4 
+2. 
+Circuit 
+implementation 
+of sampling 
+network 
+Implementation of switch, nMOS, pMOS, 
+CMOS, gate-bootstrapped switch, linearity of 
+switches; Non-idealities: noise, charge 
+injection; Bottom-plate sampling, and 
+evolution of switched-capacitor amplifier 
+3 
+3. 
+Switched-
+capacitor 
+circuits: 
+Analysis & 
+tackling non-
+idealities 
+Understanding charge conservation, 
+analyzing switched-capacitor circuits, basics 
+of z-transform, deriving transfer functions, 
+switched-capacitor integrators, amplifiers, 
+correlated-double sampling, correlated level 
+shifting, N-path filters. 
+5
+
+[Page 2]
+4. 
+Circuit 
+implementation 
+of comparators,
+Regenerative latches, StrongARM latch, 
+basics of comparators. 
+2 
+ 
+5. 
+Flash ADC & 
+techniques to 
+improve flash 
+ADC resolution 
+Flash ADC implementation, ways for 
+reference subtraction, interpolation & folding 
+(in both time & voltage domain) to improve 
+the resolution of flash ADC 
+3 
+6. 
+SAR ADC 
+Basics of SAR ADC, asynchronous 
+operation, redundancy to tackle incomplete 
+DAC settling, split C-DAC to reduce 
+capacitor area, digital calibration to tackle 
+capacitor mismatches. 
+3 
+7. 
+Pipelined ADC Multi-step & pipelined ADC, Redundancy, 
+circuit implementation, noise & linearity, 
+digital calibration examples 
+3 
+8. 
+Noise-shaping 
+ADCs 
+Oversampling & noise-shaping, error-
+feedback structure, delta-sigma modulation, 
+system-level and circuit design, noise-
+shaping SAR. 
+3 
+
+Total 
+Lectures (1.5 
+hours each) 
+26 
+ 
+A) Pre-requisites: Consent of the Instructor 
+ 
+B) Short summary for including in the Courses of Study Booklet: Sampling & 
+quantization: mathematical understanding, characterizing ADCs: spectral analysis, 
+signal to quantization noise ratio, effective no. bits, static non-linearity, sampling 
+switch, switched-capacitor circuits, tackling non-idealities in switched-capacitor 
+circuits, regenerative latches, flash ADC, voltage & time domain interpolation, 
+successive approximation register (SAR) ADC, pipelined ADCs, noise-shaping ADCs. 
+ 
+7. Recommended reference: There is no single reference for this. 
+It will be based on multiple journal articles that will be shared along with the 
+relevant lectures. 
+ 
+Evaluation Policy: Mini-quizzes: 20%; Midsem: 25%; Endsem:30%; Design projects 
+(two): 25% (This is the rough distribution; the exact distribution can change) 
+ 
+8. Course strength last three times: 
+ 
+Jan 2022: 21; July 2023: 6; July 2024: 14
+
+[Page 3]
+Dated: 14/02/2025 
+ 
+ Proposer: R. S. Ashwin Kumar
+
+ 
+
+ 
+
+ Dated: DUGC/DPGC Convener: 
+
+ 
+ 
+The course is approved / not 
+approved 
+
+ 
+Chairman, SUGC/SPGC 
+
+Dated:

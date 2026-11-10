@@ -1,0 +1,1460 @@
+[Page 1]
+Report of Core Curriculum Committee 
+Semester Second Year 2022 - 23 
+
+ 
+
+1. Guidelines for Drawing Instructors and Tutors from Various Departments 
+ 
+1.1 List of Core Courses and respective Departments handling them as per MA Committee When Instructors are drawn from Multiple Departments 
+
+Course No. and Title 
+Department 
+2020-21 & 2021-22 
+2022-23 & 2023-24 
+ 2024-25 & 2025-26 
+ 2026-27 & 2027-28 
+TA111(Engineering Graphics) 
+ME 
+CE 
+AE 
+CE 
+ESO201(Thermodynamics) 
+CHE 
+ME 
+CHE 
+AE 
+ESO202(Solid Mechanics) 
+CE 
+AE 
+CE 
+ME 
+ESO204(Fluid Mechanics) 
+AE 
+CHE 
+ME 
+CHE 
+HSS –I 
+HSS/ECO 
+HSS/ECO 
+HSS/ECO 
+HSS/ECO 
+HSS-2 
+HSS/ECO 
+HSS/ECO 
+HSS/ECO 
+HSS/ECO 
+
+1.2 List of Core Courses and respective Departments handling them as per MA Committee When Instructors are drawn from a Fixed Department 
+
+Department 
+Course(s) 
+BSBE 
+LIF111, ESO206 
+CHM 
+CHM111, CHM112, CHM113, CSO201, CSO202, CSO203 
+CE 
+ESO208 
+CHE 
+ESC113 
+CSE 
+ESC111, ESC112, ESO207 
+EE 
+ESC201, ESO203 
+HSS 
+ELC111, ELC112, ELC113, HSS-I, ENG112, HSS-II,COM200, 
+ME 
+TA202 
+MSE 
+TA201 
+MTH 
+MTH113, MTH114, MSO201, 
+PHY 
+PHY111, PHY112, PHY113, PHY114, PHY115, PSO201 
+ECO 
+HSO201
+
+[Page 2]
+1.3 List of Core Courses and Respective Departments that will provide Theory and Lab Tutors / Instructors 
+ 
+Course no. 
+Course Name 
+Departments That Provide Tutors / Lab Instructors 
+CHM111 
+Chemistry Laboratory 
+CHM 
+CHM112 
+General Chemistry: Physical Chemistry 
+CHM 
+CHM113 
+General Chemistry: Inorganic & Organic Chemistry 
+CHM 
+MTH113 
+Linear Algebra 
+MTH 
+MTH114 
+Ordinary Differential Equations 
+MTH 
+PHY111 
+Physics Laboratory 
+PHY 
+PHY112 
+Classical Dynamics 
+PHY 
+PHY113 
+Classical Electrodynamics 
+PHY 
+PHY114 
+Quantum Physics 
+PHY 
+PHY115 
+Oscillations And Waves 
+PHY 
+ESC111 
+Fundamentals Of Computing – I 
+CSE 
+ESC112 
+Fundamentals Of Computing – Ii 
+CSE 
+ESC113 
+Computer Methods For Engineers 
+CHE 
+LIF111 
+Introduction To Biology 
+BSBE 
+TA111 
+Engineering Graphics 
+CE, AE, ME 
+ETH111 
+Practical Ethics 
+By All dept. 
+ELC111 
+English Language & Communication (Basic) (Scheme) 
+DOAA 
+ELC112 
+English Language & Communication (Intermediate) (Scheme) 
+ DOAA 
+ELC113 
+English Language & Communication (Advanced) (Scheme) 
+DOAA 
+ESC201 
+Electronics 
+EE 
+TA201 
+Manufacturing Lab 
+MSE 
+TA202 
+Mechanical Lab 
+ME 
+COM200 
+Communication 
+CE, IME, HSS, ES 
+HSS-I(2) 
+Humanities-I 
+HSS 
+ESO201 
+Thermodynamics 
+AE, CHE, ME 
+ESO202 
+Mechanics of Solids 
+AE, CE, ME 
+ESO203 
+Intro Electrical Engg. 
+EE 
+ESO207 
+Data Structures 
+CSE 
+HSO201A 
+Applied Probability And Statistics 
+ECO 
+MSO201A 
+Probability And Statistics 
+MTH, EE, CSE 
+PSO201A 
+Quantum Physics 
+PHY 
+HSO201A 
+Applied Probability And Statistics 
+ECO 
+CSO201A 
+Organic Chemistry: Fundamentals And Applications 
+CHM
+
+[Page 3]
+CSO202A 
+Atoms, Molecules And Photons 
+CHM 
+CSO203A 
+Inorganic Molecules, Materials & Medicine 
+CHM 
+
+Note:Table constructed using data from previous years. 
+ 
+2.Estimate of Number of Students in Core Courses in Second (II) Semester during the Year 2022-23 
+ 
+Course Group 
+Course No. 
+Course Name 
+Estimated 
+Number of 
+New Students 
+No. of Students 
+Failed in 2021-22(II) 
+No. of Students 
+Registered in 2021-22(II) 
+Final Estimate 
+for 
+2022-23(II) 
+Second 
+Semester 
+ Courses 
+CHM111 
+Chemistry Laboratory 
+625 
+- 
+- 
+625 
+CHM112 
+General Chemistry: Physical Chemistry 
+625 
+- 
+- 
+625 
+CHM113 
+General Chemistry: Inorganic & Organic Chemistry 
+625 
+- 
+- 
+625 
+MTH113 
+Linear Algebra 
+1250 
+- 
+- 
+1250 
+MTH114 
+Ordinary Differential Equations 
+1250 
+- 
+- 
+1250 
+PHY111 
+Physics Laboratory 
+625 
+- 
+- 
+650 
+PHY112 
+Classical Dynamics 
+ 342 
+ 
+- 
+- 
+342 
+PHY113 
+Classical Electrodynamics 
+367 
+- 
+- 
+367 
+PHY114 
+Quantum Physics 
+284 
+- 
+- 
+284 
+PHY115 
+Oscillations And Waves 
+217 
+- 
+- 
+217 
+ESC111 
+Fundamentals Of Computing - I 
+625 
+- 
+- 
+625 
+ESC112 
+Fundamentals Of Computing - II 
+500 
+- 
+- 
+500 
+ESC113 
+Computer Methods For Engineers 
+125 
+- 
+- 
+125 
+LIF111 
+Introduction To Biology 
+625 
+- 
+- 
+625 
+TA111 
+Engineering Graphics 
+625 
+- 
+- 
+625 
+ETH111 
+Practical Ethics 
+625 
+- 
+- 
+625 
+ELC111 
+English Language & Communication (Basic) (Scheme) 
+ 
+- 
+- 
+- 
+ELC112 
+English Language & Communication (Intermediate) 
+(Scheme) 
+ 
+- 
+- 
+- 
+ELC113 
+English Language & Communication (Advanced) (Scheme) 
+ 
+- 
+- 
+- 
+Fourth 
+Semester 
+ Courses 
+ESC201 
+Electronics 
+600 
+08 
+588 
+600 
+TA201 
+Manufacturing Lab 
+600 
+04 
+570 
+600 
+TA202 
+Mechanical Lab 
+650 
+26 
+632 
+650 
+COM200 
+Communication Skill 
+425 
+02 
+384 
+425 
+Engineering 
+Science 
+ESO201 
+Thermodynamics 
+210 
+41 
+201 
+210 
+ESO202 
+Mechanics of Solids 
+275 
+65 
+271 
+275
+
+[Page 4]
+options 
+ESO203 
+Intro Elect. Engineering 
+350 
+11 
+333 
+350 
+ESO207 
+Data Structures 
+250 
+7 
+186 
+250 
+Science 
+options 
+MSO201 
+Probability And Statistic 
+400 
+26 
+471 
+425 
+PSO201 
+Quantum Physics Organic 
+150 
+15 
+170 
+150 
+CSO202 
+Atoms, Molecules & Photons 
+200 
+01 
+192 
+200 
+CSO203 
+Inorganic Molecules, Materials & Medicine 
+200 
+- 
+271 
+200 
+HSO201 
+Applied Probability And Statistics 
+300 
+20 
+205 
+300 
+ 
+3. Teaching Support Requirement 
+ 
+Course No. 
+Course Name 
+Units 
+No. of Students 
+(Estimate) 
+Student per 
+Section(Appx) 
+Number of 
+Total Units 
+(Inst.+tut/lab) 
+Theory Tutors 
+Lab. Tutors 
+Instruction Units 
+CHM111 
+Chemistry Laboratory 
+0-0-3[3] 
+625 
+32 
+- 
+20 
+1 
+1+20=21 
+CHM112 
+General Chemistry: Physical 
+2-1-0[8] 
+625 
+100 
+6 
+- 
+3 
+3+6=9/2 
+CHM113 
+General Chemistry: Inorganic & 
+2-1-0[8] 
+625 
+100 
+6 
+- 
+3 
+3+6=9/2 
+MTH113 
+Linear Algebra 
+3-1-0[6] 
+1250 
+100 
+12 
+- 
+4 
+4+12=16/2 
+MTH114 
+Ordinary Differential Equations 
+3-1-0[6] 
+1250 
+100 
+12 
+ 
+4 
+4+12=16/2 
+PHY111 
+Physics Laboratory 
+0-0-3[3] 
+625 
+32 
+ 
+20 
+1 
+1+20=21 
+PHY112 
+Classical Dynamics 
+3-1-0[11] 
+ 342 
+100 
+3 
+- 
+2 
+2+3=5 
+PHY113 
+Classical Electrodynamics 
+3-1-0[11] 
+367 
+100 
+4 
+- 
+2 
+2+4=6 
+PHY114 
+Quantum Physics 
+3-1-0[11] 
+284 
+100 
+3 
+- 
+2 
+2+3=5 
+PHY115 
+Oscillations And Waves 
+3-1-0[11] 
+217 
+100 
+2 
+- 
+2 
+2+2=4 
+ESC111 
+Fundamentals Of Computing - I 
+3-1-3[7] 
+625 
+32 
+20 
+20 
+4 
+4+20+20=44/2 
+ESC112 
+Fundamentals Of Computing - Ii 
+3-1-3[7] 
+520 
+32 
+17 
+17 
+2 
+2+17+17=36/2 
+ESC113 
+Computer Methods For Engineers 
+3-1-3[7] 
+105 
+33 
+3 
+3 
+1.5 
+1.5+3.0=4.5 
+LIF111 
+Introduction To Biology 
+2-0-0[6] 
+625 
+- 
+
+3.0 
+03.0 
+TA111 
+Engineering Graphics 
+2-0-3[9] 
+625 
+32 
+ 
+20 
+2.0 
+2+20=22 
+ETH111 
+Practical Ethics 
+1-0-0[3] 
+625 
+32 
+20 
+ 
+2.0 
+2+20=22† 
+ELC111 
+Eng. Language & Com. (Basic) 
+2-1-1[9] 
+Instructor for ELC111/112/113 will be provided by the DOAA office. However, all the departments need to 
+provide TAs to manage this course. 
+ELC112 
+Eng. Lang. & Com.(Intermediate) 
+2-1-1[9] 
+ELC113 
+Eng. Lang. & Com. (Advanced) 
+2-1-1[9] 
+ESC201A 
+Electronics 
+3-1-3[14] 
+600 
+30 
+20 
+20 
+4 
+4+20=24 
+TA201A 
+Manufacturing Lab 
+1-0-3[6] 
+600 
+120 
+5 
+5 
+2 
+2+5=7
+
+[Page 5]
+TA202A 
+Mechanical Lab 
+1-0-3[6] 
+650 
+120 
+5 
+5 
+2 
+2+5=7 
+COM200 
+Communication Skill 
+1-0-2[5] 
+425 
+35 
+ 
+12 
+1 
+1+12=13 
+ESO201A 
+Thermodynamics 
+3-1-0[11] 
+210 
+35 
+6 
+- 
+2 
+2+6=8 
+ESO202A 
+Mechanics of Solids 
+3-1-0[11] 
+275 
+40 
+7 
+ 
+2 
+2+7=9 
+ESO203A 
+Intro Elect. Engineering 
+3-1-2[13] 
+350 
+35 
+10 
+10 
+2 
+2+10=12 
+ESO207A 
+Data Structure 
+3-0-0[09] 
+250 
+
+ 
+2 
+2+0=2 
+MSO201A 
+Probability and Statist 
+3-1-0[11] 
+400 
+100 
+4 
+ 
+2 
+2+4=6 
+PSO201A 
+Quantum Mechanics 
+2-1-0[8] 
+150 
+38 
+4 
+ 
+1.5 
+1.5+4=5.5 
+CSO202A 
+Atoms, Molecules, Photons 
+3-1-0[11] 
+200 
+35 
+6 
+ 
+2 
+2+6=8 
+CSO203A 
+Inorg. Molecules, Mat. & Medicine 
+3-1-0[11] 
+200 
+35 
+6 
+ 
+2 
+2+6=8 
+HSO201A 
+Applied Prob. & Stat. 
+3-1-0[11] 
+300 
+100 
+3 
+ 
+2 
+2+3=5 
+HSS-I 
+Humanities-I 
+3-1-0[11] 
+600 
+40 
+15 
+ 
+4 
+4+15 
+HSS-II 
+Humanities -II 
+3-0-0[9] 
+1450 
+- 
+
+4 
+4+0 
+Note:1. When a course has tutorials and lab, then the tutor is supposed to take care of both. 
+2. Instruction Units: 
+Only lab course: 1.0; Lecture Course (class size < 60): 1.0; 
+Lecture Course (60 _class size < 150): 1.5; Lecture Course (150 _class size < 600): 2.0 (3 lec/wk), 1.5 (2 lec/wk), 
+1.0 (1 lec/wk); Lecture Course (600 _class size): 4.0 (3 lec/wk), 3.0 (2 lec/wk), 2.0 (1 lec/wk); Tutorials: 1.0 
+3. TA201 lab capacity is 90 and it is split into 3 sections. One instructor handles all the 3 sections simultaneously. In all other courses the section size may be increased by at most 5. 
+
+ 
+ 
+†It should be counted as 20 units only though calculation also includes 2 
+instruction units as per the formula.
+
+[Page 6]
+4. Department/IDP-wise Breakup of Instructor’s and/or Tutors for Core Courses in Second (II) Semester during the Year 2022-23 
+Course 
+Number 
+Course Name 
+Unit Req 
+AE 
+BSBE 
+CHE 
+CE 
+CSE 
+EE 
+IME 
+ME 
+MSE 
+CHM 
+MTH 
+PHY 
+HSS 
+ES 
+ECO 
+SEE 
+DP 
+CGS 
+SSA 
+TOTAL 
+CHM111A 
+Chemistry Laboratory 
+1+20=21 
+
+ 
+
+ 
+
+ 
+1+20 
+
+ 
+
+ 
+
+ 
+1+20=21 
+CHM112A 
+(M) 
+General Chemistry; 
+Physical Chemistry 
+3+6=9/2 
+
+ 
+
+ 
+
+ 
+3+6 
+
+ 
+
+ 
+
+ 
+3+6=9/2 
+CHM113A 
+(M) 
+General Chemistry : 
+Inorg. & Org. Chem 
+3+6=9/2 
+
+ 
+
+ 
+
+ 
+3+6 
+
+ 
+
+ 
+
+ 
+3+6=9/2 
+MTH113A 
+(M) 
+Linear Algebra 
+4+12 
+=16/2 
+
+ 
+
+ 
+
+ 
+ 
+4+12 
+
+ 
+
+ 
+
+4+12 
+=16/2 
+MTH114A 
+(M) 
+Ordinary Differential 
+Equations 
+4+12 
+=16/2 
+
+ 
+
+ 
+
+ 
+ 
+4+12 
+
+ 
+
+ 
+
+4+12 
+=16/2 
+PHY111A 
+Physics Laboratory 
+1+20=21 
+
+ 
+
+ 
+
+ 
+
+1+20 
+
+ 
+
+ 
+ 
+1+20=21 
+PHY112A 
+Classical Dynamics 
+2+3=5 
+
+ 
+
+ 
+
+ 
+
+2+3 
+
+ 
+
+ 
+ 
+2+3=5 
+PHY113A 
+Classical 
+Electrodynamics 
+2+4=6 
+
+ 
+
+ 
+
+ 
+
+2+4 
+
+ 
+
+ 
+ 
+2+4=6 
+PHY114A 
+Quantum Physics 
+2+3=5 
+
+ 
+
+ 
+
+ 
+
+2+3 
+
+ 
+
+ 
+ 
+2+3=5 
+PHY115A 
+Oscillations And 
+Waves 
+2+2=4 
+
+ 
+
+ 
+
+ 
+
+2+2 
+
+ 
+
+ 
+ 
+2+2=4 
+ESC111A 
+(M) 
+Fundamentals Of 
+Computing – I 
+4+20+20 
+=44/2 
+
+ 
+ 
+4+20 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4+20+20 
+=44/2 
+ESC112A 
+(M) 
+Fundamentals Of 
+Computing – II 
+2+17+17 
+=36/2 
+
+ 
+ 
+2+17 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2+17+17 
+=36/2 
+ESC113A 
+(M) 
+Computer Methods 
+For Engineers 
+1.5+3+3 
+=4.5/2 
+
+1.5+3 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+1.5+3+3 
+=4.5 
+LIF111A 
+Introduction To 
+Biology 
+3+0=3 
+ 
+3+0 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 
+TA111A 
+Engineering Graphics 
+2+20 
+0+5 
+
+2+6 
+
+ 
+0+9 
+
+ 
+
+ 
+
+ 
+
+2+20 
+ETH111A 
+Practical Ethics 
+20 
+1 
+1 
+1 
+1 
+1 
+2 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+20 
+ELC111 
+Eng. Language & Com. 
+(Basic) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ELC112 
+Eng. Lang. & 
+Com.(Intermediate) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ELC113 
+Eng. Lang. & Com. 
+(Advanced) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ESC201A 
+Electronics 
+4+20=24 
+
+ 
+
+4+20 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+4+20=24 
+TA201A 
+Manufact. Proc. (MSE) 
+2+5=7 
+
+ 
+
+ 
+
+2+5 
+
+ 
+
+ 
+
+ 
+ 
+2+5=7 
+TA202A 
+Manufact. Proc. (ME) 
+2+5=7 
+
+ 
+
+ 
+ 
+2+5 
+
+ 
+
+ 
+
+ 
+
+2+5=7 
+COM200 
+Communication Skills 
+1+12=13 
+
+ 
+
+ 
+0+9 
+
+ 
+
+1+1 
+0+1 
+0+1 
+
+ 
+ 
+1+12=13 
+ESO201A 
+Thermodynamics 
+2+6=8 
+0+2 
+ 
+0+1 
+
+ 
+ 
+2+3 
+
+ 
+
+ 
+
+ 
+
+2+6=8 
+ESO202A 
+Mechanics of Solids 
+2+7=9 
+2+3 
+
+0+2 
+
+ 
+0+2 
+
+ 
+
+ 
+
+ 
+
+2+7=9
+
+[Page 7]
+ESO203A 
+Intro. Electrical Engg. 
+2+10=12 
+
+ 
+
+2+10 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+2+10=12 
+ESO207A 
+Data Structures 
+2+0=2 
+
+ 
+ 
+2+0 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2+0=2 
+MSO201A 
+Probability & Statistics 
+2+4=6 
+
+ 
+ 
+0+2 
+0+2 
+
+ 
+ 
+2+0 
+
+ 
+
+ 
+
+2+4=6 
+PSO201A 
+Quantum Mechanics 
+1.5+4=5.5 
+
+ 
+
+ 
+
+0+2 
+
+1.5+2 
+
+ 
+
+ 
+ 
+1.5+4=5.5 
+CSO202A 
+Atoms, Molecules, 
+Photons 
+2+6=8 
+
+ 
+
+ 
+
+ 
+2+6 
+
+ 
+
+ 
+
+ 
+2+6=8 
+CSO203A 
+Inorg. Molecules, Mat. 
+Medicine 
+2+6=8 
+
+ 
+
+ 
+
+ 
+2+6 
+
+ 
+
+ 
+
+ 
+2+6=8 
+HSO201A 
+Applied Prob. & Stat. 
+2+3=5 
+
+ 
+0+1 
+
+ 
+
+ 
+
+ 
+ 
+2+2 
+
+ 
+ 
+2+3=5 
+HSS-I 
+Humanities-I 
+4+15=19 
+
+ 
+
+ 
+
+ 
+
+ 
+2+15 
+ 
+2+0 
+
+ 
+ 
+4+15=19 
+HSS- II 
+Humanities -II 
+4+0=4 
+
+ 
+
+ 
+
+ 
+
+ 
+2+0 
+ 
+2+0 
+
+ 
+ 
+4+0=4 
+Total Load Assigned 
+314 
+13 
+04 
+7 
+12 
+45 
+40 
+10 
+24 
+10 
+47 
+19 
+46 
+22 
+02 
+10 
+01 
+01 
+01 
+01 
+314 
+Approximate Faculty Strength 
+468 
+28 
+19 
+23 
+40 
+32 
+46 
+17 
+41 
+26 
+37 
+47 
+41 
+28 
+10 
+13 
+07 
+05 
+05 
+03 
+468 
+Ratio of Load Assigned : Faculty 
+0.67 
+0.46 
+0.21 
+0.3 
+0.3 
+1.4 
+0.9 
+0.6 
+0.6 
+0.4 
+1.3 
+0.4 
+1.1 
+0.8 
+0.2 
+0.77 
+0.1 
+0.2 
+0.2 
+0.3 
+0.67 
+ 
+Units are assigned as ‘m + n’, where ‘m’ indicate instructor units and ‘n’ indicates tutor units. 
+ 
+Appendix 
+Important Information Regarding Individual Section Sizes for Various Courses and Work Load 
+1. Tutorial section sizes have been fixed based on last year’s CCC data/report and with inputs from respective HODs. 
+2. One tutor will be assigned per section (normally 32 students) for PHY111 and CHM111 laboratory sessions. 
+3. Tutors assigned for ESC111, ESC112, tutorials will also take care of the laboratory sessions of the same sections. 
+4. Increasing the number of sections in any course is undesirable. 
+5. Student number in each section may be increased slightly, i.e., up to 40 in sections normally having 35 students and up to 120 in sections normally having 100 
+students to prevent increase in the number of sections. 
+6. The total registration in some courses has to be restricted considering seating capacity of the lecture hall assigned for the course. 
+ 
+***** 
+
+ Niraj Sinha 
+ Chairperson, CCC

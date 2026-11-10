@@ -1,0 +1,493 @@
+[PAGE 1]
+INDIAN INSTITUTE OF TECHNOLOGY, KANPUR
+POST GRADUATE OFFICE
+No. (P)/SPGC/IITK/2018-19/
+June 12, 2019
+MINUTES OF THE 6thMEETING OF THE SENATE POSTGRADUATE COMMITTEE (2018-19)
+
+(Date & Time: May 16, 2019 Thursday, 11:00 am; Venue: QIP Conference Room, Academic Affairs Building)
+
+Members Present: Drs S Mariappan, I S Dalal, S Mukhopadhyay (in place of Dr. S Misra), R P Potluri, R Varman,
+M J Akhtar, P Sen, W Ahmad S T Roy, S Mitra, D Chakrabarti, G Rajshekhar, A Shukla, R Bhowmik, A Jain, N
+Kaistha and Mr Vineeth V
+
+Members Absent: Drs S Khandekar, A Singh, S Ganguly, P Munshi, A Shukla, I S Sen, D Kumar, Mr. U Sagar, Ms.
+S Sharma and Mr. V hariharan
+
+Item 0 Confirmation of Minutes of the fifth Meeting of SPGC (2018-19) held on March 07, 2019.
+The minutes were confirmed.
+
+Item 1 Ratification of Decisions Taken / Approvals Given by Chairperson, SPGC
+The SPGC ratified the following decisions taken / approvals given by Chairperson, SPGC:
+
+Ratification Items
+(a)   Theses submission deadline extension
+SNo      Roll No           Name             Dep/IDP     Due Date     Extension
+till
+
+01    14103265  Aravinth Siva Subramaniam      CE       30/05/2019   30/08/2019
+02    12207077  SrikanthDasari            CHM      19/03/2019   19/06/2019
+03    13100070  Saakshi                  ECO       26/03/2019   26/06/2019
+04    13100069  Roli Pandey                 HSS       30/05/2019   30/07/2019
+05    13100074  SrutiKanungo                HSS       22/05/2019   22/07/2019
+06    12105177  Saptarshi Mandal           ME       08/04/2019   08/07/2019
+07    13206065  Prince Kumar Singh          MSE       05/05/2019   05/07/2019
+08    11109867  DibyaJyotiSivananda          PHY       30/04/2019   30/07/2019
+09    13116061  Govind Kumar                PSE       19/05/2019   19/08/2019
+(b)  SOTA deadline extension
+SNo    Roll No    Name                   Dept /IDP     Due Date       Extension till
+01    15501252    Abhishek Verma         AE        26/05/2019       26/07/2019
+02    16203263    MahimaShrivastava        CE         28/02/2019       28/03/2019
+03    17103265    AritraBagchi            CE         09/04/2019       10/05/2019
+04    16203262    Ahsanullah Khan         CE         02/05/2019       02/06/2019
+05    15202263   Shubham Tiwari         CHE        26/04/2019       26/05/2019
+06    17127261    Nilanjan Bhattacharya     ECO        22/04/2019       22/07/2019
+07    17127263   SoubhagyaSahoo         ECO        22/04/2019       22/07/2019
+08    16204274    PanchahanyaSanyal        EE         25/03/2019       01/04/2019
+09    16204269    ChintuGrbani            EE         12/04/2019       12/07/2019
+10    16204286    Ravi Goel               EE         11/04/219        11/07/2019
+11    17100264   Debbani Bhattacharya      HSS        23/04/2019       23/07/2019
+12    17105284   Vivek Gupta          ME        09/04/2019       09/07/2019
+13    16105269   Arun Kumar Mishra      ME        31/03/2019       31/05/2019
+14    16106270   Raghvendra R M        MSE        20/02/2019       12/03/2019
+15    17106270    Prince Setia           MSE        28/03/2019       28/04/2019
+16    16206266    NavindraShekharShakunt   MSE        24/04/2019       24/07/2019
+17    17108263    Naresh Garg          MTH       27/04/2019       27/07/2019
+18    17109273    Sudipta Dutta           PHY        15/05/2019       15/08/2019
+
+1
+
+[PAGE 2]
+(c) Leave granted on personal / medical grounds
+
+SNo    Roll No      Name      Dept   Prog                   Remark
+01   16205009 D K Chaubey   ME M Tech  Leave  granted   till  end  of Summer Term
+2019;joining job.DPGC positive.
+02   13105170 M Attmaja Ray  ME   PhD    2018-19-II;Medical grounds.DPGC positive.
+03   16104288  Vineeth V      EE    PhD    25/03/2019  to  08/04/2019;  Paternity  leave;
+DPGC positive
+(d)   Extension of deadline for qualifying comprehensive examination
+Roll No       Name       Dept  Prog                     Remark
+17114264  NageshTripathi   IME  PhD   Extension granted up  to 15/04/2019. Supervisor and
+DPGC are positive
+Item 2  Reporting Items
+The SPGC took note of the following reporting item
+Withdrawal from the PG program
+SNo        Roll No             Name                  Dept./IDP         Program
+01     18103063      Priyank Pandey                 CE       M Tech
+02     18104069     Pawan Bharti                    EE       M Tech
+03     18102007      Ankit Ashok Karnal             CHE       M Tech
+04     17103025     Deep Kamal Gangwar             CE       M Tech
+05     18104095      Samriddhi Tiwari                 EE           MTech
+06     18106265    G Shashidhar                 MSE           PhD
+07     15407261      Basant Kumar               CHM           PhD
+08     18202265     AtulBrahm Singh               CHE           PhD
+09     18128263    Ram Priyadarshini R             CGS           PhD
+10     16114268      Shivanuj Shukla                 IME           PhD
+11     18107262      Aditya Singh               CHM           PhD
+12     17106269      Pinku Roy                   MSE           PhD
+Item 3 Routine Items Requiring SPGC Approval
+SPGC granted approval to following routine items with noted specific observations (if any)
+
+(a) New course approval
+The SPGC approved following new courses
+SNo Course No   Course Title                                     Credits      Proposed by
+01  PHY666    Quantum Chaos                                 3-0-0-0-9   Dr S Chakraborty
+02  CE674a      Introduction to Global Navigation Satellite        3-0-2-0-6   Dr B Nagarajan
+Systems (GNSS)
+03  CE675b     Global Navigation Satellite Systems(GNSS) for   3-0-2-0-6   Dr B Nagarajan
+Surveying and Mapping
+04  CE677b      Introduction to Inertial and Multi-Sensor          3-0-2-0-6   Dr S Goel
+Navigation
+05  CE678A     Physical Geodesy                               3-0-2-0-11   Dr Balaji Devaraju
+06  CE772a     Reference Frames, Coordinate Systems and       3-0-1-0-6   Dr B Nagarajan
+Map Projections
+07  CE773b     Geodetic Astronomy and Introduction to          3-0-1-0-6   Dr B Nagarajan
+Satellite Geodesy
+08  CE670A     Environmental Geodesy                          3-0-2-0-    Dr Balaji Devaraju
+117
+09  CE770a     Adjustment Computations for Geoinformatics-I   1.5-0-1-0-6  Dr Onkar Dikshit
+10  CE771a     Adjustment Computations for Geoinformatics-II  1.5-0-1-0-6  Dr Onkar Dikshit
+11  CE679A     Signal Processing on the Sphere                 3-0-2-0-11   Dr Balaji Devaraju
+12  MSE625A   Phase Equilibria in Multicomponent Systems     3-0-0-0-9   Dr K Kulkarni
+13  PHY647     Photonic Green Nanotechnology                 3-0-0-0-9   Dr S A Ramakrishna
+
+2
+
+[PAGE 3]
+14  MTH713     Differential Topology                           3-0-0-0-9   Dr Bidyut Sanki
+15   PHI775      Philosophy of Mind                             3-0-0-0-9   Dr A V Ravishankar
+Sarma
+16  SOC758    Law and Religion: A Sociological Perspective    3-0-0-0-9   Dr A Chakraborty
+17  ENG765A   Film Theory and Historiography                 3-0-0-0-9   Dr Feroz Hassan
+18  CGS646A   Topics in Agent Based Models in Cognitive and   3-0-0-0-9   Dr H C Karnick
+Behavioural Science
+19  CGS691A    Philosophical Investigations                     3-0-0-0-9    Drs H C Karnick & N
+Srivastava
+20  MBA 778   Basic Financial Modelling                        3-0-0-0-5   Drs S Sarabh & B V
+Phani
+
+(b) Leave for the semester of 2018-19-II
+SNo    Roll No      Name      Dept    Prog           Remark            SPGC Decision
+01   17101047   Sitaram Meena  AE  M Tech  Leave  with   effect  from  Leave  with  effect  from
+12/04/2019        medical  12/04/2019  on  medical
+grounds.   Supervisor  &  grounds.
+DPGC have forwarded.
+02   17103012  Ankur Goyal    CE  M Tech  Leave  with   effect  from  Sent  back    it   to   the
+20/02/2019    till  end   of  department  for  invoking
+summer term, 2019; joining  Clause  5.7  of  the PG
+job.  Supervisor & DPGC  manual
+have forwarded.
+
+(c) Extension of deadline for second time SOTA extension
+Due date          Ist        Request      Remark    SPGC Decision
+Roll No       Name      Dept     after 1st     Extension        for
+extension     deadline     extension
+16204267      Baljinder    EE   29/12/2018  29/03/2019  29/06/2019     DPGC,      Granted
+Singh Heera                                                 forwarded     extension  upto
+29/06/2019
+16106272   Sumanta Maji  MSE  30/01/2019  30/04/2019  30/07/2019    DPGC      Granted
+Recommended   extension  upto
+30/07/2019
+Item 4  Requiring SPGC Recommendations for Consideration of Chairperson Senate / Senate
+(a)  To consider the cases of PG students who have failed to meet the stipulated academic requirements in the
+2018-19-II semester.
+The SPGC considered the cases of academically deficient students in the 2018-19-II semester. Annexure A
+lists borderline M Tech/MBA/MS(Research)/PhD students recommended to continue in their respective
+programmes. These students are to be issued letters of warning by their respective HoDs. Annexure B lists
+PhD students who have obtained at least one X in this semester, and have accumulated 2-7 Xs so far in their
+thesis work. The students are to be issued letters of warning by their respective HoDs. Annexure C contains
+the list of M Tech/MBA/MS(Research)/PhD students recommended by the SPGC for termination in their
+respective programmes as per extant rules.
+(b)   Inclusion of co-supervisor outside IIT Kanpur
+S    Roll No        Name        Dept  Prog            Remark              SPGC
+No                                                                         Recommendation
+01  17200262  Ayushi Dube      HSS  PhD   Prof.  Anuj  Bhuwania,  Dean,  Recommended
+School of Law, Governance and
+Citizenship, Ambedkar University,
+Delhi; Supervisor and DPGC are
+positive
+
+3
+
+[PAGE 4]
+02  16101265  Emayavarman     AE   PhD   Dr. Swagata Bhaumik, IIT Jammu,  Recommended
+Jammu; Supervisor and DPGC are
+positive
+03  15101270  Pushpender    Kr AE   PhD   Dr. Swagata Bhaumik, IIT Jammu,  Recommended
+Sharma                       Jammu; Supervisor and DPGC are
+positive
+(c) Appeal for Reinstatement of PG programmes
+SNo     Roll No       Name       Dept   Prog       Remark         SPGC Recommendation
+01   Y8503061    Rajesh Singh     CE   PhD   Termination due to  Reinstatement   of   the  PhD
+not        seeking  programme recommended w.e.f,
+academic extension  2019-20-I semester.
+of PhD programme.
+Supervisor     and
+DPGC are positive.
+
+Item 5 Any other item with the permission of the Chair.
+(a) Appeal for reinstatement of the PhD programme
+SNo     Roll No       Name       Dept   Prog       Remark         SPGC Recommendation
+Recommended  of   the  PhD
+01   17102037    Vikram Dhillon  CHE  MTe  NOC     provided.  programme  w.e.f,  2019-20-II
+ch    Supervisor    &  semester a
+DPGC       have
+recommended  and
+forwarded.
+
+(a) Change of academic registration from MSR programme to PhD programme in beginning of the sixth semester
+SNo     Roll No      Name      Dept    Prog                 Remark           SPGC Decision
+01     16205405   Saptarshi Paul  ME   MSR    Supervisor & DPGC have recommended  Approved
+
+To be reported to Senate for information
+
+(Nitin Kaistha)
+Chairperson, SPGC
+Copy to:    1. All Members of SPGC
+2. Chairman, Senate
+3. DOAA
+
+4
+
+[PAGE 5]
+Annexure-A
+
+1.    M.Tech./M.Des./MBA/MS(Research) students with 6.0  CPI < 6.5; recommended by the DPGC and approved
+by the SPGC for continuation in their respective programmes.
+
+S.
+Roll No.       Name of Student          Dept                Academic Performance
+No.
+2018-19-I               2018-19-II
+SPI       CPI        SPI       CPI
+1.   18103007    Abhishek Sharma           CE         6.29        6.29        6.67        6.47
+2.   18103039    Jayesh Sharma             CE         5.95        5.95        6.30        6.11
+3.   18103077    Suraj Kesarwani            CE         7.36        7.36        5.72        6.44
+4.   18104121    Vikram Maruti Sonmore       EE         5.50        5.50        6.50        6.29
+5.   18105026    Deepak Kumar           ME         6.67        6.67        6.00        6.33
+6.   18105033    Gour Kumar            ME         6.67        6.67        6.00        6.29
+7.   18105043    Kuldeep Kumar          ME         5.00        5.00        8.00        6.29
+8.   18105061   P Aruna Kumarudu        ME         6.67        6.67        5.33        6.00
+9.   18105069    Rahul Verma            ME         6.00        6.00        6.67        6.29
+10.  18105104    Yogesh Singh           ME         1.33        1.33        9.50        6.33
+11.  18205004     Brij Mohan Bharti         ME            -                 -         6.00        6.00
+12.  18205012    Rohit Kumar Sahu         ME              -               -         6.00        6.00
+13.  18112017    Vishal Das              MSP        5.00        5.00        6.95        6.00
+14.  18114022     Shirish Bharati             IME         6.00        6.00        6.00        6.00
+15.  18116002   Anmol Mathur              PSE         7.00        7.00        5.33        6.29
+16.  18125011    Bikrant Kumar Singh       MBA        6.00        6.00        6.56        6.29
+17.  18125024   Mayur Mitra           MBA        5.60        5.60        7.17        6.37
+18.  18125042    Rashmi Ranjan Nayak      MBA        6.00        6.00        6.21        6.10
+19   18101402    Aviral Sharma            AE(MSR)      4.00        4.00        8.00        6.00
+20   18104408    Hansraj Sarkar            EE(MSR)      6.60        6.60        5.00        6.00
+21   18105408    Gagandeep Singh         ME(MSR)      6.00        6.00        6.67        6.33
+22   18105412   Mohd Zeeshan Ali Khan    ME(MSR)      5.33        5.33        8.00        6.00
+23   18105416    Shashi Kumar           ME(MSR)      6.00        6.00        6.00        6.00
+
+2.     First semester Ph.D. students with 6.0  CPI < 7.0; recommended by the DPGC and approved by the SPGC for
+continuation in their respective programmes.
+S.
+Roll No.   Name of Student                   Dept
+No.
+2018-19-II
+SPI         CPI
+1     18201270   Srujan Kumar Naspoori          AE           6.00          6.00
+2     18202272   Sikandar Bind               CHE         6.67          6.67
+3     18204279   Sumit Kumar                 EE           6.67          6.67
+4     18205266   Mukul Kumar Srivastava        ME          6.67          6.67
+5     18206265   Owais Ahmad               MSE         6.50          6.50
+6     18208261    Chitranjan Pandit            MTH         6.0           6.00
+7     18208262   Debabrata Jana             MTH         6.50          6.50
+8     18208263   Gopal Chandra Dutta          MTH         6.0           6.00
+9     18212261   Anshuman Choudhary          MSP         6.07          6.07
+10    18212264   Namrata Pachauri             MSP          6.0           6.00
+11    18212265    Prakrati Azad                MSP          6.0           6.00
+12    18218261   Anamika Jaiswal               BSBE        6.62          6.62
+
+5
+
+[PAGE 6]
+3.    Continuing Ph.D. students with 6.5  CPI < 7.0; recommended by the DPGC and approved by the SPGC for
+continuation in their respective programmes.
+
+S.
+Roll No.   Name of Student              Dept    Academic Performance
+No.
+2018-19-I               2018-19-II
+SPI       CPI        SPI      CPI
+1.   17101261  Anubha Deshpande         AE       -           4.00         7.00       6.50
+2.   18102261   Abir Lal Bose            CHE    6.00        6.00         8.00       6.80
+3.   18102263   Ashish Kumar Mishra       CHE    6.00        6.00         7.00       6.50
+4.   17203264   Mithun Krishnan K V       CE      5.29        6.19         8.00       6.77
+5.   18103280   Suryakapa Jaipal Reddy      CE      6.70        6.70         8.0        6.98
+6.   16105267   Ankur Patel            ME      6.0         6.75         8.0        6.89
+7.   17205263   Arup Jyoti Chutia         ME      6.0         6.57         7.33       6.80
+8.   18105263   Debartha Chatterjee       ME     4.50        4.50         8.67       6.67
+10   18105275   Sandeep Kumar Karn       ME     6.67        6.67         6.64       6.65
+11   18107281   Shantanu Sen           CHM    8.67        8.67           -          6.50
+12   18109862   Ekta Yadav             PHY    6.0         6.40         7.20       6.80
+13   18111264   Avideep Mukherjee         CSE     7.0          7.0          6.0        6.80
+14   18111271  Soumya Banerjee           CSE     7.0          7.0          6.0        6.80
+Arun Vivek V Velayudhan
+15   18123262                         ES      6.50        6.50         7.0        6.67
+Nair
+16   18123263   Garima Sodha             ES      6.95        9.95         7.0        6.96
+17   18123267    Pitta Poorvi Narayana        ES      6.95        6.95         7.0        6.96
+
+6
+
+[PAGE 7]
+Annexure B
+
+4.    Ph.D. students who obtained at least one X in this semester and accumulated 2-7 X’s so far in thesis; Warning.
+
+S.
+Roll No.       Name of Student        Dept      Academic Performance
+No.                                                                               Remarks
+2018-19-I      2018-19-II          2018-19-II
+Upto
+Cur.
+SPI    CPI   SPI    CPI     Pre.           Total
+Sem
+Sem         Xs
+1.    15501262    Abhishek Verma          AE        -     7.00      -      7.00    4Xs   1X    5Xs
+2.    117101263   Imran Rasheed           AE     8.00    7.00      -      7.00    2Xs   1X    3Xs
+3.   Y8101061   Assiz M P              AE        -     7.50      -      7.50    3Xs   1X    4Xs
+4.    15102267    Mohit Trivedi            CHE       -     8.00      -      8.00    1X    3Xs   4Xs
+5.    15202263   Shubham Tiwari          CHE       -     7.14      -      7.14    2Xs   1X    3Xs
+6.    14103264    Ankit Modi              CE         -     7.08      -      7.08    2Xs   1X    3Xs
+7.    15103261    Abhishek Savarnya         CE         -     8.00      -      8.00    1X   1X    2Xs
+8.    15103274    Saurav Bhattacharjee        CE         -     7.20      -      7.20    4Xs   1X    5Xs
+9.    17203261    Ajay Kumar Maurya        CE     10.0    8.47      -      8.47        -    3Xs   3Xs
+10.   15107273    Neelakshi            CHM       -      7.0       -      7.0         -    2Xs   2Xs
+11.   13104172   Bhavna Rathore            EE         -     7.44      -      7.44    5Xs   1X    6Xs
+12.   14104262    Ashish Kumar Shrivastava     EE         -     7.10      -      7.10    3Xs   1X    4Xs
+13.   14104284    Heeralal Mauria            EE         -     7.50      -      7.50    2Xs   1X    3Xs
+14   15104261    Agnimitra Sutradhar         EE         -     8.20      -      8.20    3Xs   1X    4Xs
+15.   12105185    Vaibhav Dhar Dwivedi      ME        -     7.33      -      7.33    2Xs   1X    3Xs
+16.   15106269    Taraknate Maiti          MSE       -         -        -       8.0    3Xs   1X    4Xs
+17.   15208261   Amit Kumar Paul        MTH    10.0    7.50      -      7.50    1X   1X    2Xs
+18.   17108263    Naresh Garg           MTH       -      8.0       -      8.0    1X   1X    2Xs
+19.   17208262    Rajendra Kumar         MTH     9.0    8.57      -      8.57        -    4Xs   4Xs
+20   15200264    Atreyee Mukherjee         HSS        -     9.67      -      9.67    1X   1X    2Xs
+21.   15200271    Sumantran Ray            HSS        -      8.0       -      8.0    1X    3Xs   4Xs
+22.   17200264    Ebil Joseph Schiller         HSS     8.0    8.33      -      8.33    1X    4Xs   5Xs
+23.   16109278    Punit Sharma            PHY       -     7.50      -      7.50    2Xs   2Xs   4Xs
+24.   15511267    Nimisha Agarwal          CSE        -      8.0       -      8.0    1X   1X    2Xs
+25.   13112063    Harishankar Prasad        MS        -     7.53      -      7.53    2Xs   1X    3Xs
+26.   13115066    Vikesh Singh Bhadouria     NET        -     7.50      -      7.50    2Xs   1X    3Xs
+27.   15216262    Arpita Sinha Roy           PSE        -     8.40      -      8.40        -    2Xs   2Xs
+28.   15118264     Jyoti Tripathi            BSBE       -      8.0       -      8.0    1X   1X    2Xs
+29.   15118276    Shivansh Nigam          BSBE       -     7.67      -      7.67    2Xs   1X    3Xs
+30.   15218261    Deepshikha Singh         BSBE       -     7.25      -      7.25    5Xs   1X    6Xs
+31.   13203065   Mohd Amir               ES         -      9.0       -      9.0    3Xs   1X    4Xs
+32.   14123264    Esha Ray                 ES         -     9.14      -      9.14    1X   1X    2Xs
+33   15223263    Shivangi Tiwari            ES     10.0    8.26   8.29    8.27        -    2Xs   2Xs
+34.   16123264    Prabhat Kumar             ES         -     9.45      -      9.45    3Xs   1X    4Xs
+35   16123265    Smruti Ranjan Patra          ES         -     7.66      -      7.66    3Xs   1X    4Xs
+36.   17123261    Anshita Nayak             ES         -     7.05    6.0     7.53    1X   1X    2Xs
+37.   17123263   Mohd. Azhar Ansari         ES         -     7.49      -      7.49    2Xs   1X    3Xs
+38.   17223262    Seraj Ahmad               ES      6.0    6.40    8.0     7.20    2Xs   2Xs   4Xs
+39.   13119065    Ganesh Kailas          MDES      -     9.50      -      9.50    3Xs   1X    4Xs
+
+7
+
+[PAGE 8]
+Annexure C
+
+5.   M.Tech./MS(Research)/MBA/Ph.D. students recommended by the SPGC for termination in their respective
+programmes:
+
+M Tech./MBA/MS (By Research)
+
+Roll No.          Name            Dept./     CPI    X/E/F           Reason
+IDP
+
+S.
+No.
+Accumulated 3Xs or more
+1         16101053       Vikram Yellasiri       AE       6.39    5Xs
+in thesis
+Accumulated 3Xs or more
+2         17101047        Sitaram Meena        AE       8.25    8Xs
+in thesis
+Suman        Ray                                  CPI < 6.00
+3         18101041                      AE       4.67
+Pramanik
+4         18102014         Hitesh Bodra        CHE      5.20                 CPI < 6.00
+Accumulated 2 or more Fs
+5         18102019        Nagendra Kumar      CHE      2.00    3Fs    in  this semester & CPI<
+6.00
+Accumulated 2 or more Fs
+6         18103012        Alok Ranjan          CE       4.50    3Fs    in  this semester & CPI<
+6.00
+Accumulated 2 or more Fs
+7         18103018        Ankit Rajput         CE       4.28    3Fs    in  this semester & CPI<
+6.00
+8         18103033      Hema Tiwari         CE       3.88                 CPI < 6.00
+9         18103044        Keshav Kumar        CE       5.11                 CPI < 6.00
+Accumulated 2 or more Fs
+10        18103059         Prashant Kumar       CE       2.65    3Fs    in  this semester & CPI<
+6.00
+11        18103061        Priyam Swarup        CE       4.10                 CPI < 6.00
+Accumulated 2 or more Fs
+12        18103065        Satyadeep Sharma      CE       2.39    3Fs      in this semester & CPI<
+6.00
+13        18103079       Swapnesh S Kohli      CE       5.96                 CPI < 6.00
+14        18104047         Jaysingh Yadav        EE       5.33                 CPI < 6.00
+Naveen     Kumar                                  CPI < 6.00
+15        18104064                        EE       4.29
+Pawar
+3Xs   Accumulated 3Xs or more
+16        17105040        Bandgar A Yahwant    ME       7.00
+in thesis
+17        18105029         Digvijay Singh       ME       5.67                 CPI < 6.00
+Prashant    Kumar                                  CPI < 6.00
+18        18105064                    ME       5.43
+Verma
+Pravin      Kumar                                  CPI < 6.00
+19        18105066                    ME       5.14
+Maurya
+20        18105072        Rajendra Kumar      ME       4.29                 CPI < 6.00
+21        18105100        Vinay Sharma       ME       5.33                 CPI < 6.00
+3Fs   Accumulated 3Xs or more
+22        18205018        Vinay Kumar Singh    ME       0.00
+in thesis
+3Xs   Accumulated 3Xs or more
+23        17106025        Kulkarni R Rajendra    MSE      8.00
+in thesis
+
+8
+
+[PAGE 9]
+3Fs   Accumulated 2 or more Fs
+24        18106015        Rahul Kumar        MSE      4.00              in  this semester & CPI<
+6.00
+Accumulated 3Xs or more
+25        16111008        Gopal Vishwanathan    CSE      8.29    3Xs
+in thesis
+26        18111055         Rudranil Bhowmick     CSE      5.67                 CPI < 6.00
+Accumulated 3Xs or more
+27        17123011        Suyash Mishra         ES       7.84    3Xs
+in thesis
+Accumulated 2 or more Fs
+Deepak     Kumar
+28        18105406                      ME(MSR)    2.80    3Fs    in  this semester & CPI<
+Gupta
+6.00
+Rajneesh    Kumar                                  CPI < 6.00
+29        18205407                      ME(MSR)    5.33
+Verma
+30        18111403        Ankit Kumar       CSE(MSR)   5.50                 CPI < 6.00
+Not recommended by
+31        18111402        Desai Aneri Hiren    CSE(MSR)   6.00
+DPGC
+
+PhD
+
+11Xs   Accumulated 8Xs or more in
+1   14102267   Mahesh Prsad         CHE        7.67
+thesis
+2Fs     Accumulated 2 or more Fs in
+2   18102269   Neeraj Kumr Kanujia     CHE        4.00
+this semester & CPI< 6.50
+3   18102275   Garima Singh         CHE        5.00             CPI < 6.50
+4   18203263  Md Shahid Iqbal Ansari   CE          5.10             CPI < 6.00
+5   18203264   Mohd Kamil Vakil      CE          5.93             CPI < 6.00
+6   18105274   Rohit Singh         ME          6.40             CPI < 6.50
+8Xs    Accumulated 8Xs or more in
+7   10106075   Saleem Shaik         MSE        7.60
+thesis
+10Xs   Accumulated 8Xs or more in
+8   12207081   Vipin Kumar Jain      CHM        7.67
+thesis
+2Fs     Accumulated 2 or more Fs in
+9   18207283   V. Ramarajan        CHM        0.00
+this semester & CPI< 6.00
+9Xs    Accumulated 8Xs or more in
+10  14208261   Aman Shukla        MTH        8.75
+thesis
+2Fs    Ac12cumulated 2 or more Fs
+11  18108264   Himanshu Shukla      MTH        5.20
+in this semester & CPI< 6.50
+12  18208264   Mohd. Harun         MTH        4.50             CPI < 6.00
+13  17200267   Nupur Shree           HSS         4.67             CPI < 6.50
+Mohammed Rizwan                              3Fs     Accumulated 2 or more Fs in
+14  18111267                      CSE         2.00
+Rawani                                                                this semester & CPI< 6.50
+4Fs     Accumulated 2 or more Fs in
+15  18212268    Srini K S            MSP        0.00
+this semester & CPI< 6.00
+17  18218263    Faisal Ahmad          BSBE       5.42             CPI < 6.00
+18  18218267   Shamshul Huda         BSBE       4.50             CPI < 6.00
+19  18118266   Sayeda Fauzia Iqbal      BSBE       5.94             CPI < 6.50
+20  18123269    S. Sharbani            ES          5.50             CPI < 6.00
+Bharte Ganesh                               10Xs   Accumulated 8Xs or more in
+21  14400261                      HSS         7.67
+Harishchandra                                                     thesis
+10Xs   Accumulated 8Xs or more in
+22  12200062    Dhiraj Kumar         ECO        7.00
+thesis
+
+9

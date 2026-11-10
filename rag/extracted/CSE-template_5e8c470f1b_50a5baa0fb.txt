@@ -1,0 +1,153 @@
+[PAGE 1]
+Templates for programs Computer science and Engineering (CSE)
+
+Template for the BT program in Computer Science and Engineering
+
+Semester 1             Semester 2      Semester 3      Semester 4      Semester 5   Semester 6   Semester 7  Semester 8
+SCHEME-1 (9)              ETH111 (3) **     SCHEME-2 HSS-I    SCHEME-3 EME (9- SCHEME-4 HSS-  SCHEME-5 HSS-  SCHEME-6     DE-8 (9)
+ELC111/ELC112/ELC113 *                           (9-11)              11)                            II (9)                     II (9)              HSS-II (9)
+MTH 111 (6)            MTH 113 (6)       ESC201 (14)       CS220 (13)        CS330 (13)     DE-2 (9-13)     DE-5 (9)      OE-4 (9)
+MTH 112 (6)            MTH 114 (6)      ESO207 (12)      CS253 (12)       CS340 (9)      DE-3 (9)        DE-6 (9)      OE-5 (9)
+PHY 114 (11)              PHY 113 (11)      CS201 (11)       CS202M (5)       CS345 (9)      DE-4 (9)        DE-7 (9)      OE-6 (9)
+PHY 111 (3)            CHM 111 (3)       ESO-2 (9-11)      CS203M (5)       DE-1 (9)       OE-1 (9)       OE-3 (9)      OE-7 (9)
+TA 111 (9)                  ESC 111 (7)                                                       OE-2 (5-9)
+CHM 112 (4)                ESC 112 (7)
+CHM 113 (4)                 LIF111 (6)
+PE111 (3)                  PE112 (3)
+55                 52             54-58            44-46          49          50-58        45         45
+
+Remarks
+– ESO/SO courses are available in 6-14 credits each. ESO207A is compulsory for CSE students in the 3rd semester
+
+–  Students can take up to 4 UGPs, but only at most 3 UGPs (27 credits) can be counted towards graduation requirements.
+
+–  At least 2 DEs must be selected from Basket – A.
+–  All the four UGPs are optional.
+
+Credit Table for BT Program in Computer Science and Engineering
+Course type            Recommended Credit range  Minimum Credits required
+for graduation
+Institute Core (IC)         112                     112
+E/SO                     18-45                     21-23
+Department requirements 144-179                   149 (77 DC + 72 DE)
+Open electives (OE)        51-57                      59-63*
+SCHEME                  54-58                     54-58
+Total for 4-year BT/BS       391-420                  395-405
+* Exceeds the credit range recommended by UGARC
+
+[PAGE 2]
+Template for the BTH program in Computer Science and Engineering
+
+Template for 3rd to 8th semester for BTH program in Computer Science and Engineering
+
+Semester 3    Semester 4    Semester 5    Semester 6    Semester 7    Semester 8
+SCHEME-2 HSS-  SCHEME-3 EME  SCHEME-4 HSS-   SCHEME-5 HSS-   SCHEME-6 HSS-   DE-8 (9)
+I (9-11)           (9-11)                   II (9)                      II (9)                      II (9)
+ESC201 (14)    CS220 (13)     CS330 (13)      DE-2 (9-13)     DE-5 (9)        OE-4 (9)
+ESO207 (12)    CS253 (12)     CS340 (9)       DE-3 (9)        DE-6 (9)        OE-5 (9)
+CS201 (11)     CS202M (5)     CS345 (9)       DE-4 (9)        DE-7 (9)        OE-6 (9)
+ESO-2 (9-11)    CS203M (5)     DE-1 (9)        OE-1 (9)        OE-3 (9)        OE-7 (9)
+DEH-1 (9)       DEH-2 (9)       OE-2 (5-9)      DEH-3 (9)
+54-58         53-55     58            50-58        45           45
+
+–  CPI Criteria for BTH: Above 8.5
+
+Remarks
+– ESO/SO courses are available in 6-14 credits each. ESO207 is compulsory for CSE students in the 3rd semester.
+
+–  At least 2 UGPs are compulsory (DE) for BTH
+–  At least 27 credits of DEH should be completed by taking CS6XX and CS7XX level courses
+–  Students can take up to 4 UGPs, but only at most 3 UGPs (27 credits) can be counted towards graduation requirements.
+
+–  At least 2 DEs must be selected from Basket – A.
+
+[PAGE 3]
+Template for the BTM program in Computer Science and Engineering
+
+Template for 3rd to 8th semester for BTM program in Computer Science and Engineering
+
+Semester 3    Semester 4    Semester 5    Semester 6    Semester 7    Semester 8
+SCHEME-2 HSS-  SCHEME-3 EME  SCHEME-4 HSS-II  SCHEME-5 HSS-II  SCHEME-6 HSS-II OE-2 (9)
+I (9-11)           (9-11)              (9)                 (9)                 (9)
+ESC201 (14)    CS220 (13)     CS330 (13)      DE-2 (9-13)     DE-4 (9)        OE-3 (9)
+ESO207 (12)    CS253 (12)     CS340 (9)       DE-3 (9)        DE-5 (9)        OE-4 (9)
+CS201 (11)     CS202M (5)     CS345 (9)      MTB-1 (9)      MTB-3 (9)      MTB-5 (9)
+ESO-2 (9-11)   CS203M (5)     DE-1 (9)       MTB-2 (9)      MTB-4 (9)      MTB-6 (9)
+OE-1 (5-9)
+54-58         44-46     49            50-58        45           45
+
+Remarks
+– ESO/SO courses are available in 6-14 credits each. ESO207A is compulsory for CSE students in the 3rd semester.
+–  Students can take up to 4 UGPs, but only at most 3 UGPs (27 credits) can be counted towards graduation requirements.
+
+–  At least 2 DEs must be selected from Basket – A.
+–  All the four UGPs are optional.
+
+[PAGE 4]
+Template for five-year dual degree program in Computer Science and Engineering Template for semester 3 to 6 same as the BT program
+
+Semester 7  Semester 8     Summer          Semester 7       Semester 7
+SCHEME-6,    DE PG-1 (9)      M. Tech Thesis (9)  DE PG-4 (9)        DE PG-6 (9)
+HSS-II (9)
+
+DE-5 (9)      DE PG-2 (9)                       DE PG-5 (9)       M. Tech
+Thesis (36)
+
+OE-2 (9)      DE PG-3 (9)                      M. Tech Thesis (27)
+DE-6 (9)     M. Tech Thesis (9)
+DE-7 (9)
+DE-8 (9)
+54         36             9               45              45
+
+MINIMUM CREDIT REQUIREMENT IN M. TECH FOR GRADUATION
+
+PG Component: 54 credits Thesis Component: 81 credits
+
+REMARKS:
+
+–  Up to 36 OE credits may be used from the BT minimum requirements to fulfil requirements for the BT-MT dual degree programme. These will be
+waived from the BT programme and counted towards PG requirements.
+
+–   All other minimum BT credit requirements need to be fulfilled, including those that are slotted in the 7th and 8th semester of the BT
+template.
+
+[PAGE 5]
+Template for double major: second major in Computer Science and Engineering
+
+Odd              Even Semester
+CS330 (13)   CS202M (5) and CS203M (5)
+CS340 (9)           CS220 (13)
+CS345 (9)           CS253 (12)
+CS DE-1 (9)          CS DE-2 (9-13)
+CS DE-3 (9)            CS DE-4 (9)
+49                53-57
+
+–  Total mandatory credits for second major in computer science: 102
+
+Course and credit Waiver policy: Following waivers will be granted automatically:
+
+‒  Course and credits to be waived If the student has done
+
+CS340         MTH401
+CS202         MTH302
+CS203         MSO201 OR HSO201
+–  To clarify, if a student gets waiver for all the three courses above, he will need to do only 102- 19=83 credits to finish his/her CSE second major
+requirement. If a student gets a waiver for CS202 only, he will need to do 102-5=97 credits to finish his/her CSE second major requirement. The table
+above may be extended in future if other courses similar to those in CSE major template are added/discovered in the other departments. Any other
+course waivers (without credit waivers) may be recommended by CSE DUGC based on its discretion.
+
+REMARKS:
+–  Two DEs should be selected from Basket-A (Details of Basket-A are available in CSE B.Tech. template).
+
+–  Total CSE-DE credits should be at least 36.
+–  Up to 36 OE credits may be waived from the parent department BT/BS graduation requirements when they are used to fulfil
+requirements for the double major.
+–  *ESO207 is a compulsory course to be done, but its credits will be counted against the ESO requirement of the first major.
+
+[PAGE 6]
+Minors in Computer Science and Engineering The minors offered by CSE are listed in the table below.
+
+–  For each minor stream, the minimum total credit requirement is 30
+–   In each minor stream, any related course(s), if not mentioned in the list of optional courses, may be taken as optional with the permission of the
+CSE DUGC
+–  The course ESO207 can be waived if the student has done an equivalent course. CSE DUGC convener can give more information about it.

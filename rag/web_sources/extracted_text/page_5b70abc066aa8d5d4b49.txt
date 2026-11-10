@@ -1,0 +1,10 @@
+Courses
+Jul - Dec - 2026 - 2027 - I
+Announcements
+Username for moodle account
+Please ensure that your Moodle ID is the same as your CC user ID . Otherwise, your account may be deactivated at a later stage , and a new account with your username may be created for any course.
+Server time offset by ~5.5 hrs
+Due to a server glitch the time being displayed was wrong and 5.5hrs in future. This problem has been rectified now by syncing time with network time provided by CSE server. The course instructor/teaching assistants are requested to kindly make sure the timing is proper on deadline for assignments.
+PS: Thanks to Ishan Kumar for bringing it to my notice!
+Welcome to Online E-course Platform
+Login with cc username and password for accessing your courses. A introductory session on how to run courses on Moodle is being organized by Arnium Technologies in CS-101/CS-102. Instructors can download the file "Introduction to using moodle.pdf" attached to this post(link on top right) to start off with courses. For any feedback, mail to contact@arnium.com with 'Moodle' as Subject.

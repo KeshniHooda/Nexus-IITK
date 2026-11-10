@@ -1,0 +1,633 @@
+[PAGE 1]
+Course Structure for Under-Graduate Programs:                  updated on 02-April-2013
+
+Annexure-2
+
+B.Tech. (Aerospace Engineering) WITH FULL STRUCTURE
+
+FIRST       SECOND    THIRD     FOURTH    FIFTH     SIXTH     SEVENTH   EIGHTH
+C     PHY102      PHY101    MTH203N   HSS-I-2   AE321     AE312     AE411     AE422
+O     MTH101      CHM101    CHM201N   ESO202    AE331     AE322     AE461     AE462
+U     HSS-I-1/    PHY103    ESO204    TA201N    AE341     AE332N    AE471     AE472
+R     ENG112N     MTH102    ESO212    AE232     AE361     AE342
+S     TA101       ESC101    AE231     AE211                                      DEL-2
+E           ESC102      AE100                            OE-1       DEL-1      OE-2       OE-3
+PE101       PE102                            HSS-II-I   SE-1       SE-2       HSS-II-2
+
+B.Tech. (Aerospace Engineering)
+
+S  E  M  E  S  T  E  R
+FIRST       SECOND    THIRD     FOURTH    FIFTH       SIXTH   SEVENTH   EIGHTH
+C     PHY102      PHY101    MTH203N   HSS-I-2   AE321       AE312   AE411     AE422
+O     MTH101      CHM101    CHM201N   ESO202    AE331       AE322   AE461     AE462
+U     HSS-I-1/    PHY103    ESO204    TA201N    AE341       AE332N  AE471     AE472
+R     ENG112N     MTH102    ESO212    AE232     AE361       AE342
+S     TA101       ESC101    AE231     AE211
+E           ESC102      AE100
+PE101       PE102
+
+In addition to above, the student must complete the following credits:
+
+DE    08 Credits
+OE    12 Credits
+HSS-2 08 Credits
+SE    08 Credits
+
+[PAGE 2]
+BTMT B.Tech. (Aerospace Engineering) WITH FULL STRUCTURE
+
+FIRST       SECOND    THIRD     FOURTH    FIFTH     SIXTH     SEVENTH
+C     PHY102      PHY101    MTH203N   HSS-I-2   AE321     AE312     AE411
+O     MTH101      CHM101    CHM201N   ESO202    AE331     AE322     AE461
+U     HSS-I-1/    PHY103    ESO204    TA201N    AE341     AE332N    AE471
+R     ENG112N     MTH102    ESO212    AE232     AE361     AE342
+S     TA101       ESC101    AE231     AE211                                      D-PG2
+E      ESC102      AE100                            OE-1       D-PG1      OE-2       OE-3
+PE101       PE102                            HSS-II-I   SE-1       SE-2       HSS-II-2
+
+BTMT M..Tech. (Aerospace Engineering) WITH FULL STRUCTURE
+
+EIGHT            SUMMER        NINTH           TENTH
+C      AE422            4  CR THESIS  D-PG6           16 CR THESIS
+O      AE462                          12 CR THESIS
+U      D-PG3
+R         D-PG4
+S         D-PG5
+E         4 CR THESIS
+20 CR COURSES                  4  CR COURSE
+4  CR THESIS     4  CR THESIS  12 CR THESIS    16  CR THESIS
+
+[PAGE 3]
+B.Tech. (Biological Sciences and Biological Engineering WITH FULL STRUCTURE
+
+FIRST       SECOND    THIRD     FOURTH    FIFTH     SIXTH     SEVENTH   EIGHTH
+C     CHM101      TA101     MTH203N   TA201N    BSE332    BSE314
+O     PHY101      PHY103    CHM201N   ESO-II    BSE341    BSE392              BSE499/
+U                                                                           DE
+R     PHY102      MTH102    BSE212    BSE216    BSE391     DEL-1     BSE491    DEL-3
+S     MTH101      ESC102    ESO-1     BSE292    OE-1       DEL-2     BSE498    DEL-4
+E     HSS-I-1/    BSE100    ESO-219   ESO-3     HSS-II-1   OE-2      SE-1      SE-3
+ENG112N     PE102                            BSE352     HSS-II-2   OE-3      OE-4
+ESC101                         HSS-I-2                      SE-2
+PE101
+
+B.Tech. (Biological Sciences and Biological Engineering)
+
+S  E  M  E  S  T  E  R
+FIRST       SECOND    THIRD     FOURTH    FIFTH     SIXTH       SEVENTH   EIGHTH
+C     CHM101      TA101     MTH203N   HSS-I-2   BSE322    BSE314
+O
+U     PHY101      PHY103    CHM201N   TA201N    BSE341    BSE392                BSE499/
+R                                                                              DE
+S     PHY102      MTH102    BSE-212   ESO-II    BSE391                BSE491
+E                                                     BSE352
+MTH101      ESC102    ESO-1                                     BSE498
+HSS-I-1/    BSE100    ESO-219   BSE216
+ENG112N     PE102               (ESO-3)
+ESC101                         BSE292
+PE101
+
+In addition to above, the student must complete the following credits:
+
+DE    16 Credits
+OE    16 Credits
+HSS-2 08 Credits
+SE    12 Credits
+
+The above template is valid for Y7 batch or students joining later in BSBE. The students of other batches must contact
+the Convener, DUGC, BSBE for their course templates.
+
+[PAGE 4]
+B.Tech. (Chemical Engineering) WITH FULL TEMPLETE
+
+FIRST       SECOND    THIRD     FOURTH    FIFTH     SIXTH     SEVENTH   EIGHTH
+C     PHY102      PHY101    MTH203N   HSS-I-2   CHE312    CHE313    CHE452    CHE492
+O     MTH101      CHM101    CHM201N   TA201N    CHE331    CHE362    CHE453    CHE463
+U     HSS-I-1/    PHY103    ESO202    ESO218    CHE361    CHE381    CHE494
+R     ENG112N     MTH102    ESO212    CHE211              CHE391    CHE495
+S     TA101       ESC101    CHE251    CHE221                       DEL-1     DEL-3
+E           ESC102      CHE100                          OE-1       OE-2       OE-3      DEL-2
+PE101       PE102                            SE-1       HSS-II-I   HSS-II-2   SE-2
+
+B.Tech. (Chemical Engineering)
+
+S E M E S T E R
+FIRST       SECOND    THIRD     FOURTH    FIFTH     SIXTH     SEVENTH     EIGHTH
+C     CHM101      TA101     MTH203N   HSS-I-2   CHE312    CHE313    CHE452      CHE492
+O     PHY101      PHY103    CHM201N   TA201N    CHE331    CHE362    CHE453      CHE463
+U     PHY102      MTH102    ESO202    ESO218    CHE361    CHE381    CHE494
+R     MTH101      ESC102    ESO212    CHE211              CHE391    CHE495
+S     HSS-I-1/    CHE100    CHE251    CHE221
+E     ENG112N                       PE102
+ESC101
+PE101
+
+In addition to above, the student must complete the following credits:
+
+DE    12 Credits
+OE    12 Credits
+HSS-2 08 Credits
+SE    08 Credits
+
+[PAGE 5]
+BTMT B.Tech. (Chemical Engineering) WITH FULL TEMPLETE
+
+FIRST       SECOND    THIRD     FOURTH    FIFTH     SIXTH     SEVENTH   EIGHTH
+C     PHY102      PHY101    MTH203N   HSS-I-2   CHE312    CHE313    CHE452
+O     MTH101      CHM101    CHM201N   TA201N    CHE331    CHE362    CHE453
+U     HSS-I-1/    PHY103    ESO202    ESO218    CHE361    CHE381    CHE494
+R     ENG112N     MTH102    ESO212    CHE211              CHE391    D-PG1
+S     TA101       ESC101    CHE251    CHE221                       D-PG2
+E      ESC102      CHE100                          OE-1       OE-2       D-PG3
+PE101       PE102                            SE-1       HSS-II-I   HSS-II-2
+
+BTMT M.Tech. (Chemical Engineering) WITH FULL TEMPLETE
+
+EIGHT            SUMMER        NINTH           TENTH
+C      CHE492           4  CR THESIS  D-PG6           16 CR THESIS
+O      CHE463                         12 CR THESIS
+U      D-PG4
+R                 D-PG5
+S                 CHE701 ZERO CR
+E                 4 CR THESIS
+16 CR COURSES                  4  CR COURSE
+4  CR THESIS     4  CR THESIS  12 CR THESIS    16  CR THESIS
+
+[PAGE 6]
+B.Tech. (Civil Engineering) WITH FULL TEMPLETE
+
+FIRST       SECOND    THIRD     FOURTH    FIFTH     SIXTH     SEVENTH   EIGHTH
+C     PHY102      PHY101    MTH203N   HSS-I-2   CE321     CE312N    CE451     CE492
+O     MTH101      CHM101    CHM201N   ESO218    CE331     CE322     CE491
+U     HSS-I-1/    PHY103    ESO204    TA201N    CE361     CE332               OE-3
+R     ENG112N     MTH102    ESO212    CE222     CE371     CE362               OE-2
+S     TA101       ESC101    CE251     CE242     CE311     CE373     DEL-1     DEL-3
+E           ESC102      CE100                                  CE382     OE-1      DEL-2
+PE101       PE102                            HSS-II-1   SE-1      SE-2      HSS-II-2
+
+B.Tech. (Civil Engineering)
+
+S  E  M  E  S  T  E  R
+C     FIRST       SECOND    THIRD     FOURTH    FIFTH       SIXTH   SEVENTH     EIGHTH
+O    PHY102      PHY101    MTH203N   HSS-I-2   CE321       CE312N  CE451       CE492
+U    MTH101      CHM101    CHM201N   ESO218    CE331       CE322   CE491
+R    HSS-I-1/    PHY103    ESO204    TA201N    CE361       CE332
+S    ENG112N     MTH102    ESO212    CE222     CE371       CE362
+E    TA101       ESC101    CE251     CE242     CE311       CE373
+ESC102      CE100                                     CE382
+PE101       PE102
+
+In addition to above, the student must complete the following credits:
+
+DE    12 Credits
+OE    12 Credits
+HSS-2 08 Credits
+SE    08 Credits
+
+The above template is valid for Y6 and Y7 batch students or students joining later in CE. The students of other batches
+must contact the DUGC Convener, CE for their course templates.
+
+[PAGE 7]
+BTMT B.Tech. (Civil Engineering) WITH FULL TEMPLETE
+
+FIRST       SECOND    THIRD     FOURTH    FIFTH     SIXTH     SEVENTH   EIGHTH
+C     PHY102      PHY101    MTH203N   HSS-I-2   CE321     CE312N    CE451
+O     MTH101      CHM101    CHM201N   ESO218    CE331     CE322
+U     HSS-I-1/    PHY103    ESO204    TA201N    CE361     CE332
+R     ENG112N     MTH102    ESO212    CE222     CE371     CE362     DEL-1
+S     TA101       ESC101    CE251     CE242     CE311     CE373     D-PG2
+E      ESC102      CE100                                  CE382     D-PG1
+PE101       PE102                            HSS-II-1   SE-1      HSS-II-2
+
+BTMT M.Tech. (Civil Engineering) WITH FULL TEMPLETE
+
+EIGHT            SUMMER        NINTH           TENTH
+C      D-PG3            4  CR THESIS  D-PG7           16 CR THESIS
+O      D-PG4                          12 CR THESIS
+U      D-PG5
+R                 D-PG6
+S
+E                 4 CR THESIS
+16 CR COURSES                  4  CR COURSE
+4  CR THESIS     4  CR THESIS  12 CR THESIS    16  CR THESIS
+
+[PAGE 8]
+B.Tech. (Computer Science and Engineering) WITH FULL TEMPLETE
+
+FIRST       SECOND    THIRD     FOURTH    FIFTH     SIXTH     SEVENTH   EIGHTH
+C     PHY102      PHY101    MTH203N   HSS-I-2   CS330     CS335     CS498     CS499/
+O                                                                           DE
+U     MTH101      CHM101    CHM201N   TA201N    CS340     CS345
+R     TA101       PHY103    CS220     CS201     CS302
+S     HSS-I-1/    MTH102    ESO-1     CS355     ONE OUT    ONE OUT
+E     ENG112N     ESC101    ESO211    OE-1      OF CS350   OF CS315   DEL-1     DEL-3
+CS425      CS365           ESC102      CS100                                            DEL-2     OE-5
+CS455      CS422
+PE101       PE102                         OE-2      OE-3       OE-4       OE-6
+SE-1      HSS-II-1   HSS-II-2   SE-2
+
+B.Tech. (Computer Science and Engineering)
+
+S E M E S T E R
+FIRST       SECOND    THIRD     FOURTH    FIFTH       SIXTH       SEVENTH     EIGHTH
+C    CHM101      TA101     MTH203N   HSS-I-2   CS330       CS335       CS498       CS499/
+O    PHY101      PHY103    CHM201N   TA201N    CS340       CS345                  DE
+U    PHY102      MTH102    CS220     CS201     CS302       ONE OUT
+R    MTH101      ESC102    ESO-1     CS355     ONE OUT     OF
+S    HSS-I-1/    CS100     ESO211    OE-1      OF          CS315,
+E    ENG112N     PE102                         CS350,      CS365,
+ESC101                                    CS425,      CS422
+PE101                                     CS455
+
+In addition to above, the student must complete the following credits:
+
+DE    12 Credits
+OE    20 Credits
+HSS-2 08 Credits
+SE    08 Credits
+
+[PAGE 9]
+BTMT B.Tech. (Computer Science and Engineering) WITH FULL TEMPLETE
+
+FIRST       SECOND    THIRD     FOURTH    FIFTH     SIXTH     SEVENTH   EIGHTH
+C     PHY102      PHY101    MTH203N   HSS-I-2   CS330     CS335
+O     MTH101      CHM101    CHM201N   TA201N    CS340     CS345
+U     TA101       PHY103    CS220     CS201               CS302
+R     HSS-I-1/    MTH102    ESO-1     CS355     ONE OUT    ONE OUT    DEL-1
+S     ENG112N     ESC101    ESO211    OE-1      OF CS350   OF CS315   DEL-2
+E                                                    CS425      CS365      ESC102      CS100                                            DEL-3
+CS455      CS422
+PE101       PE102                         OE-2      OE-3      D-PG1
+SE-1      HSS-II-1   HSS-II-2
+
+BTMT M.Tech. (Computer Science and Engineering) WITH FULL TEMPLETE
+
+EIGHT            SUMMER        NINTH           TENTH
+C      D-PG2            4  CR THESIS  D-PG6           16 CR THESIS
+O      D-PG3                          12 CR THESIS
+U      D-PG4
+R                D-PG5
+S
+E                4 CR THESIS
+16 CR COURSES                  4  CR COURSE
+4  CR THESIS     4  CR THESIS  12 CR THESIS    16  CR THESIS
+
+[PAGE 10]
+B.Tech. (Electrical Engineering) WITH FULL TEMPLETE
+
+FIRST       SECOND    THIRD     FOURTH    FIFTH     SIXTH     SEVENTH   EIGHTH
+C     PHY102      PHY101    MTH203N   HSS-I-2   EE320     EE340     EE491     EE492
+O     MTH101      CHM101    CHM201N   ESO209    EE330     EE381
+U     HSS-I-1/    PHY103    TA201N    ESO210    EE370      3 OUT OF
+R     ENG112N     MTH102    EE200     EE210     EE380      EE301      SE-2       HSS-II-2
+S     TA101       ESC101    ESO202/    EE250                EE311      DEL-1      DEL-3
+EE321         E                                                                                     DEL-2      OE-3               ESC102      EE100      ESO211/               HSS-II-1                                                                          EE360                                         ESO214/
+PE101       PE102      ESO218                OE-1      SE-1      OE-2       OE-4
+
+B.Tech. (Electrical Engineering)
+
+S  E  M  E  S  T  E  R
+FIRST     SECOND   THIRD     FOURTH    FIFTH      SIXTH       SEVENTH   EIGHTH
+C     PHY102    PHY101   MTH203N   HSS-I-2   EE320      EE340       EE491     EE492
+O     MTH101    CHM101   CHM201N   ESO209    EE330      EE381
+U     TA101     MTH102   TA201N    ESO210    EE370      3 OUT OF:
+R     ESC102    ESC101   EE200     EE210     EE380      EE301
+S     PE101     EE100    ESO202/   EE250                EE311
+E               HSS-I-    PHY103   ESO211/                        EE321
+1/        PE102    ESO214/                        EE360
+ENG112N            ESO218
+
+In addition to above, the student must complete the following credits:
+
+DE    12 Credits
+OE    16 Credits
+HSS-2 08 Credits
+SE    08 Credits
+
+[PAGE 11]
+BTMT B.Tech. (Electrical Engineering) WITH FULL TEMPLETE
+
+FIRST       SECOND    THIRD     FOURTH    FIFTH     SIXTH     SEVENTH   EIGHTH
+C     PHY102      PHY101    MTH203N    HSS-I-2   EE320     EE340
+O     MTH101      CHM101    CHM201N    ESO209    EE330     EE381
+U     HSS-I-1/    PHY103    TA201N    ESO210    EE370      3 OUT OF   DEL-1
+R     ENG112N     MTH102    EE200     EE210     EE380      EE301      O-PG-1
+S     TA101       ESC101    ESO202/    EE250                EE311
+EE321E                                                                           DEL-2      ESC102      EE100      ESO211/               HSS-II-1                                                                EE360                               ESO214/                                     DEL-3
+PE101       PE102      ESO218                OE-1      SE-1      HSS-II-2
+
+BTMT M.Tech. (Electrical Engineering) WITH FULL TEMPLETE
+
+EIGHT            SUMMER        NINTH           TENTH
+C       O-PG2            4  CR THESIS  O-PG5           16 CR THESIS
+O       O-PG3                          12 CR THESIS
+U       O-PG4
+R            D-PG1
+S            4 CR THESIS
+E            16 CR COURSES                  4  CR COURSE
+4  CR THESIS     4  CR THESIS  12 CR THESIS    16  CR THESIS
+
+[PAGE 12]
+B.Tech. (Materials and Metallurgical Engineering) ) WITH FULL TEMPLETE
+
+FIRST       SECOND    THIRD     FOURTH    FIFTH     SIXTH     SEVENTH   EIGHTH
+C     CHM101      TA101     MTH203N   ESO204    MME310    MME331    MME410    MME480
+O     PHY101      PHY103    CHM201N   ESO210    MME320    MME340    MME415    MME499/
+U                                                                           DE
+R     PHY102      MTH102    ESO212    MME210    MME330    MME350    MME470    DEL-2
+S     MTH101      ESC102    TA201N    MME250    OE-1      MME370    MME498    DEL-3
+E     HSS-I-1/    MME/MSE   MME200    HSS-I-2    SE-1      MME390    DEL-1     SE-2
+ENG112N     100
+PE102                                       HSS-II-1   HSS-II-2   OE-3
+ESC101                                             OE-2
+PE101
+
+B.Tech. (Materials and Metallurgical Engineering)
+
+S  E  M  E  S  T  E  R
+FIRST       SECOND    THIRD     FOURTH    FIFTH     SIXTH       SEVENTH     EIGHTH
+C     CHM101      TA101     MTH203N   HSS-I-2   MME310    MME331      MME410      MME480
+O     PHY101      PHY103    CHM201N   ESO204    MME320    MME340      MME415      MME499
+U     PHY102      MTH102    ESO212    ESO210    MME330    MME350      MME470      /DE
+R     MTH101      ESC102    TA201N    MME210              MME370      MME498
+S     ESC101      MME100    MME200    MME250              MME390
+E           PE101       PE102
+HSS-I-1/
+ENG112N
+
+In addition to above, the student must complete the following credits:
+
+DE    12 Credits    3 courses
+OE    12 Credits    3 courses
+HSS-2 08 Credits    2 courses
+SE    08 Credits    2 courses
+
+[PAGE 13]
+B.Tech. (Mechanical Engineering) WITH FULL TEMPLETE
+
+FIRST       SECOND    THIRD     FOURTH    FIFTH     SIXTH     SEVENTH   EIGHTH
+C     PHY102      PHY101    MTH203N   HSS-I-2   ME321     ME301     ME300     ME452
+O     MTH101      CHM101    CHM201N   ESO204    ME341     ME351     ME401     ME461
+U     HSS-I-1/    PHY103    TA201N    ESO214    ME352     ME353     ME451
+R     ENG112N     MTH102    ESO202    ME231     ME361     ME371     ME453     HSS-II-2
+S     TA101       ESC101    ESO210    ME251                        ME471N    DEL-2
+E               ESC102      ME100                            OE-1      SE-1      SE-2      DEL-3
+PE101       PE102                            HSS-II-1   DEL-1     OE-2      OE-3
+
+B.Tech. (Mechanical Engineering)
+
+S  E  M  E  S  T  E  R
+FIRST       SECOND    THIRD     FOURTH    FIFTH       SIXTH   SEVENTH   EIGHTH
+C     PHY102      PHY101    MTH203N   HSS-I-2   ME321       ME301   ME300     ME452
+O     MTH101      CHM101    CHM201N   ESO204    ME341       ME351   ME401     ME461
+U     TA101       MTH102    TA201N    ESO214    ME352       ME353   ME451
+R     ESC102      ESC101    ESO202    ME231     ME361       ME371   ME453
+S     PE101       PHY103    ESO210    ME251                         ME471
+E             HSS-I-1/    ME100
+ENG112N     PE102
+
+In addition to above, the student must complete the following credits:
+
+DE    12 Credits
+OE    12 Credits
+HSS-2 08 Credits
+SE    08 Credits
+
+[PAGE 14]
+BTMT B.Tech. (Mechanical Engineering) WITH FULL TEMPLETE
+
+FIRST       SECOND    THIRD     FOURTH    FIFTH     SIXTH     SEVENTH
+C     PHY102      PHY101    MTH203N   HSS-I-2   ME321     ME301     ME300
+O     MTH101      CHM101    CHM201N   ESO204    ME341     ME351     ME401
+U     HSS-I-1/    PHY103    TA201N    ESO214    ME352     ME353     ME453
+R     ENG112N     MTH102    ESO202    ME231     ME361     ME371     ME471N
+S     TA101       ESC101    ESO210    ME251
+E      ESC102      ME100                            OE-1      SE-1      D-PG1
+PE101       PE102                            HSS-II-1   DEL-1     D-PG2
+
+BTMT M.Tech. (Mechanical Engineering) WITH FULL TEMPLETE
+
+EIGHT           SUMMER         NINTH             TENTH
+C       ME461           4  CR THESIS   D-PG5              16 CR THESIS
+O       HSS-II-2                        12 CR THESIS
+U      D-PG3
+R            D-PG4
+S       O-PG1
+E            20 CR COURSES                  4  CR COURSE
+4  CR THESIS   12 CR THESIS      16  CR THESIS
+
+[PAGE 15]
+COURSE STRUCTURE FOR M.Sc. [ 5-YEAR ] STUDENTS WITH FULL TEMPLETE
+
+CHEMISTRY
+
+S  E  M  E  S  T  E  R
+FIRST      SECOND   THIRD    FOURTH   FIFTH      SIXTH    SEVENTH    EIGHTH     NINTH      TENTH
+C   CHM101     TA101    MTH203N  HSS-I-2  HSS-II-1   CHM343   CHM423     CHM443     HSS-II-2   CHM700
+O   PHY101     PHY103   CHM201N  TA201N   CHM401     CHM402   CHM611     CHM481     CHM700     NDE-2
+U   PHY102     MTH102   ESO-1    CHM222   CHM421     CHM422   CHM621     DEL-1      OE-5       CHM800
+R   MTH101     ESC102   ESO-2    CHM302   CHM441     CHM442   CHM664     DEL-2      OE-6       CHM801A
+S   ESC101     CHM100   CHM301   CHM341   CHM503     OE-2     OE-3       OE-4                   DEL-3
+E     PE101      PE102              CHM404   OE-1                            NDE-1
+HSS-I-1/
+ENG112
+
+M.Sc. Integrated (Chemistry)
+
+S  E  M  E  S  T  E  R
+FIRST      SECOND   THIRD    FOURTH   FIFTH      SIXTH    SEVENTH    EIGHTH     NINTH      TENTH
+C   CHM101     TA101    MTH203N  HSS-I-2  CHM401     CHM343   CHM423     CHM443     CHM700     CHM700
+O   PHY101     PHY103   CHM201N  TA201N   CHM421     CHM402   CHM611     CHM481                 CHM800B
+U   PHY102     MTH102   ESO-1    CHM222   CHM441     CHM422   CHM621                            CHM801A
+R   MTH101     ESC102   ESO-2    CHM302   CHM503     CHM442   CHM664
+S   ESC101     CHM100   CHM301   CHM341
+E     PE101      PE102              CHM404
+HSS-I-1/
+ENG112
+
+In addition to above, the student must complete the following credits:
+
+DE    12 Credits
+OE    24 Credits
+HSS-2 08 Credits
+NDE   08 Credits
+
+[PAGE 16]
+CURRENT COURSE STRUCTURE FOR M.Sc. [ 5-YEAR ] STUDENTS WITH FULL TEMPLETE
+
+ECONOMICS
+
+S  E  M  E  S  T  E  R
+FIRST      SECOND   THIRD    FOURTH     FIFTH      SIXTH    SEVENTH  EIGHTH     NINTH      TENTH
+C   CHM101     TA101    MTH203   HSS-I-2    HSS-II-1   ECO303   ECO413   ECO423     ECO535     HSS-II-2
+O   PHY101     PHY103   CHM201   ESO209     ECO311     ECO312   ECO422   ECO424     DEL-3      ECO599
+U   PHY102     MTH102   TA201    ECO202     ECO321     ECO332   ECO434   DEL-2      ECO598     DEL-5
+R   MTH101     ESC102   ESO-1    ECO231     ECO333     DEL-1    ECO402   OE-3       DEL-4      DEL-6
+S   ESC101     ECO100   ECO201   OE-1       ECO341     OE-2     NDE-1    NDE-2      OE-4       OE-5
+E     PE101      PE102
+HSS-I-1/
+ENG112
+
+M.Sc. Integrated (Economics)
+
+S  E  M  E  S  T  E  R
+FIRST      SECOND   THIRD    FOURTH     FIFTH      SIXTH    SEVENTH  EIGHTH     NINTH      TENTH
+C   CHM101     TA101    MTH203N  HSS-I-2    ECO311     ECO303   ECO413   ECO423     ECO535     ECO599
+O   PHY101     PHY103   CHM201N  ESO209     ECO321     ECO312   ECO422   ECO424
+U   PHY102     MTH102   TA201N   ECO202     ECO333     ECO332   ECO434               ECO598
+R   MTH101     ESC102   ESO-1    ECO231     ECO341               ECO402
+S   ESC101     ECO100   ECO201   OE-1
+E     PE101      PE102
+HSS-I-1/
+ENG112
+
+In addition to above, the student must complete the following credits:
+
+DE    24 Credits
+OE    16 Credits
+HSS-2 08 Credits
+NDE   08 Credits
+
+[PAGE 17]
+CURRENT COURSE STRUCTURE FOR M.Sc. [ 5-YEAR ] STUDENTS WITH FULL TEMPLETE
+
+MATHEMATICS & SCIENTIFIC COMPUTING
+
+S  E  M  E  S  T  E  R
+FIRST      SECOND   THIRD    FOURTH     FIFTH      SIXTH    SEVENTH    EIGHTH   NINTH      TENTH
+C   CHM101     TA101    MTH203   HSS-I-2    HSS-II-1   OE-1     OE-2       GE-3     HSS-II-2   MTH599
+O   PHY101     PHY103   CHM201   ESO209     MTH301     MTH304   MTH403     GE-4     MTH598     GE-7
+U   PHY102     MTH102   TA201    MTH202                 MTH306   MTH421     GE-5     GE-6       DEL-2
+R   MTH101     ESC102   ESO-1    MTH204     MTH311     MTH308   MTH423     DEL-1    OE-3       NDE-2
+S   ESC101     MTH100   MTH201   MTH302     MTH401     GE-1*    GE-2       NDE-1    OE-4       OE-5
+E     PE101      PE102
+HSS-I-1/
+ENG112
+
+M.Sc. Integrated (Mathematics and Scientific Computing)
+
+S  E  M  E  S  T  E  R
+FIRST      SECOND   THIRD    FOURTH     FIFTH      SIXTH    SEVENTH    EIGHTH   NINTH      TENTH
+C   CHM101     TA101    MTH203N  HSS-I-2    MTH301                                   MTH598     MTH599
+O   PHY101     PHY103   CHM201N  ESO209     MTH311     MTH304   MTH403
+U   PHY102     MTH102   TA201N   MTH202     MTH401     MTH306   MTH421
+R   MTH101     ESC102   ESO211   MTH204                 MTH308   MTH423
+S   ESC101     MTH100   MTH201   MTH302
+E     PE101      PE102
+HSS-I-1/
+ENG112
+
+In addition to above, the student must complete the following credits:
+
+Option 1 : OE-16 , DE-12
+Option 2 : OE-20 , DE-8
+HSS-2 08 Credits
+GE *   28 Credits
+NDE   08 Credits
+
+* Group Electives –  Department prescribes two lists of courses from which 28 credits have to be
+passed, with a minimum of 8 credits from either list.
+
+The above template is valid for Y7 batch students or students joining later in Maths & Scientific
+Computing.   The  students  of  other  batches  must  contact  the  DUGC  Convener,  Maths  &  Scientific
+Computing for their course templates.
+
+[PAGE 18]
+CURRENT COURSE STRUCTURE FOR M.Sc. [ 5-YEAR ] STUDENTS WITH FULL TEMPLETE
+
+PHYSICS
+
+S  E  M  E  S  T  E  R
+FIRST      SECOND   THIRD    FOURTH     FIFTH      SIXTH    SEVENTH    EIGHTH   NINTH      TENTH
+C   CHM101     PHY103   MTH203   HSS-I-2    HSS-II-1   PHY412   PHY461     PHY462   HSS-II-2   PHY566
+O   PHY101     MTH102   CHM201   TA201      PHY315     PHY422   PHY543     PHY524   PHY563     PHY568
+U   PHY102     TA101    ESO212/  PHY204     PHY401     PHY432   PHY552     PHY553   PHY565     NDE-2
+R   MTH101     ESC102   ESO214   PHY210     PHY421     DEL-1    DEL-2      NDE-1    OE-4       OE-6
+S   ESC101     PHY100   ESO-2    PHY218     PHY431     OE-1     OE-2       OE-3     OE-5       OE-7
+E     PE101      PE102    PHY224
+HSS-I-1/
+ENG112
+
+M.Sc. Integrated (Physics)
+
+S  E  M  E  S  T  E  R
+FIRST      SECOND   THIRD    FOURTH     FIFTH      SIXTH    SEVENTH    EIGHTH   NINTH      TENTH
+C   CHM101     PHY103   MTH203N  HSS-I-2    PHY315     PHY412   PHY461     PHY462   PHY563     PHY566
+O   PHY101     MTH102   CHM201N  TA201N     PHY401     PHY422   PHY543     PHY524   PHY565     PHY568
+U   PHY102     TA101    ESO212/  PHY204     PHY421     PHY432   PHY552     PHY553
+R   MTH101     ESC102   ESO214   PHY210     PHY431
+S   ESC101     PHY100   ESO-2    PHY218
+E     PE101      PE102    PHY224
+HSS-I-1/
+ENG112
+
+In addition to above, the student must complete the following credits:
+
+DE    08 Credits
+OE    28 Credits
+HSS-2 08 Credits
+NDE   08 Credits
+
+[PAGE 19]
+M.Sc. 2-Year (Chemistry) ) WITH FULL TEMPLETE
+
+SEMESTER
+C    FIRST       SECOND       THIRD        FOURTH
+O   CHM 401     CHM 402     CHM 503  (2)   CHM 700
+U   CHM 421     CHM 422     CHM 611     CHM 800
+R   CHM 423 (2)  CHM 442     CHM 621     CHM 801
+S   CHM 441     CHM 443     CHM 664       DE-4
+E   CHM 521     CHM 481       DE-2           DE-5
+DE-1           DE-3
+18            24             22             20
+
+M.Sc. 2-Year (Mathematics) WITH FULL TEMPLETE
+
+C                       SEMESTER
+O    FIRST       SECOND       THIRD        FOURTH
+U    MTH 201N     MTH204       MTH403       MTH306
+R    MTH 301      MTH304       MTH405       MTH424
+S    MTH 409      MTH308       MTH421        DE-2/MTH498
+E    MTH 423      MTH404        DE-1           DE-3
+MTH 428      ESO209        OE-1          OE-2
+20            20             20             20
+
+[PAGE 20]
+M.Sc. 2-Year (Statistics) WITH FULL TEMPLETE
+
+C                       SEMESTER
+O    FIRST       SECOND       THIRD        FOURTH
+U    MTH311      MTH306       MTH513       MTH511
+R    MTH409      MTH411       MTH515       MTH514
+S    MTH413      MTH412       MTH517       MTH516
+E    MTH415      MTH416        DE-1           DE-2/MTH498
+MTH417      MTH418        OE-1          OE-2
+20            20             20             20
+
+M.Sc. 2-Year (Physics) WITH FULL TEMPLETE
+
+C                       SEMESTER
+O    FIRST       SECOND       THIRD        FOURTH
+U    PHY401       PHY412        PHY543        PHY524
+R    PHY421       PHY422        PHY552        PHY553
+S    PHY431       PHY432        PHY563        PHY566
+E    PHY441 (5)    PHY462        PHY565        PHY568
+PHY461       PHY473   (5)    DE-1           DE-2
+DE-3
+21            21             20             24
+
+M.Sc. – Ph.D. Dual-Degree (Physics) ) WITH FULL TEMPLETE
+
+FIRST      SECOND     THIRD    FOURTH   FIFTH        SIXTH
+C   PHY400 (0)   PHY412      PHY462   PHY502N  PHY599A (12)  PHY692/PHY422
+O   PHY401      PHY432      PHY501   PHY524    DE-2         PHY599B (12)
+U   PHY421      PHY461      PHY543   PHY553    DE-3          DE-4
+R   PHY431      PHY473 (5)   PHY552    DE-1
+S   PHY441 (5)   PHY500
+E
+17           21           16         16         20             20/21
+
+[PAGE 21]
+Course Types:
+
+DE    Department Elective (can be UG or PG)

@@ -1,0 +1,791 @@
+[PAGE 1]
+INDIAN INSTITUTE OF TECHNOLOGY KANPUR
+PO: IIT Kanpur, 208 016, Uttar Pradesh, India
+OFFICE OF THE DEAN OF ACADEMIC AFFAIRS
+
+No. AGRIM/2026/01-A
+
+Date: October 27, 2026
+
+Guidelines for Award for Graduate Research Impact and Merit (AGRIM) Grant
+
+1. Core Concept & Purpose
+The IITK AGRIM (Award for Graduate Research Impact and Merit) Grant is an institutional recognition scheme
+designed to reward research excellence in the early or mid phase of PhD.
+Unlike standard travel allowances or post-thesis awards, AGRIM targets early-to-mid tenure doctoral scholars.
+IITK AGRIM Grant is a one-time, merit-based award with grant value of up to ₹1,00,000. This grant is over
+and above the standard conference travel grant and is non-renewable and non-transferable. Additionally, this
+grant is non-retrospective, i.e., it is effective from the date of issuing this office order.
+
+2. Permitted Uses of the Grant
+The AGRIM Grant must be utilized for high-impact academic and research activities. It can be spent across the
+following approved categories:
+
+Category A: International Academic Exposure
+•  Conference, Workshop, or Symposium Registration Fees
+•   Round-trip International Travel & Visa Processing Fees
+•   Travel Insurance & Accommodation Expenses
+•  Summer / Winter School Fees
+
+Category B: Research & Exchange Visits
+•  Foreign / Indian Host Institution Semester Exchange
+•  Research Internships
+•   Joint Degree Programme (JDP) Mobility Visits
+
+Rules of Utilization: All expenses must receive prior written endorsement from your thesis
+supervisor. Final reimbursements and processing are governed by the prevailing IIT Kanpur
+Travel Guidelines.
+
+3. Mandatory Eligibility Checklist
+
+Before preparing an application, verify that you satisfy every single condition listed below:
+•  Student Status: You are a regular, full-time registered PhD scholar at IIT Kanpur. [Note: PMRF scholars
+(past or present) are not eligible for AGRIM].
+•  Coursework Timeline: Applicants must have completed  all prescribed coursework in accordance with
+Clause 7.1 of the P.G. Manual, from the applicable initial registration date, without dropping any registered
+course during a regular semester. For regular PhD scholars, the  initial PhD registration date shall be
+considered. For students converting from the MSR/MTech programme to the PhD programme, the initial
+registration date in the MSR/MTech programme shall be considered. The same coursework completion
+
+Page 1 of 4
+
+[PAGE 2]
+requirement shall apply to M.Sc.-Ph.D. (MSPD) and Integrated Ph.D. scholars, with reference to their initial
+registration date in the PhD programme.
+•  Academic Milestones: You have successfully passed both your Comprehensive Examination and State-of-
+the-Art (SoTA) Seminar within the prescribed timelines stipulated in the PG Manual, with no more than one
+approved extension being granted for the two milestones taken together.
+•  Tenure Window: Applications for AGRIM must be submitted before the completion of five years from the
+date of first PhD registration or before thesis submission, whichever is earlier. This applies equally to scholars
+who have converted from other programmes to the PhD programme. Periods of approved medical leave,
+where applicable, shall be excluded from the five-year eligibility period.
+•  Requirements: The applicant shall fulfill all other documentary and procedural requirements prescribed by
+the Institute/Competent Authority from time to time.
+•   Prior Award History: AGRIM is a one-time institutional grant of up to ₹1,00,000 per doctoral scholar.
+Scholars who have not fully utilized the admissible amount may apply in a subsequent cycle for the unutilized
+balance, subject to eligibility conditions and approval, by submitting an updated utilization plan and written
+endorsement from the thesis supervisor through the standard application procedure. Scholars who have fully
+utilized the grant shall not be eligible to reapply.
+
+4. Detailed Scoring Matrix (100 Marks Total)
+Applications are evaluated using a strict 100-mark selection matrix. You must score at least 80 out of 100
+marks to qualify for consideration.
+
+Formula: Total Evaluation Score (100 Marks) = Academic Score (Max 50) + Research
+Output Score (Max 50)
+
+Part A: Academic Performance (Maximum 50 Marks)
+Your academic performance is calculated directly from your Cumulative Performance Index (CPI) appearing on
+your transcript:
+
+Academic Marks = 5 × CPI
+•  Example: A CPI of 8.40 yields 5 × 8.40 = 42 marks.
+
+Part B: Research Output (Maximum 50 Marks)
+Research output is rated in distinct tiers based on work done at IIT Kanpur. Please see the Appendix for more
+details.
+
+Critical Rule (Non-Cumulative Scoring):  If you meet the criteria for multiple tiers, you
+receive marks only for the single highest tier achieved. Marks from different tiers cannot be
+added together.
+
+Tier           Output Type         Awarded Marks      Verification Proof Needed
+
+Granted Patent(s) with ≥25%                              Official Patent Grant Certificate +
+Tier 1                                  50 Marks
+personal contribution                                 Contribution Certificate
+
+≥1 Accepted/Published         Tier 2                                  40 Marks        Official Publication Link / DOI
+Preferably First-Author
+
+Page 2 of 4
+
+[PAGE 3]
+Research Paper (Q1/Q2)
+
+≥1 Accepted/Published
+Tier 3    Preferably First-Author            25 Marks        Official Publication Link / DOI
+Research Paper (Q3/Q4)
+
+≥1 Preferably First-Author
+Submission Acknowledgement &
+Tier 4    Submitted Research Paper in       10 Marks
+Official Manuscript ID
+Scopus-indexed Journal
+
+Strict Paper Requirements:
+•  Authorship: The student is preferably the first author.
+•  Exclusion of Reviews: Published review papers, literature surveys, and book reviews are strictly excluded.
+•  IITK Affiliation: The research output must originate from work conducted at IIT Kanpur.
+
+5. Qualifying Score Threshold Analysis (The 80-Mark Cut-Off)
+
+Because research scoring  is non-cumulative, the minimum threshold of 80 marks creates clear criteria for
+eligibility:
+
+Path             Research Marks        Required CPI to reach 80
+
+Path 1: Preferably First-Author
+40 Marks       CPI ≥ 8.00 (5 × 8.00 = 40) → Total 80
+Research Paper (Q1/Q2)
+
+Path 2: Granted Patent with
+50 Marks       CPI ≥ 6.00 (5 × 6.00 = 30) → Total 80
+≥25% personal contribution
+
+6. Application Process & Governance Workflow
+
+Step 1: Self-Audit Eligibility
+Verify your CPI and publication status. Calculate your score: Total Score = (5 × CPI) + Research Tier Marks.
+Proceed only   if your score  is ≥80, your PhD  registration duration  is under 5 years, your coursework,
+Comprehensive Exam, and SOTA milestones are cleared, and you have not yet submitted the PhD thesis.
+
+Step 2: Compile Mandatory Evidence
+•   Prepare supporting documents. Collect the following documents into a single PDF bundle:
+•    Official Transcript: Showing CPI as on the date of application.
+•   Milestone Proof: Clearance dates for Coursework, Comprehensive Exam, and SOTA Seminar.
+•   Research Proof: DOI link  / paper PDF for Q1/Q2 publications, OR Patent Certificate + 25% contribution
+proof.
+
+Step 3: Supervisor Endorsement
+Obtain formal recommendation. Fill out the prescribed AGRIM Grant Application Form. Obtain the signature and
+written endorsement of your PhD supervisor outlining the proposed utilization of the grant.
+
+Step 4: Submission & Selection Committee Review
+Administrative processing. Submit the complete dossier to the Office of Dean of Academic Affairs (DOAA).
+Applications are evaluated by the Selection Committee, comprising the Dean of Academic Affairs (Convener),
+
+Page 3 of 4
+
+[PAGE 4]
+Associate Dean of Academic Affairs (Member), SPGC Chairperson (Member), SUGC Chairperson (Member), and
+the President, Students’ Gymkhana, or his/her nominee (Member).
+
+Step 5: Sanction & Disbursement
+Post-approval execution. Upon committee selection and approval, the DOAA issues an official sanction letter.
+Grant utilization follows standard IITK travel claim reimbursement and advance rules.
+
+Note: Always refer to the latest official Office Order and Annexure from DOAA, IIT Kanpur for
+final verification before applying.
+
+This office order supersedes the earlier order No. AGRIM/2026/01 dated September 24, 2026.
+
+Dean, Academic Affairs
+
+Copy to:
+
+1.  Director
+2. Deputy Director
+3. HoDs
+4. OiC (F&A)
+5. DOSA
+6. Webmaster
+
+Page 4 of 4
+
+[PAGE 5]
+INDIAN INSTITUTE OF TECHNOLOGY KANPUR
+PO: IIT Kanpur, 208 016, Uttar Pradesh, India
+OFFICE OF THE DEAN OF ACADEMIC AFFAIRS
+
+Appendix for Graduate Research Impact and Merit (AGRIM) Grant
+
+Appendix: Department-wise Journal and Conference Mapping (As on October 12, 2026)
+This appendix lists department-specific journals, conferences, and equivalent quality benchmarks recognized for
+the purpose of the Research Output score (Section 4, Part B) and the Q1/Q2 and Q3/Q4 classifications referred to
+throughout these guidelines. For the purpose of eligibility, only full-length papers published in peer-reviewed
+conference proceedings shall be considered. Conference abstracts, extended abstracts, presentation/poser only
+abstracts, and similar submissions shall not be considered.
+
+The list is compiled on the recommendation of the respective Departments and will be augmented department-wise
+as further input is received. Where a department is marked “To be updated,” applicants from that department should
+refer to the general criteria in Section 4 until department-specific guidance is issued by the department concerned.
+
+Department           Equivalence Mapping research output to Journals (Quality Tier)
+
+High Speed Vehicle Science and Technology (HiSST) (Q2)
+International symposium on shock waves (ISSW) (Q1)
+AIAA Hypersonic Space Plane and Technology Conference (Q2)
+International Symposium on Combustion (ISOC) (Q1)
+Mediterranean Combustion Symposium (MCS) (Q2)
+European Combustion Meeting (ECM) (Q2)
+International Colloquium on the Dynamics of Explosions and Reactive Systems
+(ICDERS) (Q1)
+International Symposium on Fire Safety Science (IAFSS) (Q2)
+Asia-Pacific Conference on Combustion (ASPACC) (Q2)
+US National Combustion Meeting (USNCM) (Q2)
+European Symposium on Fire Safety Science (ESFSS) (Q2)
+Asia-Oceania Symposium on Fire Science and Technology (AOSFST) (Q2)
+International Conference and Exhibition on Fire Science and Engineering (Interflam) (Q2)
+International Fire Safety Symposium (IFireSS) (Q1)
+AE       International Conference on Forest Fire Research (ICFFR) (Q2)
+International Fire Behaviour and Fuels Conference (Q2)
+International Wildland Fire Safety Summit (Q2/Q3)
+International Conference on Combustion and Energy Utilization (ICCEU) (Q2)
+International Conference on Numerical Combustion (ICNC) (Q2/Q3)
+International Conference on Chemical Kinetics (ICCK) (Q2)
+International Conference on Combustion Technologies for a Clean Environment –
+CleanAir (Q2)
+ASME TurboExpo (Q2)
+AIAA Hypersonics (Q1)
+AIAA Propulsion and Energy Forum (Q1)
+AIAA SCITECH (Q1)
+AIAA Aviation (Q1)
+AIAA/CEAS Aeroacoustics Conference (Q1)
+International Symposium on Turbulence and Shear Flow Phenomena (TSFP) (Q1)
+International Congress of Theoretical and Applied Mechanics (ICTAM) (Q1)
+
+Page 1 of 9
+
+[PAGE 6]
+IUTAM Conferences/Symposiums (Q1)
+APS-DFD Meetings (Q2)
+Colloquium on Vortex-Dominated Flows (Discovor). (Q2)
+Vertical Flight Society Annual Forum(Q2)
+European Rotorcraft Forum (held in EU) (Q2)
+ASME IDETC-CIE (Q2)
+American Gear Manufacturers Association (AGMA) Fall Technical Meeting (Q2)
+Complex Fluids Symposium (Q2)
+International Conference on Multiphase flows. (Q1)
+Australasian Fluid Mechanics Conference. (Q1)
+International Symposium on Turbulent and Shear Flows (Q1)
+International conference on Fluid Mechanics and Fluid Power Conference (FMFP) Q1)
+
+BSBE    To be updated.
+
+Structural Engineering – Q1/Q2
+
+Environmental Engineering – Q1/Q2
+CE
+Geocongress/Geofrontier – Q1/Q2
+
+Transportation Engineering – Q1/Q2
+
+CGS    To be updated.
+
+CHE    To be updated.
+
+CHM    To be updated.
+
+All CSE conferences which are ranked at level A or A* at the ICORE Conference Portal
+(https://portal.core.edu.au/conf-ranks/) are equivalent to Q1/Q2 journals
+
+Additional CSE conferences are considered equivalent to Q1/Q2 journals
+
+ACM Conference on Fairness, Accountability and Transparency
+
+ACM International Conference on Hybrid Systems: Computation and Control
+
+ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming
+
+ACM/IEEE International Conference on Cyber‑Physical Systems
+
+ACM/SPEC International Conference on Performance Engineering
+
+Algorithmic Learning Theory
+CSE     American Control Conference
+Applied Cryptography and Network Security
+
+Asia and South Pacific Design Automation Conference
+
+Asian Symposium on Programming Languages and Systems
+
+Automated Technology for Verification and Analysis
+
+Compiler Conference
+
+Conference on Computational Natural Language Learning
+
+Conference on Language Modeling
+
+Conference on Robot Learning
+
+Cryptographers’ Track at RSA Conference
+
+Eurographics Conference on Visualization
+
+Page 2 of 9
+
+[PAGE 7]
+European Symposium on Programming
+
+Fast Software Encryption / IACR Transactions on Symmetric Cryptology
+
+Field Programmable Logic and Applications
+
+Formal Methods in Computer‑Aided Design
+
+IEEE Conference on Decision and Control
+
+IEEE International Conference on Cluster Computing
+
+IEEE International Conference on High‑Performance Computing, Data, and Analytics
+
+IEEE International Symposium on Cluster, Cloud, and Grid Computing
+
+IEEE International Symposium on Hardware‑Oriented Security and Trust
+
+IEEE International Symposium on Performance Analysis of Systems and Software
+
+IEEE Pacific Visualization Conference
+
+IEEE Quantum Computing and Engineering
+
+IEEE/ACM Compilers, Architectures, and Synthesis for Embedded Systems
+
+IEEE/ACM Parallel Architectures and Compilation Techniques
+
+Integrated Formal Methods
+
+International Conference on Computational Linguistics
+
+International Conference on Hardware/Software Codesign and System Synthesis
+
+International Conference on Language Resources and Evaluation
+
+International Conference on Parallel Processing
+
+International European Conference on Parallel and Distributed Computing
+
+International Joint Conference on Natural Language Processing
+
+ISC High Performance (International Supercomputing Conference)
+
+Learning for Decision and Control
+
+Mathematical Foundations of Computer Science
+
+Public‑Key Cryptography
+
+Quantum Information Processing
+
+Reinforcement Learning Conference
+
+Security and Cryptography for Networks
+
+Selected Areas in Cryptography
+
+Sequential Anytime Valid Inference
+
+Static Analysis Symposium
+
+Theory of Cryptography Conference
+
+Utility/Design Patents granted, Design registration, or Technology capable of transfer at
+TRL 3–5
+
+Book with a recognized publisher; peer-reviewed book chapter with a recognized publisher
+DES
+such as Springer (a conference paper is not admissible)
+
+Q3/Q4 journals should be considered in fields with small research populations and a highly
+specialised scope.
+
+Bachelier Finance Society World Congress – Q1
+
+SIAM Financial Mathematics & Engineering (FM) – Q1
+DoMS
+OMI Machine Learning in Quantitative Finance Conference – Q1
+
+SoFiE Annual Conference – Q1
+
+Page 3 of 9
+
+[PAGE 8]
+ISI World Statistics Congress – Q1
+
+Joint Statistical Meetings (JSM) – Q1
+
+Bernoulli–IMS World Congress – Q1
+
+NeurIPS – Q1
+
+ICML – Q1
+
+Stochastic Processes & their Applications (SPA) – Q1
+
+INFORMS Annual Meeting – Q1
+
+IEEE Conference on Decision and Control (CDC) – Q1
+
+ACM ICAIF – Q1
+
+ICIS – Q1
+
+AoM Conference – Q1
+
+MSOM Conference – Q1
+
+AMaMeF – Advanced Mathematical Methods for Finance – Q1/Q2
+
+Bachelier Colloquium – Q1/Q2
+
+International Congress on Insurance: Mathematics & Economics – Q1/Q2
+
+CFE – Computational & Financial Econometrics – Q1/Q2
+
+CMStatistics – Q1/Q2
+
+EcoSta – Econometrics & Statistics – Q1/Q2
+
+SIAM Annual Meeting – Q1/Q2
+
+SIAM Conference on Optimization – Q1/Q2
+
+SIAM Conference on Uncertainty Quantification – Q1/Q2
+
+IEEE CIFEr – Q1/Q2
+
+NUS Quantitative Finance Conference – Q2
+
+PKU–NUS International Conference on Quantitative Finance & Economics – Q2
+
+Vienna Congress on Mathematical Finance – Q2
+
+QFFE – Quantitative Finance & Financial Econometrics – Q2
+
+International Conference on Computational Finance (ICCF) – Q2
+
+NeurIPS Finance / Economics Workshops – Q2
+
+QFRA – Quantitative Finance & Risk Analysis Symposium – Q2/Q3
+
+Workshop on Quantitative Finance (WQF) – Q2/Q3
+
+QuantMinds International – Industry
+
+Global Derivatives Trading & Risk Management – Industry
+
+Risk Live / Risk.net Quant Events – Industry
+
+WBS Quantitative Finance Conferences – Industry
+
+ECOS    To be updated.
+
+EE     To be updated.
+
+ES     To be updated.
+
+HSS     Fine Arts
+
+Page 4 of 9
+
+[PAGE 9]
+Books and book chapters published by well-accepted publishers should also be a part of
+the evaluation criteria.
+
+In the case of Fine Arts, international artist residencies should be considered.
+
+Exhibitions   and   curatorial   projects,    in   which   the   participant   must  be
+invited/sponsored/funded by established galleries or institutions, should be considered.
+
+Publications in Q3, Q4 and Scopus-indexed journals may be considered.
+
+Sociology
+
+Publications in Q1, Q2, Q3 and Q4 journals may be considered
+
+In addition, discipline-specific forms of scholarly equivalence with these journal categories
+may also be considered.
+
+If a student has chapter (s) in books published by reputed publishing houses (such as,
+University Presses, Routledge, Sage, Springer, Edward Elgar), they may be considered.
+
+Philosophy
+
+A peer-reviewed book chapter (or an essay/paper in a collection/anthology) should be
+considered equivalent to a Q1/Q2 journal article.
+
+Acceptable sources include, a verifiable official publication link or Digital Object Identifier
+(DOI); scholarly monographs published by recognised academic presses; peer-reviewed
+book chapters or review articles from established academic publishers (such as University
+Presses or major scholarly publishers); and formally peer-reviewed, indexed conference
+proceedings.
+
+Publications in Q2, Q3, and Q4 journals, as well as any publication in a Scopus-indexed
+journal, may also be considered.
+
+Psychology
+
+DOAA’s Points 1 and 2 are agreed upon, with the key exception that the journal Qualitative
+Inquiry should be explicitly included for the award, as it is a foundational journal.
+
+Research monographs published with internationally reputed academic presses should be
+considered equivalent to Q1 publications, although such monographs are rarely published
+during PhD tenure.
+
+Publication in Q1, Q2, Q3, and Q4 journals, as well as book chapters published by well-
+recognised publishers, may be considered.
+
+English Literature and Linguistics
+
+It is recommended to consider book chapters published by internationally recognised
+publishers.
+
+The discipline has recommended the following journal lists:
+
+• Framework: The Journal of Cinema and Media, Wayne State University Press, Q1/Q2
+
+• Discourse: Journal for Theoretical Studies in Media and Culture, Wayne State University
+
+Press, Q1/Q2
+
+• Jump Cut: A Review of Contemporary Media, Q1/Q2
+
+• SYNOPTIQUE, Concordia University’s School of Cinema, Q3/Q4
+
+• Research in Film and History, University of Bremen, Q1/Q2
+
+• Journal of the Moving Image, Jadavpur University, Q1/Q2
+
+• Southbound Review, Q1/Q2
+
+Page 5 of 9
+
+[PAGE 10]
+• Foundation: The International Review of Science Fiction, Q1/Q2
+
+• Journal of the Fantastic in the Arts, Q1/Q2
+
+• Fafnir: Nordic Journal of SF and Fantasy Research, Q1/Q2
+
+• Femspec, Q1/Q2
+
+• MOSF Journal of Science Fiction, Q1/Q2
+
+• SFRA Review, Q1/Q2
+
+• Contemporary Voices of Dalit, Q1/Q2
+
+• Caste: A Global Journal on Social Exclusion, Q1/Q2
+
+• Indian Literature, Q1/Q2
+
+• Asian Literature and Translation, Q1/Q2
+
+• Journal of Urdu Studies, Q1/Q2
+
+• IACLALS Journal, Q1/Q2
+
+• Sahitya, Comparative Literature Association of India, Q1/Q2
+
+• Journal of Historical Fiction, Q1/Q2
+
+• Journal of Comparative Literature and Aesthetics, Q1/Q2
+
+• Bhāṣā: Journal of South Asian Linguistics, Philology and Grammatical Traditions,
+
+Venice University Press, Q1/Q2
+
+• Journal of the American Oriental Society, Q1/Q2
+
+• Indo-Iranian Journal, Brill, Q1/Q2
+
+• Old World: Journal of Ancient Africa and Eurasia, Brill / BNU-HKBU RCHC, Q1/Q2
+
+• Acta Orientalia, Nordic Association for South Asian Studies, Q1/Q2
+
+• Journal of South Asian Languages and Linguistics, De Gruyter, Q1/Q2
+
+• Journal of South Asian Linguistics, Q1/Q2
+
+• Himalayan Linguistics, eScholarship Publishing, University of California, Q1/Q2
+
+• Indian Linguistics, Journal of the Linguistic Society of India, Q1/Q2
+
+• International Journal of Dravidian Linguistics, Journal of the Dravidian Linguistic
+
+Society, Q1/Q2
+
+• The Journal of Hindu Studies, Q1/Q2
+
+• Asian Literature and Translation, Cardiff University, Q1/Q2
+
+• Ecozon@: European Journal of Literature, Culture and Environment, University of
+
+Alcalá, Spain, Q1/Q2
+
+• Ecocene: Cappadocia Journal of Environmental Humanities, Cappadocia University,
+
+Q1/Q2
+
+• Landscapes, Taylor & Francis, Q1/Q2
+
+• Interdisciplinary Literary Studies, Pennsylvania State University, Q1/Q2
+
+• Journal of Posthuman Studies, Pennsylvania State University, Q1
+
+• Journal of Posthumanism, Transnational Press London, Q1
+
+• Bookbird: A Journal of International Children’s Literature, International Board on Books
+
+for Young People, Q1/Q2
+
+• International Research in Children’s Literature, Edinburgh University Press, Q1/Q2
+
+• Journal of Children and Media, Taylor & Francis, Q1/Q2
+
+• Children’s Geographies, Taylor & Francis, Q1/Q2
+
+Page 6 of 9
+
+[PAGE 11]
+• Children & Society, Wiley, Q1/Q2
+
+• Children’s Literature Association Quarterly, Johns Hopkins University Press, Q1/Q2
+
+• Children’s Literature, Johns Hopkins University Press, Q1/Q2
+
+Publication in Q1, Q2, Q3, and Q4 journals may be considered.
+
+IS     To be updated.
+
+KSS     Proceedings of Supercomputing Conference (SC) – Q1
+
+Q1/Q2:
+• AIAA conference
+• ASME Turbo-Expo
+• ASME Gas Turbine India
+• International Symposium on Turbulence and Shear Flow Phenomena (TSFP)
+• European Turbulence Conference (ETC)
+• Australasian Fluid Mechanics Conference (AFMC)
+• International Symposium on Particle Image Velocimetry (ISPIV)
+• American Physical Society Division of Fluid Dynamics (APS DFD)
+• International Conference on Composite Materials (ICCM)
+• ECCOMAS Thematic Conference on Mechanical response of composites
+• European Conference on Composite Materials (ECCM)
+• International Conference on Composite Structures (ICCS)
+• CFRAC(Computational Modeling of Fracture and Failure of Materials and Structures)
+• International Conference on Damage Mechanics (ICDM)
+• World Congress on Computational Mechanics
+• The International Congress in Theoretical and Applied Mechanics (ICTAM)
+• International Conference of Multiphase Flows (ICFM)
+• ICAM — ASTM International Conference on Additive Manufacturing
+• AM Bench — Additive Manufacturing Benchmarks — NIST, USA
+• Additive International — Additive Manufacturing & 3D Printing International Conference.
+ME          • SIM-AM — International Conference on Simulation for Additive Manufacturing
+• ASPE/euspen Summer  Topical  Meeting  on  Advancing  Precision  in  Additive
+Manufacturing
+• CIRP General Assembly
+• LiM — Lasers in Manufacturing
+• MCWASP — Modelling of Casting, Welding and Advanced Solidification Processes
+• ICASP — International Conference on Advances in Solidification Processes
+• TMS Annual Meeting & Exhibition
+• THERMEC — International Conference on Processing and Manufacturing of Advanced
+Materials
+• IIW — International Institute of Welding Annual Assembly and International Conference
+• ICAMC — International Conference on Additive Manufacturing and Characterization
+• ASME AM3D India — Additive Manufacturing & 3D Printing India Conference
+• AIMTDR — All India Manufacturing Technology, Design and Research Conference
+• COPEN — International Conference on Precision, Meso, Micro and Nano Engineering
+• ICSSP — International Conference on Solidification Science and Processing
+• ICRA ( IEEE International Conference on Robotics and Automation)
+• IROS (IEEE/RSJ International Conference on Intelligent Robots and Systems)
+• IFAC World Congress
+• ACC (American Control Conference) on Controls.
+•  Intl. Congress on Sound and Vibration
+• Proceedings of the Combustion Institute
+
+Page 7 of 9
+
+[PAGE 12]
+• International Congress on Acoustics
+• AIAA Aviation Forum
+• International Symposium on Combustion
+• ILASS Asia, ILASS Europe - the Institute for Liquid Atomization and Spray Systems
+• ICLASS (International Conference on Liquid Atomization and Spray Systems)
+• ICNMMF (International Conference on Numerical Methods in Multiphase Flows)
+• ASPACC- Asia-Pacific Conference on Combustion
+• MCS - Mediterranean Combustion Symposium
+• ECM - European Combustion Meeting
+• International Conference on Circulating Fluidized Bed Technology
+• International Conference on Fluidized Bed Conversion
+• International Heat Transfer Conference (IHTC)
+• ASME Summer Heat Transfer Conference (SHTC)
+• European Thermal Sciences Conference (EUROTHERM)
+• Australasian Heat and Mass Transfer Conference (AHMTC)
+• International Symposium on Turbulence, Heat and Mass Transfer (THMT)
+• International Conference on Computational Heat and Mass Transfer (ICCHMT)
+• Thermal and Fluids Engineering Conference (TFEC)
+• Micro/Nanoscale Heat and Mass Transfer International Conference (MNHMT)
+• International Conference on Heat and Mass Transfer in Porous Media
+• International Conference on Multiphase Flow (ICMF)
+• International Conference on Boiling and Condensation Heat Transfer
+• EFDC (Eur. Flu. Dyn. Conf.)
+• AIAA Aeroacoustics conference
+• Internoise
+
+Q3/Q4:
+• Fluid Mechanics and Fluid Power (FMFP) Conference
+• National Aerospace Propulsion Conference (NAPC)
+• Progress in Electromagnetic Research Symposium (PIERS)
+• Quantitative Infrared Thermography (QIRT) Conference
+• International Conference on Advances in Additive Manufacturing & Materials
+• CMS — CIRP Conference on Manufacturing Systems
+• IMECE — ASME International Mechanical Engineering Congress & Exposition
+• ICAMM — International Conference on Advances in Materials and Manufacturing
+• IIW-India International Congress on Welding, Additive Manufacturing and Associated
+NDT
+• Berlin Beam forming Conference (held in Berlin, Germany)
+• 11. ACOUSTICS: annually held in Australia, New Zealand
+
+MSE    To be updated.
+
+MSP    To be updated.
+
+MTH    To be updated.
+
+PHY     To be updated.
+
+PSE     To be updated.
+
+Q1/Q2 ranking according to any of JCR, SJR, or Scopus index shall be deemed
+SDS
+acceptable.
+
+Page 8 of 9
+
+[PAGE 13]
+CORE A* shall be considered Q1-equivalent; CORE A shall be considered Q2-equivalent.
+
+ABDC A* shall be considered Q1-equivalent; ABDC A shall be considered Q2-equivalent.
+
+List of CORE A*/A conferences: https://portal.core.edu.au/conf-ranks/
+
+List of ABDC A*/A journals: https://abdc.edu.au/abdc-journal-quality-list
+
+SEE     To be updated.
+
+Conference Proceedings: Proceedings of SPIE – Q2
+
+Journals: Experimental Astronomy
+
+Journals: Journal of Instrumentation (JINST)
+
+Journals: Journal of Astronomical Telescopes, Instruments, and Systems (JATIS)
+
+Journals: Journal of Astronomical Instrumentation
+
+Journals: RAS Techniques & Instruments (RASTI)
+
+Journals: Review of Scientific Instruments
+
+SPASE    Journals: Journal of Astrophysics and Astronomy
+
+Journals: IET Microwaves, Antennas & Propagation
+
+Journals: International Journal of RF and Microwave Computer-Aided Engineering
+
+Journals: International Journal of Microwave and Wireless Technologies
+
+Journals: Microwave and Optical Technology Letters
+
+Journals: Journal of Plasma Physics
+
+Journals: Plasma Science and Technology
+
+Journals: Contributions to Plasma Physics
+
+WSAIS   To be updated.
+
+Page 9 of 9

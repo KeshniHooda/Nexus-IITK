@@ -1,0 +1,28 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+Kanpur 208 016 Uttar Pradesh (India)
+Academic Section
+
+Student Awards and Honours
+
+Student’s Name: Mr. Dhanajit Brahma
+
+Programme and Department: PhD/CSE
+
+Thesis Supervisor/Mentor: Prof. Piyush Rai
+
+Award/Honour: Winners of QIF 2020
+
+Host Organization: Qualcomm Innovation Fellowship 2020
+Brief Description of the Award/Honour: Mr. Dhanajit Brahma, a CSE PhD student is
+One of the eleven winning teams of the prestigious Qualcomm Innovation Fellowship
+2020. The fellowship had a competitive two-round selection process: a total of 90
+teams submitted research proposals, out of which 29 were selected for the finals
+(oral presentation), and in the end, 11 were selected as winners, with the proposal of
+Dhanajit one of them.
+The proposal of Dhanajit was on the problem of  "continual learning", where the goal
+is to enable deep neural networks learning to solve a sequence of tasks in a way that,
+when learning to solve a new task, the neural network does not forget the knowledge
+acquired about solving previous tasks, a capability that is inherent to humans.
+
+Date: June 28, 2020

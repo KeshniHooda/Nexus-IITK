@@ -1,0 +1,344 @@
+[Page 1]
+Department of Sustainable Energy Engineering 
+Indian Institute of Technology Kanpur 
+Proposal for Course Modification 
+Course Title 
+Introduction to Sustainable Energy Policy 
+Number 
+SEE-617 
+Credits (L-T-P [C]) 
+3-0-0-9 
+Departments proposing the course 
+: Sustainable Energy Engineering 
+Name of the Proposer 
+: Deepika Swami, Rajeev Jindal 
+Offered for 
+PG Students of SEE and other departments 
+3/4
+th year UG students of other departments 
+Status of the course 
+: PG Elective/ UG Elective 
+Prerequisite(s) for the course 
+: Consent of Instructor 
+Faculty members interested in teaching 
+: Deepika Swami, Rajeev Jindal, Sheo Shankar
+Rai, Indu Shekhar Chaturvedi, Anna Agarwal 
+Other Departments/Programmes of whose the 
+students are expected to take up the course 
+: ME, EE, CHE, MSE, AE, IME, ECO 
+Objective 
+The course will introduce different aspects of energy policy including energy resources, energy 
+security, energy efficiency, energy justice, energy transition, integration of energy policy with 
+climate governance, challenges and opportunities associated with coal and renewable energy. 
+One of the major requirements is that energy policy should be aligned towards our development 
+and rapid economic growth. Policymakers have predominately relied on policy instruments 
+that utilize price mechanisms to deploy sustainable energy without giving much consideration 
+to security and transition concerns and larger geopolitical questions of who owns the energy 
+system, and how the energy needs to be generated and distributed. 
+Expected Learning Outcomes 
+The students completing this course will be equipped with the theoretical and analytical 
+abilities to examine the nuanced relationship between energy policy and climate change and 
+how the transition towards sustainable energy systems will change the overall scenario of 
+energy system. They will understand the role of various policy instruments and institutions 
+in shaping India’s energy policy. The course will develop analytical and critical thinking and 
+introduce new perspectives about energy, environmental and climate policies at global and 
+national level and will give a new dimension to their innovative thinking, motivating them to 
+come up with policy relevant technical solutions in the field of sustainable energy.
+
+[Page 2]
+Course outline 
+The course begins with providing an overall context about the history of energy system and 
+introduction of India’s energy landscape. Next, it focuses on understanding energy security, 
+geopolitical factors important to achieve energy security for India. Following this, we will 
+understand the production, generation and distribution of various energy resources and the 
+instruments that can help in achieving smooth transition from fossil-based sources to 
+renewable energy. Lastly, we will understand how global climate governance and 
+commitments will shape India’s energy future. 
+Lecture -wise break up 
+Sr. 
+No. 
+Topics 
+Lectures 
+1 
+Overview of the Indian Energy Scenario: 
+
+Historical Development of India’s and Global Energy Sector
+
+Introduction to India’s Energy Landscape: Energy Production,
+Demand, Supply, and Consumption Patterns
+
+Linking energy and environment: Emissions, Emission factor,
+Role of energy, Kaya identity and need for energy transition
+6 
+2 
+Energy security, and formulation of energy policy 
+
+India’s energy landscape: growth and challenges
+
+Energy security: challenges and role of policies
+
+Formulation of energy policy: Major stakeholders and process
+involved
+6 
+3 
+Conventional energy sources and Indian energy portfolio 
+
+Role of Fossil fuel sources: Role of coal, oil and gas in India’s
+energy mix, including production, energy generation,
+environmental implication. Policy scenario and how is it
+evolving?
+
+Indian economy and dependence on coal: Political economy
+of coal
+
+India’s energy management system – roles of GENCO,
+TRANSCO, DISCOM
+
+Electricity act and its development
+10
+
+[Page 3]
+4 
+India’s energy transition and various policy initiatives 
+
+Drivers of energy transition: Environmental, Social,
+Economic, and Technological Factors
+
+Growth of non-fossil based: Wind, Solar, Bioenergy, Tidal,
+Geothermal. Current status and policy support.
+
+Driving demand and generation growth through policy
+framework: RPO, GEOA, roof top solar, PM-KUSUM Yojna,
+NBP, PMUY, CAFC, EBP, EV,
+
+Regulatory institutions (MNRE, SERC, BEE, CEA etc.)
+
+Economics of energy generation and distribution: Feed-in
+Tariffs, PPAs, Tax Incentives, Subsidies, Grants, Carbon
+Pricing, Cap-and-Trade Systems, and Emission Trading
+Schemes
+
+Integration of renewables in grid: policy framework
+
+India’s energy policy for critical minerals for renewable
+energy
+10 
+5 
+Indian energy policy and global climate governance 
+
+National and international missions: UNFCCC, COPs,
+NPACC, NCAP
+
+India’s commitments and agreements (Kyoto, Paris,
+Glasgow)
+
+India’s efforts in integrating renewable energy policies with
+climate change mitigation strategies
+
+Future of energy generation in context of climate change
+8 
+References 
+Books 
+1. Gupta, J. (2014). Handbook of Climate Change and India: Development, Politics and
+Governance. 
+2. Laird, F. N. (2004). Power politics: equity and environment in electricity reform:
+Washington, DC: World Resources Institute, 2002. xv+ 175 pp. Paperback. $30.00. Utilities 
+Policy, 12(1), 51-51. 
+Papers 
+Chapman, A.J., McLellan, B.C., Tezuka, T., 2018. Prioritizing mitigation efforts considering 
+co-benefits, equity and energy justice: Fossil fuel to renewable energy transition pathways. 
+Appl. Energy 219, 187–198. https://doi.org/10.1016/j.apenergy.2018.03.054 
+Dubash, N.K., Ghosh, S., 2019. National Climate Policies and Institutions. India a Warm. 
+World 329–348. https://doi.org/10.1093/oso/9780199498734.003.0019 
+Dubash, N.K., Joseph, N.B., 2016. Evolution of Institutions for Climate Policy in India. 
+Econ. Polit. Wkly. 51, 44–54. 
+Fischer, F., Miller, G.J., 2017. Handbook of public policy analysis: theory, politics, and 
+methods. Routledge. 
+Hirth, L., 2013. The market value of variable renewables. The effect of solar wind power 
+variability on their relative price. Energy Econ. 38, 218–236. 
+https://doi.org/10.1016/j.eneco.2013.02.004
+
+[Page 4]
+International Energy Agency, 2020. India 2020: Energy Policy Review, International Energy 
+Agency. https://doi.org/10.1007/BF03404634 
+Keady, W., Panikkar, B., Nelson, I.L., Zia, A., 2021. Energy justice gaps in renewable energy 
+transition policy initiatives in Vermont. Energy Policy 159, 112608. 
+https://doi.org/10.1016/j.enpol.2021.112608 
+Kumar, G.S., 2017. Anatomy of Indian energy policy: A critical review. Energy Sources, Part 
+B Econ. Plan. Policy 12, 976–985. https://doi.org/10.1080/15567249.2017.1336814 
+NITI Aayog, 2017. Draft National energy policy, NITI Aayog. 
+Patlitzianas, K.D., Doukas, H., Kagiannas, A.G., Psarras, J., 2008. Sustainable energy policy 
+indicators: Review and recommendations. Renew. Energy 33, 966–973. 
+https://doi.org/10.1016/j.renene.2007.05.003 
+Shukla, P.R., Chaturvedi, V., 2012. Low carbon and clean energy scenarios for India: 
+Analysis of targets approach. Energy Econ. 34, S487–S495. 
+https://doi.org/10.1016/j.eneco.2012.05.002 
+Tongia, R., Gross, S., 2019. Coal in India: Adjusting to Transition. Brookings Pap. 7. 
+Course proposed by 
+Recommended/ Not 
+recommended 
+This course is approved/not 
+approved 
+(Deepika swami ) 
+Convener, DPGC (SEE) 
+Chairman, SPGC 
+(Rajeev Jindal) 
+Modidifed course vs. present course: Revised course looks at the energy policy in a more 
+holistic manner, with consideration of various dimensions including, energy resources, their 
+exploration, production, generation along with the broad range of policy initiatives related to 
+both renewable and non-renewable energy, which were found to be missing in the earlier 
+version of the course. Thereby, this course is more comprehensive in nature and focuses on 
+integrating technological, environmental, economic and social aspects with energy policy. 
+The revision in course content is > 50%,
+
+[Page 5]
+Department of Sustainable Energy Engineering 
+Indian Institute of Technology Kanpur 
+Proposal for a New Course 
+Course Title 
+Introduction to Sustainable Energy Policy 
+Number 
+SEE-617 
+Credits (L-T-P [C]) 
+2-0-0-6 
+Departments proposing the course 
+: Sustainable Energy Engineering 
+Name of the Proposer 
+: Pradip Swarnakar Anoop Singh 
+Offered for 
+PG Students of SEE and other departments 
+3/4
+th year UG students of other departments 
+Status of the course 
+: PG Elective/ UG Elective 
+Prerequisite(s) for the course 
+: Consent of Instructor 
+Faculty members interested in teaching 
+: Pradip Swarnakar, Anoop Singh
+Other Departments/Programmes of whose the 
+students are expected to take up the course 
+: ME, EE, CHE, MSE, AE, IME, ECO 
+Course Objectives (Please outline objectives of the course) 
+The overall objective of the course is to provide students with a comprehensive understanding of the 
+energy policy in India with special reference to clean and renewable energy sourcesthe role of sustainable 
+energies in shaping the future trajectories of the policy. With climate change threatening the very survival 
+of humanity, the energy transition has climbed to the top of the priority list for the policy-makers. The 
+transition is a multi-dimensional process with technical and social transformations at the heart of it. The 
+course will discuss role of policy framework in shaping up this transition. 
+Expected Learning Outcomes (Please outline what will students be able to achieve after doing the course) 
+The students completing this course will be equipped with the theoretical and analytical abilities to 
+examine the nuanced relationship between energy policy and society and how the transition towards 
+sustainable energy systems affects and modifies this relationship. They will understand how the 
+technological innovations are embedded in the overall socio-political fabric. The course will give a human 
+and social dimension to their innovative thinking, motivating them to come up with socially sensitive and 
+policy relevant technical solutions in the field of sustainable energy. 
+Course outline 
+The course begins with providing an overall context about the relationship between energy and society. 
+Next, it focuses on theoretical approaches to understand the policy processes. Following this, it traces 
+the historical development of the energy policy in India. The major emphasis of the course will be on 
+the more contemporary development of the energy policy in India within the context of global climate 
+change governance and the increasing prominence of sustainable energies within it. The course ends 
+with foregrounding the policy challenges of governing a just sustainability transition towards 
+renewables. 
+Lecture wise breakup 
+This is the current version
+
+[Page 6]
+S.No. 
+Topics 
+Lectures 
+1. 
+Introduction: Situating energy within social relations and society 
+02 
+2. 
+Public Policy: Definition; various approaches to study public policy – elite theory, 
+systems theory, group theory, institutional theory, rational-choice theory 
+03 
+3. 
+Energy Policy in India (1): 
+(a) Historical background and overview;(b) Understanding the dependence on of 
+conventional sources: the post-independence importance of coal in the Indian context; 
+the socio-political economy of coal and its integration into the energy policy. 
+03 
+4. 
+Energy Policy in India (2): Institutional development and major regulatory bodies. 
+Sector-specific policy discussion, coal, oil, electricity, RE etc. 
+02 
+5. 
+Indian energy policy and global climate governance (pre-2007): Claims on Energy 
+justice and insulation from global climate politics; India’s role in building the global 
+Southern block 
+01 
+6. 
+Indian energy policy and global climate governance (post 2007): Increased global 
+integration of energy policy with global climate governance; role of renewables in 
+national plan against climate change: NAPCC, Copenhagen 2009 and Paris Agreement 
+2015. Understanding energy policy instruments within the context of climate change: 
+coal tax and subsidies of renewables. 
+04 
+7. 
+Renewable energy and challenges for Energy Policy in India: Governing energy 
+transition efficiently- how to price renewables; how to make them financially viable for 
+mass acceptance; The role of science and technology in assisting policy making around 
+energy. 
+03 
+8. 
+Renewable energies and contested futures: Understanding just transitions: Why we need 
+justice in renewable energy transition? 
+02 
+9. 
+Environmental Policy Action in India: Coal tax/cess, Energy efficiency and energy 
+security, Energy access and renewable energy, Sustainable energy resources (challenges 
+and opportunities) 
+06 
+ 
+Text-books, reference books, suggested readings and any other references 
+ 
+Dubash, Navroz K. 2019. India in a Warming World: Integrating Climate Change and Development. 
+Oxford University Press. 
+Dubash, Navroz K., Radhika Khosla, Narasimha D. Rao, and Ankit Bhardwaj. 2018. “India’s Energy 
+and Emissions Future: An Interpretive Analysis of Model Scenarios.” Environmental Research 
+Letters 13(7):074018. doi: 10.1088/1748-9326/aacc74. 
+Goldthau, A. (Ed.). (2016). The handbook of global energy policy. John Wiley & Sons. 
+Jasanoff, Sheila. 2018. “Just Transitions: A Humble Approach to Global Energy Futures.” Energy 
+Research & Social Science 35:11–14. doi: 10.1016/j.erss.2017.11.025. 
+Mitra, S. (2019). TEnergizing India: Fuelling a Billion Lives. Rupa Publications. 
+Singh, A. (2006). Power sector reform in India: current issues and prospects. Energy policy, 34(16), 
+2480-2490. 
+Singh, A. (2008). The economics of Iran-Pakistan-India Natural Gas pipeline. Economic and Political 
+Weekly, 57-65.
+
+[Page 7]
+Singh, A. (2009). A market for renewable energy credits in the Indian power sector. Renewable and 
+Sustainable Energy Reviews, 13(3), 643-652. 
+Singh, A. (2009). Climate co-benefit policies for the Indian power sector: domestic drivers and North— 
+South cooperation. Climate Policy, 9(5), 529-543. 
+Swarnakar, Pradip. 2019. “Climate Change, Civil Society, and Social Movement in India.” Pp. 253–72 
+in India in a Warming World. Oxford University Press. 
+Urpelainen, Johannes, and Setu Pelz. 2020. Covid-19 and a Just Transition in India’s Coal Mining 
+Sector. John Hopkins. 
+Vihma, Antto. 2011. “India and the Global Climate Governance: Between Principles and Pragmatism.” 
+The Journal of Environment & Development 20(1):69–94. doi: 10.1177/1070496510394325. 
+Wu, F. (2018). Energy and climate policies in China and India: A two-level comparative study. 
+Cambridge University Press. 
+Yenneti, Komali, and Rosie Day. 2015. “Procedural (in)Justice in the Implementation of Solar Energy: 
+The Case of Charanaka Solar Park, Gujarat, India.” Energy Policy 86:664–73. doi: 
+10.1016/j.enpol.2015.08.019. 
+
+ 
+
+ 
+
+ 
+
+ 
+Course proposed by 
+Recommended/ 
+Not recommended 
+This course is approved/not 
+approved 
+(Pradip Swarnakar) 
+Convener, DPGC (SEE) 
+Chairman, SPGC 
+
+(Anoop Singh)

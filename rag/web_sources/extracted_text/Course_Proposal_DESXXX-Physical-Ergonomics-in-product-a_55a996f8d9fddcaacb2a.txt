@@ -1,0 +1,135 @@
+[Page 1]
+Indian Institute of Technology, Kanpur 
+Proposal for a New Course 
+1. Course No: DESxxx 
+2. Name of the Course: Physical Ergonomics in product and facility design 
+3. Per Week Lectures: 03 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours[0-2]: 0 (A) 
+Credits (3*L+2*T+P+A): 9 
+
+ 
+ 
+Duration of Course: Full Semester 
+4. Proposing Department/IDP: Design 
+Other Departments/IDPs which may be interested in the proposed course: 
+Other faculty members interested in teaching the proposed course: 
+5. Proposing Instructor(s): Ashish Kumar Singh 
+6. Course Description: 
+Relevance: Provides the essential physical ergonomics skillset designers must use when sizing products, furniture and 
+workspaces. Fundamental for any user-centered product or workplace design. 
+Objective: To equip students with foundational knowledge of ergonomics, anthropometry, biomechanics, postural 
+and repetitive task risk assessment, and environmental stressors, and the ability to apply this knowledge in practical 
+design solutions. 
+Course Content: 
+The course emphasizes experiential learning through structured fieldwork and workshop based prototyping. Practical 
+hours are expanded to support user research, data collection, assessment method applications, and iterative design 
+validation. 
+Sl. 
+No. 
+Topic Description* 
+Session (Lecture/ 
+exercise (on field)) 
+1 
+Introduction to HFE and scope 
+(def, history, domains, need of HFE in Industrial Design, applications) - Approx. 4 
+Lectures 
+Musculoskeletal disorders (MSDs): risk factors and prevention principles - Approx. 
+3 Lectures 
+Applied case-based redesign of a workstation/tool/furniture component - Approx. 
+3 Lectures 
+Initial Mid-Module Assignment Brief 
+On field practical exercise (field familiarization visit, user research) 
+10 
+
+ 
+2 
+Anthropometry: measurement, percentiles, population data, design use-cases - 
+Approx. 5 Lectures 
+Methods: simple measurement techniques, image and video-based observation, basic 
+data handling (basic statistics) - Approx. 3 Lectures 
+On field practical exercise, contd… 
+8 
+
+ 
+3 
+Basic biomechanics: joints, forces, moments, safe load concepts, lever systems in the 
+human body - Approx. 4 Lectures 
+Biomechanical considerations in tool and workstation design - Approx. 2 Lectures 
+End-Module Assignment Brief 
+On field practical exercise, contd… 
+6 
+
+ 
+4 
+Observational postural assessment methods: RULA, REBA, OWAS etc. (theory + 
+worked examples) - Approx. 4 Lectures 
+Manual handling risk assessment: NIOSH lifting equation - Approx. 4 Lectures 
+On field practical exercise (prototyping/mock-ups) 
+8 
+
+ 
+5 
+Environmental ergonomics: noise (Approx. 3 Lectures), vibration (Approx. 1 
+Lectures), thermal comfort (Approx. 2 Lectures), illumination (Approx. 2 Lectures) 
+— basic measurement and mitigation strategies 
+On field practical exercise (prototyping/mock-ups), contd… 
+8
+
+[Page 2]
+Final Presentation and Discussion 
+ 
+Total 
+40 
+*sequencing of modules may be adaptively reorganized to align with ongoing studio briefs, field opportunities, or 
+invited expert sessions 
+Pre-requisites, if any: No, but prior experience in CAD is highly recommended. 
+Learning Outcome: By the end of the course students will be able to: 
+• 
+Understand fundamentals of Physical Ergonomics 
+• 
+Understand user research involved in ergonomics study 
+• 
+Use anthropometric percentiles to size products and workspaces appropriately. 
+• 
+Apply at least postural/risk assessment methods and interpret results. 
+• 
+Propose ergonomically justified design changes to reduce MSD risk. 
+• 
+Evaluate basic environmental stressors and propose pragmatic mitigations. 
+Assessment Criteria: 
+• 
+Mid-Semester practical exercise: use of anthropometric data (individual/group), Video/field observation + 
+report (individual/group) 
+• 
+Mid-Semester examination 
+• 
+End-Semester practical exercise: Individual/group applied redesign + presentation (studio deliverable) 
+• 
+End-Semester examination 
+• 
+Short quiz / theory test (closed-book) 
+• 
+Attendance and participation 
+Any other remarks: 
+Classroom lectures will be complemented by on-field exercises and mock-ups/prototype development activities. 
+Students are expected to undertake additional independent studio/workshop work for iterative design development 
+and validation. 
+References (suggested readings): 
+Mark S. Sanders, Ernest James McCormick. Human Factors in Engineering and Design (McGraw-Hill) 
+Bridger, R. S. Introduction to Human Factors and Ergonomics (recent edition). 
+MacLeod, D. (2000). The rules of work: a practical engineering guide to ergonomics. CRC Press. 
+Debkumar, C. (1997). Indian anthropometric dimensions for ergonomic design practice. National institute of design. 
+NIOSH and OSHA short guidance notes (selected extracts). 
+Research papers and other reference materials (based on assignments) 
+
+Dated: 12.03.2026 
+
+ 
+Proposer: Ashish Kumar Singh 
+Dated:_______________ 
+
+ 
+DUGC/DPGC Convener:___________________ 
+ 
+The course is approved / not approved 
+Chairman, SUGC/SPGC 
+Dated:____________________________

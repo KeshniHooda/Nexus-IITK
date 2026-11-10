@@ -1,0 +1,4926 @@
+[Page 1]
+Indian Institute of Technology Kanpur 
+ COURSES OF STUDY 
+ 2025 
+
+ 
+ 
+ Indian Institute of Technology Kanpur 
+ KANPUR-208016
+
+[Page 2]
+ELECTRICAL SCIENCE ENGINEERING 
+Template for the BT program in Electrical Engineering 
+
+Semester 1 
+Semester 2 Semester 3 
+Semester 4 
+Semester 5 
+Semester 6 Semester 7 
+Semester 8 
+SCHEME-1 (9) 
+ELC111/ELC112/
+ELC113 * 
+ETH111 (3) 
+SCHEME-2 HSS-I 
+(9-11) 
+SCHEME-3 EME 
+(9-11) 
+SCHEME-4 HSS-II (9) DE-1 (9)** 
+SCHEME-5 HSS-II 
+(9) 
+SCHEME-6 HSS-II 
+(9) 
+MTH 111 (6) 
+MTH 113 (6) 
+ESC201 (14) 
+EE210 (11) 
+EE320 (11) 
+DE-2 (9)** 
+OE-2 (9) 
+DE-3 (9) 
+MTH 112 (6) 
+MTH 114 (6) 
+EE200 (11) 
+EE250 (11) 
+EE330 (11) 
+EE340 (11) 
+OE-3 (9) 
+DE/UGP-2 (9) 
+PHY 113 (11) 
+PHY 114 (11) E/SO: TA212 (3) ESO203 (13) 
+EE370 (11) 
+EE381 (12) 
+OE-4 (9) 
+OE-5 (9) 
+PHY 111 (3) 
+CHM 111 (3) 
+E/SO-1 (6): 
+MSO202M 
+E/SO-3 (11) 
+MSO201 
+EE380 Lab (12) 
+OE-1 (9) 
+DE/UGP-1 (9) 
+OE-6 (9) 
+TA 111 (9) 
+ESC 111 (7) 
+E/SO-2 (6) 
+MSO203M 
+E/SO: TA211§ (3) EE390 (2) 
+CHM 112 (4) 
+ESC 112 (7) 
+CHM 113 (4) 
+LIF111 (6) 
+PE111 (3) 
+PE112 (3) 
+55 
+52 
+49-51 
+58-60 
+56 
+50 
+45 
+45 
+ 
+**DE-1 and DE-2 (both) should be selected from Basket-A (Basket A: EE311, EE321, EE360, EE301) 
+ 
+Credit Table for BT Program in Electrical Engineering 
+Course type 
+Recommended Credit range Credit requirement for graduation 
+Institute Core (IC) 
+112 
+112 
+E/SO 
+18-45 
+42 
+Department 
+144-179 
+148 (103 DC + 45 DE) 
+Open electives (OE) 
+51-57 
+54 
+SCHEME 
+54-58 
+54-58 
+Total for 4-year BT/BS 
+391-420 
+410-414 
+Template for BTH program in Electrical Engineering 
+Template for 3rd to 8th semester for BTH program in Electrical Engineering 
+Semester 3 
+Semester 4 
+Semester 5 
+Semester 6 
+Semester 7 
+Semester 8 
+SCHEME-2 HSS-I (9-
+11) 
+SCHEME-3 EME 
+(9-11) 
+SCHEME-4 HSS-II (9) DE-1 (9)** 
+SCHEME-5 HSS-II 
+(9) 
+SCHEME-6 HSS-II 
+(9) 
+ESC201 (14) 
+EE210 (11) 
+EE320 (11) 
+DE-2 (9)** 
+OE-2 (9) 
+DE-3 (9) 
+EE200 (11) 
+EE250 (11) 
+EE330 (11) 
+EE340 (11) 
+OE-3 (9) 
+UGP-2 (9) 
+E/SO: TA202 (3) 
+ESO203 (13) 
+EE370 (11) 
+EE381 (12) 
+OE-4 (9) 
+OE-5 (9) 
+E/SO-1 (6): 
+MSO202M 
+E/SO-3 (11) 
+MSO201 
+EE380 Lab (12) 
+OE-1 (9) 
+UGP-1 (9) 
+OE-6 (9) 
+E/SO-2 (6) 
+MSO203M 
+E/SO: TA201 (3) EE390 (2) 
+DEH-1 (9) 
+DEH-2 (9) 
+DEH-3 (9) 
+49-51 
+58-60 
+56 
+59 
+54 
+54 
+ 
+‒ 
+CPI Criteria for BTH: ≥ 8.5
+
+[Page 3]
+Remarks 
+– DEH courses should be level 6 or 7 EE courses 
+– **DE-1 and DE-2 (both) should be selected from Basket-A (Basket A: EE311, EE321, EE360, EE301) 
+– UGP-1 and UGP-2 are mandatory 
+ 
+Template for BTM program in Electrical Engineering 
+Template for 3rd to 8th semester for BTM program in Electrical Engineering 
+Semester 3 
+Semester 4 
+Semester 5 
+Semester 6 
+Semester 7 
+Semester 8 
+SCHEME-2 HSS-I 
+(9-11) 
+SCHEME-3 EME 
+(9-11) 
+SCHEME-4 HSS-II 
+(9) 
+DE-1 (9)** 
+SCHEME-5 HSS-II 
+(9) 
+SCHEME-6 HSS-II 
+(9) 
+ESC201 (14) 
+EE210 (11) 
+EE320 (11) 
+DE-2 (9)** 
+OE-2 (9) 
+MTB-3 (9) 
+EE200 (11) 
+EE250 (11) 
+EE330 (11) 
+EE340 (11) 
+OE-3 (9) 
+MTB-4 (9) 
+E/SO: TA202 (3) 
+ESO203 (13) 
+EE370 (11) 
+EE381 (12) 
+MTB-1 (9) 
+MTB-5 (9) 
+E/SO-1 (6): 
+MSO202M 
+E/SO-3 (11) 
+MSO201 
+EE380 Lab (12) 
+OE-1 (9)# 
+MTB-2 (9) 
+MTB-6 (9) 
+E/SO-2 (6) 
+MSO203M 
+E/SO: TA201 (3) EE390 (2) 
+ 
+49-51 
+58-60 
+56 
+50 
+45 
+45 
+Remark: 
+– **DE-1 and DE-2 (both) should be selected from Basket-A (Basket A: EE311, EE321, EE360, EE301) 
+– 
+MTB courses must be taken from the management course basket. 
+– 
+# Students planning to convert to BTM-MT program should take OE-1 from the 
+management 
+Template for five-year dual degree program in Electrical Engineering 
+
+Template for 3rd to 10th semester for five-year BT-MT program in Electrical Engineering 
+Semester 3 Semester 4 Semester 5 Semester 6 Semester 7 Semester 8 Summer 
+Semester 9 Semester 
+10 
+SCHEME-2 
+HSS-I (9- 11) 
+SCHEME-3 
+EME (9- 11) 
+SCHEME-4 
+HSS-II (9) 
+DE-1 (9)** 
+SCHEME-5 
+HSS-II (9) 
+SCHEME-6 
+HSS-II (9) 
+M.Tech 
+Thesis (9) 
+EE699 
+M.Tech 
+Thesis (27) 
+EE699 
+M.Tech 
+Thesis (36) 
+EE699 
+ESC201 (14) 
+EE210 (11) 
+EE320 (11) 
+DE-2 (9)** 
+OE-2 (9) 
+OE-4 (9) 
+PG-6 (9) 
+EE200 (11) 
+EE250 (11) 
+EE330 (11) 
+EE340 (11) 
+OE-3 (9) 
+OE-5 (9) 
+E/SO: TA212 
+(3) 
+ESO203 (13) EE370 (11) 
+EE381 (12) 
+DE/UGP-1 
+(9) 
+PG-3 (9) 
+E/SO-1 (6): 
+MSO202M 
+E/SO-3 (11) 
+MSO201 
+EE380 Lab 
+(12) 
+OE-1 (9) 
+DE PG-1 (9) 
+PG-4 (9) 
+E/SO-2 (6) 
+MSO203M 
+E/SO: TA211 
+(3) 
+EE390 (2) 
+ 
+DE PG-2 (9) 
+PG-5 (9) 
+49-51 
+58-60 
+56 
+50 
+54 
+54 
+9 
+36 
+36 
+Remarks: 
+– **DE-1 and DE-2 (both) should be selected from Basket-A (Basket A: EE311, EE321, EE360, 
+EE301)
+
+[Page 4]
+– Minimum Credit Requirement in MTech Part for Graduation: PG component: 54 Credits; 
+Thesis Component: 72 Credits 
+– PG-3, 4, 5 & 6 are to be taken with the permission of thesis supervisor. 
+– Total minimum BT-MT dual degree (Category A) credit requirement will be 509 
+– 18 DE credits and 9 Oe credits may be waived off in the UG part 
+ 
+Template for 3rd to 10th semester for five-year BTH-MT program in Electrical Engineering 
+Semester 3 
+Semester 4 Semester 5 Semester 6 Semester 7 Semester 8 Summer 
+Semester 9 Semester 
+10 
+SCHEME-2 HSS-
+I (9- 11) 
+SCHEME-3 
+EME (9- 11) 
+SCHEME-4 
+HSS-II (9) 
+DE-1 (9)** 
+SCHEME-5 
+HSS-II (9) 
+SCHEME-6 
+HSS-II (9) 
+M.Tech 
+Thesis (9) 
+EE699 
+M.Tech 
+Thesis (27) 
+EE699 
+M.Tech 
+Thesis (36) 
+EE699 
+ESC201 
+(14) 
+EE210 (11) 
+EE320 (11) 
+DE-2 (9)** 
+OE-2 (9) 
+DE-3 (9) 
+PG-6 (9) 
+EE200 (11) 
+EE250 (11) 
+EE330 (11) 
+EE340 (11) 
+OE-3 (9) 
+UGP-2 (9) 
+E/SO: TA212 
+(3) 
+ESO203 (13) EE370 (11) 
+EE381 (12) 
+UGP-1 (9) 
+DEH-3 (9) 
+E/SO-1 (6): 
+MSO202M 
+E/SO-3 (11) 
+MSO201 
+EE380 Lab 
+(12) 
+OE-1 (9) 
+DEH-2 (9) 
+PG-3 (9) 
+E/SO-2 (6) 
+MSO203M 
+EE390 (2) 
+DEH-1 (9) 
+DE PG-1 (9) 
+PG-4 (9) 
+ 
+E/SO: TA211 
+(3) 
+DE PG-2 (9) 
+PG-5 (9) 
+ 
+49-51 
+58-60 
+56 
+59 
+63 
+63 
+9 
+36 
+36 
+Remarks: 
+– **DE-1 and DE-2 (both) should be selected from Basket-A (Basket A: EE311, EE321, EE360, 
+EE301) 
+– DEH should be from level 6 or 7 EE Courses 
+– Minimum Credit Requirement in MTech Part for Graduation: PG component: 54 Credits; 
+Thesis Component: 72 Credits 
+– PG-3, 4, 5 & 6 are to be taken with the permission of thesis supervisor. 
+– Total minimum BTH-MT dual degree (Category A) credit requirement will be 536 with 
+graduating CPI ≥ 8.5 in BTH part 
+– 18 DE credits and 9 Oe credits may be waived off in the UG part 
+– UGP-1 and UGP-2 are mandatory
+
+[Page 5]
+Template for 3rd to 10th semester for five-year BTM-MT program in Electrical Engineering 
+Semester 3 Semester 4 Semester 5 Semester 6 Semester 7 Semester 8 Summer 
+Semester 9 Semester 
+10 
+SCHEME-2 
+HSS-I (9- 11) 
+SCHEME-3 
+EME (9- 11) 
+SCHEME-4 
+HSS-II (9) 
+DE-1 (9)** 
+SCHEME-5 
+HSS-II (9) 
+SCHEME-6 
+HSS-II (9) 
+M.Tech 
+Thesis (9) 
+EE699 
+M.Tech 
+Thesis (27) 
+EE699 
+M.Tech 
+Thesis (36) 
+EE699 
+ESC201 (14) 
+EE210 (11) 
+EE320 (11) 
+DE-2 (9)** 
+MTB-2 (9) 
+MTB-5 (9) 
+PG-6 (9) 
+EE200 (11) 
+EE250 (11) 
+EE330 (11) 
+EE340 (11) 
+MTB-3 (9) 
+MTB-6 (9) 
+E/SO: TA212 
+(3) 
+ESO203 (13) EE370 (11) 
+EE381 (12) 
+MTB-4 (9) 
+PG-3 (9) 
+E/SO-1 (6): 
+MSO202M 
+E/SO-3 (11) 
+MSO201 
+EE380 Lab 
+(12) 
+MTB-1 (9) 
+DE PG-1 
+(9) 
+PG-4 (9) 
+E/SO-2 (6) 
+MSO203M 
+E/SO: TA211 
+(3) 
+EE390 (2) 
+DE PG-2 (9) 
+PG-5 (9) 
+49-51 
+58-60 
+56 
+50 
+54 
+54 
+9 
+36 
+36 
+ 
+Remarks: 
+– **DE-1 and DE-2 (both) should be selected from Basket-A (Basket A: EE311, EE321, EE360, 
+EE301) 
+– Minimum Credit Requirement in MTech Part for Graduation: PG component: 54 Credits; 
+Thesis Component: 72 Credits 
+– PG-3, 4, 5 & 6 are to be taken with the permission of thesis supervisor. 
+– Total minimum BTM-MT dual degree (Category A) credit requirement will be 509 
+– 18 DE credits and 9 Oe credits may be waived off in the UG part
+
+[Page 6]
+BASKET-B 
+1. 
+Three PG courses + one course from 
+Basket-A 
+2. 
+Two PG courses + two courses from 
+Basket-A 
+3. 
+One PG course + three courses from 
+Basket-A 
+4. 
+One PG course + two courses from 
+Basket-A + UGP-2 
+5. 
+Two PG courses + one course from 
+Basket-A + UGP-2 
+BASKET-A 
+EE321 (9) 
+EE301 (9) 
+EE340 (9) 
+EE311 (9) 
+EE360 (9) 
+EE381 (12)/EE481 (6) 
+Template for double major: second major in Electrical Engineering 
+ 
+Template for double major in EE 
+Odd Semester 
+Even Semester 
+Pre-requisites 
+ESO203 (13) 
+MSO201 (11) 
+MSO202M (6) 
+ 
+MSO203M (6) 
+ 
+Mandatory EE courses 
+EE200 (11) 
+EE210/EE250 (11) 
+EE320 (11) 
+Any ONE 
+combination from 
+Basket-B (33-41) 
+EE330 (11) 
+EE DE PG (9) 
+EE370 (11) 
+ 
+EE380 (12)/EE480 (10) 
+ 
+EE DE PG (9)/UGP- 
+1 (9) (Optional) 
+ 
+54-65 
+44-61 
+ 
+Total mandatory Credits for Second Major in Electrical Engineering: 98 Credits 
+Remarks: Up to 27 OE credits may be waived from the parent department BT/BS 
+graduation requirements. 
+ 
+ ESO203 is a mandatory pre-requisite course for DM. 
+ 
+Minors in Electrical Engineering 
+
+Minors 
+Minor in 
+Microelectronics
+/ Digital Systems 
+Minor in 
+Power 
+Minor in 
+Communications 
+& Signal 
+Processing 
+Minor in 
+Controls 
+Minor in 
+RF & Photonics 
+EE200 [11] 
+EE200 [11] 
+EE200 [11] 
+EE200 [11] 
+EE200 [11] 
+EE210 [11] 
+EE330 [11] 
+EE320 [11] 
+EE250 [11] 
+EE340 [11] 
+EE311 [09]/ 
+EE370 [11] 
+EE360 [09] 
+EE321 [09]/ 
+EE301 [09] 
+EE650A [09] 
+EE612A [09]/ 
+EE642A [09]/ 
+EE648A [09] 
+31/33 
+31 
+31 
+31 
+31
+
+[Page 7]
+DEPARTMENT OF EE 
+ 
+Courses 
+ID 
+Course Title 
+Credits 
+L-T-P-D-[C] 
+Content 
+EE100 
+INTRODUCTION 
+TO PROFESSION 
+ 
+To be procured 
+EE200 
+SIGNALS, 
+SYSTEMS AND 
+NETWORKS 
+3-1-0-0-4 
+Continuous and discrete time signals; Fourier series, Fourier, 
+Laplace and Z transform techniques; DFT. Sampling Theorem. 
+LTI systems: I/O description, impulse response and system 
+functions, pole/ zero plots, FIR and IIR systems. Analog and 
+digital 
+filters. 
+Networks: 
+topological 
+description, 
+network 
+theorems, Twoport analysis. 
+EE200A 
+SIGNALS, 
+SYSTEMS & 
+NETWORKS 
+3-1-0-0-11 
+Continuous and discrete time signals; Fourier series, Fourier, 
+Laplace and Z transform techniques; DFT. Sampling Theorem. 
+LTI systems: I/O description, impulse response and system 
+functions, pole/ zero plots, FIR and IIR systems. Analog and 
+digital 
+filters. 
+Networks: 
+topological 
+description, 
+network 
+theorems, Two port analysis. 
+EE210 
+ANALOG 
+ELECTRONICS 
+3-1-0-0-11 
+1. 1V Characteristics and Large and SmallSignal Models of 
+Diodes, BJTs, and MOSFETs; 2. Biasing; 3. Amplifiers; 4. Output 
+Stages; 5. Frequency Response; 6. Feedback Amplifiers; 7. 
+Stability and Compensation; 8. Operational Amplifier. 
+Course Reference: 1. Analysis and Design of Analog 
+Integrated Circuits; P.R. Gray, P.J. Hurst, S.H. Lewis, and R.G. 
+Meyer; Jolm Wiley & Sons, 4th Edition, 2001; 2. MOS Analog 
+Circuits for Signal Processing; R. Gregorian and G.C. Ternes; 
+John Wiley & Sons, 1986; 3. Microelectronic Circuits; A.S. Sedra 
+and K.C. Smith; Oxford University Press, 5th Edition,2004; 4. 
+Microelectronics; J. Milbnan and A. Grabel; McGrawHill, 2nd 
+Edition, 1987. 
+EE210A 
+ANALOG 
+ELECTRONICS 
+3-1-0-0-11 
+1. 1V Characteristics and Large and SmallSignal Models of 
+Diodes, BJTs, and MOSFETs; 2. Biasing; 3. Amplifiers; 4. Output 
+Stages; 5. Frequency Response; 6. Feedback Amplifiers; 7. 
+Stability and Compensation; 8. Operational Amplifier. 
+Course Reference: 1. Analysis and Design of Analog 
+Integrated Circuits; P.R. Gray, P.J. Hurst, S.H. Lewis, andR.G. 
+Meyer; Jolm Wiley & Sons, 4th Edition, 2001; 2. MOS Analog 
+Circuits for Signal Processing; R. Gregorian and G.C. Ternes; 
+John Wiley & Sons, 1986; 3. Microelectronic Circuits; A.S. Sedra 
+and K.C. Smith; Oxford University Press, 5th Edition,2004; 4. 
+Microelectronics; J. Milbnan and A. Grabel; McGrawHill, 2nd 
+Edition, 1987. 
+EE250 
+CONTROL 
+SYSTEMS 
+ANALYSIS 
+3-1-0-0-4 
+Negative feedback control systems, Linear time invariant 
+dyanamic systems, Mason’s gain formula, transfer function, 
+frequency and time domain analysis, performance analysis, 
+Nyquist stability criterion. Bode plots, Root locus. Feedback 
+system design using Bode plotsand root locus. PID control. 
+Nonlinear systems, circle criterion, anti windup schemes. 
+Statespace models. 
+EE250A 
+CONTROL 
+SYSTEMS 
+3-1-0-0-11 
+Negative feedback control systems, Linear time invariant 
+dyanamic systems, Mason’s gainformula, transfer function,
+
+[Page 8]
+ANALYSIS 
+frequency and time domain analysis, performance analysis, 
+Nyquist stability criterion. Bode plots, Root locus. Feedback 
+system design using Bode plotsand root locus. PID control. 
+Nonlinear systems, circle criterion, anti windup schemes. 
+Statespace models. 
+EE301 
+DIGITAL SIGNAL 
+PROCESSING 
+3-0-0-0-4 
+Sampling and Reconstruction of continuous time signals, 
+Characterization and properties of discrete time signals and 
+systems, Computation of the discrete time Fourier transform 
+andits properties, Computation of the discrete Fourier transform 
+and its properties, Fast Fourier transform algorithms, The 
+Ztransform and its properties, Transform analysis of linear 
+timeinvariant systems, Implementation of structures for discrete 
+time systems, Digital filter design techniques, Homomorphic 
+filtering, Applications of DSP in speech and image processing. 
+1. DiscreteTime Signal Processing (Second Edition), Alan V. 
+Oppenheim, Ronald W. Schafer, and John R. Buck, Pearson 
+Education India 
+EE301A 
+DIGITAL SIGNAL 
+PROCESSING 
+3-0-0-0-9 
+Sampling and Reconstruction of continuous time signals, 
+Characterization and properties of discrete time signals and 
+systems, Computation of the discrete time Fourier transform 
+andits properties, Computation of the discrete Fourier transform 
+and its properties, Fast Fourier transform algorithms, The 
+Ztransform and its properties, Transform analysis of linear time 
+invariant systems, Implementation of structures for discrete time 
+systems, Digital filter design techniques, Homomorphic filtering, 
+Applications of DSP in speech and image processing. 
+Course Reference: 1. DiscreteTime Signal Processing (Second 
+Edition), Alan V. Oppenheim, Ronald W. Schafer, and John R. 
+Buck, Pearson Education India 
+EE311 
+SEMICONDUCTOR 
+DEVICES 
+3-0-0-0-9 
+1. 
+Semiconductors 
+and 
+Crystal 
+Structures; 
+2. 
+Basic 
+Semiconductor Physics ; 3. Excess Carriers and Transport 
+Processes in Semiconductors; 4. Junction Diode; 5. Bipolar 
+Junction Transistor (BJT); 6. MOS Capacitor (MOSCAP); 7. 
+MetalOxideSemiconductor FieldEffect Transistor (MOSFET); 8. 
+Some Important Devices Tunnel Diode, Varactor Diode, Light 
+Emitting Diode (LED), Photodetector, and Solar Cell 
+Course Reference: 1. Solid State Electronic Devices, B.G. 
+Streetman arid S. Banerjee, Prentice Hall, 2000; 2. Device 
+Electronics for Integrated Circuits, R.S. Muller and T.l. Kamins, 
+John Wiley, 2003; 3. Introduction to Semiconductor Materials 
+and Devices, M.S. Tyagi, John Wiley, 1991; 4. Physics of 
+Semiconductor Devices, M. Shur, Prentice Hall.J 990. 
+EE311A SEMICONDUCTOR 
+DEVICES 
+3-0-0-0-9 
+1. 
+Semiconductors 
+and 
+Crystal 
+Structures; 
+2. 
+Basic 
+Semiconductor PhysicsEE311; 3. Excess Carriers and Transport 
+Processes in Semiconductors; 4. Junction Diode; 5. Bipolar 
+Junction Transistor (BJT); 6. MOS Capacitor (MOSCAP); 7. 
+Metal Oxide Semiconductor FieldEffect Transistor (MOSFET); 8. 
+Some Important Devices Tunnel Diode, Varactor Diode, Light 
+Emitting Diode (LED), Photodetector, and Solar Cell 
+Course Reference: 1. Solid State Electronic Devices, B.G. 
+Streetman arid S. Banerjee, Prentice Hall, 2000; 2. Device 
+Electronics for Integrated Circuits, R.S. Muller and T.l. Kamins, 
+John Wiley, 2003; 3. Introduction to Semiconductor Materials
+
+[Page 9]
+and Devices, M.S. Tyagi, John Wiley, 1991; 4. Physics of 
+Semiconductor Devices, M. Shur, Prentice Hall,1990. 
+EE320 
+PRINCIPLES OF 
+COMMUNICATION
+S 
+3-1-0-0-4 
+Fourier transform theory for communication systems, Analog 
+communication 
+systems. 
+Amplitude 
+Modulation, 
+Envelope 
+Detection, Double Sideband (DSB), Single sideband (SSB) and 
+Vestigial Sideband (VSB) systems, Baseband Passband 
+equivalence. Angle Modulation, Frequency Modulation, Phase 
+Modulation, Spectrum of FM signals. Pulse Modulation, 
+Quantization, Compression, Delta and DPCM Modulation. 
+Probability, MAP detection, Random Processes, Strict and Wide 
+Sense Stationarity Ergodicity, AWGN. Digital Communication 
+systems, Optimality of Matched filter, BitError Rate (BER), Signal 
+constellation theory, BPSK and QPSK modulation. GSM/TDMA 
+and IS95/CDMA cellular systems. Statistical Multiplexing and 
+packet switching, ALOHA, slotted ALOHA, Basics of queueing 
+and trunking systems. 
+EE320A 
+PRINCIPLES OF 
+COMMUNICATION 
+3-1-0-0-11 
+Fourier transform theory for communication systems, Analog 
+communication 
+systems. 
+Amplitude 
+Modulation, 
+Envelope 
+Detection, Double Sideband (DSB), Single sideband (SSB) and 
+Vestigial Sideband (VSB) systems, Baseband Passband 
+equivalence. Angle Modulation, Frequency Modulation, Phase 
+Modulation, Spectrum of FM signals. Pulse Modulation, 
+Quantization, Compression, Delta and DPCM Modulation. 
+Probability, MAP detection, Random Processes, Strict and Wide 
+Sense Stationarity Ergodicity, AWGN. Digital Communication 
+systems, Optimality of Matched filter, BitError Rate (BER), Signal 
+constellation theory, BPSK and QPSKmodulation. GSM/TDMA 
+and IS95/CDMA cellular systems. Statistical Multiplexing and 
+packet switching, ALOHA, slotted ALOHA, Basics of queueing 
+and trunking systems. 
+EE321 
+COMMUNICATION 
+SYSTEMS 
+3-0-0-0-4 
+Information 
+measures. 
+Source 
+coding. 
+ISI 
+& 
+channel 
+equalization, partial response signalling. Mary modulation 
+systems, error probability calculations PLLs and FM threshold 
+extension. Error control coding, block and convolution codes. 
+Combined modulation and coding, trellis coded modulation. 
+Spread spectrum systems. 
+EE321A 
+COMMUNICATION 
+SYSTEMS 
+3-0-0-0-9 
+Information 
+measures. 
+Source 
+coding. 
+ISI 
+& 
+channel 
+equalization, partial response signalling. Mary modulation 
+systems, error probability calculations. PLLs and FM threshold 
+extension. Error control coding, block and convolution codes. 
+Combined modulation and coding, trellis coded modulation. 
+Spread spectrum systems. 
+EE330 
+POWER SYSTEMS 
+3-1-0-0-11 
+1. Introduction to power system structure, types of components; 
+2. Different types of transformers and transformer Connections, 
+per-unit analysis; 3. Inductance and capacitance calculations for 
+transmission lines; 4. Models for short and long transmission 
+lines, steadystate operation, shunt and series compensation, 
+transients on transmission lines; 5. Network models of power 
+system using admittance matrix; 6. The Load flow problem, 
+Equations for bus powers and their numerical solution using 
+Gauss Siedeland Newton Raphson methods; 7. Analysis of 
+faulted power systems using sequence networks; 8. Basic 
+stability analysis, derivation of swing equation ,equal area
+
+[Page 10]
+criteria, calculation of criticalclearing angle, numerical solution of 
+swing equation; 9. Basics of Economic operation, incremental 
+fuel cost, allocation ofload between generators ina plant. 
+Course Reference: 1. Power System Analysis John J. Grainger 
+& William D Stevenson Jr, McGraw Hill1994; 2. Power System 
+Analysis and design J Duncan Glover, M. Sarma zd edition, 
+PWS PublishingCo Boston 2001; 3. Power System Engineering, 
+D. P Kothari & I.J. Nagrath, Tata McGraw Hill,2008. 
+EE330A 
+POWER SYSTEMS 
+3-1-0-0-11 
+1. Introduction to power system structure, types of components; 
+2. Different types of transformers and transformer Connections, 
+per-unit analysis; 3. Inductance and capacitance calculations for 
+transmission lines; 4. Models for short and long transmission 
+lines, steady state operation, shunt and series compensation, 
+transients on transmission lines; 5. Network models of power 
+system using admittance matrix; 6. The Load flow problem, 
+Equations for bus powers and their numerical solution using 
+Gauss Siedeland NewtonRaphson methods; 7. Analysis of 
+faulted power systems using sequence networks; 8. Basic 
+stability analysis, derivation of swing equation ,equal area 
+criteria, calculation of criticalclearing angle, numerical solution of 
+swing equation; 9. Basics of Economic operation, incremental 
+fuel cost, allocation ofload between generators ina plant. 
+Course Reference: 1. Power System Analysis John J. Grainger 
+& William D. Stevenson Jr, McGraw Hill1994; 2. Power System 
+Analysis and design J. Duncan Glover, M. Sarma zd edition, 
+PWS PublishingCo Boston 2001; 3. Power System Engineering, 
+D.P. Kothari & I.J. Nagrath, Tata McGraw Hill,2008. 
+EE340 
+ELECTROMAGNE
+TIC THEORY 
+3-1-0-0-4 
+I. Overview of Static Electric and Magnetic Fields, Steady 
+Electric Currents; 2. Time Varying Electromagnetic Fields, 
+Maxwell’s 
+Equations, 
+Boundary 
+Conditions; 
+3. 
+Plane 
+Electromagnetic Waves, Propagation in Free Space and in 
+Matter; 4. Reflection and Refraction of Waves at Conducting and 
+Dielectric Boundary; 5. Transmission Lines: TEM waves, 
+Transmission Line Equations, Wave Propagation along Finite 
+Transmission Lines, Transients on Lines, The Smith Chart; 6. 
+Waveguides, Waves in Guided Media, Parallel Plate Waveguide, 
+Rectangular Waveguide, Cavity Resonators; 7. Basic Theory of 
+Antennas and Radiation Characteristics, Elementary Types of 
+Antennas. 
+Course Reference: I. Field and Wave Electromagnetics David 
+K. Cheng, Second Edition, Pearson Education, 2008; 2. 
+Engineering Electromagnetics W A Haytt & J A Buck, Seventh 
+Edition, Tata McGrawHill, 2006; 3. Electromagnetic Waves and 
+Radiating Systems by E. C. Jordan and K. G. Bahnain,Second 
+Edition, Prentice Hall Inc., Tata McGraw Hill; 4. Principles 
+ofE!ectromagnetics Mathhew N.O. Sadiku, Fourth Edition, 
+OxfordUniversity Press; 5. Electromagnetics with Applications 
+Kraus and Fleisch, Fifth Edition, McGraw Hill,1999. 
+EE340A 
+ELECTROMAGNE
+TIC THEORY 
+3-1-0-0-11 
+I. Overview of Static Electric and Magnetic Fields, Steady 
+Electric Currents; 2. Time Varying Electromagnetic Fields, 
+Maxwell’s 
+Equations, 
+Boundary 
+Conditions; 
+3. 
+Plane 
+Electromagnetic Waves, Propagation in Free Space and in 
+Matter; 4. Reflection and Refraction ofWaves at Conducting and 
+Dielectric Boundary; 5. Transmission Lines: TEM waves,
+
+[Page 11]
+Transmission Line Equations, Wave Propagation alongFinite 
+Transmission Lines, Transients on Lines, The Smith Chart; 6. 
+Waveguides, Waves in Guided Media, Parallel Plate Waveguide, 
+Rectangular Waveguide,Cavity Resonators; 7. Basic Theory of 
+Antennas and Radiation Characteristics, Elementary Types of 
+Antennas. 
+Course Reference: 1. Field and Wave Electromagnetics David 
+K. Cheng, Second Edition, Pearson Education, 2008; 2. 
+Engineering Electromagnetics W A Haytt & J A Buck, Seventh 
+Edition, Tata McGrawHill, 2006; 3. Electromagnetic Waves and 
+Radiating Systems by E. C. Jordan and K. G. Bahnain,Second 
+Edition, Prentice Hall Inc., Tata McGraw Hill; 4. Principles of 
+E!ectromagnetics Mathhew N.O. Sadiku, Fourth Edition, Oxford 
+University Press; 5. Electromagnetics with Applications Kraus 
+and Fleisch, Fifth Edition, McGraw Hill,1999. 
+EE360 
+POWER 
+ELECTRONICS 
+3-0-3-0-11 
+Converter Configurations, basic DC-DC converters: Buck, Boost, 
+Buck-Boost, Cuk, steady-state analysis, ripple, CCM and DCM 
+operation; Converter components – 1: Switches – diode, 
+thyristor, MOSFET, IGBT, their VI characterisctics, generic 
+switch model, switching and conduction losses, soft switching – 
+ZVS and ZCS operation; Converter components – 2: Magnetics 
+– single winding and coupled, real model, capacitors – real 
+model, types; Line commutated converters: AC-DC rectifiers – 
+single and three-phase configurations, operation with various 
+loads, effect of source inductance, overlap angle, AC-AC 
+regulator; Inverters: VSI and CSI structures, Modulation 
+techniques, steady-state operation. 
+EE360A 
+POWER 
+ELECTRONICS 
+3-0-0-0-9 
+Converter Configurations, basic DC-DC converters: Buck, Boost, 
+Buck-Boost, Cuk, steady-state analysis, ripple, CCM and DCM 
+operation; Converter components – 1: Switches – diode, 
+thyristor, MOSFET, IGBT, their VI characterisctics, generic 
+switch model, switching and conduction losses, soft switching – 
+ZVS and ZCS operation; Converter components – 2: Magnetics 
+– single winding and coupled, real model, capacitors – real 
+model, types; Line commutated converters: AC-DC rectifiers – 
+single and three-phase configurations, operation with various 
+loads, effect of source inductance, overlap angle, AC-AC 
+regulator; Inverters: VSI and CSI structures, Modulation 
+techniques, steady-state operation. 
+EE370 
+DIGITAL 
+ELECTRONICS 
+3-1-0-0-11 
+Introduction, Quality metrics, MOSFET as a switch, CMOS 
+inverter, chain of inverters, Combinational circuits: CMOS 
+design, ratioed-logic design, pass-transistor design, and dynamic 
+logic design, Sequential circuit design: static timing analysis 
+(STA), Bi-stable circuits: static and dynamic latch and registers, 
+pipelinining, and non-bistable sequential circuits, Array based 
+logic designs: field-programmable gate array (FPGA), CMOS 
+memory design: memory hierarchy and organization, peripheral 
+circuitry, static random-access memory (SRAM) design, dynamic 
+RAM (DRAM) design, System level design: Datapath and 
+register transfer operation, Introduction to circuit simulators 
+(SPICE), Hardware description languages (HDL) such as VHDL 
+and Verilog. 
+EE370A 
+DIGITAL 
+3-1-0-0-11 
+Introduction, Quality metrics, MOSFET as a switch, CMOS
+
+[Page 12]
+ELECTRONICS 
+inverter, chain of inverters, Combinational circuits: CMOS 
+design, ratioed-logic design, pass-transistor design, and dynamic 
+logic design, Sequential circuit design: static timing analysis 
+(STA), Bi-stable circuits: static and dynamic latch and registers, 
+pipelinining, and non-bistable sequential circuits, Array based 
+logic designs: field-programmable gate array (FPGA), CMOS 
+memory design: memory hierarchy and organization, peripheral 
+circuitry, static random-access memory (SRAM) design, dynamic 
+RAM (DRAM) design, System level design: Datapath and 
+register transfer operation, Introduction to circuit simulators 
+(SPICE), Hardware description languages (HDL) such as VHDL 
+and Verilog. 
+EE380 
+ELECTRICAL 
+ENGINEERING 
+LAB I 
+0-2-6-0-4 
+Experiments from various areas of Electrical Engineering with 
+emphasis on electronic devices, circuits, control systems and 
+machines. This course has three labs: Electronic Circuits Lab. (7 
+experiments), Control Systems Lab. (6 experiments) and EMEC 
+Lab.(6 experiments) 
+EE380. 
+ELECTRICAL 
+ENGINEERING 
+LAB I 
+0-2-6--4 
+Experiments from various areas of Electrical Engineering with 
+emphasis on electronic devices, circuits, control systems and 
+machines. This course has three labs: Electronic Circuits Lab. (7 
+experiments), Control Systems Lab. (6 experiments) and EMEC 
+Lab (6 experiments) 
+EE380A 
+ELECTRICAL 
+ENGINEERING 
+LAB I 
+0-2-6-0-12 
+Experiments from various areas of Electrical Engineering with 
+emphasis on electronic devices, circuits, control systems and 
+machines. This course has three labs: Electronic Circuits Lab. (7 
+experiments), Control Systems Lab. (6 experiments) and EMEC 
+Lab (6 experiments) 
+EE381 
+ELECTRICAL 
+ENGINEERING 
+LAB II 
+0-2-6-0-4 
+Experiments from various areas of Electrical Engineering with 
+emphasis on digital electronics, communication, machines, 
+drives and power systems, and electromagnetics. This course 
+has three labs: Electronic Circuits Lab.II (7 experiments), DCMP 
+Lab. (7 experiments) and EMEC Lab (6 experiments) 
+EE381A 
+ELECTRICAL 
+ENGINEERING 
+LABORATORY -II 
+0-3-6-0-12 
+Experiments from various areas of Electrical Engineering with 
+emphasis on digital electronics, communication, machines, 
+drives and power systems, and electromagnetics. This course 
+has three labs: Electronic Circuits Lab.II (7 experiments), DCMP 
+Lab. (7 experiments) and EMEC Lab (6 experiments) 
+EE390A 
+ELECTRICAL 
+ENGINEERING 
+COMMUNICATION 
+SKILLS 
+0-0-2-0-2 
+Technical Communication, definition and attributes. Ethics in 
+communication. 
+Technical 
+Writing. 
+Report 
+and 
+Article 
+composition. How to write a Technical Brochure. Writing 
+summary and abstracts of technical documents. Software tools 
+for technical report writing. Listening Comprehension. Oral 
+Communication and Presentation. Technical Presentation and 
+use of multimedia. 
+EE391A 
+ELECTRICAL 
+ENGINEERING 
+UNDER 
+GRADUATE 
+PROJECT I 
+ 
+To be procured 
+EE392A 
+UNDER 
+GRADUATE 
+PROJECT II 
+0-0-0-0-9 
+UG PROJECT (UGP II)
+
+[Page 13]
+EE393A 
+ELECTRICAL 
+ENGINEERING 
+UNDER 
+GRADUATE 
+PROJECT I 
+0-0-2-0-4 
+ELECTRICAL ENGINEERING UNDER GRADUATE PROJECT I 
+EE395A 
+ELECTRICAL 
+ENGINEERING 
+UNDER 
+GRADUATE 
+PROJECT III 
+0-0-0-0-9 
+ELECTRICAL ENGINEERING UNDER GRADUATE PROJECT 
+III 
+EE399A 
+ELECTRICAL 
+ENGINEERING 
+COMMUNICATION 
+SKILLS 
+0-0-0-0-9 
+ELECTRICAL ENGINEERING COMMUNICATION SKILLS 
+EE401A 
+ELECTRICAL 
+ENGINEERING 
+COMMUNICATION 
+SKILLS 
+ 
+To be procured 
+EE416 
+OPTO-
+ELECTRONICS 
+3-0-0--4 
+LEDs, semiconductor lasers, modulation of laser sources. 
+Avalanche and PIN photodetectors and their characteristics. 
+Solar cells. Optical fibers and their characteristics. Integrated 
+optics. Fiber optic communication systems, system design 
+consideration. 
+EE416A 
+OPTO-
+ELECTRONICS 
+3-0-0-0-9 
+LEDs, semiconductor lasers, modulation of laser sources. 
+Avalanche and PIN photo detectors and their characteristics. 
+Solar cells. Optical fibers and their characteristics. Integrated 
+optics. Fiber optic communication systems, system design 
+consideration. 
+EE420 
+MODERN CONVEX 
+OPTIMIZATION 
+FOR ENGG/ 
+SCIENCE 
+APPLICATIONS 
+ 
+To be procured 
+EE420A 
+MODERN CONVEX 
+OPTIMIZATION 
+FOR 
+ENGINEERING / 
+SCIENCE 
+APPLICATIONS 
+ 
+To be procured 
+EE442A 
+ANTENNAS AND 
+PROPAGATION 
+3-0-0-0-9 
+Retarded potential, radiation from current element and dipole, 
+radiation patterns, impedance, reciprocity. Various types of 
+antennas, interferometers and multielement arrays, Antenna 
+Measurements. Ground wave propagation, terrain and earth 
+curvature effects. Tropospheric propagation; fading, diffraction 
+and scattering; Ionospheric Propagation refractive index, critical 
+frequencies, effectsof magnetic field. 
+EE455 
+TRANSDUCERSA
+ND 
+INSTRUMENTATIO
+N 
+3-0-0--4 
+Measurement process; scales of measurement; configuration 
+and 
+functional 
+description 
+of 
+measurement 
+systems; 
+performance characteristics; sensing elements and transducers 
+for measurement of motion, force, pressure, flow, temperature, 
+light, vacuum, etc.; transducer interfacing; signal conditioning 
+transmission 
+and 
+recording; 
+microprocessor 
+- 
+based
+
+[Page 14]
+instrumentation. 
+EE480A 
+ELECTRICAL 
+ENGINEERING 
+LAB I 
+ 
+To be procured 
+EE490. 
+PROJECT WORK 
+0-0-0--8 
+PROJECT WORK 
+EE491 
+PROJECT I 
+0-0-0--3 
+PROJECT I 
+EE491A 
+UNDER 
+GRADUATE 
+PROJECT -III 
+0-0-0-0-9 
+UG PROJECT (UGPIII) 
+EE492 
+PROJECT II 
+0-0-0--5 
+PROJECT II 
+EE492A 
+UNDER 
+GRADUATE 
+PROJECT-IV 
+ 
+To be procured 
+EE600 
+MATHEMATICAL 
+STRUCTURES OF 
+SIGNALS & 
+SYSTEMS 
+3-0-0--4 
+Nature of definitions; Theory of measurement and scales; 
+Symmetry, invariance and groups; Groups in signals and 
+systems; Algebraic and relational structuresof signal spaces and 
+convolutional systems; Representation theory of groups, 
+harmonic analysis and spectral theory for convolutional systems. 
+EE600A 
+MATHEMATICAL 
+STRUCTURES OF 
+SIGNALS & 
+SYSTEMS 
+3-0-0-0-9 
+Nature of definitions; Theory of measurement and scales; 
+Symmetry, invariance and groups; Groups in signals and 
+systems; Algebraic and relational structures of signal spaces and 
+convolutional systems; Representation theory of groups, 
+harmonic analysis and spectral theory for convolutional systems. 
+EE601 
+MATHEMATICAL 
+METHODS IN 
+SIGNAL 
+PROCESSING 
+3-0-0--4 
+Generalized inverses, regularization of illposed problems. Eigen 
+and singular value decompositions, generalized problems. 
+Interpolation and approximation by least squares and minimax 
+error criteria. Optimization techniques for linear and nonlinear 
+problems. Applications in various areas of signal processing. 
+EE601A 
+MATHEMATICAL 
+METHODS IN 
+SIGNAL 
+PROCESSING 
+3-0-0-0-9 
+Generalized inverses, regularization of illposed problems. Eigen 
+and singular value decompositions, generalized problems. 
+Interpolation and approximation by least squares and minimax 
+error criteria. Optimization techniques for linear and nonlinear 
+problems. Applications in various areas of signal processing. 
+EE602 
+STATISTICAL 
+SIGNAL 
+PROCESSING-I 
+3-0-0--4 
+Power Spectrum Estimation Parametric and Maximum Entropy 
+Methods, Wiener, Kalman Filtering, Levinson Durban Algorithms 
+Least Square Method, Adaptive Filtering, Nonstationary Signal 
+Analysis, WignerVille Distribution, WaveletAnalysis. 
+EE602A 
+STATISTICAL 
+SIGNAL 
+PROCESSING-I 
+3-0-0-0-9 
+Power Spectrum Estimation Parametric and Maximum Entropy 
+Methods, Wiener, Kalman Filtering, Levinson Durban Algorithms 
+Least Square Method, Adaptive Filtering, Nonstationary Signal 
+Analysis, WignerVille Distribution, Wavelet Analysis. 
+EE604 
+IMAGE 
+PROCESSING 
+3-0-0--4 
+Human visual system and image perception, image formation 
+models, image sampling and quantization, 2D systems, image 
+transforms, image enhancement, colour vision models, colour 
+representation, edge detection, restoration, denoising, image 
+segmentation, multiresolution techniques, image coding, image 
+compression, image quality, image features, morphological 
+image processing. 
+EE604A 
+IMAGE 
+PROCESSING 
+3-0-0-0-9 
+ 
+Human visual system and image perception, image formation
+
+[Page 15]
+models, image sampling and quantization, 2D systems, image 
+transforms, image enhancement, colour vision models, colour 
+representation, edge detection, restoration, denoising, image 
+segmentation, multiresolution techniques, image coding, image 
+compression, image quality, image features, morphological 
+image processing. 
+EE605 
+INTRODUCTION 
+TO SIGNAL 
+ANALYSIS 
+3-0-0--4 
+Discrete and Continuous time signals and systems, LTI systems, 
+Convolution, 
+Difference 
+equations. 
+Frequency 
+domain 
+representation: Fourier transform andits properties. Random 
+discrete signals. Sampling and reconstruction: Change of 
+sampling 
+rate. 
+Normed 
+vector 
+spaces, 
+basis, 
+linear 
+independence, orthogonality. Linear systems of equations. Over 
+and Under determined systems. Row and Column spaces, Null 
+spaces. Least square and minimum norm solutions. Inverse and 
+pseudo inverse, Symmetry transformations. Eigen vectors and 
+eigenvalues. Hilbert transforms, band pass representations and 
+complex envelope. Base bandpulse transmission, matched 
+filtering, ISI, equalization. Coherent and noncoherent detection. 
+EE605A 
+INTRODUCTION 
+TO SIGNAL 
+ANALYSIS 
+3-0-0-0-9 
+Discrete and Continuous time signals and systems, LTI systems, 
+Convolution, 
+Difference 
+equations. 
+Frequency 
+domain 
+representation: Fourier transform andits properties. Random 
+discrete signals. Sampling and reconstruction: Changeof 
+sampling 
+rate. 
+Normed 
+vector 
+spaces, 
+basis, 
+linear 
+independence, orthogonality. Linear systems of equations. Over 
+and Under determined systems. Row and Column spaces, Null 
+spaces. Least square and minimum norm solutions. Inverse and 
+pseudo inverse, Symmetry transformations. Eigen vectors and 
+eigenvalues. Hilbert transforms, band pass representations and 
+complex envelope. Base bandpulse transmission, matched 
+filtering, ISI, equalization. Coherent and noncoherent detection. 
+EE606 
+ARCHITECTURE 
+AND 
+APPLICATIONS OF 
+DIGITAL SIGNAL 
+PROCESSORS 
+3-0-3-0-5 
+DSP Architecture: Von Neumann vs. Harvard architecture, 
+VelociTI 
+architecture 
+Memory 
+management 
+of 
+Tl 
+DSP 
+processors C2X, C6X. Peripheral overview of Tl C2X, C6X 
+processor. Code Composer Studio (CCS) overview, writing 
+simple programs in assembly, linear assembly and C. Instruction 
+set of Tl C2X/C6X processor. Optimization of assembly and C 
+code. 
+Pipelining. 
+General 
+Extension 
+Language 
+(GEL). 
+Assembler, 
+Linker. 
+Interrupts 
+RTDX. 
+DSP/BIOSList 
+of 
+Experiments 
+Introduction 
+to 
+Code 
+Composer 
+Studio1 
+Introduction to Code Composer Studio11 Introduction to the 
+Addressing Modes FFT and Bit Reversal Operation FFT and its 
+Applications Audio Codec and its Applications Real Time Data 
+Exchange Using Matlab and Labview FIR filtering by interfacing 
+Matlab with Code Composer Studio Introduction to Interrupts 
+Digital communication using Binary Phase Shift Keying Current 
+control of a threephase inverter with passive load Current control 
+of a singlephase inverter with passive load PLL for a threephase 
+ac system PLL for a singlephase system Current control of a 
+threephase STA TCOM Speed control of an induction motor by 
+V/f method Rulph Chassaing; Digital Signal Processing And 
+Applications With The C6713 And C6416 DSK. 
+Course Reference: 1. Wiley lnterscience, 2004. Thad B. Welch, 
+Wright, H.G. Cameron, and Michael G. Morrow; 2.Real Time 
+DigitalSignal Processing from Matlab to C with the TMS320C6x
+
+[Page 16]
+DSK, CRC, 2005; 3. Steven A. Tretter;Communication System 
+Design Using DSP Algorithms:With Laboratory Experiments for 
+the TMS320C6701 and TMS320C6711, Springer, 2003; 4. 
+Nasser Kehtarnavaz, RealTime Digital Signal Processing Based 
+On The TMS320C6000; Newnes Publishers, 2004; 5. Rulph 
+Chassaing, DSP Applications Using C And The TMS320C6x 
+DSK, Wiley lnterscience, 2002; 6. Shehrzad Qureshi; Embedded 
+Image Processing On The TMS320C6000 DSP: Examples in 
+Code Composer Studio and MATLAB, Springer, 2006. 
+EE606A 
+ARCHITECTURE 
+AND 
+APPLICATIONS OF 
+DIGITAL SIGNAL 
+PROCESSORS 
+3-0-3-0-5 
+DSP Architecture: Von Neumann vs. Harvard architecture, 
+Velocity architecture Memory management of Tl DSP processors 
+C2X, C6X. Peripheral overview of Tl C2X, C6X processor. Code 
+Composer Studio (CCS) overview, writing simple programs in 
+assembly, linear assembly and C. Instruction set of Tl C2X/C6X 
+processor. Optimization of assembly and C code. Pipelining. 
+General 
+Extension 
+Language 
+(GEL). 
+Assembler, 
+Linker. 
+Interrupts RTDX. DSP/BIOS. List of Experiments Introduction to 
+Code Composer Studio1. Introduction to Code Composer 
+Studio11. Introduction to the Addressing Modes FFT and Bit 
+Reversal Operation FFT and its Applications. Audio Codec and 
+its Applications. Real Time Data Exchange Using Matlab and 
+Labview FIR filtering by interfacing Matlab with Code Composer 
+Studio. Introduction to Interrupts Digital communication using 
+Binary Phase Shift Keying. Current control of a threephase 
+inverter with passive load. Current control of a singlephase 
+inverter with passive load. PLL for a threephase ac system. PLL 
+for a singlephase system. Current control of a threephase STA 
+TCOM Speed control of an induction motor by V/f method Rulph 
+Chassaing, Course Reference: 1.Digital Signal Processing And 
+Applications 
+With 
+The 
+C6713 
+And 
+C6416 
+DSK;, 
+Wileylnterscience, 2004; 2. Thad B. Welch, Wright, H.G. 
+Cameron, and Michael G. Morrow,Real Time DigitalSignal 
+Processing from Matlab to C with the TMS320C6x DSK;, CRC, 
+2005; 3. Steven A. Tretter;Communication System Design Using 
+DSP 
+Algorithms:With 
+Laboratory 
+Experiments 
+for 
+the 
+TMS320C6701 and TMS320C671, Springer, 2003; 4. Nasser 
+Kehtarnava; RealTime Digital Signal Processing Based On The 
+TMS320C6000;, Newnes Publishers, 2004; 5. Rulph Chassaing, 
+DSP Applications Using C And The TMS320C6x DSK, Wiley 
+lnterscience, 2002; 6. Shehrzad Qureshi;Embedded Image 
+Processing On The TMS320C6000 DSP: Examples in Code 
+Composer Studio and MATLAB, Springer, 2006. 
+EE607 
+WAVELET 
+TRANSFORMS 
+FOR SIGNAL & 
+IMAGE 
+PROCESSING 
+3-0-0--4 
+Basics of functional Analysis; Basics of Fourier Analysis; 
+Spectral Theory; Time Frequency representations; Nonstationary 
+Processes; Continuous Wavelet Transforms; Discrete Time 
+Frequency 
+Transforms; 
+Multi 
+resolution 
+Analysis; 
+Time 
+Frequency Localization; Signal Processing Applications; Image 
+Processing Applications 
+EE607A 
+WAVELET 
+TRANSFORMS 
+FOR SIGNAL & 
+IMAGE 
+PROCESSING 
+3-0-0-0-9 
+Basics of functional Analysis; Basics of Fourier Analysis; 
+Spectral Theory; Time Frequency representations; Nonstationary 
+Processes; Continuous Wavelet Transforms; Discrete Time 
+Frequency 
+Transforms; 
+Multi 
+resolution 
+Analysis; 
+Time 
+Frequency Localization; Signal Processing Applications; Image 
+Processing Applications
+
+[Page 17]
+EE608 
+DIGITAL VIDEO 
+SIGNAL 
+PROCESSING 
+3-0-0--4 
+Representation of digital video including modeling of video image 
+formation, spatiatem poral sampling over lattices, conversion of 
+signals sampled on different lattices and sampling rate 
+conversion of video signals.Twodimensional Motion Estimation: 
+2D Motion vs Apparent Motion, occlusion/Aperture problems, 2D 
+Motion field Models, optical flow methods; blockbased methods, 
+pelrecursive methods and Bayesian methods.Video filtering: 
+Motion 
+compensated 
+filtering, 
+including 
+spatiatem 
+poral 
+spectrum, filtering along motion trajectories; Nois.e filtering, 
+Video Restoration, including Modeling, Intraframe shift invariant I 
+variant restoration, multiframe restoration; Standards conversion 
+including 
+practical 
+Up/Down 
+conversion 
+Methods.Video 
+compression: Basic concepts and techniques of video coding, 
+lnterframe 
+Compression 
+Methods, 
+Video 
+Compression 
+Standards (MPEG2, MPEG4, H.264) Low bit rate Video 
+Codecs,Embedded Video Codecs, Scalable Video coding. 
+Course Reference: 1. Image and Video Processing, A.I. Bovik, 
+Elosovier Academic Press, 2005; 2. Digital Pictures A.N. 
+Netravali, B.G. Haskell, Plenum Press, 1997; 3. Digital Video 
+Transcoding; 4. H. Sun, X. Chen and T. Chiang, CRC Press 
+2005; 5. Digital Video Processing; A. Murat Tekalp, Prentice Hall 
+Signal 
+Processing 
+Series, 
+1995. 
+6. 
+Wireless 
+Video 
+Communications; L. Hanzo, P.J. Cherriman, J. Streit, IEEE 
+Series on Digital and Mobile Communication, 2001 . 
+EE608A 
+DIGITAL VIDEO 
+SIGNAL 
+PROCESSING 
+3-0-0-0-9 
+Representation of digital video including modeling of video image 
+formation, spatiatemporal sampling over lattices, conversion of 
+signals sampled on different lattices and sampling rate 
+conversion of video signals.Two dimensional Motion Estimation: 
+2D Motion vs Apparent Motion, occlusion/Aperture problems, 2D 
+Motion field Models, optical flow methods; blockbased methods, 
+pelrecursive methods and Bayesian methods.Video filtering: 
+Motion compensated filtering, including spatiatemporal spectrum, 
+filtering along motion trajectories; Nois.e filtering, Video 
+Restoration, including Modeling, Intraframe shift invariant I 
+variant restoration, multiframe restoration; Standards conversion 
+including 
+practical 
+Up/Down 
+conversion 
+Methods.Video 
+compression: Basic concepts and techniques of video coding, 
+lnterframe 
+Compression 
+Methods, 
+Video 
+Compression 
+Standards (MPEG2, MPEG4, H.264) Low bit rate Video 
+Codecs,Embedded Video Codecs, Scalable Video coding. 
+Course Reference: 1. Image and Video Processing, A.I. Bovik, 
+Elosovier Academic Press, 2005; 2. Digital Pictures A.N. 
+Netravali, B.G. Haskell, Plenum Press, 1997; 3. Digital Video 
+Transcoding; H. Sun, X. Chen and T. Chiang, CRC Press 2005; 
+4. Digital Video Processing A. Murat Tekalp, Prentice Hall Signal 
+Processing Series, 1995; 5. Wireless Video Communications; L. 
+Hanzo, P.J. Cherriman, J. Streit, IEEE Series onDigital and 
+Mobile Communication, 2001. 
+EE609 
+CONVEX 
+OPTIMIZATION IN 
+SIGNAL 
+PROCESSING 
+AND 
+COMMUNICATION
+ 
+To be procured
+
+[Page 18]
+S 
+EE609A 
+CONVEX 
+OPTIMIZATION IN 
+SIGNAL 
+PROCESSING 
+AND 
+COMMUNICATION
+S 
+ 
+To be procured 
+EE610 
+ANALOG/DIGITAL 
+VLSI CIRCUITS 
+3-0-0--4 
+Analog MOS circuits, opamps, frequency and transient 
+responses, stability and compensation. Analog switches, sample 
+and hold circuits, switched capacitor circuits. MOS inverters and 
+gate circuits, interfacing, transmission gates. MOS memory 
+circuits. Digital building blocks multiplexers, decoders, shift 
+registers, etc. Gate array, standard cell, and PLA based designs. 
+Digital to Analog and Analog to Digital converters. 
+EE610A 
+ANALOG/DIGITAL 
+VLSI CIRCUITS 
+3-0-0-0-9 
+Analog MOS circuits, opamps, frequency and transient 
+responses, stability and compensation. Analog switches, sample 
+and hold circuits, switched capacitor circuits. MOS inverters and 
+gate circuits, interfacing, transmission gates. MOSmemory 
+circuits. Digital building blocks multiplexers, decoders, shift 
+registers, etc. Gate array, standard cell, and PLA based designs. 
+Digital to Analog and Analog to Digital converters. 
+EE611 
+ORGANIC 
+ELECTRONICS 
+3-0-0--4 
+Lectures: General Overview of Organic Semiconductors and 
+Electronics; Introduction to some of the basics of Molecular 
+Quantum Mechanics; Optical and Electrical Properties of 
+Organic Semiconductor Material; Organic Thin Film Transistor 
+(OTFT) physics and processing; Organic Light Emitting Diode 
+(OLED) physics and processing; OLED passive and active 
+matrix displays, OTFT circuits; Organic Solar Cell physics and 
+processing; Research opportunities in organic electronics and 
+the associated technologies.Labs: Fabrication of an organic 
+device and its characterisation The purpose of this course is (i) 
+to give the student an introduction to the world of organic 
+electronics and (ii) to help students appreciate practical organic 
+electronic devices and th associated technologies. 
+Course Reference: 1. This course was started for the first time 
+by Prof. Baquer Mazhari who offered it as EE698A I Spring 2005 
+and 2006. It was offered as EE698W by Dr. S. Sundar Kumar 
+Iyer in Spring 2007 Summer courses have also been offered on 
+this topic in the summers of 2005, 2006 and 2007 the faculty 
+members involved in Samtel Centre for Display Technology, IIT 
+Kanpur 
+EE611A 
+ORGANIC 
+ELECTRONICS 
+3-0-3-0-12 
+Lectures: General Overview of Organic Semiconductors and 
+Electronics; Introduction to some of the basics of Molecular 
+Quantum Mechanics; Optical and Electrical Properties of 
+Organic Semiconductor Material; Organic Thin Film Transistor 
+(OTFT) physics and processing; Organic Light Emitting Diode 
+(OLED) physics and processing; OLED passive and active 
+matrix displays, OTFT circuits; Organic Solar Cell physics and 
+processing; Research opportunities in organic electronics and 
+the associated technologies.Labs: Fabrication of an organic 
+device and its characterisation The purpose of this course is (i) 
+to give the student an introduction to the world of organi
+
+[Page 19]
+electronics and (ii) to help students appreciate practical organic 
+electronic devices and th associated technologies. 
+Course Reference: 1. This course was started for the first time 
+by Prof. Baquer Mazhari who offered it as EE698A I Spring 2005 
+and 2006. It was offered as EE698W by Dr. S. Sundar Kumar 
+Iyer in Spring 2007 Summer courses have also been offered on 
+this topic in the summers of 2005, 2006 and 2007 the faculty 
+members involved in Samtel Centre for Display Technology, IIT 
+Kanpur 
+EE612 
+FIBER OPTIC 
+SYSTEMS I 
+3-0-0--4 
+Review of semiconductor physics radiative recombination. LEDs, 
+optical cavity, DH and other lasers. PIN and APD detectors, 
+detector noise. Optical fibers ray and mode theories, multimode 
+and single mode fibers, attenuation dispersion. Gaussian beams. 
+Power coupling, splices and connectors. 
+EE612A 
+FIBER OPTIC 
+SYSTEMS I 
+3-0-0-0-9 
+Review of semiconductor physics radiative recombination. LEDs, 
+optical cavity, DH and other lasers. PIN and APD detectors, 
+detector noise. Optical fibers ray and mode theories, multimode 
+and singlemode fibers, attenuation, dispersion. Gaussian beams. 
+Power coupling, splices and connectors. 
+EE614 
+SOLID STATE 
+DEVICES I 
+3-0-0--4 
+Basic semiconductor physics. Diodes (PN junction, Schottky, 
+contact), 
+Junction 
+Transistors 
+(BJT, 
+HBT), 
+Field 
+Effect 
+Transistors 
+(JEFT, 
+MESFET, 
+MOSFET, 
+HEMT). 
+Other, 
+semiconductor devices. 
+EE614A 
+SOLID STATE 
+DEVICES I 
+3-0-0-0-9 
+Basic semiconductor physics. Diodes (PN junction, Schottky, 
+contact), 
+JunctionTransistors 
+(BJT, 
+HBT), 
+Field 
+Effect 
+Transistors 
+(JEFT, 
+MESFET, 
+MOSFET, 
+HEMT). 
+Other, 
+semiconductor devices. 
+EE615 
+HIGH 
+FREQUENCY 
+SEMICONDUCTOR 
+DEVICES AND 
+CIRCUITS 
+3-0-0--4 
+Review of Semiconductor properties Crystal structure of 
+semiconductors, bandtheory, occupation statistics, electrical 
+properties, optical properties, recombination kinetics, avalanche 
+process 
+in 
+semiconductors, 
+photon 
+statistics; 
+MESFETs;Transport in low dimensional structures: HEMTs: 
+Hetrojunction BJTs; Design ofhigh frequency amplifiers and 
+oscillators, Resonant tunneling structures, RTD oscillators; 
+Intervalley scattering, Gunn diodes, IMPATT diodes; TRAPATTs; 
+Mixerdiodes; Step recovery diodes; Introduction to epitaxial 
+growth for these structures; elements of device fabrication. 
+EE616 
+SEMICONDUCTOR 
+DEVICE 
+MODELLING 
+3-0-0--4 
+Models for metal semiconductor contacts and heterojunctions. 
+MOSFET 
+quantum 
+theory 
+of 
+2DEG, 
+gradual 
+channel 
+approximation, charge control models, BSIM model, secondorder 
+effects. MESFET Shockley, velocity saturation anduniversal 
+models. HEFT Basic and universal models. SPICE and small 
+signal models. 
+EE616A 
+SEMICONDUCTOR 
+DEVICE 
+MODELLING 
+3-0-0-0-9 
+Models for metal semiconductor contacts and heterojunctions. 
+MOSFET 
+quantum 
+theory 
+of 
+2DEG, 
+gradual 
+channel 
+approximation, charge control models, BSIM model, second 
+order effects. MESFET Shockley, velocity saturation and 
+universal models. HEFT Basic and universal models. SPICE and 
+small signal models. 
+EE617 
+INDUSTRIAL 
+AUTOMATION 
+AND CONTROL 
+3-0-0-0-9 
+Introduction to Industrial Automation and Control, Architecture of 
+Industrial 
+Automation 
+Systems, 
+Measurement 
+Systems, 
+Specifications, Temperature, Pressure, Force, Flow, pH,
+
+[Page 20]
+Humidity, 
+Current, 
+Voltage, 
+Power, 
+Frequency, 
+Speed, 
+Displacement 
+(Linear 
+and 
+Angular) 
+Instruments, 
+Signal 
+Conditioning Circuits, Data Acquisition System, Error and 
+Calibration, Basics of Pattern Recognition and Knowledge 
+Discovery. Monitoring, Automation and Control, Introduction to 
+Process Control, PID Control, Controller Tuning, Implementation 
+of PID Controllers, Special Control Structures (Feed Forward, 
+Ratio Control, Predictive Control, Control of Systems with 
+Inverse response, Cascade, Override and Split Range Control), 
+Sequence and Logic Control, PLCs, CNC machines, Actuators 
+(Control Valve, Hydraulic Actuator Systems, Industrial Hydraulic 
+Circuits, Pneumatic Control Components and Pneumatic Control 
+Systems), Electrical Machine Drives, Electrical Actuators, 
+Introduction to Real Time Embedded Systems, Real-Time 
+Operating Systems. Smartphones for Automation and Control. 
+Impact of wireless 
+Internet and broadband access on distributed control systems 
+and new SCADA/DCS architectures, Use of animation and other 
+advanced techniques for operator interface and predictive 
+control, real time IF and THEN analysis 
+EE617A 
+INDUSTRIAL 
+AUTOMATION 
+AND CONTROL 
+3-0-0-0-9 
+Introduction to Industrial Automation and Control, Architecture of 
+Industrial 
+Automation 
+Systems, 
+Measurement 
+Systems, 
+Specifications, Temperature, Pressure, Force, Flow, pH, 
+Humidity, 
+Current, 
+Voltage, 
+Power, 
+Frequency, 
+Speed, 
+Displacement 
+(Linear 
+and 
+Angular) 
+Instruments, 
+Signal 
+Conditioning Circuits, Data Acquisition System, Error and 
+Calibration, Basics of Pattern Recognition and Knowledge 
+Discovery. Monitoring, Automation and Control, Introduction to 
+Process Control, PID Control, Controller Tuning, Implementation 
+of PID Controllers, Special Control Structures (Feed Forward, 
+Ratio Control, Predictive Control, Control of Systems with 
+Inverse response, Cascade, Override and Split Range Control), 
+Sequence and Logic Control, PLCs, CNC machines, Actuators 
+(Control Valve, Hydraulic Actuator Systems, Industrial Hydraulic 
+Circuits, Pneumatic Control Components and Pneumatic Control 
+Systems), Electrical Machine Drives, Electrical Actuators, 
+Introduction to Real Time Embedded Systems, Real-Time 
+Operating Systems. Smartphones for Automation and Control. 
+Impact of wireless 
+Internet and broadband access on distributed control systems 
+and new SCADA/DCS architectures, Use of animation and other 
+advanced techniques for operator interface and predictive 
+control, real time IF and THEN analysis 
+EE618 
+INTEGRATED 
+CIRCUIT 
+FABRICATION 
+TECHNOLOGY 
+3-0-0--4 
+IC components their characterization and design. Anaysis and 
+design of basic logic circuits. Linear ICs. Large Scale Integration. 
+Computer simulation of ICs and layout design. High Voltage ICs. 
+GaAs MESFET and GaAs ICs. Failure, reliability and yield of 
+ICs. Fault modeling and testing. 
+EE618A 
+INTEGRATED 
+CIRCUIT 
+FABRICATION 
+TECHNOLOGY 
+
+ 
+ 
+3-0-0-0-9 
+IC components their characterization and design. Anaysis and 
+design of basic logic circuits. Linear ICs. Large Scale Integration. 
+Computer simulation of ICsand layout design. High Voltage ICs. 
+GaAs MESFET and GaAs ICs. Failure, reliability and yield of 
+ICs. Fault modeling and testing.
+
+[Page 21]
+EE619 
+VLSI SYSTEM 
+DESIGN 
+3-0-0-0-4 
+Emphasis on the synthesis-based approach to VLSI Design. 
+Relevant issues related to physical design automation such as 
+placement, floor planning, routing and compaction are covered. 
+Combinational & sequential logic synthesis issues and 
+algotithms are discussed. Detailed coverage of HDLs and high- 
+level synthesis algorithms and issues. 
+EE619A 
+VLSI SYSTEM 
+DESIGN 
+3-0-0-0-9 
+Emphasis on the synthesis-based approach to VLSI Design. 
+Relevant issues related to physical design automation such as 
+placement, floor planning, routing and compaction are covered. 
+Combinational & sequential logic synthesis issues and 
+algotithms are discussed. Detailed coverage of HDLs and high -
+level synthesis algorithms and issues. 
+EE620 
+OPTICAL 
+COHERENT 
+IMAGING 
+3-0-0-0-9 
+Introduction to Fourier transforms, linear and spatially invariant 
+systems, 
+transfer 
+function, 
+fundamentals 
+of 
+light 
+wave 
+propagation, coherence theory, spatial and temporal field 
+correlations, Abbe’s imaging theory, point spread function, 
+resolution, optical phase contrast, phase retrieval methods using 
+phase-shifting and integral transforms, phase unwrapping, 
+coherent imaging techniques, such as holography, speckle 
+interferometry and shearography, and their applications 
+EE620A 
+OPTICAL 
+COHERENT 
+IMAGING 
+3-0-0-0-9 
+Introduction to Fourier transforms, linear and spatially invariant 
+systems, 
+transfer 
+function, 
+fundamentals 
+of 
+light 
+wave 
+propagation, coherence theory, spatial and temporal field 
+correlations, Abbe’s imaging theory, point spread function, 
+resolution, optical phase contrast, phase retrieval methods using 
+phase-shifting and integral transforms, phase unwrapping, 
+coherent imaging techniques, such as holography, speckle 
+interferometry and shearography, and their applications 
+EE621 
+REPRESENTATIO
+N AND ANALYSIS 
+OF RANDOM 
+SIGNALS 
+3-0-0--4 
+Review of probability, random variables, random processes; 
+representation of narrow band signals. Transmission of signals 
+through LTI systems; Estimation and detection with random 
+sequences; BAYES, MMSE, MAP, ML schemes. KLand 
+sampling theorem representations, matched filter, ambiguity 
+functions, Markov sequences, linear stochastic dynamical 
+systems. 
+EE621A 
+REPRESENTATIO
+N AND ANALYSIS 
+OF RANDOM 
+SIGNALS 
+3-0-0-0-9 
+Review of probability, random variables, random processes; 
+representation of narrow band signals. Transmission of signals 
+through LTI systems; Estimation and detection with random 
+sequences; BAYES, MMSE, MAP, ML schemes. KLand 
+sampling theorem representations, matched filter, ambiguity 
+functions, Markov sequences, linear stochastic dynamical 
+systems. 
+EE622 
+COMMUNICATION 
+THEORY 
+3-0-0--4 
+Rate Distortion Theory, Channel Coding Theorems, Digital 
+Modulation 
+Schemes, 
+Trellis 
+Coded 
+Modulation, 
+Digital 
+Transmission over Bandlimited Channels, Fading Multipath 
+Channels, 
+Synchronization. 
+Analog 
+Modulation 
+Schemes, 
+Optimum/Suboptimum Receivers; Diversity Combining; Cellular 
+Mobile Communciation; Equalization. 
+EE622A 
+COMMUNICATION 
+THEORY 
+3-0-0-0-9 
+Rate Distortion Theory, Channel Coding Theorems, Digital 
+Modulation 
+Schemes, 
+Trellis 
+Coded 
+Modulation, 
+Digital 
+Transmission over Bandlimited Channels, Fading Multipath 
+Channels, 
+Synchronization. 
+Analog 
+Modulation 
+Schemes, 
+Optimum/Suboptimum Receivers; Diversity Combining; Cellular
+
+[Page 22]
+Mobile Communciation; Equalization. 
+EE623 
+DETECTION & 
+ESTIMATION 
+THEORY 
+3-0-0--4 
+Classical 
+Detection 
+and 
+Estimation 
+Theory, 
+Signal 
+Representation, 
+Detection 
+ofsignals 
+in 
+Gaussian 
+noise, 
+Waveform estimation, Linear estimation problems, Wiener 
+filtering, Kalman filtering. 
+EE623A 
+DETECTION & 
+ESTIMATION 
+THEORY 
+3-0-0-0-9 
+Classical 
+Detection 
+and 
+Estimation 
+Theory, 
+Signal 
+Representation, Detection of signals in Gaussian noise, 
+Waveform estimation, Linear estimation problems, Wiener 
+filtering, Kalman filtering. 
+EE624 
+INFORMATION 
+AND CODING 
+THEORY 
+3-0-0--4 
+Entropy and mutual information, rate distortion function, source 
+coding, variable length coding, discrete memoryless channels, 
+capacity cost functions, channel coding, linear block codes, 
+cyclic codes. Convolutional codes, sequential and probabilistic 
+decoding, majority logic decoding, burst error correcting codes. 
+EE624A 
+INFORMATION 
+AND CODING 
+THEORY 
+3-0-0-0-9 
+Entropy and mutual information, rate distortion function, source 
+coding, variable length coding, discrete memoryless channels, 
+capacity cost functions, channel coding, linear block codes, 
+cyclic codes. Convolutional codes, sequential and probabilistic 
+decoding, majority logic decoding, burst error correcting codes. 
+EE626 
+TOPICS IN 
+STOCHASTIC 
+PROCESSES 
+3-0-0--4 
+Martingale convergence theorem, stopping times, sequential 
+analysis. Ergodic Theory: Measure preserving transformations, 
+stationary processes, mixing conditions, ergodic theorem, 
+Shannon Millan Breiman theorem. Markov chains asymptotic 
+stationarity, indecomposability, ergodicity. Continuous time 
+processes: Separability, continuity, measurability, stochastic 
+integral. 
+EE626A 
+TOPICS IN 
+STOCHASTIC 
+PROCESSES 
+3-0-0-0-9 
+Martingale convergence theorem, stopping times, sequential 
+analysis. Ergodic Theory: Measure preserving transformations, 
+stationary processes, mixing conditions, ergodic theorem, 
+Shannon Millan Breiman theorem. Markov chains asymptotic 
+stationarity, indecomposability, ergodicity. Continuous time 
+processes: Separability, continuity, measurability, stochastic 
+integral. 
+EE627 
+SPEECH SIGNAL 
+PROCESSING 
+3-0-0-0-4 
+Spectral and nonspectral analysis techniques; Model based 
+coding techniques; Noise reduction and echo cancellation; 
+Synthetic and coded speech quality assessment; Selection of 
+recognition unit; Model based recognition; Language modelling; 
+Speaker Identification; Text analysis and text to speech 
+synthesis. 
+EE627A 
+SPEECH SIGNAL 
+PROCESSING 
+3-0-0-0-9 
+Spectral and nonspectral analysis techniques; Model based 
+coding techniques; Noise reduction and echo cancellation; 
+Synthetic and coded speech quality assessment; Selection of 
+recognition unit; Model based recognition; Language modelling; 
+Speaker Identification; Text analysis and text to speech 
+synthesis. 
+EE628 
+TOPICS IN 
+CRYPTOGRAPHY 
+AND CODING 
+3-0-0--4 
+Cryptography and error control coding in communication and 
+computing systems. Stream and block ciphers; DES; publickey 
+cryptosystems; key management, authentication and digital 
+signatures. Codes as ideals in finite commutative rings and 
+group algebras. Joint coding and cryptography. 
+EE628A 
+TOPICS IN 
+ 
+To be procured
+
+[Page 23]
+CRYPTOGRAPHY 
+AND CODING 
+EE629 
+DIGITAL 
+SWITCHING 
+3-0-0--4 
+Network Architecture; time division multiplexing; digital switching; 
+space & time division switching, cross point and memory 
+requirements; blocking probabilities. traffic Analysis, models for 
+circuit and packet switched systems, performance comparison; 
+ISDN. 
+EE629A 
+DIGITAL 
+SWITCHING 
+3-0-0-0-9 
+Network Architecture; time division multiplexing; digital switching; 
+space & time division switching, cross point and memory 
+requirements; blocking probabilities. traffic Analysis, models for 
+circuit and packet switched systems, performance comparison; 
+ISDN. 
+EE630 
+SIMULATON OF 
+MODERN POWER 
+SYSTEMS 
+3-0-3-0-5 
+Modern power systems operation and control, Power system 
+deregulation; static and dynamic modeling; Load flow and 
+stability studies; Electromagnetic phenomenon; Insulation and 
+partial discharge. 
+EE630A 
+SIMULATON OF 
+MODERN POWER 
+SYSTEMS 
+3-0-3-0-12 
+Modern power systems operation and control, Power system 
+deregulation; static and dynamic modeling; Load flow and 
+stability studies; Electromagnetic phenomenon; Insulation and 
+partial discharge. 
+EE631 
+ADVANCED 
+POWER SYSTEM 
+STABILITY 
+3-0-0--4 
+Detailed machine modeling, Modeling of turbine generator and 
+associated systems, excitation systems and PSS, Transient 
+stability and small signal stabilityfor large systems, SSR and 
+system modeling for SSR studies, Voltage stability: PV and QV 
+curves, static analysis, sensitivity and continuation method; 
+Dynamic analysis, local and global bifurcations, Control area, 
+Margin prediction, Stability of ACDC systems. 
+EE631A 
+ADVANCED 
+POWER SYSTEM 
+STABILITY 
+3-0-0-0-9 
+Detailed machine modeling, Modeling of turbine generator and 
+associated systems, excitation systems and PSS, Transient 
+stability and small signal stability for large systems, SSR and 
+system modeling for SSR studies, Voltage stability: PV and QV 
+curves, static analysis, sensitivity and continuation method; 
+Dynamic analysis, local and global bifurcations, Control area, 
+Margin prediction, Stability of ACDC systems. 
+EE632 
+ECONOMIC 
+OPERATION & 
+CONTROL OF 
+POWER SYSTEMS 
+3-0-0--4 
+Economic 
+load 
+dispatch, 
+loss 
+formula, 
+introduction 
+to 
+mathematical programming, hydrothermal scheduling systems, 
+power system security, optimal real and reactive power dispatch, 
+state estimation, load frequency control, energy control center. 
+EE632A 
+ECONOMIC 
+OPERATION & 
+CONTROL OF 
+POWER SYSTEMS 
+3-0-0-0-9 
+Economic 
+load 
+dispatch, 
+loss 
+formula, 
+introduction 
+to 
+mathematical programming, hydrothermal scheduling systems, 
+power system security, optimal real and reactive power dispatch, 
+state estimation, load frequency control, energy control center. 
+EE633 
+ELECTRIC 
+POWER SYSTEM 
+OPERATION AND 
+MGMT. UNDER 
+RESTRUCTURED 
+ENVIRONMENT 
+3-0-0--4 
+Fundamentals of deregulation: Privatization and deregulation, 
+Motivations for Restructuring the Power industry; Restructuring 
+models and Trading Arrangements: Components of restructured 
+systems, Independent System Operator (ISO): Functions and 
+responsibilities, 
+Trading 
+arrangements 
+(Pool, 
+bilateral 
+& 
+multilateral),Open Access Transmission Systems; Different 
+models of deregulation: U K Model, California model, Australian 
+and New Zealand models, Deregulation in Asia including India, 
+Bidding strategies, Forward and Future market; Operation 
+andcontrol: 
+Old 
+vs 
+New, 
+Available 
+Transfer 
+Capability,
+
+[Page 24]
+Congestion management, Ancillary services; Wheeling charges 
+and pricing: Wheeling methodologies, pricing strategies. 
+EE633A 
+ELECTRIC 
+POWER SYSTEM 
+OPERATION AND 
+MGMT. UNDER 
+RESTRUCTURED 
+ENVIRONMENT 
+3-0-0-0-9 
+Fundamentals of deregulation: Privatization and deregulation, 
+Motivations for Restructuring the Power industry; Restructuring 
+models and Trading Arrangements: Components of restructured 
+systems, Independent System Operator (ISO):Functions and 
+responsibilities, 
+Trading 
+arrangements 
+(Pool, 
+bilateral 
+& 
+multilateral), Open Access Transmission Systems; Different 
+models of deregulation: U K Model,California model, Australian 
+and New Zealand models, Deregulation in Asia including India, 
+Bidding strategies, Forward and Future market; Operation and 
+control: Old vs New, Available Transfer Capability, Congestion 
+management, Ancillary services; Wheeling charges and pricing: 
+Wheeling methodologies, pricing strategies, Microeconomic 
+Basics for Power Systems 
+EE634 
+ELECTRICAL 
+INSULATION IN 
+POWER 
+APPARATUS AND 
+SYSTEMS 
+3-0-0--4 
+Properties 
+of 
+dielectrics 
+and 
+breakdown 
+mechanisms; 
+composites 
+and 
+novelmaterials; 
+insulators 
+for 
+outdoor 
+applications. Issues in design of insulators and insulator 
+systems. 
+Overvoltages 
+and 
+insulation 
+coordination 
+in 
+transmission networks. Generation and measurement of testing 
+Voltages DC, AC, impulse andpulsed. Testing and Evaluation: 
+Procedures and standards, ageing studies. On line and off-line 
+condition monitoring of substation equipment. Advances in 
+measurement and diagnostic technologies: partial discharge 
+monitoring, space charge charge measurements, dielectric 
+spectroscopy etc. Lab demonstrations. 
+EE634A 
+ELECTRICAL 
+INSULATION IN 
+POWER 
+APPARATUS AND 
+SYSTEMS 
+3-0-0-0-9 
+Properties 
+of 
+dielectrics 
+and 
+breakdown 
+mechanisms; 
+composites 
+and 
+novel 
+materials; 
+insulators 
+for 
+outdoor 
+applications. Issues in design of insulators and insulator 
+systems. 
+Overvoltages 
+and 
+insulation 
+coordination 
+in 
+transmission networks. Generation and measurement of testing 
+Voltages DC, AC, impulse andpulsed. Testing and Evaluation: 
+Procedures and standards, ageing studies. On line and off-line 
+condition monitoring of substation equipment. Advances in 
+measurement and diagnostic technologies: partial discharge 
+monitoring, space charge charge measurements, dielectric 
+spectroscopy, etc. Lab demonstrations. 
+EE635 
+HVDC 
+TRANSMISSION & 
+FLEXIBLE A C 
+TRANSMISSION 
+SYSTEMS 
+3-0-0--4 
+General aspects of DC transmission, converter circuits and their 
+analysis, DClink controls, faults and abnormal operation and 
+protection; Mechanism of activeand reactive power flow contro; 
+Basic FACTS controllers: SVC, STATCOM, TCSC, TCPAR, 
+UPFC; 
+Modeling 
+of 
+FACTS 
+Controllers; 
+System 
+static 
+performance improvement with FACTS controllers; System 
+dynamic performance improvement with FACTS controllers. 
+EE635A 
+HVDC 
+TRANSMISSION & 
+FLEXIBLE A C 
+TRANSMISSION 
+SYSTEMS 
+3-0-0-0-9 
+General aspects of DC transmission, converter circuits and their 
+analysis, DClink controls, faults and abnormal operation and 
+protection; Mechanism of activeand reactive power flow contro; 
+Basic FACTS controllers: SVC, STATCOM, TCSC, TCPAR, 
+UPFC; 
+Modeling 
+of 
+FACTS 
+Controllers; 
+System 
+static 
+performance improvement with FACTS controllers; System 
+dynamic performance improvement with FACTS controllers. 
+EE636 
+ADVANCED 
+PROTECTIVE 
+3-0-0-0-9 
+Advanced protective relaying, basic protection schemes, relay 
+terminology, relays as comparators, static relays, application of
+
+[Page 25]
+RELAYING 
+solid-state devices, differential relaying systems, distance 
+relaying schemes, protection of multiterminal lines, new types of 
+relaying criteria, special problems, digital protection, Protection – 
+transformer, busbar, transmission line, generator, motor; Static 
+relays; Numeric relays; Challenges and differences in AC and 
+DC grid protection 
+EE636A 
+ADVANCED 
+PROTECTIVE 
+RELAYING 
+3-0-0-0-9 
+Advanced protective relaying, basic protection schemes, relay 
+terminology, relays as comparators, static relays, application of 
+solid-state devices, differential relaying systems, distance 
+relaying schemes, protection of multiterminal lines, new types of 
+relaying criteria, special problems, digital protection, Protection – 
+transformer, busbar, transmission line, generator, motor; Static 
+relays; Numeric relays; Challenges and differences in AC and 
+DC grid protection 
+EE637A 
+SYNCHROPHASO
+R TECHNOLOGY 
+AND ITS 
+APPLICATIONS 
+ 
+To be procured 
+EE638A 
+ADVANCED RF 
+ANTENNAS 
+3-0-0-0-9 
+Revision of fundamental parameters: antenna gain, directivity, 
+radiation patterns, beamwidth, efficiency, input impedance, 
+antenna aperture, Friis transmission equations etc; Circularly 
+Polarized Wire Antennas: uniform plane wave, RHCP and LHCP 
+waves, radiation pattern of crossed dipole (turnstile) antenna, 
+single-element 
+and 
+two-element 
+turnstile 
+antennas; 
+measurement of axial ratio, gain and co & cross-polar radiation 
+pattern of CP antenna, printed CP antenna, corporate feed for 
+antenna array, sequentially rotated feed for broadband CP 
+antenna; CP antenna using electric and magnetic currents; 
+Metamaterial Antennas: Introduction to metamaterials, concept 
+of negative permittivity and permeability, negative phase 
+constant, left handed transmission line, composite right left 
+handed (CRLH) transmission line, zeroth order resonance (ZOR) 
+antenna, size reduction of printed antenna using ZOR, loading of 
+metamaterial unit cells for single and multi-band applications, 
+metamaterial inspired antennas for performance improvement of 
+printed antennas; MIMO Antennas: Basics of MIMO Antennas, 
+Channel matrix and channel capacity for multiple-input multiple- 
+output (MIMO) system; Effect of correlation matrices at 
+transmitter and receiver ends, Polarization and Pattern diversity; 
+MIMO antenna performance parameters like Envelope 
+Correlation Coefficient (ECC), Channel Capacity Loss (CCL), 
+Total Active Reflection Coefficient (TARC), Mean Effective Gain 
+(MEG); Examples of printed MIMO Antennas; Base Station 
+Antennas: Basics of cellular networks, operating frequencies, 
+concept of cell, frequency reuse, cell sectoring; dipole antenna 
+with reflector for sectorial pattern; dual-polarized antennas; beam 
+tilt, electronic and mechanical tilt, pattern synthesis for nulls, etc.; 
+Antennas for Modern Communication Systems: Printed Inverted 
+F Antenna (PIFA), Mobile antenna, Wi-Fi Router Antenna, WLAN 
+antenna, Laptop antenna, Blue-tooth antenna, antenna for GPS 
+application etc 
+EE639 
+NONLINEAR 
+FIBER OPTICS 
+3-0-0-0-4 
+1. Introduction: Linear vs Nonlinear effects in optical fiber, 
+Important nonlinear effects and their impact on optical
+
+[Page 26]
+communication, applications of optical nonlinearities to signal 
+processing; 2. Electromagnetic wave propagation in fibers: Wave 
+equation for linear media, phase and group velocities, reflection 
+and transmission of waves, structure of an optical fiber, wave 
+equation in cylindrical coordinates, fiber modes, characteristics 
+of LPm mode; 3. Dispersion in optical fibers: Chromatic 
+dispersion in single mode fibers, effect on pulse propagation, 
+dispersion management and compensation, polarization mode 
+dispersion 
+first 
+and 
+second 
+order 
+models, 
+effect 
+on 
+communication system , mitigation of PMD; 4. FourWave mixing 
+(FWM): Mathematical 
+description, 
+phase matching, fiber 
+parametric am plifiers using FWM, squeezed state and 
+entangled photon pair generation using FWM , impact on 
+communication 
+system; 
+5. 
+Nonlinear 
+phase 
+modulation: 
+SelfPhase modulation, impact on communication system, 
+modulation instability, Cross Phase modulation, impact on 
+communication system; 6. Nonlinear Schrodinger equation 
+(NLSE): Nonlinear polarization, nonlinear refractive in dex, 
+derivation of NLSE, effect of dispersion only, effect of 
+nonlinearity only, soliton solutions,numerical .solution of the 
+NLSE. 
+EE639A 
+NONLINEAR 
+FIBER OPTICS 
+ 
+To be procured 
+EE640 
+COMPUTATIONAL 
+ELECTROMAGNE
+TICS 
+3-0-0-0-4 
+Review of complex variables, conformal mappings, matrix 
+calculus; Sturm Liouville equation; Eigenvalue problem; Guiding 
+structures; 
+Scattering media; 
+Greens function 
+approach; 
+Variational formulation, FEM, Generalised scattering matrix and 
+planar circuit approach. 
+EE640A 
+COMPUTATIONAL 
+ELECTROMAGNE
+TICS 
+3-0-0-0-9 
+Review of complex variables, conformal mappings, matrix 
+calculus; SturmLiouville equation; Eigenvalue problem; Guiding 
+structures; 
+Scattering media; 
+Greens function 
+approach; 
+Variational formulation, FEM, Generalised scattering matrix and 
+planar circuit approach. 
+EE641 
+ADVANCED 
+ENGINEERING 
+ELECTROMAGNE
+TICS 
+3-0-0--4 
+Transmission line theory; Greens function and integral transform 
+techniques; Wave propagation and polarization parameters; 
+reflection and transmission across an interface; waveguides, 
+cavity resonators, scattering by cylinders, wedges, spheres etc. 
+Geometric theory of diffraction. 
+EE641A 
+ADVANCED 
+ENGINEERING 
+ELECTROMAGNE
+TICS 
+3-0-0-0-9 
+Transmission line theory; Greens function and integral transform 
+techniques; Wave propagation and polarization parameters; 
+reflection and transmission across an interface; waveguides, 
+cavity resonators, scattering by cylinders, wedges, spheres etc. 
+Geometric theory of diffraction. 
+EE642 
+ANTENNAS 
+ANALYSIS & 
+SYNTHESIS 
+3-0-0--4 
+Vector potential; antenna theorems and definitions; dipole, loop, 
+slot radiators; aperture antennas; array theorems; pattern 
+synthesis; self and mutual impedances; scanning antennas; 
+signal processing antennas, travelling wave antennas; antenna 
+measurements. 
+EE642A 
+ANTENNAS 
+ANALYSIS & 
+SYNTHESIS 
+3-0-0-0-9 
+Vector potential; antenna theorems and definitions; dipole, loop, 
+slot radiators; aperture antennas; array theorems; pattern 
+synthesis; self and mutual impedances; scanning antennas; 
+signal processing antennas, travelling wave antennas; antenna 
+measurements.
+
+[Page 27]
+EE643 
+SMART 
+ANTENNAS FOR 
+MOBILE 
+COMMUNICATION 
+3-0-0--4 
+Statistical signal processing concepts, Basics of mobile wireless 
+communications. Radio Frequency signal modeling and channel 
+characterization. Smart antennas and generalized array signal 
+processing. Source localization problem. Joint angle and delay 
+estimation. 
+Smart 
+antenna 
+array 
+configurations. 
+Mobile 
+communication systems with smart antennas. 
+EE643A 
+SMART 
+ANTENNAS FOR 
+MOBILE 
+COMMUNICATION 
+3-0-0-0-9 
+Statistical signal processing concepts, Basics of mobile wireless 
+communications. Radio Frequency signal modeling and channel 
+characterization. Smart antennas and generalized array signal 
+processing. Source localization problem. Joint angleand delay 
+estimation. 
+Smart 
+antenna 
+array 
+configurations. 
+Mobile 
+communication systems with smart antennas. 
+EE644 
+DISCOUNTINUED 
+ 
+To be procured 
+EE644A 
+ELECTROMAGNE
+TIC 
+INTERFERENCE 
+AND 
+COMPATIBILITY 
+TECHNIQUES 
+3-0-0-0-9 
+Introduction to electromagnetic compatibility (EMC): basic 
+aspects of EMC design, significance of electrical dimensions for 
+EMC applications, common EMC units; EMC requirements for 
+electronic 
+systems: 
+standards 
+for 
+EMI/EMC 
+in 
+various 
+geographical regions, basic requirements and test procedures 
+required for compliance with the limits imposed by various 
+agencies and organizations, brief introduction of test parameters 
+such as radiated and conducted emissions, susceptibility, 
+electrostatic 
+discharge 
+etc., 
+EMC 
+design 
+applications, 
+significance of the effects of spectral contents of a signal; 
+Modeling and the effects of non-ideal behavior of various circuits 
+and components: wires, PCB lands, component leads, resistors, 
+capacitors, inductors, ferrites, electromechanical devices, digital 
+circuit devices, mechanical switches, radiated emission and 
+susceptibility models for wires and PCB lands; Power supplies: 
+conducted emissions, the line impedance stabilization network 
+(LISN), filters, linear and switched-mode power supplies; 
+Antennas and testing procedures: a brief overview of antennas 
+relevant for EMC applications, near and far field analysis, RF 
+emission and RF immunity measurements, applications of 
+spectrum analyzer for EMC measurements, sources of 
+uncertainty in measurements; Crosstalk: three conductor lines, 
+inductive and capacitive coupling, shielded wires, twisted wires, 
+multi-conductor transmission lines; Shielding: basic concept and 
+definition, effectiveness of shielding, near field and far field 
+effects, electric and magnetic field sources; Frequency selective 
+surfaces (FSS): basic theory, periodic surfaces and arrays, 
+applications of periodic structures, FSS based shielding 
+structures; System design for EMC: electrostatic discharge 
+event, grounding, basic diagnostic tools, PCB design, System 
+configuration 
+EE645 
+MONOLITHIC 
+MICROWAVE ICS 
+3-0-0--4 
+Scattering parameters of nports, Conductor and dielectric losses 
+in planar transmission lines, coupled lines, multiconductor lines, 
+discontinuities, GaAsMESFET fabrication devices, High electron 
+mobility transistor, Heterojunction bipolar transistor fabrication 
+and modeling, NMIC technology and design. 
+EE645A 
+MONOLITHIC 
+MICROWAVE ICS 
+3-0-0-0-9 
+Scattering parameters of nports, Conductor and dielectric losses 
+in planar transmission lines, coupled lines, multiconductor lines, 
+discontinuities, GaAsMESFET fabrication devices, High electron 
+mobility transistor, Hetero junction bipolar transistor fabrication
+
+[Page 28]
+and modeling, NMIC technology and design. 
+EE646 
+PHOTONIC 
+NETWORKS & 
+SWITCHING 
+3-0-0--4 
+Optical 
+communications: 
+Introduction 
+to 
+basic 
+optical 
+communications and devices. Optical multiplexing techniques 
+Wavelength division multiplexing, Optical frequency division 
+multiplexing, 
+time 
+division 
+multiplexing, 
+code 
+division 
+multiplexing. Optical Networks: Conventional optical networks, 
+SONET / SDH, FDDI, IEEE 802.3, DQDB, FCS, HIPPI etc. 
+Multiple access optical networks, T opologies, Single channel 
+networks, Multichannel networks, FTFR, FTTR, TTFRand TTTR, 
+Single hop networks, Multihop networks, Multiaccess protocols 
+forWDM 
+networks, 
+Switched 
+optical 
+networks. 
+Optical 
+amplification in alloptical networks. Alloptical subscriber access 
+networks. Design issues. Optical switching: Motivation, Spatial 
+light modulator, Relational and nonrelational switching devices, 
+Fundamental limits on optical switching elements, Switching 
+architectures, Freespace optical switching. Wavelength routed 
+networks and other special topics. Soliton based networks, 
+Optical networks management issues. 
+EE646A 
+PHOTONIC 
+NETWORKS & 
+SWITCHING 
+3-0-0-0-9 
+Optical 
+communications: 
+Introduction 
+to 
+basic 
+optical 
+communications anddevices. Optical multiplexing techniques 
+Wavelength division multiplexing, Optical frequency division 
+multiplexing, time division multiplexing, code divisionmultiplexing. 
+Optical Networks: Conventional optical networks, SONET / SDH, 
+FDDI, IEEE 802.3, DQDB, FCS, HIPPI etc. Multiple access 
+optical networks, T opologies, Single channel networks, 
+Multichannel networks, FTFR, FTTR, TTFRand TTTR, Single 
+hop networks, Multihop networks, Multiaccess protocols for 
+WDM networks, Switched optical networks. Optical amplification 
+in all optical networks. Alloptical subscriber access networks. 
+Design issues. Optical switching: Motivation, Spatial light 
+modulator, Relational and nonrelational switching devices, 
+Fundamental limits on optical switching elements, Switching 
+architectures, Freespace optical switching. Wavelength routed 
+networks and other specialtopics. Soliton based networks, 
+Optical networks management issues. 
+EE647 
+MICROWAVE 
+MEASUREMENTS 
+AND DESIGN 
+2-0-3-0-4 
+Experiments in basic microwave measurements; passive and 
+active circuit characterization using network analyser, spectrum 
+analyser and noise figure meter; PC based automated 
+microwave measurements; integration of measurement and 
+design of microwave circuits. 
+EE647A 
+MICROWAVE 
+MEASUREMENTS 
+AND DESIGN 
+2-0-3-0-9 
+Experiments in basic microwave measurements; passive and 
+active circuit characterization using network analyser, spectrum 
+analyser and noise figure meter; PC based automated 
+microwave measurements; integration of measurement and 
+design of microwave circuits. 
+EE648 
+MICROWAVE 
+CIRCUITS 
+3-0-0--4 
+Transmission lines for microwave circuits; waveguides, stripline, 
+microstrip, slotline; microwave circuit design principles; passive 
+circuits; impedance transformers, filters, hybrids, isolators etc., 
+active circuits using semiconductor devices andtubes, detection 
+and measurement of microwave signals. 
+EE648A 
+MICROWAVE 
+CIRCUITS 
+3-0-0-0-9 
+Transmission lines for microwave circuits; waveguides, stripline, 
+microstrip, slotline; microwave circuit design principles; passive 
+circuits; impedance transformers, filters, hybrids, isolators etc.,
+
+[Page 29]
+active circuits using semiconductor devices and tubes, detection 
+and measurement of microwave signals. 
+EE649 
+THE FINITE 
+ELEMENT 
+METHOD FOR 
+ELECTRIC AND 
+MAGNETIC 
+FIELDS 
+3-0-0-0-4 
+Introduction: Review of Electromagnetic Theory. Introduction to 
+the Finite Element Method using electrostatic fields: Galerkin s 
+method of weighted residuals, Minimum energy principle, 
+Calculation of capacitance, electric field, electric forces from the 
+potential solutions. Finite Element Concepts: Pre-processing, 
+shape functions, isoparmetric elements, meshing, solvers, post 
+processing. finite Element Modeling: Conductive media, steady 
+currents; Magnetostatic fields, permanent Magnets, scalar and 
+vector potentials; Electromagnetic fields. eddy current problems, 
+modeling of moving parts; modeling ofelectrical circuits. 
+EE649A 
+THE FINITE 
+ELEMENT 
+METHOD FOR 
+ELECTRIC AND 
+MAGNETIC 
+FIELDS 
+3-0-3-0-12 
+Introduction: Review of Electromagnetic Theory. Introduction to 
+the Finite Element Method using electrostatic fields: Galerkin’s 
+method of weighted residuals, Minimum energy principle, 
+Calculation of capacitance, electric field, electric forces from the 
+potential solutions. Finite Element Concepts: Pre-processing, 
+shape functions, isoparmetric elements, meshing, solvers, post 
+processing. finite Element Modeling: Conductive media, steady 
+currents; Magnetostatic fields, permanent Magnets, scalar and 
+vector potentials; Electromagnetic fields. eddy current problems, 
+modeling of moving parts; modeling of electrical circuits. 
+EE650 
+BASICS OF 
+MODERN 
+CONTROL 
+SYSTEMS 
+3-0-0--4 
+Vector spaces, Linear systems, similarity transformations, 
+Canonical forms, Controllability, Observability, Realisability etc. 
+Minimal 
+realization, 
+Digital 
+systems, 
+Nonlinear 
+systems, 
+Phaseplane analysis, Poincare theorems, Lyapunov theorem, 
+Circle and Popov criterion; Robust control, Linear Quadratic 
+Regulator (LQR), Linear Quadratic Gaussian (LQG) control, 
+Loop Transfer Recovery (LTR), Hinfinitycontrol. 
+EE650A 
+BASICS OF 
+MODERN 
+CONTROL 
+SYSTEMS 
+3-0-0-0-9 
+Vector spaces, Linear systems, similarity transformations, 
+Canonical forms, Controllability, Observability, Realisability etc. 
+Minimal 
+realization, 
+Digital 
+systems, 
+Nonlinear 
+systems, 
+Phaseplane analysis, Poincare theorems, Lyapunov theorem, 
+Circle and Popov criterion; Robust control, Linear Quadratic 
+Regulator (LQR), Linear Quadratic Gaussian (LQG) control, 
+Loop Transfer Recovery (LTR), Hinfinity control. 
+EE651A 
+NONLINEAR 
+SYSTEMS 
+3-0-0-0-9 
+Nonlinearity in the system, Nonlinearity induced dynamical beh
+Existence and Uniqueness, Sensitivity to Parameter and Initial Con
+Local Linearization: Perturbation, Local Linearization: Describing Fu
+Global Linearization: Feedback, Global Linearization: Carleman, 
+plane Analysis and Nullclines, Poincare Map, Poincare-Bendixson Th
+and higher versions, Bifurcations, Different notions of stabili
+significance, Lyapunov theory and applications for stability, Inv
+theorem, Barbalat’s lemma, Contraction theory and Incremental S
+Convergent Dynamics, Passivity-based analysis, Periodic system
+Lyapunov exponents, Multistability, Scale-invariance 
+EE652A 
+PROBABILISTIC 
+MOBILE 
+ROBOTICS 
+ 
+To be procured 
+EE653 
+DIGITAL 
+CONTROL 
+3-0-0-0-4 
+Discretetime signals and systems, Ztransform, pulse transfer 
+functions. Compensator design by root locus, error coefficients 
+and frequency response. Statespace models of discrete time 
+systems, controllability, observability, stability, state estimation,
+
+[Page 30]
+Kalman filtering. Linear regulation. Parameter estimation. 
+EE653A 
+DIGITAL 
+CONTROL 
+3-0-0-0-9 
+Discrete time signals and systems, Ztransform, pulse transfer 
+functions. Compensator design by root locus, error coefficients 
+and frequency response. Statespace models of discrete time 
+systems, controllability, observability, stability, state estimation, 
+Kalman filtering. Linear regulation. Parameter estimation. 
+EE654 
+ROBUST 
+CONTROL 
+SYSTEMS 
+3-0-0--4 
+Linear Quadratic Regulators: return ratio & difference, sensitivity 
+function. Kalmans optimality condition. Gain/phase margins, 
+robustness to time delayand nonlinearity. Characterization of 
+sensitivity. Kharitonov theorem robustness. Singular values 
+properties, application in stability, robustness and sensitivity. 
+Robustness of discrete time LQR systems. 
+EE654A 
+ROBUST 
+CONTROL 
+SYSTEMS 
+3-0-0-0-9 
+Linear Quadratic Regulators: return ratio & difference, sensitivity 
+function. Kalmans optimality condition. Gain/phase margins, 
+robustness to time delay and nonlinearity. Characterization of 
+sensitivity. Kharitonov theorem robustness. Singular values 
+properties, application in stability, robustness and sensitivity. 
+Robustness of discrete time LQR systems. 
+EE656A 
+ARTIFICIAL 
+INTELLIGENCE, 
+MACHINE 
+LEARNING, DEEP 
+LEARNING & ITS 
+APPLICATIONS 
+3-0-0-0-9 
+Artificial Intelligence (AI): Introduction, History, and Evolution, Ag
+Artificial Intelligence, Introduction to Fuzzy System (FS), Artificial 
+Network (ANN), Evolutionary Computing (EC), Genetic Algorithm
+Simulated Annealing (SA), Particle Swarm Algorithm (PSO), etc., M
+Learning: Unsupervised Learning, Supervised Learning, Semi sup
+Learning, Reinforcement Learning, Clustering and Biclustering: K-
+Fuzzy c-means (FCM), Self-organizing maps (SOM), and other Clu
+Algorithms, Classification: Support Vector Machines (SVM), K N
+Neighbour (KNN), ANN, Fuzzy Rule Based, and other Classifiers,
+fitting, Regression models, Prediction/Forecasting: ANN and Fuzz
+Based Regression Models, Performance Measures for Clu
+Biclustering, Classification, and Regression Algorithms, Deep Learn
+Transfer Learning: Deep Neural Networks (DNN), Fuzzy Neural Ne
+(FNN), etc., Case studies in the areas of signal processing, co
+vision, 
+intelligent 
+control, 
+transportation, 
+prognosis 
+and 
+management, bioinformatics, etc. 
+EE658 
+FUZZY SET, 
+LOGIC & 
+SYSTEMS & 
+APPLICATIONS 
+3-0-0--4 
+Introduction, Uncertainity, Imprecision and Vagueness, Fuzzy 
+systems, Brief history of Fuzzy logic, Foundation of Fuzzy 
+Theory, Fuzzy Sets and Systems, Fuzzy Systems in Commercial 
+Products, Research Fields in Fuzzy Theory, Classical sets and 
+Fuzzy sets, Classical Relations, Fuzzy relations, Membership 
+Functions,Fuzzy 
+to 
+crisp 
+conversions, 
+Fuzzy 
+arithmetic, 
+Numbers, Vectors and the extension principle, Classical logic 
+and Fuzzy logic, Mathematical back ground of Fuzzy Systems, 
+Classical (Crisp) vs, Fuzzy sets, Representation of Fuzzy sets, 
+Typesof Membership Functions, Basic Concepts (support, 
+singleton, height, acut projections), Fuzzy set operations, Sand T 
+Norms, Properties of Fuzzy sets,Sets as Points in Hypercube, 
+Cartesian Product, Crisp and Fuzzy Relations, Examples, 
+Liguistic variables and hedges, Membership function design. 
+Basic Principles of Inference in Fuzzy Logic, Fuzzy IFTHEN 
+Rules, Canonical Form, Fuzzy Systems and Algorithms, 
+Approximate Reasoning, Forms of Fuzzy Implication, Fuzzy 
+Inference 
+Engines, 
+Graphical 
+Techniques 
+of 
+Inference, 
+Fuzzyifications/DeFuzzification, Fuzzy System Design and its
+
+[Page 31]
+Elements, Design options. Fuzzy Events, Fuzzy Measures, 
+Possibility Distributions as Fuzzy Sets, Possibility vs, Probability 
+Fuzzy Systems as Universal Approximators, Additive Fuzzy 
+Systems (standard additive model). 
+EE658A 
+FUZZY SET, 
+LOGIC & 
+SYSTEMS & 
+APPLICATIONS 
+3-0-0-0-9 
+Introduction, Uncertainity, Imprecision and Vagueness, Fuzzy 
+systems, Brief history of Fuzzy logic, Foundation of Fuzzy 
+Theory, Fuzzy Sets and Systems,Fuzzy Systems in Commercial 
+Products, Research Fields in Fuzzy Theory, Classical sets and 
+Fuzzy sets, Classical Relations, Fuzzy relations, Membership 
+Functions,Fuzzy 
+to 
+crisp 
+conversions, 
+Fuzzy 
+arithmetic, 
+Numbers, Vectors and the extension principle, Classical logic 
+and Fuzzy logic, Mathematical back ground of Fuzzy Systems, 
+Classical (Crisp) vs, Fuzzy sets, Representation of Fuzzy sets, 
+Typesof Membership Functions, Basic Concepts (support, 
+singleton, height, acut projections), Fuzzy set operations, Sand T 
+Norms, Properties of Fuzzy sets,Sets as Points in Hypercube, 
+Cartesian Product, Crisp and Fuzzy Relations,Examples, 
+Liguistic variables and hedges, Membership function design. 
+Basic Principles of Inference in Fuzzy Logic, Fuzzy IFTHEN 
+Rules, Canonical Form, Fuzzy Systems and Algorithms, 
+Approximate Reasoning, Forms of Fuzzy Implication, Fuzzy 
+Inference 
+Engines, 
+Graphical 
+Techniques 
+of 
+Inference, 
+Fuzzyifications/DeFuzzification, Fuzzy System Design and its 
+Elements, Design options. FuzzyEvents, Fuzzy Measures, 
+Possibility Distributions as Fuzzy Sets, Possibility vs, Probability, 
+Fuzzy Systems as Universal Approximators, Additive Fuzzy 
+Systems (standard additive model). 
+EE659 
+COMPUTATIONAL 
+ASPECTS OF 
+TOMOGRAPHIC 
+IMAGING : 
+MODELS TO 
+INVERSIONS 
+3-0-0-0-4 
+1. Motivations and overview of of tomography, limited data 
+settings, approximate tomography, multimodal tomography; 2. 
+Typical Models : Maxwells equations, Helmholtz equation, 
+eikonal equation,radiative transfer equation and its diffusion 
+approximation; 3. Brief review of numerical solutions to the 
+above models: finite element schemes and the method of 
+moments (boundary element method); 4. Linear tomography: 
+Straight path tomography, Born and Rytov approximations in 
+diffraction tomography, algebraic reconstruction techniques; 5. 
+Regularized linear and nonlinear least squares solutions; 6. 
+Frechet 
+derivative 
+calculations, 
+method 
+of 
+adjoints; 
+7. 
+Approximate tomography: Shape based tomography and 
+topological 
+derivatives; 
+8. 
+Introduction 
+to 
+stochastic 
+reconstruction schemes, maximum likelihood and Bayesian 
+methods, posterior sampling; 9. Applications: Diffuse optical 
+tomography, 
+electrical 
+impedance 
+tomography,refraction 
+tomography, 
+electromagnetic 
+wave 
+tomography, 
+elastography,multimodal tomography. 
+EE659A 
+COMPUTATIONAL 
+ASPECTS OF 
+TOMOGRAPHIC 
+IMAGING : 
+MODELS TO 
+INVERSIONS 
+3-0-0-0-9 
+1. Motivations and overview of of tomography, limited data 
+settings, approximate tomography, multimodal tomography; 2. 
+Typical Models : Maxwells equations, Helmholtz equation, 
+eikonal equation,radiative transfer equation and its diffusion 
+approximation; 3. Brief review of numerical solutions to the 
+above models: finite element schemesand the method of 
+moments (boundary element method); 4. Linear tomography: 
+Straight path tomography, Born and Rytov approximations in 
+diffraction tomography, algebraic reconstruction techniques; 5.
+
+[Page 32]
+Regularized linear and nonlinear least squares solutions; 6. 
+Frechet derivative calculations , method of adjoints; 7. 
+Approximate tomography: Shape based tomography and 
+topological 
+derivatives; 
+8. 
+Introduction 
+to 
+stochastic 
+reconstruction schemes, maximum likelihood and Bayesian 
+methods, posterior sampling; 9. Applications: Diffuse optical 
+tomography, 
+electrical 
+impedance 
+tomography,refraction 
+tomography, electromagnetic wave tomography, elastography, 
+multimodal tomography. 
+EE660 
+BASICS OF 
+POWER 
+ELECTRONIC 
+CONVERTERS 
+3-0-3--5 
+Power semiconductor devices, BJT, MOSFET, IGBT, GTO and 
+MCT: ACDC Converters; Forced communication; synchronous 
+link converters, DCAC converters, buck, boost, buckboost, cuk, 
+flyback configuration, resonant converters, PWM inverters; active 
+filters. 
+EE660A 
+BASICS OF 
+POWER 
+ELECTRONIC 
+CONVERTERS 
+3-0-3-0-12 
+Power semiconductor devices, BJT, MOSFET, IGBT, GTO and 
+MCT: ACDC Converters; Forced communication; synchronous 
+link converters, DCAC converters, buck, boost, buckboost, cuk, 
+flyback configuration, resonant converters, PWM inverters; active 
+filters. 
+EE661 
+POWER 
+ELECTRONICS 
+APPLICATIONS IN 
+POWER SYSTEMS 
+3-0-0--4 
+Basics of flexible AC transmission systems, Controlled rectifier 
+and energy storage plants, Tap-changers and phase shifters, 
+Thyristor 
+controlled 
+VAR 
+compensation 
+and 
+series 
+compensation, Modern (synchronous link converter) VAR 
+compensators, Unified power flow controller (UPFC) and Inter 
+line power flow controller, Power quality conditioners, Power 
+electronics in power generation. 
+EE661A 
+POWER 
+ELECTRONICS 
+APPLICATIONS IN 
+POWER SYSTEMS 
+3-0-0-0-9 
+Basics of flexible AC transmission systems, Controlled rectifier 
+and energy storage plants, Tap-changers and phase shifters, 
+Thyristor 
+controlled 
+VAR 
+compensation 
+and 
+series 
+compensation, Modern (synchronous link converter) VAR 
+compensators, Unified power flow controller (UPFC) and 
+Interline power flow controller, Power quality conditioners, Power 
+electronics in power generation. 
+EE662 
+CONTROL 
+TECHNIQUES IN 
+POWER 
+ELECTRONICS 
+3-0-0--4 
+State space modeling and simulation of linear systems, Discrete 
+time models, conventional controllers using small signal models, 
+Fuzzy control, Variable structure control, Hysteresis controllers, 
+Output and state feedback switching controllers. 
+EE662A 
+CONTROL 
+TECHNIQUES IN 
+POWER 
+ELECTRONICS 
+3-0-0-0-9 
+State space modeling and simulation of linear systems, Discrete 
+time models, conventional controllers using small signal models, 
+Fuzzy control, Variable structure control, Hysteresis controllers, 
+Output and state feedback switching controllers. 
+EE663 
+POWER 
+ELECTRONICS IN 
+SOLAR 
+PHOTOVOLTAIC 
+SYSTEMS 
+ 
+To be procured 
+EE663A 
+POWER 
+ELECTRONICS IN 
+SOLAR 
+PHOTOVOLTAIC 
+SYSTEMS 
+ 
+To be procured 
+EE664 
+FUNDAMENTALS 
+3-0-0--4 
+Motor load dynamics, starting, braking & speed control of dc and
+
+[Page 33]
+OF ELECTRIC 
+DRIVES 
+ac motors. DC drives: converter and chopper control. AC Drives: 
+Operation of inductionand synchronous motors from voltage and 
+current inverters, slip power recovery, pump drives using ac line 
+controller and self-controlled synchronous motor drives. 
+EE664A 
+FUNDAMENTALS 
+OF ELECTRIC 
+DRIVES 
+3-0-0-0-9 
+Motor load dynamics, starting, braking & speed control of dc and 
+ac motors. DC drives: converter and chopper control. AC Drives: 
+Operation of induction and synchronous motors from voltage and 
+current inverters, slip power recovery, pump drives using ac line 
+controller and self-controlled synchronous motor drives. 
+EE665 
+ADVANCED 
+ELECTRIC DRIVES 
+3-0-0--4 
+Closed loop control of solidstate DC drives, Scalar and vector 
+control of induction motor, Direct torque and flux control of 
+induction motor, Self controlled synchronous motor drive, Vector 
+control of synchronous motor, Switched reluctance motor drive, 
+Brushless DC motor drive, Permanent magnet drives, Industrial 
+drives. 
+EE665A 
+ADVANCED 
+ELECTRIC DRIVES 
+3-0-0-0-9 
+Closed loop control of solidstate DC drives, Scalar and vector 
+control of induction motor, Direct torque and flux control of 
+induction motor, Self controlled synchronous motor drive, Vector 
+control of synchronous motor, Switched reluctance motor drive, 
+Brushless DC motor drive, Permanent magnet drives, Industrial 
+drives. 
+EE666 
+SPECIAL TOPICS 
+IN POWER 
+ELECTRONICS 
+3-0-0-0-4 
+PWM inverters, Multilevel inverters, Neutral point -controlled 
+inverters, Softswitching converters: DC-DC resonant link 
+inverters, Hybrid resonant link inverters, Quasi resonant link 
+converters, 
+Switched 
+mode 
+rectifiers, 
+Synchronous 
+link 
+converters. 
+EE666A 
+SPECIAL TOPICS 
+IN POWER 
+ELECTRONICS 
+3-0-0-0-9 
+PWM inverters, Multilevel inverters, Neutral point -controlled 
+inverters, 
+Softswitching 
+converters: 
+DCDC 
+resonant 
+link 
+inverters, Hybrid resonant link inverters, Quasi resonant link 
+converters, 
+Switched 
+mode 
+rectifiers, 
+Synchronous 
+link 
+converters. 
+EE667 
+INFORMATION 
+THEORY 
+3-0-0-0-4 
+Introduction: Entropy, Relative Entropy, Mutual Information 
+Inequalities, Entropy rate. Ansymptotic Equipartition Property 
+(AEP): Consequences of the AEP, Typical Sequences, Shannon 
+McMillan Breiman Theorem. Data Compression: Block to 
+variable lenght codes, Shannon Fano code, Huffman code, 
+variable to fixed lenght coding Tunstal code, variable to variable 
+length codes/ arithmetic code. Channel capacity: Discrete 
+Memoryless Channel, Joint Typicality, Channel Coding Theorem 
+and 
+its 
+converse, 
+Feedback 
+capacity, 
+Source 
+Channel 
+Separation Theorem. Differential Entropy: Difinition, Properties. 
+Gaussian Channel: Definition, Parallel Gaussian Channels, 
+Channels with Colored Gaussian Noise, Gaussian Channels with 
+Feedback. Rate Distortion Theory: Rate Distortion Function, 
+Rate Distortion theorem and its converse, Blahut Arimoto 
+Algorithm. Universal Source Coding: Universal codes, LempelZiv 
+codes; LZ 78, LZW, Slinding Window Lempel Ziv algorithm 
+(LZ77). Network Information Theory: Gaussian MultiUser 
+Channels, Multiple Access Channel, Broadcast Channel, 
+Encoding of Correlated Sources. 
+Course Reference: 1. Thomas M. Cover, Joy A. Thomas; 
+Elements of Information Theory, 2nd Edition , John Wiley & 
+Sons, 2006; 2. James L. Massey, Lecture notes on Applied
+
+[Page 34]
+Digital Information Theory; 3. Robert G. Gallager, Information 
+Theory and Reliable Communication, John Wiley & Sons, 1968; 
+4. David J.C. MacKay, Information Theory, Inference, and 
+Learning Algorithms,Cambridge University Press; 5. Robert Ash, 
+Information Theory;, Dover Publications, 1965; 6. Raymond W. 
+Yeung,Information Theory and Network Coding, Springer, 2006; 
+7. Abbas El Gamal and YoungHan Kim, Network Information 
+Theory, Cambridge University Press, 2012; 8. I. Csiszar and J. 
+Korner,Information Theory: Coding Theorems for Discrete 
+Memoryless Systems, 2nd edition, Cambridge Univ. Press; 9. 
+Papers from IEEE Transactions on Information Theory. 
+EE667A 
+INFORMATION 
+THEORY 
+3-0-0-0-9 
+Introduction: Entropy, Relative Entropy, Mutual Information 
+Inequalities, Entropy rate. Ansymptotic Equipartition Property 
+(AEP): Consequences of the AEP, Typical Sequences, Shannon 
+McMillanBreiman Theorem. Data Compression: Block to variable 
+lenght codes, ShannonFano code, Huffman code, variable to 
+fixed lenght coding Tunstal code, variable to variable length 
+codes/ arithmetic code. Channel capacity: Discrete Memoryless 
+Channel, Joint Typicality, Channel Coding Theorem and its 
+converse, Feedback capacity, Source Channel Separation 
+Theorem. Differential Entropy: Difinition, Properties. Gaussian 
+Channel: Definition, Parallel Gaussian Channels, Channels with 
+Colored Gaussian Noise, Gaussian Channels with Feedback. 
+Rate Distortion Theory: Rate Distortion Function, Rate Distortion 
+theorem and its converse, BlahutArimoto Algorithm. Universal 
+Source Coding: Universal codes, LempelZiv codes; LZ 78, LZW, 
+Slinding Window Lempel Ziv algorithm (LZ77). Network 
+Information Theory: Gaussian MultiUser Channels, Multiple 
+Access Channel, Broadeast Channel, Encoding of Correlated 
+Sources. 
+Course Reference: 1. Thomas M. Cover, Joy A. Thomas, 
+Elements of Information Theory, 2nd Edition , John Wiley & 
+Sons, 2006; 2. James L. Massey, Lecture notes on, Applied 
+Digital Information Theory; 3. Robert G. Gallager, Information 
+Theory and Reliable Communications, John Wiley & Sons, 1968; 
+4. David J.C. MacKay, Information Theory, Inference, and 
+Learning Algorithms, Cambridge University Press; 5. Robert Ash, 
+Information Theory,Dover Publications, 1965; 6. Raymond W. 
+Yeung, Information Theory and Network Coding, Springer, 2006; 
+7. Abbas El Gamal and YoungHan Kim, Network Information 
+Theory.Cambridge University Press, 2012; 8. I. Csiszar and J. 
+Korner, ;Information Theory: Coding Theorems for Discrete 
+Memoryless Systems 2nd edition, Cambridge Univ. Press; 9. 
+Papers from IEEE Transactions on Information Theory. 
+EE668 
+CODING THEORY 
+3-0-0-0-9 
+1.Introduction: Types of codes, channel models, maximum 
+likelihood decoding, Shannon’s noisy channel coding theorem, 
+FEC, ARQ, HARQ; 2. Linear Blaock Codes: Generator matrix, 
+parity check matrix, syndrome, error detection, error correction, 
+minimum distance of the code, dual code, weight enumeration 
+and Mac Williams theorem. Examples of simple linear block 
+codes; 3. Some linear block codes: Construction, properties and 
+decoding of some popular block codes; Hamming codes, Reed 
+Muller codes; 4. Bonds on codes: Hamming bound, Plotkin 
+bound, Singleton Bound, Elias Bound, GilbertVarshmov Bound,
+
+[Page 35]
+Linear programming bounds; 5. New codes from old codes: 
+Extending a code, puncturing a code, expunging a code, 
+augmenting a code, shortening a code, direct sum construction. 
+Course Reference: 1. Shu Lin and Daniel J. Costello, Jr; Error 
+Control Coding, second ed., Prentice Hall, 2004; 2. F.J. Mac 
+Williams, N.J.A. Sloance;The Theory of Error Correcting Codes, 
+NorthHolland, Amsterdam, 1977; 3. R.E. Blahut, Algebraic 
+Codes for Data Transmission, 1st Ed., Cambridge Univ. Press 
+2003; 4. Todd K. Moon, Error Correction Coding, 1st Ed., 
+WileyInter science, 2006; 5. Cary W. Huffman, Vera Pless; 
+Fundamentals of ErrorCorrecting Codes,1st Edi. Cambridge Univ. 
+Press, 2003; 6. Ezio Biglieri; Coding for Wireless Channels, 
+Springer, 2005; 7. Tom Richardson and Rudiger Urbanke; 
+Modern Coding Theory, Cambridge Univ. Press, 2008; 23.09.14 
+EE668A 
+CODING THEORY 
+3-0-0-0-9 
+1.Introduction: Types of codes, channel models, maximum 
+likelihood decoding, Shannon’s noisy channel coding theorem, 
+FEC, ARQ, HARQ; 2. Linear Blaock Codes: Generator matrix, 
+parity check matrix, syndrome, error detection, error correction, 
+minimum distance of the code, dual code, weight enumeration 
+and Mac Williams theorem. Examples of simple linear block 
+codes; 3. Some linear block codes: Construction, properties and 
+decoding of some popular block codes; Hamming codes, Reed 
+Muller codes; 4. Bonds on codes: Hamming bound, Plotkin 
+bound, Singleton Bound, Elias Bound, GilbertVarshmov Bound, 
+Linear programming bounds; 5. New codes from old codes: 
+Extending a code, puncturing a code, expunging a code, 
+augmenting a code, shortening a code, direct sum construction. 
+Course Reference: 1. Shu Lin and Daniel J. Costello, Jr, Error 
+Control Coding, second ed., Prentice Hall, 2004; 2. F.J. Mac 
+Williams, N.J.A. Sloance; The Theory of Error Correcting Codes, 
+North Holland, Amsterdam, 1977; 3. R.E. Blahut, Algebraic 
+Codes for Data Transmission,1st Ed., Cambridge Univ. Press 
+2003; 4. Todd K. Moon; Error Correction Coding, 1st Ed., 
+WileyInter science, 2006; 5. Cary W. Huffman, Vera Pless; 
+Fundamentals of ErrorCorrecting Codes, 1st Edi. Cambridge 
+Univ. Press, 2003; 6. Ezio Biglieri, Coding for Wireless 
+Channels, Springer, 2005; 7. Tom Richardson and Rudiger 
+Urbanke Modern Coding Theory, Cambridge Univ. Press, 2008; 
+23.09.14 
+EE669 
+SIMULATION OF 
+COMMUNICATION 
+SYSTEMS 
+3-0-0-0-9 
+Introduction to simulation. Discrete time signals and systems. 
+Modeling linear time invariant system. Modeling linear time 
+varying system. Modeling memoryless nonlinear systems. 
+Modeling nonlinear system with memory. Nonlinear differential 
+equation models. Review of probability and randon processes. 
+Monte Carlo simulation and randon number generation. Testing 
+of random number generators. Modeling of functional blocks in 
+communication systems. Wireless fading channel models. 
+Discrete 
+Markov 
+fading 
+channel 
+models. 
+Estimation 
+of 
+parameters in simulation. Estimation of performance measures 
+from simulation. Importance sampling. Other performance 
+estimation methods. Variance reduction techniques. Simulation 
+optimization. Case Study. 
+Course Reference: 1. P. Balaban, K.S. Shanmugan, and B.W. 
+Stuck, eds., ComputerAided Modeling, Analysis, and Design of
+
+[Page 36]
+Communication Systems, vol. 6, IEEE Journal on Selected 
+Areas in Communications, Jan. 1984; 2. P. Balaban, E. Biglieri, 
+M.C. Jeruchim, H.T. Mouftah, C.H. Sauer, and K.S. Shanmugan, 
+eds., ComputerAided Modeling, Analysis, and Design of 
+Communication Systems II, vol. 6, IEEE Journal on Selected 
+Areas in Communications, Jan. 1988; 3. J.K. Townsend, A.F. 
+Elrefaic, H. Meyr, and M. Pent, eds., ComputerAided Modeling, 
+Analysis, and Design of Communication Links, vol.11, IEEE 
+Journal on Selected Areas in Communications Apr. 1993; 4. K.S. 
+Shanmugan, 
+eds., 
+Simulation 
+and 
+Implementation 
+of 
+Communication and Signal Processing Systems, vol. 32, IEEE 
+Communication Magazine, July 1994; 23.09.14 
+EE669A 
+SIMULATION OF 
+COMMUNICATION 
+SYSTEMS 
+3-0-0-0-9 
+Introduction to simulation. Discrete time signals and systems. 
+Modeling linear time invariant system. Modeling linear time 
+varying system. Modeling memoryless nonlinear systems. 
+Modeling nonlinear system with memory. Nonlinear differential 
+equation models. Review of probability and randon processes. 
+Monte Carlo simulation and randon number generation. Testing 
+of random number generators. Modeling of functional blocks in 
+communication systems. Wireless fading channel models. 
+Discrete 
+Markov 
+fading 
+channel 
+models. 
+Estimation 
+of 
+parameters in simulation. Estimation of performance measures 
+from simulation. Importance sampling. Other performance 
+estimation methods. Variance reduction techniques. Simulation 
+optimization. Case Study. 
+Course Reference: 1. P. Balaban, K.S. Shanmugan, and B.W. 
+Stuck, eds., Computer Aided Modeling, Analysis, and Design of 
+Communication Systems, vol. 6, IEEE Journal on Selected 
+Areas in Communications, Jan. 1984; 2. P. Balaban, E. Biglieri, 
+M.C. Jeruchim, H.T. Mouftah, C.H. Sauer, and K.S. Shanmugan, 
+eds., Computer Aided Modeling, Analysis, and Design of 
+Communication Systems II, vol. 6, IEEE Journal on Selected 
+Areas in Communications, Jan. 1988; 3. J.K. Townsend, A.F. 
+Elrefaic, H. Meyr, and M. Pent, eds., ComputerAided Modeling, 
+Analysis, and Design of Communication Links, vol.11, IEEE 
+Journal on Selected Areas in Communications Apr. 1993; 4. K.S. 
+Shanmugan, 
+eds., 
+Simulation 
+and 
+Implementation 
+of 
+Communication and Signal Processing Systems, vol. 32, IEEE 
+Communication Magazine, July 1994. 23.09.14 
+EE670 
+WIRELESS 
+COMMUNICATION
+S 
+3-0-0--9 
+Introduction to wireless communication, multipath propagation, 
+fading channel model, Rayleigh fading, bit error rate (BER) in 
+AWGN and fading channels, multiple antenna wireless systems, 
+maximal ratio combiner (MRC), diversity, BER with diversity, 
+orthogonal frequency division multiplexing (OFDM), transmit/ 
+receive processing, multiple input multiple output (MIMO), 
+ZF/LMMSE receivers, SVD processing, MIMO optimization, 
+Alamouti code, MIMO-OFDM technology, wireless channel 
+characterization in delay and Doppler domainsCourse 
+Reference: Fundamentals of Wireless Communication By David 
+Tse and Pramod Viswanath, Cambridge University Press, 2005; 
+Wireless Communications By Andrea 
+Goldsmith, 
+Cambridge 
+University Press 
+EE670A 
+WIRELESS 
+COMMUNICATION
+3-0-0-0-9 
+Introduction to wireless communication, multipath propagation, 
+fading channel model, Rayleigh fading, bit error rate (BER) in
+
+[Page 37]
+S 
+AWGN and fading channels, multiple antenna wireless systems, 
+maximal ratio combiner (MRC), diversity, BER with diversity, 
+orthogonal frequency division multiplexing (OFDM), transmit/ 
+receive processing, multiple input multiple output (MIMO), 
+ZF/LMMSE receivers, SVD processing, MIMO optimization, 
+Alamouti code, MIMO-OFDM technology, wireless channel 
+characterization in delay and Doppler domains 
+Course Reference: Fundamentals of Wireless Communication 
+By David Tse and Pramod Viswanath, Cambridge University 
+Press, 2005; Wireless Communications By Andrea Goldsmith, 
+Cambridge University Press 
+EE671 
+NEURAL 
+NETWORKS 
+3-0-0--4 
+Theory 
+of 
+representation; 
+Two 
+computational 
+pradigms; 
+Multilayer networks; Autoassociative and hetero associative 
+nets; Learning in neural nets: Supervised and unsupervised 
+learning; Application of neural nets; Neural network simulators. 
+EE671A 
+NEURAL 
+NETWORKS 
+3-0-0-0-9 
+Theory 
+of 
+representation; 
+Two 
+computational 
+pradigms; 
+Multilayer networks; Auto associative and hetero associative 
+nets; Learning in neural nets: Supervised and unsupervised 
+learning; Application of neural nets; Neural network simulators. 
+EE673 
+DIGITAL 
+COMMUNICATION 
+NETWORKS 
+3-0-0--4 
+OSI model, queueing theory, physical layer, error detection and 
+correction, data link layer, ARQ strategies, framing, media 
+access layer, modelling and analysis of important media access 
+control protocols, FDDI and DQDB MAC protocols for LANs and 
+MANs, network layer, flow control & routing, TCP/IPprotocols, 
+ATM. 
+EE673A 
+DIGITAL 
+COMMUNICATION 
+NETWORKS 
+3-0-0-0-9 
+OSI model, queueing theory, physical layer, error detection and 
+correction, data link layer, ARQ strategies, framing, media 
+access layer, modelling and analysis of important media access 
+control protocols, FDDI and DQDB MAC protocols for LANs and 
+MANs, network layer, flow control & routing, TCP/IP protocols, 
+ATM. 
+EE674 
+ARCHITECTURE 
+OF MICRO-
+PROCESSORS & 
+MICROCOMPUTE
+RS 
+ 
+To be procured 
+EE674A 
+ARCHITECTURE 
+OF MICRO-
+PROCESSORS & 
+MICROCOMPUTE
+RS 
+ 
+To be procured 
+EE677 
+KNOWLEDGE 
+BASED MAN 
+MACHINE 
+SYSTEMS 
+3-0-0--4 
+Knowledge 
+representation, 
+statespace 
+techniques, 
+logic, 
+semantic networks, frames, script. Production system, object 
+oriented and ANN models. Applications in robotic vision and 
+processing of documents, natural languages and speech. 
+Course Project involving extensive programming is compulsory. 
+Combinational and sequential circuits, Logic families, Number 
+systems, Arithmetic circuits using SSI/MSI chips. Basic 
+microprocessor architecture, Essentials ofa microcomputer 
+system, Instruction sets, Machine cycles, Interrupt structures. 
+Parallel /serial I/O, Analog I/O, DMA operation. Peripheral 
+controllers.
+
+[Page 38]
+EE677A 
+MIMO WIRELESS 
+COMMUNICATION 
+ 
+To be procured 
+EE678A 
+POWER 
+MANAGEMENT 
+CIRCUITS 
+3-0-0-0-9 
+Introduction to Motivation. Solar Radiations: Composition, 
+spectrum Air Mass, optimal angle of panel, solar constant, Indias 
+solar resource. Solar PV cell: Direct vs Indirect Band, Generation 
+of carriers, drift and diffusion currents, PN Junction, IV 
+characteristics of cell, fill factor, maximum short circuit current, 
+maximum open circuit voltage, efficiency, fundamental and 
+technological losses, electrical model of cell, effect of series and 
+shunt resistances, optical losses and minimization techniques, 
+Soloar PV Module: Series/parallel connection, IV characteristics 
+of module, mismatching due to temperature and shading, 
+Bypass and blocking diodes, overview of PV module fabrication, 
+IV equation of module, standard test conditions, Review of dcdc 
+buck & boost converters Maximum power point tracking: 
+motivation, power extracted with resistive load, implementing 
+variable resistance load, tracking using dcdc converter, direct vs 
+indirect control, fractional open circuit voltage control, hill 
+climbing method and issues, incremental conductance method, 
+mppt extraction efficiency, effect of voltage ripple on efficiency. 
+Battery 
+charging: 
+types 
+and 
+characteristics 
+of 
+battery, 
+comparison of charging characteristics, popular technique for 
+charging lead acid battery, charging using dcdc converter, PV 
+charging circuits, stable operation of chargers. Solar Inverters: 
+standalone vs grid connected, days of autonomy, payback 
+period, Parity, grid feeding inverter, central inverters circuits, 
+string inverters, earth leakage current, module inverters, features 
+of grid feeding inverter, relevant standards, islanding. 
+Course 
+Reference: 
+1.Chetan 
+Singh 
+Solanki, 
+Solar 
+Photovoltaics: Fundamentals, Technologies and Applications, 
+Prentice Hall of India, 2011; 2. N. Mohan, T.M. Undeland & W.P. 
+Robbins, Power Electronics: Converter, Applications & Design, 
+John Wiley & Sons, 1989; 3. Chenming Calvin Hu, Moden 
+Semiconductor Devices ofr Integrated Circuits, Prentice Hall, 
+2009 (Chapters1, 2 and 4); 4. Chenming Hu and Richard M 
+White, Solar Cells: From basics to advanced systems, McGraw 
+Hill Book Company, 1983 (Section 3, 7 and 3.8); 5. Antonio 
+Luque and Steven Hegedus, Handbook of Photovoltaic Science 
+and Engineering, John Wiley & Sons Ltd, 2010; 6. Erickson and 
+Maksimovic, Fundamentals of Power Electronics, Springer, 2001 
+(Chapter 2, 3, 5 and 6); 7. T. Esram and P.L. Chapman, 
+Comparison of Photovoltaic Array Maximum Power Point 
+Tracking Techniques, IEEE Trans, Energy Conversion, Vol.22, 
+no.2, pp.439449, June 27. 24-MAR-15 
+EE679 
+SMART GRID 
+TECHNOLOGY 
+3-0-0--4 
+History of Smart Grid, Conventional Grid Vs. Smart Grid, 
+Features of Smart Grid, Key Characteristics of Smart Grid, Smart 
+Grid Elements, Forces behind Smart Grid Evolution, Smart Grid 
+Stake Holders, Smart Grid Building Blocks, Smart Grid 
+Resources, Conventional Power System Architecture, IT Layer, 
+Communication 
+Layer, 
+distributed 
+architecture 
+design, 
+Synchrophasor Technology, Smart Meters and Advanced 
+Metering Infrastructure, Wireless Sensor Network (WSN), 
+GIS/Google mapping, Wired Communication (e.g. PLCC, 
+Ethernet, Optical Fibre), Wireless Communication (e.g. WiFi,
+
+[Page 39]
+Zigbee, 
+GSM/GPRS, 
+WAN), 
+Machine 
+to 
+Machine 
+Communication, Overview of Protocols such as IEC 61850, IEC 
+60870, IEEE C37.118, IEC 62351, IEEE 1588, DNP 3.0, IEC 
+61970/ 61968, IEC 62056, Interoperability issues in Smart Grid 
+and its solutions, Common Information Model, Multispeak, Green 
+Button, SunSpec, SEP 2.0 
+EE680 
+INTELLIGENT 
+INSTRUMENTATIO
+N 
+2-3-0--4 
+Introduction, data flow and graphical programming techniques, 
+Virtual instrumentation (VI), advantages, VIs and SubVIs, Data 
+acquisition methods, DAQ hardware, PC hardware; Structure, 
+Operating 
+system, 
+ISA, 
+PCI, 
+USB, 
+PCMICAbuses, 
+Instrumentation buses. IEEE 488.1 and 
+EE680A 
+INTELLIGENT 
+INSTRUMENTATIO
+N 
+2-0-3-0-9 
+Introduction, data flow and graphical programming techniques, 
+Virtual instrumentation (VI), advantages, VIs and SubVIs, Data 
+acquisition methods, DAQ hardware, PC hardware; Structure, 
+Operating 
+system, 
+ISA, 
+PCI, 
+USB, 
+PCMICAbuses, 
+Instrumentation buses. IEEE 488.1 and 
+EE681 
+COMPACT 
+MODELING 
+3-0-0-0-9 
+Introduction to Simulation. Introduction to SPICE and Compact 
+Modeling. Integrated Resistor Modeling. Integrated MOS 
+Varactor Modeling. MOSFET Modeling approaches: Threshold 
+Voltage based modeling (BSIM3, MSIM4), Charge based 
+modeling (BSIM6, EKV), Surface Potential based modelling 
+(PSP). Quality of MOSFET Compect Models and Benchmark 
+Tests. Layout Effects and Parameter Extraction. High Frequency 
+Effects and RF Modeling. SOI MOSFET Modeling. Noise 
+Modeling. Multigate MOSFETs. C. Hu; Modern Semiconductor 
+Devices for Integrated Circuits; Pearson/Prentice Hall, New 
+Jersey.Compac 
+Modeling: 
+Priciples, 
+Techniques 
+and 
+Applications by Gennady Gildenblat, Springer. MOSFET Models 
+for SPICE Simulation: Including BSIM3v3 and BSIM4 by William 
+Liu, Wiley IEEE Press.Chargebased MOS Transistor Modeling: 
+The EKV Model for LowPower and RF IC Design by Christian C. 
+Enz and Eric A. Vittoz, John Wiley & Sons.BSIM4 and MOSFET 
+Modeling for IC Simulation by W. Liu and C. Hu, World Scientific 
+Publishing Co. FinFETs and Other MultiGate Transistors 
+(Integrated Circuits and Systems) by J.P. Coling (Editor). 
+EE681A 
+COMPACT 
+MODELING 
+3-0-0-0-9 
+Introduction to Simulation. Introduction to SPICE and Compact 
+Modeling. Integrated Resistor Modeling. Integrated MOS 
+Varactor Modeling. MOSFET Modeling approaches: Threshold 
+Voltage based modeling (BSIM3, MSIM4), Charge based 
+modeling (BSIM6, EKV), Surface Potential based modelling 
+(PSP). Quality of MOSFET Compect Models and Benchmark 
+Tests. Layout Effects and Parameter Extraction. High Frequency 
+Effects and RF Modeling. SOI MOSFET Modeling. Noise 
+Modeling. Multigate MOSFETs. C. Hu; Modern Semiconductor 
+Devices for Integrated Circuits; Pearson/Prentice Hall, New 
+Jersey.Compac 
+Modeling: 
+Priciples, 
+Techniques 
+and 
+Applications by Gennady Gildenblat, Springer. MOSFET Models 
+for SPICE Simulation: Including BSIM3v3 and BSIM4 by William 
+Liu, Wiley IEEE Press.Charge based MOS Transistor Modeling: 
+The EKV Model for LowPower and RF IC Design by Christian C. 
+Enz and Eric A. Vittoz, John Wiley & Sons. BSIM4 and MOSFET 
+Modeling for IC Simulation by W. Liu and C. Hu, World Scientific 
+Publishing CoFinFETs and Other Multi Gate Transistors
+
+[Page 40]
+(Integrated Circuits and Systems) by J.P. Coling (Editor). 
+24.09.14 
+EE682 
+GAME THEORY 
+FOR WIRELESS 
+COMMUNICATION
+S 
+3-0-0-0-4 
+Introduction: Games with Perfect lnformation (Theory with 
+examples) 1. Brief Revision ofNormal Games, Nash Equilibrium, 
+Utility Theory; 2. Mixed Strategies; 3. Introduction to Basics of 
+Wireless Communications; 4. Fading Channels and Diversity ;5. 
+BitError Rate Calculation for Wireless Communications; 6. 
+CDMA, OFDM and MIMO technologies in Wireless; 7. Wireless 
+Sensor Networks; 8. Supermodular and Potential Games and 
+applications in CDMA wireless communications. Applications 1. 
+Market Equilibrium and Pricing 7; 2. Auctions for Wireless 
+Spectrum; 3. Wireless Networks: Introduction to Basics of 
+Wireless; 4. Resource Allocations in Wireless; 5. Admission 
+Control, Routing in Sensor and AdHoc Networks; 6. Modeling 
+Network Traffic and Strategic Network Formation; 7. Electoral 
+Competitions and applications in Wireless Sensor Networks 
+Games 
+with 
+Imperfect 
+InformationaI. 
+Bayesian 
+Games, 
+Extensive Games with Imperfect Information Application I. 
+Auctions: Radio Spectrum, With Arbitrary Distribution of 
+Valuations 6; 2. Signaling Games Nash Bargaining with 
+Applications(I). Rubinstein Bargaining Model with Alternating 
+Offers; 2. Nash Bargaining Solution 63. Relation of Axiomatic 
+and Strategic Model; 4. Bargaining in Wireless Network.Auctions 
+[Ill] and Mechanism Design with Applications1. Revenue 
+Equivalence. 
+Mechanism 
+and 
+Optimal 
+Mechanisms 
+for 
+Wireless3. Efficient Mechanism: VickreyClarkeGroves Auction 
+for Wireless 124. Application of VCG in Resource Allocation for 
+Wireless; 5. Dynamic Spectrum Auction in Cognitive Radio 
+Networks; 6. Mechanisms in Networking and Wireless; 7. 
+Applications and Case Studies in Wireless 
+EE683 
+QUANTUM AND 
+WAVE 
+PHENOMENA 
+3-0-0-0-9 
+1. Introduction to quantum mechanics and its tools: Motivation 
+for quantum mechanics: early experiments; general principles of 
+quantum 
+mechanics: 
+operator 
+algebra, 
+eigenstates, 
+superposition, observables and expectation values, uncertainty 
+relations, commutators, angular momentum, Dirac notation; 
+potential wells and barriers, harmonic oscillator, Hydrogenic 
+atom; time independent and dependent perturbation theory. 2. 
+Device applications of quantum and wave phenomena : Density 
+of states; practical examples of lowdimensional systems such as 
+quantum wells, wires and dots: design, fabrication and 
+characterization techniques; engineered electronic and optical 
+properties of these lowdimensional materials; application in 
+electronic, optoelectronic and photonic devices; current research 
+efforts towards using quantum mechanical effects for developing 
+efficient devices 
+EE683A 
+QUANTUM AND 
+WAVE 
+PHENOMENA 
+3-0-0-0-9 
+1. Introduction to quantum mechanics and its tools: Motivation 
+for quantum mechanics: early experiments; general principles of 
+quantum 
+mechanics: 
+operator 
+algebra, 
+eigenstates, 
+superposition, observables and expectation values, uncertainty 
+relations, commutators, angular momentum, Dirac notation; 
+potential wells and barriers, harmonic oscillator, Hydrogenic 
+atom; time independent and dependent perturbation theory. 2. 
+Device applications of quantum and wave phenomena: Density 
+of states; practical examples of low dimensional systems such as
+
+[Page 41]
+quantum wells, wires and dots: design, fabrication and 
+characterization techniques; engineered electronic and optical 
+properties of these low dimensional materials; application in 
+electronic, optoelectronic and photonic devices; current research 
+efforts towards using quantum mechanical effects for developing 
+efficient devices. 
+Course Reference: 1. R.L. Liboff, Introductory Quantum 
+Mechanics (Addison Wesley); 2. A. Yariv, An Introduction to 
+Theory and Applications of Quantum Mechanics (John Wiley & 
+Sons); 3. S. Gasiorowicz, Quantum Physics (Wiley); 4. D.J. 
+Griffiths, Introduction to Qauntum Mechanics (Pearson Prentice 
+Hall); 5. J.H. Davies, The Physics of Low dimensional 
+Semiconductors (Cambridge University Press). 07-OCT-2015 
+EE684 
+FIBER-OPTIC 
+COMMUNICATION
+S 
+ 
+To be procured 
+EE684A 
+FIBER-OPTIC 
+COMMUNICATION
+S 
+3-0-0-0-9 
+1. Introduction. 2. Light propagation in optical fibers. Single and 
+multimode fibers, light guiding by fibers, material and waveguide 
+dispersion, Polarization mode dispersion, Nonlinear effects: self 
+and cross phase modulation, Raman and Brillouin scattering, 
+four wave-mixing etc. 3. Optical transmitters and modulation. 
+External modulators: phase and intensity, bias control, Pulse 
+shaping, pulse carving, Modulation formats Intensity modulation, 
+RZ and NRZ amplitude modulation, Mary modulation using 
+MachZehnder modulator, MSK, IQ modulation and optical 
+OFDM. 4. Detection of optical signals. Direct detection: receiver 
+structure, data recovery, signal to noise ratio, performance 
+calculations for binary digital optical systems. Coherent 
+detection: heterodyne, homodyne, DSP assisted coherent optical 
+receiver, performance analysis. 5. Optical amplifiers. Principles 
+of SOA and EDFA, single and double pump configurations, ASE 
+noise in SOA and EDFA, OSNR calculations. 6. Optical link 
+design. Power budget under linear and nonlinear effects, power 
+penalty, dispersion tolerance in DWDM systems. 
+Course Reference: 1. M. Cvijetic and I.B. Djordjevic, Advanced 
+optical communication systems and networks, Artech House, 
+2013; 2. S. Kumar and M.J. Deen, Fiberoptic communications: 
+Fundamentals and applications, Wiley, 2014. 07-OCT-2015 
+EE685 
+SEMICONDUCTOR 
+OPTICAL 
+COMMUNICATION 
+DEVICES 
+ 
+To be procured 
+EE685A 
+SEMICONDUCTOR 
+OPTICAL 
+COMMUNICATION 
+DEVICES 
+3-0-0-0-9 
+1. Introduction. 2. Review of Semiconductors. 3. Epitaxial Growth 
+of Semiconductors. 4. Semiconductor Optical Waveuides. 5. 
+LED. 6. Diode Lasers. 7. Fabrication and Packaging. 8. Single 
+mode Laser diodes plus Reliability. 9. PhotoDetectors. 10. 
+External Modulators. 11. Photonic Integrations. 
+Course Reference: 1. Modular Series on Solid State Devices, 
+Vol. VI, Ed: G.W. Neudek & R.F Pierret: R.F. PIERRET, Addision 
+Wesley; 2. Optical Fiber Communication Systems: W.B. JONES, 
+HRW (1988); 3. Semiconductor Optoelectronic Devices: P.K. 
+BHATTACHARYA, Prentice Hall; 4. Elements of Optoelectronics 
+and Fiber Optics: C.L. CHEN, Irwin; 5. Handbook of
+
+[Page 42]
+Semiconductor Lasers and Photonic Integrated Circuits: Y. 
+SUEMATSU & A.R. ADAMS, Chapman & Hall; 6. Optical 
+Electronics in Modern Communication: A. YARIV, Oxford 
+University Press; 7. Semiconductor Devices for HighSpeed 
+Optoelectronics: GIOVANNI GHIONE, Cambridge Univ. Press. 
+07-OCT-2015 
+EE686 
+MICROWAVE 
+IMAGING 
+CHARACTERIZATI
+ON AND 
+NONDESTRUCTIV
+E TESTING 
+3-0-0-0-4 
+I. Introduction to electromagnetic theory and microwaves; review 
+of Maxwell’s equations, interaction of microwaves with the 
+dielectric materials and the concept of effective permittivity, 
+definition of microwave imaging, characterization and testing, the 
+concept of using microwaves as the imaging and testing tool; 
+basic parameters required for themicrowave imaging and their 
+practical equivalents. 2. Review of transmission line theory and 
+the equivalent network representation of field quantities at 
+microwave 
+frequencies, 
+scattering 
+parameters 
+and 
+the 
+transmission matrix, the relationship between the scattering and 
+transmission matrices. 3. Electromagnetic scattering theory: 
+direct and inverse problems, the inverse problem from the 
+mathematic point of view, basis of the electromagnetic scattering 
+problem formulation for the microwave characterization and 
+imaging applications. 4. Overview of the microwave methods for 
+the material characterization and testing, resonant methods, 
+cavity perturbation approach, reflection methods, transmission 
+reflection methods. 5. Theory of transmission reflection methods 
+for determining the permittivity and permeability of materials, 
+various available algorithms, analytical approach, numerical 
+optimization methods, formulation for the dispersive and 
+anisotropic media. 1.2.3.4.5. 
+Course Reference: 1.Jaleel Akhtar, Microwave Imaging: 
+Reconstruction of One Dimensional Permittivity Profiles,Vdm 
+Verlag Dr. Mueller, Germany, 2008; 2.L.F. Chen, C.K. Ong, C.P. 
+Neo, 
+V.V. 
+Vardhan 
+and 
+V.K. 
+Verdhan, 
+Microwave 
+Electronics:Measurement and Materials Characterization, John 
+Wiley & Sons, 2004; 3.K.l. Hopcraft and P.R. Smith, Introduction 
+to Electromagnetic Inverse Scattering, Kluwer Academic 
+Publishers, The Netherlands, 1992; 4. Matteo Pastorino, 
+Microwave Imaging, John Wiley & Sons, 2010; 5.Literature from 
+various Journals relevant to specific topics. 
+EE686A 
+MICROWAVE 
+IMAGING 
+CHARACTERIZATI
+ON AND 
+NONDESTRUCTIV
+E TESTING 
+3-0-0-0-9 
+I. Introduction to electromagnetic theory and microwaves; review 
+of Maxwell’s equations ,interaction of microwaves with the 
+dielectric materials and the concept of effective permittivity, 
+definition of microwave imaging, characterization and testing, the 
+concept of using microwaves as the imaging and testing tool; 
+basic parameters required for the microwave imaging and their 
+practical equivalents; 2. Review of transmission line theory and 
+the equivalent network representation of field quantities at 
+microwave 
+frequencies, 
+scattering 
+parameters 
+and 
+the 
+transmission matrix, the relationship between the scattering and 
+transmission matrices; 3. Electromagnetic scattering theory: 
+direct and inverse problems, the inverse problem from the 
+mathematic point of view, basis of the electromagnetic scattering 
+problem formulation for the microwave characterization and 
+imaging applications; 4. Overview of the microwave methods for 
+the material characterization and testing, resonant methods,
+
+[Page 43]
+cavity perturbation approach, reflection methods, transmission 
+reflection methods; 5. Theory of transmission reflection methods 
+for determining the permittivity and permeability of materials, 
+various available algorithms, analytical approach, numerical 
+optimization methods, formulation for the dispersive and 
+anisotropic media. 1.2.3.4.5. 
+Course Reference: 1.Jaleel Akhtar, Microwave Imaging: 
+Reconstruction of One Dimensional Permittivity Profiles,Vdm 
+Verlag Dr. Mueller, Germany, 2008; 2.L.F. Chen, C.K. Ong, C.P. 
+Neo, V.V. Vardhan and V.K. Verdhan, Microwave Electronics: 
+Measurement and Materials Characterization, John Wiley & 
+Sons, 2004; 3.K.l. Hopcraft and P.R. Smith, Introduction to 
+Electromagnetic Inverse Scattering, KluwerAcademic Publishers, 
+The Netherlands, 1992; 4.Matteo Pastorino, Microwave Imaging, 
+John Wiley & Sons, 2010; 5.Literature from various Journals 
+relevant to specific topics. 
+EE698 
+POWER 
+MANAGEMENT 
+CIRCUITS 
+ 
+To be procured 
+EE698A 
+HIGH 
+FREQUENCY 
+ANALOG CIRCUIT 
+DESIGN 
+ 
+To be procured 
+EE698B 
+SMART GRID 
+TECHNOLOGY 
+APPLICATIONS 
+ 
+Initial Overview of various smart grid measurement and 
+communication technologies, smart grid protocols 
+Overview of Multi-agent System, Distributed Intelligence, Big 
+Data Analysis, Cloud Computing, Software-Defined Networks 
+(SDN) 
+Concepts 
+of 
+Visualization, 
+Self-Healing, 
+Congestion 
+Management, Dynamic OPF, Security Assessment, Contingency 
+Analysis, Dynamic State estimation, Stability Analysis, Intelligent 
+Fault Management, Feeder Reconfiguration, Short Circuit 
+Analysis, Topology Processing, Power Quality, Voltage VAR 
+Control, advanced control of generators, improved FACTS 
+devices 
+Computational Intelligence, Wide Area Monitoring and Control 
+Techniques, Demand Response Management, Predictive Asset 
+Management, Forecasting Techniques 
+Renewable Integration, Plug-in Electric Vehicle, Smart home and 
+Smart City concepts, Cooperative grids 
+Energy market overview, Role of System Operators, DSO, and 
+TSO under the smart grid, Transactive Energy 
+EE698C 
+PEER TO PEER 
+NETWORKS 
+ 
+To be procured 
+EE698D 
+SMART GRID 
+TECHNOLOGY 
+3-0-0-0-4 
+Solar radiations, solar PV modules, maximum power point 
+tracking, 
+partial 
+shading, 
+leakage 
+currents, 
+grounding 
+techniques, panel optimizers, grid integration issues, module 
+integrated inverters, standalone inverters and battery charge 
+controllers. 
+EE698E 
+QUANTUM 
+CRYPTOGRAPHY: 
+THEORY AND 
+PRACTICE 
+ 
+To be procured
+
+[Page 44]
+EE698F 
+RF 
+MICROELECTRON
+ICS 
+3-0-0--9 
+Solar radiations, solar PV modules, maximum power point 
+tracking, 
+partial 
+shading, 
+leakage 
+currents, 
+grounding 
+techniques, panel optimizers, grid integration issues, module 
+integrated inverters, standalone inverters and battery charge 
+controllers. 
+EE698G 
+ADVANCED 
+FIBRE-OPTIC 
+COMMUNICATION 
+SYSTEMS 
+ 
+To be procured 
+EE698H 
+SIMULATION 
+BASED DESIGN 
+OF 4G/5G 
+WIRELESS 
+STANDARDS 
+ 
+To be procured 
+EE698I 
+SOLAR 
+PHOTOVOLTAIC 
+TECHNOLOGIES 
+ 
+To be procured 
+EE698J 
+KALMAN 
+FILTERING & 
+APPLICATIONS 
+ 
+To be procured 
+EE698K 
+CONTROL 
+SYSTEMS: 
+PERFORMANCE 
+LIMITATIONS & 
+ORDER 
+REDUCTION 
+ 
+To be procured 
+EE698L 
+INTRODUCTION 
+TO FLEXIBLE 
+ELECTRONICS 
+ 
+To be procured 
+EE698M 
+SELECTED 
+TOPICS IN IMAGE 
+& SIGNAL 
+PROCESSING 
+ 
+To be procured 
+EE698N 
+INTRODUCTION 
+TO FLEXIBLE 
+ELECTRONICS 
+ 
+To be procured 
+EE698O 
+ANALYSIS OF 
+MODERN 
+WIRELESS 
+NETWORKS 
+ 
+To be procured 
+EE698P ADAPTIVE SIGNAL 
+PROCESSING 
+ 
+To be procured 
+EE698Q 
+5G WIRELESS 
+TECHNOLOGIES 
+ 
+To be procured 
+EE698R 
+SMART GRID 
+MONITORING AND 
+VISUALIZATION 
+ 
+To be procured 
+EE698S 
+ANALYSIS OF 
+MODERN 
+WIRELESS 
+NETWORK 
+ 
+To be procured
+
+[Page 45]
+EE698T 
+CHARGE AND 
+HEAT 
+TRANSPORT IN 
+SEMICONDUCTOR
+S 
+ 
+To be procured 
+EE698U 
+OPTIMIZATION 
+FOR BIG DATA 
+ 
+To be procured 
+EE698UA 
+SPINTRONICS 
+AND QUANTUM 
+TRANSPORT 
+APPLICATION TO 
+SEMICONDUCTOR 
+DEVICES 
+ 
+To be procured 
+EE698V 
+MACHINE 
+LEARNING FOR 
+SIGNAL 
+PROCESSING 
+ 
+To be procured 
+EE698W 
+ANALOG 
+CIRCUITS FOR 
+SIGNAL 
+PROCESSING 
+ 
+To be procured 
+EE698X 
+POWER 
+CONVERTERS 
+FOR CONSUMER 
+ELECTRONIC 
+ 
+To be procured 
+EE698Y 
+INTRODUCTION 
+TO QUANTUM 
+OPTICS 
+3-0-0-0-9 
+Quick recap of Quantum mechanics: Particle wavefunction 
+(probability 
+density), 
+Schrodinger 
+equation, 
+Operators, 
+Commutators, Eigenfunctions and eigenvalues of Hermitian 
+operators, Orthogonality and complete set, time-evolution of 
+eigenstates and a general wavefunction, Simple Harmonic 
+Oscillator, Dirac Notation (bra-ket algebra), Perturbation theory; 
+Semi-classical interaction of electromagnetic field (classical) with 
+matter (quantized): Interaction Hamiltonian, Transition rates, 
+Fermi-'s Golden rule, Two-level model of an atom, Density matrix 
+and Bloch equations, Rabi frequency, Spontaneous decay, 
+lineshape in fluorescence, Seminal experiments; Quantization of 
+electromagnetic field (light): Single-mode and multi-mode 
+quantized field (light); Classical and non-classical states of light: 
+Interferometry experiments, Beam-splitters, single-photon based 
+devices; Quantum mechanical interaction of electromagnetic 
+field 
+(quantized) 
+with 
+matter 
+(quantized): 
+ 
+Interaction 
+Hamiltonian, Cavity QED 
+EE698Z 
+NONLINEAR 
+SYSTEMS II 
+ 
+To be procured 
+EE699 
+M TECH THESIS 
+-0-0-- 
+M. Tech. Thesis 
+EE699. 
+M TECH THESIS 
+(FOR DUAL 
+DEGREE ONLY) 
+0----9 
+M TECH THESIS (FOR DUAL DEGREE ONLY) 
+EE705 
+INTELLIGENT 
+SYSTEMS & 
+CONTROL 
+3-0-0-0-4 
+Norms of Signals, Vectors and Matrices,Positive Definite 
+Functions, 
+Positive 
+Definite 
+Matrices; 
+Continuous 
+time 
+Statespace Model, LTI Statespace Model, Nonlinear Statespace
+
+[Page 46]
+model, Equilibrium point and Linearization using first order Taylor 
+series, Linearization technique for operating points other than 
+origin; Lyapunov Stability Theory, Lyapunov stability of time 
+invariant system, LaSalle’s Invariance Theorem, Chetaev’s 
+Instability Theorem, Lyapunov stability of time varying system, 
+Lyapunov’s indirect method, Lyapunov stability for linear 
+systems; Discretetime Systems, Discrete time LTI Statespace 
+Model, Discretetime Nonlinear Statespace model, ARMAX and 
+NARMAX Models, Lyapunov Stability for Discrete Time Systems; 
+Modeling of Different Nonlinear Systems: Inertial Wheel 
+Pendulum, Two Link Manipulator, Inverted Pendulum Mounted 
+on A Cart, Induction Motor; Nonlinear Control Strategies: 
+Feedback Linearization, Back stepping Design, State feedback 
+linearizable 
+systems.FeedForward 
+Networks: 
+Multilayered 
+Neural Networks, Radial Basis Function Networks. Adaptive 
+Learning Rate; Feedback Networks, Back Propagation Through 
+Time (BPTT), Real Time Recurrent Learning (RTRL); Kohonen 
+Self Organizing Map; System Identification Using Neural 
+Networks Classical sets, Fuzzy Sets, Concept of a fuzzy 
+number, Operations on Fuzzy sets, Properties of Fuzzy Sets, 
+Some Typical Membership Functions; Extension Principle of 
+Fuzzy Sets, Crisp Relation, Fuzzy Relations, Projection of Fuzzy 
+Relations, Cylindrical Extension of Fuzzy Relations, Relation 
+Inference; FUzzy Rule Base and Approximate Reasoning, Fuzzy 
+Linguistic Variables, Linguistic modifier, Rule base systems, 
+Fuzzy 
+Rulebase, 
+Fuzzy 
+Implication 
+Relations, 
+Fuzzy 
+Compositional 
+Rules, 
+Inference 
+mechanism 
+compared, 
+Approximate Reasoning; Fuzzy Logic Control (FLC), Mamdani 
+Model, Takagi Sugeno (TS) Fuzzy Model; System Identification 
+Using TS Fuzzy Models,The TS Model From InputOutput Data, 
+The TS Fuzzy Model Using Linearization. 
+Course Reference: 1. Alexander M. Meystel and James S. 
+Albus, Intelligent Systems: Architecture, Design, Control, 
+WileyInterscience, 2001; 2. Pedro Ponce Cruz and Fernando D. 
+Ramirez Figueroa, Intelligent Control Systems with LabVIEW 
+(TM), Springer, 2009. 
+EE705A 
+INTELLIGENT 
+SYSTEMS & 
+CONTROL 
+3-0-0-0-9 
+Norms of Signals, Vectors and Matrices,Positive Definite 
+Functions, 
+Positive 
+Definite 
+Matrices; 
+Continuous 
+time 
+Statespace Model, LTI Statespace Model, Nonlinear Statespace 
+model, Equilibrium point and Linearization using first order Taylor 
+series, Linearization technique for operating points other than 
+origin; Lyapunov Stability Theory, Lyapunov stability of time 
+invariant system, LaSalle’s Invariance Theorem, Chetaev’s 
+Instability Theorem, Lyapunov stability of time varying system, 
+Lyapunov’s indirect method, Lyapunov stability for linear 
+systems; Discretetime Systems, Discretetime LTI Statespace 
+Model, Discretetime Nonlinear Statespace model, ARMAX and 
+NARMAX Models, Lyapunov Stability for Discrete Time Systems; 
+Modeling of Different Nonlinear Systems: Inertial Wheel 
+Pendulum, Two Link Manipulator, Inverted Pendulum Mounted 
+on A Cart, Induction Motor; Nonlinear Control Strategies: 
+Feedback Linearization, Back stepping Design, State feedback 
+linearizable systems. Feed Forward Networks: Multilayered 
+Neural Networks, Radial Basis Function Networks. Adaptive
+
+[Page 47]
+Learning Rate; Feedback Networks, Back Propagation Through 
+Time (BPTT), Real Time Recurrent Learning (RTRL); Kohonen 
+Self Organizing Map; System Identification Using Neural 
+Networks Classical sets, Fuzzy Sets, Concept of a fuzzy 
+number, Operations on Fuzzy sets, Properties of Fuzzy Sets, 
+Some Typical Membership Functions; Extension Principle of 
+Fuzzy Sets, Crisp Relation, Fuzzy Relations, Projection of Fuzzy 
+Relations, Cylindrical Extension of Fuzzy Relations, Relation 
+Inference; FUzzy Rule Base and Approximate Reasoning, 
+Fuzzy Linguistic Variables, Linguistic modifier, Rulebase 
+systems, Fuzzy Rulebase, Fuzzy Implication Relations, Fuzzy 
+Compositional 
+Rules, 
+Inference 
+mechanism 
+compared, 
+Approximate Reasoning; Fuzzy Logic Control (FLC), Mamdani 
+Model, TakagiSugeno (TS) Fuzzy Model; System Identification 
+Using TS Fuzzy Models,The TS Model From InputOutput Data, 
+The TS Fuzzy Model Using Linearization. 
+Course Reference: 1. Alexander M. Meystel and James S. 
+Albus, Intelligent Systems: Architecture, Design, Control, 
+WileyInterscience, 2001; 2. Pedro Ponce Cruz and Fernando D. 
+Ramirez Figueroa, Intelligent Control Systems with LabVIEW 
+(TM), Springer, 2009. 
+EE799 
+PHD THESIS 
+-0-0-- 
+Ph. D. Thesis 
+EE899 
+MS - RESEARCH 
+THESIS 
+ 
+To be procured 
+ESC102N 
+INTRODUCTION 
+TO ELECTRONICS 
+3-1-3-0-5 
+Stored program concept (with simple computer simulator), 
+machine language and instruction formats, assembly language 
+for 
+the 
+simple 
+computer. 
+Integer 
+representation, 
+finite 
+representation of real numbers, overflow, underflow, errors due 
+to finite representations. Expressions, values and variables, 
+types, lvalue, rvalue, unary, binary, ternary operations. 
+Conditionals, ifthen, if then else, nested conditionals, switchcase. 
+Loops, 
+for, 
+while, 
+repeat, 
+loopinvariants, 
+precondition, 
+postcondition. 
+Functions 
+and 
+return 
+values, 
+arguments, 
+passbyvalue, effect of passing pointers (like pass by reference). 
+Recursion. Arrays, enums, searching, sorting. Pointers, lists, 
+dynamic data structures, stack, queue, graphs, trees related 
+algorithms, memory and its management. Elementary complexity 
+motivation, concrete complexity, big O notation. Linux tools, 
+introduction to shell programming. Elementary numerical 
+problem solving will addressed largely through some labs e.g. 
+root finding, solutions of systems of linear equations, integration, 
+solution of ODEs. 
+Course Reference: 1. Brian W Kernighan and Dennis M Ritchie, 
+The C Programming Language,2nd Ed. ANSI C version, 
+Pearson, 2006. 
+ESC201A 
+INTRODUCTION 
+TO ELECTRONICS 
+3-1-3-0-14 
+Circuit 
+analysis 
+techniques 
+(nodal, 
+mesh, 
+superposition, 
+Thevenins, and Nortons theorems); Transient analysis of 
+capacitive and inductive circuits; Sinusoidal steadystate analysis 
+of circuits containing resistors, capacitors, and inductors; 
+Transfer functions andfrequency response; Semiconductors; 
+Diodes and diode circuits; MOSFETs and amplifiers; IC 
+fabrication; 
+Operational 
+amplifier 
+circuits 
+and 
+waveform 
+generators; Number system, logic gates,logic minimization,
+
+[Page 48]
+combinational circuits; Field programmable gate arrays (FPGAs); 
+Flipflops, sequential circuits, counters, shift registers; data 
+converters (DAC, ADC). 
+ESO203A 
+INTRODUCTION 
+TO ELECTRICAL 
+ENGINEERING 
+3-1-2-0-13 
+Introduction to Single Phase AC Circuits and phasors, Three-
+phase AC circuits and analysis, Magnetic Circuits,Mutually 
+Coupled 
+Circuits, 
+Transformers, 
+Equivalent 
+Circuit 
+and 
+Performance, Direct Current Machines: Construction, Equivalent 
+Circuit, Torque Speed Characteristics, Applications; Induction 
+Machines:Construction 
+Equivalent 
+Circuit, 
+Torque 
+speed 
+Characteristics, 
+Speed 
+Control, 
+Starting, 
+Applications 
+Synchronous 
+Machines: 
+Construction, 
+Equivalent 
+Circuit,Generator 
+& 
+Motor 
+Operation 
+Power 
+Angle 
+Characteristics. 
+ESC102N 
+INTRODUCTION 
+TO ELECTRONICS 
+3-1-3-0-5 
+Stored program concept (with simple computer simulator), 
+machine language and instruction formats, assembly language 
+for 
+the 
+simple 
+computer. 
+Integer 
+representation, 
+finite 
+representation of real numbers, overflow, underflow, errors due 
+to finite representations. Expressions, values and variables, 
+types, lvalue, rvalue, unary, binary, ternary operations. 
+Conditionals, if then, if then else, nested conditionals, 
+switchcase. Loops, for, while, repeat, loop invariants, pre-
+condition, 
+post 
+condition. 
+Functions 
+and 
+return 
+values 
+arguments, pass by value, effect of passing pointers (like pass 
+by reference). Recursion. Arrays, enums, searching, sorting. 
+Pointers, lists, dynamic data structures, stack, queue, graphs, 
+trees related algorithms, memory and its management. 
+Elementary complexity motivation, concrete complexity, big- 
+notation. Linux tools, introduction to shell programming. 
+Elementary numerical problem solving will addressed largely 
+through some labs e.g. root finding, solutions of systems of linear 
+equations, integration, solution of ODEs. 
+Course Reference: 1. Brian W Kernighan and Dennis M Ritchie, 
+The C Programming Language,2nd Ed. ANSI C version, 
+Pearson, 2006. 
+ESC201A 
+INTRODUCTION 
+TO ELECTRONICS 
+3-1-3-0-14 
+Circuit 
+analysis 
+techniques 
+(nodal, 
+mesh, 
+superposition, 
+Thevenins, and Nortons theorems); Transient analysis of 
+capacitive and inductive circuits; Sinusoidal steady state analysis 
+of circuits containing resistors, capacitors, and inductors; 
+Transfer functions andfrequency response; Semiconductors; 
+Diodes and diode circuits; MOSFETs and amplifiers; IC 
+fabrication; 
+Operational 
+amplifier 
+circuits 
+and 
+waveform 
+generators; Number system, logic gates,logic minimization, 
+combinational circuits; Field programmable gate arrays (FPGAs); 
+Flipflops,sequential circuits, counters, shift registers; data 
+converters (DAC, ADC). 
+EE708 
+Fundamentals of 
+Data Science and 
+Machine 
+Intelligence 
+3-0-0-0 [9] 
+Objectives: 
+This course aims to equip students with the fundamental 
+concepts and techniques central to the fields of exploratory data 
+analysis, statistical inference, and machine learning leading to 
+machine intelligence. Students from all disciplines, both 
+engineering and sciences can develop proficiency in data 
+analysis/visualization, statistical data analysis, machine learning 
+algorithms, and machine learning tools, enabling them to obtain
+
+[Page 49]
+actionable insights from complex datasets in various domains by 
+completing this course. Students will be exposed to the design 
+and implementation of machine learning models, and handling Al 
+frameworks in Python via a course project. By the end of the 
+course, students are expected to be able to design, implement, 
+and evaluate machine intelligence in general and thus preparing 
+them for careers in data science, artificial intelligence, and 
+related disciplines. The course is targeted at all engineering and 
+science disciplines who wish to understand the emerging and 
+popular paradigm of Data Science and Machine Intelligence. 
+ 
+Contents: (40 lectures, each of 50 minutes duration) 
+S 
+N
+Broad Title 
+Topics 
+No. of 
+lecture
+1 
+Foundational 
+principles of data 
+science and 
+machine 
+intelligence 
+1. Introduction to Data 
+Science (DS), and 
+Machine Intelligence (Ml) 
+2. Introduction to 
+Algorithms, Models, 
+Optimization Techniques 
+for DS/MI. 
+3 
+2 
+Statistical data 
+analysis, 
+visualization, 
+and inference 
+1. Statistical Data 
+Analysis: Descriptive 
+Statistics, Exploratory Data 
+Analysis (EDA), 
+Hypothesis Testing, 
+Correlation and 
+Covariance 
+2. Data Visualization: 
+Histogram, Scatter Plot, 
+Box Plot and other plots 
+3. Model Visualization: 
+Confusion Matrix, ROC 
+curve Inference: Point 
+Estimation, Confidence 
+intervals, Bayesian 
+Inference 
+6 
+3 
+Regression 
+analysis and 
+modeling 
+1. Linear Regression 
+Modeling 
+2. Non-Linear Regression 
+Modeling 
+3. Logistic Regression 
+4. The Bias-Variance 
+Decomposition 
+5. Bayesian Linear 
+Regression 
+6 
+4 
+Clustering, 
+Decision Trees, 
+PCA, ICA, 
+Vector 
+Quantization 
+1. Distance Measures 
+2. Clustering: K-Means, 
+clustering variants, 
+Hierarchical clustering 
+3. Decision Tree: Tree 
+construction, Pruning 
+4. Random Forests: 
+Ensemble learning, Out-of-
+9
+
+[Page 50]
+bag error, Feature 
+Importance 
+5. Bosting/Bagging 
+5 
+Gaussian 
+Mixture 
+modeling 
+1. Probabilistic distance 
+measures 
+2. Univariate and 
+Multivariate distributions 
+3. EM algorithm 
+4. Gaussian Mixture 
+modeling and applications 
+in machine intelligence 
+3 
+6 
+Artificial Neural 
+Networks 
+1. Feed Forward neural 
+networks 
+2. Network training 
+3. Error backpropagation, 
+regularization. 
+2 
+7 
+Deep Neural 
+Networks, 
+Convolutional 
+Neural 
+Networks, 
+Recurrent 
+Neural 
+Networks, and 
+Auto encoders 
+1. Deep feed forward 
+networks, Regularization 
+and optimization for 
+training deep models 
+2. Convolutional Neural 
+Networks: Convolution 
+operation, convolution and 
+pooling, variants of 
+convolution function. 
+3. Recurrent Neural 
+Networks 
+4. Auto encoders and 
+Applications 
+9 
+8 
+Applications of 
+machine 
+intelligence in 
+science and 
+engineering 
+1. Case studies of data 
+science/machine 
+intelligence in pure 
+sciences 
+2. Case Studies of data 
+science/machine 
+intelligence in engineering 
+2 
+ 
+Recommended pre-requisites : 
+Undergraduate/Graduate Mathematics, Calculus, Linear Algebra, 
+Probability, Statistics and Programming 
+ 
+Short summary for including in the Courses of Study Booklet: 
+The course on Data Science and Machine Intelligence aims to 
+equip students with a comprehensive understanding of the 
+foundational principles and advanced techniques in machine 
+learning/Al. The course will blend theory with practical issues 
+such as Al frameworks and programming. The course will 
+provide a detailed understanding of exploratory statistical data 
+analysis, visualization, and inference. Regression analysis and 
+modeling, Classification Modeling, Decision Trees and Random 
+Forests, Boosting/Bagging, Clustering, LDA, PCA, vector 
+quantization, Gaussian Mixture modeling, Artificial Neural
+
+[Page 51]
+Networks, 
+Deep 
+Neural 
+Networks, 
+Convolutional 
+Neural 
+Networks, and Recurrent Neural Networks. Applications of 
+machine intelligence covering areas in both science and 
+engineering will be discussed using data spread across 
+disciplines and applications. This course will have significant 
+focus on regular hands on assignments and end with a course 
+mini project to be implemented in Python using AI/ML 
+frameworks. 
+ 
+Recommended Books (Reference Books) : 
+1) Alpaydin, E., Introduction to Machine Learning. Cambridge, 
+MA: MIT Press. ISBN: 9780262043793, Mar. 2020 
+2) Duda and Hart, Pattern Classification, Wiley, 2001 
+3) C. Bishop, Pattern Recognition and Machine Learning, 
+Springer, 2006. 
+4) Goodfellow, I.; Bengio, Y. & Courville, A., Deep Learning, MIT 
+Press, 2016. 
+5) S. Theodoridis and K. Koutroumbas, Pattern Recognition 
+Second Edn, Elsivier, 2003 
+6) B. Yegnanarayana, Artificial Neural Networks, PHI, 1999. 
+7) Simon Haykin, Neural Networks and Learning Machines, 
+Pearson, 1999. 
+8) Joel Grus, Data Science from Scratch: First Principles with 
+Python, O'Reilly Media, Inc 2019 
+9) Andreas C. Muller, Sarah Guido, Introduction to machine 
+learning with Python : a guide for data scientists, O'Reilly Media, 
+Inc., 2016 
+10) Andriy Burkov, The Hundred-Page Machine Learning Book, 
+2019 
+11) Jake VanderPlas, Python Data Science ficndbook: Essential 
+Tools for Working with Data, O'Reilly Media, Inc 2016 
+12) Wes McKinney, Python for Data Analysis: Data Wrangling 
+with Pandas, NumPy, and (Python, O'Reilly Media, Inc 2017 
+13) Aurelien Geron, Hands-On Machine Learning with Scikit-
+Learn and TensorFlow: Concepts, Tools, and Techniques to 
+Build Intelligent Systems, O'Reilly Media, Inc 2017 
+14) Thomas Nield, Essential Math for Data Science, O'Reilly 
+Media, Inc., 2022 
+15) Peter Bruce and Andrew Bruce, Practical Statistics for Data 
+Scientists, O'Reilly Media, Inc, 2017 
+16) John D. Kelleher, Brian Mac Namee, Aoife D'Arcy, 
+Fundamentals of Machine Learning for Predictive Data Analytics: 
+Algorithms, Worked Examples, and Case Studies, MIT Press, 
+2015 
+17) John Hearty, Advanced Machine Learning with Python, 
+Packt Publishing, 2016 
+18) Kevin Patrick Murphy, Probabilistic Machine Learning: 
+Advanced Topics, MIT Press, 2023 
+ 
+Any other remarks: Hands on assignments and a mini project to 
+be implemented in Python/AI Frameworks will form an important 
+part of the grading scheme for this course.

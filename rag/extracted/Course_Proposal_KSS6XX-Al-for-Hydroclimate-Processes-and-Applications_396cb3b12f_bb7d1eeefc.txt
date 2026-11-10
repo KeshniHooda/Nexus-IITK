@@ -1,0 +1,124 @@
+[PAGE 1]
+lndian lnstitute of Technology, Kanpur
+
+Proposal for a new course
+
+1. Course No: KSS 6XX
+
+2. Course Title: Al for Hydroclimate: Processes and Applications
+
+Per Week Lectures: 3(L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours: 0 (A)
+
+4.  Credits (3*L+0*T+P+A): 9
+
+5.  Duration of Course: Full Semester
+
+6.  Proposing Department: Kotak School of Sustainability
+
+Other Departments which may be interested in the proposed course:
+Civil Engineering, Centre for Environmental Science and Engineering
+
+7.  Proposing lnstructor(s): Prof. Sarosh Alam Ghausi (KSS), Prof. Tushar Apurv (Civil Engineering)
+
+8. Course Description: The hydroclimate system connects the atmosphere, land, and oceans
+through water and energy exchanges, critical for sustaining biosphere but remain challenging
+to represent and model. Advances in data science and Al now offer new opportunities to
+address key gaps in improving process understanding and enabling reliable predictions. This
+course builds the physical and methodological foundations needed to apply these tools
+effectively in hydro climatology, covering essential hydroclimate processes alongside
+statistical, and machine learning methods, with applications to prediction, downscaling,
+extremes, and climate impacts.
+
+A) Objectives: On completing this course, students will be able to:
+
+o  Understand key hydroclimate processes and their interactions.
+o  A,nalyze diverse hydroclimate datasets (in situ, satellite, reanalysis, model).
+.   Apply statistical, machine learning, and deep learning methods for hydroclimate prediction,
+downscaling, and develop hybrid Al-physics approaches.
+
+B             ) Contents
+S. No        Broad Title                                Topics                             No. of
+Lectures
+1.      lntroduction to the   Components, interactions, and scales of variability; types of       2
+Hydroclimate System   climate datasets, framing Al opportunities  in hydroclimate
+research.
+2.    Energy Balance in the   Radiation budget, greenhouse effect, role of water vapor       4
+Earth System         and clouds; temperature variations, modelling and
+cbservational challenges and the applications of data-driver
+methods in estimating temperatures and fluxes
+3.        Atmospheric      General circulation of the atmosphere, vertical motion and        3
+Circulation and         convection, mechanisms of precipitation formation,
+Precipitation Processes  challenges in modelling; statistical and ML-based methods
+For rainfall estimation using satellite, radar and ground data
+
+[PAGE 2]
+4.     Role of Oceans in the  Ocean circulation and heat transport, air-sea interactions,        3
+Hydroclimate System  major modes of variability and their impacts on regional and
+global hydroclimate, use of SST reanalysis and clustering
+methods to identify variability patterns
+5.     Land-Atmosphere    Evapotranspiration, soil moisture dynamics, boundary layer       3
+lnteractions          processes; land-surface models, hybrid modelling for
+parameter estimation
+5.    The lndian Monsoon  Fundamentals of monsoon dynamics and variability; role of       3
+circulation patterns, and moisture transport; seasonal cycle,
+variability across timescales, and associated prediction
+challenges.
+7.      Surface Hydrology   Water balance and runoff generation processes, river flow        3
+Cynamics and streamflow response; data-driven approache:
+for rainfall-runoff modelling and flow prediction
+8.     Climate Change and   Physical basis of climate change, natural vs. anthropogenic        3
+Variability         drivers, hydroclimate impacts, climate sensitivities; ML/DL
+for chanqe detection and pattern recosnition
+9.    Extreme Hydroclimate  Floods, droughts, heatwaves, compound extremes; extrem¤       3
+Events           value theorv and ML for earlv warninq and risk mapping
+10.   Hydroclimate Data and     Ground observations, remote sensing, reanalysis;              2
+Numerical modelling   preprocessing, quality control, governing equations, model
+coupling
+11.    Climate Models and    Statistical and dynamical approaches, uncertainty analysis;        2
+Downscaline              ML/DL for high-resolution downscaling
+12.   Data-driven models for     Supervised and unsupervised learning methods for            3
+Hydroclimate      hydroclimate prediction and classification, deep learning for
+Applications           spatiotemporal data and key challenges related to
+interpretabilitv and phvsical consistencv
+13.      Hybrid Modelling      Approaches that combine physical principles with data-         3
+driven learning; physics-informed Al, process-guided ML,
+and data assimilation for improved prediction and
+understanding
+
+3 L4.    Group mini-project   Al-based analysis of a hydroclimate problem (e.9., rainfall -
+presentations      runoff modelling, flood risk mapping, monsoon variability),
+involving data processing,'model development, and
+evaluation.
+
+C) Pre-requisites: Basic knowledge of mathematics, statistics, and programming (Python, Matlab, or
+equivalent)
+
+D) Short summary for including in the Courses of Study Booklet:
+
+This course covers the hydroclimate system and its key processes, including the monsoon, land-
+atmosphere and ocean interactions, climate variability, and extremes. lt emphasizes the use of
+statistical, machine learning, and hybrid Al-physics approaches for prediction, downscaling, and risk
+assessment, with hands-on experience through group mini-projects using real hydroclimate datasets.
+
+[PAGE 3]
+9. Recommended books: Textbooks:
+
+a   Wallace, J.M., and P.V. Hobbs (2005). Atmospheric Science: An lntroductory Survey.
+a   Hartmann, D.L. (2016). Global Physical Climatology.
+a   Subramanya  , K. (2}t7l. Engineering Hydrology.
+a   Wilks, D.S. (2019). Stotisticol Methods in the Atmospheric Sciences.
+a   Camps-Valls, G., Tuia, D.,Zhu, X.X., and Reichstein, M. (2021). Deep Learning forthe Earth
+Sciences: A Comprehensive Approoch to Remote Sensing, Climate Science, and Geosciences.
+
+Any other remarks: Students from other departments like Civil Engineering, Centre for
+Environmental Science and Engineering and Earth Sciences may be interested in this course.
+
+o^r"*27/ g /zfProposer:        *'{             d                       ""
+
+Dated :-DUGC/DPGC28/8/2025              Convener:
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC
+
+Dated:

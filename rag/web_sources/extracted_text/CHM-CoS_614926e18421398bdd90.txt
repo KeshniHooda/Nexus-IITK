@@ -1,0 +1,3935 @@
+[Page 1]
+Indian Institute of Technology Kanpur 
+ COURSES OF STUDY 
+ 2024 
+
+ 
+ 
+ Indian Institute of Technology Kanpur 
+ KANPUR-208016
+
+[Page 2]
+CHEMISTRY
+
+[Page 5]
+DEPARTMENT OF CHM 
+Courses ID 
+Course Title 
+Credits 
+L-T-P-D-[C] 
+Content 
+CHM101 
+CHEMISTRY 
+LABORATORY 
+0-0-3-0-3 
+Chemical analysis with relevance to everyday life 
+1. Determination of amount of Ca2+ in milk by complexometric 
+titration; 2. Estimation of iodine in common iodized salt by 
+iodometry; 3. Estimation of phosphoric acid in cola drinks by 
+molybdenum blue method; 4. Analysis of kidney stone model 
+chemical 
+compounds 
+by 
+permanganometric 
+titration; 
+5. 
+Extraction of DNA from green peas or onions and its 
+identification; 6. Extraction of caffeine, an alkaloid from tea 
+leaves; 7. How many pigments are there in the green portion of 
+spinach? A paper chromatography experiment to separate the 
+various pigments including chlorophyll Synthesis of Chemical 
+Compounds. I. Preparation and characterization of aspirin, a 
+common medicine; 2. DielsAlder reaction a versatile organic 
+reaction to form CC bonds: a reaction between anthracene and 
+maleic anhydride;3. Preparation and characterization of an 
+inorganic coordination complex compound: [Ni[NH3]6f+ 2cr; 4. 
+Organometallic compounds: bridges between inorganic and 
+organic 
+compounds. 
+Acetylation 
+of 
+Ferrocene; 
+5. 
+An 
+environment related synthesis: Preparation of potash alum from 
+scrap aluminum Photochemistry: Light as a reagent in 
+chemistry; I. Photochemical reduction of ferric oxalate and its 
+use in blueprinting Experiments on Physical Chemistry 
+Concepts l. Partition of solutes in mixture of solvents: Acetic acid 
+inwater/nbutanol; 2. Kinetics of reactions: An example using the 
+iodide hydrogen peroxide clock reaction; 3. Determining the pi of 
+amino acids by using potentiometry; 4. Weak and strong acids 
+and bases: conductometry 
+A. J. Elias; A Collection of lnteresting General Chemistry 
+Experiments. Universities Press, Hyderabad 2009 
+CHM112 
+GENERAL 
+CHEMISTRY: 
+PHYSICAL 
+CHEMISTRY 
+3-1-0-0-4 
+
+ 
+Quantum theory, Quantum mechanics of simple systems, 
+Particle in a box, Harmonic oscillator, Rigid rotor, Hydrogen 
+atom, 
+Many-electron 
+atoms, 
+Molecular 
+orbital 
+theory, 
+Spectroscopy of simple molecules. [Modular Course*] 
+Reference Books: [1] P. W. Atkins and Julio de Paula, Physical 
+Chemistry [2] D. A. McQuarrie and J. D. Simon, Physical 
+Chemistry A Molecular Approach [3] I. N. Levine, Quantum 
+Chemistry 
+CHM113 
+GENERAL 
+CHEMISTRY: 
+INORGANIC & 
+ORGANIC 
+CHEMISTRY 
+3-1-0-0-4 
+
+ 
+Inorganic Chemistry: Crystal Field Theory and Structure of 
+Coordination 
+Complexes, 
+Oxidative 
+Addition, 
+Reductive 
+Elimination, 
+Insertion 
+Reactions, 
+Hydrogenation, 
+Hydroformylation, Monsanto Acetic Acid Process and Ziegler-
+Natta Polymerization, Metalloenzymes Organic Chemistry: 
+Conformational Analysis of Alkanes and Cycloalkanes, Chirality, 
+Substitution 
+and 
+Elimination 
+Reactions, 
+Introduction 
+to 
+Biomolecules. [Modular Course*] 
+Course Reference:[1] Shriver and Atkins' Inorganic Chemistry 
+[2] J. E. Huheey, Inorganic Chemistry: Principles of Structure
+
+[Page 6]
+and Reactivity [3] L. Wade, Organic Chemistry [4] J. Clayden, N. 
+Greeves, and S. Warren, Organic Chemistry [5] E. L. Eliel, 
+Stereochemistry 
+CHM202 
+BASIC ORGANIC 
+CHEMISTRY -II 
+3-0-0-0-9 
+Oxidation: With Cr and Mn compounds; with peracids and other 
+peroxides; with periodic acid, Pb (OAc)4, Hg(OAc)2 and SeO2. 
+Reduction: Catalytic hydrogenation; metal hydride, dissolving 
+metal and hydrazine-based reductions. CramFelkin Anh model. 
+CC 
+Bond 
+Formation: 
+Acyloin, 
+Aldol, 
+Stobbe, 
+Claisen, 
+Knovenagel and Benzoin condensations, Darzens glycidic 
+estersynthesis; Dieckmann reactions, Wittig reaction, DielsAlder 
+and ene reactions, Reformatsky reaction. Acetoacetic ester and 
+malonic ester synthesis. Acylation reactions. Enamine reactions. 
+Gattermannaldehyde synthesis. Michael and Mannich reactions. 
+Synthesis 
+of 
+Polynuclear 
+Hydrocarbons: 
+Carbohydrate 
+Chemistry: Introduction, Structural elucidation and some typical 
+eactions of mono and dischharides. Heterocyclic Chemistry: 
+Furan, Pyrrole, Thiophene, Pyridine, Indole, quinolines etc. 
+Problems: Based on multistep reactions involving CC bond 
+formation, oxidation and Reduction (to be solved in the class 
+and supplemented by home assignments). 
+Course Reference: 1. Carruthers, W., Coldham, I. Some 
+Modern Methods of Organic Synthesis, 2008; 2. House, H. O., 
+Modern Synthetic Reactions; 3. March, J., Advanced Organic 
+Chemistry, 4th ed, 1999; 4. Clayden, Greeves, Warren, and 
+Wothers, Organic Chemistry, 1st ed, 2001; 5. R. Bruckner, 
+Advanced Organic Chemistry, 2002; 6. R. Bruckner, Organic 
+Mechanisms, 2010; 7. M. B. Smith, Organic Synthesis, 3rd Ed. 
+2010 
+CHM203 
+BASIC ORGANIC 
+CHEMISTRY -I 
+3-0-0-0-9 
+Nomenclature 
+of 
+Organic 
+molecules: 
+Brief 
+revision, 
+Nomenclature of polycyclic compounds including bridged, spiro 
+and other special structures. Structure and Bonding: Nature of 
+bonding in aliphatic, alicyclic, aromatic and heterocyclic 
+compounds; Aromaticity in benzenoid and nonbenzenoid 
+compounds. Alternant and nonalternant hydrocarbons; Dipole 
+moment; 
+Resonance; 
+Inductive 
+and 
+Field 
+effects, 
+hyperconjugation, Steric inhibition of resonance, structural 
+effects on acidity and basicity. Stereochemistry: Conformational 
+analysis of acyclic systems (Pitzer strain, A strain, etc.) and 
+cyclohexane systems (brief review as studied in Chm 201). 
+Introduction of terminologies such as erythro, threo, exo, endo, 
+epimers, etc. Conformational analysis of decalins and other 
+polycyclic compounds related to steroids. A brief introduction to 
+asymmetric synthesis; Induction of chirality on a prochiral 
+carbon atom; R and S nomenclature in (i) cyclic systems (ii) in 
+compounds with more than one chiral centre and (iii) in 
+biphenyls, allenes and spiro compounds. Optical isomerism in 
+compounds 
+without 
+an 
+asymmetric 
+atom, 
+Racemic 
+modifications. Conformation of acyclic molecules, topicity and 
+prostereoisomerism (topicity of ligands and faces), chemical and 
+biochemical transformations of heterotopic lignds and faces. 
+Conformations of cyclic, fused and bridged ring compounds. 
+Allylic strain (A1,2 and A1,3) and other strains. 
+Reactive Intermediates: Carbocations; carbanions; free radicals, 
+radical anions and cations; arynes; carbenes and nitrenes
+
+[Page 7]
+(Introduction to structure, stability, and reactions). 
+Substitution and Elimination Reactions: Electrophilic aromatic 
+substitution (in detail); Aliphatic substitutions: S N1, SN2, SN2′ 
+and SNi reactions; neighbouring group participation. Nucleophilic 
+aromatic substitution (brief); Free radical substitutions (both 
+aliphatic and aromatic). Eliminations: E 1, E2, E1CB reactions (in 
+detail). Elimination vs Substitution. 
+Molecular Rearrangement: Benzidine, Pinacol, Benzilic acid, 
+Favorskii, Wolff, Hofmann, Cartius, Schmidt, Lossen, Beckman, 
+Dienone phenol, Fries (Some idea of migratory aptitude), 
+Demyanov, 
+BaeyerVilliger, 
+Claisen, 
+Cope 
+and 
+Wagner-
+Meerwein 
+(only 
+in 
+brief). 
+Photochemistry: 
+1Brief introduction, Norrish type I and type II cleavage, 
+photoreduction, Patterno-Buchi reaction, cis trans isomerisation, 
+Chemistry of vision. 
+Course Reference: 1. March, J., Advanced Organic Chemistry, 
+4th ed, 1999; 2. Nasipuri, D., Stereochemistry of Organic 
+Compounds, 2nd ed., 1995; 3. Solomons, T. W. G., Organic 
+Chemistry 6th ed, 1996; 4. Sykes, Peter, A guide book to 
+Mechanism in Organic Chemistry; 5. R. Bruckner, Advanced 
+Organic Chemistry, 2002; 6. R. Bruckner, Organic Mechanisms, 
+2010; 7. M. B. Smith, Organic Synthesis, 3rd Ed. 2010. 
+CHM205 
+INDUSTRIAL 
+ORGANIC 
+CHEMISTRY 
+ 
+3-0-0-0-9 
+Various aspects of the energy and raw material supply: 
+Coal, oil, natural gas,nuclear, and biomass as energy sources; 
+Basic products of industrial synthesis: synthesis gas, methanol, 
+formaldehyde, halogen derivatives of methane,chlorofluoro 
+hydrocarbons; 
+Olefins:Historical 
+perspective, 
+cracking 
+of 
+hydrocarbons,ethylene, butanes, higher olefins, unbranched 
+higher olefins and their use inmetathesis reactions, Acetylene: 
+Significance 
+and 
+manufacturing 
+process 
+for 
+acetylene, 
+manufacture 
+through 
+calcium 
+carbide, 
+thermal 
+process, 
+applications of acetylene, 1,3Dioolefins:1,3Butadiene, industrial 
+manufacture from cracking, dehydrogenation, applications of 
+butadiene, Synthesis using carbon monoxide: Hydroformylation, 
+industrial operations,utilization of oxo products, carbonylation of 
+olefins; Oxidation products of ethylene: Ethylene oxide, process 
+operation, ethyleneglycol, ethylene glycol ethers, acetaldehyde, 
+acetic acid, acetic anhydride, Alcohols: Ethanol, propanol, 
+butanols, amyl alcohols, aldol synthesis, polyhydric alcohols, 
+neopentyl glycol. Vinylhalogen and oxygen compounds: Vinyl 
+chloride, 
+vinylidene 
+chloridevinyl 
+acetate, 
+binyl 
+ethers; 
+Polyamides: Adipic acid, hexamethylenediamine, adiponitrile, 
+lactams; Propene conversion products; Propylene oxide, 
+acetone, acrolein, allylchloride, acrylonitrile.; Aromatics: Source 
+of feedstocks, coking of hard coal, isolation, special separation 
+techniques, condensed aromatics, naphthalene, anthracene, 
+hydrodealkylation. Benzene derivatives; Styrene, cumene, 
+cyclohexane, phenol, maleic anhydride, nitrobenzene, aniline, 
+diisocyanates. Oxidation products of xylene and naphthalene; 
+Phthalic anhydride, esters of phthalic acid and derivatives, 
+terephthalic acid. 
+CHM221 
+BASIC PHYSICAL 
+CHEMISTRY I 
+3-0-0-0-9 
+Thermodynamic Preliminaries: System, Surroundings, Extensive 
+and Intensive Properties, Laws of Thermodynamics, Heat 
+Engines.
+
+[Page 8]
+Thermodynamic 
+Potentials: 
+Energy, 
+Entropy, 
+Legendre 
+Transforms, Free energies, Stability criteria 
+Applications of Thermodynamics: Partial Molar Quantities, 
+Chemical 
+Potential, 
+Gibbs-Duhem 
+Equation, 
+Clapeyron 
+Equation, Gibbs Phase Rule Applied to Reactive and 
+Nonreactive Mixtures, Partial Molar Quantities, Chemical 
+Potential, Phase Transitions, LiquidSolid-Vapor, Solid-Solid 
+Phases, Eutectic Mixtures. 
+Ideal and Nonideal Systems: Ideal and Nonideal Gases, Liquids, 
+Binary Mixtures, Solutions. 
+Electrochemistry: Electrochemical Cell, Cell Potential, Nernst 
+Equation, Electrochemical Series, Electrolytic Cells, Electrode 
+Kinetics, Butler-Volmer Equation, Nernst Planck Equation, Li-Ion 
+Batteries, Intercalation and Deintercalation. 
+Finite-Time 
+Thermodynamics 
+and 
+Nonequilibrium 
+Thermodynamics: 
+Flexible module with possible topics like Endo Reversible 
+Engine Cycle, Introduction to FiniteTime Engine Cycle, Curzon-
+Ahlborn Efficiency, Concept of Local Equilibrium, Prigogine’s 
+Entropy Production Rate, Molecular Motors etc. 
+Course Reference: 
+1. P. W. Atkins and Julio de Paula, Physical Chemistry. 2. N. 
+Levine, Physical Chemistry. 3. R. J. Silbey, R. A. Alberty, and M. 
+G. Bawendi, Physical Chemistry. 4. D. A. McQuarrie, J. D. 
+Simon, Physical Chemistry: A molecular approach 
+CHM222 
+BASIC PHYSICAL 
+CHEMISTRY-II 
+3-0-0-0-9 
+Kinetic Preliminaries: Local equilibrium, phenomenological laws, 
+parallel and consecutive reactions, steady state approximation, 
+preequilibrium. 
+Kinetics of complex reactions: Enzyme kinetics, free radical 
+chain reaction, polymerization. 
+Kinetic theory of Gases: Taxonomy of collisions, derivation of 
+mechanical pressure equation and ideal gas equation from 
+kinetic theory. 
+Transport properties: transport coefficients, thermal conductivity, 
+viscosity, diffusion, calculation of transport coefficients from 
+kinetic theory. 
+Theory of electrolytic solutions, ionic conductivity, Kohlrausch’s 
+law, transport numbers. 
+Surfaces and Interfaces: Gibbs dividing surfaces and interfaces, 
+solids and surfaces, structure and morphology of surfaces, 
+adsorption, adsorption isotherms, mechanisms of surface 
+catalyzed reactions, Flexible topics in surfaces and interfaces: 
+modern surface analytical tools like STM and AFM, catalytic 
+converters, Haber-Bosch synthesis, 2D materials etc. 
+ 
+Course Reference: 1. P. W. Atkins and Julio de Paula, 
+Physical Chemistry; 2. I. N. Levine, Physical Chemistry; 3. R. J. 
+Silbey, R. A. Alberty, and M. G. Bawendi, Physical Chemistry. 4. 
+D. A. McQuarrie, J. D. Simon, Physical Chemistry: A molecular 
+approach 
+CHM241 
+BASIC INORGANIC 
+CHEMISTRY I 
+3-0-0-0-9 
+1. Chemical bonding and Forces: Chemical bonding and various 
+theories of covalency, types of bonding: ionic, covalent and 
+metallic; valence bond theory, hybridization of atomic orbitals, 
+molecular 
+geometry and 
+shape, 
+fluxional 
+behaviour 
+of
+
+[Page 9]
+molecules, MO theory: Linear combination of atomic orbitals 
+(LCAO), diatomic homonuclear species (O2, N2), involvement of 
+d-orbitals and CFT, bond energy, sigma (σ), pi (π), delta (δ) 
+bonds, polarity, Fajan’s rule, deformation of ions, Non-covalent 
+interactions, supramolecules, hydrogen bonding. 
+2. Solid State Structures: Born-Haber cycle, Lattice energy, 
+crystal packing, radius ratio rules, Crystal systems and lattices, 
+Structure of basic ionic crystals (AB, AB2, AB3, A2B3 types), X-
+ray diffraction and Bragg’s law, crystal defects, band theory, 
+perovskite and hybrid perovskite, superconductivity. 
+3. Oxidation Reduction Reactions: Redox reactions, Nernst 
+equation, oxidation-reduction potentials, formal potentials, 
+equilibrium constants, over potentials, disproportionation and 
+comproportionation reactions, Latimer and Frost diagrams, 
+Electrochemical cells. 
+4. Acids and Bases Acid-base concepts and principles 
+(Arrhenius, BronstedLowry, conjugate acids-bases, Lewis, 
+HSAB), strength of acids and bases, acid-base equilibrium, 
+indicator, Henderson equation, pH and buffer, non-aqueous 
+solvents. 
+5. Inorganic Chemistry in Biology, Health, Energy, and 
+Environment Inorganic elements in life related processes, 
+oxygen carrying proteins, therapy and diagnosis, nitrogen 
+fixation from air Inorganic elements in energy production and 
+storage, 
+hydrogen 
+fuel 
+cells, 
+battery, 
+Li-ion 
+battery, 
+sustainability. 
+[1] Inorganic Chemistry-Principles of Structure and Reactivity, 4th 
+Edn., J. E. Huheey, E. A. Keiter and R. L. Keiter, Harper-Collins, 
+NY, 1993. [2] Concepts and Models of Inorganic Chemsitry, 3rd 
+Edn., B. Douglas, D. McDaniel and J. Alexander, John Wiley, 
+New York. 1993. [3] Shriver and Atkins Inorganic Chemistry, 5th 
+Edn., Oxford University Press, 2009. 
+[4] Chemistry of the Elements, 2ndEdn., N. N. Greenwood and 
+A. Earnshaw, Pergamon, Oxford, 2005. [5] Advanced Inorganic 
+Chemistry, 6th Edn., F. A. Cotton, G. Wilkinson, C. A. Murillo 
+and M. Bochmann, Wiley, 1999. [6] Principles Of Bioinorganic 
+Chemistry, I. Bertini & J. M. Berg, University Science Books, 
+California. [7] Modern Inorganic Chemistry. 2nd Edn. Jolly, W. L. 
+McGraw-Hill, NY, 1991. [8] Chemistry of High-Energy Materials, 
+T. M. Klapötke, 4th Edn., 2009 
+ 
+CHM242 
+BASIC INORGANIC 
+CHEMISTRY II 
+3-0-0-0-9 
+
+ 
+
+ 
+
+ 
+
+ 
+1.Molecular symmetry, point groups and character tables. 2. 
+Chemistry of selective main group elements and their 
+compounds.3. Transition metal chemistry, isomerism, structure 
+and bonding, crystal field, and ligand field theory of transition 
+metal complexes, thermodynamic and kinetic stability. 3. 
+Electronic spectroscopy and magnetic behavior of transition 
+metal complex, Chemistry of f-block elements. 4.Transuranium 
+elements, radiations and radioactive decay, magic number, 
+nuclear spin, half-life, nuclear fission & fusion, practical 
+application of radioisotopes. 5. Organometallic Chemistry: 
+Sigma bonded ligands (Metal-Alkyl, Aryl, M-hydrides, M-X (X=Si, 
+B, etc). Pi-bonded ligands (Alkynes, alkenes) Sigma and Pi-
+bonded 
+ligands 
+(CO, 
+Phosphines, 
+Carbenes, 
+etc). 
+6.
+
+[Page 10]
+Homogeneous Catalysis: Elementary organometallic reactions, 
+Hydrogenation, 
+Cross-coupling, 
+Carbonylation, 
+Reductive 
+Amination. 
+Heterogeneous 
+Catalysis: 
+Modern 
+trends 
+in 
+hydrogenation of various functional groups (Acid, ester, nitrile, 
+etc). Polymerization reaction. 
+Course Reference: 
+ggested text and reference material: 1. Inorganic Chemistry-
+Principles of Structure and Reactivity, 4th Edn., J. E. Huheey, E. 
+A. Keiter and R. L. Keiter, Harper-Collins, NY, 1993. 2. 
+Concepts and Models of Inorganic Chemsitry, 3rdEdn., B. 
+Douglas, D. McDaniel and J. Alexander, John Wiley, New York. 
+1993. 3. Shriver and Atkins Inorganic Chemistry, 5th Edn., 
+Oxford University Press, 2009. 4. Chemistry of the Elements, 
+2ndEdn., N. N. Greenwood and A. Earnshaw, Pergamon, 
+Oxford, 2005. 5. F. A. Cotton, Chemical applications of Group 
+Theory 3rd ed., John Wiley and Sons, 2003. 6. A. Vincent, 
+Molecular Symmetry and Group Theory: A Programmed 
+Introduction to Chemical Applications, 2nd Edition, John Wiley 
+and Sons 2001. 7. F. Albert Cotton, Carlos A. Murillo, and 
+Manfred Bochmann, Advanced Inorganic Chemistry, 6th Ed. 
+Wiley Interscience Publication 2001. 8. Christoph Elschenbroich, 
+Organometallics (Third edition); Wiley-VCH, Weinheim, 2006. 
+ISBN: 3527293906. 9. R. H. Crabtree, The Organometallic 
+Chemistry of the Transition Metals, 4th Ed.; Wiley Interscience, 
+2005. ISBN: 0471662569 
+CHM303 
+ORGANIC 
+CHEMISTRY I 
+3-0-0-0-9 
+ 
+Stereochemistry: Dynamic stereochemistry: Conformation and 
+Reactivity. Various chemo, regio and stereo selective reactions. 
+Reactive Intermediates: Carbenes and carbenoids; Radicals: 
+Structure, reactivity, selectivity and mechanisms of radicals and 
+radical based reactions, involving various functional groups. 
+Radical cations and radical anions. Carbocations: Non classical 
+carbonation. Sigma and piparticipation. 
+Mechanistic and Stereo chemical Aspects of: Baeyer Villiger, 
+Claisen 
+(including 
+Johnson 
+Claisen, 
+Ireland 
+Claisen, 
+Eschenomser, Over man modifications) Cope, and oxy Cope, 
+Wittig rearrangements (both 1,2 and 2,3 Wittig rearrangements); 
+ene and metalloene reactions; (2+2), (3+2) and (4+2) 
+cycloadditions; Barton reaction. 
+Organometallic Chemistry: Mechanism and stereochemistry of 
+various reactions. Palladium based reactions such as Heck, 
+Stille, Suzuki, Sonogashira, Buchwald Hartwig couplings; Tsuji 
+Trost C-C bond formations; Ni and Sn-catlysed reactions. 
+Enzymatic Reactions: Mecahnistic and stereo chemical aspects 
+of 
+hydrolases (including 
+esterases 
+and 
+lipases), 
+oxido 
+reductases. Green Chemistry: Concepts and applications. 
+Classification and Structures of some natural products such as 
+terpenoids, steroids, alkaloids and prostaglandins. 
+References/Text Books: 1. March, J., Advanced Organic 
+Chemistry, 4th ed, 1999; 2. Nasipuri, D., Stereochemistry of 
+Organic Compounds, 2nd ed., 1995; 3. Solomons, T. W. G., 
+Organic Chemistry 6th ed, 1996; 4. Sykes, Peter, A guide book 
+to Mechanism in Organic Chemistry; 5. R. Bruckner, Advanced 
+Organic Chemistry, 2002; 6. R. Bruckner, Organic Mechanisms, 
+2010; 7. M. B. Smith, Organic Synthesis, 3rd Ed. 2010; 8.
+
+[Page 11]
+Clayden, Greeves, Warren, and Wothers, Organic Chemistry, 
+1st ed, 2001 
+CHM305 
+ORGANIC 
+QUALITATIVE & 
+QUANTITATIVE 
+ANALYSIS 
+0-0-6-0-6 
+1. Experimental Techniques (A) Purification of Organic 
+Compounds a. Recrystallisation b. Sublimation at atmospheric 
+pressure and under reduced pressure c. Separation or organic 
+compounds by Steam distillation d. Distillation of organic 
+compounds under reduced pressure e. Bulb-to-bulb distillation 
+under reduced pressure (B) Chromatography a. Thin layer 
+chromatography (TLC) and calculation of Rf values, b. Column 
+Chromatography: separation of organic mixture. c. Preparative 
+TLC: preparation of plates and separation of organic mixtures 
+(C) Physical Constants a. Melting Points and Boiling Points b. 
+Optical rotation and calculation of specific rotation and molecular 
+rotation (D) Spectroscopic Methods, a. Preparation of an ester 
+and its confirmation by IR and NMR, b. Structure illucidation of 
+unknown compounds based on the given spectral data 
+2. 
+Investigation 
+and 
+Characterization 
+of 
+Organic 
+Compoundsa. Detection of elements present in a given organic 
+compound. b. Identification of functional groups in a given 
+organic compound. c. Identification of unknown organic 
+compounds. d. Separation of organic mixture by chemical 
+methods, preparation of derivatives, and identification of the 
+material. 
+CHM321 
+PHYSICAL 
+CHEMISTRY I 
+3-0-0-0-9 
+1. Introduction: importance, historic background, quantum 
+mechanics vs classical mechanics, waveparticle duality, 
+uncertainty principle; 2. Schroedinger equation: wavefunction 
+and interpretation, time dependent and time independent 
+Schroedinger equation, eigenvalue problem; 3. Quantum 
+mechanics of some simple systems: free particle, particle in a 
+box , harmonicoscillator, one dimensional potential step and 
+barrier; 4. Angular Momentum: rigid rotor, orbital and spin 
+angular momentum; 5. Hydrogen and hydrogen like atoms; 6. 
+Approximate methods: perturbation theory, variational method, 
+some simple examples; 7. Many electron atom: Pauli 
+antisymmetry principle, Slater determinant, He atom, Li atom. 
+Course Reference: 1. I. N. Levine, Quantum Chemistry; 2. J. 
+P. Lowe and K. A. Peterson, Quantum Chemistry; 3. D. A. 
+McQuarrie, Quantum Chemistry; 4. D. A. McQuarrie, J. D. 
+Simon, Physical Chemistry: A molecular approach; 5. P. W. 
+Atkins, Molecular Quantum Mechanics 
+CHM322 
+PHYSICAL 
+CHEMISTRY -II 
+3-0-0-0-9 
+ 
+Equilibrium Thermodynamics: Laws of thermodynamics, the 
+equilibrium 
+state, 
+thermodynamic 
+variables, 
+conjugate 
+quantities, thermodynamic potentials Statistical Mechanics: 
+Kinetic Theory of gases, Boltzmann distribution,the ensemble 
+postulate, 
+partition 
+function, 
+canonical 
+ensemble, 
+other 
+ensembles, 
+fluctuations, 
+ideal 
+monatomic, 
+diatomic 
+and 
+polyatomic gases, chemical equilibrium, quantum statistics, 
+Transport 
+Phenomena: 
+Transport 
+coefficients, 
+thermal 
+conductivity, diffusivity, viscosity, ionic conductivity, Limiting law 
+of DebyeHckelOnsager, Nernst Einstein relation, Stokes 
+Einstein relation Molecular Reaction Dynamics: Collision theory, 
+activation energy,transitionstate theory, reactions as trajectories, 
+molecular beam experiments,reactions in liquid phase, Kramers 
+theory, Diffusion limited reactions
+
+[Page 12]
+Course Reference: 1. P.W. Atkins and Julio de Paula: Physical 
+Chemistry; 2. I.N. Levine: Physical Chemistry; 3. D.A. McQuarrie 
+and J. D. Simon: Physical Chemistry A Molecular Approach; 4. 
+D. A. McQuarrie, Statistical Mechanics; 5. H. B. Callen: 
+Thermodynamics and an introduction to Thermostatistics; 6. 
+David Chandler: Introduction to Modern Statistical Mechanics; 7. 
+R.S. Berry, S.A. Rice and John Ross: Physical Chemistry 
+CHM324 
+BASIC PHYSICAL 
+CHEMISTRY 
+LABORATORY 
+0-0-6-0-6 
+ 
+1. Solutions, Thermodynamics and Phase equilibrium: 
+Calibration of volumetric apparatus. (One day). Determination of 
+partial molal volume. (One day) Determination of the isotherm 
+for a threecomponent system. (Two days), The measurement of 
+electrical conductance for the determination of the equivalent 
+conductance at infinite dilution. (Two days) Determination of 
+transport number by moving boundary method. (One day) 
+Polarizability from refractive index measurements. (One day) 2. 
+Kinetics: Kinetics of fast reactions by stopped-flow technique. 
+(One day) Rate of the hydrolysis of sucrose using polarimeter. 
+(Two days), Determination of pKa of poly-basic acid with the pH 
+meter. (One day) 3. Spectroscopy: Analysis of the rotational-
+vibrational 
+spectra 
+of 
+HCl 
+molecules. 
+(One 
+day) 
+Spectrophotometric determination of the acid dissociation 
+constant (Two days) Fluorescence quantum yield determination 
+of an unknown molecule. (One day) IR and Raman 
+spectroscopy of solvent mixtures. (Two days) Formula and 
+stability constant of a complex by spectrophotometry. (One day) 
+Fluorescence spectrum and stern-volmer quenching constant. 
+(One day) Determination of critical miceller concentration. (One 
+day). 4. Quantum mechanics: Computing Potential Energy 
+Surface of molecules using Quantum Mechanics. (Two days). 
+Course Reference: 
+1. Experimental physical chemistry, F. A. Bettelheim 2. 
+Experimental 
+physical 
+chemistry, 
+G. 
+P. 
+Matthews 
+3. 
+Experimental physical chemistry, F. Daniels 4. Experimental 
+physical chemistry, A. Halpern and G. McBane 5. Experimental 
+Physical Chemistry, D. P. Shoemaker, C. W. Garland, and J. W. 
+Nibler 
+CHM342 
+INORGANIC 
+CHEMISTRY -II 
+3-0-0-0-9 
+1. Symmetry, point groups, character tables, concepts of orbital 
+symmetries 
+for 
+dorbital 
+splitting 
+diagrams 
+in 
+different 
+stereochemistry; 2. Synthesis and structure of mononuclear and 
+multinuclear transition metal complexes; 3. Theories of bonding. 
+Crystalfield and Molecular orbital, effects of ligandfield 
+(spectrochemical series, consequences of dorbital splitting); 4. 
+Spectroscopy of transitionmetal complexes: Russell Saunders 
+coupling 
+scheme, 
+Term 
+Symbols; 
+5. 
+Magnetism 
+of 
+transitionmetal complexes: Curie law, para, ferro, antiferro and 
+ferromagnetic systems; 6. Reaction mechanism of transition 
+metal complexes and electrontransfer reactions; 7. Introduction 
+of bioinorganic chemistry: heme, nonheme, FeS proteins; 8. 
+New trends of research: supramolecular chemistry, metalorganic 
+frameworks, gasstorage,nanochemistry, the renaissance of 
+carbon; 9. Transition metalbased inorganic materials (magnetic, 
+optical and biomaterials)
+
+[Page 13]
+Course Reference: 1. Huheey, J. E.; Keiter, K. E.; Keiter, R. L., 
+Inorganic Chemistry Principles of Structure and Reactivity: 4th 
+Edn, Pearson Education, 2008; 2. Shriver. D. F.; Atkins. P. W.; 
+Langford, 
+C. 
+G., 
+Inorganic 
+Chemistry. 
+3rd 
+Edn., 
+OxfordUniversity, Oxford, 1999; 3. Cotton, F. A.; Murillo, C. A.; 
+and Bochmann, M., Advanced Inorganic Chemistry 6th Edn. 
+,Wiley Interscience, 2001; 4. Cotton, F. A., Chemical 
+Applications of Group Theory 3rd ed., John Wiley and Sons, 
+2003; 5. Carter, R. L., Molecular Symmetry and Group Theory, 
+John Wiley and Sons, 3rdEdn.,1998; 6. Kahn, O., Molecular 
+Magnetism, 
+VCH, 
+Weinheim, 
+1993; 
+7. 
+Lehn, 
+J. 
+M., 
+Supramolecular Chemistry: Concepts and Perspectives, VCH, 
+Weinheim,1995; 8. Berg, J. M.; Lippard, S. J., Principles of 
+Bioinorganic Chemistry, University Science Books,CA, 1995. 
+CHM344 
+INORGANIC 
+CHEMISTRY 
+LABORATORY 
+EXPERIMENTS 
+0-0-6-0-6 
+Estimation 
+of 
+iron 
+in 
+minute 
+quantities 
+by 
+UV-vis 
+spectrophotometry, 
+Principles 
+of 
+colorimetric 
+analysis: 
+determination of iron content of an unknown sample.Preparation 
+of hexamine nickel (II) chloride: estimation of ammonia and 
+nickel bytitrimetric and gravimetric methods Determination of 
+complex composition using simple techniques Preparation of 
+diamagnetic and paramagnetic maingroup and transition 
+metalacetylacetonates Synthesis, isolation and spectroscopic 
+characterization 
+of 
+the 
+complexes 
+Synthesis 
+and 
+characterization of ferrocene and acetyl ferrocene Synthesis of 
+the complex and their purification using chromatography 
+Acidbase and redox titration of tablets containing Vitamin C 
+Estimation of ascorbic acid in Vitamin C tablets Paper 
+chromatographic separation of Cu2+, Fe3+ and Ni2+. Utilization 
+of paper chromatographic techniques to separate the metal 
+salts, 
+Spectrophotometric 
+determination 
+of 
+phosphate: 
+estimation of phosphate in coladrinks Determination of 
+concentration of phosphates applying Beer Lambert law 8. 
+Potassium trisoxalatoferrate (III): synthesis, analysis and 
+photochemistry Synthesis of the complex and its utilization in 
+blueprinting experiment 
+References/Text Books: 
+Elias, A. J., A Collection of Interesting General Chemistry 
+Experiments, Universities Press (India) Pvt. Ltd., 2002. 
+Roesky, H. W.; Mckel, K., Chemical Curiosities: spectacular 
+experiments and inspired quotes, VCH, 1996. Handouts 
+prepared for the laboratory experiments: collections from various 
+literature sources 
+CHM345 
+INORGANIC 
+CHEMISTRY I 
+3-0-0-0-9 
+1. Representative Chemistry of Main Group Elements (a) 
+Organometallic Chemistry of Lithium and Magnesium: synthesis, 
+structure and reactivity (b) Chemistry of Boron: boranes, 
+bonding in boranes, topology of boranes, synthesis and 
+reactivity, carboranes and metallacarboranes. New Lewis acids 
+based on boron; polymer supported Lewis acids (c) Chemistry of 
+Aluminum: Aluminum alkyls, use of aluminum alkyls in 
+polymerization ofolefins (d) C60 and carbon nanotubes: 
+discovery, preparation and selected reactions (e) Chemistry of 
+Silicon: organosilicon compounds, silicates and aluminosilicates; 
+2. Unusual Compounds of MainGroup Elements (a) Multiple 
+bonding in heavier main group elements, unusual compounds of
+
+[Page 14]
+maingroupelements: (i) SiSi double bond, SiSi triple bond, PP 
+double bond, BiBi double bond,synthesis, structure and 
+reactivity (b) Chemistry of lowvalent compounds: Synthesis, 
+structure and bonding models andreactivity of Al(I), Si(II) low 
+valent compounds(c) Chemistry of stable N heterocyclic 
+carbenes, use of carbenes in catalysis(d) Inorganic rings and 
+polymers: cyclo and heterocyclophosphazenes, polysilanes, 
+borazine and boron nitride 3. Chemistry of halogens and noble 
+gases: recent trends, CFCs and ozone layer 4. Organometallic 
+Chemistry:(a) bonded systems: metal alkyls, aryls and hydrides, 
+stability, 
+preparation 
+and 
+reactivity, 
+metalcarbonyls, 
+metalphosphines, metalnitrosyls, metalisocyanides: structures, 
+reactivity and bonding Metal carbenes, metal carbynes, Fischer 
+carbenes, Schrock carbenes, complexes with N-heterocyclic 
+carbenes, olefin metathesis (b) bonded systems: metalolefins, 
+alkyls, alkynes, dienes, Cp and Cp*, structure, bonding and 
+reactivity(c) Applications of organometallics in organic synthesis: 
+CC bond coupling reactions (Heck, Sonogashira, Suzuki), 
+reduction 
+using 
+transition 
+metal 
+hydrides, 
+asymmetric 
+hydrogenation. 
+Course Reference: 1. Elschenbroich, C.; and Salzer, A., 
+Organometallics: A Concise Introduction, 3rd Edn. 1999; 2. 
+Greenwood, N. N.; Earnshaw, A., Chemistry of the Elements, 
+Pergamon Press, 2nd Edn.,2002; 3. Douglas, B.; McDaniel, D.; 
+and Alexander, J., Concepts and Models of InorganicChemsitry. 
+3rd Edn., John Wiley, New York. 1993; 4. Crabtree, R. H. The 
+Organometallic Chemistry of the Transition Metals, 5th Edn., 
+JohnWiley and Sons, 2009 
+CHM361 
+CHEMISTRY 
+COMMUNICATION 
+SKILLS 
+2-0-0-0-6 
+Course Contents: 
+Oral 
+and 
+written 
+communication: 
+How to write news and views related to chemistry? Writing 
+review on current topics in chemistry (e.g.: Nobel prize in 
+chemistry, recent advances, etc.). Prepare a technical writing in 
+Latex (Including equations, derivations, tables etc.) and 
+Microsoft word. Presentation of slides on a project work. 
+Presentation of reviews to audience. 
+Tools related to Chemistry: 
+Draw chemical structures using CHEMDRAW (Exercise: draw 
+chemical structure of different natural products as per 
+instruction), Mercury (drawing crystal structures of molecular 
+crystals). How to find compound related data in the literature? 
+Example: SciFinder. Finding commercial sources and databases 
+for chemicals. Use and management of mined data (Scopus, 
+Web of Sciences). Making literature library for scientific writing 
+and citation with reference management tools such as Endnote, 
+BibTex, Mendeley, Zotero etc. Data fitting (Igor, Origin, etc.). 
+Number precision and numerical data presentation, error 
+analysis. Making figures and technical drawings for journals. 
+Databases in chemistry: Use of specialized databases like 
+CCDC, PDB, SDBS, other nuclei NMR databases (Exercise: find 
+crystal structures in CCDC for different known compounds as 
+instructed, downloading spectrum from SDBS and report proton 
+and carbon spectra in different journal format). How to 
+report/write 
+compound 
+data 
+and 
+chemical 
+procedures?
+
+[Page 15]
+(Exercise: prepare experimental procedures and synthetic 
+procedures for different journals). 
+Scientific Ethics: Plagiarism. Scientific integrity. Data integrity 
+and 
+recording 
+experiments 
+in 
+lab 
+notebook. 
+How 
+to 
+make/prepare a text similarity report using Turnitin and 
+ithenticate? 
+Flexible topics in communication skills. 
+CHM391 
+UNDER GRADUATE 
+PROJECT-I 
+0-0-4-0-4 
+5th Semester Undergraduate Project: UG Research project 
+under the supervision/co-supervision of a faculty in Chemistry. 
+CHM392 
+UG PROJECT II 
+0-0-0-0-9 
+UG 
+PROJECT 
+II: 
+UG 
+Research 
+project 
+under 
+the 
+supervision/co-supervision of a faculty in Chemistry. 
+CHM399A 
+CHEMISTRY 
+COMMUNICATION 
+SKILLS 
+0-0-0-2-2 
+CHEMISTRY COMMUNICATION SKILLS 
+Oral and written communication: • How to write news and 
+views related to chemistry? • Writing review on current topics in 
+chemistry (eg.: Nobel prize in chemistry, recent advances, etc.) • 
+Prepare a technical writing in Latex (Including equations, 
+derivations, tables etc.) and Microsoft word. • Presentation of 
+slides on a project work. • Presentation of reviews to audience. 
+Tools related to chemistry: • Draw chemical structures using 
+CHEMDRAW (Exercise: draw chemical structure of different 
+natural products as per instruction), Mercury (drawing crystal 
+structures of molecular crystals). • How to find compound related 
+data in the literature? Example: SciFinder • Finding commercial 
+sources and databases for chemicals. • Use and management 
+of mined data (Scopus, Web of Sciences). • Making literature 
+library for scientific writing and citation with reference 
+management tools such as Endnote, BibTex, Mendeley, Zotero 
+etc. • Data fitting (Igor, Origin, etc.) • Number precision and 
+numerical data presentation, error analysis. • Making figures and 
+technical drawing for journals. Databases in chemistry: • Use of 
+specialized databases like CCDC, PDB, SDBS, other nuclei 
+NMR databases (Exercise: find crystal structures in CCDC for 
+different 
+known 
+compounds 
+as 
+instructed, 
+downloading 
+spectrum from SDBS and report proton and carbon spectra in 
+different journal format) • How to report/write compound data 
+and chemical procedures? (Exercise: prepare experimental 
+procedures and synthetic procedures for different journals). 
+Scientific Ethics: • Plagiarism. • Scientific integrity. • Data 
+integrity and recording experiments in lab notebook. • How to 
+make/prepare text similarity report using turnitin and ithenticate? 
+5 Flexible topics in communication skills. 
+CHM401 
+ORGANIC 
+CHEMISTRY I 
+3-0-0-0-9 
+Stereochemistry, Dynamic stereochemistry, Mechanistic and 
+Stereo chemical aspects, Reactive Intermediates: Carbenes, 
+Nitrenes, 
+Radicals, 
+Carbocations.Mechanistic 
+and 
+Stereochemical Aspects of: (10) Baeyer-Villiger, Claisen 
+(including Johnson-Claisen, Ireland-Claisen, Eschenomser, 
+Overman 
+modifications) 
+Cope, 
+and 
+oxy-Cope, 
+Wittig 
+rearrangements (both 1,2 and 2,3 Wittig rearrangements); ene 
+and metalloene reactions; (2+2), (3+2) and (4+2) cycloadditions; 
+Barton reaction. Organometallic Chemistry: (5) Mechanism and 
+stereochemistry of various reactions. Palladium based reactions 
+such as Heck, Stille, Suzuki, Sonogashira, Buchwald-Hartwig 
+couplings; Tsuji-Trost C-C bond formations; Ni and Sn catlysed
+
+[Page 16]
+reactions.Enzymatic 
+Reactions: 
+(3) 
+Mecahnistic 
+and 
+stereochemical aspects of hydrolases (including esterases and 
+lipases), oxido-reductases.Green Chemistry: Concepts and 
+applications (3) Classification and Structures of some natural 
+products 
+such 
+as 
+terpenoids, 
+steroids, 
+alkaloids 
+and 
+prostaglandins (5) 
+Course Reference: 1. March, J., Advanced Organic Chemistry, 
+4th ed, 1999. 2. Nasipuri, D., Stereochemistry of Organic 
+Compounds, 2nd ed., 1995. 3. Solomons, T. W. G., Organic 
+Chemistry 6th ed, 1996. 4. Sykes, Peter, A guide book to 
+Mechanism in Organic Chemistry. 5. R. Bruckner, Advanced 
+Organic Chemistry, 2002 6. R. Bruckner, Organic Mechanisms, 
+2010 7. M. B. Smith, Organic Synthesis, 3rd Ed. 2010 8. 
+Clayden, Greeves, Warren, and Wothers, Organic Chemistry, 
+1st ed, 2001 
+ 
+CHM402A 
+ORGANIC 
+CHEMISTRY II 
+3-0-0-0-9 
+Oxidation: Oxidation involving organosulfur (such as Swern) and 
+organoselenium 
+compounds; 
+DessMartin, 
+IBXand 
+related 
+hypervalent iodine based oxidations, Ag2CO3/celite Prevost, 
+photosensitised oxidation, dimethyldioxirane, RuO4, 2sulfonyl 
+oxaziridne, transition metal catalysed oxidation, oxidation 
+atunfunctionalised carbons, Fleming Tamao oxidation, and 
+microbial oxidations.Reduction: (6)Using silanes, Al and B 
+based reagents (e.g. DIBAL, Lselectride, Kselectride, RedAl 
+etc.), low valentTi species, microbial reductions (NADH model 
+etc.) Asymmetric Synthesis: (8) Sharpless epoxidation and 
+dihydroxylation, 
+Jacobsens 
+epoxidation, 
+Coreys 
+oxazaborolidinecatalyzed reduction, Noyoris BINAP reduction, 
+SAMP, RAMP, Evans oxazoline and Oppolzer sultams, Aldol 
+reaction (in brief: only principles using models).CC Bond 
+Formation: (14) via anions to electron withdrawing groups 
+(carbonyl group, esters, NO2, SO2Ph, CN etc.) via B and Si 
+enolates via imines Michael additions (cuprates etc.) Via allyl 
+boron, allyl tin, allyl and vinyl silanes Metal catalyzed 
+Cyclopropanation reactions (including Simmons Smith reaction) 
+Ringclosing, 
+ringopening 
+and 
+cross 
+metathesisOrganic 
+Synthesis: (8) Application of above reactions and the ones 
+studied in CHM 401 in synthesis of natural products. 
+Course Reference: 1. Carruthers, W., Coldham, I. Some 
+Modern Methods of Organic Synthesis, 2008; 2. Smith, M. B., 
+Organic Synthesis, 2nd ed., 2002; 3. Carreira, E. M.; Kvaerno, 
+L. Classics in stereoselective synthesis, 2009; 4. Nicolaou, K. 
+C.; Sorenson, E. J., Classics in total synthesis, 1996; 5. 
+Nicolaou, K. C.; Snyder, S. A., Classics in total synthesis II, 
+2003; 6. Tsuji, J., Transition metal reagents and catalysts, 2000. 
+CHM423 
+PHYSICAL 
+CHEMISTRY LAB 
+0-0-6-0-6 
+1. Calibration of volumetric apparatus. (One day); 2. Analysis of 
+the rotationalvibrational spectra of HCl molecules. (One day; 3. 
+Determination 
+of 
+partial 
+molal 
+volume. 
+(One 
+day); 
+4. 
+Determination of the isotherm for a three omponent system. 
+(Two days); 5. Kinetics of fast reactions by stoppedflow 
+technique. (One day); 6. Spectrophotometric determination of 
+the acid dissociation constant (Two day); 7. The measurement 
+of electrical conductance for the determination of the
+
+[Page 17]
+equivalentconductance at infinite dilution (Two days); 8. Rate of 
+the hydrolysis of sucrose using polarimeter. (Two day); 9. 
+Determination of pKa of polybasic acid with the pH meter. (One 
+day); 10. Determination of critical miceller concentration. (One 
+day); 11. Determination of transport number by moving 
+boundary method. (One day); 12. Polarizability from refractive 
+index measurements. (One day); 13. Formula and stability 
+constant of a complex by spectrophotometry. (One day); 14. 
+Fluorescence quantum yield determination of an unknown 
+molecule. 
+(One 
+day); 
+15. 
+Fluorescence 
+spectrum 
+and 
+sternvolmer quenching constant. (One day); 16. IR and Raman 
+spectroscopy of solvent mixtures. (Two days); 17. Computing 
+Potential Energy Surface of molecules using Quantum 
+Mechanics. (Twodays) 
+Course Reference: 1. Experimental physical chemistry, F. A. 
+Bettelheim; 2. Experimental physical chemistry, G. P. Matthews; 
+3. Experimental physical chemistry, F. Daniels; 4. Experimental 
+physical chemistry, A. Halpern and G. McBane; 5. Experimental 
+Physical Chemistry, D. P. Shoemaker, C. W. Garland, and J. W. 
+Nibler 
+CHM443 
+INORGANIC 
+CHEMISTRY 
+LABORATORY 
+0-0-6-0-6 
+Invisible ink: Utilization of coordination chemistry to demonstrate 
+invisible ink in laboratory. 
+Color effects due to ligand-exchange in nickel complexes: 
+Demonstration of ligand-field strength in the spectrochemical 
+series 
+Color effects in aqueous systems containing divalent 3d 
+metalions: Demonstration of crystal-field splitting parameters of 
+3d metal ions 
+Acidic and basic salts: Hydrolysis of salts and its consequences 
+Preparation of nitro- and nitrito-pentamminecobalt(III) chloride: 
+Linkage isomers: synthesis and identification using various 
+spectroscopic techniques 
+The 
+preparation 
+of 
+hexamminecobalt(III) 
+chloride 
+and 
+pentammineaquocobalt(III) chloride: Synthesis, isolation and 
+characterization of the complex 
+The 
+preparation 
+of cis-and trans -
+potassiumdioxalatodiaquochromate(III): Geometrical isomers: 
+synthesis 
+and 
+identification 
+using 
+various 
+spectroscopic 
+techniques 
+Aquation 
+of 
+trans-dichloro-bis(1,2-
+diamminoethane)cobalt(III)chloride: 
+Investigation 
+of 
+acid 
+hydrolysis of the complex: The preparation and resolution 
+of tris(ethylenediamine)cobalt(III)ion into its optical antipodes 
+Optical isomers: synthesis, isolation and characterization: 
+Preparation of hexamminenickel(II) chloride: estimation of 
+ammonia and nickel by titrimetric and gravimetric methods 
+Determination 
+of 
+complex 
+composition 
+using 
+simple 
+techniques:Synthesis and reactions of organo cobaloximes 
+Synthesis of an air-sensitive organometallic complex at low 
+temperature 
+under 
+inert 
+atmosphere: 
+Synthesis 
+and 
+characterization 
+of 
+ferrocene 
+and 
+acetylferrocene: 
+Synthesis, 
+purification 
+using 
+chromatography 
+and 
+characterization 
+References/Text Books: Roesky, H. W.; Möckel, K., Chemical
+
+[Page 18]
+curiosities: spectacular experiments and inspired quotes, VCH, 
+1996. 
+Hand-outs prepared for the laboratory experiments: collections 
+from various literature sources. 
+ 
+CHM481 
+BIOSYSTEMS 
+3-0-0-0-9 
+
+ 
+
+ 
+
+ 
+Buffers (their use in study of biomolecules), pH, pKa of amino 
+acids, D and L amino acidnomenclature. (1) Proteins: protein 
+sequencing by chemical and mass & NMR spectroscopic 
+methods), Use of spectroscopic tools in studying biomolecules. 
+Primary (single letter amino acid codes), Ramachandran plot, 
+secondary, 310, helices, parallel and antiparallel sheets, turns, 
+turns), circular dichroism of secondary structures, tertiary (motifs 
+and domains: someimportant motifs like Rossman fold, helix 
+turn helix, 4 helix bundles, beta barrel) andquaternary structure 
+(Hemoglobin and Myoglobin). Protein Engineering (17). Nucleic 
+acids: A, B and ZDNA structures, Method of replication, 
+sequencing 
+of 
+nucleic 
+acids 
+(chemical, 
+dideoxy 
+and 
+fluorescence), 
+Transcription, 
+Translation, 
+genetic 
+code, 
+genomes, genes, over expression of recombinant proteins, 
+mutagenesis (random and site directed) Polymerase chain 
+reaction 
+(PCR). 
+Use 
+of 
+modified 
+bases 
+in 
+PCR 
+(9) 
+Carbohydrates and Glycoproteins, proteoglycans, Membranes 
+and lipids, bacteial cell wallsynthesis and mechanism of some 
+important antibiotics like penicllin, antibiotic resistance. (4) 
+Metabolism: Photosynthesis, Calvins cycle, Glycolysis, Krebs 
+cycle, electron transport, cofactors. (4) Enzymes and their 
+kinetics: Michaelis Menten kinetics, Reaction order, competitive, 
+uncompetitive, noncompetitive and irreversible inhibition of 
+enzymes. Effect of pH, temperatureon enzyme activity. (4) 
+Biophysical techniques to purify and study proteins. Dialysis, 
+salting out and precipitation byorganic solvents, Ion exchange, 
+gel 
+filtration, 
+reversed 
+phase, 
+affinity 
+chromatography, 
+ultracentrifugation, gel electrophoresis. 
+Course Reference: 1. Fundamentals of Biochemistry by Voet, 
+Voet and Pratt; 2. Biochemistry by L. Stryer; 3. Proteins by T.E. 
+Creighton; 4. Genes VII by B. Lewin, Introduction to protein 
+structure by Branden and Tooze; 5. Enzyme structure and 
+Mechanism by Alan Fersht 
+CHM491 
+UNDER GRADUATE 
+PROJECT-III 
+0-0-0-0-9 
+ 
+UG PROJECT (UGP-III): UG Research project under the 
+supervision/co-supervision of a faculty in Chemistry. 
+CHM492 
+UG PROJECT IV 
+0-0-0-0-9 
+UG PROJECT (UGP-IV): UG Research project under the 
+supervision/co-supervision of a faculty in Chemistry. 
+CHM503 
+ORGANIC 
+PREPARATION LAB 
+0-0-6-0-6 
+Preparations of various organic compounds employing different 
+reactions willbe carried out, with a view to give the student 
+sufficient training in syntheticorganic chemistry 
+Benzil – Benzilic Acid Rearrangement 
+(a) Prep. of benzil by oxidation of benzoin by nitric acid 
+(b) Benzil, an ® , ¯ - diketone undergoes rearrangement to 
+benzilic 
+acid. 
+Fisher: Indole Synthesis: Preparation 
+of 
+1.2.3.4 
+– 
+tetrahydrocarbazole. This compound is prepared according to 
+the Fisher indole synthesis starting from phenylhydrazine and
+
+[Page 19]
+cyclohexanone. 
+Diazotization: Forming a diazonium salt from an appropriate 
+primary 
+aromatic 
+amine 
+in 
+the 
+presence 
+of 
+HNO2. 
+Preparationof P-Iodonitrobenzene: p-Nitroaniline is diazotized 
+and 
+treated 
+with 
+KI 
+PHOTOCHEMICAL REACTIONS: By Irradiation with Sunlight 
+OR 
+By 
+Reductive 
+Coupling 
+Prep. of Benzopinacol from benzophenone by reductive 
+coupling 
+MOLECULAR 
+REARRANGEMENT 
+Pinacol 
+– 
+Pinacolone 
+– rearrangement 
+(a) 
+Prep. 
+of 
+benzopinacol 
+(b) 
+Prep. 
+of 
+benzopinacolone 
+REIMER – TIEMANNREACTION 
+Prep. 
+of 
+β-hydroxynapthaldehyde 
+from 
+β-napthal 
+PERKIN 
+REACTION 
+Preparation 
+of 
+Cinnamic 
+acid 
+Bromination 
+cinnamic 
+acid 
+i.e. 
+Prep. 
+of 
+bromostryrene 
+ALDOLCONDENSATION 
+AND 
+EPOXIDATION 
+(a) 
+Preparation 
+of 
+Chalcone 
+(b) Preparation of Chalcone epoxide 
+Course Reference: 1. Fundamentals of Biochemistry by Voet, 
+Voet and Pratt, 2. Biochemistry by L. Stryer, 3. Proteins by T.E. 
+Creighton, 4. Genes VII by B. Lewin, 5. Introduction to protein 
+structure by Branden and Tooze, 6. Enzyme structure and 
+Mechanism by Alan Fersht. 
+CHM521 
+MATHEMATICS FOR 
+CHEMISTRY 
+2-0-0-0-6 
+ 
+Functions: Series expansion, Special functions (including 
+plotting and sketching), contour plots/surfaces, maximum and 
+minimum of functions (of one and many variables). Differential 
+Equations: 
+First 
+Order 
+Linear 
+Differential 
+Equation 
+(Homogenous, Non-Homogenous), Second Order differential 
+equation, Solution by Power Series Expansion, Sturm-Liouville 
+Problem, Eigenvalue-Eigenfunction Problems. Partial Differential 
+Equations: Method of Separation of Variables, Wave Equation, 
+Diffusion. Fourier Series and Transform: Sine and Cosine 
+Series, Fourier Transforms, Power Spectra, Applications in 
+Solving Partial Differential Equations. Linear Algebra: Vector 
+Space, Hilbert Space, Inner Products, Solving Linear Equations, 
+Matrix Inversion, Eigenvalues and Eigenvectors, Hermitian 
+Matrices, Matrix Equations. Coordinate Transform: Polar 
+Coordinates, Spherical Polar Coordinates, Elliptical Coordinates. 
+CHM599 
+MS PROJECT 
+3-0-0-0-48 
+ 
+MS research project for dual-degree programme under the 
+supervision of a faculty in the Department of Chemistry. 
+CHM600 
+MATHEMATICS FOR 
+CHEMISTRY 
+3-0-0-0-9 
+Error Analysis, Scalars, vectors, curl, divergence and gradient, 
+ordinary 3000[4] differential equations, symmetry and group 
+theory, matrices, etc. 
+Error Analysis: Error, precision, accuracy, significant figures, 
+mean, 
+standard 
+deviation, 
+propagation 
+of 
+errors. 
+(2) 
+ 
+Vectors and Matrices: Dot product, cross product, gradient, 
+divergence, continuity equation, curl. Vector integration: Stokes’ 
+and Gauss’ theorems, vector spaces. Matrices: coordinate
+
+[Page 20]
+transformation, Jacobian, system of linear equations, inverse of 
+a matrix, Cramer’s rule, Gaussian elimination and its variants, 
+eigenvalues 
+and 
+eigenvectors. 
+(10) 
+ 
+Ordinary Differential Equations and Special Functions: 
+General and particular solutions of a differential equation. First 
+order equations and their applications. Separation of variables, 
+equations reducible to separable form. Exact differential 
+equations, non-homogeneous differential equations, integrating 
+factors. 
+Second 
+order 
+linear 
+differential 
+equations: 
+homogeneous with constant coefficients, characteristic equation, 
+general solution, particular solution. Non-homogeneous linear 
+second order equations, Sturm-Liouville theorem, Power series 
+method of solution of differential equations, Special functions 
+such as Legendre and Hermite polynomials, Beta, Gamma and 
+error 
+functions. 
+Non-linear 
+differential 
+equations. 
+(14) 
+ 
+Fourier series and transform, basic theorems, convolution. 
+Laplace transform and its properties, Applications of Fourier and 
+Laplace 
+transforms. 
+(6) 
+ 
+Numerical Methods: Numerical differentiation and interpolation, 
+Numerical quadrature, Newton-Cotes formulae, Simultaneous 
+equations and matrix eigenvalues, Numerical solution of 
+differential equations. (8) 
+References/Textbooks: 
+1. G.B. Arfken and H.J. Weber, Mathematical Methods for 
+Physicists, Academic Press (2001). 
+2. M.L. Boas, Mathematical Methods in the Physical Sciences, 
+John Wiley, India (2007). 
+3. E. Kreyszig, Advanced Engineering Mathematics, John Wiley, 
+New York (1999). 
+D. McQuarrie, Mathematical methods for scientists and 
+engineers, University Science Books (2003). 
+ 
+CHM602 
+ADVANCED 
+ORGANIC 
+CHEMISTRY II 
+
+ 
+
+3-0-0-0-9 
+
+Principles of retrosynthetic analysis: Linear and convergent 
+synthesis, 
+Synthesis 
+under 
+steric 
+control, 
+Regio 
+and 
+stereoselective 
+synthesis, 
+Basic 
+synthetic 
+methods. 
+Methodologies for the construction of membered rings, medium 
+and large rings. Application in natural product synthesis. 
+Methodologies for the construction of membered heterocyclic 
+rings. Application In organic synthesis. 
+References/Textbooks: 
+1. Corey and Cheng, The Logic of Chemical Synthesis, Wiley, 
+1989; 2. Nicolaou and Sorensen, Classics in Total Synthesis, 
+1996; 3. Nicolaou and Snyder, Classics in Total Synthesis II, 
+2003; 4 Carey and Sundberg, Advanced Organic Chemistry, 
+Part I and II, 4th ed., 2000. 
+CHM609 
+PRINCIPLES OF 
+ORGANIC 
+CHEMISTRY 
+3-0-0-0-9 
+ 
+Stereochemistry, mechanisms of selected reactions, Reactive 
+intermediates, oxidation, Reduction, C-C bond formations, 
+synthesis of some useful natural products. Stereochemistry: 
+Conformation of acyclic and cyclic molecules, Geometrical and 
+Optical Isomerism. Dynamic stereochemistry: Conformation and 
+reactivity. 
+Reactions: Mechanistic and Stereochemical aspects of: Baeyer-
+
+[Page 21]
+Villiger, Claisen (including Johnson and Ireland modifications), 
+Wittig rearrangements. Ene and metalloene reactions, Barton 
+reaction. 
+Reactive Intermediates: An overview and revision of the 
+chemistry 
+of 
+carbenes, 
+nitrenes, 
+radicals, 
+carbocations 
+(including non-classical carbocation), carbanions (homoenolate 
+anion) and benzynes with emphasis on stereochemical 
+implications 
+wherever 
+applicable. 
+Oxidation: Swern, Dess-Martin, Prevost, dimethyl dioxirane, 
+transition 
+metal 
+catalyzed 
+oxidations, 
+oxidations 
+at 
+unfunctionalized carbons, asymmetric Sharpless epoxidation 
+and dihydroxylation, Jacobsen’s epoxidation: Mechanism, 
+stereochemistry 
+and 
+applications 
+in 
+organic 
+synthesis. 
+Reduction: Reduction of carbonyl compounds and C-C multiple 
+bonds: Using Al and B based reagents (e.g. DIBAL, Red-Al, 
+NaBH4-CeCl3.7H2O etc.), low valent Ti species, microbial 
+reductions (NADH models), Qxazaborolidine, BINAP, BINAL 
+based reductions. C-C Bond Formation: [2+2], [3+2] and [4+2] 
+cycloadditions, Enolate chemistry (including silicon chemistry). 
+Synthetic Applications: Synthesis of some typical natural 
+products. Photochemistry 
+References/Textbooks: 
+1. March, J., Advanced Organic Chemistry, 4th ed, 1999. 
+2. Nasipuri, D., Stereochemistry of Organic Compounds, 2nd 
+ed, 1995. 
+3. Carey and Sundberg, Advanced Organic Chemistry, Part I 
+and II, 4th ed., 2000. 
+4. Clayden, 
+Greeves, 
+Warren, 
+and 
+Wothers, 
+Organic 
+Chemistry, 1st ed, 2001 
+CHM611 
+PHYSICAL ORGANIC 
+CHEMISTRY 
+3-0-0-0-9 
+ 
+Pericyclic Reactions: Conservation of orbital symmetry, and 
+Woodward 
+and 
+Hoffmann 
+rules. 
+Cycloadditions, 
+Electrocyclizations, 
+Sigmatropic 
+rearrangements, 
+and 
+Chelotropic reactions. Orbital overlap effects in chemical 
+processes. 
+Stereoelectronic Effects in Organic Chemistry: Acetals, 
+Esters, Amides and related functions. Reactions at sp3, sp2, 
+and sp carbons. Examples in synthesis and biological 
+processes. Felkin-Ahn model, Houk model, Cieplak model, 
+EFOE model, and Cation-complexation model as applied to -
+Facial 
+selectivity. 
+Reactive Intermediates: Carbonium ions, carbanions, and 
+radicals (formation, rearrangement, and further reactions in 
+reference 
+to 
+Baldwin’ 
+rules 
+for 
+ring-closure) 
+Chemical Equilibria and Chemical Reactivity: Correlation of 
+reactivity 
+with 
+structure, 
+Hammett 
+equation, 
+substituent 
+constants 
+and 
+reaction 
+constants. 
+Chemical Kinetics and Isotope Effects: Various types of 
+catalysis and isotope effects. Importance in the elucidation of 
+organic 
+reaction 
+mechanisms. 
+Electron-Transfer Reactions: Theoretical basis, Examples of 
+photo-induced 
+and 
+chemically-induced 
+electron 
+transfer 
+reactions 
+(PET 
+and 
+CET). 
+Organic Photochemistry: Energy and electronic spin states, 
+Spectroscopic 
+transitions, 
+photophysical 
+processes,
+
+[Page 22]
+fluorescence and phosphorescence, energy transfer and 
+electron 
+transfer, 
+and 
+properties 
+of 
+excited 
+states, 
+Representative 
+photochemical 
+reactions 
+of 
+carbonyl 
+compounds, 
+olefins, 
+and 
+aromatic 
+compounds. 
+Miscellaneous: A(1,2) and A(1,3) strain, Captodative effect, 
+Hammond’s 
+postulate, 
+Curtin-Hammett 
+principle, 
+and 
+thermodynamic and kinetic control of reactions. 
+References/Textbooks: 
+1. Isaacs, N. S., Physical Organic Chemistry; 2. Lowry and 
+Richardson, Mechanism and Theory in Organic Chemistry; 3. 
+Deslongchamps, P., Stereoelectronic Effects in Organic 
+Chemistry 
+CHM612 
+FRONTIERS IN 
+ORGANIC 
+CHEMISTRY 
+3-0-0-0-9 
+Asymmetric Synthesis: Including organo and metal-based 
+catalysis Synthesis using Organometallic Chemistry: Transition 
+and main group elements based reactions involving region, 
+stereo, and enantioselective reactions and application in organic 
+synthesis. Supramolecular Chemistry, Combinatorial Chemistry, 
+etc. Green Chemistry, Glycobiology, Synthetic aspects using 
+Domino reactions, Principles of atom economy with examples, 
+Templated and solid supported Organic Synthesis. 
+Course Reference: 1. M. B. Smith Organic Synthesis 
+Wavefunction, Inc 2000; 2. HJ. Schmalz, T. Wirth Organic 
+Synthesis Highlights, 2003; 3. J. Tsuji, Transition metal reagents 
+and catalyst innovations in organic synthesis JohnWiley& Sons, 
+Ltd, New York, 2000; 4. T. K. Lidhorst, Essentiall of 
+carbohydrate chemistry and biochemistry, WileyVCH, 2006. 
+CHM614 
+ORGANIC 
+PHOTOCHEMISTRY 
+3-0-0-0-9 
+
+An overview of basic concepts of photochemistry 
+Energy transfer; theoretical aspects of organic photochemistry; 
+reaction mechanisms; photoreduction and photosubstitution 
+reactions; photocyclo additions; photoisomerizations; photo 
+fragmentation and elimination reactions; photolytic deprotection 
+and activation of functional groups. 
+Singlet oxygen: generation and reactions; photoinduced electron 
+transfer basic concepts, illustrative examples of application to 
+organic 
+synthesis; 
+photochemistry 
+in 
+organized 
+media. 
+Nanosecond 
+and 
+picoseconds 
+studies 
+of 
+organic 
+photoreactions. 
+Course Reference: 1. Modern Molecular Photochemistry by N. 
+J. Turro; 2. Organic Photochemistry by J. M. Coxan and B. 
+Halton Essentials of Molecular Photochemistry by A. Gilbert and 
+J. Baggot; 3. Organic Photochemistry and Photobiology, CRC 
+Handbook, Edited by W. M. Horspool and P.S. Song. 
+CHM616 
+CHEMISTRY OF 
+ORGANOMETALLIC 
+COMPOUNDS 
+3-0-0-0-9 
+Newer aspects of organometallics derived from different 
+elements such as Pd, Cu, Ti, Rh, Ru, Mo, Ni, Fe, Sn, Si, B, Mg, 
+Ce, etc, including chemo-, regio-, stereoselective reactions, 
+asymmetric induction etc, and their application in organic 
+synthesis will be discussed. 
+Introduction: History of organometallic chemistry; Werner 
+complexes; Coordination number and geometry; Crystal field 
+theory and ligand field theory; Bonding and molecular orbitals. 
+Ligands: Bonding Types, Charges, and Donor Electrons; 
+Ligand: chelate effect and heptaciy; 18 electron rule: Usefulness 
+and limitation; Lewis Base Ligands: Halide donors, Oxygen 
+ligands, Sulphur ligands, Nitrogen ligands: R3N,R2N-, RN2-;
+
+[Page 23]
+Tris(pyrazolyl) borate, A Few Biologically Important N-Ligands: 
+imidazole, purine, porphyrine; Carbonyls Phosphines, singma 
+bound carbon ligands: hydrides, alkyls, aryls, pi-bonded carbon 
+ligands: 
+alkene, 
+alkyne, 
+allyl, 
+diene, 
+arenes, 
+arenes, 
+metalacyles, Metallocene and sandwich complexes/ bonded 
+carbon ligands: carbenes, carbines; Bimetallic complexes and 
+Metal Clusters; Metal-metal bond in bimetallic complexes; 
+Clusters; Isolobal analogy; Metal nanoparticles; Elementary 
+organometallic 
+reactions: 
+Ligand 
+substitutions; 
+Oxidative 
+addition; 
+Reductive 
+elimination; 
+Intramolecular 
+insertions/eliminations; Nucleophillic/ Electrophillic attacks on 
+coordinated ligands. Homogeneous catalysis and Catalysts: 
+Introduction; 
+Alkene 
+isomerization; 
+Hydrogenation; 
+Hydroformylation; 
+Monsanto 
+acetic 
+acidprocess; 
+Alkene 
+polymerization; Cross coupling reactions; Metathesis; CH 
+activation and functionalization; Oxidation of olefins; Metal 
+Clusters and catalysis; Physical methods in Organometallic 
+chemistry:1H NMR spectroscopy; 13C NMR spectroscopy; 31P 
+NMR spectroscopy; Dynamic NMR, Massspectroscopy, Isotope 
+effect. Bioinspired Organometallic chemistry: Introduction, 
+Coenzyme B12, Nitrogen fixation; Nickel enzyme; 
+Course Reference: 1. J. Tsuji, Transition metal reagents and 
+catalyst innovations in organic synthesis JohnWiley & Sons, Ltd, 
+New York, 2000; 2. M. B. Smith Organic Synthesis 
+Wavefunction, Inc 2000; 3. HJ. Schmalz, T. Wirth Organic 
+Synthesis Highlights, 2003; 4. K. C. Nicolaou, Classics in Total 
+Synthesis Vols IIII, WileyVCH, 1996; 2003; 2011; 5. The 
+Organometallic Chemistry of the Transition Metals by Robert 
+Crabtree (3rd Edition, Wiley); 6. The Principles and Applications 
+of Transition Metal Chemistry, by Collman, Hegedus, Norton 
+and 
+Finke 
+(2nd 
+eds, 
+University 
+Science 
+Books); 
+7. 
+Organometallics by Christoph Elschenbroich. (3rd Edition, 
+Wiley). 
+CHM621 
+CHEMICAL BINDING 
+3-0-0-0-9 
+
+ 
+Review of basic principles of quantum theory and atomic 
+structure. Introduction to chemical bonding and weak 
+intermolecular forces. Electronic structure of many electron 
+atoms and variation principle. Electronic structure of diatomic 
+molecules. 
+Born 
+Oppenheimer 
+approximation, 
+H2+ 
+ion, 
+approximate molecular orbital (MO) theory of ground and 
+excited states of H2+, homo and heteronuclear diatomic 
+molecules, electronic term symbols, valence bond (VB) theory of 
+diatomic molecules, comparison of VB and MO theories. 
+Hartree-Fock theory of atoms and extension to molecules. Self 
+Consistent Field (SCF) wavefunctions for diatomic molecules, 
+configuration 
+interaction 
+(CI) 
+wave 
+functions. 
+Electronic 
+structures of polyatomic molecules. SCF-MO treatment of 
+closed shell systems. Basis functions. SCF-MO treatment of 
+simple molecules like H2O, NH3, C2H6, C2H4 etc. Population 
+analysis, Potential energy surface and equilibrium geometry, 
+molecular vibrational frequencies. Koopmans; and Brillouin’s 
+theorems. Brief introduction to electron correlation. MllerPlesset 
+(MP) perturbation theory and CI calculations. Virial and 
+Hellmann Feynman theorems. Hckel theory applied to 
+conjugated molecules. Elements of Density Fuctional Theory
+
+[Page 24]
+(DFT), Semiempirical methods (extended Hckel and CNDO), 
+Molecular mechanics, Topological characteristics of electron 
+density. 
+Course Reference: 1. I.N. Levine, Quantum Chemistry, Fifth 
+edition, Pearson Education (2000); 2. F.L. Pilar, Elementary 
+Quantum Chemistry, Second edition, McGrawHill (1990); 3. J.P. 
+Lowe, Quantum Chemistry, Second edition, Academic Press 
+(1993); 4. P.W. Atkins and R.S. Friedman, Molecular Quantum 
+Mechanics, Third edition, OxfordUniversityPress (1997); 5 A. 
+Szabo and N. S. Ostlund, Modern Quantum Chemistry, Dover 
+(1996). 
+CHM622 
+CHEMICAL 
+KINETICS 
+3-0-0-0-9 
+Phenomenological Kinetics: Simple and complex systems 
+including opposing, concurrent and consecutive reactions, Rate 
+law and mechanism, relation with thermodynamics, Precision in 
+rate measurement, data analysis, Special experimental methods 
+including flash photolysis, shock tube, molecular beam and 
+relaxation techniques. Oscillatory reactions. Theories of reaction 
+rates: bimolecular reactions, rate coefficient, activation energy, 
+potential energy surfaces, trajectory methods and transition 
+state 
+theory. 
+Unimolecular 
+intermolecular 
+reactions, 
+Applications: photochemistry, solution kinetics, homogeneous 
+and heterogeneous catalysis and enzyme kinetics. 
+Course Reference: 1. K. J. Laidler, Chemical Kinetics, 3rd Ed. 
+Harper & Row, New York, 1987; 2. R. D. Levine and R. B. 
+Bernstein, 
+Molecular 
+Reaction 
+Dynamics 
+and 
+Chemical 
+Reactivity, Oxford Univ. Press, Oxford, 1987; 3. J. I. Steinfeld, J. 
+S. Francisco, W. L. Hase, Chemical Kinetics and Dynamics, 2nd 
+ed. Prentice Hall, NJ 1999. 
+CHM626 
+SOLID STATE 
+CHEMISTRY 
+3-0-0-0-9 
+Chemical Crystallography: Introduction, Space lattice, Crystal 
+point groups, space group (working knowledge), Stereographic 
+projections, 
+Packing 
+in 
+solids, 
+Crystal 
+structures 
+of 
+representative systems, Silicates and Zeolites, Cements, 
+Glasses, Quasicrystals, Nanostructures. Bonding in solids and 
+Crystal energetic: Crystal classifications, Madelung constant 
+and Lattice energy. Characterization techniques (working 
+knowledge) for solids: Xray diffraction, Electron microscopy 
+(SEM, TEM, AFM), Thermal techniques (TG, DTA, DSC), 
+Spectroscopic techniques (Mossbauer, IR, UVVIS) and Physical 
+propertymeasurement 
+techniques 
+(Magnetic 
+momentsVSM 
+/SQUID, Electrical resistivity V Two / Fourprobe methods and 
+thermal conductivity, Optical band gap, XPES, XAS). Electronic 
+properties and Band theory of solids: Free electron model, 
+Metals, semiconductors and insulators, doped semiconductors 
+Solid state ionics. Defects, Nonstoichiometry and Diffusion: 
+Point defects, Dislocations, Extended defects, Clusters and 
+aggregates, Color centres, Nonstoichiometry of compounds, 
+Diffusion mechanisms, Ficks law, Kirkenall effect. Phase 
+transitions: Critical phenomena, variety of phase transitions 
+(Ordered 
+disorder, 
+Martensiteaustenite, 
+Spinoidal 
+decompositions etc), Liquid crystals, Structure property relations 
+(magnetic,electrical, superconductivity, optical and thermal). 
+Preparative techniques: Powder synthesis by conventional and 
+modern chemical methods, Reactivity of solids, Decomposition 
+mechanisms, Powder processing (sintering and diffusion
+
+[Page 25]
+processes), Tailoring of solids, Special methods for single 
+crystal growth and thin films depositions. 
+Course Reference: 1. A R. West, Solid state chemistry and its 
+applications, John Wiley & Sons, 1989; 2. L Smart and E. 
+Moore, Solid state chemistry, Chapman and Hall , 1992; 3. A K. 
+Cheetham and P. Day, Solid state chemistry compounds, 
+Clarendon Press,Oxford 1992; 4. C N. R. Rao and J. 
+Gopalkrishanan, 
+New 
+directions 
+in 
+solid 
+state 
+chemistry,Cambridge Univ. Press 1997; 5. R E. Newnham, 
+Structure property relations, SpringerVerlag, 1975; 6. P. A. Cox, 
+Electronic structure and chemistry of solids, Oxford Univ. Press 
+1987. 
+CHM627 
+METHODS OF 
+ELECTRONIC 
+STRUCTURE 
+CALCULATION 
+3-0-0-0-9 
+Hartree-Fock (HF) Theory: Born-Oppenheimer approximation, 
+Postulate of antisymmetry, Slater determinants, Slater-Condon 
+rules for matrix elements, Hartree-Fock equations, Koopmans’ 
+and Brillouin’s theorem, Roothaan equations, basis sets, 
+computational 
+aspects: 
+direct 
+and 
+semi-direct 
+methods, 
+Molecular properties, UHF method, Pople-Nesbet equations, 
+limitations of HF theory, MP2 method as a perturbation 
+correction to the HF theory. 
+Configuration Interaction (CI) Method: Multi-configuration 
+wave function, full CI matrix, singly and doubly excited CI, 
+illustrations of CI calculations on small atoms/molecules, Natural 
+orbitals, Truncated CI and size-consistency, introduction to 
+coupled cluster theory. 
+Density Functional Theory (DFT): Introduction to electron 
+density and functionals, Hohenberg Kohn Theorems, N- and V- 
+representibility, 
+Levy 
+Functional, 
+Kohn-Sham 
+equations, 
+Electronegativity and hardness in DFT. Discussion of some 
+exchange-correlation functionals, applications. 
+Demonstrations, Hands on Sessions and short projects with 
+standard Electronic Structure Programs. 
+References/Textbooks: 
+1. Modern Quantum Chemistry, A. Szabo and N. L. Ostlund, 
+Dover, New York (1996). 
+2. Density Functional Theory of Atoms and Molecules, R. G. 
+Parr and W. Yang, Oxford University Press, Oxford (1986). 
+3. Exploring Chemistry with Electronic Structure Methods, J. B. 
+Foresman and A. Frisch, Gaussian, Inc. Pittsburgh (1996). 
+4. A Chemist’s Guide to Density Functional Theory, W. Koch 
+and M. C. Holthausen, Wiley-VCH, Weinheim (2001). 
+5. Molecular Electronic Structure Theory, T. Helgakar, J. Olsen 
+and P. Jorgensen, Wiley, New York (2013). 
+ 
+CHM629 
+PRINCIPLES OF 
+PHYSICAL 
+CHEMISTRY 
+3-0-0-0-9 
+
+Atomic and Molecular structure, Molecular Spectroscopy, 
+Concepts of Statistical Thermodynamics, Electrochemistry, 
+Chemical Kinetics, Photochemistry. 
+Atomic and Molecular Structure: Review of quantum 
+mechanics, approximate methods in quantum chemistry and 
+many electron atoms. Molecular orbital description, application 
+of the variation theorem to calculate Mos, Valence bond 
+description , sigma orbitals and pi orbitals, ionic bonds, dipole 
+moment, resonance, delocalization, aromatic molecules and 
+solids.
+
+[Page 26]
+Molecular spectroscopy: Rotational and vibrational spectra, P, 
+Q 
+and 
+R 
+branches, 
+Raman 
+spectra. 
+Electronic 
+spectra,fluorescence and phosphorescence, principle of laser 
+action. 
+Concepts of Statistical Thermodynamics: Molecular energy 
+levels and Boltzmann distribution, partition function and 
+calculation of thermodynamic quantities. Einstein and Debye 
+models 
+for 
+solids, 
+chemical 
+equilibrium 
+constant. 
+Electrochemistry: 
+Ionic 
+equilibrium, 
+activity 
+and 
+activity 
+coefficients, Debye-Huckel theory, EMF of chemical cells, 
+Nernst equation, concentration cells, applications, potentiometric 
+titrations, 
+solubility 
+product, 
+pH 
+and 
+pK. 
+Chemical Kinetics: Rates of chemical reactions, steady state 
+approximation, temperature dependence, activation energy, 
+molecular reaction dynamics, collision and activated complex 
+theory, theories of unimolecular reactions. Techniques of fast 
+reactions 
+and 
+their 
+applications. 
+Photochemistry: Laws of photochemistry, quantum yield, 
+radiative 
+and 
+non-radiative 
+processes, 
+photosensitized 
+reactions, some applications of photochemical reactions. 
+References/ TextBooks: 
+1. D. A. McQuarrie and J. D. Simon, Physical Chemistry A 
+Molecular Approach, Viva, New Delhi (1998). 
+2. R. S. Berry, S. A. Rice and J. Ross, Physical Chemistry, 2nd 
+ed. Oxford Univ. Press, Oxford (2000). 
+3. R. J. Silbey, R. A. Alberty and M. G. Bawendi, Physical 
+Chemistry, 4th Edition, Wiely (2004). 
+4. P. W. Atkins and Julio de Paula, Physical Chemistry, 8th 
+Edition, Oxford University Press, (2008). 
+5. I. N. Levine, Physical Chemistry, 5th Edition, Tata McGraw 
+Hill (2007) 
+ 
+CHM631 
+APPLICATIONS OF 
+MODERN 
+INSTRUMENTAL 
+METHODS 
+3-0-0-0-9 
+ 
+Infrared Spectroscopy: Introduction. Identification of functional 
+groups, hydrogen bonding etc., metal ligand vibrations. 
+Nuclear Magnetic Resonance Spectroscopy: Introduction. 
+Application of 1H and 13C NMR spectroscopy including COSY, 
+NOESY, NOE techniques in the structural determination of 
+complex 
+organic 
+systems. 
+Application 
+in conformational 
+analysis. 
+Multinuclear 
+NMR 
+of 
+various 
+inorganic 
+and 
+organometallic 
+compounds. 
+Ultraviolet Spectroscopy: Introduction. Studies of conjugated 
+and extended conjugated systems etc. Woodward rules. 
+Electronic 
+spectra 
+of 
+transition 
+metal 
+complexes. 
+Mass Spectrometry: Basic concepts. Fragmentation and 
+rearrangements 
+(including 
+McLafferty 
+rearrangement) 
+of 
+different classes of organic molecules. Isotope effects etc. 
+Structural elucidation by joint application of UV, IR, NMR and 
+mass 
+spectrometry. 
+Electron Spin Resonance Spectroscopy: A brief review of 
+theory. Analysis of ESR spectra of systems in liquid phase, 
+radicals containing single set, multiple sets of protons, triplet 
+ground states. Transitionmetal ions. Rare earth ions, ion in solid 
+state. Double resonance stechniques: ENDOR in liquid solution, 
+ENDOR 
+in 
+powers 
+and 
+non-oriented 
+solids. 
+Biological 
+applications: Substrate free radical, flavins and metal free flavin
+
+[Page 27]
+proteins, photosynthesis, Heme proteins, Iron-sulfur proteins, 
+spin 
+labels. 
+Mossbauer Spectroscopy: Basic physical concepts, spectral 
+line shape, isomer shift, quadrupole splitting, magnetic hyperfine 
+interaction. Interpretation of Mossbauer parameters of 57Fe, 
+99Ru, 101Ru, 195Pt, 193Ir and 110Sn. Some special applications: 
+Solid state reactions, thermal decomposition, ligand exchange, 
+electron transfer, isomerism, surface studies and biological 
+applications. 
+X-Ray Photo-Electron Spectroscopy: Physical concepts. 
+Application to determine atomic charges, oxidation numbers, 
+catalyst surface structures and in some cases molecular 
+structures. 
+CD spectroscopy: CD of polypeptides and nucleic acids, 
+Induced 
+CD, 
+magnetic 
+circular 
+dichroism. 
+Fluorescence spectroscopy: Fluorescence energy transfer and 
+its applications to measurement of distances in molecules. 
+Magnetism: Introduction to Magnetism. Origin of diamagnetism. 
+Paramagnetism: Van Vleck formula and its approximated 
+forms, Curie law. Magnetic susceptibility, orbital quenching and 
+spin-only 
+moment. 
+Magnetic 
+exchange 
+interactions 
+in 
+coordination 
+compounds: 
+ferrimagnetism 
+and 
+antiferromagnetism. 
+Bulk 
+magnetic 
+properties 
+and 
+ferromagnetism. Molecule-based magnetic materials: organic 
+magnets 
+and 
+single 
+molecule 
+magnets. 
+Electrochemistry: 
+Heterogeneous 
+electron 
+transfer 
+and 
+concept of capacitive and faradic current. Cyclic voltammogram. 
+Instrumentation: three-electrode potentiometer and electrodes. 
+Measurements and analyses of the voltammograms. Differential 
+pulse voltammetry and coulometry. Application of cyclic 
+voltammetry in inorganic and organic chemistry. 
+References/ TextBooks: 
+1. Physical Methods in Chemistry, RS Drago, 2nd edn., 
+Saunders, 1992. 2. Carbon-13 Nuclear Magnetic Resonance 
+Spectroscopy, G. C. Levy, R. L. Lichter and G. L. Nelson, Wiley, 
+1980. 3. NMR Spectroscopy - An Introduction, H. Gunther, John 
+Wiley, 1980. 4. Basic One- and Two-Dimensional NMR 
+Spectroscopy, H. Friebolin, VCH, 1991. 5. Spectroscopic 
+Methods in Organic Chemistry, D. H. Williams and I. Fleming, 
+4th ed., 1988. 6. Spectrometric Identification of Organic 
+Compounds, R.M. Silverstein, G.C. Bassler and T.C. Morrill, 
+John Wiley & Sons, New York, 5th Ed. 1991. 7. Interpretation of 
+Mass Spectra, F. W. McLafferty, 1980. 8. Electron Paramagnetic 
+Resonance, Elementary Theory and Practical Applications, Weil, 
+John A, J. R. Bolton, and Wertz, J. E, Wiley-Interscience, New 
+York, (1994). 9. Structural Methods in Inorganic Chemistry, E. A. 
+V. Ebsworth, D. W. H. Rankin, & S. Cradock, 2nd Ed. 1991, 
+CRC Press, Boca Raton, Florida, 10. Circular Dichroism: 
+Principles and Applications, Nakanishi, K., Berova, N., Woody, 
+R. W., Eds.; VCH Publishers, Inc.: New York, 1994. 11. 
+Principles of Fluorescence Spectroscopy, J. Lackowicz, Plenum 
+Press, 
+(New 
+York, 
+1983). 12. Electrochemical Methods - Fundamentals and 
+Applications, A. J. Baird and L. R. Faulkner, Wiley, 1980.
+
+[Page 28]
+CHM632 
+
+ 
+ENZYME 
+REACTIONS 
+MECHANISM AND 
+ENZYME KINETICS 
+3-0-0-0-9 
+
+Enzyme kinetics of single and multiple substrate systems 
+including Enzyme assays and inhibition. Cooperativity and 
+multienzyme systems. Enzyme structure and identification of 
+active 
+site 
+residues 
+labelin, 
+chemical 
+modification 
+and 
+mutagenesis. Enzyme Mechanisms. Methods of study and 
+mechanisms 
+of 
+some 
+enzymes 
+like 
+Serine 
+proteases, 
+polymerases, ribonucleases, lysozyme and ribonucleotide 
+reductases (radical enzyme). Mechanism based enzyme 
+inhibition and drugs fluorouracil for thymidylate synthase. 
+Course Reference: 1. Allan Ferhst, Structure and Mechanism 
+in Protein Science: A Guide to Enzyme Catalysisand Protein 
+Folding; 2. N. C. Price and E. Stevens, Fundamentals of 
+Enzymology: The Cell and Molecular Biology of Catalytic 
+Proteins; 3. I. H. Segel, Biochemical calculations, How to Solve 
+Mathematical Problems in General Biochemistry, 2nd Edition. 
+CHM636 
+PHYSICAL 
+PHOTOCHEMISTRY 
+3-0-0-0-9 
+1. Theory of electronic absorption spectra, Beers law, 
+Absorption crosssection,Solvatochromism; 2. Radiative and 
+nonradiative 
+transitions, 
+Vibrational 
+relaxation, 
+Internal 
+conversion, 
+Intersystem 
+crossing; 
+3. 
+Fluorescence, 
+Phosphorescence, Various photophysical processes, Solvent 
+effect onemission, Lippert equation, Dynamic stokes shift, 
+Dynamic and static quenching, SternVolmer equation, Forster 
+resonance energy transfer and theory, Fluorescence anisotropy 
+and Perrin equation, Excited state proton/electron transfer, 
+Excimer andexciplex; 4. Laser fundamentals, Stimulated 
+emission, Population inversion, Light amplification, Pulsed laser: 
+cavity dumping, Qswithching, modelocking; 5. Spectroscopic 
+techniques, 
+Spectrophotometer, 
+Spectrofluorimeter, 
+Time 
+correlated single photon counting, Transient absorption, Streak 
+camera, Fluorescence upconversion; 6. Single molecule 
+spectroscopy, Fluorescence correlation spectroscopy, Protein 
+fluorescence. 
+Course Reference: 1. Nicholas J. Turro, Modern Molecular 
+Photochemistry; 2. K. K. RohatgiMukherjee, Fundamentals of 
+Photochemistry; 3. J. R. Lakowicz, Principles of Fluorescence 
+Spectroscopy; 4. W. T. Silvast, Laser Fundamentals. 
+CHM637 
+MOLECULAR 
+SPECTROSCOPY 
+3-0-0-0-9 
+1. Group theory: Review of point groups, permutation inversion 
+and molecular symmetry groups; 2. Interaction of radiation and 
+matter: 
+Qualitative 
+aspects, 
+Einstein 
+A, 
+B 
+coefficients, 
+absorption emission and lineshapes; 3. Rotational Spectroscopy 
+Rigid body, selection rules, vibrational angular momentum, tops; 
+4. Vibrational Spectroscopy: Normal modes, selection rules, 
+Fermi and Coriolis perturbations, polyatomic molecules; 5. 
+Electronic 
+Spectroscopy: 
+Introduction, 
+symmetry 
+aspects, 
+vibronic effects; 6. Advanced topics: Coupling of rotational and 
+vibrational motions, nonrigid systems, high resolution and highly 
+excited states, Wilson Howard-Watson Hamiltonian, time 
+dependent viewpoint. 
+Course Reference: 1. Bernath, Spectra of Atoms and 
+Molecules, 1995; 2. Bunker & Jensen, Molecular Symmetry & 
+Spectroscopy, 1998; 3. Papousek & Aliev, Molecular Vibrational 
+Rotational Spectra, 1982; 4. Hollas, Modern Spectroscopy, 
+2004; 5. McHale, Molecular Spectroscopy, 1998.
+
+[Page 29]
+CHM645 
+ORBITAL 
+INTERACTIONS IN 
+CHEMISTRY 
+3-0-0-0-9 
+Molecular 
+Symmetry 
+in 
+Chemistry 
+Symmetry: Introduction, Symmetry operations & elements, 
+Groups, Representations and character tables, Reduction of 
+reducible 
+representations, 
+Group-Subgroup 
+relationships: 
+Descent 
+and 
+ascent 
+in 
+symmetry. 
+Degeneracies, 
+Direct products. Symmetry properties of Orbitals, Symmetry 
+adapted 
+wavefunctions. 
+ 
+Molecular 
+orbital 
+construction: 
+H2, linear and angular H3, Linear, rectangular, square planar and 
+tetrahedral 
+H4, 
+pentagonal 
+H5 
+and 
+hexagonal 
+H6. 
+Diatomic molecules A-A and A-B. Electronegativity perturbation. 
+Ligands with -systems. AH2, AH3, AH4, AH5 and AH6. Walsh 
+diagram. Symmetry aspects of the d-orbital splitting by ligands. 
+Symmetry adapted orbitals on the ligands: sigma-interactions. 
+MH6 (Oh), MH5 (D3h and C4v), MH4 (D4h and C4v), MH3 (D3h and 
+C2v). 
+Correlation. 
+Inclusion 
+of 
+p-orbitals: 
+ML6 
+P-donor 
+and 
+P-acceptor 
+ligands: 
+MCl6 
+and 
+M(CO)6 
+Applications: Isolobal analogy, The Woodward-Hoffmann Rules–
+pericyclic 
+reactions, 
+Zeise's 
+salt, 
+Metal carbonyls, Kubas complex W(CO)3(PCy3)2(H2), Agostic 
+complex, Oxidative addition and reductive elimination, Migratory 
+insertion 
+and 
+b-hydride 
+elimination, 
+Metal-Carbene complexes (Fischer, Schrock and N-heterocyclic 
+carbene), 
+Bimetallic 
+complexes: 
+from 
+Single 
+to 
+Quadruple/Quintuple bond, Magnetic interactions. 
+References/ Textbooks: 1. ‘Orbital Interactions in Chemistry’ - 
+Wiley-Interscience, 1st and 2nd Edition - Thomas A. Albright, 2. 
+Jeremy K. Burdett and Myung-Hwan Whangbo. 3. ‘Molecular 
+Orbitals of Transition Metal Complexes’ Oxford University Press 
+- Yves Jean. 4. ‘Molecular Symmetry and Group Theory’ Wiley 
+and Sons - Robert L. Carter. 5. Chemical Applications of Group 
+Theory, 3rd Edition – F. A. Cotton 
+ 
+CHM646 
+BIO-INORGANIC 
+CHEMISTRY I 
+3-0-0-0-9 
+1. Mineral Origin of life. Archaeal, Eucarial and Bacterial 
+domain. (3 Lectures); 2. Transition metal ions in biology. 
+Metalobiomolecules. 
+Electron 
+carriers, 
+oxygencarriers, 
+enzymes. 
+Biogeoinorganic 
+chemistry, 
+environment. 
+(10 
+Lectures); 3. Specific examples: Hemoglobin, Myoglobin, 
+Hemocyanin, 
+Hemrythrincytochromes, 
+FeS 
+proteins, 
+Cytochrome 
+P450, 
+Nitrophorin, 
+NOsynthase, 
+peroxidase, 
+catalase, 
+Ferritin, 
+cytochromeC 
+oxidase, 
+cerulplasmin, 
+bluecopper proteins, di and tricopper proteins. Other enzymes 
+like, hydrogenase, methane monooxygenase, dioxygenases, 
+dehydratase, nitrogenase, molybdenum containing oxidase and 
+reductase class of enzymes like sulfite oxidase, xanthine 
+oxidase, 
+nitrate 
+reductase, 
+DMSO 
+reductase, 
+tungsten 
+containing formate dehydrogenase and tungsten bearing 
+hyperthermophilic and thermophilic enzymes. Zn enzymes like 
+carbonicanhydrase, 
+carboxypeptidase, 
+DNA 
+and 
+RNA 
+polymerases, Nickel containingF430, role of manganese in 
+water splitting. (15 Lectures)4. Active site analogue reaction 
+models and structural models of theseenzymes. (5 Lectures); 5. 
+Environmental chemistry, auto exhaust, arsenic and other 
+heavymetal pollutions. (2 Lectures); 6. Forensic chemistry;
+
+[Page 30]
+inorganic 
+chemistry 
+in 
+medicine, 
+platinum 
+complexes, 
+MoScomplexes as anticancer drugs. 
+Course Reference: 1. Principles of Bioinorganic Chemistry, S. 
+J. Lippard and J. M. Berg, University Science Books, Mill Valley, 
+1994; 2. Bioinorganic Chemistry: Inorganic Elements in the 
+Chemistry of Life, W. Kaim and B. Schwederski, John Wiley & 
+Sons Inc., 1994. 
+CHM647 
+MACROCYCLES, 
+RINGS AND 
+POLYMERS 
+3-0-0-0-9 
+Inorganic Heterocyclic Rings: P-N rings: Cyclophosphazenes 
+and Cyclophosphazanes. Synthesis, structure and reactivity. 
+Bonding 
+models. 
+P-N-X 
+rings: 
+carbophosphazenes, 
+thiophosphazenes, 
+metallaphosphazenes. 
+Si-O 
+rings: 
+Cyclosiloxanes. 
+Sn-O 
+rings: 
+Stannoxanes 
+B-containing rings: Boranes, carboranes, metallacarboranes, 
+Borazine. Al-containing Rings: Al-N rings and cages, Al-C rings 
+and 
+cages, 
+Alumoxanes. 
+Inorganic 
+Homocyclic 
+Rings 
+Inorganic homocyclic rings and cages containing silicon, 
+germanium, 
+boron, 
+aluminum 
+and 
+gallium. 
+Inorganic 
+Macrocycles: 
+Metalla 
+porphyrins. 
+Inorganic polymers: A brief review of organic polymers-methods 
+of synthesis, polymer characteristics-molecular weights, glass-
+transition 
+temperatures, 
+stress-strain 
+characteristics 
+etc.: 
+Polyphosphazenes, polysiloxanes, polysilanes, organometallic 
+polymers. Synthetic methods, structure-property relationships, 
+applications. 
+Course Reference: Most of the material for this course will be 
+accessed from primary literature viz., Journal articles. Some text 
+books that will be followed are as follows: 
+Inorganic and Organometallic Polymers. Chandrasekhar, V. 
+Springer-Verlag, Heidelberg, 2005. 
+Contemporary Polymer Chemistry. 3rd Edn. Allcock H.R.; , 
+Lampe, F.W.; Mark, J. Prentice Hall, N, 2004. 
+Inorganic Polymers. Mark, J.E.; West, R.; Allcock, H.R.; 
+Prentice-Hall, NY, 1992. 
+Synthetic Metal Containing Polymers. Manners, I. Wiley-VCH, 
+Weinheim, 2004. 
+CHM648 
+THE CHEMISTRY OF 
+METAL-CARBON 
+BOND: STRUCTURE 
+REACTIVITY & 
+APPLICATIONS 
+3-0-0-0-9 
+Introduction to Organometallics: Bonding, Types of Ligands, and 
+some basics concepts like isoelectronic and isolobal analogy 
+Characterization techniques of Organometallic compounds 
+(NMR 
+and 
+IR 
+spectroscopy 
+andMass 
+spectrometry) 
+Representative chemistry of main group Organometallics 
+Organometallic chemistry of lithium and magnesium: synthesis, 
+structures, fluxionality and reactivity Chemistry of Aluminum: 
+Aluminum alkyls. Use of aluminum alkyls in polymerization of 
+olefins. Organometallic chemistry of transition metals bonded 
+ligands: Metal alkyls, aryls and hydrides. Stability, preparation 
+and reactivity. Metal carbonyls / Metal phosphines / metal 
+nitrosyls / metal isocyanide: structures,reactivity and bonding. 
+Metal carbenes, metalcarbynes, Fischer carbenes, Schrock, 
+carbenes, complexes with N-heterocycliccarbenes (NHCs), 
+bonded ligand: Metal olefins, alkyls metal alkynes, dienes, Cp 
+and Cp*, structure, bonding and reactivity. Reactions in 
+Organometallic 
+Chemistry: 
+Oxidative 
+addition, 
+reductive 
+elimination, insertion,elimination, and migration Applications of 
+organometallics in organic synthesis CC bond coupling
+
+[Page 31]
+reactions (Heck, sangoshira, Suzuki) Reduction using transition 
+metal hydrides, asymmetric hydrogenation.Olefin metathesis 
+Most of the material for this course will be accessed from 
+primary literature viz., Journal articles. Some text books that will 
+be followed are as follows- 
+Course Reference: 1. Elschenbroich, C.; Salzer, A.; 
+Organometallics: A Concise Introduction 3rd Edn. John 
+Wileyand sons 2005; 2 B. D. Gupta and A. J. Elias, Basic 
+Organometallic 
+Chemistry: 
+Concepts, 
+Syntheses 
+andApplications, First Edition, Universities Press, 2010; 3. 
+Douglas, B.; McDaniel, D.; and Alexander, J. Concepts and 
+Models of Inorganic Chemsitry 3rdEdn. John Wiley, New York. 
+1993; 4. Rober t H. Crabtree, The Organometallic Chemistry of 
+the Transition Metals, John Wiley and Sons, 4th edn. John Wiley 
+and sons 2005. 
+CHM649 
+PRINCIPALES OF 
+INORGANIC 
+CHEMISTRY 
+3-0-0-0-9 
+Principles of modern inorganic chemistry discussion of the 
+chemistry of nontransition elements, Coordination Chemistry, 
+organometallic chemistry, Inorganic chemistry of biological 
+systems. 
+General: Localized and delocalized bonding models. A review of 
+various bonding models in inorganic chemistry with appropriate 
+examples. Symmetry, Point Groups and applications of 
+symmetry. Introduction to symmetry elements and operations, 
+point groups, character tables and uses in applications such as 
+bonding. 
+Chemical forces including weak interactions and the basic 
+aspects of crystal engineering. Structural characterization tools 
+for inorganic compounds. 
+Main-group:Inorganic rings and cages: Boranes, P-N , Si-O, Al-
+O systems. Low-valent compounds containing main-group 
+elements. Multiple-bonding in compounds containing main group 
+elements. 
+Transition Metals: 
+Transition metal chemistry-A review of basic theories of bonding 
+in coordination complexes. Term symbols and electronic spectra 
+of transition metal compounds. Magnetism of coordination 
+complexes. 
+Single 
+molecule 
+magnets. 
+Supramolecular 
+Chemistry. Organometallic compounds- various types of 
+organometallic compounds including metal carbenes and their 
+reactivity. 
+Course Reference: 1. Inorganic Chemistry-Principles of 
+Structure and Reactivity. 4th Edn. Huheey J. E.; Keiter, E. A.; 
+and Keiter, R. L. Harper-Collins, NY, 1993. 
+2. Concepts and Models of Inorganic Chemistry. 3rd Edn. 
+Douglas, B.; McDaniel, D.; and Alexander, J. John Wiley, New 
+York. 1993. 
+3. The Organometallic Chemistry of the Transition Metals. 4th 
+Edn. Crabtree, R. H. Wiley-Interscience, 2005. 
+CHM650 
+STATISTICAL 
+MECHANICS & ITS 
+APPLICATION TO 
+CHEMISTRY 
+3-0-0-0-9 
+Course description: Thermodynamics, Statistical Mechanics of 
+noninteracting systems, interacting systems, and nonequilibrium 
+systems Course Details 1. Equilibrium Thermodynamics: 
+Thermodynamic Equilibrium state, laws ofthermodynamics, 
+axiomatic formulation of thermodynamics, thermodynamic 
+potentials,stability criteria, phase equilibria (4 lectures); 2.
+
+[Page 32]
+Ensembles in Statistical Mechanics: Ensemble postulate and 
+ergodicity, 
+microcanonical,canonical 
+and 
+grand 
+canonical 
+ensembles, quantum and classical partition functions, phase 
+space, fluctuations (6 lectures); 3. Noninteracting systems: 
+Factorization 
+of 
+the 
+partition 
+function, 
+quantum 
+correlations,collective modes, occupation numbers, collections 
+of fermions, bosons,photons, classical deal gas of spinless 
+particles, molecular partition functions, idealparamagnets. (6 
+lectures); 4. Interacting Systems: Classical Liquids Interparticle 
+potentials, Configurational Partition functions, distributions, pair 
+correlation 
+function, 
+neutron 
+scatteringexperiments, 
+Virial 
+equation, Meyer cluster diagrams (6 lectures); 5. Interacting 
+Systems, Computer Simulations Ensemble averages, ergodicity, 
+random numbers, Monte Carlo methods, Molecular Dynamics, 
+constant temperatureMD. (5 lectures); 6. Interacting Systems 3 
+Phase Transitions in Lattice models Lattice gas Ising Model, 
+order parameter, Mean Field theory, Renormalization group 
+theory (6 lectures); 7. Nonequilibrium Statistical Mechanics (6 
+lectures) Linear Response theory, fluctuation dissipation 
+theorem, time correlation functions, applications to transport 
+phenomena. 
+Course Reference: 1. D.A. McQuarrie, Statistical Mechanics2. 
+David Chandler, Introduction to Modern Statistical Mechanics3. 
+K.L. Huang, Statistical Mechanics4. B. Widom, Statistical 
+Mechanics: A concise introduction for chemists 
+
+ 
+
+ 
+
+ 
+
+ 
+CHM651 
+
+ 
+
+ 
+
+ 
+
+ 
+CRYSTAL AND 
+MOLECULAR 
+STRUCTURE 
+DETERMINATION 
+3-0-0-0-9 
+
+ 
+
+ 
+
+Generation of Xrays, monochromators, safety (1 Lecture) 
+Concept of direct and reciprocal lattices, Braggs law of Xray 
+diffraction in direct andreciprocal lattice, crystal systems, point 
+groups, Bravais lattices(5 Lectures)Rotational axes of symmetry, 
+screw 
+axes, 
+glide 
+planes, 
+equivalent 
+points, 
+systematicabsences, space groups ( 8 Lectures) Argand 
+diagram, intensity data collection and quantitative aspects of 
+Xray diffraction,temperature factor and scaling of data (10 
+Lectures)The phase problem, direct method of solving structures 
+(8 Lectures) Patterson method, isomorphous replacement 
+method( 8 Lectures) Structure refinement and their critical 
+evaluation ( 5 Lectures). 
+Course Reference: 1. Xray Structure Determination A Practical 
+Guide by G. H. Stout and H. L. Jensen, MacMillan, N.Y. 1968; 2. 
+Contemporary Crystallography, M. J. Buerger, McGrawHill, N.Y. 
+1970; 3. Crystal Structure Analysis A Primer J. P. Glusker and 
+K. N. Trueblood, OUP, N.Y. 1985; 4. Structure Determination by 
+Xary 
+Crystallography, 
+M. 
+Ladd 
+and 
+R. 
+Palmer, 
+KluwerAcademic/Plenum, N.Y. 2003 
+CHM654 
+SUPRAMOLECULAR 
+CHEMISTRY 
+3-0-0-0-9 
+Introduction to the meaning of supramolecular chemistry, 
+phenomenon of molecular recognitionand their quantification ( 2 
+Lectures); Building blocks of supramolecular chemistry acyclic 
+receptors for neutral and chargedguests, macrocycles and 
+crown ethers, macrobicycles and cryptands, macropolycycles, 
+cucurbiturils and cyclodextrins (12 Lectures); Sensors and 
+information processing, electrooptic phenomena, molecular 
+machines (12Lectures); Amphiphilic molecules and their 
+aggregation, Langmuir Blodgettry, molecular recognition atthe 
+airwater interface. (3 Lectures); Discrete and polymeric
+
+[Page 33]
+metalorganic hybrid materials guest inclusion, catalysis and 
+otherapplications. (12 Lectures); Future scopes (1 Lecture). 
+Course Reference: 1. Supramolecular Chemistry: Concepts 
+and Perspectives, J.M. Lehn, VCH, Weinheim, 1995; 2. 
+Principles and Methods in Supramolecular Chemistry, H. J. 
+Schneider and A. Yatsimirsky, Wiley, New York, 2000; 3. 
+Supramolecular Chemistry, J. W. Steed and J. L. Atwood, John 
+Wiley & Sons, Chichester,2009. 
+CHM656 
+ORGANIC 
+STRUCTURE 
+DETERMINATION BY 
+SPECTROSCOPIC 
+TECHNIQUES 
+3-0-0-0-9 
+UV – Visible absorption spectroscopy: General principles; 
+instrumentation; chromophores; degree of unsaturation and 
+conjugation; dienes, aromatic compounds, conjugated carbonyl 
+compounds; color in compounds; quantitative aspects and what to 
+look for in a UV – vis absorption spectrum. (3 lectures ) 
+Infrared (IR) Spectroscopy: Basic principles; instrumentation 
+(dispersive IR and FT IR); absorption range and the nature of IR 
+absorption; experimental aspects of infrared spectroscopy; general 
+features of IR spectra; important IR chromophores. (3 lectures) 
+Mass 
+Spectrometry: Ionization 
+processes; 
+electron 
+impact 
+ionization (EI); chemical ionization (CI); fast atom bombardment 
+(FAB); matrix assisted laser desorption ionization (MALDI); 
+electrospray ionization (ESI). 
+Mass analyzers: quadrupole, ion trap, time of flight, orbitrap, 
+magnetic and electromagnetic, etc. Basic principles; practical 
+considerations and instrumentations. Formation and fragmentation 
+of ions and basic rules: electron ionization, photoionization under 
+vaccum, proton transfer, adduct formation, formation of aggregates 
+or clusters and reactions at the interface between source and 
+analyser. (6 lectures) 
+Mass 
+Spectrometry/Chromatography 
+Coupling: Elution 
+Chromatography Coupling Techniques; Gas Chromatography/ 
+mass spectrometry; Liquid Chromatography/ mass spectrometry. (2 
+lectures) 
+NMR Spectroscopy: Basic principles of NMR; properties of 
+magnetic nuclei – energy levels, transitions, relaxations, etc. 
+spectral acquisition – old and modern ways; line width; line shape 
+and relaxation time; symmetry considerations – homotopic, 
+enantiotopic and diastereotopic. 
+Proton NMR Spectroscopy: shielding, deshielding, chemical shift, 
+spin – spin coupling, coupling constant, correlation of the spectral 
+information with structure, etc. Second – order effects and different 
+spin systems; dynamic processes by NMR. Spin Decoupling or 
+double resonance – Homonuclear and Heteronuclear decoupling, 
+NOE and difference NOE. C13 NMR: Chemical shifts, APT, DEPT, 
+etc.; 2D techniques – HMQC, HSQC, etc. 2D NMR: COSY, NOSY, 
+etc. (12 lectures) 
+HPLC – NMR Coupling: General principle and examples. (2 
+lectures) 
+Fluorescence 
+and 
+Circular 
+Dichroism (2 
+lectures) 
+Determination 
+of 
+structures 
+from 
+comprehensive 
+spectroscopic data: Problem solving and practice. (10 lectures) 
+Course Reference: 1. Organic structure from spectra by Field, 
+Sternhell, Kalman, Wiley, 4th Edition 2008. 2. Mass spectrometry: 
+Principles and applications, Edmond de Hoffmann and Vincent 
+Stroobant, Wiley, 3rd Edition, 2007. 3. Introduction to spectroscopy, 
+Donald L. Pavia, Gary M. Lampman and George S. Kirz,
+
+[Page 34]
+Brooks/Cole, 2001. 4. NMR – From spectra to structures, Terence 
+N. Mitchell and Burkhard Costisella, Springer, 2007. 5. Mass 
+spectral interpretation, Terrence A. Lee, John Wiley, 1998. 6. A 
+complete introduction to modern NMR Spectroscopy, Roger S. 
+Macomber, John Wiley, 1998. 7. Solving problems with NMR 
+Spectroscopy, Atta – ur – Rahman abd Muhammad Iqbal 
+Choudhary, 
+Academic 
+Press, 
+1996. 
+8. 
+Nuclear 
+Magnetic 
+Resonance Spectroscopy: An introduction to principles and 
+experimental methods, Joseph B. Lambert and Eugene P. Mazzola, 
+Prentice Hall, 2003. 9. Structure Elucidation by NMR in Organic 
+Chemistry, Eberhard Breitmaier, John Wiley, 2002. 
+CHM661 
+Computational & 
+Electronic Structure of 
+Solids 
+
+ 
+
+3-0-0-0-9 
+This course aims to provide broad understanding of a spectrum 
+of state-of-the-art computational electronic structure methods 
+and tools used in materials science and engineering. Lectures, 
+case studies, demonstrations and hands-on exercises are 
+planned, to provide theoretical and practical knowledge required 
+comprehending the process-structure-property relationships and 
+in aiding the discovery and design of new materials. 
+Introduction to the course: The gist of relating electronic 
+structure of materials to cohesion, electrical, optoelectrical, 
+mechanical and other various physicochemical properties The 
+Basic Approach: Quantum mechanical description of atomic 
+states, molecules and extended solids – the metals and 
+semiconductors Unified Electronic Structure Theory for 
+Periodic 
+Systems: 
+k-mesh, 
+Brillouin 
+zone 
+sampling, 
+pseudopotentials, planewave basis set and self-consistent 
+electronic minimizations Total Energy and Beyond: Cohesion, 
+modulus of elasticity, States in k-space, phonons, and phase 
+transitions Codes and Testing: Linux HPC environment, 
+scripting -coding, graphing, error estimates – uncertainty 
+quantification Hands-on Numerical Experiments: Structure 
+description, modeling and simulations of materials – analysis of 
+electronic structure, estimation of forces and force constants, 
+diffusion and mechanical properties Short Summary of the 
+course: Chemistry and Physics of Materials; theoretical and 
+computational 
+electronic 
+structure 
+theory; 
+total 
+energy 
+calculations of periodic solid state materials; plane waves and 
+pseudopotential model; Kohn-Sham first principles schemes; 
+tetrahedral solids; zone integrations; band dispersion spectra; 
+lattice vibrations; bulk modulus and elastic constants; numerical 
+high performance computing simulations. 
+Recommended books/ References: 
+1. 
+Solid State Theory and Electronic Structure and the 
+Properties of Solids: The Physics of the Chemical Bond, 
+Walter. A. Harrison 
+2. 
+Solids and Surfaces: A Chemist's View of Bonding in 
+Extended Structures, Roald Hoffmann 
+3. 
+Atomic and Electronic Structure of Solids, Efthimios
+
+[Page 35]
+Kaxiras 
+4. 
+Solid State Physics, Neil W. Ashcroft, N. David Mermin 
+and Quantum Theory of Solids, Charles Kittel 
+5. 
+Reviews and discussions on subject matter will be 
+suggested. 
+ 
+CHM662 
+CHEMISTRY OF 
+NATURAL 
+PRODUCTS 
+3-0-0-0-9 
+Biosynthetic aspects and Synthesis of selected natural 
+products 
+of 
+biological 
+and 
+structural 
+importance: 
+Discussions on synthetic methods, strategies towards these 
+natural product smostly in chiral forms will be discussed in 
+detail. The natural products include carbacycles and 
+heterocyclic moieties containing structures ranging from 
+memebered to macrocyles, and complex natural products such 
+as Taxol, rapamycin, lejimailde B etc. 
+Course Reference: 1.K. C. Nicolaou, Classics in Total 
+Synthesis Vols IIII, WileyVCH, 1996; 2003; 2011; 2.T. Hudlicky 
+and J. W. Reed, The way of synthesis, WileyVCH, 2007; 3. E. J. 
+Corey and XM. Cheng, The logic of chemical synthesis, 
+JohnWiley & Sons, New York1989; 4. D.H. R. Barton, K. 
+Nakanishi, O. MethCohn, Comprehensive natural products 
+chemistryVols 19, Elsevier, 1999. 
+
+ 
+
+ 
+
+CHM663 
+
+ 
+
+ 
+
+ELECTRON, 
+PROTON AND 
+HYDRIDES 
+3-0-0-0-9 
+Short Summary: Chemical and Electrochemical Electron 
+transfer; Chemistry of reducing and oxidizing agents; basic 
+electrochemistry and methods; Proton management in catalysis; 
+Metal 
+hydrides; 
+Organic 
+hydrides; 
+Covalent 
+hydrides, 
+Prohydrides, 
+Ammonia-Borane, 
+Masked 
+hydrides; 
+PCET; 
+Electron, proton and hydride in small molecule activation; 
+Electrocatalysis; Hydrogen energy. Electrons: Electron transfer 
+– Chemical and Electrochemical; Chemistry of reducing and 
+oxidizing agents; analytical methods in working with electrons – 
+basic electrochemistry and methods; 
+Protons: Proton management; keto-enol, lactam-lactim, amide-
+imide, amine-imine tautomerism in catalysis; special acids in 
+studying the mechanism, analytical methods 
+Hydrides: Metal hydrides: Synthesis, stability, thermodynamics, 
+how hydridic is the hydride - hydridicity, analytical methods in 
+working with hydride 
+Organic hydrides and their stoichiometric and catalytic reactions; 
+regeneration,Covalent hydrides, Prohydrides, Ammonia-Borane, 
+Masked hydrides, Hydrides in biology 
+PCET, Electron, proton and hydride in small molecule activation, 
+Electrocatalysis - homogeneous and heterogeneous; aqueous 
+and non-aqueous; advantages and challenges, Hydrogen - 
+advantages and challenges. 
+Recommended books: Lecture notes and study materials will 
+be provided by the instructor. 
+CHM664 
+MODERN PHYSICAL 
+METHODS IN 
+CHEMISTRY 
+3-0-0-0-9 
+Symmetry and Group Theory: Group multiplication table, 
+elements of a symmetry group,symmetry group classification, 
+characters, group representation, The Great Orthogonality 
+theorem, basis of representation, wave functions as bases of IR 
+representations, symmetry adapted linear combinations, direct 
+products, spectral transitions; 2. Interaction of light with matter,
+
+[Page 36]
+Einsteins coefficients, relationship of Einsteins coefficients with 
+transition moments (no derivation) and transition probabilities, 
+oscillator strength. BeerLambert law, relationship between 
+Einsteins coefficients and total absorbance. Born Oppenheimer 
+approximation, energy levels, potential energy curves, MO and 
+term symbols, Franck Condon principle, symmetry and selection 
+rules, spin and parity forbidden transitions, vibronic interaction; 
+3. Simple harmonic motion, anharmonicity, introduction of 
+different coordinates (generalised, mass weighted generalized, 
+internal and normal coordinates). Force constants, selection 
+rules, (F and G matrix if time permits). Applications: Organic 
+molecules, functional group versus frequency approach, Fermi 
+resonance, frequency shifts because of substitutions, isotope 
+effect., theory and application of Raman Spectroscopy; 4. Other 
+spectroscopic methods like Mass Spectrometry, Magnetic 
+Resonance, Photoelectron Spectroscopy. 
+Course Reference: 1. Chemical Applications of Group Theory 
+F.A. Cotton; 2. Theory and applications of UV spectroscopy. 
+H.H. 
+Jaffe 
+and 
+M. 
+Orchin; 
+3. 
+Quantum 
+mechanics, 
+CohenTannoudj, 
+Diu 
+and 
+Lalo 
+(2005); 
+4. 
+Molecular 
+Spectroscopy I. N. Levine; 5. High Resolution NMR, theory and 
+application, E.D. Becker; 6. Modern Spectroscopy J. M. Hollas; 
+CHM667 
+QUANTUM 
+DYNAMICS IN 
+CHEMISTRY 
+3-0-0-0-9 
+Recapitulations of basic concepts of Quantum Mechanics. 
+Approximation methods: Time-dependent Perturbation Theory 
+and Dirac-Frenkel variational method with applications in 
+reaction dynamics. Statistical perspectives of quantum dynamics 
+for composite quantum systems. Density matrix theories for 
+open quantum systems. The path integral approach and its 
+applications in chemistry. Introduction to relativistic quantum 
+mechanics. 
+Trajectory 
+picture 
+of 
+quantum 
+dynamics. 
+Applications: Chemical Dynamics theory. Radiation-matter 
+interaction. Matters under strong external fields: Attosecond 
+spectroscopy. 
+Course Reference: Quantum Mechanics, Albert Messiah 
+Modern Quantum Mechanics, J. J. Sakurai 
+Quantum Dynamics, E. Bittner 
+Quantum Mechanics, E. Merzbacher 
+Quantum Mechanics and path integrals, R. P. Feynman and A. 
+R. Hibbs 
+ 
+CHM668 
+ADVANCED MAIN 
+GROUP CHEMISTRY 
+3-0-0-0-9 
+A. Topics for SelfStudy 1. VSEPR Theory and prediction of 
+molecular geometry 2. Symmetry. Symmetry elements and 
+symmetry operations. Point groups. Introduction to character 
+tables. Uses of character tables. B. Chemistry of Maingroup 
+Elements Chemistry of boron: Selfstudy: boranes, bonding in 
+boranes, topology of boranes, synthesis and reactivity, 
+Carboranes 
+and 
+metalla 
+carboranes. 
+Lowvalent 
+boron 
+compounds, organo boron compounds and organic synthesis. 
+Use of 11B NMR in structure elucidation of organoboron 
+compounds. Boron containing polymers. Borazine and Boron 
+Nitride Organo lithium compounds. Synthesis, bonding and
+
+[Page 37]
+reactivity. Organo magnesiusm and organo sodium compounds. 
+Chemistry 
+of 
+Aluminum. 
+Aluminum 
+Alkyls. 
+Unusual 
+organometallic compounds of aluminum. Including low oxidation 
+state Al compounds and aluminum clusters. Chemistry of Low 
+valent compounds: NHCs and their analogous group 13, 14 and 
+15 compounds and the recent advances Multiple bonding in 
+main group elements: Compounds involving silicon, phosphorus, 
+bismuthetc. Synthesis, structure and reactivity. Recent literature 
+on multiple bonding models among low valent compounds 
+Inorganic rings and polymers: Siloxanes, Cyclophosphazenes 
+and cyclophosphazanes. Polysilanes and Polyphosphazenes 
+Noble gas compounds Most of the material for this course will 
+be accessed from primary literature viz., Journalarticles. Some 
+text books that will be followed are as follows- 
+Course Reference: 1. Inorganic ChemistryPrinciples of 
+Structure and Reactivity. 4th Edn. Huheey J. E.; Keiter, E.A.; 
+and Keiter, R. L. HarperCollins, NY, 1993; 2. Concepts and 
+Models of Inorganic Chemsitry. 3rd Edn. Douglas, B.; McDaniel, 
+D.; and Alexander, J. John Wiley, New York. 1993; 3. Chemistry 
+of the Elements. 2nd Edn. Greenwood, N. N.; and Earnshaw, A. 
+Pergamon, Oxford, 1989; 4. Elschenbroich, C.; and Salzer, A.; 
+Organometallics: A Concise Introduction 3rd Edn. 1999; 5. 
+Inorganic and Organometallic Polymers. Chandrasekhar, V. 
+SpringerVerlag, Heidelberg,2005. 
+CHM679 
+MOLECULAR 
+REACTION 
+DYNAMICS 
+3-0-0-0-9 
+1. Introduction: Review of kinetic theory of gases, collisions 
+atomic and molecular; 2. Rate theories Transition state theory 
+and RRKM theory, scattering classical and quantum; 3. 
+Reactive Collisions ,Potential energy surfaces, atomdiatom 
+reactions, polyatomic reactions, stateselective,molecular beams, 
+reaction rates and cross sections; 4. Dynamics in gas phase 
+Photodissociation, energy transfer, stereodynamics, chemistry in 
+real time with lasers,control; 5. Dynamics in condensed phase 
+Solvation, diffusion, barrier crossing, Kramer Grote Hynes 
+theory, Langevin equation,correlation functions; 6. Advanced 
+topics Dynamics on surfaces, spatiotemporal aspects of pattern 
+formation, ultrafast dynamics. 
+Course Reference: 1. Levine, Molecular Reaction Dynamics, 
+2005; 2. Henriksen & Hansen, Theories of Molecular Reaction 
+Dynamics, 2008; 3. Schinke, Photodissociation Dynamics, 1993; 
+4. Manz & Wste, Femtosecond Chemistry, 1995; 5. Nitzan, 
+Chemical Dynamics in Condensed Phases, 2006. 
+CHM681 
+BASIC BIOLOGICAL 
+CHEMISTRY 
+3-0-0-0-9 
+Recombinant DNA techniques, Protein folding, design and 
+Engineering, ChouFasman rules, Ramachandran plot and 
+conformation 
+of 
+biopolymers. 
+Mechanisms 
+of 
+important 
+enzymes. Biosynthesis of nucleic acids and proteins. confactors. 
+Immunology. Immune response, Innate immunity and adaptive 
+immunity, 
+Immune 
+dysfunction 
+and 
+its 
+consequences, 
+Immunogenicity, 
+antigens, 
+antibody 
+diversity, 
+monoclonal 
+antibodies, autoimmunity, Hybridoma technology Biosynthesis of 
+lipids and fatty acids. Secondary metabolism, Membrane 
+transport, 
+Aminoacid biosynthesis 
+and metabolism. 
+Cell 
+differenciation, Regulation of gene expression, recombination, 
+DNA replication, signal transduction. 
+Course Reference: Fundamentals of Biochemistry by Voet,
+
+[Page 38]
+Voet and Pratt, Biochemistry by L. Stryer, Proteins by T.E. 
+Creighton, Genes VII by B. Lewin, Introduction toprotein 
+structure by Branden and Tooze, Enzyme structure and 
+Mechanism by Alan Fersht. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CHM682 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+MODERN 
+CHEMISTRY AND 
+APPLICATIONS OF 
+LANTHANIDES 
+3-0-0-0-9 
+Introduction to Lanthanide chemistry: Discovery, extraction 
+and separations, position in periodic table, Highlights of f-block 
+elements, Differences from d-block/main group elements, why 
+RE’s are critical elements? Rare earths in modern technologies, 
+Technical sustainable recycling of Lanthanides. 
+Principles, energetics and Periodic properties f-block 
+elements: principles, energetics, periodic properties and trends, 
+f-orbitals, lanthanide contraction, ionic radii, oxidation states, 
+stability. 
+Coordination Chemistry of Lanthanides: Binary compounds, 
+Cerium oxide and uses, Complexes, nature of bonding, 
+hydration & hydrolysis, stability of complexes, ligand types and 
+their design, geometry and structures of Ln-complexes, 
+Structure-property 
+relationships, 
+Heterometallic 
+lanthanide 
+systems, f-f, f-f’, d-f, s-f hybrid multimetallic systems. 
+Organometallic Chemistry of Lanthanides: bonding, alkyls, 
+aryls, arenes, synthesis, structure and reactivity, application of 
+organo-lanthanide 
+compounds 
+in 
+organic 
+transformation, 
+divalent rare earth chemistry, catalytic applications: sigma bond 
+metathesis, 
+olefin 
+hydrogenation/Ziegler-Natta 
+catalysis, 
+Hydroamination reactions. 
+Spectroscopic properties of Lanthanides: Basic f-element 
+electronic structures, Excited state electronic properties, 
+luminescence properties, nature of f-f transitions, sensitization 
+mechanism: antenna effect, energy-transfer, time-resolved 
+luminescence spectroscopy, Upconversion of Ln-luminescence, 
+Ln-probes for bioresponsive imaging and design principles, 
+luminescence-based applications. 
+Luminescence-based Chemosensors and Bio-imaging with 
+Lanthanide 
+Complexes: Modulation 
+of 
+lanthanide 
+luminescence and quenching, Chemosensor design principle, 
+Time-resolved luminescence, Ln-based bioimaging, cellular 
+imaging probes, Emissive lanthanide probes studying protein 
+interactions. 
+Magnetic properties of Lanthanides: Electronic structures, 
+term 
+symbols, 
+spin-orbit 
+coupling, 
+magnetic 
+moments, 
+permanent magnets, NMR-shift reagents, Lanthanide Single-
+molecule-magnet (SMM), Superconductive materials. 
+Lanthanide-base MRI Contrast Agents: Principles of MRI, 
+Contrast agents, Gadolinium-chelates as MRI contrast agents, 
+water-exchange kinetics, Relaxivity, relaxation time, molecular 
+parameters for relaxivity in MRI probes, Sensitivity and 
+Selectivity of MRI probes, New generation MRI contrast agents. 
+Lanthanides 
+in 
+Biology: Bioinorganic 
+chemistry 
+of 
+Ln, 
+Emergence 
+of 
+lanthanide 
+in 
+metallobiochemistry 
+and 
+microbiology, Ln-dependent proteins: methanol dehydrogenase 
+(MDH), lanmodulin as selective Ln-binding protein, mechanism 
+of uptake by bacteria. 
+References/ Textbooks 
+1. Lanthanide and Actinide Chemistry, Simon Cotton, John Wiley &
+
+[Page 39]
+Sons, Ltd. 2006. 2. Luminescence of Lanthanide Ions in 
+Coordination Compounds and Nanomaterials, Ed. Ana de 
+Bettencourt–Dias , John Wiley and Sons, Ltd, 2014. 3. Lanthanide-
+Based Multifunctional Materials, Ed. P. Martin-Ramos, M. Ramos-
+Silva, Elsevier 2018. 4. Lanthanide Luminescence: Photophysical, 
+Analytical and Biological Aspects, Ed. P. Hänninen, H. Härmä, 
+Springer, 2011. 5. Lanthanides and Actinides in Molecular 
+Magnetism, Ed. R. A. Layfield, M. Murugesu, Wiley-VCH, 2015 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CHM683 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+SURFACES, 
+INTERFACES, THIN 
+FILMS & RELATED 
+ANALYTICAL 
+TECHNIQUES 
+3-0-0-0-9 
+General introduction to solid surface and interface of 
+materials: Why surface is different/important? Applications of 
+surface 
+and 
+interfaces. 
+Thin films and Clusters:Type of interfaces: solid-solid, solid-
+molecule, 
+solid-liquid, 
+gas-solid 
+interfaces 
+- 
+Elementary 
+processes of gas-surface interaction. Adsorption (physical and 
+chemical) and interface formation. Ultra high vacuum (UHV) 
+technology. Methods for preparation of thin films (Physical and 
+chemical 
+methods) 
+Structure, 
+morphology 
+and 
+electronic 
+properties 
+of 
+surfaces and interfaces: Structure of clean surfaces, 
+reconstructions, stepped surfaces. Electronic properties of 
+surfaces. Adsorbates on surfaces, self-assembly, consequences 
+of adsorbates on surface. Electronic properties of adsorbates on 
+surfaces 
+Thermodynamics at surface: Surface tension. Surface energy 
+and surface composition. Meta stable surfaces, curves surfaces. 
+Thermodynamics 
+of 
+adsorbed 
+layers 
+Catalysis 
+by 
+surface: 
+Chemical 
+reactions 
+at 
+surface 
+- 
+Few 
+case 
+studies 
+Surface morphology characterization techniques: Electron 
+microscopes (Scanning electron microscope, Transmission 
+electron microscope). Near field microscopes (Scanning 
+tunneling microscope, Atomic force microscope, Scanning 
+electrochemical microscope, 
+Scanning near field optical 
+microscope). Surface electronic properties characterization 
+techniques: Electron emission from surfaces by incident 
+electron or photon. X-ray photoelectron spectroscopy (XPS). 
+UV-Vis photoelectron spectroscopy (UPS). Auger electron 
+spectroscopy (AES). High-Resolution Electron-Energy-Loss 
+Spectroscopy (HREELS). Near edge X-ray absorption fine 
+structure (NEXAFS). Surface structure characterization 
+techniques:Low 
+energy 
+electron 
+diffraction 
+(LEED) 
+- 
+Reflection 
+high 
+energy 
+electron 
+diffraction 
+(RHEED) 
+Perspectives. 
+Course Reference: 1. Introduction to solid state physics by 
+Charles Kittel 2. Introduction to surface chemistry and catalysis 
+by Gabor A. Somorjai, Yimin Li 3. Electronic and Photoelectron 
+Spectroscopy by Andrew M. Ellis, Miklos Feher and Timothy G. 
+Wright 4. Scanning Probe Microscopy by Roland Wiesendanger. 
+Handbook of vacuum science and technology by Dorothy 
+Hoffman 5. Solid surfaces interface and thin films by H. 
+Lüth 
+CHM684 
+COMPUTER 
+PROGRAMMING 
+3-0-0-0-9 
+Fortran and Computer Programming: Elements of Fortran 
+programming, constants, variables and operators, control
+
+[Page 40]
+FOR CHEMISTRY 
+statements, I/O operations, functions and subprograms, 
+common, equivalence, arrays, strings, DATA statements, Disk 
+I/O. New features in Fortran 90 compared to Fortran 77. 
+Programming considerations Round off and truncation errors, 
+pitfalls and debugging. Numerical Methods: Roots of equations 
+Bisection and NewtonRaphson methods, Systemof linear 
+equations, Gaussian, Gauss Jordan elimination, Nonlinear 
+system of equations. Regression analysis and Least square fit, 
+Linear, 
+Polynomial 
+and 
+NonLinear 
+regressionanalysis, 
+eigenvalues and eigenvectors, Numerical differentiation and 
+integration, Differential equations Applications to chemistry: 
+statistical thermodynamics, chemical kinetics, Curve fitting, 
+Gaussian and Lorentzian deconvolution. Use of software 
+packages such as visualization, semiempirical methods. 
+Course 
+Reference: 
+1. 
+Michael 
+Boillot, 
+Understanding 
+Fortran77, wess publishing company, New York(1987); 2. 
+Fortran95/2003 for scientists and engineers, S.J.Chapman, 
+McGrawHill (2008); 3. (Ed) D.F. De Tar, Computer programs for 
+chemistry, vol 14, Academic press, New York(1972); 4. K.B. 
+Wiberg, Computer Programming for Chemists, W.A. Benjamin 
+Inc, New York (1965); 5. S.C.Chapra and R.P.Canale, 
+Numerical Methods for Engineers, Tata McGraw Hill, NewDelhi 
+(2003). 
+CHM685 
+MOLECULE 
+RADIATION 
+INTERACTION 
+3-0-0-0-9 
+1. Classical Elecromagnetics: Fields, Maxwell’s equations, 
+gauges and optics; 2. Quantization of Electromagnetic Fields. 
+Photons, polarizations, Stokes parameters, nontrivial role of the 
+vector potential; 3. Interactions of One and two photon 
+processes, line widths and line shapes, broadening, Raman 
+scattering; 4. Spectroscopy Born Oppenheimer limit, time 
+dependent view points, nonadiabatic effects; 5. Advanced 
+topics: Beyond dipole approximation, attosecond spectroscopy. 
+Course Reference:1. Sakurai, Advanced Quantum Mechanics, 
+1967; 2. Cohen Tannoudji & DupontRoc, Atom Photon 
+Interactions, 2004; 3. Landau & Lifshitz, Classical Theory of 
+Fields, 1951; 4. CohenTannoudji, DupontRoc & Grynberg, 
+Photons & Atoms, 1989; 5. Feynman Lectures in Physics II, 
+2005. 
+CHM689 
+NUCLEAR 
+MAGNETIC 
+RESONANCE 
+SPECTROSCOPY 
+3-0-0-0-9 
+Introduction to NMR Spectroscopy.Angular momentum, 
+matrix representation of angular momentum operators. Density 
+matrices, pure and mixed states, density operator and 
+calculation of expectationvalues. Chemical shifts, coupling 
+constants, rotating frame concept and qualitative description 
+ofpulse experiments. Construction of hamiltonian matrix for 
+multispin systems and the solution of AB and ABX spinsystems. 
+Product operator formalism and vector diagrams. Analysis of 
+multipulse experiments: INEPT, DEPT, COSY, NOESY and 
+double quantumfiltered COSY. Multidimensional NMR and 
+macromolecular structure determination. 
+Course Reference: 1. M. Goldman, Quantum Description of 
+High-Resolution NMR in Liquids, Clarendon Press, New York 
+(1988). 2. J. A. Pople, W.G. Schneider and H.J. Bernstein, High 
+Resolution NMR, McGraw Hill, NewYork (1959). 3. J. Cavanagh, 
+W.J. Fairbrother, A.G. Palmer III and N.J. Skelton, Protein NMR 
+Spectroscopy, Academic Press (1996). 4. C.P. Slichter,
+
+[Page 41]
+Principles of Magnetic Resonance, SpringerVerlag, Berlin 
+(1990). 
+CHM691 
+FRONTIERS IN 
+INORGANIC 
+CHEMISTRY 
+3-0-0-0-9 
+Developing facets of Inorganic Chemistry (2 Lectures) 
+Oxidative generation of molecular oxygen from water during 
+photosynthesis (8 Lectures)Its importance from the standpoint of 
+nonconventional energy research (6 Lectures) Reductive 
+cleavage of the dioxygen bond (3 Lectures) Reductive cleavage 
+of dioxygen bond and novel organic transformations including 
+methane tomethanol performed by a large number of Fe 
+containing metalloenzymes (8 Lectures) Reductive cleavage of 
+dioxygen bond and novel organic transformations performed by 
+alarge number of Cu containing metalloenzymes and synthetic 
+catalysts (15 Lectures) 
+Course Reference: Bioinorganic Chemistry, I. Bertini, H. B. 
+Gray, S. J. Lippard and J. S. Valentine, University Science 
+Books, Mill Valley, 2006. 
+CHM692 
+SPECIAL TOPICS IN 
+PHYSICAL 
+CHEMISTRY 
+3-0-0-0-9 
+The course contents will involve some topics of current interest 
+in Physical Chemistry. Topics relating to quantum mechanics, 
+thermodynamics, physical and chemical kinetics, spectroscopy, 
+statistical 
+mechanics, 
+molecular 
+simulations, 
+continuum 
+mechanics, solid-state and materials chemistry, biophysics, 
+nonlinear dynamics, can be taught as part of this course. 
+Additionally, new and emerging areas may be included from 
+time-to-time. The exact topics for the course will be decided by 
+the instructor at the time of offering the course. The instructor 
+will be required to submit the course contents, reference books 
+and list of prerequisites at the time of course registration. 
+CHM693 
+CHEMICAL 
+SYNTHETIC 
+STRATEGY OF 
+ADVANCED 
+MATERIALS 
+3-0-0-0-9 
+Chemical methods of synthesis play a crucial role in designing 
+materials, discovering novel materials, metastable phases, 
+nanomaterials and provide less cumbersome routes for the 
+known materials. Chemical ingenuity is important for the 
+synthesis of solid materials with desired structure and 
+properties. Keeping in mind the multidisciplinary nature of the 
+subject, a rational approach to the synthesis of materials is 
+evolved. Indeed, soft chemistry routes/techniques are pursued 
+with greater vigour. These include precursor technique, solgel, 
+hydrothermal, nonaqueous liquid phase reactions, polymer 
+pyrolysis, gas phase reactions, plasma reactions, electron beam 
+evaporation, 
+freeze 
+drying, 
+spray 
+drying, 
+topochemical 
+reactions, intercalation, electrochemical methods, CVDlaser 
+ablation, arcmethod, molten salt method, inter grown structures. 
+Solidstate reactivity, working knowledge of characterization 
+techniques and conventional techniques. 
+CHM695 
+MOLECULAR 
+MODELLING IN 
+CHEMISTRY 
+3-0-0-0-9 
+Brief Review of the basic Principles of quantum mechanics 
+of atoms and molecules. Potential energy surfaces and 
+intermolecular 
+interactions: 
+Quantum 
+mechanical 
+ab 
+initiocalculations within Born Oppenheimer approximation and 
+modelling of calculated energies bymodel potentials for simple 
+atoms, molecules and ions. Energy calculations using molecular 
+mechanics. Simple applications of molecular modelling: Study of 
+an assembly of atoms or molecules (clusters and/or bulk 
+phases). Approximation of the total potential energy as the sum 
+of pair potentials. Concept of large number of microstates,
+
+[Page 42]
+averages and basic principles of simulations. Study of cluster 
+and bulk properties through simulations. Modelling of water and 
+small organic molecules: Nonpolarizable and polarizable rigid 
+models. Flexible models and calculation of force constants. 
+Structural, dielectric and dynamical properties of a polar 
+medium: 
+Continuum 
+models 
+versus 
+molecular 
+models. 
+Calculation offree energy using molecular models. Modelling of 
+macromolecules: 
+Study 
+of 
+selforganized 
+assemblies, 
+biomolecules like peptides, proteins, membranes and ion 
+channels. Concept of hydrophobic and hydrophilic interactions. 
+Use of molecular modelling in drug design, QSAR. 
+Course Reference: 1. A.R. Leach, Molecular Modeling : 
+Principles and Applications, Longman (1996); 2. J. H. Jensen, 
+Molecular Modeling Basics, CRC Press (2010); 3. C. J. Cramer, 
+Essentials of Computational Chemistry: Theories and Models, 
+2nd Ed., Wiley(2004); 4. J. Israelachvili, Intermolecular and 
+surface Forces, Academic (1991); 5. M. P. Allen and D. J. 
+Tildesley, Computer Simulation of Liquids, Clarendon Press 
+(1987); 6. D. Frenkel and B. Smit, Understanding Molecular 
+Simulation : From algorithms to Applications, Academic Press 
+(1996); 7. P.W. Atkins, Molecular Quantum Mechanics, Oxford 
+(1997); 8. W. Koch & M. C. Holthausen, A Chemists Guide to 
+Density Functional Theory, WileyVCH; 9. A. Szabo, Modern 
+Quantum Chemistry: Introduction to Advanced Electronic 
+StructureTheory, Dover Publications (1996). 
+CHM696 
+QUANTUM 
+COMPUTING 
+3-0-0-0-9 
+Thermodynamics 
+of 
+computing, 
+Shannon 
+Theory, 
+elementary 
+information 
+theory. 
+Basics 
+of 
+computers, 
+ChurchTuring hypothesis, basics of computing complexity. Basic 
+of quantum mechanics, Feynman Block Pseudopolarization 
+Vector Model, Time Dependent Schrodinger equation, basics of 
+approximate 
+quantum 
+approaches 
+(Two 
+level 
+Systems, 
+Coherence, 
+Superposition 
+Principle, 
+Density 
+Matrix, 
+Entanglement, Relaxation Processes.Quantum gates and 
+circuits, Theory of Quantum Information and Computation, 
+Deutsch Jozsa algorithm, Shor’s algorithm for factoring, 
+Grover’s search algorithm and its applications. Quantum 
+Complexity, 
+Quantum 
+Turing 
+Machine. 
+Physical 
+implementations of Quantum Computation, Light polarization, 
+NMR, Cavity QED, IonTraps, Lasermatter interaction, Coherent 
+Control. Course Reference: Michael A. Nielsen and Isaac L. 
+Chuang, 
+Quantum 
+Computation 
+and 
+Quantum 
+Information,Cambridge University Press, 2000; b. Jozef Gruska, 
+Quantum Computing, McGraw Hill, 1999; c. Neil Gershenfeld, 
+Physics of Information Technology, Cambridge University Press, 
+2000; d. CohenTannoudji, Diu, and Lalo, Quantum Mechanics I, 
+200; e. Mika Hirvensalo, Quantum Computing, SpringerVerlag 
+New York, 2000; f. G. Alber, T. Beth, M. Horodecki, P. 
+Horodecki, R. Horodecki, M. Rotteler, H. Weinfurter, R.Werner, 
+A. Zeilinger, Quantum Information: An Introduction to Basic 
+Theoretical Conceptsand Experiments, Springer, 2001. 
+CHM697 
+LASERS IN 
+CHEMISTRY AND 
+BIOLOGY 
+3-0-0-0-9 
+Fundamentals 
+of 
+lasers. 
+General 
+concepts 
+of 
+laser 
+spectroscopy. Laser-induced fluorescence and multiphoton 
+ionization processes of molecules, probing IVR and dynamics of 
+chemical 
+reactions 
+in 
+liquid 
+and 
+molecular 
+beam.
+
+[Page 43]
+Spectroscopy of single molecule, confocal microscopy and 
+fluorescence 
+correlation 
+spectroscopy. 
+Probing 
+of 
+proton/electron 
+dynamics, 
+anisotropy 
+Optical trapping and manipulation of biological macromolecules, 
+applications of diagnostics and biotechnology. Pulsed laser and 
+ultrafast 
+spectroscopy 
+Non-linear spectroscopy. 
+References and Textbooks: 1. Laser Chemistry, Telle, H. H. and 
+Urena, A. G., John Wiley & Sons, New Jersey, 2007. 2. A Guide 
+To Lasers In Chemistry, Van, H. and GERALD, R. J. Bartlett 
+Pub., Boston, 1998. 3. Nonlinear Laser Chemistry, Letokhov, V. 
+S., Springer-Verlag, 1983. 4. Lasers, Milonni, P. W. and Eberly, 
+J. H., John Wiley & Sons, 1988. 
+ 
+CHM698 
+CHEMISTRY OF 
+DRUG DESIGN AND 
+METABOLISM 
+3-0-0-0-9 
+Physicochemical 
+Principles of Drug Action; Partition 
+Coefficients; Receptor Effector Theories; Role of Second 
+Messengers in Drug Action; Methods of Receptor Isolation, 
+Characterization and Modeling Principles of Drug Design: 
+Random Screening, Analogue Synthesis, Rational Design, 
+Combinatorial Libraries; Enantiopure Drugs and Regulatory 
+Implications; Theoretical Approaches: QSAR, Topliss Tree, 
+MSA, 
+CoMFA 
+Neuroactive 
+Drugs: 
+Neurons 
+and 
+Neurotransmitters; Brain related Disorders andChemotherapy; 
+Drugs Interacting with Cholinergic, Adrenergic, Dopaminergic 
+andHistaminic Receptors and Receptor subtypes. Anticancer, 
+Antimalarial, Antiviral, and Cardiovascular Drugs; Emerging 
+Trends in Drug Design: Inhibitors of DNA Topoisomerase and 
+Protein Farnesylation & Prenylation; Gene Based Medicines 
+Biopharmaceuticals: Recombinant Proteins as Medicines and 
+Vaccines. Drug Delivery: Passive, Assisted and VectorBased 
+Delivery of Conventional and Genetic Drugs; Tissue Specific 
+Delivery 
+of 
+Antitumor 
+Agents 
+(8)Drug 
+Administration, 
+Distribution, Metabolism and Elimination (ADME); Pathways of 
+Drug Metabolism: Enzymology and Molecular Mechanisms; 
+Detoxification of Diverse Drug Classes; Dose Formulation 
+(10)Induction and Inhibition of Drug Metabolism; Toxicological 
+Aspects of Metabolism: Metabolic Activation of Environmental 
+Carcinogens and DNA Damage; Drug Pharmacokinetics and 
+Final Body Clearance. 
+Course Reference: 1. Medicinal Chemistry: A Biochemical 
+Approach, Thomas Nogrady; 2. Principles of Medicinal 
+Chemistry, William O. Foye; 3. The Pharmacological Basis of 
+Therapeutics: Goodman and Gilman; 4. Introduction to Drug 
+Metabolism, G. Gordon Gibson and Paul Skett 
+CHM699 
+MS PROJECT 
+3-0-0- 0-18 
+M.Sc. research project in 3rd semester (Non-compulsory) with 18 
+credits under the supervision/co-supervision of a faculty in 
+Chemistry. Alternatively, two DE (2 x 9 credit = 18 credits) 
+courses to be taken. 
+CHM700 
+M.Sc. PROJECT 
+0-0-0-0-27 
+M.Sc. research project in 4th semester under the supervision/ 
+co-supervision of a faculty in Chemistry. 
+CHM799 
+RESEARCH 
+0-0-0-0-36 
+Ph. D. Thesis 
+CHM800 
+GENERAL 
+SEMINAR2 
+----0 
+General Seminar
+
+[Page 44]
+CHM800A GENERAL SEMINAR 
+----0 
+Graduate Seminar 
+CHM800B GENERAL SEMINAR 
+----0 
+Graduate Seminar 
+CHM801 
+GRADUATE 
+SEMINAR 
+----0 
+Graduate Seminar 
+CHM801A 
+GRADUATE 
+SEMINAR 
+----0 
+Graduate Seminar 
+CHM801B 
+GRADUATE 
+SEMINAR 
+----0 
+Graduate Seminar 
+CSO201 
+ORGANIC 
+CHEMISTRY: 
+FUNDAMENTALS 
+AND APPLICATIONS 
+3-1-0-0-11 
+Basic Organic Chemistry Concepts: introduction to organic 
+molecules and functional groups, understanding organic 
+reactions, stereochemistry and carboncarbon bond forming 
+reactions in organic synthesis. Drugs some examples including 
+love drugs and molecules of death. Chemistry of odours, dyes 
+and 
+flavors, 
+Green 
+Chemistry 
+introduction, 
+principles, 
+sustainability, 
+atom 
+economy, 
+some 
+green 
+initiatives, 
+management of resources and its effect on health and 
+environment. Catalysis and biocatalysts in organic chemistry. 
+enantioselectivity and chiral synthesis, organo catalysis. 
+Enzymes as drug targets and their inhibitors as model inhibitors. 
+Solid phase synthesis and strategies for futuristic designs in 
+organic chemistry. Photochemistry: simple concepts and 
+applications 
+(semiconductor 
+photochemistry, 
+solarenergy 
+conversion 
+by 
+photovoltaic 
+cells, 
+photocatalysis, 
+etc.); 
+supramolecular photochemistry. Organic Materials: polymers 
+(biodegradable polymers, conducting polymers, etc.), smart 
+materials, OLEDs, intelligent gels, dyes, etc. 
+Course 
+Reference: 
+1. 
+Organic 
+Chemistry: 
+Structure, 
+Mechanism,and Synthesis by R. J. Oulettle and J. D. Rawn; 
+2.Green Organic Chemistry: Strategies, Tools, and Laboratory 
+Experiments by K. Doxsee and J.Hutchinson; 3. Bioorganic 
+Chemisty: A Chemical approach to enzyme action by H. Dugas; 
+4. Solid Phase organic synthesis: concepts strategies and 
+applications by P. H. Toy and Y. Lam; 5. General Organic 
+Chemistry, Janice Smith, McGrawHill, New York, USA, 2011; 6. 
+Organic Chemistry, W. H. Brown, C. S. Foote, B. L. Iverson and 
+E. V. Anslyn, Brooks/Cole,Belmont, USA, 2012; 7. Principles 
+and Applications of Photochemistry, Brian Wardle, Wiley & 
+Sons, Chichester, UK., 2009; 8. Chemistry of New Materials, 
+FactsOn File, Inc. New York, USA, 2007; 9. Love Drugs, Otto 
+Snow, Thoth Press, USA, 2005; 10. Molecules of Death, R. H. 
+Waring, G. B. Steventon, S. C. Mitchell, Imperial College Press, 
+London, UK, 2007. 
+CSO202 
+ATOMS, 
+MOLECULES AND 
+PHOTONS 
+3-1-0-0-11 
+This course is dedicated to introduce to the contemporary 
+physical chemistry for undergraduate students. The course 
+starts by inspiring students by introducing several landmark 
+experiments of physical chemistry. Importance of theoretical 
+approaches to explain experimental observations will be 
+introduced subsequently. A combination of theoretical and 
+experimental techniques in understanding structure and 
+dynamics of atoms and molecules are then discussed. 
+Content: 
+1. Landmark experiments in physical chemistry; 2. Interplay of
+
+[Page 45]
+theory and experiments in modern physical chemistry; 3. 
+Structure of atoms and molecules; 4. Dynamics of atoms and 
+molecules5. Structure and dynamics of atoms and molecules 
+interacting with radiation. 
+Course Reference:1. R. S. Berry, S. A. Rice and J. Ross, 
+Physical Chemistry; 2. D. A. McQuarrie, J. D. Simon, Physical 
+Chemistry: A molecular approach; 3. K. J. Laidler, The World of 
+Physical Chemistry; 4. C. E. Dykstra, Physical Chemistry A 
+modern Introduction 
+CSO203 
+INORGANIC 
+MOLECULES, 
+MATERIALS & 
+MEDICINE 
+ 
+3-1-0-0-11 
+Module I: Life with Oxygen:The aim of this module is to 
+understand how our life is dependent on oxygen. We will start 
+with the fundamentals related to dioxygen and need for its 
+activation. We will then talk about its usefulness in various 
+biological activities and applications. 
+Module II: Metals and Medicine: Dmitri Ivanovich Mendeleev in 
+1869 delivered a remarkable contribution to arrange chemical 
+elements in the Periodic table. This module starts with Nature’s 
+selection of elements from Periodic Table. It will provide a brief 
+overview of metals used in the ancient times and today as 
+therapeutic and diagnostic agents. Will discuss on the 
+Rosenberg’s accidental landmark discovery of cisplatin as 
+blockbuster anticancer drug. Lectures will also provide 
+mechanistic action of the drug and the current status. 
+Module III: Electron Transfer Process: Nobel Prize in 
+Chemistry in 1983 has been given to Henry Taube for his 
+outstanding work on the mechanisms of electron transfer 
+reactions, especially in metal complexes. We will discuss 
+various electron transfer processes and how our life is 
+dependent on that! 
+Module IV: Catalysis and Sustainability: Catalysis is one of 
+prime field which has attained more number of Nobel prizes (20! 
+at least) wherein the fundamental role of catalyst and its design 
+play a critical role. Here, catalytic activities of few selected and 
+important catalysts will be discussed along with their industrial 
+applications. In addition, recent development on Green 
+Chemistry for chemical synthesis and sustainable chemical 
+processes will be highlighted. 
+Module V: Inorganic Polymer: An overview of important 
+compounds used in rubber, adhesives, ceramic materials, 
+sealant and inorganic polymers will be discussed. 
+Module VI: Inorganic Materials:A large number of new 
+generation materials, such as network structures, molecular 
+(nano)machines and molecular (nano)devices based on 
+supramolecular chemistry and molecular self‐assembly (Nobel 
+prizes in 1982 and 2016). In addition, we will also discuss 
+selected materials used for Magnetic, Optical, Conducting and 
+Storage materials. 
+Course Reference: Inorganic Chemistry-Principles of Structure 
+and Reactivity, 4thEdn., J. E. Huheey, E. A. Keiter and R. L. 
+Keiter, Harper-Collins, NY, 1993 
+Advanced Inorganic Chemistry, 6thEdn., F. A. Cotton, G. 
+Wilkinson, C. A. Murillo and M. Bochmann, Wiley, 1999 
+Concepts and Models of Inorganic Chemsitry, 3rdEdn., B.
+
+[Page 46]
+Douglas, D. McDaniel and J. Alexander, John Wiley, New York. 
+1993 
+Concepts and Models of Inorganic Chemsitry, 3rdEdn., B. 
+Douglas, D. McDaniel and J. Alexander, John Wiley, New York. 
+1993 
+Supramolecular Chemistry, J-M. Lehn, VCH, Weinheim, 1995 
+Supramolecular Chemistry, J. W. Steed and J. L. Atwood, John-
+Wiley and Sons, Ltd., 2000 
+Bioinorganic Chemistry, I. Bertini, H. B. Gray, S. J. Lippard & J. 
+S. Valentine, Viva Books Pvt. Ltd., 2004. 
+Shriver and Atkins Inorganic Chemistry, 5thEdn., Oxford 
+University Press, 2009. 
+Organotransition Metal Chemistry: From Bonding to Catalysis, 
+1stEdn., J. Hartwig, 2010 
+Molecular Magnetic Materials: Concepts and Applications, 
+Editors(s): B. Sieklucka and D. Pinkowicz, Wiley-VCH, 2016 
+Molecular Magnetic Materials: Concepts and Applications, 
+Editors(s): B. Sieklucka and D. Pinkowicz, Wiley-VCH, 2016.

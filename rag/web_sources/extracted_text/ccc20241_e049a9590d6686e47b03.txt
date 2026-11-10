@@ -1,0 +1,3216 @@
+[Page 1]
+Report of the Core Curriculum Committee 
+First (I) Semester of the Year 2024-25 
+ 
+1. Guidelines for Drawing Instructors and Tutors from Various Departments (As per the New Guidelines 2024 for preparation of CCC report). 
+ 
+Table 1:List of Core Courses and respective Departments handling them as per Committee and/or agreements between/among departments when 
+Instructors are drawn from multiple Departments. 
+Course No. and Title 
+Departments 
+
+2024-25 
+2025-26 
+2026-27 
+2027-28 
+2028-29 
+2029-30 
+TA111(Engineering Graphics)
+AE
+AE
+CE
+CE
+ME 
+ME 
+ESO201(Thermodynamics)
+CHE
+CHE
+AE
+CHE
+CHE 
+ME 
+ESO202(Solid Mechanics)
+CE
+CE
+ME
+ME
+AE 
+AE 
+ESO204(Fluid Mechanics)
+ME
+CHE
+CHE
+AE
+CHE 
+CHE 
+
+Table 2: List of Core Courses and respective Departments handling them as per Committee when Instructors are drawn from a fixed Department 
+Department 
+Course(s) 
+BSBE
+LIF111, ESO206
+CE
+ESO208, CE212
+CHM
+CHM111, CHM112M, CHM113M, 
+CSE
+ESC111M, ESC112M, ESO207
+DMS
+DMS201
+ECO
+HSO201, ECO111
+EE
+ESC201, ESO203
+ES
+ESO213
+HSS
+HSS-1, HSS-2
+ME
+TA212
+MSE
+TA211, ESO225
+MTH
+MTH111M, MTH112M, MSO202M, MSO203M,MSO205
+PHY
+PHY111, PHY112, PHY113, PHY114, PHY115, PSO201
+
+[Page 2]
+Table 3: List of Core Courses and Respective Departments that will provide Theory and Lab Tutors / Instructors 
+Course no. 
+Course Name 
+Departments That Provide Tutors / Lab 
+Instructors 
+CHM111
+Chemistry Lab
+CHM
+CHM112M
+General Chemistry: Physical Chemistry
+CHM
+CHM113M
+General Chemistry: Inorganic & Organic Chemistry
+CHM
+ESC111M
+Fundamentals Of Computing - I
+CSE
+ESC112M
+Fundamentals Of Computing - II
+CSE
+ESC201
+Introduction to Electronics
+EE
+ESO201
+Thermodynamics
+CHE, ES, ME
+ESO202
+Mechanics of Solids
+AE, CE, MSE
+ESO204
+Fluid Mechanics and Rate Processes
+AE, CHE, ES
+ESO206
+Principles of Biotechnology
+BSBE
+ESO207
+Data Structures and Algorithms
+CSE
+ESO208
+Computational Methods in Engg.
+CE
+ESO213
+Fundamentals of Earth Sciences
+ES
+ESO225
+Nature and Properties of Materials
+MSE
+ETH111
+Practical Ethics
+All dept.
+HSO201
+Applied Probability And Statistics
+CE, ECO
+HSS-I 
+Humanities-I
+HSS
+HSS-II
+Humanities-II
+HSS
+LIF111
+Introduction To Biology
+BSBE
+MSO202M
+Complex Variables
+AE, EE, ME, MTH, PHY
+MSO203M
+Partial Differential Equations
+AE, CE, EE, ME, MSE, MTH, PHY
+MSO205
+Introduction To Probability Theory
+MTH
+MTH111M
+Single Variable Calculus
+MTH
+MTH112M
+Application Of Single Variable Calculus & Several Variable 
+Calculus
+MTH
+PHY111
+Physics Laboratory
+PHY
+PHY112
+Classical Dynamics
+PHY
+PHY113
+Classical Electrodynamics
+PHY
+PHY114
+Quantum Physics
+PHY
+PHY115
+Oscillations And Waves
+PHY
+PSO201
+Quantum Physics
+PHY
+EME-CE212
+Environment And Sustainability
+CE
+EME-DMS201
+Introduction To Management
+DMS
+EME-ECO111
+Economy, Society & Public Policy
+ECO
+
+[Page 3]
+TA111
+Engineering Graphics
+AE, CE, ME,MSE
+TA211
+Manufacturing Processes I
+MSE
+TA212
+Manufacturing Processes II
+ME
+ 
+2.Estimate of Number of Students in Core Courses in First (I) Semester during the Year 2024-25 
+
+Table 4: List of core courses and estimate of number of students 
+Course 
+Group 
+Course No. 
+Course Title 
+L
+T 
+P 
+Credit
+Inst. Unit/
+90 
+Students 
+Tutorial Unit 
+per Section 
+Estimated number of 
+New Students 
+No. of 
+students 
+having 
+fail 
+backlogs
+No. of 
+students 
+registered 
+in 2023-
+24-I 
+Final 
+estimate 
+for 
+2024-
+25-I 
+First 
+Semester IC 
+Courses 
+CHM111 
+Chemistry Lab 
+0 
+0 
+3 
+3 
+1.5 
+1.5 
+600 
+0 
+600 
+600 
+CHM112M 
+General 
+Chemistry: 
+Physical 
+Chemistry
+2 
+1 
+0 
+8 
+1.25 
+0.25 
+600 
+56 
+650 
+656 
+CHM113M 
+General 
+Chemistry: 
+Inorganic & 
+Organic 
+Chemistry
+2 
+1 
+0 
+8 
+1.25 
+0.25 
+600 
+30 
+630 
+630 
+MTH111M 
+Single Variable 
+Calculus 
+3 
+1 
+0 
+6 
+1.75 
+0.25 
+1220 
+140 
+1329 
+1360 
+MTH112M 
+Application Of 
+Single Variable 
+Calculus & 
+Several Variable 
+Calculus
+3 
+1 
+0 
+6 
+1.75 
+0.25 
+1220 
+150 
+1304 
+1370 
+PHY111 
+Physics 
+Laboratory 
+0 
+0 
+3 
+3 
+1.5 
+1.5 
+620 
+5 
+620 
+625 
+PHY112 
+Classical 
+Dynamics 
+3 
+1 
+0 
+11 
+3.5 
+0.5 
+368 
+35 
+368 
+403 
+PHY113 
+Classical 
+Electrodynamics 
+3 
+1 
+0 
+11 
+3.5 
+0.5 
+382 
+28 
+382 
+410 
+PHY114 
+Quantum 
+Physics 
+3 
+1 
+0 
+11 
+3.5 
+0.5 
+221 
+65 
+221 
+286
+
+[Page 4]
+Course 
+Group 
+Course No. 
+Course Title 
+L
+T 
+P 
+Credit
+Inst. Unit/
+90 
+Students 
+Tutorial Unit 
+per Section 
+Estimated number of 
+New Students 
+No. of 
+students 
+having 
+fail 
+backlogs
+No. of 
+students 
+registered 
+in 2023-
+24-I 
+Final 
+estimate 
+for 
+2024-
+25-I 
+PHY115 
+Oscillations And 
+Waves 
+3 
+1 
+0 
+11 
+3.5 
+0.5 
+249 
+19 
+249 
+268 
+ESC111M 
+Fundamentals Of 
+Computing - I 
+3 
+1 
+3 
+7 
+2.5 
+1 
+600 
+1 
+600 
+601 
+ESC112M 
+Fundamentals Of 
+Computing - II 
+3 
+1 
+3 
+7 
+2.5 
+1 
+600 
+0 
+600 
+600 
+LIF111 
+Introduction To 
+Biology 
+2 
+0 
+0 
+6 
+2 
+ 
+600 
+16 
+600 
+616 
+TA111 
+Engineering 
+Graphics 
+2 
+0 
+3 
+9 
+3.5 
+1.5 
+620 
+12 
+632 
+632 
+ETH111 
+Practical Ethics 
+1 
+0 
+0 
+3 
+1 
+ 
+600 
+16 
+600 
+616 
+ELC111/112/113
+English 
+Language & 
+Communication
+
+ 
+
+ 
+620 
+4 
+620 
+624 
+PE111 
+Morning 
+Exercise 
+
+ 
+
+ 
+1220 
+23 
+1220 
+1243 
+Engineering 
+Science 
+Options 
+ESO201 
+Thermodynamics
+3 
+1 
+0 
+11 
+3.5 
+0.5 
+300 
+21 
+450 
+321 
+ESO202 
+Solid Mechanics 
+3 
+1 
+0 
+11 
+3.5 
+0.5 
+302 
+13 
+320 
+315 
+ESO204 
+Fluid Mechanics 
+3 
+1 
+0 
+11 
+3.5 
+0.5 
+216 
+74 
+334 
+290 
+ESO206 
+Principles of 
+Biotechnology 
+3 
+0 
+0 
+9 
+3 
+ 
+53 
+7 
+170 
+60 
+ESO207 
+Data Structures 
+and Algorithms 
+3 
+0 
+3 
+12 
+4.5 
+ 
+273 
+6 
+300 
+279 
+ESO208 
+Computational 
+Methods in 
+Engg.
+3 
+1 
+0 
+11 
+3.5 
+0.5 
+148 
+8 
+300 
+156 
+ESO213 
+Fundamentals of 
+Earth Sciences 
+3 
+0 
+0 
+9 
+3 
+ 
+43 
+52 
+260 
+95 
+ESO225 
+Nature and 
+Properties of 
+Materials
+2 
+1 
+0 
+8 
+2.5 
+0.5 
+85 
+6 
+99 
+91
+
+[Page 5]
+Course 
+Group 
+Course No. 
+Course Title 
+L
+T 
+P 
+Credit
+Inst. Unit/
+90 
+Students 
+Tutorial Unit 
+per Section 
+Estimated number of 
+New Students 
+No. of 
+students 
+having 
+fail 
+backlogs
+No. of 
+students 
+registered 
+in 2023-
+24-I 
+Final 
+estimate 
+for 
+2024-
+25-I 
+TA211 
+Manufacturing 
+Processes I 
+0 
+0 
+3 
+3 
+1.5 
+1.5 
+305 
+1 
+313 
+306 
+TA212 
+Manufacturing 
+Processes II 
+0 
+0 
+3 
+3 
+1.5 
+1.5 
+280 
+2 
+ 312 
+282 
+Science 
+Options 
+HSO201 
+Applied 
+Probability And 
+Statistics
+3 
+1 
+0 
+11 
+3.5 
+0.5 
+200 
+2 
+200 
+202 
+MSO202M 
+Complex 
+Variables 
+3 
+1 
+0 
+6 
+1.75 
+0.25 
+483 
+52 
+ 549 
+535 
+MSO203M 
+Partial 
+Differential 
+Equations
+3 
+1 
+0 
+6 
+1.75 
+0.25 
+603 
+70 
+622 
+673 
+MSO205 
+Introduction To 
+Probability 
+Theory
+3 
+1 
+0 
+11 
+3.5 
+0.5 
+100 
+10 
+149 
+160 
+Third 
+Semester 
+IC/SCHEME 
+Courses 
+CE212 
+Environment and 
+Sustainability 
+3 
+0 
+0 
+9 
+3 
+ 
+200 
+6 
+182 
+206 
+ECO111 
+Economy, 
+Society and 
+Public Policy
+3 
+1 
+0 
+11 
+3.5 
+0.5 
+200 
+ 6 
+ 228 
+206 
+DMS201 
+Introduction to 
+Management 
+3 
+0 
+0 
+9 
+3 
+ 
+200 
+ 5 
+ 189 
+205 
+ESC201 
+Introduction to 
+Electronics 
+3 
+1 
+3 
+14 
+5 
+2 
+602 
+6 
+639 
+608 
+HSS-I 
+Humanities-I 
+3 
+1 
+0 
+11 
+3.5 
+0.5 
+600 
+50 
+650 
+650 
+SCHEME 
+Course 
+HSS-II 
+Humanities-II 
+3 
+0 
+0 
+9 
+3 
+ 
+1800 
+100 
+ 1900 
+1900 
+Backlog 
+Courses 
+MTH113M 
+Linear Algebra 
+3 
+1 
+0 
+6 
+1.75 
+0.25 
+ 
+140 
+ 08 
+140 
+MTH114M 
+Ordinary 
+Differential 
+Equations
+3 
+1 
+0 
+6 
+1.75 
+0.25 
+ 
+140 
+ 06 
+140 
+
+3. Department/IDP-wise Breakup of Instruction Unit and Tutorial Unit for Core Courses in First (I) Semester during the Year 2024-25
+
+[Page 6]
+Instruction Unit () for a course with less than or equal to 90 students is defined as follows1: 
+ 
+where number of 50 minutes lecture, number of 50 minutes tutorial, and number of 50 minutes practical. The number 90 is based on the IPSA model. For a course with 
+students’ strength , is defined as follows: 
+ 
+where the smallest integer greater than or equal to . for each section of theory tutorial or laboratory instruction is defined as followsError! Unknown switch argument.: 
+ 
+where and are as defined earlier. For modular courses, the and calculated above will be multiplied by . 
+ 
+Table 5: Department/IDP-wise Breakup of Instruction Unit 
+Course 
+No. 
+Course Title 
+Total
+IU 
+AE 
+BSBE 
+CE 
+CHE
+CHM 
+CGS 
+CSE 
+DM
+S 
+DP 
+EC
+O 
+EE 
+ES 
+HSS 
+ME 
+MSE 
+MTH 
+PHY 
+SEE 
+SS
+A 
+CHM111 
+Chemistry Lab 
+10.5 
+
+ 
+ 
+10.5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CHM112M 
+General Chemistry: 
+Physical Chemistry 
+10 
+
+ 
+ 
+10 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CHM113M 
+General Chemistry: 
+Inorganic & Organic 
+Chemistry
+8.75 
+
+ 
+ 
+8.75 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MTH111M 
+Single Variable 
+Calculus 
+28 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+28 
+
+ 
+MTH112M 
+Application Of Single 
+Variable Calculus & 
+Several Variable 
+Calculus
+28 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+28 
+
+ 
+PHY111 
+Physics Laboratory 
+10.5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+10.5 
+
+PHY112 
+Classical Dynamics 
+17.5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+17.5 
+
+PHY113 
+Classical 
+Electrodynamics 
+17.5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+17.5 
+
+ 
+1The factor 0.5 for in the equation assumes equal effort from the instructor and tutor to conduct one tutorial.
+
+[Page 7]
+Course 
+No. 
+Course Title 
+Total
+IU 
+AE 
+BSBE 
+CE 
+CHE
+CHM 
+CGS 
+CSE 
+DM
+S 
+DP 
+EC
+O 
+EE 
+ES 
+HSS 
+ME 
+MSE 
+MTH 
+PHY 
+SEE 
+SS
+A 
+PHY114 
+Quantum Physics 
+14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+14 
+
+PHY115 
+Oscillations And 
+Waves 
+10.5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+10.5 
+
+ESC111M 
+Fundamentals Of 
+Computing - I 
+17.5 
+
+ 
+
+ 
+17.5 
+
+ 
+
+ 
+
+ 
+
+ 
+ESC112M 
+Fundamentals Of 
+Computing - II 
+17.5 
+
+ 
+
+ 
+17.5 
+
+ 
+
+ 
+
+ 
+
+ 
+LIF111 
+Introduction To 
+Biology 
+14 
+ 
+14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TA1112 
+Engineering Graphics 
+28 
+28 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ETH111 
+Practical Ethics 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+2 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+ELC111/ 
+112/113 
+English Language & 
+Communication 
+Instructor for ELC111/112/113 will be provided by the DOAA office. However, all the departments need to provide TAs to manage this course. 
+PE111 
+Morning Exercise 
+0 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ESO201 
+Thermodynamics 
+14 
+
+ 
+14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ESO202 
+Solid Mechanics 
+14 
+
+14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ESO204 
+Fluid Mechanics 
+14 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+14 
+
+ 
+
+ESO206 
+Principles of 
+Biotechnology 
+3 
+ 
+3 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ESO207 
+Data Structures and 
+Algorithms 
+18 
+
+ 
+
+ 
+18 
+
+ 
+
+ 
+
+ 
+
+ 
+ESO208 
+Computational 
+Methods in Engg. 
+7 
+
+7 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ESO213 
+Fundamentals of 
+Earth Sciences 
+6 
+
+ 
+
+ 
+
+ 
+
+6 
+
+ 
+
+ 
+
+2Requires two instructors per semester.
+
+[Page 8]
+Course 
+No. 
+Course Title 
+Total
+IU 
+AE 
+BSBE 
+CE 
+CHE
+CHM 
+CGS 
+CSE 
+DM
+S 
+DP 
+EC
+O 
+EE 
+ES 
+HSS 
+ME 
+MSE 
+MTH 
+PHY 
+SEE 
+SS
+A 
+ESO225 
+Nature and Properties 
+of Materials 
+5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5 
+
+ 
+ 
+TA211 
+Manufacturing 
+Processes I 
+6 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6 
+
+ 
+ 
+TA212 
+Manufacturing 
+Processes II 
+6 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+6 
+
+ 
+
+HSO201 
+Applied Probability 
+And Statistics 
+10.5 
+
+ 
+
+ 
+
+ 
+10.5 
+
+ 
+
+ 
+
+ 
+MSO202M 
+Complex Variables 
+10.5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+10.5 
+
+ 
+MSO203M 
+Partial Differential 
+Equations 
+14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+14 
+
+ 
+MSO205 
+Introduction To 
+Probability Theory 
+7 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+7 
+
+ 
+CE212 
+Environment and 
+Sustainability 
+9 
+
+9 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ECO111 
+Economy, Society 
+and Public Policy 
+10.5 
+
+ 
+
+ 
+
+ 
+10.5 
+
+ 
+
+ 
+
+ 
+DMS201 
+Introduction to 
+Management 
+9 
+
+ 
+
+ 
+ 
+9 
+
+ 
+
+ 
+
+ 
+
+ESC201 
+Introduction to 
+Electronics 
+35 
+
+ 
+
+ 
+
+ 
+ 
+35 
+
+ 
+
+ 
+
+HSS-I 
+Humanities-I 
+28 
+
+ 
+
+ 
+
+ 
+
+ 
+28 
+
+ 
+
+ 
+HSS-II 
+Humanities-II 
+66 
+
+ 
+
+ 
+
+ 
+
+ 
+66 
+
+ 
+
+ 
+MTH113M 
+Linear Algebra 
+3.5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+3.5 
+
+ 
+MTH114M 
+Ordinary Differential 
+Equations 
+3.5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+3.5 
+
+ 
+ Total Instruction Unit 
+29 
+18 
+31 
+15 
+30.25 
+1 
+54 
+10 
+1 
+22 
+36 
+8 
+95 
+21 
+12 
+95.5 
+71 
+1 
+1 
+Approximate Faculty Strength 
+32 
+25 
+45 
+28 
+39 
+5 
+33 
+26 
+8 
+24 
+53 
+16 
+29 
+44 
+28 
+54 
+50 
+9 
+4
+
+[Page 9]
+Course 
+No. 
+Course Title 
+Total
+IU 
+AE 
+BSBE 
+CE 
+CHE
+CHM 
+CGS 
+CSE 
+DM
+S 
+DP 
+EC
+O 
+EE 
+ES 
+HSS 
+ME 
+MSE 
+MTH 
+PHY 
+SEE 
+SS
+A 
+Total Instruction Unit per Faculty 
+0.91
+0.72 
+0.6
+9 
+0.54 
+0.78 
+0.20 
+1.64 
+0.38 
+0.13 
+0.92 
+0.68 
+0.5
+0 
+3.28 
+0.48 
+0.43 
+1.77 
+1.42 
+0.11 
+0.25
+
+[Page 10]
+Table 6: Department/IDP-wise Breakup of Tutor requirements 
+Course No. 
+Course Title 
+Total 
+Sections 
+AE 
+BSBE 
+C
+E 
+CHE 
+CH
+M 
+CGS 
+CSE 
+DM
+S 
+DP 
+EC
+O 
+EE 
+ES 
+HS
+S 
+ME 
+MSE 
+MTH 
+PHY 
+SEE 
+SS
+A 
+CHM111 
+Chemistry Lab 
+20 
+
+ 
+ 
+20 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CHM112M 
+General 
+Chemistry: 
+Physical 
+Chemistry
+7 
+
+ 
+ 
+7 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CHM113M 
+General 
+Chemistry: 
+Inorganic & 
+Organic Chemistry
+7 
+
+ 
+ 
+7 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MTH111M 
+Single Variable 
+Calculus 
+14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+14 
+
+ 
+MTH112M 
+Application Of 
+Single Variable 
+Calculus & 
+Several Variable 
+Calculus
+14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+14 
+
+ 
+PHY111 
+Physics 
+Laboratory 
+20 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+20 
+
+PHY112 
+Classical 
+Dynamics 
+5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+5 
+
+PHY113 
+Classical 
+Electrodynamics 
+5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+5 
+
+PHY114 
+Quantum Physics 
+3 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+3 
+
+PHY115 
+Oscillations And 
+Waves 
+3 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+3 
+
+ESC111M 
+Fundamentals Of 
+Computing - I 
+20 
+
+ 
+
+ 
+20 
+
+ 
+
+ 
+
+ 
+
+ 
+ESC112M 
+Fundamentals Of 
+Computing - II 
+20 
+
+ 
+
+ 
+20 
+
+ 
+
+ 
+
+ 
+
+ 
+LIF111 
+Introduction To 
+Biology
+
+[Page 11]
+Course No. 
+Course Title 
+Total 
+Sections 
+AE 
+BSBE 
+C
+E 
+CHE 
+CH
+M 
+CGS 
+CSE 
+DM
+S 
+DP 
+EC
+O 
+EE 
+ES 
+HS
+S 
+ME 
+MSE 
+MTH 
+PHY 
+SEE 
+SS
+A 
+TA111 
+Engineering 
+Graphics 
+20 
+5 
+ 
+5 
+
+ 
+
+ 
+
+ 
+ 
+5 
+5 
+
+ 
+ 
+ETH111 
+Practical Ethics 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ELC111/112/113 
+English Language 
+& Communication 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PE111 
+Morning Exercise 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ESO201 
+Thermodynamics 
+10 
+
+ 
+4 
+
+ 
+
+ 
+ 
+1 
+ 
+5 
+
+ 
+
+ESO202 
+Solid Mechanics 
+9 
+2 
+ 
+4 
+
+ 
+
+ 
+
+ 
+
+3 
+
+ 
+ 
+ESO204 
+Fluid Mechanics 
+9 
+4 
+
+4 
+
+ 
+
+ 
+ 
+1 
+
+ 
+
+ 
+ 
+ESO206 
+Principles of 
+Biotechnology 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ESO207 
+Data Structures 
+and Algorithms 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ESO208 
+Computational 
+Methods in Engg. 
+5 
+
+5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ESO213 
+Fundamentals of 
+Earth Sciences 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ESO225 
+Nature and 
+Properties of 
+Materials
+3 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 
+
+ 
+ 
+TA211 
+Manufacturing 
+Processes I 
+3 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 
+
+ 
+ 
+TA212 
+Manufacturing 
+Processes II 
+3 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+3 
+
+ 
+
+HSO201 
+Applied 
+Probability And 
+Statistics
+3 
+
+2 
+
+ 
+
+ 
+1 
+
+ 
+
+ 
+
+ 
+MSO202M 
+Complex 
+Variables 
+6 
+1 
+
+ 
+
+ 
+
+ 
+2 
+
+2 
+
+1
+
+[Page 12]
+Course No. 
+Course Title 
+Total 
+Sections 
+AE 
+BSBE 
+C
+E 
+CHE 
+CH
+M 
+CGS 
+CSE 
+DM
+S 
+DP 
+EC
+O 
+EE 
+ES 
+HS
+S 
+ME 
+MSE 
+MTH 
+PHY 
+SEE 
+SS
+A 
+MSO203M 
+Partial Differential 
+Equations 
+8 
+1 
+ 
+2 
+
+ 
+
+ 
+ 
+2 
+
+2 
+
+1 
+
+MSO205 
+Introduction To 
+Probability Theory 
+1 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+1 
+
+ 
+CE212 
+Environment and 
+Sustainability 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ECO111 
+Economy, Society 
+and Public Policy 
+3 
+
+ 
+
+ 
+
+ 
+3 
+
+ 
+
+ 
+
+ 
+DMS201 
+Introduction to 
+Management 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ESC201 
+Introduction to 
+Electronics 
+20 
+
+ 
+
+ 
+
+ 
+ 
+20 
+
+ 
+
+ 
+
+HSS-I 
+Humanities-I 
+19 
+
+ 
+
+ 
+
+ 
+
+ 
+19 
+
+ 
+
+ 
+HSS-II 
+Humanities-II 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MTH113M 
+Linear Algebra 
+2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+2 
+
+ 
+MTH114M 
+Ordinary 
+Differential 
+Equations
+2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+2
+
+[Page 13]
+Table 7: Department/IDP-wise Breakup of Tutorial Unit 
+Course No. 
+Course Title 
+TotalTU 
+AE 
+BSBE 
+CE 
+CHE 
+CHM 
+CGS 
+CSE 
+DMS 
+DP 
+ECO 
+EE 
+ES 
+HSS 
+ME 
+MSE 
+MTH 
+PHY 
+SEE 
+SS
+A 
+CHM111 
+Chemistry Lab 
+30 
+
+ 
+ 
+30 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CHM112M 
+General 
+Chemistry: 
+Physical 
+Chemistry
+1.75 
+
+ 
+ 
+1.75 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CHM113M 
+General 
+Chemistry: 
+Inorganic & 
+Organic 
+Chemistry
+1.75 
+
+ 
+ 
+1.75 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MTH111M 
+Single Variable 
+Calculus 
+3.5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+3.5 
+
+ 
+MTH112M 
+Application Of 
+Single Variable 
+Calculus & 
+Several Variable 
+Calculus
+3.5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+3.5 
+
+ 
+PHY111 
+Physics 
+Laboratory 
+30 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+30 
+
+PHY112 
+Classical 
+Dynamics 
+2.5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+2.5 
+
+PHY113 
+Classical 
+Electrodynamics 
+2.5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+2.5 
+
+PHY114 
+Quantum Physics 
+1.5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+1.5 
+
+PHY115 
+Oscillations And 
+Waves 
+1.5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+1.5 
+
+ESC111M 
+Fundamentals Of 
+Computing - I 
+20 
+
+ 
+
+ 
+20 
+
+ 
+
+ 
+
+ 
+
+ 
+ESC112M 
+Fundamentals Of 
+Computing - II 
+20 
+
+ 
+
+ 
+20 
+
+ 
+
+ 
+
+ 
+
+ 
+LIF111 
+Introduction To 
+Biology 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TA111 
+Engineering 
+Graphics 
+30 
+7.5 
+ 
+7.5 
+
+ 
+
+ 
+
+ 
+ 
+7.5 
+7.5
+
+[Page 14]
+Course No. 
+Course Title 
+TotalTU 
+AE 
+BSBE 
+CE 
+CHE 
+CHM 
+CGS 
+CSE 
+DMS 
+DP 
+ECO 
+EE 
+ES 
+HSS 
+ME 
+MSE 
+MTH 
+PHY 
+SEE 
+SS
+A 
+ETH111 
+Practical Ethics 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ELC111/112/113 
+English Language 
+& 
+Communication
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PE111 
+Morning Exercise 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ESO201 
+Thermodynamics 
+5 
+
+ 
+2 
+
+ 
+
+ 
+ 
+0.5 
+ 
+2.5 
+
+ 
+
+ESO202 
+Solid Mechanics 
+4.5 
+1 
+ 
+2 
+
+ 
+
+ 
+
+ 
+
+1.5 
+
+ 
+ 
+ESO204 
+Fluid Mechanics 
+4.5 
+2 
+
+2 
+
+ 
+
+ 
+ 
+0.5 
+
+ 
+
+ 
+ 
+ESO206 
+Principles of 
+Biotechnology 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ESO207 
+Data Structures 
+and Algorithms 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ESO208 
+Computational 
+Methods in Engg. 
+2.5 
+
+2.5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ESO213 
+Fundamentals of 
+Earth Sciences 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ESO225 
+Nature and 
+Properties of 
+Materials
+1.5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.5 
+
+ 
+ 
+TA211 
+Manufacturing 
+Processes I 
+4.5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.5 
+
+ 
+ 
+TA212 
+Manufacturing 
+Processes II 
+4.5 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+4.5 
+
+ 
+
+HSO201 
+Applied 
+Probability And 
+Statistics
+1.5 
+
+1 
+
+ 
+
+ 
+0.5 
+
+ 
+
+ 
+
+ 
+MSO202M 
+Complex 
+Variables 
+1.5 
+0.25 
+
+ 
+
+ 
+
+ 
+0.5 
+
+0.5 
+
+0.25 
+
+MSO203M 
+Partial 
+Differential 
+Equations
+2 
+0.25 
+ 
+0.5 
+
+ 
+
+ 
+ 
+0.5 
+
+0.5 
+
+0.25 
+
+MSO205 
+Introduction To 
+Probability 
+Theory
+0.5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+0.5 
+
+ 
+CE212 
+Environment and 
+Sustainability
+
+[Page 15]
+Course No. 
+Course Title 
+TotalTU 
+AE 
+BSBE 
+CE 
+CHE 
+CHM 
+CGS 
+CSE 
+DMS 
+DP 
+ECO 
+EE 
+ES 
+HSS 
+ME 
+MSE 
+MTH 
+PHY 
+SEE 
+SS
+A 
+ECO111 
+Economy, 
+Society and 
+Public Policy
+1.5 
+
+ 
+
+ 
+
+ 
+1.5 
+
+ 
+
+ 
+
+ 
+DMS201 
+Introduction to 
+Management 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ESC201 
+Introduction to 
+Electronics
+40 
+
+ 
+
+ 
+
+ 
+ 
+40 
+
+ 
+
+ 
+
+HSS-I 
+Humanities-I 
+9.5 
+
+ 
+
+ 
+
+ 
+
+ 
+9.5 
+
+ 
+
+ 
+HSS-II 
+Humanities-II 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MTH113M 
+Linear Algebra 
+0.5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+0.5 
+
+ 
+MTH114M 
+Ordinary 
+Differential 
+Equations
+0.5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+0.5 
+
+ 
+Total Tutorial Unit 
+ 
+11.0 
+0 
+13.5 
+4 
+33.5 
+0 
+40 
+0 
+0 
+2 
+41 
+1.0 
+9.5 
+15.5 
+15 
+8.5 
+38.5 
+0 
+0 
+Approximate Faculty Strength 
+ 
+32 
+25 
+45 
+28 
+39 
+5 
+33 
+26 
+8 
+24 
+53 
+16 
+29 
+44 
+28 
+54 
+50 
+9 
+4 
+Total Tutorial Unit per Faculty 
+ 
+0.34 
+0.00 
+0.30 
+0.14 
+0.86 
+0.00 
+1.21 
+0.00 
+0.00 
+0.08 
+0.77 
+0.06 
+0.33 
+0.35 
+0.54 
+0.16 
+0.77 
+0.00 
+0.00 
+ 
+Appendix 
+Important Information Regarding Individual Section Sizes for Various Courses and Work Load 
+1. Tutorial section sizes have been fixed based on last year’s CCC data/report and with inputs from respective HODs. 
+2. One tutor will be assigned per section (normally 30 students) for PHY111 and CHM111 laboratory sessions. 
+3. One tutor will be assigned per day (i.e., per four sections, i.e., ~ 120 students) for TA211 and TA212 labs. 
+4. Tutors assigned for ESC111M, ESC111M and ESC201 tutorials will also take care of the laboratory sessions of the same sections. 
+5. Increasing the number of sections in any course is undesirable. 
+6. The student number in each section may be increased slightly, i.e., up to 40 in sections normally having 35 students and up to 110 in sections normally having 100 
+students to prevent an increase in the number of sections. 
+7. The total registration in some courses has to be restricted considering seating capacity of the lecture hall assigned for the course. 
+8. The number of sections in some ESO/SO courses may be reduced in certain cases after registration, in case the number of students registered is less than expected. 
+9. ELC111/ELC112/ELC113 will be managed by DOAA but TAs will be provided by all the departments. 
+ 
+*****
+
+[Page 16]
+Core Curriculum Committee Members 
+
+ 
+Dr. Niraj Sinha 
+
+ 
+Dr. Onkar Dikshit 
+
+ 
+
+Dr. Arnab Samanta 
+
+ 
+Dr. Suchitra Mathur 
+
+ 
+
+(Convener)

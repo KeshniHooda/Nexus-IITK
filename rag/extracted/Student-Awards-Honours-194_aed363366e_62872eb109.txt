@@ -1,0 +1,25 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+Kanpur 208016 Uttar Pradesh(India)
+Academic Section
+
+Student Awards and Honours
+
+Student’s Name: Mr. C. S. Bhargav And Mr. Sagnik Dutta
+
+Programme and Department: PhD/ CSE And MSc/CSE
+
+Thesis Supervisor/Mentor: Prof. Nitin Saxena
+
+Award/Honour: Best student paper award at MFCS 2022
+
+Host Organization:
+Brief Description of the Award/Honour:Mr. C. S. Bhargav (PhD/CSE) and Mr. Sagnik
+Dutta (MSc/CSE) has been selected to be one of the winners of the best student paper
+award  at the 47th  International  Symposium on Mathematical Foundations  of
+Computer Science (MFCS 2022).
+
+The paper titled was ``Improved Lower Bound, and Proof Barrier, for Constant Depth
+Algebraic Circuits''.
+
+Date: Aug 19, 2022

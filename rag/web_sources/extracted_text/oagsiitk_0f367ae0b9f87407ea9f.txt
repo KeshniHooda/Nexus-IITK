@@ -1,0 +1,12 @@
+Sign In
+General Instructions
+Log in to Grade Management System using the CC User ID and Password.
+Please process one responsibility at a time. Opening multiple windows for different responsibilities at the same time may cause a problem.
+Please check and confirm the correct course name, academic year and student list in the grade entry form. Discrepancies, if any, may be reported immediately to the OARS office at courses@iitk.ac.in.
+To finally authenticate grade entries, click on "Authenticate Grade Entries" after saving all the grade entries.
+If you don't authenticate Grade Entries, they will be treated as "Not Submitted".
+Once you authenticate the Grade Entries, you may not be able to change them any more.
+Mozilla Firefox(70+), Google Chrome(70+) and Safari on MacOSX(12+) browsers are recommended to access the portal.
+Please enable JavaScript in your browser.
+If you experience any technical difficulties in the online grade submission process, please write to oaacad@iitk.ac.in.
+© 2021 Copyright: Office Automation Division, IIT Kanpur

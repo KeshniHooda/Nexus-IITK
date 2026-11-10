@@ -1,0 +1,71 @@
+[PAGE 1]
+Upload2011121.pdf                       UPDATED ON 04-AUG-2011
+
+REGISTRATION DATA STATISTICS FOR 2011-12/FIRST
+
+TOTAL NUMBER OF COURSES BEING OFFERED =                        443
+NO. OF COURSES EXCLUDEING THE THESIS, SEMINAR,
+PROJECT, BTP, SUMMER TRAINING, PRESENTATION ETC.                349
+
+MAXIMUM CLASS SIZE (MTH101A+MTH101N)                          829
+MINIMUM CLASS SIZE (AT PRESENT THERE ARE  349 COURSES)           1
+
+AVERAGE CLASS SIZE (OF ALL 349 COURSES )                           54.46
+NUMBER OF COURSES WITH 5 STUDENTS OR LESS                      24
+NUMBER OF COURSES WITH 100 STUDENTS OR MORE                    26
+
+AVERAGE CLASS SIZE OF COURSES THAT HAVE                         38.60
+> 5 AND LESS THEN 100 STUDENTS
+
+THE FOLLOWING IS THE NO OF COURSES WITH VARIOUS CLASS
+STRENGTH
+
+1            9
+2            5
+3            3
+4            1
+5            6
+6-10         36
+11-15        30
+16-20        28
+21-25        34
+26-30        21
+31-50        59
+51-75        53
+76-100       38
+> 100        26
+
+349
+
+04 AUG 2022
+
+[PAGE 2]
+Less5-2011121.pdf
+
+2011-12 FIRST SEMESTER
+LIST OF COURSES IN WHICH <= 5 STUDENTS REGISTERED.
+SN  COURSE  DEPT  TITLE                            INSTURCTOR                NO
+1   PSY798   HSS   ADVANCED COURSE IN SOCIAL COGN   SHIKHA DIXIT                       1
+2   PHI784   HSS   FORMAL SEMANTICS                NIRMALYA GUHA                   1
+3   MTH755  MTH   STATISTICAL INFERENCE            D KUNDU                          1
+4   MTH754  MTH   PROBABILITY THEORY               NEERAJ MISRA                     1
+5   SOC734  HSS   SOCIAL INEQUALITY AND STRATIFI     M JHA                             1
+6   ECO740  HSS   SEMINAR ON SELECTED TOPICS IN     SOMESH K MATHUR                 1
+7   SOC750  HSS   SOCIOLOGY OF RELIGION           A CHAKRABARTI                   1
+8   PHY647   PHY   ELECTRONICS                    KRISHNACHARYA                   1
+9   PSY776   HSS   SEMINAR COURSE IN PSYCHOLOGY     BRAJ BHUSHAN                    1
+1   PSY774   HSS   QUALITATIVE RESEARCH : THEORY     KUMAR RAVI PRIYA                 2
+2   ECO738  HSS   INTER-INDUSTRY ECONOMICS         K K SAXENA                       2
+3   ECO736  HSS   APPLIED ECONOMETRICS            S K MATHUR                       2
+4   ECO734  HSS   INDUSTRIAL ORGANISATION AND PO    P KULSHRESHTHA                  2
+5   ECO747  HSS   ENVIRONMENTAL ECONOMICS LEGISL   P M PRASAD                       2
+1   SOC723  HSS   INTRODUCTION TO STATISTICAL IN     A K SHARMA                       3
+2   MTH621  MTH   FOURIER ANALYSIS                 S MADAN                          3
+3   BSE681   BSBE  SPECIAL TOPICS IN BIOLOGICAL S      CONVENER DPGC                   3
+1   CE423    CE    INTRODUCTION TO EARTHQUATE ENG   VINAY KR GUPTA                   4
+1   SOC720  HSS   RESEARCH METHODS              B K PATTNAIK                      5
+2   PHY690A  PHY   INTRODUCTION TO LASER AND PHYS    H WANARE                         5
+3   MTH649  MTH   ALGEBRAIC TOPOLOGY             N NILAKANTHAN                    5
+4   MTH522  MTH   FINITE ELEMENT METHOD           B V R KUMAR                       5
+5   EE658    EE    FUZZY SET, LOGIC & SYSTEMS & A     N VERMA                          5
+6   ECO543  ECO   ENVIRONMENTAL IMPACT ASSESSMEN  B RATH                            5

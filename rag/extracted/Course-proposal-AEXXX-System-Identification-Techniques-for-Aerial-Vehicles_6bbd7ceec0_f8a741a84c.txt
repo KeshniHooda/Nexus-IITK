@@ -1,0 +1,71 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+Proposal for New Course
+Department of Aerospace Engineering
+
+Course Title: System Identification Techniques for Aerial Vehicles
+
+Course Number:
+
+Credits: 3-0-0-0 [9]
+
+Pre-requisite: AE647A or equivalent
+
+Who can take the course: Masters and Ph.D. Students
+
+Proposer & Instructor: Dr. Subrahmanyam Saderla
+Interested Second Instructor: Dr. Raghavendra P Kukillaya
+
+Course Objective: The objective of the course is to familiarize students with existing
+system identification techniques applied to flight vehicles. The focus will be on the
+applicability of various estimation techniques in different flight conditions and the
+quality of sensor data. This course will be beneficial for comprehensive analysis of flight
+vehicle’s performance, stability, and control.
+
+Course Content                                     Lecturehours
+1.    Introduction to system identification and its applications to flight vehicles        2
+2.   Mathematical modelling for nonlinear aircraft dynamics                    5
+Aircraft Simulation model with numerical integration techniques, linear
+3.                                                              2       and nonlinear aerodynamic models, flight envelope bifurcation
+Data Gathering from flight testing, Instrumentation, and optimal input   4.                                                              3        design
+5.    Filtering and compatibility analysis of flight data                          3
+Cost functions, Gauss-Newton optimization, and automatic gradient   6.                                                              5       computation with step-size control
+Equation error method, Weighted Least Squares, and Recursive Least
+7.                                                              6        Squares estimation for flight vehicle
+
+8.   Output error method for aerodynamic characterization of aircraft              6
+
+9.    Filter error method for linear and nonlinear systems                       6
+
+10.  Proof-of-match exercise                                           2
+Total Lecture Hours                                       40
+
+[PAGE 2]
+References:
+
+•   Nelson, Robert C. Flight Stability and Automatic Control, Vol. 2, WCB/McGraw Hill-1998
+•   Pamadi, Bandu N. Performance, Stability, Dynamics, and Control of Airplanes AIAA-2004
+•   Kimberlin, Ralph D. Flight Testing of Fixed-Wing Aircraft, AIAA-2003
+•   Goodwin, Graham C. Dynamic System Identification: Experiment Design and Data Analysis-
+1977
+•   Mehra, Raman. Optimal Inputs for Linear System Identification, IEEE Transactions-1974
+•   Draper, Norman R.    Applied Regression Analysis, Vol. 326, John Wiley & Sons-1998
+•   Myers, Raymond H.     Classical and Modern Regression with Applications, Vol. 2, Duxbury
+Press-1990
+•   Rossi, Richard J. Mathematical Statistics: An Introduction to Likelihood-Based Inference, John
+Wiley & Sons-2018
+•   Jategaonkar, Ravindra V. Flight Vehicle System Identification: A Time Domain Methodology, Vol.
+216, AIAA Series-2006
+•   Simon, Dan. Optimal State Estimation: Kalman, H∞, and Nonlinear Approaches, John Wiley &
+Sons-2006
+•   Haykin, Simon. Kalman Filtering and Neural Networks, Vol. 47, John Wiley & Sons-2004
+
+Dated: 20-03-2024
+Proposer: SUBRAHMANYAM SADERLA
+
+Dated:
+DPGC Convener:
+
+This course is approved/not approved.
+Chairperson, SPGC.
+Dated:

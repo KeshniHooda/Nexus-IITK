@@ -1,0 +1,123 @@
+[Page 1]
+Plagiarism Check Procedure by: Turnitin
+
+[Page 2]
+Home Page: Turniting
+https://www.turnitin.com
+
+[Page 3]
+Login Page Turnitin: 
+Login Turnitin Account
+
+[Page 4]
+Create / Add a 
+Class
+
+[Page 5]
+Click Submit for Add a 
+Class
+
+[Page 6]
+Open a Class by Clicking Class 
+Name.
+
+[Page 7]
+Select Add Assignment 
+for new student
+
+[Page 8]
+Assignment title should 
+be student’s Name and 
+roll no. e.g.- ABC 
+(12345678)
+Feedback release date 
+should be after approx. 
+21 days of Start date.
+
+[Page 9]
+Reset small match exclusion 
+type up to 10 words.
+
+[Page 10]
+Click Submit for 
+Creating Assignment.
+
+[Page 11]
+After Creating Assignment Click Students 
+Option for Add Student.
+
+[Page 12]
+Click Add Students option
+
+[Page 13]
+Fill the details as First Name 
+should be Roll No of student, 
+Last Name Should be Full Name 
+of student, E-mail id (IITK) of 
+student & Click Submit.
+
+[Page 14]
+Select Assignment for Similarity 
+Check by clicking ‘View’.
+
+[Page 15]
+Click “Submit” for checking 
+Similarity of edited Student 
+Thesis.
+
+[Page 16]
+Select Student from drop down list.
+Add Submission Title as “Thesis Title”.
+Upload Student modified Thesis (Splitted
+Thesis) from Computer & Click upload.
+List of Splitting Things of Thesis:
+Title, Certificate, Declaration, Acknowledgements, Dedicated To /
+In Memory of , List of Tables / Contents, List of Figures, Symbols,
+References / Bibliography, Chapter References, Certificate of
+Course Work, Certificate of Academic Integrity, Specific Research
+Accomplishment
+List
+of
+Publications,
+Nomenclatures/
+Abbreviations/ Acronyms & Copy Right Certificate.
+List of Not Splitting Things of Thesis:
+Synopsis, Abstract, Chapter, Endnote, Footnote, Illustrations,
+Appendix & Annexure.
+
+[Page 17]
+Click Confirm.
+
+[Page 18]
+Click Go to Assignment Inbox.
+
+[Page 19]
+Click the Percentage 
+icon for view Similarity 
+Report.
+
+[Page 20]
+Click the Download 
+Button for Downloading 
+the Similarity Report.
+
+[Page 21]
+Click the Download 
+Button for Downloading 
+the Similarity Report.
+For excluding the Source, 
+click the arrow of 
+Selected Source.
+
+[Page 22]
+Click the Exclude Sources
+
+[Page 23]
+Selected the Sources by 
+Clicking Checkbox.
+
+[Page 24]
+After Selecting the Source, click Exclude Source. (You 
+Can Selected many sources in this list). After 
+excluding the Selected sources you can download 
+new report by clicking download Option.

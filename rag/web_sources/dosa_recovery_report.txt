@@ -1,0 +1,44 @@
+BABYBOT DOSA PDF RECOVERY REPORT
+Run: 2026-11-10T16:07:35
+Scope: only 18 previously skipped DOSA PDFs; no website crawl.
+
+[1/18] Fee_Structure_for_Non-Degree_Students_for_2026-27_1st_semester-16-07-26.pdf
+  NEEDS_OCR | 2 words | C:\Users\keshni\OneDrive\Desktop\THIS_GNANI_THING_BRO\rag\web_sources\dosa_recovered_files\Fee_Structure_for_Non-Degree_Students_for_2026-27_1st_semester-16-07-26.pdf
+[2/18] Fee_Structure_for_Preparatory_Students_for_2026-27_1st_semester-16-07-26.pdf
+  NEEDS_OCR | 2 words | C:\Users\keshni\OneDrive\Desktop\THIS_GNANI_THING_BRO\rag\web_sources\dosa_recovered_files\Fee_Structure_for_Preparatory_Students_for_2026-27_1st_semester-16-07-26.pdf
+[3/18] Cumulative-Fee-Structure-for-Loan-for-Academic-Session-2026-2027-07-07-26.pdf
+  EXTRACTED | 10 words | 1 chunks | C:\Users\keshni\OneDrive\Desktop\THIS_GNANI_THING_BRO\rag\web_sources\dosa_recovered_files\Cumulative-Fee-Structure-for-Loan-for-Academic-Session-2026-2027-07-07-26.pdf
+[4/18] Fee-Structure-for-New-FN-for-2026-2027-1st-07-07-26.pdf
+  NEEDS_OCR | 2 words | C:\Users\keshni\OneDrive\Desktop\THIS_GNANI_THING_BRO\rag\web_sources\dosa_recovered_files\Fee-Structure-for-New-FN-for-2026-2027-1st-07-07-26.pdf
+[5/18] Fee-Structure-for-New-UG-for-2026-2027-1st-07-07-26.pdf
+  NEEDS_OCR | 2 words | C:\Users\keshni\OneDrive\Desktop\THIS_GNANI_THING_BRO\rag\web_sources\dosa_recovered_files\Fee-Structure-for-New-UG-for-2026-2027-1st-07-07-26.pdf
+[6/18] Fee-Structure-for-New-PG-for-2026-2027-1st-07-07-26.pdf
+  NEEDS_OCR | 2 words | C:\Users\keshni\OneDrive\Desktop\THIS_GNANI_THING_BRO\rag\web_sources\dosa_recovered_files\Fee-Structure-for-New-PG-for-2026-2027-1st-07-07-26.pdf
+[7/18] Fee-Structure-For-Summer-2025-26-06-05-26.pdf
+  NEEDS_OCR | 4 words | C:\Users\keshni\OneDrive\Desktop\THIS_GNANI_THING_BRO\rag\web_sources\dosa_recovered_files\Fee-Structure-For-Summer-2025-26-06-05-26.pdf
+[8/18] Fee-Structure-for-Non-Degree-Students-2025-26-Even-11-12-25.pdf
+  NEEDS_OCR | 2 words | C:\Users\keshni\OneDrive\Desktop\THIS_GNANI_THING_BRO\rag\web_sources\dosa_recovered_files\Fee-Structure-for-Non-Degree-Students-2025-26-Even-11-12-25.pdf
+[9/18] Fee_Structure_2025_2026_Even_Sem_New_PG_and_FN_students-28-11-25.pdf
+  NEEDS_OCR | 4 words | C:\Users\keshni\OneDrive\Desktop\THIS_GNANI_THING_BRO\rag\web_sources\dosa_recovered_files\Fee_Structure_2025_2026_Even_Sem_New_PG_and_FN_students-28-11-25.pdf
+[10/18] Fee-Structure-for-Old-FN-for-2026-2027-1st-07-07-26.pdf
+  NEEDS_OCR | 4 words | C:\Users\keshni\OneDrive\Desktop\THIS_GNANI_THING_BRO\rag\web_sources\dosa_recovered_files\Fee-Structure-for-Old-FN-for-2026-2027-1st-07-07-26.pdf
+[11/18] Fee-Structure-for-Old-PG-for-2026-2027-1st-07-07-26.pdf
+  NEEDS_OCR | 4 words | C:\Users\keshni\OneDrive\Desktop\THIS_GNANI_THING_BRO\rag\web_sources\dosa_recovered_files\Fee-Structure-for-Old-PG-for-2026-2027-1st-07-07-26.pdf
+[12/18] Fee-Structure-for-Old-UG-for-2026-2027-1st-07-07-26.pdf
+  NEEDS_OCR | 2 words | C:\Users\keshni\OneDrive\Desktop\THIS_GNANI_THING_BRO\rag\web_sources\dosa_recovered_files\Fee-Structure-for-Old-UG-for-2026-2027-1st-07-07-26.pdf
+[13/18] Fee_Structure_2025_2026_Even_Sem_Old_UG_PG_and_FN_Students-28-11-25.pdf
+  EXTRACTED | 10 words | 1 chunks | C:\Users\keshni\OneDrive\Desktop\THIS_GNANI_THING_BRO\rag\web_sources\dosa_recovered_files\Fee_Structure_2025_2026_Even_Sem_Old_UG_PG_and_FN_Students-28-11-25.pdf
+[14/18] Fee-Structure-for-Summer-2024-25-03-05-25.pdf
+  NEEDS_OCR | 2 words | C:\Users\keshni\OneDrive\Desktop\THIS_GNANI_THING_BRO\rag\web_sources\dosa_recovered_files\Fee-Structure-for-Summer-2024-25-03-05-25.pdf
+[15/18] Fee-Structure-for-Old-Students-2025-2026-Odd-Semester-03-05-25.pdf
+  NEEDS_OCR | 6 words | C:\Users\keshni\OneDrive\Desktop\THIS_GNANI_THING_BRO\rag\web_sources\dosa_recovered_files\Fee-Structure-for-Old-Students-2025-2026-Odd-Semester-03-05-25.pdf
+[16/18] Day-Scholar-for-new-students_15-07-24.pdf
+  NEEDS_OCR | 4 words | C:\Users\keshni\OneDrive\Desktop\THIS_GNANI_THING_BRO\rag\web_sources\dosa_recovered_files\Day-Scholar-for-new-students_15-07-24.pdf
+[17/18] new_Guideline_and_SOP_for_SBF_Scholarship_and_Loan_Reg-13-03-24.pdf
+  EXTRACTED | 12 words | 1 chunks | C:\Users\keshni\OneDrive\Desktop\THIS_GNANI_THING_BRO\rag\web_sources\dosa_recovered_files\new_Guideline_and_SOP_for_SBF_Scholarship_and_Loan_Reg-13-03-24.pdf
+[18/18] Students-Ombudsperson.pdf
+  NEEDS_OCR | 2 words | C:\Users\keshni\OneDrive\Desktop\THIS_GNANI_THING_BRO\rag\web_sources\dosa_recovered_files\Students-Ombudsperson.pdf
+
+Total recovered chunks: 3
+Output: chunks\dosa_recovered_chunks.jsonl
+Existing dosa_chunks.jsonl was not changed.

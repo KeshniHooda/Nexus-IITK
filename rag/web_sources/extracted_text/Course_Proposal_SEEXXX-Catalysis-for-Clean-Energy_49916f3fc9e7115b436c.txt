@@ -1,0 +1,177 @@
+[Page 1]
+Indian Institute of Technology, Kanpur 
+Proposal for a New Course 
+
+1. Course No: SEE-XXX 
+ 
+2. Course Title: Catalysis for Clean Energy 
+ 
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours[0-2]: 0 (A), 
+ Credits (3*L+2*T+P+A): 9 
+ 
+Duration of Course: Full Semester / Modular 
+ 
+4. Proposing Department/IDP : Sustainable Energy Engineering 
+ 
+ Other Departments/IDPs which may be interested in the proposed course: CHM, CHE, MSE, 
+MSP, CE, and ME 
+ 
+ Other faculty members interested in teaching the proposed course: 
+ 
+5. Proposing Instructor(s): Sayan Kar 
+ 
+6. Course Description: 
+ 
+A) Objectives: 
+ 
+The objective of this course is to provide students with a conceptual overview of the role of 
+catalysis in the clean energy transition. Students will be taught basic catalytic principles, their 
+role in current energy systems, the importance of catalytic transformations in the green 
+energy framework, and case studies on recent global developments in this area. 
+ 
+B) Contents (preferably in the form of 5 to 10 broad titles): 
+ 
+S. No 
+Broad Title 
+Topics 
+No. of 
+Lectures 
+1 
+Introduction 
+Catalysis in the current energy framework, 
+catalysis for energy transition, key catalytic 
+processes, catalyst materials 
+ 
+2 
+2 
+Fundamentals of 
+catalysis 
+Types of catalysis – homogeneous, 
+heterogeneous, enzymatic, Surface science: 
+adsorption desorption, Catalysis preparation 
+and characterisation methods, Catalysis 
+mechanism and kinetics, Catalyst deactivation 
+and regeneration, Catalysis classifications by 
+energy input: Thermocatalysis, Electrocatalysis, 
+Photocatalysis, Biocatalysis, Plasma catalysis. 
+Working principles 
+ 
+10
+
+[Page 2]
+Indian Institute of Technology, Kanpur 
+Proposal for a New Course 
+ 
+3 
+Catalysis for H2 
+production 
+Steam methane reforming, water gas shift 
+reaction, Electrochemical green H2 production, 
+Photochemical water splitting, Thermochemical 
+processes for green H2, Plasma catalysis 
+ 
+5 
+4 
+CO2 utilisation and 
+reduction catalysis 
+Carbon cycle, CCUS and CO2 recycling, CO2 
+reduction pathways – thermochemical 
+hydrogenation (to syngas, methanol, ethylene), 
+reverse water gas shift reaction, CO2 electrolysis, 
+Solar powered CO2 reduction, artificial 
+photosynthesis, Process integration and 
+transition, Industrial scale CO2 utilisation 
+ 
+6 
+5 
+Catalysis in fuel cells 
+and batteries 
+Basics of fuel cells, catalysts in fuel cells, solid 
+oxide fuel cells, hydrogen evolution, oxygen 
+reduction and oxygen evolution reactions, direct 
+methanol fuel cells, electrocatalysis in energy 
+storage 
+ 
+5 
+6 
+Catalytic waste to 
+energy 
+Waste to wealth technologies, biomass to 
+biofuel, pyrolysis, gasification, hydrothermal 
+methods, biocatalytic processes to biogas, 
+bioethanol production, biodiesel, plastic to fuel, 
+waste to green hydrogen, biomass to carbon 
+feedstocks 
+ 
+6 
+7 
+Emerging topics and 
+case studies 
+Metal organic frameworks, single atom 
+catalysis, Plasma-assisted catalysis, Artificial 
+intelligence and machine learning in catalysis, 
+Industrial case studies (green H2 plant, CO2 
+reduction plant, biomass to energy plants) 
+ 
+5 
+Total 
+39 
+ 
+C) Pre-requisites, if any: Approval for instructor faculty 
+ 
+D) Short summary for including in the Courses of Study Booklet 
+ 
+This course will cover the importance of catalytic processes in the global energy transition from 
+fossil-based infrastructures to a renewable framework. Catalysis plays an integral role in several 
+clean energy generation and storage applications, including green hydrogen production, carbon 
+dioxide recycling, waste-to-fuel conversion, batteries, and fuel cells – all of which will be covered 
+in the course. The recent industrial shift towards decarbonization based on catalytic processes 
+will also be covered.
+
+[Page 3]
+Indian Institute of Technology, Kanpur 
+Proposal for a New Course 
+ 
+7. Recommended books: 
+ 
+• 
+Introduction to catalysis and industrial catalytic processes, Robert J. Farrauto, Lucas 
+Dorazio, C.H. Bartholomew, Wiley (2016) 
+• 
+Catalysis for Renewables: From Feedstock to Energy Production, Editor(s): Prof. Gabriele 
+Centi, Prof. Dr. Rutger A. van Santen, Wiley (2007) 
+• 
+Chemical Technologies in the Energy Transition, Edited by Robin J. White; Marta Costa 
+Figueiredo, Energy And Environment Series, RSC (2024) 
+• 
+Challenges and Opportunities in Green Hydrogen Production, Editors: Paramvir Singh, 
+Avinash Kumar Agarwal, Anupma Thakur, R. K. Sinha, Springer (2024) 
+• 
+Photo- and Electro-Catalytic Processes: Water Splitting, N2 Fixing, CO2 Reduction, Editor(s): 
+Jianmin Ma, Wiley (2022) 
+• 
+Fuel Cell Catalysis: A Surface Science Approach, Marc Koper (Editor), Andrzej Wieckowski, 
+ISBN: 978-0-470-46374-1, Wiley (2009) 
+• 
+Wealth from Waste: trends and technologies (Third Edition), Author(s): Banwari Lal and 
+Priyangshu M Sarma, TERI Press (2015) 
+• 
+Nyong, B. E. Catalysis in Renewable Energy: Theoretical Insights and Industrial Applications. 
+Renewable and Sustainable Energy Technology 2025. 
+
+8. Any other remarks: None 
+
+ 
+Dated:___28/10/2025______ Proposer:________Sayan Kar__________ 
+
+ 
+Dated:_______________ DUGC/DPGC Convener:___________________ 
+
+ 
+The course is approved / not approved 
+
+ 
+ 
+Chairman, SUGC/SPGC 
+
+Dated:______________________________

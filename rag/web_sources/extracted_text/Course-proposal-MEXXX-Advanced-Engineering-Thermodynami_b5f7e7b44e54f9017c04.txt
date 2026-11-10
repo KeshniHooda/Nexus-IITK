@@ -1,0 +1,171 @@
+[Page 1]
+Indian Institute of Technology, Kanpur 
+Proposal for a New Course 
+1. Course No: ME*** 
+2. Course Title: Advanced Engineering Thermodynamics 
+3. Per week Lectures: 3 (L), Tutorials: 0 (T), Laboratory: 0 (P), Additional Hours: 0(A) 
+4. Credits(3*L+2*T+P+A) : 9 
+5. Duration of Course: Full Semester 
+6. Proposing Department/IDP: Mechanical Engineering 
+Other Department/IDP which may be interested in the proposed course: SEE, AE 
+Other faculty members interested in teaching the proposed course: 
+Malay Kumar Das (ME), Vaibhav Arghode (AE/SEE) 
+7. Proposing Instructor(s): Jishnu Bhattacharya (ME) 
+8. Course description 
+A) Objective: 
+The course is targeted to the PG students with background in mechanical 
+engineering who are familiar with the basic UG thermodynamics course. In 
+many cases, these students need familiarity with advanced topics in 
+thermodynamics to apply in their inter-disciplinary research problems. The 
+topics which are covered in material science, chemical engineering, 
+physics or chemistry courses on thermodynamics often remain out of 
+access for the students with mechanical engineering background. The 
+proposed course attempts to bridge this specific gap.
+
+[Page 2]
+B) Contents 
+S. No 
+Broad Title 
+Topics 
+No of 
+Lectures 
+1 
+Thermodynamic 
+Property 
+Relations 
+Maxwell equation, Clapeyron equation, 
+Clausius-Clapeyron equation, 
+Generalized form of first and second 
+law, Equations of state 
+2 
+2 
+Characteristic 
+potentials 
+Euler relation, Gibbs-Duhem relation, 
+Legendre transform, Characteristic 
+potential and its significance in terms of 
+equilibrium 
+2 
+3 
+Pure substances Response functions, Relationships 
+between different response functions, 
+Joule-Thompson coefficient, Phase rule, 
+Pure substance phase diagram 
+3 
+4 
+Mixtures 
+Partial Molar quantities, Chemical 
+potential, Gibbs-Duhem relation, Ideal 
+gas mixture, Real gas mixture, Fugacity 
+3 
+5 
+Solutions 
+Chemical potential of liquid, Raoult’s 
+law, Henry’s law, Ideal solution, Ideal-
+dilute solution, Regular solution, 
+Properties of mixing 
+4 
+6 
+Colligative 
+properties 
+Lowering of vapour pressure, Elevation 
+of boiling point, Depression of freezing 
+point, Osmotic pressure, ideal solubility 
+limit 
+3 
+7 
+Activities 
+Activity of solvent, activity of solute, 
+activity in terms of molality, Regular 
+solution model, activities of ions, mean 
+3
+
+[Page 3]
+activity coefficient, Debye-Huckel 
+limiting law 
+8 
+Binary Phase 
+Diagrams 
+Vapour pressure diagram, Vapour 
+composition, Bubble point and Dew 
+point, pressure-composition phase 
+diagram, temperature-composition 
+phase diagram, Combined VLE diagram, 
+azeotropes, miscibility gap, spinodal, 
+upper and lower critical points, Eutectic, 
+Eutectoid, solid solution 
+5 
+9 
+Chemical 
+Equilibrium 
+Reaction Gibbs free energy, Formation 
+Gibbs energy, Reaction quotient, 
+Equilibrium constant, Molecular 
+interpretation, Response to pressure 
+and temperature change, La-Chatelier 
+principle, Van’t Hoff equation 
+5 
+10 
+Electrochemical 
+cells 
+Redox reaction, Half-cell reaction, Cell 
+configurations, Nernst equation, Cell 
+potential, Standard electrode potential, 
+Standard Hydrogen electrode, 
+Temperature coefficient, 
+Electrochemical series 
+4 
+11 
+Statistical 
+thermodynamics 
+Configuration, Degeneracy, Most 
+probable distribution, Boltzmann 
+distribution, Partition function, Lagrange 
+multipliers, Uniform ladder, Product of 
+partition functions, Canonical 
+ensemble, Mean energy, Heat capacity, 
+Entropy, Derived functions 
+6
+
+[Page 4]
+C) Pre-requisites: 
+ 
+Undergraduate 
+Engineering 
+Thermodynamics 
+(Equivalent to ESO201) 
+D) Short summary 
+The course is for the PG students with background in mechanical 
+engineering who lack familiarity with advanced topics in thermodynamics 
+from other streams of science which are often necessary in their inter-
+disciplinary research. The broad topics which will be covered in this course 
+are as follows: Thermodynamic property relations, Characteristic 
+potentials, Pure substance, Mixtures, Solutions, Colligative properties, 
+Activities, Binary phase diagram, Chemical equilibrium, Electrochemical 
+cells and Statistical thermodynamics. 
+9. Recommended books 
+a. Engineering Thermodynamics: Cengel and Boles 
+b. Chemical Engineering Thermodynamics: Smith, Ness and Abbott 
+c. Fundamentals of Classical Thermodynamics: Van Wylen, Sonntag and 
+Borgnakke 
+d. Physical Chemistry: Atkins and De Paula 
+e. Statistical Thermodynamics: McQuarrie 
+10. Any Other remarks: Nil
+
+[Page 5]
+Dated: 
+
+ 
+ 
+Proposer: 
+ 
+Dated: 
+
+ 
+ 
+DPGC Convener: 
+
+The course is approved or not 
+
+Chairman, SPGC 
+Dated:

@@ -1,0 +1,267 @@
+[PAGE 1]
+AEROSPACE
+ENGINEERING
+
+POST GRADUATE PROGRAMME
+
+Website: https://www.iitk.ac.in/aero/
+
+[PAGE 2]
+AEROSPACE ENGINEERING
+
+Established in 1964, the Aerospace Engineering department of IIT Kanpur is a premier
+teaching and research centre today. The department specializes in the core domains of
+aerodynamics, flight mechanics, propulsion, structures and structural dynamics, and the
+multi-disciplinary areas such as computational mechanics, aero thermal sciences, and
+unmanned aerial systems. Over the years, the department  has engaged with a large
+number of organizations including NAL, GTRE, HAL, DRDL, ADE, ARDE, ADA, ADRDE,
+ISRO, IAF, USAF, BARC, DMRL, DLJ, Boeing, Pratt and Whitney, Airbus and GE for scientific
+and engineering research. Among the world. class experimental and computational
+facilities, it includes the unique Flight  Laboratory with three powered aircrafts and a
+moto glider along with a 880m long runway and DGCA-approved maintenance facilities.
+IIT Kanpur is proud to house the National Wind Tunnel Facility with a 3m x 2.25m test
+section which has supported  leading national and international organizations for their
+testing needs.
+
+The faculty expertise encompasses a wide range of domains and specializations which
+include but are not limited to computational and experimental subsonic,  transonic,
+supersonic and hypersonic flows; design and optimization of the  composite materials
+and structures for static, dynamic and impact loadings; multi scale material modelling;
+combustion-related computations and experiments; novel propulsion systems; space and
+satellite dynamics and control; guidance, navigation and control of aerospace vehicles;
+planetary mission design and systems engineering.
+
+In addition to the long running premier MTech program in Aerospace Engineering, the
+department has launched a new MTech program  in Unmanned  Aerial Systems
+Engineering, supported by the Ministry of Electronics and Information Technology
+(MeitY), to give specialized training in Drone / Unmanned Aerial Systems. This is the first
+such program in India.
+
+[PAGE 3]
+POST-GRADUATE
+PROGRAMMES OFFERED
+
+M.Tech in Aerospace Engineering:
+i.   Aerodynamics
+ii.   Aero-Thermodynamics and Thermal Sciences
+iii.  Computational Mechanics
+iv.   Flight Mechanics
+v.   Propulsion
+vi.   Structures, Structural Dynamics and Aeroelasticity
+
+MS(R) in Aerospace Engineering:
+i.   Aerodynamics
+ii.    Flight Mechanics
+iii.   Propulsion
+iv.   Structures, Structural Dynamics and Aeroelasticity
+
+M.Tech in Unmanned Aerial Systems Engineering*:
+i.   Aeromechanics and Design
+ii.   Autonomy
+
+Ph.D in Aerospace Engineering:
+i.   Aerodynamics
+ii.   Aero-Thermodynamics and Thermal Sciences
+iii.  Computational Mechanics
+iv.   Flight Mechanics
+v.   Propulsion
+vi.   Structures, Structural Dynamics and Aeroelasticity
+
+*supportedbyMinistryofElectronicsandInformationTechnology(MeitY)
+
+[PAGE 4]
+FACILITIES
+
+ Aeromodelling Lab
+
+  Flight Lab
+
+ High Speed Aerodynamics Lab
+
+ Low Speed Aerodynamics Lab
+
+  National Wind Tunnel Facility
+
+ Propulsion Lab
+
+  Structures Lab
+
+[PAGE 5]
+RESEARCH LABORATORIES
+
+ Advanced Combustion and Acoustics Lab
+
+ CFD Lab
+
+ Combustion Lab
+
+ Computational Propulsion Lab
+
+  Fire Lab
+
+ Flow Physics Computations and Analysis Lab
+
+  Fluid Dynamics Lab
+
+  Helicopter and VTOL Lab
+
+ High Performance Computing Lab
+
+ Hypersonics Experimental Aerodynamics Lab
+
+  Jet-acoustics and Flow Control Lab
+
+  Structural Analysis Lab
+
+  Structures and Advanced Materials Characterization Lab
+
+ System Dynamics and Control Lab
+
+ Unsteady Aerodynamics Lab
+
+[PAGE 6]
+FACULTY LIST
+
+❖  Abhishek, PhD (University of Maryland, College Park): Rotorcraft aeromechanics,
+futuristic VTOL/STOL systems, aerial  vehicle design, Unmanned Aerial Systems,
+Inverse flight dynamics and wind turbines.
+❖  A. Kushari, PhD (Georgia Tech): Propulsion, Combustion, Liquid Atomization, Flow
+Control.
+❖  Ajay Vikram Singh, PhD (University of Maryland, College Park): Combustion and
+Reacting Flows, Combustion Generated  Functional Nanoparticles, Soot Formation
+and Oxidation, Fire Dynamics, Detonations and Explosions.
+❖  Alakesh C. Mandal, PhD (IISc Bangalore): Experimental Aerodynamics, Flow
+instability and transition, Turbulent Shear flow.
+❖  Arnab Samanta, PhD  (University  of  Illinois  at Urbana-Champaign):  Fluid
+Mechanics, Aeroacoustics, Hydrodynamic Stability, Flow Control, Wave Motion.
+❖  Arun Kumar P, PhD (IIT Kanpur): Subsonic and Supersonic jets, Flow control, Jet
+acoustics.
+❖  Ashish  Tewari, PhD  (University  of  Missouri  at  Rolla);  Flight  Mechanics,
+Aeroservoelasticity, Space Dynamics and Control.
+❖  Ashoke De, PhD (Louisiana State University): CFD, High Speed Flows, Flow-
+Acoustics Coupling, Fluid-Structure  Interaction, Turbulence Modeling, Multiphase
+flows and Combustion, Energy Harvesting.
+❖  C.  S. Upadhyay, PhD (Texas A&M University): Adaptive and  efficient FEM,
+continuum mechanics, continuum damage modeling  of composites, phase-field
+modeling, topology optimization, super-wood and green composites, multi-functional
+structures.
+❖  D. Chaitanya Kumar Rao, PhD (IIT Kharagpur): Evaporation and combustion of
+fuel droplets, Laser-induced evaporation and atomization of droplets, Pulse laser-
+induced atomization of droplets, Femtosecond laser-induced bubble dynamics.
+❖  D. P. Mishra, PhD (IISc Bangalore): Combustion, CFD of Chemically Reacting Flows,
+Propulsion, Heat Transfer.
+❖ Debopam  Das, PhD  (IISc  Bangalore):  Theoretical  and  Experimental  Fluid
+Dynamics, Aeroacoustics,   Instability &  transition, Vortex Dynamics. Unsteady
+Aerodynamics, Bird's and Insect's Flight.
+❖  Dipak K. Giri, PhD (IIT Kharagpur): Spacecraft Dynamics and Control, Space
+Explorations: On-orbit   Servicing, Space Debris Removal, Orbital Infrastructure
+Design in LEO, MEO, GEO.
+❖  G. M. Kamath, PhD (University of Maryland, College Park): Structural Health
+Monitoring, Composite Materials and  Structures, Structural Dynamics, Condition
+Monitoring, Machine Learning, Aeroelasticity.
+❖  Kamal Poddar, PhD (UC San Diego):Aerodynamics, Turbulence, Low and High
+Speed Flows.
+❖ Mohammed Ibrahim Sugarno, PhD (IISc, Bengaluru): Experimental Hypersonic
+Aerothermodynamics, High Enthalpy Test Facilities, Shock Waves.
+❖  Navrose, PhD  (IIT  Kanpur):  Fluid  Mechanics,  Fluid-Structure  Interaction,
+Optimization, Flow Stability and Control
+❖  Pradeep Moise, PhD (IISc, Bengaluru):CFD, Vortex breakdown in swirling flows,
+Swirl in cardiac flows,  tornadoes and wind turbines, Transonic buffet, Resolvent
+analysis.
+❖  Pritam Chakraborty, PhD (Ohio  State  University):Mesoscale mechanics  for
+plasticity, fatigue, creep and fracture; FEM; Multi-scale methods.
+❖   P. M. Mohite, PhD (IIT Kanpur): Damage Mechanics of Laminated Composites,
+Composites, Finite  Element Analysis, Inflatable and Deployable Space Structures,
+load bearing Radar Absorbing structures.
+
+[PAGE 7]
+FACULTY LIST
+
+❖  Rachana Agrawal, PhD (Purdue University): Space mission design; Planetary
+mission  architectures; Astrodynamics; Space systems design and development;
+Systems engineering; Entry, descent, and landing (EDL); Small spacecraft technology.
+❖  Raghavendra P. Kukillaya, PhD (Princeton University): Aircraft and Airship Flight
+Dynamics and Control, Systems Modelling, Simulation and Design, Optimal Control,
+Biomechanics.
+❖  Rajesh Kitey, PhD (Auburn University): Fracture Mechanics, Composite Materials,
+Experimental Stress Analysis, Optical Metrology, Thin Films, Finite Element Method.
+❖  Rajesh Ranjan, PhD (JNCASR, Bengaluru): CFD, Turbomachinery Flows, Applied
+Aerodynamics, Transitional and Turbulent Flows, Stability and Flow Control, HPC.
+❖  Rakesh Kumar, PhD (Penn State University): Hypersonics, Rarefied Gas Dynamics,
+Microfluidics, Molecular Dynamics, Heat Transfer & Thermal Design.
+❖  Sanjay Kumar, PhD  (Caltech):  Fluid Mechanics  -  bluff body wakes, shock-
+accelerated flows, shock waves, shock tubes.
+❖  Sanjay Mittal, PhD (University of Minnesota): Unsteady Aerodynamics, CFD, FEM,
+Low speed Wind-Tunnel Testing, Bluff Body Flows, Shape Optimization, Sports Balls,
+Flows in air intakes.
+❖  Sathesh Mariappan, PhD (IIT Madras): Combustion-driven oscillations, Machine
+learning methods to develop accurate low-order models, Optical flow diagnostics,
+and     Acoustic  measurements,  Thermoacoustic  machines,  and  Rotorcraft
+aerodynamics
+❖  Subrahmanyam Saderla, PhD (IIT Kanpur): Online System Identification, UAV
+Design and Flight tests, Experimental Flight dynamics.
+❖  Tanmay Dutt Mathur, PhD (Penn State University): Rotorcraft drive systems,
+Power gearbox for geared aero engines, wind turbines, and farm machinery, Design,
+testing, and  reliability   analysis of rotating machinery, Contact mechanics and
+tribology, Rotordynamics,  Supercritical CO2 based turbomachinery, FEM, BEM, and
+multiscale methods for structural analysis
+❖  Tufan Kumar Guha, PhD (Florida State University): Experimental Aerodynamics
+and Fluid Mechanics, Active and Passive Flow Control.
+❖  Vaibhav Arghode, PhD (University of Maryland, College Park): Combustion, Heat
+Transfer, Fluid Mechanics, Experimental Methods, Computational Fluid Dynamics.
+
+[PAGE 8]
+BROAD RESEARCH AREAS
+
+   Acoustics & Aeroacoustics
+   Aeroelasticity
+  Aeromechanics
+   Avionics
+  CFD and High-performance Computing
+  Composite Materials and Smart Structures
+  Damage Modeling
+  Design & Control
+  Design and Dynamics of Autonomous Micro and Mini Air Vehicles
+   Electric Propulsion
+  Emissions
+  Experimental Aerodynamics
+  Experimental and Computational Combustion
+  Flapping-Wing Flight Mechanics and Control
+   Flight Testing
+  Flow Control (High-speed & Low-speed)
+  Flow Diagnostics
+   Fluid-Structure Interactions
+   Helicopter Theory (Dynamics & Aerodynamics)
+  Hypersonic Aerodynamics
+   Inflatable and Deployable Space Structures
+  Instrumentation & Parameter Estimation
+   Intake Aerodynamics
+   Internal Flow Control (Active & Passive)
+   Liquid Atomization and Spray Combustion
+   Material Characterization
+   Microfluidics
+   Missile Guidance & Control
+   Multiscale Modelling
+   Planetary Exploration and Mission Engineering
+   Plasticity, Fracture and Fatigue
+  Space Dynamics
+   Structural Design & Optimization
+   Structural Health Monitoring
+  Thrust Vectoring
+   Transition and Turbulence
+  Turbo Machinery
+  Unmanned & Autonomous Air Vehicle
+  Wind Energy and Design
+
+[PAGE 9]
+CONTACT
+
+Prof. Arnab Samanta
+Email: dpgc_ae@iitk.ac.in
+Phone: 0512-259-2182
+
+Mr. Vikas Kumar
+Email: office_ae@iitk.ac.in
+Phone: 0512-259-6704
+
+Webpage: https://www.iitk.ac.in/aero/

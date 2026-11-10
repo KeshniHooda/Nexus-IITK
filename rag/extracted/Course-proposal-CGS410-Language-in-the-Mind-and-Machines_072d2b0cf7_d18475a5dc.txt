@@ -1,0 +1,183 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+Department of Cognitive Science
+
+Proposal for a New Course
+
+1. Course No: CGS410
+2. Course Title: Language in the Mind and Machines
+3.  Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours[0-2]: 0 (A), Credits (3*L):
+09                           Duration of Course: Full Semester
+4. Proposing Department/IDP: Cognitive Science (CGS)
+Other Departments/IDPs which may be interested in the proposed course: All Departments
+Other faculty members interested in teaching the proposed course:
+
+5. Proposing Instructor(s): Dr. Himanshu Yadav
+
+6. Course Description:
+
+A)  Objectives
+Humans possess an amazingly complex communication system that allows them to transmit any message
+using a linear stream of auditory/visual symbols in real time. We know this system as language. How did
+human language evolve? How does it work in the mind? Language in the Mind and Machines is an introductory
+course on the study of language from a cognitive perspective. The course is designed to expose students to
+fundamental questions in language science, e.g., how language came into existence, how it evolved, and how
+is it processed in the mind and machines, and provide them with a set of tools and methods to investigate
+these questions. The students will learn fresh perspectives on language: Language as a complex adaptive
+system of symbols and Language as a cognitive function. The focus will be on the universals of human language,
+variation across languages, origin and evolution of language, processing of language in the mind and Large
+Language Models. The course will attract students from all study backgrounds to take up challenging and
+interesting problems in the study of language and solve them using novel mathematical and computational
+techniques. This course will have a considerable focus on regular hands-on assignments which would target
+interesting open problems in language science and will end with a course project to be done using Python/R.
+The course is targeted at all engineering and science disciplines who wish to understand language and solve
+some outstanding research problems in the study of language and the mind.
+
+B)  Content
+(40 Lectures; each of 50 minutes duration)
+
+[PAGE 2]
+2
+
+Sr    Broad Topic                                       Topics                                      No.     of
+No.                                                                                                     Lectures
+
+Theme I: Language as a complex adaptive system
+
+(a) Origin of language
+(b) Form and Function
+1    Language as a system of symbols                        (c) The structure of symbols                 6
+(d) A topological space of language struc-
+tures
+(e) Universals of structures
+(f) Variation in structures
+(a) Grammar
+(b)  The space of structures licensed by
+2    The generative engine behind language          grammar                                 5
+(c) The grammar -granted space vs. the ob-
+served space of structures
+(d) Limitations of a theory of grammar
+(e)  What shapes  the  language beyond
+grammar
+(a) Language as a complex adaptive system
+(b) Cross-linguistic variation in topological
+space of structures
+3    Language evolves in response to cognitive             (c) Rarity of certain structures                7
+and communicative pressures                         (d)  Language adapts to its environment: the
+communication channel between lan- guage
+users
+(e) Which language structures survive?
+(f) Properties of the communication chan- nel
+that drives language evolution
+(g) A new line of inquiry into the origin
+and evolution of human language
+
+Theme II: Language as a cognitive function
+
+(a) Language needs encoding and decoding
+(b) Encoding mechanism in the mind
+4    Encoding and decoding of language                    (c) Decoding mechanism in the mind          5
+(d) Linguistic illusions
+(e) Observations about the human syntac- tic
+parser
+(a) Enter working memory
+5    Working memory and language processing           (b) Dependency locality theory               4
+(c) Cue-based retrieval theory
+(d)  Limitations of working memory-based
+theories
+(a) Predictive processing
+(b) Prediction of upcoming linguistic infor-6    Top-down prediction and language processing                                              4
+mation
+(c) Information-theoric models of sentence
+processing
+(d) Open questions in sentence processing
+research
+
+Theme III: Language in the transformer-based neural networks
+
+(a) Introduction to LLMs
+(b) Learning in LLMs vs humans
+7    Performance of the large language models            (c) Topological space of structures learned by   6
+the LLMs
+(d) Do LLMs learn grammar ?
+(e)  Cue-based retrieval and attentional
+mechanism in LLMs
+(f) Language, thought, and LLMs
+
+(a)  Architectural constraints of LLMs vs.
+8    Language evolution in humans vs machines       human mind                              3
+(b)  Language evolution in a society of
+LLMs
+(c) Interpretable AI
+
+[PAGE 3]
+3
+
+C)  Pre-requisites
+
+Basic programming in Python (loops and conditionals, functions, classes);
+High-school mathematics (functions, equations, sets)
+
+D)  Short summary for including in the Courses of StudyBooklet:
+Language in the Mind and Machines is an introductory course on the study of language designed to
+provide two fresh perspectives on language: Language as a complex adaptive system and Language as a
+cognitive function. This course will expose students to fundamental questions in language science including
+how language originated, how it evolved, and how it is processed in the mind and machines, and provide
+them with a set of computational and empirical tools to investigate these questions. The content of this course
+will invite students from all study backgrounds to take up challenging and interesting problems in the study of
+language and solve them using novel mathemat- ical and computational techniques. This course will have a
+considerable focus on regular hands-on assignments which will target some interesting open problems and
+will end with a course project to be done using Python/R.
+
+7. Recommended Books (Reference Books)
+[1] Hawkins, John A. A performance theory of order and constituency. Cambridge University Press, 1994.
+
+[2] Hawkins, John A. Efficiency and Complexity in Grammars. Oxford University Press, USA, 2004.
+
+[3] Vasishth, Shravan, and  Felix Engelmann.  Sentence comprehension as a  cognitive  process: A
+computational approach. Cambridge University Press, 2021.
+
+[4] Ferrer i Cancho, Ramon, and Ricard V. Solé. Least effort and the origins of scaling in human language.
+Proceedings of the National Academy of Sciences. 100.3 (2003): 788-791.
+
+[5] Ferrer i Cancho, Ramon. Euclidean distance between syntactically linked words. Physical Review.
+70.5 (2004): 056135.
+
+[6] Futrell, Richard, Kyle Mahowald, and Edward Gibson.  Large-scale evidence of dependency length
+minimization in 37 languages. Proceedings of the National Academy of Sciences 112.33 (2015): 10336-
+10341.
+
+[7] Hahn, Michael, and Yang Xu. Crosslinguistic word order variation reflects evolutionary pressures of
+dependency and information locality. Proceedings of the National Academy of Sciences 119.24 (2022):
+e2122604119.
+
+[8] Gibson, Edward. The dependency locality theory: A distance-based theory of linguistic complex- ity.
+Image, language, brain/MIT Press (2000).
+
+[9] Lewis, Richard L., and Shravan Vasishth. An activation-based model of sentence processing as skilled
+memory retrieval. Dictionary of World Philosophy. Routledge, 2013. 375-419.
+
+[10] Futrell, Richard, Edward Gibson, and Roger P. Levy. Lossy-context surprisal: An information- theoretic
+model of memory effects in sentence processing. Cognitive science 44.3 (2020): e12814.
+
+[11] Piantadosi, Steven. Modern language models refute Chomsky’s approach to language. Language Science
+Press. 2023.
+
+[12] Voita, Elena, et al. Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lift- ing, the Rest
+Can Be Pruned.  Proceedings of the 57th Annual Meeting of the Association for Computational
+Linguistics. 2019.
+
+[PAGE 4]
+4
+
+8. Any other remarks:
+Hands on assignments and a mini project to be implemented in Python/R will form an important part of the
+grading scheme for this course.
+
+Dated: October 2, 2024                          Proposer: Himanshu Yadav
+
+DPGC Convener (CGS):
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC

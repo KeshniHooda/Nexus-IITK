@@ -1,0 +1,244 @@
+[PAGE 1]
+MINUTES
+FOR THE 2"' MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE
+HELD ON NOVEMBER 27, 2024 (Monday) AT 03:OOP.M.
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING
+
+Members Present: Prof(s): P M Mohite (AE), Dipin S Pillai (CHE), G Anantharaman (CHM), Gourabananda
+Pahar (CE), Ark Verma (CGS), Piyush Rai (CSE), Animesh Mandal(ES), Rajarshi Sengupta (HSS), Subhankar
+Mukherjee (DoMS), Anikesh Pal (ME), Sudhanshu S Singh (MSE), Sudhanshu Shekhar (MATH), Pankaj Wahi
+(NET), Sapam Ranjita Chanu (PSE), Kunal P Mooley (SPASE), Prabodh Bajpai (SEE), Sagar Chakrabarty (PHY),
+Members Absent: Prof(s), Suresh Kumar (BSBE), J Ramkumar (DES), Imon Mondal (EE), Sukumar Vellakkal
+(ECO), Pritam Chakraborty (MSP)
+Senate Nominee: Prof. Abheejeet Mohapatra (EE)
+Student representatives: Mr. Saurabh Sona Lahamate (231250121), Mr. Kartik Rout (20218267)
+Invited members : Prof. Vinay Kumar Gupta(CE), Prof. Nisanth N. Nair (CHM) ( For Item no 8 & 9 in (C) ]
+
+(A) Item requiring SPGC Approval:
+
+a)  Conversion from MSR/MTech to PhD Program:
+S.No   Roll No     Name      Dept   Prog     Supervisor &      Remark       SPGC
+DPGC Recomm.                    Recommendation/Decision
+01-    231020031   Rahul     CHE   MTech   Recommended      CU=54; TU=36,   Approved for 2024-25-II
+Yadav                                         CPI=8.83
+02-    231020036   Rishabh   CHE   MTech   Recommended      CU=54; TU=36,   Approved for 2024-25-II
+Garg                                           CPI=8.83
+03-    231020047    Utkarsh    CHE   MTech   Recommended      CU=54; TU=36,   Approved for 2024-25-II
+Tripathi                                        CPI=8.83
+*Students has completed course and CPI requirement as per clause 4.6 of PG Manual
+
+b) New course approval:
+Course No    Title                              Credits     Instructor        SPGC
+Recommendation/Decision
+CGS410     Language   in  the  Mind  and    3-0-0-0-(9)    Dr.      Himanshu  Not Approved. UG  level
+Machines                                 Yadav               course
+AE668       Computational  Aeromechanics    3-0-0-0-(9)   Dr. C. S. Upadhyay,  Approved
+and Control of UAVs                               Dr. Navrose,
+Dr. M. Damodaran
+AE644       Rocket     and     Spacecraft    3-0-0-0-(9)   Dr.  D.  Chaitanya  Approved
+Propulsion                              Kumar Rao
+SPA624M     Optical          Instrumentation    3-0-0-0-(5)   Dr. Amitesh Omar    Approved
+Laboratory                                        Dr. Prashant Pathak
+SPA633M    Key concepts in Astrobiology and    3-0-0-0-(5)   Dr. Yamini Jangir    Approved
+space biology                                     Dr. Kunal Mooley
+SPA634      Optical          Instrumentation    3-0-0-0-(9)   Dr. Prashant Pathak  Approved
+Astronomy
+SPA635M    Study of compact objects using    3-0-0-0-(5)   Dr. J S Yadav       Approved
+real space data
+SPA636M    Radio instrumentation observing    3-0-0-0-(5)   Dr.Amitesh Omar    Approved
+techniques                                 Dr        Avinash
+Deshpande
+MBA726M   Economics   and   Policy    for   3-0-0-0-(5)   Dr.      Mousami  Approved
+Industrial Decarbonisation (EPID)               Prasad
+MBA739       Digital Marketing                    3-0-0-0-(5)   Dr. Jitender Kumar   Approved
+
+MBA787M    Strategic Cost Management         3-0-0-1(5)    Dr.  Harshal Rajan  Already  Approved  in   1 51
+Mulay           SPGC Meeting dt.27/10/24
+CS773       Theory of Multi-Armed Bandits      3-0-0-0-(9)   Dr. Gunjan Kumar    Already  Approved  in P
+SPGC Meeting dt.27/10/24
+with Course no CS728
+CS729         Differential Privacy  in Machine    3-0-0-0-(9)   Dr.   Sayak   Ray  Approved
+Learning [CS774]                          Chowdhury
+CS771        Introduction to Machine learning [   3-0-3-0-(12)   Dr.    Purushottam  Approved
+Revised]                                   Kar
+
+Page 1 of 5
+
+[PAGE 2]
+MINUTES
+2nd    FOR THE   MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE
+HELD ON NOVEMBER 27, 2024 (Monday) AT 03:OOP.M.
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING
+
+cl  Termination under 5.7:
+S. No  Name                 Roll No      Dept.  Prog.    Supervisor/      SPGC Recommendation
+DPGC              /Decision
+Recommendation
+01    Nikunj Kumar Jain     21129015   SEE   MTech  Recommended     Approved. It is to be
+Reported to Senate.
+O2   Mahima Shrivastava   16203263   CE    PhD    Recommended     Approved. It is to be
+Reported to Senate.
+03    Lakshay Sachdeva    241280406  CGS  MSR   Recommended     Approved. It is to be
+Reported to Senate.
+04   Anup Chaurasia       241120602  MSP   PhD    Recommended     Approved. It is to be
+Reported to Senate.
+
+d)  Conversion Programme Full Time to Part Time
+SPGC                                                    Supervisor and S.                                                            Recommendat        Roll No    Name            Dept  Prog   DPGC                          Remark No                                                                            ion                                             Recommendation                                                                                 /Decision
+Approved.        CPI=8.33
+CU=54
+Comp Dt -
+1    18200264    Dhuniraj chettri    HSS  PhD    Recommended                             04-03 20                                                                                    SOTA Dt -
+04-03-21
+NOC
+attached
+Approved.        CPI=8.55
+2    231030066   Vinay Rajesh Auti  CE    MTech  Recommended                    NOC77                                                                                 OC
+attached
+Pending                                 CU='2.  3    23116OC12   Swati                                           f SE   MTech                        Not approved    TU=18
+recommendation                         CPI =8 86
+
+e)  M. Tech/MS-R Defence in Project mode-recommended
+S.No  Roll No    Name                  Dept   Prog     Supervisor and    SPGC
+DPGC            Recommendation
+Recommendation   /Decision
+1.   22218001   Rasha Mdllal          BSBE  MTech   Recommended      Approved
+2   21104091   Satyam Gupta         EE    MTech                      Approved                                                  Recommended
+
+(B) Items requiring SPGC recommendation for Senate/Chairman Senate considerations:
+a)  Appeal for reinstatement:
+
+Supervisor/DPGC  SPGC  S'    Roll No   Name          Dept  Prog No                                       Recommendation  Recommendation
+Recommended for  01   20104449  Saurabh Sahu   EE   MSR    Recommended                                                                            reinstatement in 2024-25-II
+Recommended for  02   20204406  Apoorva Dixit    EE   MSR    Recommended                                                                            reinstatement in 2024-25-II
+Recommended for
+03   20111415   Nikhil Molugu    CSE  MSR    Recommended      reinstatement to submit thesis
+at the earliest
+Recommended for  04   21128404  Diksha Yadav   CGS  MSR    Recommended                                                                            reinstatement 2024-25-II
+05   20201401   Ali Fahad      AE   MSR    Recommended    Recommended for
+
+Page 2 of 5
+
+[PAGE 3]
+MINUTES
+FOR THE 2nd MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE
+HELD ON NOVEMBER 27, 2024 (Monday) AT 03:OOP.M.
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING
+
+Usmani                                                reinstatement in 2024-25-II
+Mohanish                                   Recommended for     06   21101037               AE    MTech  Recommended                   Dhruw                                                  reinstatement in 2024-25-II
+Recommended for     07   21101021  Deepnil Dutta    AE    MTech  Recommended                                                                               reinstatement in 2024-25-11
+08   22101046  Pushpendra     AE    MTech  Recommended    Recommended for                  Deo                                                    reinstatement in 2024-25-II
+Recommended for                          Anil     09   21101007              AE    MTech  Recommended      reinstatement to submit thesis                    Kommagalla                                                                                          at the earliest
+No specific from
+supervisor/DPGC   Recommended for
+10   20101007   Alvin Sebastian  AE    MTech  recommend for      reinstatement in 2024-25-II as
+favorable           per DPGC recommendation
+consideration
+Note: SPGC decided to reinstate students immediately whose thesis is ready for submission. For other
+students, reinstatement is recommended in 2024-25-II.
+
+b)  Exit from PhD programme with MTech/MS-Research Degree
+S.    Roll No  Name         Dept  Prog   Supervisor      SPGC Recommendation   Remark
+No.                                      and DPGC
+Recommendation
+1   171142   Nagesh Kumar  IME   PhD   Recommended    Recommended for Senate  CU=74;TU=171
+64         Tripathi                                           approval                  CPI=7.13;
+
+(C) Any other item with the permission of chair:
+
+S. No.   Item Description                      SPGC Recommendation
+
+1      Medical leave from 17-09-2024  to 07-11-2024-  Approved
+Saroj Chooramani Gopal-232180605-BSBE
+2     Semester leave on medical ground  -  Subhajit  Approved
+Chakraborty-21223265-ES- PhD Exit Option
+3     Semester leave Saransh Sharma- 231290012-  Not approved as the Credit requirement has not
+SEE-MTech                               been completed
+CU=64, TU=18S. CPI=9.16
+4     Request for 2 more course for 2024-25-II (Part  Approved
+time) - Dharuv Suri-241140604-DOMS
+5     Request for Maximum credit (45) for 2024-25-II-  Not Approved
+Anshu Patel -231050050 -ME-MTech
+6     Request for Maximum credit (45) for 2024-25-I1-  Not Approved
+Prikshet Sharma-231050051-ME-MTech
+7      Constitution of the PG-APEC Committee — 2024-  The following SPGC members  will be part of PG-
+25-1                                APEC for 2024-25-SEM I
+1-  Prof. Sagar Chakraborty (PHY) — Convener
+2-  Prof. Abheejeet Mohapatra (EE) - Member
+3-  Prof. Animesh Mandal (ES) - Member
+4-  Prof. Pritam Chakraborty (MSP) — Member
+5-  Prof. P M Mohite (AE) — Member
+
+Page 3 of 5
+
+[PAGE 4]
+MINUTES
+FOR THE 2nd MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE
+HELD ON NOVEMBER 27, 2024 (Monday) AT 03:OOP.M.
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING
+
+8     No Termination Policy at the end of first semester due to   In view of the approved APEC guidelines in new PGARC,
+academic deficiency                                           after due deliberation, SPGC members opined that the
+decision on the termination of PG students, at the end of
+their  first semester, should be on a case-by-case basis,
+similar to what is being followed for other PG students.
+Therefore, SPGC members opined that "No Termination
+Policy"  of PG  students  after  151 semester should be
+revisited. The same  is to be placed for consideration of
+Senate.
+9       Modification of PG manual based on PGARC Report    SPGC  members  deliberated  and  opined   that  the
+recommendations  of  the new PGARC,  including  the
+termination policy, should be applied to  all existing PG
+students,    wherever     applicable.    The     related
+modification/inclusions in the PG manual to be placed for
+consideration of Senate.
+10     Request for medical leave for cancer treatment-Anubhuti  Approved
+Saha-15219261-DES
+
+~w
+
+Page 4 of 5
+
+[PAGE 5]
+MINUTES
+2nd    FOR THE   MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) TO BE
+HELD ON NOVEMBER 27, 2024 (Monday) AT 03:OOP.M.
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING
+
+Items for revisit aqainst 567th Senate meeting
+
+Item   Item Description                                 SPGC Recommendation
+no
+27    To note the decision of SPGC on addition of an external co-  Based on the additional information
+supervisor  from  outside  IIT Kanpur  for Ms. Prachi Narayan  provided   by   supervisor,  SPGC
+(22114262/PhD/DoMS).                                  recommended   the   request    for
+consideration of Chairman, Senate.
+28    To note the decision of SPGC on addition of an external co-  Based on the additional information
+supervisor  from  outside  IIT  Kanpur  for  Mr.  Ashish  Thakur  provided   by   supervisor,  SPGC
+(231290603/PhD/SEE).                                   recommended   the   request    for
+consideration of Chairman, Senate.
+25*   To consider the requests of two PG students for "project option" in   After   due    deliberation,  SPGC
+their MTech program.                                    recommended   the   request    for
+consideration  of chairman, Senate.         S.No.     Roll No.          Name          Dept./Prop.
+Mr.  Abhishek  has  withdrawn  the         1      21111018    Ashutosh Patel        CSE/MTech
+request.          2      22111002    Abhishek Kumar       CSE/MTech
+Pathak
+
+54*   To    consider    the   request    of   Ms.   Ahana   Sarkar   After   due    deliberation,  SPGC
+(22118005/MTech/BSBE)  for  "project  option"  in her academic  recommended   the   request    for
+program                                                           consideration of chairman, Senate.
+33    To note the decision of SPGC on the termination of Mr. Pawan  Terminated as per section 5.7 of the
+Kumar (19205267/PhD/ME)  for not  registering  in two  regular  PG manual
+semesters.
+32    To note the decision of SPGC on the request of Mr. Sourabh  Approved
+Pandey (241050628/PhD/ME) for a waiver of 18 course credits
+(equivalent to 2 courses).
+31   To note the decision of SPGC on the request of Mr. Dharuv Suni  Approved
+(241140604/PhD/DoMS) to pursue four courses in the 2024-25-I
+Semester.
+* SPGC also recommended that the associated transcript with MTech/MSR (Project report) degree certificate
+should include the annotation "M. Tech./MS-R degree awarded with the submission of Project Report not
+amounting to a full Thesis" as per PGARC final report (page 30, Section 9.7, point V)
+
+Page 5 of 5

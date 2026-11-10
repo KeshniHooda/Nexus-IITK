@@ -1,0 +1,135 @@
+[Page 1]
+Indian Institute of Technology Kanpur 
+Proposal for a New Course 
+1. Course No: CHE6XX 
+2. Course Title: Fundamentals of Chemical Reaction Engineering 
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours [0-2]: 0 (A), 
+Credits (3-0-0-0): 6 
+
+ 
+
+ 
+Duration of Course: Modular 
+4. Proposing Department: Department of Chemical Engineering 
+Other Departments/IDPs which may be interested in the proposed course: NA 
+Other faculty members interested in teaching the proposed course: Sanjeev Garg, Nishith Verma. 
+Animangsu Ghatak, Raghavendra Ragipani, Raju Kumar Gupta, Raj Ganesh Pala 
+5. Proposing Instructor(s): Vishal Agarwal (vagarwal@iitk.ac.in), Indranil Saha Dalal 
+(indrasd@iitk.ac.in), Salman Ahmad Khan (salman@iitk.ac.in), Soumik Das (dsoumik@iitk.ac.in), 
+Goutam Deo (goutam@iitk.ac.in) 
+6. Course Description: 
+A) Objectives: The course will expose fresh PhD students, especially those from allied 
+disciplines, to the fundamentals of chemical reaction engineering. Taking this course is 
+expected to assist the students in advanced courses related to chemical reaction engineering. 
+B) Contents (preferably in the form of 5 to 10 broad titles): 
+Lecture-wise break-up (considering the duration of each lecture is 50 minutes) 
+S. 
+No. Broad Title 
+Topics 
+No. 
+of 
+Lectures 
+1. 
+Idealization 
+in 
+chemical 
+reaction engineering 
+Basic definitions, Development of species 
+mol balance and energy balance equations for 
+idealized reactors 
+1 
+2. 
+Steady & unsteady state 
+operation 
+in 
+idealized 
+reactors 
+Design equations for idealized batch and flow 
+reactors (CSTR, PFR, PBR), Multiple 
+reactors 
+3 
+3. 
+Multiple reactions 
+Parallel, series and complex reactions in 
+idealized reactors 
+2 
+4. 
+Nonelementary 
+reaction 
+kinetics 
+Development of rate laws that do not follow 
+power-law kinetics 
+3 
+5. 
+Modelling 
+of 
+catalytic 
+reaction kinetics 
+Analysis of reaction data from different 
+idealized reactors, differential, integral, half-
+lives, etc 
+3 
+6. 
+External diffusion effects on 
+heterogeneous reactions 
+Multiphase reactions and effects of external 
+diffusion; determination of concentration 
+differences between surface and the bulk 
+2 
+7. 
+Diffusion and reaction in 
+porous catalysts 
+Internal mass transfer effects in porous 
+catalysts under isothermal conditions, Thiele 
+modulus, Effectiveness factor, Falsified 
+kinetics 
+4 
+8. 
+Design of fixed bed reactors 
+An example of an isothermal heterogeneously 
+catalysed reaction with development of rate 
+law, effect of change in mols and effect of 
+pressure 
+2 
+Total 
+20
+
+[Page 2]
+C) Recommended pre-requisites, if any (examples: a- PSO201A, or b- PSO201A or 
+equivalent): None 
+D) Short summary for including in the Courses of Study Booklet: Introduction to chemical 
+reactions and reactors; Single and multiple reactions and reactors, Isothermal analysis of 
+multiphase reactions, Design of fixed bed reactors 
+ 
+7. Recommended text/reference books: 
+A) Elements of Chemical Reaction Engineering, H.Scott Fogler 
+B) Chemical Reaction Engineering, Octave Levenspiel 
+C) 
+8. Any other remarks: None 
+
+ 
+Dated: 08/02/25 
+
+ 
+
+ 
+ 
+Proposer: VA, ISD, SAK, SD, GD 
+
+Dated: 
+
+ 
+
+ 
+
+ 
+DPGC Convener: 
+
+The course is approved / not approved 
+
+ 
+ 
+Chairman, 
+SUGC 
+ 
+Dated:

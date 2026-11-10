@@ -1,0 +1,152 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+Proposal for the new course
+
+1.​ Course No: ECO 5XX:
+2.​ Course Title: Applied Computable General Equilibrium (CGE) Modelling with GTAP
+and Policy Applications
+3.​ Per week Lecture: 3(L)+0(T)+0(P)+0A:9
+4.​ Duration: One Semester (40 Lectures)
+5.​ Instructor: Prof. Somesh Kumar Mathur​
+Any faculty who gets interested in teaching of this course ​
+This course provides rigorous training in Computable General Equilibrium (CGE)
+modelling with a strong emphasis on the theoretical modelling/ GTAP framework
+and economy-wide policy analysis.
+6.​ Credits: 3-0-0-9
+7.​ Level: Advanced Undergraduate / Masters
+8.​ Proposing Department: Department of Economic sciences​
+
+Rationale and Need for the Course
+Policy impact on growth and welfare goes beyond the understanding of the partial
+equilibrium models (A partial equilibrium model determines the equilibrium price and
+quantity in a single market by considering only the demand and supply conditions of that
+market, without accounting for interactions with the rest of the economy). The economic
+channels through which policies impact growth and welfare are allocative and technical
+efficiency, terms of trade, investment savings balance, endowment effects, preference
+shifting impacts among others. Governments, international organizations and researchers
+increasingly  rely  on  computable  general  equilibrium  models  to  evaluate  trade
+agreements, climate policies, carbon taxation, technological progress, energy transitions
+and regional development strategies. The course equips students with theoretical and
+practical skills required for policy-oriented research. A general equilibrium model is a
+framework in which equilibrium is determined simultaneously across all goods, factor, and
+institutional markets, taking into account the interdependence among economic agents and
+sectors.
+
+Course Objectives
+●​ Understand the theoretical foundations of both partial and general equilibrium
+modelling.
+
+[PAGE 2]
+●​ Learn construction and interpretation of Social Accounting Matrices (SAM).
+●​ Understand GTAP database architecture and model structure.
+●​ Conduct trade, environmental and tax policy simulations.
+●​  Interpret welfare, GDP, output and emissions outcomes.
+●​ Develop independent CGE research projects.
+
+Learning Outcomes
+Upon completion students will be able to:
+
+1.​ Explain the logic of economy-wide modelling.
+2.​ Build and interpret SAM-based frameworks.
+3.​ Use GTAPAgg and RunGTAP software.
+4.​ Design policy simulations.
+5.​ Evaluate welfare, trade and environmental impacts.
+6.​ Prepare publishable CGE research studies.
+
+Detailed Course Outline
+​
+
+No. of
+S.No    Broad Title                       Topics
+Lectures
+Nature and evolution of CGE models;
+Input-Output and Social Accounting Matrix
+Introduction to CGE
+1                     (SAM); Partial vs General Equilibrium;        4
+Modelling
+Applications in trade, environment and
+development
+Economic          Consumer behaviour; Producer behaviour;
+2    Foundations of CGE  Market clearing; Armington assumption; Trade  4
+Models            and factor mobility
+Social Accounting    Structure of SAM; Circular flow of income;
+3    Matrix and Data      Calibration concepts; Building and interpreting  4
+Preparation       SAMs
+GTAP Database and GTAP database architecture; Regions, sectors
+4    Global Trade        and factors; Trade protection data; Energy and   4
+Structure            emissions accounts
+Production nests; Household demand;
+GTAP Model
+5                      Government sector; Investment-savings        4
+Structure
+equilibrium; Model equations
+
+[PAGE 3]
+No. of
+S.No    Broad Title                       Topics
+Lectures
+Closure rules; Endogenous and exogenous
+Model Closure and
+6                            variables; Short-run and long-run closures;     4
+Calibration
+Calibration techniques
+GTAPAgg and       Database aggregation; Model setup; Swap
+7   RunGTAP            statements; Running simulations; Interpreting   4
+Applications         outputs
+Tariff liberalisation; Free Trade Agreements
+Trade Policy
+8                        (FTAs); Regional integration; Trade creation and 4
+Simulations
+trade diversion analysis
+Carbon taxation; Emissions accounting;
+Environmental and
+9                         Technological progress; GTAP-E framework;   4
+Energy Applications
+Climate policy evaluation
+Advanced         Dynamic CGE models; Multi-regional CGE;
+10   Applications and     Welfare decomposition; Sensitivity analysis;    4
+Research Projects    Research paper development and presentation
+
+Laboratory and Software Component
+Students will receive practical training in GTAPAgg, RunGTAP, GEMPACK and GTAP
+Data Base. Laboratory sessions will include aggregation exercises, tariff simulations,
+carbon tax scenarios, technological progress shocks and welfare decomposition.
+
+Pedagogy
+The course combines lectures, software demonstrations, guided laboratory exercises,
+policy case studies, journal article discussions and project-based learning.
+
+Assessment Scheme
+Quiz I – 10%​
+Quiz II – 10%​
+Assignments/Lab Exercises – 20%​
+Mid Semester Examination – 20%​
+Research Project and Presentation – 15%​
+End Semester Examination – 25%
+
+[PAGE 4]
+Suggested Research Applications
+India-GCC FTA, India-EU FTA, RCEP, CPTPP, carbon taxation, energy transition,
+climate policy, productivity shocks, trade diversion, welfare decomposition and regional
+development.
+
+Reading List
+●​  Hertel, T. W. (1997). Global trade analysis: modeling and applications.
+Cambridge university press.
+●​  Dixon, P. B., & Jorgenson, D. (Eds.). (2013). Handbook of computable general
+equilibrium modeling. Newnes.
+●​  Burfisher, M. E. (2021). Introduction to computable general equilibrium models.
+Cambridge University Press.
+●​ Huff, K., & Hertel, T. (2000). Decomposing welfare changes in the GTAP model.
+●​ GTAP Documentation Series.
+●​ Selected GTAP Journal Articles.(Journal of Economic Analysis)
+
+Dated:               Proposer Name: Prof. SK Mathur
+
+Date:_____________DUGC/DPGC convenor
+
+The course is approved/ not approved
+
+Chairman SPGC
+
+Date:

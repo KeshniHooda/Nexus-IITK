@@ -1,0 +1,81 @@
+[PAGE 1]
+Department of Sustainable Energy Engineering
+Indian Institute of Technology Kanpur
+
+Proposal for Course Modification
+
+Course title                                           : Thermodynamics of Energy Systems
+Number                                                : SEE604
+Credits (L-T-P [C])                               : 3-0-0-9
+Departments proposing the course         : Sustainable Energy Engineering
+Name of the proposer                            : Aakash Chand Rai
+Offered for                                            : UG/PG Students of SEE/other departments.
+Status of the course                                : UG/PG Elective
+Prerequisite(s) for the course                 : Should not have taken ESO201 or an equivalent course at IITK.
+At  Faculty  members  interested  in : Laltu Chandra and Lalit Pant.
+teaching
+Other  departments/programs  whose : ME, ChE, MSE.
+students are expected to take up the course
+
+Course objectives
+This course provides the necessary background of engineering thermodynamics to postgraduate students
+who did not get adequate exposure to the subject at the undergraduate level. The course will cover the basic
+principles of thermodynamics and prepare the student to effectively use thermodynamics in the field of
+sustainable energy engineering. The course will also lay the foundations for subsequent studies in fluid
+mechanics, heat transfer, and statistical thermodynamics.
+
+Existing course outline
+
+Revised Course outline
+1.  Introduction and  basic  principles:  Introduction,  units and dimensions, thermodynamic systems,
+properties and states, process and cycle, energy, pressure, specific volume, temperature, and the zeroth
+law.
+2.  Pure substance behavior: Pure substance, phase equilibrium, independent properties, thermodynamic
+tables, thermodynamic surfaces, the ideal gas equation and deviation from the ideal-gas behavior, and
+
+[PAGE 2]
+other equations of state.
+3.  Energy transfers: Work and heat transfer processes.
+4.  Energy analysis for a control mass: The first law of thermodynamics and its applications for a control
+mass; internal energy, enthalpy, and specific heats; and the first law as a rate equation.
+5.  Mass and energy analysis for a control volume: Conservation of mass, the first law of thermodynamics
+for a control volume, and energy analysis of steady-state and transient process.
+6.  The second law of thermodynamics: Heat engines and refrigerators, the second law of thermodynamics,
+reversible and irreversible processes, Carnot cycle, and the thermodynamic and ideal-gas temperature
+scales.
+7.  Entropy: The Clausis inequality; entropy- a system property; entropy of a pure substance; entropy change
+in reversible processes; the Gibbs equations; entropy changes of solids, liquids, and ideal gases; entropy
+generation and the increase of entropy principle; and entropy as a rate equation.
+8.  Entropy analysis for a control volume: The second law of thermodynamics for a control volume and its
+application to steady-state and transient processes, the steady-state single-flow process, and isentropic
+efficiencies.
+9.  Irreversibility and availability: Available energy, reversible work, and irreversibility; availability and
+second-law efficiency; and the exergy balance equation.
+10. Thermodynamic property relations: The Maxwell relations and the Clapeyron equation.
+
+Existing lecture-wise breakup
+
+Revised lecture-wise breakup
+Topics                                   Number of lectures (approximate)
+1.  Introduction and basic principles                               3
+2.  Pure substance behavior                                      6
+3.  Energy transfers                                             3
+4.  Energy analysis for a control mass                              5
+5.  Mass and energy analysis for a control volume                    4
+6.  The second law of thermodynamics                             4
+
+[PAGE 3]
+7.  Entropy                                                   6
+8.  Entropy analysis for a control volume                           4
+9.  Irreversibility and availability                                  3
+10. Thermodynamic property relations                              2
+Total                40
+
+Textbooks, reference books, suggested readings, and any other references
+  Thermodynamics – an engineering approach by Yunus Cengel and Micheal Boles
+   Fundamentals of thermodynamics by Claus Borgnakke and Richard Sonntag
+   Engineering thermodynamics by P K Nag.
+
+Course proposed by      Recommended/Not recommended        This course is approved/not approved
+
+(Aakash Chand Rai)              Convener, DPGC (SEE)                      Chairman, SPGC

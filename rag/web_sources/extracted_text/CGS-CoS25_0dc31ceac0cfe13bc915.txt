@@ -1,0 +1,822 @@
+[Page 1]
+Indian Institute of Technology Kanpur 
+COURSES OF STUDY 
+2025 
+
+Indian Institute of Technology Kanpur 
+KANPUR-208016
+
+[Page 2]
+Department of Cognitive Science 
+MS-R in Cognitive Science 
+ 
+MS by research (Course Template) 
+Courses 
+Semester 1 
+Semester 2 
+Semester 3 
+Semester 4 
+CGS600 [9 credits] 
+CGS698A 
+Research credits 
+Research credits 
+CGS601 [11 credits] 
+CGS613 (Modular 
+1st Half) 
+
+CGS602 [11 credits] 
+CGS612 (Modular 
+2nd Half) 
+
+CGS610 (Modular 
+1st half) [5 credits] 
+Elective 1 
+
+CGS611 (Modular 
+2nd half)- [5 credits] 
+Elective 2 
+
+CGS700 (Seminar 
+Course)- [0 credits] 
+
+ 
+ 
+MTech in Cognitive Science 
+
+MTech (Cognitive Systems)- Course Template 
+Courses 
+Semester 1 
+Semester 2 
+Semester 3 
+Semester 4 
+CGS601 [11 credits] 
+CGS786 
+Research credits 
+Research 
+credits 
+CGS602 [11 credits] 
+CGS616 
+
+CGS610 (Modular 1st 
+half) [5 credits] 
+Elective 2 
+
+CGS611 (Modular 2nd 
+half)- [5 credits] 
+Elective 3 
+
+CGS700 (Seminar 
+Course)- [0 credits] 
+
+ 
+Elective I 
+
+ 
+ 
+UG Minor in Cognitive Science 
+CgS Minor degree (Template) 
+Odd-Semester 
+Even Semester 
+Courses CGS401 
+CGS402 
+Elective
+
+[Page 3]
+Course 
+Number 
+Course Name 
+L-T-P-D 
+Credits 
+Brief Description 
+CGS401 
+Introduction to 
+Cognitive science 
+3-0-0-0 
+9 
+The objective of the course is to spark 
+curiosity 
+of 
+students 
+about 
+the 
+fascinating world of Cognitive Science 
+and introduce them to what studying 
+mind looks like. The course investigates 
+some important debates in the field of 
+cognitive 
+science, 
+organizational 
+principles of human mind. 
+CGS402 
+ 
+Applied cognitive 
+Science 
+3-0-0-0 
+9 
+The course offers a whirlwind tour of 
+applications of principles understood in 
+cognitive science in the design or study of 
+different products and systems in the 
+world. We discuss how cognitive science 
+principles can be applied in the fields of 
+marketing, advertising, cyberspace, UX 
+design, HCI, BCI etc. 
+CGS600 
+Computational 
+tools for 
+Cognitive Science 
+3-0-2-0 
+11 
+The objective of this course is to equip 
+students to be able to program the 
+design, experimentation and analysis of 
+sophisticated cognitive science studies 
+independently, 
+and 
+to 
+be 
+able to implement and fit simple 
+cognitive models to behavioural data. 
+The 
+course 
+will 
+be 
+taught 
+primarily in python. Students who 
+succeed in this course will be able to code 
+independently, without having to rely on 
+third party libraries. 
+CGS601 
+ Foundations of 
+Cognitive Science 
+3-0-0-0 
+9 
+To 
+introduce 
+students 
+with 
+the 
+fundamentals of cognitive science, i.e., 
+the study of the mind! The course begins 
+with the origins of the field and goes on 
+to 
+familiarize 
+students 
+with 
+its 
+interdisciplinary 
+perspectives on how the mind is 
+organized 
+and 
+processes 
+information. The course covers symbolic 
+representational 
+views 
+as 
+well 
+as 
+approaches like situated/ embodied 
+cognition and Bayesian cognitive science. 
+The course covers some phenomena that
+
+[Page 4]
+includes perception, attention, memory 
+and decision making. 
+CGS602 
+Basic statistics 
+data analysis & 
+inference 
+3-0-2-0 
+11 
+The course will introduce fundamental 
+concepts in statistics beginning with 
+topics like the philosophy of science, laws 
+of probability, random variables & 
+probability 
+distributions, 
+hypothesis 
+testing, t-test, F-test, chi-square test, 
+ANOVA, correlation and regression etc. 
+Tutorials will help expose students to 
+ways 
+of 
+testing 
+hypotheses 
+and 
+interpreting results on real or fake 
+datasets using R programming language. 
+CGS609 
+ Cognitive 
+Neuroscience 
+3-0-0-0 
+9 
+The primary goal behind this course is to 
+acquaint students with the fundamentals 
+of cognitive neuroscience - a discipline 
+centred on the question of how the brain 
+enables the mind. The course is not set 
+out to cover the entire breadth of topics 
+in exhaustive detail but aims to: 1. 
+introduce students to the fascinating 
+literature that paved the way to the 
+current understanding of how the brain 
+enables diverse cognitive functions. 2. 
+equip students with the basic skills 
+required to scrutinize evidence from a 
+diverse 
+set 
+of 
+complementary 
+approaches 
+and 
+critically 
+evaluate 
+current research in the field. 
+CGS610 
+(modular) 
+Experiment 
+design and 
+analysis 
+3-0-0-0 
+5 
+By the end of the module student should 
+be able to (a) read an experimental paper 
+and understand the theoretical research 
+question, critically evaluate validity of 
+the method in answering the question. 
+(b) Be able to present empirical work 
+both orally as well as in form of 
+written report. (c) should be able to 
+understand how choice of stimuli and 
+response method can influence an 
+experiment.
+
+[Page 5]
+CGS611 
+(modular) 
+Basics of 
+psychophysics 
+3-0-0-0 
+5 
+By the end of the course student should 
+be able to design, understand and 
+implement psychophysical experiments 
+using classical and adaptive procedures 
+using python/R. The student should be 
+able to generate the controlled stimuli 
+and 
+analyse 
+psychophysical 
+data 
+properly. 
+CGS612 
+(modular) 
+Eye-tracking and 
+VR as tools in 
+Cognitive Science 
+3-0-0-0 
+5 
+By the end of the course students should 
+be able to a) design, implement and 
+analyze eye-tracker based experiments 
+b) design, implement, and analyze 
+experiments 
+in 
+VR 
+environment. 
+Students should be able to understand 
+the kind of cognitive problems that can 
+be investigated using VR. Students 
+should also gain some idea of designing 
+experiments on Unity framework and 
+collect data from different sensors. 
+CGS613 
+(modular) Basics of EEG 
+3-0-0-0 
+5 
+By the end of the module student is 
+expected to understand and appreciate 
+the principles of EEG data processing, 
+artifact detection and subtraction, time 
+and spectral ways of analysing EEG data, 
+finding 
+their 
+cortical 
+sources 
+and 
+connections, 
+through 
+programming 
+MATLAB/python 
+interface and hands-on EEG sessions. The 
+student would be expected to be able to 
+design an ERP experiment and analyze 
+ERP data.
+
+[Page 6]
+CGS616 
+Human Centered 
+Computing 
+3-0-0-0 
+9 
+This 
+course 
+offers 
+a 
+hands-on 
+introduction 
+to 
+human-facing 
+computing: reviewing 
+both 
+current 
+techniques and open problems. The 
+course comprises four modules, each 
+one built around a hands-on mini-project 
+that students will work on, individually or 
+in groups – theory and empirical 
+methods will be introduced to the extent 
+that they help the students with their 
+projects. The course will begin with 
+addressing topics relevant to currently 
+mature technologies (search), transition 
+to 
+address 
+currently 
+active 
+(recommender systems) and inchoate 
+(affective computing) research areas and 
+finally touch upon the common core of AI 
+research that is the theoretical frontier in 
+human-facing 
+computing 
+(building 
+realistic goal-directed agents). 
+CGS621 
+Introduction to 
+psycholinguistics 
+3-0-0-0 
+9 
+The objective of this course will be to 
+introduce the students to the basics of 
+psycholinguistics. The course will start 
+with a brief discussion about the 
+evolution of language, proceed through 
+basic linguistic principles and move on to 
+a detailed study of language acquisition, 
+production 
+and 
+comprehension. 
+Towards the later, part of the course we 
+will try to integrate the role and 
+importance of language in overall 
+cognition, by attending to its overlap 
+with 
+other 
+mental 
+functions 
+like 
+attention, perception, memory, language 
+and problem solving. 
+CGS622 
+Cognitive Science 
+of 
+multilingualism 
+3-0-0-0 
+9 
+The course is aimed at introducing 
+students to the cognitive consequences 
+of knowing two or more than two 
+languages. It will introduce students to 
+the 
+linguistic issues, psychological issues, 
+neuroscience & impact of bilingualism on 
+the organization of other cognitive 
+functions as well.
+
+[Page 7]
+CGS641 
+Topics in 
+translational 
+neuroscience 
+3-0-0-0 
+9 
+This course aims to provide insights into 
+cognitive, behavioral, and neural system-
+level dynamics for explaining behavior 
+and their dysfunctions and discuss 
+intervention strategies. The course will 
+navigate through 1) understanding the 
+fundamentals and the principles that 
+govern 
+the 
+cognitive 
+system 
+and 
+behavioral function of interest, then 2) 
+explore a few test cases where simulated 
+manipulations can help explain and 
+intervene in disordered patients. 
+CGS646 
+Topics in agent 
+based models in 
+cognitive and 
+behavioural 
+science 
+3-0-0-0 
+9 
+This course will explore how agent-based 
+models can be a possible way to theorize 
+about complex cognitive and/or social 
+behaviour that is seen in human or 
+animal 
+societies. 
+The 
+kinds 
+of 
+phenomena 
+of 
+interest 
+include: 
+concepts: how they form and are shared; 
+language: its emergence and acquisition; 
+cooperation and its impact on groups; 
+rational behaviour: impact of different 
+levels of rationality and protocols 
+especially in economic decision making; 
+and similar other kinds of behaviour. It is 
+very hard (or in some cases impossible) 
+to study these kinds of phenomena 
+under controlled lab conditions with 
+human or animal subjects. So, the only 
+option is to build models. While different 
+types of models are possible this course 
+chooses agent-based models to study 
+such phenomena. 
+CGS651 
+ Logic and 
+Cognitive Science 
+3-0-0-0 
+9 
+The goal of the course is to discuss the 
+role of formal logic as a conceptual tool 
+in cognitive science. Generally, logic and 
+its ‘laws’ are characterized as being 
+‘domain-independent’. However it is 
+clear that there cannot be one ‘global’ 
+formal system of logic that applies to all 
+domains of reasoning: for instance, there 
+are domains where it makes no sense to 
+apply classical 2-valued logic. Different 
+syntactic and semantic choices may be 
+appropriate 
+for 
+different 
+domains, 
+resulting in the use of different formal 
+systems of logics.
+
+[Page 8]
+CGS671A 
+Neural Basis of 
+Learning and 
+Memory 
+3-0-0-0 
+9 
+The objective of the course is to 
+familiarize students with the cognitive 
+processes of learning and memory, the 
+neural mechanisms that drive these 
+processes as well as disorders of learning 
+and memory. The focus of the course will 
+be on recent advancement in the field 
+and how the processes have been 
+experimentally 
+investigated 
+using 
+multiple methodologies. 
+CGS690 
+Social behavior 
+and the brain: 
+an introduction 
+to social 
+neuroscience 
+3-0-0-0 
+9 
+As this course is mainly designed as a PG 
+Course, the focus will be on in-class 
+discussions through not-only the subject 
+mattered covered from the textbooks; 
+but also, through contemporary journal 
+articles about relevant topics. Apart from 
+a 
+mid-semester 
+and 
+end-semester 
+examinations, a large part of the 
+evolution will be based on class-room 
+assignments. At the end of the course, 
+group-presentations will be planned for 
+students in groups and will be evaluated 
+as part of course-requirements. 
+CGS698A 
+Mind: 
+philosophical 
+investigations 
+3-0-0-0 
+9 
+The objective of the course is to enable 
+the student to understand the important 
+philosophical positions in understanding 
+mind. The questions discussed will 
+include: What is the nature of 
+mind? How is the mind related to the 
+brain? What is consciousness? How can 
+we be certain that others have minds and 
+conscious experiences? Can a computer 
+have a mind or consciousness? How do 
+we study the mind? At the end of the 
+course, the student is expected to 
+understand 
+the 
+strengths 
+and 
+weaknesses of different positions. The 
+student is also expected to understand 
+the philosophical implications of the 
+scientific 
+studies 
+discussed 
+in 
+the 
+curriculum and the implications of 
+different 
+positions 
+for 
+conducting 
+scientific studies. 
+CGS698C 
+Bayesian models 
+& data analysis 
+3-0-0-0 
+9 
+ This course will study the Bayesian 
+analogues for traditional data analysis 
+and modelling. It will also cover
+
+[Page 9]
+computational techniques often used in 
+Bayesian data analysis and modelling. 
+ 
+Topics Covered: Fundamentals of the 
+Bayesian 
+approach, 
+Parameter 
+estimation, 
+Bayesian analogues of t-test, regression, 
+ANoVA, power analysis. Model selection, 
+Bayesian computation. Case studies. 
+CGS698D 
+Neurobiology of 
+affect & 
+motivation 
+3-0-0-0 
+9 
+This course aims to guide students as 
+they take a deep dive into the cognitive 
+neuroscience literature on emotions, 
+pleasure, pain, uncertainty and effort in 
+decision-making as well as affect & 
+motivation 
+disorders. 
+Students 
+will 
+review selected papers and use class 
+discussions to flesh out their own ideas 
+for further research. As a primer for any 
+real-world workplace setÝng, a fair 
+amount of focus will be laid on working 
+together 
+as 
+a 
+team, 
+improving 
+communication skills by way of oral 
+presentations & written reports. By the 
+end of the course, students will be aware 
+of classic studies and current research 
+trends in the field, how to critically 
+evaluate and interpret results etc. 
+CGS698E 
+ Topics in Visual 
+Perception 
+3-0-0-0 
+9 
+The course looks at visual perception 
+with the lens of cognitive science of 
+visual perception primarily based on 
+Marr's tri-level approach. With help of 
+perceptual constancy, the course tries to 
+understand 
+the 
+process 
+of 
+visual 
+perception and how it interacts with 
+other cognitive processes such as 
+attention, action, etc.
+
+[Page 10]
+CGS652 
+Consciousness 
+3-0-0-0 
+9 
+The student is expected to understand 
+and distinguish between philosophical 
+approaches 
+(focusing 
+mostly 
+on 
+contemporary 
+approaches) 
+to 
+consciousness. The students should be 
+able to understand the phenomena to be 
+explained 
+and 
+understand 
+the 
+methodological 
+issues 
+in 
+studying 
+consciousness. 
+Knowledge 
+of 
+experiments on various aspects of 
+consciousness including the relationship 
+between 
+consciousness 
+and 
+other 
+mental processes as well as neural 
+mechanisms 
+that 
+underlie 
+consciousness. The course will focus on 
+psychophysical, 
+neural 
+and 
+computational studies on consciousness. 
+The course will be a seminar course and 
+will involve discussing journal articles in 
+some detail. 
+CGS700 
+Seminar in 
+Cognitive Science 
+0-0-0-0 
+0 
+To familiarize the PG students with the 
+current 
+themes 
+and 
+progress 
+as 
+presented by their colleagues.By the end 
+of the course learn best practices in oral 
+presentation and preparation for talks. 
+CGS702 
+Project 
+0-0-0-0 
+9 
+A research project in cognitive science 
+under the supervision of a faculty 
+member. 
+CGS786 
+ Computational 
+Cognitive Science 
+3-0-0-0 
+9 
+To what degree functions of the mind can 
+be reproduced or simulated by a 
+computer is a question that has become 
+volubly prominent in recent years. It is 
+often posed for public consumption as a 
+matter of ends – when will computer 
+performance 
+surpass 
+human 
+performance on interesting challenges. 
+From a scientific standpoint, it is more 
+useful to ask this question from the 
+standpoint of means – what physical and 
+informational resources do biological 
+organisms have available to respond 
+adaptively to situations they encounter 
+in the world? This is the question that 
+computational cognitive scientists seek 
+to answer. Such research frequently 
+starts from parametric characterizations
+
+[Page 11]
+of empirical behavior. Theorists then 
+develop computational models of the 
+phenomenon 
+that 
+capture 
+the 
+quantitative relationship between these 
+parameters and various experimental 
+conditions. A good empirical fit permits 
+further questions of biological and 
+epistemic plausibility to be asked of the 
+model. Models that pass these quasi-
+philosophical checks graduate to the 
+status of theories. These accounts are, 
+inevitably, challenged as incomplete or 
+erroneous by further iterations of 
+experiments and models. The cycle of 
+research in cognitive science, therefore, 
+encompasses, in order of the workflow 
+presented above, neuroscience and 
+psychology, statistics, computer science, 
+and philosophy. This course is meant to 
+introduce students interested in the 
+computational 
+aspects 
+of 
+cognitive 
+science 
+a 
+relatively 
+comprehensive 
+overview of the discipline. 
+CGS410 
+Language in the 
+Mind and 
+Machines 
+3-0-0-0 
+9 
+Objectives 
+Humans possess an amazingly complex 
+communication system that allows them 
+to transmit any message using a linear 
+stream of auditory/visual symbols in real 
+time. We know this system as language. 
+How did human language evolve? How 
+does it work in the mind? Language in 
+the 
+Mind 
+and 
+Machines 
+is 
+an 
+introductory course on the study of 
+language from a cognitive perspective. 
+The course is designed to expose 
+students to fundamental questions in 
+language science, e.g., how language 
+came into existence, how it evolved, and 
+how is it processed in the mind and 
+machines, and provide them with a set of 
+tools and methods to investigate these 
+questions. The students will learn fresh 
+perspectives on language: Language as a 
+complex adaptive system of symbols and 
+Language as a cognitive function. The 
+focus will be on the universals of human 
+language, variation across languages,
+
+[Page 12]
+origin 
+and 
+evolution 
+of 
+language, 
+processing of language in the mind and 
+Large Language Models. The course will 
+attract 
+students 
+from 
+all 
+study 
+backgrounds to take up challenging and 
+interesting problems in the study of 
+language and solve them using novel 
+mathematical 
+and 
+computational 
+techniques. This course will have a 
+considerable focus on regular hands-on 
+assignments 
+which 
+would 
+target 
+interesting open problems in language 
+science and will end with a course project 
+to be done using Python/R. The course is 
+targeted at all engineering and science 
+disciplines who wish to understand 
+language and solve some outstanding 
+research problems in the study of 
+language and the mind

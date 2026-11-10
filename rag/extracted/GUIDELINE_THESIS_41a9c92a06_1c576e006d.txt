@@ -1,0 +1,472 @@
+[PAGE 1]
+GUIDELINES FOR THESIS PREPARATION
+
+INDIAN INSTITUTE OF TECHNOLOGY KANPUR
+
+Updated in November, 2019
+
+1
+
+[PAGE 2]
+GUIDELINES FOR THESIS PREPARATION
+
+1.    Introduction
+
+1.1   Purpose
+
+This document, herein after referred to as the Thesis Guide, lists the general and specific
+requirements governing thesis preparation including guidelines for structuring the contents. For
+style, structure and presentation of the thesis, students may refer to additional style manuals or
+reference guides (some of which are listed below) and to the published literature in their  respective
+fields of study.
+
+Style Manuals or Reference Guides
+
+i.     Michaelson, H.B. How to Write & Publish Engineering Papers and Reports. 3rd ed.
+Phoenix: Oryx Press, 1990.
+ii.     Turner, R.P. Technical Report Writing. 2nd ed. San Francisco: Rinehart Press, 1971.
+iii.    Turk, C. and Krikman, J. Effective writing: Improving Scientific, Technical and Business
+Communication. 2nd ed. London: E & FN Spon, 1989.
+iv.    Campbell, W.G., Ballou, S.V. and Slade, C. Form and Style: Theses, Reports, Term
+Papers. 4th ed. Boston: Houghton Mifflin Co., 1974.
+v.   MLA Style Manual and Guide to Scholarly Publishing. 3rd ed. New York: Modern
+Language Association, 2008.
+vi.    Sternberg, D. How to Complete and Survive a Doctoral Dissertation. New York: St.
+Martin’s Press, 1981.
+vii.   Day, R.A. and Gastel, B. How to Write and Publish a Scientific Paper. Westport:
+Greenwood Press, 2006.
+viii.   Booth, W.C., Colomb, G.G. and Williams, J.M. The Craft of Research. Chicago: The
+University of Chicago Press, 2003.
+ix.    Publication Manual of the American Psychological Association. 6th ed. Washington, DC:
+APA, 2009.
+
+Thesis Submission
+
+The thesis is to be submitted to the Dean of Academic Affairs in a soft copy (PDF). Besides
+various existing requirements for thesis submission such as submission of a list of examiners
+by the  thesis supervisor, students and  their  thesis supervisors should ensure  that the
+guidelines for thesis preparation and submission have been adhered to.
+
+2
+
+[PAGE 3]
+Before submission, the thesis is to be sent to the Thesis Processing Cell for Similarity
+Check and Formatting Check. The Thesis Processing Form issued by the Thesis Processing
+Cell, signed by the student and the thesis supervisor, has to be submitted at the time of thesis
+submission to be filed in the Student File maintained by the office of the Dean of Academic
+Affairs. For more information, see www.iitk.ac.in/doaa/tpc
+
+While submitting the thesis, every student is required to provide the Dean of Academic
+Affairs a signed declaration in the format given on page 13 of this document.
+
+Thesis Archiving
+
+In case of PhD/MSR theses, a soft copy of the revised thesis is to be submitted prior to the
+Oral Examination along with the soft copy of the responses to the thesis examiners. In the
+revised version of the thesis, the revisions are to be highlighted in examiner-specific colours.
+
+After the Oral Examination, the finally accepted version of the PhD/MSR/MTech/MDes/BT-
+MT thesis is to be submitted in a soft copy (without highlighting the revisions) to the DOAA
+office for its records, and to the library for digital archiving.
+
+2.    Specifications for the Thesis Format
+
+2.1   Preparation of Manuscript and Copies
+
+2.1.1 The thesis needs to be prepared using a standard text processing software.
+
+2.1.2  Uniformity in font sizes, fonts, spacing, and margins has to be ensured.
+
+2.1.3  Thesis should be free from typographical errors.
+
+2.2    Size and Margins
+
+2.2.1 A4 is the recommended thesis page size.
+
+2.2.2 The top, bottom and right side margins should be 25 mm, whereas the left side margin
+should be 35 mm for both textual and non-textual (e.g., figures, tables) pages.
+
+2.2.3  Content should not extend beyond the bottom margin except for completing a
+footnote, last line of chapter/subdivision, or figure/table caption.
+
+2.2.4 A sub-heading at the bottom of the page should have at least two full lines of content
+below it. If the sub-heading is too short to allow this, it should begin on the next page.
+
+2.2.5  All tables and figures should conform to the same requirements as text. Color may be
+used for figures. If tables and figures are large, they may be reduced to the standard
+
+3
+
+[PAGE 4]
+size (provided the reduced area is not less than 50% of the original) and /or folded just
+once to flush with the thesis margin (if the page size does not exceed 250x360 mm).
+
+2.2.6  Students may choose to submit the thesis either in the standard size (as in 2.2.1) or in
+a book format that is roughly half of A4. If the book format is adopted for submission,
+it should be ensured that all textual and illustrative material is distinct and legible.
+
+2.3   Page Numbering
+
+2.3.1  Beginning with the first page of the text in the thesis (chapter 1), all pages should be
+numbered consecutively and consistently in Arabic numerals through the appendices.
+
+2.3.2  Page numbers prior to Chapter 1 should be in lower case Roman numerals. The
+title page is considered to be page i but the number is not printed.
+
+2.3.3  All page numbers should be placed without punctuation in the upper right hand
+corner, 12mm from the top edge and with the last digit even with the right hand
+margin.
+
+2.4   Multi-Volume Thesis
+
+A thesis may be in two or more volumes, if required. The volume separations come at the
+end(s) of major division(s). The preliminary pages prior to Chapter 1 are contained only in
+Volume I, except the title page.
+
+2.5   Line Spacing
+
+The general text of the manuscript should be in double spacing (3 lines per inch). Long
+tables,  quotations,  footnotes,  multi-line captions and bibliographic  entries  (references)
+should be in single spacing (6 lines per inch), with text size in 11 points.
+
+2.6   Tables, Figures and Equations
+
+2.6.1   All tables (tabulated data) and figures (charts, graphs, maps, images, diagrams, etc.)
+should be prepared, wherever possible, on the same page used to type the text and
+conform to the specifications outlined earlier. They should be inserted as close to
+the textual reference as possible.
+
+2.6.2    Tables, figures and equations should be numbered sequentially either throughout the
+thesis or chapter-wise using Arabic numerals. They are referred to in the body of the
+text capitalizing the first letter of the word and number, as for instance, Table 17,
+Figure 24, Equation (33), or Table 5.3, Figure 3.11, Equation (4.16), etc.
+
+4
+
+[PAGE 5]
+2.6.3    If tables and figures are of only half a page or less, they may appear on the same
+page as text but separated above and below by triple line spacing. Font size for text
+should be the same as for the general text.
+
+2.6.4   Good quality figures must be drawn using standard software that provides vector
+rather than bit-map graphics. Figures must be scalable.
+
+2.6.5   Images, Photographs etc. must be scanned in resolution exceeding 200dpi with 256
+grayscales for the monochrome images and 24 bit per pixel for the color images.
+
+3.    Guidelines for Structuring the Contents
+
+3.1.   Sequence of Contents
+
+The following sequence for the thesis organization should be followed:
+
+(i)    Preliminaries            Title Page                     ) As per the format given
+Certificate                     ) at the end of the Thesis
+Declaration                   ) Guide
+Abstract/Synopsis           )
+Acknowledgement and/ or Dedication (where included)
+Table of Contents
+List of Figures, Tables, Illustrations,
+Symbols, etc (wherever applicable)
+(ii)   Text of Thesis           Introduction
+The body of the thesis, summary and conclusions
+
+(iii)   Reference Material      List of References, Bibliography (where included)
+(iv)   Appendices          Where included
+(v)   Index              Where included
+
+All the headings are centered (without punctuation) 25mm down the top edge of the page. The
+subsequent type-setting begins four spaces below the heading.
+
+3.2   Preliminaries
+
+3.2.1  Synopsis/Abstract
+
+3.2.1.1 An M Tech. thesis should contain an abstract not exceeding 300 words (about one
+page), and a Ph.D. thesis should contain an abstract/synopsis not exceeding 1000 words (about
+four pages) in double spacing.
+
+5
+
+[PAGE 6]
+3.2.1.2   Ph.D. students shall submit a copy of the synopsis/abstract for transmission to
+examiners.
+
+3.2.1.3 A  synopsis/abstract   shall  be  prepared  in  double  space  with  the  heading
+“SYNOPSIS/ABSTRACT” in uppercase followed by certain preliminary information and the
+text. For textual matter, refer to the suggested format which is placed at the end of the Thesis
+Guide.
+
+3.2.1.4 Synopsis/Abstract should be complete by itself and contain no citations.
+
+3.2.2  Table of contents
+
+3.2.2.1 The table of contents lists all material that follows it. No preceding material is listed.
+Chapter titles, sections, first and second order sub-divisions, etc must be listed in it.
+
+3.2.2.2 Tables, figures, nomenclature, if used in the thesis, are listed under separate headings.
+
+3.3   The Text of the Thesis
+
+3.3.1 Introduction
+Introduction may be the first chapter or its first major division. In either case,  it should
+contain a brief statement of the problem investigated.  It should outline the scope, aim,
+general character of the research and the reasons for the student’s interest in the problem.
+
+3.3.2 The body of Thesis
+This  is the substance of the dissertation inclusive of all divisions, subdivisions, tables,
+figures, etc.
+
+3.3.3 Summary and conclusions
+If required, these are given as the last major division (chapter) of the text. A further and final
+sub-division titled “Scope for Further Work” may follow.
+
+3.3.4 Reference material
+The  list of references should appear as a consolidated  list with references listed either
+alphabetically or sequentially as they  appear in the text of the thesis. If pertinent works have
+been consulted but not specifically cited, they should be listed as Bibliography or General
+References. Spacing and font size should be consistent inside a single reference, and there
+should be double spacing between two different references (see Section 2.5).
+
+6
+
+[PAGE 7]
+Reference Format
+For referencing an article in a scientific journal the suggested reference format should
+contain the following information: title, authors, name of journal, volume nos, page nos and
+year.
+
+For referencing an article published in a book, the suggested format should reference should
+contain, the title of the book, authors, editors, publisher, year, page number of the article in
+the book being referred to.
+
+For referencing a thesis, it is required to specify the title of thesis, author, where thesis was
+submitted or awarded, and the year.
+
+A few examples of formats of references are given below and student should be consistent in
+following the style.
+
+Journals
+H.E. Exner, “Physical and Chemical Nature of Cemented Carbides,” International Metals
+Review, 1979, v. 24, pp. 149-173.
+
+G.E. Spriggs, “The Importance of Atmosphere Control in Hard Metal Production”, Powder
+Metallurgy, 1970, v. 13, n. 26, pp. 369-393.
+
+Paul, A.; Connolly, D.; Schulz, M.; Pryce, M. T.; Vos, J. G. Effect of Water during the
+Quantitation of Formate in Photocatalytic Studies on CO2 Reduction in
+Dimethylformamide. Inorg. Chem. 2012, 51, 1977– 1979, DOI: 10.1021/ic202121.
+
+A. Kaczmarek, M. Shiga, and D. Marx, J. Phys. Chem. A 113, 1985 (2009).
+
+Conference Proceedings
+H.F. Fischmeister, “Development and Present Status of the Science and Technology of Hard
+Materials,” Science of Hard Materials, R.K. Viswanadham, D.J. Rowcliffe, and J. Gurland
+(eds.), Plenum Press, New York, NY, USA, 1982, pp. 1-45.
+
+W.H. Baek, M.H. Hong, S. Lee, and D.T. Chung, “A Study on the Shear Localization
+Behavior of Tungsten Heavy Alloy,” Tungsten and Refractory Metals 2, A. Bose and R.J.
+Dowding (eds.), Metal Powder Industries Federation, Princeton, NJ, USA, 1995, pp. 463-
+471.
+
+Books
+R.M. German, Powder Injection Molding, Metal Powder Industries Federation, Princeton,
+NJ, USA, 1990.
+
+Books (Edited)
+
+7
+
+[PAGE 8]
+H.J. Emeléus and A.G. Sharpe (eds.), Advances in Inorganic Chemistry and Radiochemistry,
+New York, Academic Press, 2001.
+
+Book Chapters
+J. Almlof and O. Gropen, “Relativistic Effects in Chemistry”, In Reviews in Computational
+Chemistry, K.B. Lipkowitz and D.B. Boyd (eds.), New York, VCH, 1996, Vol. 8, pp 206–
+210.
+
+Theses
+J.L. Johnson, Densification, Microstructural Evolution, and Thermal Properties of Liquid
+Phase Sintered Composites, Ph.D. Thesis, The Pennsylvania State University, University
+Park, PA, USA, 1994.
+
+Technical Reports
+E.G. Zukas, P.S.Z. Rogers, and R.S. Rogers, “Experimental Evidence for Spheroid Growth
+Mechanisms in the Liquid Phase Sintered Tungsten Based Composites,” Informal Report:
+Los Alamos Scientific laboratory, USA, 1976, pp. 1-35.
+
+Patents
+V. Oenning and I. S. R. Clark, U. S. Patent No. 4988386, 1991.
+
+Journals in Non-English Languages
+L. Weihong and T. Xiuren, “Tungsten Matrix in Cu-W Contact Materials by Impregnation
+Process,” Powder Metallurgy Technology, 1988, v. 6, n. 8, pp. 1-4. (in Chinese).
+
+Internet Sources
+International   Union   of   Pure   and   Applied   Chemistry  Home   Page.   http://www.
+iupac.org/dhtml_home.html (accessed April 24, 2005).
+
+3.3.5 Appendix or Appendices
+
+3.3.5.1 Supplementary illustrative material, original data, and quotations too lengthy for
+inclusion in the text or which is not immediately essential to an understanding of the subject
+can be presented in Appendix or Appendices (as Appendix A , Appendix B, etc.)
+
+3.3.5.2 Each appendix with its title should be listed separately in the table of contents.
+Likewise, tables and figures contained in the Appendices are to be included in the lists of
+tables and figures, respectively.
+
+4.    Concluding Remarks
+
+This Thesis Guide lists only the basic requirements for preparing the thesis. Over and above
+the aforementioned points, a thesis should be reader-friendly in both its appearance and
+presentation.  Several  aspects  of  thesis  preparation,  particularly  style  of  writing and
+presentation, have not been discussed in great detail. The student should cull appropriate
+8
+
+[PAGE 9]
+ideas from standard literature of his/her area of research, and adopt a uniform style and
+format throughout the thesis, such as in the structural divisions/subdivisions of the thesis, in
+the mode of citing references and footnotes in the text, in using dimensions, units and
+notations, and in preparing tables and figures, etc.
+
+9
+
+[PAGE 10]
+Sample Formats for Certificate, Abstract/Synopsis, and Title Page
+ABSTRACT/SYNOPSIS
+
+Comments
+
+Name of Student………………………..Roll no…………………    ) Centered on top of page
+)
+
+Degree for which submitted ……………….Department…………..  )
+Thesis Title …………………………………………………………  )
+……………………………………………………….…  )
+
+Name(s) of Thesis Supervisor(s)                                            ) Single spacing
+1. …………………………………………………………..    )
+2. …………………………………………………………..    )
+
+Month and year of thesis submission……………………..……..      ) Double spacing
+
+[Text of Synopsis/abstract begins here]                            )
+
+10
+
+[PAGE 11]
+CERTIFICATE
+
+It is certified that the work contained in the thesis titled “………………………….,” by
+
+“……………………….(Name of the Student)” has been carried out under my/our supervision and
+
+that this work has not been submitted elsewhere for a degree*
+
+Signature of the Supervisor(s)
+Name(s)
+Department(s)
+I.I.T. Kanpur
+
+Month, Year
+
+*Note: this statement is mandatory
+
+11
+
+[PAGE 12]
+DECLARATION
+
+This is to certify that the thesis titled ……………………………………
+
+……………………………………………………………………………
+has  been  authored  by  me.   It  presents  the  research  conducted  by me  under  the  supervision
+
+of……………………………………………………….
+
+To the best of my knowledge, it is an original work, both in terms of research content and narrative, and has
+
+not been submitted elsewhere, in part or in full, for a degree. Further, due credit has been attributed to the
+
+relevant state-of-the-art and collaborations (if any) with appropriate citations and acknowledgements, in line
+
+with established norms and practices.
+
+Signature
+
+Name:…………………………………….
+
+Programme:PhD/MTech/MDes
+
+Department:…………………………………..
+Indian Institute of Technology Kanpur
+Kanpur 208016
+
+12
+
+[PAGE 13]
+Title of the Thesis
+
+________________________________________________________
+
+A Thesis Submitted
+
+In Partial Fulfillment of the Requirements
+
+for the Degree Of
+
+Name of the Student
+
+to the
+
+DEPARTMENT OF ------------------------------------
+
+INDIAN INSTITUTE OF TECHNOLOGY KANPUR
+
+Month, Year
+
+13
+
+[PAGE 14]
+Declaration (To be submitted at DOAA Office)
+
+I hereby declare that
+
+1. The research work presented in the thesis titled
+
+……………………………………………………………………………………………………….
+has been conducted by me under the guidance by my supervisor(s)
+
+………………………………………………………………………………………………………..
+
+2. The thesis has been formatted as per Institute guidelines.
+
+3. The content of the thesis (text, illustration, data, plots, pictures etc.) is original and is the outcome of
+my research work. Any relevant material taken from the open literature has been referred and cited,
+as per established ethical norms and practices.
+
+4.  All collaborations and critiques that have contributed to giving the thesis its final shape is duly
+acknowledged and credited.
+
+5.  Care has been taken to give due credit to the state-of-the-art in the thesis research area.
+
+6.  I fully understand that in case the thesis is found to be unoriginal or plagiarized, the Institute reserves
+the right to withdraw the thesis from its archive and also revoke the associated degree conferred.
+Additionally, the Institute also reserves the right to apprise all concerned sections of society of the
+matter, for their information and necessary action (if any).
+
+Signature
+
+Name:…………………………………….
+
+Programme: PhD/MTech/MDes
+
+Roll No:…………………………………..
+
+Department:…………………………………..
+Indian Institute of Technology Kanpur
+Kanpur 208016
+
+14

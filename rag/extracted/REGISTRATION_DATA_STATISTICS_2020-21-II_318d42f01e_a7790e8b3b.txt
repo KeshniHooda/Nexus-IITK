@@ -1,0 +1,291 @@
+[PAGE 1]
+REGISTRATION DATA STATISTICS FOR 2020-21/II
+
+TOTAL NUMBER OF COURSES BEING OFFERED                    591
+
+EXCLUDE THE THESIS COURSE, SEMINAR, PROJECT, BTP,
+SUMMER TRAINING, PRESENTATION                                                               392
+
+MAXIMUM CLASS SIZE (CHM609A)                                433
+MINIMUM CLASS SIZE
+(AT PRESENT THERE ARE 392 COURSES: CE793A, MTH624A,          1
+MTH761A)
+
+AVERAGE CLASS SIZE (OF ALL 392 COURSES)                      59
+
+NUMBER OF COURSES WITH 5 STUDENTS OR LESS                 44
+
+NUMBER OF COURSES WITH 100 STUDENTS OR MORE              66
+
+AVERAGE CLASS SIZE OF COURSES THAT HAVE >5 AND LESS THAN  36
+100 STUDENTS
+
+THE FOLLWING IS THE NUMBER OF COURSES WITH
+VARIOUS CLASS STRENGTHS
+
+No. of Student   No. of Course
+
+1              3
+
+2             10
+
+Page 1 of 7
+
+[PAGE 2]
+3              8
+
+4             14
+
+5              9
+
+6-10            35
+
+11-15           27
+
+16-20           32
+
+21-25           37
+
+26-30           25
+
+31-50           43
+
+51-75           61
+
+76-100           23
+
+>100            65
+
+Total            69
+
+2020-21 SECOND SEMESTER LIST OF COURSES IN WHICH ≤5 STUDENTS
+REGISTERED
+
+Total No.
+S.No. Course No.        Instructor                     Name
+of Student
+
+1.    CE793A     Harish K V         SCIENTIFIC PRASENTATION SKILLS                   1
+
+2.   MTH624A   Santosh Nadimpalli   DIFFERENTIABLE MANIFOLDS AND LIE GROUPS      1
+
+3.   MTH761A   Ajay Singh Ramdin  VECTOR BUNDLES AND CHARACTERISTIC            1
+Thakur           CLASSES
+4.    CE791A     Harish K V        LITERATURE SEARCH AND REVIEW                  2
+
+5.    CE794A     Harish K V         SCIENTIFIC DATA ANALYSIS PRESENTATION AND      2
+INTERPRETATION
+6.    CS698V     Anil Seth         INTRODUCTION TO LAMBDA CALCULUS TYPES &     2
+MODELS
+
+7.    EE659A     Naren Naik        COMPUTATIONAL ASPECTS OF TOMOGRAPHIC        2
+IMAGING: MODELS TO INVERSIONS
+
+Page 2 of 7
+
+[PAGE 3]
+Total No.
+S.No. Course No.        Instructor                     Name
+of Student
+
+8.    ART701A    Shatarupa Thakurta   METHODOLOGY: ART CRITICISM &                   2
+Roy             APPRECIATION
+
+9.    ART704A    Ritwij Bhowmik,    ART AS A MEDIUM OF COMMUNICATION              2
+Satyaki Roy
+
+10.   ART708A   Koumudi Patil      RESEARCH METHODS IN VISUAL CULTURE           2
+
+11.   PHI752A     Prashant Bhalchandra PROBLEMS IN PHILOSOPHICAL AESTHETICS          2
+Bagad
+
+12.   SOC759A    Anindita Chakrabarti, ECONOMY AND SOCIETY                            2
+Jillet Sarah Sam
+
+13.   PHY441A    Jayita Nayak       ELECTRONICS                                       2
+
+14.   CHM668A   Anantharaman     ADVANCED MAIN GROUP CHEMISTRY                3
+Ganapathi
+
+15.   CS697A     Satyadev Nandakumar SPECIAL TOPICS IN COMPUTER SCIENCE              3
+
+16.   ENG749A   T Ravichandran     POSTMODERN THEORY AND LITERATURE             3
+
+17.   SOC720A  A K Sharma Sharma  RESEARCH METHODS                               3
+
+18.   MTH633A    Abhijit Pal        INTRODUCTION TO HYPERBOLIC GEOMETRY         3
+
+19.   MTH718A    Prosenjit Roy     GAMMA CONVERGENCE                             3
+
+20.   MTH725A   Sameer Laxman     HILBERT SPACE METHODS IN COMPLEX              3
+Chavan           ANALYSIS
+
+21.   MTH734A    Satyajit Guin      BRANCH ALGEBRAS C* ALGEBRAS AND              3
+SPECTRAL THEORY
+
+22.   BSE614A    Dhirendra S Katti    TISSUE ENGINEERING                               4
+
+23.   CHM649A   Ashis Kumar Patra   PRINCIPLES OF INORGANIC CHEMISTRY              4
+
+24.   CHM667A   Mainak Sadhukhan  QUANTUM DYNAMICS IN CHEMISTRY                4
+
+25.   EE626A     Rakesh K Bansal     TOPICS IN STOCHASTIC PROCESSES                  4
+
+26.   PHI775A   A V Ravishankar    PHILOSOPHY OF MIND                               4
+Sarma
+
+27.   PSY774A   Kumar Ravi Priya    QUALITATIVE RESEARCH: THEORY AND              4
+PRACTICE
+
+Page 3 of 7
+
+[PAGE 4]
+Total No.
+S.No. Course No.        Instructor                     Name
+of Student
+
+28.   SOC721A   Munmun Jha, Pradip  SOCIOLOGICAL THEORY                             4
+Swarnakar
+
+29.   IME709A   Anoop Singh       PRODUCTIVITY AND EFFICIENCY ANALYSIS:          4
+THEORY AND BENCHMARKING APPLICATIONS
+
+30.   MS605A     Siddhartha Panda, Raj MATERIALS ENGINEERING                           4
+Ganesh S Pala, Dasari
+L V K Prasad
+31.   MTH621A   Parasar Mohanty    FOURIER ANALYSIS                                 4
+
+32.   MTH652A  Rama Rawat      ADVANCED CALCULUS                              4
+
+33.   MTH701A   Mohua Banerjee    MODAL LOGIC                                      4
+
+34.   MTH759A   Debasis Sen       ALGEBRIC TOPOLOGY II                             4
+
+35.   PHY680A   Debtosh Chowdhury  PARTICLE PHYSICS                                  4
+
+36.   CE783B    Syam Nair        CHARACTERIZATION OF ENGINEERED                5
+PAVEMENT MATERIALS
+
+37.   CS698C     Sumit Ganguly      SKETCHING AND SAMPLING FOR BIG DATA           5
+ANALYSIS
+
+38.   EE633A    S N Singh         ELECTRIC POWER SYSTEM OPERATION AND          5
+MGMT. UNDER RESTRUCTURED ENVIRONMENT
+
+39.   ENG753A   Mini Chandran      TRANSLATION STUDIES                              5
+
+40.   PHI774A     Vineet Sahu        SOCIAL AND POLITICAL PHILOSPHY                  5
+
+41.   PSY789A    Devpriya Kumar    LEARNING MEMORY AND COGNITION                5
+
+42.   SOC723A    Esha Chatterjee     INTRODUCTION TO STATISTICAL INFERENCE          5
+
+43.   MBA779A  B V Phani        ADVANCED FINANCIAL MODELING                   5
+
+44.   MTH641A   Santosha Kumar     INTRODUCTION TO LIE ALGEBRAS AND               5
+Pattanayak         REPRESENTATION THEORY
+
+Page 4 of 7
+
+[PAGE 5]
+LIST OF COURSES IN WHICH 6-10 STUDENTS REGISTERED
+
+Total No.
+S.No. Course No.   Instructor         Name
+of Student
+
+1.    EE649A     Nandini Gupta      THE FINITE ELEMENT METHOD FOR ELECTRIC       6
+AND MAGNETIC FIELDS
+
+2.   ENG719A  G Neelakantan      AMERICAN RENAISSANCE                          6
+
+3.   MBA735A    Avijit Khanra, Chandan STRATEGIC MARKETING                            6
+Chatterjee
+4.   ME698H    Anurag Gupta       INTRODUCTION TO ROD THEORY                    6
+
+5.   MTH724A   Amit Shekhar Kuber  AN INTRODUCTION TO ALGEBRAIC K-THEORY       6
+
+6.   PHY604A    Sagar Chakraborty    REVIEW OF STATISTICAL MECHANICS                6
+
+7.    PSE607A     Shilpi Gupta       ADVANCED TOPICS IN PHOTONICS                   6
+
+8.    AE625A     Navrose           TRANSITION AND TURBULENCE                     7
+
+9.    CE622A    Amar Nath Chowdhury STABILITY OF STRUCTURES                         7
+
+10.   CE624A     Chinmoy Kolay     NONLINEAR STRUCTURAL ANALYSIS                7
+
+11.   CE672A     Onkar Dikshit      MACHINE PROCESSING OF REMOTELY SENSED       7
+DATA
+
+12.   CGS698D    K. M. Sharika       NEUROBIOLOGY OF AFFECT & MOTIVATION          7
+
+13.   CHE362A    Sanjeev Garg       BIOCHEMICAL ENGINEERING                        7
+
+14.  CHM629A   Keshavamurthy Srihari PRINCIPLES OF PHYSICAL CHEMISTRY               7
+
+15.   MTH732A   Sachin Subhash      REPRESENTATION THEORY OF FINITE GROUPS        7
+Sharma
+
+16.   AE671A     Arnab Samanta      AEROACOUSTICS                                   8
+
+17.   CE760A     Abhas Singh        SURFACE WATER QUALITY MODELING               8
+
+Page 5 of 7
+
+[PAGE 6]
+Total No.
+S.No. Course No.   Instructor         Name
+of Student
+
+18.   CE761B     Abhas Singh        SUBSURFACE CONTAMINANT FATE AND              8
+TRANSPORT
+
+19.   CHE672A   Harshwardhan Katkar  POLYMER PROCESSING                             8
+
+20.   EE321A     Govind Sharma      COMMUNICATION SYSTEMS                         8
+
+21.   EE631A      Saikat Chakrabarti    ADVANCED POWER SYSTEM STABILITY              8
+
+22.   ENG765A   Syed Feroz Hassan    FILM THEORY AND HISTORIOGRAPHY                8
+
+23.   PSY770A    Ark Verma         BILINGUALISM                                     8
+
+24.  MBA734A    Avijit Khanra, Chandan MARKETING OF SERVICES                           8
+Chatterjee
+
+25.   ME770A    Kamal K Kar       MATERIALS SELECTION IN MECHANICAL            8
+DESIGN
+
+26.   CE623A     Samit Ray Chaudhuri  EXPERIMENTAL METHODS IN STRUCTURL           9
+ENGINEERING
+
+27.   CHE454A    Raju Kumar Gupta    UNIT OPERATIONS INVOLVING PARTICULATE         9
+SOLIDS FOR CHEMICAL ENGINEERS
+
+28.   EE698S     Alok Verma        HIGH VOLTAGE POWER TRANSMISSION              9
+ENGINEEERING
+
+29.   MTH613A   Preena Samuel       RINGS AND MODULES                               9
+
+30.   MTH648A   Ashis Mandal       DIFFERENTIAL GEOMETRY                          9
+
+31.   PSE604A    Utpal Das          PHOTONICS SYSTEMS AND APPLICATIONS            9
+
+32.   AE755A     Ajay Singh         EXPLOSION AND DETONATION PHYSICS             10
+
+33.   CE629A     Durgesh C Rai      EARTHQUAKE ANALYSIS AND DESIGN OF            10
+STRUCTURES
+
+Page 6 of 7
+
+[PAGE 7]
+Total No.
+S.No. Course No.   Instructor         Name
+of Student
+
+34.   PHY602A    Joydeep Chakrabortty  REVIEW OF QUANTUM MECHANICS                 10
+
+35.   PHY607A     Arijit Kundu       QUANTUM MANY BODY PHYSICS                   10
+
+Page 7 of 7

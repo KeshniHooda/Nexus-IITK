@@ -1,0 +1,103 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+
+New Course Proposal
+
+1.  Course Number: DMSxxx
+
+2.  Course Title: Introduction to Mathematical Finance
+
+3.  Credits: 3-0-0-0 [9]
+
+Duration of Course: Full Semester
+
+4.  Proposing Department: Department of Management Sciences
+
+Other Department/IDPs which may be interested in the proposed course:
+
+Other faculty members interested in teaching the proposed course:
+
+5.  Proposing Instructor(s): Sourav Majumdar
+
+6.  Course Description: This introductory course on Mathematical finance focuses on the principle of pricing
+
+contingent claims under absence of arbitrage. The course will build a working knowledge of topics in Stochastic
+
+calculus with respect to Brownian motion and convex analysis, and use them to rigorously build the theory of no-
+
+arbitrage pricing. Special emphasis will be on the characterization of no-arbitrage, in terms of its existence and
+
+relation to pricing. The course will apply the theory to hedging and pricing financial derivatives. The course will
+
+also discuss topics relevant in contemporary research and practice, including pricing-hedging duality and pricing in
+
+incomplete markets.
+
+A)  Contents:
+
+S. No. Broad Title         Topics                                                         No. of
+
+Lectures
+
+1.      Probability           Probability as a measure: Sigma algebra, Random variable, Independence,  5
+
+preliminaries         Expectation, Conditional expectation, Martingales
+
+2.      Stochastic          Brownian Motion, Itô’s integral, Itô’s formula, Itô’s isometry, Stochastic    5
+
+Integration             differential equations
+
+3.     No-Arbitrage         No-arbitrage and related notions, Equivalent Martingale measure,         6
+
+pricing in Complete  Fundamental theorems of asset pricing, Girsanov’s theorem, Delta-Hedging
+
+Markets             approach to Black-Scholes-Merton formula (BSM), Martingale approach to
+
+BSM
+
+4.      Pricing and Hedging Convex sets, Convex programming, Lagrange multiplier, Fenchel         6
+
+duality               conjugate, Convex Duality. Applications to: Super-hedging and Sub-
+
+hedging bounds, Delta hedging and duality, Determining the hedging
+
+process, Hedging with contingent claims
+
+5.      Pricing in          Examples of incomplete markets, Minimal entropy martingale measure     4
+
+Incomplete Markets  approach, Good deal bounds
+
+[PAGE 2]
+C) Pre-requisites, if any: Probability (DMS602/HSO201/MSO201 or equivalent), Familiarity with linear
+
+programming is recommended but not necessary (DMS605 or equivalent)
+
+7. References:
+
+1.  Shreve, S. E. (2004). Stochastic calculus for finance II: Continuous-time models. Springer.
+
+2.   Kallianpur, G. and Karandikar, R. L. (2000). Introduction to Option Pricing Theory. Birkhauser.
+
+3.  Dineen, S. (2013). Probability theory in finance: a mathematical guide to the Black-Scholes formula. American
+
+Mathematical Society.
+
+4.   Carr, P. and Zhu Q. J. (2018). Convex Duality and Financial Mathematics. Springer.
+
+5.  Björk, T. (2020). Arbitrage Theory in Continuous Time. Oxford University Press.
+
+6.  Bingham, N.H. and Kiesel, R. (2004). Risk-Neutral Valuation: Pricing and Hedging of Financial Derivatives.
+
+Springer.
+
+7.  Danna, R. and Jeanblanc, M. (2007). Financial Markets in Continuous Time. Springer.
+
+Dated: 20 January 2025  Proposer: Sourav Majumdar
+
+Dated:_______________ DUGC/DPGC Convener:___________________
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC
+
+Dated:______________________________

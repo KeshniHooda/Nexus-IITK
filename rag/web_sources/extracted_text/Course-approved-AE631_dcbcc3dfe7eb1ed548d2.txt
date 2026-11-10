@@ -1,0 +1,196 @@
+[Page 1]
+Indian Institute of Technology, Kanpur 
+Proposal for a New Course 
+1. Course No: AEXXX 
+2. Course Title: Multidisciplinary Design Optimization 
+3. Per Week Lectures: 2 (L), Tutorial: 0 (T), Laboratory: 3 (P), Additional Hours[0-2]: 0 (A), 
+Credits (3*L+2*T+P+A): 9 
+Duration of Course: Full Semester 
+-- (9)
+4. Proposing Department/IDP: Aerospace Engineering 
+Other Departments/IDPs which may be interested in the proposed course: All Departments/IDP 
+Other faculty members interested in teaching the proposed course: --
+S. Proposing Instructor(s): Prof. Prabhat Hajela, Dr. Pradeep Moise 
+6. Course Description: 
+A) Objectives: The main objective of the course is to introduce students to Multidisciplinary Design 
+Optimization (MDO) emphasizing its role in integrating multiple disciplines for effective design 
+solutions. It further aims to engage them in hands-on projects to learn concepts and explore MDO 
+principles using available software tools in Lab sessions. 
+B) Contents (preferably in the form of S to 10 broad titles): 
+S. 
+No. 
+Broad Title 
+Topics 
+No. of 
+Lectures 
+1. 
+Overview of Multidisciplinary 
+Design Optimization 
+• 
+Definition 
+• 
+Historical Perspective 
+• 
+Applications 
+1 
+2. 
+Fundamentals of 
+Optimization 
+• 
+Optimization problem formulation 
+• 
+Optimization algorithms 
+• 
+Gradient-based Methods 
+• 
+Multi-objective Optimization 
+• 
+Evolutionary Algorithms 
+• 
+Other Heuristic Search Methods 
+8 
+3. 
+Multidisciplinary Analysis 
+(MDA) 
+• 
+Nature of Coupled Analysis 
+• 
+Design Structure Matrix (DSM) 
+• 
+Ordering of Analysis for 
+Computational Efficiency 
+• 
+Approximations in Analysis —
+Response Surfaces, Kriging, Neural 
+Networks 
+4 
+4. 
+Sensitivity Analysis 
+• 
+Sensitivity Analysis Methods 
+5
+
+[Page 2]
+IF 
+C 
+5. 
+Multidisciplinary Design 
+Optimization Frameworks 
+• 
+Overview of MOO Frameworks 
+• 
+Decomposition Methods for 
+Optimization 
+• 
+Hierarchical and Collaborative 
+Optimization 
+4 
+7. 
+Emerging Trends and Future 
+Directions in MOO 
+• 
+Integration of Artificial Intelligence 
+and Machine Learning 
+• 
+Optimization under Uncertainty 
+• 
+Digital Twins 
+4 
+Total 
+26 
+C) Pre-requlsites: None 
+D) Short summary for including in the courses of Study Booklet: The course provides a comprehensive 
+exploration of optimization principles applied to complex engineering systems. It begins with an 
+ntroduction to the importance and significance of MOO, emphasizing its role in integrating multiple 
+disciplines for effective design solutions. The course includes a brief overview of optimization 
+methods, including important gradient-based methods and non-traditional/heuristic methods for 
+optimization such as genetic algorithms and particle swarm optimization. The course also examines -
+multidiscipiinary systems analysis, emphasizing modeling techniques and sensitivity analysis to 
+understand system behavior. MOO frameworks and algorithms are reviewed, showcasing hierarchical, 
+collaborative, and concurrent approaches. Design space exploration strategies are discussed, 
+emphasizing Pareto optimization and decision-making under uncertainty. The role of machine learning 
+and artificial intelligence in multidisciplinary design optimization will be examined. Students will 
+engage in hands-on projects to learn concepts and explore MDO principles using available software 
+tools. Completion of a team-based project that examines some aspect of MOO in greater detail will be 
+required of all students. 
+7. Recommended Books: 
+1. Engineering Design Optimization, Joaquim R.R.A. Martins, Cambridge University Press, 2022. 
+Free PDF version is available: https://mdobook.github.io 
+2. Numerical Optimization Techniques for Engineering Design: With Applications, G.N. 
+Vanderplaats, VR&D Press. 
+8. Any other remarks: — 
+Dated: 
+27/5/2024 
+ Proposer: Prof. Pra6hat Haiela, Dr. Pradeep Moise 
+Dated: 
+DUGC/DPGC Convener: 
+The course is approved / not approved 
+Chairman, SUGC/SPGC 
+Dated:
+
+[Page 3]
+A 
+~I~ Sc~~ 
+INDIAN INSTITUTE OF TECHNOLOGY KANPUR 
+POSTGRADUATE OFFICE 
+No. A(P)/IITK/course approval/ 
+August 27, 2024 
+The Convener, DPGC 
+Departments of AE/SEE/CHE/SPASE 
+III Kanpur 
+I am directed to communicate the concurrence of the SPGC (2023-24) in its 10`h meeting held 
+on 15/07/2024 for the approval of new PG course proposal. After detailed discussion the 
+following courses were approved. 
+Course 
+No 
+Title 
+Credits 
+Instructor 
+SPCC 
+Decision 
+SPA626 
+Space Environments and Space Systems 
+3-0-0-0-(9) 
+Dr. Rohit Sharma 
+Dr. Soumyabrata 
+Chakrabarty 
+Approved 
+AE631 
+Multidisciplinary Design Optimization 
+2-0-3-0-(9) 
+Dr. Prabhat Hajela, 
+Dr. Pradeep Moise 
+Approved 
+AE632 
+Structural Vibration and Control 
+(3-0-0-0-9) 
+Dr Tanmay Mathur 
+Dr Dipak Girl 
+Approved 
+AE651 
+System Identification Techniques for 
+Aerial Vehicles 
+3-0-0-0-(9) 
+Dr. 
+Subrahmanyam 
+Saderla 
+Approved 
+SEE618 
+Heating, Ventilation, and Air-conditioning 
+of Buildings 
+3-0-0-0-(9) 
+Dr. Aakash Chand Rai 
+Approved 
+CHE669 "Chemical 
+Kinetics: 
+Reaction 
+Rate 
+Theories and Rare-Event Simulations 
+3-0-0-0-(9) 
+Dr. Vishal Agarwal 
+Approved 
+OARS (DOAA Office) For necessary action 
+.J 
+Assistant Registrar 
+Academic Affairs 
+C~

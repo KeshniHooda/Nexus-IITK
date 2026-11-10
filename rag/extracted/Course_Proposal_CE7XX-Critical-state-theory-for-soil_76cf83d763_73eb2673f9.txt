@@ -1,0 +1,96 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course
+
+1. Course no: CE7**
+
+2. Course Title: Critical state theory for soil
+
+3. Per week lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours: 0 (A)
+
+Credits: 3-0-0-0                               Duration of Course: Full Semester
+
+4. Proposing Department: Civil Engineering
+
+Other Departments/IDPs which may be interested in the proposed course: None
+
+Other faculty members interested in teaching the proposed course: Dr. Arghya Das
+
+5. Proposing Instructor: Dr. Bipin Kumar Gupta
+
+6. Course Description:
+
+A) Objectives: The course modules will introduce topics on stress-strain analysis, stress paths,
+and shear strength of soils under the critical state framework. This course modules will also
+provide a basic understanding of a critical state soil model to interpret soil behaviour followed
+by an application. The course will include numerical exercises to evaluate the stress-strain
+response of soils under various drainage conditions, and application problems following the
+critical state framework.
+
+B) Contents (preferably in the form of 5 to 10 broad titles)
+
+S. no.   Broad title             Topics                          No. Of lectures
+1          Stress,   Strains,   and  Stress and strains, Idealized stress-  02
+elastic deformations of  strain   response   and   yielding,
+soils                  Hooke’s  law,  Plane  strain  and
+Axisymmetric  conditions,  Stress
+and Strain states, Mohr’s circle
+2         Stress path in soils        Stress and  strain  invariant,  stress  04
+paths
+3        Shear strength of soils    Typical response of soils to shearing  05
+forces, Models for interpreting the
+shear  strength  of  soils,  practical
+implications  of   failure   criteria,
+Interpretation of shear strength of
+soils, Laboratory tests to determine
+shear strength parameters
+4     A critical state model to  Basic  concepts, Elements  of  the  10
+interpret soil behaviour    critical state model, Failure stress
+from  the   critical   state  model,
+Modifications   of   critical   state
+model, Stiffness of soil, Strains from
+the critical state model, Calculated
+
+[PAGE 2]
+stress-strain response, Application
+of critical state model to cemented
+soils
+5        Application of critical    Shallow foundation analysis using   05
+state model                 critical state model
+Total no. of 1hr 15 min lectures                           26
+
+C) Pre-requisites, if any: CE252 and CE351
+
+D) Short summary for including in the Courses of Study Booklet
+
+Stress-strain analysis of soil; Plane Strain and Axisymmetric condition, Concept of Mohr’s
+circle; Stress paths in soils; Typical response of soils to shearing forces; Models to interpret
+soil behaviour; Laboratory tests for strength parameters; Elements of critical state model,
+Stiffness of soil; Strains from critical state model; Stress-strain response from critical state
+model; Critical sate model application to cemented soils; Shallow foundation analysis using
+critical state framework
+
+7. Recommended books:
+
+Reference Books:
+
+  Soil Mechanics and Foundations, Muni Budhu, Wiley India Edition
+  Soil Mechanics: Concepts and Applications, William Powrie, CRC Press, 3rd Edition
+ An Introduction to Geotechnical Engineering, Holtz, Kovacs, and Sheahan, Pearson, 2nd
+edition
+  Applied analyses in Geotechnics, Fethi Azizi, Taylor and Francis group
+
+8. Any other remarks: The course is developed for PG students with a background in soil
+mechanics and foundation design. UG students with a background in these courses can also
+register.
+
+Dated: 10/04/2026                               Proposer Dr. Bipin Kumar Gupta
+
+Dated:                            DPGC convener
+
+The course is approved / not approved
+
+Chairman, SPGC
+
+Dated:

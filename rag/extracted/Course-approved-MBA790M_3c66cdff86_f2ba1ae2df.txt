@@ -1,0 +1,234 @@
+[PAGE 1]
+0
+
+1
+
+INDIAN INSTITUTE OF TECHNOLOGY KANPUR
+Department of Management Sciences
+Proposal for New Course
+
+Title: Private Equity, Venture Capital and other Alternative Assets
+Course No: MBAXXXM        O M
+Department: Management Sciences
+Proposer: Dr. Harshal Rajan Mulay
+Units: 3-0-04[5]
+Duration of the course: First Half of the Even Semester
+Prerequisite Courses: MBA601
+Other interested faculty: NA
+
+Course Objectives
+
+In the wake of India's economic liberalization since 1991, the landscape of finance and investment has witnessed
+a profound transformation. This elective offers a deep dive into the dynamic sectors of Private Equity, Venture
+Capital and Alternate Assets, shedding light on their pivotal role in shaping economies, driving innovation, and
+delivering exceptional returns. The course is designed to cover three key areas:
+1.  Alternative Asset Landscape: Examine the multifaceted world of alternative investments, including
+endowment funds, pension funds, hedge funds, and sovereign wealth funds, and their significance in
+modern financial ecosystem, with asset allocations and portfolio management.
+2.  Private Equity Unveiled: Gain comprehensive insights into Private Equity, covering topics such as
+Leveraged Buyouts (LBOs), valuation methodologies, benchmarking, and performance evaluation.
+3.  Venture Capital Fundamentals: Navigate the intricate landscape of Venture Capital, with a focus on
+practical applications, including unit economic factors, milestone mapping, and fundraising strategies for
+emerging ventures.
+
+Course Contents:
+
+Session No.    General Topic                                                  Pedagogy
+1              Introduction to the Private Financing Ecosystem in India and its           Lecture
+comparison with global markets
+2   .          Introduction to Alternative Asset Investments - endowment funds,        Lecture
+pension funds, hedge funds, and sovereign wealth funds
+3               Alternative Fund Structure and GP- LP Exchange                         Lecture / Case
+4              Valuation Models for Startups                                         Lecture
+5             Deal Lifecycle Management Module: deal sourcing, selection, and due    Lecture! Case
+diligence.
+S             Deal Structuring Module: Addressing complexities such as uncertainty    Lecture! Case
+and asymmetric information
+
+[PAGE 2]
+2
+
+6-8            Fundraising Module: Focus on Limited Partners, types, incentives, Return  Lecture, Case and
+Structures and Portfolio Allocation and performance                       Excel Exercises
+
+9-13            Investing and Harvesting Module : Risk reward relationships,              Lecture, Case and
+performance evaluation metrics specific to PEVC sector, incentive          Excel Exercises
+structures and performance-based compensation
+14              Alternative Fund Structures, Private Debt Market — Players, Incentives     Lecture
+and Performance
+
+Short summary for including in the Courses of Study Booklet: Same as Course Objectives mentioned above.
+
+Textbooks
+1.  Fundamentals of Entrepreneurial Finance, Marco Da Rin and Thomas Hellmann, Oxford University Press
+2020
+2.  Mastering Private Equity, Claudia Zeisberger, Michael Prahl, & Bowen White, Wiley 2017
+
+Web based resources.
+
+1.  PitchBook (pitchbook.com)
+2.  Inc42 (inc42.com)
+3.  TechCrunch (techcrunch.com)
+4.  Bloomberg (bloomberg.com)
+5.  The Wall Street Journal (wsj.com)
+6.  Harvard Business Review (hbr.org)
+
+Signature of Proposers:
+
+Dr. Harshal Rajan Mulay [Date: 27-Jan-2025]
+
+This course is Approved/ Not Approved                              This course is(eppro  dfNot Approved
+DPGC Convener, DoMS                                        Chairperson SPGC
+
+[PAGE 3]
+0
+
+PGDesk-IITK-DOHA
+
+From:                   DPGC DoMS <dpgc_doms@iitk.ac.in>
+Sent:                        21 February 2025 10:57
+To:                          Pgdesk
+Cc:                             Harshal Ranjan Mulay
+Subject:                       Fwd: Proposal for two new courses (DoMS)
+
+Follow Up Flag:                 Follow up
+Flag Status:                   Flagged
+
+Categories:                     Blue Category
+
+Dear Ravi ji,
+
+The following courses completed 21 days of the review process yesterday. The proposer of the courses or
+the DPGC have not received any comments on the course outlines. Therefore, the outlines present in the
+links can be considered as final, and may be considered for approval in the upcoming SPGC meeting.
+
+I propose the following course codes:
+
+a) "MBA769" (5 credit): Advanced Stock Valuation
+
+b) "MBA790" (5 credit): Private Equity, Venture Capital and other Alternative Assets
+
+Best regards,
+
+Subhankar Mukherjee
+DPGC Convenor
+Department of Management Sciences
+IIT Kanpur
+
+Original Message
+
+Subject:Proposal for two new courses (DoMS).
+Date:2025-01-29 13:53
+From:DPGC DoMS <dpgc_doms@iitk.ac.in>
+To:Acadstaff <acadstaff@lists.iitk.ac.in>
+
+Dear all,
+
+Please find links for the proposals for two new courses by Dr. Harshal Rajan Mulay from the Department
+of Management Sciences:
+
+1
+
+[PAGE 4]
+S
+1. Advanced Stack Valuation: https://iltk.ac.ln/doaa/data/NewCourses/Course-proposal-MBAXXXM-
+Advanced-Stock-Valuation.pdf
+
+2. Private Equity, Venture Capital and other Alternative Assets:
+https: //iitk.ac.i n/doaa/data/ NewCoursesLCourse-proposaI-M BAXXXM-Private-Equity-and-Venture-
+Capital.pdf
+
+Please share your feedback/comments, if any, by 20 February 2025 to Dr. Harshai Rajan Mulay
+(hrmuiay@iitk.ac.in) with a copy to the DPGC Convenor (dpgc_doms@iitk.ac.in).
+
+Best regards,
+
+Subhankar Mukherjee
+DPGC Convenor
+Department of Management Sciences
+IIT Kanpur
+
+2
+
+[PAGE 5]
+INDIAN INSTITUTE OF TECHNOLOGY KANPUR
+POSTGRADUATE OFFICE
+
+No. A(P)/IITK/course approval/
+March 25, 2025
+
+The Convener, DPGC
+Departments of DOMS/MTH/SEE
+ITT Kanpur
+
+I am directed to communicate the concurrence of the SPGC (2024-25) in its 6th meeting held
+on 27/02/2025 for the approval of new/modification PG course proposal. After detailed
+discussion the following courses were approved.
+
+Course No                       Title                     Credits            Instructor      SPGC Decision
+DMS613     Introduction to Mathematical Finance         3-0-0-0-[9]    Dr. Sourav Majumdar         Approved
+MBA644     Cyber Security and Privacy for Managers    3-0-0-1-[10]   Dr. Sourya Joyee De          Approved
+MBA788M   Monte Carlo Methods in Finance              3-0-0-1-[5]    Dr. Sourav Majumdar         Approved
+MBA789M   Management Sciences                        3-0-0-1-[5]    Dr. Harshal Rajan Mulay       Approved
+Private Equity, Venture Capital and otherMBA790M                                                    3-0-0-1-[5]    Dr. Harshal Rajan Mulay       Approved              Alternative Assets
+MTH619     Representation theory of quivers              3-0-0-0-[9]    Dr. Amit Kuber               Approved
+SEE627       Electric Mobility [Modification]               3-0-0-2-[11]   Dr. Amarendra Edpuganti      Approved
+
+Joint/Assistant Registrar
+Academic Affairs
+
+CC: OARS (DOAA Office) For necessary action
+
+[PAGE 6]
+u.     .f:.3.a.  'S ta:. tS...
+
+MINUTES
+FOR THE 6th MEETING OF THE SENATE POSTGRADUATE COMMITTEE (2024-25) HELD
+ON February 27, 2025 (Thursday) AT 11:00 AM
+CONFERENCE ROOM (208), ACADEMIC AFFAIRS BUILDING
+
+Members Present: Prof(s): D. Chaitanya Kumar Rao on behalf PM Mohite (AE), Suresh Kumar (BSBE), Basker
+Sundararaju (CHM), Ark Verma (CGS), Gourabananda Pahar (CE), Soumik Das on behalf of Dipin S Piliai (CHE),
+J Ramkumar (DES), Sukumar Vellakkal (ECO), imon Mondal (EE), Animesh Mandal (ES), Rajarshi Sengupta
+(HSS), Subhankar Mukherjee (DoMS), Anikesh Pal (ME), Sudhanshu S Singh (MSE), Pritam Chakraborty (MSP),
+Sudhanshu Shekhar (MATH), Sagar Chakrabarty (PHY), Kunal P Mooley (SPASE), Prabodh Bajpal (SEE)
+Members Absent: Prof(s), Piyush Rol (CSE), Pankaj Wahi (NET), Sapam Ranjita Chanu (PSE)
+Senate Nominee : Prof. Abheejeet Mohapatra
+Student representatives. Saurabh Sona Lahamate (231250121
+
+(A) Ratification of minutes of 5`h SPGC meeting held on January 24, 2025
+
+No comments were received. Minutes is confirmed
+
+(B) item requiring SPGC Approval
+
+a) New course approval
+Course No                       Title                     Credits            Instructor             I SPGC Decision
+DMS613     Introduction to Mathematical Finance         3-0-0-0-[9]    Dr. Sourav Majumdar         Approved
+MBA644    Cyber Security and Privacy for Managers    3-0-0-1-[10]   Dr. Sourya Joyee De            i    Approved
+MBA788M,  Monte Carlo Methods in Finance             3-0-0-1-[5]    Dr. Sourav Majumdar         Approved
+MBA789M   Management Sciences                       3-0-0-1-[5]    Dr. Harshal Rajan Mulay       Approved
+Private Equity, Venture Capftai and other                  MBA790M                                                                                        3-0-0-1-[5]    Dr. Harshal Rajan Mulay       Approved                                          Alternative Assets
+MTH619     Representation theory of quivers             3-0-0-0-(9]    Dr. Amit Kuber               Approved
+SEE627       Electric Mobility IModiticaton]               3-0-0-2-[11]   Dr. Amarendra Edpugantl      Approved
+
+b)  Terminatlon under 5.7
+Supervisor & DPGC   SPGC Decision                          S. No   Roll No    Name                       Dept.p     pro                                                                                                g'   Recommendation
+Approved to be                              1.                    Jatln Chaudhary         DOMS  MBA   Recommended                    1241250026                                                                         reported to Senate
+Approved to be                              2.    241010003  Adhikari Thakur Prasad Das  AE      MTech  Recommended                                                                                                                          reported to Senate
+
+c)  Full Time to Part-Time
+Supervisor and DPGC     Remark    SPGC Decision
+S. No   Roll No    Name          De p t     pro g     Recommendation
+CU=78
+TU =54                         1.    231040115   Swati Gupta      EE    MTech     Recommended                          Approved                                                                                                 CPI=9.38
+NOC - attached
+CU=78
+Bingi   Poojari                                                                                                -54                         2.    231040036  Venkatesh       EE    MTech     Recommended                          Approved                                                                                                CPI=9.38
+NOC - attached
+
+Page 1 of 9
+
+'4
+
+""t

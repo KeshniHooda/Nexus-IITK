@@ -1,0 +1,1597 @@
+<!DOCTYPE html>
+
+<html  dir="ltr" lang="en" xml:lang="en">
+<head>
+    <title>Home | Moodle</title>
+    <link rel="shortcut icon" href="https://moodle.cse.iitk.ac.in/theme/image.php/boost/theme/1785508093/favicon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="moodle, Home | Moodle" />
+<link rel="stylesheet" type="text/css" href="https://moodle.cse.iitk.ac.in/theme/yui_combo.php?rollup/3.18.1/yui-moodlesimple-min.css" /><script id="firstthemesheet" type="text/css">/** Required in order to fix style inclusion problems in IE with YUI **/</script><link rel="stylesheet" type="text/css" href="https://moodle.cse.iitk.ac.in/theme/styles.php/boost/1785508093_1785484924/all" />
+<script>
+//<![CDATA[
+var M = {}; M.yui = {};
+M.pageloadstarttime = new Date();
+M.cfg = {"wwwroot":"https:\/\/moodle.cse.iitk.ac.in","homeurl":{},"sesskey":"iUsPlfqPlL","sessiontimeout":"7200","sessiontimeoutwarning":1200,"themerev":"1785508093","slasharguments":1,"theme":"boost","iconsystemmodule":"core\/icon_system_fontawesome","jsrev":"1785471966","admin":"admin","svgicons":true,"usertimezone":"Asia\/Kolkata","language":"en","courseId":1,"courseContextId":2,"contextid":2,"contextInstanceId":1,"langrev":1785471966,"templaterev":"1785471966"};var yui1ConfigFn = function(me) {if(/-skin|reset|fonts|grids|base/.test(me.name)){me.type='css';me.path=me.path.replace(/\.js/,'.css');me.path=me.path.replace(/\/yui2-skin/,'/assets/skins/sam/yui2-skin')}};
+var yui2ConfigFn = function(me) {var parts=me.name.replace(/^moodle-/,'').split('-'),component=parts.shift(),module=parts[0],min='-min';if(/-(skin|core)$/.test(me.name)){parts.pop();me.type='css';min=''}
+if(module){var filename=parts.join('-');me.path=component+'/'+module+'/'+filename+min+'.'+me.type}else{me.path=component+'/'+component+'.'+me.type}};
+YUI_config = {"debug":false,"base":"https:\/\/moodle.cse.iitk.ac.in\/lib\/yuilib\/3.18.1\/","comboBase":"https:\/\/moodle.cse.iitk.ac.in\/theme\/yui_combo.php?","combine":true,"filter":null,"insertBefore":"firstthemesheet","groups":{"yui2":{"base":"https:\/\/moodle.cse.iitk.ac.in\/lib\/yuilib\/2in3\/2.9.0\/build\/","comboBase":"https:\/\/moodle.cse.iitk.ac.in\/theme\/yui_combo.php?","combine":true,"ext":false,"root":"2in3\/2.9.0\/build\/","patterns":{"yui2-":{"group":"yui2","configFn":yui1ConfigFn}}},"moodle":{"name":"moodle","base":"https:\/\/moodle.cse.iitk.ac.in\/theme\/yui_combo.php?m\/1785471966\/","combine":true,"comboBase":"https:\/\/moodle.cse.iitk.ac.in\/theme\/yui_combo.php?","ext":false,"root":"m\/1785471966\/","patterns":{"moodle-":{"group":"moodle","configFn":yui2ConfigFn}},"filter":null,"modules":{"moodle-core-lockscroll":{"requires":["plugin","base-build"]},"moodle-core-chooserdialogue":{"requires":["base","panel","moodle-core-notification"]},"moodle-core-formchangechecker":{"requires":["base","event-focus","moodle-core-event"]},"moodle-core-event":{"requires":["event-custom"]},"moodle-core-handlebars":{"condition":{"trigger":"handlebars","when":"after"}},"moodle-core-maintenancemodetimer":{"requires":["base","node"]},"moodle-core-notification":{"requires":["moodle-core-notification-dialogue","moodle-core-notification-alert","moodle-core-notification-confirm","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-core-notification-dialogue":{"requires":["base","node","panel","escape","event-key","dd-plugin","moodle-core-widget-focusafterclose","moodle-core-lockscroll"]},"moodle-core-notification-alert":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-confirm":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-exception":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-ajaxexception":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-actionmenu":{"requires":["base","event","node-event-simulate"]},"moodle-core-blocks":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification"]},"moodle-core-dragdrop":{"requires":["base","node","io","dom","dd","event-key","event-focus","moodle-core-notification"]},"moodle-core_availability-form":{"requires":["base","node","event","event-delegate","panel","moodle-core-notification-dialogue","json"]},"moodle-backup-backupselectall":{"requires":["node","event","node-event-simulate","anim"]},"moodle-course-categoryexpander":{"requires":["node","event-key"]},"moodle-course-management":{"requires":["base","node","io-base","moodle-core-notification-exception","json-parse","dd-constrain","dd-proxy","dd-drop","dd-delegate","node-event-delegate"]},"moodle-course-dragdrop":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification","moodle-course-coursebase","moodle-course-util"]},"moodle-course-util":{"requires":["node"],"use":["moodle-course-util-base"],"submodules":{"moodle-course-util-base":{},"moodle-course-util-section":{"requires":["node","moodle-course-util-base"]},"moodle-course-util-cm":{"requires":["node","moodle-course-util-base"]}}},"moodle-form-dateselector":{"requires":["base","node","overlay","calendar"]},"moodle-form-shortforms":{"requires":["node","base","selector-css3","moodle-core-event"]},"moodle-question-preview":{"requires":["base","dom","event-delegate","event-key","core_question_engine"]},"moodle-question-searchform":{"requires":["base","node"]},"moodle-question-chooser":{"requires":["moodle-core-chooserdialogue"]},"moodle-availability_completion-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_date-form":{"requires":["base","node","event","io","moodle-core_availability-form"]},"moodle-availability_grade-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_group-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_grouping-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_profile-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-mod_assign-history":{"requires":["node","transition"]},"moodle-mod_quiz-questionchooser":{"requires":["moodle-core-chooserdialogue","moodle-mod_quiz-util","querystring-parse"]},"moodle-mod_quiz-modform":{"requires":["base","node","event"]},"moodle-mod_quiz-quizbase":{"requires":["base","node"]},"moodle-mod_quiz-toolboxes":{"requires":["base","node","event","event-key","io","moodle-mod_quiz-quizbase","moodle-mod_quiz-util-slot","moodle-core-notification-ajaxexception"]},"moodle-mod_quiz-autosave":{"requires":["base","node","event","event-valuechange","node-event-delegate","io-form"]},"moodle-mod_quiz-dragdrop":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification","moodle-mod_quiz-quizbase","moodle-mod_quiz-util-base","moodle-mod_quiz-util-page","moodle-mod_quiz-util-slot","moodle-course-util"]},"moodle-mod_quiz-util":{"requires":["node","moodle-core-actionmenu"],"use":["moodle-mod_quiz-util-base"],"submodules":{"moodle-mod_quiz-util-base":{},"moodle-mod_quiz-util-slot":{"requires":["node","moodle-mod_quiz-util-base"]},"moodle-mod_quiz-util-page":{"requires":["node","moodle-mod_quiz-util-base"]}}},"moodle-message_airnotifier-toolboxes":{"requires":["base","node","io"]},"moodle-filter_glossary-autolinker":{"requires":["base","node","io-base","json-parse","event-delegate","overlay","moodle-core-event","moodle-core-notification-alert","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-editor_atto-rangy":{"requires":[]},"moodle-editor_atto-editor":{"requires":["node","transition","io","overlay","escape","event","event-simulate","event-custom","node-event-html5","node-event-simulate","yui-throttle","moodle-core-notification-dialogue","moodle-editor_atto-rangy","handlebars","timers","querystring-stringify"]},"moodle-editor_atto-plugin":{"requires":["node","base","escape","event","event-outside","handlebars","event-custom","timers","moodle-editor_atto-menu"]},"moodle-editor_atto-menu":{"requires":["moodle-core-notification-dialogue","node","event","event-custom"]},"moodle-report_eventlist-eventfilter":{"requires":["base","event","node","node-event-delegate","datatable","autocomplete","autocomplete-filters"]},"moodle-report_loglive-fetchlogs":{"requires":["base","event","node","io","node-event-delegate"]},"moodle-gradereport_history-userselector":{"requires":["escape","event-delegate","event-key","handlebars","io-base","json-parse","moodle-core-notification-dialogue"]},"moodle-qbank_editquestion-chooser":{"requires":["moodle-core-chooserdialogue"]},"moodle-tool_lp-dragdrop-reorder":{"requires":["moodle-core-dragdrop"]},"moodle-assignfeedback_editpdf-editor":{"requires":["base","event","node","io","graphics","json","event-move","event-resize","transition","querystring-stringify-simple","moodle-core-notification-dialog","moodle-core-notification-alert","moodle-core-notification-warning","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-atto_accessibilitychecker-button":{"requires":["color-base","moodle-editor_atto-plugin"]},"moodle-atto_accessibilityhelper-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_align-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_bold-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_charmap-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_clear-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_collapse-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_emojipicker-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_emoticon-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_equation-button":{"requires":["moodle-editor_atto-plugin","moodle-core-event","io","event-valuechange","tabview","array-extras"]},"moodle-atto_h5p-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_html-beautify":{},"moodle-atto_html-codemirror":{"requires":["moodle-atto_html-codemirror-skin"]},"moodle-atto_html-button":{"requires":["promise","moodle-editor_atto-plugin","moodle-atto_html-beautify","moodle-atto_html-codemirror","event-valuechange"]},"moodle-atto_image-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_indent-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_italic-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_link-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_managefiles-usedfiles":{"requires":["node","escape"]},"moodle-atto_managefiles-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_media-button":{"requires":["moodle-editor_atto-plugin","moodle-form-shortforms"]},"moodle-atto_noautolink-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_orderedlist-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_recordrtc-recording":{"requires":["moodle-atto_recordrtc-button"]},"moodle-atto_recordrtc-button":{"requires":["moodle-editor_atto-plugin","moodle-atto_recordrtc-recording"]},"moodle-atto_rtl-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_strike-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_subscript-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_superscript-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_table-button":{"requires":["moodle-editor_atto-plugin","moodle-editor_atto-menu","event","event-valuechange"]},"moodle-atto_title-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_underline-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_undo-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_unorderedlist-button":{"requires":["moodle-editor_atto-plugin"]}}},"gallery":{"name":"gallery","base":"https:\/\/moodle.cse.iitk.ac.in\/lib\/yuilib\/gallery\/","combine":true,"comboBase":"https:\/\/moodle.cse.iitk.ac.in\/theme\/yui_combo.php?","ext":false,"root":"gallery\/1785471966\/","patterns":{"gallery-":{"group":"gallery"}}}},"modules":{"core_filepicker":{"name":"core_filepicker","fullpath":"https:\/\/moodle.cse.iitk.ac.in\/lib\/javascript.php\/1785471966\/repository\/filepicker.js","requires":["base","node","node-event-simulate","json","async-queue","io-base","io-upload-iframe","io-form","yui2-treeview","panel","cookie","datatable","datatable-sort","resize-plugin","dd-plugin","escape","moodle-core_filepicker","moodle-core-notification-dialogue"]},"core_comment":{"name":"core_comment","fullpath":"https:\/\/moodle.cse.iitk.ac.in\/lib\/javascript.php\/1785471966\/comment\/comment.js","requires":["base","io-base","node","json","yui2-animation","overlay","escape"]}},"logInclude":[],"logExclude":[],"logLevel":null};
+M.yui.loader = {modules: {}};
+
+//]]>
+</script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body  id="page-site-index" class="limitedwidth format-site course path-site dir-ltr lang-en yui-skin-sam yui3-skin-sam moodle-cse-iitk-ac-in pagelayout-frontpage course-1 context-2 notloggedin theme uses-drawers">
+<div class="toast-wrapper mx-auto py-0 fixed-top" role="status" aria-live="polite"></div>
+<div id="page-wrapper" class="d-print-block">
+
+    <div>
+    <a class="sr-only sr-only-focusable" href="#maincontent">Skip to main content</a>
+</div><script src="https://moodle.cse.iitk.ac.in/lib/javascript.php/1785471966/lib/polyfills/polyfill.js"></script>
+<script src="https://moodle.cse.iitk.ac.in/theme/yui_combo.php?rollup/3.18.1/yui-moodlesimple-min.js"></script><script src="https://moodle.cse.iitk.ac.in/lib/javascript.php/1785471966/lib/javascript-static.js"></script>
+<script>
+//<![CDATA[
+document.body.className += ' jsenabled';
+//]]>
+</script>
+
+
+
+    <nav class="navbar fixed-top navbar-light bg-white navbar-expand" aria-label="Site navigation">
+    
+        <button class="navbar-toggler aabtn d-block d-md-none px-1 my-1 border-0" data-toggler="drawers" data-action="toggle" data-target="theme_boost-drawers-primary">
+            <span class="navbar-toggler-icon"></span>
+            <span class="sr-only">Side panel</span>
+        </button>
+    
+        <a href="https://moodle.cse.iitk.ac.in/" class="navbar-brand d-none d-md-flex align-items-center m-0 mr-4 p-0 aabtn">
+    
+                <img src="https://moodle.cse.iitk.ac.in/pluginfile.php/1/core_admin/logocompact/300x300/1785508093/iitk_logo.png" class="logo mr-1" alt="Moodle">
+        </a>
+            <div class="primary-navigation">
+                <nav class="moremenu navigation">
+                    <ul id="moremenu-6af2392c26a86-navbar-nav" role="menubar" class="nav more-nav navbar-nav">
+                                <li data-key="home" class="nav-item" role="none" data-forceintomoremenu="false">
+                                            <a role="menuitem" class="nav-link  "
+                                                href="https://moodle.cse.iitk.ac.in/"
+                                                
+                                                
+                                                data-disableactive="true"
+                                                tabindex="-1"
+                                            >
+                                                Home
+                                            </a>
+                                </li>
+                                <li class="dropdown nav-item" role="none" data-forceintomoremenu="false">
+                                    <a class="dropdown-toggle nav-link active " id="drop-down-6af2392c266a2" role="menuitem" data-toggle="dropdown"
+                                        aria-haspopup="true" aria-expanded="false" href="#" aria-controls="drop-down-menu-6af2392c266a2"
+                                        
+                                        aria-current="true"
+                                        
+                                    >
+                                        Home
+                                    </a>
+                                    <div class="dropdown-menu" role="menu" id="drop-down-menu-6af2392c266a2" aria-labelledby="drop-down-6af2392c266a2">
+                                                    <a class="dropdown-item" role="menuitem" href="http://moodle.cse.iitk.ac.in/my/"  data-disableactive="true" tabindex="-1"
+                                                        
+                                                    >
+                                                        My Page
+                                                    </a>
+                                                    <a class="dropdown-item" role="menuitem" href="http://moodle.cse.iitk.ac.in/course/index.php"  data-disableactive="true" tabindex="-1"
+                                                        
+                                                    >
+                                                        Courses
+                                                    </a>
+                                    </div>
+                                </li>
+                                <li class="dropdown nav-item" role="none" data-forceintomoremenu="false">
+                                    <a class="dropdown-toggle nav-link  " id="drop-down-6af2392c2692a" role="menuitem" data-toggle="dropdown"
+                                        aria-haspopup="true" aria-expanded="false" href="#" aria-controls="drop-down-menu-6af2392c2692a"
+                                        
+                                        
+                                        tabindex="-1"
+                                    >
+                                        Useful Links
+                                    </a>
+                                    <div class="dropdown-menu" role="menu" id="drop-down-menu-6af2392c2692a" aria-labelledby="drop-down-6af2392c2692a">
+                                                    <a class="dropdown-item" role="menuitem" href="http://cse.iitk.ac.in/"  data-disableactive="true" tabindex="-1"
+                                                        
+                                                    >
+                                                        CSE Home
+                                                    </a>
+                                                    <a class="dropdown-item" role="menuitem" href="http://iitk.ac.in/"  data-disableactive="true" tabindex="-1"
+                                                        
+                                                    >
+                                                        IITK Home
+                                                    </a>
+                                                    <a class="dropdown-item" role="menuitem" href="https://webmail.iitk.ac.in/"  data-disableactive="true" tabindex="-1"
+                                                        
+                                                    >
+                                                        Webmail
+                                                    </a>
+                                                    <a class="dropdown-item" role="menuitem" href="https://pingala.iitk.ac.in/"  data-disableactive="true" tabindex="-1"
+                                                        
+                                                    >
+                                                        Pingala
+                                                    </a>
+                                                    <a class="dropdown-item" role="menuitem" href="http://www.iitk.ac.in/doaa/"  data-disableactive="true" tabindex="-1"
+                                                        
+                                                    >
+                                                        DoAA
+                                                    </a>
+                                                    <a class="dropdown-item" role="menuitem" href="http://www.iitk.ac.in/dosa/"  data-disableactive="true" tabindex="-1"
+                                                        
+                                                    >
+                                                        DoSA
+                                                    </a>
+                                                    <a class="dropdown-item" role="menuitem" href="https://oa.cc.iitk.ac.in/"  data-disableactive="true" tabindex="-1"
+                                                        
+                                                    >
+                                                        OA
+                                                    </a>
+                                                    <a class="dropdown-item" role="menuitem" href="http://spo.iitk.ac.in/"  data-disableactive="true" tabindex="-1"
+                                                        
+                                                    >
+                                                        SPO
+                                                    </a>
+                                                    <a class="dropdown-item" role="menuitem" href="http://www.lib.iitk.ac.in/"  data-disableactive="true" tabindex="-1"
+                                                        
+                                                    >
+                                                        Library
+                                                    </a>
+                                                    <a class="dropdown-item" role="menuitem" href="https://search.pclub.in/"  data-disableactive="true" tabindex="-1"
+                                                        
+                                                    >
+                                                        IITK Student Search
+                                                    </a>
+                                    </div>
+                                </li>
+                        <li role="none" class="nav-item dropdown dropdownmoremenu d-none" data-region="morebutton">
+                            <a class="dropdown-toggle nav-link " href="#" id="moremenu-dropdown-6af2392c26a86" role="menuitem" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" tabindex="-1">
+                                More
+                            </a>
+                            <ul class="dropdown-menu dropdown-menu-left" data-region="moredropdown" aria-labelledby="moremenu-dropdown-6af2392c26a86" role="menu">
+                            </ul>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+    
+        <ul class="navbar-nav d-none d-md-flex my-1 px-1">
+            <!-- page_heading_menu -->
+            
+        </ul>
+    
+        <div id="usernavigation" class="navbar-nav ml-auto">
+                <div id="searchinput-navbar-6af2392c279056af2392c249c64" class="simplesearchform">
+    <div class="collapse" id="searchform-navbar">
+        <form autocomplete="off" action="https://moodle.cse.iitk.ac.in/search/index.php" method="get" accept-charset="utf-8" class="mform form-inline searchform-navbar">
+                <input type="hidden" name="context" value="2">
+            <div class="input-group">
+                <label for="searchinput-6af2392c279056af2392c249c64">
+                    <span class="sr-only">Search</span>
+                </label>
+                    <input type="text"
+                       id="searchinput-6af2392c279056af2392c249c64"
+                       class="form-control withclear"
+                       placeholder="Search"
+                       aria-label="Search"
+                       name="q"
+                       data-region="input"
+                       autocomplete="off"
+                    >
+                    <a class="btn btn-close"
+                        data-action="closesearch"
+                        data-toggle="collapse"
+                        href="#searchform-navbar"
+                        role="button"
+                    >
+                        <i class="icon fa fa-times fa-fw " aria-hidden="true"  ></i>
+                        <span class="sr-only">Close</span>
+                    </a>
+                <div class="input-group-append">
+                    <button type="submit" class="btn btn-submit" data-action="submit">
+                        <i class="icon fa fa-search fa-fw " aria-hidden="true"  ></i>
+                        <span class="sr-only">Search</span>
+                    </button>
+                </div>
+            </div>
+        </form>
+    </div>
+    <a
+        class="btn btn-open rounded-0 nav-link"
+        data-toggle="collapse"
+        data-action="opensearch"
+        href="#searchform-navbar"
+        role="button"
+        aria-expanded="false"
+        aria-controls="searchform-navbar"
+        title="Toggle search input"
+    >
+        <i class="icon fa fa-search fa-fw " aria-hidden="true"  ></i>
+        <span class="sr-only">Toggle search input</span>
+    </a>
+</div>
+                <div class="divider border-left h-75 align-self-center mx-1"></div>
+                <div class="langmenu">
+                    <div class="dropdown show">
+                        <a href="#" role="button" id="lang-menu-toggle" data-toggle="dropdown" aria-label="Language" aria-haspopup="true" aria-controls="lang-action-menu" class="btn dropdown-toggle">
+                            <i class="icon fa fa-language fa-fw mr-1" aria-hidden="true"></i>
+                            <span class="langbutton">
+                                English ‎(en)‎
+                            </span>
+                            <b class="caret"></b>
+                        </a>
+                        <div role="menu" aria-labelledby="lang-menu-toggle" id="lang-action-menu" class="dropdown-menu dropdown-menu-right">
+                                    <a href="#" class="dropdown-item pl-5" role="menuitem" aria-current="true"
+                                            >
+                                        English ‎(en)‎
+                                    </a>
+                                    <a href="https://moodle.cse.iitk.ac.in/?lang=hi" class="dropdown-item pl-5" role="menuitem" 
+                                            lang="hi" >
+                                        हिंदी ‎(hi)‎
+                                    </a>
+                                    <a href="https://moodle.cse.iitk.ac.in/?lang=bn" class="dropdown-item pl-5" role="menuitem" 
+                                            lang="bn" >
+                                        বাংলা ‎(bn)‎
+                                    </a>
+                                    <a href="https://moodle.cse.iitk.ac.in/?lang=pan" class="dropdown-item pl-5" role="menuitem" 
+                                            lang="pa" >
+                                        ਪੰਜਾਬੀ ‎(pan)‎
+                                    </a>
+                                    <a href="https://moodle.cse.iitk.ac.in/?lang=ta_lk" class="dropdown-item pl-5" role="menuitem" 
+                                            lang="ta" >
+                                        தமிழ் ‎(ta_lk)‎
+                                    </a>
+                                    <a href="https://moodle.cse.iitk.ac.in/?lang=te" class="dropdown-item pl-5" role="menuitem" 
+                                            lang="te" >
+                                        తెలుగు  ‎(te)‎
+                                    </a>
+                                    <a href="https://moodle.cse.iitk.ac.in/?lang=kn" class="dropdown-item pl-5" role="menuitem" 
+                                            lang="kn" >
+                                        ಕನ್ನಡ ‎(kn)‎
+                                    </a>
+                                    <a href="https://moodle.cse.iitk.ac.in/?lang=ml" class="dropdown-item pl-5" role="menuitem" 
+                                            lang="ml" >
+                                        മലയാളം ‎(ml)‎
+                                    </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="divider border-left h-75 align-self-center mx-1"></div>
+            
+            <div class="d-flex align-items-stretch usermenu-container" data-region="usermenu">
+                    <div class="usermenu">
+                            <span class="login pl-2">
+                                    <a href="https://moodle.cse.iitk.ac.in/login/index.php">Log in</a>
+                            </span>
+                    </div>
+            </div>
+            
+        </div>
+    </nav>
+    
+
+<div  class="drawer drawer-left drawer-primary d-print-none not-initialized" data-region="fixed-drawer" id="theme_boost-drawers-primary" data-preference="" data-state="show-drawer-primary" data-forceopen="0" data-close-on-resize="1">
+    <div class="drawerheader">
+        <button
+            class="btn drawertoggle icon-no-margin hidden"
+            data-toggler="drawers"
+            data-action="closedrawer"
+            data-target="theme_boost-drawers-primary"
+            data-toggle="tooltip"
+            data-placement="right"
+            title="Close drawer"
+        >
+            <i class="icon fa fa-times fa-fw " aria-hidden="true"  ></i>
+        </button>
+                    <img src="https://moodle.cse.iitk.ac.in/pluginfile.php/1/core_admin/logocompact/300x300/1785508093/iitk_logo.png" class="logo py-1 h-100" alt="Moodle">
+
+        <div class="drawerheadercontent hidden">
+            
+        </div>
+    </div>
+    <div class="drawercontent drag-container" data-usertour="scroller">
+                <div class="list-group">
+                <a href="https://moodle.cse.iitk.ac.in/" class="list-group-item list-group-item-action  " >
+                    Home
+                </a>
+                <a id="drop-down-1" href="#" class="list-group-item list-group-item-action icons-collapse-expand collapsed d-flex" data-toggle="collapse" data-target="#drop-down-menu-1" aria-expanded="false" aria-controls="drop-down-menu-1">
+                    Home
+                    <span class="ml-auto expanded-icon icon-no-margin mx-2">
+                        <i class="icon fa fa-caret-down fa-fw " aria-hidden="true"  ></i>
+                        <span class="sr-only">
+                            Collapse
+                        </span>
+                    </span>
+                    <span class="ml-auto collapsed-icon icon-no-margin mx-2">
+                        <i class="icon fa fa-caret-right fa-fw " aria-hidden="true"  ></i>
+                        <span class="sr-only">
+                            Expand
+                        </span>
+                    </span>
+                </a>
+                <div class="collapse list-group-item p-0 border-0" role="menu" id="drop-down-menu-1" aria-labelledby="drop-down-1">
+                             <a href="http://moodle.cse.iitk.ac.in/my/" class="pl-5 bg-light list-group-item list-group-item-action">My Page</a>
+                             <a href="http://moodle.cse.iitk.ac.in/course/index.php" class="pl-5 bg-light list-group-item list-group-item-action">Courses</a>
+                </div>
+                <a id="drop-down-4" href="#" class="list-group-item list-group-item-action icons-collapse-expand collapsed d-flex" data-toggle="collapse" data-target="#drop-down-menu-4" aria-expanded="false" aria-controls="drop-down-menu-4">
+                    Useful Links
+                    <span class="ml-auto expanded-icon icon-no-margin mx-2">
+                        <i class="icon fa fa-caret-down fa-fw " aria-hidden="true"  ></i>
+                        <span class="sr-only">
+                            Collapse
+                        </span>
+                    </span>
+                    <span class="ml-auto collapsed-icon icon-no-margin mx-2">
+                        <i class="icon fa fa-caret-right fa-fw " aria-hidden="true"  ></i>
+                        <span class="sr-only">
+                            Expand
+                        </span>
+                    </span>
+                </a>
+                <div class="collapse list-group-item p-0 border-0" role="menu" id="drop-down-menu-4" aria-labelledby="drop-down-4">
+                             <a href="http://cse.iitk.ac.in/" class="pl-5 bg-light list-group-item list-group-item-action">CSE Home</a>
+                             <a href="http://iitk.ac.in/" class="pl-5 bg-light list-group-item list-group-item-action">IITK Home</a>
+                             <a href="https://webmail.iitk.ac.in/" class="pl-5 bg-light list-group-item list-group-item-action">Webmail</a>
+                             <a href="https://pingala.iitk.ac.in/" class="pl-5 bg-light list-group-item list-group-item-action">Pingala</a>
+                             <a href="http://www.iitk.ac.in/doaa/" class="pl-5 bg-light list-group-item list-group-item-action">DoAA</a>
+                             <a href="http://www.iitk.ac.in/dosa/" class="pl-5 bg-light list-group-item list-group-item-action">DoSA</a>
+                             <a href="https://oa.cc.iitk.ac.in/" class="pl-5 bg-light list-group-item list-group-item-action">OA</a>
+                             <a href="http://spo.iitk.ac.in/" class="pl-5 bg-light list-group-item list-group-item-action">SPO</a>
+                             <a href="http://www.lib.iitk.ac.in/" class="pl-5 bg-light list-group-item list-group-item-action">Library</a>
+                             <a href="https://search.pclub.in/" class="pl-5 bg-light list-group-item list-group-item-action">IITK Student Search</a>
+                </div>
+        </div>
+
+    </div>
+</div>
+        <div  class="drawer drawer-right d-print-none not-initialized" data-region="fixed-drawer" id="theme_boost-drawers-blocks" data-preference="drawer-open-block" data-state="show-drawer-right" data-forceopen="" data-close-on-resize="1">
+    <div class="drawerheader">
+        <button
+            class="btn drawertoggle icon-no-margin hidden"
+            data-toggler="drawers"
+            data-action="closedrawer"
+            data-target="theme_boost-drawers-blocks"
+            data-toggle="tooltip"
+            data-placement="left"
+            title="Close block drawer"
+        >
+            <i class="icon fa fa-times fa-fw " aria-hidden="true"  ></i>
+        </button>
+        
+        <div class="drawerheadercontent hidden">
+            
+        </div>
+    </div>
+    <div class="drawercontent drag-container" data-usertour="scroller">
+                        <section class="d-print-none" aria-label="Blocks">
+                    
+                    <aside id="block-region-side-pre" class="block-region" data-blockregion="side-pre" data-droptarget="1"><h2 class="sr-only">Blocks</h2><a href="#sb-1" class="sr-only sr-only-focusable">Skip Main menu</a>
+
+<section id="inst1"
+     class=" block_site_main_menu block list_block  card mb-3"
+     role="complementary"
+     data-block="site_main_menu"
+     data-instance-id="1"
+          aria-labelledby="instance-1-header"
+     >
+
+    <div class="card-body p-3">
+
+            <h3 id="instance-1-header" class="h5 card-title d-inline">Main menu</h3>
+
+
+        <div class="card-text content mt-3">
+            <ul class="unlist"><li class="r0"><div class="column c1"><div class="main-menu-content section"><div class="activity-item activity" data-activityname="Announcements"><div class="activity-basis d-flex align-items-center"><div class="activity-icon activityiconcontainer smaller collaboration courseicon align-self-start mr-2">
+                <img
+                    src="https://moodle.cse.iitk.ac.in/theme/image.php/boost/forum/1785508093/monologo?filtericon=1"
+                    class="activityicon "
+                    data-region="activity-icon"
+                    data-id=""
+                    alt=""
+                    
+                >
+            </div>
+
+    <div class="activity-name-area activity-instance d-flex flex-column mr-2 ">
+        <div class="activitytitle media  modtype_forum position-relative align-self-start">
+            <div class="media-body align-self-center">
+                <div class="activityname">
+                                <a href="https://moodle.cse.iitk.ac.in/mod/forum/view.php?id=3" class=" aalink stretched-link" onclick="">        <span class="instancename">Announcements <span class="accesshide " > Forum</span></span>    </a>
+                            
+                </div>
+            </div>
+        </div>
+    </div></div></div></div></div></li></ul>
+            <div class="footer"></div>
+            
+        </div>
+
+    </div>
+
+</section>
+
+  <span id="sb-1"></span><a href="#sb-3" class="sr-only sr-only-focusable">Skip Calendar</a>
+
+<section id="inst3"
+     class=" block_calendar_month block  card mb-3"
+     role="complementary"
+     data-block="calendar_month"
+     data-instance-id="3"
+          aria-labelledby="instance-3-header"
+     >
+
+    <div class="card-body p-3">
+
+            <h3 id="instance-3-header" class="h5 card-title d-inline">Calendar</h3>
+
+
+        <div class="card-text content mt-3">
+            <div data-region="calendar" class="maincalendar"><div id="calendar-month-6af2392c249c46af2392c249c61-1" data-template="core_calendar/month_detailed">
+    <div class="header d-flex flex-wrap p-1">
+    </div>
+    <div aria-live="polite" class="sr-only calendar-announcements"></div>
+    <div class="calendarwrapper" data-courseid="1" data-context-id="0" data-month="11" data-year="2026" data-view="monthblock">
+        <div id="month-navigation-6af2392c249c46af2392c249c61-1" class="controls">
+            <div class="calendar-controls">
+                <a href="https://moodle.cse.iitk.ac.in/calendar/view.php?view=month&amp;time=1790793000" class="arrow_link previous" title="Previous month" data-year="2026" data-month="10" data-drop-zone="nav-link" >
+                    <span class="arrow" aria-hidden="true">&#x25C4;</span>
+                    &nbsp;
+                    <span class="arrow_text">October</span>
+                </a>
+                <span class="hide"> | </span>
+                    <h4 class="current">November 2026</h4>
+                <span class="hide"> | </span>
+                <a href="https://moodle.cse.iitk.ac.in/calendar/view.php?view=month&amp;time=1796063400" class="arrow_link next" title="Next month" data-year="2026" data-month="12" data-drop-zone="nav-link" >
+                    <span class="arrow_text">December</span>
+                    &nbsp;
+                    <span class="arrow" aria-hidden="true">&#x25BA;</span>
+                </a>
+            </div>
+        </div>
+        <span class="overlay-icon-container hidden" data-region="overlay-icon-container">
+            <span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw "  title="Loading" role="img" aria-label="Loading"></i></span>
+        </span>
+        <table id="month-detailed-6af2392c249c46af2392c249c61-1" class="calendarmonth calendartable mb-0">
+            <thead>
+                <tr>
+                    <th class="header text-xs-center">
+                        <span class="sr-only">Sunday</span>
+                        <span aria-hidden="true">Sun</span>
+                    </th>
+                    <th class="header text-xs-center">
+                        <span class="sr-only">Monday</span>
+                        <span aria-hidden="true">Mon</span>
+                    </th>
+                    <th class="header text-xs-center">
+                        <span class="sr-only">Tuesday</span>
+                        <span aria-hidden="true">Tue</span>
+                    </th>
+                    <th class="header text-xs-center">
+                        <span class="sr-only">Wednesday</span>
+                        <span aria-hidden="true">Wed</span>
+                    </th>
+                    <th class="header text-xs-center">
+                        <span class="sr-only">Thursday</span>
+                        <span aria-hidden="true">Thu</span>
+                    </th>
+                    <th class="header text-xs-center">
+                        <span class="sr-only">Friday</span>
+                        <span aria-hidden="true">Fri</span>
+                    </th>
+                    <th class="header text-xs-center">
+                        <span class="sr-only">Saturday</span>
+                        <span aria-hidden="true">Sat</span>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr data-region="month-view-week">
+                        <td class="day text-sm-center text-md-left weekend"
+                            data-day="1"
+                            data-day-timestamp="1793471400"
+                            data-drop-zone="month-view-day"
+                            data-region="day"
+                            data-new-event-timestamp="1793481644"
+                            >
+                            <div class="d-none d-md-block hidden-phone text-xs-center">
+                                <span class="sr-only">No events, Sunday, 1 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">1</span></span></span>
+                            </div>
+                            <div class="d-md-none hidden-desktop hidden-tablet">
+                                <span class="sr-only">No events, Sunday, 1 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">1</span></span></span>
+                            </div>
+                        </td>
+                        <td class="day text-sm-center text-md-left"
+                            data-day="2"
+                            data-day-timestamp="1793557800"
+                            data-drop-zone="month-view-day"
+                            data-region="day"
+                            data-new-event-timestamp="1793568044"
+                            >
+                            <div class="d-none d-md-block hidden-phone text-xs-center">
+                                <span class="sr-only">No events, Monday, 2 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">2</span></span></span>
+                            </div>
+                            <div class="d-md-none hidden-desktop hidden-tablet">
+                                <span class="sr-only">No events, Monday, 2 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">2</span></span></span>
+                            </div>
+                        </td>
+                        <td class="day text-sm-center text-md-left"
+                            data-day="3"
+                            data-day-timestamp="1793644200"
+                            data-drop-zone="month-view-day"
+                            data-region="day"
+                            data-new-event-timestamp="1793654444"
+                            >
+                            <div class="d-none d-md-block hidden-phone text-xs-center">
+                                <span class="sr-only">No events, Tuesday, 3 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">3</span></span></span>
+                            </div>
+                            <div class="d-md-none hidden-desktop hidden-tablet">
+                                <span class="sr-only">No events, Tuesday, 3 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">3</span></span></span>
+                            </div>
+                        </td>
+                        <td class="day text-sm-center text-md-left"
+                            data-day="4"
+                            data-day-timestamp="1793730600"
+                            data-drop-zone="month-view-day"
+                            data-region="day"
+                            data-new-event-timestamp="1793740844"
+                            >
+                            <div class="d-none d-md-block hidden-phone text-xs-center">
+                                <span class="sr-only">No events, Wednesday, 4 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">4</span></span></span>
+                            </div>
+                            <div class="d-md-none hidden-desktop hidden-tablet">
+                                <span class="sr-only">No events, Wednesday, 4 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">4</span></span></span>
+                            </div>
+                        </td>
+                        <td class="day text-sm-center text-md-left"
+                            data-day="5"
+                            data-day-timestamp="1793817000"
+                            data-drop-zone="month-view-day"
+                            data-region="day"
+                            data-new-event-timestamp="1793827244"
+                            >
+                            <div class="d-none d-md-block hidden-phone text-xs-center">
+                                <span class="sr-only">No events, Thursday, 5 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">5</span></span></span>
+                            </div>
+                            <div class="d-md-none hidden-desktop hidden-tablet">
+                                <span class="sr-only">No events, Thursday, 5 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">5</span></span></span>
+                            </div>
+                        </td>
+                        <td class="day text-sm-center text-md-left"
+                            data-day="6"
+                            data-day-timestamp="1793903400"
+                            data-drop-zone="month-view-day"
+                            data-region="day"
+                            data-new-event-timestamp="1793913644"
+                            >
+                            <div class="d-none d-md-block hidden-phone text-xs-center">
+                                <span class="sr-only">No events, Friday, 6 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">6</span></span></span>
+                            </div>
+                            <div class="d-md-none hidden-desktop hidden-tablet">
+                                <span class="sr-only">No events, Friday, 6 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">6</span></span></span>
+                            </div>
+                        </td>
+                        <td class="day text-sm-center text-md-left weekend"
+                            data-day="7"
+                            data-day-timestamp="1793989800"
+                            data-drop-zone="month-view-day"
+                            data-region="day"
+                            data-new-event-timestamp="1794000044"
+                            >
+                            <div class="d-none d-md-block hidden-phone text-xs-center">
+                                <span class="sr-only">No events, Saturday, 7 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">7</span></span></span>
+                            </div>
+                            <div class="d-md-none hidden-desktop hidden-tablet">
+                                <span class="sr-only">No events, Saturday, 7 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">7</span></span></span>
+                            </div>
+                        </td>
+                </tr>
+                <tr data-region="month-view-week">
+                        <td class="day text-sm-center text-md-left weekend"
+                            data-day="8"
+                            data-day-timestamp="1794076200"
+                            data-drop-zone="month-view-day"
+                            data-region="day"
+                            data-new-event-timestamp="1794086444"
+                            >
+                            <div class="d-none d-md-block hidden-phone text-xs-center">
+                                <span class="sr-only">No events, Sunday, 8 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">8</span></span></span>
+                            </div>
+                            <div class="d-md-none hidden-desktop hidden-tablet">
+                                <span class="sr-only">No events, Sunday, 8 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">8</span></span></span>
+                            </div>
+                        </td>
+                        <td class="day text-sm-center text-md-left"
+                            data-day="9"
+                            data-day-timestamp="1794162600"
+                            data-drop-zone="month-view-day"
+                            data-region="day"
+                            data-new-event-timestamp="1794172844"
+                            >
+                            <div class="d-none d-md-block hidden-phone text-xs-center">
+                                <span class="sr-only">No events, Monday, 9 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">9</span></span></span>
+                            </div>
+                            <div class="d-md-none hidden-desktop hidden-tablet">
+                                <span class="sr-only">No events, Monday, 9 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">9</span></span></span>
+                            </div>
+                        </td>
+                        <td class="day text-sm-center text-md-left today"
+                            data-day="10"
+                            data-day-timestamp="1794249000"
+                            data-drop-zone="month-view-day"
+                            data-region="day"
+                            data-new-event-timestamp="1794259244" title="Today"
+                            >
+                            <div class="d-none d-md-block hidden-phone text-xs-center">
+                                <span class="sr-only">No events, Tuesday, 10 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">10</span></span></span>
+                            </div>
+                            <div class="d-md-none hidden-desktop hidden-tablet">
+                                <span class="sr-only">No events, Tuesday, 10 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">10</span></span></span>
+                            </div>
+                        </td>
+                        <td class="day text-sm-center text-md-left"
+                            data-day="11"
+                            data-day-timestamp="1794335400"
+                            data-drop-zone="month-view-day"
+                            data-region="day"
+                            data-new-event-timestamp="1794345644"
+                            >
+                            <div class="d-none d-md-block hidden-phone text-xs-center">
+                                <span class="sr-only">No events, Wednesday, 11 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">11</span></span></span>
+                            </div>
+                            <div class="d-md-none hidden-desktop hidden-tablet">
+                                <span class="sr-only">No events, Wednesday, 11 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">11</span></span></span>
+                            </div>
+                        </td>
+                        <td class="day text-sm-center text-md-left"
+                            data-day="12"
+                            data-day-timestamp="1794421800"
+                            data-drop-zone="month-view-day"
+                            data-region="day"
+                            data-new-event-timestamp="1794432044"
+                            >
+                            <div class="d-none d-md-block hidden-phone text-xs-center">
+                                <span class="sr-only">No events, Thursday, 12 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">12</span></span></span>
+                            </div>
+                            <div class="d-md-none hidden-desktop hidden-tablet">
+                                <span class="sr-only">No events, Thursday, 12 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">12</span></span></span>
+                            </div>
+                        </td>
+                        <td class="day text-sm-center text-md-left"
+                            data-day="13"
+                            data-day-timestamp="1794508200"
+                            data-drop-zone="month-view-day"
+                            data-region="day"
+                            data-new-event-timestamp="1794518444"
+                            >
+                            <div class="d-none d-md-block hidden-phone text-xs-center">
+                                <span class="sr-only">No events, Friday, 13 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">13</span></span></span>
+                            </div>
+                            <div class="d-md-none hidden-desktop hidden-tablet">
+                                <span class="sr-only">No events, Friday, 13 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">13</span></span></span>
+                            </div>
+                        </td>
+                        <td class="day text-sm-center text-md-left weekend"
+                            data-day="14"
+                            data-day-timestamp="1794594600"
+                            data-drop-zone="month-view-day"
+                            data-region="day"
+                            data-new-event-timestamp="1794604844"
+                            >
+                            <div class="d-none d-md-block hidden-phone text-xs-center">
+                                <span class="sr-only">No events, Saturday, 14 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">14</span></span></span>
+                            </div>
+                            <div class="d-md-none hidden-desktop hidden-tablet">
+                                <span class="sr-only">No events, Saturday, 14 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">14</span></span></span>
+                            </div>
+                        </td>
+                </tr>
+                <tr data-region="month-view-week">
+                        <td class="day text-sm-center text-md-left weekend"
+                            data-day="15"
+                            data-day-timestamp="1794681000"
+                            data-drop-zone="month-view-day"
+                            data-region="day"
+                            data-new-event-timestamp="1794691244"
+                            >
+                            <div class="d-none d-md-block hidden-phone text-xs-center">
+                                <span class="sr-only">No events, Sunday, 15 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">15</span></span></span>
+                            </div>
+                            <div class="d-md-none hidden-desktop hidden-tablet">
+                                <span class="sr-only">No events, Sunday, 15 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">15</span></span></span>
+                            </div>
+                        </td>
+                        <td class="day text-sm-center text-md-left"
+                            data-day="16"
+                            data-day-timestamp="1794767400"
+                            data-drop-zone="month-view-day"
+                            data-region="day"
+                            data-new-event-timestamp="1794777644"
+                            >
+                            <div class="d-none d-md-block hidden-phone text-xs-center">
+                                <span class="sr-only">No events, Monday, 16 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">16</span></span></span>
+                            </div>
+                            <div class="d-md-none hidden-desktop hidden-tablet">
+                                <span class="sr-only">No events, Monday, 16 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">16</span></span></span>
+                            </div>
+                        </td>
+                        <td class="day text-sm-center text-md-left"
+                            data-day="17"
+                            data-day-timestamp="1794853800"
+                            data-drop-zone="month-view-day"
+                            data-region="day"
+                            data-new-event-timestamp="1794864044"
+                            >
+                            <div class="d-none d-md-block hidden-phone text-xs-center">
+                                <span class="sr-only">No events, Tuesday, 17 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">17</span></span></span>
+                            </div>
+                            <div class="d-md-none hidden-desktop hidden-tablet">
+                                <span class="sr-only">No events, Tuesday, 17 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">17</span></span></span>
+                            </div>
+                        </td>
+                        <td class="day text-sm-center text-md-left"
+                            data-day="18"
+                            data-day-timestamp="1794940200"
+                            data-drop-zone="month-view-day"
+                            data-region="day"
+                            data-new-event-timestamp="1794950444"
+                            >
+                            <div class="d-none d-md-block hidden-phone text-xs-center">
+                                <span class="sr-only">No events, Wednesday, 18 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">18</span></span></span>
+                            </div>
+                            <div class="d-md-none hidden-desktop hidden-tablet">
+                                <span class="sr-only">No events, Wednesday, 18 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">18</span></span></span>
+                            </div>
+                        </td>
+                        <td class="day text-sm-center text-md-left"
+                            data-day="19"
+                            data-day-timestamp="1795026600"
+                            data-drop-zone="month-view-day"
+                            data-region="day"
+                            data-new-event-timestamp="1795036844"
+                            >
+                            <div class="d-none d-md-block hidden-phone text-xs-center">
+                                <span class="sr-only">No events, Thursday, 19 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">19</span></span></span>
+                            </div>
+                            <div class="d-md-none hidden-desktop hidden-tablet">
+                                <span class="sr-only">No events, Thursday, 19 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">19</span></span></span>
+                            </div>
+                        </td>
+                        <td class="day text-sm-center text-md-left"
+                            data-day="20"
+                            data-day-timestamp="1795113000"
+                            data-drop-zone="month-view-day"
+                            data-region="day"
+                            data-new-event-timestamp="1795123244"
+                            >
+                            <div class="d-none d-md-block hidden-phone text-xs-center">
+                                <span class="sr-only">No events, Friday, 20 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">20</span></span></span>
+                            </div>
+                            <div class="d-md-none hidden-desktop hidden-tablet">
+                                <span class="sr-only">No events, Friday, 20 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">20</span></span></span>
+                            </div>
+                        </td>
+                        <td class="day text-sm-center text-md-left weekend"
+                            data-day="21"
+                            data-day-timestamp="1795199400"
+                            data-drop-zone="month-view-day"
+                            data-region="day"
+                            data-new-event-timestamp="1795209644"
+                            >
+                            <div class="d-none d-md-block hidden-phone text-xs-center">
+                                <span class="sr-only">No events, Saturday, 21 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">21</span></span></span>
+                            </div>
+                            <div class="d-md-none hidden-desktop hidden-tablet">
+                                <span class="sr-only">No events, Saturday, 21 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">21</span></span></span>
+                            </div>
+                        </td>
+                </tr>
+                <tr data-region="month-view-week">
+                        <td class="day text-sm-center text-md-left weekend"
+                            data-day="22"
+                            data-day-timestamp="1795285800"
+                            data-drop-zone="month-view-day"
+                            data-region="day"
+                            data-new-event-timestamp="1795296044"
+                            >
+                            <div class="d-none d-md-block hidden-phone text-xs-center">
+                                <span class="sr-only">No events, Sunday, 22 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">22</span></span></span>
+                            </div>
+                            <div class="d-md-none hidden-desktop hidden-tablet">
+                                <span class="sr-only">No events, Sunday, 22 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">22</span></span></span>
+                            </div>
+                        </td>
+                        <td class="day text-sm-center text-md-left"
+                            data-day="23"
+                            data-day-timestamp="1795372200"
+                            data-drop-zone="month-view-day"
+                            data-region="day"
+                            data-new-event-timestamp="1795382444"
+                            >
+                            <div class="d-none d-md-block hidden-phone text-xs-center">
+                                <span class="sr-only">No events, Monday, 23 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">23</span></span></span>
+                            </div>
+                            <div class="d-md-none hidden-desktop hidden-tablet">
+                                <span class="sr-only">No events, Monday, 23 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">23</span></span></span>
+                            </div>
+                        </td>
+                        <td class="day text-sm-center text-md-left"
+                            data-day="24"
+                            data-day-timestamp="1795458600"
+                            data-drop-zone="month-view-day"
+                            data-region="day"
+                            data-new-event-timestamp="1795468844"
+                            >
+                            <div class="d-none d-md-block hidden-phone text-xs-center">
+                                <span class="sr-only">No events, Tuesday, 24 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">24</span></span></span>
+                            </div>
+                            <div class="d-md-none hidden-desktop hidden-tablet">
+                                <span class="sr-only">No events, Tuesday, 24 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">24</span></span></span>
+                            </div>
+                        </td>
+                        <td class="day text-sm-center text-md-left"
+                            data-day="25"
+                            data-day-timestamp="1795545000"
+                            data-drop-zone="month-view-day"
+                            data-region="day"
+                            data-new-event-timestamp="1795555244"
+                            >
+                            <div class="d-none d-md-block hidden-phone text-xs-center">
+                                <span class="sr-only">No events, Wednesday, 25 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">25</span></span></span>
+                            </div>
+                            <div class="d-md-none hidden-desktop hidden-tablet">
+                                <span class="sr-only">No events, Wednesday, 25 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">25</span></span></span>
+                            </div>
+                        </td>
+                        <td class="day text-sm-center text-md-left"
+                            data-day="26"
+                            data-day-timestamp="1795631400"
+                            data-drop-zone="month-view-day"
+                            data-region="day"
+                            data-new-event-timestamp="1795641644"
+                            >
+                            <div class="d-none d-md-block hidden-phone text-xs-center">
+                                <span class="sr-only">No events, Thursday, 26 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">26</span></span></span>
+                            </div>
+                            <div class="d-md-none hidden-desktop hidden-tablet">
+                                <span class="sr-only">No events, Thursday, 26 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">26</span></span></span>
+                            </div>
+                        </td>
+                        <td class="day text-sm-center text-md-left"
+                            data-day="27"
+                            data-day-timestamp="1795717800"
+                            data-drop-zone="month-view-day"
+                            data-region="day"
+                            data-new-event-timestamp="1795728044"
+                            >
+                            <div class="d-none d-md-block hidden-phone text-xs-center">
+                                <span class="sr-only">No events, Friday, 27 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">27</span></span></span>
+                            </div>
+                            <div class="d-md-none hidden-desktop hidden-tablet">
+                                <span class="sr-only">No events, Friday, 27 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">27</span></span></span>
+                            </div>
+                        </td>
+                        <td class="day text-sm-center text-md-left weekend"
+                            data-day="28"
+                            data-day-timestamp="1795804200"
+                            data-drop-zone="month-view-day"
+                            data-region="day"
+                            data-new-event-timestamp="1795814444"
+                            >
+                            <div class="d-none d-md-block hidden-phone text-xs-center">
+                                <span class="sr-only">No events, Saturday, 28 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">28</span></span></span>
+                            </div>
+                            <div class="d-md-none hidden-desktop hidden-tablet">
+                                <span class="sr-only">No events, Saturday, 28 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">28</span></span></span>
+                            </div>
+                        </td>
+                </tr>
+                <tr data-region="month-view-week">
+                        <td class="day text-sm-center text-md-left weekend"
+                            data-day="29"
+                            data-day-timestamp="1795890600"
+                            data-drop-zone="month-view-day"
+                            data-region="day"
+                            data-new-event-timestamp="1795900844"
+                            >
+                            <div class="d-none d-md-block hidden-phone text-xs-center">
+                                <span class="sr-only">No events, Sunday, 29 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">29</span></span></span>
+                            </div>
+                            <div class="d-md-none hidden-desktop hidden-tablet">
+                                <span class="sr-only">No events, Sunday, 29 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">29</span></span></span>
+                            </div>
+                        </td>
+                        <td class="day text-sm-center text-md-left"
+                            data-day="30"
+                            data-day-timestamp="1795977000"
+                            data-drop-zone="month-view-day"
+                            data-region="day"
+                            data-new-event-timestamp="1795987244"
+                            >
+                            <div class="d-none d-md-block hidden-phone text-xs-center">
+                                <span class="sr-only">No events, Monday, 30 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">30</span></span></span>
+                            </div>
+                            <div class="d-md-none hidden-desktop hidden-tablet">
+                                <span class="sr-only">No events, Monday, 30 November</span>
+                                    <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">30</span></span></span>
+                            </div>
+                        </td>
+                        <td class="dayblank">&nbsp;</td>
+                        <td class="dayblank">&nbsp;</td>
+                        <td class="dayblank">&nbsp;</td>
+                        <td class="dayblank">&nbsp;</td>
+                        <td class="dayblank">&nbsp;</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div></div>
+            <div class="footer"><div class="bottom">
+        <span class="footer-link">
+            <a href="https://moodle.cse.iitk.ac.in/calendar/view.php?view=month&amp;time=1794259244">Full calendar</a>
+        </span>
+</div></div>
+            
+        </div>
+
+    </div>
+
+</section>
+
+  <span id="sb-3"></span></aside>
+                </section>
+
+    </div>
+</div>
+    <div id="page" data-region="mainpage" data-usertour="scroller" class="drawers   drag-container">
+        <div id="topofscroll" class="main-inner">
+            <div class="drawer-toggles d-flex">
+                    <div class="drawer-toggler drawer-right-toggle ml-auto d-print-none">
+                        <button
+                            class="btn icon-no-margin"
+                            data-toggler="drawers"
+                            data-action="toggle"
+                            data-target="theme_boost-drawers-blocks"
+                            data-toggle="tooltip"
+                            data-placement="right"
+                            title="Open block drawer"
+                        >
+                            <span class="sr-only">Open block drawer</span>
+                            <span class="dir-rtl-hide"><i class="icon fa fa-chevron-left fa-fw " aria-hidden="true"  ></i></span>
+                            <span class="dir-ltr-hide"><i class="icon fa fa-chevron-right fa-fw " aria-hidden="true"  ></i></span>
+                        </button>
+                    </div>
+            </div>
+            <header id="page-header" class="header-maxwidth d-print-none">
+    <div class="w-100">
+        <div class="d-flex flex-wrap">
+            <div class="ml-auto d-flex">
+                
+            </div>
+            <div id="course-header">
+                
+            </div>
+        </div>
+        <div class="d-flex align-items-center">
+                    <div class="mr-auto">
+                        <div class="page-context-header"><div class="page-header-headings"><h1 class="h2">Moodle - CSE IITK</h1></div></div>
+                    </div>
+            <div class="header-actions-container ml-auto" data-region="header-actions-container">
+            </div>
+        </div>
+    </div>
+</header>
+            <div id="page-content" class="pb-3 d-print-block">
+                <div id="region-main-box">
+                    <section id="region-main" aria-label="Content">
+
+                        <span class="notifications" id="user-notifications"></span>
+                        <div role="main"><span id="maincontent"></span><a class="skip-block skip aabtn" href="#skipcourses">Skip courses</a><div id="frontpage-category-combo"><h2>Courses</h2><div class="course_category_tree clearfix "><div class="collapsible-actions"><a class="collapseexpand aabtn collapse-all" href="#">Collapse all</a></div><div class="content"><div class="subcategories"><div class="category loaded with_children" data-categoryid="70" data-depth="1" data-showcourses="10" data-type="0"><div class="info"><h3 class="categoryname aabtn"><a href="https://moodle.cse.iitk.ac.in/course/index.php?categoryid=70">Jul - Dec - 2026 - 2027 - I</a></h3></div><div class="content"><div class="courses frontpage-category-combo"><div class="coursebox clearfix odd first collapsed" data-courseid="186" data-type="1"><div class="info"><div class="coursename"><a class="aalink" href="https://moodle.cse.iitk.ac.in/course/view.php?id=186">CS345: Algorithms II</a></div><div class="moreinfo"><a title="Summary" href="https://moodle.cse.iitk.ac.in/course/info.php?id=186"><i class="icon fa fa-info fa-fw "  title="Summary" role="img" aria-label="Summary"></i></a></div><div class="enrolmenticons"><i class="icon fa fa-key fa-fw "  title="Guest access requires password" role="img" aria-label="Guest access requires password"></i></div></div><div class="content"></div></div><div class="coursebox clearfix even last collapsed" data-courseid="184" data-type="1"><div class="info"><div class="coursename"><a class="aalink" href="https://moodle.cse.iitk.ac.in/course/view.php?id=184">CS602: Design and Analysis of Algorithms</a></div><div class="moreinfo"><a title="Summary" href="https://moodle.cse.iitk.ac.in/course/info.php?id=184"><i class="icon fa fa-info fa-fw "  title="Summary" role="img" aria-label="Summary"></i></a></div><div class="enrolmenticons"><i class="icon fa fa-unlock-alt fa-fw "  title="Guest access" role="img" aria-label="Guest access"></i></div></div><div class="content"></div></div></div></div></div></div></div></div></div><span class="skip-block-to" id="skipcourses"></span><br /><div class="box py-3 d-flex justify-content-center"><div class="simplesearchform ">
+    <form autocomplete="off" action="https://moodle.cse.iitk.ac.in/course/search.php" method="get" accept-charset="utf-8" class="mform form-inline simplesearchform">
+        <input type="hidden" name="areaids" value="core_course-course">
+    <div class="input-group">
+        <label for="searchinput-6af2392c2a2926af2392c249c65">
+            <span class="sr-only">Search courses</span>
+        </label>
+        <input type="text"
+           id="searchinput-6af2392c2a2926af2392c249c65"
+           class="form-control"
+           placeholder="Search courses"
+           aria-label="Search courses"
+           name="q"
+           data-region="input"
+           autocomplete="off"
+           value=""
+        >
+        <div class="input-group-append">
+            <button type="submit"
+                class="btn  btn-primary search-icon"
+                
+            >
+                <i class="icon fa fa-search fa-fw " aria-hidden="true"  ></i>
+                <span class="sr-only">Search courses</span>
+            </button>
+        </div>
+
+    </div>
+    </form>
+</div></div><br /><a class="skip-block skip aabtn" href="#skipsitenews">Skip announcements</a><div id="site-news-forum"><h2>Announcements</h2><div id="discussion-list-6af2392c2d2646af2392c249c66" data-contextid="27" data-cmid="3" data-name="Announcements" data-group="" data-grading-component="" data-grading-component-subtype="" data-gradable-itemtype="forum" data-initialuserid="7215" >
+
+
+    
+
+
+    <div class="py-3">
+    </div>
+
+           <article
+    id="p2144"
+    class="forum-post-container mb-2"
+    data-post-id="2144"
+    data-region="post"
+    data-target="2144-target"
+    tabindex="0"
+    aria-labelledby="post-header-2144-6af2392c2d2646af2392c249c66"
+    aria-describedby="post-content-2144"
+>
+    <div
+        class="d-flex border p-2 mb-2 forumpost focus-target  "
+        aria-label='Username for moodle account by Nagendra CSE'
+        data-post-id="2144" data-content="forum-post"
+    >
+        
+
+        <div class="d-flex flex-column w-100"  data-region-content="forum-post-core">
+            <header id="post-header-2144-6af2392c2d2646af2392c249c66" class="mb-2 header row d-flex">
+                        <div class="mr-2" style="width: 45px;">
+                                <img
+                                    class="rounded-circle w-100"
+                                    src="https://secure.gravatar.com/avatar/b15d4167382f26c03e08818e49776ced?s=100&d=mm"
+                                    alt="Picture of Nagendra CSE"
+                                    aria-hidden="true"
+                                    title="Picture of Nagendra CSE"
+                                >
+                        </div>
+                <div class="d-flex flex-column">
+                        <h3 class="h6 font-weight-bold mb-0" data-region-content="forum-post-core-subject" data-reply-subject="Re: Username for moodle account" >Username for moodle account</h3>
+                        <div class="mb-3" tabindex="-1">
+                            by <a href="https://moodle.cse.iitk.ac.in/user/view.php?id=7215&course=1">Nagendra CSE</a> - <time datetime="2026-01-29T19:37:35+05:30">Thursday, 29 January 2026, 7:37 PM</time>
+                        </div>
+                </div>
+            </header>
+
+            <div class="d-flex body-content-container">
+                        <div class="mr-2 author-groups-container" style="width: 45px; flex-shrink: 0">
+                        </div>
+
+                <div class="no-overflow w-100 content-alignment-container">
+                    <div id="post-content-2144" class="post-content-container">
+                        <p dir="ltr" style="text-align:left;">Please ensure that your <strong>Moodle ID is the same as your CC user ID</strong>. Otherwise, your account may be <strong>deactivated at a later stage</strong>, and a <strong>new account with your username may be created</strong> for any course.</p>
+                    </div>
+
+
+
+                        
+
+
+                            <div class="d-flex flex-wrap">
+                                    <div
+                                        class="post-actions d-flex align-self-end justify-content-end flex-wrap ml-auto"
+                                        data-region="post-actions-container"
+                                        role="menubar"
+                                        aria-label='Username for moodle account by Nagendra CSE'
+                                        aria-controls="p2144"
+                                    >
+                                                <a
+                                                    data-region="post-action"
+                                                    href="https://moodle.cse.iitk.ac.in/mod/forum/discuss.php?d=1223#p2144"
+                                                    class="btn btn-link"
+                                                    title="Permanent link to this post"
+                                                    aria-label="Permanent link to this post"
+                                                    role="menuitem"
+                                                >
+                                                    Permalink
+                                                </a>
+                                    </div>
+                            </div>
+
+                                           <div class="link text-right">
+                       <a href="https://moodle.cse.iitk.ac.in/mod/forum/discuss.php?d=1223"
+                          aria-label="Discuss the topic: Username for moodle account">
+                           Discuss this topic
+                       </a>&nbsp;(0 replies so far)
+                   </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+        <div data-region="replies-container">
+        </div>
+</article>
+           <article
+    id="p556"
+    class="forum-post-container mb-2"
+    data-post-id="556"
+    data-region="post"
+    data-target="556-target"
+    tabindex="0"
+    aria-labelledby="post-header-556-6af2392c2d2646af2392c249c66"
+    aria-describedby="post-content-556"
+>
+    <div
+        class="d-flex border p-2 mb-2 forumpost focus-target  "
+        aria-label='Server time offset by ~5.5 hrs by Admin User'
+        data-post-id="556" data-content="forum-post"
+    >
+        
+
+        <div class="d-flex flex-column w-100"  data-region-content="forum-post-core">
+            <header id="post-header-556-6af2392c2d2646af2392c249c66" class="mb-2 header row d-flex">
+                        <div class="mr-2" style="width: 45px;">
+                                <img
+                                    class="rounded-circle w-100"
+                                    src="https://moodle.cse.iitk.ac.in/pluginfile.php/5/user/icon/boost/f1?rev=8"
+                                    alt="Picture of Admin User"
+                                    aria-hidden="true"
+                                    title="Picture of Admin User"
+                                >
+                        </div>
+                <div class="d-flex flex-column">
+                        <h3 class="h6 font-weight-bold mb-0" data-region-content="forum-post-core-subject" data-reply-subject="Re: Server time offset by ~5.5 hrs" >Server time offset by ~5.5 hrs</h3>
+                        <div class="mb-3" tabindex="-1">
+                            by <a href="https://moodle.cse.iitk.ac.in/user/view.php?id=2&course=1">Admin User</a> - <time datetime="2014-02-08T19:54:32+05:30">Saturday, 8 February 2014, 7:54 PM</time>
+                        </div>
+                </div>
+            </header>
+
+            <div class="d-flex body-content-container">
+                        <div class="mr-2 author-groups-container" style="width: 45px; flex-shrink: 0">
+                        </div>
+
+                <div class="no-overflow w-100 content-alignment-container">
+                    <div id="post-content-556" class="post-content-container">
+                        <p>Due to a server glitch the time being displayed was wrong and 5.5hrs in future. This problem has been rectified now by syncing time with network time provided by CSE server. The course instructor/teaching assistants are requested to kindly make sure the timing is proper on deadline for assignments.</p>
+<p>PS: Thanks to Ishan Kumar for bringing it to my notice!</p>
+                    </div>
+
+
+
+                        
+
+
+                            <div class="d-flex flex-wrap">
+                                    <div
+                                        class="post-actions d-flex align-self-end justify-content-end flex-wrap ml-auto"
+                                        data-region="post-actions-container"
+                                        role="menubar"
+                                        aria-label='Server time offset by ~5.5 hrs by Admin User'
+                                        aria-controls="p556"
+                                    >
+                                                <a
+                                                    data-region="post-action"
+                                                    href="https://moodle.cse.iitk.ac.in/mod/forum/discuss.php?d=282#p556"
+                                                    class="btn btn-link"
+                                                    title="Permanent link to this post"
+                                                    aria-label="Permanent link to this post"
+                                                    role="menuitem"
+                                                >
+                                                    Permalink
+                                                </a>
+                                    </div>
+                            </div>
+
+                                           <div class="link text-right">
+                       <a href="https://moodle.cse.iitk.ac.in/mod/forum/discuss.php?d=282"
+                          aria-label="Discuss the topic: Server time offset by ~5.5 hrs">
+                           Discuss this topic
+                       </a>&nbsp;(0 replies so far)
+                   </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+        <div data-region="replies-container">
+        </div>
+</article>
+           <article
+    id="p2"
+    class="forum-post-container mb-2"
+    data-post-id="2"
+    data-region="post"
+    data-target="2-target"
+    tabindex="0"
+    aria-labelledby="post-header-2-6af2392c2d2646af2392c249c66"
+    aria-describedby="post-content-2"
+>
+    <div
+        class="d-flex border p-2 mb-2 forumpost focus-target  "
+        aria-label='Welcome to Online E-course Platform by Admin User'
+        data-post-id="2" data-content="forum-post"
+    >
+        
+
+        <div class="d-flex flex-column w-100"  data-region-content="forum-post-core">
+            <header id="post-header-2-6af2392c2d2646af2392c249c66" class="mb-2 header row d-flex">
+                        <div class="mr-2" style="width: 45px;">
+                                <img
+                                    class="rounded-circle w-100"
+                                    src="https://moodle.cse.iitk.ac.in/pluginfile.php/5/user/icon/boost/f1?rev=8"
+                                    alt="Picture of Admin User"
+                                    aria-hidden="true"
+                                    title="Picture of Admin User"
+                                >
+                        </div>
+                <div class="d-flex flex-column">
+                        <h3 class="h6 font-weight-bold mb-0" data-region-content="forum-post-core-subject" data-reply-subject="Re: Welcome to Online E-course Platform" >Welcome to Online E-course Platform</h3>
+                        <div class="mb-3" tabindex="-1">
+                            by <a href="https://moodle.cse.iitk.ac.in/user/view.php?id=2&course=1">Admin User</a> - <time datetime="2012-07-30T01:51:36+05:30">Monday, 30 July 2012, 1:51 AM</time>
+                        </div>
+                </div>
+            </header>
+
+            <div class="d-flex body-content-container">
+                        <div class="mr-2 author-groups-container" style="width: 45px; flex-shrink: 0">
+                        </div>
+
+                <div class="no-overflow w-100 content-alignment-container">
+                    <div id="post-content-2" class="post-content-container">
+                        <p>Login with cc username and password for accessing your courses. <br /><br />A introductory session on how to run courses on Moodle is being organized by <a href="http://arnium.com" target="_blank" rel="noreferrer noopener">Arnium Technologies</a> in CS-101/CS-102. Instructors can download the file "Introduction to using moodle.pdf" attached to this post(link on top right) to start off with courses. For any feedback, mail to &#99;o&#110;tact@ar&#110;&#105;um&#46;&#99;&#111;&#109; with 'Moodle' as Subject.</p>
+                    </div>
+
+
+
+                        
+
+                                <div>
+                                    <a
+                                        href="https://moodle.cse.iitk.ac.in/pluginfile.php/27/mod_forum/attachment/2/Introduction%20to%20using%20moodle.pdf?forcedownload=1"
+                                        aria-label="Attachment Introduction to using moodle.pdf"
+                                    >
+                                        <img class="icon " alt="" aria-hidden="true" src="https://moodle.cse.iitk.ac.in/theme/image.php/boost/core/1785508093/f/pdf" /> Introduction to using moodle.pdf
+                                    </a>
+                                </div>
+
+                            <div class="d-flex flex-wrap">
+                                    <div
+                                        class="post-actions d-flex align-self-end justify-content-end flex-wrap ml-auto"
+                                        data-region="post-actions-container"
+                                        role="menubar"
+                                        aria-label='Welcome to Online E-course Platform by Admin User'
+                                        aria-controls="p2"
+                                    >
+                                                <a
+                                                    data-region="post-action"
+                                                    href="https://moodle.cse.iitk.ac.in/mod/forum/discuss.php?d=2#p2"
+                                                    class="btn btn-link"
+                                                    title="Permanent link to this post"
+                                                    aria-label="Permanent link to this post"
+                                                    role="menuitem"
+                                                >
+                                                    Permalink
+                                                </a>
+                                    </div>
+                            </div>
+
+                                           <div class="link text-right">
+                       <a href="https://moodle.cse.iitk.ac.in/mod/forum/discuss.php?d=2"
+                          aria-label="Discuss the topic: Welcome to Online E-course Platform">
+                           Discuss this topic
+                       </a>&nbsp;(0 replies so far)
+                   </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+        <div data-region="replies-container">
+        </div>
+</article>
+
+</div></div><span class="skip-block-to" id="skipsitenews"></span><br /></div>
+                        
+                        
+
+                    </section>
+                </div>
+            </div>
+        </div>
+        
+        <footer id="page-footer" class="footer-popover bg-white">
+            <div data-region="footer-container-popover">
+                <button class="btn btn-icon bg-secondary icon-no-margin btn-footer-popover" data-action="footer-popover" aria-label="Show footer">
+                    <i class="icon fa fa-question fa-fw " aria-hidden="true"  ></i>
+                </button>
+            </div>
+            <div class="footer-content-popover container" data-region="footer-content-popover">
+                    <div class="footer-section p-3 border-bottom">
+        
+        
+                            <div class="footer-support-link"><a href="https://moodle.cse.iitk.ac.in/user/contactsitesupport.php"><i class="icon fa fa-envelope-o fa-fw " aria-hidden="true"  ></i>Contact site support</a></div>
+                    </div>
+                <div class="footer-section p-3 border-bottom">
+                    <div class="logininfo">
+                        <div class="logininfo">You are not logged in. (<a href="https://moodle.cse.iitk.ac.in/login/index.php">Log in</a>)</div>
+                    </div>
+                    <div class="tool_usertours-resettourcontainer">
+                    </div>
+        
+                    <div class="tool_dataprivacy"><a href="https://moodle.cse.iitk.ac.in/admin/tool/dataprivacy/summary.php">Data retention summary</a></div><a class="mobilelink" href="https://download.moodle.org/mobile?version=2023100912&amp;lang=en&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile">Get the mobile app</a>
+                    <script>
+//<![CDATA[
+var require = {
+    baseUrl : 'https://moodle.cse.iitk.ac.in/lib/requirejs.php/1785471966/',
+    // We only support AMD modules with an explicit define() statement.
+    enforceDefine: true,
+    skipDataMain: true,
+    waitSeconds : 0,
+
+    paths: {
+        jquery: 'https://moodle.cse.iitk.ac.in/lib/javascript.php/1785471966/lib/jquery/jquery-3.7.1.min',
+        jqueryui: 'https://moodle.cse.iitk.ac.in/lib/javascript.php/1785471966/lib/jquery/ui-1.13.2/jquery-ui.min',
+        jqueryprivate: 'https://moodle.cse.iitk.ac.in/lib/javascript.php/1785471966/lib/requirejs/jquery-private'
+    },
+
+    // Custom jquery config map.
+    map: {
+      // '*' means all modules will get 'jqueryprivate'
+      // for their 'jquery' dependency.
+      '*': { jquery: 'jqueryprivate' },
+      // Stub module for 'process'. This is a workaround for a bug in MathJax (see MDL-60458).
+      '*': { process: 'core/first' },
+
+      // 'jquery-private' wants the real jQuery module
+      // though. If this line was not here, there would
+      // be an unresolvable cyclic dependency.
+      jqueryprivate: { jquery: 'jquery' }
+    }
+};
+
+//]]>
+</script>
+<script src="https://moodle.cse.iitk.ac.in/lib/javascript.php/1785471966/lib/requirejs/require.min.js"></script>
+<script>
+//<![CDATA[
+M.util.js_pending("core/first");
+require(['core/first'], function() {
+require(['core/prefetch'])
+;
+require(["media_videojs/loader"], function(loader) {
+    loader.setUp('en');
+});;
+M.util.js_pending('filter_mathjaxloader/loader'); require(['filter_mathjaxloader/loader'], function(amd) {amd.configure({"mathjaxconfig":"\nMathJax.Hub.Config({\n    config: [\"Accessible.js\", \"Safe.js\"],\n    errorSettings: { message: [\"!\"] },\n    skipStartupTypeset: true,\n    messageStyle: \"none\"\n});\n","lang":"en"}); M.util.js_complete('filter_mathjaxloader/loader');});;
+
+require(['jquery', 'core_calendar/month_navigation_drag_drop'], function($, DragDrop) {
+    var root = $('#month-navigation-6af2392c249c46af2392c249c61-1');
+    DragDrop.init(root);
+});
+;
+
+require([
+    'jquery',
+    'core_calendar/month_view_drag_drop'
+], function(
+    $,
+    DragDrop
+) {
+    var root = $('#month-detailed-6af2392c249c46af2392c249c61-1');
+    DragDrop.init(root);
+});
+;
+
+require(['jquery', 'core_calendar/calendar', 'core_calendar/popover'], function($, Calendar, calendarPopover) {
+    const isCalendarBlock = true;
+    Calendar.init($("#calendar-month-6af2392c249c46af2392c249c61-1"), isCalendarBlock);
+});
+;
+M.util.js_pending('core_calendar/popover'); require(['core_calendar/popover'], function(amd) {M.util.js_complete('core_calendar/popover');});;
+
+    require(['core/moremenu'], function(moremenu) {
+        moremenu(document.querySelector('#moremenu-6af2392c26a86-navbar-nav'));
+    });
+;
+
+require(
+[
+    'jquery',
+],
+function(
+    $
+) {
+    var uniqid = "6af2392c276b56af2392c249c63";
+    var container = $('#searchinput-navbar-' + uniqid);
+    var opensearch = container.find('[data-action="opensearch"]');
+    var input = container.find('[data-region="input"]');
+    var submit = container.find('[data-action="submit"]');
+
+    submit.on('click', function(e) {
+        if (input.val() === '') {
+            e.preventDefault();
+        }
+    });
+    container.on('hidden.bs.collapse', function() {
+        opensearch.removeClass('d-none');
+        input.val('');
+    });
+    container.on('show.bs.collapse', function() {
+        opensearch.addClass('d-none');
+    });
+    container.on('shown.bs.collapse', function() {
+        input.focus();
+    });
+});
+;
+
+require(
+[
+    'jquery',
+],
+function(
+    $
+) {
+    var uniqid = "6af2392c279056af2392c249c64";
+    var container = $('#searchinput-navbar-' + uniqid);
+    var opensearch = container.find('[data-action="opensearch"]');
+    var input = container.find('[data-region="input"]');
+    var submit = container.find('[data-action="submit"]');
+
+    submit.on('click', function(e) {
+        if (input.val() === '') {
+            e.preventDefault();
+        }
+    });
+    container.on('hidden.bs.collapse', function() {
+        opensearch.removeClass('d-none');
+        input.val('');
+    });
+    container.on('show.bs.collapse', function() {
+        opensearch.addClass('d-none');
+    });
+    container.on('shown.bs.collapse', function() {
+        input.focus();
+    });
+});
+;
+
+    require(['core/usermenu'], function(UserMenu) {
+        UserMenu.init();
+    });
+;
+
+M.util.js_pending('theme_boost/drawers:load');
+require(['theme_boost/drawers'], function() {
+    M.util.js_complete('theme_boost/drawers:load');
+});
+;
+
+M.util.js_pending('theme_boost/drawers:load');
+require(['theme_boost/drawers'], function() {
+    M.util.js_complete('theme_boost/drawers:load');
+});
+;
+
+require(['theme_boost/footer-popover'], function(FooterPopover) {
+    FooterPopover.init();
+});
+;
+
+M.util.js_pending('theme_boost/loader');
+require(['theme_boost/loader', 'theme_boost/drawer'], function(Loader, Drawer) {
+    Drawer.init();
+    M.util.js_complete('theme_boost/loader');
+});
+;
+
+    require(['jquery', 'mod_forum/discussion_list'], function($, View) {
+        var root = $('#discussion-list-6af2392c2d2646af2392c249c66');
+        View.init(root);
+    });
+;
+M.util.js_pending('core/notification'); require(['core/notification'], function(amd) {amd.init(2, []); M.util.js_complete('core/notification');});;
+M.util.js_pending('core/log'); require(['core/log'], function(amd) {amd.setConfig({"level":"warn"}); M.util.js_complete('core/log');});;
+M.util.js_pending('core/page_global'); require(['core/page_global'], function(amd) {amd.init(); M.util.js_complete('core/page_global');});;
+M.util.js_pending('core/utility'); require(['core/utility'], function(amd) {M.util.js_complete('core/utility');});;
+M.util.js_pending('core/storage_validation'); require(['core/storage_validation'], function(amd) {amd.init(null); M.util.js_complete('core/storage_validation');});
+    M.util.js_complete("core/first");
+});
+//]]>
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js?delayStartupUntil=configured"></script>
+<script>
+//<![CDATA[
+M.str = {"moodle":{"lastmodified":"Last modified","name":"Name","error":"Error","info":"Information","yes":"Yes","no":"No","cancel":"Cancel","collapseall":"Collapse all","expandall":"Expand all","confirm":"Confirm","areyousure":"Are you sure?","closebuttontitle":"Close","unknownerror":"Unknown error","file":"File","url":"URL"},"repository":{"type":"Type","size":"Size","invalidjson":"Invalid JSON string","nofilesattached":"No files attached","filepicker":"File picker","logout":"Logout","nofilesavailable":"No files available","norepositoriesavailable":"Sorry, none of your current repositories can return files in the required format.","fileexistsdialogheader":"File exists","fileexistsdialog_editor":"A file with that name has already been attached to the text you are editing.","fileexistsdialog_filemanager":"A file with that name has already been attached","renameto":"Rename to \"{$a}\"","referencesexist":"There are {$a} links to this file","select":"Select"},"admin":{"confirmdeletecomments":"Are you sure you want to delete the selected comment(s)?","confirmation":"Confirmation"},"debug":{"debuginfo":"Debug info","line":"Line","stacktrace":"Stack trace"},"langconfig":{"labelsep":": "}};
+//]]>
+</script>
+<script>
+//<![CDATA[
+(function() {M.util.help_popups.setup(Y);
+Y.use("moodle-course-categoryexpander",function() {Y.Moodle.course.categoryexpander.init();
+});
+ M.util.js_pending('random6af2392c249c67'); Y.on('domready', function() { M.util.js_complete("init");  M.util.js_complete('random6af2392c249c67'); });
+})();
+//]]>
+</script>
+
+                </div>
+                <div class="footer-section p-3">
+                    <div>Powered by <a href="https://moodle.com">Moodle</a></div>
+                </div>
+            </div>
+        
+            <div class="footer-content-debugging footer-dark bg-dark text-light">
+                <div class="container-fluid footer-dark-inner">
+                    
+                </div>
+            </div>
+        </footer>
+    </div>
+    
+</div>
+
+
+</body></html>

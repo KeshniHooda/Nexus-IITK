@@ -1,0 +1,29 @@
+[PAGE 1]
+ndian Institute of Technology Kanpur
+Kanpur 208 016 Uttar Pradesh (India)
+Academic Section
+
+Student Awards and Honours
+
+Student’s Name:  Mr. Vishal Keswani (BS/ECO) , Ms. Sakshi Singh(BTech/CHE)
+
+Programme and Department: BS/ECO & BTech/CHE
+
+Thesis Supervisor/Mentor: Prof. Ashutosh Modi
+
+Award/Honour: First Prize at FinSim Shared Task
+
+Host Organization:
+Brief Description of the Award/Honour: M.s Sakshi Singh and The team has been
+awarded 500 Euros as the first prize. Both Vishal and Sakshi were given a list of carefully
+selected terms from the Financial domain such as “European depositary receipt”,
+“Interest rate swaps” and were asked to design a system which can automatically classify
+them into the most relevant hypernym (or top-level) concept in an external ontology.
+For example, given the set of concepts “Bonds”, “Unclassified”, “Share”, “Loan”, the
+most relevant hypernym of “European depositary receipt” is “Share”.
+
+The system that Vishal and Sakshi designed was based on NLP and Machine Learning
+techniques. Research paper on the designed system has been accepted at the
+conference and will be part of the proceedings.
+
+Date: June 28, 2020

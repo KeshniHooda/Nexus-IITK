@@ -1,0 +1,668 @@
+[Page 1]
+REPORT OF THE CORE CURRICULUM COMMITTEE (CCC) ASSIGNING CORE
+TEACHING LOAD FOR 2014-2015-II SEMESTER
+GUIDELINES FOR DRAWING INSTRUCTOR-IN-CHARGE FOR CORE COURSES
+Based on the report of the Manindra Agarwal committee, the instructor-in-charge for the courses 
+below will be drawn from various depatments as per the schedule below.
+Course No and Title
+2010-11 & 2011-
+12
+2012-13 & 
+2013-14
+2014-15 & 
+2015-16
+2016-17 & 
+2017-18
+TA101 (Engineering Graphics) CE
+ME
+CE
+AE
+ESO201 (Thermodynamics)
+AE
+CHE
+ME
+CHE
+ESO202 (Solid Mechanics)
+ME
+CE
+AE
+CE
+ESO204 (Fluid Mechanics)
+CHE
+AE
+CHE
+ME
+The instructor-in-charge for the various other core courses shall be provided at all times by various 
+departments as given below.
+Department Course(s)
+BSBE
+LIF101, ESO206
+CHM
+CHM101, CHM102, CHM102R, CSO201, CSO202
+CE
+ESO208
+CSE
+ESC101, ESO207
+EE
+ESC201, ESO203
+HSS
+HSS-1, ENG112, ENG112R, HSS-II
+ME
+TA202, ESO209
+MSE
+TA201, ESO205
+MTH
+MTH101, MTH101R, MTH102, MTH102R, MSO201, MSO202a, MSO203b
+PHY
+PHY101, PHY102, PHY103, PSO201
+
+[Page 2]
+Core course teaching requirements for academic session 2014-2015 II semester
+Course(s)
+Course no
+Course name
+units
+No of students (estimated)
+No of sections
+Instruction units
+Total (instruction and tutorial) units
+Tutorials
+Lab
+Second semester courses
+CHM101
+Chemistry lab
+0-0-3 [3]
+420
+-
+12
+1
+13
+CHM102
+chemistry-I
+2-1-0 [8]
+840
+24
+-
+3$
+27
+MTH102
+mathematics-ii
+3-1-0 [11]
+840
+8
+-
+4
+12
+PHY101
+Physics lab
+0-0-3 [3]
+420
+-
+12
+1
+13
+PHY102
+physics-i
+3-1-0 [11]
+420
+5
+-
+2
+7
+PHY103
+physics-ii
+3-1-0 [11]
+420
+5
+-
+2
+7
+ESC101
+computing
+3-1-3 [14]
+420
+12
+12
+2
+14
+LIF101
+Life sciences
+2-0-0 [6]
+420
+-
+-
+1.5#
+1.5
+TA101
+Engineering graphics
+2-0-2 [8]
+420
+-
+12
+1.5#
+13.5
+Fourth semester courses
+ESC201
+electronics
+3-1-3 [14]
+420
+12
+12
+2
+14
+TA201
+Manufacturing lab
+1-0-3 [6]
+420
+-
+5
+1*
+6
+TA202
+Mechanical lab
+1-0-3 [6]
+420
+-
+5
+1*
+6
+COM200
+Comm skills
+1-0-2 [5]
+420
+14
+1*
+15
+Engineering science options
+ESO201
+thermodynamics
+3-1-0 [11]
+150
+2
+-
+1.5
+3.5
+ESO202
+Mechanics of solids
+3-1-0 [11]
+315
+9
+-
+2
+11
+ESO203
+Intro electr engineering
+3-1-2 [13]
+245
+7
+7
+2
+9
+Science options
+MSO201
+Prob and Stats
+3-1-0 [11]
+520
+5
+-
+2
+7
+PSO201
+Quantum mech.
+2-1-0 [8]
+210
+6
+-
+1.5
+7.5
+CSO2011
+Basic Organic Chem
+3-1-0 [11]
+0
+0
+-
+-
+-
+CSO202
+Atoms, mol, photons
+3-1-0 [11]
+250
+7
+-
+2
+9
+Repeat
+MTH101R
+mathmatics-i
+3-1-0 [11]
+70
+1
+-
+1.5
+2.5
+ENG112R
+Intro to english
+3-1-0 [11]
+35
+1
+-
+1
+2
+Total units required =200.5 Science Units = 103 Engineering science units = 78.5 ENG112R = 2.0 COM200=15
+Note: 
+1. When a course has both tutorial and lab, the tutor is supposed to take care of both tutorial and lab sessions.
+2. Instruction unit
+Only lab courses: 1.0
+Lecture course (class size <60) : 1.0
+Lecture course (60 to 150): 1.5
+Lecture course (>150 to 600) : 2.0; #1.5 if 2 lectures/wk, *1.0 if 1 lecture/wk
+Lecture course (>600): 4.0; $3.0 if 2 lectures/wk
+tutorials: 1.0
+1
+Not being offerred by department in 2nd semester 2014-15.
+
+[Page 3]
+Department wise distribution of core course instructors for 2014-15 2nd semester
+Sr No Department Course(s)
+1
+AE
+ESO202
+2
+BSBE
+LIF101
+3
+CHE
+4
+CHM
+CHM101, CHM102, CSO102
+5
+CE
+TA101
+6
+CSE
+ESC101
+7
+EE
+ESC201, ESO203
+8
+HSS
+HSS-I, ENG112R, HSS-II, COM200
+9
+MTH
+MTH102, MTH101R, MSO201
+10
+ME
+ESO201, TA202
+11
+MSE
+TA201
+12
+PHY
+PHY101, PHY102, PHY103, PSO201
+Important notes
+1. As per the senate minutes 2013-14/7th item 11, student TA from dual degree students who 
+have moved to PG part in 4th year and MS/Msc(I) students in final year, can be used. It is 
+department's discretion to us this enabling clause.
+2. Section size is normally 35, except in MTH102, MTH101R, PHY102, PHY103 and 
+MSO201 where section size is normally 100.
+3. One tutor will be assigned per day (i.e. Per three sections i.e. ~90 students) for TA201 and 
+TA202 labs.
+4. Increasing the number of sections in any course is undesirable.
+5. Student number in each section may be increased slightly, i.e, up to 40 in sections normally 
+having 35 students and upto 105 in sections normally having 100 students to prevent 
+increase in number of sections.
+6. The total registration in some courses has to be restricted considering the seating capacity of
+the lecture halls assigned for the courses.
+7. The number of sections in some ESO/SO courses may be reduced in certain cases after 
+registration, in case the number of students registered is less than expected.
+
+[Page 4]
+Department/IDP wise allocation of instructor(s)/tutor(s) for core courses in science and engineering for 2013-14, 2nd semester
+Course no
+Course name
+Units reqd.
+AE
+BSBE
+CHE
+CE
+CSE
+Earth Sc
+EE
+IME
+ME
+MSE
+MSP
+CHM
+MTH
+PHY
+HSS
+DOFA$
+Total
+CHM101
+Chemistry lab
+13
+1+12
+1+12
+CHM102
+chemistry-I
+27
+3+24
+3+24
+MTH102
+mathematics-II
+12
+4+8
+4+8
+PHY101
+Physics lab
+13
+1+12
+1+12
+PHY102
+physics-i
+7
+2+5
+2+5
+PHY103
+physics-ii
+7
+2+5
+2+5
+ESC101
+computing
+14
+2+12
+2+12
+LIF101
+Life sciences
+1.5
+1.5#+0
+1.5+0
+TA101
+Engineering graphics
+13.5
+0+2
+1.5#+4
+0+6
+1.5+12
+ESC201
+Electronics
+14
+2+12
+2+12
+TA201
+Manufacturing lab
+6
+1*+5
+1+5
+TA202
+Mechanical lab
+6
+1*+5
+1+5
+COM200
+Comm Skills
+15
+0+6
+1+3
+0+5
+1+14
+ESO201
+Thermodynamics
+3.5
+0+2
+1.5+0
+1.5+2
+ESO202
+Mechanics of solids
+11
+2+0
+0+2
+0+3
+0+3
+0+1
+2+9
+ESO203
+Intro to Electrical Engg
+9
+2+7
+2+7
+MSO201
+Prob and Stats
+7
+0+1
+0+1
+0+1
+0+1
+2+0
+0+1
+2+5
+PSO201
+Quantum Mech
+7.5
+0+2
+1.5#+4
+1.5+6
+CSO201
+Basic Org Chemistry
+0
+0
+CSO202
+Atom, Mol, Photon
+9
+0+2
+2+5
+2+7
+MTH101R
+Mathematics-I
+2.5
+1.5+1
+1.5+1
+ENG112R
+Intro to English
+2
+1+1
+1+1
+Total load assigned
+200.5
+6
+1.5
+4
+9.5
+15
+0
+24
+7
+16.5
+9
+47
+16.5
+32.5
+7
+5
+Approx Faculty Strength
+21
+13
+19
+33
+22
+3
+37
+16
+34
+21
+0
+29
+37
+34
+31
+Load/faculty
+0.29
+0.12
+0.21
+0.29
+0.68
+0
+0.65
+0.44
+0.49
+0.43
+1.62
+0.45
+0.96
+0.23
+Units are assigned as 'm+n' where m indicates the lecture units and n indicates tutor units.
+*Assigned lower load (only 1 lectures/week)
+#Assigned lower load (only 2 lectures/week)
+$ DOFA to arrange for these via spouse employment cell.
+
+[Page 5]
+Appendix
+ESO/SO requirements for students from various departments
+Students from all departments must take at least 402 credits of ESO/SO. Department requirments for such ESO/SO courses are given below. The 
+ESO/SO courses which have to be taken compulsorily by the students (bold) and which may be taken as electives (in italics) of various departments 
+are also shown. The number in brackets show the credits.
+Department requirements
+Odd semester
+Even semester
+AE (all compulsory)
+ESO204 (11), MSO202a (6), MSO203b (6)
+ESO202 (11), ESO201 (11)
+BSBE
+ESO206 (11)
+ESO201 (11), ESO202 (11), ESO203 (11), 
+ESO204 (11), ESO205 (11), ESO207 (10), 
+ESO208 (11), ESO209 (8), MSO202a (6), 
+MSO203b (6)
+MSO201 (11)
+ESO201 (11), ESO202 (11), ESO203 (11), 
+CSO201 (11), CSO202 (11), PSO201 (8)
+CHE (any one from CSO201/CSO202)
+ESO201 (11), ESO208 (11)
+ESO205 (14) – 5th sem
+CSO201 (11)
+CSO202 (11)
+CE (all compulsory)
+ESO202 (11), ESO204 (11), MSO203b (6)
+ESO208 (11) – 5th sem
+MSO201 (11)
+CHM (at least 11 credits of SO, at least 11 
+credits of ESO)
+ESO201 (11), ESO202 (11), ESO203 (11), 
+ESO204 (11), ESO205 (11), ESO206 (11), 
+ESO207 (10), ESO208 (11), ESO209 (8), 
+MSO202a (6), MSO203b (6)
+ESO201 (11), ESO202 (11), ESO203 (11), 
+CSO202 (11), PSO201 (8)
+CSE (at least 11 credits of ESO)
+ESO201 (11), ESO202 (11), ESO203 (11), 
+ESO204 (11), ESO205 (11), ESO206 (11), 
+ESO207 (10), ESO208 (11), ESO209 (8), 
+MSO202a (6), MSO203b (6)
+MSO201 (11), ESO201 (11), ESO202 (11), 
+ESO203 (11), CSO201 (11), CSO202 (11), 
+PSO201 (8)
+EE
+MSO202a (6), MSO203b (6)
+ESO201 (11), ESO202 (11), ESO204 (11), 
+ESO205 (11), ESO206 (11), ESO207 (10), 
+ESO208 (11), ESO209 (8)
+MSO201 (11), ESO203 (11),
+ESO201 (11), ESO202 (11), CSO201 (11), 
+CSO202 (11), PSO201 (8)
+ECO (at least 22 credits of SO, at least 11 
+credits of ESO)
+ESO201 (11), ESO202 (11), ESO203 (11), 
+ESO204 (11), ESO205 (11), ESO206 (11), 
+ESO207 (10), ESO208 (11), ESO209 (8), 
+MSO202a (6), MSO203b (6)
+MSO201 (11),
+ESO201 (11), ESO202 (11), ESO203 (11), 
+CSO201 (11), CSO202 (11), PSO201 (8)
+MSE (all compulsory)
+ESO202 (11), ESO205 (14), MSO203b (6), 
+ESO208 (11) – 5th sem
+PSO201 (8)
+ME (all compulsory)
+ESO201 (11), MSO202a (6), MSO203b (6)
+ESO202 (11), ESO203 (11)
+MTH 
+ESO207 (10) – 5th sem,
+ESO201 (11), ESO202 (11), ESO203 (11), 
+ESO204 (11), ESO205 (11), ESO206 (11), 
+ESO208 (11), ESO209 (8)
+MSO201 (11),
+ESO201 (11), ESO202 (11), ESO203 (11), 
+CSO201 (11), CSO202 (11), PSO201 (8)
+PHY (at least 11 credits of ESO)
+ESO201 (11), ESO202 (11), ESO203 (11), 
+ESO204 (11), ESO205 (11), ESO206 (11), 
+ESO207 (10), ESO208 (11), ESO209 (8), 
+MSO202a (6), MSO203b (6)
+PSO201 (8),
+ESO201 (11), ESO202 (11), ESO203 (11), 
+CSO201 (11), CSO202 (11)
+2
+Modified to 40 minimum credits in senate meeting 2012-13/8th item 9.
+
+[Page 6]
+Availability of elective seats in various ESO/SO courses in the even semester
+Course
+Projected maximum Registration 
+Compulsory seats
+Elective seats
+Registration in 2012-13-II
+ESO201 (thermodynamics)
+3-1-0-11
+150
+48(AE)*
+57
+93
+ESO202 (mechanics of solid)
+3-1-0-11
+315
+48(AE)*
+99(ME)*
+168
+156
+ESO203 (Intro to electrical engg)
+3-1-2-13
+245
+131(EE)*
+99(ME)*
+15
+242
+CSO201 (Basic Organic Chemistry)
+3-1-0-11
+0
+0
+0
+CSO202 (Atoms, Mol, Photons)
+3-1-0-11
+250
+0
+250
+133
+MSO201 (Prob and Stat)
+3-1-0-11
+480 + 41 (Msc 2Yr)
+40(BSBE)*
+105(CE)*
+131(EE)*
+40(ECO)*
+92(CSE)*
+49(MTH)*
+41(Msc 2Yr)*
+23
+516
+PSO201 (Quantum Mechanics)
+2-1-0-8
+210
+28(PHY)*
+97(MSE)*
+85
+120
+*compulsory in 4th semester
+$Cannot increase class size due to lab component
+#compulsory in 2nd semester for Msc 2Yr math
+Room allocation to be done by DoAA as per the actual registration.

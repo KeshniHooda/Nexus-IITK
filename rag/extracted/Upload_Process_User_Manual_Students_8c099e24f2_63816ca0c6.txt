@@ -1,0 +1,235 @@
+[PAGE 1]
+UM | PG-FORMS
+
+USER MANUAL FOR STUDENTS
+
+PG FORMS
+DATE: 23th FEB 2024, version 1.0
+
+Published by
+
+New Office Automation, IIT Kanpur
+
+1 | P a g e
+
+[PAGE 2]
+UM | PG-FORMS
+
+Contents
+
+1.   Introduction .................................................................................................................................................. 3
+
+2.   Prerequisites ................................................................................................................................................. 4
+
+3.   Student Extension Process ........................................................................................................................... 5
+3.1.    Student Thesis Extension Applied by Student ....................................................................................................... 5
+
+4.   Student Thesis / Project Document Upload Process .................................................................................... 8
+4.1.    Student Document Upload by Student ................................................................................................................. 8
+
+5.   Frequently Asked Questions (FAQs) ........................................................................................................... 11
+
+6.   Troubleshooting ......................................................................................................................................... 12
+
+2 | P a g e
+
+[PAGE 3]
+UM | PG-FORMS
+
+1. Introduction
+
+The Indian Institute of Technology Kanpur (IITK) has initiated an ERP Project
+aimed at automating various administrative and academic processes across the
+institution.
+
+This manual provides a step-by-step guide to processing PG-Forms through the
+Pingala Portal. It provides instructions for Students.
+
+3 | P a g e
+
+[PAGE 4]
+UM | PG-FORMS
+
+2. Prerequisites
+
+Before proceeding with the PG-Forms process, ensure the following:
+•  Students should pass the eligibility criteria specified by the institute (e.g., minimum
+CPI requirement).
+•  The correct Supervisor is mapped with the student.
+•  PG-Forms process eligibility should be configured in the system.
+•  Users have access to the Pingala Portal credentials (username and password).
+•   In each approval, the mail will be sent to the next approval authority, and a
+notification will be sent, which can be found in the dashboard.
+
+4 | P a g e
+
+[PAGE 5]
+UM | PG-FORMS
+
+3. Student Extension Process
+
+In the student extension process, students will have the option to apply for the extension through their login & it will be
+sent for approval. Once the student's oral exam board is approved, only then will the student be able to apply for the
+extension. If a student uploads the thesis, then the student will not be able to apply for the extension.
+
+3.1. Student Thesis Extension Applied by Student
+
+To apply for the extension as a student, do the steps that follow:
+
+1.    Enter your login credentials.
+
+2. On the left panel, click Academics → Student PG Thesis Extension → Student Thesis Extension.
+
+3.  Select the Student role.
+
+4.  The Student Thesis Extension page will be displayed.
+
+5.  Click on the Add button to apply for the extension.
+
+5 | P a g e
+
+[PAGE 6]
+UM | PG-FORMS
+
+6.  The Add Student Thesis Extension page will be open.
+
+7.  Enter the Extension Date Propose using the date picker.
+
+8.  Enter the Remarks & Upload the Document related to the thesis.
+
+9.  Click on Submit to submit the details & send them for approval to the supervisor.
+
+6 | P a g e
+
+[PAGE 7]
+UM | PG-FORMS
+
+10. Once submitted, details of the submission will be listed in the listing page along with the current status of the
+approval.
+
+7 | P a g e
+
+[PAGE 8]
+UM | PG-FORMS
+
+4. Student Thesis / Project Document Upload Process
+
+In the student thesis document upload process, the student can upload the thesis/project document & send it to the
+DOAA Admin for approval. If the DOAA Admin rejects the document, the student needs to resubmit it. Once approved,
+the oral exam result report will be created in the system.
+
+4.1. Student Document Upload by Student
+
+To upload the document related to the thesis by the student, follow the steps that follow:
+
+1.  Enter your login credentials.
+
+2. On the left panel, click Academics > Student (P.G Thesis) > Student Document Upload
+
+3.  Select the Student role.
+
+8 | P a g e
+
+[PAGE 9]
+UM | PG-FORMS
+
+4.  The Student Document Upload Listing page will be displayed.
+
+5.  Click on the Add button to add the documents.
+
+6.  The Add Student Document Upload page will be open.
+7.  Upload Thesis Report, Synopsis Report, Declaration Report & Thesis Processing form.
+
+8.  Click on Submit to finally submit the details, or click on Save&Draft to temporarily save the details in the system.
+9.  Once clicked on Save&Draft details of the same will be saved in draft mode & details will not be sent for approval.
+The status of the approval is Draft in this case.
+10. Click on the view button to edit the documents.
+
+9 | P a g e
+
+[PAGE 10]
+UM | PG-FORMS
+
+11. Click on the Submit button for final submission & send for approval.
+
+12. Once submitted, the status of the document is Submit & Approval status, which will be Pending with the DOAA
+Office. Once the DOAA Office approves the document, this will be changed to Approved by DOAA Office.
+
+NOTE: - In case of rejection by DOAA, they may reject all four documents or only some of them based on the
+requirement. In such cases, the status will change to “Partially Submitted”, and only the documents that were
+rejected by DOAA need to be re-uploaded via the same above-mentioned link.
+
+10 | P a g e
+
+[PAGE 11]
+UM | PG-FORMS
+
+5. Frequently Asked Questions (FAQs)
+
+Q1: How do I log in to the Pingala Portal?
+
+A: Use your institute-provided credentials (username and password) to log in at [Pingala Portal Login Page]. If you
+
+encounter login issues, reset your password or contact the IT support team.
+
+Q2: Where can I find the PG thesis submission section?
+
+A: After logging in, navigate to the 'PG Thesis Management' tab and select “Student Document Upload” from the
+
+dropdown menu.
+
+Q3: How do I upload my thesis document?
+
+A: Go to the thesis submission section, click on 'Upload Thesis', attach your PDF file, and click 'Submit'.
+
+Q4: What file formats are accepted for thesis upload?
+
+A: Only PDF files are accepted. Ensure your document does not exceed the size limit specified on the portal.
+
+Q5: How can I check the status of my thesis approval?
+
+A: Navigate to the 'Thesis Status' section under the PG Thesis tab to track your thesis status.
+
+Q6: Can I edit my thesis after submission?
+
+A: Once submitted, you cannot edit your thesis directly. You only update the document once rejected by the DOAA Office
+
+or once it is saved in draft mode.
+
+Q7: What should I do if I miss the thesis submission deadline?
+
+A: Contact the academic office or your supervisor immediately to request an extension, if applicable.
+
+11 | P a g e
+
+[PAGE 12]
+UM | PG-FORMS
+
+6. Troubleshooting
+
+Issue 1: Unable to Log In
+Ensure your credentials are correct.
+Reset your password using the 'Forgot Password' option.
+If the problem persists, contact IT support.
+
+Issue 2: Thesis Upload Fails
+Verify that your file is in PDF format.
+Check that the file size does not exceed the maximum limit.
+Ensure your internet connection is stable.
+Try clearing your browser cache and retrying.
+
+Issue 3: Submission Status Not Updating
+Refresh the portal page.
+Log out and log back in.
+If the issue continues, report it through the 'Support' tab.
+
+Issue 4: Deadline Extension Request Not Visible
+Check with your supervisor if an extension request has been initiated.
+If not, contact the academic office.
+
+For any additional issues or unresolved problems, please reach out to the Support Team via the 'Support' tab or contact
+your academic supervisor directly.
+
+********** End of Document **********
+
+12 | P a g e

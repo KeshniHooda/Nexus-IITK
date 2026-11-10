@@ -1,0 +1,491 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+
+COURSES OF STUDY
+
+2025
+
+Indian Institute of Technology Kanpur
+KANPUR-208016
+
+[PAGE 2]
+DEPARTMENT OF S.P.A.S.E
+
+DEPARTMENT OF S.P.A.S.E
+
+Credits
+Course ID        Course Title                                    Content
+L-T-P-A-[C]
+This course will provide a foundation to UG students in the
+Introduction to                     area of astronomy & astrophysics. Topics include a historicalSPA201
+Astronomy and                      introduction, astrometry, universal physical principles and                                            3-0-0-0-9
+Astrophysics                       basics  of  radiation,  observing  tools,  solar  system  and
+exoplanets, stellar structure and evolution, milky way and
+other galaxies, and basic introduction to cosmology.
+Galaxy dynamics and evolution, tidal forces, stellar dynamics,
+Galaxies and   SPA401                                                      virial theorem, interstellar medium; galaxy clusters, feedback
+Observational                                            3-0-0-0-9   mechanisms in clusters, intergalactic medium, Hubble’s law
+Cosmology                                                  and history of the Universe, cosmological parameters and
+parameter estimation.
+
+Basic principles of space and astronomical instrumentation
+and  detectors, electromagnetic wave and charged  particle
+Space and   SPA601                                                 detectors, spectroscopy, spectroscopic techniques to deduce
+Astronomical                                            3-0-0-0-9    composition  and  physical  properties,  detector  design,
+Instrumentation                                                                calibration,  background,  space   qualification  and  data
+acquisition,   detailed   discussion   of   a  few   selected
+observatories, such as, AstroSat, Moon and Mars missions.
+
+Vector  analysis, vector              calculus,  linear vector
+spaces, matrices, tensors, coordinate systems, Astronomical
+Mathematical Methods   SPA602                                             coordinate  system   transformation,di↵erential    ordinary   diferential
+in Space Sciences &                                            3-0-0-0-9    equations, stellar structure equations, special functions, Bessel
+Engineering                                                             function, Legendre function, spherical harmonics, application
+to cosmic microwave background radiation, Laplace trans-
+form, Fourier transform, Numerical Methods.
+
+Introduction ,Dynamics, Physics & Astrophysics: Two- and
+three- body problems; Thermodynamics; Stellar properties;
+Nucleosynthesis,Solar heating and energy transport: Energy
+balance and transport  - conduction, convection, radiation
+,Planetary  atmospheres:  Thermal  structure;  Composition;
+Molecular and eddy flows; Atmospheric escape,Planetary
+Solar System                       surfaces and  interiors: Mineralogy & petrology;  Interiors;
+SPA603       Processes and Space      3-0-0-9     Surface morphology, Impact cratering, examples.Magnetic
+Missions                            fields: Sun; Solar wind; Planetary magnetospheres, Formation
+processes:  Solar  System   -  overview  and  constraints;
+Protoplanetary disk’s evolution; Growth of solid bodies and
+gas giants; Migration; Planetary rotation; Asteroids, comets
+and moons; Exoplanets; Theory and observation,Major Space
+missions and their scientific contributions, Examples: Moon;
+Terrestrial planets; Gas giants .
+Numerical Methods in                Numerical integration of functions, numerical root finding,
+SPA604         Space Sciences &       3-0-0-0-9    numerical optimization of functions, integration of ordinary
+Engineering                         differential equations (ODE), Fast Fourier Transforms (FFT),
+
+[PAGE 3]
+Statistical parameter estimation, techniques for handling big
+data sets - potential and performance of parallel computing.
+Historical  introduction  to  astronomy,  Multi-wavelength
+Observations, Astrometry, Coordinate systems, Photometry,
+Radiation from  astronomical  sources,  Radiative  transfer,
+Fundamentals of
+Stellar spectra, Saha equation, HR diagram, Stellar Structure,
+SPA610A         Astronomy and        3-0-0-0-9
+Stellar nuclear reactions, Star formation and stellar evolution,
+Astrophysics
+Compact stars, Supernova explosions, Binary star systems,
+Milky Way galaxy, Introduction to galaxies, Large scale
+structure of the Universe.
+
+Fundamental  of  radio  observations,  radio  antennas  and
+receivers, antenna  arrays, Response of an  interferometer,
+SPA611A         Radio Astronomy       3-0-0-0-9    cross-correlations, visibility function, calibration techniques,
+imaging,   aperture   synthesis,   deconvolution,  CLEAN
+algorithm, practical implementation on VLBI, VLA.
+
+Coax  cable  characterization,  Filter  characterization using
+oscilloscope and spectrum analyzer, 2-slit experiment in radio,
+designing  and  making  a   filter,  Amplifier  and  mixer
+Radio Astronomy
+SPA612                                   0-0-9-0-9    characterization,  Design   of   Attenuator    /  Impedance
+Laboratory
+Transformer, Observe HI line, Beam Pattern measurements,
+Antenna Design, Correlation, Power Divider  / Combiner,
+Inter-ferometry to determine angular size of the Sun.
+This course will introduce students’ observational techniques
+and telescopes in all major wavebands along with detectors and
+calibration aspects  in astronomy. The Course  will cover
+Observational                        historically important instruments, optical and infra-red, radio,
+SPA615        Techniques &        3-0-0-0-9    X-ray,  multi-messenger  astronomy,  major  observational
+Telescopes                            facilities such as SKA, TMT, and LIGO, and description of
+various other observatories and planning aspects for securing
+observing time on international telescopes. There will be a few
+hands-on sessions using actual data and telescopes.
+
+Introduction to the Solar System, the 2-body problem, the
+restricted 3-body problem (R3BP), Applications of R3BP,
+Solar System                      Rotational and tidal effects, Applications to shapes of solar
+SPA620                               3-0-0-9
+Mechanics                     system and celestial bodies, Spin-orbit coupling, Perturbation
+methods  and  effects:  The  disturbing  function,  secular
+perturbations, resonance and chaos, Planetary rings.
+
+Introduction ,Shapes of planetary bodies: Effect of rotation and
+tides; Topography, Continuum mechanics: Stress and strain;
+Linear elasticity; Bending and buckling of plates; Plasticity,
+Heat transfer: Fourier’s law of conduction; Sources; Periodic
+heating and  cooling;  Stefan  problem; Thermal  stresses;
+Applications  , Plate  tectonics:  Introduction; External and
+Planetary surface                      internal sources; Flexures and folds; Fractures and faults;
+SPA621                               3-0-0-0-9
+processes                        Applications,  Volcanism: Melting; Magma; Mechanics of
+eruption;  Lava  flows  and  domes,  Impact   cratering:
+Morphology;  Cratering mechanics;  Ejecta;  Scaling  laws;
+Atmospheric effects; Applications to landscapes, dating and
+evolution,  Regolith  and  resurfacing  processes:  Growth;
+Heating;  Weathering;  Texturing;  Creeping;  Landsliding,
+Wind, water and ice on planetary surfaces.
+
+[PAGE 4]
+The course aims to introduce students to actual space data from
+space instruments in orbit. It will introduce the basic principles
+and techniques like; good or bad data and data selection, data
+analysis,  instrument background,  generating  light  curves,
+Power Density Spectrum (PDS), Energy spectrum and fitting
+Space data acquisition                  of data using various emission as well as absorption models.
+SPA625                                  1-0-2-0-9
+and analysis                      Student will use data of LAXPC instrument onboard Astrosat.
+Using this data, Students will drive physical properites of the
+black hole and Neutron star X-ray bianries like source energy
+spectrum  state:  soft or hard, spectrum timing  properites,
+thermonuclear  burst, Neutron  star  spin  frequency, High
+magnetic field of Neutron star, flux variation and others.
+Review of stellar evolution and Compact stars, brief overview
+of Gas dynamics, plasma Physics and shock waves, binary
+stars, mass transfer through Roche lobe overflow and stellar
+High Energy                                                    wind, formation and structure 2 of accretion disks, steady α-
+SPA660A      Astrophysics of Binary    3-0-0-0-9
+disks, emitted spectrum, different X-ray states in compact star
+star systems
+binaries, outbursts in X-ray binaries, detection of X-rays and
+gamma rays, space X-ray detectors, observations and study of
+X-ray binaries.
+Introduction to Stars and interstellar medium, Stellar spectra
+and  classification,  Hertzsprung-Russell  diagram,  Stellar
+structure  equations,  Rosseland  mean  opacity,  radiative
+Stars and Stellar
+SPA661                                  3-0-0-0-9    pressure, stellar nuclear reaction, formation of stars, evolution
+Evolution
+on the main sequence and beyond, the end stages of stellar
+evolution, formation of compact stars, white dwarfs, neutron
+stars, black holes, supernova explosions, Binary stars.
+Objectives: The course will introduce basic concepts of
+Positional  astronomy,  observational  techniques,   signal
+properties with a few examples of observations of celestial
+sources.
+
+Contents (preferably in the form of 5 to 10 broad titles):
+
+•  Positional astronomy: Night sky, celestial sphere, ancient
+astronomy,  motion  of  planets, moon  and  comets,
+constellation and  nakshtras,  sidereal  time,  calendars,
+precession, proper motion and  parallax,  eclipses and
+transits,  Astrometry,  distance  ladder,  application  of
+Introduction to                         Stellarium software (7 lectures)
+Celestial                       •  Measurements: Observations, brightness, intensity, flux,
+SPA613M                                3-0-0-0-5
+Observational                          luminosity, magnitude scale, Photometry, spectroscopy
+Techniques                         (Doppler shift, spectral resolution, FWHM, convolution),
+filters, Atmospheric  transmission windows on  Earth,
+atmospheric seeing and extinction, effect of ionosphere (6
+lectures)
+•  Signal properties: - Signal & noise, wave and shot noise,
+sampling, VCZ theorem, coherence, Hanbury brown  -
+Twiss effect, bunching of pli0tons (4 lectures)
+•  Celestial   objects   (observational):   Multi-wavelength
+observations of - solar system objects, exo-planets, stars
+(color-magnitude, HR  diagram),  Galaxies,  large-scale
+structures. (4 lectures)
+
+[PAGE 5]
+Short summary for including in the Courses of Study Booklet:
+This course includes Positional astronomy, introduction to
+night  sky,  motions  of  celestial  objects,  measurement
+techniques, signal properties of celestial sources and their
+observations.
+
+Recommended Books:
+Astrophysical Techniques: C. R. Kitchin- To Measure the Sky:
+An Introduction to Observational Astronomy: Frederick R
+Chromey.
+This course helps describe various astronomical observations,
+primarily within the Solar System, employing relatively simple
+mechanical models. An introduction to galactic dynamics will
+also be given. The distribution is given below in terms of 50
+minute lectures.
+• Introduction to the Solar System, stars and galaxies — 1
+lecture
+• The 1- and 2- body problems: Kepler's laws, Newton's law
+of gravitation, Equations of motion, Mean and eccentric
+anomalies,   Barycentric    orbits,    Orbital   elements,
+Applications, e.g. Hohmann transfer — 4 lectures
+• Introduction to galactic dynamics: Collisionless N-body
+system (Coulomb logarithm, relaxation time, dynamical
+crossing time), Examples of galactic potentials, Orbits of
+stars in axisymmetric and non-axisymmetric  potentials,
+Lindblad resonances — 4 lectures
+• The restricted 3- body problems: Equations of motion in a
+rotating  frame,  Tisserand   relation,  Jacobi   integral,
+Lagrangian  equilibrium  points,  Zero  velocity  curves,
+Perturbed orbits, Tadpole and Horseshoe orbits, Effect of
+drag, Applications to small moons — 6 lectures
+Introduction to                   • Rotational and tidal effects: Tidal bulge, Potential theory,SPA614M                                3-0-0-0-5
+Celestial Mechanics                     Tidal and rotational deformation, Shapes of solar system
+bodies, Roche zone, Tidal torques, Application to small
+moons — 6 lectures
+
+Textbooks and references:
+•  Bertotti, B. , P. Farinella and D. Vokrouhlicky 2003. Physics
+of  the Solar System: Dynamics and Evolution, Space
+Physics, and Spacetime Structure. Springer.
+• Binney, J. , and S. Tremaine 2008. Galactic Dynamics, 2nd
+ed. Princeton U. Press.
+• Danby, J. M. A. 1964. Fundamental of Celestial Mechanics.
+New York: Macmillan.
+• Diacu, F.  , and P. Holmes 1996. Celestial Encounters.
+Princeton U. Press.
+• Fitzpatrick,  R.  2012.  An  Introduction  to  Celestial
+Mechanics. Cambridge U. Press
+• Gurzadyan, G. A. 1996. Space Dynamics. London: Taylor
+Francis.
+• Murray, C. D.  , and S. F. Dermott 1999. Solar System
+Dynamics. Cambridge Univ. Press.
+• Roy, A. E. 2005. Orbital Motion, 4th ed. CRC Press.
+Objectives: The course aims to provide hands-on experience
+Space Instrumentation
+SPA617M                                0-0-9-0-5   on instrumentation techniques related to astronomy, planetary
+Laboratory
+and space sciences and engineering.
+
+[PAGE 6]
+Contents (preferably in the form of 5 to 10 broad titles):
+Students will be required to complete at least 2 experiments
+from each stream as described here –
+•  Detector  characterization  in  X-ray/UV/optical/nearIR;
+experiments related to working of CCD, CMOS, PMT, X-
+ray detectors etc.
+•  Observing  fundamental  principles  -  Coherence, Van-
+CittertZernike   theorem,  Hanbury  Brown   intensity
+interferometer;  Double   slit  experiment,  Heisenberg
+uncertainty;    Michelson/Fabry-Perot    interferometer;
+Faraday effect; Young's modulus for different materials.
+•  Spectroscopy    and    polarimetry    techniques      -
+Characterization  of   filters,  polarizing  elements  and
+dispersing   elements;   Brewster   angle,   wave-plates-
+Spectrometer and polarimetry; spectral reflectance from
+surfaces, rocks and minerals  in  different. illumination
+conditions;  Spectra  of  various  gases and  flamesA'  -
+emission/absorption  experiment;  fibre  optics;  optical
+telescopes.
+•  Radio detection techniques - Amplifiers, mixers, filters,
+noise &  detection, phasing, antennas, RFI  mitigation,
+impedance matching, transmission lines.
+
+Short summary for including in the Courses of Study Booklet:
+Experiments modules will consist of experiments related to
+electromagnetic  wave  detection  and  analyses   in  X-
+ray/UV/optical/IR/radio   bands,   observing   fundamental
+principals (interference, diffracti011, coherence etc.), setting
+up spectroscopy and polarimetry experiments and carrying out
+related  measurements  applicable  in  field  of  astronomy,
+planetary and geological sciences.
+
+Recommended Books:
+Necessary reading material and instruction documents will be
+provided in the lab.
+Studying the universe is mostly done via understanding the
+electromagnetic radiation that each source emits. The nature of
+the spectrum indicates the underlying physical processes. This
+course  intends  to  teach  the  processes  that  generate
+electromagnetic radiation and relevance in natural sources.
+
+Content:
+
+• Ionization  processes  (3  L):  Basic quantum  mechanics
+Introduction to                      concepts (energy levels, wave-particle duality), Collisional
+SPA618M       radiative processes in     3-0-0-0-5                                                              ionization,  photo-ionization,  recombination,   ionization
+space                                                          equilibrium, HII regions (Stromgren sphere), Saha ionization
+• Emission and absorption of thermal plasma (5 L): Bound-
+Bound  transitions,  Spontaneous/  stimulated  transitions,
+Einstein's coefficient, emission/absorption lines, emissivity
+and  absorption  coefficient,  doppler/Lorentz  broadening,
+Free-Free emission, Thompson  scattering, example of a
+spectrum and its features
+• Heating and Cooling (2L): Physical conditions in different
+astrophysical systems (interstellar, intergalactic mediums),
+
+[PAGE 7]
+Photo-heating, cooling curve, thermal equilibrium, thermal
+instability, multiphase gas (interstellar medium)
+• Radiative  Transfer  (6  L):  Radiative  transfer  equation,
+thermal  radiation  (Kirchhoff's law, blackbody  radiation,
+Rayleigh-Jeans law), brightness temperature, Scattering and
+diffusion, radiation as a fluid (Eddington approximation),
+gray atmosphere, green house effect
+• Non-Thermal  Radiation  (4  L):  Synchrotron  Radiation,
+beaming  effect, polarization, Compton/ inverse-Compton
+Scattering
+
+Short summary for including in the course study booklet:
+Ionization  states  of  a  plasma,  enussion and  absorption
+processes, heating and cooling, radiative transfer.
+
+Books and references:
+• Physics ofthe Interstellar and Intergalactic Medium: Bruce
+Draine
+• Radiative Processes in Astrophysics: Rybicki & Lightman
+
+Objectives: The  course  aims  to  introduce  students  to
+numerical techniques used in Space Science & Astronomy.
+
+Contents (preferably in the form of 5 to 10 broad titles):
+• Vector Analysis (3 lectures)
+Vector differential calculus, gradient, divergence and curl,
+surface and volume integrals
+• Matrix Algebra (6 lectures)
+Introduction to matrices, diagonalization, solution of linear
+equations using matrices.
+• Coordinate Systems (5 lectures)
+Curvilinear   coordinates,   coordinate   transformation,
+applications to astronomy
+• Ordinary differential equations (6 lectures)
+Mathematical                            First and second order ODEs and their solutions. Separation
+Techniques in Space                     of variables method to solve PDEs and various types of
+SPA622M                                3-0-0-0-5
+Sciences &                      boundary conditions - initial value problem vs boundary
+Engineering                        value problem etc.
+
+Short summary for including in the Courses of Study Booklet:
+vecor  analysis,  vector  differential  calculus,  linear  vector
+spaces, matrices, tensors, coordinate systems, Astronomical
+coordinate  system  transformation,  ordinary   differential
+equations, examples from Astronomy
+
+Recommended Books:
+• Mathematical Methods in Classical and Quantum Physics,
+T. Dass S. K. Sharma
+• Mathematical Methods for Physicists, G. B. Arfken, H. J.
+Weber      and F. E. Harris, Elsevier, seventh edition.
+• Advanced Engineering Mathematics, E. Kreyszig, John
+Wiley & Sons, tenth edition.
+Space, Planetary and Astronomical Sciences and Engineering.
+Numerical Techniques
+SPA623M        in Space Sciences &     2-0-1-0-5
+Contents (preferably in the form of 5 to 10 broad titles):
+Engineering                                                  • Numerical Integration (2 lectures, 2 labs)
+
+[PAGE 8]
+Newton-Cotes formulae  including  trapezoidal  rule and
+Simpson's  rule, Gaussian  quadrature, convergence and
+scaling of error, Monte Carlo Integration
+• Numerical Root finding (1 lecture, 1 lab)
+Bisection method, Newton Raphson method for single and
+multidimensional systems.
+• Integration of Ordinary Differential Equations (ODE) (3
+lectures, 3 labs)
+Initial Value Problem Forward and backward Euler method,
+RungeKutta Method, Stiff system of equations, implicit vs.
+explicit schemes, shooting method for the Boundary Value
+Problem.
+• Numerical Interpolation of functions (1  lecture, 1 lab)
+Linear and higher order interpolation with polynomials,
+Spline Interpolation
+
+Short summary for including in the Courses of Study Booklet:
+Numerical integration of functions, numerical root finding,
+Solving   Ordinary    differential   Equations,   Numerical
+Interpolation
+
+Recommended Books:
+• Numerical  Recipes: The  Art  of  Scientific  Cornputing
+Authors: Vertterling, Flannery, Press and Teukolsky.
+• Fundamentals of Numerical Computation Authors: Driscoll
+and Braun
+Objectives: This course aims to provide the students the
+exposure  to  understand  different  aspects  of  the  space
+Space Environments                  environment, including space weather, space climate, space
+SPA626                                  3-0-0-0[9]
+and Space Systems                    debris and how these impact on spacecraft design, terrestrial
+infrastructure systems and will enable students to explore
+particular topics at a deeper level
+Objective: Fluid mechanics is used to describe the flows in a
+range of systems, starting from plane- tary atmosphere and the
+Introduction to fluid                     interior of stars to the flow of matter in the largest scale of the
+SPA627M                                3-0-0-0[5]
+mechanics in space                    universe. This course intends to teach basics of the fluid
+mechanics and its applications to different astrophysical/geo-
+physical systems.
+Planetary surface properties and Radiation Interactions [5
+lectures]
+The  character  of  planetary  surfaces,  differentiated  and
+undifferentiated planetary bodies, solar system processes and
+interactions. Planetary regolith, megaregolith
+
+Optical Image interpretation of planetary surfaces [3
+Introduction to                                                       lectures]
+Planetary Remote
+SPA628M        Sensing from Space     2-0-3-0[5]                                                Elements of image interpretation, concept of spatial
+Missions
+resolution, viewing geometry, Application in
+identifying active surface processes (viz. wind,
+water, ice)
+
+UV-Vis-NIR Multi-Spectral and Hyperspectral
+Remote Sensing of planetary surfaces [5 lectures]
+
+[PAGE 9]
+Spectrometer basics, Concept of Radiance, Reflectance,
+spectral resolution, basic spectral classification
+techniques (spectral parameters), and representation of
+spectral data (RGB composites), Application in mineral
+and elemental mapping
+Topographic Data Analysis [4 lectures]
+Laser ranging  basics, Image-based Topographic  analysis,
+Topographic data and products (topographic profile, digital
+elevation model), 2D interpolation techniques
+Radar Remote Sensing [3 lectures]
+Radar  remote  sensing  basics,  Dielectric  properties  of
+materials,   Monostatic  and   Bistatic  modes,   Circular
+polarization ratio (CPR), Application to compositional and
+textural mapping
+Pre-requisites,  if any: Course on  introductory  geology,
+remote sensing or with the permission of the instructor
+Short summary for including in the Courses of Study
+Booklet:
+This course would provide an overview of various types of
+remote sensing of planetary bodies carried out by space
+missions through time using various techniques. The student
+will be introduced to the analysis of remote sensing datasets
+from missions.
+1. Planetary surface properties and Radiation Interactions
+[5 lectures]
+The  character  of  planetary  surfaces,  differentiated  and
+undifferentiated planetary bodies, solar system processes and
+interactions. Planetary regolith, megaregolith
+
+2. Optical Image interpretation of planetary surfaces
+[3 lectures]
+Elements  of  image  interpretation,  concept  of  spatial
+resolution, viewing geometry, Application in identifying active
+surface processes (viz. wind, water, ice
+3. UV-Vis-NIR Multi-Spectral and Hyperspectral Remote
+Sensing of planetary surfaces [5 lectures]
+Spectrometer  basics,  Concept  of  Radiance,  Reflectance,
+spectral resolution, basic spectral classification techniques
+Introduction to
+(spectral parameters), and representation of spectral data
+SPA629M         Planetary Remote                                            2-0-3-0[5]   (RGB composites), Application  in mineral and elemental
+Sensing from Space
+mapping
+Missions
+4. Topographic Data Analysis [4 lectures]
+Laser ranging  basics, Image-based Topographic  analysis,
+Topographic data and products (topographic profile, digital
+elevation model), 2D interpolation techniques
+5. Radar Remote Sensing [3 lectures]
+Radar  remote  sensing  basics,  Dielectric  properties  of
+materials,  Monostatic  and   Bistatic  modes,   Circular
+polarization ratio (CPR), Application to compositional and
+textural mapping.
+Pre-requisites,  if any: Course on  introductory  geology,
+remote sensing or with the permission of the instructor
+(A) Short summary for including in the Courses of Study
+Booklet:
+This course would provide an overview of various types of
+remote sensing of planetary bodies carried out by space
+
+[PAGE 10]
+missions through time using various techniques. The student
+will be introduced to the analysis of remote sensing datasets
+from missions.

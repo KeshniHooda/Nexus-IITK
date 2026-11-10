@@ -1,0 +1,270 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+
+Proposal for a New Course
+
+1.  Course No: ME7XXX
+
+2.  Course Title: Engine Design
+
+3. Per Week Lectures: 2(L) of 90 minutes duration, Tutorial: 0 (T), Laboratory: 0
+(P), Additional Hours [0-2]: 0(A) Credits (2 x L+0 x T+P + A): 2-0-0-9, or 9
+credits
+
+4. Course Duration: Full semester
+
+5.  Grading Policy:
+
+Attendance:            10%
+
+Mid Semester Examination: 30%
+
+End Semester Examination:  45%
+
+Assignment (Three):      15%
+
+•  Grading  will be  relative.  However,  a minimum  of  absolute
+performance would be necessary for a passing grade. Attendance will
+be used for deciding the borderline cases.
+
+•  Students failing to maintain less than 75% attendance will be
+deregistered from the course.
+
+6. Proposing Department/IDP: Mechanical Engineering, Other Dept may be
+interested in proposing this course: Mechanical Engineering, Aerospace,
+Manufacturing Engineering
+
+7.  Other Faculty members interested in teaching this course: Not applicable
+
+8. Proposing  Instructors:  Prof.  Avinash  Kumar  Agarwal  and   P.  A.
+Lakshminarayanan
+
+9.  Course Description and details:
+A. Course Objectives
+
+The following design and its aspect are dealt in detail: Air flow design and its management –
+
+P a g e 4 14
+
+[PAGE 2]
+Interaction of air flow and fuel considering mixing to enable least polluting combustion for high
+efficiency - Charging for enhancing power and emissions– Considering static and dynamic loading
+for design of critical parts like piston, connecting rod, crankshaft, flywheel, bearings, valves -Dealing
+with noise aspects by understanding physics of noise and vibration -  Cooling layout to run the
+metallic parts safely – Treatment of emissions in the exhaust including blowby for the latest standards.
+At the end of the course, the engineer can easily gel seamlessly with a design group in an industry
+and contribute to designing parts and solving problems.
+
+Expected learning outcomes for this course.
+
+By the end of the course, the students will be industry-ready to design/upgrade/solve problems related
+to diesel/gasoline/CNG engine by joining a group. It will also help him if he picks up  relevant
+software models to master engine design.
+B. Course Content
+Lesson  Topic                                                             Lectures
+of
+90 min.
+duration
+
+1.    Diesel and Gasoline Combustion, physics, chemistry and models  for        2
+combustion.
+
+2.    Matching Fuel Injection Equipment to a diesel engine                         3
+
+3.    Liner, Piston, Rings, Gaskets for taking the thermal and mechanical loads        4
+and sealing the pressures.
+
+4.    Ports – Streamlined and compact ports to produce necessary swirl in case of
+inlet port and high throughflow in case of inlet and exhaust ports –
+measurement and design for targeted swirl and flow coefficients
+
+5.    Cylinder Head – consideration of loads and cooling, accommodating ports,
+cooling passages, injectors/spark plugs
+
+6.    Crankcase, Bearing Cap – mother of engine build, discussion on the load        1
+bearing structure, testing for strength and bearing cap as a beam
+
+7.    Connecting Rod – whipping load, buckling load and tension of the eyes at        1
+the big and small ends – clamping the big end by critical fasteners.
+
+8.    Crankshaft – as a beam under bending load in fatigue, application of Lloyds        1
+method for checking factor of safety, torsional vibration and designing for
+
+P a g e 4 14
+
+[PAGE 3]
+torsional strength, Torsional vibration dampers to reduce torsional dynamic
+stress to safe levels
+
+9.     Critical Fasteners for clamping cylinder head, big end of connecting rods,        1
+bearing caps, selection and design for fatigue loading
+
+10.   Valve Train and Cam shape – sizing, design of valves, design of cams            1
+
+11.   Engine Bearings   - pressure to support the loads of connecting rods,        1
+crankshaft etc.
+
+12.   Coolants and Cooling – choice of coolants, cooling system design, rules for        1
+optimum temperature difference across engine and radiator
+
+13.  EGR Layout -high pressure EGR, EGR valve and control                      2
+
+14.  SCR Layout – Chemistry of SCR, Catalysts and calibration                    2
+
+15.  NVH related to Engines and Vehicles – noise sources, abatement, some        2
+standards
+
+16.   Matching a turbocharger to a diesel engine – paper and pencil calculations to        2
+to match the rotating machine with the reciprocating engine considering
+thermodynamics and mechanical limits
+
+17.   Breather and Blowby; Flywheel – design of blowby systems to strip the gases        1
+of oil and remove soot before letting them safely in the inlet
+
+18.   Front End Accessory Drive (FEAD) System – Design of belt drive for water        2
+pump, alternator and compressors
+
+19.  WLTP and Real Driving Emissions (RDE)* Discussion on the methods           2
+
+TOTAL       29
+
+•   optional
+Pre-requisites
+
+Prerequisites: Knowledge of  undergraduate-level IC  engines/ Energy conversion and basic
+thermodynamics, Design of Machine Elements
+C. Short Summary for including in the Courses of Study Booklet
+
+Flow design, Fuel injection Design, Engine management, Design of power train hardware, Emission
+
+P a g e 4 14
+
+[PAGE 4]
+treatment.
+D. Recommended Books/Textbooks
+
+1.  Der Aufbau der raschlaufenden Verbrennungskraftmaschine 1964, Springer
+Berlin Heidelberg (The Design of High-Speed Internal Combustion Engines for
+Motor Vehicles and ), H. Kremser, 1942
+
+2.  Hoag, Kevin, and Brian Dondlinger. Vehicular engine design. Springer, 2015.
+
+3.  Mettig, Hermann. Die Konstruktion schnellaufender Verbrennungsmotoren.
+Walter de Gruyter GmbH & Co KG, 2019.
+
+4.  Nestorides, E. J., ed. A handbook on torsional vibrations. Cambridge University
+Press, 1958.
+
+5.  Lakshminarayanan, P.  A., and Avinash Kumar Agarwal, eds. Design and
+development of heavy-duty diesel engines: a handbook. Springer Nature, 2019.
+
+6.  VDI 2230 Systematic Calculation of High Duty Bolted Joints 2009
+
+7.  Supercharging of Internal Combustion Engines Fundamentals, Calculations,
+Examples by K. Zinner, Springer
+
+Suggested readings
+
+1. SAE Papers by Wellworthy/Mahle/Nural/Goetze on Pistons, Rings and Pins
+
+2.  Online notes by Garrett/BorgWarner on Turbocharging
+
+3.  Das  Triebwerk  schnellaufender  Verbrennungskraftmaschinen  (The  Engine
+Mechanism of High-Speed Internal Combustion Engines), Hans Kremser, 1949
+
+4. Wärmeübergang in der Verbrennungskraftmaschine (Heat Transfer in the Internal
+Combustion Engine), W. PflaumK. Mollenhauer, 1977
+
+5.  Ortsfeste Dieselmotoren und Schiffsdieselmotoren (Stationary Diesel Engines and
+Marine Diesel Engines), Fritz Mayr, 1960
+
+6.  Gemischbildung und Verbrennung im Ottomotor (Mixture Formation and Combustion
+in the Spark-Ignition Engine), Kurt LöhnerHerbert Müller, 1967
+
+7.  Der Aufbau der raschlaufenden Verbrennungskraftmaschine (The Construction of the
+High-Speed Internal Combustion Engine), Andreas Scheiterlein, 1964
+
+P a g e 4 14
+
+[PAGE 5]
+8.  Lager und Schmierung (Bearings and Lubrication)., Kurt Milowiz, 1962
+
+9.  Die Gaserzeuger (Gas Producers), Kurt Schmidt, 1959
+
+10. Die Gasmaschine (The Gas Engine), Max Leiker, 1953
+
+11. Verschleiß, Betriebszahlen und Wirtschaftlichkeit von Verbrennungskraftmaschinen
+(Wear, Operating Data, and Economic Efficiency of Internal Combustion Engines), Carl
+Englisch, 1952
+
+12. Der Ladungswechsel der Verbrennungskraftmaschine, Dritter  Teil: Der Viertakt
+Ausnützung der Abgasenergie für den Ladungswechsel (The Gas Exchange Process in
+the Internal Combustion Engine, Part Three: The Four-Stroke Cycle—Utilization of
+Exhaust Gas Energy for Gas Exchange), Hans List, 1952
+
+13. Der Ladungswechsel der Verbrennungskraftmaschine, Zweiter Teil (The Gas Exchange
+Process in the Internal Combustion Engine, Part Two: The Two-Stroke Cycle), Der
+Zweitakt,Hans List, 1950
+
+14. Der Ladungswechsel der Verbrennungskraftmaschine, Erster Teil, Grundlagen Die
+rechnerische Behandlung der instationären Strömungsvorgänge am Motor (The Gas
+Exchange Process in the Internal Combustion Engine, Part One, Fundamentals: The
+Analytical Treatment of Unsteady Flow Processes in Engines), Hans ListGaston Reyl,
+1949
+
+15. Die Steuerung der Verbrennungskraftmaschinen (Engine Control Systems), Anton
+Pischinger, 1948
+
+16. Ortsfeste und Schiffsdieselmotoren (Stationary and Marine Diesel Engines), F. Mayr,
+1948
+
+17. Die Dynamik der Verbrennungskraftmaschine (The Dynamics of Internal Combustion
+Engines), Hans Schrön, 1947
+
+18. Die Dynamik der Verbrennungskraftmaschine (The Dynamics of Internal Combustion
+Engines, Hans Schrön), Hans Schron, 1942
+
+19. Das Triebwerk schnellaufender Verbrennungskraftmaschinen (The Crank Mechanism
+of High-Speed Internal Combustion Engines)., Adolf Schnürle,1939,
+
+20. Gemischbildung und  Verbrennung im  Dieselmotor  (Mixture  Formation and
+Combustion in the Diesel Engine), Anton PischingerOtto Cordier,1939
+
+P a g e 4 14
+
+[PAGE 6]
+21. Thermodynamik der Verbrennungskraftmaschine (Thermodynamics of the Internal
+Combustion Engine). Hans List,1939
+
+22. Gemischbildung bei Ottomotoren (Mixture Formation in Spark-Ignition Engines), Hans
+P. Lenz, 1990,
+
+23. Lagerung und Schmierung von Verbrennungsmotoren (Bearings and Lubrication of
+Internal Combustion Engines), Josef AffenzellerHeinz Gläser,1996,
+
+24. Kräfte, Momente und deren Ausgleich in der Verbrennungskraftmaschine (Forces,
+Moments, and Their Balancing in the Internal Combustion Engine), H. MaassH.
+Klier,1981,
+
+25. Gestaltung und Hauptabmessungen der Verbrennungskraftmaschine (Design and
+Main Dimensions of the Internal Combustion Engine), H. Maass,1979
+
+26. Schadstoffreduzierung und  Kraftstoffverbrauch von Pkw-Verbrennungsmotoren
+(Pollutant Reduction and Fuel Consumption of Passenger Car Internal Combustion
+Engines), Fred SchäferRichard van Basshuysen,1993,
+
+27. Theorie der Triebwerksschwingungen der Verbrennungskraftmaschine (Theory of
+Drivetrain Vibrations in the Internal Combustion Engine), K.E. HafnerH. Maass,1984
+
+E. Any Other Remarks: nil
+
+Date: 14-Mar-26    P. A. Lakshminarayanan
+Avinash Kumar Agarwal
+Date:           DUGC/DPGC Convernor
+
+The course is approved.
+
+Chairman SUGC/SPGC
+Date:
+
+P a g e 4 14

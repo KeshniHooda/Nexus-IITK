@@ -1,0 +1,289 @@
+[Page 1]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course
+1. Course Number: CHE6xx
+2. Course Title:
+ 
+Fundamentals of reservoir engineering
+3.
+ 
+ Per Week Lectures:
+ 
+3___(L), Tutorial:0____(T), Laboratory:0___(P), Additional Hours[0-2]:0__(A),
+Credits (3*L+0*T+P+A):9___
+ 
+Duration of Course: Full Semester
+4. Proposing Department: Chemical Engineering
+Other Departments/IDPs which may be interested in the proposed course: SEE, ES
+Other faculty members interested in teaching the proposed course:
+ 
+Indranil Saha Dalal
+5. Proposing Instructor(s): Himanshu Sharma, Raj Deo Tewari
+6. Course description:
+A)
+ 
+ Objectives:
+ 
+Reservoir engineering
+ 
+involves understanding
+ 
+fluid flow in the subsurface porous media
+and optimizing the production of oil and gas from the subsurface.
+ 
+The same set of principles are also
+useful
+ 
+in
+ 
+gas storage applications including CO2
+ 
+sequestration, hydrogen storage, etc.
+ 
+The objective of
+this 
+ 
+course 
+ 
+is 
+ 
+to 
+ 
+provide
+ 
+a
+ 
+fundamental 
+ 
+understanding 
+ 
+of 
+ 
+fluid 
+ 
+flow 
+ 
+in 
+ 
+porous 
+ 
+media 
+ 
+and 
+ 
+reservoir
+engineering.
+B) Contents (preferably in the form of 5 to 10 broad titles): 
+ 
+S. 
+No. 
+Broad Title 
+Topics 
+No. of 
+Lectures 
+1. 
+Introduction 
+to reservoir 
+engineering 
+• 
+What is reservoir engineering? 
+• 
+Reservoir engineering data and deliverables 
+• 
+Role of reservoir engineers 
+• 
+Basic reservoir engineering principles 
+• 
+Reservoir engineering in oil & gas Industry 
+2 
+2. 
+Reservoir 
+Rock and 
+Fluid 
+Properties 
+• 
+Porous media composition 
+• 
+Darcy’s law 
+• 
+Porosity/Permeability 
+• 
+Capillary pressure 
+• 
+Wettability 
+• 
+Relative permeability 
+• 
+Rock compressibility 
+• 
+Hydrocarbon fluid properties 
+• 
+Equation of state 
+3 
+3. 
+Reservoir 
+Pressure and 
+Temperature 
+• 
+Pressure gradients 
+• 
+Normal and abnormal pressures 
+• 
+High Pressure High Temperature reservoirs 
+• 
+Repeat formation testers (RFT) 
+• 
+Hydrocarbon contacts 
+2 
+4. 
+Reservoir 
+Energy and 
+Recovery 
+Efficiency 
+• 
+Solution gas drive 
+• 
+Gas cap drive 
+• 
+Water drive 
+• 
+Combination drive 
+3
+
+[Page 2]
+• 
+Compaction drive 
+• 
+Gravity drainage 
+ 
+5. 
+Material 
+balance and 
+Decline 
+curve 
+analysis 
+• 
+Concepts of material balance equations 
+• 
+Material balance for oil and gas reservoirs 
+• 
+Use of material balance for analysis of drive mechanisms 
+• 
+Decline curve analysis 
+✓ Exponential decline 
+✓ Harmonic decline 
+✓ Hyperbolic decline 
+✓ Linear decline 
+7 
+6. 
+Flow in 
+porous 
+media 
+• 
+Diffusivity equation in 3D 
+• 
+Solution to Laplace’s equation for line source sink 
+• 
+Radial diffusivity equation 
+• 
+Special forms for compressible fluids and real gases 
+• 
+Transient and unsteady state flow 
+• 
+Superposition in space 
+• 
+Multi-rate well tests 
+9 
+7. 
+Fluid 
+displacement 
+• 
+Recovery techniques 
+• 
+Two-phase flow in porous media 
+• 
+Mass balance, fractional flow curves 
+• 
+Buckley-Leverett theory 
+• 
+Sweep efficiency 
+• 
+Capillary end effects 
+• 
+Diffusion in porous media 
+• 
+Miscible flooding 
+• 
+Enhanced oil recovery 
+9 
+8. 
+Reservoir 
+simulations 
+• 
+What is reservoir simulation and why are simulators used 
+• 
+Types of simulation models and their applications 
+• 
+Black oil versus compositional models 
+• 
+Input data for reservoir simulation 
+• 
+How simulation models work 
+• 
+History matching and performance prediction 
+• 
+Common modelling difficulties and errors in computed results 
+• 
+Aquifer modelling 
+• 
+Reservoir simulation as a reservoir surveillance and 
+management tool 
+• 
+Uses and misuses of reservoir simulation 
+• 
+Considerations for grid design 
+• 
+Golden rules of reservoir simulation 
+• 
+Advances in Reservoir simulation 
+ 
+5 
+
+C) Pre-requisites: None 
+ 
+D) Short summary for including in the Course of Study Booklet: This fundamental course on reservoir 
+engineering covers important aspects of multiphase flow in porous media, and oil & gas recovery from 
+the subsurface. Analytical methods to estimate reservoir properties and oil displacement in porous 
+media along with simulation exercises on actual oil fields will be covered.
+
+[Page 3]
+7. Recommended books: 
+(a) Fundamentals of reservoir engineering, LP Dake, 1983, Elsevier 
+(b) Imperial College Lectures in Petroleum Engineering, Volume 2: Reservoir engineering, Martin J 
+Blunt, 2017, World Scientific Europe Ltd. 
+
+ 
+
+Dated: 21-11-2025 
+
+ 
+Proposer: 
+
+ 
+
+Dated: 
+
+DUGC/DPGC Convener: 
+
+ 
+ 
+This course is approved/not approved 
+
+ 
+Chairman, SUGC/SPGC 
+ 
+Dated: 
+
+ 
+24 11 2025

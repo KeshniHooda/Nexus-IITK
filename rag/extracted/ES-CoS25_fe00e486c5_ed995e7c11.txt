@@ -1,0 +1,1171 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+
+COURSES OF STUDY
+
+2025
+
+Indian Institute of Technology Kanpur
+KANPUR-208016
+
+[PAGE 2]
+EARTH SCIENCE
+
+Template for BS Program in Earth Sciences
+
+Semester 1     Semester 2    Semester 3        Semester 4    Semester 5     Semester 6     Semester 7       Semester 8
+SCHEME-1 (9)   ETH111 (3) **  SCHEME-2: EME    SCHEME-3:   SCHEME HSS-II  SCHEME HSS-II  SCHEME: HSS-II   ES402 (04):
+ELC111/ELC112/                (09-11)/ES208(9)^   HSS-I (11)      (09)              (09)              (09)
+ELC113 *
+
+MTH 111 (6)   MTH 113 (6)   ESO201 (11):       ESC201 (14)   ESO204 (11):    ES304 (09):     ES401 (09):       DE-3 (09)
+
+MTH 112 (6)   MTH 114 (6)   ESO213 (09):       ES204 (09):    ES301 (06):     ES305 (06):     DE-1 (09) / ES497: DE-4 (09)
+UGP-II (09)
+
+PHY 115 (11)   PHY 112 (11)   ES201 (11):        ES205 (09):    ES302 (09):     ES306 (06):     DE-2 (09)         DE-5 (09) /
+ES498: UGP-III
+(09)
+
+PHY 111 (3)    CHM 111 (3)   ES202 (09):        ES206 (11):    ES303 (09):      ES496: UGP-I (0) OE-4 (09)        OE-5 (09)
+
+(Extra credits)
+
+TA 111 (9)      ESC 111 (7)    ES203 (06):        ES207 (04):   OE - 1 (09)      OE-2 (09)                       OE-6 (09)
+
+CHM 112 (4)    ESC 112 (7) §§                                               OE-3 (09)
+
+CHM 113 (4)     LIF111 (6)
+
+PE111 (3)      PE112 (3)
+55          52          55-57         56-58        53          48           45           49
+Note: OEs and DEs can be swapped across semesters based on the availability of the desired courses,
+provided the total credits for the DEs and OEs remain the same as in the template.
+^ES208(9) is compulsory EME course from Y24 and onward batch students only.
+
+Credit table for BS program in Earth Sciences
+Course type               Allowable Credit range Credit in the department template
+Institute Core (IC)        112               112
+E/SO                    18-45              31
+Department            144-179             162 (117 DC + 45 DE)
+Open electives (OE)       51-57              54
+SCHEME                 54-58               54-58
+Total for 4-year BT/BS      391-420            413-417
+
+[PAGE 3]
+Template for BSH program in Earth Sciences
+
+Template for 3rd to 8th semester BSH program in Earth Sciences
+Semester 3    Semester 4    Semester 5    Semester 6    Semester 7    Semester 8
+SCHEME-2:      SCHEME-3:     SCHEME HSS-   SCHEME HSS-    SCHEME: HSS-   ES402 (04):
+EME (09-11) /    HSS-I (9-11)          II (09)                    II (09)                    II (09)            Field Geology -
+ES2028(9)^                                                                                                                          III
+ESO201 (11):   ESC201 (14)    ESO204 (11):   ES304 (09):    ES401 (09):     DE-3 (09)
+Thermodynami                 Fluid Mechanics Fundamentals Exploration
+cs                                            of Remote     Geophysics
+Sensing and GIS
+ESO213 (09):   ES204 (09):    ES301 (06):    ES305 (06):     ES497: UGP-II    ES498: UGP-III
+Fundamental  Fundamentals Fundamentals Geochemistry  (09)            (09)
+of Earth       of Geophysics  of Stratigraphy              Compulsory    Compulsory
+Sciences
+ES201 (11):    ES205 (09):    ES302 (09):    ES306 (06):     DE-2 (09)      DEH-2 (9)
+Crystallography Sedimentology Ore Geology    Field Geology - II
+& Mineralogy
+ES202 (09):    ES206 (11):    ES303 (09):     ES496: UGP-I (0) OE-4 (09)      DEH-3 (9)
+Physical       Igneous &      Structural       (Extra credits)
+Hydrology     Metamorphic  Geology
+Petrology
+ES203 (06):    ES207 (04):    OE - 1 (09)      DE-1 (09)      DEH-1 (9)       OE-5 (09)
+Geomorpholog Field Geology - I
+y
+OE-2 (09)                     OE-6 (09)
+OE-3 (09)
+55-57         56-58        53           57           54           58
+–  CPI Criteria for BSH: ≥ 8.5
+–  Student should take 27 credits of DEH courses from the Honours Course Basket. Any
+ES course with course number ES6xx and/or ES7xx can be considered and included
+within the Honours Course Basket
+–  ^ES208(9) is compulsory EME course from Y24 and onward batch students only.
+– UG-2 and UGP-3 are mandatory UGPs for BSH
+
+[PAGE 4]
+Template for BSM program in Earth Sciences
+
+Template for 3rd to 8th semester BSM program in Earth Sciences
+Semester 3    Semester 4    Semester 5    Semester 6    Semester 7    Semester 8
+SCHEME-2:      SCHEME-3:     SCHEME HSS-   SCHEME HSS-    SCHEME: HSS-   ES402 (04):
+EME (09-        HSS-I (11)             II (09)                    II (09)                    II (09)            Field Geology -
+11)/ES208(9)^                                                                                                                      III
+ESO201 (11):   ESC201 (14)    ESO204 (11):   ES304 (09):    ES401 (09):     DE-2 (09)
+Thermodynami                 Fluid Mechanics Fundamentals Exploration
+cs                                            of Remote     Geophysics
+Sensing and GIS
+ESO213 (09):   ES204 (09):    ES301 (06):    ES305 (06):     DE-1 (09)      MTB-4 (09)
+Fundamental  Fundamentals Fundamentals Geochemistry
+of Earth       of Geophysics  of Stratigraphy
+Sciences
+ES201 (11):    ES205 (09):    ES302 (09):    ES306 (06):    MTB-2 (09)     MTB-5 (09)
+Crystallography Sedimentology Ore Geology    Field Geology - II
+& Mineralogy
+ES202 (09):    ES206 (11):    ES303 (09):    MTB-1 (9)      MTB-3 (09)     MTB-6 (09)
+Physical       Igneous &      Structural
+Hydrology     Metamorphic  Geology
+Petrology
+ES203 (06):    ES207 (04):    OE - 1 (09)     OE-2 (09)                     OE-3 (09)
+Geomorpholog Field Geology - I
+y
+
+55-57         56-58        53           48           45           49
+
+For BSM, 54 credits of courses should be completed from the management Track Basket (MTB)
+^ES208(9) is compulsory EME course from Y24 and onward batch students only.
+
+Template for five-year dual-degree program in Earth Sciences
+
+Template for 9th and 10th semester of dual-degree program in Earth
+Sciences (Category A)
+Semester 9                     Semester 10
+DEPG - 1 (09/11)             MS Project (36) (S/X)
+DEPG - 2 (09/11)
+DEPG - 3 (09)
+DEPG - 4 (09)
+DEPG - 5 (09)
+MS Project (09) (S/X)
+54-58                          36
+
+–  The Department of Earth Sciences will offer BS-MS (5-year Dual Degree Program)
+under Category A, only.
+
+The Department of Earth Sciences does not to offer dual-major or minors
+
+[PAGE 5]
+DEPARTMENT OF ES
+
+Courses                   Credits
+Course Title                                       Content
+ID                     L-T-P-D-[C]
+The universe and  its characteristics Solar System and Earth The
+primitive Earth Geological Time scale Origin of the  life and major
+geological events Numerical Dating. Rocks, minerals and soils; Plate
+Tectonics and  Mountain  building,  Deformation and Geodynamics
+Earthquakes;  Volcanoes.Earth, Ocean,  Land,  Rivers, Atmosphere,
+Biosphere, Cryosphere and Climate; Energy budget; Carbon Cycle;
+Fundamentals
+Hydrological Cycle; Weathering and erosion. coupled processoes in
+ESO213     Of Earth      3-0-0-0 [9]
+Earth  System;  climate  change,  Geological  resourses  (minerals,
+Sciences
+hydrocarbons and water); Sustainability and Anthropocene activities
+Course Reference: 1. D.R. Prothero and R.H. Dott, Jr. Evolution of the
+Earth. 2010 (8th Ed.), McGraw Hill, 576p; 2. E.J. Tarbuck, F.K. Lutgens
+and D.G. Tasa. Earth: An introduction to Physical Geology, 2013 (11th
+Ed.).  Prentice  Hall.  912  p;  3.  J.  Grotzinger  and  T.  Jordan,
+Understanding Earth, 2010 (6th Ed.). Freeman, 210p.
+Chemical and physical properties and  identification  of rock-forming
+minerals; crystallography, Unit cells, Symmetry, 32 Crystal Classes,
+Systems, Plane and Bravais Lattices, Axial Ratios, Parameters, Miller
+Indices,   Point  Groups,   Crystal  Form,  Zones,   Crystal   Habit,
+Stereographic   Projection   of   Crystal  Faces,  Polymorphs  and
+Pseudomorphs, Twinning; optical mineralogy, uniaxial, biaxial minerals;
+introductions to x-ray crystallography; crystal structures, chemistry, and
+origin and significance of the rock-forming minerals, Mineralogy of the
+DC -    Crystallography              Earth's crust, upper mantle, lower mantle, and its Core. Independent
+3-0-2-0-11
+ES201  And Mineralogy               project includes use of electron microprobe (EPMA) and x-ray facilities.
+Course Reference: 1. Nasse, W. 2011. Introduction to Mineralogy (2
+nd Ed.) Oxford University Press. 496 p; 2. Klein, C. & Dutrow, B. 2007.
+Manual of Mineral Science. Wiley. 716  p;  3. Putnis, A. 1992. An
+Introduction to Mineral Sciences Cambridge University Press. 480 p; 4.
+Sands,  Donald  (2012).  Introduction  to  crystallography  Courier
+Corporation; 5. Hammond, C. (2001). The basics of crystallography and
+diffractions, Oxford Science  Publications;  6.  Lovett, David  (1999)
+Tensor properties of crystals, CRC Press. 11-MAR-2016
+Hydrology is the scientific study of water underneath and on the Earth’s
+surface,  including  those  in  the  atmosphere.  Water  has  unique
+properties  that make   it  vital  to   life on  Earth and  its  physical
+environment. Alongside the core concepts of hydrometeorology and
+DC –       Physical                  physical hydrology, this course we will explore the components of the                             3-0-0-0-9
+ES202     Hydrology                 hydrologic  cycle,  including processes  of  precipitation,  evaporation,
+transpiration, groundwater flow, surface runoff and streamflow. In this
+course we will also learn about the basic methods of measuring and
+estimating the rates of hydrologic processes.
+
+Earth as a system;  Earth’s energy balance,  global heat  transfer;
+DC -                               Guiding  Principles  of  Earth’s  surface  processes:  Conservation,         Geomorphology   3-0-0-0-9
+ES203                                  transport rules, event size and frequency; rates of processes and ages
+of landscapes. Fundamental concepts of geomorphic system; Exogenic
+
+[PAGE 6]
+and endogenic processes; Weathering and soil system: physical and
+chemical weathering; formation of soils, soil erosion; Hydrological cycle
+and water budget. The Surface water system: Drainage basins and
+river systems; river morphology and hydrology; hydraulic geometry and
+governing  principles  of open  channel  flow;  river  processes and
+landforms, river dynamics. The Groundwater system: Groundwater in
+hydrological  cycle,  groundwater  flow  and  storage;  chemistry  of
+groundwater. The Atmospheric System: Atmospheric composition and
+mixing, atmospheric circulation, greenhouse effect. The Ocean and
+Coastal system: Coastal environment, waves,  tides and  currents;
+coastal processes and landforms. Cryosphere – growth and decay of
+ice sheets, controlling factors, Himalayan glaciers; Wind activity and
+geomorphic  work,  desertification  and  controlling  factors.  Global
+geomorphology and tectonics: Earth’s physiography and landscape
+evolution; Tectonic uplift and denudation – rates and controlling factors,
+Sea level change – evidence, mechanism and effects; coupled tectonic-
+surface process models.
+
+Global  geomorphology  and  tectonics:  Earth’s  physiography  and
+landscape evolution; Landforms and tectonics of plate margins and
+plate interiors; Tectonic uplifts and denudation – rates and controlling
+factors, Sea level change – evidence, mechanism and effects; coupled
+tectonic-surface process models.
+Course   Reference:    1.   Summerfield,   S.A.   (1991)   Global
+Geomorphology, Longman;  2.  Ernst, W.G. (2002) Earth Systems:
+Processes and Issues, Cambridge University Press; 3. Richards, K.S.
+(1982) Rivers: forms and processes in alluvial channels, Metheun; 4.
+Kale, V. and Gupta, Introduction to Geomorphology, Orient Longman;
+5.  Merrits, D, Dewet,  A. and Menking,  K.  (1998)  Environmental
+Geology; An earth system science approach. W.H. Freeman. 11-MAR-
+2016
+Introduction to geophysics, Earth as a planet and member of the solar
+system, origin and evolution of the Earth, Internal structure of the Earth;
+Concept  of  plate  tectonics,  plate  motions  and  triple  junctions;
+Gravitation,  gravity  anomalies and  its  variations,  geoid,  isostasy,
+rheology; Geomagnetic field, its origin and variations, paleomagnetism,
+and geomagnetic reversals; Introduction to seismology, seismic waves
+P, S and surface waves, seismograph, travel time curves and radial
+Earth  structures, general  properties  of surface waves and normal
+modes, earthquake source theory, intensity and magnitude scales of
+DC -    Fundamentals
+3-0-0-0-9  earthquakes, PREM model, elastic rebound theory, global seismecity
+ES204   Of Geophysics
+and tectonics, focal mechanisms, seismic anistropy; Heat within the
+Earth, thermal structure of continental and oceanic lithospheres at
+subduction zones and spreading centres, mantle convection.
+Course Reference:   1. Lowrie, W; Fundamentals  of Geophysics,
+Cambridge University Press; 2. Fowler, C.M.R., 2004, The Solid Earth:
+An Introduction to Global Geophysics; Cambridge University Press; 3.
+Robert  J.  Lillie,  1999; Whole  Earth Geophysics: An  Introductory
+Textbook for Geologists and Geophysicists, Prentice Hall. 11-MAR-
+2016.
+Basinal Sedimentary Systems: Sedimentary basisn and production of
+DC -                                sediments; Transport of sediment grains; depositional processes and
+Sedimentology   3-0-0-0-9
+ES205                                forms; Post depositional changes lithification and diagenesis. Sediment
+grain, Bedforms and Sedimentary Structures: Mechanics of sediment
+
+[PAGE 7]
+transport and transport laws; Grain size parameters and distribution,
+grain shape and form; primary grain  fabric; Bedforms & inorganic
+primary sedimentary structures. Sedimentary Facies analysis: Concept
+of sedimentary facies; facies relationships; controlling factors; facies
+association and models; Fluvial environments and facies; Lacustrine
+facies, Deltaic environments and facies models. Clay Sedimentology:
+Origin of clay minerals, clay minerals in fluvial, aeolian and lacustrine
+environments, paleoenvironmental interpretations. Techniques in elastic
+sedimentology:  Grain  size  determination;  Xray  diffraction; Heavy
+mineral analysis; cathodoluminescence microscopy.
+Course Reference:  1. Allen P.A. and Allen  J.R., Basin Analysis:
+Principles  and  Application,  Blackwell  publishing;  2.  Leeder  M.,
+Sedimentology and Sedimentary Basin: from Turbulence to Tectonics;
+Wiley Blackwell;  3. Selley R.C., Applied Sedimentology; Academic
+Press; 4. Reading H.G., 2009, Sedimentary Environments: processes,
+facies and stratigraphy, Blackwell. 11-MAR-2016
+Classification, Nomenclature of Igneous Rocks, Igneous textures and
+petrogenetic  interpretations;  Thermodynamic  evaluation  of  phase
+diagrams; Phase Rule and One Component System; Phase Diagrams
+for Binary Systems (Solid solution, Eutectic, and Peritectic systems),
+Ternary eutectic and  peritectic systems; Bowen’s Reaction Series,
+Effect  of  pressure,  temperature  &   fluids  on  Melting,  Olivine
+Geothermometer; Chemical Petrology: compositional variations,
+analyses and NORMS, Interpretations of Variation Diagrams; graphical
+Igneous &              and mathematical models of magma evolution; Fractionation of trace
+DC -
+Metamorphic   3-0-2-0-11 elements during melting and crystallization; Rare Earth Element (REE)
+ES206
+Petrology                 patterns and modeling source magma composition; Generation and
+diversification  of magmas; MORB Volcanism; Mantle Plumes and
+Ocean  Island  Basalts;  Arc Magmas;  Origin and  composition  of
+Continental Crust; Types  of metamorphism, Contact and Regional
+Metamorphism;  Classification  of metamorphic  rocks;  metamorphic
+textures; Metamorphic mineral assemblages and  chemographic  (ACF,
+AKF,  and  AFM)  diagrams;  Metamorphic  Facies;  Metamorphic
+Reactions; Thermodynamics of Metamorphic Reactions; Radiometric
+Age Dating of Igneous & Metamorphic Rocks
+Observation and  identification,  interpretations and  descriptions  of
+igneous,  sedimentary and  metamorphic  rocks  and  their  mineral
+contents; Reading  topographic and  geological maps  in  the  field;
+Elementary geological field mapping of rock formations using geological
+DC -
+Field Geology-I   0-0-3-0-3  compass.
+ES207
+Course Reference: 1. Robert R. Compton, Geology in the Field. July,
+1985; 2. Angela L. Coe, Geological Filed Techniques. October 25,
+2010; 3. Richard  J.  Lisle, Peter Brabham, John W. Barnes, Basic
+Geological Mapping, 5th Edition August 2011. 11-MAR-2016
+Earth’s history in rock record, geological time scale; Basic concepts in
+stratigraphy  and   stratigraphic   principles;  Gaps  and  hiatus   in
+stratigraphic record  - conformable and unconformable sequences;
+Architecture of sedimentary basins:  rift basins, foreland basins, fore-
+DC -    Fundamentals               arc/back-arc    basins,    strike    slip    basins;    Lithostratigraphy,
+2-0-0-0-6
+ES301   Of Stratigraphy               cyclostratigraphy, chronostratigraphy, event stratigraphy; Stratigraphic
+correlation:   concepts  and   applications;   Depositional   models,
+accommodation space; External Controls on stratigraphic development:
+Climate, Tectonics and Sea Level; Subsidence and thermal history;
+Concepts in seismic and sequence stratigraphy; Magnetostratigraphy,
+
+[PAGE 8]
+Application  of  paleomagnetism  to  the  solution  of  problems  in
+stratigraphic correlation and to the construction of a high-precision
+geological timescale; Application to petroleum play assessment: the
+petroleum system and play concept, reservoirs, traps and regional top
+seal; application of stratigraphy in hydrogeology – aquifer stratigraphy
+and modeling; Stratigraphy of India.
+Introduction: Terms and scope of ore deposit geology, Plate tectonics
+and Ore forming processes, Classification of ore deposits, Ore deposits
+and environments;  Metallic ore  deposits: Orthomagmatic  deposits,
+Pegmatitic deposits, Hydrothermal deposits, VMS SedEx and MVT ore
+deposits, Supergene and  residual  ore  deposits, Sedimentary  ore
+formations,  Metamorphic  and  metamorphosed  ore  deposits,  Ore
+remobilization; Non-metallic ore deposits: Various non-metallic minerals
+DC -
+Ore Geology    3-0-0-0-9  and rocks, Salt deposits; Hydrocarbon resources: Coal types, chemical
+ES302
+composition and formation,  Coalification process, Post depositional
+changes,  Petroleum and  natural  gas,  Oil  shale-  Formation and
+Exploration; Methods  in mineral exploration: Geological exploration,
+Remote sensing, Geological mapping, Delineation of ores, geochemical
+and geophysical  exploration, Ore  textures and paragenesis,  Fluid
+inclusions. Laboratory classes on understanding and identifications of
+ore-minerals/rocks using transmission and reflection microscopy.
+Concepts of deformation and structures in Earth and planetary systems;
+Concepts of Continuum, Solid, Fluid, Tensor, Force, Stress and Strain;
+Basics of rheology and deformation mechanisms; Structures associated
+with extensional, compressional, sliding tectonics and erosion; Fold
+morphology, kinematics and mechanism; Normal, reverse, oblique and
+strikeslip faults; Fold and thrust belts; Measurement and presentation of
+1, 2 and 3D  structural elements;  Ductile shear zones; Polyphase
+(superposed) deformation and overpriting relationships; Application of
+Structural Geology.
+DC -        Structural               Lab-work:  Measurement   of   structural   features;  Stereographic
+2-0-3-0-9
+ES303      Geology                  projection  and  interpretation;  Construction  and  interpretation  of
+structural map, profile and balanced cross section; measurement of
+finite  strain;  studying  structures under  optical microscope.Course
+Reference: 1. Ramsay, J.G., & Huber, M.I., 1983. The Techniques of
+Modern Structure Geology: V.1: Strain analysis. NY, Academic Press,
+307 p; 2. Ramsay, J.G., and Huber, M.I., 1987. The Techniques of
+Modern Structural Geology, V.2: Folds and Fractures, NY, Academic
+Press, 392 p; 3. Ramsay, J.G., and Lisle, R.J., The Techniques of
+Modern Structural Geology, V.3: Applications of Continuum Mechanics
+in Structural Geology. Academic Press, 361 p. 11-MAR-2016.
+Remote sensing has become an integral part of Earth observation
+systems and contributes significantly towards the enhancement of the
+understanding of Earth system processes. Since  its integration with
+Geographic Information Systems (GIS), remote sensing has evolved
+from an observation platform to a  crucial decision-making support
+Fundamentals
+system. Course contents  will cover the principles, components and
+DC -      Of Remote
+3-0-0-0-9  techniques of remote sensing and GIS.
+ES304    Sensing And
+Course Reference: 1. Gupta, R.P. (1991), Remote Sensing Geology,
+Gis
+Springer verlag; 2. Lio, J.G. an Mason, P. (2009). Essential image
+processing and GIS for remote sensing. Wiley Blackwell; 3. Lillesand,
+T.M. & Kiefer, R.W. (1994), Remote sensing and image interpretation,
+John Wiley & Sons; 4. Langley, P.A., Goodchild, M.F., Maguire, D.J. &
+Rhind. D.W. (1999), Geographical Information Systems, Vol. 1 & 2,
+
+[PAGE 9]
+John Wiley & Sons; 5. Carbonneau, P. and Piegay, H. (2012). Fluvial
+remote sensing for science and management. Wiley Blackwell. 11-
+MAR-2016
+
+Fundamental chemical  principles, Elements, Atoms, and Chemical
+Bonds, electronic structure, chemical bonding, and chemical properties
+of elements. Fundamental Thermodynamic Concepts: Fundamental
+Thermodynamic Variables, Equations of State, Temperature, Absolute
+Zero, and The Zeroth Law Of Thermodynamics, Energy and The First
+Law of Thermodynamics, exact differentials and state functions, The
+Second Law  and  Entropy,  Statistical  Mechanics: A  Microscopic
+Perspective of Entropy, Enthaply and heat capacity, The Third Law and
+Absolute Entropy, Gibbs Free Energy,  Criteria  for Equilibrium and
+Spontaneity, Temperature and Pressure Dependence of the Gibbs Free
+Energy, The Maxwell Relations, Solutions and Thermodynamics of
+Multicomponent Systems, Phase Equilibria, Raoult's law and Henry's
+DC -                             Law, Chemical  Potential, Thermodynamics and Phase  Diagrams.
+Geochemistry    2-0-0-0-6
+ES305                            Chemical kinetics and Diffusion rate Law, Ionic (Radii) Substitutions,
+Geochemical Classification of Elements, Trace Elements in Igneous
+Processes, Modeling Trace Element partition during magma genesis,
+Primary  silicates and chemical weathering, Aqueous Geochemistry,
+Acids and Bases, Dissolution and  Precipitation Reactions, Mineral
+Stability Diagrams, Oxidation-Reduction Reactions, Eh-pH diagrams,
+brief introduction to radiogenic and stable isotope geochemistry.
+Course Reference: 1. Principles and applications for Geochemistry
+(1998).   Faure,   G.,   Prentice   Hall  ISBN  10:0023364505;   2.
+Geochemistry: Pathways and Processes  (2004). McSween,  H.Y.,
+Richardson,  S.M.,  Uhle,  M.,  Columbia  University  Press  ISBN
+10:0231124406; 3. Geochemistry (2013). White, W., Wiley Blackwell
+ISBN 10:047656686. 11-MAR-2016
+General overview  of geological structures  in the  field; Concept  of
+orientation and scale  in the  field;  Identification, measurement and
+presentation  of  different  structural  elements  (lineation,  cleavage,
+foliation, schistocity etc.) and their mutual relationships. Morphology
+and  elements   of   fold,   fractures,   faults,  shear  zones  and
+macrostructures; Strain analysis from deformed objects; Technique and
+ethics  of  geological  samples  collection;  Large  and  small  scale
+DC -
+Field Geology Ii   0-0-6-0-6   lithostructural mapping (on toposheet and white paper), crosssections,
+ES306
+and their interpretation for regional tectonics.
+Course Reference: 1. Davis, G.H., & Reynolds, S.J., 1996. Structural
+Geology of rocks and Regions (2nd Ed): NY, John Wiley & sons, 776 p;
+2. Lisle, R.J., 1995. Geological Structures & Maps, a Practical Guide.
+2nd Ed., Butterworth / Heinmann, Woburn, 104 p; 3. Bennison, G.M.,
+and K.A., Moseley, 1998. Geologic Structures & Maps; 6th edition.
+Arnold, London, 129 p. 11-MAR-2016
+
+Introduction  to  geophysical  methods   of  exploration  and   their
+applications, physical properties of rocks, minerals and ores, types and
+DC -      Exploration                scales of survey. Principles of gravity and magnetic methods, Working
+3-0-0-0-9
+ES401    Geophysics                  principle    of   gravimeters,   fluxgate   and   proton   precession
+magnetometers,  gravity  and  magnetic  surveys,  data  reduction,
+anomalies,   geological   interpretation  and  modeling   for  simple
+
+[PAGE 10]
+geometrical shapes. Fundamentals of electrical and electromagnetic
+methods of prospecting, origin of self potential and induced polarization,
+surveys,  instruments,  application  and  interpretation.  Theory  and
+geometry  of  seismic wave  propagation,  Reflection and  refraction
+methods, CMP technique, seismic sources and arrays, Data processing
+sequence,   velocity   analysis,  stacking  and   migration,  Seismic
+interpretation.  Introduction  to  well  logging,  formation  evaluation,
+principles  of  electrical,  nuclear,  density  and  sonic  logging  with
+applications.
+Introduction  to geophysical methods;  resistivity surveys –  Vertical
+Electrical Sounding (VES) and  resistivity  profiling; Shallow seismic
+surveys; GPR surveys and data interpretation; Well-logging and data
+interpretation; seismic data interpretation
+Course Reference:  1. Compton, R. (1985) Geology in the field, Wiley;
+DC -
+Field Geology Iii  0-0-4-0-4  2. Lahee, F.H. (2002). Field geology, CBS publishers; 3. John Milson
+ES402
+and Asger  Eriksen,  2011,  Field Geophysics  (4th  Edition):  Wiley
+Blackwell; 4. Reynolds, J.M. (2011), An Introduction to Applied and
+Environmental Geophysics, Second Edition: Wiley; 5. Everett, M.E.,
+2013, Near surface applied geophysics: Cambridge University Press.
+11-MAR-2016
+Classification   of  ore  deposits.  Orthomagmatic,  pegmatitic  and
+pneumatolitic deposits. Hydrothermal processes, deposit forms and
+classification.  Weathering,  supergene  enrichment  and   residual
+deposits. Sedimentary, metamorphic and metamorphosed ore deposits.
+DE -      Economic                Important  examples.  Geological mapping,  guides  for  ore  search,
+3-0-0-0-9
+ES450      Geology                  delineation  of  ores,   drilling,  core-sampling,  reserve  estimation.
+Introduction to underground and surface mining methods. Underground
+exploration and sampling of ore deposits. Methods of computation of
+developed ore  reserves.  Introduction  to  geostatistical ore reserve
+estimation. Mineral resources and their classification.
+Earth as a system. Fundamental concepts in environmental geology.
+Geological  cycles.  Soil  and  environment.  Natural  hazards  and
+environmental  degradation.  Surface and ground  water system &
+DE -     Environmental
+3-0-0-0-9  management. Water  pollution and  treatment. Waste management.
+ES451      Geology
+Atmospheric processes and related hazards. Geochemical cycles- C,
+N, & P. Earth’s energy balance, greenhouse effect, and global warming.
+Human role in environmental changes
+Study  of  rocks  for  their  mineralogical,  textural,  weathering and
+discontinuity aspects. Engineering properties of rocks, soils, clays, and
+3-0-0-0 [9]  construction   aggregates.   Maps   and   numerical    exercises.
+DE -      Engineering
+or 2-0-3-0  Instrumentation in engineering geology and hydrogeology. Geophysical
+ES452      Geology
+[9]     Surveys resistivity, gravity and magnetic methods. Runoff estimation,
+borehole  data  analysis,  groundwater  exploration, pump  test and
+estimation of aquifer hydraulics.
+Basics of optics, image formation and acquisition in optical microscope.
+Principles  of geological thin/polished section and  their preparation.
+Introduction  to one open source image  processing and  analysis
+Microstructures              software. Understanding and identification of grain, grain shape, grain
+DE -
+In Earth      2-0-3-0-9  boundaries,  cracks,  cleavages  etc.  Measuring  size,  volume and
+ES453
+Sciences                    distributions. Microscopic classification of cleavages. Microscopic shear
+sense    indicators   and    rotational    structures.    Characteristics
+microstructures  of  different  deformation  mechanisms  (cataclastic,
+intracrystalline and diffusion). Deformation and metamorphism at crystal
+
+[PAGE 11]
+scale. Strain analysis using deformed grains
+
+Origin  of  petroleum,  source  rock  and  maturation  of  kerogen,
+palaeothermometers; primary and secondary migration; reservoirs –
+porosity, permeability and capillary pressure, porosity types in clastic
+and carbonate reservoirs, reservoir heterogeneity, drive mechanisms;
+traps and seals –  classification  of traps; compositin  of petroleum,
+physical  and  chemical  properties  of   oil;  brief  idea  about  the
+DE -     Geology Of
+3-0-0-0-9  hydrocarbon resources of India, the classification and stratigraphy of
+ES454        Fuels
+petroliferous basins  of  India. Origin  of  coal,  classification  of  coal,
+morphology,  composition  of  peat,  lignite,  anthracite. Coal  series,
+terminology, structure and petrography of coals; physical and chemical
+properties of coal; coal reserve in India; brief idea about the world coal
+resources;  exploration  of  coal;  utilization  of  coal- combustion and
+gasification of coal; coal and environment.
+Hands-on  training  (project mode)  in  several  analytical techniques
+including sample preparation, measurement procedures, compilation
+and  processing   of  data,   interpret   results:  Atomic  Absorption
+Spectrometry,  Inductively  Coupled  Plasma:  Emission  and Mass
+Analytical
+DE -                                Spectrometry,  Interferences  in  Inductively  Coupled Plasma Mass
+Methods In     2-0-3-0-9
+ES455                               Spectrometry, Introduction to Electron Microprobe Analysis, scanning
+Earth Sciences
+electron  imaging  with  back-scattered  electron  (BSE),  secondary
+electron  (SE), X-ray using WDS or EDS (elemental mapping), and
+cathodoluminescence (CL), Stable isotope  ratio mass Spectrometry
+analyses.
+Present day tectonic and geological configuration of the India with and
+overview of timescale and evolution; Cratons of India (Dharwar, Bastar,
+Singbhum, Bundelkhand and Aravalli); Mobile Belts of India (Eastern
+Ghats, Pandyan, Satpura and Himalaya); Sedimentary Basins of India
+(Chhatisgarh, Cuddapah, Marwar, Pranhita-Godavari, Vindhyan and
+Gondwana);  Overall  palaeo-tectonics  of  India   (Rifting,   drifting,
+DE -     Geology Of               palaeomagnetic interpretation and the evolution of India’s continental                            2-0-0-0-6
+ES417         India                   margins).
+Course Reference: 1. Ramakrishnan, M. and Vaidyanadhan, R., 2008.
+Geology of India: Vol: I and II, Geological Society of India Publication;
+2. Wadia, D.N. 1919. Geology of India for students, McMillan and Co.,
+Ltd. 466 p; 3. Valdiya, K.S., 2015. The Making of India Geodynamics
+Evolution, 2nd Edition (Society of Earth Scientist Series), Springer, 942
+p. 11-MAR-2016
+
+ES599   MS Project            -    MS thesis
+
+Principles: Earth System processes, geomorphic systems, Threshold
+and   equilibrium;   scale   in  geomorphology,  key  concepts   in
+geomorphology, hydrologic cycle. Processes and Products: Exogenetic
+and endogenetic processes, climatic vs. geomorphic processes, soil
+and weathering system. The Surface water system: Drainage basins
+and  river systems,  river morphology and hydrology,  fluvial erosion,
+Earth System
+ES640                    3-0-0-0 [9]  transport   and   sedimentation,    fluvial   depositional   landforms,
+Processes
+geomorphometric concepts and drainage basin morphometry. The
+Groundwater system: Groundwater in hydrological cycle, water table,
+groundwater flow and storage; porosity and permeability,  aquifers,
+chemistry  of  groundwater. The Atmospheric System: Atmospheric
+composition and mixing, atmospheric circulation, greenhouse effect.
+The Ocean and Coastal system: Coastal environment, waves, tides and
+
+[PAGE 12]
+currents,   description  and   classification   of   coasts,   shoreline
+development,  coastal  erosion and  resulting  topographic  features,
+coastal deposition and landforms. Global geomorphology and tectonics:
+Earth’s  physiography  and  landscape  evolution;  Landforms  and
+tectonics of plate margins and plate  interiors; Tectonic  uplifts and
+denudation rates and controlling factors, Sea level change evidence,
+mechanism and effects; coupled tectonic surface process models.
+Course   Reference:    1.   Summerfield,   S.A.   (1991)   Global
+Geomorphology, Longman;  2.Ernst, W.G.  (2000)  Earth  Systems:
+Processes and Issues, Cambridge University Press; 3.Richards, K.S.
+(1982) Rivers forms and processes  in  alluvial channels, Metheun;
+4.Kale, V. and Gupta, A. (2001) Introduction to Geomorphology, Orient
+Longman; 5. Thronbury, W.D. (1969) Principles of geomorphology,
+John Wiley & Sons; 6.Williams, M.J. (1998) Quaternary Environments,
+Arnold Publishers; 7.Reading, H.G. (1996) Sedimentary Environments.
+Blackwell;  8.  Merrits,  D,  Dewet,  A.  and  Menking,  K.  (1998)
+Environmental Geology: An earth system science approach. W.H.
+Freeman.
+Earth-environment interaction; Fundamental concepts of environmental
+geology, Natural hazards, Environment of soil formation, erosion and
+soil  contamination,  Water  resources  &   contamination,  waste
+management, Energy resources & Environmental impact of resource
+exploration and use, Geological considerations of toxic and radioactive
+Environmental
+ES641                    3-0-0-0 [9]  waste disposal; Environment vs. development.
+Geology
+Textbook:
+Required: Introduction to Environmental Geology, 5th edition by Edward
+Keller (Prentice Hall), ISBN- 10: 0-321-72751-7
+Recommended:  Environmental  Geology:  7th   edition  by  Carla
+Montgomery (McGraw Hill), ISBN-0-07-304082-7
+Chemical differentiation of the Earth; Basic principles of atomic physics
+and Electronic structure of atoms; Chemical bonds, Ionic radii, lonic
+substitution  in  crystals;  Geochemical  classification  of  elements;
+Fundamental Thermodynamic concepts: First Law, Enthalpy, Heats of
+reactions, Heat capacity, Second law and Entropy, Gibbs free energy,
+Partition function, Fugacity and Activity; Kinetics: reaction mechanisms,
+ES642    Geochemistry   3-0-0-0 [9]
+reaction rates, enthalpy and activation energy, Transition state theory,
+Diffusion and  Fick's  law;  Trace Element  partition  during magma
+genesis;  Aqueous  geochemistry,  Solubility  and  mineral   stability
+diagrams; Oxidation-Reduction Reactions; Isotope geochronometers;
+Stable Isotopes and Theory of Isotope Fractionation; application of
+geochemistry to the solutions of geological problems.
+The course will primarily cover (1) the quantification of key geological
+processes controlling the chemical composition of water, precipitation
+and dissolution of certain minerals, and fluid–mineral interaction; (2)
+Chemical principles of weathering and its effects on water chemistry;
+(3) application of stable and radioisotopes to understand the source,
+Aqueous                pathways, and age of water; (4) contaminant geochemistry of some
+ES643                    3-0-0-0 [9]
+Geochemistry              elements.   Detailed   topics   to  be   discussed   are:   chemical
+thermodynamics and kinetics, aqueous complexation, acids and bases,
+redox geochemistry and Eh-pH-pE diagrams, carbonate geochemistry,
+chemical weathering, adsorption-desorption reactions, tracing of water
+cycle,  controls  on  water  chemistry,  groundwater  dating,  and
+contaminant geochemistry.
+
+[PAGE 13]
+Remote sensing platforms satellite-based and airborne sensors; Basic
+principles of image interpretation; Spectra of Earth’s surface material;
+Interpretation of regional geological and geomorphological features;
+Lithological  and  structural  mapping,  mapping  of  landforms  and
+interpretation; Basic principles of geographic Information System (GIS)
+and its application; Analytical Hierarchy Process (AHP) technique and
+its  integration  into  GIS.  River  erosion  studies;  Identification  of
+Remote
+groundwater potential zones; criteria for identification and integration of
+Sensing And
+controlling factors into GIS; Lake and wetland studies using remote
+Gis
+ES644                    2-0-3-0 [9]  sensing; Water quality mapping; water quality parameters, indices of
+For Geo-
+water quality monitoring; Vegetation Mapping and forestry applications;
+Resource
+Application in glaciology and snow hydrology; Coastal zone mapping
+Evaluation
+and other  related  applications; Natural hazards  floods,  landslides,
+earthquakes; causative  factors, choice of data and use  of remote
+sensing  technique  for mapping and  prediction;  Mineral resources
+evaluation  with  particular  reference  to   digital  remote  sensing;
+Application of thermal infrared data for mapping surface moisture and
+rock types and environmental studies.
+
+Integrated Multi-Disciplinary Approach in river science; River Science in
+Indian Context; Geomorphic Analysis of River Systems - Key Concepts
+in  River  Geomorphology,  Catchment  Scale  Controls  on  River
+Morphology,  Catchment   Hydrology,  Sediment  Movement  and
+Deposition in River System, Channel Geometry, Floodplain Forms and
+Processes, River Diversity and River Evolution, Human Impacts on
+River  Systems;  River  Ecosystem  Synthesis   -  Introduction   to
+hydrogeomorphic patches, functional process zones, hierarchical patch
+ES645    River Science   3-0-0-0 [9] dynamics and biocomplexity, river as a continuum, longitudinal, lateral,
+temporal, vertical dimensions; Hierarchical patch dynamics in riverine
+landscapes; the hydrogeomorphic character of a riverine ecosystem.;
+Ecological Implications of RES Biocomplexity Concepts; River Health
+and River Futures – Human impacts on river systems including climate
+change impacts; river hazards and their causes, Environmental Flow (e-
+flow) – definition, data requirement, different approaches for e-flow
+estimation; Integrated approach to river management, River health and
+river futures.
+History of petroleum and gas exploration in India; Carbon cycle, origin
+and preservation of organic matter-the source material of petroleum; Oil
+and gas bearing rocks,  reservoir rocks,  trap and seal rocks- the
+petroleum system key components; Petroleum generation, migration,
+and accumulation- the petroleum system processes; Composition of
+crude  oil and  oilfield water – upstream and downstream linkages;
+Multiple controls on petroleum biodegradation and impact on oil quality;
+Classification of oil and gas accumulations; Geochemical screening of
+Geology And
+source  rocks and petroleum  -  total  organic  carbon,  petrographic
+ES647    Geochemistry   3-0-0-0 [9]
+analysis of macerals,
+Of Petroleum
+vitrinite reflectance, elemental analysis of kerogen, rock eval pyrolysis,
+thermal  alteration index, organic biomarkers,  trace metals, carbon
+isotopes, and radiogenic isotopes; Application of geochemical tracers in
+petroleum exploration. Age of  oil deposits,  oil-oil correlation and oil-
+source correlation techniques, reservoir compartmentalization issues,
+identification  of  oil-bearing  horizons  and  reservoir  rocks  from
+geochemical logs, and reservoir filling history; Unconventional oil and
+gas resources. Oil shales, tar sands, and gas hydrates; Petroliferous
+
+[PAGE 14]
+basins of India. Case studies on specific oil producing Indian basins;
+Petroleum and environment; future of hydrocarbon resources.
+Near subsurface mapping using Ground Penetrating Radar (GPR) –
+mapping  of buried  structures, depth determination  of underground
+bodies and lithounits; Generation of Digital Elevation Models (DEM);
+Landform mapping using Total Station, Integrated TS-GPS system and
+by  Real  Time  Kinematic  (RTK)  survey;  Field  training  including
+Instrumentation              geological mapping; X-Ray  Diffraction – sample  preparation and
+ES648        In Earth      2-0-3-0 [9]  interpretation  of XRD  charts  for  qualitative and  semi-quantitative
+Sceinces                 analysis of crystalline materials; Principles and theory  of Scanning
+Electron Microscopy (SEM); Sample preparation, coating, imaging and
+analysis;  X-Ray  Fluorescence  –  sample  preparation  and  semi
+quantitative and quantitative chemical analysis of geological samples;
+sample-acid digestion and chemical analysis by Inductively Coupled
+Plasma Mass Spectrometry (ICP-MS).
+Nucleosynthetic processes and the isotopic abundances of elements,
+Decay mechanisms of radioactive atoms, Equations of Radioactive
+Decay and Radiogenic Growth, Geochronology using radioactive decay
+schemes  of Rb-Sr, Sm-Nd, U-Th-Pb, K-Ar, U-series disequilibrium
+Isotope               method of dating, 14C dating, Fission track Dating, Analytical methods
+Geochemistry                  in Thermal Ionization Mass Spectrometry, Isotope Geochemistry of the
+ES649                    3-0-0-0 [9]
+And                    Earth's Mantle and crust, Isotopic evidence regarding the formation of
+Applications               the  Earth, Stable Isotope Theory,  Kinetic and  equilibrium  isotope
+fractionation,  Analytical  methods  in  Stable  isotope  ratio  mass
+spectrometry, Specific applications of stable isotopes  in hydrology,
+climate and environment, archaeology and paleontology, Carbon cycle
+and climate.
+Introduction to importance of mathematics in Earth sciences, Basics of
+MATLAB; Vector analysis, Grad,  Div,  Curl,  application  of Gauss’s
+Theorem to potential methods and seismology; Matrix analysis, Matrix
+inversion  for  the  solution  of  simultaneous  equations;  Coordinate
+systems: Curvilinear coordinates, Cartesian, Cylindrical, and Spherical
+coordinates, Applications of coordinate systems to Plate motion, (non)
+seismic; Complex analysis  in geosciences; Tensor analysis and  its
+Mathematics
+application to (non) seismic and geodynamics; Ordinary and partial
+ES651      For Earth     3-0-0-0 [9]
+differential equations, separation of variable, numerical solution to Heat
+Sciences
+diffusion equation; different data types in Earth sciences, methods of
+data analysis: Univariate Statistics, Empirical distributions, theoretical
+distributions,  statistical  tests  (χ2, Kolmogorov-Smirnov and  Kuiper
+tests), Bivariate and multivariate Statistics, Correlation coefficient, linear
+regression analysis, bootstrap estimates, Data modeling, best fit, fitness
+evaluation; Multiple correlation coefficients; basics of geophysical signal
+processing.
+Introduction   to  applied  sedimentology,   Siliciclastic,  Carbonate,
+Phosphates, Iron-rich and Evaporite sediments and  their economic
+significance; Physical properties of sediments – density, porosity and
+permeability, field and laboratory methods of their determination (rock
+Sedimentology
+physics properties); Sedimentary Basins- Basin-forming mechanisms;
+ES653    And Basin     3-0-0-0 [9]
+Basins  due   to   lithospheric   stretching,  flexure  and   strike-slip;
+Analysis
+classification and evolution of sedimentary basins; Metallogeny, and
+Petroleum system in sedimentary basins; Major external controls on
+sedimentation;   Continental   sedimentary   environments;   Marine
+sedimentary environment; Basin fills and stratigraphy; Subsidence and
+
+[PAGE 15]
+Thermal history; Sediment to rock - the Subsurface Environment.
+
+Introduction and methods of quantitative Structural Geology; Force and
+stress  fields  in Earth; Displacement and  strain; Stress and Strain
+tensors; Mohr Circles; Geological analysis of field data (stereographic
+analysis and cross-section construction); Strain analysis from deformed
+Advanced                 rocks; Stress-Strain-Time relationship under different conditions; Failure
+ES654       Structural     3-0-0-0 [9] Mechanism; Deformation mechanisms and Rheology  of  cataclasis,
+Geology                    crystal-plasticity and dissuasive mass transfer; Role of fluids and Fluid
+flow;  Deformation  in  Brittle,  Ductile and  Brittle-Ductile  transition;
+Structural  anatomy  and  strength  profile  of  tectonic  boundaries;
+Applications.
+
+This course  will introduce the laws of physics in understanding the
+Earth Structures and geological processes associated with the Earth. It
+will  focus on  the  application  of  basic mathematics and  physical
+Solid Earth               concepts to better understand the structure and composition of the
+ES655                    3-1-0-0 [11]
+Geophysics                Earth's interior and interaction among crust, mantle, and core.  It will
+provide  qualitative  as  well  as  quantitative  knowledge  on  Earth
+structures and plate tectonics using Earth’s gravity-magnetic  fields,
+seismic reflection and refraction, seismology and thermal processes.
+Introduction to different geophysical methods; Concepts of gravity and
+magnetism,  working  principles  of  measuring  instruments,   field
+operations, micro-gravity survey, gravity and magnetic gradiometry,
+data  reductions,  regional-residual  separation,  direct  and  indirect
+interpretation and applications; Elementary theories of DC resistivity,
+resistivity surveying equipment's and different arrays, interpretation of
+electrical sounding and profiling data, IP measurements in time and
+frequency domains, applications of SP methods; EM induction theory,
+time and frequency domain EM, EM systems for ground, marine and
+Geophysical               airborne surveys, working principles of VLF, MT and GPR and their
+ES656                    2-0-3-0 [9]
+Methods                   applications; Theory of elasticity and wave propagation, concept of
+rays, ray paths in layered media, principles of marine and land seismic
+sources and  receivers,  land and marine  seismic data  acquisition
+techniques,  data  pre-processing   -   static   corrections,   multiple
+attenuation techniques, filtering and processing steps – NMO, velocity
+analysis, stacking, migration, interpretation of migrated sections, basics
+of
+Tomography and AVO; Principles of well logging, Archie’s law, different
+petro-physical   parameters,   different   logging   techniques  and
+interpretation of field log data.
+Introduction and historical development; Principles and terminologies;
+Sensors, transducers and  their  calibrations; Design  of deformation
+apparatus, safety features; Selection, preparation and dimension of
+samples;  Uniaxial,  biaxial,  triaxial and  torsion  test  set-up; Rock
+mechanics at room and high pressure-temperature; Rate dependent
+Experimental
+rheology; Role  of  porosity,  pore-fluid,  grain  size and mechanical
+Rock
+ES657                    2-0-3-0 [9]  anisotropy;   Collection  and  processing   of   experimental   data;
+Mechanics &
+Understanding stress-strain and related curves; Calculation of flow-
+Rock Physics
+laws,  effective-viscosity  and   frictional  properties;  Mechanics  of
+crystalline  and  porous  rocks;  Recovery  and  post-processing  of
+deformed  samples  for  further  physical  and  chemical  analysis;
+Measurement  of  electrical; thermal and hydraulic  (liquid and gas)
+conductivity of rocks; Techniques of ultrasonic pulse transmission (Vp-
+
+[PAGE 16]
+Vs) and acoustic emission; Applications and limitations.
+
+Natural Hazards and Disasters, Human Impact on Natural Disaster,
+Predicting Catastrophe (01), Mitigating Hazards; Plate Tectonics and
+related Hazards; Earthquakes and their causes, Ground Motion and
+Failures;  Tsunami:  Giant  Tsunamis,  Generation  and  movement,
+Tsunami Hazard Assessment; Volcanic Eruption and Hazard: Eruption-
+Type of Volcanoes and Tectonic environment; Landslide and other
+ES658   Natural Hazards  3-0-0-0 [9]
+downslope movements: Causes  of Landslides, Type  of downslope
+movement,  associated  hazard; Land  Subsidence and  associated
+hazard;  Floods  and Human  Interaction,  Flood  Frequency  and
+Recurrence  Interval; Human  intervention and  mitigation;  Storms:
+Tropical Cyclone,  Hurricane, Tornado, Storm damage and  safety;
+Wildfires: Fire Process and Secondary effects.
+Crustal deformation and earthquakes (02); significance of seismicity
+(01); Identification of Prehistoric Earthquakes based on Primary and
+Secondary signatures preserved in landforms and sediment succession
+(03); Interpretation and Identification of Active Fault and associated
+Tectonic  Landforms  Photogeologic  Mapping,  onfault  and  offfault
+landforms, indentification and mapping of active faults and associated
+landforms in field, structural analysis of active faults & its implication to
+regional scale tectonics (04); Field Techniques in Paleoseismology,
+quantification of active fault scarp by precise mapping, identification of
+old  (prehistoric)  earthquake  by  trenching,  mapping  of  deformed
+sedimentary succession by  faulting, estimation of net displacement
+during  single  event,  slip  rate, magnitude  of  historic  earthquake,
+recurrene interval, and prediction of future earthquake  if possible (05);
+Identification and mapping of secondary effects due to strong seismic
+Active Tectonics
+shaking  identification  of  paleoliquefaction  features  (02);  Dating
+And
+ES659                    3-0-0-0 [9]  techniques (01); Correlation of paleoseismic data with existing geodetic
+Paleoseismolog
+and  geophysical  data  (01);  Delineation  of  seismogenic   faults
+y
+(01).Paleotsunami  geology   Identification   of  Paleotsunami  and
+Megasubduction zone earthquakes signatures in the coastal region
+along subduction zones (05); Understanding landlevel change caused
+by major earthquakes (02); decoupling the role of climate and tectonics
+(01); Understanding the effect of nearfield and farfield earthquakes from
+stratigraphic records (01); effects of near field and farfield tsunami (01).
+Course  Reference:  1.  McCalpin,  J.P.,  (1996),  Paleoseismology,
+Academic Press, New York, p. 588; 2. Yeats, R.S., Sieh, K., Allen,
+C.R., (19997), Geology of Earthquakes, Oxford Univ. Press, 568; 3.
+Shiki, T., Tsuji, Y., Yamasaki, T., Minoura, K. Tsunamiites, Elsevier,
+Amsterdam;  4.  Burbank,  D. W.  and  Anderson,  R.S.  Tectonic
+Geomorphology,  Blakwell Sciences, 287;  5.  Bull, W.  B.  Tectonic
+Geomorphology of Mountains; A new Approach of Paleoseismology,
+Blackwell Sciences, 326.
+This course will fulfil the requirement of communicating more effectively
+Introduction To
+at work and achieving your goals. Improving communication skills and
+Profession &
+becoming aware of the future pathways are essential to developing the
+ES600   Communication  1-0-0-0 [3]
+most successful strategies and using them to advance career goals.
+Skills In Earth
+You'll also learn how to present your work (written and oral) and, most
+Sciences
+importantly, what to do and what not to do.
+Planetary                This  course  is aimed  at  developing  perspectives on  geological
+ES661     Remote      3-0-0-0 [9]  processes on planetary bodies (apart from the Earth) and how remote
+Sensing                sensing is used for deciphering planetary composition, structure and
+
+[PAGE 17]
+evolutionary  history. The course would explore  diverse  geological
+processes, some of which do not occur on the Earth (e.g. space
+weathering) and  others  that occur  in a very  different form  (e.g.
+convection in ice). The major objectives of this course are: i) Develop a
+sound understanding of the diverse geological processes on planetary
+bodies.  ii) Become well-versed with remote sensing applications  in
+planetary science.   iii)  Utilize  this knowledge to view Earth and  its
+geological processes with a fresh perspective and ask interesting new
+questions.
+The course would involve introductory lectures, research-paper-based
+discussions and in-class exploration of remote sensing data from recent
+missions   (e.g.  Chandrayaan-1,  ISRO;  Kaguya,  JAXA;  Lunar
+Reconnaissance  Orbiter; NASA, Cassini, NASA). The class would
+identify some special topics for detailed discussion. The course would
+also include a project component which would either be a  critical
+evaluation of a scientific problem (based on available literature) or data-
+Manalysis based project after consultation with the instructor.
+Basics of petrology; Rock classifications; Structures and textures of
+rocks; Metamorphic Facies; Magmatism and metamorphism at various
+tectonic settings with associated rock-types and mineral assemblages.
+Electron microprobe, EPMA data processing, Ideal mixing  activity,
+Mineral formula and Endmember  calculations. Metamorphic  stable
+mineral assemblages;  Projections; Gibbs  free energy; Phase  rule,
+Metamorphic reactions; Mineral equilibrium; Influence of compositional
+variations.    Geothermobarometry;    Schreinemakers    method;
+Petrogenetic grid; Phase diagrams; P-T-t paths, Thermochronology.
+Metamafics  and  Metaultramafics:  Assemblages,  Facies   series;
+Advance
+Metamorphism  of  felsic  rocks;  Metapelites:  Barrovian  sequence;
+ES662    Metamorphic   3-0-0-0 [9]
+Metacarbonates  and   metacalcareous   rocks;   Fluid   inclusions;
+Peterology
+Metasomatism; Tectonic significance. High-pressure (HP) and High-
+temperature (HT), Ultra high-pressure (UHP), Ultra high-temperature
+(UHT) metamorphism: P-T ranges,  textures, Mineral assemblages,
+Mineral  chemistry  and  Tectonic  setting.  Metamorphism  in  plate
+boundaries; Collisional tectonics. Using petrological datasets; linking
+petrology   with   field   information,   structure,  geochemistry  and
+geochronology;  Petrogenesis  and  tectonics  interpretations.  Case
+studies  and  examples  on  metamorphic  evolution,  P-T  history;
+petrogenesis  and  tectonic  setting  of  some  global  and  Indian
+metamorphic terranes.
+Notation for stable isotope systems, reference standards, equilibrium
+and kinetic fractionations of non-traditional stable isotopes, history of
+non-traditional  stable  isotope-based  research, method  of  sample
+preparation   (e.g.,  ion  exchange  chromatography),  measurement
+techniques  (in-situ  and  non-in-situ)  by mass  spectrometry,  data
+correction  (e.g., sample-standard bracketing,  internal normalisation,
+Non-Traditional             double spike etc.) and representation, applications of stable Ca, Mg, Li,
+ES663    Stable Isotope   3-0-0-0 [9] K and Zn isotope systems in low and high T systems including isotopic
+Geochemistry                fractionation during  continental weathering, surface  runoff,  nutrient
+transfer from root to leaf of vegetation etc.; coupling of continental and
+oceanic  processes,  inter-mineral  isotopic  fractionation and  bond-
+lengths,  bulk-silicate Earth compositions,  diffusion  in  silicate melts,
+isotopic  compositions  igneous  rocks  formed  at  different  tectonic
+settings, isotopic compositions of Lunar and Martian rocks, isotopic
+fractionation  during  nucleosynthesis  and  early  volatile  depletion
+
+[PAGE 18]
+process, isotope transport model from food to blood, between soft
+tissues, bone loss or bone cancer.
+
+Introduction   to  magnetism.  Magnetic   fields   in  Solar  system.
+Ferromagnetic  minerals.  Paramagnetic  minerals.    Diamagnetic
+minerals.  Hysteresis,  coercivity and magnetic domains.  Sampling,
+measurement and analysis
+Types   of  anisotropies   of  magnetic  susceptibilities-AMS.  AMS
+parameters  and  ellipsoid.  Primary  magnetic  fabrics.  Secondary
+magnetic  fabrics.  Sampling,  measurement  and  analysis.  Earth’s
+magnetic  field  origin,  present  and  past.  Induced  and  remnant
+Rock
+ES664                    3-0-0-0 [9]  magnetization. Sampling, measurement and analysis. AMS, tectonic
+Magnetism
+deformation  and   strain.  Magnetic  shock  barometers.  Magnetic
+anomalies on  extraterrestrial  crust.  Seafloor spreading and paleo
+geographical  reconstruction.  Paleomagnetism and  tectonics. Lava
+emplacement  conditions.  Bio-,  environmental-,  archeo-magnetism.
+Rock magnetics in mining, petroleum and geothermal.
+Course Reference: The Magnetic Anisotropy of Rocks. Tarling, D.H.
+and Hrouda, F. Paleomagnetic Principles and Practice. Tauxe, L. Rock
+Magnetism: Fundamentals and frontiers. Dunlop, D. J. and Özdemir, Ö.
+Elastic rebound theory, earthquake and its mechanism, tectonic plate
+motion, earthquake  characteristics, earthquake source parameters,
+seismic moment and magnitude, seismic intensity, seismic wave types
+and properties, faulting in nature, types of fault setting, fault asperities,
+seismic cycle and a wide range of fault slip behaviors (stable creep,
+slow  slip,  regular  earthquakes,  supershear  ruptures  and  more),
+frictional laws, concepts of static and kinetic friction, Amonton’s law,
+Byerlee’s law, stick-slip and stability of frictional sliding, velocity-jump
+experiments, Rate- and State-dependent friction law and parameters,
+Physics Of
+ES665                    3-0-0-0 [9]  elastodynamic parameters, loading conditions, velocity-weakening and
+Earthquakes
+velocity-strengthening properties, stability condition, earthquake cycle
+modeling, modeling methods, spring-slider model, finite-fault modeling,
+model parameters and applications, estimating  static and dynamic
+stress drop, slip, and recurrence interval, a multi-disciplinary approach
+involving seismological observations, laboratory  friction experiments,
+and numerical modeling, case studies of observations and modeling of
+stable creep, slow slip and tremors, bilateral and unilateral ruptures,
+repeating earthquakes, supershear ruptures, etc.
+
+Role of water in Earth’s climate; Hydrological cycle and its components;
+Monitoring   of  hydrologic  storages  and   fluxes;  Water  budget
+computations; Water-bearing properties of rocks  - porosity,  intrinsic
+permeability, specific yield and specific retention; Vertical distribution of
+sub-surface water; Classification of aquifers; quantitative assessment of
+aquifer  properties;  Aquifer  parameters:   transmissivity,  hydraulic
+conductivity and storage coefficient; Determination of permeability in
+Applied
+ES666                    3-0-0-0 [9]  laboratory; Concept  of heterogeneity and anisotropy; Characteristic
+Hydrogeology
+differences between confined and unconfined  aquifers; Hydrostatic
+pressure;  Fluid  potential; Energy  in groundwater;  Hydraulic head;
+Theory of groundwater flow; Darcy's law and its applications; Specific
+discharge; Limitations of Darcy’s Law; Reynolds Number; Governing
+equation for flow through porous medium; Steady and non-steady state
+flow  -  Initial and boundary  conditions; Solution  of flow equations;
+Dupuit’s  Assumption;  Boussinesq  Equation;  Groundwater  flownet
+
+[PAGE 19]
+analysis;  Groundwater  flow  patterns,  Groundwater-Surface  water
+interactions; Determination of flow direction. Flow through aquifers: 2-D
+groundwater flow equations; Flow under steady and non-steady state
+conditions; Evaluation of aquifer parameters of confined, semi-confined
+and unconfined aquifers - Thiem, Theis and Jacob methods.
+The course is designed to understand the dynamics, flow of mass and
+energy of solid Earth in a quantitative manner. It contains Kinematics of
+Plate  Tectonics  -  Earth’s  structure,  hotspots and mantle plumes,
+convergent, divergent and transform plate boundaries, plate motion on
+flat and sphere Earth; Basics of Elasticity and Flexure – body and
+surface  forces; stresses  in 2D and 3D;  isostasy,  linear  elasticity,
+uniaxial stress and strain, pure and simple shear, 2D bending or flexure
+ES667   Geodynamics   3-0-0-0 [9]  of plates, application to Earth’s lithosphere; Heat transfer - Fourier’s
+Law of heat conduction, Earth’s surface heat flux, 1D and 2D heat
+conduction  with  advection,  basics  of  thermochronology,  frictional
+heating on Faults; Fluid mechanics  - 1D channel  flow, pipe  flow,
+Asthenospheric   Counterflow,   mantle   convection,   diffusion   of
+groundwater;  Faulting  -  classification  of  faults,  friction on  faults,
+Anderson  theory  of  faulting,  thrust  sheets  and  gravity  sliding,
+earthquakes.
+Data Analysis and Visualization for Earth Scientists offers the basics
+required to equip students to analyse data and produce high quality
+figures for articles, theses, dissertations, posters, and talks. This course
+Data Analysis
+will provide a quantitative introduction to data analysis.  It  will help
+And
+students to visualize and create plots that represent data accurately.
+ES669     Visualization   3-0-2-0 [11]
+Finally, the students will be able to interpret and explain their plots to
+For Earth
+peers in a sophisticated and engaging way.
+Scientists
+In summary, this course will focus on data analysis, visualization, and
+interpretation to improve the process of demonstrating and sharing
+scientific information in academia.
+The course would have the dual purpose of: a) familiarizing the PG
+students with their colleagues' current themes and progress. b) In the
+Pg Seminar In     0-0-0-    process PG students would learn best practices in oral presentation
+ES702
+Earth Sciences      0(0)    and  preparation  for  talks.  Both  these  objectives need  sustained
+exposure over many semesters, and  it needs to be a weekly habit of
+attending such sessions.
+Introduction  to  mineral  exploration; stages  of  mineral  exploration,
+crustal abundance and  geochemical  behaviour  of  the  elements;
+geochemical  anomalies;  geochemical  cycle:  primary  dispersion,
+Mineral                secondary  dispersion;  pathfinder/indicator  elements;  geodynamic
+ES671     Resource     3-0-0-0 [9]  settings of mineral deposit systems; different types of ore deposits and
+Exploration                   their metallogeny, surface and subsurface mineral exploration methods,
+analytical techniques in mineral exploration, ore reserve estimation,
+national mineral policy, Indian mineral deposits, prospecting techniques
+for base and strategic metals.
+Quaternary time scale; Quaternary stratigraphy and geochronology –
+dating  Quaternary  records,  radiometric,  luminescence  and  other
+Quaternary             methods  of  dating.  Climate  archives  and  proxies,  Methods  of
+Geology And                reconstructing  Quaternary  climate   -  sedimentary  archives,  biotic
+ES680                    3-0-0-0 [9]
+Tectonic                  proxies,  geological and geochemical  proxies. Sea  level changes,
+Geomorphology                glacial/interglacial  cycles,  sea  floor  spreading,  carbon  reservoir,
+vegetation dynamics,  migration  history, response  of  vegetation  to
+climatic reversals. Tectonic geomorphology and landforms: mapping
+
+[PAGE 20]
+active tectonic landforms, geomorphic markers and indices; Tectonics-
+climate coupling, BLAG hypothesis, Uplift-weathering hypothesis.
+This course will provide comprehensive background about the concept
+of potential field theory, related mathematical tools, and its application
+in geophysics.  It  will help to develop the concepts of various data
+processing and  interpretation approaches  related  to  potential  field
+methods (e.g., Gravity and magnetic methods). The major topics of this
+course are: Introduction to potential field theory: fields and potential,
+Potential Field                                      Poisson’s & Laplace’s equations, Helmholtz theorem, Delta & Green’s            Theory In ES681                    3-0-0-0 [9]  functions, Green’s identities.              Applied
+Fourier series and Fourier transform in spatial domain: power spectra
+Geophysics                                          analysis; Solution to Laplace’s equation in cartesian & spherical co-
+ordinates: upward and downward continuation, spherical harmonics,
+Geoid & ellipsoid, and geomagnetic field representation; Gravity and
+magnetic    methods     of     prospecting:     instruments,    data
+processing/enhancement, and interpretation.
+
+Acoustic and elastic wave equation, energy partitioning at interface,
+AVO analysis, Fourier analysis and seismic signals, signal processing,
+reciprocity and  Green's  function,  land and  marine  seismic  data
+Seismic                   acquisition techniques, wavefield sampling, wavefield, decomposition,
+Exploration &               land and marine seismic data processing (filtering, deconvolution, CMP,
+ES682                    3-0-0-0 [9]
+Subsurface            CDP,  stack,  migration),  advanced  migration  techniques  (RTM,
+Imaging               PreSDM), seismic inversion, optimization techniques, tomography, finite
+difference scheme  for  2D/3D  seismic  modeling,  Ambient  noise
+tomography, land and marine seismic interpretation.
+
+This course will introduce the workings of various surface geological
+processes on planetary bodies other than Earth. The course would
+cover a diverse array of landscapes carved out by geological processes
+Planetary                    in substrates made up of various compositional species. The course
+Geomorphology            aims  at broadening the perspective on how a geological process
+ES683                    3-0-2-0 [11]
+: Processes And             operates, what are its various facets and how they interact with the
+Landforms                substrate to produce a landscape. The course would therefore equip
+the students to infer geologic history of a region based on the study of
+its landscape. The course would comprise a combination of lectures
+and labs.
+
+ES699  M Tech Thesis        ----    M. Tech. Thesis
+
+ES799    Ph D Thesis          ----     Ph. D. Thesis
+
+universe and its characteristics Solar System and Earth The primitive
+Earth Geological Time scale Origin of the  life and major geological
+events Numerical Dating. Rocks, minerals and soils; Plate Tectonics
+and Mountain building, Deformation and Geodynamics Earthquakes;
+Volcanoes.Earth,  Ocean,  Land,  Rivers,  Atmosphere,  Biosphere,
+Fundamentals             Cryosphere and Climate; Energy budget; Carbon Cycle; Hydrological
+ESO213     Of Earth      3-0-0-0 [9]  Cycle; Weathering and erosion. coupled processoes in Earth System;
+Sciences                 climate change, Geological resourses (minerals, hydrocarbons and
+water); Sustainability and Anthropocene activities
+Course Reference: 1. D.R. Prothero and R.H. Dott, Jr. Evolution of the
+Earth. 2010 (8th Ed.), McGraw Hill, 576p; 2. E.J. Tarbuck, F.K. Lutgens
+and D.G. Tasa. Earth: An introduction to Physical Geology, 2013 (11th
+Ed.).  Prentice  Hall.  912  p;  3.  J.  Grotzinger  and  T.  Jordan,
+
+[PAGE 21]
+Understanding Earth, 2010 (6th Ed.). Freeman, 210p.
+
+Objectives:
+The objective  of  this course  is  to appraise the students with the
+complex interaction of the earth and the environment, with a particular
+reference to the interaction with humans.
+The rising human population, socio-environmental shifts, and changing
+climate have constrained the sustainability of existing natural resources.
+This  undergraduate-level course  introduces  students  to  the  basic
+concepts of Earth and Environmental Science and its co-evolution with
+time. The course explains the components of natural ecosystems and
+their  interconnectedness.  Further,   it  highlights  the  earth's  natural
+resources, current challenges, and its impact on various aspects of the
+environment and life. It also provides insights into the primary causes
+and possible solutions to environmental problems. Upon completing this
+course, the student will comprehensively understand Earth's processes
+and its crucial role in supporting life.
+
+Contents:
+S.                                                No. Of
+Topics
+No                                                Lectures
+1   Evolution of Planet Earth and its Environment           5
+Earth And
+ES208                    3-0-0-0 [9]   2   Environmental ecosystems                         6          Environment
+3   Energy Concepts in Environmental Science            5
+4   Earth Materials & Management Science               4
+5  Renewable & non-renewable energy resources         6
+Interaction between atmosphere-hydrosphere-
+6                                                 5                                          biosphere & Climate
+Ch    B    d Gl b  l W        i                                  7   Environmental pollution: air, water, and soil             5
+8   Environmental Impact Assessment                   4
+
+Pre-requisites, if any: None
+
+Recommended textbooks:
+
+Textbooks: Class notes
+
+Reference books:
+• Cunningham, W. P., and Cunningham, M. A., 2010, Environmental
+Science - A Global Concern (11th Edition), McGraw Hill Publications
+• Botkin, D, B., and Keller, E. A., 2010, Environmental Science - Earth
+as a Living Planet (7th Edition), John Wiley and Sons Inc.
+Applied
+methods in                 Objectives: Introduce students with structural geological techniques
+ES459                      3-0-0-0[9]
+structural                having industrial applications
+geology

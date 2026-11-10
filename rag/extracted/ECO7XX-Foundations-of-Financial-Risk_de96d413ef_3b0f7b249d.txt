@@ -1,0 +1,132 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+New Course Proposal
+
+1. Course Number: ECO7XX
+
+2. Course Title: Foundations of Financial Risk
+
+3.  Per Week Lectures: 3 (L), Tutorial: --(T), Laboratory: --(P), Additional Hours [0-2]: --
+
+(A), Credits (3*L+0*T+0*P+0*A): 09 Credits
+
+4.  Duration of the Course: Full Semester
+
+5.  Proposing Department/IDP: Economic Sciences
+
+Other Department/IDPs which may be interested in the proposed course: -- Other faculty
+
+members interested in teaching the proposed course: --
+
+6.  Proposing Instructor(s): Dr Sanjiv Kumar
+
+7.  Lecture duration: 75 Minutes
+
+8. Course Description:
+A) Objectives: The course aims to provide adequate exposure to the foundational concepts
+
+of financial risk in an economy. It also highlights the role of financial markets in
+
+financial stability and recent developments in policy thinking.
+
+B) Course Contents:
+
+No  Broad Title       Topics                                               No. of
+Lectures
+1   Nature of Risk    Risk and  basic  risk management framework,  systematic,     2
+unsystematic, credit risk, credit risk management framework,
+operational risk and integrated risk management.
+2    Financial          Central bank regulation, capital market regulations, stock     3
+Institutions  &  market regulations, Role of SEBI, IRDA and  its role in
+regulations         financial markets, management of liquidity and risk; bank
+safety and prudential regulations, government guarantees,
+deposit insurance.
+3   Market      risk  Concept of volatility, portfolio volatility, concept of Value at     4
+measurement     Risk (VaR),  type  of VaR  measures, methodologies  for
+measurement of VaR, measuring risk using VaR, Stress testing
+and back-testing VaR, conditional Value at Risk (Co-VaR),
+4   Bank   balance-  Risks in Banking Business, Risk identification in Banking     5
+sheet risk          Business, Off-Balance Sheet Exposures, Risk Regulations in
+Banking Industry, Basel  I,  II and  III, Market Risk, Bank
+balance sheet risk, bank crisis, leverage risk, balance sheet
+recession.
+5    Financial          Defining Financial stability, assets, information problems, role     5
+Stability           of finance in propagating shocks, bank behaviour, financial
+cycles and crises, asset price bubbles, the financial accelerator,
+
+1
+
+[PAGE 2]
+the housing feedback process, bank leverage-centred feedback
+process.
+6    Financial          Defining  financial   instability,  experience  from  Global     4
+Instability         Financial  Crisis  (GFC),  pre-crisis  financial  system,  the
+upswing of the financial cycle, subprime Crisis, Mortgage-
+Backed Securities.
+7   Recent            Post crisis reforms of financial regulation failure, introduction     3
+Developments in  of  macroprudential  policy  (MaPP),  need,   objectives,
+policy thinking    instruments of MaPP, how does MaPP assist in maintaining
+the financial stability, adverse effects of new regulations.
+Total number of lectures                             26
+
+C) Pre-requisites: Familiarity with macroeconomics (Instructor’s consent)
+
+9. Summary: The critical role of financial institutions in driving economic growth and
+
+development is well documented in the literature. However, rapid financial development
+
+can also introduce significant challenges and risks to the system. Therefore, understanding
+
+various aspects of financial risk, policy applications, and recent developments is essential.
+
+This course explores the following topics: nature of  risk, financial institutions and
+
+regulations, banking balance sheet risk, market risk measurement, financial stability,
+
+financial instability, and recent developments in policy thinking.
+
+10. Text Books:
+
+Wendy, C., & Soskice, D. (2015). Macroeconomics, Institutions, Instability and the
+Financial system. Oxford University Press
+
+11. References Books:
+
+Advanced Financial Risk Management: Tools and Techniques for Integrated Credit Risk and
+Interest Rate Risk Management (Wiley Finance) by Donald R. Van Deventer, Kenji Imai &
+Mark Mesler
+
+Chandra, Prasanna: Investment Analysis and Portfolio Management. McGraw Hill Education.
+
+Financial Risk Management: A Practitioner’s Guide to Managing Market and Credit Risk by
+Steve L. Allen
+
+Gup, Benton E. Kolari, James W., Commercial Banking: Management of Risk, Wiley; 3
+edition (2004)
+
+Machiraju, H. R., Modern Commercial Banking, New Age International, (2008)
+
+Mishkin, Frederic (2007), The Economics of Money, Banking and Financial Markets, 8th ed.,
+Addison Wesley Longman Publishers.
+
+Wendy, C., & Soskice, D. (2006). Macroeconomics: Imperfections, Institutions & Policies.
+Oxford University Press
+
+2
+
+[PAGE 3]
+12. Research Articles and Reports
+
+Bank for International Settlement (BIS), Financial Stability Board (FSB), RBI
+
+13. Any other remarks:
+
+Dated:19/01/2024                                             Proposer: Dr Sanjiv Kumar
+
+Dated: ____________________DUGC/DPGC Convener: ______________________
+
+The course is approved / not approved
+Chairman, SUGC/SPGC
+Dated: _____________________________________
+
+3

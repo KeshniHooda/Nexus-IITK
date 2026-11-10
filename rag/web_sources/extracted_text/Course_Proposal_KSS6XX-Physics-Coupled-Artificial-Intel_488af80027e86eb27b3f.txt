@@ -1,0 +1,224 @@
+[Page 1]
+Indian Institute of Technology, Kanpur 
+ 
+Proposal for a new course 
+ 
+1. Course No: KSS 6XX 
+ 
+2. Course Title: Physics-Coupled Artificial Intelligence for Climate and Sustainability: Modeling, 
+Risk, and Resilience 
+ 
+3. Per Week Lectures: 3(L), Tutorial: 0 (T), Laboratory: (P), Additional Hours: 0 (A) 
+ 
+4. Credits (3*L+0*T+P+A): 9 
+ 
+5. Duration of Course: Full Semester 
+6. Proposing Department: Kotak School of Sustainability 
+Other departments that may be interested in the proposed course 
+include 
+Civil 
+Engineering, 
+Mechanical 
+Engineering, 
+Electrical 
+Engineering, 
+Computer 
+Science 
+and 
+Engineering, 
+Aerospace 
+Engineering, Industrial and Management Engineering, Design, Earth 
+Sciences, Mathematics and Statistics, Physics, Economic Sciences, and 
+Humanities and Social Sciences. 
+7. Proposing Instructor(s): Prof. Sai Ravela (KSS) 
+ 
+8. 
+Course Description: This course develops a complete pipeline from climate science to 
+quantifying risk and decision-making for a warming world, integrating physics (theory), 
+machine learning (AI), and real-world applications. Students learn about the climate system 
+and sustainability framing, then progress through understanding climate modeling and using 
+climate models, including data assimilation and parameterizations using machine learning, 
+designing surrogates and emulators with rigorous uncertainty quantification, downscaling 
+climate extremes that resolve tails for estimating risk, and linking climate scenarios to 
+specific locations. Quantifying risk as the product of hazard, exposure, and vulnerability, they 
+learn to map exposure using computer vision and remote sensing, quantify vulnerability 
+with structured methods and large language model tools, and translate risk metrics into 
+actionable insights using stochastic dynamic programming, reinforcement learning, and 
+serious games. Every topic is anchored in a single case study and specific methods so that 
+the concepts accumulate into an end-to-end workflow. The class is structured to include 
+short preparatory materials, such as tutorials or recorded walkthroughs, made available 
+before class. Guest speakers may be included from time to time to connect students to 
+operating centers and agencies. In addition to regular assignments and exams, the course 
+may comprise a capstone project that presents an integrated, defensible plan for addressing 
+climate risk and resilience, ultimately leading to sustainable outcomes.
+
+[Page 2]
+9. Objectives: On completing this course, students will be able to: 
+● Understand the foundations of climate and sustainability: explain the climate system, its 
+feedbacks, and its connections to sustainability and resilience. 
+ 
+● Operate and augment climate models by running baseline models, applying data 
+assimilation, and utilizing machine learning for parameterization and calibration. 
+ 
+● Construct AI- and physics-coupled surrogates, quantify uncertainty and extremes, and 
+downscale climate fields to local scales. 
+ 
+● Quantify and communicate climate risk by integrating hazard, exposure, and vulnerability to 
+compute risk portfolios, and clearly communicate uncertainty and trade-offs. 
+ 
+● Design sustainable decisions for resilience using physics and learning: apply optimization, 
+reinforcement learning, and serious games to evaluate adaptation and mitigation strategies 
+in key sectors (FEWS, coastal, and urban systems). 
+B) Content 
+1. Introduction to Climate and Sustainability (2 Lectures): Overview of Earth’s energy and 
+water cycles, circulation, and feedbacks. Introduce climate sensitivity, including radiative 
+forcing and the role of feedbacks in determining Earth’s response to greenhouse gases. Links 
+to human systems, SDGs, equity, and institutions. Natural Step, Natural Capital, 
+Precautionary Principles, planetary boundaries, socio-ecological systems, and ecosystem 
+services accounting. Life Cycle Assessment (LCA) fundamentals with limitations and 
+uncertainty. 
+2. What is Climate Resilience (2): Weather vs climate, predictability scales, climate as a 
+distribution; nonstationarity; extremes and risk. IPCC scenarios and CMIP6 models. 
+Adaptation and mitigation portfolios, resilience planning. The integrated cycle of projecting 
+climate forward and backcasting decisions based on time-evolving risk; the key role of AI 
+across the loop. 
+3. Informative Data-Driven Mapping and Prediction (3): Fusion of remote, in situ, and model 
+data with inference and ML. Bias correction in the current climate and future projections 
+using derived latent variable dynamics (e.g., LSTM and neural operators). Informative 
+observatories. Examples with soil, land use, and biodiversity. 
+4. A Primer on Climate Models (4): General circulation models, governing equations, coupled 
+atmosphere–ocean–land, parameterized processes and model parameters, including subgrid 
+processes such as clouds, convection, radiation, and land interactions. Using ML for 
+parameterization. Bias/variance in climate models. Climate Model Selection: Global vs. 
+Regional Climate Modeling for Sustainability. The CMIP6 ensemble, deploying a regional 
+model. 
+5. Data Assimilation and Model Calibration (3): State vs. parameter estimation. Fixed-point vs 
+fixed-interval estimation. Two-point boundary value problems and relationship to ML. Using 
+variational (3DVar/4DVar) and ensemble (EnKF) methods for analysis and reanalysis.
+
+[Page 3]
+Calibration and overfitting issues. Using ML in DA and calibration with learned components 
+(learned observation operators, amortized inference). Online vs. Offline calibration. 
+6. Stochastic Emulators Using Physics and AI (3): Generating weather sequences and emulating 
+model outputs. Methods such as VAEs, GANs, Diffusion Models, and transport and 
+flow-based models are introduced. Examples of current ML-based models (e.g., Pangu, 
+Aurora, CorrDiff, FourCastNet, GraphCast, Prithvi) are reviewed. 
+7. Surrogate Modeling using Physics and AI (4): Methods including Gaussian Processes, 
+Embeddings and Manifolds, convolutional architectures, and autoencoder-based surrogates. 
+Physics-informed neural networks, operator learning including Fourier neural operators, and 
+stable hybrid neural-physical operators with structure learning, including equation learning, 
+are introduced. 
+8. Sampling Extremes and Uncertainty Quantification using ML (3): Challenges in UQ—input, 
+parameter, and structural uncertainties. Response Surface Models, GPC, and Limitations. 
+Monte Carlo/posterior sampling and their limitations. ML-based UQ with ensembles, 
+quantile regression, and conformal prediction. Sampling rare events using surrogates and 
+active learning of tails. 
+9. Climate Downscaling Using AI and Physics (4): The rising demand for Kilometer-scale 
+downscaling. Dynamical and Statistical downscaling, bias correction, and spatial 
+disaggregation. Downscaling with ML, including VAEs, GANs, Transformers, Graph Neural 
+Networks, and Diffusion Models. Incorporating physical constraints, downscaling as a 
+two-point boundary value problem, and incorporating historical data in downscaling. 
+10. Estimating Climate Risk Using AI (4): Natural hazards in a changing climate; synthetic event 
+catalogs; modeling frequency and intensity/severity; compounding and cascading hazards; 
+timeline methods. Measures and representations of Risk; extreme value distributions; bias 
+correction and confidence intervals. Exposure mapping using traditional approaches and AI, 
+including automated extraction from imagery (object detection, semantic segmentation, 
+change detection) and night-time activity proxies. Vulnerability mapping using fragility 
+curves, depth–damage functions, and social vulnerability indices, and using large language 
+models (RAG, schema-guided extraction, human-in-the-loop validation) to extract local 
+vulnerability and capacity. 
+11. Sustainable Decision Making and Optimization Using AI (4): Risk neutrality vs risk aversion; 
+handling imprecise probabilities from climate models. Optimization with Stochastic Dynamic 
+Programming, Reinforcement Learning, and Serious Games (with an optional clinic on 
+Mixed-Integer Programming for design formulations). Translating risk, LCA, and natural 
+capital into objectives, constraints, triggers, and policies. 
+12. Applications and Engagement (3): Food, Energy, and Water Security; Climate Early Warning 
+Systems (CREWS); Coastal Resilience (from agriculture to property); Urban Infrastructure and 
+Networks. AI for Stakeholder Engagement: support communication, consultation, and 
+co-design with AI-based summarization, RAG on policy documents, scenario explainers, and 
+risk graphics; decision theater. 
+ C) Pre-requisites: Linear Algebra, Probability and Statistics, Differential Equations, Introductory 
+Machine Learning or Data Science, Introductory Physics, Introductory Climate or Environmental 
+Science, Python Programming.
+
+[Page 4]
+D) Short summary for inclusion in the Courses of Study Booklet: This rigorous course integrates 
+physical climate modeling and modern AI to move from climate science to decisions. Students learn 
+ML-based data assimilation, ML-based parameterizations, neuro-physical surrogates for prediction, 
+uncertainty quantification, and sampling rare events, as well as neuro-physical downscaling of 
+extremes and risk estimation from hazard, exposure, and vulnerability. They map exposure with 
+remote sensing, derive vulnerability with structured and LLM methods, and design actions using SDP, 
+RL, and serious games. The course includes fully provided code and data, as well as a reproducible, 
+stakeholder-ready capstone with a single case study. 
+ 
+E) Recommended Reading (Core and Supplementary) 
+a. Instructor’s course notes from MIT class: Sai Ravela, Dynamics, Optimization, Learning and 
+Sustainability, 2023 
+b. In addition to readings from the following material, additional readings may be assigned 
+c. Climate Science & Models 
+■ Vallis, G. K. Atmospheric and Oceanic Fluid Dynamics. 2nd ed., Cambridge 
+University Press, 2017. 
+■ Trenberth, K. E., et al. Climate System Modeling. Cambridge University Press, 
+1992, 2010 
+■ Randall, D. A. An Introduction to Climate Models. Princeton University Press, 
+2023. 
+■ Washington, W. M., and Claire L. Parkinson. An Introduction to Three-Dimensional 
+Climate Modeling. 2nd ed., University Science Books, 2005. 
+d. Estimation, Inversion, Data Assimilation & Uncertainty 
+■ Kalnay, E. Atmospheric Modeling, Data Assimilation, and Predictability. Cambridge 
+University Press, 2003. 
+■ Evensen, G. Data Assimilation: The Ensemble Kalman Filter. 2nd ed., Springer, 
+2009. 
+■ Tarantola, A. Inverse Problem Theory and Methods for Model Parameter 
+Estimation. SIAM, 2005. 
+■ A. Gelb, Applied Optimal Estimation, MIT Press, 1974 
+■ A. E. Bryson and Y-C. Ho, Applied Optimal Control, Routledge, 1975 
+e. Machine Learning for Physics & Climate 
+■ Goodfellow, I., Bengio, Y., and Courville, A. Deep Learning. MIT Press, 2016. 
+■ Murphy, K. P. Probabilistic Machine Learning: Advanced Topics. MIT Press, 2023. 
+■ Karniadakis, George Em, et al. "Physics-informed machine learning." Nature 
+Reviews Physics, vol. 3, no. 6, May. 2021. 
+f. Surrogates, Emulators, and Generative Models 
+■ Rasmussen, C. E., and Williams, C. K. I. Gaussian Processes for Machine Learning. 
+MIT Press, 2006. 
+■ Bond-Taylor, S., et al. Deep Generative Modelling: A Comparative Review of VAEs, 
+GANs, Normalizing Flows, Energy-Based and Autoregressive Models, IEEE Trans 
+PAMI 2021 
+g. Risk, Sustainability & Decision Science 
+■ Kunreuther, H., and Michel-Kerjan, E. At War with the Weather: Managing 
+Large-Scale Risks in a New Era of Catastrophes. MIT Press, 2009.
+
+[Page 5]
+h. Remote Sensing, Exposure & Vulnerability
+■Jensen, J. R. Remote Sensing of the Environment: An Earth Resource Perspective.
+2nd ed., Pearson, 2007.
+■Blaschke, T., et al. Remote Sensing and GIS for Ecologists: Using Open Source
+Software. Cambridge University Press, 2018.
+■Cutter, S. L. Hazards, Vulnerability, and Environmental Justice. Routledge, 2012.
+i. Optimization, Reinforcement Learning & Games
+■Sutton, R. S., and Barto, A. G. Reinforcement Learning: An Introduction. 2nd ed.,
+MIT Press, 2018.
+■Bertsekas, D. P. Dynamic Programming and Optimal Control. Vols. 1 and 2, 4th
+ed., Athena Scientific, 2017.
+10. Any other remarks:
+a. This course is open to all students in Engineering and the Sciences.
+b. Pedagogy: Students will be supplied with a code base and access to datasets used in the
+course. Short videos, including guided tutorials and recorded walkthroughs, are made
+available before class. Modeling centers, agencies, and industry professionals also offer
+occasional guest lectures.
+c. Assessments will be based on assignments, exams, a potential capstone project, participation,
+and other relevant factors.
+d. Reproducibility and ethics: Student work will adhere to KSS/IIT GenAI policy, include data
+licenses/provenance, fair baselines, a rationale for the spatial/temporal split, an environment
+file and random seed, failure cases and bias notes, and, where applicable, stakeholder-ready
+risk graphics.
+Dated:
+Proposer: 
+Dated:
+DUGC/DPGC Convener: 
+The course is approved / not approved 
+Chairman, SUGC/SPGC 
+Dated: _________________________ 
+Prof. Sai Czander Ravela
+29/8/2025
+30/8/2025

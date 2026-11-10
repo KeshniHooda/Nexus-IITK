@@ -1,0 +1,62 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+Proposal for a New Course
+
+1. Course No: SPA 6XX
+
+2. Course Title: Introduction to Observational Techniques & Telescopes
+
+3. Lectures per week: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional hours: (0-2): 0
+(A), Module Credits (3*L+2*T+P+A): 5, Duration of Course: Half Semester
+
+4. Proposing Department: Space Planetary & Astronomical Sciences & Engineering (SPASE)
+
+5. Proposing Instructor: Prashant Pathak and Amitesh Omar
+
+6. Course Description
+
+(A) Objectives: The course aims to introduce basic ideas and concepts of various observa-
+tional techniques focused to general X-ray, UV, optical and IR techniques.
+
+(B) Contents (preferably in the form of 5 to 10 broad titles):
+
+1. Introduction: Night sky, celestial sphere, Stellarium, motion of planets, moon and
+comets, constellation and nakshtras, sidereal time, calendars, Precession, proper mo-
+tion and parallax, eclipses and transits, brightness, Flux, luminosity, magnitude scale,
+filters, Atmospheric transmission windows on Earth, atmospheric seeing, extinction.
+(7-lectures)
+2. Tools: Observing tools in ancient astronomy, modern optical and infrared telescopes,
+equatorial and alt-az mounts, space observatories, detectors in X-ray, UV, optical and
+IR. (7-lectures)
+3. Measurement Techniques: - Photometry, spectroscopy (doppler shift, spectral res-
+olution, FWHM, convolution) fast imaging and timing of photon arrivals, speckle,
+adaptive and active optics, calibration. (7-lectures)
+
+(C) Pre-requisites: None
+
+(D) Short summary for including in the Courses of Study Booklet: This course will introduce
+students observational techniques and telescopes in all major wavebands along with detectors
+and calibration aspects in astronomy.
+
+7. Recommended Books:
+
+– Astrophysical Techniques: C. R. Kitchin
+– To Measure the Sky: An Introduction to Observational Astronomy:  Frederick R.
+Chromey
+– Handbook of X-ray Astronomy: K. Arnaud, R. Smith, A. Siemigi-nowska
+– Handbook of Infrared Astronomy: I. S. Glass
+– Handbook of CCD Astronomy: S. B. Howell
+
+8. Any other remarks:
+
+Dated:            Proposer:
+
+Dated:        DUGC/DPGC Convener:
+
+The course is approved/not approved
+
+Chairman, SUGC/SPGC
+
+Dated:
+
+1

@@ -1,0 +1,77 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Department of Sustainable Energy Engineering
+
+Proposal for a Course Modification
+
+1.  Course Number: SEE627
+
+2.  Course Title:  Electric vehicles Electric Mobility
+
+3.  Per Week Lectures: 3_(L), Tutorial: _(T), Laboratory: _(P), Additional Hours[0-2]: ___(A)
+
+4.  Duration of Course: Full Semester
+
+5.  Proposing Department: SEE
+
+Other Departments/IDPs which may be interested: EE
+
+Other faculty members interested in teaching: Dr. Prabodh Bajpai and Dr. Suvendu Samanta
+
+6.  Proposing Instructor: Dr. Amarendra Edpuganti
+
+7.  Course Description:
+
+Electric mobility includes all types of transportation that is fully or partly driven by electric motors. It has
+been gradually replacing the conventional transportation due to climate concerns, shortage of oil resources,
+and energy security. The aim of this course is to teach system level understanding of the electric mobility
+to benefit students from diverse backgrounds.
+
+8.  Expected learning outcomes
+
+On completing the course, the student will be able to:
+•   Understand the basics of electric mobility, and power train configurations
+•   Learn about different battery storage technologies and charging algorithms
+•   Learn about different types of chargers for electric mobility
+•   Learn about different kinds of motors used in electric mobility
+
+9.  Course outline
+
+I.    Introduction: Need for replacing conventional  transportation, comparison between  electric
+vehicles (EV) and internal combustion engines (ICEV), types of EVs, vehicle fundamentals, plug-
+in hybrid electric vehicles (PHEV), Range extended EVs (REEVs), and configurations of EVs.
+II.   Energy storage system: Electrochemical cell, basics of batteries, types of batteries, battery
+modeling, charging algorithms, battery management system (BMS), cell balancing techniques, and
+SOC estimation techniques.
+III.    Battery charging: Classification of battery chargers, types of onboard chargers, fast charging
+stations, and v2x technologies.
+IV.   Motors for  electric mobility: Induction motors, Brushless dc motors, permanent magnet
+synchronous motors, switched reluctance motors, and synchronous reluctance motors.
+
+[PAGE 2]
+10. Lecture-wise breakup
+
+Topics                        Number of lectures
+1.  Introduction                           10
+2.  Energy storage system                   15
+3.  Battery charging                        12
+4.  Motors for electric mobility               5
+42
+
+11. Pre-requisites: Consent of Instructor
+
+12. Textbooks:
+1.  Iqbal Husain, “Electric and Hybrid vehicles”, Design Fundamentals, CRC Press, 2021.
+2.  M. Ehsani, Y. Gao, S. Gay and A. Emadi, “Modern Electric, Hybrid Electric, and Fuel Cell
+Vehicles”, CRC Press LLC, Boca Raton, U.S., 2018. Third Edition
+
+Dated: 19/10/2024                                           Proposer: Amarendra Edpuganti
+
+DPGC Convener :   ___________________
+
+The course is approved / not approved
+
+Chairman, SPGC
+
+Dated:_____________________________

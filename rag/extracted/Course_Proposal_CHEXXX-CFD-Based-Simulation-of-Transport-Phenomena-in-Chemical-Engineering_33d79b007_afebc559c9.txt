@@ -1,0 +1,108 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course
+
+1.  Course No: ChE 6XX
+
+2.  Course Title: CFD-Based Simulation of Transport Phenomena in Chemical Engineering
+
+3.  Per Week Lectures: 3 (L), Tutorial: x (T), Laboratory: x, Additional Hours[0-2]: x
+
+Credits (3*L+2*T+P+A): 9            Duration of Course: Full Semester
+
+4.  Proposing Department/IDP: Chemical Engineering
+
+Other Departments/IDPs which may be interested in the proposed course: NA
+
+Other faculty members interested in teaching the proposed course: NA
+
+5.  Proposing Instructor: Prof. Nishith Verma, ChE
+6.  Course Description:
+
+A) Objectives:
+Transport Phenomena  is one of the core subjects in Chemical Engineering and traditionally relies on
+analytical solutions of the governing equations of momentum, heat and mass transfer. While these classical
+solutions  provide  valuable  physical  insight,  modern  engineering  practice  increasingly  employs
+Computational Fluid Dynamics (CFD) for analysing transport processes encountered in industrial equipment
+and processes.
+This course aims to complement the traditional analytical treatment of Transport Phenomena by
+introducing CFD as a learning and analysis tool. Students will simulate classical transport problems using
+ANSYS Fluent and compare the numerical predictions with available analytical or semi-analytical solutions.
+Emphasis will be placed on physical understanding of transport phenomena, model development, mesh
+generation, specification of boundary conditions, solution convergence, validation and interpretation of
+simulation results rather than on the mathematical formulation of CFD algorithms.
+Upon successful completion of the course, students will be able to:
+•  Develop CFD models for classical Chemical Engineering transport problems.
+•  Generate suitable computational meshes and prescribe appropriate boundary conditions.
+•   Simulate momentum, heat and mass transfer using ANSYS Fluent.
+•   Validate CFD predictions against analytical solutions and established correlations.
+•   Critically interpret simulation results and apply CFD as an engineering tool for solving transport
+problems encountered in Chemical Engineering practice.
+
+B) Contents (preferably in the form of 5 to 10 broad titles):
+1. Introduction to CFD in Chemical Engineering (2 Lectures)
+•   Governing equations of transport
+•  CFD workflow
+•  ANSYS Fluent environment
+2. Geometry, Mesh Generation and Boundary Conditions (4 Lectures)
+•   Computational domain
+•  Mesh generation and quality
+•  Boundary conditions
+•   Grid independence
+•  Convergence criteria
+•  Mesh independence
+•  Comparison with analytical solutions
+•   Interpretation of CFD results
+
+[PAGE 2]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course
+
+3. Simulation of Momentum Transport (4 Lectures)
+•  Laminar pipe flow; Start-up flow (isothermal)
+•  Flow through porous and packed beds
+4. Simulation of Heat Transfer (5 Lectures)
+•   Constant wall temperature
+•   Constant wall heat flux
+•  Brinkman problem (viscous heating)
+•   Natural convection in a liquid storage tank with/without external heating
+5. Simulation of Mass Transfer (8 Lectures)
+•   Species transport in channels or tubes with catalytic/non-catalytic reactions
+(homogenous and heterogeneous)
+•  Mass transfer in packed beds with/without chemical reactions
+•  Hydrogen storage systems with/without mechanical stresses in walls.
+•  Abrupt liquid-gas (NH3/SO2) 2-phase release from a storage tank or vessel.
+•  Coupled heat and mass transfer in a CVD reactor
+6. Simulation of Electrochemical Systems (5 Lectures)
+•   Species transport in a fuel cell
+•   Species transport in a microbial fuel cell
+
+C) Pre-requisites, if any: ChE 611 (Transport Phenomena)
+
+D) Short summary for including in the Courses of Study Booklet:
+Develop CFD models for classical Chemical Engineering transport problems; Generate suitable
+computational meshes and prescribe appropriate boundary conditions; Simulate momentum, heat and
+mass transfer using ANSYS Fluent: Validate CFD predictions against analytical solutions and established
+correlations; Critically interpret simulation results and apply CFD as an engineering tool for solving
+transport problems encountered in Chemical Engineering practice.
+
+7. Recommended books:
+Textbooks: 1. Bird, Stewart and Lightfoot, Transport Phenomena, Wiley. 2. Deen, Analysis of Transport
+Phenomena, Oxford University Press. 3. Versteeg and Malalasekera, An Introduction to Computational Fluid
+Dynamics: The Finite Volume Method.
+Reference Books: ANSYS Fluent User’s Guide and Theory Guide.
+
+8. Any other remarks: All CFD simulations will be performed by the students on their personal laptop, or PCs
+available and free to use in their research laboratories. Fluent Ansys license is available from the Institute (CC).
+
+Dated: July 13, 2026     Proposer: Prof. Nishith Verma
+
+Dated: Jul 13, 2026    DUGC/DPGC Convener:
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC
+
+Dated:

@@ -1,0 +1,2061 @@
+[Page 1]
+Page 1 of 35 
+ 
+Indian Institute of Technology Kanpur 
+Dean of Academic Affairs Office 
+ 
+OARS Course Master Database (as on 08-SEP-2016) 
+Dept.-wise list of courses without course contents 
+Course 
+No. 
+L-T-P-D-C 
+Pre-requisite 
+Course Contents/References 
+Course Title 
+** Department of AE ** 
+AE472A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+UNDERGRADUATE PROJECT III 
+AE608 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+HEAT TRANSFER IN AEROSPACE 
+APPLICATIONS 
+AE608A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+HEAT TRANSFER IN AEROSPACE 
+APPLICATIONS 
+AE654 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+COMBUSTION PROBLEMS IN ROCKET 
+PROPULSION 
+AE654A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books: 
+COMBUSTION PROBLEMS IN ROCKET 
+PROPULSION 
+AE698B 
+3-0-0-0-4 
+ 
+Course Contents: 
+MECHANICS OFHIGHLY DEFORMABLE 
+STRUCTURES
+
+[Page 2]
+Page 2 of 35 
+ 
+References/Text Books:
+AE704 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+DEFORMATION AND FRACTURE 
+** Department of BSBE ** 
+BSE352 
+3-0-0--4 
+# 
+Course Contents: 
+References/Text Books:
+BIOMATERIALS 
+BSE421A 
+3-0-0-2-11 
+ 
+Course Contents: 
+References/Text Books: 
+TISSUE ENGINEERING 
+BSE460 
+0-0-0-2-4 
+ 
+Course Contents: 
+References/Text Books:
+TRENDS IN BIOLOGY AND BIOENGINEERING 
+RESEARCH 
+BSE462 
+2-0-4--4 
+ 
+Course Contents: 
+References/Text Books:
+METHODS IN BIO-TECHNOLOGY-1 
+BSE492 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+METHODS IN BIOTECHNOLOGY-I, 
+EXPERIMENTAL BIOSEPERATION 
+BSE492A 
+3-0-0-0-9 
+BSE222A 
+Course Contents: 
+References/Text Books:
+METHODS IN BIOTECHNOLOGY-I, 
+EXPERIMENTAL BIOSEPERATION 
+BSE615 
+3-0-0--4 
+ 
+Course Contents: 
+References/Text Books:
+BIOELECTRICITY
+
+[Page 3]
+Page 3 of 35 
+ 
+BSE615A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+BIOELECTRICITY 
+BSE616 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+BIOPHARMACEUTICALS 
+BSE616A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+BIOPHARMACEUTICALS 
+BSE630 
+3-0-0--4 
+ 
+Course Contents: 
+References/Text Books:
+DEVELOPMENTAL BIOLOGY I 
+BSE630A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books: 
+DEVELOPMENTAL BIOLOGY I 
+BSE638 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+STRUCTURAL BASIS OF PROTEIN FUNCTION 
+BSE640 
+3-0--0-4 
+ 
+Course Contents: 
+References/Text Books:
+BIOMATERIALS 
+BSE640A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books: 
+BIOMATERIALS 
+BSE641 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+BIOLOGY LAB
+
+[Page 4]
+Page 4 of 35 
+ 
+BSE655 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+PHYSIOLOGY 
+BSE655A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books: 
+PHYSIOLOGY 
+BSE671 
+1-0-5--4 
+ 
+Course Contents: 
+References/Text Books:
+RESEARCH METHODS IN BIOLOGICAL 
+SCIENCES 
+BSE680 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+BIOPHARMACEUTICALS 
+BSE680A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books: 
+BIOPHAMACEUTICALS 
+BSE681 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+BIOLOGY LABORATORY 
+BSE681A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+BIOLOGY LABORATORY 
+BSE682 
+1-0-5-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+SPECIAL TOPICS IN BIOLOGICAL SCIENCES 
+AND BIOENGINEERING 
+** Department of CE **
+
+[Page 5]
+Page 5 of 35 
+ 
+CE311A 
+3-0-3-0-12 
+CHM101A MTH101A 
+Course Contents: 
+References/Text Books:
+ENVIRONMENTAL QUALITY AND 
+POLLUTION 
+CE641A 
+3-0-0-0-5 
+ 
+Course Contents: 
+References/Text Books: 
+PROJECT MANAGEMENT 
+CE661 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+CHARACTERIZATION AND USE OF 
+AGGREGATES IN PAVEMENT SYSTEMS 
+CE666A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+AIR POLLUTION AND ITS CONTROL 
+EEM610 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+ENVIRONMENT TOXICOLOGY AND RISK 
+ASSESSMENT 
+EEM611 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+INDUSTRIAL WASTE MANAGEMENT 
+** Department of CHE ** 
+CHE614 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+INTRODUCTION TO HYDRODYNAMIC 
+STABILITY 
+CHE675 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+SPECTROSCOPY OF NANOMATERIALS 
+** Department of CHM **
+
+[Page 6]
+Page 6 of 35 
+ 
+CGM700. 
+----20 
+ 
+Course Contents: 
+References/Text Books:
+PROJECT 
+CHM100 
+2-0-0-0-0 
+ 
+Course Contents: 
+References/Text Books: 
+INTRODUCTION TO PROFESSION 
+CHM303 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+ORGANIC CHEMISTRY I 
+CHM343 
+0-0-6-0-4 
+CHM101N 
+Course Contents: 
+References/Text Books:
+INORGANIC CHEMISTRY LAB 
+CHM361A 
+0-0-2-0-2 
+ 
+Course Contents: 
+References/Text Books: 
+CHEMISTRY COMMUNICATION SKILLS 
+CHM404 
+0-0-6-0-2 
+# 
+Course Contents: 
+References/Text Books:
+ORGANIC CHEMISTRY LAB. 
+CHM443 
+0-0-6-0-2 
+# 
+Course Contents: 
+References/Text Books:
+INORGANIC CHEMISTRY LAB 
+CHM443A 
+0-0-6-0-6 
+ 
+Course Contents: 
+References/Text Books: 
+INORGANIC CHEMISTRY LAB 
+CHM482 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+CHEMISTRY AND OUR ENVIRONMENT
+
+[Page 7]
+Page 7 of 35 
+ 
+CHM627 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+METHODS OF ELECTRONIC STRUCTURE 
+CALCULATION 
+CHM627A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books: 
+METHODS OF ELECTRONIC STRUCTURE 
+CALCULATION 
+CHM645 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+ORBITAL INTERACTIONS IN CHEMISTRY 
+CHM676 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+INTRODUCTION TO BIONANOTECHNOLOGY 
+CHM676A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books: 
+INTRODUCTION TO BIONANOTECHNOLOGY 
+CHM683 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+SURFACES, INTERFACES, THIN FILMS & 
+RELATED ANALYTICAL TECHNIQUES 
+CHM683A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+SURFACES, INTERFACES, THIN FILMS & 
+RELATED ANALYTICAL TECHNIQUES 
+SE341 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+BIO-INORGANIC CHEMISTRY 
+SE344 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+CHEMISTRY AND OUR ENVIRONMENT
+
+[Page 8]
+Page 8 of 35 
+ 
+** Department of COM ** 
+COM200 
+1-0-2-0-5 
+ 
+Course Contents: 
+References/Text Books:
+COMMUNICATION SKILLS: COMPOSITION 
+** Department of CSE ** 
+CS100 
+2-0-0-0-0 
+ 
+Course Contents: 
+References/Text Books:
+INTRODUCTION TO PROFESSION 
+CS202 
+2-0-0-0-2 
+MTH101N 
+Course Contents: 
+References/Text Books: 
+INTRODUCTION TO MATHEMATICAL LOGIC 
+CS302 
+2-0-0-0-2 
+MTH101N 
+Course Contents: 
+References/Text Books:
+INTRODUCTION TO MATHEMATICAL LOGIC 
+CS351A 
+0-0-3-0-3 
+ 
+Course Contents: 
+References/Text Books:
+CSE 
+CS497 
+3-0-0--4 
+ 
+Course Contents: 
+References/Text Books: 
+SPECIAL TOPICS IN COMPUTER SCIENCE 
+CS620 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+MICROPROCESSOR DESIGN METHODOLOGY 
+CS629 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+PARALLEL EXECUTION OF PROGRAMS
+
+[Page 9]
+Page 9 of 35 
+ 
+CS631 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+CYBER SECURITY OF CRITICAL 
+INFRASTRUCTURES 
+CS651 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+CONCURRENT DATA STRUCTURES AND 
+ALGORITHMS 
+CS677 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+DATA AND INFORMATION FUSION 
+CS682 
+3-0-0--4 
+ 
+Course Contents: 
+References/Text Books:
+QUANTUM COMPUTING 
+CS682A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books: 
+QUANTUM COMPUTING 
+CS683A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+COMPUTATIONAL ARITHMETIC-GEOMETRY 
+& APPLICATIONS 
+CS684 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+INTRODUCTION TO ALGORITHMS AND 
+LOGICS IN GAME THEORY 
+CS685 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+DATA MINING 
+CS686 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+BIOMETRIC RECOGNITION
+
+[Page 10]
+Page 10 of 35 
+ 
+CS687 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+ALGORITHMIC INFORMATION THEORY 
+CS687A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books: 
+ALGORITHMIC INFORMATION THEORY 
+CS688 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+COMPUTATIONAL ARITHMETIC-GEOMETRY 
+& APPLICATIONS 
+CS698.D 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+SPECIAL TOPICS IN DATA COMPRESSION 
+CS698A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books: 
+SPECIAL TOPICS IN : GAME THEORY AND 
+ITS APPLICATIONS IN COMPUTER SCIENCE 
+CS698AW 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+SPECIAL TOPICS IN : GAME THEORY AND 
+ITS APPLICATIONS IN COMPUTER SCIENCE 
+CS698B 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+MATHEMATICS FOR MACHINE LEARNING 
+CS698C 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+APPLICATIONS OF SEMI-DEFINITE 
+PROGRAMMING IN COMPLEXITY 
+CS698D 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+ARITHMETIC CIRCUIT COMPLEXITY
+
+[Page 11]
+Page 11 of 35 
+ 
+CS698E 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+OPTIMIZATION TECHNIQUES 
+CS698F 
+3-0-0--9 
+ 
+Course Contents: 
+References/Text Books: 
+ADVANCED DATA MANAGEMENT 
+CS698G 
+3-0-0--2 
+CS601 
+Course Contents: 
+References/Text Books:
+INTRODUCTION TO UNIVERSAL ALGEBRA 
+CS698GT 
+3-0-0--4 
+ 
+Course Contents: 
+References/Text Books:
+GRAPH THEORY 
+CS698H 
+3-0-0--4 
+ 
+Course Contents: 
+References/Text Books: 
+ADVANCED NATURAL LANGUAGE 
+PROCESSING 
+CS698I 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+FORMAL METHODS FOR ROBOTICS AND 
+AUTOMATION 
+CS698J 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+TOPICS IN LINEAR PROGRAMMING 
+CS698K 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books: 
+APPLICATIONS OF SEMI-DEFINITE 
+PROGRAMMING IN COMPLEXITY 
+CS698L 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+ONLINE LEARNING AND OPTIMIZATION
+
+[Page 12]
+Page 12 of 35 
+ 
+CS698M 
+3-0-0-0-5 
+ 
+Course Contents: 
+References/Text Books:
+INTRODUCTION TO UNIVERSAL ALGEBRA 
+CS698N 
+3-0-0--9 
+ 
+Course Contents: 
+References/Text Books: 
+RECENT ADVANCES IN COMPUTER VISION 
+CS698O 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+ADVANCED DATA MANAGEMENT 
+CS698P 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+APPLICATIONS OF MARKOV CHAINS IN 
+COMPUTING 
+CS698Q 
+3-0-0--4 
+ 
+Course Contents: 
+References/Text Books: 
+PROBABILISTIC INFERENCE 
+CS698R 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+TOPICS IN LINEAR PROGRAMMING 
+CS698S 
+0-0-3--4 
+ 
+Course Contents: 
+References/Text Books:
+S/W DESIGN FOR HIGH PERFORMANCE 
+ARCHITECHTURE 
+CS698T 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books: 
+TYPE THEORETIC FOUNDATIONS OF 
+PROGRAMMING LANGUAGES 
+CS698U 
+0-0-3--4 
+ 
+Course Contents: 
+References/Text Books:
+CODING THEORY
+
+[Page 13]
+Page 13 of 35 
+ 
+CS698V 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+DATA MINING 
+CS698W 
+3-0-0--4 
+# 
+Course Contents: 
+References/Text Books: 
+SPECIAL TOPICS IN : GAME THEORY AND 
+ITS APPLICATIONS IN COMPUTER SCIENCE 
+CS698WA 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+SPECIAL TOPICS IN : GAME THEORY AND 
+ITS APPLICATIONS IN COMPUTER SCIENCE 
+CS698X 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+PROBABILISTIC MACHINE LEARNING 
+CS698Y 
+3-0-0--4 
+ 
+Course Contents: 
+References/Text Books: 
+TOPICS IN OBJECT ORIENTEDLANGUAGE 
+IMPLEMENTATION 
+CS698Z 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+ONLINE LEARNING AND OPTIMIZATION 
+CS718 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+SUBLINEAR ALGORITHMS FOR PROCESSING 
+MASSIVE DATA SETS 
+CS745 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+SMALL SPACE BOUNDED COMPUTATIONS 
+CS746 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+RIEMANN HYPOTHESIS AND ITS 
+APPLICATIONS
+
+[Page 14]
+Page 14 of 35 
+ 
+CS746A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+RIEMANN HYPOTHESIS AND ITS 
+APPLICATIONS 
+CS771 
+3-0-0-0-4 
+ESO209 CS210/ESO211 
+Course Contents: 
+References/Text Books: 
+MACHINE LEARNING TECHNIQUES 
+CS771A 
+3-0-0-0-9 
+MSO201A/CS201A 
+ESO207A/CS210A 
+Course Contents: 
+References/Text Books:
+MACHINE LEARNING TECHNIQUES 
+CS785 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+MULTIAGENT SYSTEMS : GAMES, 
+ALGORITHMS, EVOLUTION 
+CS797 
+0-0-0--4 
+ 
+Course Contents: 
+References/Text Books: 
+SPECIAL TOPICS IN COMPUTER SCIENCE 
+SE367 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+INTRODUCTION TO COGNITIVE SEIENCE 
+SE367A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+INTRODUCTION TO COGNITIVE SEIENCE 
+** Department of ECO ** 
+ECO525A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books: 
+PLANNING TECHNQUE
+
+[Page 15]
+Page 15 of 35 
+ 
+ECO752 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+QUANTITATIVE ANALYSIS OF 
+INTERNATIONAL TRADE 
+** Department of EE ** 
+EE100 
+2-0-0-0-0 
+ 
+Course Contents: 
+References/Text Books: 
+INTRODUCTION TO PROFESSION 
+EE401A 
+0-0-2-0-2 
+ 
+Course Contents: 
+References/Text Books: 
+ELECTRICAL ENGINEERING 
+COMMUNICATION SKILLS 
+EE609 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+CONVEX OPTIMIZATION IN SIGNAL 
+PROCESSING AND COMMUNICATIONS 
+EE617 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+INDUSTRIAL AUTOMATION AND CONTROL 
+EE644 
+3-0-0--4 
+ 
+Course Contents: 
+References/Text Books: 
+OPTICAL COMMUNICATION 
+EE644A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+OPTICAL COMMUNICATION 
+EE674 
+3-0-0--4 
+EE370 
+Course Contents: 
+References/Text Books: 
+ARCHITECTURE OF MICRO-PROCESSORS & 
+MICROCOMPUTERS
+
+[Page 16]
+Page 16 of 35 
+ 
+EE674A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+ARCHITECTURE OF MICRO-PROCESSORS & 
+MICROCOMPUTERS 
+EE698 
+3-0-0--4 
+# 
+Course Contents: 
+References/Text Books: 
+POWER MANAGEMENT CIRCUITS 
+EE698A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+POWER MANAGEMENT CIRCUITS 
+EE698B 
+3-0-0-0-9 
+# 
+Course Contents: 
+References/Text Books:
+CONTROL OF CYBER-PHYSICAL SYSTEM 
+EE698C 
+3-0-0--9 
+ 
+Course Contents: 
+References/Text Books: 
+CONSENSUS IN DISTRIBUTED MULTIAGENT 
+SYSTEM 
+EE698E 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+QUANTUM AND WAVE PHENOMENA WITH 
+ELECTRICAL APPLICATION 
+EE698G 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+PROBABILISTIC MOBILE ROBOTICS 
+EE698H 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books: 
+SYNCHROPHASOR TECHNOLOGY AND ITS 
+APPLICATIONS 
+EE698I 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+SOLAR PHOTOVOLTAIC TECHNOLOGY
+
+[Page 17]
+Page 17 of 35 
+ 
+EE698J 
+3-0-0--9 
+ 
+Course Contents: 
+References/Text Books:
+KALMAN FILTERING & APPLICATIONS 
+EE698K 
+3-0-0--4 
+ 
+Course Contents: 
+References/Text Books: 
+CHAOTIC DYNAMICAL SYSTEMS & 
+CONTROL 
+EE698L 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+COMPACT MODELING 
+EE698M 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+SELECTED TOPICS IN IMAGE & SIGNAL 
+PROCESSING 
+EE698N 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books: 
+COMPACT MODELING 
+EE698P 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+SIMULATION OF COMMUNICATION 
+SYSTEMS 
+EE698Q 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+CONVEX OPTIMIZATION IN SP/COM 
+EE698R 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books: 
+TRANSCEIVER OPTIMIZATION FOR OFDM 
+WIRELESS SYSTEM 
+EE698S 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+SPINTRONICS AND QUANTUM TRANSPORT 
+APPLICATION TO SEMICONDUCTOR 
+DEVICES
+
+[Page 18]
+Page 18 of 35 
+ 
+EE698T 
+3-0-0--4 
+ 
+Course Contents: 
+References/Text Books:
+ADVANCED TOPICS IN MULTIUSER 
+COMMUNICATION 
+EE698U 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+SPINTRONICS AND QUANTUM TRANSPORT 
+APPLICATION TO SEMICONDUCTOR 
+DEVICES 
+EE698UA 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+SPINTRONICS AND QUANTUM TRANSPORT 
+APPLICATION TO SEMICONDUCTOR 
+DEVICES 
+EE698V 
+3-0-0--4 
+ 
+Course Contents: 
+References/Text Books:
+SIMULATION OF COMMUNICATION 
+SYSTEMS 
+EE698W 
+3-0-0--4 
+ 
+Course Contents: 
+References/Text Books: 
+CONVEX OPTIMIZATION IN SP/COM 
+EE698X 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+ADVANCED MOSEFT MODELING 
+EE698Y 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+INDUSTRIAL INSTRUMENTATION FOR 
+PROCESS CONTROL 
+EE698Z 
+3-0-0--4 
+# 
+Course Contents: 
+References/Text Books: 
+TRANSCEIVER OPTIMIZATION FOR OFDM 
+WIRELESS SYSTEM 
+** Department of ES **
+
+[Page 19]
+Page 19 of 35 
+ 
+ES655A 
+3-1-0-0-11 
+ 
+Course Contents: 
+References/Text Books:
+SOLID EARTH GEOPHYSICS 
+ES656A 
+2-0-3-0-9 
+ 
+Course Contents: 
+References/Text Books: 
+GEOPHYSICAL METHODS 
+** Department of HSS ** 
+ART410 
+3-0-1--4 
+ 
+Course Contents: 
+References/Text Books: 
+VIDEO PRODUCTION - THEORY & PRACTICE 
+ART705A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+MODERN FAR-EASTERN ART 
+COM200A 
+1-0-2-0-5 
+ 
+Course Contents: 
+References/Text Books: 
+COMMUNICATION SKILLS: COMPOSITION 
+ECO112A 
+3-1-0-0-11 
+ 
+Course Contents: 
+References/Text Books: 
+INTRODUCTON TO MACROECONOMIC 
+PROBLEMS AND POLICIES 
+ECO201. 
+3-1-0--4 
+ 
+Course Contents: 
+References/Text Books:
+MICROECONOMICS - I 
+ECO409 
+3-1-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+DYNAMIC MACROECONOMICS
+
+[Page 20]
+Page 20 of 35 
+ 
+ECO444 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+EMPIRICAL METHODS IN APPLIED 
+MICROECONOMICS 
+ECO504A 
+3-0-0-0-9 
+ECO201A/ECO221A/ECO101A 
+Course Contents: 
+References/Text Books: 
+ECONOMIC ANALYSIS OF LAW 
+ECO523 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+ECONOMIC GROWTH THEORY AND 
+PRACTICE 
+ECO540 
+3-0-0-0-4 
+ECO311/ECO312 
+Course Contents: 
+References/Text Books:
+HISTORY OF ECONOMIC DEVELOPMENT 
+ECO753 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+LABOUR ECONOMICS 
+ECO754 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+GAME THEORY 
+ECO755 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+CONTRACT TREORY 
+ENG121A 
+----4 
+ 
+Course Contents: 
+References/Text Books: 
+ENGLISH LANGUAGE AND COMPOSITION 
+ENG121B 
+----4 
+ 
+Course Contents: 
+References/Text Books:
+ENGLISH LANGUAGE AND COMPOSITION
+
+[Page 21]
+Page 21 of 35 
+ 
+PHI141. 
+3-1-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+INTRODUCTION TO PHILOSOPHY 
+PHI784 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+TWENTIETH CENTURY CONTINENTAL 
+PHILOSOPHY 
+PSY792 
+2-0-3-0-4 
+ 
+Course Contents: 
+References/Text Books:
+INTRODUCTION TO QUANTITATIVE 
+STATISTICS USING R 
+PSY792A 
+2-0-3-0-9 
+ 
+Course Contents: 
+References/Text Books:
+INTRODUCTION TO QUANTITATIVE 
+STATISTICS USING R 
+PSY794 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+DISASTER MENTAL HEALTH 
+SOC171. 
+3-1-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+INTRODUCTORY SOCIOLOGY 
+** Department of IME ** 
+IME672 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+DATA MINING AND KNOWLEDGE 
+DISCOVERY 
+IME684 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+SIMULATION AND SCHEDULING OF 
+MANUFACTURING
+
+[Page 22]
+Page 22 of 35 
+ 
+MBA644 
+3-0-0--4 
+ 
+Course Contents: 
+References/Text Books:
+KNOWLEDGE STRATEGIES & MANAGEMENT 
+VLM601 
+0-0-0-0-5 
+ 
+Course Contents: 
+References/Text Books: 
+PRODUCT DESIGN AND NEW PRODUCT 
+MANAGEMENT 
+VLM602 
+0-0-0-0-2 
+ 
+Course Contents: 
+References/Text Books:
+SUPPLY CHAIN MANAGEMENT 
+VLM603 
+0-0-0-0-2 
+ 
+Course Contents: 
+References/Text Books:
+ADVANCE MATERIALS 
+VLM604 
+0-0-0-0-3 
+ 
+Course Contents: 
+References/Text Books: 
+AUTOMATION & ROBOTICS IN 
+MANUFACTURING 
+VLM605 
+0-0-0-0-2 
+ 
+Course Contents: 
+References/Text Books:
+COMPUTER INTEGRATED MANUFACTURING 
+SYSTEMS 
+VLM606 
+0-0-0-0-2 
+ 
+Course Contents: 
+References/Text Books:
+DATA ANALYSIS AND DECISION MAKING 
+** Department of LT ** 
+LT680 
+1-0-3--4 
+LT601 LT631 
+Course Contents: 
+References/Text Books: 
+M TECH LAB TECHNIQUES 
+** Department of MDES **
+
+[Page 23]
+Page 23 of 35 
+ 
+DES604 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+DESIGN THINKING & RESEARCH METHODS 
+DES604A 
+2-0-3-0-9 
+ 
+Course Contents: 
+References/Text Books: 
+DESIGN THINKING & RESEARCH METHODS 
+DES605 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+PRODUCT DESIGN AND PROTOTYPING 
+DES606 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+INTERACTION DESIGN FOR PHYSICAL 
+PRODUCTS 
+DES630 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+FUNDAMENTALS OF GRAPHICS 
+DES631 
+2-0-2-0-4 
+ 
+Course Contents: 
+References/Text Books:
+PSYCHOLOGICAL PRINCIPLES AND DESIGN 
+DES633 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+INTEGRATED PRODUCT DEVELOPMENT-I 
+DES634 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+ELECTRONICS FOR DESIGNERS 
+DES635 
+2-0-3-0-4 
+ 
+Course Contents: 
+References/Text Books:
+METHODS FOR DESIGN RESEARCH
+
+[Page 24]
+Page 24 of 35 
+ 
+** Department of ME ** 
+ME100 
+1-0-2-0-0 
+ 
+Course Contents: 
+References/Text Books:
+INTRODUCTION TO PROFESSION 
+ME624 
+3-0-0-0-4 
+ME681 
+Course Contents: 
+References/Text Books: 
+CALCULUS OF VARIATIONS 
+ME670 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+ADDITIVE MANUFACTURING 
+ME672 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+MICROMANUFACTURING PROCESSES 
+ME698 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+INTRODUCTION HYDRODYNAMIC 
+STABILITY 
+ME698B 
+3-0-0--9 
+ 
+Course Contents: 
+References/Text Books: 
+GEOPHYSICAL FLUID DYNAMICS 
+ME698C 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+MECHANICS OF ICE 
+ME698D 
+3-0-0--4 
+ 
+Course Contents: 
+References/Text Books: 
+SPECIAL TOPICS : MICROMACHINING
+
+[Page 25]
+Page 25 of 35 
+ 
+ME698E 
+3-0-0--4 
+ 
+Course Contents: 
+References/Text Books:
+BIO-MEMS AND MICROSYSTEMS 
+ME698F 
+3-0-0-0-4 
+ME681 
+Course Contents: 
+References/Text Books: 
+BIFURCATION THEORY 
+ME698G 
+3-0-0--4 
+ME321 
+Course Contents: 
+References/Text Books:
+PHASE TRANSFORMATION 
+ME698H 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+VISCOELASTICITY 
+ME698I 
+3-0-0--4 
+ 
+Course Contents: 
+References/Text Books: 
+CONTACT MECHANICS 
+ME698J 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+FABRIONICS 
+ME698K 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+INTERFACES IN SOLIDS 
+ME698L 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+ASYMPTOTICS AND PERTUBATION 
+METHODS 
+ME698M 
+3-0-0--4 
+ 
+Course Contents: 
+References/Text Books:
+NON - LINEAR FINITE ELEMENT 
+TECHNIQUES IN SOLID MECHANICS
+
+[Page 26]
+Page 26 of 35 
+ 
+ME698N 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+NON - LINEAR FINITE ELEMENT 
+TECHNIQUES IN SOLID MECHANICS 
+ME701 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+DESIGN FOR MANUFACTURE & ASSEMBLY 
+** Department of MME ** 
+MME330. 
+----4 
+ 
+Course Contents: 
+References/Text Books: 
+IRON AND STEELMAKING 
+MME470 
+3-0-2-0-5 
+MME370 
+Course Contents: 
+References/Text Books:
+MANUFACTURING PROCESS 
+** Department of MSE ** 
+MSE421 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+IRON AND STEEL MAKING 
+MSE421A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books: 
+IRON AND STEEL MAKING 
+MSE422 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+SELECTION AND DESIGN OF ENGINEERING 
+MATERIALS 
+MSE422A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+SELECTION AND DESIGN OF ENGINEERING 
+MATERIALS
+
+[Page 27]
+Page 27 of 35 
+ 
+MSE470 
+3-0-2-0-5 
+MSE370 
+Course Contents: 
+References/Text Books:
+MANUFACTURING PROCESS 
+MSE601 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+DISPLAY MATERIALS & TECHNOLOGIES 
+MSE608 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+MICROSTRUCTURE MODELLING AND 
+SIMULATION 
+MSE608A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+MICROSTRUCTURE MODELLING AND 
+SIMULATION 
+MSE624 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+ENERGY MATERIALS AND TECHNOLOGIES 
+** Department of MTH ** 
+MSO202 
+3-1-0-0-2 
+ 
+Course Contents: 
+References/Text Books: 
+COMPLEX VARIABLES 
+MSO202A 
+3-1-0-0-6 
+ 
+Course Contents: 
+References/Text Books:
+COMPLEX VARIABLES 
+MTH101T 
+3-1-0-1-4 
+ 
+Course Contents: 
+References/Text Books: 
+MATHEMATICS I SLOW PACED
+
+[Page 28]
+Page 28 of 35 
+ 
+MTH205 
+3-1-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+INTRODUCTION TO FOURIER SERIES 
+MTH205A 
+3-1-0-0-11 
+ 
+Course Contents: 
+References/Text Books: 
+INTRODUCTION TO FOURIER SERIES 
+MTH309 
+3-1-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+PROBABILITY THEORY 
+MTH425 
+3-1-0-0-2 
+MSO201 
+Course Contents: 
+References/Text Books:
+DISTRIBUTIONS IN STATISTICS 
+MTH426 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+AN INTRODUCTION TO MATHEMATICAL 
+MODELLING 
+MTH426A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+AN INTRODUCTION TO MATHEMATICAL 
+MODELLING 
+MTH511. 
+3-1-0-0-4 
+ESO209 
+Course Contents: 
+References/Text Books:
+ESSENTIAL OF CODING THEORY 
+MTH552 
+----4 
+ 
+Course Contents: 
+References/Text Books: 
+STATISTICAL & AI TECHIQUES IN DATA 
+MINING 
+MTH622 
+3-0-0-0-4 
+# 
+Course Contents: 
+References/Text Books:
+FRACTAL INTERPOLATION AND 
+APPLICATIONS
+
+[Page 29]
+Page 29 of 35 
+ 
+MTH622A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+FRACTAL INTERPOLATION AND 
+APPLICATIONS 
+MTH663 
+3-0-0--4 
+# 
+Course Contents: 
+References/Text Books: 
+ANALYTICAL TECHNIQUES FOR PDE 
+MTH673 
+3-0-0-0-4 
+MTH418 
+Course Contents: 
+References/Text Books:
+ROBUST STATISTICAL METHODS 
+MTH676 
+3-0-0-0-4 
+# 
+Course Contents: 
+References/Text Books:
+ECONOMETRICS 
+MTH677 
+3-0-0--4 
+# 
+Course Contents: 
+References/Text Books: 
+SET THEORIES AND LOGICS 
+MTH679 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+SPATIO-TEMPORAL MODELS IN 
+MATHEMATICAL BIOLOGY 
+MTH679A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+SPATIO-TEMPORAL MODELS IN 
+MATHEMATICAL BIOLOGY 
+MTH705 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+WAVELET METHODS FOR ELLIPTIC PARTIAL 
+DEFFERENTIAL EQUATIONS 
+MTH706 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+NUMERICAL ANALYSIS & SCIENTIFIC 
+COMPUTING
+
+[Page 30]
+Page 30 of 35 
+ 
+MTH706A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+NUMERICAL ANALYSIS & SCIENTIFIC 
+COMPUTING 
+MTH715 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+FREDHOLM THEORY 
+MTH719 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+INTRODUCTION TO HOMOGENIZATION 
+MTH719A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+INTRODUCTION TO HOMOGENIZATION 
+MTH720 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+NUMERICAL SOLUTION OF INTEGRAL 
+EQUATIONS 
+MTH729 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+ERGODIC THEORY 
+MTH739 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+TOPICS IN LIE GROUPS AND LIE ALGEBRAS 
+MTH759 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+ALGEBRIC TOPOLOGY II 
+MTH759A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+ALGEBRIC TOPOLOGY II
+
+[Page 31]
+Page 31 of 35 
+ 
+** Department of NET ** 
+NT661 
+3-0-0-0-4 
+NT602/NT611 
+Course Contents: 
+References/Text Books:
+SAFETY ANALYSIS OF NUCLEAR POWER 
+REACTORS 
+NT661A 
+3-0-0-0-9 
+NT602A/NT611A 
+Course Contents: 
+References/Text Books: 
+SAFETY ANALYSIS OF NUCLEAR POWER 
+REACTORS 
+NT698 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+SPECIAL TOPICS 
+** Department of PHY ** 
+PHY103. 
+3-1-0-0-11 
+ 
+Course Contents: 
+References/Text Books:
+PHYSICS II 
+PHY557A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+BATCHLOR OF SCIENCE PROJECT -III 
+PHY558A 
+0-0-1-2-9 
+ 
+Course Contents: 
+References/Text Books: 
+BATCHLOR OF SCIENCE PROJECT -IV 
+PHY590B 
+----4 
+ 
+Course Contents: 
+References/Text Books:
+SPECIAL TOPICS IN PHYSICS: ADVANCED 
+FIELD THEORY 
+PHY610 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+INTRODUCTION TO BIOPHOTONICS
+
+[Page 32]
+Page 32 of 35 
+ 
+PHY632 
+3-0-0-0-4 
+# 
+Course Contents: 
+References/Text Books:
+TRANSPORT IN MESOSCOPIC SYSTEMS 
+PHY645 
+3-0-0--4 
+ 
+Course Contents: 
+References/Text Books: 
+ELECTROMAGNETIC METAMATERIALS AND 
+PLASMONICS 
+PHY651 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+INTRODUCTION TO ASTROPHYSICAL FLUID 
+PHY659 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+SPECIAL & GENERAL RELATIVITY 
+PHY663 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+MATHEMATICAL METHODS II 
+PHY672 
+3-0-0--4 
+ 
+Course Contents: 
+References/Text Books:
+PHYSICS OF TURBULENCE 
+PHY679 
+3-0-0-0-4 
+PHY680/PHY681 
+Course Contents: 
+References/Text Books:
+THE STANDARD MODEL OF FUNDAMENTAL 
+PHYSICS 
+PHY682 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+CONCEPTS OF PLASMA PHYSICS 
+PHY690B 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+QUANTUM PHASES IN NANO-SCALE SYSTEM
+
+[Page 33]
+Page 33 of 35 
+ 
+PHY690C 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+PRINCIPLES OF LASERS AND DETECTORS 
+PHY690E 
+0-0-0--4 
+ 
+Course Contents: 
+References/Text Books: 
+QUANTUM DYNAMICS 
+PHY690F 
+3-0-0--4 
+ 
+Course Contents: 
+References/Text Books:
+QUANTUM DYNAMICS: COMPUTATION & 
+INFORMATION 
+PHY690G 
+3-0-0--9 
+ 
+Course Contents: 
+References/Text Books:
+COHERENCE & QUANTUM ENTANGLEMENT 
+PHY690H 
+3-0-0-0-4 
+# 
+Course Contents: 
+References/Text Books: 
+GREEN NANOTECHNOLOGIES 
+PHY690I 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+COSMOLOGY 
+PHY690J 
+3-0-0--4 
+ 
+Course Contents: 
+References/Text Books:
+GROUP THEORY AND ITS APPLICATIONS TO 
+PARTICLE PHYSICS 
+PHY690K 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books: 
+QUANTUM DYNAMICS, INFORMATION AND 
+COMPUTATION 
+PHY690L 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+QUANTUM OPTICS II
+
+[Page 34]
+Page 34 of 35 
+ 
+PHY690M 
+3-0-0--9 
+ 
+Course Contents: 
+References/Text Books:
+ADVANCED GENERAL RELATIVITY AND 
+BLACK HOLES 
+PHY690N 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+GAUGE THEORY AND RENORMALIZATION 
+PHY690O 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+GAUGE THEORY AND RENORMALIZATION 
+PHY690P 
+3-0-0--4 
+ 
+Course Contents: 
+References/Text Books:
+SPINTRONICS 
+PHY690Q 
+3-0-0--4 
+ 
+Course Contents: 
+References/Text Books: 
+COOPERATIVE PHENOMENA IN CLASSICAL 
+& QUANTUM SYSTEMS 
+PHY690R 
+3-0-0--4 
+ 
+Course Contents: 
+References/Text Books:
+QUANTUM DYNAMICS, INFORMATION AND 
+COMPUTATION 
+PHY690S 
+3-0-0--4 
+ 
+Course Contents: 
+References/Text Books:
+TYPE II SUPERCONDUCTORS VORTICES & 
+APPLICATIONS 
+PHY690T 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books: 
+TYPE II SUPERCONDUCTORS VORTICES & 
+APPLICATIONS 
+PHY690U 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books:
+ADVANCE GENERAL RELATIVITY AND 
+BLACK HOLES
+
+[Page 35]
+Page 35 of 35 
+ 
+PHY690W 
+3-0-0-0-2 
+ 
+Course Contents: 
+References/Text Books:
+INTRODUCTION TO HIGH PERFORMANCE 
+COMPUTING FOR SCIENTISTS AND 
+ENGINEERS 
+PHY690Y 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books: 
+COHERENCE & QUANTUM ENTANGLEMENT 
+PHY693 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+INTRODUCTION TO SPINTRONICS 
+PHY695 
+3-0-0-0-4 
+ 
+Course Contents: 
+References/Text Books:
+NONLINEAR SYSTEM & DYNAMICS 
+PHY695A 
+3-0-0-0-9 
+ 
+Course Contents: 
+References/Text Books: 
+NONLINEAR SYSTEM & DYNAMICS 
+PHY697A 
+0-0-20-0-12 
+ 
+Course Contents: 
+References/Text Books:
+M SC RESEARCH PROJECT -I 
+PHY697B 
+0-0-20-0-12 
+ 
+Course Contents: 
+References/Text Books:
+M SC RESEARCH PROJECT-II 
+PSO201A 
+2-1-0-0-8 
+ 
+Course Contents: 
+References/Text Books: 
+QUANTUM PHYSICS

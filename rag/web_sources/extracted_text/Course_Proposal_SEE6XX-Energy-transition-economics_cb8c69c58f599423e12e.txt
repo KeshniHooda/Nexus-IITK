@@ -1,0 +1,144 @@
+[Page 1]
+Indian Institute of Technology, Kanpur 
+Proposal for a New Course 
+
+1. Course No: SEE6xxx 
+2. Course Title: Energy Transition Economics: Market, Policy, and Quantitative Modeling 
+3. Per Week Lectures: 3 (L) 
+Credits (3*L+2*T+P+A): 9 
+ 
+Duration of Course: Full Semester 
+4. Proposing Department/IDP: Sustainable Energy Engineering 
+Other Departments/IDPs which may be interested in the proposed course: 
+ECO, DOMS, CE, EE, CHE 
+Other faculty members interested in teaching the proposed course: 
+5. Proposing Instructor(s): Deepika Swami 
+6. Course Description: This course provides an understanding of the energy systems from an 
+economic perspective, focusing on how resources are allocated, priced, and governed to meet 
+growing energy needs under environmental and sustainability constraints. It explains the 
+drivers of energy demand and supply, evaluates energy investments using standard financial 
+and economic criteria, and assesses the functioning of energy markets. Students will also gain 
+the ability to interpret energy data, apply decomposition and elasticity concepts, and utilize 
+modeling frameworks to analyze future energy scenarios and transition pathways. Overall, the 
+course will equip them with the capacity to critically evaluate alternative energy strategies and 
+support evidence-based decision-making in the context of climate change and low-carbon 
+development. 
+A) Objectives: The objective of this course is to develop an understanding of the economic 
+principles governing energy systems and their role in shaping energy transitions. The course 
+aims to equip students with the analytical tools required to examine energy demand and supply, 
+evaluate investments, assess market behaviour, and analyze policy instruments designed to 
+address market failures and climate change. By integrating concepts of efficiency, economic 
+decision-making, and quantitative modeling, the course enables students to critically evaluate 
+conventional and low-carbon energy pathways. These tools enable students to evaluate long-
+term energy pathways, technology choices, and policy impacts under uncertain market 
+scenarios. 
+ 
+B). Contents 
+ 
+S. No 
+Broad Title 
+Topics 
+No. of Lectures 
+1. 
+Energy Landscape 
+1.1.Energy transition in historical perspective 
+1.2.Global and Indian energy scenario 
+1.3.Energy consumption and energy flow 
+1.4.Fossil fuels and Renewable Energy 
+1.5.Energy and Climate Change 
+4 
+2. 
+Energy resource 
+management 
+2.1. Energy as an economic resource 
+2.2. Energy measurement 
+2.3. Energy accounting 
+2.4. Efficiency and Optimization 
+5
+
+[Page 2]
+Indian Institute of Technology, Kanpur 
+Proposal for a New Course 
+ 
+2.5. Sustainable supply chain 
+3. 
+Economics of energy 
+demand 
+3.1.Factors driving energy demand 
+3.2.Price and income elasticity of energy 
+demand 
+3.3.Sectoral energy demand 
+3.4.Decomposition Analysis: IDA, LMDI 
+3.5.Behavioral economics 
+3.6.Digitization and AI 
+10 
+4. 
+Energy Supply: 
+Quantitative 
+assessment 
+4.1.Decision tools for energy based investment 
+4.2.Economic vs. financial evaluation 
+4.3.Net present value, Levelized Cost of 
+Energy 
+4.4.Marginal Utility 
+4.5.Marginal Abatement Cost Curve 
+4.6.Sensitivity and Scenario Analysis 
+8 
+5. 
+Market and Policy 
+instruments 
+5.1.Tax, Subsidy 
+5.2.Carbon tariff and trading, CCTS, ETS 
+5.3.Regulatory frameworks 
+5.4.Command and Control 
+5.5.Fiscal incentives 
+5.6.Trade and International Policy, CBAM 
+7 
+6. 
+Energy models 
+6.1.LEAP 
+6.2.TIMES-MARKAL 
+6.3.SimaPro 
+6.4.GREET 
+6 
+ 
+B) Pre-requisites, if any (examples: a- PSO201A,or b- PSO201A or equivalent): None 
+C) Short summary for including in the Courses of Study Booklet 
+This course offers a systems-level perspective on the economic drivers shaping the global and 
+Indian energy transition, linking resource constraints, market structures, technological change, 
+and climate imperatives. It prepares students to interpret real-world energy challenges using 
+data-driven insights and analytical reasoning relevant for policy, industry, and research. 
+7. Recommended 
+books: 
+Textbooks 
+• Bhattacharyya, S. C. (2019). Energy economics: concepts, issues, markets and 
+governance. Springer Nature. 
+• Nersesian, R. L. (2016). Energy economics: markets, history and policy. Routledge. 
+• Vanek, F., Albright, L. D., & Angenent, L. (2008). Energy systems engineering. 
+McGraw-Hill Professional Publishing. 
+• Zweifel, P., Praktiknjo, A., & Erdmann, G. (2017). Energy economics: theory and 
+applications. Springer.
+
+[Page 3]
+Indian Institute of Technology, Kanpur 
+Proposal for a New Course 
+ 
+Reference books 
+• Bala, B. K. (2022). Energy Systems Modeling and Policy Analysis. CRC Press. 
+• Giannakidis, G., Labriet, M., Gallachóir, B., & Tosato, G. (2015). Informing energy and 
+climate policies using energy systems models. Springer International Publishing, 
+Switzerland. Doi, 10(1007), 973–978. 
+• Halkos, G. (2023). Modeling Energy-Environment-Economy Interrelations. MDPI-
+Multidisciplinary Digital Publishing Institute. 
+
+8. Any other remarks: 
+ 
+Dated: 14/03/2026 Proposer: Deepika Swami 
+Dated: 
+DUGC/DPGC Convener: 
+
+ 
+The course is approved / not approved 
+
+Chairman, SUGC/SPGC 
+Dated:

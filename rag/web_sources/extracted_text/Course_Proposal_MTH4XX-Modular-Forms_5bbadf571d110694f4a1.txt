@@ -1,0 +1,127 @@
+[Page 1]
+Indian Institute of Technology, Kanpur 
+Proposal for a New Course 
+ 
+1. Course No: MTH4XX/5XX (UG course) 
+ 
+2. Course Title: Modular Forms 
+ 
+3. Per Week Lectures: _3__(L), Tutorial: __0_(T), Laboratory: ___0 (P), Additional Hours 
+[0-2]: 0___(A), 
+ Credits (3*L+2*T+P+A): 9____ Duration of Course: Full Semester 
+ 
+4. Proposing Department/IDP: Mathematics and Statistics 
+Other faculty members interested in teaching the proposed course: Somnath Jha, Saurabh 
+Kumar Singh. 
+ 
+5. Proposing Instructor: Sudhanshu Shekhar 
+ 
+6. Course Description: 
+ A) Objectives: This course develops the analytic theory of modular forms. Students study 
+the modular group and its subgroups, the fundamental domain, modular forms of integral 
+weight, Eisenstein series, cusp forms, the valence (dimension) formula, Petersson inner 
+product, Hecke operators, and L-functions, including analytic continuation and functional 
+equation. 
+ 
+ B) Contents: 
+S. No 
+Broad Title 
+Topics 
+No. of Lectures 
+1 
+The Modular Group 
+SL(2,Z); generators 
+and relations; action 
+on upper half-plane; 
+fundamental 
+domain. 
+4
+
+[Page 2]
+2 
+Congruence 
+Subgroups 
+Gamma(N), 
+Gamma0(N); cusps; 
+quotient spaces. 
+3 
+3 
+Modular Forms 
+Definition, 
+transformation law; 
+growth at cusps; 
+q-expansion. 
+4 
+4 
+Eisenstein Series 
+Definition, 
+convergence; 
+Fourier expansion; 
+classical examples. 
+4 
+5 
+Cusp Forms 
+Definition, 
+examples, and 
+structure of spaces 
+of modular forms. 
+4 
+6 
+Valence and 
+Dimension Formula 
+Valence formula; 
+dimension formula 
+for Mk(SL(2, Z)). 
+4 
+7 
+Petersson Inner 
+Product 
+Definition, 
+orthogonality 
+relations; basic 
+properties. 
+3 
+8 
+Hecke Operators 
+Double cosets; 
+Hecke algebra; 
+eigenforms; 
+multiplicativity of 
+Fourier coefficients. 
+6 
+9 
+L-functions 
+Dirichlet series 
+attached to 
+eigenforms; analytic 
+continuation; 
+functional equation. 
+8 
+ 
+ C) Pre-requisites: Instructor’s consent. 
+ D) Short summary for inclusion in the Courses of Study Booklet 
+Course Description 
+This course introduces the analytic theory of modular forms. Students study the modular 
+group, the fundamental domain, Eisenstein series, cusp forms, the dimension formula, the 
+Petersson inner product, Hecke operators, and associated L-functions, including their 
+analytic continuation and functional equation.
+
+[Page 3]
+7. Recommended books: 
+1. F. Diamond and J. Shurman, A First Course in Modular Forms, Springer. 
+2. T. Miyake, Modular Forms, Springer. 
+3. S. Lang, Introduction to Modular Forms, Springer. 
+4. J.S. Milne, Modular Functions and Modular Forms (online notes). 
+ 
+8. Any other remarks: 
+ 
+Dated: _____23/02/26_________________________ Proposer: ___Sudhanshu 
+Shekhar_________________________ 
+ 
+Dated: _______________ DUGC/DPGC Convener: ___________________ 
+ 
+The course is approved / not approved 
+ 
+Chairman, SUGC/SPGC 
+ 
+Dated: ______________________________

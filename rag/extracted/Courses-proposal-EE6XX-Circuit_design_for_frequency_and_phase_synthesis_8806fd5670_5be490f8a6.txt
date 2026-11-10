@@ -1,0 +1,104 @@
+[PAGE 1]
+Indian Institute of Technology,
+
+Kanpur Proposal for a New Course
+
+1. Course No: EE698G (Old Course No)
+
+2. Course Title: Circuit design for frequency and phase synthesis
+
+3. Per Week Lectures: 3 (L), Tutorial: (T), Laboratory: _   _(P), Additional Hours[0-2]:
+(A), Credits (3*L+2*T+P+A): 9 Duration of Course: Full Semester
+
+4. Proposing Department/IDP: EE
+5. Proposing Instructor(s): Chithra (chithra@iitk.ac.in)
+Other faculty members interested in teaching the proposed course:
+R. S. Ashwin Kumar (ashwinrs@iitk.ac.in), Imon Mondal (imon@iitk.ac.in)
+
+6. Course Description:
+
+Objectives: The following are the course objectives.
+  Understand the necessity for clock and delay generation circuits
+  Learn basics of time-to-digital converters
+  Understand basics of phase noise and jitter
+  Learn to analyze and design delay-locked loops
+  Learn to analyze and design ring oscillators
+  Learn to analyze and design phase-locked loops
+
+Contents (preferably in the form of 5 to 10 broad titles):
+
+S.     Broad                    Topics                 No.       of
+No.       Title                                             Lectures
+(1.5   hours
+each)
+1.    Delay lines    Implementation of delay-lines, variable delay     2
+lines, time-digital converters (TDC), flash
+TDC, PVT variations.
+2.    Delay-locked  Phase detectors: multipliers, sample & hold,      9
+loop     XOR, and latch-based phase detectors,
+phase frequency detector (PFD), Locking in
+a DLL, Locking non-idealities: False locking,
+harmonic locking, static phase offset, charge
+pump implementation, small signal phase
+domain model for the DLL
+4.   Phase noise & Noise, power spectral density, thermal and       6
+jitter               flicker noise, jitter definitions, jitter
+characterization, relationship between phase
+noise & jitter, phase noise analysis of VCO,
+
+[PAGE 2]
+inverter, delay lines; jitter in delay lines vs.
+ring oscillators.
+5.      Oscillators   Review of start-up condition for oscillations,      6
+analyzing the startup condition in oscillators,
+Overdesigning the gain condition in
+Barkhausen criteria and its effects on
+oscillation, oscillation frequency of a ring
+oscillator: small-signal vs large signal
+analysis, LC tank, impedance transformation
+in LC tank, common source amplifier with LC
+tank load, building an oscillator with LC tank,
+cross-coupled oscillator, one-port view of
+oscillators, three-point oscillator, ring
+oscillator, tuning a ring oscillator.
+6.   Phase-locked   Motivations for a feedback loop with            3
+loop         oscillator, phase-locking vs frequency
+locking, building a phase-locked loop (PLL),
+stability analysis of PLL, charge-pump PLL,
+STF & NTFs in PLL, reference spurs.
+Total        26
+Lectures (1.5
+hours each)
+
+A) Pre-requisites: ESC201 (Introduction to electronics) & EE200 (Signals and Systems)
+
+B) Short summary for including in the Courses of Study Booklet: Delay lines,
+variable delay lines, delay locked-loop, phase detectors, phase-frequency detector,
+locking in a DLL, locking non-idealities, phase noise & jitter, relationship between
+phase noise and jitter, oscillators, analyzing the startup condition in oscillators, LC
+oscillators, ring oscillators, one-port view of oscillators, three-point oscillator, tuning a
+ring oscillator, motivation for phase locked loop, frequency locking vs phase locking,
+charge-pump PLL.
+
+7. Recommended reference: There is no single reference for this.
+It will be based on multiple journal articles that will be shared along with the
+relevant lectures.
+
+Evaluation Policy: Mini-quizzes + Assignments – 25%, Midsem – 25%, Endsem – 25%
+Project – 25%
+
+8. Course strength last three times:
+
+Jan 2022: 16; Jan 2023: 12; Jan 2024: 23
+
+[PAGE 3]
+Dated: 14/02/2025                                         Proposer: Chithra
+
+Dated:                                   DUGC/DPGC Convener:
+
+The course is approved / not
+approved
+
+Chairman, SUGC/SPGC
+
+Dated:

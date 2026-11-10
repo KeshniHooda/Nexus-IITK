@@ -1,0 +1,81 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Department of Economic Sciences
+
+New Course Proposal
+
+1. Course No: ECO7XX
+
+2. Course Title: An Introduction to Derivatives Pricing.
+
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours: 0
+Credits: 9
+
+4. Duration of Course: Full Semester Course
+
+5. Proposing Department: Economic Sciences
+
+6. Other Departments which may be interested: Department of Management Sciences
+
+7. Other faculty members interested in teaching the proposed course:
+
+8. Proposing instructor: Joydeep Dutta
+
+9. Level of the course: PG
+
+10. Course Description: This course introduces the students to the exiting field of pricing
+financial derivatives under no arbitrage hypothesis. The key idea for pricing these financial
+instruments is the introduction of the risk-neutral probabilities. To make the course largely self-
+contained we will describe the pricing problem both in discrete time and continuous. The course
+will culminate in deriving the famous Black-Scholes price for a European call option using the
+risk-neutral pricing approach. The mathematical tools needed for this course like, conditional
+expectation, martingales, Brownian motion, geometric Brownian motion, Ito’s Integral and Ito
+calculus will be discussed in detail.
+
+A) Objectives: To equip the students with enough material on quantitative finance so that they
+can either start doing basic research in mathematical finance or may also join as quants in
+finance companies and investment firms.
+
+B) Contents
+
+S. No  Broad Title                Topics                               No.
+1       Basics of Financial          Options, Futures, Forwards, Arbitrage,      Lectures
+Derivative                 Hedging, Complete Market Hypothesis     3
+
+[PAGE 2]
+Derivative Pricing in         Pricing European Call option, Basics of    12
+2       Discrete time               Asset Pricing and pricing American Call
+Options
+3      Mathematical Tools         Geometric Brownian Motion, Ito’s        12
+Integral and Ito Calculus
+4       Derivatives Pricing in       Black-Scholes Formula, Interest Rate
+Continuous Time           Models, Stochastic Volatility             12
+
+5      Monte-Carlo Methods in    Using Monte-Carlo Method to compute    2
+Finance                      the price of a European call Option
+
+C) Prerequisites: HSO 201/HSO 201A, MSO 201/MSO 201A or any basic probability course.
+
+D) Short summary for including in the Courses of Study Booklet: This course is for the study
+of pricing financial derivatives under the no arbitrage hypothesis. The topics include, basics of
+financial derivatives, no arbitrage, binomial pricing model, risk-neutral probabilities, basics of
+asset pricing, pricing American options in discrete time, Conditional Expectations, Martingales,
+Brownian Motion, Geometric Brownian Motion, Ito’s Integral, Ito’s Calculus, Black-Scholes
+PDE, the Greeks, Girsanov’s Theorem, Risk-Neutral Valuation, Interest rate models, stochastic
+volatility, Monte-Carlo Methods in Finance.
+
+11) Recommended textbooks:
+1. Steven. S. Shreve, Stochastic Calculus for Finance, Vol -I and Vol-2, Springer 2004.
+
+2. Y. K. Kwok, Mathematical Models of Financial Derivatives, Second Edition, Springer 2008.
+
+Dated: 12 th February 2024                                     Proposer: Joydeep Dutta
+
+Dated:                           DPGC Convener:
+
+The course is approved/not approved
+
+Chairman, SPGC
+
+Dated:

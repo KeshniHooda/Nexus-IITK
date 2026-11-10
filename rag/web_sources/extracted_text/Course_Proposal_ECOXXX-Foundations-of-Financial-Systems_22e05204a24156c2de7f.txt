@@ -1,0 +1,127 @@
+[Page 1]
+Indian Institute of Technology Kanpur 
+Proposal for a New Course 
+1. Course Number: ECO281 
+2. Course Title: Foundations of Financial Systems 
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours: 0 
+Credits: (3*L+T +P+A): 9 credits 
+Duration of Course: Full Semester 
+4. Proposing Department: Economic Sciences 
+5. Proposing Instructor: Bikramaditya Datta 
+6. Course Description: 
+This course provides a rigorous introduction to the foundations of financial systems, 
+combining economic theory with practical applications. Students will learn to analyse 
+financial decision-making under uncertainty, understand how financial markets function, and 
+evaluate why such markets sometimes fail. 
+Part I develops the theory of individual financial decision-making: intertemporal choice, 
+decision-making under uncertainty, and behavioural deviations from rationality. Part II 
+examines financial markets: how they enable risk sharing, aggregate information, and 
+allocate capital - and how information asymmetries cause market failures. The course 
+emphasises both the economics of markets (why they work or fail) and the engineering of 
+marketplaces (how they are designed and can be improved). 
+A) Objectives: Upon completion, students will be able to: 
+1. Analyse personal financial decisions using models of intertemporal choice, risk, and 
+behavioural bias; 
+2. Evaluate financial products including credit, insurance, and retirement savings vehicles; 
+3. Explain how financial markets enable risk sharing, price discovery, and information 
+aggregation; 
+4. Identify when and why markets fail due to adverse selection and moral hazard; 
+5. Apply economic reasoning and market design principles to real-world financial problems. 
+~ ~ 
+1
+
+[Page 2]
+B) Contents: 
+*Duration of each lecture = 75 minutes. 
+C) Pre-requisites: Probability (HSO201/MSO201/MSO205/CS203). 
+D) Short summary for including in the Courses of Study Booklet: Analytical foundations of 
+financial systems for students interested in finance, fintech, and policy. Part I covers financial 
+decision-making: intertemporal choice, risk and uncertainty, and behavioural biases. Part II 
+examines financial markets: trading and market design, risk sharing and arbitrage, information 
+aggregation, and market failures from adverse selection and moral hazard. Combines 
+economic theory with practical applications and market design principles. 
+S. No.
+Broad Title
+Topics
+No. of 
+Lectures*
+Part I
+Financial Decision-Making
+1.
+Intertemporal Choice and 
+Lifecycle Planning
+Time value of money, savings puzzle, 
+two-period model, lifecycle hypothesis, 
+inflation and money illusion, credit
+4
+2
+Present Bias and Self-
+Control
+Hyperbolic discounting, time 
+inconsistency, commitment devices, 
+projection bias, mental accounting
+2
+3
+Risk, Uncertainty and 
+Portfolio Choice
+Expected utility, risk aversion, portfolio 
+choice, insurance demand
+4
+4
+Behavioural Finance and 
+Investment Behaviour
+Prospect theory, loss aversion, framing, 
+diversification, overtrading, investor 
+biases
+4
+Part II
+Financial Markets
+5
+Trading and Market Design
+Order books, market microstructure, 
+high-frequency trading
+2
+6
+Risk Sharing, Securities and 
+Arbitrage
+Why markets exist, securitisation, 
+Arrow-Debreu securities, arbitrage 
+principle
+4
+7
+Information Aggregation in 
+Financial Markets
+Hayek and the price system, prediction 
+markets, efficient market hypothesis
+2
+8
+Adverse Selection and Moral 
+Hazard in Financial Markets
+Hidden information, credit rationing, 
+screening, hidden action, insurance 
+design, monitoring
+4
+~ ~ 
+2
+
+[Page 3]
+7. Recommended books: 
+1) Household Financial Management by Sumit Agarwal and Yeow Hwee Chua. World 
+Scientific. 2023. 
+2) Microeconomics for Managers by David Kreps. Princeton University Press. 2nd 
+edition, 2019. 
+3) Intermediate Microeconomics with Calculus by Hal Varian. Norton. 1st edition, 2014. 
+4) Economic and Financial Decisions under Risk by Louis Eeckhoudt, Christian Gollier 
+and Harris Schlesinger. Princeton University Press. 2005. 
+5) Securities Trading: Principles and Procedures by Joel Hasbrouck. 2025. Available 
+online at https://pages.stern.nyu.edu/~jhasbrou/STPP/STPPindex.html 
+6) Networks, Crowds and Markets by David Easley and Jon Kleinberg. Cambridge 
+University Press. 2010. 
+7) Development Economics by Debraj Ray. Oxford University Press. 1998. 
+Dated: January 25, 2026. Proposer: Bikramaditya Datta 
+Dated:____________ DUGC Convener: _____________ 
+The course is approved / not approved 
+Chairman, SUGC 
+Dated: _______________
+~ ~ 
+3

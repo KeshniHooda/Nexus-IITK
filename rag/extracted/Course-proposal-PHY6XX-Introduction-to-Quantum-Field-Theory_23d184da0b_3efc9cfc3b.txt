@@ -1,0 +1,80 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course
+
+1.  Course No: A 600 level elective number requested.
+2.  Course Title: Introduction to Quantum Field Theory
+3.  No. of Lectures per week: 3 (L), Tutorial: 1 (T), Laboratory: 0 (P), Additional Hours[0-2]: 0 (A),
+Credits (3*L+2*T+P+A): 11                    Duration of Course: Full Semester
+4.  Proposing Department/IDP : PHY.
+Other Departments/IDPs which may be interested in the proposed course: MTH.
+Other faculty members interested in teaching the course: Joydeep Chakrabortty, Diptarka Das, Nilay Kundu,
+Apratim Kaviraj, Debtosh Chowdhury, Sabyasachi Chakraborty.
+5.  Proposing Instructor: Arjun Bagchi (PHY)
+6.  Course Description:
+
+A) Objectives: Quantum field theory is the basic framework of understanding the laws of nature and the
+basic building blocks of the universe. This is fundamental to all branches of theoretical physics starting from
+condensed matter physics to the theory of elementary particles. This course is a first course on the subject
+aimed at students who have a background of quantum mechanics and statistical mechanics.
+B) Contents:
+
+S. No.  Broad Title                                    Topics                           No. of Lectures
+
+1.      Introduction and     •  Why QFT                                                  6
+Classical field        •  From point particles to classical fields
+theory                          •  Some basics of Lie groups and Lie algebras
+•  Symmetries and Noether’s theorem
+
+2.     Canonical          •   Klein-Gordon Equation                                       7
+Quantization of    •   Simple Harmonic Oscillator
+free scalar fields    •   Free Quantum Fields
+•  Complex Scalar Fields
+•   Causality and Propagators
+
+3.      Interacting fields   •   Interaction Picture, Scattering, Wick's Theorem.                   9
+•  Feynman Diagrams and Feynman Rules
+•   Amplitudes, Decays and Cross Sections, Green's Functions
+•  Connected Diagrams and Vacuum Bubbles
+
+4.     Fermions and      •   Lorentz Group, Clifford Algebras and Spinor Representation          8
+their quantization  •  The Dirac Lagrangian and the Dirac equation
+•  Symmetries and Currents, Plane Wave Solutions
+•   Fermionic Quantization
+•   Propagators, Feynman Rules
+5.    Quantum          •  Gauge Invariance and Quantization                             9
+Electrodynamics    •   Including Matter
+•   Propagators, Feynman Rules
+•  QED Processes.
+Total number of lectures:        39
+
+[PAGE 2]
+C) Pre-requisites: PHY421, PHY431, PHY 432, PHY422 (Desirable).
+
+D) Short summary for including in the Courses of Study Booklet: Quantum field theory is the basic framework of
+understanding the laws of nature and the basic building blocks of the universe. This is fundamental to all branches
+of theoretical physics starting from condensed matter physics to the theory of elementary particles. This course is a
+first course on the subject aimed at students who have a background of quantum mechanics and statistical
+mechanics.
+
+7.  Recommended books:
+•  M. Peskin and D. Schroeder: An Introduction to Quantum Field Theory
+•   S. Weinberg: The Quantum Theory of Fields: Vol 1.
+•  M. Scredniki: Quantum Field Theory
+•    L. Ryder: Quantum Field Theory
+•   A. Zee: Quantum Field Theory in a Nutshell.
+
+___________________________________________________________________________________________
+
+Dated: 31 March 2024.                                      Proposer: Arjun Bagchi (               ).
+
+Dated: 31 March 2024      DPGC Convener (PHY):___________________
+
+The course is approved / not approved
+
+____________________________________
+
+Chairman, SPGC
+
+Dated:______________________________

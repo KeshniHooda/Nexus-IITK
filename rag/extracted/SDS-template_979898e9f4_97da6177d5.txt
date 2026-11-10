@@ -1,0 +1,161 @@
+[PAGE 1]
+Templates for programs Statistics and Data Sciences (SDS)
+
+Template for the BS program in Statistics and Data Sciences
+
+Semester 1            Semester 2      Semester 3       Semester 4     Semester 5        Semester 6       Semester 7       Semester 8
+SCHEME-1 (9)           ETH111 (3) **     SCHEME-2 HSS-I (9-  SCHEME-3 EME  MTH442 (10)        SCHEME-4 HSS-II (9)  SCHEME-5 HSS-II (9)  SCHEME-6 HSS-II (9)
+ELC111/ELC112/ELC113 *                       11)                    (9-11)
+MTH 111 (6)           MTH 113 (6)       ESC201 (14)       MTH211 (11)   MTH441 (10)       MTH422 (10)       DE-1 (9)            DE-4 (9)
+MTH 112 (6)           MTH 114 (6)      MTH301 (11)      MTH210 (10)     E/SO-3: ESO207 (12)  MTH314 (10)       DE-2 (9)            DE-5 (9)
+PHY 115 (11)             PHY 114 (11)       ESO/SO-1:       MTH212M (06)  E/SO-4 MSO202M   MTH312 (5)        DE-3 (9)            OE-5 (9)
+MSO205 (11)      Modular 1st     (6)
+half)
+PHY 111 (3)           CHM 111 (3)      MTH207M (6)     MTH209 (5)                    MTH443 (10)       OE-3 (9)           OE-6 (9)
+TA 111 (9)                 ESC 111 (7)      MTH208 (05)       ESO/SO-2 (9)     OE-1 (09)            OE-2 (09)          OE-4 (9)
+CHM 112 (4)               ESC 112 (7)
+CHM 113 (4)                 LIF111 (6)
+PE111 (3)                 PE112 (3)
+55                52             56-58           50-52            47              53              54              45
+
+–   Note 1: UGPs are NOT mandatory. However, depending on the consent of supervisor(s), a student may take up to 3 UGPs of 09 credits each against DE/OE (UGP will be counted
+as OE if taken outside the department as consented by the DUGC) requirements. A student can also take a 4th UGP, that however will NOT be counted towards fulfilling the
+graduation requirements.
+
+‒   Note 2: (As per the existing Senate approved program) Up to 45 credits of internships in lieu of open electives can be taken. This can be done through the courses MTH321
+Internship I, MTH322 Internship II, MTH323 Internship III, MTH324 Internship IV, MTH325 Internship V, of 9 credits each. One would have an option to earn 45 credits of OE through
+internship courses by spending a full semester in an industry or may do online internships (under one or more OEs) from industry, spread across different semesters. The
+process for enrolling in the internship courses is as follows: the student identifies a viable internship opportunity in the general realm of statistics and data science and
+identifies a supervisor in the MTH department. The student, in consultation with the host industry/organization submits a proposal to the Department Undergraduate
+Committee (DUGC) with the approval of the industry liaison and the departmental supervisor, upon which it will be evaluated for approval and requisite number of credits (in
+multiples of 9) will be decided. The grading scheme for the internship courses will be S/X.
+-  DC courses of BS/MTH will be counted as Open Elective only for BS/SDS.
+Credit table for BS program in Statistics and Data Sciences
+Course type              Allowable Credit       Credits in the department
+Institute Core (IC)        112               112
+E/SO                    18-45              38
+Department            144-179             154 (109 DC + 45 DE)
+Open electives (OE)       51-57              54
+SCHEME                 54-58               54-58
+Total for 4-year BT/BS     391-420            412-416
+
+[PAGE 2]
+Template for the BSH program in Statistics and Data Sciences
+
+Template for 3rd to 8th semester BSH program in Statistics and Data Sciences
+Semester 3    Semester 4     Semester 5     Semester 6    Semester 7  Semester 8
+SCHEME-2 HSS-I  SCHEME-3      MTH442 (10)    SCHEME-4      SCHEME-5     SCHEME-6
+(9-11)        EME (9-11)                             HSS-II (9)          HSS-II (9)        HSS-II (9)
+ESC201 (14)    MTH211 (11)    MTH441 (10)    MTH422 (10)   DE-1 (9)       DE-2 (9)
+MTH301 (11)   MTH210 (10)     E/SO-3:        MTH314 (10)   OE-3 (9)       DE-3 (9)
+ESO207 (12)
+ESO/SO-1:    MTH212M (06)   E/SO-4        MTH312 (5)    OE-4 (9)      OE-6 (9)
+MSO205 (11)   Modular 1st   MSO202M (6)
+half)
+MTH207M (6)  MTH209 (5)                 MTH443 (10)   OE-5 (9)      UGP-2 (9)
+(Modular 2nd
+half)
+MTH208 (05)   ESO/SO-2 (9)     OE-1 (09)        OE-2 (09)      UGP-1 (9)
+DEH-1 (9)      DEH-2 (9)     DEH-3 (9)
+56-58         50-52         47            62           63         54
+
+–   CPI Criterion for BSH: 8.5
+
+–   Note 1: A student may take additional UGP3 of 09 credits against DE/OE (UGP will be counted as OE if taken outside the department as consented by the DUGC)
+requirements. A student can also take a 4th UGP that however will NOT be counted towards fulfilling the graduation requirements.
+
+–   Note 2: (As per the existing Senate approved program) Up to 45 credits of internships in lieu of open electives can be taken. This can be done through the
+courses MTH321 Internship I, MTH322 Internship II, MTH323 Internship III, MTH324 Internship IV, MTH325 Internship V, of 9 credits each. One would have an
+option to earn 45 credits of OE through internship courses by pending a full semester in an industry or may do online internships (under one or more OEs)
+from industry, spread across different semesters. The process for enrolling in the internship courses is as follows: the student identifies a viable internship
+opportunity in the general realm of statistics and data science and identifies a supervisor in the MTH department. The student, in consultation with the host
+industry/organization submits a proposal to the Department Undergraduate Committee (DUGC) with the approval of the industry liaison and the
+departmental supervisor, upon which it will be evaluated for approval and requisite number of credits (in multiples of 9) will be decided. The grading scheme
+for the internship courses will be S/X.
+
+–   For BSH, student has to do 27 credits of DEH courses from the Honors course basket given below.
+–  UGP-1 and UGP-2 are mandatory UGPs for BSH
+–  DC courses of BS/MTH will be counted as Open Elective only for BS/SDS.
+
+[PAGE 3]
+Template for BSM program in Statistics and Data Sciences
+
+Template for 3rd to 8th semester BSM program in Statistics and Data Sciences
+Semester 3    Semester 4     Semester 5     Semester 6    Semester 7  Semester 8
+SCHEME-2 HSS-I  SCHEME-3      MTH442 (10)    SCHEME-4 HSS-II SCHEME-5     SCHEME-6
+(9-11)        EME (9-11)                               (9)                HSS-II (9)        HSS-II (9)
+ESC201 (14)    MTH211 (11)    MTH441 (10)    MTH422 (10)   DE-1 (9)       DE-2 (9)
+MTH301 (11)   MTH210 (10)     E/SO-3:        MTH314 (10)   OE-2 (9)      OE-3 (9)
+ESO207 (12)
+ESO/SO-1:    MTH212M (06)   E/SO-4        MTH312 (5)    MTB-2 (9)    MTB-5 (9)
+MSO205 (11)   Modular 1st   MSO202M (6)
+half)
+MTH207M (6)  MTH209 (5)                 MTH443 (10)   MTB-3 (9)    MTB-6 (9)
+(Modular 2nd
+half)
+MTH208 (05)   ESO/SO-2 (9)     OE-1 (09)       MTB-1 (9)      MTB-4 (9)
+56-58         50-52         47            53           54         45
+
+-  DC courses of BS/MTH will be counted as Open Elective only for BS/SDS.
+
+[PAGE 4]
+Template for five-year dual-degree program in Statistics and Data Sciences
+
+BS-MS PG Part – Category A (from the same program)
+COURSES
+IX Semester                           X Semester
+MS Project – (PGP 1, PGP 2)         18  MS Project - (PGP 3, PGP 4)       18
+DE PG - I                        09  DE PG-II                      09
+OE PG - I                        09  OE PG-III                     09
+OE PG - II                        09  OE PG - IV                    09
+Total                          45                             45
+
+Minimum credit requirement in MS part for graduation: 90
+36 OE credits may be waived off in the UG requirements
+DC courses of BS/MTH will be counted as Open Elective only for BS/SDS.
+
+[PAGE 5]
+BS-MS PG Part – Category B (from other programs)
+UG Pre-Requisites
+Odd Semester                                                       Even Semester
+MTH301 – Analysis I                                              11  MTH211 – Theory of Statistics                                  11
+MTH210 – Statistical Computing                                10
+MTH207M – (Modular) Matrix Algebra and Linear Estimation (module        06  MTH212M – (Modular) Elementary Stochastic Processes-I            06
+II)
+
+MTH442- Time Series Analysis                                      10  MTH422-An Introduction to Bayesian Analysis                     10
+
+MTH441 – Linear Regression and ANOVA                              10  MTH314 – Multivariate Analysis                                10
+
+MTH208 - Data Science Lab I                                        05   MTH443-Statistical & AI Techniques in Data Mining                  10
+
+MTH209 – Data Science Lab II                                   05
+MTH312 – Data Science Lab III                                  05
+
+Total                                                         42                                                           67
+PG Requirement
+Odd Semester                                                       Even Semester
+MS Project – (PGP 1, PGP 2)                                        18  MS Project - (PGP 3, PGP 4)                                    18
+DE PG - I                                                       09  DE PG-II                                                   09
+OE PG - I                                                       09  OE PG-III                                                   09
+OE PG - II                                                      09  OE PG - IV                                                  09
+Total                                                         45                                                           45
+
+36 OE credits may be waived off in the UG requirements
+
+Pre-requisite courses are mandatory for DD-B
+
+DC courses of BS/MTH will be counted as Open Elective only for BS/SDS.
+
+[PAGE 6]
+Minors in in Statistics and Data Sciences Statistics and Data Science
+
+1. MSO 205 - Introduction to Probability Theory or MSO201 or HSO 201 or CS 203
+
+2. MTH 211 - Theory of Statistics
+
+3. MTH 441 - Linear Regression and ANOVA
+
+4. MTH 208 – Data Science Lab I
+
+The incoming strength would be limited to 20% of the sanctioned strength of the program as per section 10.6.4 of UG manual.

@@ -1,0 +1,246 @@
+[PAGE 1]
+Step by Step User
+Guide
+
+Using Multiple Channels to Create ABC ID
+
+for Academic Institutions
+
+Date: 20 September 2023                                  Version 1.0
+
+[PAGE 2]
+Step by Step Guide
+ABC ID Creation
+
+Contents
+
+Contents
+
+Contents .......................................................................... 2
+
+Introduction ..................................................................... 3
+
+Benefits of ABC ID creation via Multiple Channels ....................... 3
+
+Academic Institution Mode .................................................... 4
+
+o Bulk ID creation via NAD Portal ....................................... 5
+
+Page 2 of 10
+
+[PAGE 3]
+Step by Step Guide
+ABC ID Creation
+
+Introduction
+
+This comprehensive step-by-step guide is designed to establish a structured
+
+framework for the systematic generation of Academic Bank of Credits (ABC) IDs
+
+across diverse platforms.
+
+This guide encompasses the entire process of generating ABC IDs for students
+
+through a range of channels, including academic institution portals, DigiLocker,
+
+UMANG, the Academic Bank of Credits portal, and the "UIDSE+" mode for bulk ID
+
+creation. Furthermore, it delineates the procedures for academic institutions to
+
+undertake bulk creation of student ABC IDs, leveraging the National Academic
+
+Depository (NAD) and dedicated APIs.
+
+Academic Institutions are equipped with two distinct options for creating ABC
+
+IDs in bulk. They can opt for the National Academic Depository, a specialized
+
+portal dedicated to managing academic  records,  for bulk  ID generation.
+
+Alternatively, they can leverage dedicated APIs designed for facilitating the
+
+creation of bulk ABC IDs.
+
+Benefits of ABC ID creation
+
+Creating ABC IDs offers numerous benefits, including:
+• Unique Student ID: The issuance of ABC IDs assigns a distinct and permanent
+
+identifier to each student, commencing from Class I. This ensures seamless
+
+academic tracking throughout their educational journey.
+• Academic  Progress  Monitoring:  ABC  IDs  facilitate  continuous  and
+
+comprehensive monitoring of students' academic performance from the
+
+outset.
+•  Highlighting Areas for Growth: Educators have the  ability to pinpoint
+
+subject-specific areas where students may benefit from additional support
+
+Page 3 of 10
+
+[PAGE 4]
+Step by Step Guide
+ABC ID Creation
+
+based on  their academic  data  linked  to ABC  IDs,  enabling  targeted
+
+interventions for improvement.
+•  Streamlined Record Keeping: The ABC system provides a secure and
+
+organized repository for students' academic records, greatly diminishing the
+
+need  for  cumbersome  paper-based  documentation  and  simplifying
+
+administrative tasks.
+• Enhanced Student Flexibility: The ABC empowers students with the freedom
+
+to multiple entry, multiple exit in their educational program, fostering a
+
+personalized learning journey.
+• Long-Term Credit Storage: Student credits are securely preserved for a
+
+maximum of 7 years, ensuring that their academic achievements remain
+
+accessible and relevant throughout their career.
+•  Streamlined Credit Transfer: The system offers a single-window platform
+
+for the seamless transfer of credits, simplifying the process after the
+
+approval of both the sending and receiving academic institutions.
+•  Verified  Institution  Uploads:  Only  verified academic  institutions  are
+
+authorized to upload credits, maintaining the integrity of the system and
+
+ensuring the credits accumulation.
+
+Academic Institution Mode
+In the case of Academic Institutions, they can create ABC IDs in bulk from the
+
+National Academic Depository portal or from dedicated APIs. The creation of
+
+Bulk ABC IDs via NAD is discussed in detail here.
+
+Register under NAD              Sign-In and Opt         Prepare and upload         Export the
+ABC ID creation          CSV as per the          generated ABC
+sample format                  IDs
+
+Page 4 of 10
+
+[PAGE 5]
+Step by Step Guide
+ABC ID Creation
+
+Bulk ID creation via NAD Portal
+
+Step 1: Account Creation
+
+•  Begin by accessing the National Academic Depository (NAD)  portal at
+
+https://nad.digilocker.gov.in/.
+
+•   If you are a new user representing an academic institution, register your
+
+account.
+
+Page 5 of 10
+
+[PAGE 6]
+Step by Step Guide
+ABC ID Creation
+
+•   If you already have an account, log in using your DigiLocker-NAD credentials.
+
+Step 2: Accessing Utilities
+
+• Once logged in, navigate to the Account owner Name and select the "Utilities"
+
+option.
+
+Page 6 of 10
+
+[PAGE 7]
+Step by Step Guide
+ABC ID Creation
+
+Step 3: ABC ID Creation
+
+•  Under "Utilities," choose the "ABC ID Creation" option.
+
+Step 4: Sample File Download
+
+•  Download the provided sample file. This file will serve as a template for bulk
+
+ABC ID creation.
+
+Page 7 of 10
+
+[PAGE 8]
+Step by Step Guide
+ABC ID Creation
+
+Step 5: Data Preparation
+
+•  Prepare the bulk ABC ID data file in CSV format using Microsoft Excel or any
+
+compatible software.
+
+•  Define the following headers in the file:
+o AADHAAR NAME: Candidate's name as per their Aadhaar card.
+o DOB: Candidate's date of birth in DD/MM/YYYY format as per their Aadhaar
+card.
+o GENDER: Candidate's gender (Use "M" or “Male” for male, "F" or “Female”
+for female, and "O" for other).
+o AADHAAR: Candidate's 12-digit Aadhaar number.
+o MOBILE: Candidate's 10-digit mobile number linked to their Aadhaar.
+o REGN_NO: Candidate's registration/enrollment number provided by the
+institution.
+o RROLL: Candidate's roll number provided by the institution. Institutions
+can use either or both fields as per their structure.
+o Save the file in CSV format.
+
+Page 8 of 10
+
+[PAGE 9]
+Step by Step Guide
+ABC ID Creation
+
+Step 6: Uploading Data
+
+•  Return to the portal, specifically to the "ABC ID Creation" page.
+•  Upload the CSV file you prepared. After uploading, click the "Next"
+
+button to submit the file. You can monitor the upload status on the
+
+right side of the screen.
+
+Step 7: Monitoring Upload Status
+
+•  In the "Upload Status" section, you can view the real-time status of the
+
+uploaded file.
+•  Within a few hours, a response file will be generated, which includes
+
+the ABC ID of the candidates. It also has a remarks column explaining
+
+reasons if an ID was not created.
+
+Page 9 of 10
+
+[PAGE 10]
+Step by Step Guide
+ABC ID Creation
+
+Step 8: Reviewing the Response File
+
+o The response file will be downloaded from the uploaded status, providing
+
+ABC IDs of the candidates and any associated remarks.
+
+By following these steps, academic institutions can efficiently create ABC IDs for
+
+their students within the National Academic Depository (NAD) system.
+
+Page 10 of 10

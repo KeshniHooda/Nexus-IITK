@@ -1,0 +1,198 @@
+[PAGE 1]
+INDIAN INSTITUTE OF TECHNOLOGY KANPUR
+
+DEPARTMENT OF MANAGEMENT SCIENCES
+
+Proposal for New Course
+
+1. Course Title: Digital Transformation: From Conceptualization to Realization
+2. Course Number: DMSXXX
+3.  Credits: 3-0-0-1[10]
+4.  Duration of the course: Full semester
+5.  Proposing Instructor: Suvendu Naskar
+6.  Proposing department: Management Sciences
+7.  Pre-requisite Courses: None. Understanding of the technology landscape and overall business
+models and business processes will help.
+8. Other Interested Faculty:
+
+Course Description
+
+This course provides a comprehensive understanding of digital transformation, exploring the
+
+journey from initial conceptualization to successful implementation. Students will delve into the
+
+theoretical foundations, strategic approaches, technological advancements, implementation processes,
+
+and practical case studies essential for leading digital transformation initiatives.
+
+Emergence of Industry 4.0, Smart machines and constantly evolving technology landscape, every
+
+single organization is aiming to achieve the full potential of emerging technologies ahead of maturity.
+
+This not only ensures that they remain in the efficient frontier of the race but also ensures that they
+
+remain relevant to the constantly evolving business landscape. In today’s date even the established
+
+businesses are constantly abreast of the potential competitions, which may come from any direction,
+
+making itself ready for technology backed process reengineering. For instance, an e-commerce firm can
+
+challenge the conventional business entity such bank or insurance. All these are possible due to the
+
+disruptive capability of digital technologies, that not only revamp existing business process often create
+
+new business process.
+
+This course is designed keeping in mind senior MBA, M.Tech or senior UG’s who are going to
+
+be the trailblazer of the current digital revolution. This course is highly case based, interactive and small
+
+class set up. In this experiential and participatory learning based course, external senior executives will
+
+[PAGE 2]
+complement class room theories. The objective is to ensure that participants are not only involved
+
+understanding the nuances of digital transformation, by the end of the course they should be able to think
+
+business process from the lens of emerging technologies.
+
+Course Objective:
+
+  Understand the need and potential impact of digital, and learn to adapt to this fast-changing
+
+environment
+  Build a strong foundation in the current competitive market through a high level digital-led
+
+strategy
+  Explore emerging technologies like AI, Generative AI, IoT, Blockchain, Bigdata, Cloud
+
+Computing. The technologies that are expected to be covered are moving agenda and will be
+
+updated with time.
+  Create strategic & operational plans across the value chain
+  Use techniques to calculate risks and rewards of digital implementation in the changing industry
+
+landscape
+  Analyze real-world case studies to understand the impact and challenges of digital
+
+transformation.
+
+Course Content
+
+Sl.       Broad Title                             Topics                         No. of
+No.                                                                              Lectures
+1.   Introduction to Digital  Overview, Historical background, trends and drivers of     2
+Transformation           digital transformation
+Digital Transformation    2.                         Understanding popular frameworks, Strategic planning for   2
+Frameworks and
+digital transformation, Building a roadmap         Strategies
+3.   Technologies           Introductory sessions of all critical technologies such as     4
+Enabling Digital        AI, Big-Data, IIoT, Cloud Computing, Additive
+Transformation         Manufacturing, 3-D printing, Blockchain and any other as
+seem appropriate at the time of course
+4.   Digital culture and      Leading digital strategy and ensuring cultural change at the  2
+Organization Change    core.Skills and competency development, role of top
+Management          management in leading the initiatives
+5.  Implementing Digital   Design and execution, Managing transformation project,    2
+Transformation        Measuring Success and ROI.
+6.   Building Information    Operating Models, Enterprise architecture, social          2
+capabilities for digital   circumstances and presence, innovation mechanisms
+initiatives
+7.  Case studies and Best  Few critical digital transformation cases in retail,          5
+
+[PAGE 3]
+Practices               manufacturing, healthcare, banking, Insurance etc.
+8.   Risks and Mitigation    Potential risks                                      2
+Strategies
+9.   Future of Digital         Sustainability and Digital Transformation, Digital          3
+Transformation         Transformation in the emerging concept of Information
+economies
+10.  Presentations/Business  Present your business plan                            3
+applications
+
+Remark:
+
+This is a course which is intended to align and mimic current trends in the Industry. Therefore majority of
+
+the content will be picked from contemporary Industry reports, Company announcements and analyst’s reports.
+
+This is an application and Industry oriented course for students who intend to join industry as business analyst,
+
+functional analyst, management trainee or similar roles in another year or so.
+
+  Students will read class material, study best and worst practices, compare and contrast
+
+real-world examples, engage in problem solving, and participate in discussions related
+
+to the course material.
+  Majority of course materials, cases and frameworks will evolve over time and might
+
+change over the period.
+  Industry practitioners will be invited to share their experience of digital journey in
+
+addition to on class theory and discussions.
+  Students are not expected to just listen but start to think digitally. Therefore at the end
+
+of the course students will be asked to develop their own digital business plans based
+
+on class discussion. This is a major component of evaluation. This is to ensure the
+
+thought process in absorbed philosophically.
+
+This course does not require any specific software, however access to several Industry reports and
+
+technology commentaries, assessments and consulting frameworks will be immensely helpful.
+
+Textbooks & References
+
+Listed below are some of the indicative books, other resources will be shared during class based on the
+expertise and ability of students/participants.
+
+Text Books:
+  "Leading Digital: Turning Technology into Business Transformation" by George Westerman,
+Didier Bonnet, and Andrew McAfee.
+   “Digital Transformation: Survive and Thrive in an Era of Mass Extinction" by Thomas M.
+
+[PAGE 4]
+Siebel.
+   “Digital Business Models Perspectives on Monetisation” by Adam Jabłoński, Marek Jabłoński
+  “EDGE: Value-Driven Digital Transformation “ by David Robinson, Jim Highsmith, and Linda
+Luu
+   “Digital to the Core: Remastering Leadership for Your Industry, Your Enterprise, and Yourself”
+by Mark Raskino and Graham Waller
+
+In addition to books mentioned above, this course will heavily rely upon latest conferences, research
+
+reports and contemporary research articles.
+
+   Articles and Papers: Latest research and industry reports on digital transformation.
+  Online Resources: Access to relevant webinars, podcasts, and online courses.
+  Case Studies: Real-world case studies from Harvard Business Review, McKinsey & Company,
+
+and other reputable sources.
+
+Assessment Methods:
+
+  Assignments and Quizzes: Analytical essays, case study analyses, strategic planning exercises,
+
+technology evaluations. (20%)
+
+   Projects: Develop a comprehensive digital transformation strategy for a hypothetical or real
+
+organization, including detailed implementation plans and ROI analysis. (30%)
+
+  Examinations: Mid-term AND/OR final exams covering theoretical and practical aspects of
+
+digital transformation. (30%)
+
+   Participation: Active participation in discussions/attendance, group activities, and peer
+
+reviews.(20%)
+
+Signature of Proposer:
+
+Sd/- Suvendu Naskar [Date: 30 Nov 2024]
+
+This course is Approved/ Not Approve          This course is Approved/ Not Approved DPGC
+
+Convener, DoMS                              Chairperson SPGC

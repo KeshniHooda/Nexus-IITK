@@ -1,0 +1,103 @@
+[Page 1]
+Indian Institute of Technology, Kanpur
+Proposal for a New Course
+1. Course No: ME6xxM (suggested)
+2. Course Title: Basic Nonlinear Optimization
+3. Per Week Lectures: 3 (L), Tutorial: 
+ (T), Laboratory: _ _(P), Additional Hours[0-2]: 
+ (A), 
+Credits (3*L+2*T+P+A): 5 Duration of Course: Modular [Half a Semester]
+4. Proposing Department/IDP : Mech Engg
+Other Departments/IDPs which may be interested in the proposed course: 
+ All Engg Departments, Physics, Mathematics, Economics etc.
+Other faculty members interested in teaching the proposed course: V R Iyer, U Roy, M K Das
+5. Proposing Instructor(s): P Wahi and B Dasgupta 
+6.
+Course Description:
+A) Objectives: This Modular Course intends to acquaint the students with the Basic Concepts and Methods of 
+Optimization, in a general (nonlinear) setting --- handling convex problems mostly in a sense of corollary --- for `Engg 
+Analysis, Design and Research’ in applications as well as in optimization algorithms themselves. Further, it covers 
+the basic algorithms and problems in a variety of areas: including univariate/multivariate, unconstrained/constrained, 
+linear/nonlinear and classical/special formulations; with a focused reference to the linear/nonlinear least square 
+problems which are of universal interest among learners and researchers. 
+Thus, this modular course, in the space of half a semester, covers the essential and basic elements of optimization, enabling the 
+student to pursue the individual areas through other specialized/advanced courses (for example, the follow-up proposal of ME8xxM)
+OR informed self-study. 
+B) Contents (preferably in the form of 5 to 10 broad titles):
+S. No.
+Broad Title
+Topics
+Lectures
+1.
+Fundamental 
+Concepts
+Application and Scope, Historical Development, 
+Mathematical Background, Concept of Convexity; 
+Optimization Problems,Formulation, Algorithms.
+5
+2.
+Univariate 
+Optimization
+Basic Theory, Derivative Based Methods,Region 
+Elimination Methods; Idea of Line Search.
+2
+3.
+Multivariate 
+Optimization
+Fundamentals, Direct Methods, The Method of 
+Steepest Descent, Newton's Method.
+4
+4.
+Equation Solving
+and Least Square
+Problems
+Hybrid Method, Solution of Nonlinear Equations 
+and Systems, Least Square Problems. 
+2
+5.
+Framework of 
+Constrained 
+Optimization
+Constraints, First and Second Order Conditions,
+Sensitivity and Duality; Families of Methods 
+for Constrained Optimization --- Basic 
+Operational Rules of Lagrange Methods and 
+Penalty Methods.
+5
+6.
+Special Topics 
+(time allowing) 
+A few selected topics (problems and methods) 
+outside the `above' framework. 
+2
+C) Pre-requisites, if any (examples: a- PSO201A,or b- PSO201A or equivalent): None
+
+[Page 2]
+D) Short summary for including in the Courses of Study Booklet: This course intends to acquaint the students with 
+the Basic Concepts and Methods of Nonlinear Optimization --- including, among examples, general nonlinear problems as well 
+as LP, QP and other Convex Programming Problems as special cases --- for Engg Analysis, Design and `Research in application 
+areas as well as in optimization algorithms themselves’. Further, it covers the basic algorithms of a variety of optimization 
+methods and problems; with special reference to the linear/nonlinear least square problems which are of universal interest 
+among learners and researchers.
+7. Recommended books:
+Textbooks: 
+(a) ``Optimization for Engineering Design: Algorithms and Examples'' by K Deb.
+(b) ``Optimization Concepts and Applications in Engineering'’ by Belegundu and Chandrupatla. 
+Reference books: 
+(a) ``Linear and Nonlinear Programming’’ by Nash and Sofer. 
+(b) ``Engineering Optimization: Theory and Practice’’ by S S Rao.
+ 8. Any other remarks: [A rich course in optimization methods remains a valued legacy among department/institute students for around 
+four decades (possibly longer) in the institute. This enabling/optional attempt to extract out of it a pair of modular courses (ME6xxM and ME8xxM) is 
+intended to make/keep it more relevant with time for different sections of its audience, also making it easier to offer for instructors in busy semesters.]
+Dated: 
+ 
+ Proposer: 
+
+Dated: 
+ 
+ DUGC/DPGC Convener: 
+ 
+ _
+The course is approved / not approved
+Chairman, SUGC/SPGC
+Dated:

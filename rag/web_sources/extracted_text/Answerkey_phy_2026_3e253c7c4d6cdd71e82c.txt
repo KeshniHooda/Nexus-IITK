@@ -1,0 +1,618 @@
+[Page 1]
+Quiz Questions — olympiad2026
+Q1.
+Quiz Multichoice Single Answer Questions
+ A particle of mass 
+ moves in a horizontal circle of radius 60 cm on a smooth table with speed 
+. The
+particle is connected by a light inextensible string that passes through a small frictionless hole 
+ at the
+centre of the table, as shown in the figure. The string is then slowly pulled downward until the radius
+becomes 20 cm. The work done by the person pulling the string is
+1. 
+2. 
+3. 
+ (correct)
+4. 
+Score: 4
+ Negative Score: 1
+m
+v0
+O
+2mv2
+0
+3mv2
+0
+4mv2
+0
+8mv2
+0
+
+[Page 2]
+Q2.
+Quiz Multichoice Single Answer Questions
+As shown in the figure, one mole of a monatomic ideal gas is enclosed in a horizontal cylinder fitted with a
+frictionless movable piston of area 
+. The piston is attached to a spring of spring constant . The outer
+side of the piston is exposed to the atmosphere at pressure 
+. Initially, the spring is in its natural length,
+and the gas has pressure 
+, volume 
+, and temperature 
+, such that 
+. The gas is now
+heated very slowly. Consider a very small rise in temperature 
+ starting from this initial state. The heat
+supplied to the gas is
+1. 
+2. 
+ (correct)
+3. 
+4. 
+Score: 4
+ Negative Score: 1
+Q3.
+Quiz Multichoice Single Answer Questions
+Three blocks of mass 
+, 
+ and 
+ are placed on a co-linear smooth track in the order from left to right,
+respectively, as shown in the figure. Their masses are respectively, 
+, 
+, and 
+, respectively. Initially,
+blocks 
+ and 
+ are at rest, while block 
+ moves to the right with speed 
+. All collisions are perfectly
+elastic and take place along the same straight line. The final speed of block 
+ is
+1. (correct)
+2. 
+3. 
+4. 
+Score: 4
+ Negative Score: 1
+A
+k
+P0
+P0
+V0
+T0
+kV0 = A2P0
+dT
+3
+2 RdT
+2RdT
+5
+2 RdT
+3RdT
+A B
+C
+3m m
+2m
+B
+C
+A
+V0
+A
+0
+v0
+2
+v0
+4
+v0
+6
+
+[Page 3]
+Q4.
+Quiz Multichoice Single Answer Questions
+As shown in the figure, a truncated-cone shaped object of length 
+ is made of a material of thermal
+conductivity . The radius of the object is at the left end and increases uniformly to 
+ at the right end.
+The surface of the object is perfectly insulated. The left end is kept at temperature 
+, and the right end is
+kept at temperature 
+. After steady state is reached, the temperature at the point midway along the length
+of the object is
+1. 
+ (correct)
+2. 
+3. 
+4. 
+Score: 4
+ Negative Score: 1
+Q5.
+Quiz Multichoice Single Answer Questions
+A geostationary satellite moves in a circular orbit of radius 
+ around Earth with speed 
+. An impulse gives
+it an additional speed 
+ in the radially outward direction. Ignore the atmosphere. The minimum value of 
+ needed for the satellite to escape Earth's gravity is
+1. 
+2. 
+3. 
+4. 
+ (correct)
+Score: 4
+ Negative Score: 1
+L
+k
+r
+2r
+2T0
+T
+4T0/3
+3T0/2
+5T0/4
+7T0/5
+R
+v0
+Δv
+Δv
+(√2 −1)v0
+(√2 + 1)v0
+√2 v0
+v0
+
+[Page 4]
+Q6.
+Quiz Multichoice Single Answer Questions
+An infinitely long, ideal solenoid of radius 
+ has turns per unit length and carries a time-dependent
+current 
+​, where is a small, positive constant. A circular metallic wire loop of radius 
+ is positioned such that the solenoid is completely enclosed by the loop and the distance between
+the centre of the loop and the centre of the solenoid is 
+ as shown in the figure. The radius of the cross-
+section of the wire is 
+ and the conductivity of the metal wire is . Find the magnitude of the magnetic
+field 
+ on the surface of the external loop during the time 
+.
+1. 
+ at all times 
+.
+2. 
+. (correct)
+3. 
+.
+4. 
+.
+Score: 4
+ Negative Score: 1
+R
+n
+I(t) = I0e−αt
+α
+r
+(r > R)
+r/2
+a ≪r
+σ
+B
+t > 0
+B = 0
+t > 0
+B = 1
+2 πσαμ02nI0e−αt aR2
+B = 1
+2 πσαμ02nI0e−αt a2R
+B = 3π
+4 σα∖mu0
+2nI0e−αt a(r2 −R2)
+
+[Page 5]
+Q7.
+Quiz Fill In The Blanks Questions
+Consider an infinitely long cylindrical plasma column with radius 
+ m, and carrying a steady
+current due to the motion of charged particles. The non-uniform current density varies with radial distance 
+from the central axis as 
+ for 
+, where 
+ 
+ is the current
+density at the centre. The current flows in the 
+ direction (along the axis of the column). Find the ratio of
+the magnetic fields at a radial distance of 250 m and 500 m from the centre of the column. (Given: 
+ H/m)
+Correct Answer: 1
+Score: 4
+ Negative Score: 1
+Q8.
+Quiz Multichoice Single Answer Questions
+A long cylindrical wire of radius 
+ carries a total current along the axial direction (into the page) as
+shown in the figure. The current is uniformly distributed over its cross-section. The wire has a hollow
+cylindrical cavity of radius 
+ whose boundary touches the centre of the wire and the outer surface of the
+wire as shown in the figure. Find the magnitude of the magnetic field at the centre O of the hollow
+cylindrical region.
+1. 
+2. 
+ (correct)
+3. 
+4. 
+Score: 4
+ Negative Score: 1
+R = 500
+J(r) = J0(1 −rR)
+0 ≤r ≤R,
+J0 = 0.020 A/ m2
++z
+μ0 = 4π × 10−7
+R
+I
+R/2
+μ0I
+2πR
+μ0I
+3πR .
+μ0I
+4πR
+0
+
+[Page 6]
+Q9.
+Quiz Fill In The Blanks Questions
+ One mole of an ideal monatomic gas (
+​) is initially in state A. The gas expands isothermally to
+state B. Consider two different reversible thermodynamic cycles ABC and ABC', both starting from A and
+having the A→B isothermal expansion in common. Each cycle involves adiabatic compression and the
+isochoric process, as shown in the figure. Find the volume ratio 
+ such that the 
+.
+Correct Answer: 8
+Score: 4
+ Negative Score: 1
+Q10.
+Quiz Fill In The Blanks Questions
+A UV light with wavelength 
+ nm is incident on a metal with work-function 
+. Find
+the maximum speed 
+ of the emitted photo-electron as a fraction of the speed of light . Express your
+answer as 
+, where n is an integer. Find . 
+(Given: 
+ J s; 
+ keV)
+Correct Answer: 3
+Score: 4
+ Negative Score: 1
+γ = 5/3
+VB/VA
+|PC−PA|
+|PB−PC′| = 32
+λ = 290
+W = 4.050 eV
+vmax
+c
+vmax
+c
+≈1 × 10−n
+n
+h = 6.626 × 10−34
+mec2 = 511.9
+
+[Page 7]
+Q11.
+Quiz Multichoice Single Answer Questions
+ A uniform ring of mass 
+ and radius is placed above a uniform spherical shell of same radius and mass 
+. The center of the spherical shell is in the same line as the center of the ring at a distance 
+, as
+shown in the figure. The amplitude of the gravitational force exerted by the spherical shell on the ring is:
+1. 
+2. 
+3. 
+4. 
+ (correct)
+Score: 4
+ Negative Score: 1
+Q12.
+Quiz Multichoice Single Answer Questions
+A particle is dropped from a height of , and another particle is projected vertically up from the ground at
+the same instant. They meet when the upper one has descended to a height 
+. What is the velocity of
+the upward travelling particle at the instant of meeting the downward falling particle
+1. Same as downward falling particle
+2. Twice that of the downward falling particle
+3. Zero (correct)
+4. None of these
+Score: 4
+ Negative Score: 1
+m
+r
+M
+√3r
+GMm
+8r2
+GMm
+4r2
+GMm
+8√3r2
+√3GMm
+8r2
+h
+h/2
+
+[Page 8]
+Q13.
+Quiz Fill In The Blanks Questions
+Consider a cylinder of length and radius is subjected to an external compressive force. Poisson’s ratio
+is defined as the ratio between the strain along the force and the strain perpendicular to the force.
+Assuming the force is within the elastic limit of the cylinder, at what value of Poisson’s ratio can the change
+in volume be zero.
+Correct Answer: Lower Limit: 0.49 Upper Limit: 0.51
+Score: 4
+ Negative Score: 1
+Q14.
+Quiz Multichoice Single Answer Questions
+A fluid with density satisfies the equation of state 
+, when subjected to a gravitational
+field. Here, 
+ is the pressure, 
+ sets the density at zero pressure and is a characteristic constant
+measured in the units of the inverse of the pressure. Which of the following statements would be correct?
+1. Pressure varies linearly with height
+2. Density varies linearly with height
+3. Pressure varies logarithmically with height (correct)
+4. Pressure does not vary
+Score: 4
+ Negative Score: 1
+Q15.
+Quiz Fill In The Blanks Questions
+A liquid drop of radius 10 cm is sprayed into 
+ droplets of equal size. Assuming the surface tension of
+the liquid is 171 mN/m, what is the energy spent in J in this process?
+Correct Answer: Lower Limit: 9.8 Upper Limit: 10
+Score: 4
+ Negative Score: 1
+Q16.
+Quiz Multichoice Single Answer Questions
+A particle is subjected to the potential given here 
+ where 
+ sets the
+energy scale and is in the units of length. How many stable equilibrium points are there?
+1. 3
+2. 2 (correct)
+3. 1
+4. 0
+Score: 4
+ Negative Score: 1
+l
+r
+ρ
+ρ = ρ0 exp (αP)
+P
+ρ0
+α
+108
+u (x) = uo
+a4 (x4 + 4ax3 −8a2x2)
+uo
+a
+
+[Page 9]
+Q17.
+Quiz Multichoice Single Answer Questions
+Consider two blocks of equal masses connected to a spring of stiffness is kept on a frictionless floor tilted
+at an angle theta with respect to the ground. How will the oscillation frequency of the coupled mass spring
+system depend on the tilt angle .
+1. Increase linearly with 
+2. Increase quadratically with 
+3. Decrease with 
+4. Does not depend on (correct)
+Score: 4
+ Negative Score: 1
+Q18.
+Quiz Fill In The Blanks Questions
+In a new unit system, the units of mass, length and time are chosen as in kg, in m and in s,
+respectively. In this system the values of Planck’s constant and universal gravitation constant are found to
+be unchanged. If 
+ then the value of the ratio 
+ is
+Correct Answer: Lower Limit: 0.24 Upper Limit: 0.26
+Score: 4
+ Negative Score: 1
+Q19.
+Quiz Fill In The Blanks Questions
+Four concentric spherical soap bubbles, centered at origin, of radius 2, 4, 6 and 8 cm are made of the
+same soap solution. The excess pressure at radial distance 
+ and 7 cm from origin are denoted
+as 
+ and 
+, respectively. The value of the ratio 
+ will be
+Correct Answer: Lower Limit: 3.5 Upper Limit: 3.7
+Score: 4
+ Negative Score: 1
+k
+q
+q
+q
+q
+q
+α
+β
+γ
+γ = 4√2
+α/β
+r = 1, 3, 5
+p1, p3, p5
+p7
+p1/p5
+
+[Page 10]
+Q20.
+Quiz Fill In The Blanks Questions
+The length and diameter of a thin rod are measured using a Vernier calipers and screw-gauge,
+respectively. The figures below show the respective scales during this measurement:
+ 
+The volume of the wire is thus deduced as 
+ with error 
+. The value of the ratio 
+ will be:
+Correct Answer: Lower Limit: 95 Upper Limit: 97
+Score: 4
+ Negative Score: 1
+Q21.
+Quiz Fill In The Blanks Questions
+In an Ohm’s law experiment, an ideal cell of 1.5 V emf, a non-ideal voltmeter with resistance 
+ and a
+non-ideal Ammeter with resistance 
+ are used to measure the voltage across and current through an
+ideal resistor of 
+ . If the measured values of the voltage and current are 1.44 V and 0.1 A, respectively,
+then the value of the ratio 
+ will be:
+Correct Answer: Lower Limit: 599 Upper Limit: 601
+Score: 4
+ Negative Score: 1
+Q22.
+Quiz Fill In The Blanks Questions
+ Equal moles of a monoatomic ideal gas are kept in two parts of a chamber of uniform cross-section area 
+. The two-parts are separated by a thermally insulating but movable piston. Initially both sides are in
+equilibrium at temperature 
+ and with same volume 
+. The left-side gas is heated quasi-statically to
+temperature 
+ while the right-side gas remains thermally isolated. If the piston moves by a distance 
+, then the value of 
+ will be:
+Correct Answer: Lower Limit: 206 Upper Limit: 208
+Score: 4
+ Negative Score: 1
+V
+ΔV
+V /ΔV
+RV
+RA
+15Ω
+RV /RA
+A
+T0
+V0
+T1
+x = 19V0
+27A
+(16T 1/T0)
+
+[Page 11]
+Q23.
+Quiz Multichoice Single Answer Questions
+A circularly polarized light beam of intensity 
+ is incident at the Brewster angle 
+. After reflection the light
+passes through an ideal polarizer and is detected on a detector. The polarizer orientation is given below.
+Which of the following is true?
+1. For polarizer pass axis perpendicular to the plane of incidence, the detected intensity is zero.
+2. For polarizer pass axis parallel to the plane of incidence, the detected intensity is zero. (correct)
+3. For polarizer pass axis perpendicular to the plane of incidence, the detected intensity is 
+4. For polarizer pass axis parallel to the plane of incidence, the detected intensity is 
+Score: 4
+ Negative Score: 1
+Q24.
+Quiz Multichoice Single Answer Questions
+Two separate experiments for imaging a real object are conducted, one using a lens and the other using a
+mirror. A virtual image is formed for all possible object distances in both the experiments. Which of the
+following optical elements were used in the two experiments?
+1. Concave mirror and a concave lens.
+2. Concave mirror and a convex lens.
+3. Convex mirror and a convex lens.
+4. Convex mirror and a concave lens. (correct)
+Score: 4
+ Negative Score: 1
+Q25.
+Quiz Fill In The Blanks Questions
+An experiment is carried out using the Young’s double slit interferometer, where the double slits are fixed
+and the screen is kept at a distance 
+. When a coherent blue light of wavelength 400 nm is used the width
+of the central bright fringe is found to be w at the screen placed at a distance 
+. The experiment is
+repeated with a green light of wavelength 560 nm, the width of the central bright fringe is adjusted to be the
+same as w at a screen distance 
+. Calculate the ratio of 
+Correct Answer: Lower Limit: 1.39 Upper Limit: 1.41
+Score: 4
+ Negative Score: 1
+I₀
+θB
+I0/4
+I0/4
+D
+Db
+Dg
+Db/Dg
+
+[Page 12]
+Q26.
+Quiz Multichoice Single Answer Questions
+Two polarizers P1 and P2 are placed at a distance d from each other along the path of light. Their pass
+axes are oriented perpendicular to each other. A third polarizer P0 is introduced in between them, at a
+distance d/2. What should be the orientation of the pass angle of the polarizer P0 such that the transmitted
+light through them is maximized?
+1. 45° with respect to the first polarizer. (correct)
+2. 30° with respect to the first polarizer.
+3. 60° with respect to the first polarizer.
+4. For all orientations of the pass axis of P0, the transmitted intensity will be zero.
+Score: 4
+ Negative Score: 1
+Q27.
+Quiz Fill In The Blanks Questions
+A metallic sphere of radius R = 0.5 m is moved with a constant velocity 
+ x̂ in a uniform magnetic field 
+ ẑ. In steady state, if the potential difference between 
+ of the sphere is 10 V, then the magnitude
+of the electric field in V/m inside the sphere is:
+Correct Answer: 10
+Score: 4
+ Negative Score: 1
+Q28.
+Quiz Fill In The Blanks Questions
+Two triangular prisms have apex angles 90° and 60°, respectively. The refractive indices of the two prisms
+are chosen such that the angle of minimum deviation is half the angle of their respective apex angles. The
+ratio of the refractive indices of the two prisms is:
+Correct Answer: Lower Limit: 1.07 Upper Limit: 1.09
+Score: 4
+ Negative Score: 1
+vo
+B0
+y = ± R
+
+[Page 13]
+Q29.
+Quiz Multichoice Single Answer Questions
+A freshly prepared sample contains two radioactive isotopes 
+ and 
+in the ratio of number of undecayed
+nuclei 
+. Their half-lives are 
+ and 
+, respectively. After time the ratio of the remaining
+undecayed nuclei become 
+ Then is
+1. 
+ (correct)
+2. 
+3. 
+4. 
+Score: 4
+ Negative Score: 1
+X
+Y
+NX : NY = 2 : 1
+T
+2T
+t
+NX : NY = 1 : 1.
+t
+2T
+4T
+6T
+8T

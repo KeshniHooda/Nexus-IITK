@@ -1,0 +1,205 @@
+[PAGE 1]
+Plagiarism Help File
+
+For Student
+
+1
+
+[PAGE 2]
+Contents
+
+•  Introduction                      Page 3                                               •  Final Preview of PPD            Page 16
+•  Plagiarism module               Page 4              Form
+process flow                                               •  Resubmission of
+Page 17
+•  Stage I: Approval for                                   Thesis                                      Page 5
+Submission of Thesis
+Page 22•  Guidelines for PPD                                               •  Conclusion
+Form                             Page 10
+•  Stage II: Declaration                                                                                          Page 23   Submission                                   •  Queries / Complaint                                      Page 11
+Support
+
+2
+
+[PAGE 3]
+Introduction
+
+Plagiarism is a serious academic concern, and it is essential for students to
+follow the correct procedures to ensure their work meets institutional
+integrity standards. This document provides detailed guidelines on how to
+apply for a plagiarism check and the resubmission process when required. By
+following these steps, students can avoid delays and ensure a smooth thesis
+submission.
+
+3
+
+[PAGE 4]
+Plagiarism module process flow
+
+Two stage process
+• Approval for submission of thesis
+
+Thesis                     Student             Supervisor / Co-
+Processing Cell                              (Thesis Submit)              Supervisor                                                                                     (Plagiarism Check)
+
+• Declaration Submission
+
+Thesis Processing                     Thesis Processing
+Supervisor / Co-                      Cell                               Cell                 Student
+Supervisor                  (Forwarding for Approval
+(Declaration Initiation)
+to ADAA / DOAA)
+
+4
+
+[PAGE 5]
+STAGE I
+Approval for Submission of
+Thesis
+
+5
+
+[PAGE 6]
+•   Step 1: Login to Pingala: Use your credentials to access your account.
+
+6
+
+[PAGE 7]
+•  Step 2: Navigate to Path: Plagiarism > Thesis Processing Cell >
+PPD Processing Form
+
+7
+
+[PAGE 8]
+•   Step 3: Click on the button “+Submit Thesis”
+
+8
+
+[PAGE 9]
+• Step 4: Enter the Thesis Title, Upload the Thesis (PDF format, max size:
+99MB), and click on submit.
+
+9
+
+[PAGE 10]
+Guidelines for PPD Form
+
+•  You may also upload the similarity report (if required). The upload is non-mandatory in nature.
+•   If you uploaded an incorrect file, click on the Remove button to delete it.
+
+•  Verify that your Thesis Supervisor/Co-supervisor's name is correctly updated. If incorrect, contact your
+Department Office for corrections.
+•  Double-check all documents and details before clicking the "Submit" button, as no modifications can be made
+after submission.
+• Once submitted, the Supervisor and Plagiarism Prevention Desk (PPD) will review it.
+
+10•  For any issues related to the Plagiarism Check Process, contact the PPD Cell at: ppd_doaa@iitk.ac.in.
+
+[PAGE 11]
+STAGE II
+Declaration Submission
+
+11
+
+[PAGE 12]
+Step 1: Navigate to Path: Plagiarism > Thesis Processing Cell > PPD
+Processing Form
+
+12
+
+[PAGE 13]
+Step 2: Once Form status is shown as “Declaration Initiated”, then click on
+“UpdateThesis / Declaration” button.
+
+13
+
+[PAGE 14]
+Step 3: Select the declaration check-box (you may also add remarks, if any)
+and then click on the “Submit” button. Once clicked, it will be directed to your
+supervisor or co-supervisor.
+
+14
+
+[PAGE 15]
+At this stage of process
+
+• Declaration Submission Only: In this stage, you are allowed to submit only
+the declaration. No other actions are permitted.
+• No Document Changes: Document cannot be modified, replaced, or
+removed during this process.
+• No Form Edits: The form becomes non-editable at this stage. You will not
+be able to make any corrections or updates to the details already entered.
+
+15
+
+[PAGE 16]
+Final Preview of
+Pingala-generated
+PPD Form
+
+• Sample of Final Approved
+PPD Form Layout
+•  This can be accessed by
+Navigating to path as
+follows:
+•  Path: Plagiarism > Thesis
+Processing Cell > PPD
+Processing Form > “VIEW”
+button >> “”  print button
+
+16
+
+[PAGE 17]
+Plagiarism check for resubmission of thesis
+
+17
+
+[PAGE 18]
+Step  1: Navigate to Path: Plagiarism > Thesis Processing  Cell > PPD
+Processing Form
+
+18
+
+[PAGE 19]
+Guidelines for resubmission
+
+• Resubmission is allowed only if the oral board suggests modifications to
+your thesis.
+
+• The “Update Thesis” button will only be active after if your application
+status is “Approved” by DOAA or ADAA.
+
+19
+
+[PAGE 20]
+Step 2: Click on the button “Update Thesis”
+
+20
+
+[PAGE 21]
+Procedures
+
+Follow the same procedures as the initial submission process.
+
+21
+
+[PAGE 22]
+Conclusion
+
+Following the correct plagiarism check and resubmission procedures
+ensures that students meet the required academic integrity standards. By
+adhering to these guidelines, students can avoid unnecessary complications
+and complete their thesis submission smoothly. For any further queries,
+students are encouraged to reach out to the PPD Cell for assistance.
+
+22
+
+[PAGE 23]
+Queries / Complaint Support
+
+• For issues related to policies matter
+• Plagiarism Prevention Desk: e-mail: ppd_doaa@iitk.ac.in ; Phone: +91-512-679-2107
+• For technical issues
+• Pingala Support: e-mail: pingala@iitk.ac.in ; Phone: +91-512-679-6803 / 6805
+
+23

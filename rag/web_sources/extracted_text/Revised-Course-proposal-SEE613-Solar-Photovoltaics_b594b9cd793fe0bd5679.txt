@@ -1,0 +1,157 @@
+[Page 1]
+Proposal for Course Modification 
+ 
+Course Objectives 
+The course aims to help students understand the physics and application of solar 
+photovoltaics, which is the fastest growing source for renewable energy generation. 
+The course reviews the basic semiconductor physics of photovoltaic materials and 
+various structures in which these devices can function. It also covers the various 
+generations of solar cells, including the device structure, manufacturing, and 
+application aspects. Finally, it delves into the various stages of cell to module to system 
+development, associated operational issues, and their potential solutions. 
+Expected Learning Outcomes 
+The students will be able to understand the working principle of solar photovoltaics, its 
+dependence on radiation, material processing, device fabrication, etc. The students 
+will be able to learn how to characterize the solar cells and how to utilize them in the 
+end application. They will also be able to understand the practical issues concerning 
+degradation, and other field issues. The course should help the students who are 
+willing to learn about this field, and guide them in appropriately identifying topics of 
+interest for future research. 
+Course outline 
+Introduction to solar cells: Solar spectrum, the concept of airmass, history of solar 
+cells, economics, status, emerging technologies, and recent development. 
+Course Title 
+ 
+Solar Photovoltaics 
+Number 
+ 
+SEE-613 
+Credits(L-T-P[C]) 
+ 
+3-0-0-9 
+
+ 
+Departments proposing the course 
+: Sustainable Energy Engineering 
+Name of the Proposer(s) 
+: Rajeev Jindal and Sudarshan 
+Narayanan 
+Offered for 
+: PG Students of SEE and other 
+departments or programs, 3/4th year 
+UG students 
+Status of the course 
+: PG Elective / UG Elective 
+Prerequisite(s) for the course 
+: Consent of Instructor / SEE-602 / 
+completion of any other course on 
+introductory solid-state physics and 
+semiconductors 
+Other faculty members interested in 
+teaching 
+: Ashish Garg, Srinivas Karthik Yadavalli 
+Other Departments/Programmes 
+whose students are expected to take 
+up the courses 
+: MSE, MSP, PHY, EE, ME, CHE, CHM 
+Department of Sustainable Energy Engineering 
+Indian Institute of Technology Kanpur
+
+[Page 2]
+P-N junctions: Energy band diagram, Operation of p-n junction in forward and reverse 
+bias, depletion width, drift-diffusion currents, I-V characteristics of P-N junction in dark 
+and under illumination. 
+Characterization of solar cell devices: Open circuit voltage, short circuit current, fill 
+factor, efficiency, quantum efficiency, equivalent circuit of the solar cell, series and 
+shunt resistances, diffusion length, and the effect of recombination processes. 
+A brief overview of different types of solar cells: First-generation technologies: 
+primarily Si-based, Second-generation technologies (low cost): thin films (a-Si, CdTe, 
+CIGS), Third generation (high efficiency and low cost): Organic solar cells, multi-
+junction, Perovskite solar cells, Comparative Performance, PV Processing with 
+emphasis on migration from solar cells to modules to systems, present status and 
+outlook. 
+Field Application: Enhancing capacity utilization factor (tracking), optical 
+performance, effect of dust and possible mitigation strategies, system design, and 
+related software. Module recycling and concept of material circularity. 
+Lecture-wise breakup 
+Topics 
+No. of lectures 
+(approximate) 
+Introduction to Solar cells / Introduction and motivation, including 
+solar policy in India 
+2 
+Solar radiation and angles 
+2 
+Basics of Semiconductors, Recap of Semiconductors with 
+emphasis on R-G Centers 
+4 
+Work-function and Junctions 
+a) Metal–semiconductor interface 
+b) Semiconductor 
+i. P-N 
+ii. P-i-N 
+iii. P-N heterojunction 
+6 
+Characterization of solar cell devices 
+5 
+ Brief overview of different types of solar cells 
+a) First-generation technologies: Primarily Si-based and GaAs 
+(Including Si cell manufacturing aspects and issues) 
+b) Second-generation technologies: thin films (a-Si, CdTe, 
+CIGS) 
+c) Third generation: Organic solar cells, Perovskite solar cells 
+d) Multi-junction and tandem solar cells 
+11 
+ Enhancing solar cell / module performance: 
+• Light management 
+• Trackers 
+3 
+Solar cells to modules to systems and related software 
+3 
+Field issues, module recycling, material sustainability 
+3 
+ 
+Textbooks, reference books, suggested readings, and any other references: 
+• 
+Robert F. Pierret, Semiconductor Device Fundamentals, Pearson
+
+[Page 3]
+• 
+Jenny A. Nelson, The Physics of Solar Cells, World Scientific Publishing Company 
+• 
+Luque and Hegedus, Handbook of Photovoltaic Science and Engineering, John 
+Wiley Publications 
+• 
+S.M. Sze, Physics of Semiconductor Devices, Wiley 
+• 
+Ben G. Streetman, Solid State Electronic Devices, Prentice Hall India 
+• Reviews and journal articles 
+ 
+Course Proposed By 
+Recommended/ Not 
+recommended 
+This course is approved/ 
+Not approved 
+
+ 
+ 
+(Rajeev Jindal) 
+
+(Sudarshan Narayanan) 
+
+ 
+
+ 
+
+ 
+Convenor, DPGC (SEE) 
+
+ 
+
+ 
+
+ 
+Chairman, SPGC
+
+[Page 4]
+This is the current version

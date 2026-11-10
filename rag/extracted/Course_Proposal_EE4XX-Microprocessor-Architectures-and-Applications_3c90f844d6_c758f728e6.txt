@@ -1,0 +1,53 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+Department of Electrical Engineering
+
+Proposal for a New Course
+1.  Course No: EE4xx
+2.  Course Title: Microprocessor Architectures & Applications
+3.  Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours [0-2]: 0 (A)
+•   Credits (3*L+2*T+P+A): 9
+•  Duration of Course: Full Semester
+4.  Proposing Department/IDP: Electrical Engineering
+•  Other Departments/IDPs which may be interested in the proposed course: CSE, BSBE
+•  Other faculty members interested in teaching the proposed course: Chithra, Y. N. Singh, Tushar
+Sandhan, Nagarjuna Nallam, Swamy Peruru, Koteswar Rao Jerripothula, R S Ashwin, Vipul Arora,
+Washim Mondal
+5.  Proposing Instructor(s): Prof. Nikunj Bhagat (EE), Prof. Debapriya Basu Roy (CSE)
+6.  Pre-requisites: EE370
+7. Course Description:
+This course will introduce students to fundamentals of microprocessor and microcontroller architectures
+(ARM, RISC,  etc.), instruction sets, pipelining, memories. Students  will learn to implement basic
+computational algorithms using the open-source RISC-V architecture on FPGAs. Topics relevant for
+developing embedded system applications such as interrupts, peripheral interface protocols, RTOS, etc. will
+also be covered with the help of case studies.
+8.  Contents:
+
+S.                           Topics                          No. of
+No.                                                          Lectures
+1.    Processor basics, MIPS, ARM, RISC                        4
+2.     Floating number representation, multiplier, division           4
+3.     Introduction to instruction sets, pipelining                   4
+4.    RISC-V architecture basics, OpenTitan                      8
+5.     Microcontroller Architecture (8051, PIC, ARM-M0)             4
+6.     Interrupts                                             4
+7.     Interface Communication Protocols - UART, SPI, I2C, CAN      6
+8.    Case study (e.g. sensor interfacing, vehicle communication)    4
+9.    Concepts of Scheduling, RTOS                            2
+
+7. Recommended Books: Textbooks, Reference books
+•  Computer Organization and Design: The Hardware/Software Interface, David A Patterson, John L.
+Hennessy, 4th Edition, Morgan Kaufmann, 2009
+•  Computer Organization and Design RISC-V Edition, David Patterson, 2017.
+•  The 8051 Microcontroller, 3rd Edition, Kenneth Ayala, 2004
+•  PIC Microcontrollers – Programming in C, Milan Verle
+•  The Definitive Guide to the ARM Cortex-M0, Joseph Yiu, 2011
+•  Books related to HDL (Verilog, VHDL, BSV) programming.
+
+Dated: 24-03-2026                                                         Dated: _______________
+Proposer: Nikunj Bhagat, Debapriya Roy                    DPGC Convener: __________________
+
+The course is approved/not approved.
+
+Chair, SPGC
+Dated: ___________________________

@@ -1,0 +1,66 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+Department of Civil Engineering
+Proposal for a New Course
+Course No.                              CE73X
+Title                                            Design and Analysis of Underground
+Excavations
+Credits                                              3-0-0-0 [9]
+Semester                                                         I or II
+Instructor                                             Dr. Gaurav Tiwari
+Other faculty members interested
+in teaching the course                                 Dr. JP Sahoo, Dr. Arghya Das
+Department                                            Civil Engineering (CE)
+Departments to which the proposed
+course could be of interest                   CE
+Pre-requisites                                          Soil mechanics, Rock mechanics
+Estimated Student Enrolment                      50
+Background: Underground excavations are frequently constructed structures in soil, along
+intact rocks and rock masses. The analysis and design of underground excavations are quite
+challenging depending on the soil and rock conditions. This requires the subject to be
+extensively studied.
+Objectives: The students would learn the analysis of underground structures in rocks and soil
+of different qualities considering the  elastic and elastoplastic stress-strain behaviour of
+geomaterials. The implementation of different design methods, including empirical, analytical
+and numerical approaches, would be covered in this course. Further, the use of codes and
+standards in the design of underground structures and the practical aspects of tunnelling
+including instrumentation and support design will be covered.
+Course Contents (number of lectures in brackets):
+Introduction: Review of soil and rock mechanics concepts, types and classification of
+underground openings, planning and exploration for various underground projects, functional
+aspects, size and shapes, support systems, codal provisions. [6]
+Elastic stress distribution around tunnels: Stress distribution for different shapes and under
+different in-situ stress conditions, Greenspan method, design principles, multiple openings,
+openings in laminated rocks, Daemen’s theory. [5]
+Surface settlement analysis: Settlement effects of bored tunnels in soft soil, volume loss
+analysis, Transverse and Longitudinal settlement, Gaussian curve analysis. [5]
+Rock mass-tunnel support interaction analysis: Ground response and support reaction
+curves, design of support systems including concrete and shotcrete linings, steel sets, rock
+
+[PAGE 2]
+bolting and rock anchoring, combined support systems, design of TBM segment lining, Muir-
+Wood method. [8]
+Empirical and observational methods: Analysis and support design based on RSR, RMR, Q
+systems, New Austrian Tunnelling Method (NATM), Norwegian Tunnelling Method (NTM)
+[6]
+Structurally Controlled  Failures:  Stereographic  projection method,  principle and  its
+application in underground excavation design, wedge failure and key block analysis. [5]
+Special Topics: Deep excavations, concepts of CWFS, DISL criteria, implementation in
+softwares, stability of excavation face and tunnel portals, instrumentation [5]
+References:
+1. Hoek, E., Brown, E. Underground excavations in rock, CRC Press, 1980.
+2. Leonard Obert, Wilbur I. Duvall, Rock mechanics and the design of structures in rock, Wiley,
+1967.
+3. Poulos, H.G. and Davis, E.H., Elastic solutions for soil and rock mechanics. John Wiley &
+Sons, 1974.
+4. Bieniawski, Z.T. Rock mechanics in mining & tunnelling. A.A. Balkema, 1984.
+5. Szechy, K. The art of tunnelling, Akadémiai Kiadó, 1973.
+6. Goodman, R.E. Introduction to Rock Mechanics. John Wiley, 1980.
+7. Ramamurthy, T.Engineering in Rocks, PHI Learning, 2008.
+8. Guglielmetti et al. Mechanized tunnelling in urban areas”, Taylor and Francis, London, UK,
+2007.
+Proposer: Dr. Gaurav Tiwari: July 23, 2024
+
+Convener DPGC (CE):
+
+Chairman, SPGC

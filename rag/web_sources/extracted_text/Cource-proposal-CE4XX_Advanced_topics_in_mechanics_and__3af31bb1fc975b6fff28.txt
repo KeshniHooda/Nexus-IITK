@@ -1,0 +1,88 @@
+[Page 1]
+Indian Institute of Technology Kanpur 
+Proposal for a New Course 
+1. Course No.: CE4xx 
+2. Course title.: Advanced topics in mechanics and analysis of skeletal structures 
+3. Per Week Lectures: 3 (L), 0 (T), 0 (P), 0 (A), Credits: 9 
+4. Duration of course: Full Semester 
+5. Proposing Department/IDP: Civil Engineering 
+Other departments/IDP which may be interested in the proposed course: None 
+Other faculty members interested in teaching the proposed course: Prof. Chinmoy Kolay 
+6. Proposing Instructor(s): Amar Nath Roy Chowdhury, and Suparno Mukhopadhyay 
+7. Course Description: 
+A) Objectives: Skeletal structures such as trusses, frames, etc., are widely used in structural engineering 
+applications such as buildings, bridges, long span roofs, reticulated shells etc. Design of these structural 
+systems require advanced knowledge in structural mechanics, and matrix structural analysis covering 
+material and geometric nonlinear behavior. This course aims to cover the necessary structural mechanics 
+theories, and their implementation using matrix method for the analysis of skeletal structures. 
+B) Contents (preferably in the form of 5 to 10 broad titles): 
+S. 
+No 
+Broad Title 
+Topics 
+No. of 
+Lectures* 
+(50 min) 
+1 
+Twisting of beams 
+• Saint Venant’s theory for torsion of general uniform section 
+• Torsion of thin-walled section, shear flow 
+5 
+2 
+Bending of thin-walled 
+beams 
+• Shear stress due to bending 
+• Determination of shear centre 
+4 
+3 
+Matrix method of linear 
+elastic structural 
+analysis 
+• Force method and displacement methods 
+• Direct stiffness method for rods, beams, trusses and frames 
+10-12 
+4 
+Virtual work principles 
+• Principles of virtual force and displacement 
+• Application of virtual work to formulate element stiffness 
+matrix for rods, beams, and frames 
+5-6 
+5 
+Geometric nonlinear 
+elastic analysis 
+• An introduction to geometric nonlinear analysis 
+• Nonlinear strain displacement relations for 1D elements 
+• Derivation geometric nonlinear stiffness matrix 
+• Elastic critical load analysis 
+7-8 
+6 
+Small deformation 
+inelastic analysis 
+• A brief review of metal plasticity, yield surface, flow rule 
+• A review of plastic analysis of beams 
+• A plastic hinge method for analysis of simple frames 
+5-6 
+
+*Tentative number of lectures. Total number of lectures requested = 39. 
+C) Pre-requisites: ESO202, CE272 or equivalent. 
+8. Recommended books: 
+• Advanced mechanics of materials, Arthur P. Boresi, Richard J. Schmidt, 6th Ed. 
+• Plasticity for structural engineers, Wai Fah Chen, and Da Jian Han, 2nd Ed.. 
+• Nonlinear continuum mechanics for finite element analysis, Javier Bonet, and Richard D. Wood, 2nd Ed. 
+• Matrix structural analysis, William Mc Guire, Richard H. Gallagher, Ronald D. Zieman, 2nd Ed.
+
+[Page 2]
+• Matrix analysis of structures, Aslam Kassimali, 3rd Ed. 
+• Matrix analysis of framed structures, William Weaver, James M. Gere, 2nd Ed. 
+• Structural analysis: a matrix approach, G S Pandit, S Gupta, 2nd Ed. 
+9. Any other remarks: None 
+ 
+Dated: 08/10/2025 Proposer: Amar Nath Roy Chowdhury and Suparno Mukhopadhyay 
+ 
+Dated:_______________ DUGC/DPGC Convener:___________________ 
+ 
+The course is approved / not approved 
+ 
+Chairman, SUGC/SPGC 
+ 
+Dated:______________________________

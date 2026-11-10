@@ -1,0 +1,978 @@
+[PAGE 1]
+Interim Report
+
+The UG Program at IIT Kanpur
+
+Academic Programme Review Committee (ARC)
+
+February 2009
+
+Contents:
+
+1. ARC-2008 Interim Report………………………………….......…………....  2
+
+I. Introduction..................................................................................  2
+
+II. Background.................................................................................  2
+
+III. Focus of the Academic Program.................................................  3
+
+IV. Product.......................................................................................  4
+
+V. Skill-Sets......................................................................................  4
+
+VI. Current Curriculum.....................................................................  4
+
+VII. Proposed Curriculum.................................................................  5
+
+VIII. Credits.....................................................................................  5
+
+IX. Graduation Requirements.........................................................  6
+
+X. Degrees......................................................................................  6
+
+XI. Structure of the Academic Programme....................................  7
+
+2. Salient Features of the Interim Report…………………………………...  13
+
+3. Questions posed by the ARC to the Departments………………........  15
+
+4. Appendix I: Semester-wise Structure of Proposed Curriculum…....   16
+
+5. Appendix II: Communication Skills for Undergraduate Students....   18
+
+6. Appendix III: Report of Math Sub-committee on core courses…....   21
+
+1
+
+[PAGE 2]
+ARC-2008
+Interim Report
+
+I.   Introduction
+
+It  is nearly 50 years since the Indian Institute of Technology Kanpur  (IITK) was
+established.  During this period, the country has made rapid strides both in terms of
+industrial growth and its global outlook. The economic reforms of the early 1990s have
+transformed India into an economic power, firmly perched among the upper echelons
+of the global elite. As a result, the aspirations of the society as well as the demands on
+industry have witnessed a drastic change. In this scenario, the ARC assumes particular
+significance as it has to address the (i) need to be globally competitive, (ii) rapidly
+evolving technological needs, and (iii) rising expectations of students and their parents.
+
+II.  Background
+
+Designing a relevant curriculum requires an understanding of the evolving needs of all
+stakeholders, namely students, teachers, industry and R&D/academic establishments.
+
+Students
+It is a commonly acknowledged fact that the IITs attract the cream of the country’s
+students.  Unfortunately, their professional objectives are guided more by societal
+pressures rather than a clear understanding of their abilities. Thus aiming for being an
+MBA or a software engineer becomes the ultimate goal, irrespective of whether the
+student has a better chance of excelling in academics or R&D.  Consequently, the
+highly  “technical”  IIT  education becomes  secondary,  which,  in  turn,  leads  to
+motivational deficit and a lack of intellectual curiosity.  With such a mindset, the IIT
+experience is akin to a black box; the students use IIT to increase their employability
+without imbibing the essence and wholesomeness of IIT education.  In addition, one
+glaring deficiency has been observed year- after-year  in the IITK students: poor
+communication skills and a near-complete ignorance of the world around them.
+
+Teaching
+IITK has a reputation of having a highly dedicated and knowledgeable faculty.  It has
+been a pioneer in science and technology education in India and continues to be so.
+However, the following issues about our undergraduate education merit consideration:
+–  Unrealistic expectations
+•  Need a proper understanding of maturity level of incoming UGs
+–  Teaching style
+•  Packed content
+•  Frenetic pace of instruction
+•  Need to evolve a teaching style to capture students’ attention
+–  Overemphasis on analysis
+•  Very little synthesis
+•  Connection to real engineering problems minimal
+•  Scope for tapping students’ creative potential is limited
+
+2
+
+[PAGE 3]
+Industry
+In this era of globalization, the pre-eminence and high growth rates of the Indian
+industry would depend on its ability to come up with significant value addition and
+cutting edge technologies, for which the academic curriculum must engender:
+–  Analysis and synthesis
+–  Innovation
+–  Interplay between science and engineering
+–  Interdisciplinary flavour
+–  Management skills
+–  Communication skills
+–  Cultural and social awareness
+
+R&D Institutions
+In-house development of cutting edge technologies requires people with:
+–  Vision
+–  The ability to adapt technology to changing environment
+•  Clean/green technology
+•  Resource conservation/recycling
+•  Harnessing non-conventional energy resources
+–  The ability to address the law of diminishing returns in technology development
+require:
+•  Continuous up-gradation of skill sets
+•  Sound fundamentals
+
+Given the above scenario, the academic programme of IITK should be geared to
+provide the necessary human resource.
+
+III.  Focus of the Academic Programme
+
+A university has a choice of having academic programmes in many diverse areas such
+as science, engineering, social sciences, law, management, and medicine.  On the
+other hand, a university can be highly focused, carving a niche for itself in a few
+selected areas by leveraging the available resources. Given the many new institutes of
+higher learning with whom we are going to share human resources, the academic
+programme  of  IITK  should  focus on  producing  highly-skilled  technologists and
+scientists.  However, it should also provide avenues for students who want to hone
+their managerial or entrepreneurial skills.
+
+Given their brand equity, the expectations from IITs are not limited to producing world-
+class undergraduates.  IITs are also expected to provide technological solutions to local
+problems. Moreover, despite the considerable economic progress made by India in the
+past decade, the economic benefits have not percolated adequately to the lower strata
+of the society.  To increase the participation of the students in the nation building
+process through technology development, the academic programme should (i) make
+students sensitive to local needs, (ii) inculcate the spirit of team work, (iii) cultivate
+leadership qualities, and (iv) instill a sense of ownership and national pride among the
+students.  The students should also have an awareness and appreciation of  art,
+literature, and culture.
+
+3
+
+[PAGE 4]
+IV.   Product
+
+Humane, global Indians who are leaders in their fields.
+
+V.   Skill-Sets
+
+The skills required to produce a model student, described above, may be classified as:
+–  Basic skills
+•  Mathematical and computational skills
+•  Analytical skills
+•  Experimental skills
+•  Hardware friendly
+•   Scientific temper
+•  Communication skills
+•  Cultural and social awareness
+
+–  Advanced skills
+•  Department-oriented skills
+•   Interdisciplinary orientation
+•  Synthesis
+
+–  Auxiliary skills
+•  Management
+•  Entrepreneurship
+
+VI.   Current Curriculum
+
+Considering the focus of the academic programme and the required skill-sets, the
+strengths and weaknesses of the current curriculum are presented below:
+
+–  Strengths
+•  Science-based education
+•  Emphasis on fundamentals
+•  Rigorous analysis
+•  Humanities and social sciences as compulsory requirement.
+
+–  Weaknesses
+•  Less emphasis on working with hands and tinkering
+•  Too much content
+•  Imbalance between breadth and depth
+•  Content above the maturity level of a reasonably good student.
+•  Lack of flexibility for students to select courses depending on their maturity,
+aptitude and interest.
+•  Minimal connection between course content and real-life applications.
+•  Not enough opportunities to explore for very good students.
+•   Little scope for multi-disciplinary specialization.
+
+4
+
+[PAGE 5]
+•  No emphasis on good written or oral communications skills in evaluation criteria.
+
+VII.  Proposed Curriculum
+
+–  Truly credit-based curriculum
+–  Develop aptitude for experiment and exploration
+•  Project-based laboratories
+•  Required minimum laboratory credits
+–  Conceptually challenging and thought-provoking curriculum
+–  Emphasis on interdisciplinary education
+–  Cater to good, motivated student by facilitating:
+•  UG research
+•  Earning credits with universities of repute
+•   Flexibility to take more courses through overload.
+•  Project-oriented  internships  in  industry/R&D  laboratories  for  credit  during
+vacations or a semester
+–  Provide safety net for weak students with the help of:
+•  The slow pace programme, the possibility of modifying which needs to be looked
+into.
+•  Underloading depending on intellectual capability
+
+VIII.   Credits
+
+The present and proposed methods for assigning credits to the courses are given
+below.
+
+Present System
+–  Students are expected to spend average 50 – 55 h/week, including exam/quiz
+preparation.
+–  Academic Load (AL) = 3L + T + 1.5P + 0DH
+Here L, T, P, and DH refer to the number of contact hours of lectures, tutorials,
+laboratories and discussion hours respectively.  Thus academic load reflects the
+total contact and self-study hours per week that a student is expected to spend on a
+course.
+–  5 ≤ AL ≤ 15
+–  Typical AL = 10 – 11
+–  The AL was then converted into weightage according to the following table:
+–
+AL         Weightage
+5 – 6            2
+7 – 8            3
+9 – 12           4
+13 – 15          5
+
+Proposed System
+–  Academic load in the present system be directly converted into credits.
+–  Credits (C) should explicitly reflect contact and self-study (SS) hours.
+
+5
+
+[PAGE 6]
+–  Discussion hour should be dropped or replaced with office hours manned by student
+tutors.
+–  C = L + T + P + SS
+•  SS = 2L + T + A, where A indicates additional work.
+•  The value of A will usually be ZERO. However, in some courses with no tutorial
+there may be heavy assignment submissions or/and a big project. Similarly, in
+some lab courses there may be a need  for too much preparation before
+experiment(s) can be conducted or individual projects (not in groups) etc. In
+such situations, to reflect the actual academic load of the course, A may be
+chosen as 1, or at most 2.
+•  For example, a course with 3 Lecture Hours, 1 Tutorial Hour and 2 Hours of
+laboratory per week, and with A=0, will have 13 Credits (C=3*3L+2*1T+2P)
+•  Any laboratory related material should be covered in regular lectures.
+•  The number of quizzes in a course and the rigour of term papers must be
+consistent with the self-study hours in a course.
+–  400 – 420 credits required for graduation.
+
+IX.   Graduation Requirements
+
+–  Present
+•  Passing grade = D (4)
+•  Graduating CPI = 5.0
+
+–  Proposed
+•  Passing grade = D (4)
+•  Graduating CPI = 4.0
+
+The proposed graduation requirement implements the credit-based system in true
+spirit. There is a concern that lowering the graduating CPI may further “de-motivate”
+students currently with a CPI below 5.0. Hence the reduction of graduating CPI must be
+accompanied by appropriate administrative measures such as minimum attendance
+requirements.
+
+Additionally, academic progress of weak students will be monitored and the following
+warning mechanism is proposed:
+•  Warning: CPI < 4.5
+•  Termination: CPI < 4.0
+
+X.  Degrees
+
+–  Present
+–  B.Tech. (Engg.)
+–  Integrated MSc (5 yrs)
+–  MSc (2 yrs)
+
+Post-graduate education should always be a matter of choice based on students’ quest
+for specialized knowledge in a field of their interest.  It should not be forced down the
+throat of students during JEE counselling where, by-and-large, the choice of a dual
+degree  (B.Tech./M.Tech.)  is made  out  of  compulsion.    Instead, an  academic
+6
+
+[PAGE 7]
+environment must be created by the academic programme which motivates students
+to voluntarily opt for a second degree.      It  is also  felt that a Bachelors degree,
+irrespective of whether it is engineering, sciences, or economics, should be adequate to
+prepare the student for (i) respectable employment, and / or (ii) post-graduate studies.
+Hence the following degrees are proposed:
+
+–   All first degrees for students coming through JEE will be of 4 years duration
+•  B.Tech. (Engg.) and B.S. (Sciences/Economics)
+–  Option for minors in a second branch, an HSS discipline or multi-disciplinary
+minors (including HSS)
+–  Option for a second degree at the end of III year
+•  M.Tech. (Engg.), MSc (Sciences/Economics), MBA
+•  Second B.Tech./B.S. degree
+•  Switching allowed between science, economics and engineering
+•  The second degree will entail taking all department compulsory courses
+–  MSc (2 years) will continue as before
+
+There may  be  students who  are  interested  in  exploring  different  facets  of
+engineering/sciences and would not like to be constrained by being in one department.
+For such students, we propose:
+–  B.Tech. in Engineering Sciences
+•   Initially this branch will be offered as a “branch change” option
+•   It will have a compulsory core like for all other students
+•  Stress will be on engineering sciences
+•  An engineering/science department or HSS discipline is selected as a minor
+
+The student will have to suitably choose courses to correspond to the departmental
+credits. These may constitute multiple minors or an interest-based course stream. This
+will require proper (department level) curriculum counselling to the student, and
+designing of a proper sequence of courses to suit personal interest, and mandatory
+requirement  of the academic programme.  E.g. the course structure could have
+advanced mechanics, dynamics of continuous systems, nonlinear vibrations, random
+and deterministic vibrations, FEM, signals systems and networks, control system
+analysis, controls laboratory (or ME Lab.  II), automation and control, bio-mechanics,
+composite materials, etc.
+
+XI.   Structure of Academic Programme
+
+A. Break-up
+
+In the following table the proposed break-up of the academic programme into HSS,
+Science,/Science electives, Esc, TA, Department courses and open/core electives is
+compared with the recommendations of the earlier UGRCs.
+
+7
+
+[PAGE 8]
+HSS        Science/Sc.  Esc    TA       Deptt       Open/Core
+Electives                                        Electives
+Original1     18.7        22.6         13.2     11.3     34
+1963
+I UGRC1    16        20          10      10       32         12
+1970
+II UGRC1    10.9        12.9         15.2     6.5       41.3         12.9
+1981
+III UGRC1   10        15          15      5         42.5         12.5
+1992
+IV UGRC1   9.6         19.2          9.6      2.4       50.0         2.4
+2001
+
+V ARC2     12-15     20          10       2-5       35-40       15
+2008         Includes   Compulsory+ ESc     Manufact. Compulsory.: Room for a
+Proposed    Mgt.+      Electives    +      +        25-30       Minor
+Comm             ESO    Engg.
+Skills+                        Drawing  Electives:
+Foreign                                10
+Lang.
+
+1: The break-up is based on the number of courses.
+2: The break-up is based on total credits.
+
+The proposed break-up is consistent with the need to provide broad-based education at
+the under-graduate level to produce a global Indian. The relatively higher proportion of
+core/open elective credits has also been made to facilitate a smooth transition to a
+second degree. A semester-wise template of the proposed curriculum is available in
+Appendix I.
+
+B. Core Programme
+
+The desired features of the core courses are given below:
+–  Courses should not be department-centric
+–  Broad-based courses that are pitched at a level understood by students of less
+competitive branches
+–  Core programme, especially the sciences, should be more flexible:
+•  Core slots should have compulsory and elective components
+•  Total core credits to be completed in the first 2 years should be defined
+•  Fix slots for compulsory courses that have to be taken by all students
+•  Departments decide slots of some courses, as in ESOs
+•  Students have freedom to choose slots for elective courses
+–  Participation from more than one department in teaching/tutorship of core
+courses should be mandatory.  Engineering departments must participate in
+science courses and vice-versa.
+–  PE (Physical Education) should continue to be an integral part of the curriculum.
+The course should be offered in the first two semesters. The course structure
+and its functioning needs to be reworked. The course can have (potentially) two
+8
+
+[PAGE 9]
+two-hour slots in a week. A dedicated faculty could be made instructor-in-charge
+with a few tutors from the departments, the load being counted towards normal
+academic load. The coaches will assist the tutors in carrying out the classes. This
+will bring in seriousness in the conduct and attendance of this course. The
+course will be Pass/Fail, with credits assigned to it.
+
+Science
+The proposed features of the science curriculum are given below:
+–  Science courses to have compulsory and elective components
+–  Compulsory courses cater to all departments
+–  Electives contain department-specific, advanced courses (SO). For example, SO
+can be an additional course on Mathematics, Physics, Chemistry, Life-science,
+Dynamics
+–  Compulsory curriculum
+•  Basic courses
+ 2 Maths, 2 Physics, 1 Chemistry, Physics and Chemistry laboratories.
+•  Exposure to emerging sciences
+  Introduction to Biology.
+–  Experiments should be made exciting, possibly by having projects which require
+thinking and innovation.
+–  Visual aids and animations must be used to explain difficult concepts wherever
+possible.
+
+Engineering Science
+The recommendations for Esc are:
+–  Retain the courses on Electronics and Programming with modifications.
+–  Programming course
+•   Scientific computing portion of the course should be increased substantially
+•   It should not be treated as a first course for CSE students
+•  Devise means to deal with students with below threshold exposure to
+computers
+–  Electronics
+•  Course content should be reduced
+•  Course should be simplified and pitched to an average student.  It should not
+be treated as a first course for electrical engineers
+•  Laboratory should be fun by introducing projects, for example fabricating an
+amplifier
+•  Course should be moved to II year because of math pre-requisite
+
+Engineering Science Option
+The format of ESOs in the current curriculum should be continued except for the
+fact that  it should be taught at a level that is comfortable to the participating
+departments.
+
+Technical Arts
+The two TA courses on Engineering Drawing and Manufacturing to be retained with
+the proposed modifications:
+9
+
+[PAGE 10]
+–  Engineering Drawing
+•  Sketching should be retained
+•  Drawing board and drafters should be replaced with AUTOCAD or similar
+software
+•  Incorporation of a laboratory project
+–  Manufacturing
+•  The existing course was the addition of the old TA203 and TA204 courses.
+Both these courses had 2 lectures and one practical per week.
+•  The present course format is heavy  -- (2Lecture + 2Practical)/week + 2
+projects – and should be discontinued
+•   It is imperative that this course should not be viewed as a pre-requisite for
+manufacturing-related courses in ME and MME
+•  There are two options for running this course:
+ Theory (2L/week) taught in Ist year with visual teaching aids.  Both ME
+and MME laboratories combined together in II year as a single laboratory
+course with a composite project. The course on manufacturing theory in
+the Ist year can be a good substitute for the electronics course.
+ Two independent courses with separate ME and MME contents, each
+course having (1L + 1P)/week.
+ Advanced  manufacturing  processes  should be  introduced  either as
+experiments or demonstrations.
+
+HSS
+Apart from the courses in economics, psychology, philosophy, English, sociology
+and art, the HSS component should include the following:
+–  Communication skills (please see Appendix II)
+–  General management  that  introduces  students  to  the  basics  of  finance,
+marketing and human resource management
+–  Foreign languages
+–  Courses on Indian, world history
+
+C. Modular courses
+
+To add more variety to the course basket and to eliminate “stretched” courses, it is
+proposed that half-semester courses with one mid-semester and one end-semester
+examination be allowed. A half-semester course will be assigned half the credits of
+a corresponding full course. This also allows the student the flexibility of taking two
+half-semester courses in lieu of a full course. The half semester courses will start
+either at the beginning of the semester, or after 7 weeks (mid-way) of start of
+semester.
+
+D. Systems Engineering
+
+The concept of systems engineering -- using analysis and synthesis -- as a tool for
+problem solving is conspicuous by its absence in the present curriculum. A project-
+oriented course that illustrates some of the steps in systems engineering:  (i)
+problem definition, (ii) analysis of alternatives, (iii) model building and evaluation
+could be introduced. The project must attempt to provide technological solutions to
+
+10
+
+[PAGE 11]
+local/national problems. An example could be the design of cheap, hygienic toilets
+in trains.
+
+E. Administration
+
+An academic curriculum proposed by ARC is at best a statement of intent unless it
+is implemented in letter and spirit.
+
+Ethos
+One noticeable problem in recent years has been the lack of a vibrant academic
+atmosphere in the campus, especially the classroom and hostels. The general
+attitude of students towards academics is lackadaisical, with a surprising zest for
+organizing scores of festivals of various hues and colour. Therefore there is an
+urgent need to inculcate a sense of balance and discipline in the life of students
+at IITK. Some of the possible administrative steps could be:
+–  A minimum attendance level (say 80 %) should be compulsory for appearing
+in the end-semester examination.
+•  Minor weightage for attendance does not seem to have the desired effect
+–  The number,  scale, and funding  of  festivals should be  restricted to a
+manageable level to ensure that academics is not unduly affected.
+–  Innovative measures should be thought of for increasing the interest of
+students in experiments and curbing rampant copying that takes place with
+laboratory reports.
+
+The major responsibility for maintaining the academic ambience rests with the
+faculty. However, with the increasing emphasis on research there is a need to
+maintain the right balance between (i) teaching, (ii) critical corporate activities
+such as DUGC/DPGC and  (iii) research.  For example,  it is important to plan
+outside visits so that most classes are held as scheduled.
+
+Two other issues relevant to faculty are:
+–  Our inability to address the issue of “below average” teachers.  A process of
+non-intrusive monitoring should be in place.
+–  Ensure that the course syllabus and the level of instruction are followed in
+letter and spirit.
+•  The practice of maintaining course files must be implemented
+•  A course monitoring group should be formed
+
+Time Table
+With increasing number  of students,  it  will not be  practically possible to
+accommodate the wishes of all students in terms of selecting electives and
+backlog courses. Hence it is highly desirable to have a time table where the
+slots for core, HSS, departmental compulsory and open elective courses must be
+fixed say for a period of five years.
+
+Examination and Evaluation
+There have been suggestions of moving from the present system to a one mid-
+term and an end-semester examination system of evaluation. The ARC is divided
+on this. The one mid-term and an end-semester examination will leave more
+
+11
+
+[PAGE 12]
+scope  for project(s) and  will be useful  for implementing the modular/half-
+semester courses.
+
+12
+
+[PAGE 13]
+Salient Features of the New Curriculum Proposed by the ARC:
+
+1. A completely credit based system, with 400-420 credits required for graduation with a
+
+Bachelors degree. In this system, credit weightage will be calculated on the basis of the
+
+amount of student-time required for the course, using the following formula:
+
+C (credit) = L (lecture hours) + T (tutorial hours) + Practical (lab hours) + SS (self-study)
+
+Where SS = 2L + T + A (Additional load due to assignments, projects), 0 ≤ A ≤ 2.
+
+2. Graduating CPI to be 4.0 (in line with passing grade being D)
+
+3. Students may also opt for a B.Tech. in Engineering Sciences, an interdisciplinary
+
+degree not limited to any one department.
+
+4.  All students may opt for a Minor – a sub-specialisation in their own department, in any
+
+other department (including HSS), or a proposed interdisciplinary minor.
+
+5. Increased flexibility for students through an increase in the elective component of the
+
+curriculum, with 10% as core electives (ESO / SO), 13.5-18% as open electives, and 4.5-
+
+9% as departmental electives.
+
+6. The category of Science Electives (SE) is abolished. Instead, students will take a
+
+minimum of 10 credits (one full-semester course), or a maximum of 35 credits (approx.
+
+three full-semester courses) as their Science Option (SO) as part of their elective core
+
+programme.
+
+7. In the compulsory core programme, students will be required to do only TWO Maths
+
+courses.
+
+8. In the compulsory core programme, students will have the choice of doing EITHER
+
+CHM102 OR CHM103.
+
+9. TA201 has been split into two courses – TA102 (ME) and TA 201 (MME)
+
+10.HSS courses (except in the first semester) will not have tutorials. One HSS slot has
+
+been added, taking the total of HSS slots to five (12.8% of the curriculum). Students
+
+will have to take a minimum of 20 HSS Level I credits (two full-semester courses), and a
+
+minimum of 27 HSS Level II credits (three full-semester courses).
+
+11.There is a provision for Modular courses which are short 20-lecture half-semester
+
+courses (with half the credit weightage of a regular full-semester course).
+
+Departmental courses and all Electives may be offered in this format.
+
+12.DO (Introduction to Profession) has been deleted from the curriculum. Departments
+
+may choose to use one of their departmental core courses for this purpose.
+
+13.The B.Tech Project (BTP) has been made optional. Students, however, may opt for UG
+
+research through three optional slots, and one extra slot for anyone who wants to take
+
+extra research credits in the final semester.
+
+14.Two communication skills courses have been added as part of the required programme
+
+– a web-based composition skills course (in the third semester) , and a department
+
+13
+
+[PAGE 14]
+specific communication skills course (to be designed by individual departments) in the
+
+fifth semester.
+
+15.Discussion Hour has been deleted from ALL courses.
+
+16.80% attendance is made mandatory in a course for a student to appear in its end-term
+
+examination.
+
+17.The category of Academic Probation (AP) to be abolished; students with SPI less than
+
+4.5 to be placed on Warning (W), while students will CPI less than 4.0 to be Terminated.
+
+18.All JEE fresh entrants will be admitted only for a Bachelors degree (B.Tech. or B.S.).
+
+Students may later opt for a dual degree (one extra year), which may either be an
+
+M.Tech./ M.S. or a second Major in another department.
+
+14
+
+[PAGE 15]
+Questions for the Departments:
+
+1. A Minor – an area of sub-specialisation – will consist of 27-36 credits. What Minors
+
+could your department offer? Please specify the ideal structure of the minor (courses
+
+and their order). What interdisciplinary minors could you offer in association with other
+
+departments? What would be their structure?
+2. What would be the structure of 2nd B-Tech/B.S. degree (Major) in your department for
+
+students from other departments? Specifically, what should be the minimum number of
+credits for award of the 2nd degree? What should be the course / credit mix (choice of
+electives and core courses) for 2nd degree?
+
+3. Do you think there should be an option for a B.Tech (Honours) degree? If so, what
+
+should be the criteria for giving this special honours degree?
+
+4. Should there be an exit option for students who consistently underperform during the
+
+core programme at IIT Kanpur? If so, what form should this exit option take?
+
+5. In the proposed curriculum, a student may take a maximum of 35 credits (three full-
+
+semester courses) and a minimum of 10 credits (one full-semester course) under the
+
+ESO category. Which ESO courses would you make compulsory for your department?
+
+6. In what ways can your department integrate communication skills as a necessary
+
+evaluative criteria in some of your department courses?
+
+7. Should we switch from the pattern of two midterm and one end-term exam to one
+
+midterm and one end-term exam for all courses?
+
+15
+
+[PAGE 16]
+Appendix I
+
+Proposed 4-year Bachelor Degree Program
+
+Sem Course                     Sem   Course
+
+I    MTH101 (Calculus)             3-1-0  11     II      MTH102 (Lin Al, ODE,...)       3-1-0   11
+CHM102/CHM103    (Choose  2-1-0  08          PHY102 (Mechanics)          3-1-0   11
+one)                          0-0-3  03          CHM101/PHY101 (Lab)        0-0-3   03
+PHY101/CHM101 (Lab)         [2-0-2  [08           [TA101 (Engg. Graphics)+    [2-0-2 + [08 +
+[TA101 (Engg. Graphics)+   +    +             LIF101 (Life Sciences)]/        2-0-0]/  06]/
+LIF101 (Life Sciences)]/           2-0-  06]/         ESC101 (Computing)          3-1-3   14
+ESC101 (Computing)            0]/     14          HSS-2 (Level 1)               3-0-0   09
+ENG112/HSS-1                3-1-3  11          PE102                       0-0-3   03
+PE101                        3-1-0  03
+0-0-3                TA101 & LIF101 alternate with        51
+TA101 & LIF101 alternate with       50           ESC101
+ESC101
+III    PHY201                       2-1-0  08   IV      SO-3                         3-1-0   11
+[ESC102 (Electronics)/          [3-1-3/ [14/          [ESC102 (Electronics)/        [3-1-3/   [14/
+ESO-1/SO-1]                   3-1-0]  11]           ESO-1/SO-1]                  3-1-0]   11]
+ESO-2/SO-2                   3-1-0  11          HSS-3 (Level 2)/ DEPT         3-0-0   09
+DEPT                          3-0-0  09          DEPT                         3-0-0   09
+TA201 (MME)/TA102(Mech)     1-0-3  06          OE-1 / DEPT                  3-0-0   09
+Composition (Web based)      0-0-2  02          TA102 (Mech)/TA201 (MME)   1-0-3   06
+
+50/                                             55/
+47                                      58
+V    ESO-3                         3-1-0  11   VI     DEPT / OE-1                  3-0-0   09
+DEPT                          3-0-0  09          DEPT / HSS-3 (Level 2)        3-0-0   09
+DEPT                          3-0-0  09          DEPT                         3-0-0   09
+HSS-4 (Level 2) / DEPT         3-0-0  09          DEPT                         3-0-0   09
+UGR1 (Optional)               0-0-4  04           [UGR2/                        [0-0-9/   [09/
+OE-2 / DEPT                   3-0-0  09           OE/DE]                       3-0-0]   09]
+Comm Skills (Deptt)           0-0-2  02          OE-3 / DEPT                  3-0-0   09
+
+49/                                      54
+53
+VII   OE-4 / DE-1                   3-0-0  09    VIII    DEPT / OE-3                  3-0-0   09
+DEPT / HSS-4 (Level 2)         3-0-0  09           DE-1 / OE-4                  3-0-0   09
+DEPT / OE-2                   3-0-0  09           DE-2 / HSS-5 (Level 2)        3-0-0   09
+HSS-5 (Level 2) / DE-2         3-0-0  09          OE-5                         3-0-0   09
+[UGR3/                         [0-0-9/ [09/          OE-6                         3-0-0   09
+OE/DE]                        3-0-0]  09]        UGR4 (Extra credits)          0-0-9   09
+
+45                                             45/
+54
+
+•   Total credits: minimum 399, maximum 412. Department core is denoted by DEPT.
+
+•  SO+Sc core: 76 credits (19%), Esc+ESO: 46 credits (11.5%). A total of four slots are
+
+kept for ESO and SO courses. A student can use these four slots in three different
+
+ways: 3ESO+1SO or 2ESO+2SO or 1ESO+3SO. The aforementioned percentages are
+
+computed assuming a balanced ESO/SO i.e. 2ESO+2SO.
+•  HSS: 51 credits (12.8%)
+
+•  TA: 14 credits (3.5%)
+
+•  OE: 54-72 credits (13.5-18%)
+
+16
+
+[PAGE 17]
+•  DEPT core: 99 credits (24.8%). A department has complete freedom in designing the
+
+core course structure to use up to 100 credits. The template shows only an example
+
+of how to allocate 99 credits across eleven courses. A department is expected to
+
+have at least 20 laboratory credits in its core course structure. The eleven courses
+
+shown in this template does not have any laboratory credits. While the template
+
+does not show the “D0” course any more meaning that it is no longer required, a
+
+department is free to include one such course in its core structure. However, if a
+
+department does have a “D0” course, it must carry appropriate credits (there is no
+
+zero-credit course in the proposed program).
+•  DEPT elective: 18-36 credits (4.5-9%)
+
+•  UGR1 (research experience) is optional and graded (S/X). UGR2 and UGR3 can be
+taken in place of a DE or OE. However, at most one OE slot and at most one DE slot
+
+can be used for this purpose. UGR2 and UGR3 have letter grades. UGR4 is extra
+
+credits.
+
+17
+
+[PAGE 18]
+Appendix II
+
+Communication Skills for Undergraduate Students
+
+We strongly feel that there  is indeed a need for IITK students to develop their
+communication skills.  Feedback from placement, alumni, companies as well as the
+experiences of various instructors clearly shows that this is an area that requires
+significant improvement amongst our student body.  It is therefore necessary that we
+include communications skills in our formal curriculum.
+
+Broadly speaking, we define Communication Skills as the expression (oral and written)
+of thoughts and ideas in a logical and coherent manner. Given the global realities in
+the present world, we also stressed that such expression needed to be specially honed
+in the English language.  Given this definition, Communication Skills may be divided
+into the following components:
+•  Basic English language proficiency (including writing, speaking and listening skills)
+•  Basic composition skills
+•  Technical writing and presentation
+•  Professional communication skills (including group discussions, interviews, résume
+writing, etc.)
+
+Given the scope of this field, as well as the necessity for practical application and
+continuous  practice  for the development  of students’ communication  skills, one
+conventional lecture / tutorial based course for all students is not enough. Instead, we
+propose a modular format that is spread over the entire undergraduate programme.
+This will include the following elements:
+
+1) An English diagnostic test (EDT) for all incoming undergraduate students:
+The focus of this test will be exclusively on evaluating students’ English language skills
+(listening/comprehension, grammar and vocabulary).   This may be an online test
+modeled on TOEFL. This test score would help to divide students into different groups
+based on their English language skills. Currently the EDT is administered manually by
+the English faculty to all incoming UG students who are then divided into two groups on
+the basis of their performance in this test – those requiring ENG112C and those
+exempted from it.
+
+2) Remedial  English  Language  Course  (modified  version  of  the  present
+ENG112C): A completely tutorial based language-intensive course for the students
+identified by  EDT.   This  course would  retain  its  present  format  of  teaching
+approximately 90 students in three sections of 30 each (unless a significant increase of
+English faculty in the HSS department occurs?).
+
+3) A web-based basic composition skills course:  All students, irrespective of their
+diagnostic test score, would be expected to complete this course before their third
+semester.  This course will cover topics such as sentence composition (how to write
+clear concise sentences), converting sentences into  logical coherent paragraphs,
+different organizational patterns in writing, etc.  Students will not receive any formal
+grade for this course (not even pass/fail) in the grade-card, but a record of the
+performance will be kept in the UG office. The student will simply need to submit their
+
+18
+
+[PAGE 19]
+numerical score in this course to be admitted to the next course in the series. This
+score will be based on the student’s performance in the various tests / exercises that
+are part of the web-based course. The student will clear the course provided he/she
+scores more than 50% in the examinations. The student may take this course up to
+three times to improve his/ her understanding of the course material and get the
+“clearing” score.
+
+4) Writing Laboratory and Composition Help Desk: Students who are unable to clear
+the web-course will be required to report to the writing laboratory for about 20 hours of
+remedial sessions. After the sessions, the student can retake the examination of part
+(3). The score, along with the certification of the remedial sessions, is enough for the
+student to go the next stage (i.e. the “clearing mark” is not mandatory).
+
+The writing laboratory will have a communication help-desk, manned by senior UG,
+dual degree, M.Tech or Ph.D students from various departments. The help-desk will
+have designated time slots and will be open to all students seeking help with respect to
+either the web-course or any other technical communication issues. The help desk
+students  will be chosen based on criteria setup by the English department.  It  is
+recommended  that  this  responsibility  of  the  help-desk  students be taken  into
+consideration for their MHRD-scholarship.
+
+5) Basic introduction to technical writing and presentation:  This would be part of
+the current D0 course with the caveat that the DO course be offered in the third
+semester instead of the second semester as done now. The communication skills part
+of this course would constitute 1/4th  if not 1/3rd of the course content / grade.  The
+student would here learn to gather material on a chosen technical topic and organize it
+into a coherent written as well as oral presentation.  The instructional part of this
+course may be made web-based, with reports and presentations to take place on a
+flexible basis whenever individual students finish the web-based part of the course.
+
+6) A 2-credit department specific technical communication skills course:  This
+course will introduce students to their discipline-specific compositional requirements
+(report and summary  / abstract  writing, research  articles,  etc.) as  well as the
+techniques of effective multi-media presentation (use of and coordination with audio-
+visual aids, body language, etc.).
+
+In addition to the above REQUIRED courses, we recommend the following:
+•  Clearly defined evaluation of communication skills in other existing courses:
+ Lab courses: a portion of the lab report grade determined by its presentation
+ The addition of reports  / presentations in various dept. and HSS courses, to be
+evaluated both for content and a specified percentage for communication skills.
+•  Workshops for professional communication skills (GDs, Interviews, Résume writing,
+etc.) that would be open to students on a payment basis to students after their fourth
+semester. The instructors for this workshop maybe from outside the Institute. These
+workshops may be organised in coordination with the SPO.
+
+A flow chart in terms of the student’s program is as follows:
+
+19
+
+[PAGE 20]
+NOTE:  As part of teaching communication skills to undergraduate students, we also
+discussed the possibility of having another ‘intermediate level’ course in English language
+for those who are middle-scorers in the EDT.  However, upon further discussion, we
+removed this suggestion from our recommendations primarily for two reasons:
+
+a) The course content for this course would largely duplicate material covered by the
+required web-based course and the proposed communications content of the DO
+course.
+b) Any such additional language-intensive course would require additional faculty since
+a language-intensive course can only be taught in small sections of 30 students
+each. Such a course, therefore, would require a substantial increase of the number
+of English faculty in the HSS department.
+
+20
+
+[PAGE 21]
+Appendix II
+
+Report of the Math Subcommittee
+
+1.  1st course – Basic Calculus (Finney is a reference):  Single variable calculus and
+concepts  of sequences,  continuity,  differentiation and integration have to be
+introduced in detail. Vector calculus also to be discussed in detail. Idea should also
+be to enable logical thinking. Concepts like divergence theorem, Stokes theorem
+and Green’s theorem may be left out of the syllabus (as these are developed in
+physics, fluid mechanics and other courses taken later). This is to lower the content
+of the course. Other concerns/ideas:
+
+–   All proof should not be done. Some results given for formal application.
+
+–  Introduce more of formal application problems.
+
+–  About 30% proofs should be given in detail; for certain results only sketch of
+proof given accompanied by detailed notes for further reference or a set of web-
+based “Basic analysis lectures” – to augment the learning for the keen students
+(this  is extra material over and above the normal course load – not to be
+examined).
+
+–  Redo the problem set. Harder problems given as “starred” problems, uploaded
+on the course web-site. The emphasis should be on sound learning of the basic
+concepts and not too much emphasis on the tricks involved in specific problem
+solutions.
+
+–  Solve more problems in the lectures.
+
+2.  2nd course – the second course should be based on modules of basic linear algebra
+(20 lectures) and ordinary differential equations+ transform methods (20 lectures).
+
+These two courses cover the material that  all departments need. These  will be
+compulsory for all departments. Additional mathematics is specialized to departments,
+and has been broken into modules (preferably of 20 hours each), as:
+
+a) Introduction to partial differential equations
+
+b) Basics of probability and statistics
+
+c) Numerical methods using MATLAB – this can be handled by engineering faculty.
+
+Under the SO option, the departments may ask students to take two of the three modules.
+Other modules may be added later.
+
+3. Advanced,  or  specifically  designed  courses,  to  give  additional  exposure  to
+mathematics, may be devised and taught by departments internally.
+
+4. The committee  felt  that experience with student  tutors has not been very
+encouraging (barring exceptions). Hence, a new paradigm of a bigger class of 100-
+150 dedicated to problem solving should be done (1 hour a week). The class will be
+conducted by a faculty member. Further, the students can be used to evaluate
+
+21
+
+[PAGE 22]
+assignments, examination papers, with the instructor as the Head Examiner, and
+the faculty tutors as the examiners. Suitable monetary compensation to the student
+tutors is strongly recommended.
+
+22

@@ -1,0 +1,898 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+
+COURSES OF STUDY
+
+2024
+
+Indian Institute of Technology Kanpur
+KANPUR-208016
+
+[PAGE 2]
+CHEMICAL ENGINEERING
+
+[PAGE 4]
+DEPARTMENT OF ChE
+Credits
+Courses ID      Course Title                                        Content
+L-T-P-D-[C]
+CHEMICAL
+Introduction, listening skills, paper writing, literature search,
+ENGINEERING
+ChE200                              0-0-2-0-2   resume and CV writing, oral presentation and public speaking,
+COMMUNICATION
+group discussion.
+SKILLS
+Introduction  to  Chemical  Engineering  Profession,  Safety
+aspects in different Chemical Industries,Data Analysis and
+Fitting, Instrumentation: To measure different parameters such
+as  pressure,  temperature,  velocity,  flow  rates,  etc.,Heat
+Transfer: Different types of heat exchangers, evaporation units,
+etc...,Mass  Transfer:  Gas-liquid  contacting  devices,  tray
+towers,   adsorption,    liquid-liquid   contacting   devices,
+INTRODUCTION TO                  humidification crystallization.Chemical Reaction Engineering:
+ChE201       CHEMICAL         0-0-2-0-2    Reactor types such as batch, semi-batch, CSTR, plug flow,
+ENGINEERING                 packed bed, fluidized bed, catalysis.Fluid-Solid separation:
+Different types of pumps, pipes, valves, filtration units.
+Course Reference:  1. Pushpavanam,  S.,  Introduction  to
+Chemical Engineering, PHI Learning Private Limited, New
+Delhi, 2012.  2. Morton Denn, Chemical  Engineering: An
+Introduction, Cambridge University Press, 2011  3. Perry’s
+Chemical Engineers’ HandBook, The McGraw-Hill Companies,
+Inc., 2008.
+Modes of heat transfer (Conduction, convection, radiation),
+Boiling, Condensation, Heat Exchanger Design, Evaporators,
+Heat Transfer Unit Operations, Numerical Modeling.
+Course Reference: 1. Frank P. Incropera, David P. Dewitt,
+Theodore L. Bergman, and Adrienne S. Lavine, Incr-opera’s
+Principles of Heat and Mass Transfer, Wiley India ed. Wiley
+India. 2.J. P. Holman and Souvik Bhattacharyya, Heat Transfer,
+ChE212    HEAT TRANSFER     3-0-3-0-12  McGraw Hill; 10th ed, McGraw Hill Education. 3. Adrian Bejan,
+Heat Transfer, Wiley India Pvt Ltd. 4. Yunus A. Cengel and A.
+J.  Ghajar, Heat and Mass  Transfer: Fundamentals and
+Applications, 5th Ed. SIE, McGraw Hill Education. 5. Warren L.
+McCabe, Julian C. Smith and Peter Harriott, Unit Operations of
+Chemical Engineering, 7th ed.  (Indian  Ed.), McGraw  Hill
+Education. 6. Donald Q. Kern, Process
+Heat Transfer, McGraw Hill, New York.
+Mass transfer related unit operations in process industries;
+Fundamental of Mass Transfer: continuous and equilibrium
+stage  contactors; Absorption:  equilibrium and  rate based
+MASS TRANSFER
+approach, NTU and HTU,  hydrodynamic  considerations;
+ChE213    AND SEPARATION     3-0-3-0-12
+Distillation:  vapor-liquid  equilibrium,  Ponchon-Savarit  and
+PROCESSES
+McCabe-Thiele methods  for equilibrium stage calculations,
+Extraction: single- and multi-stage cross-current extraction,
+continuous countercurrent multistage extraction; Adsorption
+
+[PAGE 5]
+and chromatography:  single- and multistage cross-current
+operations, packed-bed continuous contactor; Humidification
+and Drying: dry and wet bulb temperatures, humidity, relative
+and percentage humidity, psychometry chart, and adiabatic
+saturation  temperature;  mechanisms   of  batch   drying,
+continuous drying; Crystallization: nucleation and growth rate,
+batch crystallizer.
+Course  Reference:    1.  R.  E.  Treybal, Mass  Transfer
+Operations, 3rd ed., McGraw Hill, New York, 1980. 2. J. D.
+Seader and E. J. Henley, Separation Process Principles, Wiley,
+New York, 1998. 3.  J. M. Coulson and  J.  F. Richardson,
+Chemical Engineering, Vol.  I (6th ed., 2000), Vol. 2 (4th
+ed.,1990), Vol. 6 (3rd ed., 2000), Butterworth Heinneman,
+Oxford.  4. B. K. Dutta,  Principles  of Mass Transfer and
+Separation Processes, Prentice-Hall of India Pvt Ltd, 2007. 6
+5.  P.C.  Wankat,  Separations  in  Chemical  Engineering:
+Equilibrium Staged Separations, Prentice Hall, NJ. US, 1988 6.
+McCabe, Smith, and Harriot, Unit Operations in Chemical
+Engineering, 3 rd ed. McGraw Hil
+Laws of Thermodynamics: Introduction, Work, Heat, Internal
+Energy, the first Law, Reversibility, the second law, Entropy,
+Fundamental    Equations:   Thermodynamics    calculus,
+thermodynamics    derivatives,    Euler’s   theorem     for
+homogeneous    functions,   Legendre’s    transformations,
+Derivative in terms of measurable properties,  Equilibria and
+stability:  Equilibrium   criteria,   stability   criteria,  Maxwell
+construction,   binodals,  spinodals,  Gibbs  Phase  Rule,
+Clapeyron equation and vapor pressure correlations  Pure
+component  properties: Equation  of  state,  Ideal gas heat
+capacities, fundamental equations from experimental data,
+fugacity and corresponding states Mixture Properties: Mixing
+function, partial molar quantities, Gibbs-Duhem relation for
+mixtures, partial Molar quantities from experimental data, Ideal
+gas mixtures and fugacities, ideal mixtures and  activities,
+CHEMICAL
+excess functions, excess Gibbs free energy models, infinite
+ChE221     ENGINEERING      3-0-3-0-12
+dilution properties and Henry’s Law  Phase  Equilibria  of
+THERMODYNAMICS.
+Mixtures: VLE, LLE, VLLE, Phase equilibria EOS, Osmotic
+pressure and Osmotic coefficients, Boiling point elevation and
+freezing  point  depression  Chemical  Reaction  Equilibria:
+Reaction extent and Independent reactions, equilibrium criteria
+and equilibrium constant, reaction standard enthalpies and
+Gibbs  free  energy, temperature and pressure  effects on
+reactions,   heterogeneous   reaction,   multiple   chemical
+reactions.
+Course  Reference:     1.  Engineering  and  Chemical
+Thermodynamics, M. D.  Koretsky, Wiley  India (2004)  2.
+Essential Thermodynamics: An undergraduate textbook for
+chemical engineers, Athanassios Z Panagiotopoulos, Drios
+Press (2011) 3. Chemical Engineering Thermodynamics, by
+Smith, van Ness and Abbott, 7th Ed., McGraw-Hill (2005) 4.
+Thermodynamic and Introduction to Thermostatistics, H. B.
+
+[PAGE 6]
+Callen,  2nd  Edition  Wiley  India  (2005).  1.  Chemical,
+Biochemical and Engineering Thermodynamics, S. I. Sandler,
+Wiley (2006) 2. Chemical Engineering Thermodynamics, Y. V.
+Rao, Universities Press, India (1997) 3. Chemical Engineering
+Thermodynamics  - Theory and Applications, R. Ravi, Ane
+Books (2019).
+Steady-state  Material Balances  in  Non-reacting Systems,
+Balances on Multiple-Unit Processes, Balances in Reacting
+Systems,  Element  (atomic)  versus  Species  (molecular
+balances), Material Balances in Multiphase Systems, General
+Energy Balance, Energy Balances in Reacting Systems, Fuels
+INTRODUCTION TO
+and Combustion, Psychrometry, Unsteady-state material and
+ChE251    CHE + PROCESS     3-0-3-0-12
+energy balance.
+CALCULATION
+Course Reference:  1. “Elementary Principles of Chemical
+Processes”, R. M. Felder and R. W. Rousseau, 2nd ed., Wiley,
+New York, 1986. 2. “Basic Principles and Calculations  in
+Chemical Engineering”, D. M. Himmelblau, 7th ed., Prentice-
+Hall of India Pvt. Ltd., New Delhi.
+Overview of Chemical Industries, Introduction to reactors,
+Petroleum   refining  process,  Inorganic  bulk  chemicals,
+Fertilizers, Hydrogen generation from natural gas, Paper and
+pulp industry, Modern chemical processes, Petroleum and
+Petrochemicals.
+CHEMICAL                  Course References: 1. J. H. Gary, G. E. Handwerk and M. J.
+ChE261       PROCESS         3-0-0-0-9    Kaiser “Petroleum Refining: Technologies and Economics”, 5th
+INDUSTRIES                       Edition, CRC Press 2. Kirk-Othmer Encyclopedia of Chemical
+Technology. 3. Ullmann’s Encyclopedia of Industrial Chemistry.
+4.   Riegle’s  Handbook   of   Industrial  Chemistry  and
+Biotechnology, Editor: J.A. Kent, 11th edition. 5. Jacob. A.
+Moulijn, Michiel Makkee, “Chemical Process Technology” 2nd
+edition.
+Fluid flow - Derivation of governing equations using Reynolds
+Transport Theorem;  unidirectional laminar  flows, unsteady
+flows, nearly 1D flows, 2D flows.Heat transport - Governing
+equations; unsteady conduction in a cylindrical rod; Free and
+forced convection. Mass transport - diffusion in a stagnant film,
+diffusion   with   homogeneous/heterogeneous   reactions,
+diffusion into a falling liquid film. Boundary layer theory and
+turbulence.
+TRANSPORT
+Course Reference:  1. R. Byron Bird, Warren E. Stewart,
+PHENOMENA:
+ChE311                             3-0-3-0-12   Edwin N. Lightfoot, “Transport Phenomena”, Second Edition,
+FUNDAMENTALS
+John Wiley and Sons, Inc. 2. V. Kumaran, “Fundamentals of
+AND APPLICATIONS
+Transport  Processes  with  Applications”,  Cambridge-IISc
+Series, October 2022 (ISBN: 9781009036658). 3. William M.
+Deen, “Analysis of Transport Phenomena”, Second Edition,
+Oxford University Press, 2012, ISBN: 9780199740253. 4. L.
+Gary Leal, “Advanced Transport Phenomena- Fluid Mechanics
+and Convective Transport Processes”, Cambridge University
+Press. 5. Rutherford Aris, “Vectors, Tensors and the Basic
+Equations of Fluid Mechanics”, Prentice Hall International. 5.
+
+[PAGE 7]
+William B. Krantz, “Scaling Analysis in Modeling Transport and
+Reaction Processes”, John Wiley and Sons, Inc.
+Introduction; basic concepts in chemical kinetics; determination
+of rate expressions; nonelementary homogeneous reactions;
+isothermal design of batch, mixed flow and plug flow reactors;
+design for multiple reactions; nonisothermal reactors; analysis
+of nonideal reactors; catalysis; kinetics of catalytic reactions;
+diffusion and reaction in porous catalysts.
+Course Reference: 1. H. Scott Fogler, ‘Elements of Chemical
+Reaction Engineering’, 5th edition, 2016, Prentice Hall of India,
+New Delhi. 2. O. Levenspiel, ‘Chemical Reaction Engineering’,
+CHEMICAL                     3rd edition, 1999, Wiley-Eastern Ltd. 3. J.M. Smith, “Chemical
+ChE331       REACTION        3-0-3-0-12   Engineering   Kinetics,”  3rd   edition,  1981,  McGraw-Hill,
+ENGINEERING                      International Student Edition. 4. Unit Operation Laboratory
+Manual. 5. W.L. McCabe, J.C. Smith, and P. Harriott,” Unit
+Operations of Chemical Engineering” (7th Edition), McGraw
+Hill Publishing, 2005 (ISBN 0-07-284823-5). 6. Coulson and
+Richardson’s Chemical Engineering: Chemical Engineering
+Design.  7. Bruce A.  Finlayson,  ‘Introduction  to Chemical
+Engineering Computing’, 2nd edition, 2014, Wiley. 8. Riccardo
+Tesser, Vincenzo Russo, “Advanced Reactor Modeling with
+MATLAB: Case Studies with Solved Examples” 2021, De
+Gruyter.
+Introduction to process design and process creation Heuristics
+for Process Synthesis  Cost accounting and  capital cost
+estimation, annual  costs,  discounted cash  flow  analysis,
+Depreciation  Reactor design and reactor network synthesis,
+Principles  of  attainable  regions,  Principles  of  Reaction
+Invariants, Optimal reactor conversion and yield, Heat removal
+configurations, Locating the Separation Section with respect to
+the Reactor Section, Tradeoffs in processes involving recycle,
+Recycle to extinction, Influence of side reactions on overall
+process design, Material and energy recycle and associated
+non-linear effects: Snowballing, robust flow sheet convergence
+Conceptual   distillation  design:  sequencing  columns  for
+CHEMICAL                     separation of ideal VLE systems. Ternary distillation: feasible
+PROCESS                           splits and design, Complex columns for energy efficiency using
+ChE352                             3-0-3-0-12
+SYNTHESIS AND                    state task networks. Non-ideal VLE and residue curve maps,
+DESIGN                  Homogenous  azeotropic  distillation  design,  heterogenous
+azeotropic  distillation  design,  pressure  swing  distillation,
+solvent selection Introduction to heat and power integration,
+Minimum   utility  targets,  networks  for maximum  energy
+recovery, minimum number of heat exchangers, threshold and
+optimal approach temperature, superstructure for minimization
+of annual costs, multiple utilities and heat-integrated distillation
+trains.    Plantwide  Controllability  Assessment,  Tradeoffs
+between steady  state optimum design and  controllability,
+Design for good operability Lifecycle Analysis.
+Course Reference:  1. W. D. Seider, J. D. Seader and D. R.
+Lewin, “Product and process design principles”, John Wiley
+(Indian Edition), 2nd edition, 2005 2. M.F. Malone and M.
+
+[PAGE 8]
+Doherty, “Conceptual Design of Distillation Systems”, McGraw-
+Hill, 1st Edition, 2000. 3. Robin Smith, Chemical Process
+Design and Integration, 2nd edition, John Wiley and Sons, Inc.
+Cell Structure and Cell Types, Chemicals of Life (RNA, DNA,
+enzymes etc.), Kinetics of Enzyme Reactions, Applied Enzyme
+Catalysis, Metabolic Stoichio metric and Energetics, Molecular
+BIOCHEMICAL                   Genetics  and  Control,  Biomass  Production,  Transport
+ChE362                             3-0-01-4
+ENGINEERING               Phenomena in Biosystems, Design and Analysis of Biological
+Reactors, Fermentors, Downstream Product Recovery and
+Purification,  Interaction  of  Mixed  Microbial  Populations,
+Biological Wastewater Treatment.
+Basic SISO dynamic elements; Solving ODEs in time-domain;
+Characteristic  equation  and  stability;  Empirical  dynamic
+modelling of SISO systems; First-principles dynamic modelling
+and simulation; SISO negative feedback control; PID control
+algorithm,  stability and tuning; Laplace-domain techniques:
+Laplace transform, transfer functions, partial fractions, root
+locus technique, direct synthesis and internal model controller
+design;  Frequency-domain   techniques:  The  frequency
+response, Bode and Nyquist plots, Nyquist stability theorem,
+controller tuning for gain margin, phase margin and maximum
+closed  loop  sensitivity;  Multivariable  systems:  Interaction
+PROCESS
+metrics   (relative  gain  array  and   Niederlinski   Index),
+ChE381     DYNAMICS AND      3-0-3-0-12
+decentralized PID controller (de)tuning, decoupling; Advanced
+CONTROL
+control: Feedforward, Ratio, Cascade, Optimizing, Override;
+Model based control: Smith-predictor, model predictive control;
+Control system design for complete plants;  Digital control
+analysis and design.
+Course Reference: 1. Process Control: Designing Processes
+and Control Systems for Dynamic Performance, 2nd Ed, TE
+Marlin (2000). 2. Essentials of Process Control, WL Lubyen and
+ML Luyben  (1997). McGraw  Hill: New York.  3. Process
+Dynamics and Control,4th Ed., DE Seborg, TF Edgar, DA
+Mellichamp and FJ Doyle  III, (2016). John Wiley and Sons:
+Hoboken NJ.
+Safety, ethical guideline, error analysis, data presentation. Brief
+introduction to topics of experiments, relevance in industry
+Fluid flow, fluid particle system Thermodynamics Heat and
+mass transfer Demonstration lab Solid size reduction e.g.
+crushing and  Igrinding,  ball  milling;  Solid conveying  e.g.
+pneumatic conveying, hydraulic conveying, Ibelt conveying.
+UNIT OPERATION                  Analysis and testing of crude  oil and petroleum products:
+ChE391A
+LABORATORY -I                  1Determination of octane number, cetane number, pour point,
+cloud point, smoke point
+1-0-3-2-8   Course Reference: 1. Unit Operation Laboratory Manual; 2.
+Unit Operations of Chemical Engineering; (7th Edition), by W.L.
+McCabe, J.C. Smith, and P. Harriott, McGraw Hill Publishing,
+2005 (ISBN 0072848235);  3. Coulson and  Richardson’s
+Chemical Engineering: Chemical Engineering Design
+
+[PAGE 9]
+Validation of thermodynamic properties, Validation of kinetic
+parameters, Steady State flow sheet synthesis, Economic
+optimization, Heat Integration, Plant wide control.
+Course Reference:  1. J. M. Douglas, “Conceptual design of
+chemical processes”, McGraw-Hill, 1988. 2. W. D. Seider, J. D.
+PROCESS DESIGN
+Seader and D. R.  Lewin,  “Product and process design
+ChE453      CAPSTONE         0-1-4-0-6
+principles”,John Wiley (Indian Edition), 2nd edition, 2005. 3.
+PROJECT
+M.F. Malone and M. Doherty, “Conceptual Design of Distillation
+Systems”, McGraw-Hill, 1st Edition, 2000. 4. Robin Smith,
+Chemical Process Design and Integration, 2nd edition, John
+Wiley and Sons, Inc. 5. G. Towler and R. Sinnott, Chemical
+Engineering Principles, Elsevier, 2008.
+Particles Size Analysis: Sieve analysis, size distribution, size
+averaging and equivalence, size estimation in sub-sieve range,
+effectiveness of screen, description of shape and morphology
+of particles (flocs, porous particles, surface texture etc.), Size
+Reduction: Theory of crushing and grinding, laws of crushing
+and  grinding, crushing and  grinding equipment and  their
+selection,Nanoparticles:   Synthesis,   characterization  and
+potential   applications,   enlargement   of   particles   by
+agglomeration and other methods,Storage of Solids: Angle of
+slide and repose, general design consideration for bins, silos
+and hoppers,Particle Mechanics: Motion of particle in fluid,
+UNIT OPERATIONS                 pressure-drop calculations for solidliquid slurry flow, effect of
+INVOLVING                         particle   shape,   Stoke’s   law,   hindered   settling  and
+PARTICULATE                    jigging,Sedimentation and Flotation: Gravity and centrifugal
+ChE454A                             3-0-0-0-9
+SOLIDS FOR                     sedimentation, design of sedimentation tank and continuous
+CHEMICAL                       thickeners, mechanism  of  flotation,  flotation  agents and
+ENGINEERS                         flotation equipment,Fluidization:  Fluidization  characteristics,
+aggregative and particulate fluidization, voidage and minimum
+fluidization  velocity,  voidage  correlation,  liquid-solid  and
+gassolid fluidization characteristics, industrial applications of
+fluidization,Filtration: Flow through  filter cake and medium,
+washing and drying of cake, filter aids, selection of filtration
+equipment, constant  rate and constant pressure  filtration,
+Other Separation Equipment: Cyclone separator,  air  filter,
+electrostatic      separator,     and       their      design
+consideration,Conveying of Solids: Pneumatic and hydraulic
+conveying of solids, general characteristics and flow relations,
+mechanical conveyers
+Kinematics,   Transport   theorem,   constitutive   relations,
+Equations of motion and their solutions, Boundary layer theory,
+TRANSPORT                    Turbulence; Energy equation and its exact solutions, Continuity
+ChE611                              3-0-0-0-9
+PHENOMENA                    equation for multicomponent systems, constitutive relations,
+Interphase transport of momentum, energy and mass and
+macroscopic balances.
+Introduction; Notions of stability (Lyapunov stability; asymptotic
+INTRODUCTION TO                      stability; spatial vs temporal instability; transient growth etc.);
+ChE614    HYDRODYNAMIC      3-0-0-0-9   Review of governing equations of fluid flow and boundary
+STABILITY                        condition;  Instabilities  in  fluids  at  rest  (Rayleigh-Taylor
+instability,   Rayleigh-Plateau   instability)  Rayleigh-Benard
+
+[PAGE 10]
+instability,  Marangoni  thermocapillary   instability);  Kelvin-
+Helmholtz instability; Stability of parallel shear flows; Inviscid
+limit (Rayleigh,  Fjortoft theorems); Viscous flows: Squire’s
+theorem;  Orr- Sommerfeld  equation  for  rectangular and
+axisymmetric geometries; Numercal techniques for solving the
+Orr-Sommerfeld equation; Interfacial instabilities in multi-layer
+flows;  Spatio-temporal  evolution(convective  vs  absolute
+instabilities); Non-modal analysis and transient growth; Weakly
+non-linear stability; Instabilities n non-Newtonina fluids.
+Part:1 Introduction to granular materials (Illustrative examples,
+rich  behaviour  of  granular  materials,  characterisation  of
+granular materils, inter-particle forces, fluid paricle interaction);
+Issues and  challenges  in  experimental  studies;  Discrete
+element method for granular simulations; Hard and soft particle
+models; Contact force modelling (Normal contact force models,
+tangential contact force and torque models,  Friction force
+modelling,   Equations   of   motion   for   granins   (non-
+dimensionalizaion  of equaitons  of motion,  relating model
+parameters to grain properties); Algorithm for soft and hard
+particle mehods; Calculation of varios properties of interest
+form the data; Modelling of non-spherical granis in DEM; Some
+fundamental insights obtained form DEM; Limitation of Dem
+simulations.
+Part-2: Cintinuum models (Balance laws for msss, momentum
+and energy); Static properties of a granular piles (Role of
+friction, Reynolds dilatancy, Pressure distribution in cylindrical
+INTRODUCTION TO
+container); Theory of slow flows (Coulomb yield condition,
+ChE616A      GRANULAR         3-0-0-0-9
+Mohr’s Circle, Rankine states, Flow rules, Equations for plane
+MECHANICS
+flows); Flow thorugh hoppers and wedge shaped bukers
+(Savage’s  smooth  wall  radial  gravity  solution,  Beverloo
+correlation of flow through cylindrical silos with circular orifice
+and it’s theoretical estimation); Rapid flow of smooth, inelastic
+granins in simple geometries (Hydrodynamic description of
+rapid granular flow, Heuristic theory and introduction to Kinetic
+theory of inelastic gases).
+Par 3: Dense granular flow rehlogy (Frictional kinetic hybrid
+model, Local rehlogy vs. non-local rehelogy, inertial-number
+rheology in dense flow regime, 3D viscoplastic rheological
+model, extension to the rheology of granular mixures); Surface
+flows of granular materials (Flow over inclined plane and in
+rotating cylinders and heaps, depth average equation  for
+surface flows); Mixing and segregation of granular mixtures
+(Savage’s  kinetic  sieving mode, Khakhar’s  single  particle
+based segregation mode,  kinetic theor based segregation
+models).
+Introduction,Review  of  basic  mathematical  tools  (vector
+calculus,theorem’s of integral calculus),Kinematics-Continuum
+ADVANCED FLUID                  hypothesis,  Reference  frames  (Lagrangian  vs  Eulerian),
+ChE619A                             3-0-0-0-9
+MECHANICS                   General    balance     equations-Continuity,Conservationof
+linearmomentum,Interfacial  transport,  Angular  momentum
+equation,  Stream  function  and  velocitypotential,Analysis
+
+[PAGE 11]
+ofUnidirectional   and    nearly     unidirectional     flows;
+Lubricationapproximation: application to thin films, Creeping
+flow  with focus onMicrohydrodynamics:solution techniques
+using    expansions     of    harmonic    and    Green's
+functions;Resistance       matrices;singularitysolutions;flows
+involving  rigid  particles  and  fluid  droplets;  applications
+tosuspensions,Laminarflow athigh Reynold’s number–Inviscid
+flow, irrotational flow, Idealflows in a plane,Axisymmetric ideal
+flows,Vortex dynamics:Concept of vorticity;Kelvin's Circulation
+Theorem;Helmhotz'sVortex Theorems;Vorticity Equation in a
+Nonrotating Frame;Vortex Sheet,Boundary Layers: Blasius
+Flow ever a Flat Plate,Displacement Thickness,VonKármán
+Momentum  Integral,Von  Kármán-Pohlhausen Approximate
+Method,Falkner-Skan   Similarity   Solutions,Arbitrary  Two-
+Dimensional      Lay:      Crank-Nicolson      Difference
+Method,Introduction to Turbulent Flows: Types of Turbulent
+flowsandtheircharacteristics, Reynolds Stress, Correlations of
+fluctuations,  Meanand  TurbulentKinetic  energy,  Energy
+Cascade (Kolmogorove scalesand Taylor microscale)
+Classical thermodynamics of phase equilibria: Thermodynamic
+THERMODYNAMICS                  properties from  volumetric  data: Nature  of  intermolecular
+ChE623A    OF FLUIDS AND      3-0-0-0-9    forces, Theory of corresponding states; Fugacities  in gas
+FLUID MIXTURES                  mixtures and liquid solutions; gas solubilities; High pressure
+equilibria.
+Summary   of   classical  mechanics:  conservation  laws,
+Hamiltonian  and  Lagrangian  formulation; The  need  for
+quantum mechanics; Basic concepts: physical observables
+and operators, expectation values, Heisenbergr’s uncertainty
+principle, Schrodinger’s equation; The many-body Hamiltonian,
+Born-Oppenheimer &uml; approximation, variational principle,
+the concept of potential energy surface; What makes electronic
+structure difficult; Hartree-Fock (HF) approach: restricted and
+PRACTICAL INTRO.
+unrestricted method, and their comparison with experiments;
+TO QUANTUM
+Localized and  plane-wave  basis  sets;  Pseudopotentials;
+MECHANICAL
+ChE626                              3-0-0-0-9    Density functional theory (DFT): Hohenberg-Kohn theorems,
+METHODS FOR
+Kohn-Sham formulation; Exchange and correlations: LDA and
+SCIENTISTS &
+GGA approximations; Pure and hybrid DFT functionals; Tricks
+ENGINEERS
+for self-consistent solution of the Kohn-Sham system: mixing
+and diagonalization techniques; Failures and successes of
+DFT:  vander  Waal’s  correction  and DFT+U  approach;
+Configuration  interaction  and  Miller-Plesset  perturbation
+theory;  Applications  of  quantum-mechanical  methods  in
+engineering and sciences; Specialized topics (if time permits):
+Ab  initio molecular dynamics (Born-Oppenheimer and Car-
+Parrinello), ring-polymer molecular dynamics.
+Behaviour  of  chemical  reactions;  Behaviour  of  chemical
+reactors:  ideal and  nonideal  flow,  nonisothermal  reactor
+CHEMICAL
+performance,  reactor   stability;  Heterogeneous  reactions:
+ChE631A      REACTION         3-0-0-0-9
+interphase and intraphase heat and mass transfer effects; Fluid
+ENGINEERING
+Solid   noncatalytic   reactions;  Heterogeneous   catalytic
+reactions.
+
+[PAGE 12]
+Overview of electrochemical engineering; Thermodynamics of
+electrochemical    systems;    Electrochemical     kinetics,
+electrocatalysis and models for electron transfer; Transport in
+electrochemical systems; Engineered & selforganized
+electrode macro,
+microand
+nanoarchitecture;   Electrochemical   measurements   and
+INTRODUCTION
+overview  of  electroanalytical  chemistry; Fundamentals  of
+ChE635A   ELECTROCHEMICAL    3-0-0-0-9
+electrochemical     biosensors    &     electrophysiology;
+ENGINEERING
+Fundamentals  of  batteries;  Fundamentals  of  fuel  cells;
+Fundamentals of electrochemical capacitors; Fundamentals of
+photoelectrochemical    systems    and    semiconductor
+electrochemistry;  Fundamentals  of  electrodeposition  and
+current   distribution   in   electroplating;  Fundamentals   of
+electroless deposition and corrosion; Electrochemical reactor
+& process engineering
+Introduction  to porous media;  Fluid and rock  properties,
+Fundamental fluid flow equaions in porous media, Overview of
+NUMERICAL                            finite  difference methods  for  partial  differential equaitons,
+SIMULATION OF                   Single phase flow throuth porous media, Numerical simulation
+ChE636A      FLUID FLOW        3-0-0-0-9    of single phase flow, Two phase immiscible displacement;
+THROUGH POROUS                Buckely-Leveret theory for immiscible displacement; Numerical
+MEDIA                         simulation  of tow-phase immiscible displacement, Special
+topics (CO2 sequestration, groundwater flow, oil recovery, fuel
+cells, biological applications, etc.)
+Energy  scales  of  molecule &  methods  of  activation:
+Thermochemical,
+electrochemical, photochemical Vs. Electrodynamical; Review
+of Maxwell’s equations; Basis for energy scales within the
+molecule: Review of elementary quantum
+mechanics; Temperature and Energy distribution: Review of
+elementary  statistical mechanics; Microwave & Chemical
+phenomena; Interaction of Microwave with Dielectric materials;
+MICROWAVE AND
+Hot  spots  and   excitations;  Coupling  microwave  with
+PLASMA CATALYSIS,
+heterogeneous catalysts; Transport phenomena in microwave
+ChE638A     REACTION AND       3-0-0-0-9
+systems; Microwave reaction  kinetics and reactor design;
+REACTOR
+Heuristics   for   microwave   catalytic   process   design;
+ENGINEERING
+Electrodynamics  of Charged Species  in Plasma; Electron
+transfer in heterogeneous systems at high electrochemical
+potentials; Excitation  of Molecules and Atoms  in Plasma;
+Statistics and Kinetics of Charged Particles in Plasma; Kinetics
+of Excited Particles in Plasma; Transport in plasma system;
+Microwave plasma  catalysis; Physicochemical phenomena
+with Glow & Arc discharge; Heuristics for Plasma catalytic
+process design
+Systems  of  Linear and  NonLinear  Algebraic  Equations:
+NUMERICAL                   Successive Substitution, Newton Raphson, Eigenvalues and
+METHODS IN                   Eigen vectors of Matrices, Interpolation, Solutions of ODEs
+ChE642A                             3-0-0-0-9
+CHEMICAL                        (IVP): Runge  Kutta,  Multistep Methods, Gears  algorithm,
+ENGINEERING                      Stiffness and Stability of algorithms, ODE (BVPs) and PDEs:
+Finite Difference, Finite Elements, Shooting Methods.
+
+[PAGE 13]
+Introduction to particle-based simulation, Newtons laws  of
+motion, Molecular Dynamics, Langevin dynamics, Brownian
+MESOSCALE AND
+dynamics, 1D random walk with MSD
+CONTINUUM
+calculation, Stokes-Einstein, length and timescales accessible;
+ChE643A    SIMULATIONS IN      1-0-6-0-9
+Polymer chain statistics, radius of gyration, Rouse and Zimm
+CHEMICAL
+models, normal mode  analysis;  Finite  difference method,
+ENGINEERING
+Numerical Integration; Algorithms in MD/BD: Verlet and related
+integration schemes, Linked Lists, Neighbor lists
+Mathematical  formulation  of  optimization problems;  single
+variable problems: search techniques; Multivariable problems
+without constraints: direct methods,  first and second order
+ChE652      OPTIMIZATION       3-0-0-0-9
+methods; Multivariable problems with constraints: Calculusof
+variations;   Pontryagins  maximum   principle;  Dynamic
+Programming.
+Introduction to Data Science, Data Source and
+Examples of Data Type, Vector Spaces: Four fundamental
+spaces: eigenspace, Singular Value Decomposition (SVD),
+Optimization:  Steepest  descent,  conjugate  gradient,  con-
+strained optimization, Machine Learning Techniques: Least
+DATA SCIENCE FOR               squares and non-linear least squares, Principal Component
+ChE655A      CHEMICAL        3-1-3-0-12   Analysis (PCA), Support-Vector Machines (SVM), Partial Least
+ENGINEERS                  Squares (PLS), Time Series Analysis :Linear stationary and
+nonstationary models, forecasting, identi_cation, estimation
+and diag-nostics, minimum variance control, Neural Networks:
+Multilayer  perceptron, Backpropagation NN, Radial Basis,
+unsupervised learning networks,
+applications
+Introduction to Chemical Product Design & Engineering - What,
+Why & How?; Case studies: materials and devices during the
+covid  crisis  (medical oxygen  generators),  Freon,  Nylon,
+Penicillin, Taxol, tasty chocolates, water purifiers, explosion-
+free  batteries,  Fuel-cell  catalysts,  Biofuels;  Selection  of
+materials/products: selection using thermodynamics, selection
+using  kinetics,  risk assessment & management;  Material
+properties: mechanical, electrical, optical, thermal, etc.; From
+MATERIALS TO                  chemical to material phase diagrams; Estimating properties of
+ChE656A   PRODUCT: DESIGN                   materials: Theory (Quantum Chemical Descriptors, Statistical
+& ENGINEERING                Thermodynamical  Methods),   Correlations   (classification,
+3-0-0-0-9
+regression,    empirical),   Structure-Property    relationship;
+Measuring properties of materials: structural, morphological,
+optical  properties,   etc.;  General  Principles  of  Material
+processing; Correlating properties to structure and processing;
+Product Design:  safety & environmental concerns, green
+processes; Product Engineering: materials  failure, scaleup
+etc.; Product marketing and economics: customer needs,
+market size, business plan
+ELECTROCHEMICAL                   I.Introduction  to  electrochemical  energy  conversion  and
+ENERGY                      storage devices (2weeks); a. Contemporary energy challenges
+ChE664                              3-0-0-0-9
+CONVERSION AND               and  opportunities;  b. Advantages and  disadvantages  in
+STORAGE                      electrochemical approach to energy conversion and storagec.
+
+[PAGE 14]
+Qualitative  introduction  to  fuel  cells; Photoelectrochemical
+cells, batteries, supercapacitors and thermoelectric devices; 2.
+Thermodynamics of electrochemical systems (2 weeks) a.
+Electrochemical potential b. Activity coefficientsc. Reference
+electrodesd. Junction potential; 3. Electrodics (3 weeks) a.
+Electrochemical double layer b. Electrode kineticsb. Electrode
+kinetics; 4. Transport processes in electrochemical systems (3
+weeks)  a.  Transport  in  diiure  soiutionsb.  Transport  in
+concentrated    solutions.    Transport   phenomena     in
+electrochemically    reactive   systems5.   Electrochemical
+measurements  (I week) a. Cyclic voltametry b. Impedance
+spectroscopy. Scanning probe techniques 6. Design issues in
+electrochemical  energy  devices  (3  weeks)  a.  Current
+distribution  in Fuel  cells and  Batteriesb.  Material design
+strategies   for   electrodes/electrolytes   c.  Economics   of
+Electrochemical devices.
+Course Reference: 1. Newman, J. and Thomas Aiyea, K.,
+Electrochemical  systems,   WileyInterscience   (2004);   2.
+Larminie,  J. and Dicks, A., Fuel  cells systems explained,
+JohnWiley & Sons (2003); 3. Linden, D. ed., Handbook of
+Batteries, McGrawHill (2001); 4. Bard, A. and Faulkner, L.R,
+Electrochemical  methods,  JohnWiley &  Sons(2001);  5.
+Bockris, J.O.M. and Reddy, A.K.N., Modern Electrochemistry
+(Volume 1, Volume 2A and 2B),Springer (2001); 6. Course
+materials will be supplemented with research and reviews for
+journals.
+Course Contents:
+1. Introduction
+a. Effects and phenomena in non-Newtonian fluid mechanics
+b. Vector and tensor operations
+c. Overview of Newtonian fluid mechanics
+2. Standard flows for non-Newtonian fluids
+a. Simple shear flow
+b. Simple elongational flows – uniaxial, biaxial and planar
+elongational flows
+c. Forms of stress tensor in standard flows
+3. Material functions for non-Newtonian fluids
+PRINCIPLES OF                     a. In steady and unsteady shear
+CHE667A   NON-NEWTONIAN     3-0-0-0-9    b. In steady and unsteady elongational flow
+FLUID MECHANICS                   4. Overview of experimental data
+a. Flow response in steady and unsteady shear flow
+i. Effects due to structure of material
+ii. Effects due to temperature and pressure
+iii. Small and large strains
+b. Flow response in steady and unsteady elongational flows
+i. Small and large strains
+5. Constitutive models without memory effects – Generalized
+Newtonian Fluids (GNF)
+a. GNF constitutive models
+i. Power-Law model
+ii. Carreau-Yasuda model
+
+[PAGE 15]
+iii. Bingham model
+b. Predictions of material functions
+c. Flow problems
+d. Limitations
+6. Constitutive models with memory effects – Generalized
+Linear Viscoelastic (GLVE) fluids
+a. Memory effects
+b. Maxwell models
+c. Generalized linear viscoelastic model (GLVE)
+d. Flow problems with GLVE constitutive model
+e. Limitations
+7. Advanced constitutive modeling
+a. Finite strain measures – deformation, finger and Cauchy
+tensors
+b. Lodge equation
+c. Convected derivatives
+d. Other constitutive models
+i. Continuum approaches
+ii. Molecular approaches
+8. Introduction to numerical methods in non-Newtonian fluid
+mechanics
+a. Discretization schemes – finite difference, spectral and finite
+elements
+b. Solution procedures and stabilization
+c. Few test problems
+
+Introduction,  Basics   of  Biology   (Biochemistry,
+Genetics,  etc.);  Metabolism,  Metablic  Pathways,
+Metabolic   Regulation,   Stioichiometry,   Enzyes:
+Nomenclature,   Classification,Examples,  Enzyme
+Kinetics, Enzyme  Inhibition,  Allosteric  Interaction,
+Enzyme Immobilization and Mass Transfer Effects,
+Cell Growth: Phases, Batch  Kinetics, Quantifying
+Batch Growth Kinetics, Unstructured and Structured
+Modesl   of  Growth;   Cell  Growth:  Continues,
+Chemostat,  Chemostat  with  Recycle;  Reactor
+Operations:  Sterilization,  Batch and  contiunuous
+BIOPROCESS
+CHE668A                             3-0-0-0-9     operation,  Aeration, Heat and Mass  Transfer  in
+ENGINEERING
+Reactors; Bioreactor Monitoring and Control: DO, pH,
+T, Off Gas, Substrate etc. Recovery and Purification:
+Extracellurlar    Product    Recovery,     Filtration,
+Centrifugation, Coagulation, Flocculation; Recovery
+and   Purification:   Cell   Disruption  Techniques,
+Intracellurlar    Product   Recovery,    Extraction,
+Adsorption,      Ultrafiltration,     Chromatography,
+Crystallization  etc;  Mixed  Cultures;  Classes  of
+Interaction, Simple/Classical Models; Mixed Cultures:
+Industrial Utilization – Defined and Undefined Mixed
+Microbial cultures
+
+[PAGE 16]
+1.  Air  Pollution:  a.  Introduction: Atmospheric  pollutants:
+definition, sources, concentration levels, units.
+b.  Gaseous  phase  chemistry:  photochemical  smog  in
+troposphere; O3 depletion in stratosphere; NOx
+formation  in  urban  atmosphere, PAN/PAH  formation.  c.
+Aqueous phase chemistry: acid rain (SO2, CO2,
+NO2),  Chemical  equilibria.d.  Aerosols:  size,  distribution,
+deposition, visibility degradation, nucleation. f.
+Mass transfer aspects: diffusion, mass transfer coefficient,
+characteristics times. g. Troposphere energy
+balance: pressuretemperature relationship,  stability  criteria,
+rising parcel of air pollutants, stack plume rise.
+h.  Atmospheric  dispersion:  puff  and  plume  dispersion,
+Gaussian models. i. Control of Pollutants: (1)
+Absorption: design  of an absorber (SO2, CO2, NO2)  (2)
+ENVIROMENTAL                   Adsorption: design of an adsorber (SO2, VOC),
+POLLUTION                    breakthrough analysis (3) Particles: mechanism of particles
+ChE673                              3-0-0-0-9
+CONTROL, DESIGN                  capture, fabric filters, cyclones, precipitator2.
+AND MODELLING                Water  Pollutiona.  Introduction:  organic/inorganic/biological
+pollutants, water quality and parameters. b.
+Waste water treatment: primary and secondary treatments,
+sludge disposal (aerobic and anaerobic digesters.
+c. Biological organic wastes: BOD/COD, dissolved O2 model,
+Monods kinetics, biomass growth & food
+utilization.  d.  Biological  wastewater  treatment  equipment
+design: (1) Activated sludge process
+reactor (2) Trickling  filter (3) Biotower reactor. e. Advanced
+waste water reactors: (1) Continuous counter
+current multi stage fluidized bed. (2) Moving bed adsorption
+systems.
+References/Text Books:
+1. Atmospheric Chemistry and Physics by Seinfeld and Pandis
+(Wiley.) 2. Environmental Engineering by
+Peavy, Rowe, and Tchobanoglous (McGraw Hill.)
+Introduction to Polymers a. What are polymers ? b. Molecular
+Weights and their averages 2. Polymer conformations of ideal
+chains a. Conformations b. Bond rotation and Polymer size c.
+Persistence length and Kuhn Length d. Distribution of end to
+end distance e. Radius of gyration f. Self-avoiding chains and
+excluded volume  effect.  3. Thermodynamics  of Poylmer
+Solutions a. Review of concepts  of Thermodynamics and
+INTRODUCTION TO
+Statistical Mechanics  b. Regular  solution Theory  c. Flory
+PHYSICS OF
+ChE677A                             3-0-0-0-9   Huggins theory d. Phase behaviour of polymer solutions and
+POLYMERIC
+blends e. Concentration regimes 4. Light scattering a. Basic
+SYSTEM
+concepts of scattering b. Scattering by an isolated molecule c.
+Scattering by dilute polymer solution d. Form factor and Zimm
+equation e. Other techniques 5. Rhelogy of polymer solutions
+and molecular theories a. Introduction to viscosity, modulus
+and normal stress differences b. Intrinsic viscosity c. Linerar vs
+Non-linear  response  d.  Maxwell  model  and  Boltzmann
+superposition principle e. Bead-spring model f. Zimm model for
+
+[PAGE 17]
+dilute  solutions  g. Rouse theory  for unentagled melts  h.
+Reptation model for entangled melts 6. Glass Transition a.
+Introduction to transitions in pure polymers b. Amorphous vs
+glassy polymers  c. Thermodynamics aspects of the glass
+transition d. Free volume description e. Time temperature
+superposition  f. Glass transition in thin films 7. Composite
+systems a. Introduction to composite systems b. Dispersion of
+colloids in polymer solutions c. Diffusion of colloids in polymer
+solutions  d.  Influence on Glass  transion  e.  Static  Light
+Scattering of composites.
+1. Fundamental Equations: The  strain tensor; The stress
+tensor;  Thermodynamics  of  deformation;  Hooke’s  law;
+Homogeneous deformations; Equilibrium of an elastic medium
+bounded by a plane; Solid bodies in contact with and without
+interactions. (10 hours); 2. Equilibrium of rods and plates:
+Equations of equilibrium of rods; Bending and torsion of rods.
+Equation of equilibrium for a bent plate; The energy of a bent
+plate;  Application  of bending  plate geometry  for  solving
+problems  related  to Adhesion.  (10  hours);  3.  Nonlinear
+MECHANICS OF                        elasticity: Molecular approach to rubber; strain energy theory;
+ChE678A                             3-0-0-0-9
+SOFT MATERIALS                    specific  forms  of  strain  energy;  NeoHookean  elasticity.
+Solutions   for   incompressible   materials.   Cavitation   in
+crosslinked networks. (10 hours); 4. Mechanics of cell wall:
+Elasticity  of   cellular  filaments;   soft  networks   in   cell;
+biomembranes, membrane undulations. (10 hours)
+Course Reference: 1. Theory of  Elasticity, 3rd edition by
+Landau and Lifshitz. Course of theoretical physics, vol7; 2. A
+treatise on the mathematical theory of elasticity by A. E. H.
+Love; 3. Contact Mechanics by K. L. Johnson; 4. Mechanics of
+the cell by David Boal.
+ChE679     SPECIAL TOPICS      3-0-0-0-9   Course contents vary from time to time
+Introduction to transcription Networks; The Concept of Network
+Motif;   Autoregulation   loops:   Positive   and   Negative
+autoregulation; Feed Forward  loops;  Global  structure  of
+Transcription Networks and Temporal responses; Network
+motifs in Development, Signal Transduction, and Neuronal
+Networks;  Robustness  of  Protein  Circuits;  Kinetic  Proof
+reading; Optimal gene circuit design; Demand rule for gene
+regulation; Input function of a Gene: Michaelis Menten and Hill
+AN INTRODUCTION
+equations, Multidimensional input functions .Duration: One
+ChE684A     TO SYSTEMS        3-0-0-0-9
+Semester
+BIOLOGY
+Course Reference:1. An Introduction to Systems Biology by
+Uri A ton. (Chapman & 1Iaii/CRC, UK, 2007); 2. Mathematical
+Models  in  Biology  by  Edelstein  Keshet,  L.  (Cambridge
+University Press,2005);  3. Systems Biology  Properties  of
+restructured Networks by Bernhard 0. Palsson (Cambridge
+University Press, 2006);  4. Virus dynamics: Mathematical
+principles of immunology and virology by Martin A. Nowak And
+Robert may (Oxford University press, USA,2001)
+
+[PAGE 18]
+Capillarity, interfacial thermodynamics, surflactants, stability of
+FUNDM. OF
+multiphasesystems,  foam,  emulsion,  multiphase  reactors,
+COLLOID &
+ChE688                              3-0-0-0-9    wetting and adhesion, catalystsintering/redispersion; Stability
+INTERFACE SCI. &
+and coagulation of colloids, nucleation andgrowth: Colloids in
+TECH.
+chemical engineering, in separation processes, bioscience.
+Introduction to scientific
+Research: Objectives and nature of scientific research,
+Scientific thinking, Framing of hypothesis and Karl Popper’s
+falsification principle.; Ethics in research and
+publishing: Academic  Integrity, data sharing, transparency,
+authorship, giving credit,
+disclosure, Misconduct in research vis-a-vis
+INTRODUCTION TO
+honest errors; Writing scientific documents: Reports, papers,
+PROFESSION AND
+and thesis formats. Popular and Formal scientific
+COMMUNICATION
+ChE888                              1-0-3-0-6    communication. English for Scientific writing, Literature search
+SKILLS FOR
+and review; Tools for academic writing and publishing: Writing
+CHEMICAL
+tools (Latex, MS word etc.),
+ENGINEERS
+Proofreading tools, Reference manager,
+Plotting and data analysis tools, etc.; Effective oral
+communication and tools: Presentation skills, Effective usage
+of  slidesetc.;  Exposure  to  intellectual  property:  Patents,
+copyright etc.; Professional opportunities after PhD: Academia,
+R&D   in   Industry  and  National  Labs,  Non-academic
+professional options, Start-up etc.
+GRADUATE
+ChE801                                       ----0      Graduate Seminar
+SEMINAR
+GRADUATE
+ChE801A                                    To be Procured
+SEMINAR
+GRADUATE
+ChE802                                       ----0      Graduate Seminar
+SEMINAR
+GRADUATE
+ChE802A                                    To be Procured
+SEMINAR
+The objective of this course is to familiarize students with the
+applications of non-linear dynamics and  stability theory  in
+various aspects of core chemical engineering.
+
+Recommended  pre-requisites,   if  any: CHE212, CHE213,
+CHE331
+
+Short summary for including in the Courses of Study
+Stability Theory for                 Booklet:
+ChE666                             3-0-0-0 [9]
+Chemical Engineers                   Introduction to stability theory, lumped parameter systems with
+ODEs, saddle-node,  transcritical, pitchfork bifurcations, 2D
+Systems   -  fixed  points,  phase  plane,  eigenval-  ues,
+eigenvectors,  conservative  systems,  Lotka-Volterra,   limit
+cycles, non-isothermal CSTR, multi-component  distillation,
+residue curve maps, distillation boundary, oscillating reactions,
+distributed parameter systems with PDEs, modal analysis,
+dispersion  relations,  Turing  patterns,   stability  of  PFR,
+spatiotemporal chemical oscillations
+
+[PAGE 19]
+Recommended text/reference books:
+
+Strogatz SH. Nonlinear dynamics and chaos: with applications
+to physics, biology, chemistry, and engineering. CRC press;
+2018.
+
+Perlmutter DD, Stability of Chemical Reactors. Prentice-Hall;
+1972.
+
+Doherty MF, and Malone MF. Conceptual Design of Distillation
+Systems. McGraw-Hill, 2001.
+
+Cross M, Greenside H. Pattern formation and dynamics in
+nonequilibrium systems. Cambridge University Press; 2009.
+
+Epstein IR, Pojman JA. An introduction to nonlinear chemical
+dynamics: oscillations, waves, patterns, and chaos. Oxford
+university press; 1998.

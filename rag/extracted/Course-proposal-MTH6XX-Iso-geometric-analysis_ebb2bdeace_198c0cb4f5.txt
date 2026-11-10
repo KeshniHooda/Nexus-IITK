@@ -1,0 +1,65 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+Department of Mathematics & Statistics
+Proposal for New Elective Course
+
+Title: Iso-geometric Analysis
+Course No: MTH 6XX
+Credits: 3-0-0-9 (L-T-P-C)
+Semester: Any
+Department: Mathematics & Statistics
+Proposer: B.V.R.Kumar
+Prerequisite: MTH-308, MTH-430, MTH-421, MTH 522
+No. of Students: ~ 25
+Dept. to which course may be interesting: MATH/PHY/All Engineering Dept.
+
+Course Objective: Iso-geometric methods are increasingly getting popular and have been successful in handling
+several scientific and engineering problems with complex domains. They are known for their capability in
+precisely denoting the complex geometries. These methods are found to be competitive accurate and efficient for
+solving differential equations. Course aims to introduce these recent state of art trends to our students for
+solving DEs governing scientific phenomenon in complex domain in an accurate way .
+Course Content:
+
+S.No.                         Item                         No. of Lectures
+1        Introduction –                                                2
+  Need for IGA,
+   Computational geometry,
+  FEA Basis,
+  CAD
+2     NURBS –                                                   4
+   B-splines
+  Non-Uniform Rational B-Splines
+   2.3 Multiple patches
+   Generating a NURBS mesh
+3     NURBS as a Basis for Analysis: Linear Problems                 9
+  The isoparametric concept
+   Boundary value problems (BVPs)
+   Numerical methods
+  Boundary conditions
+   Multiple patches revisited
+   Comparing isogeometric analysis with classical finite
+element analysis
+4        Linear Elasticity                                              4
+5       Time Dependent Problems                                      5
+6       Non-Linear Iso-geometric Analysis                               5
+7        Fluids                                                      4
+8        Fluid structure Interaction                                      3
+9       Higher Order PDEs                                           4
+10       Additional Geometrical Frameworks                              2
+
+Reference Books:
+     J. Austrin Cotrell et al., Iso-geometric Analysis 2009, Wiley
+   Annalis Bufa et al., Iso-Geometric Analysis for PDEs, 2011, Springer
+
+Date:    25.09.24
+
+Signature of the Proposer:
+
+B.V.R.Kumar
+
+Signature of DPGC Convener: Course
+
+Approved/Not Approved
+
+[PAGE 2]
+Signature of Chairman SUGC

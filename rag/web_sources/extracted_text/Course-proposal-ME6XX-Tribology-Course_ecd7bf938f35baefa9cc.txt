@@ -1,0 +1,65 @@
+[Page 1]
+Indian Institute of Technology, Kanpur
+Proposal for a new course
+Course Number: ME 6XX
+Course Title: Introduction to Tribology
+Credits: 3L-0T-0P-0A: 9
+Course level: Open elective (PG and 3rd & 4th year UG)
+Duration of Course: Full Semester
+Proposing Department: Mechanical Engineering
+Other departments which may be interested in the proposed course: Materials Engineering, Chem-
+ical Engineering, Aerospace Engineering
+Proposing Instructor: Manjesh K. Singh
+Other faculty who might be interested in teaching this course: Dr. Tanmay Mathur, Dr. Ushasi
+Roy, Dr. Sudhansu Shekhar Singh, Dr. J. Ramkumar, Dr. Kantesh Balani, Dr. Ishan Sharma
+Course Description
+(a) Objective: To introduce the students to fundamentals and diﬀerent components of tribology−friction,
+wear and lubrication.
+(b) Contents (assuming 50 minutes lectures, total 40 lectures):
+(i) Introduction [1 Lecture]
+Deﬁnition, history and economic cost
+(ii) Friction and Adhesion [12 Lectures]
+• Surfaces: Roughness, real and apparent contact
+• Adhesion: Surface-forces, bonds and free surface energy theory of adhesion
+• Contact of spheres: The Hertz theory, the JKR theory and the DMT theory
+• Relative motion of surfaces: Sliding, rolling and spin
+• Origin and laws of friction
+• Friction in sliding/rolling contact
+(iii) Lubricants and Lubrication [10 Lectures]
+• Properties of lubricants: Viscosity and thermal properties
+• Fluid ﬁlm lubrication: Viscous ﬂow and Reynolds equation, Stribeck curve, boundary, mixed
+and hydrodynamic regime
+• Hydrostatic, hydrodynamic and elastohydrodynamic lubrication
+• Boundary lubrication and lubricants
+• Solid lubrication and lubricants
+1
+
+[Page 2]
+(iv) Wear [8 Lectures]
+• Wear and its causes
+• Adhesive, abrasive, erosive, fatigue, corrosive and fretting wear
+• Mathematical modelling of wear
+(v) Special topics: Instructor’s discretion to focus on some of the following topics. [9 Lectures]
+• Friction and wear measurements: Laboratory experiments/demonstrations.
+• Design of bearings and gears
+• Tribology in Automobiles, Aircrafts and Electric Vehicales
+• Biotribology: Natural and artiﬁcial hip joints
+• The JKR-DMT transition
+• Computational Tribology
+(c) Prerequisites: None
+Books/References
+1. Israelachvili, J. “Intermolecular and Surface Forces”, 3rd Ed., Academic Press
+2. Bhushan, B. “Introduction to Tribology”, 2nd Ed., Wiley
+3. Stachowiak, G. W. and Batchelor, A. W. “Engineering Tribology”, 3rd Ed., Butterworth-Heinemann
+4. Hutchings, I. and Shipway, P., “Tribology”, 2nd Ed., Butterworth-Heinemann
+5. Johnson, K. L., “Contact Mechanics” , Cambridge University Press
+6. Goryacheva, I. G., “Contact Mechanics in Tribology”, Kluwer Academic Publishers
+7. Maugis, D., “Contact, Adhesion and Rupture of Elastic Solids”, Springer
+Dated: 19-10-2024
+Proposer: Manjesh K. Singh
+Dated:
+DUGC/DPGC Convener:
+The course is approved/ not approved
+Chairman, SUGC/SPGC
+Dated:
+2

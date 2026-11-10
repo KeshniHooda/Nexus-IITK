@@ -1,0 +1,285 @@
+[Page 1]
+1 | 3 
+ 
+Indian Institute of Technology Kanpur 
+Proposal for a New Course 
+1. Course No: ME6## 
+2. Course Title: Intelligent Manufacturing 
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Lab: 0 (P), Additional Hours [0-2]: 0 (A), Credits: (3*L+2*T+P+A): 9; 
+Course Duration: Full Semester 
+4. Proposing Department: ME 
+Other Departments/IDPs which may be interested in the proposed course: - 
+Other faculty members interested in teaching the proposed course: - 
+5. Proposing Instructor: Mohit Law 
+6. 
+Course Description: This course examines the principles of Intelligent Manufacturing. Topics include sensor-based 
+data acquisition, experimental design, signal and image analytics, and statistical and machine learning methods for 
+monitoring, diagnosis, and prognosis. Through structured case studies and laboratory exercises, students explore 
+how predictive models enable adaptive decision-making, self-optimizing processes, and cyber-physical 
+manufacturing systems. 
+A) Objectives: 
+1. Design measurement and data acquisition strategies for manufacturing processes and systems. 
+2. Apply statistical and machine learning methods to model and monitor manufacturing processes. 
+3. Assess the deployment considerations of intelligent models in manufacturing systems. 
+B) Contents: 
+S. No 
+Broad Title 
+Topics 
+# Lectures 
+1 
+Introduction to 
+Intelligent 
+Manufacturing 
+Definitions and scope (Industry 4.0, IIoT, digital twins, OEE, AI in 
+manufacturing); overview of manufacturing processes; global 
+trends; why/what/how to measure; role of data in decision-making. 
+Scope will exclude: inventory management for manufacturing, and 
+supply chain related issues. 
+2-3 
+2 Data Acquisition 
+Sensor selection; force, temperature, vibration, acoustics, imaging 
+sensors and their working principes; hardware platforms; 
+communication protocols and data exchange standards. 
+4-5 
+3 
+Design of 
+Experiments for 
+Data Generation 
+Factors and responses; full and fractional factorial designs; 
+interaction effects; Taguchi methods; response surface 
+methodology. 
+3-4 
+4 Data Analysis and 
+Visualization 
+Signal preprocessing; Time-, frequency-, and time–frequency feature 
+extraction; stationary and non-stationary signals and processes; 
+image processing and feature extraction (edge detection, optical 
+flow, motion magnification); data visualization and overview HMI 
+design. 
+6-8 
+5 
+Data-Based 
+Decision Making 
+and Machine 
+Learning 
+Monitoring–diagnosis–prognosis framework; regression and 
+classification; overview of SVM, decision trees, ANNs, CNNs, and 
+reinforcement learning; self-optimizing systems; adaptive model 
+updating; data augmentation; model validation and explainability; 
+standards for machine health monitoring. 
+6-8 
+6 
+Cyber-Physical 
+Manufacturing 
+Systems 
+Concept of CPS; digital models, shadows, and twins; edge vs cloud 
+analytics; human-in-the-loop decision systems. 
+2-3 
+7 
+Statistical 
+Foundations of 
+Intelligent Process 
+Monitoring 
+Statistical stability, process variability, and control limits; capability 
+indices; integration of SPC with machine learning-based monitoring; 
+drift detection and adaptation. 
+3-4
+
+[Page 2]
+2 | 3 
+ 
+8 
+Closed-Loop 
+Intelligent 
+Monitoring 
+Closed-loop monitoring; adaptive parameter control; predictive 
+maintenance deployment; integration with controllers; alarm 
+thresholds. 
+2-3 
+9 Case Studies and 
+Applications 
+Spindle monitoring; tool wear monitoring; weld/part inspection; 
+structural monitoring; friction stir welding; deformation processes; 
+chatter detection; thermal error compensation, corrosion, energy 
+and emission monitoring. 
+5-6 
+10 
+Deployment and 
+Implementation 
+Challenges 
+Legacy machine integration; labelling; latency constraints; 
+interoperability; ROI and economic considerations. 
+2 
+C) Pre-requisites, if any: None; however, basic knowledge of manufacturing processes, linear algebra, and 
+programming is desirable. 
+D) Short summary for including in the Courses of Study Booklet: This course introduces Intelligent Manufacturing, 
+covering sensor-based data acquisition, experimental design, signal and image analytics, and statistical and machine 
+learning methods for process monitoring and prognosis. Through case studies and laboratory exercises, students learn 
+how predictive models enable adaptive decision-making and self-optimizing manufacturing systems. 
+7. Reference material: There are no standard text books for this course/subject. We will instead rely on published 
+papers and reference books. A representative list is provided below: 
+Key papers: 
+• 
+Jay Lee, Behrad Bagheri, Hung-An Kao, A Cyber-Physical Systems architecture for Industry 4.0-based 
+manufacturing systems, Manufacturing Letters, Volume 3, 2015, Pages 18-23, ISSN 2213-8463, 
+https://doi.org/10.1016/j.mfglet.2014.12.001. 
+• 
+A.C. Pereira, F. Romero, A review of the meanings and the implications of the Industry 4.0 concept, Procedia 
+Manufacturing, 
+Volume 
+13, 
+2017, 
+Pages 
+1206-1214, 
+ISSN 
+2351-9789, 
+https://doi.org/10.1016/j.promfg.2017.09.032. 
+• 
+Jay Lee, Hossein Davari, Jaskaran Singh, Vibhor Pandhare, Industrial Artificial Intelligence for industry 4.0-
+based 
+manufacturing 
+systems, 
+Manufacturing 
+Letters, 
+Volume 
+18, 
+https://doi.org/10.1016/j.mfglet.2018.09.002. 
+• 
+Guodong Shao, Moneer Helu, Framework for a digital twin in manufacturing: Scope and requirements, 
+Manufacturing 
+Letters, 
+Volume 
+24, 
+2020, 
+Pages 
+105-107, 
+ISSN 
+2213-8463, 
+https://doi.org/10.1016/j.mfglet.2020.04.004. 
+• 
+S. Joe Qin, Survey on data-driven industrial process monitoring and diagnosis, Annual Reviews in Control, 
+Volume 36, Issue 2, 2012, Pages 220-234, ISSN 1367-5788, https://doi.org/10.1016/j.arcontrol.2012.09.004. 
+• 
+Andrew K.S. Jardine, Daming Lin, Dragan Banjevic, A review on machinery diagnostics and prognostics 
+implementing condition-based maintenance, Mechanical Systems and Signal Processing, Volume 20, Issue 
+7, October 2006, Pages 1483-1510, https://doi.org/10.1016/j.ymssp.2005.09.012 
+• 
+Wu, H.; Ji, P.; Ma, H.; Xing, L. A Comprehensive Review of Digital Twin from the Perspective of Total Process: 
+Data, Models, Networks and Applications. Sensors 2023, 23, 8306. https://doi.org/10.3390/s23198306 
+• 
+Aiwina Heng, Sheng Zhang, Andy C.C. Tan, Joseph Mathew, Rotating machinery prognostics: State of the art, 
+challenges and opportunities, Mechanical Systems and Signal Processing, Volume 23, Issue 3, April 2009, 
+Pages 724-739, https://doi.org/10.1016/j.ymssp.2008.06.009 
+• 
+Robert X. Gao, Jörg Krüger, Marion Merklein, Hans-Christian Möhring, József Váncza, Artificial Intelligence 
+in manufacturing: State of the art, perspectives, and future directions, CIRP Annals, Volume 73, Issue 2, 2024, 
+Pages 723-749, ISSN 0007-8506, https://doi.org/10.1016/j.cirp.2024.04.101. 
+• 
+Andreas Archenti, Wei Gao, Alkan Donmez, Enrico Savio, Naruhiro Irino, Integrated metrology for advanced 
+manufacturing, CIRP Annals, Volume 73, Issue 2, 2024, Pages 639-665, ISSN 0007-8506, 
+https://doi.org/10.1016/j.cirp.2024.05.003. 
+• 
+Hoda ElMaraghy, Laszlo Monostori, Guenther Schuh, Waguih ElMaraghy, Evolution and future of
+
+[Page 3]
+3 | 3 
+ 
+manufacturing systems, CIRP Annals, Volume 70, Issue 2, 2021, Pages 635-658, ISSN 0007-8506, 
+https://doi.org/10.1016/j.cirp.2021.05.008. 
+• 
+Robert X. Gao, Lihui Wang, Moneer Helu, Roberto Teti, Big data analytics for smart factories of the future, 
+CIRP 
+Annals, 
+Volume 
+69, 
+Issue 
+2, 
+2020, 
+Pages 
+668-692, 
+ISSN 
+0007-8506, 
+https://doi.org/10.1016/j.cirp.2020.05.002. 
+• 
+N. Anwer, R. Stark, F. Tao, J.A. Erkoyuncu, Developing and leveraging digital twins in engineering design, CIRP 
+Annals, 
+Volume 
+74, 
+Issue 
+2, 
+2025, 
+Pages 
+843-868, 
+ISSN 
+0007-8506, 
+https://doi.org/10.1016/j.cirp.2025.05.002. 
+• 
+Mert Onuralp Gökalp, Ebru Gökalp, Kerem Kayabay, Altan Koçyiğit, P. Erhan Eren, Data-driven 
+manufacturing: An assessment model for data science maturity, Journal of Manufacturing Systems, Volume 
+60, 2021, Pages 527-546, ISSN 0278-6125, https://doi.org/10.1016/j.jmsy.2021.07.011. 
+• 
+Fei Tao, Qinglin Qi, Ang Liu, Andrew Kusiak, Data-driven smart manufacturing, Journal of Manufacturing 
+Systems, 
+Volume 
+48, 
+Part 
+C, 
+2018, 
+Pages 
+157-169, 
+ISSN 
+0278-6125, 
+https://doi.org/10.1016/j.jmsy.2018.01.006. 
+• 
+H.-C. Möhring, P. Wiederkehr, K. Erkorkmaz, Y. Kakinuma, Self-optimizing machining systems, 
+• 
+CIRP 
+Annals, 
+Volume 
+69, 
+Issue 
+2, 
+2020, 
+Pages 
+740-763, 
+ISSN 
+0007-8506, 
+https://doi.org/10.1016/j.cirp.2020.05.007. 
+• 
+Other key papers from the Journal of Intelligent Manufacturing and the Journal of Manufacturing Systems. 
+ 
+Reference Books: 
+• 
+Bentley, J., Principles of Measurement Systems, 4th edition. 
+• 
+Randall, R.B., Vibration-Based Condition Monitoring 
+• 
+Richard DeVor, Tsong-how Chang, John Sutherland, Statistical Quality Design and Control: Contemporary 
+Concepts and Methods 
+• 
+Lihui Wang and Xi Vincent Wang, Cloud-Based Cyber-Physical Systems in Manufacturing, 
+8. Any other remarks: Classroom lectures will be complemented by laboratory exercises. These exercises will be 
+conducted in lieu of some classroom lectures, and as such no separate laboratory credits are factored into the 
+course. Four potential lab concepts are listed below: 
+• 
+Lab 1: Acquisition and analysis of vibration data from a rotating system (for example, a spindle), including 
+signal preprocessing and extraction of time- and frequency-domain features for condition monitoring. 
+• 
+Lab 2: Design and execution of factorial experiments to model process responses (for example, machining 
+processes or other primary/secondary manufacturing processes) and construct surrogate models for 
+parameter optimization. 
+• 
+Lab 3: Development and validation of statistical and machine learning models for manufacturing condition 
+monitoring using industrial-style datasets (for example, spindle bearing health monitoring). 
+• 
+Lab 4: Implementation of a simple reinforcement learning or adaptive control scheme for process parameter 
+optimization. 
+Dated: 8th March 2026 
+ Proposer: Mohit Law, ME 
+Dated: 
+ DPGC Convener: 
+
+The course is approved / not approved 
+
+Chairman, SUGC/SPGC 
+Dated:

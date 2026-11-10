@@ -1,0 +1,133 @@
+[PAGE 1]
+Templates for programs Mathematics and Scientific Computing (MTH)
+
+Template for BS program in Mathematics and Scientific Computing
+
+Semester 1            Semester 2      Semester 3        Semester 4          Semester 5       Semester 6  Semester 7       Semester 8
+SCHEME-1 (9)           ETH111 (3) **     SCHEME-2 EME (9-11) SCHEME-3 HSS-I (9-11)  SCHEME-4 HSS-II (9)  MTH305 (11) SCHEME-5 HSS-II (9)  SCHEME-6 HSS-II (9)
+ELC111/ELC112/ELC113 *
+MTH 111 (6)           MTH 113 (6)      MTH201 (11)        ESC201 (14)         MTH421 (11)     MTH424 (11) DE-4 (9)            DE-6 (9)
+MTH 112 (6)           MTH 114 (6)      MTH302 (11)       MTH204 (11)        MTH403 (11)     MTH430 (10) DE-5 (9)            OE-4 (9)
+PHY 115 (11)             PHY 114 (11)       E/SO-1: MSO205 (11) MTH301 (11)           E/SO-3: ESO207     DE-2 (9)      OE-1 (9)           OE-5 (9)
+(12)
+PHY 111 (3)           CHM 111 (3)       E/SO-2 (9-11)      MTH308 (10)          DE-1 (9)            DE-3 (9)      OE-2 (9)           OE-6 (9)
+TA 111 (9)                 ESC 111 (7)                                                                                OE-3 (9)
+CHM 112 (4)               ESC 112 (7)
+CHM 113 (4)                 LIF111 (6)
+PE111 (3)                 PE112 (3)
+55                52              51-55              55-57              52           50           54              45
+
+Note:
+1.) UGPs are NOT mandatory. However, depending on the consent of supervisor(s), a student may take up to 3 UGPs of 09 credits each against DE/OE (UGP will be
+counted as OE if taken outside the department as consented by the DUGC) requirements. A student can also take a 4th UGP, that however will NOT be counted
+towards fulfilling the graduation requirements.
+2.) DC courses of BS/SDS will be counted as Open Elective only for BS/MTH.
+
+Credit table for BS program in Mathematics and Scientific Computing
+Course type              Allowable Credit       Credits in the department
+Institute Core (IC)        112               112
+E/SO                    18-45               32-34
+Department            144-179             162 (108 DC + 54 DE)
+Open electives (OE)       51-57              54
+SCHEME                 54-58               54-58
+Total for 4-year BT/BS     391-420            414-420
+
+[PAGE 2]
+Template for the BSH program in Mathematics and Scientific Computing
+
+Template for 3rd to 8th semester for BSH program in Mathematics and Scientific
+Computing
+Semester 3    Semester 4    Semester 5    Semester 6    Semester 7    Semester 8
+SCHEME-2      SCHEME-3 HSS-I  SCHEME-4     MTH305 (11)   SCHEME-5      SCHEME-6 HSS-
+EME (9-11)       (9-11)             HSS-II (9)                             HSS-II (9)               II (9)
+MTH201 (11)   ESC201 (14)    MTH421 (11)   MTH424 (11)   DE-4 (9)       UGP-2 (9)
+MTH302 (11)   MTH204 (11)   MTH403 (11)   MTH430 (10)   OE-1 (9)        OE-4 (9)
+E/SO-1:      MTH301 (11)    E/SO-3:        DE-2 (9)        OE-2 (9)        OE-5 (9)
+MSO205 (11)                ESO207 (12)
+E/SO-2 (9-11)  MTH308 (10)   DE-1 (9)        DE-3 (9)        OE-3 (9)        OE-6 (9)
+UGP-1 (9)
+DEH-1 (9)      DEH-2 (9)      DEH-3 (9)
+51-55         55-57        52           59           63           54
+
+–  CPI criterion for BSH: 8.5
+
+Notes:
+
+–  UGP-1 and UGP-2 are mandatory UGPs.
+–  A student may take additional UGP-3 of 09 credits against DE/OE (UGP will be counted as OE if taken outside the department as consented by the DUGC)
+requirements. A student can also take a 4th UGP that however will NOT be counted towards fulfilling the graduation requirements.
+
+–  For BSH, student has to do 27 credits of DEH courses from the Honors course basket given below.
+
+–  DC courses of BS/SDS will be counted as Open Elective only for BS/MTH.
+
+[PAGE 3]
+Template for BSM program in Mathematics and Scientific Computing
+
+Template for 3rd to 8th semester for BSM program in Mathematics and Scientific
+Computing
+Semester 3    Semester 4    Semester 5    Semester 6    Semester 7    Semester 8
+SCHEME-2      SCHEME-3 HSS-  SCHEME-4 HSS-II MTH305 (11)   SCHEME-5 HSS-II SCHEME-6 HSS-II
+EME (9-11)           I (9-11)            (9)                                     (9)                 (9)
+MTH201 (11)   ESC201 (14)    MTH421 (11)   MTH424 (11)   OE-1 (9)        OE-3 (9)
+MTH302 (11)   MTH204 (11)   MTH403 (11)   MTH430 (10)   OE-2 (9)       MTB-4 (9)
+E/SO-1:      MTH301 (11)    E/SO-3:        DE-2 (9)       MTB-1 (9)      MTB-5 (9)
+MSO205 (11)                ESO207 (12)
+E/SO-2 (9-11)  MTH308 (10)   DE-1 (9)        DE-3 (9)       MTB-2 (9)      MTB-6 (9)
+MTB-3 (9)
+51-55         55-57        52           50           54           45
+
+DC courses of BS/SDS will be counted as Open Elective only for BS/MTH.
+
+[PAGE 4]
+Template for five-year dual-degree program Mathematics and Scientific Computing
+
+BS-MS PG Part – Category A (from the same program)
+COURSES
+Semester 9                     Semester 10
+MS Project (PGP-1, PGP-2)  18     MS Project (PGP-3, PGP-4)  18
+DE PG - 1               09      DE PG - 3               09
+DE PG - 2               09      DE PG - 4               09
+OE PG – 1/DE PG-5        09      OE PG – 2/DE PG-6        09
+Total                 45                            45
+
+Minimum credits in MS part for graduation: 90
+18 OE credits may be waived off in the UG requirements
+DC courses of BS/SDS will be counted as Open Elective only for BS/MTH.
+
+BS-MS PG Part – Category B (from other programs)
+UG pre-requisites                     PG Requirements
+Odd Semester Even             IX Semester             X Semester
+Semester
+MTH201 (11)  MTH204 (11)  MS Project        18  MS Project        18
+(PGP-1, PGP-               (PGP-3, PGP-
+2)                           4)
+MTH302 (11)  MTH301 (11)   DE PG - 1          09  DE PG - 3          09
+MTH305 (11)  MTH308 (10)   DE PG - 2          09  DE PG - 4          09
+MTH403 (11)  MTH421 (11)   OE PG – 1/DE PG-5   09  OE PG – 2/DE PG-6   09
+MTH424 (11)  MTH430 (10)
+55          53                       45                  45
+
+36 OE credits may be waived off in the UG requirements
+Pre-requisite courses are mandatory requirements for DD-B
+DC courses of BS/SDS will be counted as Open Elective only for BS/MTH.
+
+[PAGE 5]
+Template for double major: second major in Mathematics and Scientific Computing
+
+Double Major
+Odd Semester             Even Semester
+Pre-Requisites
+ESO 207 (12)          MSO201 (11) or MSO 205 (11) –
+Introduction to Probability
+Theory (Odd Semester)
+Mandatory MTH Courses
+MTH201 (11)             MTH204 (11)
+MTH302 (11)             MTH301 (11)
+MTH305 (11)             MTH308 (10)
+MTH403 (11)             MTH421 (11)
+MTH424 (11)             MTH430 (10)
+55                      53
+
+36 OE credits may be waived off in the UG requirements
+Pre-requisite courses are mandatory requirements for DM

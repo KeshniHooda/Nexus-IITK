@@ -1,0 +1,67 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+Department of Computer Science and Engineering
+
+Proposal For a Course
+
+Course Title: Computer Arithmetic on FPGA
+Course No.: CSXXX
+Credits: 3-0-0-9 Prerequisites: CS220 or EE370
+Who can take the course: PhD, Masters, 3rd and 4th year UG Students
+Proposer: Debapriya Basu Roy
+Other Interested Faculty: Urbi Chatterjee
+Departments that may be interested: CSE, EE, DIS
+
+Course Objective: Computer arithmetic in the last two decades has gone through exponential growth due
+to innovation in the domain of computer architectures and development of efficient algorithms for computing arith-
+metic routines. The recent advances in computationally intensive fields like machine learning and cryptography
+require fast arithmetic computation and, hence, the study of computer arithmetic. In this course, our objective is
+to learn advanced concepts of computer arithmetic and implement these algorithms on Field-Programmable Gate
+Arrays (FPGAs). The course will cover topics like redundant number system, residue number system, advanced
+representation of floating numbers, advanced addition, multiplication, and division algorithms, implementation of
+square-root, CORDIC, and fast Fourier transform (FFT), etc. After completing this course, students will not only
+be knowledgeable about these algorithms but also know how to efficiently implement them on hardware.
+Course Contents:
+
+Broad Topic         Key Areas                                                     No. of
+Lec-
+tures
+Number System            Refresher on 1’s and 2’s complement system, Redundant number system,  4
+Digit Sets, Generalized Sign-Digit systems, Binary Sign-Digit (BSD)
+System
+Integer Arithmetic         High Speed Addition, Parallel prefix adder, High speed multiplication,  4
+Karatsuba algorithm, Matrix multiplication
+FPGA implementation of  LUT and Carry chain based adder, DSP based multiplication, Imple-  4
+Integer Arithmetic         menting Karatsuba multiplication
+Modular Arithmetic        Linear congruence, GCD and LCM computation, Field addition, Field  6
+multiplication,  field inversion, Chinese Remainder Theorem, Residue
+Number System, Number Theoretic Transformation
+FPGA implementation of  Implementing Field addition, Montgomery multiplication, Fermat’s the-  4
+Modular Arithmetic       orem for inversion, Euclidean inversion algorithm
+Floating point arithmetic   IEEE 754 floating point, Guard and sticky bits, POSIT system          6
+FPGA implementation of  Implementing Posit and IEEE-754                                   4
+Floating point arithmetic
+Function Evaluation        Square-root, CORDIC, FFT, Approximate computing                  8
+
+1
+
+[PAGE 2]
+Books:
+1.B. Parhami, Computer Arithmetic and Hardware Design, 2nd ed. New York, NY, USA: Oxford University Press,
+2010.
+2. I. Koren, Computer Arithmetic Algorithms, 2nd ed. Natick, MA, USA: A K Peters, 2001.
+References:
+1. M. J. Flynn and S. F. Oberman, Advanced Computer Arithmetic Design. New York, NY, USA: John Wiley &
+Sons, 2001.
+2.U. W. Kulisch, Advanced Arithmetic for the Digital Computer. Vienna, Austria: Springer, 2002.
+
+Proposer: Debapriya Basu Roy
+Dated: 02/03/2026
+
+DPGC Convener
+
+Chairman SPGC
+
+DOAA
+
+2

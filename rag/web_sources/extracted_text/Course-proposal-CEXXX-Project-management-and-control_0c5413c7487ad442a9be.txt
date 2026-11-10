@@ -1,0 +1,180 @@
+[Page 1]
+Indian Institute of Technology, Kanpur 
+New Course Proposal 
+ 
+1. Course No: CEXXX 
+ 
+2. Course Title: Project Management and Control 
+ 
+3. Per Week: Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours: 0 
+Credits: (3*L+0*T +P+A): 9 credits 
+ 
+Duration of Course: Full Semester Course 
+ 
+4. Proposing Department: Civil Engineering 
+ 
+5. Proposing instructor: Chirag Kothari 
+ 
+Level of the course (students who can take this course): PhD, Masters, and UG 3rd or 4th year. 
+ 
+6. Course Description 
+ 
+(A) Objectives: 
+ 
+A construction project requires significant investment in terms of time, money, and resources. This 
+necessitates a need for effective construction project management skills that facilitate completing 
+the projects within the stipulated time and budget limits while adhering to safety and quality 
+standards. This course aims to equip students with the skills required for planning, scheduling, 
+budgeting, coordinating, and supervising large-scale projects. Specific objectives include: 
+ 
+• To introduce students to basic project management concepts with a focus on applications 
+in Civil engineering. 
+• To expose students to complexities involved in managing large-scale construction 
+projects and provide them with the right tools and methods to manage these complexities. 
+• To provide students with a platform to sharpen the skills learned by applying these 
+concepts on a real-life construction project. 
+ 
+(B) Course contents 
+ 
+Sr. No. 
+Broad Title 
+Topics 
+No. of Lectures* 
+1 
+
+Introduction to Project 
+Management 
+
+What is a project? 
+How are projects organized? 
+Project life cycle and 
+stakeholders 
+Types of project plans – 
+time/schedule, cost, material, 
+plant and machinery, money 
+3
+
+[Page 2]
+2 
+Project scheduling – 
+Time management 
+Time management – Overview 
+Activities, durations, and work 
+breakdown structure 
+ 
+Quantity estimation 
+Network diagrams 
+ 
+Fundamentals of scheduling 
+Development of baseline 
+schedules, Gantt chart, Critical 
+path method, Precedence 
+diagram method, Earned value 
+method 
+12 
+3 
+Cost management 
+Preparing cost estimates 
+Determining the working 
+capital required for a project 
+Project financing plan 
+4 
+3 
+Resource management 
+Material plan, 
+Plant & machinery (P&M) plan, 
+Workforce plan 
+ 
+Resource scheduling, resource 
+levelling, and schedule 
+crashing 
+ 
+Impact of levelling & crashing 
+on direct and indirect costs; 
+Time-cost trade-off 
+10 
+4 
+Project monitoring and 
+control 
+Progress monitoring basics, 
+daily progress reports, 
+standard progress reports, data 
+requirements 
+2 
+5 
+Updating and revising 
+project schedules 
+Need for revising project plans, 
+Revising project plans. 
+2 
+6 
+Uncertainty in project 
+schedules 
+Concept of uncertainty 
+Program Evaluation and 
+Review Technique (PERT) 
+2 
+7 
+Construction contract 
+evaluation with respect 
+to Project Controls - 
+Identifying construction 
+claims 
+Delay analysis. 
+ 
+Identifying construction claims. 
+ 
+Delay Quantification Methods 
+& Techniques 
+4 
+*50-minute lecture each, total of 39 lectures
+
+[Page 3]
+(C) Prerequisites, if any: Instructor consent 
+ 
+(D) Short summary for including in the Courses of Study Booklet: 
+ 
+The course starts with an overview of project management discussing what is a project, who are 
+the project stakeholders, the role of the project manager, the planning stages, and organizational 
+structure. With this background and emphasis on construction projects, the course dives into 
+introducing Construction project management, fundamentals of project planning and scheduling – 
+Work breakdown structure (WBS), Network diagrams, Critical path method (CPM), Program 
+evaluation and review technique (PERT), Precedence diagramming method (PDM), Earned Value 
+Method (EVM) are discussed. Other aspects of project management such as cost management, 
+resource management, quality management, and stakeholder management are also covered. 
+Resource management on construction projects is discussed in detail (includes resource planning, 
+resource allocation, resource levelling, and crashing of networks). Further, the importance of 
+monitoring and control on construction projects is discussed including progress reporting 
+requirements and methods for revising project plans. Lastly, construction contracts are reviewed 
+through a project controls lens to learn how to perform delay analysis and identify construction 
+claims. 
+ 
+7) Recommended textbooks/references 
+ 
+• James O’Brien and Fredric L. Plotnick, “CPM in Construction Management”, 8th 
+edition, McGraw Hill 
+• Jha K.N., “Construction Project Management- theory and practice”, 2nd edition 
+• Srinath L.S., “PERT and CPM, Principles and applications”, 3rd edition 
+• Saleh Mubarak, “Construction project scheduling and control”, 2nd edition 
+ 
+8) Other remarks: This full course will replace the existing modular course offered by the Civil 
+engineering department - CE641a: Project Management) 
+
+Dated: 17th April 2024 
+
+ 
+
+ Proposer: Chirag Kothari 
+
+ 
+
+ 
+
+ DPGC Convener: Chinmoy Kolay 
+
+ 
+
+The course is approved/not approved. 
+
+Chairman, SPGC 
+Dated:

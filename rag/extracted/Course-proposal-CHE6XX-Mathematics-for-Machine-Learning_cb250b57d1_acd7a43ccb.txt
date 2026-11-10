@@ -1,0 +1,95 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+Proposal for a New Course
+
+1. Course No: CHE 6XX
+
+2. Course Title: Mathematics for Machine Learning
+
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours[0-2]: 0 (A),
+Credits (3-0-0-0)                         Duration of Course: Full semester
+
+4. Proposing Department: Department of Chemical Engineering
+
+Other Departments/IDPs which may be interested in the proposed course: ME, AE, MSE
+
+Other faculty members interested in teaching the proposed course: Sanjeev Garg, H. H. Katkar,
+Salman Khan
+
+5. Proposing Instructor(s): Indranil Saha Dalal
+
+6. Course Description:
+A) Objectives: The aim of this course is to introduce students to mathematical methods
+required for Machine learning applications. This is primarily intended for PG students and
+can serve as a preparation course towards a Machine learning/Deep learning elective. Most
+topics would be supplemented by computer-based exercises as well. This can also serve as
+an introductory Machine learning course.
+
+B) Contents (preferably in the form of 5 to 10 broad titles):
+Lecture-wise break-up (considering the duration of each lecture is 50 minutes)
+
+S.                                                                 No. of
+Broad Title                        Topics
+No.                                                                  Lectures
+Systems of linear equations, vector spaces,
+1.   Linear algebra               linear independence, basis, rank, norms,         3
+orthogonality
+Determinant, trace, Eigenvalues and
+Eigenvectors and their determination,
+2.   Matrix decompositions                                              5
+Cholesky decomposition, singular value
+decomposition
+Partial differentiation, gradients, useful
+identities, backpropagation and automatic
+3.   Vector calculus                                                    4
+differentiation, higher order derivatives,
+linearization
+Discrete and continuous probability, sum
+rule, product rule, Bayes’ theorem, Gaussian
+4.   Probability and distributions                                         6
+distribution, exponential family, change of
+variables/inverse transform
+Introduction to             Gradient descent, constrained optimization,
+5.                                                                   3
+Optimization             convex optimization
+Data, models, learning, parameter estimation,
+6.   Models and data                                                   2
+probabilistic modelling and inference
+Problem formulation, parameter estimation,
+7.   Linear regression          Bayesian linear regression, maximum          4
+likelihood
+
+[PAGE 2]
+Dimensionality reduction  Maximum variance perspective, projection
+8.   with Principal component   perspective, eigenvector computations, low-     4
+analysis                   rank approximation, PCA in high dimensions
+Density estimation with     Gaussian mixture model, parameter learning
+9.                                                                   4
+Gaussian mixture models    via maximum likelihood, EM algorithm
+Classification with support  Separating hyperplanes, support vector
+10.                                                                  5
+vector machines           machine, kernel
+
+C) Recommended pre-requisites, if any: None
+
+D) Short summary for including in the Courses of Study Booklet:
+Linear algebra, matrix decomposition, probability, optimization, regression, principal
+component analysis, Gaussian mixture models, Support vector machines
+
+7. Recommended text/reference books:
+1.  Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong, Mathematics for Machine Learning,
+Cambridge University Press (2020).
+2.   Gilbert Strang, Linear Algebra and Learning from Data, Wellesley-Cambridge Press (2019).
+
+8. Any other remarks: Home assignments and quiz/exams may also consist of computer-based
+exercises (preferably with Python/Matlab).
+
+Dated: 12/7/2024                  Proposer: Indranil Saha Dalal
+
+Dated:                  DPGC Convener:
+
+The course is approved / not approved
+
+Chairman, SUGC
+
+Dated: 27/09/2022

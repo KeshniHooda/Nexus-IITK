@@ -1,0 +1,135 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+Proposal for New Courses
+
+Course: Intelligent Control Systems
+1. Course No:
+
+2. Course Title: Intelligent Control Systems
+
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 1 (P), Credits (L+T+P+A): 9
+
+4. Duration of Course: Full Semester
+
+5. Proposing Department/IDP: Department of Intelligent Systems
+
+Other Departments/IDPs interested: Aerospace Engineering, Electrical Engineering,
+Mechanical Engineering, Computer Science and Engineering
+
+6. Proposing Instructor(s): Prof. Salahudden
+
+7. Course Description
+
+A) Objectives
+This course introduces modern intelligent control methodologies integrating classical and
+modern control approaches, adaptive systems, and Artificial Intelligence techniques for
+aerospace, robotic, and industrial applications.
+
+B) Contents
+S. No   Broad Title    Topics                                                No. of
+Lectures
+1       Introduction  Evolution of control systems                        2
+to           Overview of intelligent systems
+Intelligent    Aerospace and robotics applications
+Control
+2      System       Coordinate systems and reference frames              6
+Modeling     Modeling of system (spring-mass-damper)
+and          Modeling of system (LRC circuit)
+Dynamics     Modeling of system (inverted pendulum)
+System dynamics linearization
+Transfer function representation
+State-space representation
+First and second order system (solution and response
+analysis)
+Open and closed loop systems
+Stability and control relation
+3        Classical     Time-domain and frequency-domain representation of    6
+Control       control systems
+
+[PAGE 2]
+Introduction to different control techniques
+Proportional, derivative and integral (PID) controller
+Classical control design approach
+(bode plot, root locus, Nyquist and Nichols)
+Controllability and observability
+Pole placement controller design
+Control gain estimation
+Control gain tuning (heuristic approach)
+4     Modern       Linear quadratic regulator (LQR)                     8
+Control       Linear quadratic Gaussian (LQG)
+Model predictive control (MPC)
+Adaptive control (AC)
+Sliding mode control (SMC)
+Nonlinear dynamic Inversion (NDI)
+Incremental nonlinear dynamic Inversion (INDI)
+5      AI for        Neural Networks (NN) for system identification and      6
+Intelligent    disturbance rejection
+Control       Reinforcement Learning (RL) for autonomous guidance
+and decision making
+Gaussian Process Regression (GPR) for uncertainty
+estimation
+Intelligent fault detection
+AI-assisted trajectory optimization
+Vision-based navigation and target tracking concepts
+Hybrid AI + classical control architecture
+
+6       Applications  UAV flight control simulations                       8
+and Case     Autonomous waypoint navigation
+Studies       Dive-phase guidance and control simulation
+Vision-based target tracking using pan–tilt systems
+Quadrotor stabilization and trajectory tracking
+Disturbance rejection under wind, gusts, turbulence
+Comparative analysis of different controllers
+Industrial robotics motion-control
+
+MATLAB/Simulink, ROS2/Gazebo, and PX4 simulation exercises will be included.
+
+C) Pre-requisites
+Basic Control Systems and Engineering Mathematics.
+
+D) Short Summary for Course Booklet
+An interdisciplinary course introducing intelligent control systems integrating modern
+control, AI-assisted control, and aerospace/robotics applications.
+
+8. Recommended References
+1.  Katsuhiko Ogata, Modern Control Engineering, 5th Edition, Prentice Hall, Upper Saddle
+River, New Jersey, 2010.
+
+[PAGE 3]
+2.  Randal W. Beard and Timothy W. McLain, Small Unmanned Aircraft: Theory and
+Practice, Princeton University Press, Princeton, New Jersey, 2012.
+3.  Russell, S. J., and Norvig, P., Artificial Intelligence: A Modern Approach, 4th ed., Pearson,
+2020.
+4.  Kim, P., MATLAB Deep Learning: With Machine Learning, Neural Networks and Artificial
+Intelligence, Apress, Berkeley, CA, 2017.
+5.  Slotine, J.-J. E., and Li, W., Applied Nonlinear Control, Prentice Hall, Englewood Cliffs, NJ,
+1991.
+6.  Tewari, A., Modern Control Design with MATLAB and SIMULINK, Wiley, Chichester, U.K.,
+2002.
+7.  Brian L. Stevens, Frank L. Lewis, and Eric N. Johnson, Aircraft Control and Simulation:
+Dynamics, Controls Design, and Autonomous Systems, 3rd Edition, Wiley, Hoboken,
+New Jersey, 2015.
+8.  Paul Zarchan, Tactical and Strategic Missile Guidance, 7th Edition, American Institute of
+Aeronautics and Astronautics (AIAA), Reston, Virginia, 2012.
+
+9. Any other Remarks
+
+Evaluation Procedure
+•  10% Assignments
+•  30% Project Work
+•  20% Mid Semester Examination
+•  40% End Semester Examination
+
+Dated: 21.05.2025
+
+Proposer: Prof. Salahudden
+
+Dated:
+
+DUGC/DPGC Convener:
+
+The course is approved / not approved
+
+Chairman SUGC/SPGC:
+
+Dated:

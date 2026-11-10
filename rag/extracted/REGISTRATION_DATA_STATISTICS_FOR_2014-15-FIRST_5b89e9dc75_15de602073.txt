@@ -1,0 +1,81 @@
+[PAGE 1]
+REGISTRATION DATA STATISTICS FOR 2014-15/FRIST
+
+TOTAL NUMBER OF COURSES BEING OFFERED                                    430
+
+EXCLUDE THE THESIS COURSE, SEMINAR, PROJECT, BTP, SUMMER TRAINING,                                                                                386 PRESENTATION
+
+MAXIMUM CLASS SIZE (MTH101A/MTH101N)                                       816
+
+MINIMUM CLASS SIZE (AT PRESENT THERE ARE 386 COURSES)                      1
+
+AVERAGE CLASS SIZE (OF ALL 386 COURSES)                                          59.63
+
+NUMBER OF COURSES WITH 5 STUDENTS OR LESS                                 29
+
+NUMBER OF COURSES WITH 100 STUDENTS OR MORE                              62
+
+AVERAGE CLASS SIZE OF COURSES THAT HAVE >5 AND LESS THAN 100 STUDENTS     26.83
+
+THE FOLLWING IS THE NUMBER OF COURSES WITH VARIOUS CLASS
+STRENGTHS
+
+No. of    No. of
+Students  Courses
+1        5
+2        4
+3        5
+4        10
+5        5
+6-10      29
+11-15      32
+16-20      26
+21-25      27
+26-30      23
+31-50      95
+51-75      40
+76-100     23
+>100      62
+Total     386
+
+Page 1 of 2
+
+[PAGE 2]
+2014-15 FRIST SEMESTER
+LIST OF COURSES IN WHICH <=5 STUDENTS REGISTERED
+
+Sl. No.  Course          Instructor -1                              Title                    No. of
+No                                                                        Students
+COMPUTATIONAL ASPECTS OF
+1    EE659A N NAIK               TOMOGRAPHIC IMAGING : MODELS TO         1
+INVERSIONS
+FOURIER ANALYSIS-I & DISTRIBUTION   2   MTH736A R RAWAT                                                                1                                 THEORY
+3    PHI757A VINEET SAHU          MORAL JUDGEMENT                          1
+4    PHI768A A V RAVISHANKAR SARMA MODAL LOGIC                                1
+TWENTIETH CENTURY CONTINENTAL   5    PHI784A P BAGAD                                                                1                                    PHILOSOPHY
+SARAVANAN          MODERN INSTRUMENTAL METHODS IN   6    BSE621/A                                                                          2            MATHESHWARAN        BIOLOGICAL SCIENCES
+7    BSE629/A JONAKI SEN            NEUROBIOLOGY                              2
+8   DES635A SATYAKI ROY          METHODS FOR DESIGN RESEARCH             2
+METHODOLOGY OF TEACHING AND   9   ENG715A G NEELAKANTAN                                                        2                                  RESEARCH IN LITERATURE
+10    CE610A ASHU JAIN            ADVANCED HYDROLOGY                      3
+11  CHM102A G ANANTHARAMAN      GENERAL CHEMISTRY                         3
+12   ENG752/A MINICHANDRAN        COMPARATIVE AESTHETICS                   3
+13   MTH648/A G SANTHANAM          DIFFERENTIAL GEOMETRY                    3
+14   MTH719 T MUTHUKUMAR        INTRODUCTION TO HOMOGENIZATION         3
+15    CE611A R SRIVASTAVA          ENGINEERING HYDRAULICS                   4
+16   ECO731A TANIKA CHAKRABORTY   PUBLIC ECONOMICS AND PUBLIC POLICY       4
+WAVELET TRANSFORMS FOR SIGNAL &  17    EE607/A G SHARMA                                                              4                                  IMAGE PROCESSING
+18   ENG735/A S MATHUR           COMMONWEALTH LITERATURE                4
+NUMERICAL SOLUTION OF ORDINARY  19   MTH692/A M K KADALBAJOO                                                       4                                        DIFFERENTIAL EQUATIONS
+20   PHI751/A PHILOSE KOSHY         TWENTIETH CENTURY PHILOSOPHY-I          4
+21    PHY462  Z HOSSAIN             EXPERIMENTAL PHYSICS II                    4
+22   PHY659A K BHATTACHARYA       SPECIAL & GENERAL RELATIVITY              4
+THE STANDARD MODEL OF  23   PHY679/A JOYDEEP CHAKRABORTTY                                               4                                FUNDAMENTAL PHYSICS
+24   SOC746/A MUNMUN JHA           SOCIAL MOVEMENTS : OLD AND NEW          4
+HEALTH AND ILLNES: PSYCHO-SOCIAL  25   HSS702A A K SHARMA                                                            5                                      PERSPECTIVES
+26   MTH620/A M GUPTA             MEASURE THEORY                            5
+INTRODUCTION TO HYPERBOLIC  27   MTH633/A ABHIJIT PAL                                                             5                                GEOMETRY
+28   MTH755/A A MITRA                STATISTICAL INFERENCE                      5
+29   SOC751A ANINDITA CHAKRABARTY METHODS OF SOCIOLOGICAL RRESEARCH      5
+
+Page 2 of 2

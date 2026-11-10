@@ -1,0 +1,90 @@
+[PAGE 1]
+REGISTRATION DATA STATISTICS FOR 2020-21/FIRST
+
+TOTAL NUMBER OF COURSES BEING OFFERED                                    456
+
+EXCLUDE THE THESIS COURSE, SEMINAR, PROJECT, BTP, SUMMER TRAINING,
+430 PRESENTATION
+
+MAXIMUM CLASS SIZE (TA202T)                                                  963
+
+MINIMUM CLASS SIZE (AT PRESENT THERE ARE 430 COURSES)                      1
+
+AVERAGE CLASS SIZE (OF ALL 449 COURSES)                                          58.97
+
+NUMBER OF COURSES WITH 5 STUDENTS OR LESS                                 31
+
+NUMBER OF COURSES WITH 100 STUDENTS OR MORE                              63
+
+AVERAGE CLASS SIZE OF COURSES THAT HAVE >5 AND LESS THAN 100 STUDENTS     37.78
+
+THE FOLLWING IS THE NUMBER OF COURSES WITH VARIOUS CLASS
+STRENGTHS
+
+No. of Student  No. of Course
+1              3
+2              6
+3              5
+4             12
+5              5
+6-10            35
+11-15           29
+16-20           39
+21-25           29
+26-30           28
+31-50           73
+51-75           74
+76-100           29
+>100            63
+Total           430
+
+Page 1 of 2
+
+[PAGE 2]
+2020-21 FIRST SEMESTER
+LIST OF COURSES IN WHICH <=5 STUDENTS REGISTERED
+
+Total
+Course
+SN.                        Instructor                           Course Title                No of
+No
+Std.
+1  CS697A    Satyadev Nandakumar      SPECIAL TOPICS IN COMPUTER SCIENCE                1
+ELECTRICAL ENGINEERING UNDERGRADUATE
+2  EE391A    Abheejeet Mohapatra      PROJECT I                                        1
+3  ENG707A   Sudharshana N P         LANGUAGE CURRICULUM DESIGN                     1
+4  EE698J     Naren Naik            KALMAN FILTERING & APPLICATIONS                   2
+THE GENERATIVE ENTERPRISE: GOALS AND
+5  ENG736A  Usha Udaar            METHODOLOGY                                   2
+6  ENG752A   Mini Chandran           COMPARATIVE AESTHETICS                          2
+7  PHI768A   A V Ravishankar Sarma    MODAL LOGIC                                     2
+EVOLUTIONARY THEORIES OF KNOWLEDGE AND
+8  PHI786A     Lalit Saraswat            COGNITION                                       2
+9  PSY794A   Kumar Ravi Priya          DISASTER MENTAL HEALTH                          2
+10  ENG762A   Chaithra Puttaswamy      TOPICS IN LINGUISTICS UNIVERSALS AND TYPOLOGY      3
+PERSPECTIVES OF THE POSTHUMAN AND / IN THE
+11  ENG777A   T Ravichandran          ANTHROPOCENE                                   3
+12  MBA777A  B V Phani              ADVANCED VALUATION                             3
+13  MTH675A  Debasis Sen            GEOMETRY OF DIFFERENTIAL FORMS                  3
+14  MTH716A  Kaushik Bal             INTRODUCTION TO GEOMETRIC ANALYSIS               3
+15  BSE614A   Dhirendra S Katti           TISSUE ENGINEERING                               4
+16  CE471A    Chinmoy Kolay            SPECIAL TOPICS IN STRUCTURAL DESIGN                4
+17  CE491A    Anubha Goel           UNDERGRADUATE RESEARCH -II                       4
+18  CHM102A  Sabuj Kumar Kundu       GENERAL CHEMISTRY                               4
+19  EE668A     Adrish Banerjee          CODING THEORY                                   4
+20  ENG750A  G Neelakantan          POSTWAR AMERICAN FICTION                        4
+21  PHI757A    Vineet Sahu           MORAL JUDGEMENT                                4
+Prashant Bhalchandra
+22  PHI785A   Bagad                 PLATO                                           4
+23  SOC757A  Munmun Jha          LAW AND SOCIAL CHANGE                           4
+24  MTH624A  Sachin Subhash Sharma     DIFFERENTIABLE MANIFOLDS AND LIE GROUPS           4
+SPATIO-TEMPORAL MODELS IN MATHEMATICAL
+25  MTH679A  Saktipada Ghorai         BIOLOGY                                         4
+26  PHY673A   Joydeep Chakrabortty      EFFECTIVE FIELD THEORY                            4
+27  AE684A    Prakash D Mangalgiri      AIRCRAFT MATERIALS AND PROCESSES                 5
+28  ART703A   Satyaki Roy              STUDIO ART PRACTICES                             5
+29  SOC724A    Jillet Sarah Sam         URBAN SOCIOLOGY                                 5
+30  MTH678A  Amit Shekhar Kuber       TECHNIQUES IN COMBINATORICS                     5
+31  PHY605A   Debtosh Chowdhury      REVIEW OF MATHEMATICAL METHODS IN PHYSICS       5
+
+Page 2 of 2

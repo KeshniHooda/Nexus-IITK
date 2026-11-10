@@ -1,0 +1,90 @@
+[PAGE 1]
+Proposal for a new course: Department of Physics
+
+1.  Course number: 6XX
+
+2.  Course title: Advanced Quantum Field Theory
+
+3. Number of Lectures per week: 3 Lectures [Tutorial: 0, Laboratory: 0, Additional hours: 0]
+
+4.  Credits: 09
+
+5.  Duration of course: Full semester
+
+6.  Proposing Department: Physics
+
+7.  Other departments which may be interested in the course: Mathematics
+
+8.  Other members interested in teaching the course: Diptarka Das, Nilay Kundu, Joydeep Chakrabortty,
+Apratim Kaviraj, Sabyasachi Chakraborty, Debtosh Chowdhury, Dipankar Chakraborti.
+
+9.  Proposing instructor: Arjun Bagchi
+
+10. Objective of the course: Quantum Field Theory (QFT) is one of the fundamental tools of modern physics with
+broad ranging applications in all of theoretical physics including condensed matter physics, particle physics, and
+other areas of high energy physics.
+
+This is designed to be a second course on the subject which will follow PHY685 – Introduction to Quantum Field
+Theory. This course would introduce the student to the methods of path integral quantization and will focus on
+the understanding of non-Abelian gauge theories which generalize electrodynamics and is mathematical
+framework for understanding the strong and weak nuclear forces.
+
+A major part of the course would deal with renormalization. Answers to various processes in QFT often turn out
+to be infinite. Regularization and renormalization are used to extract physical answers out of these infinites. This
+course will lay out these formal procedures and show how to renormalize various QFTs.
+
+11. Course outline:
+
+•   Introduction [2 lectures]
+
+•   Quantization of constrained systems [4 lectures]
+o   Classification of constraints
+o  Dirac method of quantization
+
+[PAGE 2]
+•   Classical aspects of gauge theories [4 lectures]
+
+•   Functional methods [8 lectures]
+o  Path integrals for quantum mechanics
+o  Path integral quantization of scalar fields, fermions and electrodynamics
+
+•   Quantization of Yang-Mills theories [8 lectures]
+o  Path integrals, Fadeev-Poppov ghosts.
+o  BRST quantization.
+
+•   Renormalization [10 lectures]
+o  Systematics of renormalization
+o  Renormalization group
+
+•  Advanced topics [3 lectures]
+o  Anomalies
+o  A glimpse of Conformal Field Theory
+
+12. Prerequisites: Quantum field theory (PHY681)
+
+13. Short summary for including in the courses of Study Booklet: Quantum Field Theory (QFT) is one of the
+fundamental tools of modern physics with broad ranging applications in all of theoretical physics
+including condensed matter physics, particle physics, and other areas of high energy physics. This
+course would carry forward the ideas and methods of QFT introduced in PHY685 into advanced topics.
+The topics covered would be quantization of constrained systems, functional methods, path integral
+quantization for fields of various spin, classical and quantum aspects of Yang-Mills theories, Systematics
+of renormalization and renormalization group.
+
+14. Recommended Books:
+
+•  M. Peskin and D. Schroeder: An Introduction to Quantum Field Theory
+•   S. Weinberg: The Quantum Theory of Fields: Vol 1 and 2.
+•  M. Scredniki: Quantum Field Theory
+•   L. Ryder: Quantum Field Theory
+•   A. Zee: Quantum Field Theory in a Nutshell.
+
+Date: November 29, 2024.                                    Proposer: Arjun Bagchi
+
+Date: ........................                                DPGC Convenor (PHY):
+
+The course is approved / not approved
+
+—————————————————
+Chairman, SPGC
+
+Date: .............................

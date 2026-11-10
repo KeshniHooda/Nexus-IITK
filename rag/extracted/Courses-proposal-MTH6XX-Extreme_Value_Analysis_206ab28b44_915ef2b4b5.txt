@@ -1,0 +1,148 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+
+Proposal for a New Course
+
+1. Course No: MTH6XX
+
+2. Course Title: Extreme Value Analysis
+
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours[0-2]:0(A),
+
+Credits (3*L+0*T+0*P+0*A): 9  Duration of Course: Full Semester
+
+4. Proposing Department/IDP: Mathematics & Statistics
+
+Other Departments/IDPs who may be interested in the proposed course: Department of Earth
+
+Sciences, Department of Civil Engineering, Department of Economic Sciences, Department of
+
+Management  Sciences, Department  of Computer Science &  Engineering, Department of
+
+Electrical Engineering
+
+5. Proposing Instructor(s): Arnab Hazra
+
+Other faculty members interested in teaching the proposed course: Subhra Shankar Dhar
+
+6. Course Description:
+
+A) Objectives: The proposed course is intended to be an PhD-level course on Extreme value analysis
+
+and its applications in various scientific disciplines (special focus on earth sciences and finance).
+
+B) Contents of lectures (preferably in the form of 5 to 10 broad titles):
+
+S.       Broad Title                          Topics                                 No. of
+No.                                                                                     Lectures
+1.   Motivation and brief Examples of different types of extreme data and possible     3
+review on statistical  scientific questions: examples of univariate and multivariate
+inference            datasets and nonstationary extremes, brief review on
+statistical inference: marginal and joint distributions for
+random vectors, measures of association, Markov chains,
+parametric modeling, maximum likelihood estimation, model
+comparison, model validation
+
+2    Classical extreme   Asymptotic model for maxima and minima: the generalized  5
+value theory and    extreme value (GEV) distribution, inference for GEV
+models               distribution, examples, model generalization: the r-largest
+order statistic mode
+
+[PAGE 2]
+3   Threshold models   Asymptotic model for threshold exceedances: the generalized 4
+Pareto distribution (GPD), threshold selection, inference for
+GPD, examples
+
+4   Extremes of        Asymptotic model for maxima of stationary sequences,      3
+dependent sequences modeling stationary series, models for block maxima,
+threshold models, case studies with Wooster Temperature
+Series and Dow Jones Index Series
+
+5   Extremes of       Model structures, parametric inference, case studies with     2
+nonstationary       Venice sea-level data and Wooster temperature data
+sequences
+
+6    Point process    A Poisson process limit for extremes: convergence law,      4
+characterization of   connections with other extreme value models, statistical
+extremes           modeling, connections with threshold excess model
+likelihood, r-largest order statistic model
+
+7   Bayesian inference  Motivation: basics of Bayesian paradigm, Bayesian         3
+for extremes       computing using MCMC, prior choices for GEV/GPD model
+parameters, posterior inference on return level
+
+8    Multivariate       Componentwise maxima: asymptotic characterization,       6
+extremes and       modeling, case studies, structure variables, alternative
+statistical inference  representations: bivariate threshold excess model, point
+process model, asymptotic dependence and independence,
+computational challenges: pairwise composite
+likelihood-based inference, conditional extremes modeling
+
+9   Max-stable          Definition, examples: Smith model, Schlather model,        5
+processes          Brown–Resnick process, extremal-t process, Hüsler–Reiss
+process, their construction and properties
+
+10   Statistical inference Computational challenges: pairwise composite              5
+for max-stable       likelihood-based inference, tree-based graphical models,
+processes            spectral measures, Bayesian inference, Approximate Bayesian
+inference
+
+C) Prerequisites: MTH211/MTH418/MTH755, or Instructor’s consent
+
+D) Short summary for including in the Courses of Study Booklet:
+
+Extreme value theory (EVT) provides statistical frameworks for analyzing rare events
+across a wide range of univariate and multivariate settings, including climate extremes,
+financial crashes, and environmental hazards. Examples of univariate data include annual
+maximum temperatures or financial returns, whereas multivariate extremes arise in the
+joint modeling of variables such as wind speed and rainfall. Many such datasets exhibit
+nonstationarity due to trends or seasonality, necessitating the use of flexible modeling
+approaches. Statistical inference in EVT begins with understanding the marginal and joint
+distributions of random vectors, using tools such as measures of association and Markov
+chains. Parametric modeling  is  central, with maximum likelihood estimation (MLE),
+model comparison (e.g., AIC/BIC), and model validation techniques playing critical roles.
+The asymptotic distribution for maxima and minima is the Generalized Extreme Value
+
+[PAGE 3]
+(GEV)  distribution, which forms  the  basis for inference in block maxima  settings.
+Extensions such as the r-largest order statistics model offer more efficient use of data. For
+threshold exceedances, the Generalized Pareto Distribution (GPD) provides a suitable
+limit, with careful threshold selection being crucial for accurate results. These models are
+applied to stationary time series using block maxima or peaks-over-threshold approaches,
+as demonstrated in case studies like the Wooster temperature and Dow Jones Index data.
+The Poisson process framework unifies several EVT models and links them with the
+r-largest and threshold exceedance models. Bayesian inference offers a complementary
+paradigm involving prior specification for GEV/GPD parameters and posterior inference
+via MCMC,  particularly  for  estimating  return  levels.  For  multivariate  extremes,
+component-wise maxima are modeled using asymptotic theory, with frameworks such as
+the bivariate threshold model and point process approach allowing for the treatment of
+dependence structures, including asymptotic dependence and independence. Advanced
+models include  the Smith,  Schlather, Brown–Resnick,  extremal-t, and Hüsler–Reiss
+processes, each with  distinct constructions and properties. Computational challenges
+remain, particularly for inference via pairwise composite likelihood and hierarchical
+Bayesian methods.
+
+Recommended Books/Other sources:
+
+1.​ An  Introduction  to  Statistical Modeling of Extreme Values by Stuart Coles. 1999.
+Springer. (This book will be mainly followed for Topics 1–7)
+2.​ Statistics of Extremes: Theory and Applications. Jan Beirlant, Yuri Goegebeur, Jozef
+Teugels, Johan Segers. 2004. Wiley. (This book will be mainly followed for Topic 8)
+3.​ Max–Stable Processes: Representations, Ergodic Properties and Statistical Applications.
+Stilian A.  Stoev. 2010. Book Chapter  in Dependence in Probability and  Statistics.
+Springer.
+4.​ Series of papers by Richard Smith (UNC Chapel Hill), Anthony Davison (EPFL), and
+Jonathan Tawn (Lancaster).
+
+8. Any other remarks:
+
+Proposer: Arnab Hazra, Assistant Professor, Department of Mathematics and Statistics
+Dated: June 25, 2025
+
+Dated:​             DPGC Convener:​
+
+The course is approved/not approved
+
+Chairman, SPGC
+
+Dated:​

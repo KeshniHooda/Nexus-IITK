@@ -1,0 +1,129 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course
+
+1.  Course No: ECO 5XX (DE for second or third- or fourth-year BS student and or MSc First
+year students)
+2.  Course  Title: Applied Time  Series Econometrics  with  Application  in Trade and
+Macroeconomics
+3.  Per Week Lectures:3(L)+ 0(T)+0(P) +0(A):9
+4.  Duration of Course: Full Semester (Total of 40 Lectures)
+5.  Proposing Department: Economic Sciences
+
+Other Departments/IDPs which may be interested in the proposed
+
+course: Other faculty members interested in teaching the proposed course
+
+6.  Proposing Instructor(s): Prof. Somesh Kumar Mathur
+7.  Course Description:
+a.  Objectives: The objective of introducing an Applied Time Series Course with
+Applications in Macroeconomics and Trade is to equip students and researchers
+with the theoretical foundation, empirical tools, and practical applications required
+to analyze time-dependent data in the context of macroeconomic and international
+trade phenomena.
+b.  Contents:
+S.No  Broad Title       Topics                                 No. of
+Lectur
+es
+1      Introduction   to   - Importance in macro econometrics and  4
+Time      Series  Trade
+Analysis             - Types of time series: stationary vs. non-
+stationary.
+- Key concepts: trends, seasonality, cycles.
+2      Stationarity  and   - Definition and importance of stationarity.   4
+Unit Root Tests    - Testing for unit roots: ADF, PP, KPSS
+tests.
+-   Implications  of   non-stationarity   for
+econometric analysis.
+
+3     Modeling Trends   - Deterministic vs. stochastic trends.        4
+
+1
+
+[PAGE 2]
+- Hodrick-Prescott filter, Beveridge-Nelson
+decomposition.
+4   ARMA     and   - Autoregressive (AR) and Moving Average  4
+ARIMA Models  (MA) models.
+-  ARIMA:   Differencing   to   achieve
+stationarity.
+- Model selection using AIC, BIC.
+5      Cointegration       - Long-run equilibrium relationships.        4
+and        Error   - Engle-Granger two-step method.
+Correction           - Johansen cointegration test.
+Models
+6     Vector               - Structural vs. reduced-form VARs.        4
+Autoregressions    - Impulse response functions (IRFs).
+(VAR)               - Variance decomposition.
+7      Structural            - Testing for structural breaks: Chow test,  4
+Breaks      and  Bai-Perron method.
+Regime              - Markov switching models.
+Switching
+8      Volatility            - ARCH and GARCH models.             4
+Models              -  Extensions: EGARCH, TGARCH, and
+multivariate GARCH.
+9      Forecasting    in   - Evaluation metrics: RMSE, MAE, MAPE.  4
+Time Series         - Forecast combination methods.
+10     Applications   in   - Estimating potential GDP and output gaps.  4
+Macroeconomics   - Business cycle analysis.
+and       Trade   - Fiscal and monetary policy effects.
+through R, Stata   -  Structural  gravity  model  with  high
+and      Python  dimension data
+codes         -PPML-HDFE
+
+Total Lectures                                               40
+
+c.  Pre-requisites: None
+d.  Short summary  for  including  in  the Courses  of Study  Booklet: To  build
+foundational knowledge in time series analysis with special focus on concept such
+as stationarity, seasonality, unit roots, structural break and volatility. Further enable
+practical applications in Macroeconomics and International trade. At the end, foster
+expertise in trade analysis by equipping students with hands-on training in R,
+STATA and Python.
+8. Recommended books:
+
+2
+
+[PAGE 3]
+a.  Enders, W. (2014). Applied Econometric Time Series. Wiley.
+b.  Hamilton, J. D. (1994). Time Series Analysis. Princeton University Press
+
+c.  Lutkepohl, H. (2005). New Introduction to Multiple Time Series Analysis. Springer.
+
+d. B Pesaran and M. Hashem Pesaran. Time Series Econometrics
+e.  Chris Brooks: Introductory Econometrics for Finance
+9. Recommended Articles:
+a.  Granger, C. W. J., & Newbold, P. (1974). 'Spurious Regressions in Econometrics.'
+Journal of Econometrics.
+b.  Dickey, D. A., & Fuller, W. A. (1979). 'Distribution of the Estimators for
+Autoregressive Time Series with a Unit Root.' Journal of the American Statistical
+Association.
+c.  Hodrick, R. J., & Prescott, E. C. (1997). 'Postwar U.S. Business Cycles: An
+Empirical Investigation.' Journal of Money, Credit, and Banking.
+d.  Akaike, H. (1974). 'A New Look at the Statistical Model Identification.' IEEE
+Transactions on Automatic Control.
+e.  Engle, R. F., & Granger, C. W. J. (1987). 'Co-Integration and Error Correction:
+Representation, Estimation, and Testing.' Econometrica.
+f.  Sims, C. A. (1980). 'Macroeconomics and Reality.' Econometrica.
+g.  Bai, J., & Perron, P. (1998). 'Estimating and Testing Linear Models with Multiple
+Structural Changes.' Econometrica.
+h.  Bollerslev, T. (1986). 'Generalized Autoregressive Conditional
+Heteroskedasticity.' Journal of Econometrics.
+i.  Stock, J. H., & Watson, M. W. (2002). 'Forecasting Using Principal Components
+from a Large Number of Predictors.' Journal of the American Statistical
+Association.
+j.  Bernanke, B. S., & Mihov, I. (1998). 'Measuring Monetary Policy.' Quarterly
+Journal of Economics.
+
+Dated: Jan 2025 Proposer: Prof. Somesh Kumar Mathur
+
+Dated: __________________ DUGC/DPGC Convener:__________________
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC
+
+Dated: ____________
+
+3

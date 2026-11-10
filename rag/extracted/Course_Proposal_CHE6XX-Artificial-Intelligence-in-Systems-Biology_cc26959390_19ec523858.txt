@@ -1,0 +1,129 @@
+[PAGE 1]
+Department of Chemical Engineering
+Indian Institute of Technology Kanpur
+
+Proposal for a new course
+
+Title: Artificial Intelligence in Systems Biology
+
+Course No.:  ChE6XX
+
+Structure:   3 lectures per week. (3-0-0-9) (Total 40 lectures)
+
+Duration of Course: Full semester
+
+Prerequisite: None
+
+Open to:    PG students and third-year and fourth-year UG students.
+
+Proposer:    Sana Khanum (FB-466, skhanum@iitk.ac.in), Department of Chemical
+Engineering
+
+Other faculties interested in teaching the course: Indranil Saha Dalal, Salman Ahmad Khan
+
+Course objectives: This course aims to build on the fundamentals (theory and programming)
+of artificial intelligence (AI), machine learning (ML), and deep learning (DL), and expose
+students to the applications of AI/ML/DL in chemical engineering. The course will also
+introduce the students to the recent advances in the field.
+
+Course contents:
+S.         Title                               Topics                 No. of Lectures
+No
+1.     Introduction to Artificial    Introduction to AI and its                  3
+Intelligence (AI)            applications in various fields of
+ChE. Introduction to Jupyter
+Notebook, Python Libraries,
+PyTorch, and TensorFlow
+2.    Applied Mathematics and   Linear Algebra, Probability,                3
+Machine Learning (ML)    Density Estimation, Information
+basics                     Theory, ML Basics
+Principal Component Analysis,
+and relevant Python libraries
+
+[PAGE 2]
+3.     Applications of ML         Applications of ML in Chemical            2
+Engineering, including
+biochemical process design,
+optimization, and control,
+biomaterial and product property
+prediction
+4.    Deep Learning Basics       Single-layer NN, Multi-layer               3
+Perceptron, ANN, CNN (Theory
+and Computing)
+5.    Optimization algorithms    Convexity, Gradient Descent,               3
+for Deep Learning          Stochastic Gradient Descent,
+Minibatch Stochastic Gradient
+Descent, Momentum, Adagrad,
+RMSProp, Adadelta, Adam,
+Learning Rate Scheduling
+6.    Deep Learning (DL)        Vanishing gradients, skip                  3
+connections, batch
+normalization, transfer learning,
+and data augmentation
+7.    Deep Learning          RNN, GRU Networks, LSTM,              5
+Techniques                Transformers, Autoencoders,
+Diffusion Models (Theory and
+Computing)
+8.     Applications of Deep       Applications of Deep Learning              2
+Learning                     in Chemical Engineering,
+including Physics-informed
+neural networks, deriving
+causality for gene regulatory
+networks
+9.    Computer Vision            Introduction to Image                     3
+Augmentation, Fine-tuning,
+Object detection and bounding
+boxes, Anchor boxes, Multiscale
+object detection (Theory and
+Computing)
+10.   Applications of Computer   Applications of Computer Vision            2
+Vision                       in Chemical Engineering,
+including computer vision in cell
+biology, and computer vision for
+material discovery
+11.   Natural Language           Introduction, Various NLP                 5
+Processing                  techniques: Word Embedding
+(word2vec), Word Embedding
+with Global Vectors (GloVe),
+Bidirectional Encoder
+Representations from
+
+[PAGE 3]
+Transformers (BERT) (Theory
+and Computing)
+12.   Applications of Natural     Applications of Natural                    2
+Language Processing      Language Processing in
+(NLP)                   Chemical Engineering, including
+studying protein-ligand
+interactions, analysing single-cell
+data
+13.   Large Language Models     Introduction to LLMs, Fine-                4
+(LLMs)                     tuning, distillation, and prompt
+engineering, overview of the
+LLM architecture, and some use
+cases of LLMs
+Total:                                  40
+Expected enrolment: ~50-60
+
+Other departments to which the proposed course will be of interest: AE, ME, CE
+
+References:
+1.  [PY] Python Data Science Handbook by Jake VanderPlas, 2016.
+https://jakevdp.github.io/PythonDataScienceHandbook/
+2. [PPA] Patterns, predictions, and actions: A story about machine learning by Moritz Hardt
+and Benjamin Recht, 2022, https://mlstory.org/pdf/patterns.pdf
+3.  [DL] Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville, 2016.
+http://www.deeplearningbook.org
+4. [DD] Dive into Deep Learning by Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander
+J. Smola, 2023. https://d2l.ai/
+5. [LLM] Build a Large Language Model from Scratch by Manning Publications
+
+Dated: 26/09/2025                                              Proposer: Sana Khanum
+
+Dated:                                     DPGC Convener:
+
+The course is approved / not approved
+
+Chairman,                                    SUGC
+
+Dated:

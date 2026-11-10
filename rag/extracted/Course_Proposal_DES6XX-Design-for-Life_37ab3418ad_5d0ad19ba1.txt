@@ -1,0 +1,195 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course
+
+1.  Course No: DES6XX
+
+2.  Course Title: Design for Life
+
+3.  Per Week Lectures:3(L), Tutorial: 0(T), Laboratory: 0(P), Additional Hours[0-2]: 0(A),
+
+Credits (3*L+2*T+P+A): 9                      Duration of Course: Full Semester / Modular
+
+4.  Proposing Department/IDP : Department of Design
+
+Other Departments/IDPs which may be interested in the proposed course: BSBE, CHE, CHM,
+MSE, ME, SEE
+
+Other faculty members interested in teaching the proposed course: N/A
+
+5.  Proposing Instructor(s): Dr. Himanshi Jangir
+
+6.  Course Description:
+
+Design, as a field, is an exploration that focuses on minimizing the divide between users and
+developers, enabling users to express, communicate, and engage more effectively with their
+environments. Empathy is central to the design process: understanding your user, standing in
+their shoes, being them, is how designers unlock user needs and desires and craft effective
+solutions.
+Human beings, the usual users, thrive on interactions, not just with humans, but with other
+living and non-living systems. The question is, how do we communicate with species that do not
+share a common language? We communicate through visuals, emotions, touch, and sounds,
+abstract yet powerful channels. Humankind is still exploring how we have established profound
+relationships with dogs, cats, birds, primates, and even honeybees.
+In this course, we will understand how life communicates, because to design for life, we need
+to design solutions that indulge all five senses and more. The course aims to inspire the design
+of a new generation of products and services and to venture down a new road of inventing
+modes of seeing, observing, and experiencing that we have not before.
+
+A) Objectives:
+
+1. To understand various modes of communication used by life forms and the associated
+
+sensory modalities.
+
+2. To utilise myriad forms of communication for the design of a new generation of interactive
+
+products and services.
+
+[PAGE 2]
+B) Contents (preferably in the form of 5 to 10 broad titles):
+
+S. No       Broad Title                           Topics                      No. of Lectures
+
+1.      Communication via   Case Studies:                                      10
+Olfaction/Chemicals   1. World of plants
+a. Plant-plant communication: Kin
+recognition among plants
+b. Selection of host plants by insect pests
+c. How plant-plant communication influences
+surrounding insects
+d. The underground communication between
+plants roots and microbes
+2. White Rhinos and elephants: Dung piling to
+mark territory
+3. Pheromones: Smell to recognize and
+distinguish peers
+4. McClintock effect: Menstural cycle
+synchronization for females
+Design exploration:
+Products and strategies for health and
+agriculture: insect vector-borne diseases, insect
+repellants, flower and fruit production,
+intercropping to imrpove production and pest
+repellence. Cosmetic and mental health
+strategies: perfumes, aphrodisiacs, anti-anxiety
+and headache patches. Protection and
+survellainace of wild animals, anti-poaching
+strategies.
+2.      Auditory            Case Studies:                                      5
+Communication        1. Insects: color and sounds to find mates
+2. Canary Birds: A neurological enigma
+3. Bats: Smallest mammals and their
+communication
+Design exploration:
+Air-warfare modules from the world of
+communicating bats. Adaptive music
+generators for VR modules and pest repellence.
+Ultrasonic sensors and echolocation devices.
+3.      Communication via   Case Studies:                                      8
+Visuals (color and      1. Mandrils: Color as a marker of maturity
+patterns)                2. Zebra stripes: A pattern for survival
+3. Camouflaging: Chameleon, cuckoo’s egg,
+weather-associated colour change (snowshoe
+hare, caribou, ptarmigans)
+4. Bioluminescence in nature and the
+mysterious magic of lights
+
+[PAGE 3]
+5. Fish Lenses: Adaptive optics for air and water
+vision
+Design exploration:
+Age-responsive and anti-pest branding,
+Underwater vision, designing colour schemes
+for strategic applications, technical textiles, bio-
+diagnostic tags, sustainable light production,
+and tunable lenses.
+4.      Communication via   Case Studies:                                      5
+Electromagnetic        1. Reptiles: Infrared sensing
+Waves (beyond         2. Flowers, butterflies, and Bees:
+visuals)               Communication via Colours, patterns, and
+Smell
+3. Crab vision
+Design exploration:
+Unexplored communication technologies,
+stealth technologies, strategies for augmenting
+honey production and increasing plant
+pollination.
+5.        Tactile              Case Studies:                                      6
+Communication        1. Honey bees: Waggle dance
+2. Whirligig beetles: Ripple generation
+3. Primates: Allogrooming
+4. Pray capture and plant defence: Venus
+flytrap, touch me not, pitcher plant
+Design exploration:
+Stealth technologies, devices for empathy,
+strategies for teamwork & embedded natural
+algorithms.
+6.      Multimodal          Case Studies:                                      6
+Communication        1. Insects: vision, chemicals
+2. Mating in birds: Manakin, a complex interplay
+of teamwork, presentation, and color
+3. Honeybee colonies: Tactile and chemical
+communication
+4. World of Elephants: Auditory, tacticle,
+olfaction, seismic communication
+Design exploration:
+Working family algorithms followed in the non-
+human world, the economics of labour
+distribution. Wildlife conservation strategies:
+Sustainable design strategies to protect animals
+in the wild and natural conservation strategies.
+
+C) Pre-requisites, if any (examples: a- PSO201A,or b- PSO201A or equivalent): N/A
+
+[PAGE 4]
+D) Short summary for including in the Courses of Study Booklet: Communication in nature
+
+is a complex interplay of engaging various sensory modalities that have evolved over
+
+billions  of  years. Design  for  Life  is aimed  at  understanding  these forms  of
+
+communication of human and other life forms to design products and services that
+
+offer an overall immersive experience through cohesive integration of these multiple
+
+modalities.
+
+7.  Recommended books:
+Textbooks:
+1.  The Design of Animal Communication. Edited by Marc D. Hauser and Mark Konishi, MIT
+Press, 1999
+2.  Animal Behavior: An Evolutionary Approach. John Alcock, 10th ed., Sinauer Associates,
+2013
+3.  Communication in Plants: Neuronal Aspects of Plant Life. Edited by Baluška, František,
+Stefano Mancuso, and Dieter Volkmann, Springer, 2009
+
+Reference Books:
+
+1.  Biomimicry: Innovation Inspired by Nature. Janine Benyus, HarperCollins, 1997
+2.  The Handbook of Communication Science and Biology. Edited by Kory Floyd and René
+Weber, Routledge, 2020
+3.  The Social Biology of Ropalidia marginata: Toward Understanding the Evolution of
+Eusociality. Raghavendra Gadagkar, Harvard UP, 2001.
+4.  Survival Strategies: Cooperation and Conflict in Animal Societies. Raghavendra Gadagkar,
+Harvard UP, 1990
+5.  The Living Elephants: Evolutionary Ecology, Behaviour, and Conservation. Raman Sukumar,
+Oxford UP, 2003
+6.  Field Notes on Science and Nature. Edited by Michael R. Canfield,Harvard UP, 2011.
+7.  Social Life of Animals. Sukanya Datta, National Book Trust, India, 2023
+8.  The Macaque Connection: Cooperation and Conflict between Humans and Macaques.
+Edited by Sindhu Radhakrishna, Michael A. Huffman, and Anindya Sinha, Springer, 2013.
+
+8.  Any other remarks:
+
+Dated:13.2.2026        Proposer: Dr. Himanshi Jangir
+
+Dated:_______________ DUGC/DPGC Convener:___________________
+
+The course is approved / not approved
+
+[PAGE 5]
+Chairman, SUGC/SPGC
+
+Dated:______________________________

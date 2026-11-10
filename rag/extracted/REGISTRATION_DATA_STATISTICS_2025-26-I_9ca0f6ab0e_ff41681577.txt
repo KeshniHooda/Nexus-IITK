@@ -1,0 +1,303 @@
+[PAGE 1]
+REGISTRATION DATA STATISTICS FOR 2025-26/I
+
+TOTAL NUMBER OF COURSES BEING OFFERED                    728
+
+EXCLUDE THE THESIS COURSE, SEMINAR, PROJECT, BTP,
+SUMMER TRAINING, PRESENTATION                                                               541
+
+MAXIMUM CLASS SIZE (MSO203M)                               645
+MINIMUM CLASS SIZE
+(AT PRESENT THERE ARE 541 COURSES: AE451A, ECO504, EE631,      1
+ENG701, ENG70, ENG755, ENG759, ENG762, ENG777, ME723)
+
+AVERAGE CLASS SIZE (OF ALL 541 COURSES)                      70
+
+NUMBER OF COURSES WITH 5 STUDENTS OR LESS                 43
+
+NUMBER OF COURSES WITH 100 STUDENTS OR MORE              101
+
+AVERAGE CLASS SIZE OF COURSES THAT HAVE >5 AND LESS THAN  38
+100 STUDENTS
+
+THE FOLLWING IS THE NUMBER OF COURSES WITH
+VARIOUS CLASS STRENGTHS
+
+No. of Student   No. of Course
+
+1             10
+
+2              7
+
+Page 1 of 7
+
+[PAGE 2]
+3              9
+
+4             10
+
+5              6
+
+6-10            40
+
+11-15           41
+
+16-20           48
+
+21-25           43
+
+26-30           24
+
+31-50           84
+
+51-75           75
+
+76-100           44
+
+>100           100
+
+Total           541
+
+2025-26 FIRST SEMESTER LIST OF COURSES IN WHICH ≤5 STUDENTS
+REGISTERED
+
+Total No.
+S.No. Course No.        Instructor                     Name
+of Student
+
+1.    AE451A     Arun Perumal,      EXPERIMENTS IN AEROSPACE ENGINEERING III       1
+Gopalakrishna M
+Kamath, Abhijit
+Kushari
+2.    ECO504     Murali Prasad Panta  ECONOMIC ANALYSIS OF LAW                       1
+
+3.    EE631        Saikat Chakrabarti   ADVANCED POWER SYSTEM STABILITY              1
+
+4.    ENG701     Usha Udaar       FUNDAMENTALS OF MODERN LINGUISTICS           1
+
+5.    ENG708     Sudharshana N P     APPLIED LINGUISTICS                               1
+
+6.    ENG755     Lakshmana Pinninti  RESEARCH METHODS IN ENGLISH AS A SECOND      1
+LANGUAGE STUDIES
+
+Page 2 of 7
+
+[PAGE 3]
+Total No.
+S.No. Course No.        Instructor                     Name
+of Student
+
+7.    ENG759    Chinmay Dharurkar   HISTORY OF LINGUISTIC THOUGHT                   1
+
+8    ENG762     Chaithra Puttaswamy  TOPICS IN LINGUISTICS UNIVERSALS AND            1
+TYPOLOGY
+
+9    ENG777    T Ravichandran     PERSPECTIVES OF THE POSTHUMAN AND/IN THE      1
+ANTHROPOCENE
+
+10   ME723      Chandraprakash    WAVE PROPAGATION IN SOLIDS                      1
+Chindam
+
+11   AE667       Vaibhav Kumar     NANO-PARTICLE AEROSOL DYNAMICS                2
+Arghode
+
+12   CGS698E    Devpriya Kumar     TOPICS IN VISUAL PERCEPTION                      2
+
+13   CS777       Sutanu Gayen       TOPICS IN LEARNING THEORY                       2
+
+14   MBA774M  B V Phani         CREDIT RISK MANAGEMENT & MODELLING          2
+
+15   EE670       Adrish Banerjee     WIRELESS COMMUNICATIONS                       2
+
+16   ENG750     Gurumurthy       POSTWAR AMERICAN FICTION                       2
+Neelakantan
+
+17   MTH738   B V R Kumar       ISO-GEOMETRIC ANALYSIS                          2
+
+18   CE678        Balaji Devaraju     PHYSICAL GEODESY                                 3
+
+19   MBA773M  B V Phani         FINANCIAL INTERMEDIATION & COMMERCIAL        3
+BANKING
+
+20   ART708      Rajarshi Sengupta   RESEARCH METHODS IN VISUAL CULTURE           3
+
+21   ENG716    Muthukumar M     INDIVIDUAL PROJECTS                              3
+
+22    PHI712      Vineet Sahu       CONTEMPORARY INDIAN PHILOSOPHY-1              3
+
+23    PHI786       Lalit Saraswat      EVOLUTIONARY THEORIES OF KNOWLEDGE AND     3
+COGNITION
+
+24    PHI795      Prashant Bhalchandra PHILOSOPHY OF LITERATURE                        3
+Bagad
+
+25   MSE659     Raghupathy Yuvaraj  POWDER METALLURGY                             3
+
+26   MTH101A    Abhijit Pal, Arijit    MATHEMATICS I                                     3
+Ganguly
+
+Page 3 of 7
+
+[PAGE 4]
+Total No.
+S.No. Course No.        Instructor                     Name
+of Student
+
+27   MTH739     Santosha Kumar     TOPICS IN LIE GROUPS AND LIE ALGEBRAS           3
+Pattanayak
+
+28   AE707       Rajesh Kitey       EXPERIMENTAL STRESS ANALYSIS                   4
+
+29   CS640       Anil Seth         COMPUTATIONAL COMPLEXITY                      4
+
+30   EE698Z      Gururaj Vishwanath  SIMULATION STUDY OF POWER SYSTEM WITH        4
+MICROGRID
+
+31   ENG611     Sayan Chattopadhyay INTRODUCTION TO INDIAN ENGLISH                 4
+AUTOBIOGRAPHY
+
+32   ME617       Subrata Sarkar     ADVANCED THEORY OF TURBOMACHINERY          4
+
+33   ME756    B Bhattacharya      VIBRATION CONTROL                               4
+
+34   ME778      Nachiketa Tiwari    ENGINEERING ACOUSTICS AND ITS CONTROL         4
+
+35   MSE670     Srinu Gangolu       SOLIDIFICATION PROCESSING                        4
+
+36   MTH658    Malay Banerjee     NONLINEAR DYNAMICAL SYSTEMS                  4
+
+37   SEE625      Srinivas Yadavalli    STRUCTURAL, MICROSTRUCTURAL AND              4
+SPECTROSCOPIC CHARACTERIZATION OF
+MATERIALS
+38   AE676      Navrose          AEROELASTICITY                                   5
+
+39   ART706     Koumudi Patil      VISUAL ETHNOGRAPHY                             5
+
+40   ME762      Bhaskar Dasgupta    INTRODUCTION TO ROBOTICS                       5
+
+41   MTH102A   Debasis Sen       MATHEMATICS - II                                   5
+
+42   MTH656    Mrinmay Biswas    SOBOLEV SPACES AND APPLICATIONS                5
+
+43   MTH712    Sudhanshu Shekhar  A FIRST COURSE IN ALGEBRAIC NUMBER             5
+THEORY
+
+Page 4 of 7
+
+[PAGE 5]
+LIST OF COURSES IN WHICH 6-10 STUDENTS REGISTERED
+
+Total No.
+S.No. Course No.   Instructor         Name
+of Student
+
+1    AE647      Raghavendra Kukillaya FLIGHT DYNAMICS                                 6
+
+2    BSE668     Amitabha         HEALTHCARE VENTURES & ENTERPRISES II          6
+Bandyopadhyay
+3    CS747        Nitin Saxena       RANDOMIZED METHODS IN COMPUTATIONAL        6
+COMPLEXITY
+4    EE661       Ebin Mathew       POWER ELECTRONICS APPLICATIONS IN POWER      6
+SYSTEMS
+5    ENG743      Suchitra Mathur      FEMINIST THEORY AND LITERATURE                 6
+
+6    ME727       Supratik          COMPOSITE MATERIALS                            6
+Mukhopadhyay
+7    MTH619    Amit Shekhar Kuber   REPRESENTATION THEORY OF QUIVERS              6
+
+8    MTH754     Suprio Bhar         PROBABILITY THEORY                              6
+
+9    MTH755    Amit Mitra          STATISTICAL INFERENCE                            6
+
+10   MTH889M   Debasis Kundu      INTRODUCTION TO PROFESSION AND                6
+COMMUNICATIONS SKILLS (STATISTICS)
+
+11   MTH729    Keshab Bakshi      ERGODIC THEORY                                  7
+
+12   SEE888     Sheo Rai          INTRODUCTION TO PROFESSION &                   7
+COMMUNICATION
+
+13   CHE641     Sanjeev Garg       MATHEMATICAL METHODS IN CHEMICAL            8
+ENGINEERING
+
+14   CHE666     Dipin Pillai         STABILITY THEORY FOR CHEMICAL ENGINEERS      8
+
+15   ECO526     Somesh Kumar Mathur APPLIED TIME SERIES ECONOMETRICS WITH         8
+APPLICATION IN TRADE & MACROECONOMICS
+
+16   EE634       Nandini Gupta       ELECTRICAL INSULATION IN POWER                 8
+APPARATUS AND SYSTEMS
+
+17   EE679      Ankush Sharma     SMART GRID TECHNOLOGIES                        8
+
+Page 5 of 7
+
+[PAGE 6]
+Total No.
+S.No. Course No.   Instructor         Name
+of Student
+
+18   EE683       Rik Dey         QUANTUM AND WAVE PHENOMENA                 8
+
+19   ES457      Anupam Banerjee    VOLCANOLOGY                                    8
+
+20   ME359        P. A.             INTERNAL COMBUSTION ENGINES                   8
+Lakshminarayanan
+
+21   ME454      Anindya Chatterjee   NUMERICAL SOLUTIONS IN ENGINEERING           8
+MECHANICS
+
+22   ME671     P Venkitanarayanan   EXPERIMENTAL STRESS ANALYSIS                   8
+
+23   PHY621     Koushik Pal        ELECTRONIC STRUCTURE OF MATERIALS            8
+
+24   AE646       Rajesh Ranjan        SCIENTIFIC MACHINE LEARNING FOR FLUID         9
+MECHANICS
+
+25   CE401      Chunendra Sahu     HYDRAULICS TURBOMACHINES                     9
+
+26   CS433        Preeti Malakar      PARALLEL PROGRAMMING                          9
+
+27   MBA671     Prerna Gautam      MANAGING SERVICE OPERATIONS                   9
+
+28   ECO728     Vimal Kumar       ECONOMICS AND BUSINESS OF DIGITAL             9
+TECHNOLOGIES
+
+29   EE617       Nishchal Kumar Verma INDUSTRIAL AUTOMATION AND CONTROL           9
+
+30   ME653      Manjesh Singh      MOLECULAR SIMULATIONS IN MECHANICAL         9
+ENGINEERING
+
+31   SEE634     Sheo Rai, Ashish Garg  CRITICAL MATERIAL RESOURCES FOR CLEAN        9
+ENERGY TRANSITION
+
+32   CHE659      Siddhartha Panda     PROCESS ENGG. PRINCIPLES IN MICRO.              10
+FABRICATION
+
+33   MBA750M   Shankar Prawesh     SOCIAL MEDIA ANALYTICS II                       10
+
+Page 6 of 7
+
+[PAGE 7]
+Total No.
+S.No. Course No.   Instructor         Name
+of Student
+
+34   MBA784M  Anoop Singh        DERIVATIVES & RISK MANAGEMENT FOR THE       10
+ENERGY AND ENVIRONMENTAL MARKETS
+
+35   EE616      Aloke Kumar Dutta   SEMICONDUCTOR DEVICE MODELLING             10
+
+36   ME662       Niraj Sinha        MACHINING SCIENCE II                            10
+
+37   ME751     Anupam Saxena     COMPUTER AIDED ENGINEERING DESIGN           10
+
+38   MSE658     Sudhanshu Shekhar   DISLOCATIONS AND PLASTICITY                    10
+Singh
+
+39   MSE673     Shobit Omar       FUNDAMENTAL AND APPLICATIONS OF              10
+ELECTROCHEMISTRY
+
+40   PHY655     Diptarka Das       INTRODUCTION TO STRING THEORY                10
+
+Page 7 of 7

@@ -1,0 +1,81 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+Proposal for a new course
+
+Course No.: MTH 6XX/7XX (PG level)
+
+Course Title: Representation theory of quivers
+
+Pre-requisites: Instructor’s consent. However, knowledge of linear algebra (MTH204) and abstract
+
+algebra (MTH201) will be assumed.
+
+Aims of the course: Around half a century ago, representations of quivers (directed graphs with the
+possibility of loops and parallel arrows) were originally introduced and studied by Gabriel, where he
+completely classified finite dimensional hereditary associative algebras that have only finitely many
+(iso-classes of) indecomposable modules using Dynkin diagrams that were previously used in the
+classification of finite dimensional semisimple Lie algebras. The utility of the quiver-theoretic
+techniques in the representation theory of finite groups was essentially demonstrated by Gel'fand
+and Ponomarev. In fact, representation theory of quivers became a synonym for the representation
+theory of finite-dimensional associative algebras during the development of Auslander-Reiten
+theory. The current century has seen exponential growth in the literature on quivers and related
+topics, especially due to connections with cluster algebras and topological data analysis.
+
+The basic aim of this course is to give a self-contained introduction to this interesting branch of
+representation theory, where the necessary preliminaries from module theory over non-
+commutative rings and homological algebras will be covered. After successful completion of the
+course, the students will be equipped to read recent literature and tackle problems in the field.
+
+Credits: 3-0-0-0 [9]
+
+Semester: Odd Semester
+
+Department/IDP: Mathematics and Statistics
+
+Other departments which may be interested: PHY, CSE
+
+Instructor: Amit Kuber
+
+Course contents:
+
+1.   Quivers and representations: definitions, examples, category of representations, classification
+problem, special representations: simple, projective and injective [4 lectures]
+2.   Gabriel’s theorem: root systems and Weyl groups, Dynkin diagrams, reflection functors,
+quadratic form, Coxeter functors [9 lectures]
+3.  Modules over associative algebras: associative algebras, Jacobson radical, local algebras,
+indecomposability, primitive idempotents, basic and connected algebras [4 lectures]
+4.  Bound quiver algebras: path algebras for quivers, arrow ideal, admissible ideals, bound quiver
+algebras, modules are representations and vice versa [4 lectures]
+5.   Auslander-Reiten quivers: ideals in module categories, radical of the module category and its
+powers, irreducible morphisms, A-R quiver examples [3 lectures]
+6.   Homological algebra: Hom-functors, duality, chain complexes and exact sequences, homology,
+projective and injective modules, resolutions and presentations, global dimension, Ext functor,
+tensor products and Hom-tensor adjunction [7 lectures]
+7.   Auslander-Reiten theory: Nakayama functor, A-R translate, stable categories, A-R sequences,
+A-R formulas, Coxeter transformation [7 lectures]
+8.   Representation types of finite-dimensional algebras [3 lectures]
+
+Recommended texts/references:
+1.  Schiffler, Ralf. Quiver representations. (2014). CMS Books in Mathematics, Springer.
+
+[PAGE 2]
+2. Auslander, M., Reiten, I., & Smalo, S. (1995). Representation Theory of Artin Algebras (Cambridge
+
+Studies in Advanced Mathematics). Cambridge: Cambridge University Press.
+3. Assem, I., Skowronski, A., & Simson, D. (2006). Elements of the Representation Theory of
+
+Associative Algebras: Techniques of Representation Theory (London Mathematical Society
+
+Student Texts). Cambridge: Cambridge University Press.
+4. Crawley-Boevey W., Lectures on representations of quivers. Available at https://www.math.uni-
+
+bielefeld.de/~wcrawley/quivlecs.pdf
+5. Krause, H., Representations of quivers via reflection functors, Lecture notes available at
+
+https://arxiv.org/abs/0804.1428
+
+Dated: 10/01/2025                          Proposer: Amit Kuber
+
+This course is approved/not approved         Convener, DPGC Maths and Stats
+
+This course is approved/not approved              Chairman, SPGC

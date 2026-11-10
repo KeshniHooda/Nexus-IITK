@@ -1,0 +1,150 @@
+[Page 1]
+Indian Institute of Technology, Kanpur 
+Proposal for a New Course 
+
+1. Course No: 
+
+2. Course Title: Principles of Navigation techniques for autonomous systems 
+
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours[0-2]: (A), 
+Credits (L+T+P+A): 9 
+ 
+4. Duration of Course: Full semester 
+ 
+5. Proposing Department/IDP: Department of Intelligent Systems 
+ 
+Other Departments/IDPs which may be interested in the proposed course: 
+Electrical Engineering, Aerospace Engineering, Mechanical Engineering. 
+Other faculty members interested in teaching the proposed course: 
+6. Proposing Instructor(s): Prof. Anirban Roy 
+ 
+7. 
+Course Description: 
+ 
+A) Objectives: 
+This course will provide a detailed introduction to the localization or navigational techniques used for 
+various autonomous systems including Drone/Unmanned Aerial Vehicles (UAVs), Autonomous driver 
+assistance systems (ADAS), Robotics and Unmanned ground vehicles (UGVs) applications. This course 
+is distributed total four major sections – Concepts of Navigation theory and Inertial Navigational system 
+fundamentals, Global Positioning System (GPS)/Global navigational satellite system (GNSS) based 
+localization techniques, Hybrid navigation algorithms by fusing inertial navigation systems (INS) and 
+GPS/GNSS and the alternate navigational methods like terrain reference navigation (TRN), celestial 
+navigation in the event of GPS outage or artificially introduced GPS Jamming or spoofing. Brief aspects 
+of receiver’s autonomous integrated monitoring approaches will also be covered. Concepts of indoor 
+navigation in GPS denied environment and slamming techniques will also be touched at high level. At the 
+end of the course, the students will get a glimpse of navigation or localization concepts and solutions used 
+in the field of autonomous systems including airborne platforms. 
+ 
+B) Contents (preferably in the form of 5 to 10 broad titles):
+
+[Page 2]
+S. No 
+Broad 
+Title 
+Topics 
+No. of 
+Lectures 
+1 
+Introduction to Navigation, dead reckoning concepts of Navigation, 
+Navigation sensors – Self-contained Navigation, externally dependent 
+and database matching solutions based navigational methods. 
+1 
+2 
+Inertial 
+Navigation 
+System 
+Computations 
+- Inertial measurement unit fundamentals and various types of 
+inertial navigation system (platform and gimballed) – (1 
+classes) 
+- Review of attitude/orientation representation for rigid body 
+platforms – Euler Angle and Direction cosine matrix, 
+Quaternion and Eigen axis rotation and their conversion (3 
+classes) 
+- Different coordinate systems for Navigation computations – 
+(2 classes) 
+- Strapdown navigation (SDINS) computations for horizontal 
+and vertical channels, Baro inertial loop for vertical channel 
+acceleration processing and control theoretic approach for 
+SDINS lateral dynamics (7 classes) 
+- Navigational system Alignment (Gyro-compassing and 
+Transfer alignment methods (TA) – (3 classes) 
+16 
+3 
+GPS/SBAS 
+based 
+navigation 
+- Fundamentals of satellite-based navigation (GPS, 
+GLONASS, GALLILIO, COMPASS, GAGAN) (2 classes) 
+- Short review of spacecraft Orbital parameters and orbit 
+determination (2 classes) 
+- GPS errors and satellite positioning principles (SPS) based 
+Receiver position determination (Least square and Kalman 
+Filter approach) (5 classes) 
+- Differential Positioning principle (DGPS method) (1 class) 
+- Fundamentals of Space based satellite augmentation systems 
+(SBAS – WAAS, EGNOS, MSAS, IRNSS) (1 class) 
+- Hybrid navigation method (3 classes) 
+14 
+4 
+Alternate 
+Navigation 
+System 
+ - GPS Jamming and spoofing, Receiver’s autonomous 
+integrity monitoring (RAIM) Principles (2 Classes) 
+- Image registration principles and Terrain referencing concept 
+(3 classes) 
+- Concept of Indoor navigation and Slamming techniques (3 
+classes) 
+ 
+8 
+MATLAB simulation exercises and assignments will be given for better understanding of the 
+course.
+
+[Page 3]
+Total Lectures per week: 3 
+
+C)Pre-requisites, if any 
+1. Basic Control System Fundamentals. 
+ 
+ D)Short summary for including in the Courses of Study Booklet: 
+
+8. Recommended References: 
+1. David Titterton, John Weston, “Strapdown Inertial Navigation Technology”, IET 
+Publication 
+2. Myron Kayton and Walter R. Fried, " Avionics Navigation System," Wiley & Sons 
+3. Esmat Bekir, “Introduction to Modern Navigation Systems,” Cambridge Publication 
+4. Mohinder S. Grewal, P.E., Lawrence, “Global Positioning Systems, Inertial Navigation and 
+Integration”, Wiley and Sons 
+5. Amitabha Bose, K.N Bhat, Thomas Kurian, “Fundamentals of Navigation and Inertial 
+Sensors,” PHI Publication 
+6. Oleg S. Salychev, “Verified Approaches To Inertial Navigation,” BMSTU Press Moscow 
+Institute of Aviation 
+7. Li-Ta Hsu, Guohao Zhang, Weisong Wen, “Principles of Indoor Positioning and Indoor 
+Navigation”, Artech house 
+8. Hassan A. Karimi, “Indoor Wayfinding and Navigation,” CRC Press 
+ 
+A few good books to understand Kalman Filter: 
+9. Brown and Hwang, “Random Process and Applied Kalman Filtering,” John Wieley & Sons 
+10. Paul Zarchan and Howard Musoff, “Fundamentals of Kalman Filtering: A Practical 
+Approach”, AIAA. 
+ 
+9. Any other Remarks 
+Evaluation procedure: 
+15% Class Assignment 
+40% Examination 
+45% Term Paper 
+
+Dated: 19.01.2025 
+Proposer: Prof. Anirban Roy 
+ 
+Dated: 
+DUGC/DPGC Convener: 
+
+ 
+The course is approved / not approved 
+
+ 
+ 
+Chairman SUGC/SPGC: 
+Dated:

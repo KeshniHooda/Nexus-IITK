@@ -1,0 +1,579 @@
+
+
+
+
+<!DOCTYPE html>
+
+
+
+
+ 
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>IIT Kanpur</title>
+        
+        
+            
+        
+        <script src="/resources/theme/AdminLTEE/plugins/jQuery/jQueryy.min.js"></script>
+        <script src="/resources/theme/AdminLTEE/bootstrap/js/bootstrap.min.js"></script>
+        <link rel="stylesheet" href="/resources/theme/AdminLTEE/plugins/form-validator/jquery.realperson.css">
+        <script src="/resources/theme/AdminLTEE/plugins/assets/js/jquery/jquery.plugin.js"></script>
+        <script src="/resources/theme/AdminLTEE/plugins/form-validator/jquery.realperson.js"></script>
+
+        <link rel="icon" type="image/png" href="/resources/login/img/IIT_Kanpur_Logo.png" />
+        <!-- Sets initial viewport load and disables zooming  -->
+        <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
+        <!-- SmartAddon.com Verification -->
+        <!--        <link rel="shortcut icon" href="favicon_16.ico"/>
+                <link rel="bookmark" href="favicon_16.ico"/>-->
+
+
+        <style>
+            html {
+                background: url(/resources/login/img/index.png) no-repeat center center fixed;
+                -webkit-background-size: cover;
+                -moz-background-size: cover;
+                -o-background-size: cover;
+                background-size: cover;
+                filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/resources/login/img/index.png', sizingMethod='scale');
+                -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='img/index.png', sizingMethod='scale')";
+                height: 100%;
+            }
+
+            li{
+                list-style:none;
+            }
+        </style>
+        <!-- site css -->
+        <link rel="stylesheet" href="/resources/theme/AdminLTEE/bootstrap/css/bootstrap.min.css">
+        <link rel="stylesheet" href="/resources/login/css/site.min.css">
+        <link rel="stylesheet" href="/resources/theme/AdminLTEE/plugins/font-awesome/css/font-awesome.min.css">
+        <link rel="stylesheet" href="/resources/theme/MegaTheme/login.css">
+        <link rel="stylesheet" href="/resources/theme/MegaTheme/animate.css">
+
+
+
+
+
+
+        <script>
+            function getCookieValue(name) {
+                let nameEQ = name + "=";
+                let cookies = document.cookie.split(';');
+                for (let i = 0; i < cookies.length; i++) {
+                    let cookie = cookies[i];
+                    while (cookie.charAt(0) == ' ') {
+                        cookie = cookie.substring(1, cookie.length);
+                    }
+                    if (cookie.indexOf(nameEQ) == 0) {
+                        return cookie.substring(nameEQ.length, cookie.length);
+                    }
+                }
+                return null;
+            }
+
+            $(document).ready(function () {
+                let cookieValue = getCookieValue('SERVERID');
+                document.getElementById('cookieValue').innerText = cookieValue ? cookieValue : 'Cookie not found';
+
+            });
+            navigator.sayswho = (function () {
+                var ua = navigator.userAgent, tem,
+                        M = ua.match(/(opera|chrome|safari|firefox|msie|trident(?=\/))\/?\s*(\d+)/i) || [];
+                if (/trident/i.test(M[1])) {
+                    tem = /\brv[ :]+(\d+)/g.exec(ua) || [];
+                    return 'IE ' + (tem[1] || '');
+                }
+                if (M[1] === 'Chrome') {
+                    tem = ua.match(/\b(OPR|Edge)\/(\d+)/);
+                    if (tem != null)
+                        return tem.slice(1).join(' ').replace('OPR', 'Opera');
+                }
+                M = M[2] ? [M[1], M[2]] : [navigator.appName, navigator.appVersion, '-?'];
+                if ((tem = ua.match(/version\/(\d+)/i)) != null)
+                    M.splice(1, 1, tem[1]);
+                return M.join(' ');
+            })();
+
+            var browserCapability = false;
+            var brow = navigator.sayswho.split(" ");
+            //alert(brow[0] + " " + brow[1]);
+
+            // In Opera 
+            if (brow[0] === 'Opera') {
+                if (brow[1] >= 20) {
+                    browserCapability = true;
+                }
+            }
+
+            // In Microsoft internet explorer
+            if (brow[0] === 'IE') {
+                if (brow[1] >= 11) {
+                    browserCapability = true;
+                }
+            }
+
+            // In Chrome 
+            if (brow[0] === 'Chrome') {
+                if (brow[1] >= 40) {
+                    browserCapability = true;
+                }
+            }
+
+            // In Firefox
+            if (brow[0] === 'Firefox') {
+                if (brow[1] >= 30) {
+                    browserCapability = true;
+                }
+            }
+
+            //   In Safari 
+            if (brow[0] === 'Safari') {
+                if (brow[1] >= 6) {
+                    browserCapability = true;
+                }
+            }
+
+            //   In Edge 
+            if (brow[0] === 'Edge') {
+                if (brow[1] >= 13) {
+                    browserCapability = true;
+                }
+            }
+
+            if (browserCapability === false) {
+                window.location = "browserNotSupportAction";
+            }
+
+//            function checkBrowserCompatibilities() {
+//
+//                var browserCapability = false;
+//                var objAgent = navigator.userAgent;
+//
+//
+//                // In Opera 
+//                if ((objOffsetVersion = objAgent.indexOf("OPR/")) != -1) {
+//                    var versionLocation = objAgent.indexOf("OPR/");
+//                    var version = objAgent.substr((versionLocation + 4), 2);
+//
+//                    if (version >= 20) {
+//                        browserCapability = true;
+//                    }
+//                }
+//
+//
+//                // In Microsoft internet explorer
+//                if ((objOffsetVersion = objAgent.indexOf("Trident")) != -1) {
+//                    var rvLocation = objAgent.indexOf("rv:");
+//                    var version = objAgent.substr((rvLocation + 3), 2);
+//
+//                    if (version >= 11) {
+//                        browserCapability = true;
+//                    }
+//                }
+//
+//                // In Chrome 
+//                else if ((objOffsetVersion = objAgent.indexOf("Chrom")) != -1 && (objOffsetVersion = objAgent.indexOf("OPR/")) == -1) {
+//                    var objAgentParts = objAgent.split(/\s*[;)(]\s*/);
+//                    var objAgentPartsVersion = objAgentParts[5].split("/");
+//                    var objAgentPartsVersionTemp = objAgentPartsVersion[1].split(".");
+//                    var version = objAgentPartsVersionTemp[0];
+//
+//                    if (version >= 40) {
+//                        browserCapability = true;
+//                    }
+//
+//                }
+//
+//                // In Microsoft internet explorer
+//                else if ((objOffsetVersion = objAgent.indexOf("Trident")) != -1) {
+//                    var rvLocation = objAgent.indexOf("rv:");
+//                    var version = objAgent.substr((rvLocation + 3), 2);
+//
+//                    if (version >= 11) {
+//                        browserCapability = true;
+//                    }
+//                }
+//
+//                // In Firefox ==========================
+//                else if ((objOffsetVersion = objAgent.indexOf("Firefox")) != -1) {
+//                    var objAgentParts = objAgent.split(/\s*[;)(]\s*/);
+//                    var objAgentPartsVersion = objAgentParts[objAgentParts.length - 1].split("/");
+//                    var objAgentPartsVersionTemp = objAgentPartsVersion[objAgentPartsVersion.length - 1].split(".");
+//                    var version = objAgentPartsVersionTemp[0];
+//
+//                    if (version >= 30) {
+//                        browserCapability = true;
+//
+//                    }
+//                }
+//
+//                //   In Safari 
+//                else if ((objOffsetVersion = objAgent.indexOf("Safari")) != -1 && (objOffsetVersion = objAgent.indexOf("AppleWebKit")) != -1) {
+//                    var versionLocation = objAgent.indexOf("Version/");
+//                    alert(objAgent + "-- " + objAgent.substr(versionLocation + 8, 2));
+//                    var version = objAgent.substr((versionLocation + 8), 2);
+//
+//                    if (version >= 6) {
+//                        browserCapability = true;
+//                    }
+//                }
+//
+//                if (browserCapability === false) {
+//
+//                    window.location = "browserNotSupportAction";
+//                }
+//           }
+
+        </script>
+
+
+    </head>
+    <body style="background-color:#fff">
+
+        <nav class="navbar navbar-default navipanel">
+
+        </div>
+        <div class="epayitem">
+            <a href="ePay" > <img src="/resources/theme/MegaTheme/img/epay.png" alt="epay"  /> </a>
+        </div>
+        <div class="navbar-header">
+
+            <a class="brand-logo" href="#"><img src="/resources/theme/MegaTheme/img/IITK-Branding.png"></a>
+
+
+        </div>
+
+        
+            <div class="pull-righ boxmob">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <div id="navbar" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a href="/IITKFR-0/login">Faculty-Recruitment</a> <span>| </span> </li>
+                        <li><a href="/PGADM-0/login">PG-Admission</a> <span> | </span> </li>
+                        <li><a href="/MBADM-0/login">MBA-Admission</a> <span> | </span> </li>
+                        <!--                        <li class="dropdown">
+                                                    <a href="/MBADM-0/login" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">MBA-Admission <i class="fa fa-angle-down" aria-hidden="true"></i> <i class="fa fa-angle-up" aria-hidden="true"></i> </a> <span> |</span> 
+                                                    <ul class="dropdown-menu">
+                                                        <li><a href="#">Brochure</a></li>
+                                                        <li><a href="#"> All Courses</a></li>
+                                                        <li><a href="#">Fee Structure</a></li>
+                                                        <li><a href="#">Other Information</a></li>
+                                                    </ul>
+                                                </li>-->
+                        <li><a href="https://pingala.iitk.ac.in/IITK-0/addsecuritypassgateforoutside" target="_blank">Visitor Gatepass</a></li>
+                        <!--            <li><a href="http://pkklib.iitk.ac.in" target="_blank">Library</a></li>
+                                      <li><a href="CheckStudentApplication">Check Appeal</a></li>
+                                    <li><a href="CheckStudentApplication">Reappeal Application Status</a></li>
+                                    <li><a href="verifyingTerminatedStudentByOTP">Termination</a></li>-->
+
+
+                    </ul>
+
+
+
+
+                </div>
+
+            
+
+    </nav>
+    <div class="container-fluid midpanelNew">
+
+        <div class="col-sm-12 col-sm-5 col-md-4 col-lg-4 leftloginpanel">
+            <div class="logo loginformpanel">
+                <!-- logo image start-->
+                <div class="loginpanel">
+                    <img class="brand-pingala animated fadeInDownBig" src="/resources/theme/MegaTheme/img/pingala-logo.png">
+                    <style>
+                        table {
+                            width: 100%;
+                            border-collapse: collapse;
+                            text-align: center;
+                        }
+                        th {
+                            width: 33%; /* Adjust width to divide the table equally */
+                            vertical-align: middle; /* Center content vertically */
+                        }
+                        img {
+                            width: 150px; /* Fixed width */
+                            height: 60px; /* Fixed height */
+                            object-fit: cover; /* Ensures the image fits without distortion */
+                        }
+                        h3 {
+                            margin: 0; /* Remove default margin for consistent alignment */
+                        }
+                    </style>
+
+                    </head>
+                    <body>
+                        <!--
+                        <table>
+                            <tr>
+                                <th>
+                                    <h3>
+                                        <img src="/resources/login/img/pingala-red.png">
+                                    </h3>
+                                </th>
+                                <th></th>
+                                <th>
+                                    <h3>
+                                        <a href="ePay"><img src="resources/login/img/ePay.jpg" alt="EPay Logo"></a>
+                                    </h3>
+                                </th>
+                            </tr>
+                        </table>-->
+
+                        <div class="col-lg-12">
+                            <!--
+                                                    <a href="ePay"><img src="resources/login/img/ePay.jpg" alt="EPay Logo"></a>
+                                                </div>
+                                                <div class="col-lg-12">
+                            
+                                                    <img src="/resources/login/img/pingala-red.png">
+                                                </div>-->
+                        </div>
+                        <div class="formbox">
+                            <!--                  <div class="col-md-12">
+                            
+                                <div class="pull-right"><a href="verifyingTerminatedStudentByOTP">Termination </a>|<a href="CheckStudentApplication">Check Appeal/Reappeal Application Status</a> | <a href="/IITKFR-0/login" target="_blank">Faculty-Recruitment</a> | <a href="/MBADM-0/login" target="_blank">MBA-Admission</a> | <a href="/PGADM-0/login" target="_blank">PG-Admission</a> | <a href="http://webmail.iitk.ac.in" target="_blank">Webmail</a> | <a href="http://pkklib.iitk.ac.in" target="_blank">Library</a>|<a href="addsecuritypassgateforoutside">Apply Gatepass</a></div>
+                            
+                            
+                        </div>-->
+                            <div class="clearfix"></div>
+                            <div class="panelbox">
+
+                                <h3 class="signinheading">Sign In</h3>
+
+                                <div class="row">
+                                    <form name='loginForm' action="/IITK-0/j_spring_security_check" method='POST' onsubmit="setUserCache();">
+                                        <input type="hidden" name="javascriptAbility" id="javascriptAbility" value="Disable">
+                                        <div class="col-md-12">
+                                            
+                                            
+                                                <script>
+                                                    $(document).ready(function () {
+                                                        removeUserCache();
+                                                    });
+                                                </script>
+                                            
+                                            
+                                            
+                                            <br>
+                                            <input placeholder="Username" name='username' id='username' class="input-sm form-control" required="" type="text" oninput="onUsernameEdited();" onchange="onUsernameEdited();">
+                                            <br>
+                                            <div style="position: relative;">
+                                                <input placeholder="Password" name="password" id="password" class="input-sm form-control" required type="password" style="padding-right: 40px;">
+                                                <!-- Eye Icon -->
+                                                <span onclick="togglePassword()" style="position: absolute; right: 10px; top: 50%; transform: translateY(-50%); cursor: pointer;"><i id="eyeIcon" class="fa fa-eye-slash"></i></span>
+                                            </div>
+                                            
+                                            
+                                        </div>
+                                        <br><br>
+                                        <div class="col-md-12">
+                                            <input type="hidden" name="_csrf" value="56b7f3cc-1142-4cad-a7f3-55a282441bd2" />
+                                        </div>  
+                                        <div class="col-lg-12">
+                                            <div class="col-md-12 forgotpanel">
+                                                <a href="forgotpassword" style="color:#f6bb42;">Forgot Password </a> |
+                                                <a href="forgotuserName" style="color:#f6bb42;">Forgot Username </a>
+
+
+                                            </div>
+                                            <input type="submit" value="Login" class="btn btn-warning pull-right loginbtn" style="color:#30393c;"/>
+
+
+                                            <a href="mainPageForUserVerification" class="pull-right newuserreg" style="color:#f6bb42;">Register New User </a>
+                                        </div>
+                                    </form>
+                                    <div class="col-lg-12 acativesessionbox">
+                                     <!--<b>Active Session: </b> 4265<BR>--> 
+                                        Active Sess: 51 | App Ver: 
+                                            
+                                            
+                                                00162
+                                            
+                                         | Server Ver:&nbsp; <span id="cookieValue"></span>
+                                    </div>
+                                </div>
+
+
+
+
+
+                            </div>
+                        </div>
+
+                        <div class="row" style="text-align:center; display: none;">
+                            <div class="col-md-3 col-lg-3">
+                                <img style="height:auto;max-width: 100%;" class="pull-left" src="/resources/login/img/IIT_Kanpur_Logo.png">
+                            </div>
+                            <div class="col-md-9 col-lg-9">
+                                <h5 style="margin-bottom: 5px; margin-top: 0px;font-size: 16px;">Developed &amp; Designed for</h5>
+                                <p style="margin-bottom: 0px;">Indian Institute of Technology Kanpur</p>
+                                <p style="margin-bottom: 0px;">Kanpur,Uttar Pradesh,India-208016</p>
+                                <p> <i class="fa fa-globe"></i>&nbsp;<a target="_blank" href="http://www.iitk.ac.in">http://www.iitk.ac.in</a></p>
+                                <!--                        <a title="follow us on Facebook" class="tips" href="#"><i class="fa fa-facebook-square fa-2x"></i></a>
+                                                        <a title="follow us on Twitter" class="tips" href="#"><i class="fa fa-twitter-square fa-2x"></i></a>
+                                                        <a title="follow us on Google+" class="tips" href="#"><i class="fa fa-google-plus-square fa-2x"></i></a>
+                                                        <a title="follow us on Linkedin" class="tips" href="#"><i class="fa fa-linkedin-square fa-2x"></i></a>
+                                                        <a title="follow us on Pinterest" class="tips" href="#"><i class="fa fa-pinterest-square fa-2x"></i></a>-->
+
+                            </div>
+                            <div class="col-md-12">
+                                <div class="col-md-3 col-lg-3"></div>
+                                <div class="col-md-9 col-lg-9">
+                                    <!--<b>Active Session: </b> 4265<BR>--> 
+                                    <b>Active Sess.: </b> 51 | <b>App Ver.:</b> 
+                                        
+                                        
+                                            00162
+                                        
+                                     | <b>Server Ver.:&nbsp; </b><span id="cookieValue"></span>
+                                    <BR> 
+                                    <h5 style="margin-bottom: 5px; margin-top: 5px;border-top:1px solid;font-size: 16px;">Contact Details</h5>
+                                    <!-- Done by Ashu -->
+                                    <p style="margin-bottom: 0px;">CC-202, Computer Centre, IIT Kanpur-208016
+                                    </p>
+                                    <p style="margin-bottom: 0px;"><b>Email:</b>pingala@iitk.ac.in
+                                    </p>
+                                    <p style="margin-bottom: 5px;"><b>Contact Only For Technical Issues:</b>+91-0512-259-6803/6805
+                                    </p>
+
+
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="col-md-2 col-lg-2"></div>
+                                <div class="col-md-10 col-lg-10">
+                                    <!--<h5 style="margin-bottom: 5px; margin-top: 5px;border-top:1px solid;font-size: 16px;">Powered by</h5>-->
+                                    <!--                            <p style="margin-bottom: 0px;">Imagination Learning Systems<br>
+                                                                    <i class="fa fa-globe"></i>&nbsp;<a target="_blank" href="http://imaginationlearning.org/">http://imaginationlearning.org</a>
+                                                                </p>-->
+                                                                <!--<img src="/resources/noimage/logo.png" style="height:50px"></img>-->
+                                    <div id="thawteseal" style="text-align:center;" title="Click to Verify - This site chose Thawte SSL for secure e-commerce and confidential communications.">
+
+                                        <div></div>
+                                    </div>  <!--                        <a title="follow us on Facebook" class="tips" href="#"><i class="fa fa-facebook-square fa-2x"></i></a>
+                                                                                                                                                                                <a title="follow us on Twitter" class="tips" href="#"><i class="fa fa-twitter-square fa-2x"></i></a>
+                                                                                                                                                                                <a title="follow us on Google+" class="tips" href="#"><i class="fa fa-google-plus-square fa-2x"></i></a>
+                                                                                                                                                                                <a title="follow us on Linkedin" class="tips" href="#"><i class="fa fa-linkedin-square fa-2x"></i></a>
+                                                                                                                                                                                <a title="follow us on Pinterest" class="tips" href="#"><i class="fa fa-pinterest-square fa-2x"></i></a>-->
+                                </div>
+                            </div>
+                        </div>
+                        <!-- logo image end-->
+
+                </div>
+
+            </div>
+
+        </div>
+        <div class="col-sm-12 col-sm-7 col-md-8 col-lg-8 rightloginpanel">
+            <div class="buildbgpanelright" style="background: url(/resources/theme/MegaTheme/img/IITK-BG.jpg) no-repeat 0px 20%;" >
+<!--                                    <img src="/resources/theme/MegaTheme/img/IITK-BG.jpg" alt="IITK" />-->
+            </div>
+        </div> 
+
+
+    </div>
+    <footer class="footer loginfooter">
+        <div class="container-fluid">
+            <div class="col-xs-12 col-md-8 text-left">
+
+                <p class="text-muted">Developed & Designed for </p>
+                Indian Institute of Technology Kanpur
+            </div>
+            <div class="col-xs-12 col-md-4 text-right fterrightpanel">
+                <a href="mailto:pingala@iitk.ac.in" alt="mail" ><i class="fa fa-envelope-o" aria-hidden="true"></i></a>
+                <a href="tel:+91-0512-259-6803" alt="phone" ><i class="fa fa-phone" aria-hidden="true"></i></a>
+                <a href="https://maps.app.goo.gl/yub5fk2zGawnckhf8" target="_blank" alt="location" ><i class="fa fa-map-marker" aria-hidden="true"></i></a>
+
+
+
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
+<script>
+    document.cookie = "SameSite=Secure; SameSite=None";
+
+    // V-04 (handler-driven CAPTCHA) page state, set server-side:
+    //   LOGIN_HAD_ERROR        -> this render follows a failed login (restore the username)
+    //   LOGIN_CAPTCHA_REQUIRED -> the server chose to show the CAPTCHA for this attempt
+    var LOGIN_HAD_ERROR = false;
+    var LOGIN_CAPTCHA_REQUIRED = false;
+    // The username that the currently-shown CAPTCHA belongs to. The CAPTCHA is hidden only when
+    // the user switches to a DIFFERENT username than this one.
+    var captchaUsername = null;
+
+    function setUserCache() {
+        localStorage['myKey'] = $("#username").val();
+    }
+    function removeUserCache() {
+        localStorage.removeItem('myKey');
+    }
+
+    $(document).ready(function () {
+        // A failed login re-renders this page with an empty username field. The username that was
+        // just submitted was cached on submit (setUserCache), so restore it here â otherwise the
+        // field looks "wiped" the moment the CAPTCHA appears.
+        if (LOGIN_HAD_ERROR) {
+            var cached = localStorage['myKey'];
+            if (cached && !$("#username").val()) {
+                $("#username").val(cached);
+            }
+        }
+        // Remember which username the CAPTCHA belongs to (captured AFTER the restore above).
+        if (LOGIN_CAPTCHA_REQUIRED) {
+            captchaUsername = $("#username").val();
+        }
+    });
+
+    // We cannot know a *new* account's attempt count until the next login POST, so hide the
+    // CAPTCHA only when the user explicitly changes the username to a value different from the one
+    // that triggered it. Re-typing (or restoring) the same username keeps the CAPTCHA shown; the
+    // server re-decides on the next POST (LoginCaptchaFilter enforces from the shared DB count).
+    function onUsernameEdited() {
+        setUserCache();
+        if (!captchaUsername) {
+            return;
+        }
+        if ($("#username").val() === captchaUsername) {
+            return;
+        }
+        var cb = document.getElementById('captchaBlock');
+        if (cb) {
+            cb.style.display = 'none';
+        }
+        var dr = document.getElementById('defaultReal');
+        if (dr) {
+            dr.value = '';
+        }
+    }
+
+    function togglePassword() {
+        const passwordField = document.getElementById("password");
+        const eyeIcon = document.getElementById("eyeIcon");
+
+        if (passwordField.type === "password") {
+            passwordField.type = "text";
+            eyeIcon.classList.remove("fa-eye-slash");
+            eyeIcon.classList.add("fa-eye");
+        } else {
+            passwordField.type = "password";
+            eyeIcon.classList.remove("fa-eye");
+            eyeIcon.classList.add("fa-eye-slash");
+        }
+    }
+</script>

@@ -1,0 +1,4904 @@
+[Page 1]
+Indian Institute of Technology Kanpur 
+ COURSES OF STUDY 
+ 2024 
+
+ 
+ 
+ Indian Institute of Technology Kanpur 
+ KANPUR-208016
+
+[Page 2]
+MATHEMATICS AND STATISTICS
+
+[Page 3]
+Dual degree program in Mathematics and Scientific Computing 
+
+ 
+ 
+Double Major: Second Major in Mathematics and Scientific Computing
+
+[Page 5]
+Dual degree program in Statistics and Data Science
+
+[Page 9]
+DEPARTMENT OF MTH 
+Courses ID 
+Course Title 
+Credits 
+L-T-P-D-[C] 
+Content 
+IDC608 
+Computability 
+Theory 
+3-0-0-0-9 
+Review of models of computation and Church-Turing thesis, 
+Universal partial computable function and Kleene’s S-n-m 
+theorem, C.e. sets, Examples of algorithmic undecidability: 
+MRDP theorem, Boone-Novikov theorem, Wang tiling 
+problem, Strong reductions and Myhill’s theorem, Simple 
+and immune sets, Hyperimmune sets, Oracle computation, 
+Turing degrees and the jump operator, Arithmetical 
+hierarchy, Low and high sets, Martin’s high domination 
+theorem, Forcing constructions: Kleene-Post, Spector’s 
+exact pair, Recursively pointed trees and minimal degrees, 
+Priority constructions: Friedberg-Mucnik theorem, Sacks 
+splitting 
+theorem, 
+Computable 
+ordinals 
+and 
+the 
+hyperarithmetical hierarchy, Solovay’s theorem, Measure 
+and category on the Cantor space, Algorithmic genericity 
+and randomness, Schnorr/Martin-Lof randomness and van-
+Lambalgnen 
+theorem, 
+Kolmogorov 
+complexity 
+and 
+randomness, Current research topics. 
+ 
+Course References: 1. Robert Soare, Turing Computability: 
+Theory and Applications, Springer 2016. 2. Andre Nies, 
+Computability and Randomness, Oxford University Press 2009. 3. 
+Robert 
+Downey 
+and 
+Denis 
+Hirschfeldt, 
+Algorithmic 
+randomness and Complexity, Springer 2010. 
+MSO201 
+PROBABILITY AND 
+STATISTICS 
+ 
+3-1-0-0-11 
+Probability: Axiomatic definition, properties, conditional 
+probability, Bayes rule and independence of events. 
+Random variables, distribution function, probability mass 
+and 
+densityfunctions, 
+expectation, moments, moment 
+generating 
+function, 
+Chebyshev’s 
+inequality. 
+Special 
+distributions; 
+Bernoulli, 
+binomial, 
+geometric, 
+negative 
+binomial, hypergeometric, Poisson, exponential, gamma, 
+Weibull, 
+beta, 
+Cauchy, 
+double 
+exponential, 
+normal. 
+Reliability and hazardrate, reliability of series and parallel 
+systems. Joint distributions, marginal and conditional 
+distributions, moments, independence of random variables, 
+covariance and correlation. Functionsof random variables. 
+Weak Law of large numbers and Central limit theorems. 
+Statistics: Descriptive statistics, graphical representation of 
+the data, measures of location and variability. Population, 
+sample, parameters. Point estimation; method of moments, 
+maximum likelihood estimator, unbiasedness, consistency. 
+Confidence 
+intervals 
+for 
+mean, 
+difference 
+ofmeans, 
+proportions. Testing of hypothesis; Null and alternate 
+hypothesis, Neyman Pearson fundamental lemma, Tests for 
+one sample and two sample problems for normal 
+populations, testsfor proportions. 
+Course 
+Reference: 
+1. 
+Introduction 
+to 
+Mathematical 
+Statistics, by R V Hogg, A Craig and J W McKean; 2. An 
+Introduction to Probability and Statistics by V.K. Rohatgi &
+
+[Page 10]
+A.K. Md. E. Saleh; 3. Introduction to Probability and 
+Statistics by S. Milton & J.C. Arnold; 4. Introduction to 
+Probability Theory and Statistical Inference by H.J. Larson; 
+5. Introduction to Probability and Statistics for Engineers and 
+Scientists by S.M. Ross 
+MSO202M 
+COMPLEX 
+VARIABLES 
+3-1-0-0-6 
+Complex Numbers, Polar form, De-Moivre's formula, 
+convergent sequence, continuity, Complex differentiation, 
+Cauchy-Riemann equation, Applications, Analytic functions 
+and Power series, Derivative of a power series, Exponential 
+function, Logarithmic function and trigonometric functions, 
+Contour and Contour integral, Anti-derivative, ML inequality, 
+Cauchy's theorem, Cauchy Integral formula, examples, 
+Evolution of contour integrals, Derivatives of analytic 
+functions, 
+Cauchy's 
+estimate, 
+Liouville 
+theorem, 
+Fundamental theorem of Algebra, Morera's theorem 
+(without proof), Taylor's theorem, Examples, Computation of 
+Taylor's series. Zeros of Analytic functions. Identity 
+theorem, Uniqueness theorem, Applications, Maximum 
+modulus principle, Laurent series, Computation of Laurent 
+expansion, Cauchy residue theorem, Poles, Residue at a 
+pole, Examples, Evaluation of real improper integrals of 
+different forms, Linear fractional transformations. 
+Course Reference: 1. E. Kreyszig, Advanced Engineering 
+Mathematics. 2. R. V. Churchill and J. W. Brown, Complex 
+Variables and Applications. 
+MSO203M 
+PARTIAL 
+DIFFERENTIAL 
+EQUATIONS 
+3-1-0-0-6 
+Sturm Liouville BVP: introduction, examples. Sturm Liouville 
+BVP: orthogonal functions, Sturm Liouville expansions. 
+Fourier series, convergence of Fourier series, Fourier series 
+with arbitrary period. Fourier series: sine and cosine series, 
+half range expansion. Fourier integrals, Fourier: Legendre 
+series. Fourier Transform. Introduction to PDE, linear, 
+nonlinear (semi linear, quasi linear) examples, order of 
+PDEs. First order (linear, semi linear) PDEs, interpretation, 
+method of characteristics. First order (linear, semi linear) 
+PDEs, general solutions. First order quasi linear PDEs, 
+interpretation, method of characteristics, general solutions. 
+Classification of 2nd order PDEs, Canonical form: hyperbolic 
+equations. Canonical form: parabolic equations, elliptic 
+equations. 
+Wave 
+equations: 
+DAlembertfs 
+formula, 
+Duhamelfs principle. Wave equations: solutions for initial 
+boundary value problems. Heat equation: uniqueness and 
+maximum principle, applications. Heat equation: solutions 
+for initial boundary value problems. Laplace and Poisson 
+equations: Uniqueness and maximum principle for Dirichlet 
+problem. Laplace and Poisson equations: BVP in 2D 
+(rectangular, polar). Laplace and Poisson equations: BVP in 
+3D (spherical, cylindrical) 
+Course Reference: 1. E. Kreyszig. Advanced Engineering 
+Mathematics. (8th Edition); 2. T. Amarnath. An Elementary 
+Course in Partial Differential Equations. 
+MSO205 
+INTRODUCTION 
+TO 
+3-1-0-0-11 
+Basic definitions and ideas such as random experiment, 
+sample space and event, Classical definition and relative
+
+[Page 11]
+PROBABILITY 
+THEORY 
+frequency definition of probability, Axiomatic definition of 
+probability, Elementary properties of probability function, 
+Probability inequalities such as Boole’s inequality and 
+Bonferroni inequality. Conditional probability and its basic 
+properties, 
+Examples 
+of 
+conditional 
+probability 
+and 
+multiplication law, Theorem of total probability and related 
+examples, 
+Bayes 
+theorem 
+and 
+related 
+examples, 
+Independent events. Random variables and their distribution 
+function, 
+Induced 
+probability 
+space, 
+ 
+Discrete 
+and 
+continuous random variables, Function of random variables 
+(Discrete and Continuous), Expectation and moments of 
+random variables, MGF of random variables and its 
+application, Markov, Chebyshev and Jensen’s inequality, 
+Characteristics function and its application. Standard 
+discrete distributions and their properties (e.g., Bernoulli, 
+Binomial, Geometric, Negative Binomial, Hypergeometric, 
+Poisson). Standard continuous distributions and their 
+properties (e.g., Normal, Exponential, Gamma, Beta, 
+Cauchy). Random vectors and their joint distribution 
+functions, 
+Marginal 
+distribution, 
+independent 
+random 
+variables, 
+Conditional 
+distribution 
+of 
+random 
+vectors/variables, Expectation and moments of random 
+vectors, Conditional Expectation, variance and covariance 
+and 
+their 
+applications. 
+Idea 
+of 
+limiting 
+distribution, 
+Convergence in distribution and probability, and related 
+results, Convergence of moments and almost sure 
+convergence, Various examples and counter examples. 
+Weak law of large numbers, Central limit theorem, 
+Applications, e.g., continuous mapping theorem and delta 
+method. 
+MTH111M 
+SINGLE VARIABLE 
+CALCULUS 
+3-1-0-0-6 
+Real number system: Completeness axiom, density of 
+rationals (irrationals) in $\mathbb{R}$, convergence of a 
+sequence, 
+Sandwich 
+theorem, 
+Monotone 
+sequences, 
+Cauchy Criterion, Subsequence, Every bounded sequence 
+has a convergent subsequence, convergence of a sequence 
+satisfying Cauchy criterion, Limits and Continuity of 
+functions, Boundedness of a continuous function on $[a, b]$, 
+Existence of max of a continuous function on $[a,b]$, 
+Intermediate value property, Differentiability, Necessary 
+condition for local maxima, Rolles theorem and Mean Value 
+theorem, Cauchy mean value theorem, L`Hospital rule, 
+Fixed point iteration method (Picard's method), Newton's 
+method, Increasing and decreasing function, Convexity, 
+Second derivative test for max and min, Point of Inflection, 
+Curve 
+Sketching, 
+Taylor's 
+theorem 
+and 
+remainder, 
+Convergence of series, Geometric and Harmonic Series, 
+Absolute 
+convergence, 
+Comparison 
+test, 
+Cauchy 
+Condensation test. Ratio test, Root test, Examples, Leibniz' 
+theorem, Power series, Radius of convergence, Taylor 
+Series, 
+Maclaurin 
+Series, 
+Introduction 
+to 
+Riemann 
+Integration, Integrability, The Integral existence theorem for 
+continuous functions and monotone functions, Elementary 
+properties of integral, Fundamental theorems of Calculus, 
+Trapezoidal approximation, Simpson's Rule, Improper
+
+[Page 12]
+integral of first and second kind, Comparison test, Absolute 
+convergence. 
+MTH112M 
+APPLICATION OF 
+SINGLE 
+VARIABLE 
+CALCULUS & 
+SEVERAL 
+VARIABLE 
+CALCULUS 
+3-1-0-0-6 
+Application of definite integral, Area between two curves, 
+Polar coordinates, Graphs of polar coordinates, Area 
+between two curves when their equations are given in polar 
+coordinates, Volumes by slicing, Volumes by Shells and 
+Washers, Length of a curve, Area of surface of revolution, 
+Pappus's theorem, Review of vector algebra, Equations of 
+lines and planes, Continuity and Differentiability of vector 
+functions, Arc length for space curves, Unit tangent vector, 
+Unit normal and curvature to plane and space curves, 
+Binormal, Functions of several variables, Continuity, Partial 
+derivatives, 
+Differentiability, 
+Differentiability 
+implies 
+continuity, Increment theorem, Chain rule, Gradient, 
+Directional derivatives, Tangent plane and Normal line, 
+Mixed derivative theorem, Mean value theorem, Minima and 
+Saddle point, Necessary and sufficient conditions for 
+Maxima, minima and Saddle point, The method of Lagrange 
+multipliers, Double Integral, Fubini's theorem, Volumes and 
+Areas, Change of variable in double integral. Special cases: 
+Polar coordinates, Triple integral, Applications, Change of 
+variable in triple integral. Special cases: Cylindrical and 
+Spherical coordinates, Surface area, Surface integral, Line 
+integrals, Green's theorem, Vector fields Divergence and 
+Curl of a vector field, Stoke's theorem, The divergence 
+theorem. 
+MTH113M 
+INTRODUCTION 
+TO LINEAR 
+ALGEBRA 
+3-1-0-0-6 
+System of linear equations and matrices: Matrices, System 
+of linear equations; Elementary matrices, Invertible matrices, 
+Gauss-Jordon method for finding inverse of a matrix; 
+Determinants, Basic properties of determinants, Cofactor 
+expansion, Determinant method for finding inverse of a 
+matrix, Cramer’s Rule. 
+Vector space: Vector space, Subspace, Examples; Linear 
+span, Linear independence and dependence, Examples; 
+Basis, Dimension, Extension of a basis of a subspace, 
+Intersection and sum of two subspaces, Examples. 
+Linear transformation: Linear transformation, Kernel and 
+range of a linear map, Ranknullity theorem; Rank of a 
+matrix, Row and column spaces, Solvability of system of 
+linear equations. 
+Inner product space: Inner product, Cauchy-Schwartz 
+inequality, 
+Orthogonal 
+basis, 
+Gram-Schmidt 
+orthogonalization 
+process; 
+Orthogonal 
+projection, 
+Orthogonal complement, Projection theorem; Fundamental 
+subspaces and their relations, Application (Least square 
+solutions and least square fittings). 
+Eigenvalue and eigenvector: Eigenvalues, Eigenvectors; 
+Characterization of a diagonalizable matrix, Example, 
+Diagonalization of a real symmetric matrix; Representation 
+of a real linear maps by matrices (optional). 
+MTH114M 
+INTRODUCTION 
+TO ORDINARY 
+DIFFERENTIAL 
+EQUATIONS 
+3-1-0-0-6 
+First order ODEs: Introduction to differential equations, 
+Concept of solution, Geometrical interpretations; Separable 
+form, Reduction to separable form; Exact equations, 
+Integrating factors ; Linear equations, Bernoulli equations,
+
+[Page 13]
+orthogonal trajectories; Picard’s existence and uniqueness 
+theorem 
+(without 
+proof), 
+Picard’s 
+iteration 
+method; 
+Numerical methods: Euler’s method. 
+Second order linear ODEs: Improved Euler’s method. 
+Fundamental system and general solutions of homogeneous 
+equations, Wronskian, Reduction of order; Characteristic 
+equations: real distinct roots, complex roots, repeated roots; 
+Nonhomogeneous equations: methods of undetermined 
+coefficients and variation of parameters; Extension to higher 
+order 
+differential 
+equations, 
+Euler-Cauchy 
+equation, 
+Qualitative properties of solutions, Sturm comparison 
+theorem. 
+Series solutions of ODEs: Ordinary points, Power series 
+solutions; Regular singular points, Frobenius method; 
+Legendre polynomials; Bessel functions. 
+Boundary value problems: Sturm-Liouville boundary value 
+problems, Orthogonal functions. 
+Laplace transform: Laplace and inverse Laplace transforms, 
+First shifting theorem, Transforms of derivative and integral, 
+Differentiation and integration of transforms; Unit step 
+function, Second shifting theorem, Convolution, Solution of 
+initial value problems. 
+MTH201 
+A FIRST COURSE 
+IN LINEAR 
+ALGEBRA 
+3-1-0-0-11 
+Matrices: Elementary matrices, invertible matrices, Gauss-
+Jordon method, determinant, Systems of linear 
+equations and Cramer's Rule. Vector spaces: Fields, Vector 
+spaces over a field, subspaces, Linear independence 
+and 
+dependence, 
+existence 
+of 
+basis, 
+coordinates, 
+dimension. Linear Transformations: Rank Nullity Theorem, 
+isomorphism, matrix representation of linear transformation, 
+change of basis, similar matrices, linear 
+functional and dual space. Inner product spaces: Cauchy-
+Schwarz's inequality, Gram-Schmidt 
+orthonormalization, 
+orthonormal 
+basis, 
+orthogonal 
+projection, projection theorem, four fundamental 
+subspaces and their relations (relation between null space 
+and row space; relation between null space of the 
+transpose 
+and 
+the 
+column 
+space). 
+Diagonalization: 
+Eigenvalues and eigenvectors, diagonalizability, Invariant 
+subspaces , adjoint of an operator, normal, unitary and self 
+adjoint operators, Schur's Lemma, diagonalization 
+of normal matrices, spectral decompositions and spectral 
+theorem, applications of spectral theorem, Cayley- 
+Hamilton theorem, primary decomposition theorem, Jordon 
+canonical form, minimal polynomials, 
+Introduction to bilinear and Quadratic forms: Bilinear and 
+quadratic forms, Sylvester's law of inertia. Some 
+applications: Lagrange interpolation, LU,QR and SVD 
+decompositions, least square solutions, least square 
+fittings, pseudo inverses. 
+ 
+Reference materials: 1. Kenneth Hoffman and Ray Kunze: 
+Linear Algebra, PHI publication. 2. Gilbert Strang: Linear 
+Algebra and Its Applications, 4th edition. 3. Sheldon Axler: 
+Linear Algebra Done Right, UTM, Springer.
+
+[Page 14]
+MTH202 
+SET THEORY AND 
+DISCRETE 
+MATHEMATICS 
+3-1-0-0-11 
+Basic set theory: Unions, Intersections, Pairs, Powers, 
+Relations and Functions, Partial Orders, Numbers, 
+Peano's Axioms, Mathematical Induction, Finite and Infinite 
+Sets, Families of sets: Product of sets(finite and 
+infinite), More on relations and functions, Schroder-
+Bernstein Theorem, Countable and Uncountable Sets, 
+Axiom of Choice, Zorn's Lemma, Cardinals and ordinals, 
+Integers, Divisibility in Integers, GCD, Bezout's identity, 
+modular arithmetic, Chinese remainder theorem, Fermat's 
+little theorem, Euler Phi-function, Permutation, 
+Combinations, 
+Circular 
+permutations, 
+Binomial 
+and 
+Multinomial theorems, Solutions in nonnegative integers, 
+Balls into Boxes-Pigeon-hole Principle, Inclusion-Exclusion 
+Principle, Recurrence Relations, Generating 
+Functions, generating functions from recurrence relation. 
+ 
+Course 
+references: 
+1. 
+Kenneth 
+Rosen: 
+Discrete 
+Mathematics and Its Applications, McGraw Hill Education; 7 
+th edition. 2. Donald Knuth, Oren Patashnik, and Ronald 
+Graham: Concrete Mathematics, Addison-Wesley 
+Professional. 3. David M. Burton: Elementary Number 
+Theory. 
+MTH204 
+ABSTRACT 
+ALGEBRA 
+3-1-0-0-11 
+Some set theoretic notions: Relations, Functions, Partitions, 
+Division algorithm. Various binary operations and examples. 
+Groups and their properties, Subgroups, Cyclic groups and 
+its subgroups, Group of integers and its properties, 
+Fundamental 
+theorem 
+of 
+arithmetic. 
+Properties 
+of 
+subgroups, 
+Lagrange 
+theorem. 
+Normal 
+subgroupand 
+Quotient group, Homomorphism, Isomorphism theorems. 
+Symmetric group, Cyclic decomposition of a permutation, 
+Alternating group. Group action, Class equation, Cauchy’s 
+theorem, Sylow theorems and their applications. Ring and 
+its properties, Characteristic of a ring, Integral domain, Field, 
+Division ring. Ideals and Quotient ring, Homomorphism, 
+Isomorphism 
+theorems. 
+Polynomial 
+ring, 
+Unique 
+factorization domain, Principal Ideal domain, Euclidean 
+domain, Gaussian ring. 
+Course Reference: 1. Contemporary Abstract Algebra, 
+Joseph A Gallian (Narosa Publishing House, NewDelhi, 
+1998); 2. Algebra, Michael Artin (Prentice Hall of India, New 
+Delhi, 1994); 3. Abstract Algebra, John B Fraleigh (Narosa 
+Publishing House, New Delhi, 1988); 4. Abstract Algebra, 
+David S Dummit and Richard M Foote (John Wiley & Sons, 
+NewDelhi, 1999). 
+MTH205 
+INTRODUCTION 
+TO 
+FOURIER SERIES 
+3-1-0-0-11 
+Fourier series, Convolutions, Good kernels, Cesaro and 
+Abel Summable, Convergence of Fourier series: Mean 
+square, Pointwise convergence, Applications: Weyl equi-
+distribution, 
+Isoperimetric 
+inequality, 
+Construction 
+of 
+continuous but nowhere differentiable function, Finite Fourier 
+Analysis: on abelian groups, Characters as a total family, 
+Fourier inversion and Plancherel formula, Dirichlet's 
+Theorem: A little elementary number theory, Dirichlet's 
+theorem, Proof of the theorem.
+
+[Page 15]
+Course References: E. M. Stein and R. Shakarchi: Fourier 
+analysis: An Introduction. 
+MTH206M 
+MATRIX ALGEBRA 
+AND 
+LINEAR 
+ESTIMATION 
+(MODULE I) 
+3-1-0-0-6 
+Review of finite dimensional Vector Spaces Vector spaces - 
+Subspace - Linear independence - Basis and dimension 
+Sum, 
+direct 
+sum 
+and 
+complement 
+of 
+subspaces 
+Orthogonality 
+and 
+orthogonal 
+basis 
+- 
+orthogonal 
+complement; Matrix Algebra Preliminaries Different types of 
+matrices - Operations of matrices - Properties of operations; 
+Rank of a Matrix Row space and column space Rank - 
+Results related to ranks of matrices; Determinant and 
+Inverse of a non-singular matrix Inverse of a matrix - 
+Properties of inverse Elementary matrix operations - 
+Different 
+matrix 
+forms 
+Determinant 
+- 
+Properties 
+of 
+determinant. Solution of Linear Equations Homogeneous 
+systems - General linear systems Sweep out method for 
+solving linear systems. Eigenvalues and vectors, Spectral 
+and Singular value decomposition Characteristic roots - 
+Eigenvectors and eigenspaces Spectral decomposition of a 
+semi-simple matrix Singular value decomposition. Real 
+quadratic forms, Reduction of pair of real symmetric 
+matrices, Extrema of quadratic forms Classification of 
+quadratic forms - Rank and signature Definiteness of 
+matrices - Extrema of quadratic forms 
+MTH207M 
+MATRIX ALGEBRA 
+AND 
+LINEAR 
+ESTIMATION 
+(MODULE II) 
+3-1-0-0-6 
+Recap 
+of 
+important 
+topics/results 
+from 
+Module 
+I. 
+Generalised Inverses, Moore-Penrose Inverse. Left and right 
+inverses of a matrix – G-inverse, Minimum Norm and Least 
+Squares g-Inverse, Moore-Penrose inverse. Projection and 
+Orthogonal Projection Matrices: Projection and projection 
+matrices - orthogonal projection, Properties of projection and 
+orthogonal 
+projection 
+matrices. 
+Vector 
+and 
+Matrix 
+Differentiation: 
+Basic 
+idea 
+of 
+matrix 
+differentiation, 
+differentiation of linear and quadratic forms, determinants, 
+Inverse of a matrix - maxima, minima of functions of several 
+variables. Linear Model and Least Squares Theory of 
+Estimation: 
+Introduction 
+to 
+linear 
+model 
+and 
+basic 
+assumptions, The Least Squares theory of estimation - 
+Properties of Least Squares Estimators. Estimability of a 
+Linear Parametric Form: Non full column rank design matrix, 
+Unbiasedly estimable Linear Parametric functions. Gauss-
+Markov Theorem and Best Linear Unbiased Estimator: 
+Class of Linear Unbiased Estimators and the Best Linear 
+Unbiased Estimator, The Gauss-Markov Theorem. Fisher-
+Cochran Theorem (matrix theoretic version) through some 
+properties of the idempotent matrix. Estimation under 
+restriction: Least Squares estimation under a set of 
+restrictions on linear parametric functions. 
+MTH208 
+DATA SCIENCE 
+LAB 1 
+0-0-3-2-5 
+The courses focuses on fundamental computational learning 
+base for modern data analysis. Introduction to Programming 
+for Data Science -- Python, R, Rstudio, text editors, Google 
+colab, RMarkdown, and RShiny. Introduction to git. Web 
+scraping. Data cleaning and wrangling for numeric and non-
+numeric data. Standard statistical visualizations. Data and 
+code reproducibility. Interfacing R, C++, and Python. Ethics
+
+[Page 16]
+and bias in data collection, including statistical paradoxes, 
+data ethics, social biases in data, statistics in the media. 
+MTH209 
+DATA SCIENCE 
+LAB 2 
+1-0-2-0-5 
+Computational implementations of linear algebra (Gauss 
+elimination 
+method, 
+determinants, 
+eigenvalues, 
+eigenvectors, matrix decompositions, generalized inverses, 
+computational complexity of matrix operations). Practical 
+parallel computing, computational tools for optimization and 
+implementation 
+of 
+least 
+squares. 
+Computational 
+implementations of drawing samples, density functions, 
+mass functions, summary functions, numerical integration 
+for expectations. Copula functions, contour plots in two and 
+higher dimensions. Dimensionality reduction for data 
+visualization using ideas like PCA, LDA, TSNE and UMAP. 
+Demonstrate probability inequalities, and the weak law of 
+large numbers. Simulations for the central limit theorem. 
+MTH210 
+STATISTICAL 
+COMPUTING 
+3-0-1-0-10 
+Pseudorandom number generation, generating random 
+variables (discrete and continuous) -- inverse transform, 
+accept-reject, Box-Muller transformation, ratio-of-uniforms. 
+Importance sampling (simple and weighted). Review of 
+optimization, duality and KKT conditions. Newton-Raphson, 
+gradient ascent, coordinate ascent. Least squares and 
+optimization -- linear regression, ridge, lasso, bridge. 
+Logistic regression, least angle regression. Crossvalidation 
+and bootstrap. MM and EM algorithm, mixture of Gaussians. 
+Non-convex 
+optimization, 
+stochastic 
+gradient 
+ascent, 
+simulated annealing. Bayesian models and Metropolis-
+Hastings. 
+MTH211 
+THEORY OF 
+STATISTICS 
+3-1-0-0-11 
+Descriptive Statistics: Population and sample notions, 
+Methods of sampling: Simple random sampling with (and 
+without) replacement, stratified sampling, Types of data: 
+categorical, 
+continuous, 
+ordinal, 
+nominal, 
+Visualizing 
+(univariate and multivariate): boxplots, histogram, stem-leaf 
+plot, bar graph, ogive, scatterplot, side-by-side boxplot, 
+starplot; Measures of Central Tendency: Means (arithmetic, 
+geometric, 
+harmonic), 
+median, 
+mode; 
+Measures 
+of 
+Dispersion: Variance, interquantile range, Mean absolute 
+deviation, 
+standard 
+deviation, 
+Skewness, 
+kurtosis, 
+coefficient of variation, sample $r$th moment and raw 
+moments; Measures of association: Correlation, Kendall’s 
+$\tau$, Spearman rank correlation; Point Estimation: 
+Statistic, 
+estimators, 
+Sufficiency, 
+completeness, 
+unbiasedness, UMVUE, Information inequalities, Cram{\'e}r-
+Rao lower bound, Methods of estimation: maximum 
+likelihood estimator, method of moments, Properties of MLE 
+and MoM; Testing of Hypothesis: Null and alternative 
+hypothesis, simple and composite hypothesis, size, power, 
+Neyman-Pearson lemma for simple vs simple and its use for 
+testing composite hypothesis, UMP test, likelihood ratio 
+tests; Confidence Interval: Pivotal statistics, methods of 
+constructions; Bayesian statistics: Basics, point estimation 
+as a decision problem, Prior dist, Bayes risk, Bayes 
+estimators under losses, credible sets 
+MTH212M 
+ELEMENTARY 
+3-1-0-0-6 
+Definition and classification of general stochastic processes,
+
+[Page 17]
+STOCHASTIC 
+PROCESSES 
+I 
+Markov Processes and Markov Chains: Definition and 
+classification of Markov processes, Definition of Markov 
+Chains of Order r (focus on Order 1), and corresponding 
+Transition Probability Matrices, Examples - Gambler's Ruin, 
+Random 
+Walk 
+etc., Chapman-Kolmogorov equations, 
+Derivation of higher order transition probabilities from 1-step 
+transition probabilities. Classification of States: Accessible, 
+Absorbing and Communicating states, Communication as an 
+equivalence relation, Irreducible Markov Chains, Recurrent 
+and Transient states (focus on the probability of visiting a 
+state infinitely often, through Borel-Cantelli Lemma), Effect 
+of dimension on a Markov chain: compare through Random 
+Walks on 1, 2 and 3 dimensions; Finite Markov chains, 
+properties of finite irreducible Markov Chains, Periodic 
+States, Closed sets, Communicating class properties, 
+absorption in closed sets, Limiting behaviours: Null and 
+Positive Recurrence, Ergodicity; Stability of Markov Chains, 
+Limiting distributions, Stationary distributions 
+MTH215 
+AN 
+INTRODUCTION 
+TO NUMBER 
+THEORY 
+3-1-0-0-11 
+Divisibility, Primes, fundamental theorem of arithmetic, 
+Euclidean algorithm, Congruence and modular 
+arithmetic, Chinese remainder theorem, Roots of unity, 
+Quadratic reciprocity, Binary quadratic forms, Some 
+Diophantine 
+equations, 
+Some 
+arithmetic 
+functions, 
+Distribution of prime numbers, Bertrand’s postulate, the 
+partition function, Dirichlet Series, Riemann Zeta function. 
+MTH301 
+ANALYSIS - I 
+3-1-0-0-11 
+Real Number system: Completeness property. Countable 
+and Uncountable Metric Spaces: Metric spaces, 
+Examples: 𝑙_𝑝 , C[a; b]; Limit, Open sets, Convergence of a 
+sequence, Closed sets, Continuity. Completeness: 
+Complete metric space, Nested set theorem, Baire category 
+theorem, Applications. Compactness: Totally 
+bounded, 
+Characterizations 
+of 
+compactness, 
+Finite 
+intersection property, Continuous functions on compact 
+sets, Uniform continuity. Connectedness: Characterizations 
+of connectedness, Continuous functions on 
+connected sets, Path connected. Riemann integration: 
+Definition and existence of integral, Fundamental 
+theorem of calculus, Set of measure zero, Cantor set, 
+Characterization of integrable functions. Convergence of 
+sequence and series of functions: Pointwise and uniform 
+convergence of functions, Series of functions, Power 
+series, Dini's theorem, Ascoli's theorem, Continuous function 
+which is nowhere differentiable, Weierstrass 
+approximation theorem. 
+ 
+Reference materials: 1. N. L. Carothers, Real Analysis. 2. R. 
+R. Goldberg, Methods of Real Analysis. 3. W. Rudin, 
+Principles of Mathematical Analysis. 
+MTH302 
+SET THEORY & 
+LOGIC 
+3-1-0-0-11 
+Some basics of set theory: Relations, Partitions, Functions 
+and sets of functions. Families of sets, Cartesian 
+products of families. Principles of weak and strong 
+mathematical induction and their equivalence. Schroder- 
+Bernstein theorem. Countable and uncountable sets. 
+Cantor's theorem. Classical propositional calculus (PC):
+
+[Page 18]
+Syntax. Valuations and truth tables, Truth functions, Logical 
+equivalence relation. Semantic consequence and 
+satisfiability. 
+Compactness 
+theorem 
+with 
+application. 
+Adequacy of connectives. Normal forms. Applications to 
+Circuit design. Axiomatic approach to PC: soundness, 
+consistency, completeness. Other proof techniques: 
+Sequent 
+calculus, Computer assisted formal proofs: 
+Tableaux. Decidability of PC, Boolean algebras: Order 
+relations. Boolean algebras as partially ordered sets. Atoms, 
+Homomorphism, sub-algebra. Filters. Stone's 
+representation (sketch). Completeness of PC with respect to 
+the class of all Boolean algebras. Classical first 
+order logic (FOL) and first order theories, Syntax. 
+Satisfaction, truth, validity in FOL. Axiomatic approach, 
+soundness. Computer assisted formal proofs: Tableaux. 
+Consistency of FOL and completeness (sketch). 
+Equality. Examples of first order theories with equality. 
+Peano’s arithmetic. Zermelo-Fraenkel axioms of Set 
+theory. Axiom of choice, Well-ordering theorem, Zorn's 
+lemma and their equivalence; illustrations of their use. 
+Well-ordering principle and its equivalence with principles of 
+weak and strong induction. Elementary model 
+theory: 
+Compactness 
+theorem, 
+Löwenheim-Skolem 
+theorems. Completeness of first order theories, 
+Isomorphism of models, Categoricity-illustrations through 
+theories such as those of finite Abelian groups, 
+dense linear orders without end points and Peano’s 
+arithmetic. Statements of Gödel's incompleteness 
+theorems and un-decidability of FOL. 
+ 
+Course references: 1. J. Bridge: Beginning Model Theory: 
+The Completeness Theorem and Some Consequences. 
+Oxford Logic Guides, 1977. 2. I. Chiswell and W. Hodges: 
+Mathematical Logic. Oxford, 2007. 3. R. Cori and D. Lascar: 
+Mathematical Logic, Oxford, 2001. 4. J. Goubalt-Larrecq and 
+J. Mackie: Proof Theory and Automated Deduction, Kluwer, 
+1997. 5. P. R. Halmos: Naive Set Theory, Springer, 1974. 
+MTH303 
+A COURSE IN 
+NUMBER 
+THEORY AND 
+CRYPTOGRAPHY 
+3-1-0-0-11 
+Some Topics in Elementary number theory: Complexity of 
+Computation & Complexity Classes, time estimates of doing 
+arithmetic, divisibility and the euclidean algorithm, prime, 
+finite abelian group, congruences modulo n, the Chinese 
+remainder theorem, computing inverse and huge powers. 
+ 
+Finite fields and quadratic residues: Finite fields, Group of 
+units in finite fields, quadratic residues and reciprocity. 
+ 
+Cryptography: Some simple cryptosystems, enciphering 
+matrices. 
+ 
+Public key: The idea of public key cryptosystem, Choice of 
+the public key, RSA, Attacks on RSA and remedies, discrete 
+log, knapsack, Zero-knowledge protocols and oblivious 
+transfer.
+
+[Page 19]
+Primality 
+and 
+factoring: 
+The 
+rho 
+method, 
+Fermat 
+factorization and factor bases, the continued fraction 
+method, the quadratic sieve method, pseudoprimes, fermat 
+primality test, Miller-Rabin primality test, Solovay-Strassen 
+primality test, AKS primality test. 
+ 
+Elliptic curves: The definition and basic facts, The group 
+structure on an elliptic curve, Integer factorization using 
+elliptic curves, elliptic curve primality test, elliptic curve 
+cryptosystem, elliptic curves over rational numbers. 
+MTH304 
+TOPOLOGY 
+3-1-0-0-11 
+Pre-requisite: MTH 301 
+Topological spaces; open sets, closed sets, basis, sub-
+basis, closure, interior and boundary. Subspace topology. 
+Continuous 
+maps, 
+open 
+maps, 
+closed 
+maps, 
+Homeomorphisms. Product Topology. Hausdorff spaces, 
+Countability and separation axioms. Compact spaces and its 
+properties, Locally compact spaces, one point 
+compactification, Tychonoff's Theorem, Statement and 
+Applications of Urysohn Lemma, Tietz extension 
+theorem and Urysohn metrization theorem. Connectedness, 
+path connectedness, components, its properties. 
+Quotient Topology, various type of examples, cone, 
+suspension, surfaces as quotient spaces. Group actions, 
+orbit spaces. Homotopy, Fundamental group, deformation 
+retract, contractible spaces, simply connected 
+spaces, computation of 𝛱_1 (𝑆^1 ), 𝛱_1 (𝑆^2 ), Brouwer 
+fixed point theorem. 
+ 
+Reference materials: 1. J. R. Munkres: Topology: A First 
+Course, Prentice-Hall, 1975. 2. J. Dugundji: Topology, UBS, 
+1999. 3. M. A. Armstrong: Basic Topology, Springer. 4. G. F. 
+Simmons: Introduction to Topology and Modern Analysis, 
+Tata McGraw-Hill, 1963 
+MTH305 
+SEVERAL 
+VARIABLE 
+CALCULUS & 
+DEFFERENTIAL 
+GEOMETRY 
+3-1-0-0-11 
+Pre-requisite: MTH 301 
+Differentiation: 
+Differentiable 
+functions, 
+Directional 
+derivatives, Composition of differentiable functions and 
+chain rule, Mean value inequalities. Inverse mapping 
+theorem and Implicit mapping theorem. Regular value of 
+differentiable maps, Lagrange multipliers. Higher order 
+derivatives, Taylor’s Theorem. Curves: Definition and 
+examples of regular curves in R^2 and R^3. Definition of 
+parametrised curves. Arc length of a regular curve and 
+arc length parametrisation of regular curves. Curvature of 
+plane curves and Frenet-Serret formula for regular 
+space curves. Statement of Green’s Theorem. Isoperimetric 
+inequality for plane curves. Surfaces: Three 
+equivalent definition of regular surfaces in R^3. Tangent 
+planes. Differentiable functions on surfaces and 
+differentiable maps between surfaces. Tangent Plane. 
+Derivative of differentiable functions/maps on surfaces. 
+First fundamental form. Local isometries. Gauss map, 
+Weingartent map and second fundamental form. 
+Principal curvatures, Gauss curvature and mean curvature 
+of surfaces. Surfaces of revolution and classification
+
+[Page 20]
+of surfaces of revolution of constant curvature. Umbilic 
+points on surface. Classification of totally umbilical 
+surfaces. Hilbert’s theorem on compact surfaces. Geodesics 
+and examples. 
+ 
+Reference materials: 1. Tom M. Apostol: Mathematical 
+Analysis, Narosa Publishing House, India. 2. W. Rudin: 
+Principles of Mathematical Analysis. 3. Spivak: Calculus on 
+manifolds, Springer. 4. A Pressley: Elementary differential 
+geometry, Springer India. 5. M P do Carmo: Differential 
+geometry of curves and surfaces, Prentice Hall. 
+MTH308 
+NUMERICAL 
+ANALYSIS 
+AND SCIENTIFIC 
+COMPUTING-I 
+3-0-1-0-10 
+Approximations in Scientific computing, Error propagation 
+and amplification, conditioning, stability and 
+accuracy, computer arithmetic mathematical software and 
+libraries, visualization, linear systems- existence 
+and uniqueness, sensitivity and conditioning, Gaussian 
+elimination, special linear systems, iterative methods, 
+nonlinear 
+equations, 
+convergence 
+rates, 
+non-linear 
+equations in one dimension, system of non-linear 
+equations, eigenvalue problems, existence and uniqueness, 
+sensitivity and conditioning, computing 
+eigenvalues 
+and 
+eigenvectors, 
+approximation 
+and 
+interpolation, Hermite and Spline interpolation, piecewise 
+polynomial 
+interpolation, 
+numerical 
+differentiation 
+and 
+integration, Chebyshev differentiation and FFT, 
+Richardson extrapolation. 
+ 
+Course references: 1. M Heath: Scientific Computing – An 
+introductory Survey. 2. Kendall E. Atkinson: An Introduction 
+to Numerical Analysis. 3. S. D. Conte & S. de Boor: 
+Elementary Numerical Analysis: An Algorithmic Approach. 4. 
+J. Stoer and R. Bulirsch: Introduction to Numerical Analysis. 
+MTH309 
+PROBABILITY 
+THEORY 
+3-1-0-0-11 
+Pre-requisite(s): MSO201/HSO 201 
+Limits of sequences of sets, σ-field of events. Probability 
+measure, probability space. Random variables, 
+induced 
+probability 
+space, 
+probability 
+distribution. 
+Distribution function, decomposition theorem. Expectation 
+and moments, inequalities. Various modes of convergence 
+of sequences of random variables (in probability, 
+almost surely, in r th mean). Convergence theorems for 
+expectations of sequences of random variables 
+(monotone 
+convergence 
+theorem, 
+Fatou's 
+lemma, 
+dominated convergence theorem).Characteristic function 
+and its properties, inversion formulae. Convergence of 
+sequences of distribution functions, Helly-Bray 
+theorems, convergence of moments. Independence of 
+events and random variables, zero one laws. 
+Convergence of series of independent random variables, 
+Kolmogorov inequality, Kolmogorov three-series 
+criterion, 
+Khintchin's 
+weak 
+law 
+of 
+large 
+numbers, 
+Kolmogorov strong law of large numbers. Central limit 
+theorems of Lindeberg-Levy, Liapounov and Lindeberg-
+Feller.
+
+[Page 21]
+Course references: 1. K.L.Chung: A Course in Probability 
+Theory, Third Edition, Academic Press, 2001. 2. B.R.Bhat: 
+Modern Probability Theory, Third Edition, New Age 
+International (P) Ltd, 2004. 3. M. Loéve: Probability Theory-I, 
+Graduate Text in Mathematics, Fourth Edition, Springer, 
+1977. 
+MTH312 
+DATA SCIENCE 
+LAB 3 
+1-0-2-0-5 
+Prerequisites: MTH208, MTH209. 
+ 
+The course covers analysis of a collection of datasets 
+obtained from a variety of disciplines and applications. Every 
+week, the goal will be to build a model and/or a prediction 
+scheme to answer the questions pertaining to the field of 
+application. Writing weekly reports and/or presentations will 
+be an integral part of the course. 
+MTH313M 
+ELEMENTARY 
+STOCHASTIC 
+PROCESSES 
+II 
+3-1-0-0-6 
+Prerequisites: MSO201/MSO205 
+ 
+Continuous time Stochastic Processes (focus on Counting 
+process), 
+Kolmogorov 
+Consistency/Existence 
+Theorem 
+(statement only); Poisson Process (PP): Definition of a PP 
+as a counting process, Alternative definition of a PP, Inter-
+arrival and Waiting times for a PP, Coupon Collector's 
+problem, Order Statistics and PP, Non-homogeneous PP, 
+properties involving the arrival times, Compound PP; 
+Continuous time Markov Chains (Discrete State space) or 
+Jump Markov Processes: Definition (focus on homogeneous 
+Markov Chains), Examples: Birth and Death processes, 
+Poisson Process as a Pure Birth process, M/M/c queues, 
+Linear growth Models with immigration, Yule Process; 
+Transition 
+Probability 
+function, 
+Chapman-Kolmogorov 
+equations (forward and backward), Limiting probabilities 
+(may be an overview only, heuristic proof may be given with 
+some motivation using the first module); Brownian Motion 
+(BM): Definition of a BM, BM as a Markov process, 
+Gaussian processes, Properties of a BM: Covariance 
+function, Invariance properties, Path properties - using the 
+Kolmogorov Continuity Theorem (statement only); Special 
+topics (one of the following two topics to be covered): 1. 
+Processes related to Brownian motion - Brownian bridge, 
+Application of Brownian bridge in the study of empirical 
+processes, Donsker's Invariance Principle (statement only), 
+Stopping times, Hitting times, Strong Markov Property, Arc-
+Sine laws, Variants of BM: involving absorption and 
+reflection, Geometric BM, Integrated BM, involving drift, 2. 
+Branching processes: A little history of branching 
+processes. 
+The 
+Galton-Watson 
+Branching 
+Processes 
+(GWP). Probability generating function of GWP. Moment 
+generating functions and moment calculations, Sub-critical, 
+critical and super-critical scenario and the probability of 
+extinction. Examples. Introduction to Continuous time 
+Markov Branching Processes, Examples of Continuous time 
+Markov Branching Processes – revisit to Yule Process or 
+Binary Fission, Birth & Death Process. Generating functions. 
+Sub-critical, critical and super-critical scenarios.
+
+[Page 22]
+MTH314 
+MULTIVARIATE 
+ANALYSIS 
+3-0-1-0-10 
+Prerequisites: MTH211/MTH418 
+ 
+Basic properties of random vector: CDF and PDF of random 
+vectors – Moments – Characteristics functions, Orthogonal 
+and Polar transformations, Generalization of univariate 
+distribution (Multinomial, Dirichlet). Normal Distribution 
+Theory: Normal data matrix (NDM): characterization and 
+properties Linear forms – Transformation of NDMs, 
+Wishart 
+Distribution, The 
+Hotelling’s 
+T2 Distribution; 
+Estimation and Testing: Maximum likelihood estimation, 
+Likelihood ratio test – Union intersection test, Simultaneous 
+confidence intervals.; Multivariate Analysis of Variance 
+(MANOVA): 
+Formulation 
+of 
+multivariate 
+one-way 
+classification, Likelihood ratio principle; Principal Component 
+Analysis: Principal components – Sampling properties of 
+principal components – Principal component projections.; 
+Factor Analysis: The factor model – Principal factor analysis 
+– Maximum likelihood factor analysis – Goodness of fit – 
+rotation of factors – factor scores; Canonical correlation 
+analysis: Population and sample canonical correlation 
+vectors, variables and coefficients and their properties.; 
+Discrimination Analysis: Fisher’s LDA -QDA – Probabilities 
+of 
+misclassification; 
+Cluster 
+Analysis:Distances 
+and 
+similarities -- Hierarchical methods – K-means method; 
+Project presentations 
+MTH321 
+INTERNSHIP I 
+0-0-0-9-9 
+INTERNSHIP I (Only for BS Statistics and Data Science 
+students) 
+MTH322 
+INTERNSHIP II 
+0-0-0-9-9 
+INTERNSHIP II (Only for BS Statistics and Data Science 
+students) 
+MTH323 
+INTERNSHIP III 
+0-0-0-9-9 
+INTERNSHIP III (Only for BS Statistics and Data Science 
+students) 
+MTH324 
+INTERNSHIP IV 
+0-0-0-9-9 
+INTERNSHIP IV (Only for BS Statistics and Data Science 
+students) 
+MTH325 
+INTERNSHIP V 
+0-0-0-9-9 
+INTERNSHIP V (Only for BS Statistics and Data Science 
+students) 
+MTH401 
+THEORY OF 
+COMPUTATION 
+3-0-0-0-9 
+Regular languages, Deterministic and nondeterministic nite 
+automata, Closure properties, Languages that are and are 
+not regular, State minimizationin deterministic nite automata. 
+Contextfree languages, Closure properties, Parsetrees, 
+Languages that are and are not contextfree, Pushdown 
+automata. 
+Turing 
+machines, 
+Turing 
+computability, 
+ChurchTuring thesis, Halting problem, Some undecidable 
+problems. Computational complexity, Classes P and NP, 
+NPcompleteness, Examples of NPcomplete problems. 
+Course Reference: 1. H.R. Lewis and C.H. Papadimitriou: 
+Elements of the Theory of Computation, PrenticeHall, 1998; 
+2. J.E. Hopcroft, R. Motwani, J.D. Ullman, Introduction to 
+Automata Theory, Languages, and Computation, Pearson 
+Education, 2001. 
+MTH403 
+COMPLEX 
+ANALYSIS 
+3-1-0-0-11 
+Topology on C, Convergence and continuity. Cauchy 
+Riemann equation, Elementary Functions. Power series: 
+Convergence, 
+Exponential, 
+Trigonometric 
+functions.
+
+[Page 23]
+Integration 
+along 
+curves, 
+CauchyGoursat 
+Theorem, 
+Cauchy’s theorem for disc, Evaluation of some integrals, 
+Cauchy integral formula, Liouville theorem and fundamental 
+theorem of Algebra, Identity theorem, Morera’s theorem. 
+Zeros and poles, Residue theorem, Evaluation of some 
+integrals. Riemann theorem on removable singularities, 
+Essential singularities, Casorati Weierstrass theorem. 
+Riemann sphere, Argument principle, Rouche’s theorem, 
+Open mapping theorem, Maximum modulus principle, 
+Cauch’s theorem for simply connected domain, Analyticity of 
+complex logarithm. Harmonic functions, Poisson integral 
+formula, Characterization of harmonic functions through 
+MVP.Fractional linear transformation, Schwartz lemma, 
+Pick’s lemma, Automorphisms of discand upper half plane. 
+Montel theorem, Riemann mapping theorem. 
+Course Reference :1. Stein and Shakarchi: Complex 
+Analysis, Princeton Lect. in Analysis; 2. Gamelin: Complex 
+Analysis, Springer 
+MTH404 
+ANALYSIS II 
+3-1-0-0-11 
+Lebesgue measure on Rn: Introduction, outer measure, 
+measurable sets, Lebesgue measure, regularity properties, 
+a nonmeasurable set, measurable functions, Egoroffs 
+theorem, Lusins theorem. Lebesgue integration: Simple 
+functions, Lebesgue integral of a bounded function over a 
+set of finite measure, bounded convergence theorem, 
+integral of nonnegative functions, FatousLemma, monotone 
+convergence theorem, the general Lebesgue integral, 
+Lebesgue convergence theorem, change of variable 
+formula. Differentiation and integration: Functions of 
+bounded variation, differentiation of an integral, absolutely 
+continuity, Lpspaces: The Minkowskis inequality and Hlders 
+inequality, completeness of Lp, denseness results in Lp. 
+Fourier series: Definition of Fourier series, formulation of 
+convergence problems, The L2 theory of Fourier series, 
+convergence of Fourier series. 
+MTH405 
+FUNCTIONAL 
+ANALYSIS 
+3-1-0-0-11 
+Fundamentals of normed linear spaces: Normed linear 
+spaces, Riesz lemma, characterization of finite dimensional 
+spaces, Banach spaces. Bounded linearmaps on a normed- 
+linear spaces: Examples, linear map on finite dimensional 
+spaces, finite dimensional spaces are isomorphic, operator 
+norm. HahnBanach theorems: Geometric and extension 
+forms and their applications. Three main theorems on 
+Banach spaces: Uniform boundedness principle, divergence 
+of Fourier series, closed graph theorem, projection, open 
+mapping theorem, comparable norms. Dual spaces and 
+adjoint of an operator: Duals of classical spaces, weak and 
+weak* convergence, Banach Alaoglu theorem, adjoint of 
+anoperator. 
+Hilbert 
+spaces: 
+Inner 
+product 
+spaces, 
+orthonormal set, GramSchmidt orthonormalization, Bessels 
+inequality, Orthonormal basis, Separable Hilbert spaces. 
+Projection and Riesz representation theorem: Orthonormal 
+complements, orthogonal projections, projection theorem, 
+Riesz representation theorem. Bounded operators on Hilbert 
+spaces: Adjoint, normal, unitary, self adjoint operators, 
+compact operators, eigen values, eigen vectors, Banach
+
+[Page 24]
+algebras. Spectral theorem: Spectral theorem for compact 
+self adjoint operators, statement of spectral theorem for 
+bounded self adjoint operators. 
+MTH409 
+COMPUTER 
+PROGRAMMING 
+AND DATA 
+STRUCTURES 
+2-1-1-0-9 
+Fortran 77: Integer and real operations, logic and complex 
+operations, 
+Controlstatements, 
+Do 
+statement, 
+arrays 
+subroutines and functions. Introduction todata structures in 
+C Programming Language; Arrays: linear, Multidimensional, 
+Records, Pointers, Stacks, queues, Linked Lists; Singly 
+linked lists, doubleedlinked lists, circular linked lists, 
+Application of Linked Lists; Polynomial addition, sparse 
+matrices, Trees: binary trees, redblack trees, Hash tables. 
+somediscussion about data structures in F90F95 with 
+examples. 21-JUL-2014 
+MTH418 
+INFERENCE I 
+ 
+Parametric models, parametrs, random sample and its 
+likelihood, statistic andits sampling distributions, problems of 
+inference. Examples from standard discrete and continuous 
+models such as Bernoulli, Binomial, Poisson, Negative 
+Binomial, Normal, Exponential, Gamma, Weibull, Pareto etc. 
+Concept of sufficiency, minimal sufficiency, Neyman 
+factorization 
+criterion, 
+Fisher 
+information, 
+exponential 
+families. Maximum likelihood estimators, method of moment 
+estimators, percentile estimators, least squares estimators, 
+minimum mean squares estimators, uniformly minimum 
+variance unbiased estimators, RaoBlackwell theorem, 
+CramerRao lower bond, different examples. Statistical 
+Hyptheses simple and composite, statistical tests, critical 
+regions, TypeI and TypeII errors, size and power of a test, 
+Neyman Pearson lemma and its different applications. Most 
+powerful test, uniformly most powerful test, unbiased testand 
+uniformly most unbiased test. Likelihood ratio test. Interval 
+estimation, confidence intervals, construction of confidence 
+intervals, shortest expected length confidence interval, most 
+accurate one sided confidence interval and its relation to 
+UMP test. 
+MTH421 
+ORDINARY 
+DIFFERENTIAL 
+EQUATIONS 
+3-1-0-0-11 
+Introduction to ODE; Existence and uniqueness of solution; 
+Continuityand dierentiability of solution w.r.t. initial condition 
+and parameters; General theory of linear dierential 
+equations; Methods of solving nonhomogeneous linear 
+equations; CauchyEuler equation; Linear equations with 
+periodic coecients; System of lineardierential equations; 
+Stability theory for system of linear dierential equations; 
+StrumLiouville boundary value problems, Oscillation theory; 
+Green’s function. 
+Course Reference: 1. Martin Brown, Dierential Equations 
+and Their Applications, Springer, 1992; 2. S. L. Ross, 
+Introduction to Ordinary Dierential Equations, Wiley, 1980; 3. 
+Deo, Lakshmikantham, Raghavendra, Textbook of Ordinary 
+Dierential Equations, Tata McGraw Hill, 1997; 4. C. Y. Lin, 
+Theory and Examples of Ordinary Dierential Equations, 
+World Scientic,2011. 
+MTH422 
+AN 
+INTRODUCTION 
+TO 
+3-0-1-0-10 
+A brief review of probability theory: Univariate probability 
+distributions, 
+multivariate 
+probability 
+distributions 
+, 
+conditional distributions ; Introduction to Bayes: Bayes’
+
+[Page 25]
+BAYESIAN 
+ANALYSIS 
+theorem and Bayesian learning , Frequentist versus 
+Bayesian 
+, 
+problem 
+set 
+discussion 
+; 
+Posterior 
+summarization: 
+Univariate 
+posterior 
+summarization 
+, 
+multivariate posterior summarization , posterior predictive 
+distribution , problem set discussion ; Conjugate priors: 
+Importance of conjugate priors, derivation of the posteriors 
+for a few univariate and multivariate discrete distributions in 
+case of conjugate priors , derivation of the posteriors for a 
+few univariate continuous distributions in case of conjugate 
+priors , derivation of the posteriors for univariate and 
+multivariate normal distribution in case of conjugate priors ; 
+Prior elicitation and objective priors: Prior elicitation, mixture 
+priors, and Jeffreys’ priors , other objective priors , problem 
+set discussion ; Bayesian Computations: Deterministic 
+computations , Gibbs sampling , Metropolis-Hastings 
+sampling , MCMC convergence diagnostics ; Essential 
+softwares: R essentials for Bayesian computing , JAGS 
+essentials for Bayesian computing ; Bayesian linear models: 
+Bayesian hypothesis testing, one-sample and two-sample t-
+tests , Bayesian linear regression (BLR) including Bayesian 
+LASSO , Implementation of BLR using R-JAGS , Bayesian 
+generalized linear models (GLMs) and random-effects 
+models (REMs) , Implementation of Bayesian GLMs and 
+REMs using R-JAGS , Nonparametric Bayesian regression 
+with R-JAGS illustrations ; Bayesian model comparison: 
+Bayes factor, Stochastic search variable selection, Bayesian 
+model 
+averaging 
+, 
+Crossvalidation 
+(CV), 
+K-fold 
+crossvalidation (K-CV), Some information criteria including 
+DIC and WAIC , R-JAGS implementation of CV, K-CV, DIC, 
+and WAIC , Posterior predictive checks ; Bayesian 
+hierarchical models: Building a hierarchical model through 
+layers and its analogy with Directed acyclic graphs , Missing 
+data 
+handling 
+in 
+Bayesian 
+models 
+; 
+Case 
+study 
+demonstration: Illustation of Bayesian hierarchical models 
+for analyzing real datasets; Big data: Frequentist properties 
+of Bayesian methods: Decision theory and Bias-variance 
+tradeoff , Asymptotics and simulation studies 
+ 
+Lab component: Probability distributions in R: Univariate 
+and multivariate probability distributions-related functions 
+and additional R packages; Introduction to Bayes using R: 
+Implementation of simple Bayesian learning examples using 
+R; Posterior summarization using R: Univariate and 
+multivariate 
+posterior 
+summarization 
+and 
+evaluating 
+posterior predictive distributions using simulation and 
+numerical integration in R; Conjugate priors using R: Part 1 
+- Examples of the posteriors for a few univariate 
+distributions in case of conjugate priors; Conjugate priors 
+using R: Part 2 - Examples of the posteriors for a few 
+multivariate distributions in case of conjugate priors; 
+Objective 
+priors 
+using 
+R: 
+Summarizing 
+posterior 
+distributions in case of objective priors, prior elicitation; 
+Deterministic computations using R: Numerical integration, 
+Gaussian approximation of the posterior distribution and
+
+[Page 26]
+related computations using R; Gibbs sampling using R: 
+Examples of Gibbs sampling using R; Metropolis-Hastings 
+sampling using R: Examples of Metropolis-Hastinsg 
+sampling using R; JAGS implementations: Implementation 
+of the same examples using JAGS; MCMC convergence 
+diagnostics: MCMC convergence diagnostics using R-
+JAGS; Model comparison: K-CV, DIC, and WAIC; 
+Hierarchical models: Implementation of hierarchical models 
+using R-JAGS 
+ 
+MTH423 
+INTRODUCTION 
+TO CONTINUUM 
+MACHANICS 
+3-1-0-0-11 
+Fundamental concepts; Introduction to Cartesian tensors; 
+Stress tensors and equilibrium equations; Theory of strain 
+and rate of deformation tensor; Conservation laws and basic 
+equations; Linear Elasticity {Hooke’s law, plane elasticity, 
+Airy’s 
+stress 
+principle, 
+Torsion 
+and 
+bending; 
+Fluid 
+mechanics} Incompressible inviscid flow, Incompressible 
+viscous flow, Introduction to boundary layer theory 
+Course 
+Reference: 
+ 
+1. 
+Introduction 
+to 
+Continuum 
+Mechanics {M. Lai, D. Rubin, E. Krempl}; 2. Continuum 
+Mechanics for Engineers {G. T. Mase and G. E. Mase}; 3. 
+Elementary fluid mechanics {D. J. Acheson}; 4. Fluid 
+Mechanics {P K Kundu and I M Cohen}; 5. Mathematical 
+Theory of Elasticity {Sokolniko} 
+MTH424 
+PARTIAL 
+DIFFERENTIAL 
+EQUATIONS 
+3-1-0-0-11 
+Introduction to PDEs, First order quasilinear and nonlinear 
+equations; Higher order equations and classications; 
+Solution of wave equations, Duhamel’s principleand 
+applications; Existence and uniqueness of solutions; BVPs 
+for Laplace’s and Poisson’s equations, Green’s function, 
+Maximum principle for the Laplace equation; Heat equation, 
+Maximum principle for the heat equation, Uniqueness of 
+solutions of IVPs forheat conduction equation. 
+Course Reference: 1. Robert C. McOwen: Partial Dierential 
+Equations, Pearson Education Inc; 2. Alen Jerey: Applied 
+Partial Dierential Equations, Academic Press; 3. Ervin 
+Kreyszig: Advanced Engineering Mathematics, John Wiley & 
+Sons; 4. T. Amarnath, An Elementary Course in Partial 
+Dierential Equations, Narosa Publications. 
+MTH426 
+AN 
+INTRODUCTION 
+TO 
+MATHEMATICAL 
+MODELLING 
+ 
+What is a model? What is Mathematical modelling? Role of 
+Mathematics in problem solving; Transformation 
+of Physical model to Mathematical model with some 
+illustrations of real world problems; Mathematical 
+formulation, Dimensional analysis, Scaling, Sensitivity 
+analysis, 
+Validation, 
+Simulation, 
+Some 
+case 
+studies 
+withanalysis (such as exponential growth and decay models, 
+population models, Traffic flow models, Optimization 
+models). 
+ 
+Reference materials: 1. D. N. P. Murthy, N. W. Page and E. 
+Y. Rodin: Mathematical Modelling: A Tool for Problem 
+Solving in Engineering, Physical, Biological and Social 
+Sciences, Pergamon 1990. 2. Clive L. Dyne: Principles of 
+Mathematical Modeling, Academic Press, 2004. 3. R. llner, 
+C. Sean Bohun, S. McCollum and T. van Roode: 
+Mathematical Modeling: A case study approach, AMS 2004.
+
+[Page 27]
+MTH428 
+MATHEMATICAL 
+METHODS 
+3-1-0-0-11 
+Multiple Integral Theorems and their Applications: Greens 
+theorem, Stokes theorem and Gauss divergence theorem. 
+Integral Transforms: Fourier, Fouriersine/cosine and Hankel 
+Transforms with their inverse transforms (properties, 
+convolution theorem and application to solve differential 
+equation). 
+Perturbation 
+Methods: 
+Perturbation 
+theory, 
+Regular perturbation theory, Singular perturbation theory, 
+Asymptotic matching. Calculus of Variation: Introduction, 
+Variational problem with functionals containing first order 
+derivatives and Euler equations. Functionals containing 
+higher order derivatives and several independent variables. 
+Variational problem with moving boundaries. Boundaries 
+with constraints. Higher order necessary conditions, 
+Weiretrass function, Legendres and Jacobis condition. 
+Existence of solutions of variational problems. RayleighRitz 
+method, statement of Ekelands variational principle; Self 
+adjoint, normal and unitary operators; Banach algebras. 
+MTH430 
+NUMERICAL 
+ANALYSIS & 
+SCIENTIFIC 
+COMPUTING II 
+ 
+Pre-requisite(s): MTH 308 
+Linear least squares problems, existence and uniqueness, 
+sensitivity and conditioning, orthogonalization 
+methods, SVD, Optimization, existence and uniqueness, 
+sensitivity and conditioning, Newton’s method, 
+Unconstrained Optimization, Steepest descent, Conjugate 
+gradient method, Constrained optimization 
+(optional), Numerical solution to ODE, IVP: Euler’s method, 
+One step and linear multistep methods, Stiff 
+differential equations, boundary value problems, Numerical 
+solution to PDEs, review of second order PDEs: 
+hyerbolic, parabolic and elliptic PDEs, Time dependent 
+problems, Time independent problems 
+ 
+Reference 
+material(s): 
+1. 
+Michael 
+Heath: 
+Scientific 
+Computing – An Introductory Survey. 2. K. E. Atkinson: An 
+Introduction to Numerical Analysis. 3. S. D. Conte and C. de 
+Boor: Elementary Numerical Analysis: An Algorithmic 
+Approach. 4. J. Stoer and R. Bulirsch: Introduction to 
+Numerical Analysis. 
+MTH432M 
+INTRODUCTION 
+TO SAMPLING 
+THEORY 
+3-1-0-0-6 
+Principles of sample surveys; Simple, stratified and unequal 
+probability sampling with and without replacement; ratio, 
+product and regression method of estimation, Varying 
+Probability Scheme 
+MTH433 
+REAL ANALYSIS 
+3-1-0-0-11 
+Real 
+numbers, 
+sequences, 
+series, 
+tests 
+for 
+convergence, absolute convergence, rearrangement of 
+terms. Open and closed sets. Continuous functions of 
+one real variable. Differentiation. Riemann integration. 
+Fundamental theorem of calculus. Computation of 
+definite integrals. Improper integrals. Sequences of 
+functions, 
+and 
+point-wise 
+convergence. 
+Uniform 
+convergence; 
+and 
+its 
+relation 
+with 
+continuity, 
+differentiation and integration. Functions of several 
+variables. 
+Continuity. 
+Partial 
+derivatives. 
+Differentiability. Taylor’s theorem. Maxima and minima.
+
+[Page 28]
+Double integral, Fubini's theorem, Triple integration 
+(evaluation). 
+ 
+Course references: 1. R. G. Bartle and D. R. Sherbert, 
+Introduction to Real Analysis, Wiley, 2011. 2.J. E. Marsden, 
+A. Tromba and A. Weinstein, Basic Multivariable Calculus, 
+Springer, 1993. 3.T. M. Apostol, Calculus, Vols. 1 and 2, 
+Wiley, 1991 and 1969. 
+ 
+MTH434M 
+COMPLEX 
+ANALYSIS 
+3-1-0-0-6 
+Complex Numbers, geometric representation, powers and 
+roots of complex numbers. Functions of a complex variable. 
+Analytic functions. Cauchy-Riemann equations. Elementary 
+functions. Conformal mapping (for linear transformation), 
+Contours and contour integration. Cauchy’s theorem, 
+Cauchy integral formula. Power Series, term by term 
+differentiation, 
+Taylor 
+series, 
+Laurent 
+series, 
+Zeros, 
+singularities, poles, essential singularities, Residue theorem 
+and its Applications 
+ 
+Course references: J. W. Brown and R. V. Churchill, 
+Complex Variables and Applications, McGraw-Hill, 2004. 2. 
+L. V. Ahlfors, Complex Analysis, McGraw-Hill, 1966 
+MTH436 
+BASIC ALGEBRAIC 
+GEOMETRY 
+3-0-0-0-9 
+Curves and surfaces, Affine and projective varieties, Zariski 
+topology, Hilbert Nullstellensatz, Bezout’s theorem, 
+Tangent 
+space 
+and 
+smoothness, 
+irreducibility 
+and 
+dimension, morphisms, Grassmannian and flag varieties, 
+determinantal varieties, Normal varieties and Zariski’s main 
+theorem, Birartional Geometry and Resolution of 
+singularity, Divisors and Riemann-Roch for curves. 
+MTH441 
+LINEAR 
+REGRESSION AND 
+ANOVA 
+3-0-1-0-10 
+Introduction to Simple and Multiple Linear Regression 
+Models: Estimation of the parameters using least squares 
+and maximum likelihood estimation methods and their 
+properties; Topics on Multivariate Normal Distribution:a. 
+Introduction to Multivariate Normal distribution, and basic 
+properties, b. Distribution and independence of quadratic 
+forms, c. Cochran’s theorem.; Testing of Hypotheses and 
+Confidence 
+Intervals: 
+a. 
+General 
+testing 
+of 
+$H: 
+A\boldsymbol{\beta}={\bf c}$ all possible special cases. b. 
+Goodness of fit test with introduction to R-square, etc. c. 
+Interval 
+estimation: 
+Confidence 
+band 
+and 
+prediction 
+intervals, 
+simultaneous 
+confidence 
+intervals/ellipsoid, 
+Bonferroni’s correction.; Residual Analysis and Regression 
+Diagnostics: a. Detecting outliers: Different types of 
+residuals, Hat matrix diagonals (in connection with leverage 
+points), Detecting and dealing with outliers.b. Departures 
+from underlying assumptions: diagnosis and remedies. (i) 
+Dealing with curvatures, (ii) non-constant variance and serial 
+correlation, (iii) Departures from normality.; Multicollinearity: 
+a. Implication of multicollinearity. b. Diagnostics: VIF and 
+Variance Decomposition Methods.c. Remedial measures: 
+Canonical regression and principal component regression,
+
+[Page 29]
+Ridge Regression.; Variable Selection: a. Introduction to 
+variable selection, under and over-fitting problems. b. Model 
+selection: Adjusted R-square, Mallows Cp, , Cross-
+validation. 
+c. 
+Variable 
+selection: 
+Forward 
+selection, 
+Backward elimination, Stepwise variable selection. d. 
+Penalized regression: AIC, BIC criteria.; Use of Categorical 
+Explanatory or Dummy Variables:a. Indicator variables. b. 
+Introduction to ANOVA and ANCOVA models. c. ANOVA 
+table, splitting of sum of squares. d. Estimation and testing 
+in the above setups.; Design preliminaries, CRD, RBD and 
+LSD: a. Introduction and Principles of designs. b. CRD- 
+Methodology and development of analysis of variance. c. 
+RBD- Methodology and development of analysis of variance. 
+d. LSD- Methodology and development of analysis of 
+variance. Generalized Linear Models: a. Introduction to 
+GLM: systematic and random components, link functions, b. 
+Maximum Likelihood Estimation: iteratively re-weighted least 
+squares, c. Applications: Logistic regression for binary data, 
+Poisson regression for count data.; 
+MTH442 
+TIME SERIES 
+ANALYSIS 
+3-0-1-0-10 
+Prerequisites: MTH211/MTH418 
+ 
+Introduction 
+and 
+preliminary 
+tests 
+of 
+time 
+series, 
+Mathematical formulation of time series and stationarity 
+concepts, ACVF and ACF of stationary time series and its 
+properties, Linear stationary processes and their time 
+domain properties-AR, MA, ARMA, Invertibility of AR, MA, 
+ARMA; Auto covariance generating function; Multivariate 
+time series processes and their properties-VAR, VMA, 
+VARMA; Random sampling from stationary time series; 
+Parameter estimation of AR, MA and ARMA models; Best 
+Linear predictor and Partial auto correlation function 
+(PACF); Model order estimation techniques, Spectral 
+density, its properties and estimation; Spectral density 
+function of stationary linear processeSpectral distribution 
+function; 
+Cross-spectrum 
+for 
+multivariate 
+processes; 
+Periodogram analysis. 
+ 
+Lab component: Handling of time series datasets, Testing 
+for existence of trend and seasonality and estimation, 
+Computation of ACF, PACF, Modelling of univariate and 
+multivariate time series, Model order estimation, Residual 
+analysis, Periodogram analysis, Term project presentations 
+MTH443 
+STATISTICAL & AI 
+TECHNIQUES IN 
+DATA MINING 
+3-0-1-0-10 
+Prerequisites: MTH211 
+ 
+Introduction and preliminary concepts, Principal component 
+analysis, 
+Measures 
+of 
+similarity/dissimilarity, 
+Cluster 
+Analysis, Density estimation, Association rule mining, 
+Discriminant Analysis & Classification, Statistical Modelling, 
+Classification 
+& 
+Regression 
+Trees, 
+Artificial 
+Neural 
+Networks, Genetic Algorithm 
+ 
+Lab 
+component: 
+Multidimensional 
+feature 
+vector 
+visualization, 
+Data 
+projection, 
+clustering 
+and 
+outlier 
+detection, Implementation of variants of apriori algorithm for
+
+[Page 30]
+ARM, Kernel density estimation, Implementation of FLDF, 
+QDF, Logistic, SVM; Tree based classifiers and random 
+forest, Neural network model building, Term project 
+presentations 
+MTH496 
+UNDER 
+GRADUATE 
+PROJECT I 
+0-0-0-9-9 
+UNDER GRADUATE 
+PROJECT I 
+MTH497 
+UNDER 
+GRADUATE 
+PROJECT II 
+0-0-0-9-9 
+UNDER GRADUATE 
+PROJECT II 
+MTH498 
+UNDER 
+GRADUATE 
+PROJECT III 
+0-0-0-9-9 
+UNDER GRADUATE 
+PROJECT III 
+MTH499 
+UNDER 
+GRADUATE 
+PROJECT IV 
+0-0-0-9-9 
+UNDER GRADUATE 
+PROJECT IV 
+MTH511 
+STATISTICAL 
+SIMULATION AND 
+DATA ANALYSIS 
+3-1-0-0-11 
+Simulation of random variables from discrete, continuous, 
+multivariate distributions and stochastic processes, Monte 
+Carlo methods. Regression analysis, scatterplot, residual 
+analysis. Computer Intensive Inference Methods Jack Knife, 
+Bootstrap, cross validation, Monte Carlo methods and 
+permutation tests. Graphical representation of multivariate 
+data, Cluster analysis, Principal component analysis for 
+dimension reduction. 
+MTH515 
+INFERENCE II 
+3-1-0-0-11 
+Group families; Principle of invariance and equivariant 
+estimators- location family, scale family, location-scale 
+family; General Principle of equivariance; Minimum risk 
+equivariant estimators under location scale and location-
+scale families; Bayesian estimation; prior distributions; 
+posterior distribution; Bayes estimators; limit of Bayes 
+estimators; hierarchical Bayes estimators; Generalized 
+Bayes estimators; highest posterior density credible regions; 
+Minimax estimators and their relationships with Bayes 
+estimators; admissibility; Invariance in hypothesis testing; 
+Review of convergence in probability and convergence in 
+distributions; 
+consistent 
+estimators; 
+Consistent 
+and 
+Asymptotic Normal (CAN) estimators; BAN estimator; 
+asymptotic relative efficiency (ARE); Limiting risk efficiency 
+(LRE); 
+Limiting 
+risk 
+deficiency 
+(LRD; 
+CRLB 
+and 
+asymptotically efficient estimator; large sample properties of 
+MLE. 
+MTH516 
+NON-PARAMETRIC 
+INFERENCE 
+3-1-0-0-11 
+Order statistics, Run tests, Goodness of fit tests, rank order 
+statistics, sign test and signed rank test. general twosample 
+problems, MannWhitney test, Linear rank tests for location 
+and scale problem, k-sample problem, Measures of 
+association, Power and asymptotic relative efficiency, 
+Concepts of jackknifing, Bootstrap methods. 
+MTH520 
+NUMERICAL 
+LINEAR ALGEBRA 
+3-1-0-0-11 
+Computer arithmetic. Vector and matrix norms. Condition 
+number of a matrixand its applications. Singular value 
+decomposition of a matrix and its applications. Linear least 
+squares 
+problem. 
+Householder 
+matrices 
+and 
+their 
+applications. Numerical methods for matrix eigenvalue
+
+[Page 31]
+problem. Numerical methods for systems and control. 
+MTH522 
+FINITE ELEMENT 
+METHOD 
+3-1-0-0-11 
+Introduction and motivation, Weak formulation of BVP and 
+Galerkin approximation, Piecewise polynomial spaces and 
+finite element method, Computer implementation of FEM, 
+Results from Sobolev spaces, Variational formulation of 
+elliptic BVP, Lax-Milgram theorem, Estimation for general 
+FE approximation, Constructionof FE spaces, Polynomial 
+approximation theory in Sobolev spaces, Variational 
+problem 
+for 
+second 
+order 
+elliptic 
+operators 
+and 
+approximations, Mixed methods, Iterative techniques. 
+MTH523 
+FLUID MECHANICS 
+3-1-0-0-11 
+Review and General Properties of Navier Stokes Equations; 
+Some Exact solutions of NS equations; Introduction to 
+boundary layer theory; Introduction to turbulent flow; 
+Introduction to compressible flow; Applications. 
+MTH524 
+ALGORITHMS 
+3-1-0-0-11 
+Preliminaries: 
+Introduction 
+to 
+algorithms; 
+Analyzing 
+algorithms: space and time complexity; growth of functions; 
+summations; recurrences; sets, etc. Greedy Algorithms: 
+General characteristics; Graphs: minimum spanning tree; 
+The knapsack problem; scheduling. Divide and Conquer: 
+Binary search; Sorting: sorting by merging, qucksort. 
+Dynamic Programming: Elements of dynamic programming; 
+The principle of optimality; The knapsack problem; Shortest 
+paths; Chained matrix multiplication. Graph Algorithms: 
+Depth first search; Breadth first search; Backtracking; 
+Branch and bound. Polynomials and FFT: Representation of 
+polynomials; 
+The 
+DFT 
+and 
+FFT; 
+Efficient 
+FFT 
+implementation. Number Theoretic Algorithms: Greatest 
+common divisor; Modular arithmetic; Solving modular linear 
+equations. Introduction to cryptography. Computational 
+Geometry: Line segment properties; Intersection of any pair 
+of segments; Finding the convex hull; Finding the closest 
+pair of points. Heuristic and Approximate Algorithms: 
+Heuristic algorithms; Approximate algorithms; NP hard 
+approximation problems. 
+MTH525 
+ELLIPTIC CURVES, 
+MODULAR FORMS 
+AND CONGRUENT 
+NUMBER 
+PROBLEM 
+3-0-0-0-9 
+Congruent numbers: definition, example, history, basic 
+results and relation with elliptic curves, Some basics of 
+projective geometry and algebraic curves, Elliptic curves 
+over complex numbers, Elliptic curve in Weierstrass form, 
+group law of elliptic curves, Elliptic curves over finite fields, 
+Congruent elliptic curve, points of finite order, Hasse-Weil L-
+function of an elliptic curve, functional equation for the L-
+function of a congruent elliptic curve, Modular forms: action 
+of on upper half plane, fundamental domain, modular forms 
+for 
+and 
+congruence 
+subgroups, 
+Eisenstein 
+series, 
+cuspforms, 
+Ramanujan 
+∆-function, 
+Hecke 
+operators, 
+eigenforms, L-function of a modular form, 1/2 integral weight 
+modular forms, definition and examples, Θ-function, 
+Statement 
+of 
+Coates-Wiles 
+theorem, 
+Shimura’s 
+correspondence, Tunnel’s criterion for congruent number, 
+Heegner points. 
+MTH598 
+PROJECT- I 
+0-0-0-9-9 
+M.Sc project I 
+MTH599 
+PROJECT- II 
+0-0-0-9-9 
+M.Sc project II
+
+[Page 32]
+MTH600M 
+INTRODUCTION 
+TO PROFESSION 
+AND 
+COMMUNICATION 
+SKILLS 
+(MATHEMATICS) 
+3-0-0-0-5 
+(1) In the first three weeks of the course two lectures, each 
+of one and half hour duration, every week are given by 
+faculty members on a fundamental topic in Mathematics. 
+(2) In the remaining weeks, students should present a topic 
+in Mathematics of their choice. Their talk should contain 
+mathematical concepts, and some proofs. Students can 
+make their presentations individually or in pairs. 
+ 
+MTH603 
+MATHEMATICAL 
+MODELLING 
+3-0-0-0-9 
+Elementary mathematical models; Role of mathematics in 
+problem solving; Concepts of mathematical modelling; 
+System 
+approach; 
+formulation, 
+Analyses 
+of 
+models; 
+Sensitivity 
+analysis, 
+Simulation 
+approach; 
+Pitfalls 
+in 
+modelling, Illustrations. 
+MTH606 
+BIOMATHEMATICS 
+3-0-0-0-9 
+Biofluid dynamics; Blood flow & arterial diseases; Transport 
+in intestines& lungs; Diffusion processes in human systems; 
+Mathematical 
+study 
+of 
+nonlinear 
+Volterra 
+equations, 
+Stochastic 
+& 
+deterministic 
+models 
+in 
+population 
+dynamicsand epidemics. 
+MTH611 
+ALGEBRA II 
+3-0-0-0-9 
+Fields: Definition and examples, Irreducibility Criterions, 
+Prime Subfield, Algebraic and transcendental elements and 
+extensions, Splitting field of a polynomial. Existence and 
+uniqueness of algebraic closure. Finite fields, Normal and 
+separable extensions, Inseparable and purely inseparable 
+extensions. Simple extensions and the theorem of primitive 
+elements, Perfect fields.Galois Extension and Galois groups. 
+Fundamental theorem of Galois Theory. Applications of 
+Galois Theory: Roots of unity and cyclotomic polynomials, 
+Wedderburn's and Dirichlet's theorem. Cyclic and abelian 
+extensions, Fundamental Theorem of Algebra, Polynomials 
+solvable by radicals, Symmetric functions, Ruler and 
+compass constructions. Traces and norms, Hilbert's 
+theorem-90, Dedekind's theorem of Linear Independence of 
+Characters. Inverse Galois Problem.(Time permitting: 
+Simple transcendental extension and Luroth's theorem. 
+Infinite Galois Extension and Krull's theorem.) 
+MTH612 
+INTRODUCTION 
+TO 
+COMMUTATIVE 
+ALGEBRA 
+3-0-0-0-9 
+Review of basic notions of Rings and Modules, Noetherian 
+and Artinian Modules, Exactness of Hom and tensor, 
+Localization of rings and modules, Primary decomposition 
+theorem, Integral extensions, Noether normalization and 
+Hilbert Nullstellensatz, Going up and Going down theorem, 
+Discrete Valuation rings and Dedekind domains, Invertible 
+modules, Modules over Dedekind domain, Krull dimension 
+of a ring, Hilbert polynomial and dimension theory for 
+Noetherian local ring, Height of a prime ideal, Krull's 
+principal ideal theorem and height theorem. Completions. 
+MTH613 
+RINGS AND 
+MODULES 
+3-0-0-0-9 
+Review of Basic Ring theory: Integral domain and field of 
+Fraction, Prime Avoidance theorem, Unique factorization 
+domain, Principal Ideal domain, Euclidean domain, Gauss 
+lemma, Polynomial Rings, Power series ring, Group ring, 
+Modules: Vector spaces, Definition and examples of 
+modules, Free modules, submodules and quotient modules, 
+isomorphism theorems, Direct sum and direct products, 
+Nakayama lemma, Finitely generated modules over a PID
+
+[Page 33]
+and applications, Rational Canonical form, Smith normal 
+form, 
+Jordan 
+Canonical 
+form, 
+Jordan-Holder 
+series, 
+Projective and Injective Modules, Semi-simple rings and 
+Modules, The Artin-Wedderburn theorem, Noetherian rings 
+and Modules, Artinian rings and Modules, Hilbert basis 
+theorem. (Time permitting: Artinian local rings and 
+structure theorem of Artinian rings, Tensor products and 
+multilinear forms, Exterior and Symmetric Algebra, Direct 
+and Inverse system of modules.) 
+MTH614 
+INTRODUCTION 
+TO STOCHASTIC 
+CALCULUS 
+3-0-0-0-9 
+Preliminaries: σ-fields, 
+random 
+variables, 
+Expectation, Lp spaces with respect to Probability measures, 
+Conditional 
+Probability 
+and 
+Conditional 
+Expectation, 
+Brownian 
+motion: 
+Definition, 
+Construction/Proof 
+of 
+existence, 
+path 
+properties 
+and 
+Martingale 
+property, 
+Martingale Representation Theorem (If time permits), 
+Stochastic Differential Equation: various notions of solutions, 
+existence 
+and 
+uniqueness 
+results, 
+Application 
+to 
+Mathematical Finance: Black-Scholes formula. 
+MTH615 
+RIEMANN 
+SURFACES 
+3-0-0-0-9 
+General theory of two dimensional manifolds, orientable 
+surfaces, 
+homology 
+and 
+cohomology 
+of 
+surfaces, 
+Riemann surfaces, line bundles and vector bundles, 
+Riemann-Roch theorem, Riemann bilinear relations, Abel- 
+Jacobi map, Torelli’s-theorem and Theta divisors. 
+MTH616 
+THEORETICAL 
+NUMERICAL 
+MATHEMATICS 
+3-0-0-0-9 
+The course content is divided into three parts. While the 
+First 
+part 
+focuses 
+on 
+the 
+approximation 
+of functions, the other two deal with material related to the 
+solution of linear and non-linear operator equations. The 
+course 
+will 
+broadly 
+cover 
+the 
+following 
+topics: 
+I. Theory of Approximations: Metric Spaces, Linear Spaces, 
+Normed and Banach Spaces, Inner product and 
+Hilbert Spaces; Problems on the Best Approximation, 
+Orthogonal Expansions and Fourier Series 
+in a Hilbert Space; Chebyshev Polynomials and their 
+properties, Some Extremal Polynomials 
+ 
+II. Linear Operators and Functionals: Linear Operators in 
+Banach Spaces, Spaces of Linear Operators, Inverse 
+Operators, Linear Operator Equations, Condition Measure of 
+Operator; Spectrum and Spectral Radius of Operator, 
+Convergence 
+Conditions 
+for 
+the 
+Neumann 
+Series, 
+Perturbations Theorem; Representation of Functions by 
+Integrals; Linear Functionals and Adjoint Space, Adjoint, 
+Selfadjoint, 
+Symmetric 
+Operators; 
+Eigenvalues 
+and 
+Eigenelements of Selfadjoint and Symmetric Operators; 
+Quadrature Functionals and Generalized Solutions of 
+Operator 
+Equations; 
+Variational 
+Methods, 
+Variational 
+Equations; 
+Compact 
+Operators; 
+Sobolev 
+Spaces, 
+Generalized Solution of the Dirichlet Problem for Elliptic 
+Equations of the Second Order 
+ 
+III. Iteration methods for the solution of operator equations: 
+General Theory of Iteration Methods; Chebyshev Iteration 
+Methods, Descent Methods, Newton Method; Succesive 
+Approximation Method for Inverse Operator; Stability and
+
+[Page 34]
+Optimization of Explicit Difference Schemes for Stiff 
+Differential Equations 
+MTH617 
+INTRODUCTION 
+TO COMPOSITION 
+OPERATORS 
+3-0-0-0-9 
+Analytic functions, Möbius transformations, Fixed points, 
+Classification of Möbius transformations, Self-maps of the 
+unit disk, Hilbert spaces, Bounded operators, Adjoint of an 
+operator, Functional Hilbert spaces, Reproducing kernels, 
+Hardy 
+space 
+H2, 
+Growth 
+estimate, 
+Consequences, 
+Hp spaces, Zeros, Blaschke products, Inner functions, Mean 
+convergence theorem, Multiplication operators, Beurling’s 
+theorem, 
+Invariant 
+subspace 
+problem, 
+Equivalent 
+conjecture, 
+Composition 
+operators, 
+Introduction 
+and 
+motivation, Automorphic composition Operators, Littlewood’s 
+theorem, Norm estimates, Compact composition operators, 
+Various compactness theorems, Compactness and Weak 
+convergence, 
+Compactness 
+and 
+Univalence, 
+Angular 
+derivatives and Iteration, Denjoy-Wolff theorem, König’s 
+theorem for eigen values, General compactness theorem, 
+Introduction to various function spaces such as Bergman 
+space, Dirichlet space and Bloch space and natural 
+operators on them. Open problems. 
+MTH618 
+COMPLEX 
+MANIFOLDS AND 
+K\"AHLER 
+GEOMETRY 
+3-0-0-0-9 
+Complex 
+manifolds, 
+Almost 
+complex 
+structures; 
+Exterior forms on complex manifolds, Kähler metrics. 
+; Hodge theory for Kähler manifolds; Holomorphic vector 
+bundles; Line bundles and divisors; Cohomology of 
+holomorphic vector bundles; Vanishing Theorems and the 
+Kodaira Embedding Theorem; Curvature of Kähler manifold; 
+The Calabi Conjecture.; Riemann holonomy groups, The 
+Kähler holonomy groups; Introduction to moduli spaces; 
+Deformation theory for compact complex manifolds. 
+MTH620 
+MEASURE 
+THEORY 
+3-0-0-0-9 
+Algebra, σ-algebra, measure, measurable functions, simple 
+functions, 
+integration, 
+Fatou's 
+lemma, 
+monotone 
+convergence theorem, Dominated convergence theorem, 
+Riesz representation theorem, regular Borel measure, 
+Lebesgue measure, 
+spaces, completeness of 
+and 
+denseness results in 
+, signed and complex measures, 
+Radon-Nikodym 
+theorem, 
+Lebesgue 
+decomposition 
+theorem, dual of
+ spaces, dual of 
+, product 
+measures, 
+Fubini's 
+theorem 
+and 
+its 
+application, 
+differentiation of measures. 
+MTH621 
+FOURIER 
+ANALYSIS 
+3-0-0-0-9 
+Fourier transform on
+, 
+and 
+ theory, Complex 
+interpolation, 
+theory, Paley-Wiener theorem, Wiener-
+Tauberian theorem, Hilbert transform, Maximal function, real 
+interpolation,Riesz 
+transform, 
+transference 
+principle, 
+Multipliers 
+and 
+Fourier 
+Stieljes transform, 
+Calderon-
+Zygmund singular integrals, Littlewood-Paley theory. 
+MTH624 
+DIFFERENTIABLE 
+MANIFOLDS AND 
+3-0-0-0-9 
+Differentiable manifolds; Tangent space. Vector fields; 
+Frobenius theorem; Relation between Lie subalgebras & Lie
+
+[Page 35]
+LIE GROUPS 
+subgroups; Cartans theorem on closed subgroups; One 
+parameter 
+subgroups, 
+Exponential 
+maps; 
+Adjoint 
+representation; Homogeneous spaces; Compact Lie groups; 
+Symmetric spaces. 
+MTH627 
+APPLIED 
+HARMONIC 
+ANALYSIS 
+3-0-0-0-9 
+Fourier Analysis: A review, Convolutions, Multipliers and 
+Filters, Poisson Summation Formula, Shannon Sampling 
+Discrete Fourier Transform, Fast Fourier Transform, 
+Discrete Wavelets, Continuous Wavelets, Uncertainty 
+Principles, Radar Ambiguity, Phase Retrieval, Random 
+Transform, Basic Properties, Convolution and Inversion, 
+Computerized Tomography 
+MTH628 
+TOPICS IN 
+TOPOLOGY 
+3-0-0-0-9 
+Classification of 2-dimensional surfaces; Fundamental 
+group; Knots and covering spaces; Braids and links; 
+Simplicial homology groups and applications; Degree and 
+Lefschetz Number; Borsuk Ulam Theorem; Lefschetz 
+FixedPoint Theorem. 
+MTH631 
+APPROXIMATION 
+THEORY 
+3-0-0-0-9 
+Best 
+approximation 
+in 
+normed 
+spaces. 
+Tchebycheff 
+systems. Tchebycheff Weierstrass Jackson Bernstein 
+Zygmund Nikolaev etc. theorems. Fourier series, Splines, 
+Convolutions, 
+Linear 
+positive, 
+Variation 
+diminishing, 
+Simultaneous etc. approximations. Direct inverse saturation 
+theorems. Applications. 
+MTH632 
+SPECTRAL 
+THEORY FOR 
+SELF-ADJOINT 
+OPERATORS 
+3-0-0-0-9 
+Unbounded 
+Operators, 
+Matrix 
+representation, 
+Self-
+adjointness 
+Criterion, 
+Quadratic 
+Forms, 
+Differential 
+Operators, Self-adjoint Extensions, Functional Calculus, 
+Spectra of Self-adjoint Operators, Semianalytic vectors, 
+Theorems 
+of 
+Nelson 
+and 
+Nussbaum, 
+States 
+and 
+Observables, 
+Superselection 
+Rules, 
+Position 
+and 
+Momentum, 
+An 
+Uncertainty 
+Principle 
+of 
+Bargmann, 
+Canonical 
+Commutation 
+Relations, 
+Schrodinger 
+representations, Schrodinger Operators, Selfadjointness, A 
+Theorem of Kato, Spectral Theory for Schrodinger 
+Operators, Discrete Spectrum, Essential Spectrum 
+Course Reference: 1. N. Akhiezer, I. Glazman, Theory of 
+Linear Operators in Hilbert Space II, Dover, 1961; 2. J. 
+Blank, P. Exner, M. Havlivcek, Hilbert Space Operators in 
+Quantum Physics, Springer, 2008; 3. T. Kato, Perturbation 
+Theory, Springer, 1976; 4. M. Miklavcic, Applied Functional 
+Analysis and Partial Differential Equations, World Scientific, 
+1998; 5. M. Reed and B. Simon, Methods of Modern 
+Mathematical Physics II, Academic Press, 1975. 
+MTH633 
+INTRODUCTION 
+TO HYPERBOLIC 
+GEOMETRY 
+3-0-0-0-9 
+Models of Hyperbolic Space: Upper Half Space Model & 
+Disc Model; Isometries of Hyperbolic Space; Geodesics; 
+Slimness of Triangles and Exponential Divergence of 
+Geodesics in Hyperbolic Space; Isoperimetric Inequalities in 
+Euclidean & Hyperbolic Space; Boundary of Hyperbolic 
+Space; Review of Covering Spaces, Local Isometries and 
+Fundamental groups; Properly Discontinuous Group actions; 
+Fundamental Domains; Hyperbolic Surfaces 
+MTH634 
+BASES IN 
+LOCALLY CONVEX 
+SPACES AND 
+KOETHE 
+3-0-0-0-9 
+Preliminaries, Elements of basis theory, Types of bases, 
+Summability (summationof infinite series), Koethe sequence 
+spaces, Bases in OTVS, Isomorphism theorems.
+
+[Page 36]
+SEQUENCE 
+SPACES 
+MTH635 
+AN 
+INTRODUCTION 
+TO OPERATOR 
+THEORY 
+3-0-0-0-9 
+Introduction to Banach algebras: Gelfand Transform, 
+commutative Banach algebras, Gelfand-Naimark Theorem, 
+Spectral Theorem for normal operators and its applications 
+to operators on a Hilbert space. The theory of Fredholm 
+operators: spectral theory of compact operators (Fredholm 
+Alternative). Operator matrices: Invariant and Reducing 
+subspaces, the theory of ideals of compact operators (if time 
+permits). 
+MTH636 
+GAME THEORY 
+3-0-0-0-9 
+Introduction: Examples of games, History of Game Theory, 
+Intuitive definition of Game Theory; Normal form Games: 
+Definition, Nash equilibrium, Notion of mixed strategies, 
+Existence of Nash equilibrium in mixed strategies; Matrix 
+Games: Two-player games, Zero-sum games, Min-max 
+theorem, Non-zero sum games, Linear programming 
+approach, Combinatorial Games: Definition, Examples, 
+Zermelo’s Theorem, Extensive form Games Notion of 
+strategies (pure, mixed, and behavioural), Subgame perfect 
+Nash equilibrium, Perfect Bayesian equilibrium, Sequential 
+equilibrium; 
+Other 
+notions 
+of 
+Equilibrium: 
+Iterative 
+elimination of dominated strategies, Perfect equilibrium, 
+Proper equilibrium, Strictly perfect equilibrium, Correlated 
+equilibrium, A characterization of Nash equilibrium; Games 
+under incomplete information: Definition, Static game under 
+incomplete 
+information, 
+Bayesian 
+Nash 
+equilibrium, 
+Signalling games, Auction; Repeated Games: Definition, 
+subgame 
+perfect 
+Nash 
+equilibrium, 
+Folk 
+Theorems, 
+Advanced analysis of a class of Games: Cournot, Bertrand, 
+Stackelberg, Sequential bargaining 
+MTH637 
+TOPICS IN 
+OPERATOR 
+THEORY AND 
+HARMONIC 
+ANALYSIS 
+3-0-0-0-9 
+Lp, Rn, Riesz Interpolation Theorem, Hilbert Transform, 
+Hardy-Littlewood Maximal function, 
+ and BMO, 
+Distributions, Important example of distributions, Calderon-
+Zygmund Distributions. 
+MTH638 
+ABSTRACT 
+HARMONIC 
+ANALYSIS 
+3-0-0-0-9 
+Banach Algebras and Spectral theory, Locally compact 
+groups, Basic representation theory, Analysis on Locally 
+compact abelian group, Analysis on compact groups, 
+Group 
+-algebra and structure of dual space. 
+MTH639 
+LOCALLY CONVEX 
+SPACES 
+3-0-0-0-9 
+Topological linear spaces, Equicontinuity, Function spaces, 
+Convexity & convex topological spaces, Hahn Banach 
+theorem, 
+Barrelled 
+spaces, 
+Principle 
+of 
+uniform 
+boundedness, Bornological spaces, Duality theory (Mackey 
+Arens Theorem, Mackey Topology, S-topology, Polarity). 
+MTH640 
+SEVERAL 
+COMPLEX 
+VARIABLES 
+3-0-0-0-9 
+Geometry of 
+: Reinhardt Domains: Definition and 
+Examples, Absolute spaces. Elementary Theory of SCV: 
+Holomorphic Functions: Definition and Examples, C-R 
+Equations and its Applications. Power Series: Definition and 
+Examples, Abel's Lemma and its Consequences, Complete 
+Reinhardt Domains: Definition and Examples, Cauchy's
+
+[Page 37]
+Integral Formula for Poly-discs and its Consequences. 
+Some 
+New 
+Phenomena 
+in 
+SCV: 
+Biholomorphic 
+Inequivalence of Unit Polydisc and Unit Ball, Zeroes of 
+holomorphic functions are never isolated, Logarithmically 
+Convex and Complete Domains: Definition and Examples, 
+Hartogs' Phenomenon: Continuation on Reinhardt Domains. 
+Singularities of Holomorphic Functions: Analytic Sets: 
+Definition and Examples, Riemann Removable Singularity 
+Theorems and its Applications, Hartogs' Kugelsatz, Zero Set 
+of a Holomorphic Function: Topological Properties. Local 
+Properties 
+of 
+Holomorphic 
+Functions: 
+Weierstrass 
+Preparation Theorem, Weierstrass Division Theorem, Ring 
+of Germs of Holomorphic Functions is Noetherian and an 
+UFD, Local Parametrization for the Zero Set of a 
+Holomorphic Function. Domains of Holomorphy: Domains of 
+Holomorphy: Definition and Examples, Various Notions of 
+Convexity: Definition and Examples, Logarithmically Convex 
+Complete Domains as Domain of Convergence, Theorem of 
+Cartan and Thullen. 
+MTH641 
+INTRODUCTION 
+TO LIE ALGEBRAS 
+AND 
+REPRESENTATION 
+THEORY 
+3-0-0-0-9 
+Definitions and first examples. Classical Lie algebras. Ideals 
+and homomorphisms. Niporent Lie algegras. Engel’s 
+theorem. Solvable Lie algebras. Lie’s theorem. Jordan 
+Chevalley Decomposition. Radical and semisimplicity. The 
+Killing form and Cartan’s criterion. THe structure of 
+semisimple Lie algebras. Complete reducibility and Weyls 
+theorem. Representation theory of the Lie algebra sl(2). 
+Total sub algebras and root systems. Integrality properties. 
+Simple Lie algebras and irreducible root systems. 
+MTH642 
+TOPICS IN MODEL 
+THEORY 
+3-0-0-0-9 
+The place of model theory in pure mathematics, Structures 
+and homomorphisms: syntax, structures, homomorphism, 
+isomorphism, 
+substructure, 
+embedding, 
+examples. 
+Semantics: evaluation of terms, satisfaction of formulas, 
+elementary embedding, theory, elementary equivalence, 
+examples. Compactness: Ultrafilters, product structures, 
+ultraproducts, 
+compactness 
+theorem, 
+applications, 
+Lowenheim-Skolem theorem. Theories: dense linear orders 
+(DLO), algebraically closed fields (ACF),real closed fields 
+(RCF). Categoricity: definition, Vaught’s test, back-and-forth 
+method, Ryll-Nardzewski theorem, Morely’s categoricity 
+theorem. 
+Quantifier 
+elimination: 
+explanation 
+and 
+characterization, Chevalley’s theorem, Tarski-Seidenberg 
+theorem. Types: definition, complete types, Stone spaces, 
+omitting types theorem. Grothendieck ring: definable 
+bijections, Grothendieck group of a monoid,Grothendieck 
+ring of a structure, examples. Miscellaneous topics: Fraisse 
+limits, imaginaries, geometries, model-completeness. 
+MTH643 
+SPATIAL 
+STATISTICS 
+3-1-0-0-11 
+Examples of different types of spatial data and possible 
+scientific questions: point-referenced data, areal data, point-
+pattern data; Review of multivariate statistical inference, 
+Gaussian processes, Review of linear models, Review of 
+matrix 
+algebra; 
+Spatial 
+covariance 
+and 
+variogram, 
+Estimation of variogram, Variogram model fitting, Spectral 
+representation; Spatial regression and ordinary kriging, 
+Robust kriging, Universal kriging, Simulation of spatial
+
+[Page 38]
+processes, 
+R 
+packages 
+for 
+data 
+visualization 
+and 
+geostatistical modeling and applications of geostatistics; 
+Some 
+examples 
+of 
+areal 
+datasets, 
+conditional 
+autoregressive 
+models, 
+simultaneous 
+autoregressive 
+models, 
+Markov 
+random 
+fields; 
+Gaussian 
+maximum 
+likelihood estimation and properties of the estimators; Point 
+pattern data examples, Point referenced spatial data 
+modeling: Inhomogeneous Poisson process, Cox process, 
+Markov point process, Marked-Markov point process; 
+Multivariate 
+spatial 
+and 
+spatiotemporal 
+modeling, 
+Hierarchical spatial models for continuous and discrete 
+responses, Remote sensing data analysis, Bayesian spatial 
+models, Copula-based models, Large spatial data modeling, 
+Nonstationary spatial modeling 
+MTH644 
+COMPLEX 
+FUNCTION 
+THEORY 
+3-0-0-0-9 
+Subharmonic Functions: Subharmonic Functions: Definition 
+and Examples, Maximum Principles, Montel's Theorem for 
+Harmonic 
+Functions, 
+Harnack's 
+Inequality, 
+Montel's 
+Theorem for Positive Harmonic Functions. Dirichlet Problem: 
+Dirichlet Problem for Bounded Domains, Dirichlet Problem 
+for Disc and Punctured Disc, Peron Method, Harmonicity of 
+the Peron Solution, Sub harmonic Barrier, Riemann 
+Mapping Theorem, Uniformization Theorem for Riemann 
+Sphere. Green's Functions: Green's Formulae, Green's 
+Function for Unit Disc and Complex Plane, Harmonic 
+Measure, Green's unction for Domains with Analytic 
+Boundary, Green's Function for General Domains. Riemann 
+Surfaces: Abstract Riemann Surfaces: Definition and 
+Examples, 
+Finite 
+Bordered 
+Surfaces, 
+Analytic 
+and 
+Meromorphic 
+Functions 
+on 
+Surfaces: 
+Definition 
+and 
+Examples, Harmonic Functions on Surfaces, Maximum 
+Principles. The Uniformization Theorem: Green's Function of 
+a Surface, Existence of Green's Function for Finite Bordered 
+Surfaces, Symmetry of Green's Function, Bipolar Green's 
+Function, The Uniformization Theorem, Covering Surfaces. 
+MTH648 
+DIFFERENTIAL 
+GEOMETRY 
+3-0-0-0-9 
+Differentiable manifold, Tangent Spaces, Submanifolds, 
+Immersions, Embeddings, Vector Fields, Riemannian Metric, 
+Examples: Euclidean Metric & Hyperbolic Metric, Isometries 
+and Local Isometries, Isometries of upper half plane. Affine 
+connection, Covariant Differentiation, Parallel Vector Field, 
+Parallel 
+Transport, 
+Levi-Civita 
+Connection, 
+Christoffel 
+Symbols. Geodesics, Geodesics Flow, Exponential Map, 
+Gauss 
+Lemma, 
+Normal 
+Neighborhoods, 
+Minimizing 
+Properties 
+of 
+Geodesics, 
+Convex 
+Neighborhoods, 
+Geodesics inhyperbolic plane. Curvature, Bianchi Identity, 
+Sectional 
+curvature. 
+Jacobi 
+Field, 
+Jacobi 
+Equation, 
+Conjugate Points. Geodesic complete manifold, Hopf-Rinow 
+theorem, Cartan Hadamard Theorem. 
+MTH649 
+ALGEBRAIC 
+TOPOLOGY 
+3-0-0-0-9 
+Recalling definition of homotopy and fundamental group. 
+Van Kampen theorem.Free groups and Free product of 
+groups. Fundamental groups of sphere, Wedgeof circles. 
+CW-complexes definition and examples. Statement of 
+classification 
+of 
+compact 
+surfaces 
+and 
+polygonal 
+representation. Computation of fundamental groups of 
+compact surfaces. Homotopy extension property of a CW
+
+[Page 39]
+pair. Proof of the fact that if (X, A) has HEP and A 
+contractible, 
+then 
+ is 
+a 
+homotopy 
+equivalence. Examples from Hatcher. Covering spaces, 
+Path lifting, homotopy lifting, general lifting. Examples of 
+covering of wedge of circles, circles. Universal cover and 
+existence of covering, classification of covering by 
+subgroups 
+of 
+fundamental 
+groups. 
+Deck 
+transformation,action of fundamental group on Universal 
+cover, normal covering. Applications: Subgroup of free 
+group is free, Cayley complexes. Homology: Singular 
+homology; Theory (long exact, homotopy invariance and 
+statement of excision, Mayer vietoris and computation for 
+sphere, statement of Universal Coefficients Theorem) 
+Applications: Degree of sphere and applications, homology 
+and fundamental groups. CW homology, some computations 
+of homology of projective spaces and surfaces, Euler 
+characteristic and cells/ Betti numbers. 
+MTH651 
+INTRODUCTION 
+TO TORIC 
+VARIETIES 
+3-0-0-0-9 
+The course includes a review of basic results from algebraic 
+geometric objects, such as algebraic varieties and their 
+properties; Motivation and definition of a toric variety and 
+some basic examples; Affine toric varieties and their explicit 
+constructions; Rational convex polyhedral cones; Affine toric 
+varieties derived from cones; Points on affine toric varieties; 
+Normality and smoothness of toric varieties; Projective toric 
+varieties and examples, Projective toric varieties from 
+monomial maps; Convex lattice polytopes; Very ample and 
+normal polytopes,; Normal fans; Projective toric varieties 
+from polytopes; Gluing affine varieties and abstract toric 
+varieties; Toric varieties from fans; Limits of one-parameter 
+subgroups; Orbit-cone correspondence; Orbit closures as 
+toric varieties; Toric morphisms; Background on divisors; 
+Weil divisors on toric varieties; Cartier divisors on toric 
+varieties; Line bundles on toric varieties; Homogeneous 
+coordinates on toric varieties; the construction of a toric 
+variety as a Geometric Invariant Theory (GIT) quotient. 
+MTH652 
+ADVANCED 
+CALCULUS 
+3-0-0-0-9 
+Least upper bound principle; limits, monotone sequences; 
+subsequences, Bolzano-Weierstrass, Cauchy sequences, 
+completeness; 
+countable 
+and 
+uncountable 
+sets; 
+convergence 
+of 
+series, 
+conditional 
+convergence; 
+equivalence of completeness of 
+; limsup, liminf, 
+convergent series; absolute and conditional convergent, 
+Riemann Rearrangement Theorem; convergence in 
+ ; 
+open sets and closed sets on 
+ Cantor Intersection 
+Theorem, Cantor set; limits and continuity; discontinuous 
+functions; properties of continuous functions; uniform 
+continuity; monotone functions; differentiation, Mean Value 
+Theorem; Riemann integration; Fundamental Theorem of 
+Calculus; sequence and series of functions, point wise 
+convergence; uniform convergence, Weierstrass M-test,
+
+[Page 40]
+Dedekind test; uniform convergence and continuity; term by 
+term integration and differentiation; power series; Taylor 
+series, 
+Weierstrass 
+Approximation 
+Theorem; 
+analytic 
+functions; 
+Fourier 
+series; 
+differentiation 
+of 
+ partial derivatives; chain rule; 
+higher derivatives, local extrema; Taylor expansion; multiple 
+integrals, determinant and volumes, Jacobians. 
+MTH653 
+INTEGRAL 
+EQUATIONS 
+3-0-0-0-9 
+Volterra and Fredholm integral equations, Resolvent 
+Kernels. Operator equations, Fredholm theory, Hilbert 
+Schmidt theory. Nonlinear integral equations, Singular 
+integral equations. 
+MTH654 
+A COURSE IN 
+OPERATOR 
+THEORY 
+3-0-0-0-9 
+Spectrum, analytic functional calculus, square-root lemma, 
+polar decomposition; Spectral theorem, Sturm-Liouville 
+Theorem, Riesz-Schauder theorem, Fredholm Alternative; 
+Ringrose-West decomposition, Volterra operators, singular 
+values and canonical decompostion;Trace-class operators, 
+trace ideals, Hilbert-Schmidt operators, Schur-Lalesco-Weyl 
+inequality, Weyl’s invariance theorem; The Hausdorff 
+Moment Problem, Hausdorff Moment Theorem, Stieltjes and 
+Hamburger moment problems, sufficient condition for 
+determinacy; Orthogonal polynomials on the real line, Jacobi 
+matrices, Favard’s theorem, Bochner-Brenke Theorem 
+MTH656 
+SOBOLEV SPACES 
+AND 
+APPLICATIONS 
+3-0-0-0-9 
+Elements of operator theory and Hilbert spaces; Introduction 
+to the theory of distributions. Sobolev Spaces: Imbedding 
+and 
+compactness 
+theorems, 
+Fractional 
+spaces 
+and 
+elements of trace theory. Applications to elliptic equations or 
+parabolic equations. 
+MTH657 
+GRAPH THEORY 
+3-0-0-0-9 
+Basic definitions. Blocks. Ramsey Numbers. Degree 
+sequences. Connectivity.Eulerian and Hamiltonian Graphs. 
+Planar graphs and 5 colour theorem. Chromatic numbers. 
+Enumeration. MaxFlow MinCut Theorem. Groups and 
+graphs. Matrices and graphs. Matchings and Halls Marriage 
+Theorem. Eigen values of graphs. 
+MTH658 
+NONLINEAR 
+DYNAMICAL 
+SYSTEMS 
+3-0-0-0-9 
+Picard’s theorem, Boundedness of solutions, Omega limit 
+points of bounded trajectories. LaSalle’s invariance principle; 
+Stability via Lyapanov’s indirect method,Converse Lyapanov 
+functions, Sublevel sets of Lyapanov functions, Stability 
+viaLyapanov’s 
+direct 
+method, 
+Converse 
+Lyapanov’s 
+theorems, Brokett’s theorem,Applications to control system; 
+Stable and unstable manifolds of equilibria, Stablemanifold 
+theorem, 
+HartmanGrobman 
+theorem, 
+Examples 
+and 
+applications,Center manifold theorem, Center manifold 
+theorem, Normal form theory,Examples and applications to 
+nonlinear systems and control; Poincare map, andstability 
+theorems for periodic orbits; Elementary Bifurcation theory. 
+MTH659 
+NONLINEAR 
+ANALYSIS AND ITS 
+APPLLICATIONS 
+TO PDE 
+3-0-0-0-9 
+Review of topic in functional analysis and Soblev space 
+mapping between Banach spaces degree theory, Bifurcation 
+theory. Variation Method: Constrained critical points, 
+Deformation and Palais condition, Linking Theorems, 
+Mountain Pass theorem and Ekeland Variation principal 
+MTH661 
+INTRODUCTION 
+3-0-0-0-9 
+Categorical preliminaries: category, morphisms, functor,
+
+[Page 41]
+TO SHEAVES AND 
+TOPOS THEORY 
+natural transformation, universal constructions, adjoint 
+functors, 
+limits 
+and 
+colimits, 
+exponentials. 
+Functor 
+categories: limits and colimits, subobject classifiers. Lattices 
+and algebras: lattices, distributive lattices, implication, 
+negation,Boolean algebra, Heyting algebra, subobject 
+lattices in functor categories. Logic: interpretation of logical 
+connectives in functor categories, quantifiers as adjoints. 
+Sheaves on topological spaces: definition of sheaves, 
+subsheaves, sieves,germ, stalk, bundles, cross-section, 
+sheaves with algebraic structure, inverse image sheaves. 
+Grothendieck topologies: generalized neighbourhood, sites, 
+the Zariskisite, sheaves on a site, Grothendieck topos, 
+associated sheaf functor. Properties of Grothendieck 
+toposes: limits, colimits, exponentials, subobject classifier. 
+Characterization of Grothendieck toposes: Elementary 
+toposes, Giraud’s theorem. 
+ 
+MTH662 
+CHEVALLEY 
+GROUPS AND 
+ALGEBRAIC 
+GROUPS 
+3-0-0-0-9 
+Theory of bilinear forms on vector spaces over arbitrary 
+fields, isometry groups, Lie structure on the tangent spaces 
+of isometry groups, revision of Lie algebras, semisimple Lie 
+algebras, Chevalley basis, Cartan-Weyl classification of 
+semisimple Lie algebras, universal enveloping algebras, 
+PBW, integral structures in Lie-algebras, construction of 
+Chevalley groups, commutation relations, classification of 
+Chevalley groups, automorphisms of Chevalley groups, 
+introduction to elementary theory of schemes, Chevalley 
+groups as algebraic groups, Borel subgroups, Tori, Root 
+datum and classification of semisimple algebraic groups 
+over algebraically closed fields. 
+MTH663 
+ANALYTICAL 
+TECHNIQUES FOR 
+PDE 
+3-0-0-0-9 
+Introduction to Semigroups, C0-semigroups, Hille-Yosida 
+result, Heat equation, Wave equation, Inhomogeneous 
+equations, Techniques for nonlinear problems, Palais-Smale 
+Condition, Mountain Pass theorem, Hamilton Jacobi 
+equations, Viscosity Solutions. 
+MTH664 
+TRIBOLOGY 
+3-0-0-0-9 
+The fundamentals of lubrication, friction & wear. Boundary 
+lubrication, Hydrodynamic lubrication, Elasto hydrodynamic 
+lubrication. Compressibility and thermal effects, Non- 
+Newtonian 
+lubrication, 
+Roughness 
+effects, 
+Magneto 
+hydrodynamic effects, Application to engineering & human 
+systems. 
+MTH665 
+ASYMPTOTIC 
+STATISTICS 
+3-0-0-0-9 
+Introduction Approximate Statistical Procedures; Asymptotic 
+Optimality Theory Review of Stochastic Convergence Basic 
+Theory, Stochastic and 0 Symbols, Characteristic Functions;
+
+[Page 42]
+AlmostSure Representations, Convergence of Moments, 
+Convergence Determining Classes; Law of the Iterated 
+Logarithm, Lindeberg Feller Theorem, Convergence in Total 
+Variation Delta Method Basic Result, Variance Stabilizing 
+Transformations; Higher Order Expansions, Uniform Delta 
+Method; Moments M and Z Estimators Introduction; 
+Consistency; Asymptotic Normality; Estimated Parameters, 
+Maximum Likelihood Estimators, Classical Conditions, 
+OneStep Estimators; Rates of Convergence; Argmax 
+Theorem W. Contiguity Likelihood Ratios; Contiguity. Local 
+Asymptotic Normality Introduction, Expanding the Likelihood 
+Convergence to a Normal Experiment, Maximum Likelihood; 
+Limit Distributions under Alternatives; Local Asymptotic 
+Normality. Stochastic Convergence in Metric Spaces Metric 
+and Normed Spaces; Basic Properties; Bounded Stochastic 
+Processes. Empirical Processes Empirical Distribution 
+Functions; 
+Empirical 
+Distributions; 
+Goodness 
+of 
+Fit 
+Statistics; Random Functions; Changing Classes; Maximal 
+Inequalities Functional Delta Method von Mises Calculus; 
+Hadamard 
+Differentiable 
+Functions; 
+Some 
+Examples 
+Bootstrap 
+Introduction, 
+Consistency; 
+Higher 
+Order 
+Correctness W. 
+MTH666 
+CATEGORY 
+THEORY 
+3-0-0-0-9 
+Structure vs. property: monoids, groups, preorders, partial 
+orders; 
+structure 
+preserving 
+maps: 
+homomorphisms, 
+continuous maps; category; homsets and duality; functor 
+covariant and contravariant; natural transformations.; Small, 
+locally small and large categories; set theory vs category 
+theory; Russell’s paradox and the category of all categories; 
+skeletons and axiom of choice.; Isomorphism; groupoid; 
+monomorphism and epimorphism; full, faithful, essentially 
+surjective functors, equivalence of categories; building even 
+morecategories from the old ones: slice categories and local 
+property, categories, functor categories, congruence and 
+quotients.; Representable functors; Yoneda lemma and 
+Yoneda embedding; separating anddetecting families; 
+injective 
+and 
+projective 
+objects; 
+representables 
+are 
+projective.; Adjunctions: definition and examples; initial and 
+terminal objects; relation to comma categories; composition 
+of adjoint functors; units, counits and characterization of 
+adjoint functors; equivalence gives adjoint functors.; 
+Categorical properties: initial and terminal objects, products, 
+coproducts; diagrams and (co)cones; (co)limits of a given 
+shape; 
+(co)equalizers, 
+regularmono(epi) 
+morphisms; 
+pullbacks 
+and 
+pushouts; 
+direct 
+and 
+inverse 
+limits.; 
+Constructing all (co)limits from some of them; (co)complete 
+categories; absolute (co)limits; preservation, creation and 
+reflection of (co)limits; right adjoints preserve limits. General 
+adjoint-functor theorem; well-powered categories; special 
+adjointfunctor theorem; examples. Definition of monads; 
+monads arising from adjunctions; algebras for amonad; 
+Eilenberg-Moore category; Kleisli category; Kleisli is initial 
+while Eilenberg-Moore is terminal. Monadic functors; Beck’s 
+monadicity theorem; Crude monadicity theorem; examples. 
+Special categories and applications: toposes, additive and
+
+[Page 43]
+abelian categories, symmetric monoidal categories, model 
+categories. 
+MTH667 
+INTRODUCTION 
+TO 
+ALGEBRAIC 
+GEOMETRY 
+AND ALGEBRAIC 
+GROUPS 
+3-0-0-0-9 
+Background from 
+commutative 
+algebra: 
+Local 
+rings, 
+localizations, primary decomposition, Integral extensions, 
+integral closures. Algebraic geometry: Affine algebraic sets, 
+Hilbert Nullstellansatz, Projective algebraic sets, projective 
+Nullstellansatz, Affine varieties, structure sheaf, Prevarieties, 
+varieties, morphisms, Affine and projective algebraic sets 
+are varieties, dimension of varieties, products of varieties, 
+images and fibers of morphisms, Tangent spaces, 
+differential of a morphism, Smooth morphisms, smooth 
+varieties, complete varieties. Algebraic Groups: Basic 
+definitions and examples, Lie algebra of an algebraic group, 
+Linear representations of algebraic groups, Affine algebraic 
+groups are linear; connected projective algebraic groups are 
+abelian varieties, rigidity of abelian varieties, quotients, 
+Homogeneous spaces, Chevalley's theorem on algebraic 
+groups (without proof). 
+MTH668 
+INTRODUCTION 
+TO ANALYTIC 
+NUMER THEORY 
+3-0-0-0-9 
+Arithmetical functions Distribution of prime numbers; 
+some elementary estimates. Characters of finite 
+abelian groups. Riemann Zeta function and Dirichlet L-
+functions. Dirichlet’s Theorem on primes in arithmetic 
+progression. Prime Number Theorem. Modular forms 
+(for SL2(Z)) and their L-functions. (If time permits) 
+Prime number theorem for arithmetic progressions, 
+exponential sums. 
+MTH669 
+ERGODIC THEORY 
+AND 
+APPLICATIONS TO 
+METRIC NUMBER 
+THEORY 
+3-0-0-0-9 
+Broadly the following topics are covered in details with 
+varieties of examples and applications to metric number 
+theory: 
+Measure preserving transformation and its examples, 
+Recurrence properties, Topological dynamics, Conditional 
+expectations, Main ergodic theorems, Subadditive ergodic 
+theorem, Ergodicity and its examples, Spectral approach to 
+ergodicity, various applications of Birkhoff’s individual 
+ergodic theorem, Mixing and its examples, Equidistribution, 
+Unique ergodicity, Weyl’s theorem on equidistribution of 
+polynomials, Ergodic measures are precisely the extreme 
+points, Existence and uniqueness of conditional probability 
+measures, Ergodic decomposition. 
+If time permits, we may discuss several connections 
+between Diophantine approximation and diagonal flows on 
+the space of lattices and some recent developments. 
+MTH670 
+POTENTIAL 
+THEORY IN THE 
+COMPLEX PLANE 
+3-0-0-0-9 
+Harmonic functions and their basic properties; The Dirichlet 
+problem on the unit disc; Positive Harmonic Functions, 
+Harnack’s inequality and Harnack distance; Subharmonic 
+functions; Maximum principle, Phragmen-Lindelof principle,
+
+[Page 44]
+Liouville’s Theorem; Criterion for subharmonicity and 
+Integrability; Convexity property of subharmonic functions 
+and smoothing; Potentials and energy corresponding to it; 
+Existence of equilibrium measure; Upper semicontinuous 
+regularization, the Brelot-Cartan theorem; Minus infinity sets 
+and removable singularities, the Rado-Stout theorem; 
+Generalized Laplacians; Solution of the Dirichlet problem; 
+Criterion 
+for 
+regularity; 
+Harmonic 
+measure; 
+Green’s 
+functions and its properties and Riemann mapping theorem; 
+The Poisson Jensen formula for subharmonic functions and 
+its applications; Introduction to Capacity and computing 
+capacity 
+MTH671 
+INTRODUCTION 
+TO ARITHMETIC 
+GEOMETRY 
+3-0-0-0-9 
+padic 
+numbers: 
+nonarchimedean 
+absolute 
+values, 
+valuations, Ostrowski theorem, Cauchy sequences, padic 
+integers, completions, Hensels lemma, structure of Z and Q. 
+Quadratic forms: definition of quadratic forms and bilinear 
+forms, equivalence of quadratic forms, local global principle 
+(HasseMinkowski theorem), rational points on conics. [8 
+lectures]Infinite Galois Theory : Profinite groups and profinite 
+topology, Infinite Ga lois extensions and Galois group as 
+profinite groups, absolute Galois groups, the fundamental 
+theorem of Galois theory (for infinite extensions), absolute 
+Galois group of finite fields, Frobenius automorphism, 
+absolute Galois group of Q and Qp.Geometry of curves over 
+Q: Affine Varieties and projective varieties, curvesand 
+function fields, divisors on curves, the RiemannRoch 
+theorem (state ment without proof ), Elliptic curves over Q, 
+Group law on elliptic curves, Weierstrass equations, action 
+of the absolute Galois group of Q over Q points of elliptic 
+curves, Weak MordellWeil Theorem, MordellWeil Theorem, 
+Faltings Theorem 
+MTH672 
+HARMONIC 
+ANALYSIS ON 
+POINCARE DISC 
+3-0-0-0-9 
+Pre-requisite(s): MTH 301, MTH 404/ Instructor's Consent 
+Harmonic 
+analysis 
+on 
+: 
+Fourier 
+Transform, 
+basic 
+properties, inversion formula, Plancherel formula, Paley-
+Wiener theorem, Young's inequality. Tangent space of 
+, 
+inner product on the tangent spaces of 
+, 
+ as a 
+Riemannian symmetric space, geodesics on 
+, horocycles. 
+Iwasawa 
+decomposition, 
+Cartan 
+decompostion 
+of 
+ , Haar measures in these decompositions, 
+unimodular group. Laplace-Beltrami operator on 
+ and its 
+eigenfunctions, the Helgason-Fourier transform, Radon 
+transform, 
+elementary 
+spherical 
+functions, 
+spherical 
+transform, Abel transform, assymptotics of elementary 
+spherical functions. Inversion and Plancherel formula for 
+Helgason-Fourier 
+transform, 
+Paley-Wiener 
+theorem, 
+Helgason-Johnson's theorem, Kunze-Stein phenomena.
+
+[Page 45]
+MTH673 
+ROBUST 
+STATISTICAL 
+METHODS 
+3-0-0-0-9 
+Pre-requisite: MSO201 / Instructor's consent 
+Brief review of simple and multiple linear regression along 
+with the outlier detection methods. Basic idea of non-
+parametric regression. Measures of robustness in different 
+statistical problems (e.g., the influence function and the 
+breakdown point). Least squares and least absolute 
+deviations in regression model; Least median squares and 
+least trimmed squares estimators; Different statistical 
+properties and the computational algorithms of the robust 
+estimators of the location and the scale parameters (for the 
+univariate as well as the multivariate data); Robust measure 
+of association and robust testing of hypothesis problems. 
+Data-depth and the robust estimators based on the data-
+depth; Multivariate quantiles and its properties along with the 
+computational algorithm; Possible extension of the depth-
+based and the quantile-based estimators for the functional 
+data. Some applications of robust estimators (e.g., robust 
+classification and cluster analysis), Robust model selection 
+problems. 
+ 
+MTH674 
+VARIATIONAL 
+METHODS IN PDE 
+3-0-0-0-9 
+Existence of Minimizer, Perron's Method variational form, 
+Concentration-Compactness, 
+Ekeland's 
+Variational 
+Principle, Palais-Smale Condition and Mountain Pass 
+theorem, Application to semilinear equation with symmetry, 
+Krasnoselskii 
+Genus, 
+Ljusternik-Schinelman 
+Category, 
+Multiple critical points of even functional on symmetric 
+manifolds, 
+Pohozaev 
+Non-Existence 
+Result, 
+Brezis-
+Nirenberg result, Nehari Manifold and Fibering Method, 
+Alexandrov's Moving Plane and Berestycki Sliding Method. 
+MTH675 
+GEOMETRY OF 
+DIFFERENTIAL 
+FORMS 
+3-0-0-0-9 
+Pre-requisite(s): MTH 201, MTH 304, MTH 305/ Instructor's 
+consent 
+Definition of manifolds and the fundamental ideas connected 
+with 
+them: 
+Local 
+coordinates, topological 
+manifolds, 
+differentiable manifolds, tangent spaces, vector fields, 
+integral curves of vector fields and one-parameter group of 
+local transformations, define manifold with boundary and 
+orientation of a manifold. Differential forms on differentiable 
+manifolds: Differential forms on Euclidean n-spaces and on 
+a general manifold, the exterior algebra, Interior product and 
+Lie derivative, The Cartan formula and properties of Lie 
+derivatives. Frobenius theorem. The de Rham Theorem: 
+Homology of manifolds, Integral of differential forms and the 
+Stokes theorem. de Rham cohomology, The de Rham 
+theorem. Applications of the de Rham theorem; Hopf 
+invariant, the Massey product, cohomology of compact Lie
+
+[Page 46]
+groups, Mapping degree, Integral expression of the linking 
+number by Gauss. Differential forms on Riemannian 
+manifolds: The *- operator of Hodge, Laplacian and 
+harmonic forms. The Hodge theorem and the Hodge 
+decomposition of differential forms. Applications of the 
+Hodge theorem. 
+ 
+MTH676 
+ECONOMETRICS 
+3-0-0-0-9 
+Brief review of topics in Multiple Linear Regression Analysis; 
+Econometric 
+tests 
+on 
+Heteroscedasticity 
+and 
+Autocorrelation; Restricted Regression; Errors in Variables; 
+Functional 
+Form 
+and 
+Structural 
+Change; 
+Stochastic 
+Regressors; Instrumental Variable (IV) Estimation; Large 
+Sample Properties of Least Square and IV estimators; Panel 
+Data Models; Systems of Regression Equations -Seemingly 
+Unrelated Regression Equations (SURE) & Multivariate 
+Multiple Linear Regression; Simultaneous Equation Models - 
+Structural and Reduced forms, Rank and Order conditions 
+for Identifiability, Indirect Least Squares, 2-stage Least 
+Squares and Limited Information Maximum Likelihood 
+methods of estimation, k-class estimators and Full 
+Information Maximum Likelihood Estimation; Models with 
+lagged variables - Autoregressive Distributed Lag (ARDL) 
+Models and Vector Autoregressive (VAR) Models; Topics on 
+Econometric Time Series Models - Autoregressive and 
+Generalized Autoregressive Conditionally Heteroscedastic 
+(ARCH & GARCH) Models, Unit Root, Co-integration and 
+Granger Causality. 
+MTH678 
+TECHNIQUES IN 
+COMBINATORICS 
+3-0-0-0-9 
+Techniques in Combinatorics Pre-requisites: students are 
+expected to have a very good background in Analysis-I 
+(MTH301A), 
+Algebra-I 
+(MTH201A), 
+Linear 
+Algebra 
+(MTH204A), Probability and Statistics as well as in Set 
+theory and Logic (MTH302A) or Set theory and Discrete 
+Mathematics (MTH202A). Some knowledge of the basics of 
+graph theory and Fourier analysis is desirable but not 
+mandatory. Aims of the course: Combinatorics is an area of 
+mathematics that, at elementary level, deals with problems 
+in counting/enumeration, especially in the realm of finite 
+sets. However, the supply of problems as well as the 
+methods to solve them come from a variety of domains of 
+mathematics ranging from algebra, analysis, number theory, 
+geometry, probability theory, and so on. Leon Mirsky has 
+rightly said; combinatorics is a range of linked studies which 
+have something in common and yet diverge widely in their 
+objectives, their methods, and the degree of coherence they 
+have attained. This, course will introduce techniques from 
+three popular branches of combinatorics that are of areas of 
+active research currently, namely extremal combinatorics, 
+extremal graph theory and additive combinatorics over 
+dyadic groups. The emphasis will be on the techniques than
+
+[Page 47]
+the solutions of the problems. Extremal combinatorics with 
+set systems: Hall’s marriage theorem, Sperner’s lemma, 
+Lubell-Yamamato-Meshalkin 
+inequality, 
+Kruskal-Katona 
+theorem, Erdos Ko-Rado theorems [4 weeks]; 2. Extremal 
+graph theory: Mantel & rsquo’s theorem, Turan’s theorem, 
+Dirac’s 
+theorem, 
+Erdos-Stone-Simonovits 
+theorem, 
+Szemeredi & rsquo’s regularity lemma, Triangle,removal 
+lemma, Roth’s theorem for 3 term arithmetic progressions [4 
+weeks]; 3. Additive combinatorics with dyadic groups: 
+Discrete Fourier transform, Plancherel & rsquo’s theorem, 
+Bogolyubov’s lemma, Arithmetic regularity and removal 
+lemmas, 
+Coincidence 
+of 
+algebraic 
+and 
+statistical 
+independence of Bernoulli r. v s, Rudin’s inequality, Sets 
+with small sumsets: Rusza’s covering lemma, Freiman’s 
+theorem [5 weeks] 
+Course Reference: 1. 
+Bollobas. Combinatorics: set 
+systems, hypergraphs, families of vectors, and combinatorial 
+probability. Cambridge, University Press, 1986; 2. Extremal 
+graph theory. Courier Corporation, 2004; 3. Tao, Terence, 
+and Van H. Vu. Additive combinatorics Vol. 105. Cambridge 
+University Press, 2006; 
+MTH679 
+SPATIO-
+TEMPORAL 
+MODELS IN 
+MATHEMATICAL 
+BIOLOGY 
+3-0-0-0-9 
+Examples from nature and laboratory, Role of spatio-
+temporal models in biology. Linear Stability analysis: 
+Formulation, Normal modes, Application to system of one, 
+two and more variables. Bifurcation analysis: Introduction, 
+Saddle-node, Pitchfork, Transcritical, Hopf and Hysteresis 
+bifurcations. Spatial pattern formation: Reaction-diffusion 
+system, Turing instability, Pattern formation in reaction-
+diffusion 
+system. 
+Chemotaxis: 
+Introduction, 
+Modelling 
+chemotaxis, 
+Linear 
+and 
+Nonlinear 
+analysis. 
+Tumor 
+modelling: Introduction, Models of tumor growth, Moving 
+boundary 
+problems, 
+Response 
+of 
+immune 
+system. 
+Numerical simulation of Spatio-temporal model: Introduction, 
+Finite-difference techniques, Monotone methods. 
+MTH680 
+AN 
+INTRODUCTION 
+TO VON NEUMANN 
+ALGEBRAS 
+3-0-0-0-9 
+Gelfand-Naimark 
+theory, 
+Commutative 
+C*-algebras, 
+Representations of C*-algebras, The spectral theorem, Polar 
+decomposition, Compact operators, The three locally convex 
+topologies, 
+the 
+GNS 
+representation, 
+Geometry 
+of 
+projections, 
+Preduals 
+and 
+W*-algebras, 
+Group 
+von 
+Neumann algebras, Group measure space construction, 
+Crossed product algebras, vonNeumann's bicommutant 
+theorem, Bounded Borel functional calculus, The Kaplansky 
+density theorem, Normality and W*-algebras. 
+MTH681 
+STATISTICAL 
+DECISION 
+THEORY 
+3-0-0-0-9 
+Decision function, Risk function, Optimal decision rules, 
+Admissibility & completeness, The minimax theorem, The 
+complete class theorem, Sufficient statistics. Invariant 
+decision problems, Admissible & minimax invariant rules, 
+The Pitman estimates, Estimation of a distribution function. 
+MTH682 
+ORDER 
+STATISTICS 
+3-0-0-0-9 
+Basic distribution theory, Moments of order statistics 
+including recurrence relations, Bounds and approximations, 
+Estimation of parameters, Life testing, Short cut procedures,
+
+[Page 48]
+Treatment of outliers, Asymptotic theory of extremes. 
+MTH683 
+NON-PARAMETRIC 
+INFERENCE 
+3-0-0-0-9 
+Order statistics, Tests of goodness of fit, Sign & signed rank 
+tests, WaldWolfowitz, Kolmogorov Smirnov, Median & 
+MannWhitney tests, Linear ranktests for the location 
+problem & scale problem, Measures of association, 
+Asymptotic relative efficiency. 
+MTH684 
+STATISTICAL 
+SIMULATION, 
+DATA ANALYSIS 
+AND MODEL 
+BUILDING 
+3-0-0-0-9 
+Introduction to simulation & MonteCarlo studies; Generation 
+of random variables. Interactive computational & graphical 
+techniques in model building; Data basedinference methods 
+such 
+as 
+JackKnife, Bootstrap 
+and 
+cross 
+validation 
+techniques; Use of statistical packages in data analysis. 
+MTH685 
+TIME SERIES 
+ANALYSIS: 
+FORECASTING 
+AND CONTROL 
+3-0-0-0-9 
+Linear stationary processes, Auto covariance & spectral 
+density functions & moving average processes, Linear 
+nonstationary processes, Model estimation & identification, 
+Forecasting, Transfer function models, Design for discrete 
+control. 
+MTH686 
+NON-LINEAR 
+REGRESSION 
+3-0-0-0-9 
+Estimation methods, Commonly encountered problems in 
+estimation, Statistical inference, Multiresponse nonlinear 
+model, Asymptotic theory, Computational methods. 
+MTH688 
+TOPICS IN 
+ARITHMATIC 
+3-0-0-0-9 
+review of finite fields, polynomial equations over finite 
+fields; ChevalleyWarning theorem. Quadratic residue; law of 
+quadratic reciprocity. p-adic numbers and p-adic inegers. 
+Hensel’s Lemma. Quadratic forms (over Q, Qp and Fp). 
+Riemann 
+Zeta 
+function 
+and 
+(Dirichlet) 
+L-functions. 
+Dirichlet’s theorem on primes in arithmetic progression, 
+prime number theorem. Modular forms (for SL2(Z)); relation 
+with elliptic curves. 
+MTH689 
+LINEAR AND NON-
+LINEAR MODELS 
+3-0-0-0-9 
+Generalized inverse, Eigen values & canonical reduction of 
+matrices, Least square theory, Regression analysis. Unified 
+theory of least squares, Variance component estimation, 
+Minimum mean square error estimation & ridge regression, 
+Generalised linear and non-linear models. 
+MTH690 
+PROBABILISTIC 
+THEORY OF 
+PATTERN 
+RECOGNITION 
+3-0-0-0-9 
+Results of convergence in almost sure sense and in 
+probability, DCT, Basic inequalities, Conditional expectation, 
+Methods of resampling. Introduction to discriminant analysis, 
+Basyes; risk, and its properties. Distance measures for 
+deensity functions, and its relation with Bayes; risk. 
+Empirical Bayes; risk and its convergence. Parametric 
+methods: Maximum likelihood principle Fisher’s Linear 
+Discriminant Function (LDA), Quadratic Discriminat Analysis 
+(QDA). Consistency results. Logistic regression, Linear 
+support vector machines (SVM), Maximum linear separation 
+and Projection pursuit. Non-parametric methods: Kernel 
+discriminant analysis (KDA), nearest neighbor classification 
+(kNN), Universal consistencyh results. Idea of curse of 
+dimensionality, and the use of dimension reduction 
+techniques like random projections pricipal component 
+analysis, etc. Semiparametric methods: Mixture Discriminant 
+Analysis (MDA), Nonlinear SVM, Hybrid classifiesrs, 
+Classification using data depth, Related consistency results. 
+Course Reference: 1. Pattern Calssification by Richard
+
+[Page 49]
+Duda, Peter Hart and David Sstork, Wiley; 2. A Probabilistic 
+Theory of Pattern Recognition by Luc Devroye, Laszlo 
+Gyorfi and Gabor Lugosi. Springer; 3. The Elements of 
+Statistical Learning: Data Mining, Inference, and Prediction 
+by Trevor Hastie, Robert Tibshirani, Jerome Friedman. 
+Springer. 05-apr-2016 
+MTH691 
+NUMERICAL 
+LINEAR ALGEBRA 
+3-0-0-0-9 
+Triangular form, Matrix norms, Conditioning of linear 
+systems, Direct methods (Gauss, Cholesky, Householder), 
+Iterative methods (Jacobi, GaussSeidel, Relaxation) for 
+solving linear systems, Computing of eigenvalues & 
+eigenvectors (Jacobi, Givens Householder, QR, Inverse 
+methods), Conjugate gradient method & its preconditioning. 
+MTH692 
+NUMERICAL 
+SOLUTION OF 
+ORDINARY 
+DIFFERENTIAL 
+EQUATIONS 
+3-0-0-0-9 
+Introduction. RungeKutta methods derivation, error bounds 
+and error estimates. Weak stability theory for RungeKutta 
+methods. Order and convergence of the general explicit 
+onestep methods. Linear multistep methods derivation, 
+order consistency, zeros tability and convergence. Weak 
+stability theory for genera llinear multistep methods. 
+Predictor Corrector methods. Stiff systems. 
+MTH693 
+NUMERICAL 
+SOLUTION OF 
+PARTIAL 
+DIFFERENTIAL 
+EQUATIONS 
+3-0-0-0-9 
+Basic linear algebra vector and matrix norms and related 
+theorems. Parabolic equations in one and two space 
+dimensions explicit and implicit formulae. Consistency, 
+stability and convergence. Iterative methods for linear 
+systems. Split operator methods. Multilevel difference 
+schemes. Nonlinear equations. Elliptic Equations Dirichlet, 
+Neumann and mixed problems. Direct factorization methods 
+and successive over relaxation (S.O.R.). ADI and conjugate 
+gradient 
+methods. 
+Hyperbolic 
+equations. 
+First 
+order 
+hyperbolic systems in one and twospace dimensions 
+stability and convergence. Second order equations in one 
+andtwo space dimensions. The Galerkin method and 
+applications. 
+MTH694 
+COMPUTATIONAL 
+FLUID DYNAMICS 
+3-0-0-0-9 
+Conservation laws, Weak solutions & shocks, Monotone 
+difference schemes, Total variation diminishing schemes, 
+Godunov type schemes, Essentially nonoscillatory methods, 
+Flux limiters. 
+MTH695 
+EMPIRICAL 
+PROCESSES 
+3-0-0-0-9 
+Preliminaries: Different Modes of Convergence, Law of 
+Large Numbers, motivations. Function classes and their 
+complexities, 
+Glivenko-Cantelli 
+class 
+of 
+functions. Symmetrization, Concentration Bounds. Vapnik-
+Cervonenkis (VC) classes of functions, Covering and 
+Bracketing numbers, Examples: M-estimators. Donsker 
+class, Uniform Central Limit Theorem, Examples. Arg-min 
+continuous mapping theorem, Applications in Statistics: M-
+estimators,Lasso, Bootstrap consistency etc. More on 
+Concentration Bounds/ Weak Convergence on Polish 
+Spaces. 
+MTH696 
+SPECTRAL 
+METHODS FOR 
+PARTIAL 
+DIFFERENTIAL 
+EQUATIONS 
+3-0-0-0-9 
+Galerkin, 
+Collocation 
+& 
+Tau 
+methods, 
+Spectral 
+approximation, The Fourier system, Continuous & discrete 
+Fourier 
+expansion, 
+Orthogonal 
+polynomials 
+in 
+(1,1), 
+Fundamentals of spectral methods for PDEs, Temporal 
+discretization, The Galerkin Collocation method, Implicit 
+spectral equations, Case of nonsmooth solutions.
+
+[Page 50]
+MTH697 
+PROJECT-I 
+0-0-0-9-9 
+MS PROJECT-I 
+MTH698 
+PROJECT-II 
+0-0-0-9-9 
+MS PROJECT-II 
+MTH699 
+PROJECT-III 
+0-0-0-9-9 
+MS PROJECT-III 
+MTH700 
+PROJECT-IV 
+0-0-0-9-9 
+MS PROJECT-IV 
+MTH701 
+MODAL LOGIC 
+3-0-0-0-9 
+Modal Propositional Logic - Models and Frames, 
+Consequence 
+relations, 
+Normal 
+modal 
+systems. 
+Invariance results for models, Bisimulations, Finite 
+model property, Translation into First order logic. 
+Frame definability and Second order logic, Definable 
+and 
+undefinable 
+properties. 
+Completeness, 
+Applications. Algebraic Semantics - Lindenbaum-Tarski 
+Algebras, Jonsson-Tarski Theorem, Duality, Goldblatt-
+Thomason 
+Theorem. 
+Modal 
+Predicate 
+Logic 
+- 
+Axiomatization, 
+Barcan 
+formula, 
+Soundness 
+and 
+Completeness, Expanding domains; Identity. Examples 
+of some other modal systems and applications - 
+Temporal logic with Since and Until, Multi-modal and 
+Epistemic 
+Logics. 
+Non-normal 
+modal 
+logics. 
+Neighbourhood semantics. 
+MTH702 
+ALGEBRAIC 
+CURVES AND 
+RIEMANN 
+SURFACES 
+3-1-0-0-11 
+Algebraic curves in complex projective plane (Definition and 
+Examples), Riemann surfaces (Definition and Examples); 
+Holomorphic and meromorphic functions on Riemann 
+surfaces 
+(Definition 
+and 
+elementary 
+properties); 
+Holomorphic 
+and 
+meromorphic 
+differentials, 
+Residue 
+Theorem and its consequences, Differential forms, Stokes’ 
+Theorem (without proof); Index of a differential form, 
+divisors, 
+The 
+Poincaré-Hopf 
+formula 
+for 
+real 
+and 
+meromorphic differentials, Statement of Riemann-Roch 
+Theorem; Complex manifolds (Definition and Examples), 
+holomorphic maps between complex manifolds, linear 
+automorphisms of complex projective plane; Algebraic 
+varieties, factorization of projective hypersurfaces, degree of 
+a plane algebraic curve; Smooth points of an algebraic 
+varieties, tangent spaces, C-R equations and a theorem of 
+Osgood, Holomorphic implicit function theorem and local 
+behaviour; Holomorphic mappings from compact Riemann 
+surfaces into complex projective spaces, Rational canonical 
+curve, Weierstrass P function, meromorphic functions on a 
+compact manifold; Singularities of plane algebraic curves 
+(Examples), The connectedness of irreducible plane 
+algebraic curves, Riemann monodromy theorem (without 
+proof); Normalization of irreducible plane algebraic curves 
+(Definition), uniqueness theorem; Weierstrass polynomial, 
+Weierstrass preparation theorem and its consequences; The
+
+[Page 51]
+local structure of plane algebraic curves, local normalization, 
+normalization theorem, Bezout’s theorem; Genus degree 
+formula and Riemann-Roch Theorem 
+MTH702M 
+INTRODUCTION 
+TO PROFESSION 
+AND 
+COMMUNICATION 
+SKILLS 
+(STATISTICS) 
+3-0-0-0-5 
+(1) In the first three weeks of the course two lectures, each 
+of one and half hour duration, every week are given by 
+faculty members on a fundamental topic in Statistics. 
+(2) In the remaining weeks, students should present a topic 
+in Statistics of their choice. Their talk should contain 
+statistical concepts, and some proofs. Students can make 
+their presentations individually or in pairs. 
+ 
+MTH703 
+FRACTIONAL 
+SOBOLEV SPACES 
+AND FRACTIONAL 
+PARTIAL 
+DIFFERENTIAL 
+EQUATIONS 
+3-0-0-0-9 
+Some motivations from Probability theory for such spaces. 
+Introduction of the Fractional Sobolev spaces. Definition via 
+Fourier 
+transform 
+on Rn. Density 
+results, 
+Extension 
+Theorem. 
+Compact 
+Embeddings 
+Theorems. 
+Holder 
+Regularity Results. Fractional Poincarè Inequality, Fractional 
+Sobolev and Hardy’s Inequality. Fractional Laplace operator, 
+Asymptotic behaviour of the constants and the operators 
+as s → 0+ and s → 1−, Study of the Dirichlet problem for 
+partial differential equations involving fractional Laplace 
+operator. 
+MTH705 
+WAVELET 
+METHODS FOR 
+ELLIPTIC PARTIAL 
+DEFFERENTIAL 
+EQUATIONS 
+3-0-0-0-9 
+Few 
+Elements 
+of 
+Sobolev 
+Spaces 
+and 
+Variational 
+formulations, Besov spaces, Multi-scale Approximation and 
+Multi-resolution, Elliptic Boundary Value Problems, Multi-
+resolution Galerkin Methods, Wavelets, Wavelet Galerkin 
+Method, Adaptive Wavelet Methods, Wavelets on General 
+Domains, Some Applications. 
+ 
+MTH706 
+NUMERICAL 
+ANALYSIS & 
+SCIENTIFIC 
+COMPUTING 
+3-0-0-0-9 
+Approximation of functions, Numerical quadrature, Methods 
+of numerical linear algebra, Numerical solutions of nonlinear 
+systems and optimization, Numerical solution of ordinary 
+and partial differential equations. 
+MTH707 
+MARKOV CHAIN 
+MONTE CARLO 
+3-0-0-0-9 
+This course presents the theoretical and practical challenges 
+of implementing a discrete-time general state space Markov 
+chain Monte Carlo algorithm. Metropolis-Hastings, Gibbs 
+samplers, and other component-wise algorithms are 
+discussed in detail. The theoretical part of the course 
+focuses on studying rates of convergence of Markov chains, 
+and establishing the existence of a Markov chain central 
+limit theorem. The practical challenges of implementing 
+these algorithms, such as step-sizes, stopping criterion, 
+output analysis, and implementation in statistical software 
+are also discussed in detail. 
+MTH712 
+A FIRST COURSE 
+IN ALGEBRAIC 
+NUMBER THEORY 
+3-0-0-0-9 
+A brief review of commutative algebra Localization, 
+Noetherian 
+rings 
+and 
+modules, 
+integral 
+extensions, 
+Dedekind domains and discrete valuation ring, Spec of ring. 
+Number field, ring of integer, primes and ramifications. Class 
+group, initeness of class number, Dirichlet’s unit theorem.
+
+[Page 52]
+Global fields, local fields, valuations. Cyclotomic fields. Zeta 
+functions and Lfunctions, class number formula. Adeles and 
+ideles. 
+Course Reference: 1. 
+Number Fields, D. Marcus, 
+Universitext, SpringerVerlag; 2. Problems in Algebraic 
+Number Theory, E. Jody and M.Ram Murty, GTM 190, 
+Springer Verlog; 3. Algebraic Number Theory, J.S. Milne, 
+Course 
+notes, 
+available 
+at 
+http://www.jmilne.org; 
+4. 
+Algebraic Number Theory, J. Neukirch, Grundlehren der 
+Mathematischen Wissen schaften 322, SpringerVerlog; 5. 
+Algebraic 
+Number 
+Theory, 
+S. 
+Lang, 
+GTM 
+110, 
+SpringerVerlog; 6. A course in Arithmetic, J P Serre, GTM 7, 
+SpringerVerlog; 
+7. 
+Algebraic 
+Number 
+Theory, 
+R. 
+Narasimhan 
+et.al, 
+TIFR 
+Pamphlet, 
+available 
+at 
+www.math.tifr.res.in/ 
+publ/pamphlets/index.html; 
+8. 
+Introduction to commutative algebra, M.F. Atiyah, and I.G. 
+Macdonald, AddisonWesley Publishing Co. 
+MTH713 
+DIFFERENTIAL 
+TOPOLOGY 
+3-0-0-0-9 
+Several variables calculus: Review of inverse function 
+theorem and implicit function theorem. 
+Introduction to differential manifolds, sub-manifolds and 
+manifolds with boundary. Smooth maps between differential 
+manifolds, tangent space, differential of smooth maps, 
+(local) diffeomorphism. Immersions, embeddings, regular 
+value, level sets, submersions. Tangent and cotangent 
+bundles, vector bundles, vector fields, integral curves. 
+Transversality. 
+Whitney 
+embedding 
+theorem. 
+Sards 
+theorem, 
+Morse 
+lemma, 
+Morse 
+functions. 
+Oriented 
+intersection Theory: degree, Lefchetz fixed point theory, the 
+Poincaré-Hopf theorem. The Euler characteristic and 
+triangulations. Integration on manifolds. 
+MTH715 
+FREDHOLM 
+THEORY 
+3-0-0-0-9 
+Pre-requisite: MTH 405 / Instructor's Consent 
+Compact 
+Operators, 
+Fredholm 
+Alternative, 
+Fredholm 
+Operators, The Fredholm Index and the Abstract Index, 
+Equality of Fredholm Index and Abstract Index, Essential 
+Spectrum, Toeplitz Operators, Fredholm Theory for Toeplitz 
+Operators, Connectedness of the Essential Spectrum 
+ 
+MTH716 
+INTRODUCTION 
+TO GEOMETRIC 
+ANALYSIS 
+3-0-0-0-9 
+Overview 
+of 
+Riemannian 
+Geometry: Definition 
+of 
+Manifolds, Diffeomorphism, Sard’s Theorem, Partition 
+of Unity, Whitney embedding theorem, Tangent spaces 
+and Tensor fields, Integration on Manifold, Stokes 
+Theorem, Metric Tensor, Hodge Star Operation, Stokes 
+theorem for Riemannian Manifold, Lie Derivative, 
+Connection, Geodesic, Riemannian Curvature, Ricci 
+tensor, 
+Bianchi 
+Identity. 
+Sobolev Spaces in Riemannian Manifold: Definitions, 
+Density, 
+Imbedding 
+Theorem, 
+Trace 
+Theory. 
+Linear PDE in Riemannian Manifold: Existence theory
+
+[Page 53]
+of 
+Poisson 
+equation, 
+Harmonic 
+Forms, 
+Hodge 
+Decomposition, 
+Spectral 
+theory, 
+Gromov’s 
+Isoperimetric Inequality, Green’s Function of the 
+Laplacian. 
+MTH717 
+ANN/ML 
+APPROACH FOR 
+DIFFERENTIAL 
+EQUATIONS 
+2-0-1-0-9 
+Basics of ANN-(Introduction, Architecture of ANN, Learning 
+Paradigms, 
+Learning 
+Rules/Processes, 
+Activation 
+Functions); 
+Recall 
+of 
+ODEs/PDEs; 
+Multilayer 
+ANN 
+Model(MANNM) for DEs –Structure of MANN, Formulation 
+and Learning Algorithms For MANNM IVPs/BVPs/ODE-
+system/HODEs; Regression based ANN Model (RBANNM) 
+for 
+Des; 
+Single 
+layer 
+functional 
+link 
+ANN 
+Model 
+(SLFLANNM) for Des; SLFLANNM with Regression Based 
+weights; Application to Lane-Emden Equation, Emden 
+Fowler Equation, Duffing Oscillator Equation, Van der Pol –
+Duffing Oscillator Equation; Simple introduction to Deep 
+LearningApproach; 
+Deep 
+Galerkin 
+Method 
+and 
+Implementation; Applications of DL to PDEs 
+MTH718 
+GAMMA 
+CONVERGENCE 
+3-0-0-0-9 
+Introduction: Motivation of the Γ-convergence with 4 
+important examples. ΓCongervence by numbers: Lower and 
+upper 
+limits, 
+Several 
+definitions 
+of 
+Γconvergence, 
+convergence of minima, upper and lower Γ-limits, properties 
+of Γ-limits, Γ-limits indexed by a continuous parameter. 
+Integral Problems: Relaxation and Gamma convergence in 
+Lp spaces. Γ-convergence and convex functional. Phase 
+Transition problem: Phase transition as segmentation 
+problem, Gradient theory of phase transition problem, 
+Gradient theory from point of view of Gamma convergence. 
+Dimension Reduction problem: Problems on thin domains, 
+Construction of recovery sequence, Non convex vector 
+valued problem. 
+MTH719 
+INTRODUCTION 
+TO 
+HOMOGENIZATION 
+3-0-0-0-9 
+Pre-requisite: MTH 424/ Instructor's Consent 
+Periodic composite materials (one dimensional and layered 
+materials), Homogenization of second order el- liptic 
+equations: periodic case, Tartar's method of oscillating test 
+functions; Convergence of energy and correctors, Method of 
+Two-scale 
+convergence 
+and 
+convergence 
+result, 
+Homogenization in the non-periodic case (G-convergence 
+and H-convergence), Optimal bounds: Hashin-Shtrikman. 
+ 
+MTH720 
+NUMERICAL 
+SOLUTION OF 
+INTEGRAL 
+EQUATIONS 
+3-0-0-0-9 
+Introduction to integral equations, degenerate kernel 
+method, projection methods, They Nystrom method, Solving 
+multivariable integral equations, integral equations on a 
+smooth and piecewise smooth planar boundary, boundary 
+integral equation in 3 dimensions. 
+Course Reference: 1. Kendall E. Atkinson: The 
+numerical solution of integral equations of the second kind, 
+Cambridge University Press; 2. Rainer Kress: Linear 
+Integral Equations, Springer. 
+MTH721 
+COMPUTATIONAL 
+3-0-0-0-9 
+Introduction to Finite Difference Method (FDM), General
+
+[Page 54]
+FINANCIAL 
+MATHEMATICS-A 
+PDE APPROACH 
+Theory of FDM, FDM for 1-DEquations, Explicit FDM for 
+One‐Factor Models, Trinomial method for Barrier Options, 
+Exponentially Fitted FDM for Barrier Options, Computational 
+issues in Barrier and Look-back option models, FDM for 
+One‐Factor Black‐Scholes Equation, Implicit‐Explicit Method 
+for Jump Process in Black Scholes Equations, FDM for 
+Multi‐Factor Instrument Pricing, Heston Model, Asian 
+Option, Multi‐Asset option, Front fixing Method, American 
+Option. 
+MTH722 
+INTRODUCTION 
+TO HOMOTOPY 
+THEORY 
+3-0-0-0-9 
+Week 1 CW complexes, higher homotopy groups 
+Week 2 Relative homotopy groups,properties, action of 
+fundamental group. 
+Week 3 Long exact sequence of a pair, Whitehead 
+Theorem. 
+Week 4 Cellular and CW approximation. 
+Week 5 Postnikov Towers, k-invariants, Whitehead towers. 
+Week 6 Freudenthal Suspension Theorem, Homotopy 
+Excision Theorem and 
+computations. 
+Week 7 Moore spaces and Eilenberg–MacLane space. 
+Week 8 Hurewicz Theorem. 
+Week 9 Homotopy Lifting Property, Fibrations, fiber bundles. 
+Week 10 Long Exact Sequences for fibrations, applications 
+to spheres. 
+Week 11 Whitehead products, stable homotopy groups, ring 
+structures. 
+Week 12 Loop spaces & Suspension, exact and co-exact 
+Puppe sequences. 
+Week 13 Relations to cohomology theory. 
+Week 14 Obstruction Theory. 
+MTH723 
+PDE BASED 
+IMAGE 
+PROCESSING 
+3-0-0-0-9 
+Introduction 
+to 
+Image 
+Processing; 
+Mathematical 
+Preliminaries–Direct Method in Calculus of Variation, Space 
+of functions of Bounded Variations, Viscosity solutions of 
+PDEs, 
+Elements 
+of 
+Differential 
+Geometry; 
+Image 
+Restoration‐The Energy Method, PDE‐Based Methods 
+Smoothing & Enhancing PDEs Linear & Nonlinear Diffusion 
+models, Classical & Curvature based morphological 
+process; The Segmentation Problem, The Mumford and 
+Shah Functional, Geodesic Active Contours, Level set 
+Method; Applications from computer vision– Sequence 
+Analysis, Image Classification etc. 
+MTH724 
+AN 
+INTRODUCTION 
+TO ALGEBRAIC K-
+THEORY 
+3-0-0-0-9 
+Projective modules, vector bundles, symmetric monoidal 
+categories, exact categories. The Grothendieck group 
+and K0 of rings. Topological K-theory and Swan’s theorem. 
+Bass’ K1 and K2 for 
+rings. 
+Geometric 
+realization 
+of 
+a 
+category. Quillen’s S−1S construction and + construction. 
+MTH725 
+HILBERT SPACE 
+METHODS IN 
+COMPLEX 
+ANALYSIS 
+3-0-0-0-9 
+Pre-requisite: MTH403 and MTH 405 / Instructor's Consent 
+Functional Calculi, The Spectral Theorem; Hardy Space, the 
+Unilateral Shift, Beurling’s Theorem; Von Neumanns Theory 
+of Spectral Sets; The Schur Class and Spectral Domains; 
+The Sz.-Nagy Dilation Theorem and Ando’s Dilation 
+Theorem; The Sarason Interpolation Theorem; A Model 
+Formula for Schur class, Lurking Isometries; The Muntz-
+
+[Page 55]
+Szász Interpolation Theorem, Pick Interpolation; The Corona 
+Problem, 
+Carleson’s 
+corona 
+theorem, 
+Leechs 
+theorem/Toeplitz corona theorem; Operator Monotone 
+Functions, Löwner’s Theorems, Locally Matrix Monotone 
+Functions in d Variables; The Löwner Class in d Variables, 
+Globally Monotone Rational Functions in Two Variables 
+MTH726 
+COMBINATORIAL 
+SET THEORY 
+3-0-0-0-9 
+Review of cardinal arithmetic, Cardinal exponentiation, 
+Cofinality, Non-stationary ideal and club filter, Diagonal 
+intersection and Fodor’s lemma, Banach measure problem, 
+Ulam’s dichotomy and real valued measurable cardinals, 
+Suslin’s problem, Diamond principle and construction of 
+Suslin line, Martin’s axiom and its applications to measure 
+and category on the real line, Walks on ordinals and their 
+characteristics, Partition relations, Some open problems. 
+MTH727 
+SET THEORY AND 
+FORCING 
+3-0-0-0-9 
+Review 
+of 
+ZFC 
+and 
+cardinal 
+arithmetic, 
+Infinite 
+combinatorics, 
+Inner 
+models, 
+Absoluteness 
+and 
+the 
+reflection principle, Godel’s constructible universe as a 
+model of AC and GCH, Forcing posets and generic 
+extensions, Definability of truth in generic extensions, Cohen 
+forcing and the consistency of the negation of CH, 
+Countably closed forcing and the consistency of the 
+diamond principle, Martin’s axiom, Suslin’s hypothesis and 
+almost disjoint forcing, Applications of forcing. 
+MTH728 
+REDUCED BASIS 
+METHODS FOR 
+PDES 
+3-0-0-0-9 
+Pre-requisites: MTH 308, MTH430 
+ 
+Introduction; 
+Mathematical 
+Preliminaries; 
+Parametrized 
+Differential Equations; Reduced Basis Methods; Certified 
+Error Control; Emperical Interpolation Method; Linear 
+Problems; Time Dependent Problems; Nonlinear Problems; 
+Non-Coercive Problems with Examples 
+MTH729 
+ERGODIC THEORY 
+3-0-0-0-9 
+Measure Preserving Transformations, examples, flows, 
+conditional probability and basic of topological groups. 
+Ergodic 
+Theorems, 
+Ergodicity 
+and 
+Mixing. 
+Almost 
+everywhere convergence. Entropy, Selected topic from the 
+following: Recurrence and Szemeredis Theorm/ Topological 
+Dynamics/ Ornstein Theory/ Finitary coding between 
+Bernoulli shifts and entropy invariance. 
+Course Reference: 1. P. Walters: Introduction to Ergodic 
+Theory; 2. K. E. Petersen: Ergodic Theory; 3. Ya. Sinai: 
+Introduction to Ergodic Theory. 
+MTH731 
+INTRODUCTION 
+TO 
+COXETER 
+GROUPS 
+3-0-0-0-9 
+The Coxeter groups find applications in many areas of 
+mathematics. Understanding these groups involves the 
+interplay of geometry, algebra, and combinatorics. The aim 
+of this course is to familiarize students with the general 
+theory of Coxeter groups and their Hecke algebras. 
+Emphasis will also be on studying the examples of finite and 
+affine reflection groups. This course will cover many topics 
+such as Reflection groups and their generalizations, Coxeter 
+systems, permutation representations, reduced words, 
+Bruhat order, Kazhdan-Lusztig theory, Chevalley’s theorem, 
+Poincaré series, root systems, classification of finite and
+
+[Page 56]
+affine Coxeter groups. 
+MTH732 
+REPRESENTATION 
+THEORY OF 
+FINITE GROUPS 
+3-0-0-0-9 
+Basic representation theory, Irreducible representations and 
+Maschke’s theorem, Equivalence and unitary equivalence, 
+Construction of new representation, Character of a 
+representation, Schur’s lemma and its applications, Schur’s 
+orthogonality relations, Schur’s theory of characters, Regular 
+representation and decomposition, Number of irreducible 
+representations 
+of 
+a 
+group. 
+Induced 
+representation. 
+Character table of some known groups. Representation 
+theory of symmetric and alternating group for small values of 
+n. Algebraic integers and Burnside's pq theorem. Frobenius 
+reciprocity formula, Group algebra and its decomposition, 
+Mackey's irreducibility criterion. Artin's theorem on Induced 
+characters, Elementary subgroups and Brauer's theorem. 
+MTH733 
+REPRESENTATION 
+THEORY OF 
+LINEAR LIE 
+GROUPS 
+3-0-0-0-9 
+Linear groups: Topological groups; Linear groups (e.g., , and 
+their 
+topological 
+properties 
+(e.g., 
+compactness, 
+connectedness) Exponential: Exponential of a matrix, 
+Logarithm of a matrix. Linear Lie groups: One parameter 
+subgroups; Lie algebra of a linear Lie group; Linear Lie 
+groups are submanifolds; Campbell-Hausdorff formula. Lie 
+algebra: Definitions and examples; Semisimple Lie algebras; 
+Nilpotent and solvable Lie algebras. Representations of 
+compact 
+groups: 
+Unitary 
+representations; 
+Schur 
+orthogonality relations; Peter-Weyl theorem; character and 
+central functions; absolute convergence of Fourier series; 
+Casimir operator. Haar measure: Definition; differential 
+forms and Haar measure on linear Liegroup; Unimodular 
+group and examples. Analysis on SU(2): Haar measure on 
+SU(2); irreducible representations of SU(2);Laplace operator 
+on SU(2); Fourier series on SU(2); Heat equation on SU(2). 
+Analysis on U(n): Highest weight theorem; Weyl integration 
+formula; Character formula; Dimension formula; Laplace 
+operator, Fourier series and Heat equation on U(n). 
+MTH734 
+BANACH 
+ALGEBRAS, C* 
+ALGEBRAS AND 
+SPECTRAL 
+THEORY 
+3-0-0-0-9 
+Basics of Banach Algebras and C*-algebras, examples, 
+spectrum. Commutative Banach Algebra and C*-algebras; 
+maximal ideal spaces, Gelfand Transform; normal elements, 
+continuous functional calculus. Representations of C*-
+algebras, von Neumann Algebras, WOT and SOT, density 
+theorems, double commutant theorem. Spectral Theorem for 
+normal operators. Abelian von Neumann algebras (Time 
+permits: 
+Type-I 
+von 
+Neumann 
+algebras, 
+factors, 
+constructions of Type-II factors). 
+MTH736 
+FOURIER 
+ANALYSIS & 
+DISTRIBUTION 
+THEORY 
+3-0-0-0-9 
+Introduction, 
+Test 
+function 
+spaces, 
+Calculus 
+with 
+distributions, supports of distributions, Structure theorems, 
+convolutions, Fourier transforms, L1, L2 theory of Fourier 
+Transform, Tempered distributions, Paley Wiener theorem, 
+wiener Tauberian theorem, Applications of distributions 
+theory and Fourier transform to differential equations. 
+MTH739 
+TOPICS IN LIE 
+GROUPS AND LIE 
+ALGEBRAS 
+3-0-0-0-9 
+Definition of Lie group, Lie algebra and examples. Tangent 
+Lie algebras Lie algebras associated to Lie groups. 
+Correspondence 
+between 
+Lie 
+algebras 
+and 
+simply 
+connected Lie groups. The universal enveloping algebra of a
+
+[Page 57]
+Lie algebra and its properties. Hopf algebras and some 
+basic Examples. Poincare-Birkhof -Witt theorem and 
+deformations. Formal deformation of associative algebras. 
+Formal deformation of Lie algebras. Cohomology of Lie 
+algebras and its relation to deformation. Solvable, Nilpotent 
+and semi-simple Lie algebras. Engel's theorem and Lie's 
+theorem. The radical of a Lie algebra. Cartan criterion, 
+Whitehead and Weyl theorems. 
+MTH751 
+ALGEBRA 
+3-0-0-0-9 
+Groups, 
+Basic 
+properties, 
+Isomorphism 
+theorems, 
+Permutation groups, Sylow Theorems, Structure theorem for 
+finite abelian groups, Rings, Integral domains,Fields, division 
+rings, Ideals, Maximal ideals, Euclidean rings, Polynomial 
+ring over a ring, Maximal & Prime ideals over a commutative 
+ring with unity, Prime avoidance theorem and Chinese 
+Remainder theorem, Field Extension, Cramer’s rule, 
+Algebraic 
+elements 
+and 
+extensions, 
+Finite 
+fields. 
+Determinants and their properties, Systems of linear 
+equations, Eigen values and Eigen vectors, Caley Hamilton 
+theorem, 
+Characteristic 
+and 
+minimal 
+polynomial, 
+diagonalization, Vector spaces, Linear transformations, 
+Inner product spaces. 
+MTH752 
+MATHEMATICAL 
+METHODS 
+3-0-0-0-9 
+Calculus of Variations; Sturm Liouville Problem and Green’s 
+Function; Perturbation Methods and Similarity Analysis; 
+Stability Theory. 
+MTH753 
+ANALYSIS 
+3-0-0-0-9 
+Metric spaces, Open and closed sets, Compactness and 
+connectedness,Completeness, 
+Continuous 
+functions 
+(several variables and on metric spaces),uniform continuity 
+C(X), X, compact metric space, Uniform convergence, 
+compactness criterion, Differentiation, Inverse and Implicit 
+fuction 
+theorems. 
+Riemann 
+Integration, 
+Lebesgue 
+Integration, Lpspaces.Complex Analysis: Analytic functions, 
+Harmonic conjugates, Cauchy theorems and consequences, 
+Power series, Zeros of analytic functions, Maximum 
+modulus theorem, Singularities, Laurent series, Residues. 
+Mobius transformations. Hilbert spaces: Inner product, 
+Orthogonality, Orthonormal bases, Riesz Lemma,The space 
+L2 as a Hilbert space. 
+MTH754 
+PROBABILITY 
+THEORY 
+3-0-0-0-9 
+Algebras and sigma algebras; Measurable spaces; Methods 
+of introducingprobability measures on measurable space; 
+Random 
+variables; 
+Lebesgue 
+integral;Expectation; 
+Conditional probabilities and conditional expectations with 
+respect to sigma algebras; Radon Nikodym theorem; 
+Inequalities of random variables;Fubini’s theorem; Various 
+kinds of convergence of sequence of random variables; 
+Convergence of probability measures; Central limit theorem; 
+delta method;Infinitely divisible and stable distributions; 
+ZeroorOne laws; Convergence ofseries; Strong law of large 
+numbers; Law of iterated logarithm; Matringales and their 
+basic properties. 
+MTH755 
+STATISTICAL 
+INFERENCE 
+3-0-0-0-9 
+Population and samples; Parametric and nonparametric 
+models; Exponential and location scale families; Sufficiency 
+and minimal sufficiancy; Complete statistics;Unbiased and 
+UMVU estimation; Asymptotically unbiased estimators;
+
+[Page 58]
+Method 
+of 
+moments; 
+Bayes 
+estimators; 
+Invariance; 
+Minimaxity and admissibility; The method of maximum 
+likelihood; Asymptotically efficient estimation; Variance 
+estimation; The jacknife; The bootstrap; The NP lemma; 
+MLR; UMP tests forone and two sided hypotheses; 
+Unbiased and similarity; UMPU tests in exponential families; 
+Invariance and UMPI tests; LR tests; Asymptotic tests based 
+on likelihoods; Chisquare tests; Bayes tests; Pivotal 
+quantities; Inverting acceptance regions of tests; The 
+Bayesian confidence interval; Prediction sets; Length of 
+confidence intervals; UMA and UMAU confidence sets; 
+Invariant confidence sets. 
+MTH759 
+ALGEBRIC 
+TOPOLOGY II 
+3-0-0-0-9 
+Definition of singular cohomology, axiomatic properties. Cup 
+and cap product. Cross product and statements of Kunneth 
+theorem and Universal coefficients theorem. Cohomology 
+rings of projective spaces. Orientation of manifolds and 
+Poincare duality. Definition of higher homotopy groups, 
+homotopy exact sequence of a pair. Definition of bration, 
+examples of brations, homotopy exact sequence of a 
+bration, its application to computation of homotopy groups. 
+Hurewicz homomorphism, The Hurewicz theorem. The 
+Whitehead Theorem. Adjointness of loop and suspension, 
+Eilenberg -Mac Lane spaces and cohomology (from 
+Bredon). 
+MTH761 
+VECTOR BUNDLES 
+AND 
+CHARACTERISTIC 
+CLASSES 
+3-0-0-0-9 
+Smooth Manifolds, Vector bundles, Constructing New vector 
+bundles Out of Old. Grassmann Manifolds and Universal 
+bundles, The classification of vector bundles.Characteristic- 
+classes for vector bundles, Stiefel Whitney classes of 
+manifolds, Characteristic numbers of manifolds, Thom 
+spaces 
+and 
+the 
+Thom 
+isomorphism 
+theorem, 
+The 
+construction of Stiefel Whitney classes, Chern, Pontryagin, 
+and Euler classes. 
+Course Reference: 1.J. P. May. A concise course in 
+Algebraic Topology. Chicago Lectures in Mathematics. 
+University of Chicago Press, Chicago, IL, 1999, pp.; 2.John 
+W. Milnor and James D. Stasheff. Characteristic classes. 
+Annals of Mathematics Studies, No. 76. Princeton University 
+Press, Princeton, N. J.; University of Tokyo Press, Tokyo, 
+1974. 
+MTH770 
+NUMERICAL 
+TECHNIQUES FOR 
+NONLINEAR 
+DYNAMICAL 
+SYSTEMS 
+3-0-0-0-9 
+Newton's Method for Nonlinear Equations, Numerical 
+Integration of ODEs, Numerical Calculation of Eigenvalues, 
+Numerical Solution of ODE Boundary-Value problems. 
+Discrete Time Model: Numerical Detection of Fixed Points, 
+Periodic Orbits, Bifurcation diagrams. Continuous Time 
+Model: Continuation of Equilibrium Curves, Numerical 
+Detection of Bifurcation Points of Co-Dimension One and 3-
+0-0-0-9Two, Local and Global Bifurcation Diagrams. Spatio-
+Temporal Model: Numerical Solution of Reaction-Diffusion 
+Equations, Travelling Waves, Turing Patterns, Coupled Map 
+Lattice Model. Delay Differential Equations: Numerical 
+Solution of Delayed Temporal Model and Spatio-Temporal 
+Model. 
+MTH781 
+STATISTICAL 
+3-0-0-0-9 
+Introduction 
+to 
+pattern 
+recongnition 
+supervised 
+and
+
+[Page 59]
+PATTERN 
+RECONGNITION 
+unsupervised 
+classification. 
+Dimension 
+reduction 
+techniques: principal component analysis, multidimensional 
+scaling features for maximum linear separation projection 
+pursuit. Parametric methods for discriminant analysis: 
+Fisher’s linear discriminant function. Linear and quadratic 
+discriminant analysis regularized discriminant analysisi. 
+Linear and nonlinear support vector machines. Cluster 
+analysis: hierarchical and nonhirerarchical techniques 
+classification using Gaussian mixtures. Data depth: different 
+notions of depth, concept of multivariate median, application 
+of depth in supervised and unsupervised classification. 
+MTH784 
+STATISTICAL 
+RELIABILITY 
+THEORY 
+3-0-0-0-9 
+Reliability concepts and measures, Components and 
+systems, Coherent systems, Cuts and Paths, Modular 
+decomposition, 
+Bounds 
+on 
+system 
+reliability; 
+Life 
+distributions, Survival functions, Hazard rate, Residual life 
+time, Mean residual life function, Common life distri butions, 
+Proportional Hazard models; Notions of aging, Aging 
+properties of common life distributions, closure under 
+formation of coherent structures, Convolutions and mixture 
+of these cases; Univariate and bivariate shock models, 
+Notions of bivariate and multi variate and dependence; 
+Maintenance and replacement policies, Availability of 
+repairable systems, Optimization of system reliability with 
+redundancy. 
+MTH785 
+ECONOMETRIC 
+THEORY 
+3-0-0-0-9 
+Multiple linear model, estimation of parameters under 
+spherical and nonsphericaldisturbances by least squares 
+and maximum likelihood methods, testsof hypothesis, R2 
+and adjusted R2. Prediction, within and outside sample 
+predictions. Problem of structural change, tests for structural 
+change. Use of dummy variable. Specification error analysis 
+related to explanatory variables,inclusion and deletion of 
+explanatory variables. Idea of Stein rule estimation. Exact 
+and stochastic linear restrictions, restricted and mixed 
+regression analysis. Multicollinearity, problem, implications 
+and tools for handling the problem, ridge regression. Hetero 
+skedasticity, problem and test, estimation under Hetero 
+skedasticity. Autocorrelation, DurbinWatson test. Errors 
+invariables, inconsistency of least squares method, methods 
+of consistent estimation, instrumental variable estimation. 
+Seemingly unrelated regression equation model, least 
+squares,generalized least squares and feasible generalized 
+least squares estimators.Simultaneousequations model, 
+structural and reduced forms, rank and orderconditions for 
+identifiability, indirect least squares, two stage least squares 
+and imited information maximum likelihood methods of 
+estimation. Additional topics like as Panel data models and 
+unit roots & cointegration. 
+MTH799 
+PHD RESEARCH 
+0-0-0-9-9 
+Ph. D. Research 
+ 
+PG SEMINAR 
+COURSE 
+MATHEMATICS I 
+ 
+PG Seminar course I for Ph.D (Mathematics) students 
+ 
+PG SEMINAR 
+COURSE 
+ 
+PG Seminar course II for Ph.D (Mathematics) students
+
+[Page 60]
+MATHEMATICS II 
+ 
+PG SEMINAR 
+COURSE 
+STATISTICS I 
+ 
+PG Seminar course I for Ph.D (Statistics) students 
+ 
+PG SEMINAR 
+COURSE 
+STATISTICS II 
+ 
+PG Seminar course II for Ph.D (Statistics) students

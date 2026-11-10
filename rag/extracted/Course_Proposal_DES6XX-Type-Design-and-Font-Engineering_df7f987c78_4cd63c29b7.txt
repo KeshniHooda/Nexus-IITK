@@ -1,0 +1,121 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course
+
+1. Course No: DES6XX
+
+2. Course Title: Type Design and Font Engineering
+
+3. Per Week Lectures: 1 (L), 0 (T), 6 (P), 0 (A)
+
+Credits (3×L + 2×T + P + A): 9                         Duration of Course: Full Semester
+
+4. Proposing Department/IDP: Department of Design
+
+Other Departments/IDPs which may be interested: HSS
+Proposing Instructor(s): Subhajit Chandra
+
+5. Course Description:
+
+Type Design and Font Engineering introduces students from the design of letterforms to the
+development of digital fonts. The course combines an understanding of the history and
+principles of type design with practical exercises in drawing, constructing and refining
+glyphs. Students will learn how to develop a consistent set of characters and convert their
+
+designs into functional digital fonts. The course also introduces font encoding, character
+mapping, spacing, kerning and OpenType features.
+
+6. Objectives
+
+The course aims to develop an understanding of typeface design and the technical processes
+involved in producing digital fonts. The objectives are to:
+•  Understand the history of type design and the influence of writing systems, printing
+
+technologies and digital tools on its development.
+•  Study the structure of letterforms and the principles that contribute to a consistent
+typeface.
+•  Develop skills in drawing, constructing and refining glyphs for a selected script.
+•  Understand the technical aspects of font production, including character encoding, glyph
+mapping, spacing, kerning and OpenType features.
+•  Develop the ability to produce, test and refine functional digital fonts for print and digital
+
+applications.
+
+[PAGE 2]
+7. Contents (preferably in 5–10 broad titles)
+
+S.  Lecture    Descriptions *                                   No. of
+No Module                                                        Classes
+1 Module 1     History of Type Production, Principles of Type Design, and      8
+Foundations of Font Technology
+
+2 Module 2    Letterform Analysis, Drawing and Typeface Development,       8
+Digital Type Construction, Scaling and Rendering
+
+3 Module 3    Spacing, Kerning Hinting and Typographic Composition         10
+
+4 Module 4    Font Testing, Font Quality, Legibility and Final Project          10
+
+* Studio hours will be used to work on the assignments/projects as needed. Appropriate
+materials will be required for these classes.
+
+Pre-requisites:
+
+None (Basic familiarity with design processes is desirable)
+
+Learning Outcomes:
+
+Upon completion of the course, students will be able to:
+•  Explain the historical development of type production and the principles of type design.
+•  Understand and describe how digital outlines are constructed, scaled and rendered on
+
+different output devices.
+•  Construct and refine glyphs while maintaining consistency across a character set.
+•  Understand and develop skill of spacing, kerning and hinting of digital letters.
+•  Evaluate the quality and legibility of typefaces across different sizes and applications.
+
+Assessment Criteria and Weightage:
+•  End Semester Exam: 10%
+•   Assignments and studio work: 20%
+•   Presentations: 20%
+•   Project: 50%
+
+[PAGE 3]
+8. Short Summary for Course Booklet
+
+This course introduces students to the fundamentals, history and practice of typography,
+with an emphasis on print and digital media. It develops skills in letterform design, type
+composition and layout with Latin and non-Latin typefaces. The course adopts a practice-
+oriented approach to help students understand the role of typography in communication.
+
+9. References:
+
+1.  Karow, P. (1994). Font Technology: Methods and Tools. Springer Berlin Heidelberg.
+2.  Karow, P. (1994). Digital Typefaces: Description and Formats. Springer Berlin
+
+Heidelberg.
+3.  Cheng, K. (2020). Designing Type (2nd ed.). Yale University Press.
+4.  Noordzij, G. (2005). The Stroke: Theory of Writing. Hyphen Press.
+5.  Smeijers, F. (1996). Counterpunch: Making Type in the Sixteenth Century, Designing
+
+Typefaces Now. Hyphen Press.
+
+10.   Any other remarks
+
+The course combines theoretical study with studio practice to help students understand the
+relationship between typeface design and digital font technology. Students will examine how
+the construction, spacing and rendering of letterforms influence typographic quality and
+
+legibility. The final project will involve developing a typeface, producing a functional digital
+font and evaluating its performance across different sizes and applications.
+
+Dated:                     Proposer:
+
+Dated:               DUGC/DPGC Convener:
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC
+
+Dated:

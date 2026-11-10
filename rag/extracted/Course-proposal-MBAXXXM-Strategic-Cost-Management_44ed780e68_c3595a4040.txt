@@ -1,0 +1,104 @@
+[PAGE 1]
+INDIAN INSTITUTE OF TECHNOLOGY KANPUR
+Department of Management Sciences
+Proposal for New Course
+
+Title:                                Strategic Cost Management
+Course No:              MBA XXXm
+Department:                   Management Sciences
+Proposer:                    Suman Saurabh
+Units:                              3-0-0-1[5]
+Duration of the course:            Modular Course
+Prerequisites:             NA
+Other interested faculty:            Harshal Rajan Mulay
+
+Course objectives:
+Analysing the cost behaviour of the product offerings or services delivered by a company is crucial to many
+managerial decision-making scenarios such as a) break-even analysis, b) outsourcing decision: decision to
+make versus buy, c) pricing of a joint-product or a by-product, d) pricing of export or special orders, e) decision
+to shut down ailing product lines/service verticals, f) optimising the right product-mix, g) profit planning, h)
+new product development (NPD) etc. This course aims to foster such decision-making and analytical skills by
+showing students how managers use accounting information to make business decisions in companies. The
+course first introduces the different costing techniques in a manufacturing/service company, such as job order,
+process, activity-based, and standard costing. It then dwells extensively on various approaches to analysing
+cost and volume data for profit planning. Further, the course covers topics such as strategic planning,
+identifying budget key factors, budget preparation and variance analysis for performance benchmarking. The
+course concludes with some advanced topics related to financial planning & analysis (FP&A), balanced
+scorecard (BSC), structure of management information systems (MIS) and decision analytics & reporting
+tools.
+
+Course contents:
+S.No.  Broad Title           Topics                                             No. of
+Lectures
+1     Introduction to         Foundations of Costing system, role of a management          2
+Management            accountant, Introduction to cost management for decision
+Accounting            making, Cost concepts: direct costs, indirect costs, prime
+costs etc.
+2    Job order costing       Job order costing, Overhead allocation, Application to          1
+customer profitability analysis
+3    Process costing        Cost segregation, Cost object, Process costing, Overhead        2
+allocation, Pricing of a product or service, Costing of joint-
+product or by-product, costing of special or export orders,
+outsourcing decision: make versus buy, optimizing the
+right product-mix, Profit planning
+4     Activity based costing   Activity Based Costing: A tool to aid decision making          2
+5    Cost Behaviour        Fixed costs, Variable costs, Mixed-costs, Step-cost etc.         1
+6    Cost-Volume-Profit    Breakeven analysis, Incremental or differential analysis         2
+Analysis              and Short-term management decision making, Variable
+costing and Segment reporting: Tools for management
+7    Planning, Budgeting    Budgetary planning, Master Budgeting, Budget Key           2
+and Control             Factor, Flexible Budgets and Performance Analysis,
+Standard Costing and Variance Analysis
+8    Advanced Topics       Financial Planning and Analysis (FP&A), Costing in a new      2
+product development (NPD) exercise, Balance Scorecard
+(BSC), Structure of a Management Information Systems
+(MIS), Decision analytics & reporting
+
+[PAGE 2]
+Summary for including in the Courses of Study Booklet:
+Analysing the cost behaviour of the product offerings or services delivered by a company is crucial to many
+managerial decision-making scenarios such as a) break-even analysis, b) outsourcing decision: decision to
+make versus buy, c) pricing of a joint-product or a by-product, d) pricing of export or special orders, e) decision
+to shut down ailing product lines/service verticals, f) optimising the right product-mix, g) profit planning, h)
+new product development (NPD) etc. This course aims to foster such decision-making and analytical skills by
+showing students how managers use accounting information to make business decisions in companies. The
+course first introduces the different costing techniques in a manufacturing/service company, such as job order,
+process, activity-based, and standard costing. It then dwells extensively on various approaches to analysing
+cost and volume data for profit planning. Further, the course covers topics such as strategic planning,
+identifying budget key factors, budget preparation and variance analysis for performance benchmarking. The
+course concludes with some advanced topics related to financial planning & analysis (FP&A), balanced
+scorecard (BSC), structure of management information systems (MIS) and decision analytics & reporting
+tools.
+
+Recommended textbooks:
+●  Managerial Accounting, 16th Edition by Ray H. Garrison, Eric Noreen and Peter C. Brewer (McGraw
+Hill)
+●  Managerial Accounting, 5th Edition by Stacey Whitecotton, Robert Libby and Fred Philips (McGraw
+Hill)
+●  Horngren’s Cost Accounting: A Managerial Emphasis by Srikant Datar and Madhav V. Rajan
+(Cengage Learning)
+●  Management Accounting by M. S. Narasimhan (Cengage Learning)
+●  Accounting: Text and Cases by Robert N. Anthony, David F. Hawkins, Kenneth A. Merchant (McGraw
+Hill)
+
+References:
+●  The Balanced Scorecard: Translating Strategy into Action by Robert S. Kaplan and David P. Norton
+(Harvard Business School Press)
+●  The Back of the Napkin (Expanded Edition): Solving Problems and Selling Ideas with Pictures by Dan
+Roam (Portfolio)
+●  Shields, M. D. and S. M. Young. 1991. Managing product life cycle costs An organisational model.
+Journal of Cost Management (Fall): 39-51.
+●  Shields, M. D. and S. M. Young. 1992. Effective long-term cost reduction: A strategic perspective.
+Journal of Cost Management, 6(1): 16-30.
+●  Hertenstein,  J. H. and M. B.  Platt. 1998. Why product development teams need management
+accountants. Management Accounting (April): 50-55.
+
+Any other remarks: This course will mostly be delivered using case studies and shall involve extensive
+financial modelling using Excel.
+
+Signature of Proposers:
+
+Sd/- Suman Saurabh   [Date: 5 October 2024]
+
+This course is Approved/ Not Approved           This course is Approved/ Not Approved
+DPGC Convener, DoMS                         Chairperson SPGC

@@ -1,0 +1,72 @@
+[PAGE 1]
+Report of the Subcommittee to review the course number: ARC101
+Title of the course: (Introduction to Conducting Meetings) 2L­1T­3P­0A (10 credits)
+
+Objective of the course:  The course prepares the student to be able to make effective
+contributions to any meeting and to be able to conduct one.
+Specialized Infrastructure requirement:  In addition to the lectures, the course is associated
+with a laboratory session that will be carried out in the low­speed and high­speed laboratory
+facilities. The major equipment needed for the experiments are: wind­tunnels, hot wire, force
+
+balance, lathe and milling machines for model preparation.
+Instructional aspects:   It is preferable that the tutorial should be either on a Friday or on a
+Monday so that concepts can be discussed there before being applied in the laboratory.
+Course content: (This will go in the “Courses of Study” book. Please note that the duration of
+each  lecture  is 50  minutes.)  Introduction  to  sketching,  Principal views,     principles  of
+dimensioning, Introduction to computer­aided graphics, missing view, sectional view, assembly,
+
+overview of pictorial representation, and isometric drawing in detail, perspective drawing, lines,
+planes,  auxiliary view,  relationship between  lines and planes  (visibility,  perpendicularity,
+
+parallelism, distances), intersection of lines and planes, intersections of solids and development
+of lateral surfaces.
+Lecture­wise break­up: (please note that the duration of each lecture is 50 minutes)
+
+Topic                                Suggested
+number of lectures
+Introduction to sketching                          1
+Principal views,  principles of dimensioning                   4
+Introduction to computer­aided graphics                    2
+Missing view, sectional view                         3
+Assembly                                1
+Overview of pictorial representation, and isometric drawing in           2
+detail
+Perspective drawing                            2
+Lines, planes, auxiliary view                         4
+Relationship between lines and planes (visibility,                 3
+
+[PAGE 2]
+perpendicularity, parallelism, distances), intersection of lines
+
+and planes
+Intersections of solids and development of lateral surfaces             5
+Total number of lectures                         27
+
+Laboratory Sessions:
+
+Sessions                     Name of Experiment
+1                  Demonstration session: visualization in smoke tunnel
+2       Measurement of pressure around a cylinder for a range of Reynolds Numbers
+3                                 Calibration of force balance
+4                Hot wire: measurement of vortex shedding frequency
+5                    Demonstration session: Mach 3 flow past a cone
+6                    Laboratory Project, session 1: set­up of experiment
+7                        Laboratory Project, session 2: calibration
+8                       Laboratory Project, session 3: measurements
+9               Laboratory Project, session 4: measurements and data analysis
+Total number of laboratory sessions: 9
+
+Suggested text and reference material:
+
+Main differences suggested in this review:
+
+(1) Based on the committee members who among them have taught the course about 10
+times, need for the tutorial is recommended.
+
+(2) Students are introduced to computer­aided graphics right in the beginning.
+(3) It is recommended that most of the laboratory exercises be carried out both by hand as
+
+well as by using the computer.
+
+Member 1         Member 2         Member 3         Member 4
+(Names and signatures of the committee members)

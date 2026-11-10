@@ -1,0 +1,24 @@
+Are you ready for 6G? Transform your career!
+Welcome to the IIT KANPUR Certificate Program on PYTHON + MATLAB/ OCTAVE-Based Simulation and Design of 5G/ 6G Wireless Technologies. With 5G systems being rapidly deployed around the globe, there is accelerated development of Beyond 5G (B5G) and 6G wireless technologies that break the barriers of 5G. This is a unique 5 week cutting edge project based training school that will feature exhaustive lecture modules and several PYTHON/ MATLAB projects/ case-studies on the latest MIMO, Massive MIMO, mmWave MIMO, NOMA technologies for 5G/B5G and OTFS (Orthogonal Time Frequency Space), IRS (Intelligent reflecting surface) for 6G. OTFS is a cutting-edge 2D modulation technique that operates in the Delay-Doppler domain, while IRS is another novel technology that enables dynamically altering the radio propagation environment to achieve a phenomenal boost in the capacities. This certification program will feature exhaustive tutorial style lecture modules and several intensive supervised PYTHON/ MATLAB/ OCTAVE programming modules so that participants are able to gain practical hands-on experience of working on state-of-the-art 5G/ 6G projects. The pioneering technologies that will be covered in this program are
+Module 1: Massive MIMO Module 2: mmWave MIMO Module 3: NOMA Module 4: OTFS Module 5: IRS Module 6: Terahertz
+All the modules will be held on evenings for convenience of participants. The program also includes several Distinguished Lectures by industry leaders! No prior knowledge of PYTHON/ MATLAB/ OCTAVE is required. The school includes introduction to programming in PYTHON/ MATLAB/ OCTAVE, along with TA supervised coding sessions for 5G/ 6G projects.
+Learn the latest 5G/ 6G technologies and PYTHON/ MATLAB/ OCTAVE programming via hands-on projects to prepare for projects/ placements
+Explore research in 5G/ 6G and create PYTHON/ MATLAB/ OCTAVE-based courses, online labs
+Master simulation and analysis of 5G/ 6G MIMO, massive MIMO, mmWave MIMO, NOMA, OTFS and IRS technologies in next generation systems
+Gain expertise in practical implementation via PYTHON + MATLAB/ OCTAVE projects
+Learn PYTHON/ MATLAB/ OCTAVE Programming and master the latest 5G/ 6G technologies! The school follows a well-tested Lecture + Project-based learning approach for complete coverage!
+Our industry participants have come from top global MNCs, Indian R&D Labs below and many more! Our academic participants have come from IITs, NITs, top national and international educational institutions and more!
+Procedure for Anaconda, Spider, MATLAB/ OCTAVE installation for windows: Please note participants are required to use Laptop with PYTHON and MATLAB/ OCTAVE installed. Although participants can use any IDE, preferred installation is ANACONDA and Spyder for PYTHON. MATLAB has to be acquired and installed by participants themselves. Alternatively, participants can use the free software OCTAVE instead of MATLAB. Detailed stepwise procedure to install ANACONDA Spyder for free on windows platform can be found in document below Installation document Once Spyder IDE is running, please run this TEST CODE to make sure your installation is working as expected. The SCREEN SHOT of plot is here The website for download/ installation of OCTAVE is below https://www.gnu.org/software/octave/index Please note that it is the responsibility of the participants to ensure that Anaconda, Spider and MATLAB/ OCTAVE are installed and running smoothly prior to start of the program.
+Important Notes: The school is self-contained and includes research style lecture sessions with concepts, problem formulation, solution approaches, followed by simulation and verification using PYTHON/ MATLAB/ OCTAVE-based projects for 5G/ 6G technologies.
+Registration for the PYTHON + MATLAB/ OCTAVE-Based 5G/ 6G Training School is OPEN
+Target Audience B.Tech/ BE students B.Sc/ BBA/ BCA students M.Tech/ ME students M.Sc/ MBA/ MCA students Ph.D. scholars pursuing research Faculty members of Engineering/ Science/ Management Professionals from Industry and R&D Organizations The school flyer can be downloaded from here [PDF]
+Target Audience
+B.Tech/ BE students
+B.Sc/ BBA/ BCA students
+M.Tech/ ME students
+M.Sc/ MBA/ MCA students
+Ph.D. scholars pursuing research
+Faculty members of Engineering/ Science/ Management
+Professionals from Industry and R&D Organizations
+The school flyer can be downloaded from here [PDF]
+Indian Institute of Technology Kanpur Kanpur, Uttar Pradesh India - 208016

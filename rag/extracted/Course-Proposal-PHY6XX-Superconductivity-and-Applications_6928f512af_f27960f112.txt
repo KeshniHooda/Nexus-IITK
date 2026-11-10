@@ -1,0 +1,137 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course
+
+1.  Course No: A 600 level elective number requested.
+2.  Course Title: Superconductivity and Applications
+3.  No. of Lectures per week: 2 of 75 mins each or 3 (L) of 50 mins each, Tutorial: 0 (T), Laboratory: 0 (P),
+Additional Hours[0-2]: 0 (A),
+Credits (3*L+2*T+P+A): 09                    Duration of Course: Full Semester
+4.  Proposing Department/IDP : PHY.
+Other Departments/IDPs which may be interested in the proposed course: MSE
+Other faculty members interested in teaching the course: -
+5.  Proposing Instructor: Satyajit Banerjee (Phy)
+6.  Course Description:
+
+1. A) Objectives: This PG level elective course will attempt to summarize the vast field of superconductivity and
+its applications. It will discuss different aspects of superconductivity from both theoretical and experimental
+point of view.  I will discuss seminal experiments associated with this phenomenon which led to its
+advancement. The initial part of the course will discuss classical aspects of superconductors, followed by a
+study of their thermodynamic and magnetic properties and electrodynamic response. An overview of the
+diverse and modern (emerging) aspects of superconductors along with discussion of new aspects related
+to phenomena of superconductivity in new emerging materials in the field, devices applications, will be
+discussed. The course will discuss the BCS theory and develop the gap equation near Tc and discuss various
+thermodynamic quantities within the purview of the microscopic theory. Ginzburg Landau theory for
+superconductivity, Abrikosov vortex state, pinning and vortex phases and phase transition in these phases,
+current voltage relationship of a type  II superconductor in the presence of a magnetic field. Study of
+tunneling phenomenon in N-I-S or S-I-S junctions, associated Andreev reflection issues, Josephson effect -
+junctions and their applications (SQUID), Superconductivity and vortex physics at nanoscales and device
+applications and experiments related to superconductivity will be introduced and discussed throughout the
+course at relevant points in the course. Attempts wherever possible will be made to connect some of the
+physics with that of superfluidity. The course will also attempt to review some of the latest developments
+in superconductivity and its applications.
+
+B) Contents:
+
+S. No.  Broad Title                                      Topics                              No. of
+Lectures
+
+1.     Generation of low    General overview and introduction to thermodynamic principles       4
+and ultra low         related to generation of low temperatures. Discussion of Joule
+Temperatures      Thomson effect, concept of Inversion Temperature, Liquefaction
+of Helium, Dilution Refrigerator Principles to reach milli kelvin
+temperatures  and  ADR  technique  together  with  dilution
+techniques  to  reach  down  to  microkelvin  temperatures.
+Discussion of temperature measurement techniques using a
+variety of quantum phenomena.
+2.     Overview of         London’s equation and the Meissner response in superconductors,       6
+Electrodynamics of   Perfect  Diamagnetism and  related  experimental  signatures.
+Superconductors     Superconducting Penetration depth (l). Electrodynamic Response
+of Superconductors (AC  / DC response and high frequency
+
+[PAGE 2]
+response (dissipation) – Discussion of Applications). Complex
+Conductivity and Two fluid Model. Type  I SC and Intermediate
+State (for different geometries). Critical Current density in SC.
+Distinguishing the Superconducting Response from that of an Ideal
+(Prefect) Metal response. Discussion of experimental techniques
+used to measure the magnetization response of superconductors
+like VSM, Torque sensing, Pickup coil techniques, Micro-hall bar
+arrays and Scanning Hall. Superconducting materials both classical
+and  modern,  high  temperature  superconductors,  Pnictide
+superconductors, topological superconductors.
+3.     Thermodynamic      Exploring the Thermodynamics aspects of Superconductors in Zero       5
+Response of           field and in finite applied field. Tc as a phase transition. Order of
+Superconductors     the SC phase transition in zero and applied magnetic field. Type I
+and Type II superconductors, Concepts of Critical Fields. Thermal
+Conductivity of Superconductors. Discussion of some important
+Experiments  Related  to  the  thermodynamic  response  of
+superconductors. Evidence of Energy Gap in DOS.
+4.      Origins of BCS        Ultrasonic attenuation experiment and evidence of presence of       9
+theory and         gap in DOS. Measurements of Surface Resistance and concept of
+Tunneling             Kinetic Inductance and relation of Penetration depth. Isotope
+phenomena           Effect. Pedagogic introduction to BSC theory of Superconductivity,
+related to          Cooper Pairs, Origin of Attractive Interaction. Second quantized
+superconductors     formulation of the BCS Hamiltonian, the BCS trial wavefunction.
+Cooper Pair occupation Probabilities, Evaluation of the Ground
+State energy. Calculation of Excited State energy and Energy Gap,
+DOS, Temperature Dependence of Gap, Tc relation to the gap.
+Concept of Coherence length (x). Tunneling experiments, Normal
+– Normal tunneling, Normal-Insulator-Superconductor Tunneling.
+Brief discussion of Andreev Reflections.
+5.     Ginzburg Landau     Phase coherence in superconductors and the concept of an Order       8
+Theory of           parameter for SC. Discussion of the Ginzburg Landau (GL) free
+Superconductivity   energy formalism and its application to SC, the two differential
+equations arising from minimizing the GL free energy and the
+emergence of lGL and xGL. Proximity effect (N-SC boundary and GL
+solution around it). Type II superconductivity, Flux Quantization
+Phenomena,  Experiment  which  led  to  evidence  of  flux
+quantization,  Discussion  of the Vortex  Structure  in Type   II
+superconductor, Linearlized GL equation, Abrikosov vortex state,
+dependence of Hc1 and Hc2 on lGL and xGL and their temperature
+dependence. Vortex state phenomena, applications, effect current
+on   vortices  and   dissipation   in   SC.  Vortex  Dynamics,
+Nanostructured superconductors.
+6.     Josephson Effect,    Superconducting Phase and Josephson Tunneling, The Josephson       8
+Junctions and          Critical current and Josephson Relations. Short one-dimensional
+Applications       Weak links and the Nature of IV of such Josephson Junctions in
+zero field and applied field. AC and DC Josephson Effect, Deriving
+the equations for the Josephson current in the presence of
+Magnetic flux (parallels with Diffraction phenomena), Quantum
+Interference Phenomena, Introduction and Discussion of the
+Superconducting Quantum Interference Device (SQUID). SQUID
+based Applications. RCSJ Model
+Total number of lectures:       40
+
+[PAGE 3]
+C) Pre-requisites: Phy412, Phy431, Phy432, Phy543
+
+D) Short summary for including in the Courses of Study Booklet: Introduction to the Quantum mechanical
+phenomena of superconductivity and its fascinating manifestation as a macroscopic quantum phenomenon. We
+sample some of the rich diverse properties displayed by this phenomenon and the plethora of ancillary phenomena’s
+displayed by superconductors which have immense applications potential of which some have already been realized
+and used. We discuss some of these applications and devices based on superconductors which are increasingly
+finding use at the frontiers of Quantum technology.
+
+7.  Recommended books:
+Introduction to Superconductivity : A. C. Rose-Innes and E. H. Rhoderick
+Introduction to Superconductivity : Michael Tinkham
+Magnetic Flux structures in superconductors: R. P. Huebner
+Theory of superconductivity: J. R. Schrieffer
+Superconductivity Physics and Applications : Kristian Fossheim and Asle Sudbo
+Superfluidity and Superconductivity: D. R. Tilley and J. Tilley
+Experimental Techniques in Low Temperature Physics, Guy K White and Phillip J. Meeson.
+___________________________________________________________________________________________
+
+Dated: 07 March 2024. Proposer: Satyajit Banerjee (                 ).
+
+Dated: _______________8/3/24     DPGC Convener (PHY):___________________
+
+The course is approved / not approved
+
+____________________________________
+
+Chairman, SPGC
+
+Dated:______________________________

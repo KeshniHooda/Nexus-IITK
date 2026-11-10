@@ -1,0 +1,231 @@
+[PAGE 1]
+Department of Physics
+
+IIT Kanpur
+
+Feedback on ARC from Department of Physics (March 2009)
+
+These suggestions and views are based on the Minutes of the Special Faculty Meeting held on March 01, 2009 ,
+and subsequent discussion of ARC Special Group in physics to articulate the views of the Department.
+
+1.  General Comments
+
+o  The effort of ARC was appreciated. The suggested reforms were generally considered to be in the right
+direction.
+
+o  The analysis in the first part is good, but it is unclear how those issues are addressed in particular in the
+later recommendations ! The changes required in the content are major and mere incremental changes
+may not be effective. The tuning of the structure alone is not enough to get the desired results.
+
+o  The ‘Science based Engg. Education’ may need a clearer articulation keeping the present context in mind,
+though there can be no going back on this.
+
+o   Flexibilities provided will work only if a) the exact target audience is identified; b) the fraction of students
+likely to benefit is estimated; c) conditions of access are laid down and d) responsibility for making the
+particular flexibility work is fixed.
+
+o  The flexibility of minors and second degree has the potential of changing the academic ambience by
+making disciplinary barriers porous and movements easier.
+
+o   Flexibility in duration may be desirable to account for large variation in speed and style of internalizing
+concepts. To reduce stress ceremonial aspects of awarding degree may be done away with !
+
+2.   B.S. Degree Entrance Criteria
+
+•   The B.S. degree will be a non‐standard degree to start with and prospective candidates at JEE counseling will not
+have clear ideas about its future and hence genuinely good students interested in Science degree may shy away.
+The degree may then be filled up with lower ranking students, especially in the face of competition in the
+environment form new Institutions and other Programmes.
+
+3.  Graduation Criteria of CPI being 4.0 and above:
+
+•   The sharp numerical criteria of CPI less than 4.0 for termination will not work since in our system we are used to
+look at individual cases. In effect the AP cases will move to the CPI band 3‐4. This may be invitation to many to
+habitually neglect studies only doing the minimum required to be in AP or just avoid AP.
+
+4.  CORE Programme:
+
+•   The advantages of allowing a student in the core programme to choose sequencing of core courses at her own will
+were debatable. May be this option can be given to the Departments rather than individual students. Logistics of
+
+[PAGE 2]
+offering each of the courses to number of students and half the batch doing at any time does not make it
+organizationally feasible either.
+
+•   Taking half‐courses at the core stage was not favoured by many. This may be tied out in later int eh programme or
+in the PG part. The courses anyway give a dismembered view of a subject – half‐courses would accentuate this
+undesirable feature. Half‐courses can be of use to experienced people with maturity when the academic goals are
+sharpened so that they know what exactly they want and what for.
+
+5.  PROFESSIONAL Programme:
+
+•   Most people were not in favour of making Projects optional. An undergraduate programme should be capped by
+an integrating project. Our failure to regulate and administer projects should not lead us to abandon it. Instead
+more majors should be taken to streamline the project. In fact it should become one’s best part of the UG
+programme.
+
+•   There is a difference between UG Research and UG Project. UG Research should be only for the highly motivated.
+Only a small fraction of the UG Projects would normally qualify as UG Research.
+
+•   Projects must carry letter grades and be compulsory. Project work should not be de‐emphasized as suggested in
+the interim proposals.
+
+6. Answers to Some Questions for the Department:
+
+1. A Minor – an area of sub-specialisation – will consist of 27-36 credits. What Minors
+could your department offer? Please specify the ideal structure of the minor (courses
+and their order). What interdisciplinary minors could you offer in association with other
+departments? What would be their structure?
+
+See Below
+
+2. What would be the structure of 2nd B-Tech/B.S. degree (Major) in your department for
+students from other departments? Specifically, what should be the minimum number of
+credits for award of the 2nd degree? What should be the course / credit mix (choice of
+electives and core courses) for 2nd degree?
+
+See Below
+
+6. In what ways can your department integrate communication skills as a necessary
+evaluative criteria in some of your department courses?
+
+Through Presentations in Project Courses and Introduction to Department.
+
+7. Should we switch from the pattern of two midterm and one end-term exam to one
+midterm and one end-term exam for all courses?
+
+Most people seem to favour single Midsem Exam, though there are some who think tow midesems benefit
+students.
+
+[PAGE 3]
+Suggested Course Structure for Second BS Degree (Physics Major)
+===============================================================
+
+Semester I
+‐‐‐‐‐‐‐‐‐‐
+Phy 401 (Classical Mechanics)
+Phy 461 (Experimental Physics I)
+Phy 552 (Classical Electrodynamics)
+*** / OE
+DE1 (Department Elective)
+
+Semester II
+‐‐‐‐‐‐‐‐‐‐‐
+Phy 412 (Statistical Mechanics)
+Phy 432 (Quantum Mechanics II)
+Phy 462 (Experimental Physics I)
+OE / ***
+DE2 (Department Elective)
+
+Note:
+
+1) Most students going for a Physics Major will have probably taken Phy 431 (QM) earlier; if they have not, Phy
+431 (Quantum Mechanics I) must be taken in the OE slot.
+
+2) *** is one of Phy 407 / 524 / 543
+
+Suggested Physics Minors
+========================
+
+Astrophysics       305 (Physics of the Universe)
+407 (Special and General Relativity)
+CM/QM
+
+Atomic Physics    QM
+524 (Atomic and Nuclear Physics)
+???
+
+Bio Physics        309 (Introductory Biophysics) / 310( Physics of Bio‐materials)
+617 (Physics of Natural Nanomachines) / 619 (Statistical Physics of Biomolecules and Cells) / 641
+(Elements of Bio‐Medical Physics)
+
+[PAGE 4]
+suitable elective (BSBE)
+
+Chemical Physics   QM
+524 (Atomic and Nuclear Physics)
+suitable elective (Chemistry)
+
+Computational Physics   473 / 625 (Computational Methods in Physics)
+627 (Computer Simulations in Physics) / ???
+suitable elective e.g. on Fluid Dynamics (ME/AE)
+
+Condensed Matter Physics QM
+412 (Statistical Mechanics)
+543/622/634/642/624 etc. (any Condensed Matter Physics course)
+
+Energy and Environment   301 (Energy)
+Sociology (HSS)
+Environment (covering sensors) (CE)
+
+High Energy Physics   QM1
+QM2
+680 (Particle Physics)
+
+Laser Technology     303 (Principles of Lasers and their Applications)
+643 (Lasers and Laser Spectra) / 644 (Quantum Electronics)
+elective (LTP)
+
+Low Temperature Physics QM
+634 (Low Temperature Physics)
+Experiments in different laboratories
+
+Mathematical Physics I   ???
+(Algebraic Topology    ???
+Differential Geometry)   elective (MTH)
+
+Mathematical Physics II QM
+Mathematics and Philosophy 407 (Special and General Relativity)
+612 (Group Theory)
+
+[PAGE 5]
+Materials Physics   QM
+308 (Modern Theories of Material Design)
+suitable elective (MSP) / 621 (Electronic Structure of Materials
+
+Nano Physics     QM
+629 (Physics and Terchnology of Thin Fims) / 631 (Physics of Semiconductor Nanostructures) /
+617 (Physics of Natural Nanomachines) / suitable elective
+project (FIB/other lab)
+
+Non‐Linear Dynamics    306 (Order and Chaos)
+322 (Nonlinear Systems)
+elective on computations (e.g. ME)
+
+Nuclear Techniques   QM
+543 (Condensed Matter Physics)
+638 (Nuclear Techniques in Solid State Studies)
+
+Physics and Philosophy   305 (Physics of the Universe)
+QM
+Philosophy (HSS)
+
+Plasma Physics      303 (Principles of Lasers and Applications)
+552 (Classical Electrodynamics I)
+690R (???)
+
+Quantum Information Theory QM
+???
+elective (CSE)
+
+Quantum Optics    QM
+307 (Modern Optics)
+646 (Coherence Optics) / ???
+
+Semiconductor Physics  QM
+312 (Quantum Processes in Low‐dimensional Semiconductors)
+628 (Topics in Semiconductor Physics) / 629 (Physics and Technology of Thin Films) / 631
+(Semiconductor Nanostructures) / MSP
+
+[PAGE 6]
+Spectroscopy     QM
+NMR/EPR          ???
+elective (Chemistry)
+
+Statistical Physics    412 (Statistical Mechanics)
+613 (Advanced Statistical Mechanics) / 615 (Non‐equilibrium Statistical Mechanics)
+elective
+
+‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+Y. N. Mohapatra
+March 28, 2009

@@ -1,0 +1,26 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+Kanpur 208 016 Uttar Pradesh (India)
+Academic Section
+
+Student Awards and Honours
+
+Student’s Name: Mr. Sharath H. Padmanabha, Mr. Fahad Shaikh, Mr. Mayank Bansal,
+Mr. Debanjan Chatterjee and Ms. Preeti Singh
+Programme and Department: MTech/CSE
+Thesis Supervisor/Mentor: Prof. Purushottam Kar and Prof. Amey Karkare
+
+Award/Honour: ISEC 2023 best paper award
+
+Host Organization:
+
+Brief Description of the Award/Honour Sharath H. Padmanabha, Fahad Shaikh,
+Mayank Bansal, Debanjan Chatterjee, Preeti Singh have been selected as the best
+paper in the 16th Innovations in Software Engineering Conference to be held in
+February 2023. the paper titled ``Advances in Automated Pedagogical Error Repair''.
+The paper is about innovative use of machine learning techniques typically used in
+ranking and recommendation systems to perform program repair on erroneous
+code submissions by students in our ESC101 course. The system isbeing integrated
+into the Prutor platform.
+
+Date: January 12, 2023

@@ -1,0 +1,117 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course (Inter Departmental Course with AE, SEE, ME)
+
+A) Course No: IDC/AE6##/SEE6##/ME6## or IDC/AE7##/SEE7##/ME7## Graduate Level Course, open to
+final year UGs
+B) Course Title: Thermal Management of Electronics
+C) Per Week Lectures: 3 (L), Tutorial: 0, Laboratory: 0 (P), Additional Hours: 0 (A)
+
+Credits (3*L+2*T+P+A): 9              Duration of Course: Full Semester
+
+D) Proposing Department/IDP: Aerospace Engineering
+Other Departments/IDPs which may be interested in the proposed course: EE, MSE
+Other faculty members interested in teaching the proposed course:
+E) Proposing Instructor(s): Prof. Vaibhav Arghode (AE and SEE), Prof. Jishnu Bhattacharya (ME), Prof.
+Rakesh Kumar (AE)
+[Late Prof. Sameer Khandekar (ME) originally drafted this course proposal]
+F)  Course Description:
+A) Objectives: The objective of this course is to expose the graduate students with the nuances of
+thermal management of electronics. This suggested lecture plan covers a variety of essential and
+contemporary topics, and exposure to academic as well as industrial research topics in the art. After
+completing this course, the students should be able to appreciate, understand, analyse and design
+thermal management solutions based on the need and different constraints posed by the specific
+requirement. Accordingly, the objectives are as following:
+  To establish fundamental understanding of heat transfer in electronic equipment.
+  To be able to select a suitable cooling process for electronic components and systems.
+  To increase the capabilities of graduate students in design and analysis of cooling of electronic
+packages.
+B) Contents (preferably in the form of 5 to 10 broad titles):
+
+No. of
+S.No. Broad Title                                         Topics
+Lectures
+Introduction  and   significance,  power   dissipation   in
+1. Introduction           electronics  circuits, interconnects, high frequency losses,   4
+electronic packaging
+Basics of heat transfer: conduction, convection, radiation,
+Heat Transfer
+2.                          boiling and condensation,  electronics  cooling,   thermal   4
+Fundamentals
+resistance and heat flow paths in packages
+Contact  resistance,  thermal  interface  materials  (TIMs):
+Thermal Interface
+3.                        greases, pads, phase change materials, TIM selection and   4
+Materials
+performance
+Introduction to        Air cooling, liquid cooling and cold plates, microchannel heat
+4.                                                                        6
+Cooling Techniques    sinks, heat sink design and analysis
+Heat pipes:  principle and  applications, vapor chambers,
+Introduction to Two-
+5.                    thermosyphons and  capillary pumped  loops, immersion   6
+Phase Cooling
+cooling
+
+Power Electronics     Cooling strategies for power electronics, jet and spray cooling
+6.                                                                        4
+Thermal Challenges    in power electronics, high heat flux cooling
+
+1
+
+[PAGE 2]
+Case  studies:  thermal  management  in  data  centers,
+System-Level Thermal
+7.                     automotive electronics, electric vehicle motors, batteries,   8
+Management
+solar photovoltaics, avionics
+Advanced  packaging  and  integration,  microscale  and
+Emerging Trends and
+8.                      nanoscale  thermal  management,  eco-friendly  cooling   4
+Future Directions
+solutions
+
+C) Pre-requisites, if any (examples: a- PSO201A, or b- PSO201A or equivalent):
+Undergraduate course in Thermodynamics and Heat Transfer (ESO201/SEE604, AE608/ME341/SEE601
+or equivalent)
+
+D) Short summary for including in the Courses of Study Booklet
+
+Introduction to Thermal Management of Electronics, electronic packaging, power dissipation in
+electronic circuits, heat transfer, thermal interface materials, various cooling techniques, air cooling,
+liquid  cooling, cold  plates, microchannels, two-phase  active and passive  cooling, heat pipes,
+thermosyphons, immersion cooling, power electronics cooling, jet and spray cooling, automotive and
+battery cooling, data center thermal management, microscale and nanoscale cooling
+
+G) Recommended books:
+Textbooks:
+1. Thermal Management of Electronics by Y. Shabany, CRC Press, 2010.
+2. Thermal Management of Microelectronic Equipment by L. T. Yeh, R. C. Chu, ASME Press, 2002.
+3. Thermal Design of Electronic Equipment by Ralph Remsburg, CRC Press, 2001.
+Reference Books:
+1. Cooling Techniques for Electronic Equipment by D. Steinberg, WILEY, 1991.
+2. Liquid Vapor Phase-Change Phenomena by V. P. Carey, CRC Press, 2020.
+3. Heat Pipe Science and Technology by A. Faghri, Taylor and Francis, 1995.
+4. Introduction to Heat Pipes by Bud Peterson, WILY, 1994.
+5. Handbook of Thermal Engineering by R. P. Chhabra, CRC Press, 2018.
+6. Fundamentals of Microsystems Packaging by R. R. Tummala, McGraw Hill, 2001.
+7. Heat Transfer and Fluid Flow in Minichannels and Microchannels by S. Kandlikar, S. Garimella, D. Li, S.
+Colin, M. King, Elsevier, 2014.
+8. Energy Efficient Thermal Management of Data Centers by Y. Joshi, P. Kumar, Springer, 2012.
+9. Fundamentals of Heat and Mass Transfer by F. P. Incropera, D. P., Dewitt, T. L. Bergman, A. S. Lavine,
+WILEY, 2013.
+
+H) Any other remarks: The course will be open to final year UG students
+
+Dated: August 12, 2025                                          Proposers:____                 ____
+
+Dated:                                              DUGC/DPGC Convener: __________
+
+The course is approved / not approved
+
+Chairman, SUGC / SPGC
+
+Dated:
+
+2

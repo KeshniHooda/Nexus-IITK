@@ -1,0 +1,82 @@
+[Page 1]
+Indian Institute of Technology, Kanpur
+Proposal for a New Course
+1. Course No: SPA698X
+2. Course Title: Key concepts in Astrobiology and Space Biology
+3. Lectures per week: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional hours: (0-2): 0 (A), Credits
+(3*L+0*T+0*P+0*A): 5,
+Duration of Course: Half Semester Modular Course
+4. Proposing Department: Space, Planetary and Astronomical Sciences and Engineering (SPASE)
+5. Proposing Instructor: Yamini Jangir and Kunal Mooley
+6. Course Description:
+a. Objectives: This course provides an in-depth understanding of astrobiology and space biology
+with a focus on future ISRO missions, including Chandrayaan-4, Chandrayaan-5, the Bharatiya
+Antariksha station, planned Venus and Mars missions. Students will explore key principles of life
+sciences in space, focusing on biosignature detection and microbial survival in extreme
+environments. The course will examine the biological challenges of human spaceflight, planetary
+protection protocols, and contributions to global astrobiology research by NASA, ESA, and ISRO,
+preparing students to contribute to upcoming space missions and advance life sciences research
+in space exploration contexts.
+b. Contents (preferably in the form of 5 to 10 broad titles):
+i.
+Life on Earth [4 lectures]: the formation of organic molecules in primordial conditions,
+the role of hydrothermal vents; the significance of RNA in the hypothesis of the first
+self-replicating systems; the emergence of cellular life; the development of metabolic
+pathways; and the rise of oxygenic photosynthesis.
+ii.
+Earth Life in Space Environments [5 lectures]: microbial adaptations to space physical
+extremes, such as temperature, radiation, pressure, gravity, and geochemical extremes
+(e.g., desiccation, salinity, pH, depletion of oxygen or extreme redox potential).;
+simulating the lunar and martial environment on Earth.
+iii.
+Biosignatures of Life in Space [5 lectures]: definition of life; seeking for life as we know
+it; seeking for life as we don’t know it; potential biosignatures of life in space; molecular,
+isotopic, and morphological biosignatures, such as specific organic molecules, isotopic
+ratios, and microfossil structures; understanding the limitations of current detection
+methods and discussing the implications of potential discoveries for our understanding
+of life in the universe; identifying potential biosignatures in spectral data
+iv.
+Space Instrumentation for Life Studies [5 lectures]: approaches to in-situ life detection
+and monitoring life in space; mission science to flight hardware; planetary protection
+and contamination control; sample handling and fluidics; thermal environment and
+regulation; radiation resistance; virtual prototyping; platform for instrument validation
+(lab, ballon, rocket, cubesat, ISS, AUVs. etc).
+v.
+Astrobiology and Space Biology in the context of Indian space missions [2 lectures].
+Gaganyaan and human spaceflight. Chandrayaan-4, Chandrayaan-5, Bharatiya Antariksha
+station, Venus and Mars missions (detection of biosignatures).
+c.
+Pre-requisites, if any: N/A
+d. Short summary for inclusion in the Courses of Study Booklet:
+This course delves into the exciting field of astrobiology and space biology. We will examine the
+beginning, diversity, and resilience of life on Earth, understanding the fundamental conditions
+necessary for its existence. Next, we explore the challenges and possibilities of Earth life
+surviving in the harsh conditions of space, providing a basis for considering extraterrestrial life.
+The core of the course focuses on identifying potential biosignatures—chemical or physical
+
+[Page 2]
+traces of life—that could be detected on distant planets. We will explore various types of
+biosignatures and discuss their potential as indicators of extraterrestrial life. We will also
+examine the advanced instrumentation used in space missions to detect and analyze these
+biosignatures, providing insights into the technological frontiers for astrobiology and space
+biology. Finally, we will delve into Astrobiology and Space Biology in the context of Indian space
+missions planned for low-Earth orbit, Moon, Venus and Mars.
+7. Recommended Books: The teaching material will be taken from the books mentioned below. Handouts
+will be provided regularly as the course progresses.
+●
+Astrobiology: An Introduction; Kevin W. Plaxco and Michael Gross; ‎ISBN: 978-1421441290
+●
+Life Everywhere: The New Science of Astrobiology; David Darling; ISBN: ‎978-0465015641
+●
+Planetary Astrobiology; Victoria Meadows; ‎ISBN: 978-0816540068
+●
+Fundamentals of Space Biology: Research on Cells, Animals, and Plants in Space; Gilles
+Clément, Klaus Slenzka; ISBN: 978-0387331133
+8. Any other remarks:
+Dated:
+Proposer:
+Dated:
+DUGC/DPGC Convener:
+The course is approved/not approved
+Chairman, SUGC/SPGC
+Dated:

@@ -1,0 +1,64 @@
+[PAGE 1]
+REGISTRATION DATA STATISTICS FOR 2010-11/FIRST
+
+TOTAL NUMBER OF COURSES BEING OFFERED =                       448
+EXLCUDE THE THESIS COURSE, SEMINOR, PROJECT, BTP,               327
+SUMMER TRAINING, PRESENTATION
+
+MAXIMUM CLASS SIZE (MTH101N)                                    830
+MINIMUM CLASS SIZE 1 (AT PRESENT THERE ARE 327 COURSES)        6
+
+AVERAGE CLASS SIZE (OF ALL 327 COURSES )                          50.76
+NUMBER OF COURSES WITH 5 STUDENTS OR LESS                      21
+NUMBER OF COURSES WITH 100 STUDENTS OR MORE                   19
+
+AVERAGE CLASS SIZE OF COURSES THAT HAVE                        34.74
+> 5 AND LESS THEN 100 STUDENTS
+
+THE FOLLOWING IS THE NO OF COURSES WITH VARIOUS CLASS
+STRENGTH
+
+1           6
+2           4
+3           2
+4           3
+5           6
+6-10        29
+11-15       37
+16-20       26
+21-25       33
+26-30       24
+31-50       64
+51-75       43
+76-100       31
+> 100       19
+
+327
+
+[PAGE 2]
+11 Oct. 2010
+Upload4.pdf
+
+2010-11 FIRST SEMESTER
+LIST OF COURSES IN WHICH <= 5 STUDENTS REGISTERED.
+
+CE342    J N MALIK                         1
+ENG748  ACHALA M RAINA                   1
+ENG751  T RAVICHANDRAN                  1
+SOC721  B K PATTNAIK                      1
+SOC746  M JHA                             1
+SOC750  A CHAKRABARTI                   1
+ECO734  P KULSHRESHTHA                  2
+ECO738  K K SAXENA                       2
+ENG754  C PUTTASWAMY                    2
+SOC723  A K SHARMA                       2
+ENG750  G NEELAKANTAN                   3
+MTH663  T MUTHUKUMAR                    2
+AE652   A KUSHARI                        4
+ECO752  SOMESH K MATHUR                 4
+EE632   S CHAKRABARTI                   4
+CE683   PARTHA CHAKRABORTY            4
+CHE681  N KAISTHA                         5
+MME663  ASHISH GARG                      5
+MTH701  M BANERJEE                       5
+PHI784  N GUHA                           5

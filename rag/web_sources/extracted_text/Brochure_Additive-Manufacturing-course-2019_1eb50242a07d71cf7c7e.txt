@@ -1,0 +1,254 @@
+[Page 1]
+A Short Term Course 
+on 
+ADDITIVE MANUFACTURING 
+February 11 – February 15, 2019 
+ (Application form should contain the following 
+Information printed on A4 size paper) 
+ 
+Name: 
+Position: 
+Department: 
+Institution/Organization: 
+Address: 
+E-mail Address: Mobile No.: 
+ 
+Educational Background (starting from B.E./B.Tech): 
+Degree 
+Field of 
+Specialization 
+ 
+Institution 
+% marks/ 
+CGPA/CPI 
+ 
+Year 
+Rank in 
+the class 
+B.E./B.Tech. 
+M.E./M.Tech. 
+Ph.D. 
+
+ 
+
+ 
+Areas of Research Interest: _________________________ 
+ 
+Have you attended any course on "Additive Manufacturing" at 
+IITK or elsewhere: Yes / No 
+(If yes, please give details……………………………………………….) 
+ 
+Note: Candidates from the teaching institutions should send the 
+refundable caution money deposit only after getting the 
+confirmation of their selection. 
+
+ 
+Recommendation Signature of applicant 
+
+Signature of Head of the Department 
+/ Head of the organization (with seal). 
+ 
+Additive Manufacturing Process Flow (Source: DUPress.com) 
+
+*IMPORTANT DATES 
+ For College Teachers 
+ Receipt of application through email: Jan. 21, 2019 
+ Selected candidates list: Jan. 22, 2019 
+ Receipt of payment: Jan. 23, 2019 
+ 
+For Participants from Industries, R&D Labs, and PhD 
+Scholars 
+ Receipt of application through email: Jan. 21, 2019 
+ Selected candidates list: Jan. 22, 2019 
+ Receipt of payment: Jan. 23, 2019 
+ 
+ADDRESS FOR CORRESPONDENCE 
+Dr. Arvind Kumar/ Dr. Niraj Sinha 
+Department of Mechanical Engineering 
+Indian Institute of Technology Kanpur 
+Kanpur‐ 208016 
+E‐mail: arvindkr@iitk.ac.in / nsinha@iitk.ac.in 
+Phone: 0512‐259 7484(O); 259 7196(O) 
+
+A Short Term Course 
+On 
+Additive Manufacturing 
+For Engineering College Teachers, 
+Practicing Engineers and Scientists 
+February 11 – February 15, 2019 
+ 
+Sponsored by 
+All India Council of Technical Education, 
+New Delhi 
+ 
+Coordinators: Dr. Arvind Kumar, Dr. Niraj Sinha 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Department of Mechanical Engineering 
+Indian Institute of Technology, Kanpur 
+ 
+All India Council of Technical Education, 
+New Delhi
+
+[Page 2]
+INTRODUCTION 
+
+ An intensive course on Additive Manufacturing will be offered 
+during February 11‐15, 2019, under the Continuing Education 
+Programme of I.I.T. Kanpur. It is sponsored by Quality 
+Improvement Programme, All India Council of Technical 
+Education, New Delhi. The course is designed to cater the needs 
+of teachers, scientists from R & D houses and Labs, and practicing 
+engineers from industries. This programme will be specifically 
+useful for persons who are concerned with training / teaching, 
+research, and industrial applications of additive manufacturing, 
+manufacturing of complex parts, CAD for additive manufacturing, 
+bio‐additive manufacturing, modelling, to name a few. 
+
+OBJECTIVE 
+ 
+ Additive Manufacturing (AM) is a process of joining materials 
+to make objects from 3D model data, usually layer upon layer, as 
+opposed to subtractive manufacturing methodologies, such as 
+traditional machining. The basic principle of AM is that a model, 
+initially generated using a three‐dimensional Computer Aided 
+Design (3D CAD) system, can be fabricated directly. AM 
+technologies have significantly evolved over the last decade. 
+Because of their potential to extensively transform the nature of 
+manufacturing processes, e.g., by enabling “Freedom of Design” 
+several industries have been attracted by these technologies. 
+Using AM, manufacturing of highly complex parts can be an 
+economically viable alternative to conventional manufacturing 
+technologies. 
+
+ 
+Powder bed based AM process; Temperature map in single‐layer powder bed 
+melting; Crank shaft made using FDM process (images from left to right) 
+ 
+AM processes can be categorized by the type of material used, 
+the deposition technique or by the way the material is fused or 
+solidified. Over the years, many AM processes have emerged 
+with each of them having their own advantages and limitations. 
+ 
+The primary objective of the present course is to acquaint the 
+participants with the concept of AM, various AM technologies, 
+materials science aspect for AM, modelling of AM processes, and 
+their applications in various fields. Towards modelling in AM, 
+relevant case studies have been included to expose the 
+participants to the mathematical models for AM to describe the 
+transport phenomena such as heat/mass transfer and fluid flow. 
+The course will also cover AM process plan including building 
+strategies and post‐processing. 
+ 
+COURSE CONTENT 
+ 
+ Introduction to Additive Manufacturing 
+ CAD for Additive Manufacturing 
+ Material Science Aspects in Additive Manufacturing 
+Different materials used in AM, Use of multiple materials, 
+multifunctional and graded materials in AM, Role of cooling 
+rate. 
+ Various Additive Manufacturing Processes 
+Powder‐based AM processes (SLM, SLS, LMD), Printing 
+processes (droplet‐based 3D printing), Fused deposition 
+modelling (FDM), Laminated object manufacturing, 
+Stereolithography, Micro‐ and nano‐additive manufacturing. 
+ Modelling in Additive Manufacturing 
+Transport phenomena models: thermal and fluid flow, molten 
+pool, residual stress, Various case studies ‐ modelling of 
+powder‐based AM process, droplet‐based printing process. 
+ Applications of Additive Manufacturing 
+Aerospace, Automotive, Electronics industries and Biomedical 
+applications. 
+ Demo of FDM and SLM Machine 
+Additive Manufacturing Lab visit 
+ 
+FACULTY 
+ 
+ Speakers shall be drawn from various disciplines of different 
+IITs and other institutions of higher learning, and related 
+industries and R&D organizations of different parts of the 
+country. 
+ 
+COURSE FEE 
+ 
+FOR COLLEGE TEACHERS ONLY 
+ There is no course fee for the sponsored teachers from 
+engineering colleges (only those approved by AICTE, New Delhi). 
+They will be paid to and fro 3rd AC class train fare via shortest 
+Route (strictly on production of ticket), and free boarding and 
+lodging in the visitors hostel extension of IIT Kanpur. The 
+applications of the teachers from the accredited colleges should 
+reach the course coordinator latest by 21st Jan, 2019 giving the 
+information as mentioned in the Proforma. The engineering 
+College teachers are required submit their application duly 
+recommended by the Head of the Institution/Department 
+through email. The candidate should have minimum qualification 
+as B.E. / B.Tech. / B.Sc. (Engineering). However, candidates with 
+M.E. / M.Tech. / M.Sc. (Engineering) will be given preference. 
+The candidates with Ph.D. degree with manufacturing 
+specialization are most welcome, and will be given the highest 
+priority. 
+ For the selected candidates: The selected candidates will have 
+to send a refundable caution deposit of Rs. 1,000/‐ to ensure 
+their seat in this course. This amount will be refundable only to 
+those teachers who attend the course (Please do not send the 
+money until you get selection confirmation). 
+ 
+FOR PARTICIPANTS FROM INDUSTIERS AND R & D LABS 
+ Private and public sector industries, R & D Labs, teaching 
+Institutions and other organizations are welcome to depute their 
+executives, managers, teachers and engineers to participate in 
+the course. The sponsoring organizations are required to pay a 
+registration fee of Rs. 18,000/ per participant. The participants 
+will have to make their own arrangements to meet their travel 
+and boarding & lodging expenses. Boarding and lodging can be 
+arranged in IITK guest house based upon prior request. 
+Applications on a separate sheet giving the information shown in 
+the proforma should reach the Course Coordinator latest by 21st 
+Jan, 2019. 
+ 
+ FOR PHD SCHOLARS 
+ For Ph.D. Scholars, the registration fee is Rs. 4,500/. They have 
+to bear their travel and boarding & lodging expenses. Boarding 
+and lodging can be arranged in IITK guest house based upon 
+prior request. Applications on a separate sheet giving the 
+information shown in the proforma should reach the Course 
+Coordinator latest by 21st Jan, 2019. 
+ 
+PAYMENT DETAILS 
+
+ The registration fee or refundable caution money deposit 
+should be sent by bank transfer. After completing the bank 
+transfer email the details of the payment along with your name. 
+
+Account name: M F S Course 
+Account number: 34783101142 
+Bank: State Bank of India, IIT Kanpur Branch 
+IFS Code: SBIN0001161 
+The list of the selected candidates and other useful information 
+will be provided on the website 
+http://home.iitk.ac.in/~arvindkr/

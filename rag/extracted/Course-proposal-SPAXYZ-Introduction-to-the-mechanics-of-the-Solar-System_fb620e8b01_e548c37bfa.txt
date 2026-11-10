@@ -1,0 +1,48 @@
+[PAGE 1]
+Proposal for a new course
+
+Course title: Introduction to the mechanics of the Solar System
+Course no.: SPA XYZ
+Proposer: Ishan Sharma, Sharvari Nadkarni-Ghosh
+Department: Space, Planetary & Astronomical Sciences and Engineering (SPASE)
+Credits: 5 (3-0-0-0)
+Pre-requisite: Basic course in mechanics and adequate exposure to calculus.
+Note: This modular course will be part of the PG compulsory course basket in the department.
+
+Course description and contents:
+
+This course helps describe various observed aspects of the Solar System employing relatively simple
+mechanical models. The same principles help further man’s exploration of its immediate celestial
+neighbourhood. The lecture distribution is given below in terms of 50 minute lectures.
+
+1. Introduction to the Solar System – 1 lecture
+
+2. The 1- and 2- body problems; orbital elements; applications – 5 lectures
+
+3. The restricted 3- body problems and their applications – 6 lectures
+
+4. Rotational and tidal effects. Shapes of solar system bodies – 6 lectures
+
+5. Secular perturbations and resonances – 3 lectures
+
+Textbooks and references:
+
+1. Bertotti, B., P. Farinella and D. Vokrouhlicky 2003. Physics of the Solar System: Dynamics
+and Evolution, Space Physics, and Spacetime Structure. Springer.
+
+2. Danby, J. M. A. 1964. Fundamental of Celestial Mechanics. New York: Macmillan.
+
+3. Diacu, F., and P. Holmes 1996. Celestial Encounters. Princeton U. Press.
+
+4. Fitzpatrick, R. 2012. An Introduction to Celestial Mechanics. Cambridge U. Press
+
+5. Gurzadyan, G. A. 1996. Space Dynamics. London: Taylor & Francis.
+
+6. Murray, C. D., and S. F. Dermott 1999. Solar System Dynamics. Cambridge Univ. Press.
+
+7. Roy, A. E. 2005. Orbital Motion, 4th ed. CRC Press.
+
+Signature of the Proposer
+
+This course is APPROVED/NOT APPROVED Convener, DPGC
+This course is APPROVED/NOT APPROVED Chairman, SPGC

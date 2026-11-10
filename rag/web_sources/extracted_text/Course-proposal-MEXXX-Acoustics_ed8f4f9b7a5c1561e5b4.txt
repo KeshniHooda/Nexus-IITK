@@ -1,0 +1,94 @@
+[Page 1]
+Indian Institute of Technology Kanpur 
+Proposal for a new course 
+ 
+1. Course no: ME XXX 
+2. Course title: Acoustics 
+3. Per week lectures: 3 (L), tutorial: 0 (T), laboratory: 0 (P), additional hours [0--2]: NA (A), 
+Credits (3*L + 2*T + P + A) = 9 
+
+ Duration of course: Full semester 
+4. Proposing department/IDP: Mechanical 
+Other departments/IDPs which may be interested in the proposed course: Aerospace 
+Other faculty members interested in teaching the proposed course: 
+5. Proposing instructor(s): Aditya Saurabh 
+6. Course description: 
+(A) Objectives: Introduce concepts and methods to understand acoustic waves in fluids and 
+solving associated academic and industrial problems. 
+(B) Contents (preferably in the form of 5 to 10 broad titles): 
+S. No. 
+Broad Title 
+Topics 
+Lectures 
+(50 min) 
+1 
+Acoustics in fluids — 
+introduction 
+Sound, fluid momentum and energy, acoustic 
+energy and power, acoustic displacement and 
+velocity, propagation of acoustics, one-dimensional 
+wave equation 
+2 
+2 
+Oscillations and waves 
+Oscillations, vibratory motion, damped vibrations, 
+forced oscillations, resonance, wave motion, 
+oscillators, coupled oscillators, wave motion and 
+flow of energy in coupled oscillators, waves on 
+strings and membranes 
+6 
+3 
+Wave motion in fluids 
+Wave motion, energy, momentum, traveling 
+acoustic wave, wave reflection at surfaces and 
+discontinuities, energy loss mechanisms, plane 
+waves, plane wave propagation and attenuation 
+8 
+4 
+Sound sources and 
+radiation 
+Simple sound source, dipole source, quadrupole 
+and multipole source, acoustic sound generation 
+and radiation from stationary sources, Green’s 
+8
+
+[Page 2]
+function for sources, acoustic sound from moving 
+sources, sound generation by flow 
+5 
+Acoustic standing waves 
+Acoustic transmission lines, non-planar modes, 
+reflections from discontinuities, standing waves in 
+cavities, coupled cavities, reverberation chambers 
+8 
+6 
+Acoustic resonators and 
+passive damping devices 
+Organ pipe, Rijke tube, Helmholtz resonator, 
+quarter-wave resonator, dissipation at an orifice, 
+acoustic liners, characterization of acoustic devices 
+7 
+
+(C) Recommended pre-requisites: Undergraduate level fluid mechanics and thermodynamics 
+(D) Short summary: The course is designed for students interested in understanding fundamental 
+aspects of acoustics in fluids. The course opens with a discussion on oscillations and waves in 
+general. The discussion is subsequently developed further in the context of acoustics in fluids. 
+The relevant governing equations are developed. Wave propagation and dissipation is 
+discussed. Discussion on sound generation mechanisms and sound sources is taken up next. 
+The special case of standing acoustic waves (as opposed to traveling acoustic waves) which 
+constitutes a large number of practical scenarios is discussed. Finally, the developed 
+framework is applied to practical acoustic devices: resonators and passive damping devices. 
+7. Recommended books: 
+Textbooks: NA 
+Reference books: 
+Sound and Sources of Sound, Dowling, A. P. and Ffowcs Williams, J. E. F., E. Norwood, 1983 
+Theoretical Acoustics, Morse, Philip M. and Ingard, K. Uno, Princeton University Press, 1986 
+8. Any other remarks: 
+ 
+Dated: __13.11.2024__ Proposer: __Aditya Saurabh__ 
+Dated: ____________ DPGC Convener: ________________________ 
+ 
+The course is approved/not approved 
+ 
+Chairman SPGC 
+Dated: _____________

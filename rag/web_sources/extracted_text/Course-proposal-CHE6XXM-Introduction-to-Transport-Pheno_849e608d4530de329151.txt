@@ -1,0 +1,147 @@
+[Page 1]
+Indian Institute of Technology Kanpur 
+Proposal for a New Course 
+1. Course No: CHE6XX 
+2. Course Title: Introduction to Transport Phenomena 
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours[0-2]: 0 (A), 
+Credits (3-0-0-0): 6 
+
+ 
+
+ 
+ 
+Duration of Course: Modular 
+4. Proposing Department: Department of Chemical Engineering 
+ 
+Other Departments/IDPs which may be interested in the proposed course: NA 
+ 
+Other faculty members interested in teaching the proposed course: Indranil Saha Dalal, Dipin S. 
+Pillai, Akash Chaudhary 
+5. Proposing Instructor(s): Naveen Tiwari (naveent@iitk.ac.in) and V. Shankar 
+(vshankar@iitk.ac.in) 
+6. Course Description: 
+A) Objectives: 
+The course will expose fresh PhD students to basic concepts of Transport Phenomena 
+along with some simple examples. 
+B) Contents (preferably in the form of 5 to 10 broad titles): 
+Lecture-wise break-up (considering the duration of each lecture is 50 minutes) 
+S. 
+No. 
+Broad Title 
+Topics 
+No. of 
+Lectures 
+1. 
+Vectors, Tensors, and their 
+calculus 
+Stress tensor and velocity gradient tensor: 
+Sec 7.3.2 and 7.3.3 of V. Kumaran 
+Gradient, Divergence and Curl: Appendix 
+7A, 7B, and 7C of V. Kumaran 
+2 
+2. 
+Basic concepts of diffusion 
+and convection 
+Convective and diffusive fluxes - Sec. 2.1.1 
+and 2.1.2 of V Kumaran 
+Mass, heat, and momentum diffusion - Sec. 
+3.1 of V Kumaran 
+1 
+3. 
+Steady and Unsteady 
+unidirectional shell balance 
+for Heat, Mass, and Linear 
+momentum transport in 
+Rectangular Coordinates 
+Governing conservation equations (Sec. 4.1 
+of VK) 
+Steady heat conduction in single and 
+multiple slabs (Sec. 4.2 of VK) 
+Steady laminar flow down an inclined plane 
+(Sec. 4.2 of VK) 
+Steady diffusion with homogeneous reaction 
+(Sec. 4.2 of VK) 
+Unsteady transport into an infinite medium - 
+similarity solution (Sec. 4.4 of VK) 
+Steady diffusion into a falling liquid film 
+(Sec. 4.4.1 of VK) 
+Transient conduction in a slab of finite 
+thickness - separation of variables solution 
+(Sec. 4.7 of VK) 
+4 
+4. 
+Steady and Unsteady 
+unidirectional shell balance 
+for Heat, Mass, and Linear 
+momentum transport in 
+Curvilinear Coordinates 
+Governing conservation equations in 
+cylindrical coordinates (Sec. 5.1 of VK) 
+Steady solutions for conduction/diffusion in 
+cylindrical coordinates (5.1.2 of VK) 
+Heat conduction from a thin wire into an 
+6
+
+[Page 2]
+infinite medium - similarity solution (5.1.3 of 
+VK) 
+Unsteady heat conduction into a cylinder - 
+separation of variables solution (Sec. 5.1.4 of 
+VK) 
+Governing equations in spherical coordinates 
+(5.2 of VK) 
+Steady conduction from a spherical particle 
+(5.2.2 of VK) 
+Unsteady conduction in a sphere - separation 
+of variables solution (5.2.3 of VK) 
+5. 
+Forced convection, concept 
+of Boundary Layers, 
+Scaling analysis 
+Flow past a heated surface - derivation of 
+Nusselt number - Peclet number correlation 
+(9.1.1 of VK) 
+Convective heat transfer due to flow around 
+a solid particle (9.1.3 of VK) 
+Convective heat transfer in flow past a 
+mobile/fluid interface (9.2 of VK) 
+7 
+Total 20 
+ 
+C) Recommended pre-requisites, if any (examples: a- PSO201A, or b- PSO201A or 
+equivalent): None 
+D) Short summary for including in the Courses of Study Booklet: 
+Introduction to vectors, tensors and their calculus, basic concepts of convective and 
+diffusive transport of mass, heat and momentum, steady and unsteady unidirectional 
+transport in rectangular and curvilinear coordinates, boundary layer and scaling analysis 
+7. Recommended text/reference books: 
+A) V. Kumaran, Fundamentals of Transport Processes with Applications, Cambridge 
+B) Bird, Stewart, Lightfoot, Transport Phenomenon, Wiley. 
+8. Any other remarks: None 
+ 
+Dated: 08/02/25 
+
+ 
+ 
+Proposer: NT, VS 
+
+Dated: 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+DPGC Convener: 
+
+ 
+The course is approved / not approved 
+
+ 
+ 
+Chairman, SUGC 
+ 
+Dated:

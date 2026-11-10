@@ -1,0 +1,81 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course
+
+1.  Course No: ME6XX
+
+2.  Course Title: Computational Mathematics for Engineers
+
+3.  Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours: 0 (A), Credits
+
+(3*L+2*T+P+A): 9         Duration of Course: Full Semester / Modular
+
+4.  Proposing Department/IDP: Mechanical Engineering
+
+Other Departments/IDPs which may be interested in the proposed course: AE
+
+Other faculty members interested in teaching the proposed course:
+
+5.  Proposing Instructor(s): Malay K. Das, Abhishek Sarkar, Manjesh K. Singh, Anurag Gupta
+6.  Course Description:
+
+A) Objectives:
+The course covers mathematical theories and computer implementation of advanced numerical
+methods for solving mechanical engineering problems. Successful completion of this course will help
+the students solve problems in various areas, including computational mechanics and data-driven
+engineering.
+
+B) Contents (preferably in the form of 5 to 10 broad titles): 39 lectures
+
+S. No      Broad Title                            Topics                       No. of Lectures
+
+1.     Numerical Linear       Vector spaces, projections, least squares; LU,       9
+Algebra                Cholesky, QR decompositions, sparse matrix solvers
+
+2                            Eigenvalue problems, Diagonalization, SVD        6
+
+3     Numerical Optimization Unconstrained optimization, gradient-descent      6
+methods, Newton and quasi-Newton methods; line
+search; constrained optimization
+
+4      Probability          Random Variables and Probability Distributions; joint 3
+and conditional distributions; multivariate
+distribution
+
+5      Fourier Analysis and    Fourier series, Fourier Transform, FFT             6
+Differential Equations
+6                            Canonical PDEs; Finite Difference Solution of ODEs  9
+and PDEs; Stability, Consistency, Convergence
+
+C) Pre-requisites, if any (examples: a- PSO201A,or b- PSO201A or equivalent): NIL
+
+D) Short summary for including in the Courses of Study Booklet
+
+Vector space, projection, matrix decompositions, sparse matrix solvers, eigenvalue problems, SVD;
+numerical methods for constrained and unconstrained optimization problems; introductory concepts
+of probability; Fourier analysis, ODEs and PDEs
+
+[PAGE 2]
+7.  Recommended books:
+Textbooks: E. Kreyszig, Advanced Engineering Mathematics, 10th ed., John Wiley & Sons, Inc
+
+Reference Books:
+1.  Trefethen and Bau, Numerical Linear Algebra, SIAM
+2.  Nocedal and Wright, Numerical Optimization, Springer
+3.  Hogg et al., Mathematical Statistics, 8th ed., Pearson
+4.  LeVeque, Finite Difference Methods for Ordinary and Partial Differential Equations, SIAM
+5.  Chapra and Canale, Numerical Methods for Engineers, 8th ed., McGraw Hill ed.
+6.  G. Strang, Linear Algebra and Its Applications, 4th ed., Cengage India Private Limited
+
+8.  Any other remarks: nil
+
+03.11.2026                  Malay DasDated:                  Proposer:
+
+Dated:              DUGC/DPGC Convener:                  _
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC
+
+Dated:

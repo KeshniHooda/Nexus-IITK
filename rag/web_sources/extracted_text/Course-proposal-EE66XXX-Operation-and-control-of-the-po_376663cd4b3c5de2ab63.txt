@@ -1,0 +1,160 @@
+[Page 1]
+Indian Institute of Technology, Kanpur 
+
+Proposal for a New Course 
+
+1. Course No: EE 66XXX 
+ 
+2. Course Title: Operation and Control of the Power System with Inverter-Based Resources 
+ 
+3. Per Week Lectures:3(L), Tutorial: _(T), Laboratory: __(P), Additional Hours[0-2]: ___(A), 
+Credits (3*L+2*T+P+A): 9 
+ 
+Duration of Course: Full Semester 
+ 
+4. Proposing Department/IDP: Electrical Engineering Department 
+Other Departments/IDPs which may be interested in the proposed course: Department of Sustainable 
+Energy Engineering 
+ Other faculty members interested in teaching the proposed course: 
+5. Proposing Instructor(s): Dr Ebin Cherian Mathew 
+ Level of the Course: PG 
+ 
+6. 
+Course Description: 
+This course will provide an overview of operating the power system with Inverter-Based Resources (IBRs). It 
+will explore the challenges associated with the increased penetration of IBRs by analyzing grid events in the 
+renewable energy (RE) complex within the Indian power system. 
+Key topics in the course will include the operation of grid-following and grid-forming converters, as well as the 
+control of various IBR types, such as solar, wind, and battery energy storage systems (BESS). The course will also 
+investigate power transmission strategies for reliably evacuating energy from renewable energy (RE) plants and 
+will introduce recent advancements in power electronics that can enhance the stability of a grid with high IBR 
+penetration. 
+By the end of the course, students will acquire the knowledge necessary to navigate the evolving landscape of 
+power systems in the context of increasing RE integration. 
+ 
+A) Objectives: 
+ 
+ To understand the challenges of operating power systems with Inverter Based Resources (IBRs). 
+ To analyse various schemes for integrating IBRs into the grid. 
+ To understand the control and operation of different types of Inverter Based Resources. 
+ To analyse power transmission schemes for evacuating power from RE plants. 
+ To investigate recent trends in power electronics aimed at enhancing stability in IBR-penetrated 
+grid.
+
+[Page 2]
+B) Contents (preferably in the form of 5 to 10 broad titles): 
+ 
+Total: 35 hrs. 
+
+C) Pre-requisites, if any: EE360 (Power electronics) ,EE 330(Power System) or equivalent 
+ 
+D) Short summary for including in the Courses of Study Booklet: Grid-Following and Grid-Forming Inverters, 
+Challenges in Power System Operations with Inverter-Based Resources, Control and Operation of Inverter-
+Based Resources, Power Transmission Schemes for Inverter-Based Resources, Virtual Synchronous Machines, 
+E-STATCOM, Grid-Forming Control for HVDC Systems, HVDC Systems with Energy Storage. 
+
+7. Recommended books: 
+Textbooks: 
+- 
+o Mohan, Ned, Tore M. Undeland, and William P. Robbins. Power electronics: converters, 
+applications, and design. John Wiley & Sons, 2003. 
+ 
+o Reference Bo Burton, T., Jenkins, N., Sharpe, D., & Bossanyi, E. (2011). Wind energy handbook. 
+John Wiley & Sons.oks: 
+ 
+o A.Huque and D. Ramasubramanian, EPRI Tutorial (2023), Grid Forming Inverters 
+S. No 
+Broad Title 
+Topics 
+No. of Lectures(hrs)
+1. Inverter Based Resources 
+ 
+• Basics of Power Electronic Converters 
+• Grid Integration of Inverters-Grid 
+Forming vs Grid following controls 
+8 
+2. Power System Operation with 
+inverter-based resources 
+• Power System Operation with 
+Conventional generation/IBR 
+• Analysis of Grid events in IBR penetrated 
+area-Oscillation / Grid events studies 
+• Stability issues with increased RE 
+penetration 
+• Issues with declining system inertia and 
+low short circuit strength. 
+5 
+3. Operation and Control of Inverter 
+Based Resources 
+ 
+• Solar 
+• Wind 
+• BESS systems 
+8 
+4. Analysis of evacuation schemes 
+(generation side) for RE integration 
+ 
+• MVAC Transmission 
+• MVDC Transmission 
+ 
+2 
+5. Analysis of transmission schemes for 
+power evacuation from large RE 
+complex 
+• AC Transmission 
+• HVDC Transmission-VSC vs LCC 
+ 
+4 
+6. 
+ 
+• Virtual Synchronous Machine. 
+• E-STATCOM. 
+• Grid forming Control of HVDC systems. 
+• HVDC with energy storage. 
+8 
+
+ 
+
+ 
+
+ 
+Recent Developments in 
+Power Electronics to 
+Improve Stability in IBR-
+Penetrated Grids
+
+[Page 3]
+o D. B. Rathnayake et al., "Grid Forming Inverter Modeling, Control, and Applications," in 
+IEEE Access, vol. 9, pp. 114781-114807, 2021, doi: 10.1109/ACCESS.2021.3104617. 
+ 
+o Feasibility study and application of electric energy storage systems embedded in HVDC and 
+STATCOM systems, CIGRE Technical Brochure 935.2024 
+ 
+o "IEEE Standard for Interconnection and Interoperability of Inverter-Based Resources (IBRs) 
+Interconnecting with Associated Transmission Electric Power Systems," in IEEE Std 2800-
+2022 , vol., no., pp.1-180, 22 April 2022 
+ 
+o Jovcic, Dragan. High voltage direct current transmission: converters, systems and DC grids. 
+John Wiley & Sons, 2019. 
+ 
+o Kundur, Prabha. "Power system stability." Power system stability and control 10 (2007): 7-1. 
+ 
+8. Any other remarks:N/A 
+
+ 
+
+Dated:24-09-2024 Proposer: Ebin Cherian Mathew 
+ 
+Dated:_______________ DUGC/DPGC Convener:___________________ 
+
+ 
+
+ 
+ 
+The course is approved / not approved 
+
+ 
+
+Chairman, SUGC/SPGC 
+ 
+ Dated:______________________________

@@ -1,0 +1,294 @@
+[PAGE 1]
+INDIAN INSTITUTE OF TECHNOLOGY KANPUR
+
+INDUSTRIAL AND MANAGEMENT ENGINEERING DEPARTMENT
+
+DMSXXX: INTERACTIVE DECISIONS AND BUSINESS STRATEGIES
+
+Course number          DMSXXX
+
+Course Title/Name              Interactive Decisions and Business Strategies
+
+Course Level:            PG (i.e., PhD, MTech, MSc, MBA)
+
+Credits:                   3*L + 0*T + 0*P + 0*A = 3*03+0*00+0*00+0*00=09
+
+Note
+
+Lecture: 03 (L); Tutorial: 00 (T), Laboratory: 00 (P), Additional
+
+Hours: 00
+
+Per week lecture: 02
+
+Proposing Department           Industrial & Management Engineering
+
+Other Department which may  Economics, Mathematics, Other Engineering Departments
+
+be interested
+Proposer's Name                 •  Prof. Raghu Nandan Sengupta, Email: raghus@iitk.ac.in
+
+Other instructors interested in     •  Prof. Vinay Ramani
+teaching this course               •  Prof. Subhankar Mukherjee
+
+Prerequisites              N/A
+
+Note
+•     Final year BTech, BS
+•     2nd year MTech, 2nd year MBA, 2nd year MSc, 2nd year PhD
+
+students
+
+Objective
+
+Business strategy is the study of plans, actions, and proposition to help the decision makers achieve
+
+the goals of  the  organization. The ideas employed can be from  the domains of economics,
+
+management  science  (marketing,  finance,  operations  research,  organization  behaviour), human
+
+psychology, game theory, war strategy,  etc. The aim of the course  is to use the fundamental
+
+techniques and ideas of game theory, war strategy and different areas of management science to gain
+
+an insight into business strategy. War, as we know,  is conflict between human beings, races,
+
+countries, ethnicity, etc., where one set of individuals want to impose their hegemony, based on
+
+culture, history, religion, economic dominance, territorial dominance, etc., over other group of people.
+
+Page 1 of 5
+
+[PAGE 2]
+INDIAN INSTITUTE OF TECHNOLOGY KANPUR
+
+INDUSTRIAL AND MANAGEMENT ENGINEERING DEPARTMENT
+
+DMSXXX: INTERACTIVE DECISIONS AND BUSINESS STRATEGIES
+
+Game theory on the other hand is study of quantitative models based on which individuals or
+
+organizations interact as rational agents. Finally, management science is an umbrella of different
+
+concepts based on which problem solving is undertaken for decision making in different spheres of an
+
+organization. This course aims to utilize the body of knowledge from these different domains to help
+
+the students make better decisions. Both theoretical as well as practical concepts (with real life
+
+examples) will be dealt with, which will ensure a good balance as well as rationale development
+
+among students to appreciate the relevance of this field in an ever-changing business environment.
+
+Key learning take away
+•      Will  help  students  master  the  tools  and  techniques  necessary  for making  detailed
+
+scientifically/rationally strategic decisions for business organization.
+•      Will help students learn both the basic and advanced theoretical background in strategic
+
+decision making for businesses working in a variety of economic and political environment.
+•      Will equip learners with the requisite skills in utilizing different game theoretic and strategic
+
+techniques through examples, case studies related to war, politics and games and thus
+
+appreciate their applications in business organization and entities.
+•      Will help students value how concepts from game theory, politics and war strategy can help
+
+improve decision-making in myriad of business organizations with a rapidly changing
+
+environment.
+
+Plan of lectures (considering the course is for one semester)
+
+S No.     Coverage of Topics                                           No. of lectures
+
+Part A
+
+01         Elements of a game (Players, Rules, Outcomes and Payoffs); The        02
+
+concepts of Dominance and Pure Strategy Nash Equilibrium
+
+02         Simultaneous move games; (Prisoner’s dilemma, Matching Penny,        03
+
+Battel of Sexes, Tragedy of Commons; the Cournot and Bertrand
+
+Models, )
+
+03         Sequential Move  games  (Game  Tree,  Subgame  Perfect  Nash        04
+
+Equilibrium; Backward  induction).  Centipede  game,  Stackelberg
+
+Game, Ultimatum Game, Rubinstein Bargaining Game)
+
+Page 2 of 5
+
+[PAGE 3]
+INDIAN INSTITUTE OF TECHNOLOGY KANPUR
+
+INDUSTRIAL AND MANAGEMENT ENGINEERING DEPARTMENT
+
+DMSXXX: INTERACTIVE DECISIONS AND BUSINESS STRATEGIES
+
+04         Incomplete information games (Bayesian games)                         02
+
+05         Auctions, Game of Trust                                             02
+
+06        Mixed Strategy Nash Equilibrium                                     01
+
+Part B
+
+07         Business & Industry Structure Analysis, Management and Analysis of        02
+
+competitive forces in Industries
+
+08         Corporate Strategy, Strategy for Growth and Diversification, Business        02
+
+Growth and Diversification
+
+09        Turnaround   Strategies,   Technology   Transfer,   Trans-national        02
+
+Investments
+
+10      SWOT  analysis, Experience curve, Competitive advantage, Value        02
+
+Chain, Core competence
+
+11          Strategic  Thinking,  Strategic  Planning  (Environmental  Analysis,        03
+
+Scenario Planning, Strategic Operations Management
+
+12          Military Strategy, etc.                                               03
+
+Books
+
+Textbooks
+
+01)   An Introduction to Game Theory. Martin J. Osborne. Oxford University Press, 2003, ISBN
+
+(13): ISBN (13): 978-0195128956.
+
+02)     Strategy, Joel Watson, W. W. Norton & Co., 2007, ISBN (13): 978-0393929348.
+
+03)    The Art of Strategy – A Game Theorist′s Guide to Success in Business and Life, Avinash K.
+
+Dixit, Barry J. Nalebuff, W. W. Norton & Company, 2010, ISBN (13): 978-0393337174.
+
+Reference Books
+
+01)    The Strategy of Conflict, T. Schelling, Harvard University Press, 1990, ISBN (13): 978-
+
+0674840317.
+
+02)    Economics of Strategy, David Besanko, David Dranove, Mark Shanley, Scott Schaefer,
+
+Wiley, 2013, ISBN (13): 978-1-118-55570-5.
+
+03)    Co-Opetition Paperback, Adam M Brandenburger, Barry J Nalebuff,   Profile Books Ltd.,
+
+1997, ISBN (13): 978-1861975072.
+
+Page 3 of 5
+
+[PAGE 4]
+INDIAN INSTITUTE OF TECHNOLOGY KANPUR
+
+INDUSTRIAL AND MANAGEMENT ENGINEERING DEPARTMENT
+
+DMSXXX: INTERACTIVE DECISIONS AND BUSINESS STRATEGIES
+
+04)    The Competitive Strategy: Techniques for Analyzing Industries and Competitors, Michael E.
+
+Porter, Simon & Schuster, 2004, ISBN (13): 978-0743260886.
+
+05)     Strategy  and  the  Business  Landscape,  Pankaj  Ghemawat,  Createspace  Independent
+
+Publication, 2017, ISBN (13): 978-1542852920.
+
+06)   War of Attrition: Fighting the First World War, William Philpott, Harry N. Abrams, 2015,
+
+ISBN (13): 978-1468310993.
+
+07)   Arms and Influence, T. Schelling, Yale University Press, 2008, ISBN (13): 978-0300143379.
+
+08)   Game Theory, Michael Maschler, Eilon Solan and Shmuel Zamir, Cambridge University
+
+Press, 2013, ISBN (13): 978-1107005488.
+
+09)   Game Theory: Analysis of Conflict, Roger Myerson, Harvard University Press, 1997, ISBN
+
+(13): 978-0674341166.
+
+Note: Relevant academic journal papers, cases and caselets will be referred to and discussed in class.
+
+01)    Hold or Fold?: The War of Attrition, Adam Brandenburger, HBS, 1994, Strategy, 794092-
+
+PDF-ENG.
+
+02)    Cooperation Based on Trust: An Experimental Investigation - W. Guth, P. Ockenfels and M.
+
+Wendel, Journal of Experimental Psychology, 1997, 18, 1, 15-43.
+
+Other books of interest
+
+01)   On War, Carl von Clausewitz, Wordsworth Classic, 1997, ISB (13): 978-1-85326-482-5.
+
+02)    The Foundations of the Science of War, John Frederick Charles Fuller, Books Express
+
+Publishing, 2012, ISBN (13): 978-1780396743.
+
+03)     Strategy, Basil Henry Liddell Hart, Penguin, 1991, ISBN (13): 978-0452010710.
+
+04)    The Arthashastra, Kautilya, Penguin Books, 1992, ISBN (13): 97801140446036.
+
+05)    The War And The Second International, Vladimir Ilich Lenin, Little Lenin Library, 2011,
+
+ISBN (13): 9781258155728.
+
+06)    The Art of War, Niccolò Machiavelli, Dover Publications Inc., 2006, ISBN (13): 978-
+
+0486445090.
+
+07)    The Prince, Niccolò Machiavelli, Fingerprint Publishing, 2015, ISBN (13): 978-9391464592.
+
+08)    The Living Thoughts of Machiavelli, Count Carlo Sforza, Rupa & Co., 2002, ISBN (13): 81-
+
+7167-977-3.
+
+Page 4 of 5
+
+[PAGE 5]
+INDIAN INSTITUTE OF TECHNOLOGY KANPUR
+
+INDUSTRIAL AND MANAGEMENT ENGINEERING DEPARTMENT
+
+DMSXXX: INTERACTIVE DECISIONS AND BUSINESS STRATEGIES
+
+09)    The Art of War, Sun Tzu, Wilco Publishing House, 2008, ISBN (10): 81-8252-171-8.
+
+Evaluation Methodology (Tentative)
+
+S No.     Evaluation Methods                                   Evaluation Criteria
+
+01        Quizzes                                 20%
+
+02        Project/Assignments                         20%
+
+03        Mid-semester examination                     20%
+
+04       End Semester examination                     35%
+
+05        Attendance                               05%
+
+Total                                            100%
+
+Other IME faculty members who can contribute to this course: S. V. Vanamalla, Vinay Ramani,
+
+Subhankar Mukherjee
+
+Name of Proposer: Raghu Nandan Sengupta
+
+Signature:
+
+Date: 18-August-2025
+
+Page 5 of 5

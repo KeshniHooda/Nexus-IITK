@@ -1,0 +1,105 @@
+[PAGE 1]
+Indian Ins(tute of Technology, Kanpur
+
+Proposal for a new course
+
+1.  Course No.: KSS 6XX
+
+2.  Course Title: Biophysics, Ecology, and Sustainability
+
+3.  Per Week Lectures: 3(L), Tutorial: 0 (T), Laboratory: 0 (P), AddiEonal Hours: 0 (A)
+
+4.  Credits: (3*L+0*T+P+A): 9
+
+5.  Dura(on of Course: Full Semester
+
+6.  Proposing Department: Kotak School of Sustainability
+
+Other departments that may be interested in the proposed course: Civil Engineering, Chemical
+Engineering, Mechanical Engineering, Earth Sciences, Environmental Science and Engineering,
+Physics.
+
+7.  Proposing Instructor(s): Prof. Praneet Prakash (KSS)
+
+8.  Course Descrip(on: Global warming and climate change pose direct threat to life as we know it by
+endangering health of living systems through extreme heat, polluEon, spread of diseases, loss of
+biodiversity while also aﬀecEng food and water security. Tackling the climate vulnerabiliEes
+systems requires an interdisciplinary approach to ensure their conEnued sustainability. In this
+course students will learn quanEtaEve approach to analyse microscopic phenomena and large-
+scale interacEons that govern sustainability of living systems. The course integrates two core areas,
+Biophysics and Ecology  into a holisEc framework to address real-world case studies on
+Sustainability.
+
+A) Objectives:
+
+•  Understand the interdisciplinary nature of emerging threats on living systems sustainability.
+•  Develop data-driven soluEons to address pressing sustainability challenges.
+•   Construct ab iniEo dynamical models for climate vulnerabiliEes.
+•   Deliver engineering soluEon to tackle emerging water pollutants such as microplasEcs.
+•   Design experiments to explore the emerging research area of living materials.
+
+B) Contents
+
+S. No      Broad Title                     Topics                    No. of
+Lectures
+1.   Fundamentals of        advection, active motion, diffusion           1
+Microscale
+Dynamics
+
+[PAGE 2]
+2.      Diffusion and     linear diffusion (finite domain, infinite domain),      2
+Growth       nondimensionalization, measurements (frap),
+non-linear diffusion
+3.   Reaction-Diffusion       bistable systems, Fisher’s equation          4
+Systems
+4.    Spatial Instabilities  Turing instability, activator-inhibitor dynamics,      5
+vegetation pattern
+5.     Living Matter in    microscale swimming (motility), chemotaxis,       3
+Fluids        chemoreception, transport limits, Michaelis-
+Menten Kinetics
+6.       Population      single population models, delay in population,      3
+Dynamics      example (Blowflies), age structures, discrete
+systems, logistic map, multi-species model
+7.        Health        epidemic models, role of vaccinations, SIR        5
+Sustainability             model, excitable systems
+8.     Stochasticity in        single population, extinction, multiple          5
+Population           population, Fokker-Planck equation
+Dynamics
+9.   Sustainability Case    impact of climate change on vegetation         2
+Study
+10.   Sustainability Case        sustainability of marine ecosystem           2
+Study
+11.   Sustainability Case    microbial population under climate stress        2
+Study
+12.   Sustainability Case    loss of biodiversity due to extreme climate        2
+Study                         events
+13.   Sustainability Case   assessing the impact of water pollutants on       2
+Study                   ecosystem health
+14.   Sustainability Case     Kelkar library fountain – Why so green?         2
+Study
+
+C) Pre-requisites: Basic knowledge of Physics, MathemaEcs, and any engineering discipline, along
+with familiarity with diﬀerenEal equaEons and a programming language.
+
+9.  Textbooks
+a.   J. D. Murray, MathemaEcal Biology, Volumes 1 and 2, Springer
+b.  H. C. Berg, Random Walks in Biology, Princeton University Press
+c.  R. May & A. McLean, TheoreEcal Ecology, Oxford University Press
+d.  R. B. Northrop & A. N. Connor, Ecological Sustainability, CRC Press
+e.  AddiEonal references will be provided during the lectures.
+
+*Personal copies of books are available with the instructor on request.
+praneet@iitk.ac.in
+
+10. Any other remarks: Students from all engineering and science disciplines are welcome.
+
+[PAGE 3]
+Dated: 29/8/25         Proposer:
+
+Dated: 29/8/25    DUGC/DPGC Convener:
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC
+
+Dated: _________________________

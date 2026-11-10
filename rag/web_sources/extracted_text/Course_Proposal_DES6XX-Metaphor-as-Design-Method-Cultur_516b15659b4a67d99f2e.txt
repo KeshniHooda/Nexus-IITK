@@ -1,0 +1,149 @@
+[Page 1]
+Indian Institute of Technology, Kanpur 
+Proposal for a New Course 
+ 
+1. Course No: DES6XX 
+2. Course Title: Metaphor as Design Method: Culture, Cognition and Practice 
+3. Per Week Lectures: 1 (L), 1 (T), 4 (P), 0 (A) 
+Credits (3×L + 2×T + 4P + 0A): 9 
+
+ Duration of Course: Full Semester 
+4. Proposing Department/IDP: Department of Design 
+Other Departments/IDPs which may be interested: HSS, Cognitive Science, CSE, 
+Mechanical, Electrical 
+5. Proposing Instructor(s): Nilutpal Borgohain 
+6. Course Description: 
+This course presents metaphor as a practical design tool for understanding and shaping 
+meaning in everyday artefacts and systems. It emphasises how embodied experience and 
+cultural patterns influence interpretation across areas such as interaction, product, and 
+communication design. Through observation, guided interpretation, and studio-based 
+exploration, students learn to approach design as a process of meaning-making rather than 
+just form creation. 
+A key part of the course is an iterative design framework where students initially respond to 
+a design problem using their intuition and then revisit the same problem with structured 
+metaphorical reasoning, fostering reflection on how their design approach evolves. 
+ 
+A) Objectives 
+1. To develop the ability to identify and analyse metaphorical structures in everyday 
+environments and designed artefacts. 
+2. To understand how embodied experience and cultural context shape meaning in 
+design. 
+3. To apply metaphorical reasoning as a systematic approach in the development of 
+design solutions across domains.
+
+[Page 2]
+4. To critically evaluate design outcomes through reflective comparison and iterative 
+refinement. 
+B) Contents (preferably in 5–10 broad titles) 
+S. No 
+Broad Title 
+Topics 
+No. of L 
+1 Introduction to 
+Meaning in Design 
+Meaning-making in design; examples from 
+UI/UX, product, communication and spatial 
+design 
+1 
+2 Foundations of 
+Metaphor (Design-
+Oriented) 
+Conceptual metaphors (introductory), 
+embodiment, everyday cognition (non-
+theoretical overview) 
+2 
+3 Baseline Design 
+Exercise 
+Initial design task based on intuitive 
+understanding; articulation of implicit 
+assumptions 
+1 
+4 Observing 
+Metaphors in 
+Everyday Contexts 
+Field documentation: images, videos, 
+interfaces, objects; identifying recurring 
+patterns 
+2 
+5 Cultural and 
+Contextual 
+Dimensions 
+Variation of metaphors across contexts; 
+cultural grounding of meaning 
+2 
+6 Mapping and 
+Analysis of 
+Metaphors 
+Identifying structures such as centrality, 
+hierarchy, containment, flow, and 
+diagramming meaning 
+2 
+7 Metaphors in 
+Existing Design 
+Systems 
+Interface metaphors, product semantics, visual 
+hierarchy, interaction patterns 
+2 
+8 Translation into 
+Design 
+Converting metaphor into design principles, 
+concepts and frameworks 
+2 
+9 Iterative Re-Design 
+Exercise 
+Revisiting baseline project using explicit 
+metaphorical reasoning; comparative analysis 
+2 
+10 Final Design Project 
+Concept development, iterative prototyping, 
+critique and refinement 
+2
+
+[Page 3]
+C) Pre-requisites: 
+None (Basic familiarity with design processes is desirable) 
+D) Short Summary for Course Booklet 
+This course explores metaphor as a key mechanism for creating meaning in design. Students 
+learn to recognise metaphorical structures present in everyday life and adapt them into 
+design solutions across areas such as interaction, product, and communication design. 
+Through observation, analysis, and iterative design tasks, the course promotes a structured 
+approach to designing with intention. 
+7. Recommended Books 
+Textbooks 
+1. Lakoff, George & Johnson, Mark. Metaphors We Live By. 
+University of Chicago Press, 1980 (Updated edition: 2003). 
+2. Norman, Don. The Design of Everyday Things. 
+MIT Press, 2013 (Revised and expanded edition). 
+Reference Books 
+1. Jörn Hurtienne, et al. Happy Is Up, Sad Is down: 65 Metaphors for Design. 
+BIS Publishers, 2020. 
+2. Forceville, Charles & Urios-Aparisi, Eduardo (eds.). Multimodal Metaphor. 
+De Gruyter Mouton, 2009. 
+3. Forceville, Charles. Pictorial Metaphor in Advertising. 
+Routledge, 2002. 
+4. Krippendorff, Klaus. The Semantic Turn: A New Foundation for Design. 
+Taylor & Francis, 2006. 
+5. Edited by Hendrik N. Schifferstein and Paul Hekkert. Product Experience. 
+Elsevier, 2007. 
+6. Johnson, Mark. The Body in the Mind: The Bodily Basis of Meaning, Imagination, 
+and Reason. 
+University of Chicago Press, 1987. 
+7. McCloud, Scott. Understanding Comics: The Invisible Art. 
+HarperCollins, 1994. 
+8. Berger, John. Ways of Seeing. 
+Penguin Classics, 2008.
+
+[Page 4]
+9. Armstrong, Helen (ed.). Graphic Design Theory: Readings from the Field. 
+Princeton Architectural Press, 2009. 
+8. Any other remarks 
+The course adopts a hybrid structure of lectures (conceptual grounding), tutorials (guided 
+interpretation), and studios (design application) to support a three-stage learning process: 
+observation, analysis, and translation. 
+
+Dated:_______________ Proposer:__________________________ 
+Dated:_______________ DUGC/DPGC Convener:___________________ 
+ 
+The course is approved / not approved 
+Chairman, SUGC/SPGC 
+Dated:______________________________

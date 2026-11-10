@@ -1,0 +1,122 @@
+[PAGE 1]
+Indian Institute of Technology, Kanpur
+
+Proposal for a New Course
+
+1.  Course No: AE 6XX
+
+2.  Course Title: Structural Vibration and Control
+
+3.  Per Week Lectures: 3(L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours [0-2]: 0 (A),
+Credits (3*L+2*T+P+A): 9                           Duration of Course: Full Semester
+~o-o   C9)
+4.  Proposing Department: Aerospace Engineering
+Other faculty members interesting in teaching the proposed course:
+
+5.  Proposing Instructors: Tanmay Mathur and Dipak Gini
+
+6.  Course Description:
+(A) Objectives: The objective of this course is to enable the students to make the link between
+structural dynamics and vibrations, and control theory instead of studying these topics in
+isolation. The course begins with formulation of the eigen value problem, converting the
+vibration problem into the state space form, and then applying control theory for systems
+where instabilities (such as flutter, torsional vibrations under aerodynamic loads) can lead
+to catastrophic failures.
+(B) Contents:
+Num. of
+S. No.   Broad Title      Topics                                                                                Lectures
+•  Fundamentals of structural dyn. and vibrations
+•   Applications in aerospace industry- cables, beams,1        Introduction                                                          2
+plates, rotating machinery
+•  sDOF system and modeling approach
+•  Energy integrals T, V, W
+•   Elastic strain energy of structural members2       Modelling                                                              3                                 •   principle of virtual work and Hamilton's principle
+•   Equation of motion and boundary conditions
+•  Modal analysis — eigenfrequencies and mode shapes
+•  Examples for cables, beams, driveshaft, airplane
+wings etc.          Analytical                       •                              Physical interpretation and solution using symbolic          solution                                                          6
+math toolbox3       methods
+•  Eigen value problem and orthogonality of modes
+•   Transfer function and frequency response — bode
+plot
+
+[PAGE 2]
+S
+
+•  Transfer function truncation
+•  Assumed modes method
+4        Discretization  •   Galerkin's method                                                                  10       methods         •   Finite element method — cubic shape functions for
+beams
+•   Rotating beams and instability (helicopter)
+•   Transfer Function Based Control
+•   Effect of noise, disturbance, and reference input in
+the transfer function
+•  PD, PID control
+•  Time Domain analysis: Transient Response- Effect of
+natural frequency and damping ratio
+Classical                     •  Steady-state response: Error analysis.                13S        Control
+•   Stability Criterion: Routh Stability analysis
+•  Root Locus, PID control design.
+•  Compensators: Lead and Lag
+•  Control Synthesis in Frequency domain
+•  Compensators in frequency domain, gain and phase
+margins, stability analysis.
+•   State-space representations: Single-input and Single-
+Output (SISO), Multiple-Input and Multiple-Output
+(MIMO).
+•   State-space to transfer function and vice-versa
+6      Modern                              •   State-transition matrix, controllability, observability,      5         Control                       and canonical forms.
+•   State-feedback control
+•  Observer design
+•   Multivariable controls
+
+(C) Pre-requisites: AE 688, AE602 or equivalent
+
+(D) Short summary for including in the courses of Study Booklet: (same as objectives)
+
+7.  Recommended Books:
+a.  Meirovitch, L, 1991. Dynamics and control of structures. John Wiley & Sons.
+b. Friedmann, P.P., Lesieutre, G.A. and Huang, D., 2023. Structural Dynamics (Vol. 50).
+Cambridge University Press.
+c.  Friedland, B., 2012. Control system design: an introduction to state-space methods.
+Courier Corporation.
+d. Chen, C.T., 1999. Linear System Theory and Design.
+
+[PAGE 3]
+~I~                           Sc~~               A             INDIAN INSTITUTE OF TECHNOLOGY KANPUR
+POSTGRADUATE OFFICE
+
+No. A(P)/IITK/course approval/
+August 27, 2024
+
+The Convener, DPGC
+Departments of AE/SEE/CHE/SPASE
+III Kanpur
+
+I am directed to communicate the concurrence of the SPGC (2023-24) in its 10`h meeting held
+on 15/07/2024 for the approval of new PG course proposal. After detailed discussion the
+following courses were approved.
+
+Course   Title                                     Credits    Instructor          SPCC
+No                                                                              Decision
+SPA626  Space Environments and Space Systems   3-0-0-0-(9)   Dr. Rohit Sharma        Approved
+Dr. Soumyabrata
+Chakrabarty
+AE631    Multidisciplinary Design Optimization       2-0-3-0-(9)   Dr. Prabhat Hajela,      Approved
+Dr. Pradeep Moise
+AE632    Structural Vibration and Control            (3-0-0-0-9)  Dr Tanmay Mathur       Approved
+Dr Dipak Girl
+AE651   System  Identification  Techniques  for   3-0-0-0-(9)   Dr.    Subrahmanyam  Approved
+Aerial Vehicles                                      Saderla
+SEE618   Heating, Ventilation, and Air-conditioning   3-0-0-0-(9)   Dr. Aakash Chand Rai    Approved
+of Buildings
+CHE669  "Chemical   Kinetics:   Reaction  Rate   3-0-0-0-(9)   Dr. Vishal Agarwal       Approved
+Theories and Rare-Event Simulations
+
+AssistantRegistrar
+Academic Affairs
+C~
+
+OARS (DOAA Office) For necessary action
+
+.J

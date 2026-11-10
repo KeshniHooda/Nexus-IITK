@@ -1,0 +1,53 @@
+[PAGE 1]
+New Course Proposal
+Department of Computer Science and Engineering
+Indian Institute of Technology, Kanpur
+
+Course number: CS801
+Course title: Innovations in Computer Science and Engineering
+Course prerequisites: None
+Course credits: [0] (0-0-0-0) (S/X mode)
+Course duration: Full semester
+Course type: PG Department Compulsory
+Proposing Instructor: Convener DPGC, Department of Computer Science and Engineering
+Other faculty members interested in teaching the course: all CSE faculty members
+Other departments interested in the proposed course: None
+
+Course description:
+a.  Objectives: The PG seminar course will expose students to research directions being
+pursued by various groups within the department and help them make an informed
+choice of thesis topic. The course will also give them an opportunity to develop
+technical presentation skills by presenting their work.
+b.  Logistics: The PG seminar course will be offered once every academic year with the
+DPGC convener and one other faculty member as co-instructors. All PG students
+(MTech, MS, PhD)  will be required to register for this course in their first year.
+Additionally, PhD students will be required to register for this course a second time in
+their 3rd year.
+c.  Content: The course will have 2 parts
+i.   Weekly seminars: PG students along with  their supervisor(s)  will make
+presentations on research directions being pursued by their group.
+ii.   Research colloquium: PG students will present their past and ongoing work.
+PhD students registering for the course a second time will be required to
+present their work at the colloquium although others will be welcome too.
+d.  Evaluation: PG students registering for the first time will be evaluated on the basis of
+attendance at the seminars and colloquium. PhD students registering for a second
+time will be evaluated on the basis of presentation at the research colloquium.
+
+Short summary for inclusion in the Courses of Study booklet: the course is intended to
+introduce CSE PG students to cutting edge research directions as well as give them a
+chance to develop presentation skills by presenting work done by them/their research group
+to their peers and others.
+
+Reference texts: None
+
+[PAGE 2]
+Course proposer: Convener DPGC, Department of CSE
+22/12/2023Date:
+
+Convener DPGC
+22/12/2023Date:
+
+The course is approved / not approved
+
+Chairman, SPGC
+Date:

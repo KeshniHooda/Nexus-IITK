@@ -1,0 +1,25 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+Kanpur 208 016 Uttar Pradesh (India)
+Academic Section
+
+Student Awards and Honours
+
+Student’s Name: Mr. Dhanajit Brahma and Dr. Vinay Kumar Verma
+
+Programme and Department: PhD/CSE & Alumnus/PhD/CSE
+
+Thesis Supervisor/Mentor: Prof. Piyush Rai
+
+Award/Honour: Best student paper award at CSSL workshop (held with IJCAI)
+
+Host Organization:
+
+Brief Description of the Award/Honour: Dhanajit Brahma, Vinay Kumar Verma, and
+Professor Piyush Rai has been selected to be the winner of the best student paper
+award at the International Workshop on Continual Semi-Supervised Learning (CSSL) to
+be  held  in  conjunction  with  IJCAI  2021  next month  for  their  paper  titled
+`Hypernetworks for Continual Semi-Supervised Learning''.
+The award is accompanied by a cash prize of one thousand Canadian dollars.
+
+Date: July 21, 2021

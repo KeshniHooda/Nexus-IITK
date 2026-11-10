@@ -1,0 +1,44 @@
+BABYBOT DOSA BOUNDED INGESTION REPORT
+Root: https://www.iitk.ac.in/dosa/
+Maximum pages: 30
+Traversal: homepage + fixed seeds + direct relevant homepage links only; no recursion
+URLs selected: 30
+Sources extracted: 11
+Chunks: 28
+
+INCLUDED SOURCES
+INCLUDED	FAQs	https://iitk.ac.in/dosa/faqs	1 chunks
+INCLUDED	FEES MATTERS	https://iitk.ac.in/dosa/fees-matters	3 chunks
+INCLUDED	scholarships	https://iitk.ac.in/dosa/scholarships	1 chunks
+INCLUDED	STUDENT’S MEDICAL INSURANCE	https://iitk.ac.in/dosa/student-medical-insurance	4 chunks
+INCLUDED	Contact Us	https://iitk.ac.in/dosa/contact-us	1 chunks
+INCLUDED	councel-of-wardens-13-10-2026	https://iitk.ac.in/dosa/data/councel-of-wardens-13-10-2026.pdf	1 chunks
+INCLUDED	Student Medical Insurance FAQ-05-08-24	https://iitk.ac.in/dosa/data/Student_Medical_Insurance_FAQ-05-08-24.pdf	4 chunks
+SKIPPED_TOO_LITTLE_TEXT	https://iitk.ac.in/dosa/data/Fee_Structure_for_Non-Degree_Students_for_2026-27_1st_semester-16-07-26.pdf
+SKIPPED_TOO_LITTLE_TEXT	https://iitk.ac.in/dosa/data/Fee_Structure_for_Preparatory_Students_for_2026-27_1st_semester-16-07-26.pdf
+SKIPPED_TOO_LITTLE_TEXT	https://iitk.ac.in/dosa/data/Cumulative-Fee-Structure-for-Loan-for-Academic-Session-2026-2027-07-07-26.pdf
+SKIPPED_TOO_LITTLE_TEXT	https://iitk.ac.in/dosa/data/Fee-Structure-for-New-FN-for-2026-2027-1st-07-07-26.pdf
+SKIPPED_TOO_LITTLE_TEXT	https://iitk.ac.in/dosa/data/Fee-Structure-for-New-UG-for-2026-2027-1st-07-07-26.pdf
+SKIPPED_TOO_LITTLE_TEXT	https://iitk.ac.in/dosa/data/Fee-Structure-for-New-PG-for-2026-2027-1st-07-07-26.pdf
+SKIPPED_TOO_LITTLE_TEXT	https://iitk.ac.in/dosa/data/Fee-Structure-For-Summer-2025-26-06-05-26.pdf
+SKIPPED_TOO_LITTLE_TEXT	https://iitk.ac.in/dosa/data/Fee-Structure-for-Non-Degree-Students-2025-26-Even-11-12-25.pdf
+SKIPPED_TOO_LITTLE_TEXT	https://iitk.ac.in/dosa/data/Fee_Structure_2025_2026_Even_Sem_New_PG_and_FN_students-28-11-25.pdf
+SKIPPED_TOO_LITTLE_TEXT	https://iitk.ac.in/dosa/data/Fee-Structure-for-Old-FN-for-2026-2027-1st-07-07-26.pdf
+SKIPPED_TOO_LITTLE_TEXT	https://iitk.ac.in/dosa/data/Fee-Structure-for-Old-PG-for-2026-2027-1st-07-07-26.pdf
+SKIPPED_TOO_LITTLE_TEXT	https://iitk.ac.in/dosa/data/Fee-Structure-for-Old-UG-for-2026-2027-1st-07-07-26.pdf
+SKIPPED_TOO_LITTLE_TEXT	https://iitk.ac.in/dosa/data/Fee_Structure_2025_2026_Even_Sem_Old_UG_PG_and_FN_Students-28-11-25.pdf
+SKIPPED_TOO_LITTLE_TEXT	https://iitk.ac.in/dosa/data/Fee-Structure-for-Summer-2024-25-03-05-25.pdf
+SKIPPED_TOO_LITTLE_TEXT	https://iitk.ac.in/dosa/data/Fee-Structure-for-Old-Students-2025-2026-Odd-Semester-03-05-25.pdf
+SKIPPED_TOO_LITTLE_TEXT	https://iitk.ac.in/dosa/data/Day-Scholar-for-new-students_15-07-24.pdf
+INCLUDED	Institutions-Regarding-Opening-NSP-Portal-AY-2026-27-24-06-26	https://iitk.ac.in/dosa/data/Institutions-Regarding-Opening-NSP-Portal-AY-2026-27-24-06-26.pdf	9 chunks
+SKIPPED_TOO_LITTLE_TEXT	https://iitk.ac.in/dosa/data/new_Guideline_and_SOP_for_SBF_Scholarship_and_Loan_Reg-13-03-24.pdf
+SKIPPED_TOO_LITTLE_TEXT	https://iitk.ac.in/dosa/data/Students-Ombudsperson.pdf
+INCLUDED	councel-of-wardens-20-08-26	https://iitk.ac.in/dosa/data/councel-of-wardens-20-08-26.pdf	1 chunks
+INCLUDED	anti-ragging2026-14-07-26	https://iitk.ac.in/dosa/data/anti-ragging2026-14-07-26.pdf	1 chunks
+INCLUDED	Ragging-advisory-2026	https://iitk.ac.in/dosa/data/Ragging-advisory-2026.pdf	2 chunks
+
+FAILURES
+FAILED	https://iitk.ac.in/dosa	ConnectionError: HTTPConnectionPool(host='iitk.ac.in', port=80): Max retries exceeded with url: /dosa/ (Caused by NewConnectionError("HTTPConnection(host='iitk.ac.in', port=80): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+
+OUTPUT
+chunks/dosa_chunks.jsonl

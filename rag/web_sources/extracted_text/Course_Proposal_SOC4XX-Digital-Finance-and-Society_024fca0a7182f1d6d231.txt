@@ -1,0 +1,553 @@
+[Page 1]
+Indian Institute of Technology, Kanpur 
+Proposal for a New Course 
+ 
+1. Course No: SOC4YYY 
+ 
+2. Course Title: Digital Finance and Society 
+ 
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours[0-2]: 
+na (A), 
+Credits (3*L+2*T+P+A): 9 
+Duration of Course: Full Semester 
+ 
+4. Proposing Department: Humanities and Social Sciences 
+ 
+5. Other Departments/IDPs which may be interested in the proposed course: N/A 
+ 
+6. Other faculty members interested in teaching the proposed course: Anindita 
+Chakrabarti 
+ 
+7. Proposing Instructor: Jillet Sarah Sam 
+ 
+8. Course Description: 
+A) Objectives: 
+This course will help students to: 
+*Develop an understanding of how digital finance operates at the micro and meso 
+levels in society, with a specific focus on consumers and target populations 
+*Analyze how outcomes of interventions through digital finance emerge through 
+an interaction between rapidly evolving financial technology, regulatory-legal 
+arrangements, social structures, and human agency 
+*Understand how digital finance fits into people’s everyday lives 
+*Develop a historical-comparative approach to digital finance through examination 
+of real-world cases across the globe 
+* Understand the conditions under which digital finance can overcome challenges 
+of social structure or make these social arrangements even more entrenched. 
+*Understand how the use of digital finance is situated in everyday practices of gift-
+giving, savings and investment and debt. 
+ 
+B) Contents (preferably in the form of 5 to 10 broad titles): 
+
+S. 
+No. 
+Broad Title 
+Topics 
+Number 
+of 
+Lectures 
+1. 
+Hopes and 
+challenges 
+Promise of empowerment; Effect on users 
+and user communities; Anticipated 
+benefits through digital financial services; 
+Challenges around privacy, cyber fraud 
+and virtual agents; Dis-intermediation or 
+re-intermediation; Issues of ethics and 
+power 
+3
+
+[Page 2]
+2. 
+Sociological 
+approaches to 
+finance 
+Classical approaches: Simmel, Mauss, and 
+Bourdieu; Relational approaches of 
+Zelizer, Hart, Graeber, and Maurer; 
+Transcending binary distinctions between 
+global/local, social/technical, and 
+formal/informal financial systems; Co-
+creation through human agency, 
+technological affordances, and institutional 
+mediations 
+2 
+3. 
+Risk and Trust 
+Changing trusted financial environments; 
+Perceptions of financial trust; Multiple 
+layers of trust in digital finance; 
+Relationship between financial trustors 
+and trustees; Risk versus trust in debates 
+on financial intermediation 
+3 
+4. 
+Conceptualizing 
+digital finance 
+Shift from cash to digital transactions, 
+Effect on spending habits, budgeting and 
+long-term planning; Impact of digital 
+finance on social connections, remittances 
+and community formation; Balancing of 
+convenience and risks of digital payments; 
+Weighing between personal preferences 
+and cultural contexts 
+6 
+5. 
+Household Relations Impact of digital finance on relational ties 
+inside households; Impact of digital finance 
+on interactions between households and 
+external 
+actors; 
+Digital 
+finance 
+and 
+networked households 
+6 
+6. 
+Gift-giving 
+Impact of digital financial services on gift-
+giving practices; Digital gifting and 
+cultural values; Temporal dynamics, social 
+hierarchies, and power relationships; 
+Hybrid economic forms bridging 
+distinctions between gift and commodity 
+exchange 
+6 
+7. 
+Debt 
+Changing practices of how people borrow 
+and lend; Reconfigured debt-related 
+financial practices; Digital debt social 
+relations, trust mechanisms and cultural 
+norms; Debates around financial inclusion; 
+Digital finance and informal lending 
+practices 
+6 
+8. 
+Savings and 
+Investment 
+Reshaping traditional savings and 
+investment practices; Interaction between 
+technological innovation, cultural norms 
+and financial well-being; Impact on short-
+term and long-term savings strategies; 
+Gendered roles, intergenerational 
+responsibilities and social obligations; 
+6
+
+[Page 3]
+Conditions that support democratization of 
+wealth and promote economic security 
+9. 
+Sustainability 
+Trajectory 
+of 
+financial 
+inclusion; 
+Contextualizing digital turn with earlier 
+developmental initiatives; Opportunities 
+and challenges to social sustainability in 
+digital financial initiatives; Significance of 
+contextual, networked perspective; Holistic 
+impact that balances needs of individuals, 
+networks 
+and 
+communities; 
+Digital 
+financial resilience 
+2 
+ 
+Total 
+ 
+40 
+ 
+C) Pre-requisite: None 
+ 
+D) Short summary for including in the course of study booklet: This course aims to 
+develop an understanding of digital finance with human society at its core. Specifically, the 
+course approaches digital finance from the perspective of it’s consumers. Both the promises 
+and challenges of digital finance as an important social intervention are examined here. 
+Through the examination of real-world cases across the globe, it will develop an 
+understanding that the outcomes of interventions through digital finance emerge through 
+an interaction between rapidly evolving financial technology, regulatory-legal 
+arrangements, social structures, and human agency (exerted both at the collective and 
+individual level). While top-down, macro perspectives of digital finance are well 
+understood, this course aims to train students in enhancing how it operates at the micro and 
+meso levels in society. In light of this, the course will examine how varying populations 
+engage with the diverse instruments of digital finance as part of their routine social lives. 
+Consequently, students will be trained to examine how social factors that shape how 
+households and communities engage with digital finance as part of their interactions with 
+other. They will also receive training in understanding how social arrangements shape the 
+use of digital finance in gift-giving, savings and investment and debt. Finally, the course 
+will introduce students to sustainable approaches to digital finance through a historical-
+comparative analysis of instruments and interventions over time. 
+ 
+9. Recommended books and journal articles: 
+
+Achugamonu, U. B., Adetiloye, K. A., Adegbite, E. O., Babajide, A. A., & Akintola, F. A. 
+(2020). Financial exclusion of bankable adults: Implication on financial inclusive growth 
+among twenty-seven SSA countries. Cogent Social Sciences, 6(1), Article 1730046. 
+https://doi.org/10.1080/23311886.2020.1730046 
+Adegbite, O. O., & Machethe, C. L. (2020). Bridging the financial inclusion gender gap in 
+smallholder agriculture in Nigeria: An untapped potential for sustainable development. World 
+Development, 127, Article 104755. https://doi.org/10.1016/j.worlddev.2019.104755 
+Ahn, S. Y., & Nam, Y. (2022). Does mobile payment use lead to overspending? The 
+moderating role of financial knowledge. Computers in Human Behavior, 134, Article 
+107319. 
+Aker, J. C., & Mbiti, I. M. (2010). Mobile phones and economic development in Africa. 
+Journal of Economic Perspectives, 24(3), 207–232.
+
+[Page 4]
+Aleksandrova, A., Ninova, V., & Zhelev, Z. (2023). A survey on AI implementation in 
+finance, (cyber) insurance and financial controlling. Risks, 11(5), Article 91. 
+https://doi.org/10.3390/risks11050091 
+Ali, V., Norman, A. A., & Azzuhri, S. R. (2023). Characteristics of blockchain and its 
+relationship with trust. IEEE Access, 11, 18914–18929. 
+https://doi.org/10.1109/ACCESS.2023.3243700 
+Anagol, S., Balasubramaniam, V., & Ramadorai, T. (2020). Learning from noise: Evidence 
+from India's IPO lotteries. American Economic Review, 110(2), 251–289. 
+Ante, L., Wazinski, F. P., & Saggu, A. (2023). Digital real estate in the metaverse: An 
+empirical analysis of retail investor motivations. Finance Research Letters, 58, Article 
+104299. https://doi.org/10.1016/j.frl.2023.104299 
+Athique, A. (2019). A great leap of faith: The cashless agenda in Digital India. New Media & 
+Society, 21(8), 1697–1713. https://doi.org/10.1177/1461444819831324 
+Auer, R., Haslhofer, B., Kitzler, S., Saggese, P., & Victor, F. (2023). The technology of 
+decentralized finance (DeFi) (BIS Working Papers No. 1066). Bank for International 
+Settlements. 
+Bach, T. A., Khan, A., Hallock, H., Beltrão, G., & Sousa, S. (2024). A systematic literature 
+review of user trust in AI-enabled systems: An HCI perspective. International Journal of 
+Human-Computer Interaction, 40(5), 1251–1266. 
+https://doi.org/10.1080/10447318.2022.2138826 
+Bastian, G., Bianchi, I., Goldstein, M., & Montalvao, J. (2018). Short-term impacts of 
+improved access to mobile savings, with and without business training: Experimental 
+evidence from Tanzania (Working Paper 478). Center for Global Development. 
+Benami, E., & Carter, M. R. (2021). Can digital technologies reshape rural microfinance? 
+Implications for savings, credit, & insurance. Applied Economic Perspectives and Policy, 
+43(4), 1196–1220. https://doi.org/10.1002/aepp.13151 
+Berg, T., Burg, V., Gombović, A., & Puri, M. (2020). On the rise of fintechs—Credit scoring 
+using digital footprints. Review of Financial Studies, 33(7), 2845–2897. 
+Bhatia, A., Chandani, A., & Chhateja, J. (2020). Robo advisory and its potential in addressing 
+the behavioral biases of investors—A qualitative study in Indian context. Journal of 
+Behavioral and Experimental Finance, 25, Article 100281. 
+https://doi.org/10.1016/j.jbef.2020.100281 
+Birch, D., & Richardson, V. (2024). Money in the metaverse: Digital assets, online identities, 
+spatial computing and why virtual worlds mean real business. London Publishing 
+Partnership. 
+Blaszczynski, A., Cowley, E., Anthony, C., & Hinsley, K. (2016). Breaks in play: Do they 
+achieve intended aims? Journal of Gambling Studies, 32(2), 789–800. 
+Bourdieu, P. (1986). The forms of capital. In J. Richardson (Ed.), Handbook of theory and 
+research for the sociology of education (pp. 241–258). Greenwood. 
+Broekhoff, M., & van der Cruijsen, C. (2022). Paying in a blink of an eye: It hurts less, but 
+you spend more. De Nederlandsche Bank. 
+Brolos, A, Taylor, E, Sam, JS, Venkatraman, S (2026) Digital Human Finance: 
+Exploring Embeddedness, Inclusion and Social Realities. Edward Elgar 
+Buchanan, B. G. (2019). Artificial intelligence in finance. The Alan Turing Institute. 
+Caliskan, K. (2022). Data money makers: An ethnographic analysis of a global 
+cryptocurrency community. British Journal of Sociology, 73(1), 162–180. 
+https://doi.org/10.1111/1468-4446.12916 
+Caraway, M., Epstein, D. A., & Munson, S. A. (2017). Friends don't need receipts: The 
+curious case of social awareness streams in the mobile payment app Venmo. Proceedings of 
+the ACM on Human-Computer Interaction, 1(CSCW), Article 28.
+
+[Page 5]
+Castel-Branco, R. (2021). Improvising an e-state: The struggle for cash transfer digitalization 
+in Mozambique. Development and Change, 52(4), 756–779. 
+https://doi.org/10.1111/dech.12665 
+Chapkovski, P., Khapko, M., & Zoican, M. A. (2024). Trading gamification and investor 
+behavior. Management Science, 70(5), 2742–2759. 
+Chen, H., & Chen, H. (2020). Gift giving via social network services: The case of a WeChat 
+mini-program used in China. Data Technologies and Applications, 54(4), 481–502. 
+Chowdhry, B., & Ahmed, S. A. (2023). FinTech for billions: Simple, human, ubiquitous. 
+Penguin Viking. 
+Chua, E. (2024). Personal devices: Investing apps and the selectively self-directed digital-
+financial subject. Journal of Cultural Economy, 17(6), 731–749. 
+https://doi.org/10.1080/17530350.2024.2409788 
+Collins, D., Morduch, J., Rutherford, S., & Ruthven, O. (2011). Portfolios of the poor: How 
+the world's poor live on $2 a day. Princeton University Press. 
+Dawood, H. M., Liew, C. Y., & Lau, T. C. (2021). Mobile perceived trust mediation on the 
+intention and adoption of FinTech innovations using mobile technology: A systematic 
+literature review. F1000Research, 10, Article 1252. 
+https://doi.org/10.12688/f1000research.74656.1 
+de Bruijn, M. E., Butter, I. C., Fall, A. S., Seye, M., Diagne, K., Diarra, M., Ndiaye, B., 
+Hinfelaar, M., Peša, I., Cheelo, C., Kabala, E., Kamwengo, C., Walter, G., Nkwi, E., Ngang, 
+S., Ayimpam, O., Kahola, T., Heitmann, S., & Kinzinger, J. (2017). An ethnographic study 
+on mobile money attitudes, perceptions and usages in Cameroon, Congo DRC, Senegal and 
+Zambia. 
+de Filippi, P. (2020). Blockchain technology and decentralized governance: The pitfalls of a 
+trustless dream. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3524352 
+Demirguc-Kunt, A., Klapper, L., Singer, D., Ansar, S., & Hess, J. R. (2017). The Global 
+Findex Database 2017: Measuring financial inclusion and the fintech revolution. World 
+Bank Group. 
+Dethier, E., Kern, D., Stevens, G., & Boden, A. (2024). Making order in household 
+accounting—Digital invoices as domestic work artifacts. Computer Supported Cooperative 
+Work, 33(3), 287–322. https://doi.org/10.1007/s10606-024-09495-w 
+Dodd, N. (2018). The social life of Bitcoin. Theory, Culture and Society, 35(3), 35–55. 
+https://doi.org/10.1177/0263276417746464 
+Donovan, K. P., & Park, E. (2022b). Knowledge/seizure: Debt and data in Kenya's zero 
+balance economy. Antipode, 54(4), 1063–1085. https://doi.org/10.1111/anti.12815 
+Duvendack, M., & Mader, P. (2020). Impact of financial inclusion in low‐and middle‐income 
+countries: A systematic review of reviews. Journal of Economic Surveys, 34(3), 594–629. 
+Edelman. (2014). Trust in financial services. http://www.edelman.com/insights/intellectual-
+property/2014-edelman-trustbarometer/trust-in-business/trust-in-financial-services/ 
+Elmi, M. A., & Ngwenyama, O. (2020). Examining the use of electronic money and 
+technology by the diaspora in international remittance system: A case of Somali remittances 
+from Canada. The Electronic Journal of Information Systems in Developing Countries, 86(5), 
+Article e12138. https://doi.org/10.1002/isd2.12138 
+Faura, G., Siewiersky, C., & Tal, I. (2023). A user-centric evaluation of smart contract 
+analysis tools in decentralised finance (DeFi). In Springer Proceedings in Complexity (pp. 
+389–402). Springer. https://doi.org/10.1007/978-981-19-6414-5_25 
+Feinberg, R. A. (1986). Credit cards as spending facilitating stimuli: A conditioning 
+interpretation. Journal of Consumer Research, 13(3), 348–356.
+
+[Page 6]
+Foster, K., Blakstad, S., Bos, M., Gazi, S., Melkun, C., & Shapiro, B. (2021). BigFintechs 
+and their impacts on sustainable development (Technical Paper 1.1). UNDP Dialogue on 
+Global Digital Finance Governance. 
+Fourcade, M., & Kluttz, D. (2020). A Maussian bargain: Accumulation by gift in the digital 
+economy. Big Data & Society, 7(1). https://doi.org/10.1177/2053951719897920 
+Gabor, D., & Brooks, S. (2017). The digital revolution in financial inclusion: International 
+development in the fintech era. New Political Economy, 22(4), 423–436. 
+https://doi.org/10.1080/13563467.2017.1259298 
+Graeber, D. (2011). Debt: The first 5,000 years. Melville House. 
+Graeber, D. (2015). The utopia of rules: On technology, stupidity, and the secret joys of 
+bureaucracy. Melville House. 
+Granovetter, M. (1985). Economic action and social structure: The problem of 
+embeddedness. American Journal of Sociology, 91(3), 481–510. 
+Guérin, I. (2023). Financial inclusion and gender. In V. Hartarska & R. J. Cull (Eds.), 
+Handbook of microfinance, financial inclusion and development (pp. 66–82). World Bank. 
+Guérin, I., Guermond, V., Joseph, N., Natarajan, N., & Venkatasubramanian, G. (2021). 
+COVID-19 and the unequalizing infrastructures of financial inclusion in Tamil Nadu. 
+Development and Change, 52(4), 927–951. https://doi.org/10.1111/dech.12674 
+Guérin, I., Kumar, S., & Venkatasubramanian, G. (2023). The indebted woman: Kinship, 
+sexuality and capitalism. Stanford University Press. 
+Guérin, I., Morvant-Roux, S., & Villarreal, M. (2015). Microfinance, debt and over-
+indebtedness: Juggling with money. Routledge. 
+Guermond, V. (2022a). Contesting the financialisation of remittances: Repertoires of 
+reluctance, refusal and dissent in Ghana and Senegal. Environment and Planning A, 54(4), 
+800–821. https://doi.org/10.1177/0308518X20976141 
+Guermond, V. (2022b). Whose money? Digital remittances, mobile money and fintech in 
+Ghana. Journal of Cultural Economy, 15(4), 436–451. 
+https://doi.org/10.1080/17530350.2021.2018347 
+Guo, C., Wang, X., & Yuan, G. (2022). Digital finance and the efficiency of household 
+investment portfolios. Emerging Markets Finance and Trade, 58(10), 2895–2909. 
+https://doi.org/10.1080/1540496X.2021.2013197 
+Halawa, M., & Olcoń-Kubicka, M. (2018). Digital householding: Calculating and moralizing 
+domestic life through homemade spreadsheets. Journal of Cultural Economy, 11(6), 514–
+534. https://doi.org/10.1080/17530350.2018.1486728 
+Hart, K. (2008). The human economy: Keynote lecture. 
+Hart, K. (Ed.). (2017). Money in a human economy (Vol. 5). Berghahn Books. 
+Heitmann, S., Buri, S., Davico, G., & Reitzug, F. (2018). Operationalizing ethnographic 
+research to grow trust in digital financial services. Ethnographic Praxis in Industry 
+Conference Proceedings, 2018(1), 537–565. https://doi.org/10.1111/1559-8918.2018.01221 
+Horst, H., & Miller, D. (2006). The cell phone: An anthropology of communication. 
+Routledge. 
+Horst, H., & Miller, D. (2012). Digital anthropology. Berg Publishers. 
+Horst, H., & Taylor, E. B. (2018). Objects of mobility: The role of the mobile phone on the 
+border of Haiti and the Dominican Republic. In Linguistic and material intimacies of cell 
+phones (pp. 52–68). Routledge. 
+Hou, L., Hsueh, S. C., & Zhang, S. (2021). Digital payments and households' consumption: A 
+mental accounting interpretation. Emerging Markets Finance and Trade, 57(7), 2079–2093. 
+Hsieh, J. K., Kunz, W., & Wu, A. Y. (2022). Virtual gifting behavior on new social media: 
+The perspectives of the community gift-giving model and face-negotiation theory. Internet 
+Research, 32(5), 1639–1667.
+
+[Page 7]
+Hu, D., Guo, F., Shang, J., & Zhang, X. (2024). Does digital finance increase household risk-
+taking? Evidence from China. International Review of Economics & Finance, 93(Part A), 
+1197–1210. https://doi.org/10.1016/j.iref.2024.03.073 
+Hu, D., Zhai, C., & Zhao, S. (2023). Does digital finance promote household consumption 
+upgrading? An analysis based on data from the China family panel studies. Economic 
+Modelling, 125, Article 106377. https://doi.org/10.1016/j.econmod.2023.106377 
+Jensen, J. R., von Wachter, V., & Ross, O. (2021). An introduction to decentralized finance 
+(DeFi). Complex Systems Informatics and Modeling Quarterly, 26, 46–54. 
+https://doi.org/10.7250/csimq.2021-26.03 
+Joseph, N., Guérin, I., Guermond, V., Brickell, K., Natarajan, N., & Michiels, S. (2024). 
+Microfinance, debt distress and data capture: Evidence from pandemic times in rural South 
+India (Research findings report). Royal Holloway University of London; French Institute of 
+Pondicherry; King's College London; Princeton University. 
+Kear, M. (2017). Playing the credit score game: Algorithms, "positive" data and the 
+personification of financial objects. Economy and Society, 46(3-4), 346–368. 
+Kemal, A. A. (2019). Mobile banking in the government-to-person payment sector for 
+financial inclusion in Pakistan. Information Technology for Development, 25(3), 475–502. 
+Kizilcec, R., Bakshy, E., Eckles, D., & Burke, M. (2018). Social influence and reciprocity in 
+online gift giving. In Proceedings of the 2018 World Wide Web Conference (pp. 1–11). 
+Klapper, L., & Singer, D. (2015). The role of informal financial services in Africa. Journal of 
+African Economies, 24(1), 12–31. 
+Kolling, M. (2020). Debt and dirty names: Tracing cashlessness and urban marginality in 
+Brazil. In A. Sen, J. Lindquist, & M. Kolling (Eds.), Who's cashing in? Contemporary 
+perspectives on new monies and global cashlessness (pp. 19–31). Berghahn. 
+Kusimba, S. (2021). Reimagining money: Kenya in the digital finance revolution. Stanford 
+University Press. 
+Langley, P., & Leyshon, A. (2021). The platform political economy of FinTech: Re-
+intermediation, consolidation and capital formation. New Political Economy, 26(3), 376–388. 
+Lavinas, L. (2020). The collateralization of social policy by financial markets in the Global 
+South. In P. Mader, D. Mertens, & N. van der Zwan (Eds.), The Routledge international 
+handbook of financialization (pp. 312–323). Routledge. 
+Lu, Z., Xia, H., Heo, S., & Wigdor, D. J. (2018). You watch, you give, and you engage: A 
+study of live streaming practices in China. In Proceedings of the 2018 CHI Conference on 
+Human Factors in Computing Systems (pp. 1–13). 
+Lupton, D. (2016). The quantified self: A sociology of self-tracking. Polity. 
+Mader, P., & Morvant-Roux, S. (2019). Financial inclusion and microfinance. In J. Midgely, 
+R. Surender, & L. Alfers (Eds.), Handbook of social policy and development (pp. 411–430). 
+Edward Elgar. 
+Matanji, F. (2019). WhatsApp and mobile money: Ameliorating crowdfunding for social 
+change in Kenya. Asia Pacific Media Educator, 29(2), 155–167. 
+Maurer, B. (2012a). Mobile money: Communication, consumption and change in the 
+payments space. Journal of Development Studies, 48(5), 589–604. 
+Maurer, B. (2015). How would you like to pay? How technology is changing the future of 
+money. Duke University Press. 
+Maurer, B., Nelms, T. C., & Swartz, L. (2013). "When perhaps the real problem is money 
+itself!": The practical materiality of Bitcoin. Social Semiotics, 23(2), 261–277. 
+Maurer, B., Musaraj, S., & Small, I. (Eds.). (2018). Money at the margins: Global 
+perspectives on technology, financial inclusion, and design. Berghahn Books. 
+Mauss, M. (2002). The gift: The form and reason for exchange in archaic societies. 
+Routledge. (Original work published 1925)
+
+[Page 8]
+McDonald, T., & Guo, Y. (2021). "What would happen if you can't see your money?": 
+Visibility and the emergent infrastructures of digital money storage in China. New Media & 
+Society, 23(4), 715–731. https://doi.org/10.1177/1461444820954198 
+Morgan, P. J. (2022). Fintech and financial inclusion in Southeast Asia and India. Asian 
+Economic Policy Review, 17(2), 183–208. https://doi.org/10.1111/aepr.12379 
+Muralidhar, S. H., Bossen, C., Mehra, A., & O'Neill, J. (2018). Digitizing monetary 
+ecologies: Intended and unintended consequences of introducing a financial management app 
+in a low-resource setting. Proceedings of the ACM on Human-Computer Interaction, 
+2(CSCW), Article 172. https://doi.org/10.1145/3274341 
+Mützel, S. (2021). Unlocking the payment experience: Future imaginaries in the case of 
+digital payments. New Media & Society, 23(2), 284–301. 
+Narula, N., Swartz, L., & Frizzo-Barker, J. (2023). Expanding financial inclusion or 
+deepening the divide? Exploring design choices that could make a difference. MIT Digital 
+Currency Initiative/Maiden Lab. 
+Nelms, T. C., Maurer, B., Swartz, L., & Mainwaring, S. (2018). Social payments: Innovation, 
+trust, Bitcoin, and the sharing economy. Theory, Culture & Society, 35(3), 13–33. 
+Okello Candiya Bongomin, G., Mpeera Ntayi, J., Munene, J. C., & Malinga Akol, C. (2017). 
+Financial intermediation and financial inclusion of poor households: Mediating role of social 
+networks in rural Uganda. Cogent Economics & Finance, 5(1), Article 1362184. 
+https://doi.org/10.1080/23322039.2017.1362184 
+OMFIF. (2020). Digital currencies: A question of trust. An OMFIF report on global public 
+confidence in monetary, financial and payment institutions. 
+Ossandón, J., Ariztía, T., Barros, M., Peralta, C., & Burrell, J. (2018). Accounting in the 
+margin: Financial ecologies in between big and small data. In B. Maurer, S. Musaraj, & I. V. 
+Small (Eds.), Money at the margins: Global perspectives on technology, financial inclusion, 
+and design (pp. 200–220). Berghahn Books. https://doi.org/10.1515/9781785336546-015 
+Ossandón, J., Deville, J., Lazarus, J., & Luzzi, M. (2022). Financial oikonomization: The 
+financial government and administration of the household. Socio-Economic Review, 20(3), 
+1473–1500. https://doi.org/10.1093/ser/mwab031 
+Ozili, P. K. (2023). Financial inclusion, sustainability and sustainable development. In P. 
+Tyagi, S. Grima, B. Balamurugan, E. Ozen, & T. Eleftherios (Eds.), Smart analytics, 
+artificial intelligence and sustainable performance management in a global digitalised 
+economy (pp. 233–241). Emerald Publishing. https://doi.org/10.1108/S1569-
+37592023000110A012 
+Pietrzak, P., & Takala, J. (2021). Digital trust—A systematic literature review. Forum 
+Scientiae Oeconomia, 9(3), 59–71. https://doi.org/10.23762/FSO_VOL9_NO3_4 
+Purvis, B., Mao, Y., & Robinson, D. (2019). Three pillars of sustainability: In search of 
+conceptual origins. Sustainability Science, 14(3), 681–695. https://doi.org/10.1007/s11625-
+018-0627-5 
+Ramesh, D., Kameswaran, V., Wang, D., & Sambasivan, N. (2022). How platform-user 
+power relations shape algorithmic accountability: A case study of instant loan platforms and 
+financially stressed users in India. In Proceedings of the 2022 ACM Conference on Fairness, 
+Accountability, and Transparency (pp. 1917–1928). 
+https://doi.org/10.1145/3531146.3533237 
+Ray, R., & Sam, J. S. (2023). Off-platform social networks and gig work during the COVID-
+19 pandemic in India. Journal of South Asian Development, 18(3), 359–382. 
+Ray, R., & Sam, J. S. (2026). Household accountants in service within ride-hailing platforms 
+in India. Journal of Cultural Economy.
+
+[Page 9]
+Riedl, R., Gschwentner, L., & Krueger, F. (2024). Determinants of trust in Bitcoin: Literature 
+review and results of a survey study. Telematics and Informatics Reports, 14, Article 100132. 
+https://doi.org/10.1016/j.teler.2024.100132 
+Rodima-Taylor, D. (2022). Platformizing Ubuntu? FinTech, inclusion, and mutual help in 
+Africa. Journal of Cultural Economy, 15(4), 416–435. 
+https://doi.org/10.1080/17530350.2022.2040569 
+Roitman, J. (2023). Platform economies: Beyond the North-South divide. Finance and 
+Society, 9(1), 1–13. https://doi.org/10.2218/finsoc.8089 
+Sam, J., Venkatraman, S., & Ray, R. (forthcoming). An introduction to platform economy in 
+India: Exploring relationality and embeddedness. An economic sociology perspective. 
+Emerald Publishing. 
+Sam, J. S., & Chakraborty, A. (2019). Sense-making of digital money among female 
+peripheral agents: A short ethnographic study of informal workers in North India. Sociologia 
+del Lavoro, 154, 60–78. 
+Sam, J. S., Ray, R., & Chakraborty, A. (2023). Digital payments on the agenda: How supply-
+side actors framed cash and digital payments during the COVID-19 pandemic in India. Asian 
+Studies Review, 47(2), 336–354. 
+Sandbukt, S. (2020). "Top up with driver": Entanglements of design, online drivers, and 
+digital money in Indonesia. https://parole.cc/compendiums/form-follows-finance/top-up-
+with-driver-entanglements-of-design-online-drivers-and-digital-money-in-indonesia/ 
+Schuster, C. E. (2021). "Risky data" for inclusive microinsurance infrastructures. 
+Development and Change, 52(4), 780–804. 
+Sen, A. (2022). An economy of lies: Informal income, phone-banking and female migrant 
+workers in Kolkata, India. Journal of Immigrant & Refugee Studies, 20(2), 164–176. 
+Shen, Y., Hu, W., & Zhang, Y. (2022). Digital finance, household income and household 
+risky financial asset investment. Procedia Computer Science, 202, 244–251. 
+https://doi.org/10.1016/j.procs.2022.04.032 
+Simmel, G. (2004). The philosophy of money (3rd enlarged ed.; D. Frisby & T. Bottomore, 
+Trans.). Routledge. (Original work published 1900) 
+Singh, S. (2013). Globalization and money: A global South perspective. Rowman and 
+Littlefield. 
+Singh, S. (2016). Money, migration and family: India to Australia. Springer. 
+Swartz, L. (2018). What was Bitcoin, what will it be? The techno-economic imaginaries of a 
+new money technology. Cultural Studies, 32(4), 623–650. 
+Swartz, L. (2020). New money: How payment became social media. Yale University Press. 
+Taylor, E. B., & Broløs, A. (2022). Money and payments in low income Brazil. 
+Finthropology/SICPA. 
+Taylor, E. B., & Broløs, A. (2024). Customer-centric innovation in finance: Leveraging 
+human insights to drive product innovation in the digital age. Kogan Page Publishers. 
+Torkelson, E. (2020). Collateral damages: Cash transfer and debt transfer in South Africa. 
+World Development, 126, Article 104711. https://doi.org/10.1016/j.worlddev.2019.104711 
+Torkelson, E. (2021). Sophia's choice: Debt, social welfare, and racial finance capitalism. 
+Environment and Planning D, 39(1), 67–84. https://doi.org/10.1177/0263775820973680 
+Tsing, A. L. (2005). Friction: An ethnography of global connection. Princeton University 
+Press. 
+van der Cruijsen, C., & de Haan, J. (2020). Trust in financial institutions: A survey (DNB 
+Working Paper No. 693). De Nederlandsche Bank. 
+Venkatraman, S., & Reddy, P. G. (2021). Cashlessness and scalable multi-pay practices: 
+Capturing the everyday financial transactions in local contexts. Telecommunications Policy, 
+45(5), Article 102113. https://doi.org/10.1016/j.telpol.2021.102113
+
+[Page 10]
+Wang, H., Lee, K., & Fu, W. (2019). Digital gift economy on Twitch: User motivations and 
+social dynamics. Proceedings of the ACM on Human-Computer Interaction, 3(CSCW), 
+Article 33. 
+Weber, I., & Staples, M. (2022). Programmable money: Next-generation blockchain-based 
+conditional payments. Digital Finance, 4(2-3), 129–141. https://doi.org/10.1007/s42521-022-
+00059-5 
+Wherry, F. F. (2019). Household finances and credit visibility. In F. F. Wherry & I. 
+Woodward (Eds.), The Oxford handbook of consumption (pp. 282–300). Oxford University 
+Press. https://doi.org/10.1093/oxfordhb/9780190695583.013.17 
+Xu, Y. (2021). The "lucky money" that started it all—The reinvention of the ancient tradition 
+"red packet" in digital times. Social Media + Society, 7(3), Article 20563051211041643. 
+Yogarajah, Y. (2022). "Hodling" on: Memetic storytelling and digital folklore within a 
+cryptocurrency world. Economy and Society, 51(3), 570–589. 
+https://doi.org/10.1080/03085147.2022.2091316 
+Zelizer, V. A. (2010). Economic lives: How culture shapes the economy. Princeton 
+University Press. 
+Zelizer, V. A. (2017). The social meaning of money: Pin money, paychecks, poor relief, and 
+other currencies. Princeton University Press. 
+Ziewitz, M., & Singh, R. (2021). Critical companionship: Some sensibilities for studying the 
+lived experience of data subjects. Big Data & Society, 8(2), Article 20539517211061122. 
+https://doi.org/10.1177/20539517211061122 
+
+10. Any other remarks: 
+
+ 
+ 
+Dated:11th August, 2026 
+ 
+Proposer: Jillet Sarah Sam 
+
+ 
+ 
+Dated:_______________ 
+ 
+DUGC Convener:___________________ 
+
+ 
+The course is approved / not approved 
+ 
+Chairman, SUGC 
+
+ 
+ 
+Dated:______________________________

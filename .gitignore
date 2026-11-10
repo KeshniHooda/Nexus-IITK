@@ -1,0 +1,39 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local databases and generated vector indexes
+chroma_db/
+**/chroma_db/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Large RAG archives and generated vector database
+rag.zip
+rag/chroma_db/
+
+# Local generated data
+rag/__pycache__/

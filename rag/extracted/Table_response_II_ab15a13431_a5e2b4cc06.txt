@@ -1,0 +1,27 @@
+[PAGE 1]
+Summary of departmental responses to the salient features and the questions
+
+Legends: Y=YES, N=NO, D=DIVIDED, NR=NO RESPONSE, O: Other opinion
+
+AE  BSBE CE CSE CHE CHM EE  HSS MTH ME  MME PHY IME
+Credit-based  Y    Y    Y   Y   Y    Y     Y    Y    NR   NR   Y     Y    Y
+Grading Scale NR  NR  NR Y   NR  Y    NR  NR   NR   NR    A-9,   Y   NR
+A*=10
+Grad. Req. 4.0 Y   NR   4.5 Y   Y    Y    N   N    Y    NR   5    O   NR
+BTP Optional  Y   NR   Y   Y   Y   N    NR  NR   NR   N    Y     Y   NR
+UG Research  Y   NR   Y   Y   Y    Y    NR  NR   NR   NR   Y     Y   NR
+Engg. Sc.     Y   NR   Y   Y   NR  Y    NR  NR   NR   NR   Y     Y   NR
+Minor         Y    Y    Y   Y   Y    Y     Y    Y    NR   NR   Y     Y    Y
+Double Major  NR  NR   Y   Y   Y    Y    N   NR   Y    NR   Y     Y   NR
+Dual Degree  NR  NR   Y  D   Y    Y    NR  NR   NR   NR   Y     Y    Y
+One Mid term  Y   N    Y   Y   Y    Y    NR   Y    NR   NR   Y     Y    Y
+Modular CoursesY   NR   Y  NR  Y    Y    NR  NR   Y    NR   Y     Y   NR
+Electives     NR  NR   Y  NR NR  Y    NR  NR   Y    N    Y     Y    Y
+Core        NR  NR   Y  D  NR  Y    NR  NR   Y    NR   TA201 N   NR
+HSS Slots    NR  NR  O  NR NR  Y    NR  NR   NR   NR   Y     Y   NR
+D0 deleted   NR  NR  N  NR NR  Y    NR  NR   NR   N    Y     Y   NR
+Comm Skills   Y   N    Y  N   Y    Y    N    Y    NR   NR   N     Y   NR
+Attendance    Y   NR  N  N   Y    Y    N   NR   Y    NR   N     Y   N
+Transfer CreditsNR  NR   Y   Y   NR  Y    NR  NR   NR   NR   N     Y   NR
+
+1

@@ -1,0 +1,68 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+Proposal for a New Course
+
+Course Number: ISXXX
+
+Course Title: Dynamics for Robotics
+
+Course Structure: Three Lectures/Week; Full Semester
+
+Proposing department/IDP: Department of Intelligent Systems
+
+Other departments/IDPs may be interested in the proposed course: Departments of Aerospace/Electrical/Mechanical
+Engineering
+
+Proposing instructor: Prof. Shakti S Gupta
+
+Other faculty members interested in teaching the proposed course: None at this point of time.
+
+Objectives/Outcome: To prepare a senior undergraduate and a graduate student to analyse/synthesize multi-link robots; static
+or mobile. It is expected that by the end of the course a student will be able to develop skills to employ existing commercial/open-
+source codes, effectively.
+
+Pre-requisites: Exposure to planar dynamics of rigid bodies.
+
+Course description:
+
+Module 1: Mathematical Foundations & Advanced Kinematics (8 Hours)
+Vectors, Tensors, and Reference Frames; Orientation & Parametrization; Angular Velocity & Acceleration; Translational
+Kinematics; Introduction  to Spatial Kinematics; Screw Theory Fundamentals; Kinematics of  Serial Chains; Jacobian &
+Singularities.
+
+Module 2: Kinetics & Analytical Mechanics (8 Hours)
+Mass Distribution & Inertia; Newton-Euler Formulation; Variational Principles; Lagrangian Dynamics; Hamiltonian Mechanics;
+Extended Hamilton's Principle; Comparison of Formulations.
+
+Module 3: Multi-Body Dynamics Formulation (8 Hours)
+Topology of Multi-Body Systems; Kinematic Constraints; Joint Modeling; Constrained Dynamics; Reduction Methods; Maggi's &
+Kane's Equations; Contact & Impact Mechanics.
+
+Module 4: Numerical Methods & Algorithms (8 Hours)
+Forward vs. Inverse Dynamics; Solving Ordinary Differential Equations (ODEs); Implicit Integration Schemes; Solving Differential-
+Algebraic Equations (DAEs); Constraint Stabilization; Symplectic Integrators; Computational Efficiency.
+
+Module 5: Computer Simulation & Software Implementation (8 Hours + Term Projects)
+Introduction to Computational MBD; MATLAB/Simscape Multi-body; MSC ADAMS: Basics and Advanced Dynamics; Robotics
+Simulators: MuJoCo; MuJoCo: Implementation; Comparing Solvers in Software.
+
+References (Latest editions of the following books):
+
+1.   Rigid Body Dynamics Algorithms, Roy Featherstone
+2.  Dynamics of Multi-body Systems, Ahmed A. Shabana
+3.   Fundamentals of Robotic Mechanical Systems: Theory, Methods, and Algorithms, Jorge Angeles
+4.   Mechanics of Robotic Manipulation, Matthew T. Masaon
+5.  Advanced Engineering Dynamics, Donald T. Greenwood
+6.  A Mathematical Introduction to Robotic Manipulation, Richard M. Murray, Zexiang Li, and S. Shankar Sastry
+7.   Classical Mechanics, Herbert Goldstein, Charles P. Poole, and John Safko
+8.   Computer-Aided Kinematics and Dynamics of Mechanical Systems: Basic Methods, Edward J. Haug
+9.  Computer Methods for Ordinary Differential Equations and Differential-Algebraic Equations, Uri M. Ascher and Linda R. Petzold
+10. MATLAB, ADAMS, and MuJoCo Documentation
+
+Date: 15 Apr 2026. Proposer: Shakti S Gupta
+
+Date:_________ DPGC Convenor: ___________
+
+Course is approved or not approved.
+
+Chairman, SPGC

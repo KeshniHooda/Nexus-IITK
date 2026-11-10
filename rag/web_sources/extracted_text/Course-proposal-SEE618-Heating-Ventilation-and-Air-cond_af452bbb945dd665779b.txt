@@ -1,0 +1,118 @@
+[Page 1]
+Department of Sustainable Energy Engineering 
+Indian Institute of Technology Kanpur 
+ 
+Proposal for a New Course 
+Course title 
+: Heating, 
+Ventilation, 
+and 
+Air-conditioning 
+of 
+Buildings 
+Number 
+: SEE-618 
+Credits (L-T-P [C]) 
+: 3-0-0-9 
+Departments proposing the course 
+: Sustainable Energy Engineering 
+Name of the proposer 
+: Aakash Chand Rai 
+Offered for 
+ 
+: PG Students of SEE/other departments or programs 
+3/4th year UG students 
+Status of the course 
+: PG Elective/ UG Elective 
+Prerequisite(s) for the course 
+: Consent of instructor 
+Faculty members interested in teaching 
+: Faculty members of ME and CE 
+Other departments/programmes of whose the 
+students are expected to take up the course 
+: ME and CE 
+Course objectives 
+This course aims to equip the students with a fundamental understanding of buildings’ thermal behaviour. 
+The students will then be introduced to the design and analysis of heating, ventilation, and air-
+conditioning (HVAC) systems for maintaining comfortable and healthy indoor environments. Finally, the 
+course will focus on building energy simulation, climate impact assessment, and net-zero buildings. 
+Expected learning outcomes 
+The students will be able to understand the thermal behaviour of buildings and perform detailed design 
+and analysis of HVAC systems. They will be able to conduct building energy simulations and climate 
+impact analysis. They will also be able to appreciate net-zero building design practices. 
+Course outline 
+Energy use in buildings: Building sector’s energy usage and associated greenhouse gas (GHG) 
+emissions. 
+HVAC systems and psychrometry: Common HVAC systems (all-air, air-water, and all-water), moist 
+air properties, and moist air processes for HVAC system design. 
+Thermal comfort, indoor air quality, and indoor infection transmission: Physiological considerations 
+in comfort, environmental comfort indices, comfort conditions, adaptive thermal comfort, indoor air 
+quality concerns, common air pollutants and their control, airborne infection transmission: causes and 
+mitigation techniques. 
+Heating load: Steady-state building heat transfer, indoor and outdoor design conditions, and heating load 
+calculation. 
+Solar radiation: Sun’s motion as seen from the earth, solar time, solar angles, solar irradiation, and heat 
+gain through fenestration. 
+Cooling load: Heat gain, cooling load, heat extraction rate, indoor and outdoor design conditions, and 
+cooling load calculation procedures. 
+Energy calculations and building simulation: Degree day method, weather files, and software tools for 
+energy simulation. 
+Climate change and net-zero buildings: GHG emission trends and drivers, representative concentration 
+pathways, and net-zero buildings.
+
+[Page 2]
+Lecture-wise breakup 
+Topics 
+# of lectures 
+(approximate) 
+Energy use in buildings 
+3 
+HVAC systems 
+4 
+Psychrometry 
+6 
+Thermal comfort, indoor air quality, and indoor infection transmission 
+4 
+Heating load 
+4 
+Solar radiation 
+6 
+Cooling load 
+7 
+Energy calculations and building simulation 
+3 
+Climate change and net-zero buildings 
+ 
+3 
+ 
+40 
+ 
+Text-books, reference books, suggested readings, and any other references 
+• 
+Heating, Ventilating and Air Conditioning – Analysis and Design by McQuiston, Parker, and Spitler. 
+• 
+ASHRAE Handbook—Fundamentals. 
+• 
+Heating, Cooling, Lighting: Sustainable Design Strategies Towards Net Zero Architecture by Norbert 
+M. Lechner and Patricia Andrasik. 
+• 
+Refrigeration and Air-conditioning by C P Arora. 
+
+ 
+
+ 
+
+ 
+Course proposed by 
+Recommended/Not recommended 
+This course is approved/not approved 
+
+ 
+
+ 
+ 
+ (Aakash Chand Rai) 
+
+Convener, DPGC (SEE) 
+
+Chairman, SPGC

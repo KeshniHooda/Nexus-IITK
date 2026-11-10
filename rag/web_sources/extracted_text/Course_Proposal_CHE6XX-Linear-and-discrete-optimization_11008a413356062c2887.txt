@@ -1,0 +1,179 @@
+[Page 1]
+1 
+Indian Institute of Technology Kanpur 
+Proposal for a new course 
+ 
+Title: Linear and discrete optimization for process systems engineering 
+ 
+1. Course No.: ChE 6xx 
+2. Structure: Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 3 (P), Additional hours [0-2]: 0 (A), credits (3-0-3-0): 12. 
+3. Duration of course: Full semester 
+4. Prerequisite: Linear algebra 
+5. Proposing instructor: Ishan Bajaj (707, ESB-3, ibajaj@iitk.ac.in) 
+6. Proposing department: Department of Chemical Engineering 
+7. Other faculty members interested in teaching the course: Sanjeev Garg, Salman Khan, Raghavendra Ragipani 
+10. Course description: 
+A. Objectives: This course provides an introduction to linear and integer optimization. Students will learn how to 
+formulate linear and mixed-integer optimization models for practical engineering applications and solve them 
+using state-of-the-art solvers (e.g., Gurobi). The course also covers foundational theory and algorithms for 
+solving these optimization problems. The course has several hands-on laboratory sessions to implement and 
+solve optimization models using Python API of Gurobi. In addition, students will gain exposure to 
+implementing selected optimization algorithms. 
+B. Content: Lecture-wise break-up (considering the duration of each lecture is 50 minutes) 
+S. No. 
+Title 
+Topics 
+No. of 
+lectures 
+1 
+Introduction to optimization 
+• 
+Common optimization problems in process 
+systems engineering (PSE) 
+• 
+Optimization in design, scheduling, planning, and 
+supply chain 
+• 
+Categories of optimization models (linear, 
+nonlinear, discrete, etc.) 
+2 
+2 
+Optimization basics 
+• 
+Linear algebra, convexity, degrees of freedom 
+analysis, feasible region 
+2 
+3 
+Formulating linear programming 
+(LP) models 
+• 
+Data structures for LP models: sets and parameters 
+• 
+Defining continuous decision variables, objective 
+function, and linear constraints 
+• 
+Approximating nonlinear convex functions 
+4 
+4 
+Formulating mixed integer linear 
+programming (MILP) models 
+• 
+Defining discrete/binary variables 
+• 
+Modeling logical constraints using binary variables 
+• 
+Approximating nonlinear nonconvex functions 
+6
+
+[Page 2]
+2 
+5 
+Linear optimization theory and 
+algorithms 
+• 
+Structure and geometry of LP models 
+• 
+Simplex method 
+• 
+Duality theory 
+12 
+6 
+Large-scale linear optimization 
+• 
+Dantzig-Wolfe decomposition 
+• 
+Benders decomposition 
+6 
+7 
+Integer programming methods 
+• 
+Cutting plane methods 
+• 
+Branch and bound 
+• 
+Integer programming duality 
+8 
+ Total 
+40 
+ 
+C. Laboratory sessions: 
+S. No. Session 
+1 
+Formulating LP-based supply chain optimization models 
+2 
+Blending operations optimization using LP 
+3 
+Transshipment model formulation to minimize utility cost in heat exchanger network 
+4 
+MILP model formulations for optimal heat exchanger network synthesis 
+5 
+Process planning and scheduling using MILP 
+6 
+Approximating nonconvex functions using SOS2 variables 
+7 
+Implementing Naïve simplex method 
+8 
+Implementing tableau simplex method and comparing performance with Naïve simplex method 
+9 
+Using callback functions of Gurobi 
+10 
+Implementing Benders’ cuts to solve large-scale LPs 
+11 
+Implementing Gomory cuts for integer programming models 
+11. Recommended books: 
+• 
+H.P. Williams. Model building in mathematical programming. Wiley, 2013. 
+• 
+D. Bertsimas and J.N. Tsitsiklis. Introduction to linear optimization. Athena Scientific, 1997. 
+• 
+C.A. Floudas. Nonlinear and mixed-integer optimization. Oxford, 1995. 
+• 
+K.G. Murty. Optimization Models for Decision Making: Volume 1. 
+• 
+D. Bertsimas and R. Weismantel. Optimization over integers. Dynamic ideas, 2005. 
+
+Dated: 12/11/2025 
+
+ 
+
+ 
+ Proposer: Ishan Bajaj
+
+[Page 3]
+3 
+
+ 
+
+ 
+
+ DPGC convenor: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ The course is approved/not approved 
+
+ 
+
+ 
+
+ 
+
+ 
+Chairman, SUGC/SPGC 
+
+ 
+
+ 
+
+ 
+Dated:

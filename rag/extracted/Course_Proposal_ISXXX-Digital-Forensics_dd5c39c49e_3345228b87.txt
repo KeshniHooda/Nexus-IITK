@@ -1,0 +1,246 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+
+Proposal for a New Course
+
+1.  Course No: A 200 level number requested.
+2.  Course Title: Digital Forensics
+3.  No. of Lectures per week: 0 (L), Tutorial: 1 (T), Laboratory: 3 (P), Additional Hours: 3 (A),
+
+Credits (3*L+2*T+P+A): 08                    Duration of Course: Full Semester
+
+4.  Proposing Department/IDP : WSAIS
+
+Other Departments/IDPs which may be interested in the proposed course: CSE
+
+Other faculty members interested in teaching the course: Somitra Sanadhya, Manindra Agrawal
+
+5.  Proposing Instructor: DUGC (WSAIS)
+6.  Course Description:
+
+A) Objectives: The objective of this practical-based course is to impart hands-on training in the digital, network,
+
+mobile forensics, VM forensics, and memory forensics, and in the proper analysis and reporting of digital evidence
+
+using standard forensic tools and techniques.
+
+B) Contents: (for 13 weeks of labs, tutorials, and additional work)
+
+S.
+Type     Broad Title             Topics                  Tools         Duration
+No
+Digital Forensics
+Investigation Lifecycle:
+Identification, Preservation,
+Collection, Examination,
+Analysis, Reporting
+Search and Seizure Process,
+Theory                   Chain of Custody and legal                       1 Hour
+importance
+Admissibility of Digital
+Evidence
+Overview of Indian IT Act
+Digital       (relevant sections), and
+Manual                     Forensics     Relevant Section of BSA
+documentation and  1                  Process &    Lab  1:  Digital  Forensics
+Autopsy,
+Chain of    Lab  Setup &  Evidence
+VMware/VirtualBox
+Custody     Handling
+
+•  Windows &  Kali VM
+setup,         host-only
+Practical                        network, snapshots, tool                      3 Hour
+installation,
+•  Chain    of    custody
+documentation,
+•   Evidence      handling
+simulation
+
+[PAGE 2]
+Storage media fundamentals.
+Logical vs Physical vs Live
+vs Dead Acquisition and
+Theory                                                                1 Hour
+Importance of Write
+Disk        Blockers. Forensic image
+Acquisition &   formats (RAW, E01, AFF).    FTK Imager, dd,
+2                  Imaging     Lab 2: Forensic Disk &           dc3dd
+Techniques    Live Data Acquisition
+•  Disk/USB acquisition,
+Practical                                                               3 Hour
+•   Live acquisition,
+•  Image           integrity
+verification.
+Importance of hashing in
+forensics and Hash
+Theory                                                                1 Hour
+algorithms (MD5, SHA-1,
+SHA-256).
+Lab  3:  Evidence  Hash
+Hashing &                               Generation &   Integrity
+Evidence                                   Hashcalc/ md5sum/3                                Validation
+Integrity                           SHA-1 and 256sum                                 •   Generating  hashes  for                   Verification
+Practical                           original media,                              3 Hour
+•  Hash  comparison  and
+validation          and
+Maintaining    evidence
+integrity
+Disk Geometry, MBR/GPT,
+MFT, partitions, file system
+Theory                                                                1 Hour
+identification and corruption
+scenarios.
+Disk Structure  Lab 4: Partition & File
+Sleuth Kit &4         & File System   Metadata Analysis
+Autopsy                   Identification   •   Partition        analysis,
+Practical                      hidden/damaged                             3 Hour
+partitions,
+•    file     metadata   &
+timestamps
+Common File Systems &
+Usage, Key File System
+Components
+Theory                  (FAT,NTFS,EXT), File                          1 Hour
+system metadata,
+timestamps, journaling and
+File System                                      allocation strategies.
+Forensics                                       Sleuth Kit &5                         Lab    5:    File   System
+(NTFS, FAT,                                  Autopsy                                  Analysis  &    Timeline
+EXT)                                 Reconstruction
+•   File            system
+Practical                                                               3 Hour                                             identification,
+•   Directory analysis,
+•   Metadata &   timeline
+correlation
+Deletion mechanisms,
+Deleted Data &                                Autopsy &
+6    Theory                       slack/unallocated space,                          1 Hour
+File Carving                               Foremost & Scalpel
+anti-forensic
+
+[PAGE 3]
+Lab   6:   Deleted    File
+Recovery &  Basic  File
+Carving
+Practical                  •   Recycle  Bin   recovery,                      3 Hour
+unallocated         space
+analysis, carving, wiping
+detection
+Fragmented files,
+Theory                       header/footer limitations and                      1 Hour
+validation of carved files.
+Advanced File  Lab   7:  Advanced   File
+Carving &    Carving  &   Fragment    Scalpel, Binwalk,
+7
+Fragment     Reconstruction             PhotoRec, Exif Tool
+Practical     Recovery     •  Manual         carving,                      3 Hour
+fragmented            file
+recovery,   anti-forensic
+detection
+Windows activity artifacts,
+Categories of Windows
+Theory                         Artifacts, user behaviour                         1 Hour
+traces and execution
+Windows OS     artifacts.
+8                    Artifact     Lab 8: Windows Registry  Autopsy, RegRipper
+Forensics   & User Activity Forensics
+•   Registry, Prefetch,
+Practical                                                               3 Hour                                 •  LNK, USB artefacts,
+•   Event logs,
+•  User activity
+Volatile data importance,
+Types of Volatile data,
+Order of Volatility (OOV),
+Theory                                                                1 Hour
+memory acquisition
+Volatile                                    challenges and live analysis
+Memory 9                                         risks.                                 Volatility
+(RAM)                           Lab   9:   Live  Memory
+Forensics                                   Acquisition & Analysis
+Practical                   •  RAM capture, process,                        3 Hour
+•  Network &  credential
+artefacts
+What is Network Forensics,
+Network evidence types,
+Theory                    Live vs Dead Network                           1 Hour
+Forensics, packet vs log
+Network                                        analysis.
+Forensics and                                  Wireshark &10                         Lab 10: Network Traffic
+malware traffic                                tcpdump                              Capture & Analysis
+exercise                                 •   Traffic capture,
+Practical                                                               3 Hour
+•  PCAP analysis,
+•  DNS,   HTTP/HTTPS
+forensics
+W hy VM & Cloud
+Virtual
+Forensics is Different
+Machine &                               Autopsy & qemu-
+11    Theory           VM disk formats (VMDK,                        1 Hour
+Cloud Artifact                                 img
+VDI), snapshots andcloud
+Forensics
+artifact fundamentals.
+
+[PAGE 4]
+Lab  11: VM  Disk &
+Snapshot         Forensic
+Analysis
+• VM     disk     analysis,
+Practical                       snapshot investigation and                      3 Hour
+VM              timeline
+reconstruction.
+Hypervisor  &    Host
+Artefacts.
+Mobile file systems, Types
+of Mobile Acquisition:
+Theory                        logical vs physical                              1 Hour
+extraction and app artifacts.
+Mobile Device   Mobile Forensic Challenges
+12                                        ADB & Autopsy                     Forensics    Lab 12: Logical Mobile
+Acquisition & App
+Practical                   •   Logical acquisition,                          3 Hour
+•  App    data,    location,
+deleted data & caches
+Evidence correlation,
+Theory                       forensic reporting and expert                      1 Hour
+testimony basics.
+Lab    13:    End-to-End
+3 Hour                                      Digital   Forensic   Case
+Integrated                                     Investigation
+13               Forensic Case                              Autopsy & Manual                                  •   Integrated disk,
+Investigation       Practical                   •  Memory,
+•  Network,                                  3 Hour
+•  Mobile
+• VM analysis,
+•   Final report
+
+C) Pre-requisites:
+
+•  Working knowledge of Windows and Linux OS
+•   Basic networking concepts
+•   Familiarity with virtual machines
+•   Introductory cyber security knowledge
+
+D) Short summary for including in the Courses of Study Booklet: This course provides hands on training to the
+students on the concepts and techniques of digital forensics and preserving evidence. The students will be able to
+analyze operating systems and memory artifacts, examine the same, and prepare simple forensic reports.
+
+7.  Recommended books:
+• Tools which will be used are already listed in the weekly description.
+
+_________________________________________________________________________________________
+
+Dated: 13 August 2026; Proposer: DUGC, WSAIS
+
+[PAGE 5]
+Dated:                          ; DUGC Convener (WSAIS):___________________
+
+The course is approved / not approved
+
+____________________________________
+
+Chairperson, SUGC
+
+Dated:______________________________

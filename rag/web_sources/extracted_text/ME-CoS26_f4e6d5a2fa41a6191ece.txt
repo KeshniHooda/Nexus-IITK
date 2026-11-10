@@ -1,0 +1,3848 @@
+[Page 1]
+Indian Institute of Technology Kanpur 
+ COURSES OF STUDY 
+2026 
+
+ 
+ 
+ Indian Institute of Technology Kanpur 
+ KANPUR-208016
+
+[Page 2]
+MECHANICAL ENGINEERING 
+Template for BT Program in Mechanical Engineering 
+Semester 1 
+Semester 2 
+Semester 3 Semester 4 
+Semester 5 
+Semester 6 
+Semester 7 
+Semester 8 
+SCHEME-1 (9) 
+ELC111/ELC112/
+ELC113 * 
+ETH111 (3) ** 
+SCHEME-2 
+HSS-I (9-11) 
+SCHEME-3 EME 
+(9-11) 
+SCHEME HSS-
+II (9) 
+ 
+-- 
+SCHEME HSS-
+II (9) 
+SCHEME 
+HSS-II (9) 
+MTH 111 (6) 
+MTH 113 (6) 
+ESC201 (14) 
+ME231 (8) 
+ME333 (3) 
+ME334 (4) 
+OE-1 (9) 
+OE-5 (9) 
+MTH 112 (6) 
+MTH 114 (6) 
+MSO202M (6) ME222 (6) 
+ME301 (9) 
+ME302 (9) 
+OE-2 (9) 
+OE-6 (9) 
+PHY 113 (11) 
+PHY 112 (11) 
+MSO203M (6) ME252 (9) 
+ME331 (9) 
+ME354 (9) 
+OE-3 (9) 
+DE-2 (9) 
+PHY 111 (3) 
+CHM 111 (3) 
+ESO201 (11) 
+ESO202 (11) 
+ME321 (9) 
+ME341 (9) 
+OE-4 (6) 
+DE-3/UGP-2 (9) 
+TA 111 (9) 
+ESC 111 (7) 
+ME209 (9) 
+ME261 (7) 
+ME361 (7) 
+ME371 (9) 
+DE-1/UGP-1 (9) 
+CHM 112 (4) 
+ESC 112 (7) 
+ME381 (7) 
+ME351 (8) 
+CHM 113 (4) 
+LIF111 (6) 
+MEXXX (9) -One 
+course from 
+Basket* 
+PE111 (3) 
+PE112 (3) 
+55 
+52 
+55-57 
+50-52 
+53 
+57 
+51 
+45 
+ 
+* DC Basket (MEXXX): 3 to 4 electives courses will be designated every even semester 
+Credit Table for BT Program in Mechanical Engineering 
+Course type 
+Allowable Credit range Credit in the department 
+Institute Core (IC) 
+112 
+112 
+E/SO 
+18-45 
+34 
+Department requirements 144-179 
+167 (140 DC + 27 DE) 
+Open electives (OE) 
+51-57 
+51 
+SCHEME 
+54-58 
+54-58 
+Total for 4-year BT/BS 
+391-420 
+418-422* 
+* Exceeds the credit range recommended by UGARC 
+Template for BTH Program in Mechanical Engineering 
+ 
+Template for 3rd to 8th semester for BTH Program in Mechanical Engineering 
+Semester 3 
+Semester 4 
+Semester 5 Semester 6 
+Semester 7 
+Semester 8 
+SCHEME-2 
+HSS-I (9-11) 
+SCHEME-3 EME 
+(9-11) 
+SCHEME HSS-II 
+(9) 
+-- 
+SCHEME HSS-II 
+(9) 
+SCHEME HSS-
+II (9) 
+ESC201 (14) 
+ME231 (8) 
+ME333 (3) 
+ME334 (4) 
+OE-1 (9) 
+OE-5 (9) 
+MSO202M (6) 
+ME222 (6) 
+ME301 (9) 
+ME302 (9) 
+OE-2 (9) 
+OE-6 (9) 
+MSO203M (6) 
+ME252 (9) 
+ME331 (9) 
+ME354 (9) 
+OE-3 (9) 
+DE-1 (9) 
+ESO201 (11) 
+ESO202 (11) 
+ME321 (9) 
+ME341 (9) 
+OE-4 (6) 
+UGP-2 (9) 
+ME209 (9) 
+ME261 (7) 
+ME361 (7) 
+ME371 (9) 
+UGP-1 (9) 
+DEH-2 (9) 
+ME381 (7) 
+ME351 (8) 
+DEH-1 (9) 
+DEH-3 (9) 
+MEXXX (9) - 
+One course 
+from Basket* 
+55-57 
+50-52 
+53 
+57 
+60 
+63
+
+[Page 3]
+– DEH: 27 credits of DEs at the level of 6 or 7 must be taken 
+– 
+CPI criteria for BTH: 8.0 
+– 
+UGP-1 and UGP-2 are mandatory for BTH 
+ 
+Template for BTM program in Mechanical Engineering 
+ 
+Template for 3rd to 8th semester for BTM Program in Mechanical Engineering 
+Semester 3 
+Semester 4 
+Semester 5 Semester 6 
+Semester 7 
+Semester 8 
+SCHEME-2 
+HSS-I (9-11) 
+SCHEME-3 EME 
+(9-11) 
+SCHEME HSS-II 
+(9) 
+-- 
+SCHEME HSS-II 
+(9) 
+SCHEME HSS-
+II (9) 
+ESC201 (14) 
+ME231 (8) 
+ME333 (3) 
+ME334 (4) 
+OE-1 (9) 
+OE-3 (9) 
+MSO202M (6) 
+ME222 (6) 
+ME301 (9) 
+ME302 (9) 
+OE-2 (6) 
+MTB-4 (9) 
+MSO203M (6) 
+ME252 (9) 
+ME331 (9) 
+ME354 (9) 
+MTB-1 (9) 
+MTB-5 (9) 
+ESO201 (11) 
+ESO202 (11) 
+ME321 (9) 
+ME341 (9) 
+MTB-2 (9) 
+MTB-6 (9) 
+ME209 (9) 
+ME261 (7) 
+ME361 (7) 
+ME371 (9) 
+MTB-3 (9) 
+ME381 (7) 
+ME351 (8) 
+MEXXX (9) - 
+One course 
+from Basket* 
+55-57 
+50-52 
+53 
+57 
+51 
+45 
+ 
+– 54 credits of MTB courses should be taken from the Management Track Basket 
+Template for five-year dual degree program in Mechanical Engineering 
+ 
+Template for dual degree program in Mechanical Engineering (PG Part-Category A) 
+7th 
+8th 
+9th 
+10th 
+DE PG-1 [09] 
+DE PG-4[09] 
+M.TECH. THESIS [36] 
+M.TECH. THESIS [36] 
+DE PG-2 [09] 
+DE PG-5[09] 
+- 
+- 
+DE PG-3 [09] 
+OE PG-1 [09] 
+DE PG-6 [09]/ 
+OE PG-1 [09] 
+ 
+MINIMUM CREDIT REQUIREMENT IN M.TECH PART FOR GRADUATION 
+– PG Component 
+: 54 Credits 
+– Thesis Component : 72 Credits 
+36 OE credits may be waived off in the UG requirements 
+ 
+Template for dual degree program in Mechanical Engineering (PG Part-Category B) 
+Sl. 
+No. 
+Specialization 
+Compulsory Courses 
+Elective Credits 
+Thesis Credits 
+1. 
+SOLID MECHANICS AND 
+DESIGN (SMD) 
+ME621 [9] ME625 [9] ME681 
+[9] 
+DE PG-1[09] DE PG-2[09] DE 
+PG-3[09] 
+M.TECH THESIS [72] 
+2. 
+FLUID & THERMAL SCIENCES 
+(FTS) 
+ME631 [9] ME641 [9] ME642 
+[9] ME681 [9] 
+DE PG-1[09] DE PG-2[09] 
+M.TECH THESIS [72 
+3. 
+MANUFACTURING SCIENCES 
+(MFS) 
+ME661 [9] ME662 [9] ME663 
+[9] ME681 [9] 
+DE PG-1[09] DE PG-2[09] 
+M.TECH THESIS [72]
+
+[Page 4]
+MINIMUM CREDIT REQUIREMENT IN M.TECH PART FOR GRADUATION 
+ 
+‒ PG Component 
+: 54 
+(27 Compulsory +27 Electives) Credits for SMD 
+‒ 
+‒ 
+PG Component 
+Thesis 
+: 54 
+: 72 
+(36 Compulsory +18 Electives) Credits for FTS and 
+MFS Credits 
+36 OE credits may be waived off in the UG requirements 
+ 
+Template for double major: second major in Mechanical Engineering 
+
+Template for double major 
+Odd Semester 
+Even Semester 
+Pre-Requisites 
+ESO201A [11] / ESO202A [11] 
+ESO201A [11] / ESO202A [11] 
+11 
+11 
+ME Mandatory Courses 
+ME209 [09]& 
+ME231 [09]* 
+ME341 [09]&& 
+ME252 [09] 
+ME321 [09]&&& 
+ME261 [07]** 
+ME361 [07] 
+ME302 [09] 
+ME354 [09] 
+ME331 [09]*** 
+ME371 [09] 
+34 
+61 
+ 
+TOTAL MANDATORY CREDITS FOR SECOND MAJOR IN MECHANICAL ENGINEERING: 95 
+REMARKS: 
+1) * Equivalent courses for ME231 are ESO204 or CE261 
+ 
+2) ** Equivalent course for ME261 is MSE305 
+ 
+3) *** Equivalent courses for ME331 are CHE311 or (AE211+AE312) 
+ 
+4) & Equivalent course for ME209 is AE209 
+ 
+5) && Equivalent course for ME341 is CHE312 
+ 
+6) &&& Equivalent course for ME321 is (AE333+AE334) 
+ 
+7) Up to 36 OE credits may be waived from the parent department’s BT/BS 
+graduation requirements when they are used to fulfil requirements for the 
+double major.
+
+[Page 5]
+Minors in Mechanical Engineering 
+ 
+Minors 
+MANUFACTUIRNG SCIENCES 
+COMPUTATIONAL TECHNIQUES IN MECHANICAL ENIGNEERING 
+Any THREE from the following 
+Any THREE from the following 
+ME661 [09] (Prerequisite TA212) 
+ME623 [09] (Prerequisite ESO202, MSO203M) 
+ME662 [09] (Prerequisite TA212) 
+ME630 [09] (Prerequisite ESO201, ESO204, SO203M) 
+ME663 [09] (Prerequisite ESO202, MSO203M) 
+ME685 [09] (Prerequisite- No backlog in core courses) 
+ME664 [09] (Prerequisite TA212, ESO204 
+or an equivalent course in Heat Transfer) 
+ME751 [09] (Prerequisite TA101) 
+ME665 [09] (Prerequisite TA212) 
+ME676 [09] (Nonlinear Finite Element Method in Solid 
+Mechanics) 
+ME774 [09] (Prerequisite ESO202, MSO203B) 
+ME653 [09] (Atomistic Simulations in 
+Engineering) 
+ME751 [09] (Prerequisite TA101) 
+- 
+ME761 [09] (Prerequisite TA212) 
+27 
+27
+
+[Page 6]
+DEPARTMENT OF MECHANICAL ENGINEERING 
+Courses ID 
+ Course Title 
+Credits 
+L-T-P-D-[C] 
+Content 
+ME209 
+Dynamics 
+3-0-0-0-9 
+Coordinate systems, vectors and tensors; Dynamics 
+of a system of particles; 3D rotations, Euler angles, 
+and 3D angular velocity; Kinematics of rigid 
+bodies; Constrained rigid body kinematics: types 
+of joints, friction, rolling; Kinetics of rigid bodies; 
+General 3D rigid body dynamics, including the 
+gyroscope; Advanced examples including numerical 
+solution of initial value problems; Steady mass 
+flow and variable mass problems; Lagrange’s 
+equations for a finite-dimensional non-conservative 
+mechanical system. 
+ME222 
+Nature and Properties of 
+Materials 
+2-0-0-0-6 
+Introduction to Materials, Materials Testing and 
+Properties, Mechanical Properties of Materials, 
+Material Selection for Mechanical Design, Crystal 
+Structures, Metals and Metallic Alloys, High strength 
+and High temperature Superalloys, Engineering 
+Ceramics, 
+Polymers, 
+Composite 
+Materials: 
+Polymeric, Ceramic and Metal Matrix Composites, 
+Smart Materials 
+ME231 
+FLUID MECHANICS 
+ 
+2-1-0-0-8 
+ 
+Introduction, Fluid Statics, Kinematics of local fluid 
+motion, Integral relations for fluid control volume, 
+Differential relations for a fluid element, Viscous 
+flow, Dimensional Analysis and similarity, Flow Past 
+immersed bodies, Compressible flow 
+ME252 
+Theory of Mechanisms and 
+Machines 
+3-0-0-0-9 
+Kinematics and dynamics of mechanisms and 
+machines, analysis and synthesis through graphical 
+and analytical methods. 
+ 
+ME261 
+Primary Manufacturing 
+Processes 
+2-0-1-0-7 
+Introduction to primary manufacturing processes 
+and 
+properties 
+of 
+materials; 
+Casting 
+and 
+solidification of alloys: Mechanism; Analysis of 
+cooling curve; Runner and gating system design; 
+Riser design; Joining processes: Fusion welding 
+mechanism; Heat flow and material transfer 
+mechanism; Microstructure formation; Welding 
+defects and inspection; Bulk deformation processes: 
+Brief review of plastic deformation and yield criteria; 
+Mechanistic analysis of Forging, Rolling, Drawing 
+and Forming processes including defects; Additive 
+manufacturing processes: Mechanistic analysis of 
+polymers, metals and ceramics based additive 
+manufacturing processes 
+ME301 
+Energy Systems I 
+Thermodynamic analysis of various energy systems 
+such as combustion engines, solar, thermal, and
+
+[Page 7]
+3-0-0-0-9 
+nuclear power plants, electrochemical energy 
+conversion, refrigeration, and air-conditioning. The 
+course also includes environmental impact of 
+energy conversion and sustainable technologies for 
+energy conversion 
+ME302 
+Energy Systems II 
+3-0-0-0-9 
+Introduction: General Theory and Classification of 
+Turbomachines; Similarity and Dimensional 
+Analysis; Two-dimensional Cascade Theory; Axial 
+and Radial Flow Machines: Turbines, Compressors 
+and Fans; Gas Turbine Cycles and Propulsion; 
+Thermal Power plant: Flow through Nozzle and 
+Steam Turbines; Hydraulic Machines: Pelton, 
+Francis and Kaplan Turbines; Pump and 
+Cavitation. 
+ME321 
+Introduction to Elasticity 
+3-0-0-0-9 
+Vector and tensor calculus; Concept of strain; 
+Concept of stress; Equilibrium; stress-strain 
+relationship; Boundary value problem of linear 
+elasticity; Plane stress and plane strain problems; 
+Axisymmetric problems; Torsion of non-circular 
+sections; Contact problems; Wedge problems; 
+Exposure of 3-D problems in elasticity; Energy 
+methods; Special topics. 
+ME331 
+Advanced Fluid Mechanics 3-0-0-0-9 
+Introduction, 
+Local 
+approach, 
+Navier-Stokes 
+equations, Viscosity dominated flows, Inviscid flow, 
+boundary layer, turbulent flow and surface tension 
+dominated flows, design and analysis of energy 
+systems 
+ME333 
+Experiments in Mechanical 
+Engineering - I 
+0-0-3-0-3 
+Experiments on (a) Vibration and dynamics (b) Fluid 
+Mechanics (c) Material testing 
+ 
+ME334 
+Experiments in Mechanical 
+Engineering - II 
+0-0-4-0-4 
+Experiments 
+on 
+(a) 
+Energy 
+conversion 
+(b) 
+Mechanisms (c) Heat Transfer (d) Experimental 
+stress analysis 
+ 
+ME341 
+Heat Transfer 
+3-0-0-0-9 
+Introduction. One- and Two-dimensional steady 
+and transient conduction. Forced convection over a 
+horizontal flat plate and inside tubes. Natural 
+Convection over a vertical flat plate. Mass Transfer. 
+Boiling and Condensation. Heat Exchangers. 
+Thermal Radiation 
+ME351 
+Design of Machine Elements 2-1-0-8 
+Dimensions and assembly, deformations and 
+compliance, unexpected deformations, material 
+failure, fatigue, extremely long-serving components, 
+unexpected failure modes, statistical aspects, and 
+environmental aspects.
+
+[Page 8]
+ME354 
+Vibration and Control 
+3-0-0-0-9 
+Vibrations of single and multi degree of freedom 
+systems, with damping and forcing; approximation 
+methods; introduction to control theory, Laplace 
+domain, root locus, compensators, frequency 
+domain analysis; introduction to modern control. 
+ME359 
+INTERNAL COMBUSTION 
+ENGINES 
+ 
+ 3-0-0-0-9 
+Classification, Construction, Valve arrangements. 
+Fuels, Fuel air cycle. Combustion, Effect of engine 
+variables, Combustion chambers, Carburation and 
+fuel injection, Knocking. Engine cooling, Friction and 
+lubrication Super charging. Wankel engine testing 
+and performance. Pollution. 
+ME361 
+Secondary Manufacturing 
+Processes 
+2-0-1-0-7 
+Introduction to secondary manufacturing processes; 
+Conventional machining processes: Orthogonal 
+cutting mechanics; thermal aspects of machining; 
+tool wear and life analysis; oblique cutting; milling; 
+drilling; 
+grinding; 
+Non-traditional 
+machining 
+processes: AJM, USM, EDM, ECM, and LBM; 
+Machines and their operations: Working of manual 
+and CNC machines and their control; Metrology: 
+Measurements 
+and 
+measurement 
+equipment; 
+measurement standards; limits, fits and tolerances; 
+testing and calibration 
+ME371 
+Manufacturing Systems 
+3-0-0-0-9 
+Introduction to manufacturing systems and CIM; 
+CAPP: CAD; Variant and generative processes; 
+Feature 
+recognition 
+in 
+CAPP; 
+Concurrent 
+Engineering: 
+Concepts 
+of 
+sequential 
+versus 
+concurrent 
+engineering; 
+LCA; 
+QFD; 
+Quality 
+Engineering: Cost of quality; SQC; Introduction to 
+DOE; TQM; PPC: Forecasting; Inventory control; 
+Aggregate planning; Master scheduling; MRP; 
+Sequencing; Lean Manufacturing: Push vs pull 
+system; JIT; Kanban system design; Cellular 
+manufacturing 
+and 
+GT; 
+Automated 
+Material 
+Handling Systems: ASRS design principles; AGV; 
+robots in material handling; Recent trends in 
+manufacturing systems. 
+ 
+ME381 
+Robotics 
+2-0-1-0-7 
+Introduction and Overview, Spatial Transformations, 
+Forward and Inverse Position Kinematics, Velocity 
+and Acceleration Kinematics, Robot Dynamics, 
+Actuators and Sensors, Trajectory Planning, Robot 
+Control 
+ 
+ME496, ME497 
+UNDER GRADUATE 
+PROJECTS 
+ 
+0-0-0-0-9 
+CONTACT INDIVIDUAL FACULTY MEMBERS
+
+[Page 9]
+ME888 
+AN INTRODUCTION TO 
+PROFESSION AND 
+COMMUNICATION 
+2-0-0-0-6 
+Background and introduction of mechanical 
+engineering, the primary domain of activities and 
+inter-disciplinary intersections, analytical, design 
+and experimental tools, career choices and 
+professional duties, contemporary research and 
+development trends, start-up formation, 
+introduction to communication, writing technical 
+reports and project proposals, publishing and 
+ethics, presentations, group discussions and 
+interviews, innovation management. 
+ME613 
+THERMAL 
+ENVIROMENTAL 
+CONTROL 
+ 
+ 3-0-0-0-9 
+Introduction: Refrigeration and air-conditioning, 
+definitions, Psychrometry, sensible/ latent cooling 
+loads, 
+apparatus, 
+dew 
+point, 
+complete 
+psychrometric 
+analysis, 
+building 
+heat 
+load 
+calculation, infiltration and moisture transport, winter 
+air conditioning, part load operations and control; 
+Vapor Compression Refrigeration (VCR) cycles, 
+multi-staging and cascading, design considerations 
+of VCR components, aircraft refrigeration and air 
+conditioning, design of cooling coil, heat pump, solar 
+refrigeration system; Supporting material: Boiling 
+heat transfer, forced convection boiling, film 
+condensation, condensation on radial systems, 
+Overall heat transfer coefficient, LMTD and NTU 
+methods, cooling tower; Special topics/case studies: 
+such as Solar thermal dynamics, energy efficient 
+buildings, 
+automobile 
+air-conditioning, 
+space 
+thermal management, mini-microscale refrigeration 
+systems, CO2 based systems, VRF and VFD 
+systems, etc. 
+ME617 
+ADVANCED THEORY OF 
+TURBOMACHINERY 
+
+ 3-0-0-0-9 
+he equations of motion in a rotating coordinate 
+system, effects of Coriolis and Centrifugal forces, 
+energy equation; classification of turbomachines; 
+two-dimensional cascade theory; fundamentals, 
+two-dimensional analysis, angular momentum & 
+energy transfer, h-s diagram, degree of reaction, the 
+effect of Mach number, off-design performance and 
+efficiency; 
+three-dimensional 
+flow 
+in 
+axial 
+turbomachines, radial equilibrium, secondary flow, 
+tip clearance and loss estimation; radial and mixed 
+flow machines; multistage axial compressors and 
+turbines; prediction of stage performance and effect 
+of stacking; rotating stall and surge; turbine blade 
+heat load and blade cooling; wind turbines; 
+application of CFD in analysis and design of 
+turbomachinery; 
+discussion 
+on 
+experimental 
+methods to measure flow and thermal fields in 
+turbomachines. 
+ME621 
+INTRODUCTION TO SOLID 
+MECHANICS 
+ 
+Review of strength of Materials and its limitations; 
+Mathematical Preliminaries: Vector and tensors 
+calculus; Indicial notation; The concept of strain: 
+Finite deformation strain tensor; Linearized strain; 
+Strain-Displacement 
+relations; 
+Physical
+
+[Page 10]
+3-0-0-0-9 
+interpretation of strain components; Principal 
+Strains; Strain compatibility;The concept of stress: 
+Cauchy’s principle and derivations of stress 
+equilibrium equations; Stress components in 3D and 
+their physical interpretations; Principal Stresses; 
+Constitutive law for general linear elastic solid: 
+Discussions 
+on 
+isotropic, 
+ orthotropic 
+and 
+transversely 
+isotropic 
+solid; 
+thermoelasticity;Navier’s equations, stress and 
+displacement based approaches; The isotropic 
+linear 
+elasticity 
+boundary 
+value 
+problem; 
+consequences 
+of 
+linearity 
+(superposition, 
+uniqueness, 
+reciprocal 
+relations);8. 
+Plane 
+Problems: plane stress, plane strain, anti-plane 
+shear (also in  axisymmetric coordinates) ;Solution 
+methods for plane problems: Stress function 
+approach/Series solutions Circular hole in a 
+shear/tensile field;Curved beam problems: End 
+loadings; Inhomogeneous problem; Near Singular 
+problem; Wedge problems: Power-law traction 
+fields; Williams’ asymptotic method ;Plane contact 
+problems: The Flamant solution (distributed load 
+over the half-plane); Frictionless contact problems 
+(half punch, Hertz problem) ;Plane notch problems: 
+Plane crack in a tensile field; Energy release rate 
+;Planar problems in thermoelasticity: Steady state 
+problems ;Torsion of a prismatic bar: Prandtl’s 
+stress function, Membrane analogy; Thin walled 
+open sections; Rectangular bar; Multiply connected 
+closed sections. 
+ME622 
+INTRODUCTION TO 
+CONTINUUM MECHANICS 
+ 
+3-0-0-0-9 
+Introduction to the course ; Mathematical preliminaries 
+(a) Vector and tensor algebra ; b) Tensor analysis, 
+derivatives of functions with respect to tensors; c) Fields, 
+div, grad, curl ; d) Divergence theorem, transport 
+theorem ; Kinematics a) Configurations of a body, 
+displacement, velocity, motion ; b) Deformation 
+gradient, rotation, stretch, strain, strain rate, spin 
+tensor; c) Assumption of small deformation and small 
+strain ;Balance laws a) Balances of mass, linear 
+momentum and angular momentum; b) Contact forces 
+and the concept of stress ; c) Balance of energy and 
+Clausius-Duhem inequality ; Constitutive relations a) 
+Frame indifference; b) Material symmetry; c) Kinematic 
+constraints 
+(incompressibility, 
+etc.); 
+d) 
+Thermodynamical 
+restrictions; 
+Viscous 
+fluid: 
+constitutive relations, non-Newtonian fluid, boundary 
+value problem ; Finite elasticity: Hyperelasticity, 
+isotropy, simple constitutive relations, boundary value 
+problem 
+ME623 
+FINITE ELEMENT 
+METHODS IN 
+
+Introduction to the course.; Variational Approach: 
+fundamentals of variational calculus, Ritz method, 
+Introduction of FEM as modified Ritz method, examples.
+
+[Page 11]
+ENGINEERING 
+MECHANICS 
+3-0-0-0-9 
+; The method of weighted residuals, Galerkin’s method 
+to formulate finite element equations for 1D problems 
+in solid mechanics and/or fluid mechanics and heat 
+transfer: discretization, shape functions, element 
+matrices and vectors, global assembly, boundary 
+conditions; Solving finite element equations: different 
+methods of solution, nodal numbering scheme, shape 
+functions in natural coordinates, numerical integration, 
+error analysis and convergence. ;4 th order PDEs in 1D: 
+Euler-Bernoulli beam, interpolation functions with C 1 
+continuity,Timoshenko 
+beam.; 
+Boundary 
+Value 
+Problems in 2D: variational formulation and/or 
+Galerkin’s method,2D elements and shape functions, 
+master elements, numerical integration, evaluation of 
+boundary conditions, global assembly, symmetry of 
+geometry and boundary conditions to reduce the size of 
+the problem, modelling considerations, Examples from 
+solid mechanics and/or heat transfer problems. Eigen 
+value problems and time dependent problems: Finite 
+element formulation for parabolic and hyperbolic PDEs 
+in 1D, Time approximation, Finite Difference Schemes, 
+mass lumping, examples of heat transfer problems, 
+buckling, natural vibration etc. ; Special topics in FEM 
+(instructor’s discretion): 3D elements, plates and 
+shells,special elements, introduction to non-linear FEM, 
+XFEM, GFEM etc. 
+ME624 
+CALCULUS OF 
+VARIATIONS 
+3-0-0-0-9 
+History of calculus of variations; function spaces; first 
+variation, variational derivative; Necessary condition for 
+an extremum, Euler equation, Null Lagrangian, natural 
+boundary 
+condition; 
+Constraints 
+and 
+Lagrange 
+multipliers; Noether theorem and conservation laws; 
+Weierstrass-Erdmann 
+condition; 
+second 
+variation, 
+strong/weak minimizer; Necessary condition for a 
+minimum, 
+Legendre 
+condition, 
+Jacobi 
+condition, 
+conjugate points; Sufficient condition for a minimum, 
+Weierstrass E-function. Field of extremals; convexity, 
+strong ellipticity, minimizing sequences, lower semi-
+continuity, Singular minimisers. 
+ME625 
+APPLIED DYNAMICS AND 
+VIBRATIONS 
+3-0-0-0-9 
+Review of single degree of freedom systems; 
+Generalised coordinates, constraints, virtual work; 
+Lagranges equation; Continuous systems; strings, 
+beams; 
+RaleighRitz 
+and 
+Galerkins 
+methods; 
+Dynamics of rigid bodies in three dimensions; Euler 
+angles; Eulers equations of motion, Gyrodynamics. 
+ME626 
+VIBRATION OF 
+CONTINUOUS SYSTEMS 
+ 
+Vibration of discrete systems with single and multi 
+degree of freedom. Hamiltons principle, Langranges 
+equations. Longitudinal vibration of bars, lateral 
+vibration of straight and curved beams, vibration of 
+membranes and plates, free and forced vibrations.
+
+[Page 12]
+3-0-0-0-9 
+Effect of damping. Wave motion in continuous 
+systems. 
+ME627 
+NONLINEAR VIBRATION 
+
+3-0-0-0-9 
+Systems of ODEs, first order form, autonomous versus 
+non-autonomous; Numerical solution; Phase space, 
+singular points, stability, limit cycles; Analytical methods 
+including harmonic balance, perturbation techniques 
+(including 
+Poincare-Lindstedt, 
+averaging, 
+multiple 
+scales); Duffing's equation, multiple solutions and jump 
+phenomenon; Van der Pol equation; resonances, modal 
+interactions. Stability of periodic solutions, Floquet 
+theory, 
+Hill's 
+and 
+Mathieu's 
+equations, 
+Maps, 
+Bifurcations and chaos. 
+ME630 
+COMPUTATIONAL FLUID 
+DYNAMICS AND HEAT 
+TRANSFER 
+ 
+ 3-0-0-0-9 
+Introduction: Governing equations for fluid flow and 
+heat transfer, classifications of PDE, finite difference 
+formulation, various aspects of finite difference 
+equation, error and stability analysis, dissipation and 
+dispersion errors, modified equations; Solutions of 
+simultaneous 
+equations: 
+iterative 
+and 
+direct 
+methods, TDMA, ADI; Elliptic PDE: One- and Two-
+dimensional steady heat conduction and their 
+solutions, extension to three-dimensional; Parabolic 
+PDE: Unsteady heat conduction, explicit and implicit 
+methods, solution of boundary layer equation, 
+unwinding; Solution of incompressible N-S equation: 
+Stream function and vorticity formulation, primitive 
+variable methods: MAC and SIMPLE. 
+ME631 
+VISCOUS FLOW THEORY 
+ 
+ 3-0-0-0-9 
+Introduction; Control volume analysis; Differential 
+element analysis; Flow kinematics, Derivation of 
+Navier-Stokes (NS) equations, initial and boundary 
+conditions, calculation of forces, special forms of NS 
+equations; Exact solutions of NS equations, fully 
+developed flow, unsteady flow; Boundary-layer 
+theory, inner and outer flows; flat plate, similarity 
+variables, momentum-integral approach; flow over a 
+circular cylinder; Linear stability theory and Orr-
+Sommerfeld equation; Turbulent boundary layers, 
+Prandtl mixing theory, logarithmic law of the wall, 
+effect of roughness, Moody’s diagram 
+ME632 
+GEOPHYSICAL FLUID 
+DYNAMICS 
+ 3-0-0-0-9 
+Equations of motion in rotating coordinate frames, 
+Cartesian approximations, Density stratified flows 
+and internal gravity waves, Taylor-Proudman 
+theorem, Ekman layer, single and multiple layered 
+shallow-water systems, Geostrophic adjustment 
+and Thermal-wind balance, Potential vorticity, 
+Poincare, Kelvin and Rossby waves, Kelvin-
+Helmholtz instability, Baroclinic instability, Wave-
+mean theory, 2D turbulence, chaotic advection in 
+Stratosphere, Laplace tidal equations, Internal tides 
+in deep oceans, tsunami waves 
+ME634 
+ADVANCED 
+COMPUTATIONAL FLUID 
+DYNAMICS 
+ 
+Finite difference (FDM) vs Finite volume (FVM) 
+methods; 
+Navier-Stokes 
+(N-S) 
+and 
+energy 
+equations; Hyperbolic system and time-dependent
+
+[Page 13]
+3-0-0-0-9 
+technique; explicit vs implicit method; central 
+difference vs upwind scheme; Incompressible N-S 
+equation: Steady and unsteady flow, artificial 
+incompressibility; explicit methods: MAC and 
+SMAC, implicit methods: SIMPLE and SIMPLER; 
+Matrix and conjugate gradient methods; projection 
+method; higher order discretisations. Compressible 
+N-S equation: Finite volume formulations, geometric 
+flexibility, Jameson’s, MacCormack’s, Steger and 
+Warming schemes in FVM, flux splitting scheme and 
+upwinding, different acceleration technique. Grid 
+generation using algebraic and partial differential 
+equations, transformation of N-S equation in 
+curvilinear coordinate system, different solution 
+techniques: 
+explicit 
+and 
+implicit. 
+Turbulence 
+modeling. 
+ME639 
+LIQUID-VAPOUR PHASE 
+CHANGE TECHNOLOGY 
+
+ 
+ 3-0-0-0-9 
+Introduction to two phase flow and heat transfer 
+technology, 
+Liquid 
+vapor 
+phase 
+change 
+phenomena, 
+Interfacial 
+tension, 
+Wetting 
+phenomenon, Contact angles, Transport effects, 
+Dynamic behavior of interfaces, Phase stability and 
+nucleation; Two phase flow fundamentals, Flow 
+patterns and map representation, Development of 
+homogeneous, separated flow and drift flux models, 
+Flooding 
+mechanisms; 
+Boiling 
+Fundamentals, 
+Homogeneous and heterogeneous nucleation, Pool 
+boiling and convective flow boiling, Heat transfer 
+and CFH mechanisms, Enhancement techniques; 
+Condensation fundamentals, External and internal 
+condensation , Film condensation theory, Dropwise 
+condensation theory, Enhancement techniques; 
+Experimental 
+techniques, 
+Practical 
+boundary 
+conditions, Void fraction measurement techniques, 
+Flow 
+visualization 
+techniques, 
+Contact 
+angle/Surface tension measurement, Conventional 
+thermometry, 
+Limitations, 
+Data 
+reduction, 
+Application examples Application of two phase flow 
+and heat transfer, Theory and operation of 
+Boilers/Evaporators 
+and 
+condensers 
+for 
+Nuclear/Power/RAC industry, Electronics thermal 
+management, Latent heat storage devices, Gravity 
+assisted 
+thermosyphons/ 
+Vapor 
+chambers, 
+Conventional heat pipes, Micro heat pipes, 
+Pulsating heat pipes, Capillary pumped loops/ Loop 
+heat pipes, Micro two-phase heat exchangers 
+Special related topics: for example, static and 
+dynamic 
+instabilities, 
+microscale 
+boiling 
+and 
+condensation 
+, 
+atomistic 
+nucleation 
+models, 
+microgravity boiling, microfabrication/ integration 
+techniques, contact resistance, surface roughness, 
+Leidenfrost phenomena, etc. 
+ME641 
+CONDUCTION AND 
+RADIATION 
+ 
+Conduction: Derivation of heat conduction equation. 
+Summary of steady and unsteady equations of 1D-
+2D-3D conduction equation. Fins with variable
+
+[Page 14]
+3-0-0-0-9 
+cross-section. 
+Multi-dimensional 
+steady 
+and 
+unsteady problems in Cartesian and cylindrical 
+coordinates. 
+Semi-infinite 
+solid. 
+Duhamel’s 
+Superposition Integral. Solidification and Melting. 
+Inverse heat conduction – method least squares and 
+sensitivity analysis. Microscale heat transfer – 
+phonon scattering. Radiation: Planck’s law, Stefan-
+Boltzmann relationship, Radiative properties of 
+surfaces. View factors for diffuse radiation. 
+Radiation exchange in black and diffuse-gray 
+enclosures. Enclosure theory for spatially distributed 
+wall temperatures. Spectrally diffuse enclosure. 
+Specularly reflecting surfaces. Participating media 
+and radiative transfer equation. Radiative properties 
+of molecular gases. The optically thin and optically 
+thick approximations. Gas radiation. Combined 
+Conduction and Radiation: Example of a spacecraft 
+radiator. Solar radiation. Greenhouse effect 
+ME642 
+CONVECTIVE HEAT AND 
+MASS TRANSFER 
+
+ 3-0-0-0-9 
+Introduction 
+to 
+convective 
+heat 
+transfer; 
+conservation equations; boundary layers; free and 
+forced convection; heat transfer in laminar and 
+turbulent; internal as well as external flows; mixed 
+convection; boiling and condensation; molecular 
+diffusion in fluids; mass transfer coefficient; 
+simultaneous heat and mass transfer; design of 
+large- and small-scale motions in heat exchange 
+devices; applications. 
+ME643 
+COMBUSTION 
+ 
+ 3-0-0-0-9 
+Introduction, review of thermodynamics, adiabatic 
+flame temperature, chemical equilibrium, chemical 
+kinetics, 
+steady-state 
+approximation, 
+partial 
+equilibrium, mass transfer, conservation equations 
+and transport properties, laminar premixed flame, 
+flame speed, ignition, quenching, flammability limits 
+and 
+stability, 
+laminar 
+non-premixed 
+flame, 
+conserved scalar concept, estimation of flame 
+height, burning rate for a single droplet, turbulent 
+premixed flames, Borghi diagram, flame height for 
+turbulent non-premixed flames, liftoff and blowout 
+phenomena, flame stabilization in turbulent flows, 
+Soot and NOx formation in premixed and non-
+premixed combustion 
+ME644 
+MACHINE LEARNING FOR 
+ENGINEERS 
+ 3-0-0-0-9 
+Mathematical preliminaries, python programming, 
+simple/multiple 
+linear 
+regression, 
+nonlinear 
+regression, 
+logistic 
+regression, 
+k-nearest 
+neighbours, perceptrons, random forest, naïve 
+Bayes, support vector machines, artificial neural 
+network, clustering, dimensionality reduction 
+ 
+ME645 
+SOLAR ENERGY 
+TECHNOLOGY 
+ 3-0-0-0-9 
+Basic concepts, radiation spectrum, extraterrestrial 
+radiation, sun earth relationship, Concept of time, 
+terrestrial radiation, Diffuse and direct radiation, 
+relationship between important angles, Angle of 
+incidence on a tilted plane, shading, measurement
+
+[Page 15]
+of radiation, Radiation estimation on tilted plane, 
+radiation augmentation, Flat plate collector, thermal 
+analysis, Air heater, testing procedure, Single and 
+double axes tracking, Parabolic trough collector, 
+Compound parabolic concentrators, Basics of 
+photovoltaic effect, Band bending, PN junction 
+diode, bias, Light generated current, effect of 
+temperature and intensity 
+ME647 
+AN INTRODUCTION TO 
+TURBULENT FLOW 
+ 
+ 3-0-0-0-9 
+Origin of turbulence, instability and transition, 
+irregularity, diffusivity, three-dimensional motions, 
+dissipation, 
+wide 
+spectrum, 
+length 
+scales; 
+Probability density, moments, correlations, integral 
+micro 
+scales, 
+homogeneous 
+and 
+isotropic 
+turbulence, 
+Kolmogorov 
+hypothesis, 
+energy 
+cascade, 
+turbulence 
+spectra; 
+Reynolds 
+decomposition, 
+turbulent 
+stresses, 
+Reynolds 
+equations, mixing-length model, dynamics of 
+turbulence; Mixing layer, turbulent wakes and jets, 
+grid turbulence; Channel and pipe flows, Reynolds 
+stresses, turbulent boundary layer equations, 
+logarithmic-law of wall; Introduction to turbulence 
+modelling and experimental methods. 
+ME648 
+COMPUTER AIDED 
+DESIGN OF THERMAL 
+SYSTEMS 
+3-0-0-0-9 
+Introduction. Basic Considerations in Design. 
+Modelling of Thermal Systems. Numerical 
+Modelling and Simulation. Acceptable Design of a 
+Thermal System: A Synthesis of Different Design 
+Steps. Optimization. 
+ME649 
+EXPERIMENTAL 
+METHODS IN THERMAL 
+SCIENCES 
+ 
+ 3-0-0-0-9 
+Introduction, Details of an experimental setup, Static 
+versus dynamic calibration, Design of experiments. 
+Uncertainty analysis, Central limit theorem, Normal 
+and Student’s-t distribution, Data outlier detection, 
+Error propagation. Temporal response of probes 
+and transducers, Measurement system model, 
+zeroth, first, and second order systems, Probes and 
+transducers, Pressure transducers, Pitot static tube, 
+5-hole probe, Hotwire anemometer, Laser Doppler 
+velocimetry, 
+Particle 
+image 
+velocimetry, 
+Thermocouples, 
+RTD, 
+Thermister, 
+Infrared 
+thermography, 
+Heat 
+flux 
+measurement, 
+Interferometry, 
+Schlieren 
+and 
+shadowgraph 
+techniques, 
+Measurements 
+based 
+on 
+light 
+scattering, Absorption spectroscopy, Mie scattering, 
+Rayleigh, Raman and other scattering methods, 
+Data 
+acquisition 
+systems, 
+Analog 
+to 
+digital 
+converter, Resolution, Quantization error, Signal 
+connections, Signal conditioning, Digital signal and 
+image 
+processing, 
+Curve 
+fitting 
+(regression), Fourier analysis, FFT algorithm, 
+Inverse FFT, Nyquist criterion, Numerical aspects of 
+FFT, Probability density function, Auto- and cross-
+correlations 
+ME653 
+MOLECULAR 
+SIMULATIONS IN 
+ 3-0-0-0-9 
+(a) Introduction and Motivation (b) Statistical Mechanics 
+Foundation 
+for Molecular 
+Simulations; 
+Common
+
+[Page 16]
+MECHANICAL 
+ENGINEERING 
+Statistical 
+Ensembles 
+II. 
+Simple 
+Thermodynamic 
+Averages and Fluctuations III. Structural Quantities, Time 
+Correlation Functions and Transport Coefficients IV. 
+Long-range and Quantum Corrections (c) Classical 
+Molecular Dynamics Simulations I. Introduction II. 
+Potentials III. Integration Algorithms and Boundary 
+Conditions IV. MD simulations in various Ensembles (d) 
+Monte Carlo Simulations I. Introduction II. Basic Monte 
+Carlo Algorithm III. Trial Moves IV. MC simulations in 
+various ensembles (e) Applications I. Computation of 
+Elastic Constants of Solids, Elastic-plastic response of 
+Materials II. Thermal Conductivity and other transport 
+coefficients in Materials. 
+ME655 
+BUBBLES AND DROPLETS 
+3-0-0-0-9 
+The course starts with a brief review of the 
+thermodynamics of phase change, the Navier-
+Stokes equations and its analytical solutions for 
+cases relevant to the motion of droplets and 
+bubbles. This is followed by discussion on 
+processes involved in the formation of bubbles and 
+droplets. Bubble dynamics under various conditions 
+and the behavior of bubbles and droplets moving in 
+a flow field are discussed elaborately. Subsequently 
+the problem of droplet vaporization is taken up. The 
+course is closed with discussion on one or more of 
+special topics on experiments and simulations 
+involving bubbles and droplets. 
+ME656 
+INSTABILITIES IN FLUID 
+DYNAMICS 
+3-0-0-0-9 
+Phenomenology; The concept of stability; The 
+rotating 
+pendulum 
+problem; 
+Kelvin-Helmholtz 
+instability; 
+Instability 
+of 
+Taylor-Couette 
+flow; 
+Rayleigh-Bénard instability; Capillary instability of a 
+jet; Weakly nonlinear analysis; Bifurcation theory; 
+Instabilities in shear flows and non-modal stability 
+analysis 
+ME659 
+TRIBOLOGY OF 
+MACHINING PROCESSES 
+ 3-0-0-0-9 
+Fundamentals of machining, Mechanics of metal 
+cutting, 
+Thermomechanical 
+analysis, 
+Chip 
+formation, Basic tribo-interaction in machining, 
+Governing factors at machining interfaces, Methods 
+for predicting friction, Frictional regimes, Friction 
+models, Special tribometry, Cutting tool wear, Wear 
+modes and characterization, Wear models, Wear 
+monitoring and 
+control, 
+Modern 
+lubri-coolant 
+methods, Sustainability aspects in machining, 
+Influence of lubri-coolant method of machined 
+surface integrity, Surface engineering, Development 
+of modern cutting tools, Laser processing and 
+coatings, 
+Coating 
+degradation 
+mechanisms, 
+Experimental techniques in machining, Wear map 
+generation, Split tool, Quick stop method, Ballistic 
+machining, Chip geometry control, Surface and sub-
+surface characterization, Formation and detection of 
+adiabatic shear banding
+
+[Page 17]
+ME661 
+MACHINING SCIENCE I 
+ 
+ 3-0-0-0-9 
+Introduction 
+to 
+machining; 
+Tool 
+Geometry; 
+Orthogonal cutting, friction, and temperature in 
+metal cutting; Oblique cutting mechanics; Numerical 
+modelling; Practical machining operations (turning, 
+boring, 
+drilling, 
+milling); 
+Measurement: 
+Tool 
+material, tool wear and tool life; Special topics; 
+Laboratory topics. 
+ME662 
+MACHINING SCIENCE II 
+ 
+ 3-0-0-0-9 
+Introduction to advanced manufacturing processes, 
+Mechanical Material Removal Processes (AJM, 
+USM and WAJM), Electrochemical Machining 
+Process (ECM, EDG, ESD), Thermal Material 
+Removal 
+Processes 
+(EDM, 
+EBM, 
+LBM), 
+Nanomanufacturing 
+and 
+self-assembly, 
+PCB 
+fabrication and vacuum forming. 
+ 
+ME663 
+METAL FORMING 
+ 
+ 3-0-0-0-9 
+Fundamentals 
+of 
+plasticity, 
+yield 
+and 
+flow, 
+anisotropy, instability, limit analysis. Applications to 
+metal forming processes such as, forging, wire 
+drawing, deep drawing, extrusion and rolling. 
+Introduction to Finite Element Modelling of metal 
+forming processes. 
+ME664 
+FUNDAMENTALS OF 
+CASTING & 
+SOLIDIFICATION 
+ 
+ 3-0-0-0-9 
+1. Introduction to casting problem: Principles of 
+solidification, 
+Introduction 
+to 
+fluid 
+flow 
+and 
+microstructure in a casting process. 2. Solidification 
+transport phenomena in casting: Solidification of 
+pure metals and alloys, Nucleation and growth, 
+Nature of solid-liquid interface, Constitutional 
+undercooling, 
+Dendritic 
+growth, 
+Directional 
+solidification, 
+Mathematical 
+treatment 
+of 
+solidification transport phenomena involved in a 
+casting process (mass and heat transfer, fluid 
+dynamics, mushy zone), Mathematical analysis of 
+distribution of solute during solidification, Micro and 
+macro segregation. 3. Defects: Casting defects 
+(compositional, 
+microstructural, 
+mould 
+filling, 
+shrinkage and other flow and heat transfer related 
+defects), 
+their 
+causes 
+and 
+remedies, 
+and 
+Understanding the role of transport phenomena in 
+the formation of these defects. 4. Some selected 
+casting processes: Mold, die and investment 
+casting, 
+Direct 
+chill 
+casting, 
+Ingot 
+casting, 
+Directional 
+solidification, 
+Micro 
+casting, 
+Manipulation and control of casting structure, 
+properties and defects through advanced casting 
+processes – inoculation practices, rheocasting, 
+thixocasting, 
+Multiphysics 
+casting 
+processes 
+involving magnetic fields. 5. Casting design by 
+controlling accompanied heat transfer, fluid flow and
+
+[Page 18]
+solidification: 
+Mathematical 
+treatment 
+of 
+solidification rates-exact and approximate methods, 
+Mold-casting heat transfer, Riser design, Feeding 
+distance, Mold filling and their relation with 
+temperature distribution and dimensional design of 
+the casting. 
+ME666 
+INVISCID FLOWS 
+3-0-0-0-9 
+Vorticity, vorticity equation, Kelvin’s theorem, 
+Helmholtz laws, kinematic decomposition of velocity 
+fields, uniqueness of solenoidal and irrotational 
+velocity fields, superposition of irrotational flows, 
+complex analysis, conformal transformations, finite 
+wings, three-dimensional potential flows, unsteady 
+potential flows, virtual mass, cavitation and bubble 
+dynamics, waves in fluids 
+ME668 
+MACHINING DYNAMICS 
+ 3-0-0-0-9 
+Machining process modeling and analyses, Review 
+of free and force vibration analysis, Experimental 
+Modal analyses, 
+ Machining dynamics and 
+regenerative chatter vibrations in turning, Process-
+machine interactions in milling 
+ME669 
+MODELING THERMAL 
+TRANSPORT IN 
+MANUFACTURING 
+PROCESSES 
+
+ 3-0-0-0-9 
+1. Review of fundamentals of thermal transport in 
+manufacturing: Introduction to the course – 
+Importance of heat transfer in manufacturing and 
+applications, Steady and transient heat conduction, 
+Convection and Radiation, Fluid flow and Mass 
+transfer. 2. Finite Difference and Finite Volume 
+based modelling of heat transfer in manufacturing 
+and numerical implementation: Basic introduction to 
+FDM 
+and 
+FVM 
+techniques, 
+Mathematical 
+formulation 
+of 
+thermal 
+transport, 
+Governing 
+equations and general scalar transport equation, 
+Steady and unsteady problems, Initial and Boundary 
+conditions, Convection-diffusion problems, Mesh 
+terminology, Accuracy, Consistency, Stability and 
+Convergence, Phase change – Enthalpy based 
+algorithm 
+for 
+melting/solidification, 
+Two-phase 
+mushy zone flows, Liquid-vapour phase change 
+involved in manufacturing, Illustration using code. 3. 
+Case studies on modelling and simulation of thermal 
+transport in manufacturing processes: Solidification 
+processing 
+– 
+Modelling 
+of 
+moving 
+melting/solidification phase change interface, Alloy 
+solidification, Segregation, Two-phase mushy zone 
+flow, Modelling of casting, Marangoni convection 
+driven flow, Modelling of welding, Heat assisted 
+manufacturing process –Thermal modelling using 
+enthalpy method for solid-liquid and liquid-vapour 
+phase change interface, Melt pool formation and
+
+[Page 19]
+flow behaviour, Beam heat flux models, Thermal 
+modelling in Laser Melting (LM), Electron Beam 
+Melting (EBM), Machining: Electric Discharge 
+Machining 
+(EDM) 
+and 
+Heat 
+assisted 
+micro 
+manufacturing process, Thermal deposition process 
+– Modelling of free surface evolution, Modelling of 
+droplet impact and deposition on substrates. 
+ 
+ME670 
+ADDITIVE 
+MANUFACTURING 
+ 
+ 3-0-0-0-9 
+1. Introduction to Additive Manufacturing (AM): 
+General 
+overview, 
+Introduction 
+to 
+reverse 
+engineering, Traditional manufacturing v/s AM, 
+Computer-aided design (CAD) and AM, Different 
+AM processes and relevant process physics, AM 
+process chain, Application level: Direct processes – 
+Rapid 
+prototyping, 
+Rapid 
+tooling, 
+rapid 
+manufacturing, 
+Indirect 
+processes 
+– 
+Indirect 
+prototyping, Indirect tooling, Indirect manufacturing. 
+2. Materials science for AM: Discussion on different 
+materials used for AM, Use of multiple materials, 
+multi-functional and graded materials in AM, Role of 
+solidification rate, Evolution of nonequilibrium 
+structure, Structure-property relationship, Grain 
+structure and microstructure. 3. AM technologies: 
+Powder-based AM processes involving sintering 
+and melting (selective laser sintering, laser 
+engineered net shaping, electron beam melting, 
+high energy beam involvement), Printing processes 
+(droplet-based 
+3D 
+printing), 
+Solid-based 
+AM 
+processes, Extrusion based fused deposition 
+modelling (FDM), Laminated object manufacturing 
+(LOM), Stereolithography. Micro and nano additive 
+manufacturing processes. 4. Mathematical models 
+for AM: Transport phenomena models: temperature, 
+fluid flow and composition, buoyancy-driven flow, 
+surface tension driven free surface flow (study of 
+molten pool), Case studies: Numerical modelling of 
+fusion based AM process, Powder bed melting 
+based process, Droplet-based printing process, 
+Residual 
+stress, 
+Part 
+fabrication 
+time, 
+Part 
+fabrication cost, Optimal orientation and optimal 
+layer thickness, Defect in AM and role of transport 
+phenomena on its formation, Simulations (choice of 
+parameter, experimental data and comparison 
+between simulation and experiments), Model 
+validation for different aspects. 5. Process selection, 
+planning, monitoring and control for AM: Selection
+
+[Page 20]
+of AM technologies using decision methods, 
+Additive manufacturing process plan: Building 
+strategies and post-processing, Monitoring and 
+control 
+of 
+defects, 
+geometry, 
+temperature, 
+composition, and phase transformation. 
+ 
+ME671 
+EXPERIMENTAL STRESS 
+ANALYSIS 
+
+3-0-0-0-9 
+ Introduction to stress and strain and need for 
+experiments. 
+Localized 
+measurement 
+of 
+deformation, electrical resistance strain gages 
+including bridge configurations and strain 
+amplifiers, 
+LVDT 
+and 
+capacitance-based 
+sensors, load cells. Measurement displacement: 
+geometric Moiré,digital image correlation. 
+Measurement of stress: photoelasticity in 
+transmission and reflection.Techniques for 
+evaluating material response at small volumes: 
+nano-indentation, atomic force microscopy. 
+Statistical analysis of experimental data. 
+Measurement of displacement: Geometric Moiré, 
+digital image correlation in 2D and 3D. 
+Measurement of stress 
+Photoelasticity: representing light using electric 
+field, 
+plane 
+and 
+circularly 
+polarized 
+light,interference, light propagation in optically 
+an-isotropic media, stress optic law, analysis of 
+plane and circular polariscope, fringe counting 
+and calibration of optical constant, stress 
+analysis using transmission and reflection 
+photoelasticity, 
+stress 
+separation 
+methods. 
+Statistical analysis of experimental data 
+Statistical distributions, confidence intervals for 
+predictions, comparison of means, statistical 
+conditioning of data, regression analysis, error 
+propagation. Evaluating material behaviour at 
+small volumes 
+Nano-indentation: basic principles of instrumented 
+indentation, data reduction methods for mapping 
+properties such as hardness, modulus and 
+fracture toughness. Atomic force microscopy: 
+Basic principles and applications. 
+ME672 
+MICROMANUFACTURING 
+PROCESSES 
+3-0-0-0-9 
+Introduction to micro and nano manufacturing; 
+Traditional 
+and 
+micromachining 
+processes; 
+Nanomachining and nano finishing processes; 
+Micro joining; Micro forming; Micro casting and 
+micro molding; Miscellaneous topics in micro/nano 
+manufacturing and measurement. 
+ME673 
+TRANSPORT IN POROUS 
+MEDIA 
+3-0-0-0-9 
+Representative elementary volume (REV), Mass, 
+momentum and energy transport, Darcy and Non-
+Darcy equations, equilibrium and nonequilibrium
+
+[Page 21]
+conditions, species transport, radioactive decay, 
+equivalent 
+thermal 
+conductivity, 
+viscosity, 
+dispersion, Flow over a flat plate, flow past a 
+cylinder, boundary-layers, reservoir problems, Field 
+scale and stochastic modeling, Turbulent flow, 
+compressible flow, multiphase flow, numerical 
+techniques, hierarchical porous media, nanoscale 
+porous media, multiscale modeling, Groundwater, 
+waste disposal, oil and gas recovery, regenerators, 
+energy 
+storage 
+systems, 
+Flow 
+visualization, 
+quantitative methods, inverse parameter estimation 
+ME674 
+FLUID MECHANICS OF 
+FLAPPING FOILS 
+3-0-0-0-9 
+Flapping foils in nature, airfoil and wing theory, 
+vortex 
+dynamics, 
+governing 
+equations 
+and 
+parameters, kinematics, vortex wakes, drag to thrust 
+transition, thrust by forward moving foils, unsteady 
+actuator disk theory, efficiency estimates, scaling 
+laws, thrust generation in quiescent ambient, 
+deflected wakes, unsteady mechanisms, flapping 
+flexible foils, fluid-flexible-structure interaction, 3D 
+foils, foils in tandem, biomimetic applications. 
+ME676 
+NON-LINEAR FINITE 
+ELEMENT METHODS IN 
+SOLID MECHANICS 
+3-0-0-0-9 
+Review of FE techniques for linear elasticity; Review 
+of continuum mechanics —kinematics, balance 
+laws, stress measures, Clausius Duhem inequality, 
+frame indifference, stress rates and constitutive 
+equations; Introduction to directional derivatives, 
+formulation of variational principles for nonlinear 
+problems 
+and 
+linearisation; 
+Linearisation 
+of 
+variational 
+principles for 
+nonlinear 
+problems; 
+Generalised Newton Raphson scheme; Applications 
+to hyperelasticity, metal plasticity and crystal 
+plasticity; Issues of convergence rates, measures 
+and patch tests; Techniques for dealing with locking 
+issues;Using and incorporating UMAT and UEL 
+subroutines in ABAQUS. 
+ME679 
+DAMAGE MECHANICS OF 
+COMPOSITE MATERIALS 
+3-0-0-0-9 
+Introduction 
+to 
+composite 
+materials 
+Composite 
+materials and their internal architecture, advantage as 
+structural material, 3D orthotropic constitutive matrix, 
+uni and multidirectional laminates, lamination theory ; 
+Intra 
+and 
+Inter-laminar 
+damage 
+mechanisms 
+Recapitulation of fracture mechanics, delamination, 
+matrix cracking, fractographic observations, fibre 
+compressive failure, fibre tensile failure, dynamic 
+loading and impact damage, benchmark experiments to 
+extract fracture parameters, laminate size effect on 
+failure, effect of manufacturing induced defects on 
+failure; Modelling delamination and matrix cracking 
+Concept of quasi-brittle material and origin of cohesive 
+zone model, adaptation to composites delaminaton and 
+matrix cracking, different onset and propagation criteria, 
+development of 3D mixed mode bilinear cohesive 
+constitutive law, virtual crack closure technique (VCCT), 
+analytical models for residual strength prediction; Fibre
+
+[Page 22]
+tensile and fibre compressive failure Onset strength and 
+Weibull statistical theory for fibre tensile failure, fibre 
+microbuckling and fibre kinking failure theories under 
+compression, influence of shear nonlinearity;Essentials 
+of continuum mechanics Deformation, strain and stress 
+measures, large deformation and objective stressrates; 
+Continuum damage mechanics Idea of continuum 
+damage, strain equivalence principle, isotropic and 
+anisotropic damage effect tensor, thermodynamic basis 
+of continuum damage ; Finite element modelling 
+framework for damage Governing equation for dynamic 
+equilibrium, weak form for a body including cracks, finite 
+element discretisation, formulation 3D isoparametric 
+finite elements, dynamic explicit finite element method 
+[5] Implementation of composite damage models 
+Implementing damage models in commercial finite 
+element programme via user defined material and user 
+defined element packages, several aspects of damage 
+modelling, demonstrative 3D simulation of benchmark 
+failure cases [10] 
+
+ME681 
+MATHEMATICS FOR 
+ENGINEERS 
+
+ 
+ 
+ 3-0-0-0-9 
+Linear Algebra: Vector space and its basis; Matrices 
+as coordinate-dependent linear transformation; null 
+and range spaces; Solution of linear algebraic 
+equations: Gauss elimination and Gauss-Jordon 
+methods, 
+LU 
+decomposition; 
+Determinants; 
+Eigenvalues and eigenvectors of matrices and their 
+properties; 
+Similarity 
+transformation; 
+Jordon 
+canonical form and orthogonal diagonalization, 
+symmetric matrices. Vector Calculus: Curves and 
+surfaces; Gradient, divergence and curl, Line, 
+surface and volume integrals; Gauss (divergence), 
+Stokes and Green’s theorems. Ordinary Differential 
+Equations (ODEs): Techniques of the separation of 
+variable and the integrating factor for 1st order 
+ODEs; Solutions of linear, 2nd order ODEs with 
+constant coefficients and Euler-Cauchy ODEs; 
+System of 1st order ODEs, Homogeneous, linear, 
+2nd order ODEs with variable coefficients: power 
+series and Frobenius methods; Sturm-Louville 
+problem; Laplace transform method for non-
+homogeneous, linear, 2nd order ODEs. Partial 
+Differential Equations (PDEs): Fourier series, 
+integrals, and transforms; String vibration equation; 
+heat equation; Laplace’s equation. 
+ME682 
+DIFFERENCE EQUATIONS 
+FOR ENGINEERS 
+3-0-0-0-9 
+Analogies 
+between 
+differential 
+and 
+difference 
+equations, 
+Elementary 
+Difference 
+Operations; 
+Difference and shift operators, Difference Calculus, 
+Summation, Interpolation, Extrapolation, Generating
+
+[Page 23]
+functions; Linear difference equations, First order and 
+Higher Order Difference Equations; Linear difference 
+equations with constant coefficients, Linear difference 
+equations with variable coefficients, Method of 
+undetermined coefficients and Method of variation of 
+parameters, Limiting behavior of solutions; Systems of 
+Linear difference equations; z-transform, Fourier 
+analysis; Non-linear difference equations and boundary 
+value problems; Asymptotic methods, Stability theory 
+and simple dynamical systems; Partial Difference 
+Equations; Lagrangian and Hamiltonian Formalism for 
+Difference Equations; Differential-difference equations. 
+ME683 
+TECHNIQUES IN NON-
+DESTRUCTIVE 
+EVALUATION 
+3-0-0-0-9 
+Need for NDE, overview of existing NDE methods, and 
+some applications; Overview on measurements of 
+displacement, stress, and strain; General solutions of 
+hyperbolic and parabolic PDE; Basics of signal 
+processing: Fourier transforms. Christoffel equation, 
+boundary 
+conditions. 
+Sensors: 
+Generation 
+and 
+reception. Near-field and far-field measurements; Time-
+of-flight method: Basics, imaging, and applications; 
+Phased array: Theory and applications; EMAT: governing 
+equations, 
+construction 
+of 
+transducers, 
+and 
+applications; Guided waves: dispersion relations and 
+applications; Synthetic aperture focused technique; 
+Metamaterials in ultrasound imaging. Thermography: 
+From black radiation to principles of thermal imaging; 
+Fourier heat diffusion and boundary conditions; Contact 
+and non-contact thermal techniques; Pulsed, pulsed-
+phase and vibrothermography: theory, experiments and 
+processing data; Fabrication of sensors; Basics of 
+instrumentation and optics; Digital image correlation; 
+Discrete 
+Fourier 
+transforms 
+and 
+phase 
+based 
+amplification; Measurement of mechanical properties 
+from digital images; Acoustic characterization; Resonant 
+ultrasound spectroscopy; Hybrid techniques: eddy-
+current thermography, laser-ultrasonics; In-situ NDE: 3D 
+printing, welding. 
+ME685 
+APPLIED NUMERICAL 
+METHODS 
+ 3-0-0-0-9 
+Introduction to numerical techniques. Mathematical 
+modeling; Taylor series approximation; root finding; 
+linear algebraic equations; regression analysis and 
+curve fitting; numerical differentiation, integration, 
+ODEs, and PDEs; eigenvalue problems; computing 
+on parallel architectures. 
+ME686 
+ENERGY STORAGE 
+SYSTEMS 
+3-0-0-0-9 
+Multiobjective 
+optimization, 
+Robust 
+design 
+techniques (variation reduction techniques), Optimal 
+control, 
+stochastic 
+programming. 
+Role 
+of 
+Optimization 
+inCAD: 
+Why 
+optimization? 
+Optimization 
+Geometric 
+modelling 
+Analysis. 
+Implementation Issues: computational time versus 
+accuracy, Interfacing with geometric modelling and
+
+[Page 24]
+analysis softwares, Graphics interfacing, Choice of 
+Hardware platform. Application to engineering 
+design 
+problems, 
+comparison 
+with 
+existing 
+solutions. 
+ME687 
+MODELLING OF 
+MULTIPHYSICS SYSTEMS 
+3-0-0-0-9 
+Introduction and dimensional analysis and review of 
+numerical method: Review on vector calculus, 
+scalar/vector fields, linear algebra, notation system, 
+Taylor series, numerical methods for simultaneous 
+linear equations, first/second order ODE and PDE, 
+dimensional analysis; Review and modelling of 
+simple systems: Conservation laws of mass, 
+momentum and energy, thermal transport (Fourier’s 
+Law and Diffusion Equation), mass transport (Fick’s 
+Law, diffusive and convective mass balance), 
+definitions 
+of 
+displacement 
+gradient, 
+strain 
+(Euler/Lagrange), 
+stress 
+(nominal, 
+PK-1/2), 
+momentum conservation, Generalized Hooke’s Law 
+and Navier’s equation, plane stress/strain, continuity 
+and Navier Stokes equations, steady and transient 
+flow models, electrodynamics, Maxwell’s equations, 
+electrochemical transport and kinetics, Butler 
+Volmer and Tafel models, applied numerical 
+problems for each physics; Modelling of coupled 
+multiphysics systems: Thermal-elastic systems, 
+gas-driven and thermal strain-driven actuating 
+devices, Electrostatic-elastic systems, capacitive 
+mass-spring and plate systems, stability analysis 
+and bifurcation diagrams, Fluid-thermal systems, 
+natural 
+convection, 
+Fluid-structural 
+systems, 
+Electrochemical-thermal-mechanical 
+systems; 
+Computational application of multiphysics problems: 
+Numerical modelling of coupled systems, one-way 
+and two-ways coupling, dimensional analysis and 
+problem 
+simplification; 
+Multiscale 
+modelling: 
+Introduction to molecular dynamics. 
+ME688 
+COMPRESSIBILITY AND 
+HIGH-SPEED FLOW 
+3-0-0-0-9 
+The fundamental of compressible flow, conservation 
+laws, steady and unsteady inviscid subsonic and 
+supersonic flows, method of characteristics, small-
+perturbation theories, linearized velocity potential 
+flow, shock waves dynamics and wave structure, 
+Prandtl-Meyer function, Reflected and intersecting 
+shocks, 
+self-similar 
+compressible 
+flows, 
+compressible flows in ducts with area changes, 
+friction and heat addition, compressible boundary 
+layer, viscous and compressibility effects, shock 
+wave-boundary layer interactions, turbulent flows, 
+numerical techniques, transonic and hypersonic 
+flows. 
+ME689 
+MICROSCALE 
+TRANSPORT 
+PHENOMENA 
+ 
+3-0-0-0-9 
+Introduction, 
+Microfluidics, 
+Microscale 
+heat 
+conduction, Microscale convection, Microscale 
+mass transfer, Microscale radiation, Surface tension 
+driven flows, Electro-kinetics, Magneto-fluidics
+
+[Page 25]
+ME690 
+ALTERNATIVE FUELS & 
+ADVANCE IN IC ENGINES 
+
+ 3-0-0-0-9 
+Combustion and Fuels: Combustion process in SI 
+and CI engines, Petroleum based liquid fuels and 
+refining; Liquid alternative fuels such as vegetable 
+oils, biodiesel, and emulsified fuels, lubricating oils 
+composition and effect of alternate fuels; Gaseous 
+alternative fuels such as hydrogen, compressed 
+natural gas, liquefied petroleum gas, di-methyl 
+ether, and hythane; Modern developments in IC 
+Engines such as EGR, MPFI, GDI, HCCI and Turbo-
+charging; Optical measurement techniques and 
+tools: 
+Particle 
+image 
+velocimetry, 
+3D 
+and 
+Holographic PIV, spray visualization, phase doppler 
+interferometry for spray characterization, Optical 
+engines 
+and 
+engine 
+endoscopy; 
+Pollution 
+monitoring instruments and techniques, Control 
+measures such as DOC, DPF, SCR and LNT. 
+ME691A 
+ENGINE MANAGEMENT 
+ 
+ 3-0-0-0-9 
+Diesel Engine Management: cylinder charge control 
+systems, principles of diesel fuel injection, mixture 
+distribution, diesel fuel injection systems, governors 
+and control systems, discrete cylinder systems, 
+single plunger fuel injection pumps, unit injector 
+systems, unit pump systems, common rail systems, 
+injection nozzles, minimizing emissions inside the 
+engine, electronic diesel control (EDC), electronic 
+control unit (ECU); Gasoline Engine Management: 
+cylinder charge control systems, manifold fuel 
+injection, gasoline direct injection, operation of 
+gasoline engine on natural gas, ignition system, 
+inductive ignition systems, different types of sensors 
+such as temperature sensors, engine speed 
+sensors, hall effect phase sensors, hot film air mass 
+sensors, piezo-electric knock sensor, high-pressure 
+sensor, lambda sensor, Electronic control unit, 
+operating conditions, design and data processing. 
+ME692 
+WELDING TECHNOLOGY 
+ 3-0-0-0-9 
+Types of 
+welding: Fusion welding process, 
+Resistance welding, Chemical fusion welding, Beam 
+welding 
+process, 
+Friction 
+welding, 
+Pressure 
+welding. Thermal analysis of weldment: Modes of 
+heat transfer during welding, Temperature profile in 
+welding process. Fluid flow analysis of weldment: 
+Forces contribution during welding, Convection. 
+Microstructure 
+evolution 
+in 
+welding: 
+Thermodynamics of solidification, Driving force for 
+solidification, 
+Phase 
+diagram 
+of 
+alloys, 
+Constitutional undercooling, Microstructures in 
+weld. Zones in a weldment: Peak temperature, 
+cooling rates, zones in fusion welding, and effect of 
+weld pool shape on microstructure. Stresses in 
+welding: Residual stresses in welding, Distortion. 
+Weld joint design: Type of weld joints, Weld design
+
+[Page 26]
+guidelines, Size of weld, and amount of welding. 
+Other joining processes: Adhesive bonding and their 
+mechanism, 
+Welding 
+of 
+dissimilar 
+materials, 
+Welding polymers and other non-metallic materials, 
+Defects in welding and weld testing: Welding 
+defects, Weldability testing. 
+ME775 
+LASER AIDED 
+MANUFACTURING 
+3-0-0-0-9 
+General overview, Fundamentals of lasers, laser-
+material interactions, laser plasma interactions, 
+Brief review of materials, manufacturing processes 
+and thermal modelling, Laser cutting and drilling, 
+Laser micromachining, Laser-based joining, Laser 
+forming, Laser additive manufacturing, Laser 
+processing of metal surfaces, Laser safety, Laser 
+automation and in-process sensing. 
+ 
+ME699 
+M TECH THESIS 
+ 0-0-0-0-9 
+M. Tech. Thesis 
+ME701 
+DESIGN FOR 
+MANUFACTURE & 
+ASSEMBLY 
+3-0-0-0-9 
+Introduction, Product design process, Selection of 
+materials and shapes, Design for X, Modeling and 
+simulation, Design for reliability 
+ME702 
+MECHANICAL 
+ENGINEERING 
+POSTGRADUATE 
+SEMINAR 
+0-0-0-0-0 
+Seminars on state-of-the-art research themes and 
+original research work 
+ME711 
+COMPUTATIONAL 
+TURBULENCE 
+3-0-0-0-9 
+Introduction to turbulent flow and modelling, review 
+of momentum and energy equations, statistical 
+description of turbulence, energy cascade, RANS 
+and URANS, Reynolds Stress (RS) equations and 
+closure problems, turbulent kinetic energy 
+equations, dynamics of turbulence, coherent and 
+incoherent structures; review of computational 
+method: SIMPLE and MAC; RANS-based 
+turbulence modelling: (a) zero-equation model, (b) 
+one- and (c) two-equation models (k-ε, k-ω 
+models), closure models, application for free-shear 
+and wall-bounded flows, direct numerical 
+simulation: higher-order discretization and stability; 
+large eddy simulation (LES): LES filtering, explicit 
+and implicit filtering, LES equations, Smagorinsky 
+model and its variants (DSM, SISM), dynamic 
+model, grid independent LES, applications to free-
+shear and wall-bounded flows and hybrid LES. 
+ME720 
+THERMODYNAMICS OF 
+CONTINUOUS MEDIA 
+ 
+Introduction to the Course and Some Applications of 
+Difference Equations in Engineering, Preliminaries 
+in linear algebra and analysis, Analogies between 
+differential and difference equations, Elementary 
+Difference Operations: the Difference and the Shift 
+operators, The Difference and Summation Calculus, 
+Linear difference equations, First order equations, 
+Higher 
+Order 
+Difference 
+Equations, 
+Linear 
+difference equations with constant coefficients, 
+Linear 
+difference 
+equations 
+with 
+variable
+
+[Page 27]
+3-0-0-0-9 
+coefficients, Method of undetermined coefficients 
+and variation of parameters, Generating functions, 
+The z-transform and its applications, Systems of 
+Linear difference equations and applications, The 
+Sturmian theory and Fourier techniques, Asymptotic 
+methods, Limiting behavior of solutions, Nonlinear 
+difference equations and boundary value problems, 
+Stability theory and relevance to dynamical 
+systems, Partial Difference Equations, Differential-
+difference equations, Discrete Mechanics, Open 
+problems. 
+ME724 
+MECHANICS OF THIN 
+STRUCTURES 
+3-0-0-0-9 
+Three-dimensional nonlinear elasticity in curvilinear 
+coordinates; Differential geometry of surfaces; 
+Linear theories of plates and shells; Nonlinear 
+membrane theory; Shell theory 
+ME721 
+THEORY OF PLASTICITY 
+
+3-0-0-0-9 
+Phenomenology of one dimensional elastoplasticity; 
+Idealised plastic behaviour and the idea of tangent 
+modulus;Hardening 
+rule; 
+Yield 
+criteria; 
+Haigh 
+Westergaard stress space; Elasto-plastic stress strain 
+relations;Drucker’s 
+postulates;Maximum 
+plastic 
+dissipation postulate;Stress-strain relations for perfectly 
+plastic materials; Incremental stress strain relation for 
+isotropic material; Dissipation in plasticity; Incremental 
+relations for a material with internal variables; 
+Deformation theory of plasticity; Problem Uniqueness 
+and boundness theorem in plasticity; Principle of virtual 
+power; Lower bound theorem; Upper bound theorem; 
+Limit analysis of beams; Slip line fields; Numerical 
+techniques in small strain plasticity 
+ME722 
+DYNAMIC FRACTURE 
+MECHANICS 
+Overview and history, Discussion on inertial effects. 
+Mathematical preliminaries. Basic linear 
+elastodynamics, Waves in Periodic Structures, Causality 
+Principle. One-dimensional Models. Static Cracks in a 
+Linearly Elastic Body, Stress Intensity Factors and Crack 
+Tip Singularity, Energy Release, General Crack System, 
+Cohesive Zone Model. Elastodynamic solutions for a 
+stationary crack, Scattering of a pulse and a time 
+harmonic waves, Fracture initiation due to dynamic 
+loading. Elastodynamic crack growth, the asymptotic 
+crack tip field, Dynamic energy release rate. One- 
+dimensional Discrete Models, Mode III fracture in 
+square cell elastic lattice. Scattering of lattice waves. 
+Instabilites in dynamic fracture. Modern topics and 
+challenges in dynamic fracture.
+
+[Page 28]
+ME723 
+WAVE PROPAGATION IN 
+SOLIDS 
+
+3-0-0-0-9 
+Harmonic and non-harmonic motions, differences 
+between waves, vibrations, and oscillations. Concepts 
+on time period, wavelength, spatial and temporal 
+frequencies; Derivation of one-dimensional wave 
+equation in a string. The general form of wave 
+displacement. Plane, cylindrical, and spherical waves 
+with examples. Concepts of longitudinal and transverse 
+waves, and particle, group, and phase velocities.; Review 
+of elasticity - 4 conservation laws. Derivation of Naviers 
+equation and Christoffel equation. Difference between 
+elastodynamic and acoustic waves. Types of boundary 
+conditions.; Derivation of D'Alembert’s solution for one-
+dimensional wave and implications.; Dispersion analysis 
+for string. Concepts of attenuation with imaginary parts 
+of frequency and wavenumber.; Dispersive and non-
+dispersive waves in a viscoelastic medium. Longitudinal 
+dispersive waves in rods, flexure waves in beams on a 
+foundation.; Phase speeds for isotropic materials: 
+Navier's equation and Helmholtz decomposition. 
+Slowness diagrams; Phase speeds for anisotropic 
+materials from Christoffel equation. Linear, elliptical, 
+and circular polarizations of waves. Quasi-shear and 
+quasi-longitudinal modes; Applications of Helmholtz 
+decomposition. Waves in bulk medium. Waves in two 
+dimensions – Rayleigh and Lamb waves. Guided waves. 
+Basic governing acoustics in elastic fluids.; Reflection at 
+a fluid-fluid interface. Derivation of Snell's law. Critical 
+angles. evanescent waves, reflection characteristics at 
+fluid-fluid, 
+fluid-solid, 
+solid-solid, 
+and 
+solid-fluid 
+interfaces for P and SV/ SH waves. ; Energy flux, 
+intensity, and Poynting vector. Velocity coefficients; 
+Scattering - Absorption. Thermoelastic and Akhisier 
+mechanisms. Derivation of absorption coefficient using 
+Christoffel equation in terms of density and complex 
+stiffness matrix. Choice of time dependence; Forward 
+and backscattering, and applications. Scattering of shear 
+horizontal waves by long cylindrical cracks.; Integral 
+transform techniques. Application of Laplace and Fourier 
+transform techniques for wave equations. Concepts of 
+and problems using the Cagniard De Hoop method to 
+identify Green's function; Theory for experimental 
+characterization: Ultrasonic time-of-flight diffraction, 
+guided waves, resonant ultrasound spectroscopy.; 
+Advanced topics. One of the shock waves/nonlinear 
+waves/thermal waves/waves in discrete media. 
+ME724 
+MECHANICS OF 
+BIOLOGICAL 
+MEMBRANES 
+ 
+Classical linear and nonlinear theories of plates and 
+shells will be derived in a conceptually clear manner 
+without various ad hoc assumptions made in the 
+historical development of the subject. The course will be 
+useful to anyone interested in the mechanical 
+deformation of thin structures appearing commonly
+
+[Page 29]
+3-0-0-0-9 
+around us in both the man-made and the biological 
+world. 
+ME726 
+HAMILTONIAN 
+MECHANICS AND 
+SYMPLECTIC 
+ALGORITHMS 
+
+ 
+ 3-0-0-0-9 
+Vector fields and differential forms, exterior calculus, 
+differential equations and associated flow, symplectic 
+manifolds; Lagrange’s Equations, Hamilton’s Equations, 
+Canonical Transformation, Legendre Transformation, 
+Symplectic Transformations, Poincare-Cartan invariant, 
+Hamilton-Jacobi equation, Simple example of Integrable 
+systems; Symplectic Integrators, Application to N 
+particle dynamics and other examples; Symplectic 
+Runge-Kutta methods, Generating Functions, Variational 
+Integrators. 
+ME727 
+COMPOSITE MATERIALS 
+
+3-0-0-0-9 
+Introduction : Need for composites, Types of 
+composites, Metal matrix, Ceramic matrix and Carbon-
+Carbon 
+composites; 
+Polymer 
+matrix 
+composites;Constituent 
+materials 
+and 
+fabrication 
+methods 
+:Characteristics 
+of 
+thermosetting 
+and 
+thermoplastic resins, Characteristics of Glass,Carbon and 
+Kevlar Fibers, method of making and properties, types of 
+fiber mats. Manufacturing of fiber composites: Hand 
+layup, Pressure bag, Vacuum Bag and Autoclave 
+processes, Pultrusion, Filament Winding, Bulk and Sheet 
+moldingcompounds, Prepregs etc, including a video 
+demonstration of a hand layup process.;Micromechanics 
+of 
+continuous 
+unidirectional 
+fiber 
+composites 
+:Prediction of elastic properties using strength of 
+materials approach, Introduction to elasticity based 
+approach for prediction of elastic constants (concentric 
+cylinder model), Empirical relations (Halpin-Tsai) for 
+elastic property prediction, Comparison of different 
+approaches with examples, Prediction of strength and 
+discussion on failure modes, Prediction of thermal and 
+diffusion properties;Short fiber composites : Load 
+transfer length, Prediction of elastic properties,Elastic 
+property 
+calculation 
+for 
+random 
+fiber 
+composites;.Analysis of orthotropic lamina : Generalized 
+Hooke’s law, Material symmetry, Orthotropic materials 
+and transversely isotropic materials, Transformation of 
+stress and strain,Stress-strain relations for transversely 
+isotropic lamina under plane stress in material axis and 
+off-axis, Failure theories (Maximum stress, strain, Tsai-
+Hill and Tsai-Wu);Analysis of laminated composites : 
+Description of laminate sequence and type of laminates 
+(UD, Symmetric and Asymmetric, Balanced, Quasi-
+Isotropic) etc., Classical laminate theory (CLT), Failure
+
+[Page 30]
+analysis of laminates using CLT: First ply failure, 
+progressive failure analysis, Hygro-thermal stresses in 
+laminates, 
+Discussion 
+on 
+interlaminar 
+stresses 
+;Additional topics : Characterization methods- Test 
+methods for determining elastic constants and strength, 
+Fracture oriented failure- Strength of notched composite 
+laminates. 
+ME728 
+FRACTURE AND FATIGUE 
+
+ 3-0-0-0-9 
+Background; Griffith theory of fracture, energy 
+release rate (ERR), conditions for stable and unstable 
+crack growth, crack arrest; Linear elastic fracture 
+mechanics : William’s analysis of stress field at the 
+tip of a crack Solution of stress and displacement 
+field for plane cracks using complex methods in 
+plane 
+elasticity 
+(Westergaards 
+or 
+Kolosov-
+Muskhelishvili approach), Stress intensity factor 
+(SIF) for plane and penny shaped cracks, 
+Equivalence of SIF and ERR, fracture toughness 
+;Elasto-plastic fracture mechanics : First order 
+estimate of crack tip plastic zone using Irwin’s and 
+Dugdle’s approach, Plastic zone for plane stress and 
+plane strain situation and effect on fracture 
+toughness, Review of small strain plasticity, Crack 
+tip fields in an elasto-plastic material (Discussion on 
+HRR fields), J-integral as a fracture parameter and 
+crack tip opening displacement; Mixed mode 
+fracture : Prediction of crack path and critical 
+condition for crack extension under mixed mode 
+loading using Maximum tensile stress, Minimum 
+strain energy density and Maximum energy release 
+rate criteria;Experimental measurement of SIF and 
+fracture toughness : SIF measurement using strain 
+gages, optical techniques, Evaluation of fracture 
+toughness ;Fatigue crack growth : Mechanism of 
+crack nucleation and growth under cyclic loading, 
+Determination of life of a cracked solid using Paris-
+Erdogan law and its variants; Advanced topics (one 
+from the following) : Computational fracture 
+mechanics, Dynamic fracture, Bi-material fracture. 
+ME729 
+MODELLING OF 
+MECHANICAL 
+PROPERTIES OF 
+MATERIALS 
+ 
+3-0-0-0-9 
+Concepts of eigenstrains, representative volume 
+element, averaging, Methods of obtaining average 
+stiffness of materials with multiple elastic phases, voids 
+and cracks, Bounds on overall properties, Computational 
+homogenisation Module ; Viscoelastic phenomena, 
+creep, relaxation, dynamic response Constitutive models 
+for viscoelastic materials Modelling dynamic behaviour 
+of viscoelastic solids Solving problems in viscoelasticity 
+using 
+the 
+correspondence 
+principle 
+Viscoelastic 
+response of materials with multiple phases Module ; 
+Introduction to Finite Strain Stress Tensors Strain energy 
+functions for isotropic materials Strain energy functions
+
+[Page 31]
+for anisotropic materials Micromechanical Theories for 
+soft materials Mechanics of growing mass Hyperelastic 
+solids with surface stresses Statistical Mechanics of 
+rubber-like 
+materials; 
+Module; 
+Phenomenological 
+Theory of Plasticity Elastic Models of Dislocations 
+Dislocation 
+core 
+Dislocation 
+configurations 
+and 
+interactions Crystal Plasticity Polycrystal plasticity. 
+ME730 
+MODAL ANALYSIS: 
+THEORY AND PRACTICE 
+ 3-0-0-0-9 
+Theoretical 
+basis 
+for 
+modal 
+analysis; 
+FRF 
+measurement considerations; Modal parameter 
+extraction and derivation of mathematical models; 
+Applications and advanced topics 
+ME741 
+INTERNAL COMBUSTION 
+ENGINES, POLLUTION 
+AND CONTROL 
+ 
+ 3-0-0-0-9 
+Fundamental Principles of Engine Design: Stages of 
+Combustion, Combustion Equations, Heat of 
+Combustion, Thermodynamic analysis of SI Engine 
+combustion process: Thermo-Chemistry; Chemical 
+Equilibrium, Equilibrium Combustion Products, 
+Flame Propagation in Engines, Unburned and 
+Burned Mixture States, In-cylinder Flow-Field 
+Measurement: Fuel Injection, Measurement of In-
+cylinder Mixture Distribution, Fuel-Air-Mixing and 
+Burning Rates in CI Engines, Engine Combustion 
+and Flame Visualization. Data Acquisition System: 
+Combustion and Heat Release Analysis in Engines. 
+Major 
+Pollutants 
+& 
+Formation 
+Mechanisms, 
+Measurement and Test Procedures. Control of 
+Emissions from SI and CI Engines: Thermal 
+Reactors, Catalytic Converters and Catalysts, and 
+Fuel Modifications 
+ME742 
+BOILING & 
+CONDENSATION 
+
+ 3-0-0-0-9 
+Applications of boiling and condensation; Difference 
+between evaporation and boiling; Comparison of 
+Nucleate and Flow boiling; Pool boiling: Nukiyama 
+Experiment; Theory of vapour bubble formation: 
+Homogeneous and Heterogeneous Nucleation; 
+Bubble Growth Models; Mechanism of Critical Heat 
+Flux (CHF); Various models and correlations; Pool 
+Boiling 
+of 
+Binary 
+Mixture; 
+Flow 
+Boiling: 
+homogeneous and heterogeneous models; Flow 
+Boiling in Microchannels; Flow Boiling of Binary 
+Mixtures; Boiling enhancement techniques; Film 
+and dropwise condensation; Nusselt’s analysis of 
+laminar film condensation on vertical plate, single 
+horizontal tube, and vertical array of tubes; Laminar-
+wavy and turbulent film condensation; Film 
+condensation inside horizontal tubes; Condensation 
+enhancement techniques; Dropwise condensation 
+on textured surfaces, droplet dynamics and 
+coalescence, 
+drop 
+growth 
+and 
+dropwise 
+condensation cycle, effect of subcooling, effect of 
+non-condensables and moist air condensation; 
+Special topics: Boiling and condensation in a 
+microgravity environment, boiling and condensation
+
+[Page 32]
+on patterned surfaces, numerical modeling of boiling 
+and condensation, atmospheric water generator. 
+ME743 
+FUEL CELLS 
+ 
+ 3-0-0-0-9 
+Review of classical thermodynamics; introductory 
+electrochemistry; 
+principles 
+of 
+chemical 
+and 
+electrochemical kinetics; transport phenomena in 
+electrochemical system, Classical thermodynamic 
+analyses of fuel cell systems; analyses of fuel cell 
+kinetics; quantification of fuel cell performance, 
+Conservation and rate equations; approximate 
+analytical treatment of fuel cell systems; scope and 
+limitations 
+of 
+one-dimensional 
+analyses; 
+introduction to computational fluid mechanics of fuel 
+cell systems; measurement of fuel cell performance; 
+lab visits; introduction to electrochemical impedance 
+spectroscopy; Direct methanol fuel cell; microbial 
+fuel cell; hydrogen generation and storage; 
+limitations, recent advances and challenges in fuel 
+cell research. 
+ME745 
+MODELING OF 
+TURBULENT 
+COMBUSTION 
+ 3-0-0-0-9 
+Introduction to turbulence, review of turbulence 
+models: RANS, LES, DNS, simple closure of 
+chemical source terms, turbulent premixed flames, 
+mixture fraction-based modelling of turbulent non-
+premixed combustion: flamelet model and CMC 
+method, PDF and Monte Carlo methods, scalar 
+mixing models, droplet and spray combustion. 
+ME751 
+COMPUTER AIDED 
+ENGINEERING DESIGN 
+ 
+ 3-0-0-0-9 
+Methodology of interactive, graphical, engineering 
+design; Discretization, optimization, simulation in 
+CAED. Design of curves and surfaces. Applications 
+in conveyor systems, sheet metal working, tool 
+design, pumps etc. Design of volumes. Intersection 
+of surface and interference of volumes. 
+ME752 
+OPTIMIZATION METHODS 
+IN ENGINEERING DESIGN 
+ 
+ 3-0-0-0-9 
+Classical optimization methods, unconstrained 
+minimization; 
+Univariate, 
+conjugate 
+direction, 
+gradient and variable metric methods, constrained 
+minimization, Feasible direction and projections. 
+Integer and Geometric programming, genetic 
+algorithms, simulated annealing techniques, design 
+applications. 
+ME756 
+VIBRATION CONTROL 
+ 
+ 3-0-0-0-9 
+Factors affecting level of vibration, vibration 
+reduction at the source, vibration control by 
+structural design, selection of materials. Vibration 
+control by additive damping; Dynamic vibration 
+absorbers, vibration and shock isolators, Active 
+control. 
+ME757 
+DYNAMICS OF ROTATING 
+MACHINERY 
+ 
+ 3-0-0-0-9 
+Rotor bearing interaction. Flexural vibration, critical 
+speeds of shafts, Effectsof anisotropic bearings, 
+unbalanced response of an assymetric shaft. 
+Gyroscopic effects. Aerodynamic effects. Equivalent 
+discrete system. Geared and branched systems. 
+Fluid film bearings: Steady state characteristics of 
+bearings. Rigid and flexible rotor balancing. 
+Measurement techniques.
+
+[Page 33]
+ME761 
+COMPUTER AIDED 
+MANUFACTURING 
+ 
+ 3-0-0-0-9 
+Introduction to Recent Manufacturing systems, 
+Computer-aided 
+design, 
+geometric 
+modelling, 
+concurrent engineering, Computer aided process 
+planning, computer control manufacturing systems, 
+Automated Material Handling and storage system, 
+Robotic systems, Quality engineering, statistical 
+process control and automated inspection system, 
+Manufacturing planning and control systems, Group 
+technology and cellular manufacturing system. 
+ME762 
+INTRODUCTION TO 
+ROBOTICS 
+ 
+ 3-0-0-0-9 
+Types of Robots. Spatial transformation and 
+kinematics of open chain linkages. Mobile robots, 
+Actuators, sensors, programming and control. 
+Hands-on 
+experiments. 
+Applications: 
+motion 
+planning, grasping and industrial automation. 
+ME763 
+ROBOT MANIPULATORS: 
+DYNAMICS AND 
+CONTROL 
+ 
+ 3-0-0-0-9 
+Review 
+of 
+robot 
+manipulators. 
+Manipulator 
+kinematics, dynamics and control. Singularity and 
+workspace analysis. Introduction to manipulator 
+design. 
+ME765 
+MANUFACTURING 
+AUTOMATION 
+ 
+ 3-0-0-0-9 
+Introduction, 
+Automated 
+assembly 
+lines, 
+programmable automation, flexible automation, 
+material 
+handling, 
+cellular 
+manufacturing, 
+component 
+classification, 
+NC 
+programming, 
+interpolation, trajectory generation, modeling of 
+manufacturing machines, system identification, 
+multi loop control, learning control, and industrial 
+robots. 
+ME766 
+ROBOT MOTION 
+PLANNING 
+ 
+ 3-0-0-0-9 
+Configuration 
+spaces 
+of 
+mobile 
+robots and 
+manipulators, Geometric modelling and sensor- 
+based map building. Methods of path planning and 
+obstacle avoidance. Object manipulation and 
+grasping. 
+ME769 
+ADVANCED TOPICS IN 
+ROBOTICS 
+ 
+ 3-0-0-0-9 
+Advanced techniques of kinematics and dynamics 
+of mechanical systems. Parallel actuated and 
+closed loop manipulators. Redundant manipulators. 
+Mobile robots and path planning. Complaint motion 
+and grasping. Sensing and vision. Nonlinear control 
+of robots. Any other relevant topic. 
+ME770 
+MATERIALS SELECTION 
+IN MECHANICAL DESIGN 
+ 
+ 3-0-0-0-9 
+In this course, we will provide a brief introduction to the 
+evolution 
+of 
+engineering 
+materials: 
+Steel, 
+Aluminium,Copper, Titanium; Other metals; Alloys and 
+composites; 
+Ceramic 
+and 
+Polymeric 
+materials; 
+Mechanical and Thermal Properties of Materials. This 
+will be followed by the discussions on Ashby Charts and 
+Examples of Material Property Index evaluation. We will 
+then briefly describe Material Processing; Materials and 
+the design process and Functional requirements of 
+engineering materials. Next we will focus on Materials 
+selection based on properties alone and Materials 
+selection based on properties & shape; Finally, we will 
+take up a large number of case studies and show how to 
+obtain the material property index in each case.
+
+[Page 34]
+ME771 
+SMART MATERIALS AND 
+STRUCTURE 
+
+ 
+3-0-0-0-9 
+In this course, we will begin with the Materials for both 
+actuation and sensing encompassing: introduction to 
+Piezoelectric and Magnetostrictive Materials which will 
+be followed by: Materials for actuation: introduction to 
+Shape Memory alloys, Magnetic shape memory 
+material, Electro/Magneto rheological fluids. We will 
+then discuss about the Constitutive Relations for 
+Piezoelectric and Magnetostrictive Materials, Shape 
+Memory Alloys and Electro/Magneto rheological fluids. 
+Next we will take up Introduction to composite smart 
+materials and micromodelling related issues;Energy 
+based approach,Variational Formulations,Finite Element 
+Modelling 
+of 
+Vibration 
+of 
+smart 
+Laminates; 
+Subsequently, we will discuss: State space based analysis 
+& Design of smart controllers, Concepts of Controllability 
+& observability; Intelligent system with integrated 
+sensors & actuators; Self sensing actuators; Placement 
+of Smart Actuators/Sensors for Shape and Vibration 
+Control. Finally we will show applications of Smart 
+Materials: Bio-inspired Design, Design of Soft Materials 
+and Soft Robotics. 
+ME772 
+MECHATRONICS 
+3-0-0-0-9 
+Fundamentals of the integration of mechanical and 
+electronic 
+subsystems 
+using 
+computer-based 
+control. Details of different types of sensors, 
+actuators, DAC/ADC and micro controllers. Control 
+systems design and modelling of computer 
+controlled electro-mechanical systems. Industrial 
+automation and robotics. Practical applications of 
+mechatronics, 
+design 
+issues 
+and 
+industrial 
+techniques currently in use. 
+ME773 
+GRANULAR MATERIALS 
+
+3-0-0-0-9 
+1. Introduction to granular materials: Illustrative 
+examples; 2. Revision of continuum mechanics; 3. 
+Materials with yield strength: I IohrCoulolllb and 
+Drucker Prager materials; 4. Statics: Coulomb’s, J 
+ansseu’s and Walker’s method. Volume averaging; 
+5. 
+Application: 
+Hoppers, 
+Dmns, 
+Landslides 
+Asteroids; 6. Micromechanical behavior: Particle 
+particle interaction. Mean field theory; 7. Other 
+features: Close packing, Crystallization, Force 
+chains, Shear banding; 8. Slow dense flow: 
+Plasticity theory; 9. Application: Flows in Hoppers 
+and 
+Buukers;10.Rapid 
+granularflow:Smooth 
+inelastic particles; 11. Examples: Plane Couette 
+flow, Inclined cbntes; 12. Rapid granular flow: 
+Rough 
+inelastic 
+particles; 
+13. 
+Mixing 
+and 
+segregation:Brazil nut effect,Rotating drum and 
+Avalanches; 
+14.Effect 
+of 
+air:Porous 
+beds 
+15.Introduction to computational modeling.
+
+[Page 35]
+ME774 
+BIOMEMS AND 
+MICROSYSTEMS 
+TECHNOLOGY 
+ 
+ 3-0-0-0-9 
+Introduction 
+to 
+BioMEMS 
+and 
+Microsystems 
+technology, Biochips/ biosensors and introduction to 
+device fabrication, Introduction to Cell biology, DNA 
+& Protein chemistry, Microfluidics, Biochip Sensors 
+& detection methods, potential of Microfluidics and 
+introductory continuum mechanics at small scales, 
+Microarrays and lab-on-chip devices, Introduction to 
+MEMS Design. Microfluidics: Continuum mechanics 
+at small scales, Basics of microfluidics, Gas flows, 
+liquid flows, boundary conditions, low Reynold’s no. 
+flows, 
+entrance 
+effects, 
+surface 
+tension, 
+electrokinetic 
+techniques 
+like 
+electrophoresis, 
+electroosmosis and dielectrophoresis, microfluids 
+for 
+internal 
+flow 
+control 
+(micropumps 
+and 
+microvalves, device building and characterization) 
+ME778 
+ENGINEERING 
+ACOUSTICS AND ITS 
+CONTROL 
+
+Introduction to acoustics, wave propagation and 
+attenuation in solids and fluids. One dimensional 
+acoustic wave equations and Helmholtz equation, Types 
+of boundary conditions and general solutions.; 
+Introduction to Transfer functions and other concepts 
+such as Acoustic pressure, acoustic particle velocity, 
+Sound Pressure Level, Acoustic intensity and Acoustic 
+Power, Decibel (dB) scale, Different types of acoustic 
+impedances, 
+Re-discussing 
+Boundary 
+Conditions, 
+reciprocity, near-field and far-field, Spectrum and 
+frequency bands, and Concepts of A-weighting, C-
+Weighting, and Z-Weighting, Adding and Subtracting 
+SPL, coherent and incoherent sources.; Equivalent 
+models: Admittance and impedance concepts for infinite 
+and 
+finite 
+acoustic 
+waveguides. 
+Electro-acoustic 
+analogies. Modeling of electro-magnetic-mechanical-
+acoustic systems. Transmission line equations ;Passive 
+control: Normal Transmission and Reflection of plane 
+waves - infinite cross-section two- and three-medium 
+cases, and how they compare with Reactive noise 
+control devices such as silencers. Measurement of 
+radiated power, elementary radiators, sound radiation 
+from bending waves. Passive attenuation of structure 
+Borne sound: Damping models, effect of elastic inter 
+layers, blocking masses, changes of material and cross-
+section.;Acoustic Wave Propagation in Waveguides such 
+as rectangular and circular ducts, design of filters, 
+mufflers 
+(silencers), 
+partitions 
+and 
+enclosures;Architectural and environmental acoustics, 
+including human response To sound, Room acoustics - 
+Sabine rooms, flat and long room, low and high 
+frequency behavior, modal density, Room constant and 
+reverberation time RT20, RT30 and RT60, how to 
+measure the reverberation time, Auditoriumand 
+classroom 
+design; 
+Fundamentals 
+of 
+measuring 
+instruments 
+(microphones, 
+speakers, 
+etc). 
+Fundamentals of acoustic measurement techniques and
+
+[Page 36]
+3-0-0-0-9 
+signal processing.;Special topics: Active control of 
+structure-borne sound: Wave absorbing controllers for 
+rods, beams, and plates, metamaterials and their 
+application in acoustics and acoustic black holes. 
+ME799 
+PHD THESIS 
+ 0-0-0-0-9 
+Ph. D. Thesis 
+ME850 
+BASIC CONTROL SYSTEM 
+FOR MECHANICAL 
+ENGINEERS 
+ 
+ 3-0-0-0-9 
+Elementary review of dynamic systems. Equations 
+ofmotion. 
+Numerical 
+solution 
+of 
+ODEs. 
+Linearization.Stability.; Laplace transforms and inverse 
+Laplacetransforms. Block diagrams. Transfer functions. 
+Feedback loops. poles and zeros. Transient responses. 
+Stability. The Routh Hurwitz criterion. Nonminimum 
+phase systems and their transient responses. Steady 
+state responses.; Root locus plots. Nyquist plots. Bode 
+plots. 
+Implications 
+for 
+transient 
+responses. 
+Compensators. Lead and lag compensators. PID 
+controllers. Tuning rules. ; Stabilization using a stable 
+controller: motivation and sample problems.; Discrete 
+time systems. Stability.; State space. Standard form for 
+an LTI system. General solution. Controllability and 
+observability. Pole placement. Connections with classical 
+control.; Introduction to optimal control. The linear 
+quadratic regulator. ;Introduction to time delayed 
+control.; Simulations of nonlinear systems with 
+linearization- based controllers. Case studies from the 
+literature as time permits. In addition, the course will 
+have a design-oriented project which requires a level of 
+maturity appropriate for a postgraduate class. 
+ME851 
+COMPLIANT 
+MECHANISMS 
+ 
+ 3-0-0-0-9 
+Genesis of compliant mechanisms; glimpse of 
+applications of compliant mechanisms; mobility 
+analysis; large deformation analysis: continuum and 
+discrete perspectives: finite element analysis, 
+pseudo rigid body analysis, and lumped analysis 
+using spring lever and spring mass lever models; 
+design of compliant mechanisms based on linkage 
+synthesis methods, selection based methods, and 
+structural optimization based methods; kineto-
+elastic maps and understanding limits of compliant 
+mechanisms; 
+static 
+balancing 
+of 
+compliant 
+mechanisms; 
+applications 
+in 
+microsystems, 
+precision engineering, biomedical, automotive, 
+product design, etc. 
+ME899 
+MS - RESEARCH THESIS 
+ 0-0-0-0-9 
+MS (Research) Thesis 
+TA101 
+ENGINEERING GRAPHICS 
+2-0-1-0-7 
+Introduction to sketching; Principal views, principles 
+of dimensioning; Introduction to computer aided 
+graphics Missing view, sectional view and assembly 
+drawings Overview of pictorial representation, and 
+isometric drawing in detail Perspective drawing 
+Lines, planes, auxiliary view Relationship between 
+lines and planes intersection oflines and planes
+
+[Page 37]
+Intersections of solids and development of lateral 
+surfaces 
+TA212 
+MANUFACTURING 
+PROCESSES II 
+ 0-0-3-0-3 
+TA212: Manufacturing Processes – II course 
+focuses on demonstration and practice of 
+secondary 
+manufacturing 
+processes 
+with 
+an 
+emphasis on machining. Main aspect of the lab 
+course is realizing a project. This involves ideation, 
+conceptualization, detailing in CAD, making 
+engineering 
+drawings, 
+and 
+manufacture 
+and 
+assembly of parts to make a working prototype. 
+ME646 
+Introduction to Space 
+Materials and Manufacturing 
+3-0-0-0 [9] 
+Course Description: 
+A) Objectives: This course aims to challenge the 
+existing manufacturing processes from the 
+perspective of space manufacturing. The course 
+will enable students to learn about the availability of 
+resources and their in-situ utilization for projected 
+human needs in the Martian and Lunar ambience. 
+With the increasing demand for crewed missions 
+and India's ambitious participation in the space 
+economy, the course will offer our students an 
+opportunity to understand, contemplate and receive 
+exposure to the future of manufacturing. 
+ 
+Contents: 
+1. Introduction (4 lectures) 
+Space race, industrialisation, colonies and stations, 
+Exploration activities, Natural resources (Earth vs. 
+Space), Space factories, Economy, Benefits and 
+challenges, Future of space activities. 
+ 
+2. Space Environment (6 lectures) 
+Lunar/Martian topography, Petrology, Solar cycle, 
+Abundance/scarcity of energy, Impacts and 
+volcanism, Asteroids/meteoroids, Extreme 
+conditions, Identification and fulfilment of human 
+needs, Space-food, Extreme condition habitats, 
+Spacesuits, Physiological and psychological health, 
+Utilization of local resources. 
+ 
+3. Challenging factors for space manufacturing (4 
+lectures) 
+Vacuum conditions, Reduced/micro/quasi-
+absent/zero gravity, Gaseous environments, 
+Radiation, Meteoritic impacts, Solar storms, Space 
+objects, Physical/chemical/mineralogical properties 
+of rocks, Simulating space environment on earth. 
+ 
+4. Material processing in space conditions (6 
+lectures) 
+Material processing methods, Solar energy-based 
+material processing, Lunar and Martian 
+environments, Asteroidal ores, steels, composites, 
+and Soil, Major/minor/incompatible/siderophile 
+elements, Vapor-mobilized/solar-wind implanted
+
+[Page 38]
+elements, Location-specific rocks on Lunar and 
+Martian environments, Methods and techniques of 
+characterization, Rock disintegration, Soil refining, 
+Lunarcrete, Solar furnace, Oxygen production, 
+Metallic and rare elements processing. 
+ 
+5. In-space manufacturing using local resources (6 
+lectures) 
+Basic manufacturing operations, Art of space 
+manufacturing, Containerless processes, Ultrahigh 
+vacuum processing, Qualification of manufacturing 
+processes, Simulating space gravity, Plausibility of 
+space manufacturing, Governing physics and 
+anomalies, Metal printing and defects under 
+extreme conditions, robotic operations for 
+manufacturing. 
+ 
+6. Machining and assembly in space (4 lectures) 
+Cutting and assembly processes, Vacuum and 
+oxygen-free cutting, Maintenance of 
+spacecraft/spaceships from outer space, Mining 
+and He-3 production, Deep-drilling on 
+Lunar/Martian surfaces, Cutting and drilling tool 
+materials. 
+ 
+7. Miscellaneous space technologies and 
+processes (5 lectures) 
+Materials, design and manufacturing for launch 
+pads/spaceships/lander/rover systems, Sample 
+collectors, Engineered components, Functional 
+performance requirements and processing 
+methods. 
+ 
+8. Experiments on Space Manufacturing (5 
+lectures) 
+Experiments on space materials at Space 
+Manufacturing Cell @ IITK, Development and 
+characterization of LUNES and MARTES regolith 
+simulants, Space-simulated environments. 
+ 
+Pre-requisites if any: NA 
+ 
+Short summary for including in the Courses of 
+Study Booklet: 
+Introduction, Space environment and its 
+description, Challenging factors in outer space and 
+celestial bodies (Moon and Mars, specifically), 
+Materials and resources available, Processing of 
+space materials, Material processing in space for 
+in-situ resource generation, Manufacturing for 
+space conditions, In-space manufacturing, 
+Challenges for conventional manufacturing on 
+Moon/Mars, Miscellaneous processing, 
+Experiments at Space Manufacturing Cell @ IITK.
+
+[Page 39]
+Recommended books: 
+Reference book: 
+1. The cosmos economy, Jack Gregg, Springer 
+Nature, ISBN 978-3-030-62568-9, Switzerland 
+2. Space mining and manufacturing, D. Sivolella, 
+Springer Nature, ISBN 978-3-030-30881, 
+Switzerland 
+3. Materials Processing in Space: Theory, 
+Experiments, and Technology, L.L. Regel, 
+Springer, ISBN 978-0306110269 
+4. Fundamentals of modern manufacturing, 
+M.P.Groover, Wiley & Sons, ISBN 978-0470-
+467002 
+ 
+Remarks: 
+This course will be open to students in their final 
+year, dual degree, PG, and MSc levels. 
+IDC611 
+Parallel Computation of 
+Sparse Matrix Systems 
+3-0-1-0 [10] 
+Objectives: 
+Sparse Matrix systems in parallel environments are 
+one of the widely used techniques in the scientific 
+community and industry as well. This course aims to 
+introduce 
+students 
+from 
+interdisciplinary 
+Engineering 
+and 
+science 
+streams 
+to 
+the 
+fundamentals of the sparse matrix systems. The 
+students will learn about the basics of a sparse 
+matrix, 
+parallel 
+programming, 
+and 
+solution 
+techniques of the sparse matrix using a parallel 
+environment. A sparse matrix is the outcome of 
+discretized 
+partial 
+differential 
+equations 
+that 
+represent the conservation laws to simulate fluid 
+flow, heat transfer, and other related physical 
+phenomena. Thereafter, the system of algebraic 
+equations is solved to compute the values of the 
+dependent variable for each of the elements to 
+represent the physical processes. The course is 
+targeted for all engineering and science disciplines 
+to the emerging paradigm of quantum computing. 
+ 
+Contents: considering the duration of each lecture is 
+50 minutes (preferably in the form of 5 to 10 broad 
+titles): 
+ 
+S 
+No. 
+Broad Title 
+Topics 
+No. of 
+lecture
+s 
+1 
+Basics 
+of 
+Matrix 
+Computation
+s 
+1) Subspaces, 
+Bases, 
+Orthogonality, 
+Matrices, | 6 
+Computations 
+Projectors, 
+Norms. Floating 
+point arithmetic. 
+ 
+6
+
+[Page 40]
+2) Systems of 
+linear equations. 
+Solution of 
+Systems of 
+Linear 
+Equations: matrix 
+LU factorization. 
+Special matrices: 
+symmetric 
+positive definite, 
+banded. 
+ 
+3) Error analysis, 
+condition 
+numbers, 
+operation counts, 
+estimating 
+accuracy. 
+ 
+4) Orthogonality, 
+the Gram-
+Schmidt process. 
+Classical and 
+modified Gram-
+Schmidt. 
+Householder QR 
+factorization. 
+Least-squares 
+systems. 
+ 
+5) Eigenvalues, 
+singular values. 
+The Singular 
+Value 
+Decomposition. 
+Applications of 
+the SVD. 
+ 
+6) Eigenvalue 
+problems: 
+Background, 
+Schur 
+decomposition, 
+perturbation 
+analysis, power 
+and inverse 
+power methods, 
+subspace 
+iteration; the QR 
+algorithm. 
+ 
+7) The 
+Symmetric 
+Eigenvalue
+
+[Page 41]
+Problem: special 
+Properties and 
+perturbation 
+theory, Law of 
+inertia, Min-Max 
+theorem, 
+symmetric QR 
+algorithm, Jacobi 
+method. 
+Applications. 
+2 
+Sparse 
+Matrices 
+1) Sparse 
+matrices and 
+their origin. 
+Graph 
+representation of 
+sparse matrices, 
+sparse graphs, 
+Discretization of 
+Partial 
+Differential 
+Equations. 
+Electrical 
+networks, 
+Information 
+retrieval. 
+ 
+2) Storage 
+schemes for 
+sparse matrices. 
+Regular and 
+irregular 
+structures. 
+6 
+3 
+Direct 
+Solution 
+methods 
+of 
+Sparse 
+matrices 
+Direct solution 
+methods; 
+Variants of 
+Gaussian 
+Elimination; 
+Permutations 
+and orderings; 
+Band and 
+envelope 
+methods; Cuthill-
+Mc Kee and 
+reverse Cuthill-
+Mc Kee 
+orderings; Graph 
+representation. 
+Elimination tree; 
+The frontal and 
+multifrontal 
+approaches; 
+Minimal degree 
+and nested 
+dissection 
+3
+
+[Page 42]
+orderings. 
+4 
+Iterative 
+Solution 
+Methods 
+of 
+Sparse 
+matrices 
+Iterative 
+methods; 
+Projection 
+methods; 
+Onedimensional 
+case: steepest 
+descent, minimal 
+residual 
+methods; Krylov 
+subspace 
+methods; 
+Conjugate 
+gradient (CG) 
+method; basic 
+convergence 
+theory; 
+Connection to 
+Lanczos 
+tridiagonalization 
+and orthogonal 
+polynomials; The 
+idea of 
+preconditioning. 
+5 
+5 
+Eigenvalue 
+problems 
+Types of 
+problems; 
+Subspace 
+iteration; Krylov 
+methods; 
+Arnoldi's method; 
+The Lanczos 
+algorithm; 
+Nonsymmetric 
+Lanczos. 
+3 
+6 
+Basics 
+of 
+Parallel 
+Programmin
+g 
+1) Introduction; 
+Historical 
+Perspective; 
+Types of 
+parallelism; 
+Parallel 
+algorithms and 
+parallel 
+computing. 
+ 
+2) Parallel 
+computing 
+platforms, 
+Taxonomy, 
+Pipelined-Vector-
+, superscalar. 
+Examples of 
+parallel 
+platforms. 
+ 
+6
+
+[Page 43]
+3) Memory and 
+cache 
+performance 
+issues, 
+Hierarchical 
+memories, 
+Latency, 
+bandwidth, 
+Caches. 
+ 
+4) Parallel 
+algorithms, 
+design. Parallel 
+performance 
+metrics 
+(Efficiency, load 
+balancing, 
+scalability, ...) 
+7 
+Parallel 
+Programmin
+g 
+Using 
+OpenMP, 
+MPI, 
+and 
+Open ACC 
+1) Programming 
+shared memory 
+machines -Open 
+MP. 
+ 
+2) Programming 
+GPUs, CUDA, 
+open ACC. 
+ 
+3) Basic 
+communication 
+operations. 
+Programming 
+with MPI. 
+ 
+4) Programming 
+distributed 
+systems - MPI 
+6 
+8 
+Parallel 
+toolkit 
+1) Parallel 
+Scientific 
+Libraries: BLAS, 
+LAPACK, 
+SCALAPACK, 
+ARPACK, LIS 
+libraries (only 
+two or three of 
+them will be 
+covered) 
+ 
+2) PETSC 
+5 
+ 
+Recommended pre-requisites, if any (examples: a- 
+PS0201A,or 
+b- 
+P.50201A 
+orequivalent): 
+Undergraduate/Graduate 
+Mathematics, 
+Linear 
+Algebra, and Programming
+
+[Page 44]
+Short summary for including in the Courses of 
+StudyBooklet: 
+This course introduces parallel computing to sparse 
+matrix systems and their applications. It covers 
+parallel architectures, parallel algorithms, and their 
+analysis in the context of sparse linear systems and 
+eigenvalue problems. The course will start with a 
+general discussion of sparse matrices, their origins, 
+and how they are stored and exploited. Then it will 
+briefly cover direct solution methods and iterative 
+methods for solving sparse linear systems of 
+equations and sparse eigenvalue problems. Further, 
+it will discuss other topics related to sparsity, e.g., 
+graph-based algorithms in machine learning, and 
+basic nonlinear techniques. Finally, it will also 
+introduce programming on parallel platforms. Along 
+with the programming medium; OpenMP, MPI, and 
+CUDA for the NVIDIA Graphics Processing Units 
+(CPUs), will also be covered, in conjunction with a 
+quick overview of openACC. The course blends 
+theory with practical issues such as parallel 
+architectures and parallel programming. 
+ 
+Recommended text/reference books: 
+1) Introduction to Parallel Computing, 2nd edition, 
+by V. Kumar, A. Grama, A. Gupta, and G. Karypis 
+(2003). 
+2) Introduction to Parallel Programming by Peter S. 
+Patcheco, Elsevier (2011). 
+3) Programming Massively Parallel Processors, 
+Third Edition: A Hands-on Approach by David B. 
+Kirk and Wen-mei W. Hwu. (2017). 
+4) Using MPI, Portable Parallel Programming with 
+the Message-Passing Interface by William Gropp, 
+Ewing Lusk, and Anthony Skjellum, Second Edition, 
+MIT Press, 1999. 
+5) Matrix Computations, 4th edition by G. Golub and 
+C. Van Loan. John Hopkins, 2015. 
+6) Numerical linear algebra by Lloyd N. Trefethen 
+and David Bau, Ill. SIAM, 1997. 
+7) Iterative methods for sparse linear systems (2nd 
+edition) by Yousef Saad 
+8) Direct methods for sparse linear systems by T. 
+A. Davis, SIAM publishing, 2006. 
+ME651 
+Advanced Engineering 
+Thermodynamics 
+3-0-0-0[9] 
+Objective:The course is targeted to the PG students 
+with background in mechanical engineering who are 
+familiar with the basic UG thermodynamics course. 
+In many cases, these students need familiarity with 
+advanced topics in thermodynamics to apply in their 
+inter-disciplinary research problems. The topics 
+which are covered in material science, chemical 
+engineering, physics or chemistry courses on 
+thermodynamics often remain out of access for the 
+students with mechanical engineering background.
+
+[Page 45]
+The proposed course attempts to bridge this specific 
+gap 
+ME635 
+Intelligent Manufacturing 
+3-0-0-0-(9) 
+Objectives: 1. Design measurement and data 
+acquisition strategies for manufacturing processes 
+and systems. 
+ 2. Apply statistical and machine learning methods 
+to model and monitor manufacturing processes. 
+ 3. Assess the deployment considerations of 
+intelligent models in manufacturing systems. 
+ME852M 
+Professional Practice in 
+Optimization 
+3-0-0-0-(5) 
+This Modular Course strives to take the students 
+trained in the Basic Concepts and Methods of 
+Optimization, who are keen to explore further depth 
+and breadth of the field or need more advanced 
+algorithms to handle their research problems, up to 
+the professional and advanced levels of nonlinear 
+optimization having a competitive edge in generality 
+and efficiency. Further, it also opens further vistas of 
+open 
+problems 
+in 
+algorithmic 
+research 
+in 
+optimization. 
+ME652M 
+Basic Nonlinear Optimization 
+3-0-0-0-(5) 
+This Modular Course intends to acquaint the 
+students with the Basic Concepts and Methods of 
+Optimization, in a general (nonlinear) setting --- 
+handling convex problems mostly in a sense of 
+corollary --- for `Engg Analysis, Design and 
+Research’ in applications as well as in optimization 
+algorithms themselves. Further, it covers the basic 
+algorithms and problems in a variety of areas: 
+including 
+univariate/multivariate, 
+unconstrained/constrained, 
+linear/nonlinear 
+and 
+classical/special formulations; with a focused 
+reference to the linear/nonlinear least square 
+problems which are of universal interest among 
+learners and researchers. 
+ME362 
+Manufacturing Science and 
+Technology 
+3-0-0-0 [9] 
+The main objective of this course is to acquaint 
+students with various manufacturing processes 
+such as casting, joining, bulk deformation, additive 
+manufacturing, 
+machining 
+and 
+metrology. 
+In 
+addition to their classification, this course includes 
+design aspects, physics-based analysis and defects 
+associated 
+with 
+these 
+processes 
+besides 
+measurement techniques used in manufacturing. 
+ME633 
+Acoustics 
+3-0-0-0-(9) 
+Introduce concepts and methods to understand 
+acoustic waves in fluids and solving associated 
+academic and industrial problems. 
+ME678 
+Introduction to Tribology 
+3-0-0-0-9 
+(a) Objective: To introduce the students to 
+fundamentals 
+and 
+different 
+components 
+of 
+tribology− friction, wear and lubrication. 
+ 
+(b) Contents (assuming 50 minutes lectures, total 40 
+lectures): 
+ 
+(i) 
+Introduction [1 Lecture]
+
+[Page 46]
+Definition, history and economic cost 
+ 
+(ii) Friction and Adhesion [12 Lectures] 
+ 
+• Surfaces: Roughness, real and apparent contact 
+• Adhesion: Surface-forces, bonds and free surface 
+energy theory of adhesion 
+• Contact of spheres: The Hertz theory, the JKR 
+theory and the DMT theory 
+• Relative motion of surfaces: Sliding, rolling and 
+spin 
+• Origin and laws of friction 
+• Friction in sliding/rolling contact 
+ 
+(iii) Lubricants and Lubrication [10 Lectures] 
+ 
+• Properties of lubricants: Viscosity and thermal 
+properties 
+• Fluid film lubrication: Viscous flow and Reynolds 
+equation, Stribeck curve, boundary, mixed and 
+hydrodynamic regime 
+• 
+Hydrostatic, 
+hydrodynamic 
+and 
+elastohydrodynamic lubrication 
+• Boundary lubrication and lubricants 
+• Solid lubrication and lubricants 1 
+ 
+(iv) Wear [8 Lectures] 
+ 
+• Wear and its causes 
+• Adhesive, abrasive, erosive, fatigue, corrosive and 
+fretting wear 
+• Mathematical modelling of wear 
+ 
+(v) Special topics: Instructor’s discretion to focus 
+on some of the following topics. [9 Lectures] 
+ 
+• Friction and wear measurements: Laboratory 
+experiments/demonstrations. 
+• Design of bearings and gears 
+• Tribology in Automobiles, Aircrafts and Electric 
+Vehicales 
+• Biotribology: Natural and artificial hip joints 
+• The JKR-DMT transition 
+• Computational Tribology 
+ 
+(c) Prerequisites: None

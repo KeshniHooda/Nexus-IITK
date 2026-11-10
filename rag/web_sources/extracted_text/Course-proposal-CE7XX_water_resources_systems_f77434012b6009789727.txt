@@ -1,0 +1,87 @@
+[Page 1]
+Indian Institute of Technology, Kanpur 
+Proposal for a New Course 
+1. Course number: CE 7XX 
+2. Course title: Water resources systems analysis 
+3. Per week: Lectures – 3(L), Tutorial – 0(T), Laboratory – 0(P), Additional hours: 0(A) 
+Credits: 3-0-0-0 (9) 
+Duration of course: Full semester 
+4. Proposing department/IDP: Civil Engineering 
+Other Departments/IDPs which may be interested in the proposed course: Earth Sciences, 
+School of Sustainability 
+Other faculty members interested in teaching the proposed course: Shivam Tripathi 
+5. Proposing instructor: Tushar Apurv 
+6. Course description: PG course/department elective 
+A. Objectives 
+The course introduces optimization and simulation techniques that are used in planning and 
+management of water resources systems. The course will include application of these 
+techniques to problems such as reservoir design and operations, river basin management, water 
+allocation to multiple sectors, decision making under uncertainty and multi-criteria decision 
+making. 
+B. Contents 
+S. No. 
+Broad title 
+Topics 
+No. of 
+lectures 
+1. Introduction 
+Overview of water resources systems analysis 
+and its applications 
+1 
+2. Optimization 
+Optimization techniques in problems of 
+Hydrology and Water Resources 
+15 
+3. Simulation 
+Stochastic streamflow generation models, 
+simulation-based optimization using genetic 
+and evolutionary algorithms 
+9 
+4. Reservoir design and 
+operation 
+Reservoir capacity design, rule curves, 
+optimization of reservoir release, hedging rules 
+5 
+5. River basin 
+management models 
+Setting up a river basin model: representation 
+of river networks, surface and groundwater 
+storages, water users, specification of 
+objective functions and constraints 
+5 
+6. Decision making 
+under uncertainty 
+Scenario generation for climate change impact 
+assessment, performance metrics for water 
+resources systems, multi-criteria decision 
+analysis 
+5 
+Total 
+40
+
+[Page 2]
+C. Pre-requisites: (CE361 and CE262) or (CE610 and CE611) 
+D. Short summary for including in the Courses of Study Booklet: Linear programming, non-
+linear optimization, constrained optimization, stochastic optimization, dynamic optimization, 
+multi-objective optimization, genetic and evolutionary algorithms, stochastic streamflow 
+generation, reservoir design and operation, river basin management models, decision making 
+under uncertainty, scenario generation for climate change impact assessment. 
+ 
+7. Recommended books: 
+Reference books: 
+Loucks, D. P., & Van Beek, E. (2017). Water resource systems planning and management: An 
+introduction to methods, models, and applications. Springer. 
+Deb, K. (2012). Optimization for engineering design: Algorithms and examples. PHI Learning Pvt. 
+Ltd. 
+ 
+8. Any other remarks: none 
+
+Proposer: Tushar Apurv 
+Dated: 05-04-2024 
+ 
+DPGC convener: 
+Dated: 
+ 
+The course is approved/not approved. 
+Chairperson, SPGC 
+Dated:

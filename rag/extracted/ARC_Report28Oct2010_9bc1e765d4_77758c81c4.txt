@@ -1,0 +1,3964 @@
+[PAGE 1]
+The UG Programme
+
+at IIT Kanpur
+
+Recommendations of the
+
+Fifth Academic Programme
+
+Review Committee
+
+October 2010
+
+1
+
+[PAGE 2]
+Contents:
+
+Executive Summary
+
+1.  Introduction
+
+2.  Proposed Curriculum
+
+2.1.    Credit System
+
+2.2.   Grading Scales
+
+2.3.   Base Degree Options
+
+2.4.   Relevant APEC Rules
+
+2.5.    Structure of the Academic Programme
+
+2.5.1.  Overview
+
+2.5.2.  Undergraduate Research
+
+2.5.3. Minor
+
+2.5.4. Double Major
+
+2.5.5.  Dual Degrees
+
+2.5.6.  Engineering Science: A Breadth Programme
+
+2.5.7.  Examinations
+
+2.5.8. Modular Courses
+
+Appendices
+
+Appendix I:   Credit Based System
+
+Appendix II:  APEC (Academic Performance Evaluation Committee) rules
+
+Appendix III:  Student Survey‐I
+
+Appendix IV:  Student Survey‐II
+
+Appendix V:  Communication Skills Sub‐committee Report
+
+2
+
+[PAGE 3]
+Appendix VI:  Core Mathematics Sub‐committee Report
+
+Appendix VII: Core Physics Sub‐committee Report
+
+Appendix VIII: ESC 102 Sub‐committee Report
+
+Appendix IX:  Outline of Core Chemistry Courses
+
+Appendix X:   Outline of Core Life Science Course
+
+Appendix XI:  Sub‐committee Report on Engineering Science
+
+Appendix XII: Sub‐committee Report on Administrative Issues
+
+Appendix XIII: Example Dual‐degree Course Structures
+
+Appendix XIV: Sub‐committee Report on TA201
+
+Appendix XV: Open House Feedback
+
+Appendix XVI: Department Feedback on Interim Report
+
+Appendix XVII: Course Allocation in the Past Academic Programmes
+
+Appendix XVIII: List of Sub‐committees
+
+Appendix XIX: List of committee members
+
+3
+
+[PAGE 4]
+Executive Summary
+
+•   Credit system: The Academic Programme Review Committee proposes a completely credit‐based
+system with 395‐430 credits required for graduation with a Bachelors’ degree. In this system, the course
+credits will be computed based on the student‐time required per week for the course using the following
+formula.
+C = L + T + P + SS, where C is the number of credits, L is the number of lecture hours, T is the number of
+tutorial hours, P is the number of laboratory hours, and SS is the number of self‐study hours given by the
+following formula with A representing the additional number of hours needed for assignments and
+projects, as decided at the time of approval of the course.
+SS = 2L + T + A
+There is no discussion hour in any course. The overall credit formula then becomes C=3L+2T+P+A. An
+average student, registered for normal load, is expected to spend 50‐55 hours per week on his/her
+academic programme. A student may register for 40‐65 credits in each semester. The credit system is
+discussed in detail in Section 2.1.
+
+•   Grading scales: Add a new grade A* with same equivalent points as A grade to recognize excellence
+on transcripts. Introduce E grade in UG curriculum worth two points and bring F down to zero. The grading
+scales are discussed in detail in Section 2.2.
+
+•  Degree options/Graduation Requirements: All UG students  will enter into a four‐year BTech/BS
+programme through JEE. The graduation requirement is that the student collects all the credits that are
+prescribed for that programme. Students who do well in the programme will be awarded a distinction.
+The minimum residence time for the BTech/BS programme is 7 semesters. BTech/BS with Distinction will
+be awarded to students with a minimum CPI of 8.0 and either an average CPI of 9.0 in department core or
+an average CPI of 8.0 in all UG project courses. This is further discussed in Section 2.3.
+
+•  APEC rules: The normal academic load, for the purpose of evaluating performance, is 50 credits per
+semester. A student goes on warning if s/he accumulates less than 75% of the cumulative credits, with
+normal academic load, up to that point. The programme of the student is terminated if s/he is on warning
+and fails to accumulate at least 50% of the cumulative normal load up to that point. The semesters that
+the student may be on leave are excluded from the computation. These are further discussed in Section
+2.4.
+
+•  BTech/UG project: BTech projects in the present form are recommended to become optional. A
+department can still make BTech projects mandatory by appropriately allocating the department credits.
+Four UG project courses are introduced in the curriculum, two of which can earn extra credits. The other
+two can be taken in place of open electives or departmental electives. Departments that wish to continue
+with a mandatory project may do so by specifying either UGP2 or UGP2‐and‐UGP3 mandatory. Of course,
+the credit requirements for graduation of such students from these departments will increase.  Further
+discussions on BTech projects and UG projects can be found in Section 2.5.2.
+
+•  BTech in Engineering Science:    UG students can opt for a BTech in engineering science, an inter‐
+disciplinary degree not limited to one single department. This is further discussed in Section 2.5.6 and
+Appendix XI.
+
+4
+
+[PAGE 5]
+•   Minor: UG students can claim a minor either from a department different from her/his parent
+department or from across multiple departments and IDPs. A minor  is a sequence of 3‐4 courses
+accounting for 24‐36 credits. Further logistics of minors are presented in Section 2.5.3.
+
+•  Double major: UG students can decide to opt for a second major at the end of the fifth semester of
+the programme. A minimum CPI of 8.0 is required to exercise this option. Graduation with two majors will
+extend the programme by one year. Double majors are further discussed in Section 2.5.4.
+
+•  Dual degree:        All students will enter into a four‐year BTech/BS programme through JEE. A
+BTech/BS student can opt for MTech/MS/MBA. This will extend the programme by one year. Note that MS
+is the follow‐up Masters’ degree of BS. The dual degree option is further explored in Section 2.5.5 and
+Appendix XIII.
+
+•   Examinations: One mid‐semester and one end‐semester examination. Instructors must conduct two
+quizzes for all core courses, one on each side of the mid‐semester examination. This is explained in greater
+detail in Section 2.5.7.
+
+•  Modular courses:  A modular course can be offered for half a semester with only one examination at
+the end aligned with the mid‐semester examination schedule. Modular courses open up the option of
+offering an elective course only during one half of a semester. This will bring enormous flexibility in the
+system. This is further discussed in Section 2.5.8.
+
+•   Electives:  Increased flexibility for students through an increase in the elective component of the
+curriculum, with 12‐12.4% as core electives (ESO / SO), 13‐15.7% as open electives, and 4.3‐6.7% as
+departmental electives. The committee recommends that the category of Science Electives (SE) be
+discontinued.  Instead, students will take a minimum of 10 credits (one full‐semester course), or a
+maximum of 35 credits (approx. three full‐semester courses) as their Science Option (SO) as part of their
+elective core programme.
+
+•  Core programme:  The committee proposes that in the compulsory core programme, students will
+be required to do only two Maths courses and one Chemistry course. TA201 has been split into two
+courses – TA102 (ME) and TA 201 (MME). A six‐credit course on life sciences is included in the core
+curriculum. All courses with two‐hour tutorials now have only one‐hour tutorials. Due to reduction in
+contact hours in various core courses (such as Discussion Hour), the core load  is reduced. Further
+discussions on the academic programme structure can be found in Section 2.5.1 and Appendices VI, VII,
+VIII, IX, X.
+
+•  HSS courses: HSS courses (except those offered at Level I) will not have tutorials. One HSS slot has
+been added, taking the total of HSS slots to five (11.3‐11.7% of the curriculum). Students will have to take
+a minimum of 20 HSS Level I credits (two full‐semester courses), and a minimum of 27 HSS Level II credits
+(three full‐semester courses).
+
+•   Introduction to profession: D0 (Introduction to Profession) has been deleted from the curriculum.
+Departments may choose to use one of their departmental core courses for this purpose.
+
+•  Communication skill: The departments are encouraged to include communication skill components in
+their curricula. The recommendations are further discussed in Appendix V.
+
+5
+
+[PAGE 6]
+•   Class attendance: The fifth academic programme review committee recommends that 80% class
+attendance be made mandatory for passing a course. The administrative issues are further discussed in
+Appendix XII.
+
+•   Transfer of credits from outside IIT Kanpur:   Up to 25% of the credits required for graduation can
+be collected from outside IIT Kanpur. This avenue can also be exercised to collect UG research credits from
+outside IIT Kanpur. Necessary approval(s) from various bodies are required for such a transfer.
+
+6
+
+[PAGE 7]
+1. Introduction
+
+It is nearly 50 years since the Indian Institute of Technology Kanpur (IITK) was established.  During this
+period, the country has made rapid strides both in terms of industrial growth and its global outlook. The
+economic reforms of the early 1990s have transformed India into an economic power, firmly perched
+among the upper echelons of the global elite. As a result, the aspirations of the society as well as the
+demands on industry have witnessed a drastic change.  In this scenario, the ARC assumes particular
+significance as it has to address the (i) need to be globally competitive, (ii) rapidly evolving technological
+needs, and (iii) rising expectations of students and their parents. Designing a relevant curriculum requires
+an understanding of the evolving needs of all stakeholders, namely students, teachers, industry, and
+R&D/academic establishments. We also need to review the shortcomings and the advantages of the
+current academic curriculum before embarking on designing a new academic programme. The following
+discussion focuses on each of these topics.
+
+Students
+
+It  is a commonly acknowledged  fact that the  IITs  attract the cream of the country’s students.
+Unfortunately, in a majority of cases, their professional objectives are guided more by societal pressures
+rather than a clear understanding of their abilities. Thus aiming for being an MBA or a software engineer
+becomes the ultimate goal, irrespective of whether the student has a better chance of excelling in
+academics or R&D. Consequently, the highly “technical” IIT education becomes secondary, which, in turn,
+leads to motivational deficit and a lack of intellectual curiosity. With such a mindset, the IIT experience is
+akin to a black box; the students use IIT to increase their employability without imbibing the essence and
+wholesomeness of IIT education. In addition, one glaring deficiency has been observed year‐ after‐year in
+the IITK students: poor communication skills.
+
+Teachers
+
+IITK has a reputation of having a highly dedicated and knowledgeable faculty.  It has been a pioneer in
+science and technology education in India and continues to be so. However, the following issues about
+our undergraduate education merit consideration:
+–   Unrealistic expectations
+  Need a proper understanding of maturity level of incoming UGs
+–   Teaching style
+  Packed content
+   Frenetic pace of instruction
+  Need to evolve a teaching style to capture students’ attention
+–  Overemphasis on analysis
+   Very little synthesis
+   Connection to real engineering problems minimal
+  Scope for tapping students’ creative potential is limited
+
+7
+
+[PAGE 8]
+Industry
+
+In this era of globalization, the pre‐eminence and high growth rates of the Indian industry would depend
+on its ability to come up with significant value addition and cutting edge technologies, for which the
+academic curriculum must engender:
+–   Analysis and synthesis
+–   Innovation
+–   Interplay between science and engineering
+–   Interdisciplinary flavour
+–  Management skills
+–  Communication skills
+–   Cultural and social awareness
+
+R&D Institutions
+
+In‐house development of cutting edge technologies requires people with:
+–   Vision
+–  The ability to adapt technology to changing environment
+–   Clean/green technology
+–  Resource conservation/recycling
+–   Harnessing non‐conventional energy resources
+
+The ability to address the law of diminishing returns in technology development require:
+–  Continuous up‐gradation of skill sets
+–  Sound fundamentals
+
+Given the above scenario, the academic programme of IITK should be geared to provide the necessary
+human resource.
+
+What is an Ideal Academic Programme?
+
+A university has a choice of having academic programmes in many diverse areas such as science,
+engineering, social sciences, law, management, and medicine. On the other hand, a university can be
+highly focused, carving a niche for itself in a few selected areas by leveraging the available resources.
+Given the many new institutes of higher learning whom we are going to share human resources with, the
+academic programme of IITK should focus on producing highly‐skilled technologists and  scientists.
+However,  it should  also provide avenues  for  students who want  to hone  their managerial  or
+entrepreneurial skills.
+
+Given  their brand  equity,  the  expectations from  IITs  are not  limited  to producing  world‐class
+undergraduates.  IITs are also expected to provide technological solutions to local problems. Moreover,
+despite the considerable economic progress made by India in the past decade, the economic benefits have
+not percolated adequately to the lower strata of society. To increase the participation of students in the
+nation‐building process through technology development, the academic programme should  (i) make
+students sensitive to local needs, (ii) inculcate the spirit of team work, (iii) cultivate leadership qualities,
+and (iv) instil a sense of ownership and national pride among the students. The students should also have
+
+8
+
+[PAGE 9]
+an awareness and appreciation of art, literature, and culture. In summary, the ideal product of an IIT
+should be humane global Indians who are leaders in their fields.
+
+The skills required to produce the ideal product or a model student, described above, may be classified as:
+–   Basic skills
+  Mathematical and computational skills
+   Analytical skills
+   Experimental skills
+  Hardware friendly
+   Scientific temper
+  Communication skills
+   Cultural and social awareness
+
+–  Advanced skills
+   Department‐oriented skills
+   Interdisciplinary orientation
+   Synthesis
+
+–   Auxiliary skills
+  Management
+   Entrepreneurship
+
+Current Curriculum
+
+Considering the necessary focus of the academic programme and the required skill‐sets, the strengths and
+weaknesses of the current curriculum are presented below.
+
+–   Strengths
+   Science‐based education
+  Emphasis on fundamentals
+   Rigorous analysis
+   Humanities and social sciences as compulsory requirement.
+
+–  Weaknesses
+   Less emphasis on working with hands and tinkering
+  Too much content
+   Imbalance between breadth and depth
+   Content above the maturity level of a reasonably good student.
+   Lack of flexibility for students to select courses depending on their maturity, aptitude and
+interest.
+  Minimal connection between course content and real‐life applications.
+  Not enough opportunities to explore for very good students.
+   Little scope for multi‐disciplinary specialization.
+  No emphasis on good written or oral communications skills in evaluation criteria.
+
+9
+
+[PAGE 10]
+2. Proposed Curriculum
+
+In the following, we discuss, in detail, the recommendations of the fifth academic programme review
+committee for the UG curriculum.
+
+2.1 Credit System
+
+The fifth academic programme review committee proposes a fully credit‐based UG curriculum. Every
+academic activity will be evaluated in terms of credits. To understand the necessity of a new credit
+system, we first review the existing credit system. The credit system is described in more detail in
+Appendix I.
+
+Present Credit System
+
+–   Students are expected to study an average of 50 – 55 hours/week, including exam/quiz preparation.
+–  Academic Load (AL) = 3L + T + 1.5P + 0DH
+  Here L, T, P, and DH refer to the number of contact hours of lectures, tutorials, laboratories
+and discussion hours, respectively.  Thus academic load reflects the total contact and self‐
+study hours per week that a student is expected to spend on a course.
+–  5 ≤ AL ≤ 15
+–   Typical AL = 10 – 11
+–  The AL is then converted to a weight according to the following non‐linear mapping.
+
+Academic Load (AL)      Weight
+
+5 – 6                  2
+
+7 – 8                  3
+
+9 – 12                 4
+
+13 – 15                5
+
+Proposed Credit System
+
+–  Academic load is directly converted to credits, as opposed to going through a non‐linear mapping.
+–   Credits (C) explicitly reflect contact and self‐study (SS) hours.
+–   Discussion hour is dropped or can be replaced with office hours manned by student tutors.
+–  The new formula for computing credit is given by C = L + T + P + SS.
+   SS = 2L + T + A, where A indicates additional work.
+–  The value of A will usually be ZERO. However, in some courses with no tutorial, there may be heavy
+assignment submissions or/and a big project. Similarly, in some lab courses there may be a need for
+too much preparation before experiment(s) can be conducted or a course may have individual
+
+10
+
+[PAGE 11]
+projects (not in groups), etc. In such situations, to reflect the actual academic load of the course, A
+may be adequately chosen.
+–  As an example, consider a course with three lecture hours, one tutorial hour, and two hours of
+laboratory per week. With A=0, this course will be worth 13 credits (C=3*3+2*1+2).
+–  Any laboratory related material is recommended to be covered in regular lectures.
+–  The number of quizzes in a course and the rigour of term papers must be consistent with the self‐
+study hours in a course.
+
+2.2 Grading Scales
+
+The fifth academic programme review committee recommends the following two changes in the grading
+system:
+–   Introduction of an A* grade carrying the same level of points as an A grade. However, the A* grade is
+intended to recognize and encourage outstanding performance in a class. This grade should be used
+sparingly.
+–  To bring parity between the UG and the PG grading systems, the introduction of an E grade in the UG
+system is recommended. This grade is worth two points and an F grade will be equivalent to zero
+points. An E grade, however, is not a passing grade, but a student can use this grade to satisfy pre‐
+requisites.
+–  The description of the various letter grades is:
+
+Grade      Weight     Description
+
+A*         10         Outstanding
+
+A          10           Excellent
+
+B          8         Good
+
+C          6             Fair
+
+D         4           Pass
+
+E          2          Exposure/Repeat
+
+F          0              Fail
+
+2.3 Graduation Requirements and BT BS with Distinction
+
+The fifth academic programme review committee recommends that all students enter the academic
+system through JEE by opting for either a four‐year Bachelor of Technology (B. Tech.) degree or a Bachelor
+of Science (B. S.) degree. The graduation requirement is the collection of 395‐430 credits worth of courses
+as specified by the respective Department/Programme. The student must pass all the courses to graduate
+(minimum of D grade in each course). To recognize those students who perform well in the programme,
+they will be awarded a BT/BS with distinction.
+
+B. Tech. / B. S. with distinction: This recognition is introduced to recognize and encourage the best
+students of the graduating batch. There are two possible ways to earn a distinction.
+
+11
+
+[PAGE 12]
+–  A CPI of at least 8.0 and an average CPI of at least 9.0 in department core.
+–  A CPI of at least 8.0 and an average CPI of 8.0 in four UG research courses (these courses are discussed
+in Section 2.5). Note that students in this category take more credits than others.
+
+The committee recommends various other specialization options, further detailed in Section 2.5.
+
+2.4 Relevant APEC Rules
+
+The fifth academic programme review committee recommends the following rules to facilitate and
+evaluate academic performance of students:
+
+–   Academically deficient students be allowed to continue with the academic load that they are
+comfortable with. The normal academic load is defined to be 50 credits per semester. A student may
+register for 40‐65 credits every semester, roughly a 20% under/over‐load. An average student may
+finish the program in 8 semesters while a good student may finish the programme in 7 semesters. The
+minimum residence time is 7 semesters. The maximum duration of the academic programme may be
+1.5 times the duration under normal circumstances (=12 semesters).
+
+–  The student may drop a course up to one week prior to the last day of classes. Of course, this is
+permitted only if the student does not go below the minimum academic load.
+
+The various categories under which a student may be placed based on their academic performance are:
+
+Warning: A student will be placed on Warning if the number of credits cleared by the student is less than
+75% of the cumulative normal load up to that point. This excludes the semesters that the student may
+have dropped. There was a discussion on whether there should be a restriction on the number of credits
+that a student on Warning can register for. It was pointed out that this will be inconsistent with our
+criterion of 75% of the cumulative load. The student on warning will do the following:
+–  He/She shall register for all CORE/compulsory courses (if available) in which the letter grade E/F is
+obtained.
+
+–  He/She shall not hold any office in the Hall of Residence, Students Gymkhana or any other
+organization/body while on Warning.
+
+–  Submit the required undertaking signed by the parents
+
+–  Any other term(s)/condition(s) laid down by SUGC/Senate
+
+Termination: A student will be placed on Termination if the student is on Warning and if he/she fails to
+acquire at least 50% of the cumulative normal load up to that point. This excludes the semesters that the
+student may have dropped.
+More details are given in Appendix II.
+
+APEC for second of the Double‐Major: To be a student in good standing in the second major, the student
+must complete the requirement of the first major. The computation of CPI and the format of the degree
+should be similar to the one for the Dual‐Degree Programme.
+
+12
+
+[PAGE 13]
+2.5 Structure of the Academic Programme
+
+Having discussed the credit system, grading scales, the base degree options, and the APEC rules, now we
+proceed to explore the structure of the proposed academic programme.
+
+2.5.1  Overview
+
+We start the discussion by presenting the credit allocation to various components of the UG curriculum in
+Table 1.
+
+Table 1 Guideline for Percentage credit allocation in academic programme
+
+Item      Broad Area                                       Proposed Percentage
+of total credits
+1         HSS (excluding Management, Comm Skills etc. )       10%
+
+2          Science (including electives)                     20%
+
+3          Engineering Science (E Sc, ESO)                   10%
+
+4           Technical Arts                             5%
+
+5        Management + PE + Comm Skills + Foreign Language   5%
+
+6         Department Core (Mandatory)                   25%
+
+7         Department Elective                          10%
+
+8        Open Elective (Room for Minor)                  15%
+
+The proposed break‐up  is consistent with the need to provide a broad‐based education at the
+undergraduate level to produce a global Indian. The relatively higher proportion of core/open elective
+credits has also been allocated to facilitate a smooth transition to a second degree discussed in the
+subsequent parts of this section. Since the past academic programmes were not credit‐based, we only
+present a percentage break‐down of course allocations proposed by the past four academic programme
+review committees in Appendix XVII. These are presented only for completeness, and not for comparison.
+
+The Core Programme
+
+The desired features of the core courses are given below:
+–  Courses should not be department‐centric
+–  Broad‐based courses that are pitched at a level understood by students of less competitive branches
+–  Core programme, especially the sciences, should be more flexible
+–  Departments decide slots of some courses, as in ESOs
+–   Students have freedom to choose slots for elective courses
+–   Participation from more than one department in teaching/tutorship of core courses is recommended;
+Engineering departments must participate in science courses and vice‐versa.
+
+13
+
+[PAGE 14]
+–  PE (Physical Education) should continue to be an integral part of the curriculum. The course should be
+offered in the first two semesters. The course can have (potentially) two two‐hour slots in a week. A
+faculty member could be made instructor‐in‐charge with coaches assisting in carrying out the classes.
+This will bring in seriousness in the conduct and attendance of this course. The course will be
+Pass/Fail, with credits assigned to it.
+
+Science Component
+
+The proposed features of the science curriculum are given below:
+–   Science courses have compulsory and elective components
+–  Compulsory courses cater to all departments
+–   Electives contain department‐specific, advanced courses (SO). For example, SO can be an additional
+course on Mathematics, Physics, Chemistry, Life‐science, Dynamics
+–  Compulsory curriculum
+   Basic courses
+  2 Maths, 2 Physics, 1 Chemistry, Physics and Chemistry laboratories
+–  Exposure to emerging sciences
+   Introduction to Biology
+–  Experiments should be made exciting, possibly by having projects which require thinking and
+innovation
+–   Visual aids and animations must be used to explain difficult concepts wherever possible
+Further details on the course outlines can be found in Appendices VI, VII, VIII, IX and X.
+
+Engineering Science Component
+
+The recommendations for ESC are:
+–   Retain the courses on Electronics and Programming with modifications
+–  Programming course
+   Scientific computing portion of the course should be increased substantially
+    It should not be treated as a first course for CSE students
+   Devise means to deal with students with below threshold exposure to computers
+–   Electronics
+   Course content should be reduced
+   Course should be simplified and pitched to an average student and should not be treated as a
+first course for electrical engineers
+   Laboratory should be made exciting by introducing projects, for example fabricating an
+amplifier
+Please refer to Appendix VIII for more details on these recommendations.
+
+Engineering Science Option
+
+The format of ESOs in the current curriculum should be continued except for the fact that it should be
+taught at a level that is comfortable to the participating departments.
+
+Technical Arts
+
+14
+
+[PAGE 15]
+The two TA courses on Engineering Drawing and Manufacturing are to be retained with these proposed
+modifications:
+–   Engineering Drawing
+   Sketching should be retained
+  Drawing board and drafters should be replaced with AUTOCAD or similar software
+   Incorporation of a laboratory project
+–  Manufacturing
+  The existing course was the addition of the old TA203 and TA204 courses. Both these courses
+had two lectures and one practical per week.
+  The present course format is heavy ‐‐ (two lectures + two practical classes)/week + two
+projects – and should be discontinued
+    It is imperative that this course should not be viewed as a pre‐requisite for manufacturing‐
+related courses in ME and MME
+–  There are two options for running this course:
+  Theory (two lectures/week) taught in the first year with visual teaching aids. Both ME and
+MME laboratories combined together in the second year as a single laboratory course with a
+composite project. The course on manufacturing theory in the first year can be a good
+substitute for the electronics course.
+  Two independent courses with separate ME and MME contents, each course having (one
+lecture + one practical)/week.
+  Advanced manufacturing processes should be introduced either as experiments or
+demonstrations.
+
+The technical art course structure is further discussed in Appendix XIV.
+
+Humanities and Social Sciences
+
+Apart from the courses in economics, psychology, philosophy, English, sociology, and art, the HSS
+component should include the following:
+   Courses on Indian, world history
+   Political science
+
+Professional Skills
+
+Apart from courses in Humanities and Social Sciences, the core programme should also include courses in
+the following areas:
+  Communication skills (recommendations are discussed further in subsequent parts of this
+section)
+   General management that introduces students to the basics of finance, marketing, and human
+resource management
+   Foreign languages
+
+Proposed Template for a Four‐year Programme: An Example
+
+An example template for structuring the four‐year programme is shown in Table 2.
+
+15
+
+[PAGE 16]
+Table 2. Example template for a four‐year programme
+
+Sem      Course                                Sem   Course
+
+I        MTH101 (Calculus)               3‐1‐0    11        II     MTH102 (Lin Al, ODE,...)       3‐1‐0                     11
+CHM102                         2‐1‐0    08          PHY102 (Mechanics)           3‐1‐0                     11
+PHY101/CHM101 (Lab)                            CHM101/PHY101 (Lab)        0‐0‐3                     03
+[TA101 (Engg. Graphics)+         0‐0‐3    03            [TA101 (Engg. Graphics)+      [2‐0‐2 +                      [08 +
+LIF101 (Life Sciences)]/          [2‐0‐2+   [08 +          LIF101 (Life Sciences)]/         2‐0‐0]/                       06]/
+ESC101 (Computing)              2‐0‐0]/   06]/         ESC101 (Computing)           3‐1‐3                     14
+ENG112/HSS‐1                   3‐1‐3    14           HSS‐2 (Level 1)                3‐1‐3                     14
+* PE101                         3‐1‐0    11           * PE102                       0‐0‐3                     03
+0‐0‐3    03
+TA101 & LIF101 alternate with                       TA101 &  LIF101  alternate                           56
+ESC101                              50            with ESC101
+
+III       PHY201                          3‐1‐0    11     IV     SO‐3                          3‐1‐0                     11
+[ESC102 (Electronics)/            [3‐1‐3/   [14/          [ESC102 (Electronics)/         [3‐1‐3/                       [14/
+ESO‐1/SO‐1]                      3‐1‐0]    11]            ESO‐1/SO‐1]                   3‐1‐0]                       11]
+ESO‐2/SO‐2                      3‐1‐0    11           HSS‐3 (Level 2)/ DEPT          3‐0‐0                     09
+DEPT                            3‐0‐0    09          DEPT                         3‐0‐0                     09
+TA201 (MME)/TA102(Mech)       1‐0‐3    06           OE‐1 / DEPT                   3‐0‐0                     09
+** Composition (Web based)      0‐0‐2    02           TA102 (Mech)/TA201 (MME)   1‐0‐3                     06
+
+53/                                                                55/
+50                                                             58
+
+V        ESO‐3                           3‐1‐0    11     VI     DEPT / OE‐1                   3‐0‐0                     09
+DEPT                            3‐0‐0    09          DEPT / HSS‐3 (Level 2)         3‐0‐0                     09
+DEPT                            3‐0‐0    09          DEPT                         3‐0‐0                     09
+HSS‐4 (Level 2) / DEPT            3‐0‐0    09          DEPT                         3‐0‐0                     09
+UGP1 (Optional)                  0‐0‐4    04           [UGP2/                        [0‐0‐9/                       [09/
+OE‐2 / DEPT                      3‐0‐0    09           OE/DE]                        3‐0‐0]                       09]
+** Comm Skills (Deptt)           0‐0‐2    02           OE‐3 / DEPT                   3‐0‐0                     09
+
+49/                                                             54
+53
+
+VII       OE‐4 / DE‐1                      3‐0‐0    09      VIII    DEPT / OE‐3                   3‐0‐0                     09
+DEPT / HSS‐4 (Level 2)            3‐0‐0    09           DE‐1 / OE‐4                   3‐0‐0                     09
+DEPT / OE‐2                      3‐0‐0    09           DE‐2 / HSS‐5 (Level 2)          3‐0‐0                     09
+HSS‐5 (Level 2) / DE‐2             3‐0‐0    09           OE‐5                          3‐0‐0                     09
+[UGP3/                           [0‐0‐9/   [09/          OE‐6                          3‐0‐0                     09
+OE/DE]                           3‐0‐0]    09]         UGP4 (Extra credits)           0‐0‐9                     09
+
+45                                                                45/
+54
+* The PE credits will not be included for computing CPI, since this course has only S/X grades.
+** See Appendix V for detail.
+
+The salient features of this template are as follows:
+–  Department core is denoted by DEPT.
+–  The total number of credits for this example template are 402‐415. The lower number does not
+include the credits for UGP1 and UGP4.
+–  SO+Sc core: 86 credits (20.7‐21.4%), Esc+ESO: 50 credits (12‐12.4%). A total of four slots are kept
+for ESO and SO courses. A student can use these four slots in three different ways: 3ESO+1SO or
+2ESO+2SO or 1ESO+3SO. The aforementioned percentages are computed assuming a balanced
+ESO/SO i.e. 2ESO+2SO.
+–   HSS: 47 credits (11.3‐11.7%)
+–   TA: 20 credits (4.8‐5%)
+–  OE: 54‐63 credits (13‐15.7%)
+–  DEPT core: 99 credits (23.9‐24.6%). A department has complete freedom in designing the core
+course structure so that the total credits required for graduation is between 395‐430 credits
+(excluding UGP1 and UGP4 which are extra‐credits). Note that this template is for 402‐415 credits.
+
+16
+
+[PAGE 17]
+The Review Committee strongly advocates that the Department template be conducive for a
+student to attempt Dual‐Major if the student so desires. Therefore, the department must also spell
+out the template for a dual major in its Department. With the compulsory department credits
+restricted to 100 credits, the Dual‐Major is very much possible. The template shows only an
+example of how to allocate 99 credits across eleven courses. The eleven courses shown in this
+template do not have any laboratory credits. However, a department is expected to have at least
+15 laboratory credits in its core course structure (as represented by 99 credits in this template).
+While the template does not show the “D0” course any more meaning that it is no longer
+required, a department is free to include one such course in its core structure. However, if a
+department does have a “D0” course, it must carry appropriate credits (there is no zero‐credit
+course in the proposed program).
+–  DEPT elective: 18‐27 credits (4.3‐6.7%)
+–  UGP1 (undergraduate research/project experience) is optional. UGP2 and UGP3 can be taken in
+place of a DE or OE. However, at most one OE slot and at most one DE slot can be used for this
+purpose. UGP2 and UGP3 have letter grades. If a Department so desires, it can specify either UGP2
+or UGP2‐and‐UGP3 as a mandatory part of their programme. UGP4 is extra credits. If UGP2 is
+specified as a mandatory course, the student will lose the option of taking a DE. The UGP courses
+can be taken during the summer also. The undergraduate research options are further discussed in
+the next section.
+
+2.5.2   Undergraduate Research/Projects
+
+Lately there has been a lot of emphasis put on undergraduate research/projects. The fifth academic
+programme review committee takes a serious stand regarding undergraduate research/projects. It has
+been understood that not all students are interested in pursuing research/projects. While the traditional
+B. Tech. project forces everyone to undergo a research/project experience, such a curriculum often leads
+to unhealthy practices and dissatisfaction among both the students and the members of the faculty. The
+fifth academic programme review committee recommends that the traditional B. Tech. project and
+undergraduate research be made optional. In the template shown in Table 2, the undergraduate
+research/project options appear as UGP1 to UGP4. While UGP1 and UGP4 are optional and a student can
+earn extra credits by opting for these, UGP2 and UGP3 can be taken to satisfy the corresponding number
+of open elective or departmental elective credits. The committee has also recognized the need to
+continue with the  traditional compulsory  B. Tech.  projects  in some  of the departments. These
+departments are recommended to allocate departmental credits for B. Tech. Projects. Alternately, the
+departments can specify either UGP2 or UGP2‐and‐UGP3 as a mandatory part of their programme. UGP4
+is extra credits. If UGP2 is specified as a mandatory course, the student will lose the option of taking a DE.
+
+Evaluation: Each student registers for a UGP with an Instructor. The Instructor assigns a grade. The
+evaluation of best UGP is for the projects carried out within that department.  It is possible that a student
+from some other Department might get the best BTP award. It is advisable that the Departments hold an
+Open House where all the UGP's are presented/demonstrated. This will also benefit other UG students. A
+department which makes the UGP(s) mandatory may prescribe a central grading for their students.
+
+2.5.3  Minor
+
+Section 2.3 discussed the base degree options. The fifth academic programme review committee further
+recommends multiple specialized options on top of the base degrees. One integral component of this
+
+17
+
+[PAGE 18]
+proposal is the introduction of a minor. A minor would consist of three to four courses worth 24 to 36
+credits. A minor can be taken either from a department other than the parent department or from across
+departments. The latter would be an inter‐disciplinary minor. A cap of less than one‐fifth the batch size
+(170, for a batch of 850 students) is not permissible in a course floated as part of a minor unless the
+course makes extensive use of laboratory equipments. The selection of students  (if the registration
+exceeds the cap) would be based on CPI. A student need not declare a minor beforehand. Only on
+completion of all courses in a minor, a student can claim a minor. This offers enough flexibility to the
+students in completing a minor.
+
+To further increase the flexibility, the departments should make a commitment to offering the electives
+towards a minor. It is recommended that initially, as a test case, each department/IDP offers a maximum
+of two minors. This limit does not apply to HSS, as this department consists of several streams. It is
+recommended that the areas be kept sufficiently broad, such that a student can choose from a basket of
+courses (4‐8 courses), and not be constrained by a course offered by an individual. This will make it
+possible to sustain the minor. The departments should be discouraged from screening students who are
+eligible for a minor, provided the student meets all the desired academic norms. SUGC will be entrusted
+with the approval of a minor. Minors will be specified on the Transcript and not on the Degree/Diploma.
+Specialization within a Department cannot be recognized as a minor. The idea of a Minor is to encourage
+diverse/wholesome education.
+
+Since minors require a combination of departmental core and elective courses,  it  is proposed that
+designated time table slots be created for minor courses. Some of the OE slots are made available for
+minors. The current time table has four OE slots shown below.
+
+OE‐Ia:      Lecture M W Th 9:00‐9:55,                          Tutorial T 9:00‐9:55
+OE‐Ib:      Lecture T F:  9:00‐9:55, Th:  12:00‐12:55
+OE‐IIa:     Lecture M W: 12:00‐1:20,                           Tutorial F 9:00‐9:55
+OE‐IIb:     Lecture T F: 12:00‐1:20,                             Tutorial Th 12:00‐12:55
+
+The committee recommends the following related to scheduling of minors.
+–   Retain the four sets of slots for OE's as proposed by the Time‐Table Committee.
+–  The OE's that are from the basket of compulsory core of the department and count towards a minor
+should be scheduled in OE‐Ia and OE‐Ib slots.
+–    If a department offers a compulsory course that does not count towards a minor (for students of
+other departments) it should be scheduled outside the slot for minors.
+–   All modular OE's should be scheduled in OE‐IIa and OE‐IIb slots so that they can take advantage of the
+1hr 20 min slot. The concept of modular courses is discussed in the subsequent part of this section.
+–   Introduce an additional slot from 5:00‐5:55PM for OE/Minor. This will also not interfere with PE for 1st
+year students as OE is for 2nd year onwards. Therefore, in all there are 5 slots for OE.
+–   HSS‐I can overlap with OE‐Ia
+–   HSS‐II may be scheduled in 11:00‐11:55AM
+
+18
+
+[PAGE 19]
+A few example minors are listed below:
+
+(A) Electrical Engineering
+
+ESC102                 EE200
+(I   tit  t  )               (C          l      )
+
+Microelectroni
+EE210             EE311/EE370
+cs/ Digital
+S   t
+EE330               EE360                        Power
+
+Communication &
+EE320             EE301/EE321
+Si      l P           i
+
+EE340             EE612/EE642/EE648              RF Engineering and
+Ph  t     i
+
+EE250               EE650                            Controls
+
+* ESO210 is a prerequisite for EE330
+
+(B) Physics
+
+Astrophysics
+305 (Physics of the Universe)
+407 (Special and General Relativity)
+CM/QM
+Bio Physics
+309 (Introductory Biophysics)/ 310 (Physics of Bio‐materials)
+617 (Physics of Natural Nanomachines)/ 619 (Statistical Physics of Biomolecules and Cells) / 641
+(Element of Bio‐Medical physics)
+Suitable elective (BSBE)
+Chemical Physics
+QM
+524 (Atomic and Nuclear Physics)
+Suitable elective (Chemistry)
+Computational Physics
+473/625 (Computational Methods in Physics)
+627 (Computer Simulations in Physics)
+Suitable elective e.g. on Fluid Dynamics (ME/AE)
+Condensed Matter Physics
+QM
+412 (Statistical Mechanics)
+543/622/634/642/642 etc.
+
+19
+
+[PAGE 20]
+Energy and Environment
+301 (Energy)
+Sociology (HSS)
+Environment (covering sensors) (CE)
+High Energy Physics
+QM1
+QM2
+680 (Particle Physics)
+Laser Technology
+303 (Principles of Lasers and their Applications)
+643 (Lasers and Laser Spectra)/ 644 (Quantum Electronics)
+Elective (LTP)
+Low Temperature Physics
+QM
+634 (Low Temperature Physics)
+Experiments in different laboratories
+Mathematical Physics
+QM
+Mathematics and Philosophy 407 (Special and General Relativity)
+612 (Group Theory)
+
+(C) Interdisciplinary
+
+Minor in “Meso/Nano scale Engineering”
+ChE688:    Colloids and Interface Science
+ChE674:    Introduction to Nano‐science and Technology
+ChE659:    Process Engineering Principles in Microelectronic Fabrication
+Basket of courses from other departments may include MS617 (Organic Electronics),
+ME689 (Microscale thermal engineering), MME467 (Materials for Semiconductors industry) and
+MME688 (Nanomaterialsi Processing and Properties).
+
+Minor in “Polymers”
+ChE672:   Polymer Processing
+ChE676:    Engineering Application of Rheology
+ChE677:    Introduction to Polymer Physics and Rheology
+
+Minor in computational mechanics
+ESO 218, Advanced MOS
+Advanced Fluid mech.
+Basic Aerodynamics
+Continuum mechanics.
+FEM/CFD/FEM for fluids
+
+2.5.4  Double Major
+
+20
+
+[PAGE 21]
+The fifth academic programme review committee also recommends the introduction of double majors in
+the UG curriculum. Under this scheme, an undergraduate student, at the end of the 5th semester, may
+decide to pursue a second major. Such a student must have a minimum CPI of 8.0 at the end of the 5th
+semester to exercise this option. A bachelors’ degree with a double‐major would usually require five years
+to complete. The student is required to complete all departmental core credits in her/his second major. It
+is suggested that at least 10% of the sanctioned strength of the Department be open for candidates for
+Double Major. As a possible template, Table 3 depicts a double‐major programme in ME and AE.
+
+Table 3. Double major in ME and AE
+Course                ME                                  AE
+Type
+ESO       ESO210,ESO214        ESO202,ESO204                       ESO202,ESO204
+DEPT.     ME251N, ME321N     ME231N/ESO212     AE232,AE211      AE231/ME353N
+CORE     ME341N,ME352N,     ME353/AE231*       AE321,AE341,     ESO212/ME231N
+ME361,ME301,                            AE312,AE322,
+ME351,ME453,                            AE332,AE342,
+ME452                                  AE461,AE462
+DEPT.     ME371,ME471                             AE331,AE411,      AE361**
+LAB.                                            AE422
+BTP*     ME461,ME472                            AE471,AE472
+TOTAL     13+2* COURSES       4 COMMON         13+2* COURSES    4 COMMON
++1**NOT
+MANDATORY
+* a course that is required for the regular undergraduate degree, but is not required to be done for a dual
+major, e.g. BTP in the second department.
+
+** AE361 (Aeromodeling design and fabrication) is mandatory for Aerospace students, but will not be
+required for a student seeking a dual major in Aerospace engineering.
+
+A student in AE will have to do thirteen courses (provided ME mandates the ESO courses as necessary for
+a double major) towards a double major with the second major being ME. Similarly, a student in ME will
+have to do thirteen courses towards a double major with the second major being AE. B. Tech. projects
+must be waived in the second major. Out of the thirteen courses, registration for 3‐4 may be allowed from
+the OE/DE pool towards fulfilling the requirement of the double major. The student opting for a double
+major should have a mentor/counselor from both the departments helping him chart the course
+schedules.
+
+The proposed curriculum mandates about 100 credits of departmental core. As per this mandate, the
+student will have to do fewer courses (about 10) towards a double major in AE/ME. For example, AE may
+propose as mandatory: Aerothermomechanics I, II and III; Aerospace structural analysis I and II; Principles
+of Flight Mechanics; Aerospace Lab. I and II; Flight Lab.; Aircraft Design I and II. This will be mandatory for
+a double major. The rest will be specializations obtained from the DE pool.
+
+2.5.5.  Dual Degrees
+
+An undergraduate student in B. Tech. / B. S. programme can opt for an M. S. / M. Tech. / MBA. Such an
+option would extend the programme by one year. The eligibility for opting for a Masters’ degree can be
+picked up from the existing rules laid out in the PG manual. However, various new possibilities exist. The
+most attractive of these is a cross‐departmental programme. For example, a BSBE major can now opt for
+
+21
+
+[PAGE 22]
+an M. S. degree in Chemistry. Further, a B. Tech.‐MBA programme would have much relevance today.
+One can also do a B. Tech. / B. S. followed by M. S. in a suitable stream of HSS. Two example dual degree
+structures are discussed in Appendix XIII.
+
+2.5.6.  Engineering Science: A Multi‐Disciplinary Programme
+
+The fifth academic programme review committee recommends the introduction of a B. Tech. degree in
+Engineering Science. This is a multi‐disciplinary degree programme cross‐cutting several engineering and
+science disciplines. This option will not be made available at the time of JEE counseling, but the students
+can opt for this degree programme as a branch change. The engineering science program is especially
+aimed  at  highly  motivated  students,  who  would  feel  constrained  within  the  conventional
+compartmentalization of departments. The proposed program on Engineering Sciences will enable the
+student to excel in both engineering and applied sciences, and will offer the student a great degree of
+flexibility in choosing courses so as to obtain a specialization in a specific track of modern engineering.
+The progress of modern science greatly depends on innovations at the interface of traditional disciplines,
+and the proposed curriculum would give the student an opportunity to specialize precisely in such cross‐
+disciplinary  subjects. The academic programme review committee recommends  that there be a
+programme undergraduate committee (PUGC) for the engineering science programme. It must also have
+an administrative structure similar to other departments/IDPs, although a physical structure may not
+exist. The possible outline of this programme is further discussed in Appendix XI.
+
+2.5.7   Examinations
+
+The fifth academic programme review committee recommends one mid‐semester and one end‐semester
+examination. The reasons for its preference over the existing two mid‐semester examination model are as
+follows:
+
+–  A very short examination is not necessarily a good/fair evaluation. A longer examination covers a
+wider portion of the course material and tests the students more thoroughly and perhaps, more fairly.
+Some students are slow and a one‐hour examination is too stressful for them. Therefore, instead of
+two one‐hour examinations, a single two‐hour examination appears more attractive.
+
+–   In the present system, the end‐semester examination period is spread over 10‐11 days. However, the
+mid‐semester examinations are held in a period of three days. Also, there is virtually no dead period
+between the classes and examinations. This leads to stress in the students. It is proposed that the mid‐
+term examinations be also held in a period of one week (six days: Monday‐Saturday). The week‐end
+on each side be declared a dead‐period for scheduling of classes/laboratories/presentations. The
+students may use the week‐end preceding the examinations as preparation time. This, of course,
+cannot be done twice a semester. Therefore, a longer one mid‐semester examination is the preferred
+model.
+
+–   Presently, in certain elective courses a single mid‐term examination is held. The other examination is
+typically replaced by a project/term‐paper. This promotes self learning and motivates the student to
+explore more details in the area she/he likes. The committee feels that this approach should be
+extended to as large a number of courses as possible.
+
+22
+
+[PAGE 23]
+–  The possibility of having two mid‐semester examinations for core courses and one for other courses
+was also discussed. This model has implementation problems as a student could possibly be taking
+both kinds of courses. This will lead to staggered examinations and defeat the very purpose of
+scheduling examinations in a given slot.
+
+–  To continue with the IITK tradition of continuous evaluation, it is proposed that for core courses at
+least two quizzes be held, one on each side of the mid‐semester examination. If there are going to be
+only two quizzes, it is best that they not be scheduled in the week just before and after the mid‐
+semester examination.
+
+To enable smooth conduct of examinations, it is also recommended that the examination schedule be
+prepared centrally just as done for the end‐semester examinations. It should be declared along with class
+schedule right at the beginning of each semester.
+
+2.5.8  Modular Courses
+
+The concept of a modular course will work very well with one mid‐semester examination. A modular
+course will run for exactly half a semester and will have only one examination at the end. A core course
+that is modular must have at least one quiz in addition to the this examination. The examination period of
+a modular course in the first half‐semester will coincide with the mid‐semester examination of a regular
+course. Several departments are already proposing such courses. The credits for such a course would be
+half that of a full course. For example, a course with 3L+1T+1P will constitute an academic load of 11
+hours per week. It will, however, contribute only 6 credits. The registration for all modular courses will
+take place along with the regular courses. To provide more flexibility, it is proposed that the instructors
+can propose an already existing course as a modular course. This is illustrated with an example: EE624
+(Information and Coding Theory). Suppose the course is designed to teach 'Information Theory' in pre‐
+mid‐semester part and 'Coding Theory' in the second half. It could be offered as (a) EE624: “Information
+and Coding Theory” for the entire semester worth 11 credits (b) EE624A: Information Theory (worth 6
+credits) and (c) EE624B: Coding Theory (worth 6 credits). The student may request for a conversion from
+EE624 to EE624A or EE624A to E624 during the semester. Of course, a student may also register for
+EE624B only, which is taught in the second half.
+
+23
+
+[PAGE 24]
+Appendix I: Credit Based System
+
+1. Credit reflects the time a student is expected to spend per week on learning a course
+through lectures, tutorials, laboratories and self‐study, averaged over the entire semester.
+
+2. Graduation requirements will be in terms of number of credits and not in terms of
+number of courses. Even the current eight semester residence requirement for a "good"
+student can be dispensed with.
+
+3.  There will be flexibility in terms of the number courses that can be offered.  For
+example, even with the same  total  credits, two departments can customize  their
+compulsory curriculum by offering different number of courses. The same principle holds
+for students, in terms of the number of courses they can register for in the science elective,
+department elective, or open elective slots.
+
+5. Offers flexibility to students' to position their choice of courses. For example, a student
+may wish to do TA201 in the first semester and Phy101 in the second semester.  This
+obviously requires that the time table for compulsory core and department courses is
+frozen, for say 10 years, or till the recommendations of the new ARC is accepted. Another
+pre‐requisite in administering this flexibility is that the pre‐requisites have to be accounted
+for in positioning courses.
+
+6. A student's progress through different modules such as HSS, science, Esc, department
+compulsory, open electives can be effectively and conveniently monitored.
+
+7. A credit based system allows for ease and efficiency in book keeping.
+
+8. It is also useful in mobility of students and collecting credits from various universities.
+
+24
+
+[PAGE 25]
+Appendix II: APEC (Academic Performance Evaluation Committee) rules
+
+Maximum number of semesters allowed to a student to graduate:
+
+The data for BT students who graduated in 2010 is shown below:
+
+2010 PASSOUT STUDENTS GRAPH
+NO. OF SEMESTER Vs PASSING NO. OF
+STUDENTS
+
+278
+PASSOUT                                                               Series1             OF STUDENTS
+NO      1      0      8      4      14     4
+
+14     13     12     11     10     9      8
+
+NO OF SEMESTER
+
+The data above shows that very few students take more than 10 semesters to graduate.
+Therefore, twelve semesters to complete the programme seems adequate.
+
+APEC rules
+The rules should be simple to implement and be consistent with a credit‐based system. The APEC
+rules should not be linked to SPI/CPI. Two models were short‐listed by the committee:
+Model 1:
+
+Warning: If the number of credits cleared by the students is less than 75% of the cumulative
+normal load up to that point.
+Termination:  If the student is on Warning and  if he/she fails to acquire at least 50% of the
+cumulative normal load up to that point. This excludes the semesters that the student may have
+dropped.
+
+Model 2:
+
+Warning: If the number of credits cleared by the students is less than 80% of the cumulative
+normal load up to that point.
+Termination:  If the student is on Warning and  if he/she fails to acquire at least 60% of the
+cumulative normal load up to that point. This excludes the semesters that the student may have
+dropped.
+Waiver Clause:  If the student acquires at least 80% of the credits for which s/he is registered for
+in that semester, the termination is waived. However, warning stands.
+
+The table below shows the summary of the simulation of the new (proposed) APEC rules to the
+Y6 batch of students. Both models are tested. The normal academic load is assumed to be 19
+credits. Note that a typical course is 4 credits at present and it is 11 credits as per the new
+definition.
+
+25
+
+[PAGE 26]
+Simulations results for Model 1 (War < 75%; Ter < 50%)
+
+Year/Sem    Warning+AP      Termination     WARNING       Termination
+(Old APEC)        (Old APEC)      (New APEC)      (New APEC)
+Model 1        Model 1
+2006‐07/1    18+17 = 35                2                16                0
+
+2006‐07/2    12+8 = 20                7                13                6
+
+2007‐08/1    52+17 = 69               13               16                3
+
+2007‐08/2    22+06 = 28                9                10                1
+
+2008‐09/1    30+1 = 31                12                8                1
+
+2008‐09/2    28+05 = 33               15                9                0
+
+2009‐10/1    26+2 = 28                16                4                0
+
+2009‐10/2    32+1 = 33                11                2                0
+
+277                 85               78               11
+
+Simulations results for Model 2 (War < 80%; Ter < 60%; Waiver >80%)
+Year/Sem    Warning+AP    Termination   WARNING     Termination       Waiver
+(Old APEC)      (Old APEC)   (New APEC)    (New APEC)    (New APEC)
+Model 2       Model 2       Model 2
+2006‐07/1   18+17 = 35             2             16              0               0
+
+2006‐07/2   12+8 = 20              7             25              9               3
+
+2007‐08/1   52+17 = 69             13            17              7               0
+
+2007‐08/2   22+06 = 28             9             16              3               1
+
+2008‐09/1   30+1 = 31             12             8               3               1
+
+2008‐09/2   28+05 = 33             15            12              1               1
+
+2009‐10/1   26+2 = 28             16             4               1               0
+
+2009‐10/2   32+1 = 33             11             7               0               0
+
+277                  85            105             23              06
+
+It is seen that the proposed APEC rules lead to the patterns that are expected. Also, Model 1 appears
+to be more liberal. Therefore, the committee decided to go ahead with Model 1.
+
+26
+
+[PAGE 27]
+Appendix III: Student Survey‐I
+
+In this appendix, we analyze the data gathered from a survey conducted by the fifth academic programme
+review committee among the undergraduates of IIT, Kanpur. The survey was taken by 554 students from
+Y3 to Y8 spread across twelve departments. In the following, we present each question from the survey
+and analyze the corresponding response.
+The first question was on the preference about the department and the programme. The purpose of this
+question was to gain insight into the popularity of departments and programmes among the students. The
+question is presented below.
+If you had full freedom to select any programme you wanted, which programme would you select today?
+Please give two preferences.  If you had  full freedom to select any programme you wanted, which
+programme would you select today? Please give two preferences. The department choices are AE, BSBE,
+CE, CHE, CHM, CSE, ECO, EE, MATH, ME, MME, and PHY. The programme choices are BTech, Dual
+(BTech/MTech), Int. MSc.
+
+(a)
+(b)
+
+Figure 1. (a) Number of students choosing their parent departments as the most preferred departments.
+(b) Same data as percentage.
+
+Figure 1(a) shows two pieces of information. For each department, the right bar presents the number of
+students participated in the survey from a particular department and the left bar shows how many of
+them chose their department as the most preferred department. Figure 1(b) shows the same data as
+percentages, e.g., the right bar is presented as the percentage of all students taking the survey and the
+left bar is the percentage of students taking the survey within a particular department. While all students
+of CSE chose their department as the most preferred department, over 80% of PHY students did so. EE,
+ME, and AE were the others among top five with more or less 40% of their students choosing them as the
+first preference. Overall, slightly over 40% of students chose their parent department as the most
+preferred department.
+
+27
+
+[PAGE 28]
+(a)
+(b)
+
+Figure 2. Percent vote for (a) each department and (b) each programme as the first preference.
+
+Figure 2(a) shows the percentage of students choosing various departments as their first preferences.
+Similar data related to various programmes is shown in Figure 2(b). The top three departments by first
+preference are CSE, EE, and ME, while B. Tech., by far, turns to be the most preferred degree programme.
+
+(a)
+(b)
+
+Figure 3. Percent vote for (a) each department and (b) each programme as the second preference.
+
+Figure 3(a) shows the percentage of students choosing various departments as their second preferences.
+Similar data related to various programmes is shown in Figure 3(b). The data looks very similar in nature to
+the previous one, though less skewed. Some students chose B. Tech. as their first as well as second
+preferences leading to a total of more than 100% of students choosing B. Tech. as top two preferences.
+Taken together, 71% of the respondents chose CSE as their first or second preference.
+
+28
+
+[PAGE 29]
+(a)
+(b)
+
+Figure 4. Combined department‐programme data: (a) first preference, (b) second preference.
+
+Figure 4(a) shows the combined department‐programme data for first preference. For example, 44%
+students chose CSE as the most preferred department, while 31% chose a B. Tech. in CSE as the most
+preferred degree option and another 13% chose a B. Tech.‐M. Tech. in CSE as the degree of choice. Similar
+data for the second preference is presented in Figure 4(b).
+
+Next, we turn to the second survey question. In this question, we gave six different degree options to the
+students and asked them to rank these options. The question is presented below.
+
+If IIT Kanpur introduces the following new programmes or degrees, how would you rank them in order of
+preference from the most (1) to the least favourite (6) option?
+
+NOTE: All terms marked with an asterisk (*) are explained below.
+
+1. B.Tech. in one department with a minor* in another subject
+
+2. B.Tech. in Engineering Sciences**
+
+3. B.Tech. Dual degree in two departments (Courses in the second dept. would require about two to three
+semesters of work beyond the courses done in the first dept.)
+
+4. B. Tech.‐MBA Dual degree
+
+5. B. S. (upgradeable to M. S. Integrated: similar to B. Tech.‐M. Tech. Dual)
+
+6. B. S. programme in HSS such as Psychology, Economics, etc. (upgradeable to M. S.)
+
+*Minor means sub‐specialization which would require taking 4‐5 courses in one Dept. / one HSS subject
+(which is NOT your own department).
+
+**Engineering Sciences is a multidisciplinary programme designed to integrate the sciences with areas of
+traditional engineering such as research, design, and analysis.  It includes a core of basic courses in
+mathematics, physics, and chemistry, and electives from areas such as fluid dynamics, solid mechanics,
+operations research, information technology engineering, dynamical systems, bioengineering, solid‐state
+devices, materials science, electromagnetics, nanoscience, nanotechnology, energy, and optics.
+
+29
+
+[PAGE 30]
+Figure 5. Degree option ranks. DNV stands for category of students that chose not to specify at least one
+rank.
+
+Figure 5 shows, for each degree option, the number of students voting it as highest, high, above average,
+below average, low, or lowest. A few observations can be made without pain. Option 1, namely, B. Tech.
+in one department with a minor in another subject is voted as the highest ranked option by almost 270
+students (out of 554), while option 6, namely, B. S. in HSS (Psychology, Economics, etc.) is voted as the
+lowest ranked option by almost 300 students. Nearly 250 students ranked a B. S. degree option as “low”.
+Interestingly, a B. Tech. in Engineering Science (option 2) does not turn out to be a highly preferred
+option. More astonishingly, a B. Tech.‐MBA degree (option 4) does not fare well either.
+
+(a)
+(b)
+
+Figure 6. Year‐wise distribution of (a) highest and (b) lowest ranked degree options.
+
+30
+
+[PAGE 31]
+To further understand any year‐wise bias of the degree option ranks, Figure 6(a) and Figure 6(b)
+respectively present the highest and the lowest ranked degree options for respondents from each year.
+Most of the students from each year ranked option 1 as the most preferred one, while option 6 is the
+lowest ranked option for most students.
+
+Next, we present the third question. This question was related to exit options. The question is presented
+below.
+
+Suppose there were an exit option (a degree) called B.Tech. Pass for those students who have spent at
+least four years in IIT, but are not doing academically well and have only completed 70% of the credits
+required to graduate with a regular B.Tech. degree. Do you think this is a good option?
+
+(a)
+(b)
+
+Figure 7. Year‐wise distribution of (a) exit option polls, (b) BTP polls.
+
+Figure 7a presents the year‐wise number of students agreeing and disagreeing to the aforementioned exit
+option. Overall, 320 students out of 554 respondents voted for the exit option.
+The fourth question is presented below. This question relates to the final year B. Tech. projects (referred
+to as BTP).
+Given a choice, which of the following two options would you prefer?
+1. A programme with a BTP.
+2. A programme in which BTP is an elective. You can have do additional course work in place of the BTP.
+
+Figure 7b presents the year‐wise number of students choosing an optional BTP or a regular BTP (in the
+current form). Interestingly, the overall data is slightly skewed toward the current practice of regular BTP.
+
+31
+
+[PAGE 32]
+Appendix IV: Student Survey‐II
+
+An open house among students was conducted on ARC Interim Report on undergraduate programme on
+August 21, 2009 to take student feedback on various recommendations made by the committee in their
+report. An online survey was conducted by the Student Gymkhana on some questions based on the
+report. Based on over 700 responses received in total, here are some salient points which the student
+body reinforced upon.
+
+a)  Survey questionnaire
+
+Table 4. Response summary
+
+S. No.  Question                                                                        Yes    No
+1         All students shall enter in 4 year B Tech/BS program through JEE and later on they can go  591     133
+to M.Sc. integrated/dual degree/double major as per their interest
+2       There should be an option of B Tech in Engineering Sciences (i.e. inter‐disciplinary degree  580     144
+not limited to one single department)
+3       There shall be 3 degree options depending on CPI – B Tech/BS (CPI>=4.0 and at least  344     380
+average C grade in dep. Courses), B Tech/BS Pass (CPI>=4.0) or B Tech/BS Ho0urs
+(CPI>=8.0 and an avg. CPI of 9.0 in dep. Courses OR an avg. CPI of 8.0 in all UG research
+courses)
+4       There should be a minor option.                                                 639     85
+5       There should be a double major option. Students with CPI>=8.0 shall be eligible to apply  598     126
+at the end of fifth semester, and both degrees shall together take 5 years.
+6       There should be a possibility of MBA as a dual degree after B Tech/BS.                  542     182
+7     80% attendance should be made compulsory.                                      221     503
+8      BTP should be made optional.                                                  303     421
+9       There should be one mid semester examination and one end semester examination.       490     234
+10     No. of HSS courses to be done by UG students shall be increased to 5.                   244     480
+11     D0 (Introduction to Profession) courses shall be done away with.                       380     344
+12*     Industrial training/internship shall be made compulsory for departments.                520     204
+13     There shall be only 2 mathematics (MTH) courses in the core programme.               395     329
+14     Modular courses (courses offered for half a semester with only one examination at the  557     167
+end) shall be offered.
+15     4 UG research courses shall be introduced in the curriculum (2 of which are extra credits).   599     125
+
+16     E grade with the weightage of two shall be introduced and F be reduced to zero. (E grade  506     218
+is not a passing grade, but can be used as a grade to satisfy pre requisites)
+17     Academic deficiency warnings shall be done away with. Only AP (Academic Probation) and  275     449
+terminations to take place.
+18     There should be a core course from IME department/on entrepreneurship.              475     249
+19      Foreign language teaching shall be included as an HSS course.                         620     104
+20     Departments should take  initiative of including communication  skills as a part of  608     116
+curriculum. There should be more weightage in courses on technical presentation.
+* This is not a recommendation of the ARC
+
+b)  Individual feedback related to recommendations of the report:
+
+Entry of students through JEE and later branch change
+
+–  When students are ready to get into IIT system after clearing JEE, they have practically no knowledge
+about different options/departments available in different IITs, and hence they fill in their priority of
+
+32
+
+[PAGE 33]
+branches during counselling mostly based on their JEE ranks. The student body felt following things
+can help:
+
+–   Senior UG students are also involved as a part of counselling process, rather than only professors
+there, so that the entrants can talk more freely to the students present there and get a realistic view
+of the department and hence different options.
+–   Students may be accepted without allotting any branch to them and then at the end of first year,
+branch allotment be done based on either there CPI and/or their JEE ranks. This will hopefully result in
+a more informed decision, and a better and more interested set of students would be promoted, thus
+leading to an increase in the Standard of education as a whole.
+Students were also concerned about the issue of reservation while branch change option.
+
+Course evaluation and content
+
+–  Continuous evaluation of courses shall be continued in spirit. If we are reducing to one mid semester
+and one end semester examinations, there should be enough quizzes/assignments in the course,
+rather than these examinations sharing the lion’s share of weightage for two reasons:
+
+–  Such evaluation keeps regular check whether students are at par what is being taught in the class, and
+keeps them on their toes with the regular updates in it.
+
+–   This also gives students more chances to recover in a course if one of their examinations did not go
+well.
+
+Innovative thinking shall be promoted through projects, and technical communication be paid attention
+by means of presentations/term paper discussions etc.
+
+More inter‐departmental courses (for example, BSBE and CHE both offer 2 separate courses on
+Biochemical Engineering, instead there may be a common course) should be encouraged, and faculty
+members should accept students from outside the department, if students are really interested to opt for
+the course. Sometimes many courses have unnecessary pre‐requisites. That should be looked into.
+
+Core courses
+
+One course each on life sciences and economics should be considered to be included as core courses.
+
+For students in Science departments, the no. of science courses they need to do become more because
+every student as per the new proposed model shall do 20% of science/SO courses. To redress the
+situation, each student may be given a choice to do 30% of his credits in ESO/Esc/Science/SO courses. This
+takes care that each student, be of engineering or science department, get chance to be exposed to other
+engineering/science courses.
+
+Regarding UG research courses and summer internships
+
+There shall be an option of considering summer industrial/university internships as a UGR (UG research)
+course. A student shall not be bound to take UGR courses in same department he is majoring in. Option of
+a semester long internship and consequent allocation of credits may also be considered.
+
+Miscellaneous
+
+Lecture duration shall be decreased from 55 minutes to 50 minutes.
+More emphasis should be given on ‘applied engineering’ in the spirit of the courses, specially advanced
+ones.
+Time tabling has always been a major issue at IIT K. Kindly develop a more robust time table so that not
+many students are deprived of taking courses of their interest due to clash in time table.
+
+33
+
+[PAGE 34]
+Appendix V: Communication Skills Sub‐committee Report
+
+We strongly feel that there is indeed a need for IITK students to develop their communication skills.
+Feedback from placement, alumni, companies as well as the experiences of various instructors clearly
+shows that this is an area that requires significant improvement amongst our student body.  It is therefore
+necessary that we include communications skills in our formal curriculum.
+Broadly speaking, we define Communication Skills as the expression (oral and written) of thoughts and
+ideas in a logical and coherent manner. Given the global realities in the present world, we also stressed
+that such expression needed to be specially honed in the English language.  Given this definition,
+Communication Skills may be divided into the following components:
+–   Basic English language proficiency (including writing, speaking and listening skills)
+–   Basic composition skills
+–   Technical writing and presentation
+–   Professional communication skills (including group discussions, interviews, résume writing, etc.)
+
+Given the scope of this field, as well as the necessity for practical application and continuous practice for
+the development of the students’ communication skills, one conventional lecture / tutorial based course
+for all students is not enough.  Instead, we propose a modular format that is spread over the entire
+undergraduate programme. This will include the following elements:
+
+1) An English diagnostic test (EDT) for all incoming undergraduate students: The focus of this test will
+be exclusively on evaluating students’ English language skills (listening/comprehension, grammar and
+vocabulary). This may be an online test modelled on TOEFL. This test score would help to divide students
+into different groups based on their English language skills. Currently the EDT is administered manually by
+the English faculty to all incoming UG students who are then divided into two groups on the basis of their
+performance in this test – those requiring ENG112C and those exempted from it.
+
+2)  Remedial English Language Course (modified version of the present ENG112C): A completely tutorial
+based language‐intensive course for the students identified by EDT. This course would retain its present
+format of teaching approximately 90 students in three sections of 30 each (unless a significant increase of
+English faculty in the HSS department occurs?).
+
+3) A web‐based basic composition skills course:  All students, irrespective of their diagnostic test score,
+would be expected to complete this course before their third semester. This course will cover topics such
+as sentence composition (how to write clear concise sentences), converting sentences into logical
+coherent paragraphs, different organizational patterns in writing, etc. Students will not receive any formal
+grade for this course (not even pass/fail) in the grade‐card, but a record of the performance will be kept in
+the UG office. The student will simply need to submit their numerical score in this course to be admitted
+to the next course in the series. This score will be based on the student’s performance in the various tests
+/ exercises that are part of the web‐based course. The student will clear the course provided he/she
+scores more than 50% in the examinations. The student may take this course up to three times to improve
+his/ her understanding of the course material and get the “clearing” score.
+
+4)  Writing Laboratory and Composition Help Desk: Students who are unable to clear the web‐course
+will be required to report to the writing laboratory for about 20 hours of remedial sessions. After the
+34
+
+[PAGE 35]
+sessions, the student can retake the examination of part (3). The score, along with the certification of the
+remedial sessions,  is enough for the student to go the next stage  (i.e. the “clearing mark”  is not
+mandatory).
+
+The writing laboratory will have a communication help‐desk, manned by senior UG, dual degree, M.Tech
+or Ph.D students from various departments. The help‐desk will have designated time slots and will be
+open to  all students seeking help with respect to either the web‐course or any other technical
+communication issues. The help desk students will be chosen based on criteria setup by the English
+department.  It  is recommended that  this  responsibility of the help‐desk students be taken into
+consideration for their MHRD‐scholarship.
+
+5) A 2‐credit department specific technical communication skills course:  This course will introduce
+students to their discipline‐specific compositional requirements (report and summary / abstract writing,
+research articles, etc.) as well as the techniques of effective multi‐media presentation (use of and
+coordination with audio‐visual aids, body language, etc.). Considering the ARC committee’s strong views it
+is suggested that this technical communication skills course is strongly recommended.
+
+A flow chart in terms of the student’s program is as follows:
+
+Remedial English
+EDT
+
+Web course
+
+Writing Laboratory
+
+Technical
+Communication
+
+In addition to the above REQUIRED courses, we recommend the following:
+
+–   Clearly defined evaluation of communication skills in other existing courses:
+  Lab courses: a portion of the lab report grade determined by its presentation
+  The addition of reports / presentations in various dept. and HSS courses, to be evaluated both
+for content and a specified percentage for communication skills.
+–  Workshops for professional communication skills (GDs, Interviews, Résume writing, etc.) that would
+be open to students on a payment basis to students after their fourth semester. The instructors for
+
+35
+
+[PAGE 36]
+this workshop maybe from outside the Institute. These workshops may be organised in coordination
+with the SPO.
+
+NOTE: As part of teaching communication skills to undergraduate students, we also discussed the possibility
+of having another ‘intermediate level’ course in English language for those who are middle‐scorers in the EDT.
+However, upon further discussion, we removed this suggestion from our recommendations primarily for two
+reasons:
+
+1.  The course content for this course would largely duplicate material covered by the required web‐
+based course and the proposed communications content of the DO course.
+2.  Any such additional language‐intensive course would require additional faculty since a language‐
+intensive course can only be taught in small sections of 30 students each. Such a course, therefore, would
+require a substantial increase of the number of English faculty in the HSS department. (If a significant
+increase in the number of English faculty in the HSS department occurs then this may be considered)
+
+Recommendations on the logistics of the web module:
+
+1. The communication skills programme should be offered as part of the Life Skills Centre, proposed to be
+set up under the Golden Jubilee celebrations. It would have a faculty coordinator, who may be from any
+department.
+
+2. The detailed curriculum would be worked out by an academic committee appointed by the
+Communication Skills Programme. Among possible members of the committee would be experts from
+Central Institute of English & Foreign Languages (CIEFL, Hyderabad), Walchand Dale Carnegie Finishing
+School, the department of Humanities and Social Sciences, IITK and other institutions. The detailed
+curriculum would specify the components to be taught through (1) a web module, (2) a writing lab and (3)
+hands‐on  tutorials. The curriculum committee would  periodically review the functioning of each
+component.
+
+3. The Web Module and the Writing Lab would be run directly by the Communication Skills Programme.
+They would rely for personnel on the UG, PG students of the institute. Both the components would closely
+follow the curriculum spelt out by the academic committee.
+
+4. The hands‐on sessions in communication skills would be conducted by the parent departments of the
+students. These, too, would be given detailed guidance by the curriculum worked out by the academic
+committee. Departmental support would be expected here. In terms of departmental effort it would be
+no more than if tutors had been sent for a central communication skills course. A simple and productive
+process would be emphasized, with the help of clear guidelines from Communication Skills Programme.
+
+36
+
+[PAGE 37]
+Appendix VI: Core Mathematics Sub‐committee Report
+
+1.   1st course – Basic Calculus (Finney is a reference): Single variable calculus and concepts of sequences,
+continuity, differentiation and integration have to be introduced in detail. Vector calculus also to be
+discussed in detail. Idea should also be to enable logical thinking. Concepts like divergence theorem,
+Stokes theorem and Green’s theorem may be left out of the syllabus (as these are developed in physics,
+fluid mechanics and other courses taken later). This  is to lower the content of the course. Other
+concerns/ideas:
+–   All proof should not be done. Some results given for formal application.
+–   Introduce more of formal application problems.
+–  About 30% proofs should be given in detail; for certain results only sketch of proof given accompanied
+by detailed notes for further reference or a set of web‐based “Basic analysis lectures” – to augment
+the learning for the keen students (this is extra material over and above the normal course load – not
+to be examined).
+–  Redo the problem set. Harder problems given as “starred” problems, uploaded on the course web‐
+site. The emphasis should be on sound learning of the basic concepts and not too much emphasis on
+the tricks involved in specific problem solutions.
+–   Solve more problems in the lectures, i.e. have problem solving sessions instead of tutorials.
+
+2.  2nd course – the second course should be based on modules of basic linear algebra (20 lectures) and
+ordinary differential equations+ transform methods (20 lectures).
+
+These two courses cover the common material that all departments need. These will be compulsory for all
+departments. Additional mathematics is specialized to departments, and has been broken into modules
+(preferably of 20 hours each), as:
+(a) Introduction to partial differential equations
+(b) Basics of probability theory*
+(c) Numerical methods using MATLAB – this can also be handled by engineering faculty
+(d) Complex analysis
+
+Note that (b) is part of the current ESO209. ESO209 may be taught in a modular form, with students taking
+the first module, the second module, or the full‐course as desired. This allows for more flexibility. The
+student can take a module or a combination of modules, based on departmental requirement. E.g. (a)+(d)
+or (a)+(c) or (b)+(d) or (c)+(d), etc.
+Some of the modules may be offered by engineering faculty also – e.g. module (c) and module (d).
+Under the SO option, the departments may ask students to take two of the three modules. Other modules
+may be added later.
+
+3.  Advanced or specifically designed courses, to give additional exposure to mathematics, may be
+devised and taught by departments internally.
+
+4.  The committee felt that experience with student tutors has not been very encouraging (barring
+exceptions). Hence, a new paradigm of a bigger class of 100‐150 dedicated to problem solving should be
+done (1 hour a week). The class will be conducted by a faculty member. Further, the graduate students
+can be used to evaluate assignments, examination papers, with the instructor as the Head Examiner, and
+
+37
+
+[PAGE 38]
+the faculty tutors as the examiners. However, the graduate students used for the courses should be
+suitably compensated.
+
+38
+
+[PAGE 39]
+Appendix VII: Core Physics Sub‐committee Report
+
+1.  The contents of course Phy102 should be retained and the course should run with 3 lectures a week
+and one tutorial. The course is important for (a) help in developing a scientific temper, (b) serving as a
+prerequisite for more advanced courses. A question was discussed whether the topic of relativity be
+covered in the course.  It was felt that students really like it and it is good for the general education of a
+student.
+
+2.  The course Phy201 has two components:  Electromagnetic theory which is covered in about 30
+lectures and an introduction to Quantum Mechanics that is about 10 lectures. As a result both the parts
+are covered in a rather hectic pace and the course tends to be a bit heavy on the students.  It is therefore
+suggested that the course should cover only Electromagnetic theory but in 40 lectures.
+
+The committee also felt the need for a short introductory course on quantum mechanics. For interested
+engineering students, an optional twenty lecture modular course would be ideal for this purpose.
+
+39
+
+[PAGE 40]
+Appendix VIII: ESC 102 Sub‐committee Report
+
+The following recommendations are made regarding the core Introduction to Electronics course (ESC102).
+
+1. Shift the course to the second year so that students have a better background in relevant math
+concepts.
+2. Reduce the number of topics covered and use the resulting additional time to illustrate important
+electrical and engineering design techniques with examples taken from different disciplines. Some of
+these lectures can also be used to introduce some of advanced concepts such as fast Fourier transforms,
+microprocessors, sensors, etc. at a very high level.
+
+3. Modernize the ESC102 lab through incorporation of suitable hardware and software so that students
+are exposed to current practice in the field. Introduce experiments which use interesting applications to
+illustrate concepts. The possibility of using LabView in some of the experiments was also discussed. It was
+felt that the students should have a first‐hand experience on soldering.
+
+4. Remove the lab lecture.
+
+5. Try to design experiments such that synchronization issues between the lecture material and the
+experiments, if any, are easy to handle. Thus, the pace of the lectures should not be dictated by the
+immediate requirements of the lab.
+
+6. Explore possibilities of designing at least one long experiment (mini‐project), which may need 2‐3 turns.
+Given the size of the class, this may be difficult to implement.
+
+40
+
+[PAGE 41]
+Appendix IX: Outline of Core Chemistry Courses
+
+There should be only one General Chemistry Lecture course (2L + 1T) offered. The details of the course are
+given below:
+
+Title: Introduction to Chemical Sciences
+
+Topics:
+
+1.  Atomic Structure and Bonding: Schrodinger Equation, atomic wavefunctions, orbitals
+2.  Chemical bonding, molecular wavefunctions, molecular orbitals
+3.  Molecular Spectroscopy: Principles of Rotational, vibrational and electronic spectroscopy
+4.  Shape conformation and stereochemistry of organic and inorganic molecules
+5.  Metal Ligand systems
+6.  Reactions and reaction mechanisms in organic/organometallic systems
+7.  Catalysis in chemical, industrial and biological systems
+
+41
+
+[PAGE 42]
+Appendix X: Outline of Core Life Science Course
+
+A. Molecules
+
+1. Effects of water’s polarity: importance of cohesion of water molecules for life; moderation of Earth’s
+temperature; Suitability of water as a solvent for life.
+2. Carbon and the molecular diversity of life.
+3. Polymer principles: most macromolecules of life are polymers; variety from a small set of monomers.
+4. Carbohydrates – structure and function
+5. Proteins – structure and function
+6. Lipids – structure and function
+7. Nucleic acids – structure and function
+8. Introduction to metabolism: pathways; energy transformation  in organisms follow the laws of
+thermodynamics; life at the expense of free energy; enzymes as biocatalysts; regulation of metabolism
+
+B. Cell
+1. Structure: how we study cells; bird’s eye view of cell structure; subcellular structures; organelles;
+cytoskeleton; cell surface and junctions
+2. Membrane structure and function; traffic across membranes
+3. Cellular respiration; photosynthesis; cell communication; cell cycle
+
+C. Genetics
+1. Introduction to heredity: inheritance of chromosomes; comparison of asexual and sexual reproduction;
+meiosis and sexual life cycles; origins of genetic variation
+2. Mendel’s discoveries; extending Mendelian genetics; Mendelian inheritance in human
+3. Chromosomal basis of inheritance: Relating Mendel’s principles to chromosomes; Sex chromosomes
+and sex‐linked inheritance; errors and exceptions in chromosomal inheritance
+
+D. Molecular biology
+1. DNA as the genetic material; DNA replication and repair
+2. Gene to protein: connection between genes and proteins; synthesis and processing of RNA; synthesis of
+protein
+3. Organization and control of prokaryotic genomes
+4. Organization and control of eukaryotic genomes: chromatin structure; control of gene expression;
+molecular biology of cancer
+5. DNA technology and genomics: DNA cloning; DNA analysis and genomics; practical applications of DNA
+technology
+6. Genetic basis of development: single cell to multicellular organism; differential gene expression; genetic
+and cellular mechanisms of pattern formation
+
+42
+
+[PAGE 43]
+Appendix XI: Sub‐committee Report on Engineering Science
+
+Engineering science program is envisaged as a multi‐disciplinary degree program cross‐cutting several
+engineering and science disciplines. The engineering science program  is especially aimed at highly
+motivated students, who would feel constrained within the conventional compartmentalization of
+departments. The proposed program on Engineering Sciences will enable the student to excel in both
+engineering and applied sciences, and will offer the student a great degree of flexibility in choosing
+courses so as to obtain a specialization in a specific track of modern engineering. The progress of modern
+science greatly depends on innovations at the interface of traditional disciplines, and the proposed
+curriculum would give the student an opportunity to specialize precisely in such cross‐disciplinary
+subjects.
+
+1.  Philosophy  of  engineering  science  program: Most  contemporary  scientific and  technological
+challenges such as alternative energy sources, weather prediction, climate modelling, bioinformatics
+etc., cannot be readily classified into traditional engineering or scientific disciplines. Advances in these
+fields inherently require expertise in cross‐disciplinary areas. The proposed B.Tech in “Engineering
+Sciences” program is a step that will train and equip students in specified “tracks” with a particular
+focus on a well‐defined and naturally emerging theme.  Thus, this program, while being cross‐
+disciplinary, at the same time ensures depth in the chosen track. Once the student has acquired the
+“big‐picture” of the track, he/she may choose to go deeper into the subject through a post‐graduate
+program.  Further, many state‐of‐the‐art industrial organizations also require students with multi‐
+faceted exposure and interest. From the students’ perspective, the B.Tech in Engineering Sciences will
+allow them greater flexibility to choose a discipline of his/her interest. For instance, an engineering
+student may wish to gain expertise in a track with fundamental scientific content. Or, vice versa, a
+science student may want to specialize in an applied technological area. Finally, this program will also
+bring faculty members in cross‐disciplinary areas together and foster collaborations.  It is hoped that if
+this foray is successful at the UG level, this will nucleate a similar “Engineering Sciences” program at
+Master's and PhD levels as well.
+2.  Administration: The program will be administered through a Program Coordinator, who will also be a
+member of the Program Undergraduate committee (PUGC). The PUGC will execute all the academic
+responsibilities that the DUGC does, for a regular department. The PUGC will be chosen from faculty
+members from participating departments (four to five members).
+3.  Department size: The committee felt that in keeping with the sizes of normal departments, the size of
+this department should be about 50.
+4.  Tracks on offer: The committee discussed various possible tracks (as proposed in the ARC report). It
+was felt that the tracks should use mostly existing courses across departments; the tracks should have
+a balance between feasibility and logic of offering such a track, and  should have at least 3
+participating existing departments (in terms of course required/offered). The committee therefore
+decided to identify naturally emerging tracks from the existing curriculum and specialization. To begin
+with, few tracks should be offered. Based on the experience gained from this exercise, more tracks
+could be envisaged.
+5.  Curriculum design philosophy: The committee felt that the students should not be constrained to only
+follow narrow tracks, but should be given a basket of courses to choose from within a given track, in
+keeping with the basic philosophy of this program.
+
+43
+
+[PAGE 44]
+6.   First and second year core program: The committee felt that it should first look at the "department
+core" program and then discuss the 1st two years, if need be.
+7.  Proposed tracks:
+
+(1) Various options for tracks are possible. Specifically, the tracks on “Engineering Mechanics”, "Energy,
+Environment and climate (EEC)", “Sensors and Automation Technology” and “Information, computation,
+communication and control (ICCC)” were considered in more detail to create specific implementable
+examples.
+
+(2) Several other possible tracks were also proposed. E.g. modelling and simulation, mathematics and
+computations, molecular engineering, cognitive science and engineering, mechatronics, instrumentation,
+etc.
+
+The committee decided to create detailed outlines for a few tracks. Details of two such tracks are given
+below. These tracks are:
+(a) Energy, environment and climate
+(b) Mechanics
+
+The details are given below.
+
+Energy, Environment and Climate (EEC)
+
+Course Outline
+
+Objective of the track is to prepare the students to work in the industries related to any of the three
+primary areas,  i.e. Energy, Environment and Climate, as well as in the organizations working in the
+interfaces of these areas.  After completion of a set of courses comprising the core curriculum of the
+program, the students will have enough courses available as program electives and open electives so that
+they can pursue in depth studies in any of the areas according to their interest.
+
+The core curriculum of the program will have the following components:
+
+–  Power Generation: fossil fuel/hydrocarbon, hydro‐power, alternative sources such as, wind, solar,
+biofuel and fuel cells.
+–   Storage and Transmission of Power
+–  Environmental systems: water, soil and air pollution due to anthropogenic activities, measurement of
+pollution (laboratory), pollution mitigation, treatment of wastewater, air pollution control, solid waste
+management, environmental impact assessment.
+–   Introduction to Climate and Climate Change
+–   Laboratory: hands on experiments on environmental monitoring techniques, power generation,
+storage and transmission.
+
+The core curriculum consists of 9 courses. The students will be free to choose elective courses from a
+basket of a large number of courses existing in the institute. The sequence of courses is shown in the ARC
+template.  This is followed by a list of suggested courses in the elective basket and suggested course
+contents for the new courses.
+
+44
+
+[PAGE 45]
+Schedule of Courses for the Track EEC
+
+Sem  Course                              Sem  Course
+MTH101 (Calculus)                                                  II    MTH102 (Lin Al, ODE….)
+I
+CHM102                                    PHY 102 (Mechanics)
+PHY101/CHM101(Lab)                           PHY101/CHM101(Lab)
+[TA101  (Engg.  Graphics)+LIF  101]/ESC101        [TA101   (Engg.   Graphics)+LIF  101]/ESC101
+(Computing)                                       (Computing)
+ENG112/HSS‐1                                    HSS‐2 (Level 1)
+*PE101                                        *PE102
+TA101 & LIF101 alternate with ESC 101              TA101 & LIF101 alternate with ESC 101
+III    PHY 201                                         IV    SO‐3: ESO218
+[ESC102(Electronics)/ESO‐1/SO‐1]: ESO202             [ESC102(Electronics)/ESO‐1/SO‐1]
+ESO‐2/SO‐2: ESO 212                               HSS‐3 (Level 2)/DEPT
+DEPT: CE 3614                                    DEPT: ME301
+TA201 (MME)/TA102 (mech)                        OE‐1/DEPT: CHE312
+**Composition (Web Based)                      TA201 (MME)/TA102 (mech)
+V     ESO‐3: ESO209                                   VI    DEPT/OE‐1
+DEPT: AE753 or ME744 (availability)1                 DEPT/HSS‐3 (Level 2): EEM606
+DEPT: ME401                                     DEPT: NC12
+HSS‐4(Level 2)/DEPT                               DEPT: NC22
+UGR1 (Optional)                                 [UGR2/OE/DE]
+OE‐2/DEPT: EE330                                 OE‐3/DEPT: NLab3
+**Comm Skills (Deptt)
+VII    OE‐4/DE‐1                                                VIII   DEPT/OE‐3
+DEPT/HSS‐4(Level 2): CE362                         DE‐1/OE‐4
+DEPT/OE‐2                                          DE‐2/HSS‐5(Level 2)
+HSS‐5 (Level 2)/DE‐2                              OE‐5
+[UGR3/OE/DE]                                   OE‐6
+UGR4 (Extra Credits)
+
+1AE753 and ME744 are both PG courses at present. They have to be given either dual numbering for
+undergraduate courses or create a new undergraduate course with similar course content.
+
+2New compulsory courses for the track (to be created). Suggested course content is given.
+
+3New Laboratory course to be created which will have sessions in 3 existing departmental laboratory
+courses in AE, ME and EE departments. Suggested content is given.
+
+4This course has a large laboratory component (~40‐50% of the course) on environmental monitoring
+techniques.
+
+General Comments: All DEs have to be chosen from the elective basket (given). Students may also choose
+some OEs from this basket if they so wish but it will not be binding on them.
+Elective Basket
+
+PH 304: Introduction to Atmospheric Science
+EEM 603: Ecological and Biological Principles and Processes in Environment
+NT 602: Nuclear and Reactor Physics
+CE 463: Environmental Impact and Risk Assessment
+EE 360: Power Electronics
+CE 414: River Engineering
+
+45
+
+[PAGE 46]
+ME 401N: Energy Systems II
+ME 402: Power Systems
+EEM 613: Atmospheric Physics and Chemistry
+CE 442: Physical and Environmental Geology
+CE 462: Environmental Management in Industries
+CE 717: Groundwater Hydrology and Pollutant Transport
+EEM 609: Fate and Transport of Contaminants in Natural Systems
+ME 690: Alternative Fuels and Advances in IC Engines
+NT 611: Nuclear Power Engineering I
+AE 650: Applied Combustion
+AE 653: Thermal Turbo‐machines
+ECO 341: Environmental Economics and Policy
+ART 405: Architecture and Environmental Design
+ART 406: Environmental Design & Ethics
+ECO 442: Energy Economics
+
+Suggested Course Contents for the New Courses
+
+NC1:Alternative Energy Course
+
+Origin of energy sources: Energy, progress and economics; Origin of renewable sources: Energy cycles of
+earth
+
+Solar radiation: Direct and scattered radiation, energy content, Variability
+
+Wind energy: Kinetic energy and power, variability
+
+Ocean waves: Wave spectra, power density, tides, rivers and hydropower and sustainability
+
+Geothermal energy: Region specific resources, power densities
+
+Biological potential and other sources: Photosynthesis, salinity differences
+
+Energy conversion: Thermodynamics and irreversible thermodynamics in energy conversion, Photovoltaic
+conversion, Turbines, Thermoelectric/thermionic conversion, Electrochemical conversion; Conversion of
+solar  radiation  via  solar  thermal  methods;  Conversion  of  wind  and wave  energy;  Chemical,
+electrochemical, photochemical and electrochemical conversion strategies
+
+Renewable energy storage: Using latent heat, phase change, flywheels, pumped hydro, compressed gas,
+batteries
+
+Energy distribution: Heat pipes, power electronics simulations, load structure, life cycle analysis, break
+even analysis
+
+NC2: Climate Course
+
+Introduction: Climate in the Spotlight; The Spectrum of Scientific Opinions, introduction to physics and
+chemistry of atmosphere.
+
+46
+
+[PAGE 47]
+The Earth’s Natural Greenhouse Effect, Radiative Balance, importance of water, Greenhouse Gases: Role
+of carbon dioxide and methane, major  uncertainties; anthropogenic CO2 Emissions, concerns  of
+developed and developing countries.
+
+The Earth’s carbon reservoirs: biogeochemistry, atmospheric carbon reservoir, breathing of Gaia, missing
+CO2 sink, carbon cycling. Some examples: physical carbon pump, biological carbon pump, marine carbon
+cycle, terrestrial carbon cycle.
+
+Climate and Weather: The Earth’s climate machine, global wind systems, trade winds and the Hadley cell,
+westerlies, importance of monsoon rains, occurrence of seasons.
+
+Clouds, Storms and Climate: Cloud Formation and Climate, Introduction to Global Ocean Circulation; El
+Niño and the Southern Oscillation, and its Effects.
+
+Outlook for the Future: Introduction to Climate Change, Advances in Computer Modeling
+
+NLab: Laboratory Course (Inter‐departmental Laboratory Course)
+
+This is an outline of the laboratory course on energy generation and transmission. The components are
+taken from the existing courses. Therefore, the setup to run the courses exists. Once the track is enabled,
+a detailed session‐wise plan can be formulated.
+–  Experiments in dynamics of machines related to energy generation (Components of existing ME 371)
+–  Experiments in Energy Conversion (Components of existing ME 471N)
+–  Experiments in circuits, control systems and power systems (Components of existing EE 380 and
+EE381)4
+–   Unit Operations in Heat and Mass Transfer (Components of existing CHE 391)
+–  Chemical Reactors, Process Dynamics and Control (Components of existing CHE 492)
+–   Characterization of a two‐stage axial fan (AE propulsion Lab.)
+–  Cascade analysis of a turbine stage (AE propulsion Lab.)
+–  Cascade analysis of a compressor stage (AE propulsion Lab.)
+–  Performance analysis and emission estimates in a continuous combustion unit (AE propulsion Lab.)
+–  Performance analysis of a 2 shaft gas turbine unit (AE propulsion Lab.
+
+Mechanics
+
+Mechanics is central to science and engineering, encompassing from very abstract and fundamental
+mathematical ideas to very practical mechanical gadgets.  This track will expose the students to the
+fundamentals of mechanics through basic theoretical and experimental courses on solid mechanics, fluid
+mechanics, and thermodynamics. After these courses, the students will be encouraged to explore more
+advanced topics in mechanics through higher level courses and projects.
+
+We hope this program will excite students from both engineering and science to take the interdisciplinary
+program.  It also envisaged that similar Masters and Ph. D. level program will be offered in future.
+
+47
+
+[PAGE 48]
+Sem  Course                            Sem    Course
+
+I    MTH101 (Calculus)             3‐1‐0  11      II      MTH102 (Lin Al, ODE,...)       3‐1‐0    11
+CHM102                      2‐1‐0  08          PHY102 (Mechanics)          3‐1‐0    11
+PHY101/CHM101 (Lab)         0‐0‐3  03          CHM101/PHY101 (Lab)        0‐0‐3    03
+[TA101 (Engg. Graphics)+       [2‐0‐   [08 +         [TA101 (Engg. Graphics)+      [2‐0‐2 +  [08 +
+LIF101 (Life Sciences)]/       2+      06]/          LIF101 (Life Sciences)]/        2‐0‐0]/  06]/
+ESC101 (Computing)            2‐0‐   14           ESC101 (Computing)          3‐1‐3    14
+ENG112/HSS‐1                 0]/     11           HSS‐2 (Level 1)                3‐0‐0    09
+* PE101                       3‐1‐3  03           * PE102                      0‐0‐3    03
+3‐1‐0
+TA101 & LIF101 alternate with  0‐0‐3  50          TA101 &  LIF101  alternate         51
+ESC101                                            with ESC101
+
+III    PHY201                       3‐1‐0  11    IV      ESO202 (Thermo)             3‐1‐0    11
+ESC102 (Electronics)            [3‐1‐3/ [14/         ME353 (Dynamics)/CE620    [3‐1‐3/   [14/
+MTH203 (Diff eqns)            3‐1‐0]  11]          HSS‐3 (Level 2)/ DEPT          3‐1‐0]   11]
+ESO 204 (Mechanics of solids)  3‐1‐0  11          ESO212 (Fluid Mech & Heat  3‐0‐0    09
+TA201 (MME)/TA102(Mech)    3‐0‐0  09             transfers)                    3‐0‐0    09
+** Composition (Web based)   1‐0‐3  06          ESO218     (Computational  3‐0‐0    09
+0‐0‐2  02           methods)                    1‐0‐3    06
+TA102 (Mech)/TA201 (MME)
+53/                                            55/
+50                                           58
+
+V     ESO‐3                         3‐1‐0  11    VI      PHY306/SE312   (Order  &  3‐0‐0    09
+ME321 (Adv mech of solids)    3‐0‐0  09           Chaos)                       3‐0‐0    09
+CHE312/ME341 (Heat & Mass  3‐0‐0  09          DEPT / HSS‐3 (Level 2)         3‐0‐0    09
+transfer)                      3‐0‐0  09         ME371 (ME Lab 1)            3‐0‐0    09
+HSS‐4 (Level 2) / DEPT          0‐0‐4  04          DEPT**                       [0‐0‐9/   [09/
+UGR1 (Optional)               3‐0‐0  09          [UGR2/                        3‐0‐0]   09]
+AE331        (Expts        in  0‐0‐2  02           OE/DE]                      3‐0‐0    09
+structures)/New lab                             OE‐3 / DEPT
+** Comm Skills (Deptt)               49/                                           54
+53
+
+VII    OE‐4 / DE‐1                    3‐0‐0  09     VIII     DEPT / OE‐3                  3‐0‐0    09
+DEPT / HSS‐4 (Level 2)          3‐0‐0  09           DE‐1 / OE‐4                   3‐0‐0    09
+AE411/ME471    Laboratory  3‐0‐0  09           DE‐2 / HSS‐5 (Level 2)         3‐0‐0    09
+(ME or AE)                    3‐0‐0  09           OE‐5                         3‐0‐0    09
+HSS‐5 (Level 2) / DE‐2          [0‐0‐9/ [09/          OE‐6                         3‐0‐0    09
+[UGR3/                         3‐0‐0]  09]        UGR4 (Extra credits)          0‐0‐9    09
+OE/DE]
+45                                             45/
+54
+
+48
+
+[PAGE 49]
+Note that:
+
+(1) Out of the three labs, one of them could be developed into a hands‐on laboratory. This could be a
+project based lab.
+
+(2) Few departmental and DE slots are vacant. These will be filled by the student by taking advanced
+courses in any of the preferred direction of specialization, as discussed below.
+
+Suggestions for elective courses for this track
+
+The students should do several compulsory courses for the track (like department core),
+and then they can follow one of the five streams:
+
+1. Solid Mechanics
+2. Fluid Mechanics
+3. Bio Mechanics
+4. Earth and Atmospheric Science
+5. Theoretical Mechanics and Astrophysics
+
+In addition to the core courses, the students in this track will be required to do the following courses
+preferably early in their program (within 5 semesters):
+
+BASIC COMMON COMPULSORY COURSES
+1. ESC 202: Thermodynamics
+2. ESO 218:   Computational Methods  in Engineering  (Basic numerical  algorithms, Computing  in
+C/Fortran/Matlab)
+3. ME 353: Dynamics and Vibrations of machinery
+4. ESO 212: Basic Fluid Mechanics and Heat processes
+5. MTH203: Ordinary differential equations and partial differential equations
+6. ESO 204: Mechanics of Solids
+
+Basic Labs on: Solid mechanics/ fluids/ machines/ dynamics/Design/Computation
+
+ADVANCED ELECTIVES USEFUL FOR ALL (Electives)
+
+PHY401/ME652: Classical Mechanics
+Numerical Methods for PDEs (Finite difference/Finite Volume/Finite elements/spectral)
+MTH 650: Partial differential equations and their applications
+MTH 650: Applied numerical methods
+Advanced Computing Methods
+Parallel Computing Methods
+Nonlinear Dynamics I
+Nonlinear Dynamics II
+
+** Electives from other streams (Modeling & Simulation)
+
+49
+
+[PAGE 50]
+Solid Mechanics (Electives/Departmental electives/courses to fill additional departmental slots)
+SE 394/MTH423: Continuum Mechanics
+ESO 208: Earth Science
+SE312: Nonlinear Dynamics (Order and Chaos)
+AE231: Elements of vibration
+ME 628: Nonlinear Vibrations
+MTH 791: Finite Element Method
+AE601/602: Aerospace engineering (Mechanics of Flights)
+ME622: Mathematical theory of elasticity
+ME 629: Stability of Engineering Systems
+
+Fluid Mechanics (Electives/Departmental electives/courses to fill additional departmental slots)
+AE622: Computational Fluid Dynamics (Basics)
+AE615/ME 634: Computational Fluid Dynamics (Advanced‐ Project based).
+PHY672: Physics of Turbulence
+AE625: Transition and Turbulence
+AE 621/ME 647: Introduction to turbulent fluid mechanics
+AE 617: Boundary layer instability and transition
+MTH 791: Finite Element Method
+AE 619: Intro to Environmental fluid mechanics
+ME 355: Introduction to tribology
+ME 631: Viscous flow theory
+ME 635: Introduction to fluid mechanics
+ME 637: Elements of kinetic theory and rarified gas dynamics
+Hydrodynamics Instabilities
+
+Bio Mechanics (Electives/Departmental electives/courses to fill additional departmental slots)
+BSE 314: Biomechanics
+BSE 441: Evolution of biological machines
+PHY309: Introductory Biophysics
+PHY314: Natural Nano‐machines
+SE 304: Physics of Bio‐materials: structure and Dynamics
+SE 334: Biosystems
+SE 395: Molecular fluid dynamics and microfluidics
+Biological fluid dynamics
+
+Earth and Atmospheric Science (/Departmental electives/courses to fill additional departmental slots)
+SE 397/ESO 208: Earth Systems
+SE 389: Atmosphere and Environment
+CE 640: Earth System Processes
+CE 642: Geological Hazards
+CE 423: Introduction to Earthquake Engineering
+AE 619: Intro to Environmental fluid mechanics
+PHY 304: Introduction to Atmospheric Physics
+PHY 670: Atmospheric Physics
+
+50
+
+[PAGE 51]
+ME 725: Granular Materials
+**Courses of Fluid Mechanics stream
+
+Theoretical  Mechanics  and  Astrophysics  (/Departmental  electives/courses  to    fill  additional
+departmental slots)
+PHY306: Physics of the Universe
+SE 312/PHY306: Order and Chaos
+PHY401/ME652: Classical Mechanics
+PHY 407: Special and General Relativity
+SE 306: Nonlinear Systems
+PHY 412: Statistical Mechanics
+EE 444: Radio Astronomy
+SE 396: Conceptual foundations of mechanics
+AE 487: Space systems engineering
+ME 650: Solar system mechanics
+ME 660: Space mechanics
+ME 725: Granular Materials
+ME 624: Variational Calculus
+AE 641: Space dynamics I
+AE 642: Space dynamics II
+ME 726: Hamiltonian Mechanics and Symplectic Algorithms
+
+RECOMMENDATIONS
+
+1.  Strong interface with mathematics department in applied mathematics side.
+2.  Strong computational laboratory and courses
+3.  There are repetitive courses at advanced levels (600).    It  is possible that we need different
+mathematical or computation courses at 300/400 level that are departmental specific, but we should
+try to merge them at 600 level, where the students have the maturity to see the link.  For IDP
+interactions, it may be advisable to give some of these courses universal numbers like SEs for UG
+courses.
+
+51
+
+[PAGE 52]
+Appendix XII: Administrative/Miscellaneous Issues
+
+This appendix presents the view of the ARC on three pressing issues, namely, attendance, class sizes, and
+tutorials.
+Attendance: It is felt that if Senate approves the mandatory attendance then proper measure needs to be
+taken for maintaining the attendance. One existing method is to assign seats for each student at the
+beginning of the semester and then count the vacant seats in each class. It has its own limitations. More
+technologically sophisticated method needs to be developed, and for that matter, help from competent
+person(s) needs to be taken.
+Class sizes: If proper infrastructure is available then whether the class size is 100 or 500, should not make
+any difference. Based on the viewpoint from faculty time, the committee members feel that 500
+(maximum) seems to be an optimal choice. Infrastructure does not exist at present, and will need to be
+thought of. To encourage more students to benefit from a Minor, there should be no cap on the maximum
+number of students.in a class that constitutes a Minor. If at all, the cap should not be less than one‐fifth
+the batch size (For a batch of 850 students, the cap should not be less than 170). Similarly, the cap on an
+ESO cannot be less than one‐fourth of the batch size. This is to make sure that the students have enough
+options available to exercise their choice of courses.
+Tutorial: ARC has already proposed only one tutorial per week. In the current academic semester a new
+model is in practice, where one tutorial has been converted to problem solving session. If the feed back is
+positive the same model should be continued.
+Student lounge: Each department should have a student lounge with reading/library facility. This will help
+students to utilize their time in between classes ,and otherwise, efficiently. One such student lounge
+should be there close to the LHC as well.
+Duration of each lecture: The classrooms are now quite spread out.  Typically students take about 10
+minutes to change‐over. The effective duration of most classes as of today appears to be 50 minutes. ARC
+proposes that this be now regularized. Each lecture hour be 50 minutes to allow a 10 minute change‐over
+time.
+Supplementary examinations: Students who do not do well in the end‐semester examination may be
+offered an option to appear in a supplementary examination. This was discussed in great detail. Following
+points came out: (a) It should have the same weightage as the end‐semester examination. The concept of
+continuous evaluation has to be kept in mind. (b) Should it be clubbed with Make‐up examinations? (c)
+Some preparation time is required. The December Semester does not appear to allow that. (d) Too much
+work for Instructors (e) Perhaps, the Supplementary Examination need not be administered to  all
+students; only to some who have put in a certain minimum effort in the course. This may be determined
+by the Instructor. (f) There must be an upper limit on the grade that such a student can receive. Even if a
+student does extremely well in Supplementary Examination, does s/he deserve an A? The committee
+decided against holding Supplementary Examinations.
+Slow paced programme: The committee noted the following: a) The slow‐paced programme at this point
+is only in Math and Physics.b) Several students are already undergoing the prepartory course. c) The
+Physics preparatory programme at this point leads to a problems for students who take PHY103 in the first
+semester and than opt for PHY102S after the mid‐term examinations. Since PHY103 is not offered in
+Summers, they must take  it in third semester of their programme. However, this clashes with their
+Department courses/OE/HSS and leads to build‐up of back‐logs. This causes major discontentment in the
+students. d) In the present system, several students are advised to go for slow‐paced based on their
+performance up to the  first mid‐semester examination, but many do not opt for  it. e) The ARC
+recommendation is to hold only one mid‐semester examination. This will cut‐short the period for the slow
+
+52
+
+[PAGE 53]
+paced course. f) In the new ARC proposal, a student can drop a course up to a week before the end‐
+semester examination.g) In a credit based system, the student may choose the pace of their program by
+registering for +/‐ 20% credits compared to normal load. In view of these observations, the committee
+recommends that there is no need to continue with a slow‐paced programme.
+
+53
+
+[PAGE 54]
+Appendix XIII: Example Dual‐degree Course Structure
+
+In the following, two dual‐degree examples are shown: a BTech from any department followed by an
+MBA; BTech from any department followed by an MTech in Nuclear Engineering and Technology (NET)
+
+A. Structure of B. Tech.‐MBA Dual Degree
+1.  In the existing/proposed UG structure, for BT‐MBA dual degree, a UG student can take (i) one MBA
+core course in seventh semester, (ii) two MBA core courses in eighth  semester, and (iii) 12 MBA
+courses (core and electives) in the fifth year.  It would be possible for a student to get a BT‐MBA dual
+degree with this course structure. IME department will decide later on the combination of core
+courses and electives, and the sequence of the courses to be offered.
+2.   It is proposed to explore the possibility of student taking the core IME course on Economics as a
+substitute to the HSS elective Economics course as these courses are essentially similar and this will
+allow a student to take one more MBA course. Likewise, there may be overlap with any other HSS
+course and this should be considered while designing the program.
+3.   If ARC’s proposal of modular courses is accepted and implemented, this will further increase the
+flexibility of taking more elective MBA courses. The details of this structure would be decided later
+based on the number of modular courses that are offered.
+4. MBA program has an important and compulsory component of summer internship. This is done during
+the summer period after first year of MBA program as majority of the core courses (about 12 core
+courses) are offered in first year. This is also important from student’s perspective as summer training
+provides an opportunity to get a pre‐placement offer (PPO). In the present structure as listed in item
+(1) above, a UG student can only possibly take 3 core courses before summer internship. This may not
+be sufficient for summer internship. In this context, items (2) and (3) are significant and would
+contribute to an appropriate design of the program.
+
+B. Structure of BTech followed by MTech in NET
+
+Table 5. Dual Degree B. Tech – M. Tech (Nuclear Engineering and Technology)
+
+Department   Structure of B.Tech ‐ M. Tech or M.Sc        Proposed structure of B. Tech
+‐M. Tech (NET)
+CE             7 PG electives in CE (7th, 8th, 9th sem)      5 PG courses in NET ( 4
++ M.Tech Thesis in CE.                  compulsory + 1 NET elective)
+and 2 open electives + M.
+Tech Thesis in NET.
+EE             6 PG electives ( 5 open + 1 Dept) in      Same as above.
+7th , 8th , and summer semester and
++ M. tech Thesis in EE.
+ME             6 PG electives ( 5 Dept + 1 open) +       Same as above.
+M.Tech Thesis in ME.
+PHY            7 open electives + Project.            Same as above.
+Proposed B. Tech/BS Program          Same as above.
+6 open electives.
+
+54
+
+[PAGE 55]
+Appendix XIV: Sub‐committee Report on TA201
+
+The committee visited the two laboratories associated with the above mentioned course and evaluated
+the experiments that students perform during the course.  Discussions were held about the theory and
+experimental components of the course. The committee also discussed the administrative aspects of the
+course.
+
+Observations of the committee:
+
+1.  The course is a must for all undergraduates. Further, based on the feedback, the students also enjoy
+hands‐on exposure to manufacturing processes.
+2.  Laboratories for the course run  all five days a week with each section performing two sets of
+experiments each week.
+3.  Project is an essential part of the course and students should get more time to devote to the projects
+that they undertake in this course. However, it is seen that designing a project that uses facilities in
+both the laboratories is quite difficult.
+4.   It is difficult to get tutors for this course, particularly because it deals with both the mechanical as well
+as the metallurgical manufacturing processes.
+5.  There is lack of sufficient number of trained technical staff required to run the laboratories properly.
+Further, better coordination between technicians from the mechanical and metallurgical laboratories
+is needed for smooth running of the course.
+6.  Because of a large number of students who take this course, first two weeks of laboratory work are
+essentially wasted because the students are not settled either in their sections or it is not clear which
+group do they belong to.
+
+Points that the committee considered:
+
+1.   Is theory component necessary in this course?  If yes, what is the proper number of lectures required
+for each component (mechanical and metallurgical) of the course?
+2.   Is it good to have one course that combines the mechanical and metallurgical components or will it be
+better  if we instead run two courses, each focusing on the individual aspects of manufacturing
+processes.
+3.  Could one design courses that put more emphasis on one component (mechanical or metallurgical) of
+the course and then give students a choice of choosing one of these depending on their taste?
+4.   Is the training good if students do a project that combines both the mechanical and metallurgical
+processes or would the training be as effective even if the two are not linked?
+
+Conclusions and recommendations of the committee:
+
+1.  Theory and experiments: The committee is of the view that theory forms an important part of the
+course. To impart proper theoretical knowledge, about 20 lectures are required for the mechanical
+component of the course and about 28 lectures for the metallurgical component. Further one 3 hour
+laboratory is needed for each component.
+2.  Projects form an important part of the course and more time should be devoted to them. In fact after
+the initial run of the practice experiments, real learning in this kind of course is done through project
+work.
+3.   It is required – but practically not possible ‐ that the course have tutors who are equally interested in
+both the aspects of the course.
+
+55
+
+[PAGE 56]
+4.  The committed therefore recommends that instead of having one combined course on manufacturing
+processes, we should have two courses. The course covering the mechanical part will have one 1.5
+hour lecture per week and one laboratory of three hours. The course on introduction to metallurgical
+processes will have two 1‐hour lecture per week and one three hour laboratory.  In each semester,
+half the batch will be doing one course while the other half the other course.
+5.  The courses proposed take care of many difficulties being faced by instructors running the course in
+its present form.   It takes care of the main problem of finding tutors who are interested. More
+importantly it gives students more time for their project work which very important in learning the
+material covered in these courses.
+
+56
+
+[PAGE 57]
+Appendix XV: Open House Feedback
+
+The open house held on 21st February, 2009 was very well attended with active participation of about 80‐
+100 faculty colleagues. The meeting began with opening remarks by Sanjay Mittal followed by a
+presentation of the report by Rajiv Shekhar. The floor was than thrown open to remarks/suggestions from
+all. In addition to the comments during the Open House, suggestions also came via e‐mails/discussions
+from colleagues. The comments have been classified in one of the following seven categories:
+
+A: Degree options                           B: Attendance/graduation requirement/evaluation
+C: Communication skill                    D: Core structure
+E: Implementation                             F: UG research
+G: Miscellaneous
+
+A: Degree options
+
+–   Five‐year MSc should be retained (through JEE as an entry option).
+–  Can the duration of the dual‐major program be made flexible e.g., may go beyond five years? This may
+reduce the pressure on the faculty members.
+–   Consider the employment angle of the four‐year BS program.
+–  The structure of minor and the sequence of courses for each minor should be clearly specified.
+–   Consider the option of ``better'' degrees for better students e.g., honors.
+–   Consider the time tabling issues that come with minors and half‐semester courses.
+–  The dual‐major program should not be time‐bound.
+–  To facilitate implementation, groups must be defined for the second major. For example, ME & AE; EE
+& AE/ME; CHE& CHM, CHM & BSBE, MTH & CSE. How will these appear in transcripts?
+–  BT/MT dual degree through JEE should be retained.
+–  The structure of the Engineering Science program should be clearly prescribed. Also, one needs to
+consider the employment opportunities after going through such a program.
+–   Consider the implementation issues for minor.
+–   Every minor must have an adequate lab component.
+–   Consider a ``fast track'' different program for students interested in doing research.
+–  Dual major appears to be a better option compared to minor as far as time tabling goes.
+–  Reward students in some way who opt for research. Reward good students.
+–   Consider multiple exit options.
+–   Integrated programs should stay e.g., integrated PhD.
+–   Consider multiple entry points independent of JEE.
+–   Consider extra project‐oriented courses for good students and introduce an A* grade.
+
+B: Attendance/Graduation requirement/Evaluation
+
+–   Graduating CPI: instead of 4.0, it should be 4.5. Retaining 5.0 was also suggested by some.
+–  Report class attendance (as a percentage or a fraction) in the transcript; something like attendance
+index (0‐1).
+–   Instead of having a lower graduation CPI requirement for weak students, is it possible to reduce the
+credit requirement (e.g., thirty two courses instead of forty courses) for them? This may better cater
+
+57
+
+[PAGE 58]
+to the greatly increased spread in the preparedness among the students.
+–  Attendance in class cannot be a criterion for admission to examinations.
+–  No student should be terminated, but the institute commits the resources toward a student for only
+four years.
+–  The graduation requirement must include obtaining passing grades in all core courses.
+–   Associate attendance with grades e.g., 90% attendance is required forgetting A.
+–  Attendance requirement is a good way to grow the sense of ethics among the students.
+–  One mid term/One end semester exam is good. Can be supplemented by more projects and oral exam
+type evaluations.
+–   Finer grading (A+, A, B+, B, B‐ etc.)
+
+C: Communication skill
+
+–  Emphasis should be placed on technical writing when preparing the lab reports.
+–  Need appropriate guidelines for the departmental component of the communication skill course.
+–   Let the JEE team handle the English diagnostic test.
+–  Teach English as a foreign language. Allocate extra semester for students weak in communication and
+teach them English in this extra semester (possibly the first semester).
+–  Mention of D0 in the communication skills report should be removed.
+–   Hire professionals for teaching communication skill courses.
+–  Make the technical communication skill course optional.
+
+D: Core structure
+
+–  Seek department feedback for core structure e.g., some departments may want more than two math
+courses in the core program.
+–  A ``research lab'' component can be associated with the UG labs where new experiments can be tried
+out. This can be made department‐specific.
+–  Take department opinion in deciding a minimal core program.
+–   Participation of members of the different faculties may not be a pragmatic option for running the core
+program.
+–  There should not be any time limit for completing the core courses (e.g., a two‐year time bound is too
+restrictive).
+–  Make core, level‐1, level‐2 HSS course placement more flexible.
+–   Students need more exposure to computing. There is a need for a second computing course.
+–  Make the core more flexible i.e., different departments may want different cores.
+–  Can the core science courses be moved to second and third semester. Have no science courses in first
+semester to break the monotony for the student.
+–  Need another course related to Computers as a follow up of ESC101
+
+E: Implementation
+
+–  Opine on increased student population in tutorials.
+–  Modular course structure may be good for manufacturing science courses.
+–  Have only two lecture hours per week instead of three. Allow students to take a large number of
+courses. This may reduce the complication of time tabling.
+–   Instead of half‐semester courses, have two‐lecture semester‐long courses.
+
+58
+
+[PAGE 59]
+–  Have supplemental instructors (SIs) for conducting the tutorials. These positions are filled by students
+who got high grades in the past offerings of the course. Leave the tutorial scheduling to the SIs (e.g.,
+can be held in the residence halls). The SIs get paid by the institute.
+–  Take into account the widely varying competence of students in the class.
+–   Off‐load some portions of management‐related activities in teaching to scientific officers and good
+students.
+–   Consider the entire proposal in the light of implementation issues. Specifically, attendance, electives,
+time‐tabling.
+–  Not enough OE's at present to choose from. Each department must offer two OEs and these must be
+placed in the OE slots.
+–   Fix the types and time table slots of the modular courses.
+–   Trimester system may bring more flexibility.
+–   Tinkering requires more resources such as labs etc.
+
+F: UG research
+
+–   Consider the possibility of introducing industrial training.
+–  Making BTP and industrial training optional is contradictory to the fact that ARC wants to emphasize
+exposure to experimental science.
+–   Consider 4‐6 weeks of internship at the end of the 3rd year.
+–  Tour of Indian industry during the 3rd year.
+–   Consider two weeks of community service at the end of the 2nd and 3rd year. Expose students to the
+lives of ``ordinary'' citizens. Identify ways to improve their lives by better and more efficient
+technology. Students should prepare a business case (economic viability) for such technology and may
+take up BTPs on these topics.
+–   Relate industrial work with senior‐level course contents. Relate research with national needs.
+
+G: Miscellaneous
+
+–  So many new Institutes have come up. What is the objective of IITK's education? What is our brand
+value? How are we different than others. This is to be sorted out at all levels. For example, all courses
+must have a description of the objectives of that course.
+–  The issue of Washington Accord and international credit compliance.
+–  Value education: emphasize on value creation among the students through NSS, NCC, and yoga.
+–   Consider the grading scales.
+–  There should be another open house at a later date.
+–   Consider a course on ethics, civic duties, and responsibilities.
+–   Consider a monitoring committee for overseeing teaching.
+–  Do not only look at student point of view. Also look at ways to make the curriculum and its
+implementation faculty friendly so that they have more time for research.
+–  Mentor young faculty members.
+–  Have a week long course on “living life” for first year students. This might be useful in teaching them
+to to learn to take decisions.
+–  Need to review electives. Presently they are proposed and never reviewed.
+–   Electives must be offered only of there are a minimum number (decided apriori) of students.
+–  We need about 4 TA courses to allow for Design, Synthesis, Tinkering and Industrial Interactions.
+
+59
+
+[PAGE 60]
+Table 6. Summary of the data from the feedback forms (43 respondents)
+
+Questions                                     Responses
+
+Yes    No    Total
+
+Graduating CPI being 4.0                        15     27    42
+
+B.Tech. in Engg. Science                        29     08    37
+
+Minor                                       37     04    41
+
+How much should be compulsory                 * Please see the
+Math/Physics/Chemistry/Life‐Science Content      comments below
+
+BTP becomes optional                          26     04    30
+
+80% Mandatory attendance                     30     11    41
+
+Modular courses                              30     02    32
+
+Semester v/s Quarter                          36 (S)   04(Q) 40
+
+One v/s Two mid sem exams                       23(O)   15(T) 38
+
+BT‐MT dual degree is not offered at time of JEE but  36     06    42
+can be opted later by interested candidates can opt
+for it later
+
+M.Sc. Integrated is not offered at the time of JEE  29     09    38
+(instead, 4 yr BS is offered).  Interested candidates
+can opt for it later
+
+PE/CPA has slots in the time table                 23     05    28
+
+Possibility of dual major/degree                  31     04    35
+
+Possibility of MBA after BTech/BS                 26     11    37
+
+* Some of the comments made by respondents for Q4 are:
+
+   1/4th of the total course
+  8 courses in total
+  2 in each subject (8 in total)
+   6‐8 courses
+  2 courses in MTH and rest should be department specific
+   Science course should not be diluted. There should be basic emphasis on the basic contents of the course.
+  30% each in Math, Physics, and Chemistry
+  Do not change MTH to 2 from existing 3
+  1 course in PHY, CHM and BIO is OK. 2 courses in MTH is OK.
+  25% interdisciplinary, 25% HSS or Open Elective
+  2 MTh, 1 PHY, 1 CHM, 1 LIFE Sc + Labs
+   100‐150 credits
+   Let it be decided by the Dept
+  30‐35%
+
+60
+
+[PAGE 61]
+  The proposed break up is OK
+   3, 2, 1,1 each in MTH, PHY, CHM, & Life Sc
+   Equal distribution
+  Keep ~20% for each one
+  More emphasis on applied MTH
+   60%, 25%, 15% in Profession, Sciences and HSS respectively
+
+61
+
+[PAGE 62]
+Appendix XVI: Department Feedback on Interim Report
+
+1. Salient features from the interim report and questions asked to the departments
+
+A. Salient features:
+
+1.  A completely credit based system, with 400‐420 credits required for graduation with a Bachelors
+degree. In this system, credit weightage will be calculated on the basis of the amount of student‐time
+required for the course, using the following formula:
+2.  C (credit) = L (lecture hours) + T (tutorial hours) + Practical (lab hours) + SS (self‐study)
+
+3.  Where SS = 2L + T + a (assignments), where 0 ≤ a ≤ 2.
+
+4.  Graduating CPI to be 4.0 (in line with passing grade being D)
+5.  JEE entrants may also opt for a B.Tech. in Engineering Sciences, an interdisciplinary degree not limited
+to any one department.
+6.   All JEE entrants may opt for a Minor – a sub‐specialisation in their own department, in any other
+department (including HSS), or a proposed interdisciplinary minor.
+7.  The category of Science Electives (SE) is abolished. Instead, students will take a minimum of 10 credits
+(one full‐semester course), or a maximum of 35 credits (approx. three full‐semester courses) as their
+Science Option (SO) as part of their elective core programme.
+8.  In the compulsory core programme, students will be required to do only TWO Maths courses.
+9.  In the compulsory core programme, students will have the choice of doing EITHER CHM102 OR
+CHM103.
+10. TA201 has been split into two courses – TA102 (ME) and TA 201 (MME)
+11. HSS courses (except in the first semester) will not have tutorials. One HSS slot has been added, taking
+the total of HSS slots to five. Students will have to take a minimum of 20 HSS Level I credits (two full‐
+semester courses), and a minimum of 27 HSS Level II credits (three full‐semester courses).
+12. There is a provision for Modular courses which are short 20‐lecture half‐semester courses (with half
+the credit weightage of a regular full‐semester course). Departmental courses and all Electives may
+be offered in this format.
+13. DO (Introduction to Profession) has been deleted from the curriculum. Departments may choose to
+use one of their departmental core courses for this purpose.
+14. The B.Tech Project (BTP) has been made optional.  Students, however, may opt for UG research
+through three optional slots, and one extra slot for anyone who wants to take extra research credits in
+the final semester.
+15. Two communication skills courses have been added as part of the required programme – a web‐based
+composition skills course (in the third semester), and a department specific communication skills
+course (to be designed by individual departments) in the fifth semester.
+16. Discussion Hour has been deleted from ALL courses.
+17. 80% attendance is made mandatory in a course for a student to appear in its end‐term examination.
+18. The category of Academic Probation (AP) to be abolished; students with SPI less than 4.5 to be placed
+on Warning (W), while students will CPI less than 4.0 to be Terminated.
+19. All JEE fresh entrants will be admitted only for a Bachelors degree (B.Tech. or B.S.).  Students may
+later opt for a dual degree (one extra year), which may either be an M.Tech./ M.S. or a second Major
+in another department.
+
+62
+
+[PAGE 63]
+B. List of questions for the departments:
+
+1.  A Minor – an area of sub‐specialisation – will consist of 27‐36 credits.  What Minors could your
+department offer? Please specify the ideal structure of the minor (courses and their order). What
+interdisciplinary minors could you offer in association with other departments? What would be their
+structure?
+2.  What would be the structure of 2nd B‐Tech/B.S. degree (Major) in your department for students from
+other departments? Specifically, what should be the minimum number of credits for award of the 2nd
+degree? What should be the course / credit mix (choice of electives and core courses) for 2nd degree?
+3.  Do you think there should be an option for a B.Tech (Honours) degree? If so, what should be the
+criteria for giving this special honours degree?
+4.  Should there be an  exit option for students who consistently underperform during the core
+programme at IIT Kanpur? If so, what form should this exit option take?
+5.  In the proposed curriculum, a student may take a maximum of 35 credits (three full‐semester courses)
+and a minimum of 10 credits (one full‐semester course) under the ESO category. Which ESO courses
+would you make compulsory for your department?
+6.  In what ways can your department integrate communication skills as a necessary evaluation criteria in
+some of your department courses?
+7.  Should we switch from the pattern of two midterm and one end‐term exam to one midterm and one
+end‐term exam for all courses?
+
+Table 7. Summary of departmental responses to the salient features and the questions
+
+Legends: Y=YES, N=NO, D=DIVIDED, NR=NO RESPONSE
+
+AE      BSBE  CE     CSE   CHE CHM   EE   HSS  MTH ME  MME  PHY     IME
+Credit‐based      Y        Y     Y      Y      Y    Y      Y    Y     Y     Y    Y      Y        Y
+Grad. CPI 4.0     NR     NR   NR   N     NR   Y    N   NR   N    N   D    N       NR
+Minor           Y        Y     Y      Y      Y    Y      Y    Y     Y    N    Y      Y        Y
+2nd Major        Y        Y     Y    N      Y    Y    N   NR    Y     Y    Y      Y       NR
+Mod. courses    NR     NR   NR    NR    NR   Y     NR  NR    Y    NR   Y     NR      NR
+Optional BTP    NR     NR   NR    NR    NR  NR    NR  NR    Y    N   NR   N       NR
+Comm. skill       Y      N    N    N      Y    Y    N   NR   N     Y   N      Y       NR
+Attendance     NR     NR   NR   N     NR  D    N   NR    Y    N   NR    NR      NR
+Abolish AP      NR     NR   NR    Y     NR  NR    NR  NR   N    NR  NR   N       NR
+BS through JEE   NR     NR   NR   N     NR  NR    NR  NR   NR   NR  NR   N       NR
+Honours       N       Y     Y     NR    Y    NR   N   NR   N    N    Y     NR       Y
+Exit options      Y        Y    NR    NR    Y    Y    N   NR   N    N   N     NR       Y
+One mid‐term    Y      N     Y     D      Y   D    N   NR   NR   N   N      Y        Y
+
+63
+
+[PAGE 64]
+2. Detailed responses from the departments:
+
+AEROSPACE ENGINEERING
+
+1.  With the understanding that the faculty of the department accepts the proposal of the current ARC, in
+principle, the committee has restarted the process of framing the department’s undergraduate
+curriculum – as per the guidelines of the ARC. The group discussed the questions posed by ARC to the
+department. The answers are:
+
+2.  Minors are a good proposition and 3‐4 courses per minor is satisfactory.
+
+a.  The  group  looked  at  possible  options,  and came up  with some  possibilities:  (a)
+Turbomachinery (can be offered together with mechanical): propulsion 1, thermal turbo‐
+machinery, design of turbo‐machinery; (b) Combustion: Propulsion 1, applied combustion,
+theory of combustion, rocket combustion design;  (c) Turbulence; (d) Viscous flows; (e)
+Computational mechanics (with solids or fluid specialization): Numerical analysis, CFD or Intro.
+To FEM, Advanced CFD or FEM for fluids or Nonlinear FEM; (f) Stability and control; (g)
+Structural dynamics: (MOS and dynamics prereq.) mechanical vibration (discrete systems),
+vibration    of    continuous    systems,    aeroelasticity/random    vibrations/nonlinear
+vibrations/advanced structural dynamics, acoustics/dynamics and controls.
+
+b.  More options can be created in future.
+
+3.  For a 2nd major in Aerospace (for students from outside the department), the course structure will be
+given after the department freezes its basic core structure – all mandatory professional courses have
+to be taken
+
+4.  No special degree is required for good students. Acknowledgement of performance could be done by
+giving certificates/ keys type recognition, grade of A* in a course, etc.
+
+5.  For weak students exit option is OK. However, the group feels that student should have atleast cleared
+the 3rd year level courses (another alternative is all the mandatory departmental core, i.e. what is
+required for a second major) and spent atleast 4 years at IITK. The group could not converge on the
+appropriate name for such a degree – diploma in Aerospace Engg. could be one.
+
+6.  The ESO courses that the departmental students should take are: ESO204, ESO212, ESO202. Optional
+ESO’s are: ESO216, ESO214, ESO218.
+
+7.  The department likes the idea of stressing upon communication skills in the courses. This will be done
+through presentations and seminars. Lab. Courses will have a mandatory (1/2 hr. ) part on report
+presentation; a seminar course in the 6th semester is also mooted (in a 20 hr. module). The student
+will prepare and present on a topic, based on literature review.
+
+a.  More rigour in design report preparation and presentation + mandatory presentation in
+aeromodelling.
+
+8.  The group would like 1 mid‐term examination and 1 end‐semester examination.  It also strongly
+recommends conducting only one examination per day (centrally organized exam. Schedule)
+
+64
+
+[PAGE 65]
+a.  The group also discussed the preliminaries of the curriculum structure: 2 aero. Lab. Classes,
+one 20 hr. lab. Theory module; one 20 hr. flight lab. Module.
+
+9.   It also discussed having 3 courses in aerodynamics+propulsion combined; the first course in FM can be made
+into a 20 hr. module with aeromodelling added to it (to make a full course) to be offered in the 4th or 5th
+semester; a course on control theory should be introduced; a course on space mechanics should also be
+added; one compulsory structures course will be offered – rest in specialized DE courses.
+
+BIOLOGICAL SCIENCES AND BIOENGINEERING
+
+The Interim Report was discussed at the Faculty Meeting held on March 10, 2009. The outcome of this
+discussion on specific topics is listed below:
+
+–  Minors
+  The department favors minors at sub‐topic level, rather than at department level.
+  A minimum CPI – members agreed on 8.0 – should be essential to choose minors.
+    It will be great to have interdisciplinary minors – a group of 6‐7 courses from multiple
+departments from which 3 are chosen to qualify for a given minor.
+  One potential minor is Computational Biology. The department will soon come up with a few
+more titles.
+–  Second Major
+   Credits required should be 40.
+   All department core courses will be essential.
+  A minimum of 9.0 CPI will also be essential.
+   Only a certain number of seats will be made available.
+–  Honors
+  Honors is a good idea.
+   Should be based on performance (CPI) + Honors project.
+  Honors project will have a pass / fail grade.
+   This project will not be required for the basic B.Tech. degree.
+–   Exit option: A certificate – not a diploma – may be provided.
+–  Compulsory ESO: Fluid mechanics
+–  Communications skills: Department can not handle this.
+–  Number of Midterm exams: Two.
+
+CHEMICAL ENGINEERING
+
+1. A minor‐ an area of sub‐specialization‐  will consist of 27‐36 credits. What Minors could your
+department offer? Please specify the ideal structure of the minor (courses and their order). What
+Interdisciplinary minors could you offer is association with other departments? What would be their
+Structure?
+
+CHE MINOR
+
+ChE minor to consist of four courses with the first three courses being D3, D6 and D7 and the fourth
+course being a choice between D9 or D10.
+
+D3: Chemical Engineering Thermodynamics
+D6: Mass Transfer
+D7: Reaction Engineering
+And
+D9: Process Control or D10: Process Design
+
+65
+
+[PAGE 66]
+INTERDISCIPLINARY MINORS (ChE participates)
+
+Minor in “Meso/Nano scale Engineering”
+
+ChE 688:     Colloids and Interface Science
+ChE XX:     Introduction to Nano‐Science and Technology
+ChE659:     Process Engineering Principles in Microelectronic Fabrication
+Basket of courses from other departments may inclide MS617 (Organic Electronics), ME689 Microscale
+thermal engineering), MME467 (Materials for Semiconductors industry) and MME688 (Nanomaterialsi
+Processing and Properties)
+
+Minor in “Polymers”
+
+ChE672:  Polymer Processing
+ChE676:   Engineering Applications of Rheology
+ChE677:   Introduction to Polymer Physics and Rheology
+Basket of courses from other department may include courses from ME in polymers related area (?).
+
+2. What would be the structure of 2nd B‐Tech/B.S. Degree (Major) in your department for students from
+other departments? Specifically, what should be the minimum number of credits for award of the 2nd
+degree: What should be the course/credit mix (choice of electives and core courses) for 2nd degree?
+
+SECOND B TECH DEGREE IN CHE
+
+Second B Tech in ChE requires completion of all the 103 department specific core credits.
+
+3. Do you think there should be an option for a B.Tech (Honors) degree? If so, what should be the criteria
+for giving this special honors degree?
+
+PROVISION FOR B TECH (HONORS)
+
+B Tech (Honors) to be awarded to UG students accomplishing significant research (through UGR credits).
+Honors awarded only to students with Min. overall CPI of 7.5 and at least 9.0 grade average in the UGR
+credits. A research minor may b awarded to students not satisfying the Honors criteria but successfully
+completing all 31UGR credits.
+
+B Tech with distinction may be awarded to meritorious students satisfying a min CPI criterion.
+
+4. Should there be an exit option for students who consistently underperform during the core programme
+at IIT Kanpur: If so, what from should this exit option take?
+
+EXIT OPTION FOR STUDENTS UNDERPERFORMING IN THE CORE PROGRAME
+
+An underperforming student may be allowed to exit from the program after completing ~ 200 credits. The
+credits should not be restricted to “Core Courses” only. Appropriate Certificate to be given to the students
+making an exit. Exit option to be exercised only after minimum of three years residence. Both the students
+and the Institution can exercise the option. Consultation with parents/ guardians in the exercise of the
+option is recommended.
+
+5. In the proposed curriculum, a student may take a maximum of 35 credits (three full‐semester courses)
+and a minimum of 10 credits (one full‐semester course) under the ESO category. Which ESO courses
+would you make compulsory for your department?
+
+66
+
+[PAGE 67]
+1. ESO202‐ Thermodynamics
+
+2. ESO214‐ Nature and Properties of Materials
+
+6. In what ways can your department integrate communication skills as a necessary evaluative criteria in
+some of your department courses?
+
+Given the emphasis on the need to improve students’ communication skills, it is desirable to have group
+projects/term‐papers with presentations towards the end of the semester in all courses (including lab
+courses). Developed course contents may explicitly highlighted the same. Department sub‐committee
+may suggest a few sample term‐papers/group projects.
+
+7. Should we switch from the pattern of two midterm and one end‐term exam to one midterm and one
+end‐term exam for all courses?
+
+TWO MID TERM EXAMINATIONS VS ONE MID‐TERM EXAMINATION
+
+To ensure continuous evaluation, the one mid‐term examination may be supplemented with two quizzes
+(duration 20‐30 mins each).
+
+CHEMISTRY
+
+Credits
+Chemistry Department supports the proposed  ‘CREDIT’ based  credit system. The graduation
+requirement of 400‐420 credits appears reasonable.
+
+Graduation Requirements
+The CPI 4.0 was felt to be sufficient to graduate by most department colleagues. However, concerns
+were raised that lowering CPI requirement could erode academic values of IITK system.
+
+Degrees
+
+Chemistry department  strongly  supports  the recommendation  that  B.Tech.  (Engg.) and  B.S.
+(Sciences/Economics) will be of 4 years duration.
+
+Although the concept of ‘MINOR’ in a second branch was received well, it was felt that modalities
+should be chalked out carefully. It should be prudent to start with a fixed set of minors having clearly
+defined requirements and preset time table.
+
+Along the same line, the department, in principle, supports the option for a second degree at the end
+of III year. As noted before, the details must be worked out very carefully so that it fits well with the
+course structure and the time table. Students should be able to exercise these choices offered without
+much difficulties. A well‐meaning initiative must not get blocked because of flawed implementation
+procedures.
+
+Regarding the Chemistry ‘MINOR’, discussions indicated that there should be at least 5 courses of
+about 40‐45 credits. A departmental committee has been constituted to discuss the Chemistry minor.
+It was felt that the minor, if offered, will be a General Chemistry minor without any specializations. For
+a second BS degree in Chemistry, the department felt that at least 100 department credits should be
+credited by a student.
+
+Academic Programme
+
+67
+
+[PAGE 68]
+The proposed  break‐up  (HSS/Science/ESC/TA/Electives  etc)  of  the academic program seems
+appropriate and chemistry department supports it.
+
+The chemistry department, in general, agrees with essential features of the proposed core program.
+
+With respect to the choices of certain courses particularly about ESO/TA the Department needs more
+time to deliberate which ESO courses are needed and whether both TA courses are needed for a
+Chemistry graduate.
+
+With respect to the Chemistry core course, the department felt that offering two courses is fine.
+Students will have the choice to decide which course to opt for. The other course may be taken by the
+students as an elective if they so decide. It was noted that the course content of these courses have
+not been defined, and the department would like to actively participate in that process.
+
+Modular courses
+
+Chemistry department felt that the ‘Modular Course’ is an excellent idea and reflect the flexibility and
+originality introduce in the core program
+
+Exit Option
+
+Chemistry department felt that an EXIT option should be offered for a student who consistently
+underperforms. (Can be a diploma).
+
+Communication Skills
+
+It was felt that communication skills can be imparted by having a written/oral presentation of some of
+the lab experiments. Secondly by insisting original lab reports written communication skills can be
+improved.
+
+Examination Pattern
+
+The Department had a divided opinion on having one mid‐sem vs two mid‐sem exams.
+Tutorials
+The Department supported one tutorial per week for the core course and scrapping of the discussion
+hour.
+Attendance
+No clear opinion emerged on this issue.
+
+CIVIL ENGINEERING
+
+1.  A Minor – an area of sub‐specialization – will consist of 27‐36 credits. What Minors could your
+department offer? Please specify the ideal structure of the minor (courses and their order). What
+interdisciplinary minors could you offer in association with other departments? What would be their
+structure?
+
+2.  Principally the department agreed with the idea of a minor ‐ an area of sub‐specialization. However, it
+was suggested that instead of intra departmental faculty members, the faculty members from
+different departments should come forward and offer the minors. Few major thrust areas have been
+identified to be offered as minors such as Mechanics, Climate Science, Atmospheric Science and
+Earthquake Engineering. The structure can be formulated later after discussions with faculty members
+of other departments.
+
+68
+
+[PAGE 69]
+3.  What would be the structure of 2nd B‐Tech/B.S. degree (Major) in your department for students from
+other departments? Specifically, what should be the minimum number of credits for award of the 2nd
+degree? What should be the course / credit mix (choice of electives and core courses) for 2nd degree?
+
+4.  The department agreed to this point also provided one must declare at the end of 3rd year that
+he/she wants to go for a major. In that case, the graduating criteria should be exactly in line with that
+required by the department in which he/she wants to pursue his/her major. The credit requirement
+was proposed to be 25‐30% extra over the normal requirement.
+
+5.  Do you think there should be an option for a B.Tech (Honours) degree? If so, what should be the
+criteria for giving this special honours degree?
+
+6.  The department expressed that there is a need to reward the better students in the class by evolving
+some mechanism, particularly with the large number of students in the class at present. The
+mechanism could be B.Tech (Honours) or something else but in no case it must be coupled with CPI.
+
+7.  Should there be an  exit option for students who consistently underperform during the core
+programme at IIT Kanpur? If so, what form should this exit option take?
+
+8.   It was decided that there is no need to discuss upon the matter related to the exit option at this stage.
+
+9.  In the proposed curriculum, a student may take a maximum of 35 credits (three full semester courses)
+and a minimum of 10 credits (one full‐semester course) under the ESO category. Which ESO courses
+would you make compulsory for your department?
+
+10. It was suggested to continue with the existing ESO courses without any further change.
+
+11. In what ways can your department integrate communication skills as necessary evaluative criteria in
+some of your department courses?
+
+12. It was pointed out that a lot of avenues are already available to improve the communication skills and
+therefore, there is no need to open any new channel. However, there was a suggestion where the
+students can take the initiative to structure a communication course and take the whole responsibility
+to run the same in which any faculty member should only monitor.
+
+13. Should we switch from the pattern of two midterm and one end‐term exam to one midterm and one
+end‐term exam for all courses?
+
+14. The department agreed to the pattern of one midterm and one end‐term examination for all courses.
+However, it was suggested to keep the system flexible to decide the exam pattern for case to case
+basis.
+
+COMPUTER SCIENCE AND ENGINEERING
+
+1.  ARC proposes that admission be made for BTech and students may be able to decide about changing
+to dual degree later.
+
+2.  There was not much support for this proposal. The following was suggested.
+a.  Students are admitted to 5 yr programme, and may leave after 4 years.
+b.   It was noted that DD students exiting with BTech is made logistically difficult due to 498/499.
+This perhaps may be alleviated with BTP not being made compulsory.
+
+3. On a more general note, SB observed that the current ARC does not address the PG program. The
+interim report cannot be addressed in isolation, when the total resources are fixed.
+
+69
+
+[PAGE 70]
+4. On the issue of Core courses. There was considerable diversity of opinion. There could be department
+specific core. There  is no need for a common intersection of courses across the departments.
+Departments give guidelines for core. The core could be viewed as general eduction‐‐in this view,
+specify the minimum number of credits in Physics, Math, Chemistry or BioChemistry that must be
+taken by students.
+
+5.  ARC suggests that every student may do a minor. It was felt that this may be allowed, provided
+department load does not increase. Also it was felt that from a scheduling standpoint, it may be very
+difficult to keep department load constant. Again it was reminded, that the proposals for the PG and
+the UG programs should be discussed in tandem.
+
+6.  Further discussion on Minor: A collection of a sequence of courses will be offered, if the students can
+manage to complete them, then they can get a minor.
+
+7.  Second BTech degree: Dept not in favour of second BTech degree as it will increase the load on
+faculty.
+
+8.  "B.Tech light" degree as an exit option had strong agreement. For example: 20% less of CS core and
+professional courses. Also have a BTech Honours degree that requires students to do a BTP. Eligibility
+for different degrees: CPI as a basic criteria‐‐other criteria to be discussed.
+
+9.  Communication Skills‐ Dept may not take lead role. Recommend to JEE for testing language skills.
+
+10. 2 midsem versus 1 midsem: Opinion was divided with no agreement.
+
+11. Credits formula: for CSE‐‐no formula for labs, since labs are unsupervised. Hence CSE courses will get
+smaller credits than they deserve. To handle this, the additional component for the credit calculation
+(the parameter A) should be allowed to have a value up to 4.
+
+12. Recommendations for Esc101‐‐ ESc 101 committee report may be considered when tabled.
+
+13. Graduating CPI: 4.0 ARC proposes to make it 5.0. Separate minimum CPI for Btech light. Agreed in
+principle.
+
+14. Engineering Sciences Degree: Dept felt that it cannot comment without due details.
+
+15. ARC: 1/3 courses should be electives. Generally agreed.
+
+16. ARC: Science Elective abolished, 10‐35 credits as Science option (1‐3 courses). Generally agreed.
+
+17. Compulsory 2 math courses: agreed.
+
+18. Choice between Chm 102 and Chm 103: agreed.
+
+19. TA 201 split between TA Mechanical and TA Materials: agreed.
+
+20. HSS: 5 courses= 2 first level + 3 second level: agreed.
+
+21. 2 credit courses‐‐agreed.
+
+22. D0 deleted‐ agreed.
+
+23. BTP made optional. BTP research: 4 research slots as OE/DE may be used for BTP.
+
+70
+
+[PAGE 71]
+24. Dept strongly opposes dept specific technical writing skills‐ Dept does not intend to design such a
+course.
+
+25. 80% attendance compulsory‐‐rejected.
+
+26. Only AP, no WR ‐‐ agreed.
+
+ELECTRICAL ENGINEERING
+
+1. Departmental Minors
+
+Minor is a sub‐specialization within Electrical Engineering department and will consist of 27‐36 credits
+(three courses). It should be encouraged in principle. However, minors will increase faculty load. Hence
+some limit on the number of students has to be imposed. The student opting for minor in Electrical
+Engineering will have to take EE200 as a compulsory course. He can take any other two EE courses
+subjected to prerequisite fulfillment out of which at least one course should be at 300 or higher level.
+Some suggested minor courses are give as follows. The figure given here is only for a guideline. The
+student is free to choose two remaining courses from EE courses (other than EE200).
+
+Course Structure for Minor in Electrical Engineering
+
+ESC 102                        EE200
+
+EE210              EE311/EE370                Microelectronics/
+Digital Systems
+
+EE330*              EE360                      Power
+
+EE320                 EE301/EE321           Communications    &
+Signal Processing
+
+EE340             EE612/EE642/EE648        RF  Engineering  and
+Photonics
+
+EE250                EE650                  Controls
+
+* ESO210 is a prerequisite for EE330
+
+The Minor system cannot be implemented unless the Timetable permits the student to take these
+courses. Timetable is the responsibility of DOAA. It is advisable to have centralized timetable for all
+courses and the timetable should be fixed for the next five years. Repercussion of fixing the timetable in
+advance is that the timetable decides the faculty courses. This may be unpleasant at times. However,
+flexibility should be allowed in the timetable of PG (600 level) courses.
+
+2. Interdisciplinary Minors
+
+Offering interdisciplinary minors  is not very straightforward. The background (prerequisite) for such
+minors should be fulfilled. There  is a need of blending the existing courses of two departments or
+structuring new courses in two different departments to offer these minors.
+
+71
+
+[PAGE 72]
+3. Second B.Tech. Degree in Electrical Engineering
+
+Considering that EE Dept. will be offering minor courses, the second degree in Electrical Engineering will
+increase the faculty load. The possibility of second B.Tech. program was extensively discussed in the
+faculty meeting.  It was felt that the minor courses should be offered and tried successfully before
+undertaking the second B.Tech. degree. Hence the second B.Tech. degree in Electrical Engineering will not
+be offered by EE Dept.
+
+4. Suggested ESO courses for Electrical Engineering
+
+(max.: 35 credits or 3 courses; min.: 10 credits or one course)
+
+Compulsory:
+
+ESO210 (Introduction to Electrical Engineering)
+
+ESO209 (Probability and Statistics)
+
+One out of three:
+
+ESO202 (Thermodynamics)
+
+ESO211 (Data Structures and Algorithms‐I)
+
+ESO214 (Nature and Properties of Materials)
+
+5. Should there be an option for B.Tech. (Honours) degree?
+
+The criteria of awarding a B.Tech. (Honors) degree is not very clear. One option is to make the B.Tech.
+(Honors) degree based on good performance in BTP. However, in the proposed ARC report, BTP  is
+optional, and hence performance in BTP cannot be a criterion for awarding B.Tech. (Honors) degree.
+B.Tech. (Honors) degree based on CPI does not have much merit. Hence EE Dept. is not in favor of a
+separate B.Tech. (Honors) degree.
+
+6. Passing CPI of 4.0
+
+Passing CPI of 4.0 will degrade the standard. In major universities, the total passing percentage is more
+than the passing percentage in individual courses.
+
+It is suggested to retain the passing CPI as 5.0. The structure of WR and AP should be maintained.
+
+7. Should there be an exit option for students who consistently under‐perform during core programme
+at IIT Kanpur? If so, what form should this exit option take?
+
+It is suggested to retain the passing CPI as 5.0. The structure of WR and AP should be maintained.
+
+A student enrolled for a B.Tech. / M.Tech. (dual)/ M.Sc. programme will not be happy with a degree less
+than what he/she has enrolled for. Awarding a Diploma of IIT after three years is one of the options
+discussed as this will ensure some employability to the student. However, awarding a Diploma after 3
+years will create confusion as IITs are known for awarding B.Tech./ M.Tech.(dual)/ M.Sc. degrees to JEE
+entrants. Any certificate from IITK without having some employability will not serve any purpose.
+
+Thus there should be no exit option.
+
+72
+
+[PAGE 73]
+8. In what ways can your department integrate communication skills as necessary evaluative criteria in
+some of your departmental course?
+
+Many EE faculty members offering 600 level courses for final year B.Tech. Students introduce presentation
+as a part of the course evaluation. Students opting for BTP will have to present their work and submit a
+technical report of the BTP. Thus, the communication skill test is implicitly implemented in many final year
+courses. Students opting for UGR courses will have to present their work before the faculty advisor.
+Hence, no separate communication skill course is required for the students.
+
+9. Switch from two midterms and one end‐tem to one midterm and one end‐term exam.
+
+The two mid‐semesters and one end‐semester system is better as the students study and are evaluated
+uniformly throughout the semester. The student has better chance to recover. In view of increased
+number of students, more student tutors can be inducted. This will help in reducing the load of grading
+the answer scripts.
+
+10. 80% compulsory attendance
+
+Making 80% attendance is difficult to implement. Issues regarding the students who fall marginally below
+80% of attendance need to be addressed. It is often difficult to take attendance for very large classes.
+
+Humanities and Social Sciences
+
+1.   It was reiterated that  all HSS Level 1 and Level 2 should have 4 contact hours, including one
+tutorial/lab hour.
+
+2.  There should be a 10‐minute gap between classes.
+
+3.  Minors would be offered by each discipline. A student who has passed four courses in any discipline,
+without any particular order, would be eligible to receive a minor in that discipline.
+
+4.  English discipline’s recommendation on course modification (vide Minutes of the DUGC held on 26
+March 2009, Item 2) was approved.
+
+Industrial Management and Engineering
+
+1.  The department is willing to offer a minor in Management. The course mix of the proposed minor can
+be structured later.
+
+2.  Exit option is very much needed. Perhaps all such students at some point, say after 3rd or 4th
+semester can be put through a separate channel for two more semesters and then given a BSc or such
+like degree.
+
+3.  Honours Degree‐ This can be introduced. All students can be initially admitted to the Honours degree,
+and  if a student performs below a certain level (CPI) in the core courses, the student must be
+transferred to the General programme. Alternatively, all students can be initially admitted to the
+General Programme. In this case, students performing above a certain level can be transferred to the
+Honours programmes of the respective departments. However, the graduating requirements for the
+honours students should be more stringent than for the general programme students.
+
+73
+
+[PAGE 74]
+4.  Only one mid sem exam should be there.
+
+MATHEMATICS AND STATISTICS
+
+The following issues emerged during the discussions, on the interim report of the ARC, at the faculty
+meeting held on 6th, 9th and 19th March 2009.
+
+1.  In principle the idea of second degree is fine. However, the implementation guidelines must be spelt
+out.
+
+2.  Duration of the 2nd degree: The normal duration of the 2nd degree must be spelt out.
+
+3.  3. A common nomenclature  for  all 4 year academic program was suggested. For example:
+BS(discipline) such as BS ( ME) or BS (Physics).
+
+4.  The existing minimum CPI and W/AP rules should be retained. However the pass credit option (PCO)
+should be revived.
+
+5.  In keeping with the objectives of producing global humane Indians, a few courses on Value Education
+(say through NCC, NSS) are desirable.
+
+6.  The credits assigned to the professional courses in the given templates are based on the assumption
+that there will be no tutorials. However, some departments may wish to continue with tutorials,
+amounting to a requirement of greater number of credits to complete the academic program. The
+minimum number of credits required to complete the academic program of a department should be
+left to the department.
+
+7.  UGR1‐UGR4: A mechanism should be evolved so that only serious students are able to exercise this
+option.
+
+8.  There should be a requirement for minimum attendance. However, the students may get exemption,
+in very special cases, from the concerned instructor.
+
+9.  The time table for all courses, including department courses, should be centralized. This is particularly
+necessary with the introduction of minors and the second degree.
+
+10. Non‐intrusive course monitoring is not clearly spelt out.
+
+11. The Department of Mathematics and Statistics will be able to offer only 2 modular courses.
+
+12. It is not possible to cover the basics of Probability and Statistics in one modular course.
+
+13. Tutorial sessions by senior undergraduate students based on payment should be encouraged.
+
+The following are the responses to the questions posed for the department:
+
+1. Possible minors by the department ‐ this will be decided by the various groups.
+
+2. All compulsory department courses should be done in order to obtain the second degree.
+
+3. No B.Tech(honors) degree.
+
+74
+
+[PAGE 75]
+4. No exit option. The present system is working well.
+
+5. ESO 211 ‐ Data Structures and Algorithms‐ should be the only compulsory ESO course for the
+Mathematics students.
+
+6. It is not possible to introduce communication skills in a formal way. However, informally this
+could be achieved by ensuring that the students do take part in discussions in every course.
+
+Proposed Minors in Mathematics and Statistics
+
+I. Minor in Scientific Computing (Linear Algebra)
+
+1. Linear Algebra
+2. Principles of Numerical Computation
+3. Numerical Linear Algebra
+4. Applied matrix theory
+
+II. Minor in Scientific Computing (ODE)
+
+1. ODE
+2. Principles of Numerical Computation
+3. Numerical Solutions of ODE
+4. Parallel Numerical Algorithms
+
+III. Minor in Scientific Computing (PDE)
+
+1. PDE
+2. Principles of Numerical Computation
+3. Numerical Solutions of PDE
+4. Introduction to Computational MRI, MRS, and NMR / Parallel Numerical Algorithms
+
+IV. Minors in Differential Equations (DE), Fluid Dynamics (FD), Mathematical Biology (MB):
+
+1. MINOR‐I (DE‐1)   : MTH407, MTH421, MTH424, MTH625.
+2. MINOR‐II (FD‐1)  : MTH423, MTH523, MTH662, MTH694.
+3. MINOR‐III (MB‐1) : MTH603, MTH606, MTH661, MTH658.
+4. Minor‐IV (MB‐2): MTH 606, MTH601, MTH762, MTH694
+5. Minor‐V (DE‐2): MTH 421, MTH 424, MTH405, MTH656
+6. Minor‐VI (FD‐2): MTH 662, MTH656, MTH630, MTH‐693
+
+V. Minors in Analysis:
+
+1.  Analysis I
+Analysis II
+Distribution Theory and Fourier Analysis/ Fourier Analysis/ Functional Analysis
+2.  Analysis I
+Complex Analysis
+Fractal Interpolation and Applications/ Functional Analysis
+3.  Analysis I
+Topology
+
+75
+
+[PAGE 76]
+Differential Geometry/ Algebraic Topology/ Functional Analysis
+4.  Analysis I
+ODE
+PDE
+5.  Minor in Discrete Mathematics:
+MTH 202 ‐ Discrete Math,
+MTH 302 ‐ Logic,
+MTH 204 ‐ Algebra and
+MTH 401 ‐ Theory of Computation.
+
+NOTE: At least one minor in Probability and Statistics will also be possible. However, the structure of that
+minor is related to academic review of two‐year M.Sc. (Statistics) program and will be finalized after the
+review of two‐year M.Sc. (Statistics) program is over.
+
+MECHANICAL ENGINEERING
+
+The philosophy behind the development of an ideal UG curriculum proposed by the academic review
+committee (ARC) is well appreciated by the Department. The Department during the discussion felt that
+there is no explicit mention about how the proposed new curriculum will be successful in alleviating the
+weaknesses of the present curriculum identified by the ARC. The proposed curriculum should be
+correlated with the weaknesses of the present curriculum. Further, the success of any curriculum depends
+on the  feasibility of  its administrative implementation. In the proposed curriculum, some of the
+implementation issues are not clear. They should also be carefully looked into.
+
+Some of the issues related to above comments are presented below in a point wise manner.
+
+1.   It has been proposed in the new curriculum that the student tutors should man the discussion hour. In
+view of this, the department proposes that all the tutors (students and faculty both) should attend the
+lecture classes of the course instructor‐in charge, The student tutors should have offices in the
+department, and the department should make sure that the student tutors do not register for the
+courses whose classes clash with the lectures & discussion hours of the courses in which s/he is a
+tutor.
+
+2.  The department feels that the present credit based system is well understood worldwide and  it
+conforms to the international standard/practice. Hence, the proposed credit system should be re
+looked into from the point of view of its merits and demerits.
+
+3.  In the proposed graduation requirements, the graduating CPI has been lowered down to 4.0 from 5.0.
+The department does not feel it appropriate because the graduating percentage of 40% is followed in
+the universities where absolute marks grading scheme is in place. In such systems, normally the best
+student gets about 80% marks. In the letter based grading scheme of IIT Kanpur, the highest score of
+best student is 100%. Therefore, dropping the graduation requirement to 4.0 CPI becomes lower than
+the universities following absolute marking system. It is also felt that students with lower CPI may not
+be welcomed by the outside world and would have difficulties in getting the right kind of job
+opportunities.
+
+4.  The proposal on second B.Tech. Degree requires some additional considerations. The students are
+likely to face difficulties in selecting their courses due to the prerequisite requirements (both core and
+departmental) and timetable constraints. In  all likelihood, their graduation date  is going to be
+stretched beyond the stipulated time.
+
+5.  The department had many queries and apprehensions about the new proposed separate degree
+program in engineering science. For example, will there be a separate department for the general
+administration  (i.e. head, DUGC, industrial training for the B.Tech. in engineering science)? The
+
+76
+
+[PAGE 77]
+students in engineering science stream will take courses in other departments, and their course work
+will depend on the regular course structure proposed by the parent department. Timetable clash and
+prerequisite requirements will add to the constraints of the students in engineering science stream in
+selecting the appropriate courses.
+
+6.  The new curriculum proposes inter‐departmental participation in teaching/tutorship of core courses
+(i.e. science departments participating in engineering department courses and vice versa).  It  is
+proposed that the participation in tutorship between engineering and science departments can be
+encouraged but certain apprehensions were expressed about the interdepartmental teaching lecture
+classes the inter‐departmental participation between science and engineering stream for core course
+teaching may also lead to additional preparation workload on the faculty.
+
+7.  The PE (Physical education) courses are offered in first year only in both the existing and proposed
+curriculum. However, it is felt that the introduction to physical education should be gradual with soft
+option like yoga, jogging, swimming etc. in the beginning. The PE courses should be redistributed to
+later semesters. The physical education  is relevant to students throughout their stay in the UG
+program not for the first year students only, and should be introduced in a gradual manner. The new
+proposal for tutorship of the PE courses by faculty members from different departments can be
+difficult as enough number of competent faculty members may not be available.
+
+8.  The department agrees with the modification suggested by ARC related to the TA 101 i.e. Engineering
+Drawing course. However, the department does not agree with the observation in the ARC report
+about the existing TA course in manufacturing to be heavy and therefore does not favor splitting the
+TA201 course to TA102 (ME) & TA201 (MME). However, the department suggests the TA201 course to
+be offered as an optional core course. The departments should be given an option to opt out of the
+TA201 course if they feel so.
+
+9.  The proposed new curriculum supports the systems engineering oriented courses similar to the
+existing BTP course being run in the Department of Mechanical Engineering. The department
+recommends the BTP to remain in overall curriculum of the institute.
+
+10. The departmental specific communication course (Semester V) should not be made compulsory on all
+departments. The department should be allowed to introduce project based communication course
+content in their regular laboratory course structures.
+
+11. The policy on attendance should be left to the instructors instead of the institute policy of minimum
+80% attendance to appear in the final examination. As a first step, the institute has to formulate the
+policy of taking attendance in large core classes. This can be an unnecessary administrative load on
+the institute.
+
+Response to Questions posed to the departments
+
+1.  The department is not in favor of offering any minor sub specialization.
+
+2.  The students should take all compulsory departmental courses including the prerequisites to get the
+2nd B.Tech. Degree.
+
+3.  The department doesn’t favor introducing B.Tech. (Honours) degree.
+
+4.  4. The department does not favor any exit option for the under performing students in core courses.
+
+5.  The department would like to retain the status‐quo of the ESO courses as in the present curriculum:
+(1) ESO 202 (Thermodynamics), (2) ESO 204 (Mechanics of Solids), (3) ESO 210 (Introduction to
+Electrical Engineering), (4) ESO 214 (Nature and properties of Materials)
+
+6.  The department will integrate project based communication course contents with the laboratory
+courses.
+
+77
+
+[PAGE 78]
+7.  The department does not encourage switching from two mid‐term pattern to one midterm pattern.
+
+MATERIALS AND METALLURGICAL ENGINEERING
+
+1.  Point on Self Study "SS": Prevous implict formula is fine. How to quantify SS rationally appears to be
+an important issue. Some of us did not agree to include SS explicitly in the formula.
+2.  Point on credit based system: General opinion was in favour of a credit based system.
+3.  Point on AL formula: General opinion is in favour of Earlier formula
+4.  Point on attendance: The faculty was divided though a majority was in favour of imposing mandatory
+attendance criterion
+5.  Point on all four year degree: Vast majority of the members opined in favour of all 4 year UG program
+at IIT Kanpur
+6.  Graduating CPI: The house was divided evenly on this issue ‐6 (Yes) and 4 (N) on lowering of passing
+CPI to 4.
+7.  Majority was in favour of B. Tech, in Engineering Sciences, but successful implementation would
+require
+i.    Proper program guidance of student possibly through a virtual or real DUGC
+ii.    Having many within departments/ inter‐department minor options with fixed timetables
+iii.    Question about placements of graduating students are also to be considered
+8.  Majority  in favour of Minors, but implementation  difficulties  in terms of timetable,  etc. are
+summarized in DARC report.
+9. MME is also in favour of second major in another department.
+10. MME suggests that TA should not be split into two courses rather it should continue as only workshop
+course without lectures. Class room teaching can be substituted by well developed videos to be seen
+before/after the workshop. We also recommend single project incorporating MME/ME related
+processes.
+11. HSS: In favour of expanding HSS elective, but Management should not be a part of HSS.  It can be an
+open elective offered by IME.
+12. Modular courses: MME in favour of modular courses with one exam.
+13. Teaching of communication skills should be part of both UG and PG program.
+14. Comments on proposed 4‐year Bachelor degree program
+15. If student’s have the option to choose one chemistry course, then Physical Chemistry should be part
+of both courses.
+16. PHY102 and PHY201 should have same credit or PHY102 should have less. We think that most of
+PHY102 is covered in JEE.
+17. 4th Semester is overloaded. Our suggestion is to move OE‐1/DEPT from this semester.
+
+Response from the dept. of MME on various specific questions.
+
+1.  A minor‐ an area of sub‐specialization‐  will consist of 27‐36 credits. What minors could your
+department offer? Please specify the ideal structure of the minor (courses and their order). What
+interdisciplinary minors could you offer with other departments? What would be their structure?
+
+We are for minor‐ an area of sub‐specialization.    It is however noted that if all departments offer
+more than the required number of compulsory courses ( also detach lab component from courses,
+introduce fixed time table), then minors will have evolve automatically out of the compulsory
+
+78
+
+[PAGE 79]
+departmental UG teaching program. It will be very difficult to sustain the concept of minor unless the
+above ideas (large number of courses and fixed timetable) are implemented.
+
+2.  What would be the structure of 2nd B.Tech/B.S. degree (Major) in your department for students from
+other departments? Specially, what should be minimum number of credits for award of 2nd degree?
+What should be the course/credit mix (choice of electives and core courses) for 2nd degree?
+
+The department is also in favour of Major. All designated compulsory courses together with two other
+elective courses will constitute the major in the department of MME.
+
+3. DO you think there should be an option for a B.Tech.(Honors) degree? If so, what should the criteria
+for giving this special honors degree?
+
+Yes, there should be provision for B.Tech. (Honors) degree. The following criteria are proposed;
+
+  The student should not have F grade in any course
+  UGR2 and UGR3 must have B grade
+   Graduating CPI should be above 8.5
+OR
+
+The student secures CPI above 9.0, if he/she does not take UGR in his/her academic program.
+
+4.  Should there be an exit option for students who consistently underperform during the core program
+at IIT Kanpur? If so, what form should this exit option take?
+
+We are not in favour of an exit option
+
+5.  ARC:  In the proposed curriculum, a student may take a maximum of 35 credits (three full semester
+courses) and a minimum of 10 credits (one full‐semester course) under the ESO category. Which ESO
+courses would you make compulsory for your department?
+
+ESO courses
+
+   Nature and properties of Materials
+  Mechanics of solids
+   Rate phenomena
+
+6.  In what ways can your department integrate communication skills as a necessary evaluative criterion
+in some of your department?
+
+It is a highly subjective issue and would tend to very from one person to another. The institute may
+consider to address the communication skills at the entry level of the student at IIT Kanpur.
+
+7.  Should we switch from the pattern of two mid ‐term and one end‐term exam to one mid term and
+one end‐term exam for all courses?
+
+Existing pattern of two midterm examination suffices
+
+8.  Opinion on Credit system
+
+Credit system as proposed by IARC is OK.
+
+9.  Graduating requirement
+
+79
+
+[PAGE 80]
+The graduating CPI should be 5, not 4 as proposed by IARC. The grading system should be re‐looked
+at. With overall “poor” grade a student should not graduate from IITK.
+
+PHYSICS
+
+These suggestions and views are based on the Minutes of the Special Faculty Meeting held on March 01,
+2009, and subsequent discussion of ARC Special Group  in physics to articulate the views of the
+Department.
+
+1. General Comments
+  The effort of ARC was appreciated. The suggested reforms were generally considered to be in the right
+direction.
+  The analysis in the first part is good, but it is unclear how those issues are addressed in particular in
+the later recommendations! The changes required in the content are major and mere incremental
+changes may not be effective. The tuning of the structure alone is not enough to get the desired
+results.
+  The ‘Science based Engg. Education’ may need a clearer articulation keeping the present context in
+mind, though there can be no going back on this.
+   Flexibilities provided will work only  if a) the exact target audience is identified; b) the fraction of
+students likely to benefit is estimated; c) conditions of access are laid down and d) responsibility for
+making the
+   Particular flexibility work is fixed.
+  The flexibility of minors and second degree has the potential of changing the academic ambience by
+making disciplinary barriers porous and movements easier.
+   Flexibility in duration may be desirable to account for large variation in speed and style of internalizing
+concepts. To reduce stress ceremonial aspects of awarding degree may be done away with.
+
+2. B.S. Degree Entrance Criteria
+  The B.S. degree will be a non‐standard degree to start with and prospective candidates at JEE
+counseling will not have clear ideas about its future and hence genuinely good students interested in
+Science degree may shy away. The degree may then be filled up with lower ranking students,
+especially in the face of competition in the environment form new Institutions and other Programmes.
+
+3. Graduation Criteria of CPI being 4.0 and above
+  The sharp numerical criteria of CPI less than 4.0 for termination will not work since in our system we
+are used to look at individual cases. In effect the AP cases will move to the CPI band 3‐4. This may be
+invitation to many to habitually neglect studies only doing the minimum required to be in AP or just
+avoid AP.
+
+4. CORE Programme
+  The advantages of allowing a student in the core programme to choose sequencing of core courses at
+her own will were debatable. May be this option can be given to the Departments rather than
+individual students. Logistics of offering each of the courses to number of students and half the batch
+doing at any time does not make it organizationally feasible either.
+   Taking half courses at the core stage was not favored by many. This may be tied out in later into eh
+programme or in the PG part. The courses anyway give a dismembered view of a subject – half
+courses would accentuate this undesirable feature. Half courses can be of use to experienced people
+80
+
+[PAGE 81]
+with maturity when the academic goals are sharpened so that they know what exactly they want and
+what for.
+
+5. PROFESSIONAL Programme
+  Most people were not in favour of making Projects optional. An undergraduate programme should be
+capped by an integrating project. Our failure to regulate and administer projects should not lead us to
+abandon it. Instead more majors should be taken to streamline the project. In fact it should become
+one’s best part of the UG programme.
+   There is a difference between UG Research and UG Project. UG Research should be only for the highly
+motivated. Only a small fraction of the UG Projects would normally qualify as UG Research.
+   Projects must carry letter grades and be compulsory. Project work should not be de‐emphasized as
+suggested in the interim proposals.
+6. Answers to Some Questions for the Department
+  A Minor – an area of sub‐specialization – will consist of 27‐36 credits. What Minors could your
+department offer? Please specify the ideal structure of the minor (courses and their order). What
+interdisciplinary minors could you offer in association with other departments? What would be their
+structure?
+See Below
+
+  What would be the structure of 2nd B‐Tech/B.S. degree (Major) in your department for students from
+other departments? Specifically, what should be the minimum number of credits for award of the 2nd
+degree? What should be the course / credit mix (choice of electives and core courses) for 2nd degree?
+See Below
+   In what ways can your department integrate communication skills as a necessary evaluative criteria in
+some of your department courses?
+  Through Presentations in Project Courses and Introduction to Department.
+   Should we switch from the pattern of two midterm and one end‐term exam to one midterm and one
+end‐term exam for all courses?
+  Most people seem to favour single Midsem Exam, though there are some who think tow midesems
+benefit students.
+   Suggested Course Structure for Second BS Degree (Physics Major)
+Semester I
+Phy 401 (Classical Mechanics)
+Phy 461 (Experimental Physics I)
+Phy 552 (Classical Electrodynamics)
+*** / OE
+DE1 (Department Elective)
+
+Semester II
+Phy 412 (Statistical Mechanics)
+Phy 432 (Quantum Mechanics II)
+Phy 462 (Experimental Physics I)
+OE / ***
+DE2 (Department Elective)
+Note:
+
+81
+
+[PAGE 82]
+1) Most students going for a Physics Major will have probably taken Phy 431 (QM) earlier; if they have not,
+Phy 431 (Quantum Mechanics I) must be taken in the OE slot.
+2) *** is one of Phy 407 / 524 / 543
+
+Suggested Physics Minors
+
+Astrophysics
+305 (Physics of the Universe)
+407 (Special and General Relativity)
+CM/QM
+
+Atomic Physics
+QM
+524 (Atomic and Nuclear Physics)
+
+Bio Physics
+309 (Introductory Biophysics) / 310( Physics of
+Bio‐materials)
+617 (Physics of Natural Nanomachines) / 619 (Statistical Physics of Biomolecules and Cells) / 641
+(Elements of Bio Medical Physics/ suitable elective (BSBE)
+
+Chemical Physics
+QM
+524 (Atomic and Nuclear Physics)
+Suitable elective (Chemistry)
+
+Computational Physics
+473 / 625 (Computational Methods in Physics)
+627 (Computer Simulations in Physics)
+Suitable elective e.g. on Fluid Dynamics (ME/AE)
+
+Condensed Matter Physics
+QM
+412 (Statistical Mechanics)
+543/622/634/642/624 etc. (any
+Condensed Matter Physics course)
+
+Energy and Environment
+301 (Energy)
+Sociology (HSS)
+Environment (covering sensors) (CE)
+
+High Energy Physics
+QM1
+QM2
+680 (Particle Physics)
+
+82
+
+[PAGE 83]
+Laser Technology
+303 (Principles of Lasers and their Applications)
+643 (Lasers and Laser Spectra) / 644 (Quantum Electronics)
+Elective (LTP)
+
+Low Temperature Physics
+QM
+634 (Low Temperature Physics)
+Experiments in different laboratories
+
+Mathematical Physics I
+(Algebraic Topology Differential Geometry)
+Elective (MTH)
+
+Mathematical Physics II
+QM
+Mathematics and Philosophy
+407 (Special and General Relativity)
+612 (Group Theory)
+
+Materials Physics
+QM
+308 (Modern Theories of Material Design)
+suitable elective (MSP) / 621 (Electronic Structure of Materials
+
+Nano Physics
+QM
+629 (Physics and Terchnology of Thin Fims) / 631 (Physics of Semiconductor Nanostructures) /617
+(Physics of Natural Nanomachines) / suitable elective project (FIB/other lab)
+
+Non‐Linear Dynamics
+306 (Order and Chaos)
+322 (Nonlinear Systems)
+elective on computations (e.g. ME)
+
+Nuclear Techniques
+QM
+543 (Condensed Matter Physics)
+638 (Nuclear Techniques in Solid State Studies)
+
+Physics and Philosophy
+305 (Physics of the Universe)
+QM
+Philosophy (HSS)
+
+Plasma Physics
+303 (Principles of Lasers and Applications)
+
+83
+
+[PAGE 84]
+552 (Classical Electrodynamics I)
+690R (???)
+
+Quantum Information Theory
+QM
+elective (CSE)
+
+Quantum Optics
+QM
+307 (Modern Optics)
+646 (Coherence Optics) / ???
+
+Semiconductor Physics
+QM
+312 (Quantum Processes in Low‐dimensional
+Semiconductors)
+628 (Topics  in Semiconductor Physics)  / 629 (Physics  and Technology of Thin Films)  / 631
+(Semiconductor Nanostructures) / MSP
+
+Spectroscopy
+QM
+NMR/EPR
+elective (Chemistry)
+
+Statistical Physics
+412 (Statistical Mechanics)
+613 (Advanced Statistical Mechanics) / 615
+(Non‐equilibrium Statistical Mechanics)
+Elective
+
+84
+
+[PAGE 85]
+Appendix XVII: Course Allocation in the Past Academic Programmes
+
+Table 8. Percentage course allocation in the past academic programmes
+
+HSS      Science/Sc.   Esc + ESOTA        Dept.       Open/Core
+Electives                                         Electives
+Original   18.7%   22.6%       13.2%   11.3%   34%
+1963
+I UGRC   16%    20%       10%    10%     32%       12%
+1970
+II UGRC   10.9%   12.9%       15.2%   6.5%     41.3%       12.9%
+1981
+III UGRC   10%    15%       15%    5%      42.5%       12.5%
+1992
+IV UGRC   9.6%    19.2%       9.6%    2.4%     50.0%       2.4%
+2001
+
+85
+
+[PAGE 86]
+Appendix XVIII: List of Sub‐committees
+
+Credit Subcommittee
+Dr. A.K. Chaturvedi
+Dr. V. Chandrasekhar
+Dr. Debasis Kundu
+Communication Skills
+Dr. Goutam Deo
+Dr. Amman Madan
+Dr. Suchitra Mathur
+Dr. Peeyush Mehta
+Dr. C.S. Upadhyay
+Interim Report (for Open House)
+Dr. Rajiv Shekhar
+Dr. M. Harbola
+Dr. CS Upadhyay
+Template Subcommittee for Interim Report
+Dr. S. Mittal
+Dr. Partha Chakraborty
+Dr. V. Chandrasekhar
+Dr. Debasis Kundu
+Dr. Suchitra Mathur
+Dr. C. S. Upadhyay
+Questions to be sent to Departments for feedback in Interim Report
+Dr. Suchitra Mathur
+Dr. Peeyush Mehta
+Dr. Subramaniam
+Caltech. Curriculum
+Dr. V. Chandrasekhar
+Student Survey
+Dr. Suchitra Mathur
+Dr. Mainak Chaudhuri
+Mr. Mohit Jolly
+Dr. Sanjay Mittal
+Mr. Anurag Sujania
+Administrative issues
+Dr. Debasis Kundu
+Dr. Goutam Deo
+Dr. M.S. Kalra
+Mathematics
+Dr. CS Upadhyay
+Dr. V. Eswaran
+Dr. S. Ghorai
+Dr. V. Shankar
+Dr. P. Shunmugaraj
+Dr. S. Umesh
+
+86
+
+[PAGE 87]
+Physics
+Dr. M S Kalra
+Dr. M. Harbola
+Dr. Rajendra Prasad
+Chemistry
+Dr. V. Chandrasekhar
+Dr. Amalendu Chandra
+Dr. Madhav Ranganathan
+Life science
+Dr. V. Chandrasekhar
+Dr. Debashis Chowdhury
+Dr. Anmangsu Ghatak
+Dr. Dhierndra Katti
+Dr. B V Rathish Kumar
+Dr. Balaji Prakash
+Dr. Sankar Ramakrishnan
+Dr. P. Sinha
+Dr. Subramaniam
+Dr. Sandeep Verma
+E Sc 102
+Dr. Mainak Chaudhuri
+Dr. Shantanu Bhattacharya
+Dr. Ajit Chaturvedi
+Dr. Anjan K Gupta
+Dr. A. R. Harish
+Dr. Joesph John
+Dr. A. Kushari
+Dr. Baquer Mazhari
+TA101
+Dr. Manoj Harbola
+Dr. Vinay Gupta
+Dr. Sudhir Kamle
+TA201
+Dr. Manoj Harbola
+Dr. N V K Reddy
+Dr. Anish Upadhyay
+E Sc 101
+Dr. Ajit Chaturvedi
+Dr. Sanjeev K Agrawal
+Dr. Mainak Chaudhuri
+Dr. V. Eswaran
+Dr. Nitin Kaistha
+Dr. Harish Karnick
+Minors
+Dr. C. S. Upadhyay
+Dr. Ajit K. Chaturvedi
+Dr. Manoj Harbola
+
+87
+
+[PAGE 88]
+Dr. Rajiv Shekhar
+Dual Major/Degree templates
+Chemistry/Chemical/BSBE
+Dr. V. Chandrasekhar
+Dr. Amitabha Bandyopadhyay
+Dr. Goutam Deo
+AE/ME
+Dr. MS Kalra
+Dr. CS Upadhyay
+Math/Economics
+Dr. Debasis Kundu
+Dr. Surajit Sinha
+BT/BS leading t o MBA
+Dr. Peeyush Mehta
+Dr. Rajiv Shekhar
+BT followed by MT in NET
+Dr. M S Kalra
+Engineering Science
+Dr. C. S. Upadhyay
+Dr. S. Guha
+Dr. Harish Karnick
+Dr. Neeraj Misra
+Dr. V. Shankar
+Dr. Mahesh Sivasambu
+Dr. S. C. Srivastava
+Interim Report‐II (to Senate)
+Dr. Mainak Chaudhuri
+Dr. Ajit K. Chaturvedi
+Dr. Debasis Kundu
+Dr. Sanjay Mittal
+Dr. C. S. Upadhyay
+APEC
+Dr. Ajit K. Chaturvedi
+Dr. Debasis Kundu
+
+88
+
+[PAGE 89]
+Appendix XIX: The committee members
+
+Dr. Sanjay Mittal, AE, Chairperson
+Dr. Peeyush Mehta, IME
+Dr. CS Upadhyay, AE
+Dr. K. Subramaniam, BSBE
+Dr. V. Chandrasekhar, CHM
+Dr. Goutam Deo, CHE
+Dr. M.S. Kalra, ME
+Dr. Rajiv Shekhar, MME
+Dr. Partha Chakraborty, CE
+Dr. A.K. Chaturvedi, EE
+Dr. Mainak Chaudhuri, CSE
+Dr. Debasis Kundu, MTH
+Dr. Manoj Harbola, PHY
+Dr. Suchitra Mathur*, HSS
+
+*Dr. Suchitra Mathur nominated Dr. Amman Madan during the period she was on leave.
+
+Mr. MK Diwakar, AR(AA), Secretary
+
+89

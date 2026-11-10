@@ -1,0 +1,136 @@
+[Page 1]
+Indian Institute of Technology Kanpur 
+Kotak School of Sustainability 
+Proposal for a new course 
+Course Title: Modelling Extreme Weather Events using Statistical and AI Tools 
+Course No: KSS 6XX 
+ 
+About the course: The course will provide an overview of statistical methods for extreme 
+event analysis which is essential for the hydrologic design of resilient infrastructure and early 
+warning systems under climate change. The course will introduce the concept of reliability and 
+serviceability of infrastructure, futuristic design values, frequency analysis and extreme value 
+theory, uncertainty analysis, statistical tools and AI/ML applications for modelling 
+hydroclimatic extremes. The course will focus on building theoretical understanding and 
+emphasize on the application of concepts, with a significant weightage on application-oriented 
+class project on applying statistical and Machine Learning (ML) tools for extreme event 
+modelling. 
+ 
+Learning Outcomes: The course will train the students in different aspects of modelling 
+extreme weather events under stationary and non-stationary climate. They will learn to work 
+with in-situ observations, satellite datasets and simulations, will become proficient in 
+programming as well as in applying statistical and ML tools appropriate for modelling different 
+extreme events. Biweekly assignments and course project will help the students to apply the 
+skills learned in the course on real-life problems. 
+ 
+Course Evaluation Components: 
+The course evaluation will be based on continuous assessment of students throughout the 
+semester with the following weightage on different components. 
+• Course Project: 30% 
+• Mid/End Semester Exams: 30% 
+• Class Assignments: 25% 
+• Quizzes:10% 
+• Class Participation: 5% 
+ 
+Participating Departments for floating the course: KSS 
+Possible Proposers: Nanditha J. S. (KSS), Tushar Apurv (CE) 
+Faculty members interested in teaching: Nanditha J. S. (KSS) 
+Who can take the course: Ph. D, M. Tech., Final year B. Tech students. Particularly students 
+in the departments of Kotak School of Sustainability, Civil Engineering, Earth Sciences will be 
+interested in the course. 
+Units: 3-0-0-0-9 [9 credits] 
+Prerequisite: None 
+ 
+Course Contents and Lecture layout: 
+This course provides a comprehensive overview of state-of-the-art methodologies for 
+modelling hydroclimatic extremes. It begins with fundamental concepts of hydrologic design, 
+risk, and reliability, and proceeds to the statistical foundations of extreme event analysis. 
+Students will gain advanced understanding of statistical methods such as extreme value theory, 
+probability concepts, and approaches to modelling extremes under both stationary and 
+changing climates. The course also introduces challenges associated with non-stationarity,
+
+[Page 2]
+climate projections, and downscaling techniques. In addition, it covers uncertainty analysis, 
+probabilistic forecasting systems, and recent advances in applying AI/ML techniques to 
+extreme event modelling. A final project will allow students to explore a topic of their choice, 
+cementing their conceptual understanding and enhancing both technical knowledge and critical 
+analysis skills. 
+ 
+Sl. 
+No. 
+Topic 
+Number of 
+Lectures 
+1. 
+Introduction: Hydroclimatic extremes and hydrologic design 
+concepts, hydrologic risk and reliability. 
+3 
+2. 
+Modelling of extreme weather events under stationary climate: 
+Extreme precipitation, floods, droughts, heatwaves; extreme value 
+theory, frequency analysis, POT and block maxima approaches, 
+skewed probability distributions, Review of classical and 
+advanced statistical models. 
+6 
+Intensity-Duration-Frequency (IDF) curves for infrastructure 
+design, statistical methods and ML tools. 
+5 
+Compound extremes and joint probability distribution functions 
+(PDFs), Copula approach for multivariate distributions. 
+4 
+3. 
+Modelling of extreme weather events under climate change: 
+Concepts of non-stationarity, natural variability and climate 
+change, climate projections 
+4 
+Global Climate Models (GCMs), biases, bias correction and 
+statistical downscaling approaches, challenges in using GCM 
+projections for extreme event modelling, IDF curves under climate 
+change. 
+6 
+
+4. 
+Uncertainty Analysis: uncertainty quantification and propagation. 
+3 
+5. 
+Forecast of extreme events: State-of -the-art probabilistic 
+forecast systems, discussions and challenges of existing systems. 
+2 
+6. 
+Applications of AI/ML in extreme event modelling. Review of 
+recent advances. 
+3 
+7. 
+Final project design and presentations 
+3 
+ 
+Textbooks and References 
+1. Risk and Reliability analysis – Vijay P. Singh, Sharad K. Jain, Aditya Tyagi, ASCE Press, 
+2007 
+2. An Introduction to Statistical Modeling of Extreme Values — Stuart Coles, Springer 
+Series in Statistics, 2001 
+3. Statistical Modelling in Hydrology – Robin T. Clarke, Wiley & Sons, 1994 
+4. Serinaldi, F., & Kilsby, C. G. (2015). Stationarity is undead: Uncertainty dominates the 
+distribution of extremes. Advances in Water Resources, 77, 17-36. 
+5. Milly, P., Julio, B., Malin, F., Robert, M., Zbigniew, W., Dennis, P., & Ronald, J. (2007). 
+Stationarity is dead. Ground Water News & Views, 4(1), 6-8. 
+6. Daly, C., Gibson, W. P., Taylor, G. H., Doggett, M. K., & Smith, J. I. (2007). Observer 
+bias in daily precipitation measurements at United States cooperative network 
+stations. Bulletin of the American Meteorological Society, 88(6), 899-912. 
+7. Naveau, P., Huser, R., Ribereau, P., & Hannart, A. (2016). Modeling jointly low, 
+moderate, and heavy rainfall intensities without a threshold selection. Water Resources 
+Research, 52(4), 2753-2769.
+
+[Page 3]
+Dated: 19th Jan 2026 Proposer: Nanditha J. S. 
+
+ 
+Dated: 19th Jan 2026 DUGC/DPGC Convener 
+
+ 
+The course is approved / not approved 
+
+ 
+ 
+Chairman, SUGC/SPGC 
+
+Dated: _________________________

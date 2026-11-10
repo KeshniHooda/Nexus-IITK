@@ -1,0 +1,93 @@
+[PAGE 1]
+Indian Ins(tute of Technology, Kanpur
+
+Proposal for a New Course
+
+1.  Course No: A 600-level Elec(ve number is requested.
+
+2.  Course Title: Eﬀec%ve Field Theory
+
+3.  Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), AddiBonal Hours[0-2]: 0 (A),
+
+Credits (3*L+0*T+P+A): 09                  DuraBon of Course: Full Semester
+
+4.  Proposing Department: PHY.
+
+Other faculty members interested in teaching the proposed course: Sabyasachi Chakraborty,
+
+Sanmay Ganguly, Diptarka Das, Nilay Kundu, Debtosh Chowdhury, Goutam Das
+
+5.  Proposing Instructor: Joydeep Chakrabor[y (PHY)
+
+6.  Course DescripBon: The dynamics of sub-atomic parBcles are very much dependent on the energy scale.
+The physics at low energies may contain the footprints of physics at high energies. It is possible to capture
+those eﬀects, even without knowing them in detail, by employing the noBon of EﬀecBve Field Theory (EFT).
+EFT sets a pla`orm to compare diﬀerent theoreBcal proposals in the light of experimental data. In
+summary, to connect physics of varying energy scales.
+
+A) ObjecBves: In this course, the ﬁeld-theoreBc techniques related to the EFT will be developed. By the end of
+this course, students are expected to learn the EFT formalism and will be ready to implement  it for realisBc
+scenarios.
+
+B) Contents:
+
+S. No.  Broad Title                                     Topics                           No. of Lectures
+
+Basics of            Brief introducBon to Path Integral formalism. QuanBzaBon of        5
+Func(onal        Gauge Theory. 1-loop EﬀecBve AcBon construcBon. IntroducBon
+Integral            to Heat-Kernel
+
+Introduc(on to     Basic idea of EFT, Local vs non-Local operators, ClassiﬁcaBon of        4
+EFT                Operators:
+
+Hilbert Series and  Hilbert Series method to compute the symmetry  invariant        6
+EFT              eﬀecBve Operators.
+
+NREFT, Chiral EFT,   Basics of Non-relaBvisBc, Chiral and Soh Collinear EﬀecBve Field        6
+SCET             Theory
+
+Integra(ng out    Methods to Integrate out heavy ﬁelds: ComputaBon of EﬀecBve        6
+Heavy Fields       Operators and the respecBve Wilson Coeﬃcients (WCs).
+
+EFT at Finite        Hilbert Series construcBon and IntegraBng out heavy Fields at        6
+Temperature        Finite Temperature.
+
+SMEFT            Matching of SM-EFT and the BSM physics. With Examples              3
+
+Total number of lectures:        36
+
+C) Pre-requisites, if any: Quantum Field Theory-I                                                        (1/1)
+
+[PAGE 2]
+D) Short summary for including in the Courses of Study Booklet: FuncBonal Method, I-PI EﬀecBve AcBon, Local
+vs non-local operators, IntegraBng out heavy Fields, Hilbert Series, Low Energy EFT, Chiral EFT, Fikng of Wilson
+coeﬃcients.
+
+7.  Recommended References:
+
+(i)    H. Georgi, On-shell e!ective ﬁeld theory, Nucl. Phys. B361 (1991) 339–350.
+(ii)   M. K. Gaillard, The E!ective One Loop Lagrangian With Derivative Couplings, Nucl.
+Phys. B268 (1986) 669–692
+(iii)   D. B. Kaplan, Five lectures on e!ective ﬁeld theory, 2005. nucl-th/0510023.
+(iv)    A. V. Manohar, E!ective ﬁeld theories, Lect. Notes Phys. 479 (1997) 311–362, [hep-
+ph/9606222].
+(v)    C. P. Burgess, Introduction to E!ective Field Theory, Ann. Rev. Nucl. Part. Sci. 57
+(2007) 329–362, [hep-th/0701053].
+(vi)      I. Z. Rothstein, TASI lectures on e!ective ﬁeld theories, 2003. hep-ph/0308266.
+
+Any other remarks: None
+
+___________________________________________________________________________________________
+
+SIGN
+Dated: 1 September, 2018. Proposer: Joydeep Chakraborty (               ).
+
+Dated: _______________ DPGC Convener (PHY):___________________
+
+The course is approved / not approved
+
+____________________________________
+
+Chairman, SPGC
+
+Dated:______________________________                                                         (2/2)

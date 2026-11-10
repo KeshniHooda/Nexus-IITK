@@ -1,0 +1,106 @@
+[Page 1]
+Indian Institute of Technology, Kanpur 
+Proposal for a new course 
+ 
+1. Course No: ME6XX 
+2. Course Title: Introduction to Space Materials and Manufacturing 
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours [0-2]: 0 (A) 
+Credits: 3×3-0-0-0 (9) 
+Duration of Course: Full semester 
+4. Proposing Department: Mechanical Engineering (ME) 
+Other Departments/IDPs which may be interested in the proposed course: Material Science and 
+Engineering, Earth Sciences, and SPASE. 
+Other faculty members interested in teaching the proposed course: Dr. Ishan Sharma, Dr. J 
+Ramkumar 
+Proposing Instructor(s): Dr. Sarvesh Mishra 
+5. Course Description: 
+A) Objectives: This course aims to challenge the existing manufacturing processes from the 
+perspective of space manufacturing. The course will enable students to learn about the availability 
+of resources and their in-situ utilization for projected human needs in the Martian and Lunar 
+ambience. With the increasing demand for crewed missions and India’s ambitious participation in 
+the space economy, the course will offer our students an opportunity to understand, contemplate 
+and receive exposure to the future of manufacturing. 
+B) Contents: 
+1. Introduction (4 lectures) 
+Space race, industrialisation, colonies and stations, Exploration activities, Natural resources 
+(Earth vs. Space), Space factories, Economy, Benefits and challenges, Future of space 
+activities. 
+2. Space Environment (6 lectures) 
+Lunar/Martian topography, Petrology, Solar cycle, Abundance/scarcity of energy, Impacts 
+and volcanism, Asteroids/meteoroids, Extreme conditions, Identification and fulfilment of 
+human needs, Space-food, Extreme condition habitats, Spacesuits, Physiological and 
+psychological health, Utilization of local resources. 
+3. Challenging factors for space manufacturing (4 lectures) 
+Vacuum conditions, Reduced/micro/quasi-absent/zero gravity, Gaseous environments,
+
+[Page 2]
+Radiation, Meteoritic impacts, Solar storms, Space objects, Physical/chemical/mineralogical 
+properties of rocks, Simulating space environment on earth. 
+4. Material processing in space conditions (6 lectures) 
+Material processing methods, Solar energy-based material processing, Lunar and Martian 
+environments, 
+Asteroidal 
+ores, 
+steels, 
+composites, 
+and 
+Soil, 
+Major/minor/incompatible/siderophile elements, Vapor-mobilized/solar-wind implanted 
+elements, Location-specific rocks on Lunar and Martian environments, Methods and 
+techniques of characterization, Rock disintegration, Soil refining, Lunarcrete, Solar furnace, 
+Oxygen production, Metallic and rare elements processing. 
+5. In-space manufacturing using local resources (6 lectures) 
+Basic manufacturing operations, Art of space manufacturing, Containerless processes, 
+Ultrahigh vacuum processing, Qualification of manufacturing processes, Simulating space 
+gravity, Plausibility of space manufacturing, Governing physics and anomalies, Metal 
+printing and defects under extreme conditions, robotic operations for manufacturing. 
+6. Machining and assembly in space (4 lectures) 
+Cutting and assembly processes, Vacuum and oxygen-free cutting, Maintenance of 
+spacecraft/spaceships from outer space, Mining and He-3 production, Deep-drilling on 
+Lunar/Martian surfaces, Cutting and drilling tool materials. 
+7. Miscellaneous space technologies and processes (5 lectures) 
+Materials, design and manufacturing for launch pads/spaceships/lander/rover systems, 
+Sample collectors, Engineered components, Functional performance requirements and 
+processing methods. 
+8. Experiments on Space Manufacturing (5 lectures) 
+Experiments on space materials at Space Manufacturing Cell @ IITK, Development and 
+characterization of LUNES and MARTES regolith simulants, Space-simulated 
+environments. 
+C) Pre-requisites if any: NA 
+ 
+D) Short summary for including in the Courses of Study Booklet: 
+Introduction, Space environment and its description, Challenging factors in outer space and 
+celestial bodies (Moon and Mars, specifically), Materials and resources available, Processing of 
+space materials, Material processing in space for in-situ resource generation, Manufacturing for 
+space conditions, In-space manufacturing, Challenges for conventional manufacturing on 
+Moon/Mars, Miscellaneous processing, Experiments at Space Manufacturing Cell @ IITK.
+
+[Page 3]
+Recommended books: 
+Reference book: 
+1. The cosmos economy, Jack Gregg, Springer Nature, ISBN 978-3-030-62568-9, Switzerland 
+2. Space mining and manufacturing, D. Sivolella, Springer Nature, ISBN 978-3-030-30881, 
+Switzerland 
+3. Materials Processing in Space: Theory, Experiments, and Technology, L.L. Regel, Springer, 
+ISBN 978-0306110269 
+4. Fundamentals of modern manufacturing, M.P.Groover, Wiley & Sons, ISBN 978-0470-467002 
+ 
+Remarks: 
+This course will be open to students in their final year, dual degree, PG, and MSc levels. 
+
+Proposer: 
+
+Dr. Sarvesh Mishra 
+Date: 15/04/2024 
+
+DUGC/DPGC Convener: 
+Date: 
+
+ 
+ 
+The course is approved / not approved 
+
+Chairperson, SUGC/SPGC 
+Dated: 
+ 
+16-4-2024

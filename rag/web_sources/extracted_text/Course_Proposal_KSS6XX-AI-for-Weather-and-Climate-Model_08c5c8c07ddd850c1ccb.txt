@@ -1,0 +1,217 @@
+[Page 1]
+1 
+ 
+ Indian Institute of Technology Kanpur 
+Proposal for a New Course - Elective 
+ 
+1. Course No: KSS6XX 
+ 
+2. Course Title: AI for Weather and Climate Modelling 
+ 
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours [0-2]:0 (A), 
+ Credits (3*L+0*T+P+A): 9 
+ 
+ Duration of Course: Full Semester 
+ 
+4. Proposing Department/IDP: Kotak School of Sustainability 
+ 
+ Other Departments/IDPs that may be interested in the proposed course: CE, AE, ME, PHY, ChE 
+ 
+ Other faculty members interested in teaching the proposed course: Prof. Mahendra K. Verma, Prof. Sachchida 
+Nand Tripathi 
+ 
+5. Proposing Instructor(s): Prof. Sarosh Alam Ghausi (KSS), Prof. Rajesh Ranjan (AE) 
+ 
+6. Course Description: 
+ 
+A) Objectives: 
+This course introduces students to artificial intelligence (AI), machine learning (ML), and scientific machine 
+learning techniques for weather and climate modelling and prediction. Students will gain foundational knowledge 
+of atmospheric processes, climate datasets, Earth system modelling and numerical weather prediction. The course 
+covers classical machine learning methods, deep learning architectures, graph-based learning, neural operators, 
+and emerging foundation models for weather forecasting. Students will learn to analyze observational, reanalysis, 
+and climate datasets, develop data-driven forecasting models, evaluate modern AI-based forecasting systems and 
+gain hands-on experience with state-of-the-art tools for weather forecasting, and Earth-system modeling. 
+B) Contents: 
+ 
+S. No 
+Broad Title 
+Topics 
+No. of 
+Lectures* 
+1 
+Introduction to Weather, 
+Climate, and Numerical 
+Forecasting 
+● Weather versus climate 
+● Earth-system components relevant to weather 
+prediction 
+● Atmospheric circulation and weather systems 
+● Challenges in weather and climate prediction 
+2
+
+[Page 2]
+2 
+ 
+● Evolution of numerical and AI-based 
+forecasting 
+2 
+Atmospheric Data and 
+Computational Foundations 
+● Surface observations and weather stations 
+● Radiosondes and upper-air observations 
+● Satellite observations 
+● Reanalysis datasets (ERA5, MERRA-2) 
+● Climate model datasets (CMIP6) 
+● Data preprocessing and feature engineering 
+● Forecast verification datasets and benchmarks 
+(e.g., WeatherBench) 
+3 
+3 
+Fundamentals of Numerical 
+Weather Prediction 
+● Governing equations of atmospheric motion 
+● Numerical weather prediction workflow 
+● Initial and boundary conditions 
+● Model parameterizations 
+● Data assimilation: concept and role in NWP 
+● Sources of forecast error and uncertainty 
+3 
+4 
+Review of Machine 
+Learning Foundations for 
+Weather Prediction 
+ 
+● Introduction to machine learning algorithms 
+● Supervised and unsupervised learning 
+● Linear and nonlinear regression 
+● Decision trees and random forests 
+● XGBoost and ensemble methods 
+● Training, validation, testing, and model 
+evaluation 
+2 
+5 
+Deep Learning for Weather 
+Forecasting 
+● Artificial neural networks 
+● Convolutional Neural Networks (CNNs) 
+● Recurrent Neural Networks (RNNs) 
+● LSTMs and GRUs 
+● Attention mechanisms 
+● Transformers for spatiotemporal prediction 
+5 
+6 
+AI-Physics Frameworks 
+● Physics-guided machine learning 
+● Physics-Informed Neural Networks (PINNs) 
+● Hybrid physics-AI approaches 
+6 
+7 
+Neural Operators and 
+Surrogate Modeling 
+● Motivation for operator learning 
+● Fourier Neural Operators (FNOs) 
+● DeepONet 
+● Surrogate modeling for PDEs 
+Accelerating weather and climate simulations 
+4 
+8 
+Graph Neural Networks and 
+Spatiotemporal Learning 
+● Graph representations of physical systems 
+● Graph Neural Networks 
+● Message passing 
+● Spatiotemporal forecasting 
+● Motivation for GraphCast-like architectures 
+4
+
+[Page 3]
+3 
+ 
+9 
+Foundation Models for Earth 
+Systems 
+● Concept of foundation models: GraphCast, 
+GenCast, FourCastNet, Pangu-Weather, Prithvi 
+etc. 
+● Comparison with traditional NWP systems 
+6 
+10 
+Uncertainty Analysis, and 
+Future Directions 
+● Statistical and AI-based downscaling 
+● Bias correction of NWP forecasts 
+● Ensemble forecasting and probabilistic 
+prediction 
+● Uncertainty quantification and forecast 
+reliability 
+4 
+
+Total 
+39 
+
+* 50 mins each lecture 
+ 
+C) Recommended pre-requisites: Basic Linear Algebra, Probability and Statistics, and programming 
+experience (preferably in Python), A fundamental course on Machine Learning. 
+ 
+D) Short summary for inclusion in the Courses of Study /Booklet 
+Introduction to weather and climate prediction; atmospheric observations, reanalysis and climate datasets; 
+fundamentals of numerical weather prediction; machine learning methods including regression, random forests, 
+and XGBoost; deep learning techniques including CNNs, LSTMs, and Transformers; scientific machine learning 
+approaches such as Physics-Informed Neural Networks (PINNs), Graph Neural Networks (GNNs), and Neural 
+Operators; modern weather foundation models including GraphCast, GenCast, FourCastNet, Pangu-Weather, 
+Aurora, and ClimaX; downscaling, data assimilation, and ensemble forecasting; applications of AI to weather and 
+climate prediction. 
+7. Recommended Books 
+ 
+Textbook: 
+• Wilks, D.S. (2019). Statistical Methods in the Atmospheric Sciences. 
+• Camps-Valls, G., Tuia, D., Zhu, X.X., and Reichstein, M. (2021). Deep Learning for the Earth Sciences: 
+A Comprehensive Approach to Remote Sensing, Climate Science, and Geosciences. 
+References: 
+1. Gilbert Strang, Linear Algebra and Learning from Data, Wellesley-Cambridge Press, 2019, ISBN: 978-
+0692196380. 
+2. Steven L. Brunton and J. Nathan Kutz, Data-Driven Science and Engineering: Machine Learning, 
+Dynamical Systems, and Control, 2nd Edition, Cambridge University Press, 2022. Available at: 
+https://databookuw.com/
+
+[Page 4]
+4 
+ 
+3. Ian Goodfellow, Yoshua Bengio, and Aaron Courville, Deep Learning, MIT Press, 2016. Available at: 
+https://www.deeplearningbook.org/ 
+4. Kevin P. Murphy, Probabilistic Machine Learning: An Introduction, MIT Press, 2022. Available at: 
+https://probml.github.io/pml-book/ 
+5. Christopher M. Bishop and Hugh Bishop, Deep Learning: Foundations and Concepts, Springer, 2024. 
+6. Schultz et al., “Machine Learning for Weather and Climate Modelling”, Nature Reviews Earth & 
+Environment, 2021. 
+7. Pedram Hassanzadeh, Karthik Kashinath, and David Hall, “Physics-informed Machine Learning for 
+Earth System Science”, Nature Reviews Physics, 2024. 
+8. WeatherBench: A Benchmark Dataset for Data-Driven Weather Forecasting. Available at: 
+https://weatherbench2.readthedocs.io/ 
+9. ECMWF Learning Resources and Open Data Documentation. Available at: https://www.ecmwf.int/ 
+10. Ministry of Earth Sciences (MoES), Government of India, Assessment of Climate Change over the 
+Indian Region, Springer Nature, 2020. ISBN: 978-981-15-4327-2. Available at: 
+https://link.springer.com/book/10.1007/978-981-15-4327-2 
+11. underPINN: A Modular JAX-Based Framework for Physics-Informed Neural Networks. Open-source 
+framework for scientific machine learning, Physics-Informed Neural Networks (PINNs), inverse 
+problems, and PDE-constrained learning using JAX. 
+
+ 
+ 
+Dated: 09 Oct 2026 
+
+ 
+
+Proposers: 
+
+ 
+
+ 
+Dated: 09 Oct 2026 
+
+ 
+
+ 
+DPGC Convener:

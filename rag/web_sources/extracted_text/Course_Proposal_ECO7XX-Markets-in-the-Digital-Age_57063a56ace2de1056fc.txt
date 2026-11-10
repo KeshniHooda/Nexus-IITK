@@ -1,0 +1,125 @@
+[Page 1]
+Indian Institute of Technology Kanpur 
+Department of Economic Sciences 
+Proposal for a New Course 
+1. Course No: ECO7XX 
+2. Course Title: Markets in the Digital Age 
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours: 0 
+Credits: (3*L+T+P+A): 9 credits 
+Duration of Course: Full semester course 
+4. Proposing Department: Economic Sciences 
+Other Departments which may be interested: None 
+Other faculty members interested in teaching the proposed course: None 
+5. Proposing instructor: Aditya Vikram 
+Level of the course: PG (PhD and 2nd-year MSc students of Economics) 
+6. Course Description: 
+A) Objectives: To introduce students to the economics of modern marketplaces – how 
+platforms, auctions and matching systems allocate resources in the digital age – and to equip 
+them with the tools to understand, design and improve such markets, leading up to current 
+research in the field. 
+B) Contents 
+S. 
+No. 
+Broad Title 
+Topics 
+No. of 
+Lectures 
+1. 
+Introduction 
+Markets in the internet era: from bazaars to online 
+platforms and AI-run marketplaces; why markets fail and 
+how to fix them; the economist as engineer; what makes 
+marketplaces work; forbidden markets – why we cannot 
+buy kidneys; success stories – the doctors' job market, 
+spectrum auctions, school admissions, etc. 
+3 
+2. 
+Markets without 
+money 
+Matching doctors to hospitals and students to colleges; 
+stable matchings and deferred acceptance; gaming the 
+system – strategy-proofness; trading houses without 
+money; kidney exchange; school choice around the 
+world; quotas, reserves and affirmative action in Indian 
+admissions 
+12 
+3. 
+Markets with 
+money 
+How to sell anything – from art to ad slots; optimal 
+auctions and revenue; interdependent values; bilateral 
+10
+
+[Page 2]
+trade and double auctions; selling spectrum – the world's 
+largest auctions; clock auctions; Google's ad auctions and 
+position auctions; automated bidding by AI agents 
+4. 
+Allocating 
+resources in the 
+digital age 
+Allocating scarce resources at scale; the assignment 
+problem and market-clearing prices; Course allocation 
+problem; refugee resettlement; scheduling and queueing 
+– from cloud servers to operating rooms to road tolls; 
+allocating computing power in the age of AI ; electricity 
+markets 
+6 
+5. 
+Miscellaneous 
+topics 
+Assorted topics and applications: prediction markets; 
+platforms; AI agents and LLMs in the marketplace; 
+markets for computing power and AI services; AI pricing 
+and algorithmic collusion; automated mechanism design; 
+market design in financial markets 
+8 
+*50-minute lecture each, total of 39 lectures 
+C) Prerequisites: Any course in probability and statistics. 
+D) Short summary for including in the Courses of Study Booklet: Markets today are 
+increasingly digital: rides, ads, groceries, spectrum and even kidneys are allocated by 
+platforms and algorithms, and increasingly, AI agents themselves bid, price and trade on our 
+behalf. This course studies how such marketplaces work and how they can be designed to 
+work better. It develops the tools of matching and auctions, and applies them to real markets 
+from India and around the world, including emerging markets for computing power and AI 
+services. The course builds the theory from the ground up, connects it to current research, and 
+prepares students to study, design and improve the markets of the digital age. 
+7) Recommended textbooks 
+Algorithmic Game Theory, Noam Nisan, Tim Roughgarden, Éva Tardos and Vijay V. 
+Vazirani (eds.). Cambridge, U.K.: Cambridge University Press, 2007 
+Online and matching-based market design, Federico Echenique, Nicole Immorlica and Vijay 
+V. Vazirani (eds.). Cambridge, U.K.: Cambridge University Press, 2023 
+Two-Sided Matching: A study in game-theoretic modeling and analysis, Alvin E. Roth and 
+Marilda Sotomayor. Cambridge, U.K.: Cambridge University Press, 1990 
+Discovering Prices: Auction Design in Markets with Complex Constraints, Paul Milgrom. 
+New York, NY: Columbia University Press, 2017 
+Mechanism Design: A linear programming approach, Rakesh V. Vohra. Cambridge, U.K.: 
+Cambridge University Press, 2011 
+Market Design: auctions and matching, Guillaume Haeringer. Cambridge, MA: MIT Press, 
+2017
+
+[Page 3]
+In addition, a substantial part of the course will draw on journal articles, surveys and recent 
+working papers, a reading list of which will be circulated by the instructor. Representative 
+articles include: 
+Roth, A. E. (2002), “The Economist as Engineer: Game Theory, Experimentation, and 
+Computation as Tools for Design Economics,” Econometrica, 70(4), 1341–1378. 
+Edelman, B., M. Ostrovsky and M. Schwarz (2007), “Internet Advertising and the 
+Generalized Second-Price Auction: Selling Billions of Dollars worth of Keywords,” 
+American Economic Review, 97(1), 242–259. 
+Milgrom, P. R. and S. Tadelis (2019), “How Artificial Intelligence and Machine Learning 
+Can Impact Market Design,” in A. Agrawal, J. Gans and A. Goldfarb (eds.), The Economics 
+of Artificial Intelligence: An Agenda, Chicago: University of Chicago Press, 567–586. 
+Budish, E., P. Cramton and J. Shim (2015), “The High-Frequency Trading Arms Race: 
+Frequent Batch Auctions as a Market Design Response,” Quarterly Journal of Economics, 
+130(4), 1547–1621. 
+8) Any other remarks: None 
+Dated: _____________ 
+
+Proposer: Aditya Vikram 
+Dated: _____________ 
+
+DPGC Convener: _____________ 
+The course is approved / not approved 
+Chairman, SPGC 
+Dated: _____________

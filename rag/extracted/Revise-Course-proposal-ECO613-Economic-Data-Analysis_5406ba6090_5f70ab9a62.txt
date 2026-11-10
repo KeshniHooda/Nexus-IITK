@@ -1,0 +1,70 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+
+Proposal for a Revision
+
+1.  Course No: ECO613
+
+2.  Course Title: Economic Data Analysis: Methods and Computational Aspects
+
+3.  Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 2 (P), Additional Hours: 0 (A)
+Credits: (3-0-2-0) 6                         Duration of Course: Half Semester
+
+4.  Proposing Department/IDP: Economic Sciences
+Other Departments/IDPs which may be interested in the proposed course: None.
+5.  Proposing Instructor(s): Faculty members of the department of economic sciences
+
+Level of the Course: PG
+
+6.  Course Description:
+A)  Objectives: To introduce computational methods to solve mathematical problems related
+to statistics, data analysis, and time-series analysis. To illustrate the computational
+aspects with the relevant theory in statistics, machine learning, and econometrics. To
+enable the students to gain a hands-on experience on implementing different solution
+methods on real economic data sets, using python.
+B)  Contents:
+
+No.  Broad Title      Topics                                                    No. of
+lectures
+1.     Statistical       Data generating processes, EM algorithm, hypothesis testing,     4
+Inference       Bootstrap tests, Monte-Carlo tests.
+2.    Time-series     Data generation, ARMA models, Box-Jenkins approach, Vector    4
+analysis        Auto Regression (VAR) model, impulse response analysis.
+3.   Machine         Regression, classification, OLS, ridge regression, lasso. Neural     5
+Learning        networks: feed-forward, recurrent.
+
+C)  Prerequisites: For PG students: None. For UG students: Applied probability and statistics
+or any other equivalent course.
+
+D)  Short summary: This course aims to be a basic course on computation to an economic
+audience. Computational methods that are useful in addressing economic issues are
+introduced. Students gain a hands-on experience in implementing the methods in real
+economic  problems,  through  software demonstration  lectures and programming
+assignments. The emphasis of the course would be in learning the implementation of the
+methods, and not on the theory behind them. A brief introduction of the methods would
+be provided, assuming that the theory behind the methods is known to the students.
+
+7.  Recommended books:
+1.  James, Witten, Hastie, Tibshirani, An Introduction to Statistical Learning, 2013. Available
+online at https://hastie.su.domains/ISLR2/ISLRv2_website.pdf
+2.  Hastie, Tibshirani, and Friedman, The Elements of Statistical Learning. Available online at
+https://web.stanford.edu/ hastie/Papers/ESLII.pdf
+3.  Jeffrey M Woolridge, Introduction to Econometrics: A Modern Approach, 5th edition,
+Cengage learning publishers, 2013.
+
+[PAGE 2]
+4.  Michael Falk et al., A First Course on Time Series Analysis: Examples with SAS.
+5. G Casella and R L Berger, Statistical Inference, Duxbury Advanced Series, 2002.
+
+8. Any other remarks: None.
+
+Dated: 27/08/2024     Proposer: Dr. Thirumulanathan D   _____
+
+Dated:           DUGC/DPGC Convener: ____________________
+
+The course is approved / not
+approved
+
+Chairman, SUGC/SPGC
+
+Dated: _______________

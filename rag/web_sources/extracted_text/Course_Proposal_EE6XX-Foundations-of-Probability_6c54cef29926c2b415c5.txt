@@ -1,0 +1,83 @@
+[Page 1]
+Proposal for Course Update
+Department of Electrical Engineering, IIT Kanpur
+1. Course No.: EE621
+2. Course Title: Foundations of Probability
+3. Proposing Department: Electrical Engineering
+4. Other Departments: CSE, IS
+5. Proposer: Washim Uddin Mondal (EE)
+6. Other Interested Faculty: Subrahmanya Swamy Peruru, Abhishek Gupta, Adrish Banerjee.
+7. Units: [9] (3-0-0-0)
+8. Duration of the Course: Full semester.
+9. Pre-requisites: None.
+10. Course Description: The course introduces foundational concepts in probability and stochastic
+processes, primarily targeted for first-year PG students in M. Tech., MS, and Ph. D. programs.
+No.
+Broad Title
+Topics
+Hours
+1
+Preliminaries
+Set Theory, Functions, Pre-images, Countability
+3
+2
+Probability Spaces
+Sample Space, σ-algebra, Generated σ-algebra, Borel
+σ-algebra, Probability Measure and its Continuity,
+Independent Events, Conditional Probability,
+Combinatorics
+6
+3
+Random Variables
+Measurability, Induced Measure, CDF, Discrete RVs,
+PMF, Bernoulli, Geometric, Poisson, Binomial, Negative
+Binomial, Hypergeometric RVs, Continuous RVs, PDF,
+Uniform, Exponential, Normal, Gamma, Beta RVs
+7
+4
+Transformations
+Borel-measurable maps, Affine Transformations,
+Bijective maps, Examples: Pareto, Chi-Squared,
+Rayleigh, Log-Normal RVs
+3
+5
+Expectation
+Raw and Central Moments, Applications to Special RVs,
+Moment Generating Functions, Linearity
+3
+6
+Multiple RVs
+Measurability, Joint CDF, PDF, PMF, Independent and
+Identically Distributed RVs, Applications to Special RVs,
+Distribution of Sum, Product, Ratio of RVs, Expectation,
+Variance, Correlation, Order Statistics, Transformations,
+Conditional PMF and PDF, Conditional Expectation
+8
+7
+Sequence of RVs
+Types of Convergence, Concentration Bounds: Markov,
+Chebyshev, Chernoff, Law of Large Numbers, CLT
+3
+8
+Stochastic Processes
+Symmetric and Asymmetric Random Walk, Stationarity,
+Ergodicity, Autocorrelation, White Gaussian Process,
+Discrete and Continuous time Markov Chains,
+Chapman-Kolmogorov Equations
+6
+
+[Page 2]
+11. Short Summary for Course Booklet: The course covers topics in Sample Spaces, σ-algebra, Borel
+σ-algebra, Probability Measure, Independent Events, Random Variables, Transformations of Random
+Variables, Expectation, Moment Generating Functions, Joint Distributions, Independent and Corre-
+lated Random Variables, Conditional Expectation, Sequence of Random Variables, Concentration
+Bounds, Law of Large Numbers, Central Limit Theorem, Stochastic Process, Stationarity, Ergodicity,
+White Gaussian Process and Markov Chains.
+12. References:
+[1] Sheldon Ross, “A First Course in Probability”, Prentice Hall, 8th Edition.
+[2] A. Papoulis and S. Pillai, “Probability, Random Variables, and Stochastic Processes”, McGrawHill,
+4th Edition.
+[3] P. Billingsley, “Probability and Measure”, John Wiley & Sons.
+Proposer: Washim Uddin Mondal
+Convener, DPGC
+Chairperson, SPGC

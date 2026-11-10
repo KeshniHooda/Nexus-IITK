@@ -1,0 +1,239 @@
+[Page 1]
+IQdLaQ IQVWLWXWe Rf TechQRORg\, KaQSXU 
+PURSRVaO fRU A NeZ CRXUVe 
+1. CoXUVe No: CHM6XX 
+2. CoXUVe TiWle: EOecWURdLcV, EOecWURaQaO\WLcaO, aQd EOecWURcaWaO\VLV 
+3. PeU Week LecWXUeV: 3 (L), TXWoUial: 0 (T), LaboUaWoU\: 0 (P), AddiWional HoXUV[0-2]: 
+2 (A), CUediWV (3*L+2*T+P+A): 9 DXUaWion of CoXUVe: FXll SemeVWeU 
+4. PUopoVing DepaUWmenW/IDP: DeSaUWPeQW Rf ChePLVWU\ 
+OWheU DepaUWmenWV/IDPV Zhich ma\ be inWeUeVWed in Whe pUopoVed coXUVe: 
+MSE, CHE, ME, CE, SEE, and BSBE 
+OWheU facXlW\ membeUV inWeUeVWed in Weaching Whe pUopoVed coXUVe: RaMa 
+AQgaPXWhX and PUaNaVh C. MRQdaO 
+5. PUopoVing InVWUXcWoU: AQaQWhaUaM SeQgeQL, AVViVWanW PUofeVVoU of ChemiVWU\. 
+6. CoXUVe DeVcUipWion: ThiV coXUVe pUoYideV a compUehenViYe XndeUVWanding of 
+elecWUochemical pUincipleV and WheiU applicaWionV in eneUg\ conYeUVion and 
+elecWUoanal\Wical WechniqXeV. The focXV Zill be on elecWUochemical kineWicV, 
+elecWUocaWal\ViV of VeYeUal impoUWanW eneUg\ conYeUVion UeacWionV and VenVoUV 
+(inclXding elecWUochemical bioVenVoUV), and adYanced elecWUoanal\Wical meWhodV 
+XVed foU eYalXaWing elecWUochemical V\VWemV. The aim iV Wo eqXip VWXdenWV ZiWh 
+boWh Whe WheoUeWical backgUoXnd and pUacWical VkillV needed Wo ZoUk in 
+elecWUochemical eneUg\ V\VWemV, elecWUochemical VenVoUV, and anal\Wical 
+applicaWionV. 
+A) ObjecWiYeV: 
+x To XndeUVWand Whe fXndamenWalV of elecWUochemiVWU\, inclXding 
+WheUmod\namicV and kineWicV. 
+x To pUoYide a compUehenViYe oYeUYieZ of elecWUoanal\Wical WechniqXeV, 
+inclXding c\clic YolWammeWU\, chUonoampeUomeWU\, elecWUochemical 
+impedance VpecWUoVcop\ (EIS), and oWheUV. 
+x To e[ploUe YaUioXV elecWUochemical V\VWemV and WheiU UeleYance in eneUg\ 
+conYeUVion. 
+x To VWXd\ Whe pUincipleV and mechaniVmV of elecWUocaWal\ViV, focXVing on 
+ZaWeU elecWUol\ViV UeacWionV, fXel cell UeacWionV, CO2 and N2 elecWUol\]eU 
+UeacWionV. 
+x To VWXd\ adYanced elecWUochemical bioVenVoU WechnologieV foU 
+diagnoVWicV.
+
+[Page 2]
+x To cUiWicall\ anal\]e elecWUochemical peUfoUmance and dXUabiliW\ of 
+maWeUialV XVed in eneUg\ and VenVoU applicaWionV. 
+x To leaUn Whe beVW pUacWiceV in handling elecWUochemical chaUacWeUi]aWion 
+WechniqXeV and Whe daWa WheUeof 
+B) ConWenWV (pUefeUabl\ in Whe foUm of 5 Wo 10 bUoad WiWleV): 
+ 
+S. No 
+Broad Title 
+Topics 
+No. of 
+Lectures 
+1. 
+Fundamentals of 
+Electrochemistry 
+x Introduction to electrochemistry: 
+Nernst equation, thermodynamics, 
+and potentials. 
+x Electrochemical cells and standard 
+reduction potentials. 
+x Ion transport and mass transfer in 
+electrochemical systems. 
+x Double-layer structure and its 
+influence on electrode reactions. 
+ 
+6 
+2. 
+Electrodics 
+x Butler-Volmer equation and Tafel 
+analysis. 
+x Charge transfer processes and 
+reaction mechanisms. 
+x DiffXVion and conYecWion: Fick¶V 
+laws and related equations. 
+x Kinetics of multi-step reactions and 
+mixed potential theory. 
+ 
+5 
+3. 
+Electroanalytical 
+Techniques 
+x Cyclic voltammetry (CV): 
+Interpretation of current-voltage 
+profiles. 
+x Chronoamperometry and 
+chronopotentiometry. 
+x Electrochemical impedance 
+spectroscopy (EIS): Basics and 
+data fitting. 
+x Rotating disk electrode (RDE) and 
+rotating ring-disk electrode (RRDE) 
+techniques. 
+x In-situ and operando techniques in 
+electrocatalysis. 
+ 
+10
+
+[Page 3]
+4. 
+Electrocatalysis 
+and Energy 
+Conversion 
+Reactions 
+x Electrocatalysis of oxygen evolution 
+(OER), hydrogen evolution (HER), 
+hydrogen oxidation (HOR), oxygen 
+reduction reaction (ORR), CO2 
+reduction, and N2 & NOx reduction. 
+x Mechanistic insights into 
+electrocatalytic energy conversion 
+processes. 
+ 
+6 
+5. 
+Electrochemical 
+Biosensors 
+x Principles of biosensing: Enzymatic 
+and non-enzymatic sensors. 
+x Electrochemical transduction 
+methods (amperometric, 
+potentiometric, impedimetric). 
+x Nanomaterials in biosensor design 
+and application. 
+ 
+5 
+6. 
+Best Practices in 
+Handling 
+Electrochemical 
+Techniques/Data 
+x Importance of reproducibility and 
+accuracy in electrochemical 
+experiments. 
+x Common pitfalls and errors in 
+interpreting data. 
+x Strategies for proper selection of 
+reference electrodes, electrolytes, 
+and measurement conditions. 
+x Reporting standards for 
+electrochemical performance: 
+Polarization curves, Tafel slopes, 
+and impedance data. 
+ 
+6 
+7. 
+Advanced Topics 
+and Special 
+Lectures 
+x Case studies: Real-world 
+applications of electrocatalysis and 
+biosensing. 
+x Guest lectures on cutting-edge 
+electrochemical research. 
+ 
+4 
+ 
+C) PUe-UeqXiViWeV, if an\: NLO 
+ 
+D) ShoUW VXmmaU\ foU inclXding in Whe CoXUVeV of SWXd\ BookleW: 
+ThiV coXUVe delYeV inWo elecWUochemical fXndamenWalV, kineWicV, elecWUocaWal\ViV, 
+and adYanced eneUg\ conYeUVion UeacWionV (VXch aV HER, OER, ORR, CO2 and 
+niWUogen UedXcWion UeacWionV). IW alVo coYeUV Whe deVign and applicaWion of
+
+[Page 4]
+elecWUochemical bioVenVoUV and inWUodXceV ke\ elecWUoanal\Wical WechniqXeV. A 
+modXle on beVW pUacWiceV foU elecWUochemical chaUacWeUi]aWion enVXUeV VWXdenWV 
+gain pUoficienc\ in UepUodXcible e[peUimenWaWion. ThiV coXUVe iV ideal foU PG 
+VWXdenWV in chemiVWU\ and maWeUialV Vcience fieldV, emphaVi]ing boWh WheoU\ and 
+pUacWical applicaWionV. 
+ 
+7. Recommended RefeUenceV: 
+a. Te[WbookV: 
+i. "ElecWUochemical MeWhodV: FXndamenWalV and ApplicaWionV" b\ A.J. 
+BaUd and L.R. FaXlkneU. 
+ii. "ModeUn ElecWUochemiVWU\" b\ J.O'M. BockUiV and A.K.N. Redd\. 
+iii. "BioVenVoUV: FXndamenWalV and ApplicaWionV" b\ AnWhon\ P.F. 
+TXUneU. 
+iY. "FXel Cell FXndamenWalV" b\ R\an O'Ha\Ue eW al. 
+b. OWheUV impoUWanW liWeUaWXUe UepoUWV: 
+i. AnanWhaUaj HW. aO., HoZ Reliable AUe Whe OYeUpoWenWialV RepoUWed in 
+EneUg\ ConYeUVion ElecWUocaWal\ViV? CaWal. Sci. Technol., 2024, 14 
+(8), 2025-2039. 
+ii. AnanWhaUaj HW. aO., AmbigXiWieV and beVW pUacWiceV in Whe 
+deWeUminaWion of acWiYe ViWeV and Ueal VXUface aUea of monomeWallic 
+elecWUocaWal\Wic inWeUfaceV JoXUnal of Colloid and InWeUface Science, 
+2023, 634, 169-175. 
+iii. S. AnanWhaUaj* and S. Noda, The impoUWance of caUefXll\ chooVing 
+YeUWe[ poWenWialV in h\dUogen XndeUpoWenWial depoViWion MaWeUialV 
+Toda\ EneUg\, 2023, 32, 101234. 
+iY. AnanWhaUaj HW. aO., The RefeUence ElecWUode Dilemma in EneUg\ 
+ConYeUVion ElecWUocaWal\ViV: "RighW YV Oka\ YV WUong", JoXUnal of 
+MaWeUialV ChemiVWU\ A, 2023, 11, 17699-17709. 
+Y. S. AnanWhaUaj* and S. Noda, HoZ pUopeUl\ aUe Ze inWeUpUeWing Whe 
+Tafel lineV in eneUg\ conYeUVion elecWUocaWal\ViV? MaWeUialV Toda\ 
+EneUg\, 2022, 29, 101123. 
+Yi. S. AnanWhaUaj* and S. Noda, DoV and don¶WV in VcUeening ZaWeU 
+VpliWWing elecWUocaWal\VWV, EneUg\ AdYanceV 2022,1, 511-523. 
+Yii. S. AnanWhaUaj* and S. Noda, iR dUop coUUecWion in elecWUocaWal\ViV: 
+eYeU\Whing one needV Wo knoZ!, JoXUnal of MaWeUialV ChemiVWU\ A 
+2022, 10, 9348-9354. 
+Yiii. AnanWhaUaj HW. aO., Wh\ VhoXldn¶W doXble-la\eU capaciWance (Cdl) be 
+alZa\V WUXVWed Wo jXVWif\ FaUadaic elecWUocaWal\Wic acWiYiW\ diffeUenceV? 
+JoXUnal of ElecWUoanal\Wical ChemiVWU\ 2021, 903, 115842. 
+i[. AnanWhaUaj HW. aO., The Significance of PUopeUl\ RepoUWing TXUnoYeU 
+FUeqXenc\ in ElecWUocaWal\ViV ReVeaUch! AngeZandWe Chemie InW. 
+Ed., 2021, 60, 23051-23067.
+
+[Page 5]
+[. AnanWhaUaj eW al., AlWeUnaWing CXUUenW TechniqXeV foU a BeWWeU 
+UndeUVWanding of PhoWoelecWUocaWal\VWV, ACS CaWal\ViV 2021, 11, 20, 
+12763±12776. 
+[i. AnanWhaUaj HW. aO., The PiWfallV of UVing PoWenWiod\namic PolaUi]aWion 
+CXUYeV foU Tafel Anal\ViV in ElecWUocaWal\Wic WaWeU SpliWWing, ACS 
+EneUg\ LeWW., 2021, 6, 4, 16071-1611. 
+[ii. S. AnanWhaUaj,* and S. Noda, AppUopUiaWe UVe of ElecWUochemical 
+Impedance SpecWUoVcop\ in WaWeU SpliWWing ElecWUocaWal\ViV, 
+ChemElecWUoChem 2020, 7, 2297-2308. 
+[iii. S. AnanWhaUaj,* and S. KXndX*, Do Whe EYalXaWion PaUameWeUV 
+ReflecW InWUinVic AcWiYiW\ of ElecWUocaWal\VWV in ElecWUochemical WaWeU 
+SpliWWing?, ACS EneUg\ LeWWeUV 2019, 4, 6, 1260±1264. 
+[iY. AnanWhaUaj HW. aO., PUeciVion and coUUecWneVV in Whe eYalXaWion of 
+elecWUocaWal\Wic ZaWeU VpliWWing: UeYiViWing acWiYiW\ paUameWeUV ZiWh a 
+cUiWical aVVeVVmenW, EneUg\ and EnYiUonmenWal Science, 2018, 11, 
+744-771. 
+ 
+8. An\ oWheU UemaUkV: NLO 
+ 
+DaWed: 21-09-2024 
+PUopoVeU: 
+ 
+DaWed: 
+
+DPGC ConYeneU (CHM): 
+
+ThLV cRXUVe LV aSSURYed / QRW aSSURYed 
+
+ChaLUPaQ, SPGC 
+DaWed: 
+
+ 
+
+ 
+23.09.2024

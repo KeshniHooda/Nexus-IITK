@@ -1,0 +1,88 @@
+[PAGE 1]
+Indian Institute of Technology Kanpur
+
+Proposal for a New Course
+
+1.  Course No.: CE4xx
+
+2.  Course title.: Advanced topics in mechanics and analysis of skeletal structures
+
+3.  Per Week Lectures: 3 (L), 0 (T), 0 (P), 0 (A), Credits: 9
+
+4.  Duration of course: Full Semester
+
+5.  Proposing Department/IDP: Civil Engineering
+
+Other departments/IDP which may be interested in the proposed course: None
+
+Other faculty members interested in teaching the proposed course: Prof. Chinmoy Kolay
+
+6.  Proposing Instructor(s): Amar Nath Roy Chowdhury, and Suparno Mukhopadhyay
+
+7.  Course Description:
+
+A) Objectives: Skeletal structures such as trusses, frames, etc., are widely used in structural engineering
+applications such as buildings, bridges, long span roofs, reticulated shells etc. Design of these structural
+systems require advanced knowledge in structural mechanics, and matrix structural analysis covering
+material and geometric nonlinear behavior. This course aims to cover the necessary structural mechanics
+theories, and their implementation using matrix method for the analysis of skeletal structures.
+
+B) Contents (preferably in the form of 5 to 10 broad titles):
+
+No. of
+S.             Broad Title                                 Topics                            Lectures*
+No
+(50 min)
+•  Saint Venant’s theory for torsion of general uniform section
+1    Twisting of beams                                                                   5
+•  Torsion of thin-walled section, shear flow
+Bending of thin-walled   •  Shear stress due to bending
+2                                                                                     4
+beams                 •  Determination of shear centre
+Matrix method of linear                                •  Force method and displacement methods
+3     elastic structural                                                                     10-12
+•  Direct stiffness method for rods, beams, trusses and frames           analysis
+•  Principles of virtual force and displacement
+4     Virtual work principles   •  Application of virtual work to formulate element stiffness           5-6
+matrix for rods, beams, and frames
+• An introduction to geometric nonlinear analysis
+Geometric nonlinear     •  Nonlinear strain displacement relations for 1D elements
+5                                                                                              7-8
+elastic analysis          •  Derivation geometric nonlinear stiffness matrix
+•  Elastic critical load analysis
+• A brief review of metal plasticity, yield surface, flow rule
+Small deformation    6                           • A review of plastic analysis of beams                              5-6            inelastic analysis
+• A plastic hinge method for analysis of simple frames
+
+*Tentative number of lectures. Total number of lectures requested = 39.
+
+C)  Pre-requisites: ESO202, CE272 or equivalent.
+
+8.  Recommended books:
+
+• Advanced mechanics of materials, Arthur P. Boresi, Richard J. Schmidt, 6th Ed.
+
+• Plasticity for structural engineers, Wai Fah Chen, and Da Jian Han, 2nd Ed..
+
+• Nonlinear continuum mechanics for finite element analysis, Javier Bonet, and Richard D. Wood, 2nd Ed.
+
+• Matrix structural analysis, William Mc Guire, Richard H. Gallagher, Ronald D. Zieman, 2nd Ed.
+
+[PAGE 2]
+• Matrix analysis of structures, Aslam Kassimali, 3rd Ed.
+
+• Matrix analysis of framed structures, William Weaver, James M. Gere, 2nd Ed.
+
+• Structural analysis: a matrix approach, G S Pandit, S Gupta, 2nd Ed.
+
+9. Any other remarks: None
+
+Dated: 08/10/2025 Proposer: Amar Nath Roy Chowdhury and Suparno Mukhopadhyay
+
+Dated:_______________ DUGC/DPGC Convener:___________________
+
+The course is approved / not approved
+
+Chairman, SUGC/SPGC
+
+Dated:______________________________

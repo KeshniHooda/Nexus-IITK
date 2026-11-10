@@ -1,0 +1,913 @@
+[Page 1]
+Report of Core Curriculum Committee 
+Semester Second Year 2018 - 19 
+
+ 
+1. Guidelines for Drawing Instructors and Tutors from Various Departments 
+ 
+1.1 List of Core Courses and respective Departments handling them as per MA Committee when Instructors are drawn from Multiple Departments 
+ 
+Course No. & Title 
+Department 
+ 
+2018-2019 
+2019-2020 
+2020-2021 
+2021-2022 
+2022-2023 
+2023-2024 
+2024-2025 
+2025-2026 
+TA101(Engineering Graphics) 
+CE 
+CE 
+ME 
+ME 
+CE 
+CE 
+AE 
+AE 
+ESO201(Thermodynamics) 
+AE 
+AE 
+CHE 
+CHE 
+ME 
+ME 
+CHE 
+CHE 
+ESO202(Solid Mechanics) 
+ME 
+ME 
+CE 
+CE 
+AE 
+AE 
+CE 
+CE 
+ESO204(Fluid Mechanics) 
+CHE 
+CHE 
+AE 
+AE 
+CHE 
+CHE 
+ ME 
+ME 
+HSO201 (Applied Probability and 
+Statistics) 
+CE 
+ECO 
+ECO 
+CE 
+ECO 
+ECO 
+CE 
+ECO 
+HSS –I 
+HSS/ECO 
+HSS/ECO 
+HSS/ECO 
+HSS/ECO 
+HSS/ECO 
+HSS/ECO 
+ HSS/ECO 
+HSS/ECO 
+HSS-2 
+HSS/ECO 
+HSS/ECO 
+HSS/ECO 
+HSS/ECO 
+HSS/ECO 
+HSS/ECO 
+ HSS/ECO 
+HSS/ECO 
+ 
+1.2 List of Core Courses and respective Departments handling them as per MA Committee when Instructors are drawn from a Fixed Department 
+ 
+Department 
+Course(s) 
+BSBE 
+LIF101, ESO206 
+CHM 
+CHM101, CHM102, CHM102R, CSO202, CSO203A 
+CE 
+ESO208 
+CSE 
+ESC101, ESO207 
+EE 
+ESC201, ESO203 
+HSS 
+HSS-I, ENG112, HSS-II, COM200 
+ME 
+TA202, 
+MSE 
+TA201, 
+MTH 
+MTH101, MTH101R, MTH102, MSO201, 
+PHY 
+PHY101, PHY102, PHY103, PSO201
+
+[Page 2]
+1.3 List of Core Courses and Respective Departments that will provide Theory and Lab Tutors / Instructors 
+ 
+Course No. 
+Course Name 
+Departments that Provide Tutors / Lab Instructors 
+CHM101 
+Chemistry Lab 
+CHM 
+CHM102A 
+General Chemistry 
+CHM 
+MTH101 
+Mathematics-I 
+MTH 
+MTH101 
+Mathematics-II 
+MTH 
+PHY101 
+Physics Lab 
+PHY 
+PHY102 
+Physics-I 
+PHY 
+PHY103 
+Physics-II 
+PHY 
+ESC101 
+Intro to Computing 
+CSE 
+LIF101 
+Life Science 
+BSBE 
+TA101 
+Engineering Graphics 
+AE, CE, ME 
+ENG112 
+English Language 
+HSS 
+HSS-I(1) 
+Humanities-I 
+HSS 
+ESC201 
+Electronics 
+EE 
+TA201 
+Manufacturing Lab 
+MSE 
+TA202 
+Mechanical Lab 
+ME 
+COM200 
+Communication 
+CE, IME, HSS, ES 
+HSS-I(2) 
+Humanities-I 
+HSS 
+ESO201 
+Thermodynamics 
+AE, CHE, ME 
+ESO202 
+Mechanics of Solids 
+AE, CE, ME 
+ESO203 
+Intro Electrical Engg. 
+EE 
+ESO207 
+Data Structures 
+CSE 
+MSO201A 
+Probability And Statistics 
+MTH 
+PSO201A 
+Quantum Physics 
+PHY 
+HSO201A 
+Applied Probability And Statistics 
+CE 
+CSO202A 
+Atoms, Molecules And Photons 
+CHM 
+CSO203A 
+Inorganic Molecules, Materials & Medicine 
+CHM
+
+[Page 3]
+Note: Table constructed using data from previous years. 
+2. Estimate of Number of Students in Core Courses in Second Semester during the Year 2018-19 
+ 
+Course Group 
+Course No. 
+Course Name 
+Estimated Number of 
+New Students 
+No. of Students 
+Failed in 2017-18(II) 
+No. of 
+Students 
+Registered in 
+2017-18(II) 
+Final Estimate for 
+2018-19 – Sem. II 
+Second Semester 
+Courses 
+CHM101 
+CHM102 
+MTH102 
+PHY101 
+PHY102 
+PHY103 
+ESC101 
+LIF101 
+TA101 
+Chemistry Lab Gen. 
+Chemistry 
+Mathematics-II 
+Physics Lab Physics-I 
+Physics-II 
+Computing 
+Life Sciences 
+Engineering Graphics 
+450 
+900 
+900 
+450 
+450 
+450 
+450 
+450 
+450 
+02 
+14 
+61 
+01 
+36 
+70 
+15 
+13 
+02 
+422 
+827 
+794 
+410 
+428 
+445 
+435 
+411 
+410 
+452 
+914 
+961 
+450 
+486 
+520 
+465 
+463 
+450 
+Fourth Semester 
+Courses 
+ESC201 
+TA201 
+TA202 
+COM200 
+Electronics Manufacturing 
+Lab Mechanical Lab 
+Communication Skill 
+425 
+425 
+425 
+300 
+08 
+05 
+05 
+02 
+378 
+379 
+472 
+253 
+435 
+430 
+430 
+300 
+Engineering 
+Science options 
+ESO201 
+ESO202 
+ESO203 
+ESO207 
+Thermodynamics Mechanics 
+of Solids Intro Elect. 
+Engineering Data Structures 
+150 
+210 
+250 
+250 
+27 
+27 
+14 
+07 
+127 
+153 
+236 
+97 
+150 
+210 
+250 
+250 
+Science options 
+MSO201 
+PSO201 
+CSO202 
+CSO203 
+HSO201 
+Probability And Statistic 
+Quantum Physics 
+Atoms, Molecules&Photons 
+Inorganic Molecules, Materials & 
+Applied Probability And Statistics 
+350 
+150 
+125 
+150 
+150 
+31 
+23 
+38 
+- 
+03 
+346 
+133 
+ 160 
+- 
+185 
+350 
+150 
+ 125 
+150 
+150 
+Repeat 
+MTH101 
+Mathematics-I 
+75 
+14 
+86 
+125
+
+[Page 4]
+3. Teaching Support Requirement 
+ 
+Course No. 
+Course Name 
+Units 
+No. of Students 
+(Estimate) 
+Student per 
+Section(Appx) 
+Number of 
+Total Units 
+(Inst.+tut/lab) 
+Theory Tutors 
+Lab. Tutors 
+Instruction Units 
+CHM101A 
+Chemistry lab 
+0-0-3[3] 
+452 
+35 
+0 
+14 
+1 
+1+14=15 
+CHM102A 
+Gen. Chemistry 
+2-1-0[8] 
+914
+ 
+35 
+24 
+0 
+3 
+3+24=27 
+MTH102A 
+Mathematics-II 
+3-1-0[11] 
+961 
+100 
+9 
+ 
+4 
+9+4=13 
+PHY101A 
+Physics Lab 
+0-0-3[3] 
+450 
+35 
+ 
+14 
+1 
+1+14=14 
+PHY102A 
+Physics-I 
+3-1-0[11] 
+486 
+100 
+5 
+ 
+2 
+2+5=7 
+PHY103A 
+Physics-II 
+3-1-0[11] 
+520 
+100 
+5 
+ 
+2 
+2+5=7 
+ESC101A 
+Computing 
+3-1-3[14] 
+465
+ 
+35 
+14 
+14 
+2 
+2+14=18 
+LIF101A 
+Life Science 
+2-0-0[6] 
+463 
+35 
+
+1.5 
+1.5+0=1.5 
+TA101A 
+Engineering Graphics 
+2-0-3[9] 
+450 
+35 
+ 
+14 
+1.5 
+1.5+13=14.5 
+ESC201A 
+Electronics 
+3-1-3[14] 
+435 
+35 
+12
+ 
+12 
+2 
+2+12=14 
+TA201A 
+Manufacturing Lab 
+1-0-3[6] 
+430 
+90 
+ 
+5 
+1 
+1+5=6 
+TA202A 
+Mechanical Lab 
+1-0-3[6] 
+430 
+90 
+ 
+5 
+1 
+1+5=6 
+COM200 
+Communication Skill 
+1-0-2[5] 
+300 
+35 
+ 
+09 
+1 
+1+9=10 
+ESO201A 
+Thermodynamics 
+3-1-0[11] 
+150 
+35 
+4 
+ 
+1.5 
+1.5+4=5.5 
+ESO202A 
+Mechanics of Solids 
+3-1-0[11] 
+210 
+35 
+6 
+ 
+2 
+2+6=8 
+ESO203A 
+Intro Elect. Engineering 
+3-1-2[13] 
+250 
+35 
+7 
+7 
+2 
+2+7=9 
+ESO207A 
+Data Structure 
+3-0-0[09] 
+250 
+
+ 
+2 
+2+0=2 
+MSO201A 
+Probability and Statist 
+3-1-0[11] 
+350 
+100 
+4 
+ 
+2 
+2+4=6 
+PSO201A 
+Quantum Mechanics 
+2-1-0[8] 
+150 
+35 
+4 
+ 
+1.5 
+1.5+4=5.5
+
+[Page 5]
+CSO202A 
+Atoms, Molecules, Photons 
+3-1-0[11] 
+125 
+35 
+4 
+ 
+1.5 
+1.5+4=5.5 
+CSO203A 
+Inorganic Molecules, Materials 
+& Medicine 
+3-1-0[11] 
+150 
+35 
+5 
+ 
+1.5 
+5+1.5=6.5 
+HSO201A 
+Applied Prob. & Stat. 
+3-1-0[11] 
+150 
+100 
+2 
+ 
+1.5 
+1.5+2=3.5 
+MTH101R 
+Mathematics-I 
+3-1-0[11] 
+75 
+100 
+1 
+ 
+1.5 
+1.5+1=2.5 
+ 
+Note:​1. When a course has tutorials and lab, then the tutor is supposed to take care of both. 
+2. Instruction Units: 
+Only lab course: 1.0; Lecture Course (class size < 60): 1.0; 
+Lecture Course (60 _class size < 150): 1.5; Lecture Course (150 _class size < 600): 2.0 (3 lec/wk), 1.5 (2 lec/wk), 1.0 (1 lec/wk); Lecture 
+Course (600 _class size): 4.0 (3 lec/wk), 3.0 (2 lec/wk), 2.0 (1 lec/wk); Tutorials: 1.0 
+3. TA201 lab capacity is 90 and it is split into 3 sections. One instructor handles all the 3 sections simultaneously. In all other courses the section size may be increased by at most 5.
+
+[Page 6]
+4. Department/IDP-wise Breakup of Instructor’s and/or Tutors for Core Courses in Second Semester during the Year 2018-19: 
+ 
+Course No. 
+Course Name 
+Units 
+Reqd 
+AE 
+BSBE 
+CHE 
+CE 
+ 
+CSE 
+ 
+EE 
+ 
+IME 
+ 
+ME 
+MSE 
+CHM 
+ 
+MTH 
+ 
+PHY 
+HSS 
+ 
+ECO 
+ES 
+ 
+TOTAL 
+CHM 101 
+Chemistry Lab 
+13.0 
+
+ 
+ 
+1+14 
+
+ 
+1+14 
+CHM 102 
+Chemistry Lab 
+27.0 
+
+ 
+ 
+3+24 
+
+ 
+3+24 
+MTH 102 
+Mathematics-II 
+13.0 
+
+ 
+ 
+4+9 
+
+4+9 
+PHY101 
+Physics Lab 
+14.0 
+
+ 
+
+1+14 
+ 
+1+14 
+PHY102 
+Physics-I 
+7.0 
+
+ 
+
+2+5 
+ 
+2+5 
+PHY103 
+Physics -II 
+7.0 
+
+ 
+
+2+5 
+ 
+2+5 
+ESC101 
+Fund. Of Computing 
+18.0 
+2+16 
+
+ 
+
+ 
+2+16 
+LIF101 
+Life Sciences 
+1.5 
+1.5+0 
+
+ 
+
+ 
+ 
+1.5+0 
+TA101 
+Engineering Graphics 
+14.5 
+0+5 
+1.5+4 
+
+0+4 
+
+ 
+1.5+13 
+ESC201 
+Electronics 
+14.0 
+ 
+2+11 
+
+ 
+
+2+11 
+TA201 
+Manufact. Proc. (MSE) 
+6.0 
+
+ 
+ 
+1+5 
+
+ 
+1+5 
+TA202 
+Manufact. Proc. (ME) 
+6.0 
+
+ 
+1+5 
+
+ 
+1+5 
+COM200 
+Communication Skills 
+10.0 
+0+1 
+
+0+6 
+
+ 
+1+2 
+ 
+1+9 
+ESO201 
+Thermodynamics 
+5.5 
+1.5+0 
+0+1 
+
+ 
+0+3 
+
+ 
+1.5+4 
+ESO202 
+Mechanics of Solids 
+8.0 
+0+1 
+0+3 
+
+ 
+2+1 
+0+1 
+
+ 
+2+6 
+ESO203 
+Intro. Electrical Engg. 
+9.0 
+ 
+2+7 
+
+ 
+
+2+7 
+ESO207 
+Data Structures 
+2.0 
+2+0 
+
+ 
+
+ 
+2+0 
+MSO201 
+Probability & Statistics 
+6.0 
+0+1 
+ 
+0+2 
+
+2+1 
+
+2+4
+
+[Page 7]
+PSO201 
+Quantum Mechanics 
+5.5 
+
+ 
+ 
+0+2 
+ 
+1.5+2 
+ 
+1.5+4 
+CSO202 
+Atoms, Molecules, 
+Photons 
+5.5 
+0+3 
+
+ 
+ 
+1.5+1 
+
+1.5+4 
+CSO203 
+Inorganic Molecules, 
+Materials & Medicine 
+6.5 
+
+ 
+ 
+1.5+5 
+
+1.5+5 
+HSO201 
+Applied Prob. & Stat. 
+3.5 
+1+1 
+
+ 
+
+ 
+0+1 
+ 
+1.5+2 
+MTH101R 
+Mathematics-I 
+2.5 
+
+ 
+ 
+1.5+1 
+ 
+1.5+1 
+
+ 
+
+ 
+
+ 
+ 
+Total Load Assigned 
+ 
+7.5 
+2.5 
+4.0 
+11.5 
+20 
+24 
+6 
+16 
+9 
+51.0 
+18.5 
+31.5 
+5.5 
+1 
+0 
+208.0 
+Approximate Faculty Strength 
+ 
+27 
+14 
+20 
+35 
+32 
+42 
+14 
+37 
+24 
+28 
+39 
+37 
+25 
+0 
+8 
+ 
+Ratio of Load Assigned : Faculty 
+ 
+0.28 
+0.18 
+0.20 
+0.3 
+0.625 0.57 
+0.43 
+0.43 
+0.375 1.82 
+0.47 
+0.85 
+0.22 
+0.13 
+0.13 
+
+Units are assigned as ‘m + n’, where ‘m’ indicate instructor units and ‘n’ indicates tutor units. 
+ 
+Chairman, Core Curriculum Committee

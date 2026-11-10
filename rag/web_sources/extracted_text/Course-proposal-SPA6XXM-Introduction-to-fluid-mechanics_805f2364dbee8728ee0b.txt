@@ -1,0 +1,39 @@
+[Page 1]
+Proposal for a new modular course
+1. Modular Course No: SPA 6xx
+2. Modular Course Name: Introduction to fluid mechanics in space
+3. Class strategy: Lectures per week: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional hours: (0-2): 0 
+(A), Duration of Course: half semester, Module credit: 5 (3-0-0-0)
+4. Proposing department: SPASE
+5. Proposing Instructor: Kartick Sarkar, Ishan Sharma
+6. Course Description:
+ A. Objective: Fluid mechanics is used to describe the flows in a range of systems, starting from plane-
+tary atmosphere and the interior of stars to the flow of matter in the largest scale of the universe. This 
+course intends to teach basics of the fluid mechanics and its applications to different astrophysical/geo-
+physical systems.
+ B. Content: 
+ i. Basics of Fluids (3-4 L): Fluid equations (in a rotating frame), concepts of Maxwell-Boltzmann 
+distribution, equations of state in gas and radiation, concepts of viscosity and conduction 
+ ii. Fluid properties (2-3L): Steady flow, vorticity (in planetary atmosphere), Reynolds number, 
+Rossby number, hydrostatic equilibrium (planetary atmosphere, stellar atmosphere, adiabatic lapse rate), 
+sound waves
+ iii. Applications to geophysical system (4L): Solar heating; global wind patterns: jet streams, Hadley 
+circulation; shallow water approximation; geostrophic balance; Thermal wind; Taylor-Proudman theo-
+rem; sub- & super-geostrophic balance; cyclostrophic balance; potential vorticity; planetary waves
+ iv. MHD (3L): MHD equations and simple applications (flux freezing etc, magnetic pressure, alfven 
+velocity)
+ v. Applications to astrophysical systems (4L): Supersonic flow (nozzle flow), stellar wind, parker’s 
+spiral, accretion disk
+ vi. Instabilities (3L): Rayleigh-Taylor (example in a supernova remnants), Kelvin-Helmholz, convec-
+tion (examples in stellar interior and planetary mantles), Jeans instability (example in star formation)
+ vii. If time permits: shocks and geo-dynamo
+ 
+ C. Prerequisites: None
+ D. Short summary for including in the course study booklet: Basics of fluid mechanics, Magneto-
+hydrodynamics, applications to astrophysical and geophysical systems.
+7. Books and references:
+1. The Physics of Fluids and Plasmas: Arnab Rai Choudhuri
+2.
+Atmospheric and Oceanic fluid dynamics: G. K. Vallis
+3.
+Geophysical Fluid Dynamics: J. Pedlosky

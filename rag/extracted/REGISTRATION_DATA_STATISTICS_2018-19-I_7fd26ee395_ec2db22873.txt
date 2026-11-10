@@ -1,0 +1,92 @@
+[PAGE 1]
+REGISTRATION DATA STATISTICS FOR 2018-19/FIRST
+
+TOTAL NUMBER OF COURSES BEING OFFERED                                    469
+
+EXCLUDE THE THESIS COURSE, SEMINAR, PROJECT, BTP, SUMMER TRAINING,
+424 PRESENTATION
+
+MAXIMUM CLASS SIZE (MTH101A)                                                904
+
+MINIMUM CLASS SIZE (AT PRESENT THERE ARE 424 COURSES)                      1
+
+AVERAGE CLASS SIZE (OF ALL 424 COURSES)                                          57.82
+
+NUMBER OF COURSES WITH 5 STUDENTS OR LESS                                 33
+
+NUMBER OF COURSES WITH 100 STUDENTS OR MORE                              56
+
+AVERAGE CLASS SIZE OF COURSES THAT HAVE >5 AND LESS THAN 100 STUDENTS     35.19
+
+THE FOLLWING IS THE NUMBER OF COURSES WITH VARIOUS CLASS STRENGTHS
+
+No. of        No. of
+Student       Course
+1            4
+2            7
+3            7
+4            4
+5           11
+6-10          39
+11-15          50
+16-20          48
+21-25          29
+26-30          14
+31-50          71
+51-75          53
+76-100         31
+>100          56
+Total         424
+
+Page 1 of 2
+
+[PAGE 2]
+2018-19 FIRST SEMESTER
+LIST OF COURSES IN WHICH <=5 STUDENTS REGISTERED
+
+Course                                                                    No. of
+Sl. No.            Instructor                   Title
+No                                                                        Students
+1.  ECO311A  MOHAMMAD A RAHMAN     ECONOMETRIC METHODS                         1
+2.  ENG709A  ACHLA MISRI  RAINA         LINGUISTIC ANALYSIS                             1
+3.  MTH516A  SUBHAJIT DUTTA           NON-PARAMETRIC INFERENCE                      1
+4.  PSY454A   DEVPRIYA KUMAR           SOCIAL PSYCHOLOGY                             1
+5.  ART701A   SHATARUPA THAKURTA ROY  METHODOLOGY: ART CRITICISM & APPRECIATION      2
+6.  ART706A   SATYAKI ROY                VISUAL ETHNOGRAPHY                                                                                         2
+7.  ECO737A   SARANI SAHA             ADVANCES IN MICROECONOMIC THEORY             2
+8.  ECO750A  WASIM AHMAD           ADVANCED MACROECONOMICS                    2
+9.  EE480A    YATINDRA NATH SINGH       ELECTRICAL ENGINEERING LAB I                     2
+10. ENG716A  ACHLA MISRI  RAINA         INDIVIDUAL PROJECTS                            2
+11. PHY205A  MANAS KHAN            FUNDAMENTAL OF SOFT MATTER                   2
+12. CS797A    SUMIT GANGULY             SPECIAL TOPICS IN COMPUTER SCIENCE              3
+13. ENG742A  SUCHITRA MATHUR          RESPONSBILE DISSENT                            3
+POWER SECTOR REFORM & REGULATION: THEORY
+14. MBA683A  ANOOP SINGH
+AND PRACTICE                                  3
+15. MTH656A  PROSENJIT ROY            SOBOLEV SPACES AND APPLICATIONS                                                                                         3
+16. MTH663A  T MUTHUKUMAR            ANALYTICAL TECHNIQUES FOR PDE                  3
+17. MTH755A  AMIT MITRA                 STATISTICAL INFERENCE                           3
+18. PSY771A   KUMAR RAVI PRIYA        GROUNDED THEORY METHODOLOGY                3
+19. AE778A    ASHISH TIWARI            NONLINEAR AND ADAPTIVE CONTROL                4
+INTRODUCTION TO CONSTRUCTIVE TYPES THEORY
+20. CS698J     ANIL SETH
+AND ITS APPLICATIONS                            4
+21. ECO732A  MOHAMMAD A RAHMAN     ECONOMETRICS                                 4
+22. MTH754A  SUPRIO BHAR               PROBABILITY THEORY                             4
+23. AE605A    T K SENGUPTA            ADVANCED COMPUTATIONAL FLUID MECHANICS       5
+24. AE777A    ASHISH TIWARI            OPTIMAL SPACE FLIGHT CONTROL                   5
+25. CHM102A  RAJA ANGAMUTHU         GENERAL CHEMISTRY                             5
+26. CHM600A  DEBABRATA GOSWAMI      MATHEMATICS FOR CHEMISTRY                    5
+27. CHM626A  MADHAV V RANGANATHAN   SOLID STATE CHEMISTRY                          5
+METHODOLOGY OF TEACHING AND RESEARCH IN
+28. ENG715A  G NEELAKANTAN
+LITERATURE                                    5
+29. ENG735A  SAYAN CHATTOPADHYAY    COMMONWEALTH LITERATURE                     5
+INTRODUCTION TO LIE ALGEBRAS AND
+30. MTH641A  AJAY SINGH RAMDIN THAKUR
+REPRESENTATION THEORY                         5
+31. MTH712A  SUDHANSHU SHEKHAR      A FIRST COURSE IN ALGEBRAIC NUMBER THEORY       5
+32. PSY776A   BRAJ BHUSHAN            SEMINAR COURSE IN PSYCHOLOGY                  5
+33. SOC721A   BINAY KUMAR PATTNAIK     SOCIOLOGICAL THEORY                           5
+
+Page 2 of 2

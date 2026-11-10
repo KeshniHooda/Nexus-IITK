@@ -1,0 +1,141 @@
+[Page 1]
+Indian Institute of Technology Kanpur 
+Proposal for a New Course 
+1. Course No: CHE 6XX 
+2. Course Title: Mathematics for Machine Learning 
+3. Per Week Lectures: 3 (L), Tutorial: 0 (T), Laboratory: 0 (P), Additional Hours[0-2]: 0 (A), 
+Credits (3-0-0-0) 
+
+ 
+
+Duration of Course: Full semester 
+ 
+4. Proposing Department: Department of Chemical Engineering 
+ 
+Other Departments/IDPs which may be interested in the proposed course: ME, AE, MSE 
+ 
+Other faculty members interested in teaching the proposed course: Sanjeev Garg, H. H. Katkar, 
+Salman Khan 
+5. Proposing Instructor(s): Indranil Saha Dalal 
+ 
+6. Course Description: 
+A) Objectives: The aim of this course is to introduce students to mathematical methods 
+required for Machine learning applications. This is primarily intended for PG students and 
+can serve as a preparation course towards a Machine learning/Deep learning elective. Most 
+topics would be supplemented by computer-based exercises as well. This can also serve as 
+an introductory Machine learning course. 
+ 
+B) Contents (preferably in the form of 5 to 10 broad titles): 
+Lecture-wise break-up (considering the duration of each lecture is 50 minutes) 
+S. 
+No. 
+Broad Title 
+Topics 
+No. of 
+Lectures 
+1. 
+Linear algebra 
+Systems of linear equations, vector spaces, 
+linear independence, basis, rank, norms, 
+orthogonality 
+3 
+2. 
+Matrix decompositions 
+Determinant, trace, Eigenvalues and 
+Eigenvectors and their determination, 
+Cholesky decomposition, singular value 
+decomposition 
+5 
+3. 
+Vector calculus 
+Partial differentiation, gradients, useful 
+identities, backpropagation and automatic 
+differentiation, higher order derivatives, 
+linearization 
+4 
+4. 
+Probability and distributions 
+Discrete and continuous probability, sum 
+rule, product rule, Bayes’ theorem, Gaussian 
+distribution, exponential family, change of 
+variables/inverse transform 
+6 
+5. 
+Introduction to 
+Optimization 
+Gradient descent, constrained optimization, 
+convex optimization 
+3 
+6. Models and data 
+Data, models, learning, parameter estimation, 
+probabilistic modelling and inference 
+2 
+7. 
+Linear regression 
+Problem formulation, parameter estimation, 
+Bayesian linear regression, maximum 
+likelihood 
+4
+
+[Page 2]
+8. 
+Dimensionality reduction 
+with Principal component 
+analysis 
+Maximum variance perspective, projection 
+perspective, eigenvector computations, low-
+rank approximation, PCA in high dimensions 
+4 
+9. 
+Density estimation with 
+Gaussian mixture models 
+Gaussian mixture model, parameter learning 
+via maximum likelihood, EM algorithm 
+4 
+10. Classification with support 
+vector machines 
+Separating hyperplanes, support vector 
+machine, kernel 
+5 
+
+ 
+
+ 
+
+ 
+C) Recommended pre-requisites, if any: None 
+ 
+D) Short summary for including in the Courses of Study Booklet: 
+Linear algebra, matrix decomposition, probability, optimization, regression, principal 
+component analysis, Gaussian mixture models, Support vector machines 
+
+7. Recommended text/reference books: 
+1. 
+Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong, Mathematics for Machine Learning, 
+Cambridge University Press (2020). 
+2. 
+Gilbert Strang, Linear Algebra and Learning from Data, Wellesley-Cambridge Press (2019). 
+ 
+8. Any other remarks: Home assignments and quiz/exams may also consist of computer-based 
+exercises (preferably with Python/Matlab). 
+
+ 
+Dated: 12/7/2024 
+
+ 
+Proposer: Indranil Saha Dalal 
+
+Dated: 
+
+ 
+
+ 
+DPGC Convener: 
+
+The course is approved / not approved 
+
+ 
+
+Chairman, SUGC 
+
+Dated: 27/09/2022

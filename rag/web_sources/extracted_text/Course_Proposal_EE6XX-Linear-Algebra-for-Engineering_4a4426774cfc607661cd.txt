@@ -1,0 +1,103 @@
+[Page 1]
+Proposal for Course Update 
+Department of Electrical Engineering 
+IIT Kanpur 
+ 
+1. Course Number: EE605 
+2. Title: Linear Algebra for Engineering 
+3. Proposing Department: EE 
+4. Other Departments: AE, IS 
+5. Proposer: Ketan Rajawat (EE) 
+6. Other interested faculty: Abhishek Gupta, Tushar Sandhan, Aditya Jagannatham, Rohit 
+Budhiraja, Ajit K. Chaturvedi, and other faculty from SPCOM stream in EE. 
+7. Units: [9] (3-0-0-0) 
+8. Duration of the course: full semester 
+9. Pre-requisites: N/A 
+10. Course description 
+a. Objectives: This is an introductory linear algebra course meant primarily for first 
+year PG students in MTech, MS, and PhD programs in EE, but can also be taken 
+by students of other departments. The course seeks to introduce the 
+fundamental concepts in applied linear algebra, primarily from an applied 
+perspective. The course is designed to serve as a foundation for advanced 
+courses in the areas of signal processing, communications, machine learning, 
+autonomous systems, and numerical methods. 
+b. Contents: 
+Sr. 
+No. 
+Broad Title 
+Topics 
+No. of Hours 
+1. 
+
+ 
+Introduction and 
+Preliminaries 
+ 
+1. Vectors and vector operations 
+2. Inner Product 
+3. Norms 
+4. Vector Spaces 
+6
+
+[Page 2]
+5. Matrices 
+6. Transpose 
+7. Block Matrices 
+2 
+Linear Systems 
+1. Systems of Linear Equations 
+2. Inverse, Least Squares 
+2 
+3. 
+Decompositions 
+1. LU Decomposition 
+2. QR Decomposition 
+3 
+4. 
+SVD 
+1. SVD Overview 
+2. Null space, column space 
+3. Rank-r approximation 
+8 
+5. 
+Systems of Equations 
+1. Projection 
+2. Linear independence 
+3. Span, Basis 
+4. Solving Ax=b 
+8 
+6. 
+Determinants 
+1. Linear Transformation 
+2. Permutations & Cofactors 
+3. Determinants 
+6 
+7. 
+Eigenvalue 
+Decomposition 
+1. Eigenvalues and Eigenvectors 
+2. Diagonalization 
+3. Markov Matrices 
+4. Positive Definite Matrices 
+5. Complex Matrices 
+6 
+11. Short summary for the course booklet: This course covers topics including vectors, 
+matrices, decompositions (LU, QR, SVD), vector spaces, linear transformations, 
+eigenvalues, and matrix calculus. 
+12. References: 
+1. Strang, Gilbert. Linear algebra for everyone. Wellesley, MA, USA: Wellesley-
+Cambridge Press, 2020. 
+2. Boyd, Stephen, and Lieven Vandenberghe. Introduction to applied linear algebra: 
+vectors, matrices, and least squares. Cambridge university press, 2018. 
+3. Sheldon Axler, “Linear algebra done right” Springer Nature, 2024 
+ 
+Other Comments: This is a compulsory course for first year MTech students in the SPCOM 
+stream of EE 
+
+Convener, DPGC 
+
+ 
+
+ 
+ 
+Chairperson, SPGC
